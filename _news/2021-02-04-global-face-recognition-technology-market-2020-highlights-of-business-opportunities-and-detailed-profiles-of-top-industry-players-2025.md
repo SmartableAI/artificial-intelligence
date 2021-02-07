@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,43 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market Insights By Growth, Research Methodology, Emerging Trends and Forecast 2027"
+    excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
+    publishedDateTime: 2021-02-03T14:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Worldwide Deep Learning Market Outlook to 2025: Emerging Trends and Will Generate New Growth Opportunities Status"
+    excerpt: "Global “Deep Learning Market” is segmented by region, players, by Type, and by Application. Players, stakeholders,"
+    publishedDateTime: 2021-02-04T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/worldwide-deep-learning-market-outlook-to-2025-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Service Robotics Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
+    publishedDateTime: 2021-02-05T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
   - title: "Image Recognition Market Insights By Revenue, Upcoming Trends And Worldwide Players Foresights Till 2026 | Fortune Business Insights"
     excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
     publishedDateTime: 2021-02-05T13:03:00Z
@@ -42,20 +79,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "ISRI’s 2021 Advocacy Agenda Highlights Industry Opportunities for Growth and Recognition"
-    excerpt: "The importance of recycling has never been greater. Recognizing the essential role of the industry and its immeasurable benefits, the Institute of Scrap Recycling Industries’ (ISRI) 2021 Advocacy Agenda highlights ISRI’s proactive engagement on new challenges and opportunities at the local,"
-    publishedDateTime: 2021-02-04T16:36:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-legislature-environment-and-nature-waste-management-services-government-and-politics-c2bc9dc1ccbecd171c6b23193c0c4fca"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "B+I2aveVmGwMfQht/6NgJzm/MYHBu2B/gFeaJN0gm7mdrQXl5893RZ8ONVYnDwxnLGbFgNHPMLTWP+wip1HHSgrfu5bUTjbQQ5BJWTp4Jz+1JabpVeJ8XoKtNRQFnuxncB5fncbs8K4ReVQiFyoPTYIU+aprfGsqFy86ndntVFFoGhUHJ3/gniwXoyEIbspmhkUxd9eFg6ZYow6+9OCVADFBSYmCldlzOMn8BOtrAnp/8p/mTi5FqEYlDSpFOUAXB5NKfbtulnNxrbI7sfT9joez8BPrfw+6f+PZDPxoUKW4Hu6xOQCeIx1znoywLAiiLRqnFmnrnoA16RcgfJnE6s9wDcpOX8hlE+g2qukwb1o=;vBHuBkEb8YbGY62F3bEiAA=="

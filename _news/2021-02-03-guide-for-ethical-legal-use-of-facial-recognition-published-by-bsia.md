@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202102/guide-for-ethical-legal-use
 webUrl: "https://www.biometricupdate.com/202102/guide-for-ethical-legal-use-of-facial-recognition-published-by-bsia"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Biometric Companies
@@ -26,21 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Utah Bill Looks to Tighten Grip on Facial Recognition Use"
-    excerpt: "The proposal out of the Senate is the latest in a string of efforts to limit the use of the technology in Utah. Allegation of misuse first surfaced in 2019, kicking off a long-running conversation about guardrails."
-    publishedDateTime: 2021-02-02T19:53:00Z
-    webUrl: "https://www.govtech.com/policy/Utah-Bill-Looks-to-Tighten-Grip-on-Facial-Recognition-Use.html"
-    ampWebUrl: "https://www.govtech.com/policy/Utah-Bill-Looks-to-Tighten-Grip-on-Facial-Recognition-Use.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Utah-Bill-Looks-to-Tighten-Grip-on-Facial-Recognition-Use.html?AMP"
+  - title: "5 B.C. police officers used 'illegal' facial recognition tech slammed by privacy commissioners"
+    excerpt: "The privacy commissioner of British Columbia has revealed five individual police officers in the province used a controversial facial recognition service that 'illegally' harvested billions of social media images."
+    publishedDateTime: 2021-02-03T17:49:00Z
+    webUrl: "https://bc.ctvnews.ca/5-b-c-police-officers-used-illegal-facial-recognition-tech-slammed-by-privacy-commissioners-1.5294049"
+    ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049.html"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 47
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_631751717.jpg"
-        width: 949
-        height: 630
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2021/2/3/2132304/_jcr_content/renditions/videothumbnail.1612384764775.jpg"
+        width: 1020
+        height: 574
+        isCached: true
+  - title: "5 B.C. police officers who used 'illegal' facial recognition tech slammed by privacy commissioners"
+    excerpt: "The privacy commissioner of British Columbia has revealed five individual police officers in the province used a controversial facial recognition service that 'illegally' harvested billions of social media images."
+    publishedDateTime: 2021-02-03T17:49:00Z
+    webUrl: "https://bc.ctvnews.ca/5-b-c-police-officers-who-used-illegal-facial-recognition-tech-slammed-by-privacy-commissioners-1.5294049"
+    ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 45
+    images:
+      - url: "https://beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
         isCached: true
 
 secured: "VmIeK1dbAB69zMgw1RQTIXAiagCAcqotsELE8O1CGKgS3z4AdXKrHvufBQLr6q37MwJ6MtXEup93BDTruKq3vDvwTgmTsNlMeMMFfviuOYKR3OErnAI4+aPh0BImeNxjeiSEWqf+v90g9d2UlCeBVZcfCXqHDoQ6xCpYmCOkiXPvAif5b7UZrZs573ggxC+aEjgPXUEqEDBvcWGvwg44TOXf061EM8WUv80+94mQNuGyKDMLUt/cxuUJy+SqS6NtOLpOGvCNbnBIYrj58lexoZ2JFJu0Y5LNwPYdjPbbIupKjWVMeLmeMJshMKk3+cAkGYPRTzCmLQCPjlcZTAULFgrvUO+TRA1rsCmrbGLWDXMGtf+tviq4JKGAQDZ4L0XfazNO+zKTAAd/mM+TKqbFenvsaVVrJPVpUgHEk+Cp8PUN3CLTwizt8GUylIqzkL7wuvTcR9S2eqQbHEIk192Hupy5yF9ooZFiH37LDAJ6n94PUcsSfcGQUsGupfoMvcy0UnWcY84LhxuDxKwvgVw88A==;sKvlTM5qjlEGEy3zy2UMVA=="

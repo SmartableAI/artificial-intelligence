@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Normal People Deployed Facial Recognition on Capitol Hill Protesters"
-    excerpt: "Facial recognition is now freely accessible to random people on Twitter using a Polish website called Pimeyes."
-    publishedDateTime: 2021-02-02T17:21:00Z
-    webUrl: "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters"
-    ampWebUrl: "https://www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters"
+  - title: "Moscow’s facial recognition cameras are identifying Navalny supporters: activists"
+    excerpt: "Authorities have said that the police’s heavy-handed response to the demonstrations, which saw thousands of arrests across the country, was justified because the protests were illegal and unauthorised."
+    publishedDateTime: 2021-02-04T14:15:00Z
+    webUrl: "https://www.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying"
+    ampWebUrl: "https://amp.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying"
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 88
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 84
     images:
-      - url: "https://video-images.vice.com/articles/601989938019b80095f88ce7/lede/1612286477494-gettyimages-1230453278.jpeg?crop=1xw:0.8429xh;0xw,0.1571xh"
-        width: 5128
-        height: 2881
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/04/6b9142c6-66ec-11eb-bc00-908c10a5850a_image_hires_214543.jpg?itok=9B_TQYjx&v=1612446354"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fears raised over facial recognition use at Moscow protests"
     excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
@@ -52,91 +52,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again"
-    excerpt: "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends."
-    publishedDateTime: 2021-02-04T19:11:00Z
-    webUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 65
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
-        width: 810
-        height: 405
-        isCached: true
-  - title: "Using Facial Recognition to Find Capitol Rioters Brings Risks"
-    excerpt: "In the aftermath of a riot that included white supremacist factions attempting to overthrow the results of the presidential election, communities of color are warning about the potential danger of the software."
-    publishedDateTime: 2021-02-05T23:39:00Z
-    webUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html"
-    ampWebUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/BIZ-CPT-CAPITOL-RIOTS-FACIALRECOGNITION-ABA.jpg"
-        width: 941
-        height: 626
-        isCached: true
-  - title: "Facial recognition may help find Capitol rioters — but it could harm many others, experts say"
-    excerpt: "Normalizing surveillance tactics that have been used disproportionately on Black and brown communities may have big consequences, activists and academics warn"
-    publishedDateTime: 2021-02-04T13:59:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-02-04/facial-recognition-surveillance-capitol-riot-black-and-brown-communities"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-02-04/facial-recognition-surveillance-capitol-riot-black-and-brown-communities?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-02-04/facial-recognition-surveillance-capitol-riot-black-and-brown-communities?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 48
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/16ad7b4/2147483647/strip/true/crop/1024x669+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2Fe9%2Fb49d37bc9d1a889df0419cdeda89%2Fla-fi-tn-facebook-mobile-20160128-001"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Apple creates workaround to facial recognition blocked by face mask"
-    excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-    publishedDateTime: 2021-02-03T18:13:00Z
-    webUrl: "https://www.wpxi.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 39
-    images:
-      - url: "https://www.wpxi.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Facial Recognition Can Find Rioters, but May Harm Others"
-    excerpt: "The AI-driven technology has been helping officials identify those who stormed the Capitol on Jan. 6, but it also has been found to have racial biases. Officials must balance the potential benefits with the risks."
-    publishedDateTime: 2021-02-05T21:44:00Z
-    webUrl: "https://www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html"
-    ampWebUrl: "https://www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Law enforcement turns to facial recognition to find Capitol rioters"
-    excerpt: "Researchers such as the cybersecurity expert John Scott-Railton said they deployed facial recognition software to detect trespassers, including a retired Air Force lieutenant alleged to have been spotted on the Senate floor during the riot."
-    publishedDateTime: 2021-02-05T21:11:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21209114/law-enforcement-turns-to-facial-recognition-to-find-capitol-rioters"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/BIZ_CPT_CAPITOL_RIOTS_FACIALRECOGNITION_ABA.601db418ce1b8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 798
-        isCached: true
 
 secured: "eG7txCTZGyp+xoa5oyqSnfQmTskAMzL8ihg6tlCNrZEH/YI4Iljyc2L/cozrYaMqNYcQ1LE8eu82AQ3ECogPdvMKeHPUONChtfNRxbL1KC+y9MGK5g1WEBJLdxshJQIU2i2fwcu6DbULwDGRFAqtcckVsRrZgOeSzRDJ7fnwRVKE3zX/nc4BmZGgFmSBnTdshoTuRokIp+pNxB2puwoQAgjBU5lyLZl9d/mfPPV3Cu7zdszrNGzmENG9OSG+mrl08/+gw1qdldzPQmATEqga5poIaEsslakqPYPDACJ/Iz9xHeo1oCeFjofF2Fr1GfNiz0lHc6704NmPcVPOw/7wO+trV6u59V/xvt10FfKiGfhlJOJGEeGjU8iXeyKBP+QLlRbcyQBfE/rf1n+t0RPwB1KLpM37RGyh3semX0YfO4HJAkKz94+3/z0zHSr+9rzeCxNJVNTNj2yXuOML0QsVxlUW8CKvY2tyC4a3J9l8i2rN7HHRSfyKHIgXXv6gDP7hIiNKhHGGSRUp24K+pE3HTw==;7+GozTR/F8J8E09yPEs3Mw=="
 ---

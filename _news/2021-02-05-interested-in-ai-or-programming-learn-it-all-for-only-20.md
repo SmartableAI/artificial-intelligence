@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/interested-in-ai-or-programmin
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/interested-in-ai-or-programming-learn-it-all-for-only-20/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "IISc Launches New Online MTech Programme in Artificial Intelligence for Organisations"
+    excerpt: "IISc is looking to tie-up with organisations for online MTech programme in the areas of artificial intelligence for which professionals can apply"
+    publishedDateTime: 2021-02-07T09:45:00Z
+    webUrl: "https://www.dqindia.com/iisc-launches-new-online-mtech-programme-artificial-intelligence-organisations/"
+    ampWebUrl: "https://www.dqindia.com/iisc-launches-new-online-mtech-programme-artificial-intelligence-organisations/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iisc-launches-new-online-mtech-programme-artificial-intelligence-organisations/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 50
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "cNqCLnRvuXb39iok61PZd5Qcd/KQl8s5rd/w8B64T3BKkoMz9JG9FNJrmW9yYK6y6mFgWkEEH0y9sc9kpfTUWIprG/mLjpvYVwiSnf4szOHpKblgt9KvTaha7sgkvW2/noZwZ/nD7cSuZ+cwKXt1sdegGST7/z5IiLK+rKvIB4gA5lPDzoqkFx9lHCIOfxXGNV4X8c9j91avkOY1GZqX9xtCRtwcVPzG5rewE1eQBZUSggbhCS3PTIkzqLKv5NKnLZihX858WK+u3FEA/vsbIvqQmrorG0rFAhafY2gS61jqIJXnGEQb7g8cUXeRMJwdQ8vmlELAjfF78EWCj0LwDB2CITNusItEcxvUXc+t+YI63SB1kZD8vrZeq3P8gcLGuylFSR4C3MartdaTuf8mJm24Ltw4nzhvWN/ifTWdgzb74r311gqiu9uG4bb7sdt+QshAC/zi0eY5LEwmPpzcOZC28Xp9qcml7TSmQ8oiAp7JUgUHRtLGkmJGh4AQ9wno1v9pqatySxDTJAe2a1DFDg==;HTS5R1Vk7NIRGahtvwzWiA=="
 ---

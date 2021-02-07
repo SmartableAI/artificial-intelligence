@@ -2,6 +2,101 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-12-10-national-digest-gm-green-lights-test-of-driverless-cars-as-taxis.md",
+      "title": "National Digest: GM green lights test of driverless cars as taxis",
+      "excerpt": "The move, announced Wednesday by GM-owned Cruise, comes two months after the company received California’s permission to have fully driverless cars in the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7PC5RB2M4I6XGGEEXOJ6SMH5A.jpg&w=1440",
+          "width": 1440,
+          "height": 945,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-09T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias.md",
+      "title": "Columbia researchers find white men are the worst at reducing AI bias",
+      "excerpt": "Columbia researchers find evidence that differences in gender among engineers plays a role in introducing bias into AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/",
+      "originalUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/",
+      "publishedDateTime": "2020-12-09T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision.md",
       "title": "AI is not yet perfect, but it's on the rise and getting better with computer vision",
       "excerpt": "It can beat anyone at chess but can't recognize fountains. One professor talks about the promise of AI and computer vision.",
@@ -1095,109 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker.md",
-      "title": "Adobe launches AI tools to track omnichannel, spot anomalies quicker",
-      "excerpt": "The goal of the AI tools is to combine data from repositories as wide ranging as point-of-sale to website and apps to call center and loyalty programs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
-      "originalUrl": "https://www.zdnet.com/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/08/24c56ea5-52a7-49da-8d14-642dda076668/adobe-call-center.png",
-          "width": 3176,
-          "height": 1996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
-      "publishedDateTime": "2020-12-09T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-ionqs-roadmap-quantum-machine-learning-by-2023-broad-quantum-advantage-by-2025.md",
-      "title": "IonQ’s roadmap: Quantum machine learning by 2023, broad quantum advantage by 2025",
-      "excerpt": "IonQ's roadmap for trapped ion quantum computers: rack-mounted modular quantum computers by 2023 and broad quantum advantage by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
-      "originalUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/ionq-roadmap-graphic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
-      "publishedDateTime": "2020-12-09T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

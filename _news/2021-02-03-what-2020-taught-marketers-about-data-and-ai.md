@@ -46,38 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Can Be The Key To Loyalty And Retention For Retail In 2021"
-    excerpt: "How Artificial Intelligence Can Be the Key to Loyalty and Retention in 2021 Leveraging emerging technologies can help retailers make sense of data As the dust settles on the disruption that was 2020,"
-    publishedDateTime: 2021-02-02T17:36:00Z
-    webUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198c7fc5ca2949770a813f%2F0x0.jpg"
-        width: 1200
-        height: 697
-        isCached: true
-  - title: "How Artificial Intelligence Can Be The Key To Loyalty And Retention In 2021"
-    excerpt: "How Artificial Intelligence Can Be the Key to Loyalty and Retention in 2021 Leveraging emerging technologies can help retailers make sense of data As the dust settles on the disruption that was 2020,"
-    publishedDateTime: 2021-02-02T17:36:00Z
-    webUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198c7fc5ca2949770a813f%2F0x0.jpg"
-        width: 1200
-        height: 697
-        isCached: true
   - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
     excerpt: "However, in time, AI has made its way closer to the user - into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
     publishedDateTime: 2021-02-03T08:52:00Z

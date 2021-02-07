@@ -7,7 +7,7 @@ originalUrl: "https://www.wboc.com/story/43294443/text-to-speech-market-worth-50
 webUrl: "https://www.wboc.com/story/43294443/text-to-speech-market-worth-50-billion-by-2026"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,50 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market will obtain $53.0 billion by 2025"
-    excerpt: "According to a new market research report Image Recognition Market by Technology Digital Image Processing Facial Recognition Pattern Recognition Component Hardware Software and Services Deployment Mode On premises Cloud Application Vertical and Region Global Forecast to 2025 published by"
-    publishedDateTime: 2021-02-04T16:55:00Z
-    webUrl: "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
-    ampWebUrl: "https://www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
+  - title: "Text-to-Speech Market with COVID-19 Impact By Offering, Vertical, Deployment, Language, Organization Size, Voice Type And Geography-Forecast 2026"
+    excerpt: "Reportlinker.com announces the release of the report \"Text-to-Speech Market with COVID-19 Impact By Offering, Vertical, Deployment, Language, Organization Size, Voice Type And Geography-Forecast 2026\" -  However,"
+    publishedDateTime: 2021-02-04T10:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19483398/text-to-speech-market-with-covid-19-impact-by-offering-vertical-deployment-language-organization-s"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19483398"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19483398"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/2/U204746962_g.jpg"
-        width: 650
-        height: 439
-        isCached: true
-  - title: "Facial Recognition Market Insights By Growth, Research Methodology, Emerging Trends and Forecast 2027"
-    excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
-    publishedDateTime: 2021-02-03T14:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Worth $ 98.47 Billion, Globally, by 2027 at 18.24% CAGR: Verified Market Research"
-    excerpt: "Verified Market Research recently published a report, \"Image Recognition Market\" By Technology (Object Recognition, Facial Recognition, Digital"
-    publishedDateTime: 2021-02-03T15:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51913954-image-recognition-market-worth-dollar-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 6
-    images:
-      - url: "https://mma.prnewswire.com/media/1432317/Image_Recognition_Market.jpg"
-        width: 400
-        height: 225
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "CZDWjhvdiSr62Eo1uvKeGpq/0TRFBvk+j8dX6fhImIzZ7EqaPAAlsz5NjnR51hrFah7xh5JhjlCH141VPlRfURfyONpVSvpnG7DYlny+L6LccLxtabLdSJqsjAGF+I2Wsgdx/hWFxR0b3RVzhmnLgShWzGpg6LYyHfE343nDIswgB4bW3LSJFDZeMAfWYz9rn/WtE8lRr6B1EVbl7wijfwJxBeJjZkptaU5+LAgK+vheZ3i8gDXKxr5WMfBsHy6w6hdAbaMGblApopOqLfKUo7M1tz60qup+oIGJ/RuldyzC8t0m/DM7M3cOxVA7n5p0MAxOwqHiSPcM6iHTpMYZSNkPvmCiIb6jfd7zIeHsKE8=;coYjuNofyb3OD0J0LWNZWA=="
 ---

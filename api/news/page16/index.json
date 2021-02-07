@@ -2,6 +2,111 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-26-ai-helps-this-koda-social-robot-dog-sense-human-emotions.md",
+      "title": "AI helps this Koda social robot dog sense human emotions",
+      "excerpt": "This AI robot dog not only climbs stairs but also interacts socially with its human owners. Man's best friend has always been the domesticated dog, but mutts around the world could end up with some serious competition in the form of Koda's AI-powered robot dog .",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/",
+      "originalUrl": "https://www.cnet.com/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/o1vlAtPkFpN6VpWRB4Eld9_lcNw=/2021/01/25/66561660-f282-4976-b7e2-aaa912719597/kodarobot1promo.jpg",
+          "width": 1050,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/",
+      "publishedDateTime": "2021-01-25T18:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-snap-acquired-ariel-ai-a-computer-vision-startup-set-up-by-ex-facebook-and-google-scientists.md",
+      "title": "Snap acquired Ariel AI, a computer vision startup set up by ex-Facebook and Google scientists",
+      "excerpt": "Two of Ariel AI's three cofounders worked at Facebook and Google as research scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/snap-acquires-ariel-ai-computer-vision-skills-2021-1",
+      "originalUrl": "https://www.businessinsider.com/snap-acquires-ariel-ai-computer-vision-skills-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/600f068b4827e700188a1325?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage-but-ethical-concerns-abound.md",
       "title": "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound",
       "excerpt": "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead.",
@@ -840,25 +945,34 @@
     },
     {
       "path": "_news/2021-01-26-svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution.md",
-      "title": "SVI Teams with IDEMIA NSS to Offer World’s Most Advanced FMCW 4D LiDAR Biometric Recognition Solution",
-      "excerpt": "The solution combines NSS’s world-class biometric software with SVI’s superior 4D FMCW LiDAR system technology. FMCW LiDAR, which is short for “frequency-modulated continuous wave light detection and ranging,",
+      "title": "SVI Teams with IDEMIA NSS to Offer World's Most Advanced FMCW 4D LiDAR Biometric Recognition Solution",
+      "excerpt": "StereoVision Imaging, Inc. (SVI), the emerging world leader in 2D and 3D/4D LiDAR based facial/object recognition and remote sensing technology, has joined forces with IDEMIA National Security Solutions (NSS) to offer the most capable",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution",
+      "webUrl": "https://www.lelezard.com/en/news-19614735.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19614735.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T08:11:00-08:00",
+      "publishedDateTime": "2021-01-25T08:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1120,111 +1234,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security.md",
-      "title": "How To Leverage AI, Visualization And IoT To Simplify And Improve Security",
-      "excerpt": "With the right strategies and technologies, you don't have to contend with the added burdens of cybersecurity complexity and disconnected point systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b425db7d369a10dfa14df%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/amp/",
-      "publishedDateTime": "2021-01-25T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-tesla-partners-with-samsung-on-new-5nm-chip-for-full-self-driving-report-says.md",
-      "title": "Tesla partners with Samsung on new 5nm chip for full self-driving, report says",
-      "excerpt": "Tesla has reportedly partnered with Samsung on a new 5nm chip for full self-driving, according to a new report coming from Korea. Tesla moves to design its own chips Back in 2016, Tesla started building a team of chip architects led by legendary chip designer Jim Keller to develop its own silicon.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/",
-      "originalUrl": "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/",
-      "publishedDateTime": "2021-01-25T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,93 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-12-21-diving-into-japans-top-aiml-startups.md",
+      "title": "Diving into Japan’s top AI/ML startups",
+      "excerpt": "To learn more, we heard from three rising AI/ML startups in Japan at the forefront of the country’s AI/ML growth. The following responses have been edited for brevity and clarity. Umitron, founded by Ken Fujiwara,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups#!",
+      "originalUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-20T22:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-russian-army-tests-artificial-intelligence-equipped-target-robots.md",
+      "title": "Russian Army Tests Artificial Intelligence Equipped Target Robots",
+      "excerpt": "Artificial intelligence (AI) based mobile target robots that dodge shooters’ bullets have been tested for the first time in Patriot Park shooting range near Moscow. The AI-based robots are dressed as soldiers and carry dummy guns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots",
+      "originalUrl": "https://www.defenseworld.net/news/28593/Russian_Army_Tests_Artificial_Intelligence_Equipped_Target_Robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-20T20:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-tesla-full-self-driving-subscription-coming-really-soon.md",
       "title": "Tesla Full Self-Driving subscription coming really soon",
       "excerpt": "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ...",
@@ -1044,109 +1131,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier.md",
-      "title": "Sony AI launches its Gastronomy Flagship Project to make the world a bit tastier",
-      "excerpt": "Sony AI recently announced its Gastronomy Flagship Project, an AI-powered initiative built on “enhancing the creativity and techniques of chefs around the world.” This might sound like a small-potatoes problem compared to self-driving cars,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/sonygastro-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/",
-      "publishedDateTime": "2020-12-18T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions.md",
-      "title": "AI Weekly: Facebook’s news summarization tool reeks of bad intentions",
-      "excerpt": "Facebook is reportedly developing an AI tool that summarizes news articles. There's plenty of reason to be wary of it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/",
-      "originalUrl": "https://venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/amp/",
-      "publishedDateTime": "2020-12-18T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

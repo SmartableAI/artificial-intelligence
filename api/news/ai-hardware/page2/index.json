@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-21-this-chinese-lab-is-aiming-for-big-ai-breakthroughs.md",
+      "title": "This Chinese Lab Is Aiming for Big AI Breakthroughs",
+      "excerpt": "China produces as many artificial intelligence researchers as the US, but it lags in key fields like machine learning. The government hopes to make up ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
+      "originalUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60089079a9a24f451b08fc1e/master/pass/Business-BAAI-Building.jpg",
+          "width": 2400,
+          "height": 1352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
+      "publishedDateTime": "2021-01-21T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-university-of-pisa-leans-into-the-io-challenge-ai-applications-create.md",
       "title": "University of Pisa leans into the I/O challenge AI applications create",
       "excerpt": "University of Pisa adopts NVMesh software from Excelero to enable AI researchers to access Nvidia GPU servers more efficiently.",
@@ -1361,58 +1416,6 @@
         "name": "Al Bawaba News",
         "domain": "albawaba.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu.md",
-      "title": "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU",
-      "excerpt": "The Flow X13 is outfitted with a GeForce GTX 1650 GPU that can hit clock speeds up to 1255 MHz at ... And for times when you want to chat with friends or fellow gamers, a two-way AI noise cancellation mode removes unwanted sounds from both the input ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/b217b9e2-8472-4358-9fd7-36b134d84990/resize/1200x/97ea6a08734939b0c166dc9b21c9cf79/flow-x13-and-xg-mobile.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "publishedDateTime": "2021-01-12T02:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

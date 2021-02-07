@@ -3,13 +3,13 @@ category: news
 title: "AI reading list: 8 interesting books about artificial intelligence to check out"
 excerpt: "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage."
 publishedDateTime: 2021-02-04T16:46:00Z
-originalUrl: "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
-webUrl: "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
+originalUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
+webUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
 type: article
-quality: 100
-heat: 100
+quality: 98
+heat: 98
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "L+PGBh3EMzKHRksS8Zt90KiVidlR376c2XLq+P7H7ecmvrttOXDyNba+XlhYG6ChR1KP72DnGVuh94I4oCBX8+Fr+n29inFEtt+WSTA/2V0ElowcbI79AtvM2n7vEB+/MW499PPaJtwZCjPehC62ZRJQFtOLNihS+QsuKhZn+/FoiADqD4yhkJPUROU7QV9OIlRFybp+NU3ZQ35M3ZjXq/Qzyjs/mzR5FCnMSyQVfDOgKCfjtLD7tvuRjU5RlpIQMTLsIqYvbZ8NfIrOX0BeCn4fCIs0auq/evlYwtqBCTnMaZdLmWfpcOxZLSiQ1F8eml1UujCnLttrG/mC2Sw7brkFQUoieSjv8m7G0yBcbhU=;9g5AxFMPkZ+gK1Yw2tFjBQ=="
+secured: "4tHNKBGsQmpDbLRslHalN5n1n7iqjUe8tIBFdno70WHjQDTHgejeYT/TGZ29X/UftfLIklSf5MxoHkxUaAnpEQ293tJzREs5yCsQbO4wS+4Xl/FnljLwlgjTXQV/wefpa/2nsPJRtukWvrqYCTf0ILLMmGdaXM3QBd6OnZAZ/OTzTOZn0JuXmcbRWuolPS+hI/xw3V+NJH2llDL1wzD6kk2LI85f8oUf6GL9+zJqmjWi3MOHTBKnhj+aEV9T0lmREtYKF+ppTStxSqAiAFmBxKXjdCEZgiDFp8P7pqWqm84gbTk9e5c4re84pqY5QZ5v2fwkrQxxp+nrK0lT4xVbEv4IuB3Erxbk6agybVCAo0I=;5RJ68Lo2RlzTfOyNWkFLEw=="
 ---
 

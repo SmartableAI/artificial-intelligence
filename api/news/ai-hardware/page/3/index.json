@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-12-ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu.md",
+      "title": "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU",
+      "excerpt": "The Flow X13 is outfitted with a GeForce GTX 1650 GPU that can hit clock speeds up to 1255 MHz at ... And for times when you want to chat with friends or fellow gamers, a two-way AI noise cancellation mode removes unwanted sounds from both the input ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/b217b9e2-8472-4358-9fd7-36b134d84990/resize/1200x/97ea6a08734939b0c166dc9b21c9cf79/flow-x13-and-xg-mobile.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "publishedDateTime": "2021-01-12T02:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu.md",
       "title": "Samsung introduces the 5nm Exynos 2100 with 10% faster CPU, 40% faster GPU",
       "excerpt": "Samsung has formally introduced its latest flagship mobile processor, the Exynos 2100. It features an octa-core CPU with a top-tier Cortex-X1 core, and up to 40% more graphics performance.",
@@ -1394,50 +1446,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-ai-chipmaker-graphcore-raises-222m-as-it-takes-on-nvidia.md",
-      "title": "AI chipmaker Graphcore raises $222m as it takes on Nvidia",
-      "excerpt": "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
-      "originalUrl": "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 306,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a03ad48-165a-448f-a7da-eb28c2df2959.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
-      "publishedDateTime": "2020-12-28T23:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

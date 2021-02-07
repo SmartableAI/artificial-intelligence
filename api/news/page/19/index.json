@@ -2,6 +2,101 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-01-22-computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities.md",
+      "title": "Computer Vision Market 2020 to 2025|Rising Demand, Share, Trends, Growth, Opportunities",
+      "excerpt": "The Final Report will cover the impact analysis of COVID-19 on this industry: Computer Vision can be best defined as a branch of computer science which deals with improving the digitization and processing of computer aided tasks for better understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game.md",
+      "title": "Call of Duty: How Much Translation, Localization Volumes Go Into a Popular Game?",
+      "excerpt": "Interview with audio team behind popular game franchise, Call of Duty, indicates why game localization continues to thrive through Covid-19.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/demand-drivers/call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game/",
+      "originalUrl": "https://slator.com/demand-drivers/call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/01/Translation-and-Localization-of-Call-of-Duty-Game-2020.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T23:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-ai-systems-to-get-an-ethics-code-dod.md",
       "title": "AI Systems to get an Ethics Code: DoD",
       "excerpt": "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said.",
@@ -1096,101 +1191,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-stress-testing-reveals-gaps-in-clinic-readiness-of-image-based-diagnostic-artificial-intelligence-models.md",
-      "title": "Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models",
-      "excerpt": "Artificial intelligence models match or exceed dermatologists in melanoma image classification. Less is known about their robustness against real-world variations, and clinicians may incorrectly assume that a model with an acceptable area under the receiver operating characteristic curve or related performance metric is ready for clinical use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41746-020-00380-6",
-      "originalUrl": "https://www.nature.com/articles/s41746-020-00380-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-020-00380-6/MediaObjects/41746_2020_380_Fig1_HTML.png",
-          "width": 685,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T06:25:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai.md",
-      "title": "VAST Data allies with Nvidia on reference storage architecture for AI",
-      "excerpt": "VAST Data collaborates with Nvidia to create reference architecture for attaching its storage systems to GPU servers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence-e1611234784519.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/",
-      "publishedDateTime": "2021-01-21T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

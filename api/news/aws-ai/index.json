@@ -107,6 +107,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-05-short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again.md",
+      "title": "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again",
+      "excerpt": "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again",
+      "originalUrl": "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg",
+          "width": 810,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T11:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-ecloudvalley-supports-aisas-multilingual-translation-solution-with-well-architected-deployment-on-aws.md",
       "title": "eCloudvalley Supports AISA's Multilingual Translation Solution with Well-Architected Deployment on AWS",
       "excerpt": "PRNewswire/ -- eCloudvalley, who won the title of ASEAN 2020 'AWS Consulting Partner of the Year', provided AISA with a",
@@ -1454,49 +1498,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-unboxing-for-business-overlord-3d-printer.md",
-      "title": "Unboxing for Business: OverLord 3D Printer",
-      "excerpt": "This time on Unboxing for Business we’re unpacking DreamMaker’s OverLord 3D Printer. We’ve been told it’s one of the more beautiful 3D printers out there. Is that true? Let’s find out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer",
-      "originalUrl": "https://www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/01/Overlord-Thumbnail-1.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer?amp=1",
-      "publishedDateTime": "2021-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

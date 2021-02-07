@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19483398"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19483398"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Text-to-Speech Market worth $5.0 billion by 2026"
+    excerpt: "Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education,"
+    publishedDateTime: 2021-02-05T12:22:00Z
+    webUrl: "https://www.wboc.com/story/43294443/text-to-speech-market-worth-50-billion-by-2026"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 24
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "8Jjowr09k1twPaOMsLLHFh290ZuFJ1ibs9l7PV/ciVnZzfN27TSCb9gUSIlXxvxF+MY8itTEY4ahFjEYiK8LHLb6Ek6N5E67oTcGpr4NgS3+f6TwrbT0svd+AVozbSjiJHJrzSoOw4F9hkzCX1ZJbsKl55X6jvP5C8X/jD1Yri9TBbXpafa6dMQ39uJhO3Yz8fLu90HSeyOKftDYppeQECg9LIDVOgpuJgPDm+5Mx1B5zGnZyobxWKySOQOeTcbL4dJ2bOrAse3NXSl20UvCzLQBcPB7xTe+oI1FAxZlQ+GNIlOfn3C7T3iuKfSQmhLssjIiq1GkRYPYIt1bYu0CiLn04NuHrp+5nFeh+ZErqs0=;KMKJ4aBm5yUB+QuBSShSgQ=="
 ---

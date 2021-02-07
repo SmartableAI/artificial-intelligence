@@ -74,22 +74,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
-    excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
-    publishedDateTime: 2021-02-02T17:27:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11966"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11966"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11966"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 75
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11966_16122866370551170.jpg"
-        width: 1103
-        height: 469
-        isCached: true
   - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its finance operations through harnessing the power of Microsoft AI. The Finance and"
     publishedDateTime: 2021-02-04T14:27:00Z
@@ -221,20 +205,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 58
-  - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
-    excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "GDIT Signs Microsoft Partner Agreement to Deliver Azure to Federal Agencies"
     excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics, has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G), GDIT reported on Thursday. \"Clients across the federal government are rapidly adopting cloud and Software-as-a-Service solutions,"
     publishedDateTime: 2021-02-05T00:00:00Z
@@ -262,6 +232,20 @@ related:
       - url: "https://www.yankodesign.com/images/design_news/2021/01/these-in-ear-translator-earphones-help-you-fluently-speak-in-as-many-as-40-different-languages/worlds_first_bi_directional_translation_earbuds-510x314.jpg"
         width: 510
         height: 314
+        isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
@@ -361,15 +345,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
 
 secured: "xjwsKfhLKNHjoxMDfXWOhj743BMEreeHCtfINNMzYSr2MERp+CHlTmv/ntldwun5wmG36S9lTpHzzUtU7o94KMEygBic64horh7TtzVXnu6EbAXMjrtB+Sr2Zw8yKftg1Vb6+CnETDtyP8jcax1cruUXB4Zl58bQQ3nOYDcy6LGcRj0iFGxtnGvF+uZ4HBIMTmDPRWvzz7YWx8zOffkH5zZKF4WhGBO4KawUotzUawPjK6LcChcBSkr+Y+c6P83fwkBFyh8BAXlhXuFXFM/pFIv+kHL7b1XTtHgmOZddIBzYzpACtCGOnmjjN1mGcH6HpZwlYBPJpfucuXPkr+/0OlVSjlaLDvUCiNF6itgA3+Y=;xSczjrjEo+JAsVzWRq4t/Q=="
 ---

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Can Be The Key To Loyalty And Retention For Retail In 2021"
-    excerpt: "How Artificial Intelligence Can Be the Key to Loyalty and Retention in 2021 Leveraging emerging technologies can help retailers make sense of data As the dust settles on the disruption that was 2020,"
-    publishedDateTime: 2021-02-02T17:36:00Z
-    webUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198c7fc5ca2949770a813f%2F0x0.jpg"
-        width: 1200
-        height: 697
-        isCached: true
   - title: "What 2020 Taught Marketers About Data And AI"
     excerpt: "There is a strong need for marketers to understand their data and models to make predictions about the future."
     publishedDateTime: 2021-02-03T12:20:00Z
@@ -76,22 +60,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How Artificial Intelligence Can Be The Key To Loyalty And Retention In 2021"
-    excerpt: "How Artificial Intelligence Can Be the Key to Loyalty and Retention in 2021 Leveraging emerging technologies can help retailers make sense of data As the dust settles on the disruption that was 2020,"
-    publishedDateTime: 2021-02-02T17:36:00Z
-    webUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198c7fc5ca2949770a813f%2F0x0.jpg"
-        width: 1200
-        height: 697
         isCached: true
   - title: "Top AI Startups to Watch in 2021"
     excerpt: "An abundance of startup companies that introduce new applications of artificial intelligence have emerged over the years. In 2020, Crunchbase’s records show that the number of AI startups is already about the breach the 10,000 mark. The number has ..."

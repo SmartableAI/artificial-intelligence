@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-07-intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows.md",
+      "title": "Intel comes up with benchmarks as the threat from Apple M1 Chips grows",
+      "excerpt": "In a slideshow shared by PCWorld this week, Intel highlighted what PCWorld described as \"carefully crafted\" benchmarks in an effort to prove that laptops",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/",
+      "originalUrl": "https://www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/5.jpg",
+          "width": 1292,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/amp/",
+      "publishedDateTime": "2021-02-07T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere.md",
       "title": "Qualcomm research could lower the barriers to visual AI everywhere",
       "excerpt": "Qualcomm is working to reduce the compute power needed for visual AI to enable chips that are smaller, cheaper, and less power hungry.",
@@ -1177,58 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.md",
-      "title": "Apple, Hyundai-Kia near deal to build self-driving electric Apple Car",
-      "excerpt": "CNBC's Phil LeBeau explains his scoop about the deal talks between Hyundai-Kia and Apple to manufacture an Apple Car as soon as 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106741890-16025951652020-10-13t105843z_940689204_rc2mhj94sbo0_rtrmadp_0_apple-iphone.jpeg?v=1602595195",
-          "width": 3500,
-          "height": 2334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T20:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

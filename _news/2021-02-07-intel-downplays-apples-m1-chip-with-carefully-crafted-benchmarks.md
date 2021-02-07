@@ -9,7 +9,7 @@ ampWebUrl: "https://www.macrumors.com/2021/02/06/intel-11th-gen-vs-apple-m1-chip
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/06/intel-11th-gen-vs-apple-m1-chip-benchmarks/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel comes up with benchmarks as the threat from Apple M1 Chips grows"
+    excerpt: "In a slideshow shared by PCWorld this week, Intel highlighted what PCWorld described as \"carefully crafted\" benchmarks in an effort to prove that laptops"
+    publishedDateTime: 2021-02-07T10:27:00Z
+    webUrl: "https://www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/5.jpg"
+        width: 1292
+        height: 714
+        isCached: true
   - title: "Intel lowers Apple’s M1 chip with ‘carefully crafted’ benchmarks"
     excerpt: "Intel lowers Apple's M1 chip with 'carefully crafted' benchmarks Nearly three months after the launch of Apple's rave reviews M1 Macs,"
     publishedDateTime: 2021-02-07T01:01:00Z

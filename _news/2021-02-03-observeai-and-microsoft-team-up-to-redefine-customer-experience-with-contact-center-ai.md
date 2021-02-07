@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft launches Custom Neural Voice in limited access"
@@ -66,22 +72,6 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-02/Etihad%20image%201.jpg?itok=tMPbQ2Tz"
         width: 960
         height: 640
-        isCached: true
-  - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
-    excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
-    publishedDateTime: 2021-02-02T17:27:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11966"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11966"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11966"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 75
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11966_16122866370551170.jpg"
-        width: 1103
-        height: 469
         isCached: true
   - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its finance operations through harnessing the power of Microsoft AI. The Finance and"
@@ -214,20 +204,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 58
-  - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
-    excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "GDIT Signs Microsoft Partner Agreement to Deliver Azure to Federal Agencies"
     excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics, has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G), GDIT reported on Thursday. \"Clients across the federal government are rapidly adopting cloud and Software-as-a-Service solutions,"
     publishedDateTime: 2021-02-05T00:00:00Z
@@ -369,6 +345,6 @@ related:
         height: 315
         isCached: true
 
-secured: "crP9aJqvvchVYbWKdebpT+g9Vfz05LI+PhokaPTo1oUO7yCvJNrycWS+0/2A0XCL7sjMGHSnvG83ocdM9iIG+xbdOOXVixZ5fMQT4icqotRgDm4Nq6UjLjcOq26wcDEGBLHRn5Eke/Y8pA7k21R9eUj4etHPtcMMmB3HhYq7wkBPEYbcpHEhRPM4f50laq7i8v5uDOwKwgycjUyFrbzlS7dgQMym7Y7xczPansx0AkV7wrtA/iT3dQrOxtY0uS/QaI810/JRGwmzjvLzMV8cImFuW060dbCNKpVNajhhXWsLY3Po4KX9YaTTpxrzsOEfKJ4dKDEcKhDGpp/yx7e19d/eofDo2c2ILexs5j7oKqQ=;htBAp/ASKRW4BbsKS94kDA=="
+secured: "G3jBqbNVYxEATDA20Lqe8/zlz3mZWoodaCUmQGUEl9DWWbn5gOVFtBjL/IFtLRTnncYO+j7kPKWteqI4QxBcFycaqlU9eocP5gjBiEPwFeKuC++olKMNm7xluDLeWnAvESTG1BueR8FlEEpJrlPqiUgKr8cBJrmHF1T5DYdn9FUHzf9H+l3XnpbkPLUyUZJO2f3TGlfJmyZKnEwAaV0VcctJMkxUW3gh01bOtxVsTbV9vxTX6cp2ORvm0oRulDDA0jQrsw4tRS3+C2N9j6KI4Cgsi+mZXK/E6REILIkieSTyf7l3guBz2qL2IUOh/n2suGk/5xDWkLX57c+u2WEhdSY1tgL5JKna6RtTsuBbGcc=;J12YSzIEiTB+nieNvMVrKg=="
 ---
 

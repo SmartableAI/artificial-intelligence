@@ -2,6 +2,83 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2020-12-03-robotics-ai-etfs-still-producing-massive-gains.md",
+      "title": "Robotics & A.I. ETFs Still Producing Massive Gains",
+      "excerpt": "T he Global X Robotics & Artificial Intelligence ETF (BOTZ) isn't churning out an almost 50% gain year-to-date for nothing. The ETF operates in a space that's not only benefiting from the technological requirements brought on by the current pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
+      "publishedDateTime": "2020-12-02T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-european-computer-vision-industry-to-2026-featuring-intel-sony-and-texas-instruments-researchandmarketscom.md",
+      "title": "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com",
+      "excerpt": "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html",
+      "originalUrl": "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-google-ai-is-now-piloting-loons-internet-beaming-balloons.md",
       "title": "Google AI is now piloting Loon's internet-beaming balloons",
       "excerpt": "Alphabet’s Loon has shifted to a different type of navigation system for its internet-beaming balloons. Rather than relying on algorithms designed by humans, the balloons are using an artificial intelligence system Loon developed with Google AI over the last few years.",
@@ -1075,109 +1152,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout.md",
-      "title": "AI’s Next Big Coup: Augmenting Intelligence To Combat Customer Service Burnout",
-      "excerpt": "Knowledge management with embedded AI can connect workers at scale to share best practices, crowdsource answers and close knowledge gaps in real time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6a59cf84eb695c2af4c15%2F0x0.jpg",
-          "width": 1200,
-          "height": 881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout/amp/",
-      "publishedDateTime": "2020-12-02T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-ai-budgets-expected-to-expand-in-2021-despite-pandemic.md",
-      "title": "AI budgets expected to expand in 2021, despite pandemic",
-      "excerpt": "The pandemic motivated many businesses to look for new efficiencies and revenue sources, with many turning to AI as the solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/",
-      "originalUrl": "https://venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/world.investmentsGettyImages-1201627478.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/amp/",
-      "publishedDateTime": "2020-12-02T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

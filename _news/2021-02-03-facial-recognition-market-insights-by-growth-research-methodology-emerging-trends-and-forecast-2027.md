@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: MarketWatch
@@ -29,49 +29,56 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market will obtain $53.0 billion by 2025"
-    excerpt: "According to a new market research report Image Recognition Market by Technology Digital Image Processing Facial Recognition Pattern Recognition Component Hardware Software and Services Deployment Mode On premises Cloud Application Vertical and Region Global Forecast to 2025 published by"
-    publishedDateTime: 2021-02-04T16:55:00Z
-    webUrl: "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
-    ampWebUrl: "https://www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
+  - title: "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market"
+    publishedDateTime: 2021-02-04T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://cdn.openpr.com/U/2/U204746962_g.jpg"
-        width: 650
-        height: 439
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Text-to-Speech Market worth $5.0 billion by 2026"
-    excerpt: "Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education,"
-    publishedDateTime: 2021-02-05T12:22:00Z
-    webUrl: "https://www.wboc.com/story/43294443/text-to-speech-market-worth-50-billion-by-2026"
+  - title: "Worldwide Deep Learning Market Outlook to 2025: Emerging Trends and Will Generate New Growth Opportunities Status"
+    excerpt: "Global “Deep Learning Market” is segmented by region, players, by Type, and by Application. Players, stakeholders,"
+    publishedDateTime: 2021-02-04T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/worldwide-deep-learning-market-outlook-to-2025-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-02-04"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Image Recognition Market Worth $ 98.47 Billion, Globally, by 2027 at 18.24% CAGR: Verified Market Research"
-    excerpt: "Verified Market Research recently published a report, \"Image Recognition Market\" By Technology (Object Recognition, Facial Recognition, Digital"
-    publishedDateTime: 2021-02-03T15:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51913954-image-recognition-market-worth-dollar-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-008.htm"
+  - title: "Service Robotics Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
+    publishedDateTime: 2021-02-05T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-02-05"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 6
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "Image Recognition Market Insights By Revenue, Upcoming Trends And Worldwide Players Foresights Till 2026 | Fortune Business Insights"
+    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
+    publishedDateTime: 2021-02-05T13:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-revenue-upcoming-trends-and-worldwide-players-foresights-till-2026-fortune-business-insights-2021-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
     images:
-      - url: "https://mma.prnewswire.com/media/1432317/Image_Recognition_Market.jpg"
-        width: 400
-        height: 225
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Zg7QgdmvGwCxHjfGvXNinsExkd13dqXJc7ExQXjznplM9Nxu0nigXIgOWsLlQ5XYKHJd9cW4ry0+flGA9l4U4s2DsKYh3dIMpseVNEJF0FW3SbrRIKCe6KWpmrI10K17j8i6PIDQaU7HyjOj5FeBWp9L73AAfOhT/xE5HBj9+xXlsrQuKWv8d2yRzbG42Fl0t2zWEriFqaJ1Kr8P3278itvSLMXCrIcyIdQ0auxLDsAA6/NSo4rSTcWmGS1aKZTcvDDbnkHgpX4KMhYRjk6bMNrJscoGTersj0xWViflPR75oLc8dE97RNOYNKNU96LBif5bE2X2dwLFUdLHxrqnkv13C4vfXaUxn4VXtL0kefM=;ntCN87rQrtt5utK+jBj0Lw=="

@@ -38,17 +38,6 @@ related:
         width: 720
         height: 361
         isCached: true
-  - title: "Recruiter com Group makes its case for harnessing video, acquires AI-focused tech startup"
-    excerpt: "CEO Evan Sohn tells Proactive how the group has harnessed video to help it achieve its recruiting goals. In the fourth quarter, Recruiter.com launched three new initiatives: On Demand, a gig platform for recruiter services;"
-    publishedDateTime: 2021-02-02T18:21:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/940204/recruiter-com-group-makes-its-case-for-harnessing-video-acquires-ai-focused-tech-startup-940204.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/940204"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/940204"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 28
 
 secured: "NZTuOuRbjn4O5BiRNWsXIVrcx3DJA6DtsPJycOFmdg2jSvr6dhPRFrlZ2noDDCmguDHv2uAXu3GqSHGNmwpvARhb4OD7j4hjIZieMpl5YTg4d4qSLAxNxcPmgX+jTqJ2VKpEiOWc3WzSqF6XqY3ifPQ7h1g3iNX2FItLaoEJ37RzpFrtRb4oKChfjxs0/hWN4lkneBLC4a290nZE1sAdKM6Y7ikZQtOn/MtYEdLFKYUGMtLdaJacq898w3YJ2XW4yOUMDpPruQYYWJvPoDN3LoLV+arCurPI71dh3SxCeGRkklLnYlonVyHhJK7c3x8rtq30k1GRgp0TLJzOAjjDraNahKDJ36pNkE/2zP6V4u0=;9BJN2gYDp3wcP6NLAt3wOQ=="
 ---

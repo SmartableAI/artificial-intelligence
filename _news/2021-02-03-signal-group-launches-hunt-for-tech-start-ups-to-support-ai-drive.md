@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Recruiter com Group makes its case for harnessing video, acquires AI-focused tech startup"
-    excerpt: "CEO Evan Sohn tells Proactive how the group has harnessed video to help it achieve its recruiting goals. In the fourth quarter, Recruiter.com launched three new initiatives: On Demand, a gig platform for recruiter services;"
-    publishedDateTime: 2021-02-02T18:21:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/940204/recruiter-com-group-makes-its-case-for-harnessing-video-acquires-ai-focused-tech-startup-940204.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/940204"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/940204"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 28
   - title: "HappyFox Launches Assist AI, an AI-Driven Conversational Ticketing Tool Allowing Employees to Resolve Issues Inside Slack"
     excerpt: "HappyFox, Inc., makers of a top-rated help desk platform, today announced the release of HappyFox Assist AI, a new product that gives IT and HR teams the power to leverage AI to auto-resolve repetitive questions and allow companies to manage their IT and HR support within Slack."
     publishedDateTime: 2021-02-03T07:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049.ht
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Guide for ethical, legal use of facial recognition published by BSIA"
+    excerpt: "The report explains the key factors companies have to take into consideration before choosing a facial recognition solution for their biometric security systems"
+    publishedDateTime: 2021-02-02T20:55:00Z
+    webUrl: "https://www.biometricupdate.com/202102/guide-for-ethical-legal-use-of-facial-recognition-published-by-bsia"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
   - title: "5 B.C. police officers who used 'illegal' facial recognition tech slammed by privacy commissioners"
     excerpt: "The privacy commissioner of British Columbia has revealed five individual police officers in the province used a controversial facial recognition service that 'illegally' harvested billions of social media images."
     publishedDateTime: 2021-02-03T17:49:00Z
