@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jeff Bezos to step down as Amazon CEO, Andy Jassy to take over in Q3"
-    excerpt: "Jassy joined Amazon in 1997 and has led Amazon's Web Services cloud team since its inception. Bezos said he will stay engaged in important Amazon projects but will also have more time to focus on ..."
-    publishedDateTime: 2021-02-02T23:53:00Z
-    webUrl: "https://inside.com/campaigns/inside-amazon-2021-02-03-26425/sections/223561"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 152
-    images:
-      - url: "https://e.insd.io/s/p/223561_original.jpg?1612370704"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "New Amazon CEO Andy Jassy Loves Fossil Fuels and Facial Recognition"
     excerpt: "Jassy, who will replace Bezos this year, has a deeply concerning track record on everything from antitrust to killer robots."
     publishedDateTime: 2021-02-03T18:29:00Z
@@ -91,22 +77,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/02/opinion/02swisher/02swisher-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Bezos' Departure as CEO Shows Amazon Is a Cloud Company Now"
-    excerpt: "Andy Jassy, who helped create Amazon Web Services in 2006 and has run it since, will take over as chief executive later this year."
-    publishedDateTime: 2021-02-03T01:07:00Z
-    webUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/"
-    ampWebUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "After 27 Years, Jeff Bezos Will Step Down As CEO Of Amazon"
     excerpt: "Jeff Bezos is stepping down as Amazon CEO, the online internet retailing giant he founded 27 years ago, and will become executive chair, focused on “new products and early initiatives,” he announced on Tuesday."
@@ -171,22 +141,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/03/8d479944-d332-4de1-9d61-25c44ed488b0/thumbnail/1200x630g6/3de4be33411da8961307fb8858d5a45e/gettyimages-1129882595.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Who is Andy Jassy? All about Amazon's new CEO after Jeff Bezos steps down between July and September 2021"
-    excerpt: "Andy Jassy helped launch the Amazon Web Services (AWS) with a team of 57 people in 2003 and eventually became the CEO of the division. As of November 2020, Jassy's estimated net worth is $377 million"
-    publishedDateTime: 2021-02-02T23:59:00Z
-    webUrl: "https://meaww.com/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
-    ampWebUrl: "https://meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 27
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/520377/uploads/f1b1a910-65aa-11eb-bea0-fbd4614cd2cf_800_420.png"
-        width: 800
-        height: 420
         isCached: true
   - title: "What Amazon CEO Jeff Bezos stepping down means for fintech"
     excerpt: "Jeff Bezos will step down as founder and CEO of Amazon and transition to chairman in 2021, allowing seasoned cloud executive Andy Jassy to take the reins of the $1.6 trillion giant. As detailed in an email to his employees,"

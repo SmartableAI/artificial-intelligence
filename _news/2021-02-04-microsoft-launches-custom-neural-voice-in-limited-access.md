@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
 type: article
 quality: 139
-heat: 359
+heat: 349
 published: true
 
 provider:
@@ -221,20 +221,6 @@ related:
       - url: "https://www.yankodesign.com/images/design_news/2021/01/these-in-ear-translator-earphones-help-you-fluently-speak-in-as-many-as-40-different-languages/worlds_first_bi_directional_translation_earbuds-510x314.jpg"
         width: 510
         height: 314
-        isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."

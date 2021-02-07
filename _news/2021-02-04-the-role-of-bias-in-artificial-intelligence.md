@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 110
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "She was named one of the 100 most brilliant women in AI ethics"
-    excerpt: "Computer science professor Tina Eliassi-Rad says she’s proud to be named on an industry list of “ 100 Brilliant Women in AI Ethics,” which identifies her as one of the top t"
-    publishedDateTime: 2021-02-03T00:00:00Z
-    webUrl: "https://news.northeastern.edu/2021/02/03/she-was-named-one-of-the-100-most-brilliant-women-in-ai-ethics/"
-    type: article
-    provider:
-      name: Northeastern University
-      domain: northeastern.edu
-    quality: 54
-    images:
-      - url: "https://news.northeastern.edu/wp-content/uploads/2021/01/Eliassi-Rad_Tina_1400.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Free, online course brings together 20 global experts in the field of ethical AI"
     excerpt: "Global Perspectives seeks to bring together diverse perspectives from the field of ethical AI, to raise awareness and help institutions work towards more responsible use."
     publishedDateTime: 2021-02-04T20:20:00Z

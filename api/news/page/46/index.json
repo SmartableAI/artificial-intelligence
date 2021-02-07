@@ -2,6 +2,291 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-01-04-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure.md",
+      "title": "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure",
+      "excerpt": "\"This combination of Blue Prism and Azure Cognitive Services gives our customers a greater choice with AI-enabled, self-service experience that is provisioned via Microsoft Azure,\" says Chief ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook",
+          "width": 1198,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-tesla-stock-rises-c3ai-drops-as-the-stock-market-start-2021-higher.md",
+      "title": "Tesla Stock Rises, C3.ai Drops as the Stock Market Start 2021 Higher",
+      "excerpt": "The market is wasting no time heading hire on the first trading day of the new year—and that’s despite overhangs that might normally keep a lid on things. On Friday, we’ll get December’s payrolls report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "originalUrl": "https://www.barrons.com/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-272944/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "publishedDateTime": "2021-01-04T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing.md",
+      "title": "Data 2021 Outlook Part I: What’s ahead for AI and Cloud Data Warehousing",
+      "excerpt": "Responsible AI” is at the beginning of a long slog, while Cloud Data Lakehouses will supplement but not replace Data Warehouses or Data Lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/01/04/4ac23f0e-f51b-40de-b89b-01595216f758/21-is-going-to-be-a-good-year.jpg",
+          "width": 630,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
+      "publishedDateTime": "2021-01-04T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables.md",
+      "title": "AMP Robotics raises $55 million for AI that picks and sorts recyclables",
+      "excerpt": "AMP Robotics, a startup developing robotics systems that pick and sort recyclables, has raised $55 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/",
+      "originalUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/IMpact-20-2020-Amp-Robotics-AMP-9-3-e1609706384371.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/",
+      "publishedDateTime": "2021-01-04T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia.md",
+      "title": "Lantern Pharma Announces Launch of Antibody Drug Conjugate (ADC) Program to Target Solid Tumors & Blood Cancers through Agreement with Califia Pharma",
+      "excerpt": "PRNewswire/ -- Lantern Pharma (Nasdaq: LTRN), a clinical-stage biopharma company using its proprietary RADR ® artificial intelligence (\"A.I.\") platform to transform cancer drug development and identify patients who will benefit from its targeted oncology therapeutics,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia-pharma-1029930022",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia-pharma-1029930022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1216507/Lantern_Pharma_Logo.jpg",
+          "width": 400,
+          "height": 296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-2021-the-year-of-robotics-and-artificial-intelligence.md",
+      "title": "2021: The Year of Robotics and Artificial Intelligence",
+      "excerpt": "Two of those areas are robotics and artificial intelligence, which we'll see adapted broadly this decade with a considerable bump in 2021. Let's talk about all of that this week, and we'll close with my first product of the week in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html",
+      "originalUrl": "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-ai-robot-1.jpg",
+          "width": 620,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-how-to-win-customers-with-voice-search-three-simple-tips.md",
       "title": "How To Win Customers With Voice Search: Three Simple Tips",
       "excerpt": "Now that voice search is on the rise and gaining more popularity, there’s a whole new dynamic to consider when implementing SEO tactics.",
@@ -915,295 +1200,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-want-to-dive-into-the-lucrative-world-of-deep-learning-take-this-online-class.md",
-      "title": "Want to dive into the lucrative world of deep learning? Take this online class.",
-      "excerpt": "TL;DR: The Ultimate Deep Learning and NLP Certification Bundle is on sale for £21.43 as of Jan. 3, saving you 97% on list price. Artificial intelligence and deep learning might bring to mind ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes/",
-      "originalUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F01%252F03%252F25%252F3bc5fc78a1c14aa5bd3540bfd1fbef73.cd6b9.jpg%252F1200x630.jpg?signature=H46_q9w0l8DXHM_wrYE-4pOIE9E=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes.amp",
-      "publishedDateTime": "2021-01-03T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-the-best-facial-recognition-security-cameras-of-the-year.md",
-      "title": "The best facial recognition security cameras of the year",
-      "excerpt": "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-the-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 276,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-the-year/",
-      "publishedDateTime": "2021-01-03T01:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning.md",
-      "title": "Future Of Banking: YES Bank Datathon Pushes The Boundaries Of Finance With AI And Machine Learning",
-      "excerpt": "Used along with Machine Learning (ML) algorithms ... This is a unique facet wherein data professionals from a non- financial services background are participating in the challenge beyond the ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/",
-      "originalUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-best-graphics-card-for-gamers-and-creatives-in-2021.md",
-      "title": "Best graphics card for gamers and creatives in 2021",
-      "excerpt": "Picking a new AMD or Nvidia graphics card can be overwhelming. We'll help you get started with everything you need to know. If AMD , Intel and Nvidia 's statistics are correct, you're most likely using a computer and graphics card that are several years old.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "originalUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/kdpWv0xHoft2ndmTh94sIukoqFU=/1200x630/2020/11/17/66d183c5-8162-47b7-aa5c-dc12582475da/amd-rx-6800-09671.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "publishedDateTime": "2021-01-02T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups.md",
-      "title": "Revolutionary NLP Model GPT-3 Poised To Redefine AI And Next Generation Of Startups",
-      "excerpt": "Countless are the use cases that revolutionary AI model GPT-3, which uses deep learning to produce human-like text, can power. But, while it has potential for generative value, it is set to reshape both the dynamics of the AI world and the SaaS startup space because of its very own business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
-      "originalUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0cabb6e6d1f574f50817b%2F0x0.jpg%3FcropX1%3D490%26cropX2%3D3911%26cropY1%3D85%26cropY2%3D2257",
-          "width": 1200,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
-      "publishedDateTime": "2021-01-02T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-hitting-the-books-what-do-we-want-our-ai-powered-future-to-look-like.md",
-      "title": "Hitting the Books: What do we want our AI-powered future to look like?",
-      "excerpt": "For example, the artificial intelligence principles of the Organisation for Economic Co-operation and Development emphasize the human ability to challenge AI-based outcomes. We desperately need an “off ” switch for all AI and robotics in my opinion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "originalUrl": "https://www.engadget.com/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fe5942d70-3f02-11eb-8fd6-ce9efbf77308&client=amp-blogside-v2&signature=82b6bc891a7dac6218cceaeb208cdb5f9f27afe1",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "publishedDateTime": "2021-01-02T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

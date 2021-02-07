@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-04-new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition.md",
+      "title": "New Amazon CEO Andy Jassy Loves Fossil Fuels and Facial Recognition",
+      "excerpt": "Jassy, who will replace Bezos this year, has a deeply concerning track record on everything from antitrust to killer robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "originalUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/601ae267409f2e00958c730c/lede/1612374770921-gettyimages-670451714.jpeg?crop=1xw:0.843644544431946xh;center,center",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "publishedDateTime": "2021-02-03T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-microsoft-launches-custom-neural-voice-in-limited-access.md",
+      "title": "Microsoft launches Custom Neural Voice in limited access",
+      "excerpt": "Microsoft today launched Custom Neural Voice in limited preview, a service that allows customers to create custom voices using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/",
+      "originalUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 349,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/",
+      "publishedDateTime": "2021-02-03T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-are-you-talking-to-me-azure-ai-brings-iconic-characters-to-life-with-custom-neural-voice.md",
       "title": "Are you talking to me? Azure AI brings iconic characters to life with Custom Neural Voice",
       "excerpt": "The post Are you talking to me? Azure AI brings iconic characters to life with Custom Neural Voice appeared first on The AI Blog.\n",
@@ -563,7 +668,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1109,7 +1214,7 @@
       "originalUrl": "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1141,103 +1246,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions.md",
-      "title": "Automating complex deep learning model training using Amazon SageMaker Debugger and AWS Step Functions",
-      "excerpt": "Amazon SageMaker Debugger can monitor ML model parameters, metrics, and computation resources as the model optimization is in progress. You can use it to identify issues during training, gain insights, and take actions like stopping the training or sending notifications through built-in or custom actions.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T17:10:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
-      "title": "AI maths whiz creates tough new problems for humans to solve",
-      "excerpt": "Algorithm named after mathematician Srinivasa Ramanujan suggests interesting formulae, some of which are difficult to prove true.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-00304-8/d41586-021-00304-8_18829048.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

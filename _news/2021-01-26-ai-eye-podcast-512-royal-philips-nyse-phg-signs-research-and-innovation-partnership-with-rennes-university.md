@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"

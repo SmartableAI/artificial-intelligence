@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-03T16:51:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-537bb3328bba44ebbb871deac8ba13c3"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-537bb3328bba44ebbb871deac8ba13c3"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

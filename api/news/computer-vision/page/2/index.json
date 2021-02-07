@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-26-computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis.md",
+      "title": "Computer Vision in Healthcare Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis",
+      "excerpt": "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-computer-vision-researchers-develop-city-scale-smart-tracking-platform.md",
       "title": "Computer vision researchers develop city-scale smart tracking platform",
       "excerpt": "Computer vision researchers develop city-scale smart tracking platform. Surveillance cameras already spot or cover large cities, but it's",
@@ -46,34 +99,25 @@
     },
     {
       "path": "_news/2021-01-26-svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution.md",
-      "title": "SVI Teams with IDEMIA NSS to Offer World's Most Advanced FMCW 4D LiDAR Biometric Recognition Solution",
-      "excerpt": "StereoVision Imaging, Inc. (SVI), the emerging world leader in 2D and 3D/4D LiDAR based facial/object recognition and remote sensing technology, has joined forces with IDEMIA National Security Solutions (NSS) to offer the most capable",
+      "title": "SVI Teams with IDEMIA NSS to Offer World’s Most Advanced FMCW 4D LiDAR Biometric Recognition Solution",
+      "excerpt": "The solution combines NSS’s world-class biometric software with SVI’s superior 4D FMCW LiDAR system technology. FMCW LiDAR, which is short for “frequency-modulated continuous wave light detection and ranging,",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19614735.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19614735.html",
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T08:08:00-08:00",
+      "publishedDateTime": "2021-01-25T08:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -689,15 +733,15 @@
       "title": "Facebook AI Gets Better at Describing Photos for Visually Impaired Users",
       "excerpt": "The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018), relies on object recognition to generate descriptions of photos ...",
       "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/social-media/131125/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users",
-      "originalUrl": "https://uk.pcmag.com/social-media/131125/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users",
+      "webUrl": "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users",
+      "originalUrl": "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_njkb.1200.jpg",
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_zvtd.1200.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -709,7 +753,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:56:00-08:00",
+      "publishedDateTime": "2021-01-20T04:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -1321,49 +1365,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-neurotechnology-releases-new-sentiveillance-80-sdk-for-identification-and-analytics-using-live-and-video-streams.md",
-      "title": "Neurotechnology Releases New SentiVeillance 8.0 SDK for Identification and Analytics Using Live and Video Streams",
-      "excerpt": "a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies, today announced the release of the SentiVeillance 8.0 software ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
-      "publishedDateTime": "2021-01-18T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

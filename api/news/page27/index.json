@@ -2,6 +2,279 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-01-18-ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system.md",
+      "title": "CES 2021 Rethinking Virtual Learning with Taiwanese Startup FlyingCrazyer's AI Evaluation System",
+      "excerpt": "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system-301209916.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system-301209916.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1421905/FlyingCrazyer_meets_head_challenges_online_learning_specifically_Mandarin_speaking_markets_The.jpg?p=facebook",
+          "width": 1598,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-toy-robot-for-your-little-ones.md",
+      "title": "Toy robot for your little ones",
+      "excerpt": "Kids are fond of robots and artificial intelligence. If your little one is also fascinated by robots, here are some you might want to buy for your kid. Image Source: Unsplash Transformers ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/most-searched-products/pregnancy-and-parenting/kids/toy-robot-for-your-little-ones/articleshow/80331483.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/most-searched-products/pregnancy-and-parenting/kids/toy-robot-for-your-little-ones/articleshow/80331483.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-80331585/80331585.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/most-searched-products/pregnancy-and-parenting/kids/toy-robot-for-your-little-ones/amp_articleshow/80331483.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/most-searched-products/pregnancy-and-parenting/kids/toy-robot-for-your-little-ones/amp_articleshow/80331483.cms",
+      "publishedDateTime": "2021-01-18T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-simporter-ai-software-startup-raises-seed-round-and-adds-former-nielsen-ceo-to-board.md",
+      "title": "Simporter, AI Software Startup, Raises Seed Round and Adds Former Nielsen CEO to Board",
+      "excerpt": "Simporter, a SaaS startup that uses Artificial Intelligence (\"AI\") to predict consumer demand for new products, closed a $600,000 seed",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/simporter-ai-software-startup-raises-seed-round-and-adds-former-nielsen-ceo-to-board-301209628.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/simporter-ai-software-startup-raises-seed-round-and-adds-former-nielsen-ceo-to-board-301209628.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-neurotechnology-releases-new-sentiveillance-80-sdk-for-identification-and-analytics-using-live-and-video-streams.md",
+      "title": "Neurotechnology Releases New SentiVeillance 8.0 SDK for Identification and Analytics Using Live and Video Streams",
+      "excerpt": "a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies, today announced the release of the SentiVeillance 8.0 software ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
+      "publishedDateTime": "2021-01-18T03:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-the-great-compromise-in-ais-buy-vs-build-dilemma.md",
+      "title": "The Great Compromise In AI’s Buy Vs Build Dilemma",
+      "excerpt": "Businesses is AI capabilities face a critical decision deciding whether to buy or build. An alternative exists which is able to take advantage of the benefits of both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/",
+      "originalUrl": "https://www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001c0040a8baa196cbb51b7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D253%26cropY2%3D3064",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/amp/",
+      "publishedDateTime": "2021-01-18T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined.md",
+      "title": "Machine Learning Finds More Gravitational Lenses Than All Astronomers Combined",
+      "excerpt": "The lensing effect stretches, distorts, and magnifies the background galaxy, as well as creating multiple images of it. One of Einstein’s most revolutionary predictions is that mass bends light. Starlight bent around the eclipsed Sun in 1919 confirmed this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/",
+      "originalUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe8fe3d591966afc92f2ce0%2F0x0.jpg",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/amp/",
+      "publishedDateTime": "2021-01-17T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment.md",
       "title": "Artificial intelligence used in bid to improve coronavirus treatment",
       "excerpt": "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'",
@@ -886,293 +1159,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-premise-data-raises-85-million-to-transform-market-intelligence-by-scaling-its-machine-learning-and-human-intelligence-platform.md",
-      "title": "Premise Data Raises $85 Million to Transform Market Intelligence by Scaling its Machine Learning and Human Intelligence Platform",
-      "excerpt": "Premise owns the broadest and most sophisticated cyber-physical market intelligence platform that blends machine learning with human intelligence, making it possible to gather and analyze real ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/premise-data-raises-85-million-to-transform-market-intelligence-by-scaling-its-machine-learning-and-human-intelligence-platform-301207754.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/premise-data-raises-85-million-to-transform-market-intelligence-by-scaling-its-machine-learning-and-human-intelligence-platform-301207754.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/958516/Premise_Logo.jpg?p=facebook",
-          "width": 712,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-16T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices.md",
-      "title": "Vdoo raises $25M more to develop its AI-based security for IoT and connected devices",
-      "excerpt": "Today, Israeli startup Vdoo — which has been developing AI-based services to detect and fix those kinds of vulnerabilities in IoT devices — is announcing $25 million in funding, money that it ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/",
-      "originalUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/02/getty-satellite-globe-data.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/amp/",
-      "publishedDateTime": "2021-01-16T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-clarabridge-cx-analytics-launches-aws-contact-center-intelligence-solution.md",
-      "title": "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution",
-      "excerpt": "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the worlds top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/clarabridge-cx-analytics-launches-aws-contact-center-intelligence-solution/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/clarabridge-cx-analytics-launches-aws-contact-center-intelligence-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-16T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems.md",
-      "title": "Researchers propose using the game Overcooked to benchmark collaborative AI systems",
-      "excerpt": "Researchers propose using the video game Overcooked as a robustness test for collaborative AI and machine learning systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/",
-      "originalUrl": "https://venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Overcooked-2-05.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/amp/",
-      "publishedDateTime": "2021-01-15T17:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-906-in-december.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Up 90.6% in December",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant growth in short interest in the month of December. As of December 31st, there was short interest totalling 6,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html/amp",
-      "publishedDateTime": "2021-01-15T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-aws-goes-big-with-contact-center-intelligence.md",
-      "title": "AWS Goes Big with Contact Center Intelligence",
-      "excerpt": "Artificial intelligence is redefining contact centers and AWS is taking a leading position. We are two weeks into 2021, and Amazon Web Services has wasted no time in making a splash in the contact center industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
-      "originalUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2021/01/AWS.Connect.call.center.png?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T16:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "She was named one of the 100 most brilliant women in AI ethics"
-    excerpt: "Computer science professor Tina Eliassi-Rad says she’s proud to be named on an industry list of “ 100 Brilliant Women in AI Ethics,” which identifies her as one of the top t"
-    publishedDateTime: 2021-02-03T00:00:00Z
-    webUrl: "https://news.northeastern.edu/2021/02/03/she-was-named-one-of-the-100-most-brilliant-women-in-ai-ethics/"
-    type: article
-    provider:
-      name: Northeastern University
-      domain: northeastern.edu
-    quality: 54
-    images:
-      - url: "https://news.northeastern.edu/wp-content/uploads/2021/01/Eliassi-Rad_Tina_1400.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "The rise of AI in Stanford’s CS curricula"
     excerpt: "AI-related courses experienced large growth, both in terms of the number of courses and the number of students enrolling in these courses."
     publishedDateTime: 2021-02-05T05:06:00Z

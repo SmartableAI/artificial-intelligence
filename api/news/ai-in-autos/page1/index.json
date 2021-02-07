@@ -157,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -582,49 +582,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-02-california-to-license-driverless-cars-operated-by-artificial-intelligence.md",
-      "title": "California to license driverless cars operated by Artificial Intelligence",
-      "excerpt": "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),",
-      "sourceUrl": null,
-      "webUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/",
-      "originalUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1",
-      "cdnAmpWebUrl": "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1",
-      "publishedDateTime": "2021-02-02T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hayride",
-        "domain": "thehayride.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-01-get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open.md",
       "title": "Get ready to roll! AWS DeepRacer pre-season racing is now open",
       "excerpt": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. Pre-season qualifying",
@@ -707,6 +664,40 @@
       "provider": {
         "name": "galusaustralis.com",
         "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-california-to-license-driverless-cars-operated-by-artificial-intelligence.md",
+      "title": "California to license driverless cars operated by artificial intelligence",
+      "excerpt": "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
+      "originalUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true",
+      "publishedDateTime": "2021-02-01T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1028,11 +1019,11 @@
     },
     {
       "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
-      "title": "SoftBank's Son Expects Mass Production of Driverless Cars in Two Years",
-      "excerpt": "SoftBank's Son Expects Mass Production of Driverless Cars in Two Years While ... in public companies he thinks are frontrunners in the artificial intelligence (AI) race. \"I am investing in many ...",
+      "title": "SoftBank's Son expects mass production of driverless cars in two years",
+      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years",
+      "webUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1",
+      "originalUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1040,16 +1031,16 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years?context=amp",
-      "publishedDateTime": "2021-01-29T08:05:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp",
+      "publishedDateTime": "2021-01-29T08:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1401,19 +1392,19 @@
     {
       "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
       "title": "Baidu gets California nod for testing empty self-driving cars",
-      "excerpt": "Currently, 58 companies have permits in California to test self-driving cars with such a backup driver, including most major automakers and Apple Inc.",
+      "excerpt": "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece",
+      "webUrl": "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT",
+      "originalUrl": "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thehindu.com/sci-tech/technology/6dgq1r/article33526855.ece/ALTERNATES/LANDSCAPE_615/baidu-reutersjpg",
-          "width": 615,
-          "height": 384,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1421,14 +1412,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/",
-      "publishedDateTime": "2021-01-27T22:18:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29W2OT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT",
+      "publishedDateTime": "2021-01-27T18:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -1164,21 +1164,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-04-microsoft-launches-custom-neural-voice-in-limited-access.md",
-      "title": "Microsoft launches Custom Neural Voice in limited access",
-      "excerpt": "Microsoft today launched Custom Neural Voice in limited preview, a service that allows customers to create custom voices using AI.",
+      "path": "_news/2021-02-04-this-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
+      "title": "This AI maths whiz creates tough new problems for humans to solve",
+      "excerpt": "Algorithm named after mathematician Srinivasa Ramanujan suggests interesting formulae, some of which are difficult to prove true.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/",
-      "originalUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/",
+      "webUrl": "https://www.nature.com/articles/d41586-021-00304-8",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-00304-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-00304-8/d41586-021-00304-8_18829048.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1186,23 +1186,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/",
-      "publishedDateTime": "2021-02-03T09:02:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T10:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1211,8 +1202,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Math for AI",
+        "Facebook AI"
       ]
     }
   ],

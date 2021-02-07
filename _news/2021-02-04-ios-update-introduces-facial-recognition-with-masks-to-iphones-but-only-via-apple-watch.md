@@ -52,31 +52,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 28
-  - title: "Apple is testing “new way to create “iPhone without removing “face mask"
-    excerpt: "Apple is testing a new way to create a iPhone without removing a face mask Apple (AAPL) is testing new iOS software that allows people to"
-    publishedDateTime: 2021-02-02T23:30:00Z
-    webUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/"
-    ampWebUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 24
-  - title: "Apple tests new way to unlock an iPhone without removing a face mask"
-    excerpt: "Some iPhone users will soon be able to unlock their smartphones without needing to remove their face masks in public. There's just one catch: it requires an additional Apple device."
-    publishedDateTime: 2021-02-03T00:53:00Z
-    webUrl: "https://www.kctv5.com/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/article_423fefb9-6248-5861-93c3-d957ee7d7785.html"
-    type: article
-    provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
-        width: 820
-        height: 462
-        isCached: true
   - title: "iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing “mask with Apple Watch"
     excerpt: "News Highlights: iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing a mask with Apple Watch Apple makes it easier for users to"
     publishedDateTime: 2021-02-07T12:37:00Z

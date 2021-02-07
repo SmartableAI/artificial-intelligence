@@ -2,6 +2,282 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-01-08-how-ai-can-remove-bias-from-the-hiring-process-and-promote-diversity-and-inclusion.md",
+      "title": "How AI Can Remove Bias From The Hiring Process And Promote Diversity And Inclusion",
+      "excerpt": "Companies have been struggling with how to mitigate and reduce biases of all kinds in their hiring practices, while attempting to promote diversity and inclusion in their cultures and ecosystems, to help their organizations and employees thrive at the highest levels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
+      "originalUrl": "https://www.forbes.com/sites/kathycaprino/2021/01/07/how-ai-can-remove-bias-from-the-hiring-process-and-promote-diversity-and-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/IhvXOlrGI-P27kWzQo8AmzXVhug=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19484592/GettyImages_1189384731.jpg",
+          "width": 1400,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
+      "publishedDateTime": "2021-01-07T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-speech-recognition-changes-after-cochlear-implant.md",
+      "title": "Speech recognition changes after cochlear implant",
+      "excerpt": "What The Study Did: Researchers compared changes in preoperative aided speech recognition with postoperative speech recognition among individuals who received cochlear implants. Authors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/jn-src010621.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/jn-src010621.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-nec-says-new-facial-recognition-system-isnt-stopped-by-masks.md",
+      "title": "NEC says new facial recognition system isn't stopped by masks",
+      "excerpt": "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/nec-face-recognition-mask/",
+      "originalUrl": "https://mashable.com/article/nec-face-recognition-mask/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F01%252F07%252Fb8%252F20f2df8786314079b5690b601cd55a66.f7cc6.jpg%252F1200x630.jpg?signature=AAXqsror3UXNs87tye1ghBfsBwM=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/nec-face-recognition-mask.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp",
+      "publishedDateTime": "2021-01-07T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-ev-dreams-power-baidu-but-may-not-last.md",
+      "title": "EV Dreams Power Baidu but May Not Last",
+      "excerpt": "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "originalUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-281927/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "publishedDateTime": "2021-01-07T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-waymo-ditches-self-driving-term-in-apparent-dig-at-tesla.md",
+      "title": "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla",
+      "excerpt": "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362902",
+      "originalUrl": "https://www.entrepreneur.com/article/362902",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-4-stocks-to-gain-traction-from-fintech-evolution-in-2021.md",
+      "title": "4 Stocks to Gain Traction From Fintech Evolution in 2021",
+      "excerpt": "Certain behavioral changes induced by the pandemic like online shopping, cashless payments and no-contact deliveries are here to stay and will continue to boost the Fintech space in 2021 and the years to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07",
+      "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp",
+      "publishedDateTime": "2021-01-07T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-dall-e-openais-ai-system-can-convert-words-and-sentences-into-images.md",
       "title": "DALL-E: OpenAI’s AI System Can Convert Words And Sentences Into Images",
       "excerpt": "OpenAI has developed an AI system that lays its foundations in GPT-3, DALL-E — capable of creating images from natural language texts.",
@@ -873,301 +1149,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark.md",
-      "title": "Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark",
-      "excerpt": "The Microsoft AI model DeBERTa—being integrated into the next version of Microsoft Turing—set a new state of the art in natural language understanding. Learn how it uses 3 novel techniques to surpass human performance on and top the SuperGLUE leaderboard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/",
-      "originalUrl": "https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2021/01/1400x788_Deberta_nologo_still-scaled.jpg",
-          "width": 2560,
-          "height": 1441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-brief-novartis-microsoft-announce-artificial-intelligence-collaboration.md",
-      "title": "BRIEF-Novartis, Microsoft Announce Artificial Intelligence Collaboration",
-      "excerpt": "JOINT RESEARCH ACTIVITIES WILL INCLUDE PERSONALIZED THERAPIES FOR MACULAR DEGENERATION, CELL & GENE THERAPY, DRUG DESIGN Source text for Eikon: Further company coverage: (Berlin Speed Desk ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.reuters.com/article/brief-novartis-microsoft-announce-artifi/brief-novartis-microsoft-announce-artificial-intelligence-collaboration-idUKASP0017LB",
-      "originalUrl": "https://uk.reuters.com/article/brief-novartis-microsoft-announce-artifi/brief-novartis-microsoft-announce-artificial-intelligence-collaboration-idUKASP0017LB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKASP0017LB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKASP0017LB",
-      "publishedDateTime": "2021-01-06T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-kenya-africa-hurdles-in-artificial-intelligence-race.md",
-      "title": "Kenya, Africa hurdles in artificial intelligence race",
-      "excerpt": "Kenya is still miles behind in positioning itself for the takeoff of Artificial Intelligence ... is the format used to create algorithms for self-driving cars, weather forecasting, crucial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180",
-      "originalUrl": "https://www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessdailyafrica.com/resource/blob/3249182/966dcf7e64b7aa712da263fe44aa12be/ai-data.jpg",
-          "width": 890,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180?view=htmlamp",
-      "cdnAmpWebUrl": "https://www-businessdailyafrica-com.cdn.ampproject.org/c/s/www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180?view=htmlamp",
-      "publishedDateTime": "2021-01-06T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Daily Africa",
-        "domain": "businessdailyafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-openais-dall-e-turns-weird-text-into-weird-images.md",
-      "title": "OpenAI's DALL-E turns weird text into weird images",
-      "excerpt": "OpenAI is known for developing impressive AI models like GPT-2 and GPT-3, which are capable of writing believable fake news but can also become essential tools",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "originalUrl": "https://www.techspot.com/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-06-image-6.jpg",
-          "width": 1460,
-          "height": 1172,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "publishedDateTime": "2021-01-06T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports.md",
-      "title": "Veo raises $25M for AI-based cameras that record and analyze football and other team sports",
-      "excerpt": "Sports have been among some of the most popular and lucrative media plays in the world, luring broadcasters, advertisers and consumers to fork out huge sums to secure the chance to watch (and sponsor) their favorite teams and athletes.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/",
-      "originalUrl": "https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Veo-99.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/amp/",
-      "publishedDateTime": "2021-01-06T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-intel-is-using-its-realsense-tech-for-facial-recognition.md",
-      "title": "Intel is using its RealSense tech for facial recognition",
-      "excerpt": "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
-      "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F7daa7160-5050-11eb-a7fb-ebe8df925d58&client=amp-blogside-v2&signature=21ed96e62f4d4cf3a8e85595647849cb3e045c56",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
-      "publishedDateTime": "2021-01-06T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

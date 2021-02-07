@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-07-ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study.md",
+      "title": "IBM OpenPages with Watson can deliver a 218% return on investment, finds Forrester study",
+      "excerpt": "The modern enterprise evolves to develop an integrated governance, risk and compliance (GRC) framework. Using a structured approach to manage GRC programs creates efficiencies by aligning technology with business objectives so that the organization can effectively manage risk and operate effectively",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/RegTech_Watson_blog_surprise_leadspace-1-990x498.png",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T09:03:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-healthcare-artificial-intelligence-ai-market.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market",
+      "excerpt": "IBM Watson has a substantial vital edge in this area and is an industry leader. Oncology has received the most significant consumer interest in the application of AI diagnosis. Other industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "originalUrl": "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc07554095_g.jpg",
+          "width": 417,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "publishedDateTime": "2020-12-07T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-how-bert-and-gpt-models-change-the-game-for-nlp.md",
+      "title": "How BERT and GPT models change the game for NLP",
+      "excerpt": "AI that can compose Shakespearean sonnets. AI that can design a webpage based on a simple user description. AI that can summarize a description of quantum computing for an eighth grader. Since the launch of the GPT-3 language model this year, natural language processing (NLP) and machine learning enthusiast",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WatsonBlog_BERT_NLP_2000x1006_WDDE_1361-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T11:35:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-driving-the-next-generation-of-ai.md",
       "title": "Driving The Next Generation of AI",
       "excerpt": "This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) a",

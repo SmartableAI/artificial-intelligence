@@ -163,6 +163,59 @@
       ]
     },
     {
+      "path": "_news/2021-01-29-4-ways-ai-and-ml-enhance-the-b2b-buyers-journey.md",
+      "title": "4 Ways AI And ML Enhance The B2B Buyers’ Journey",
+      "excerpt": "Just as consumer marketing teams have found AI-driven martech to help them reach their buyers where they are, B2B marketing teams are starting to realize that AI can do similar things to enhance their business customers’ journeys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012fb7404112e7aa8e50214%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
+      "publishedDateTime": "2021-01-28T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-artificial-intelligence-takes-center-stage-early-in-2021.md",
       "title": "Artificial Intelligence Takes Center Stage Early in 2021",
       "excerpt": "AI is the most significant technology of the last 30 years and its innovation is accelerating in the early part of 2021.",
@@ -297,6 +350,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-more-than-a-name-ibm-support-for-watson-college-remains-strong.md",
+      "title": "More than a name: IBM support for Watson College remains strong",
+      "excerpt": "If you want to see the connections between IBM Corp. and Watson College, you need to look no further than the name of the school itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.binghamton.edu/news/story/2858/more-than-a-name-ibm-support-for-watson-college-remains-strong/",
+      "originalUrl": "https://www.binghamton.edu/news/story/2858/more-than-a-name-ibm-support-for-watson-college-remains-strong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.binghamton.edu/news/images/uploads/features/_normal/IBM_car.jpg",
+          "width": 770,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Binghamton University",
+        "domain": "binghamton.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-ibm-i-marketplace-continues-to-expand.md",
+      "title": "IBM i marketplace continues to expand",
+      "excerpt": "The IBM i platform continues to show solid growth as customers upgrade hardware and software to support key business apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.enterprisetimes.co.uk/2021/01/26/ibm-i-marketplace-continues-to-expand/",
+      "originalUrl": "https://www.enterprisetimes.co.uk/2021/01/26/ibm-i-marketplace-continues-to-expand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/johannes-groll-mrIaqKh9050-unsplash.jpg",
+          "width": 728,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetimes.co.uk",
+        "domain": "enterprisetimes.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1280,135 +1419,6 @@
       "provider": {
         "name": "List of Banks in Belarus",
         "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-levelling-the-playing-field.md",
-      "title": "Levelling the playing field",
-      "excerpt": "IBM has been using AI in its HR processes for several years thanks to the creation of Watson, a natural language computer system predating Amazon’s Alexa, which can answer questions in a human-like way. IBM’s Andi Britt says: “We’ve been doing a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
-      "originalUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hrmagazine.co.uk/article-images/image-library/138/screenshot_2020-12-22_at_18.49.06_f348cd83.jpg",
-          "width": 800,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-27T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HR Magazine",
-        "domain": "hrmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-15-biggest-tech-companies-how-big-can-they-get.md",
-      "title": "15 Biggest Tech Companies: How Big Can They Get?",
-      "excerpt": "In this article, we are going to list the 15 biggest tech companies in the world. Click to skip ahead and jump to the 5 biggest tech companies in",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/15-biggest-tech-companies-how-big-can-they-get-911336/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/15-biggest-tech-companies-how-big-can-they-get-911336/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/11/09050314/technology-2818664_960_720.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-25T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-cio-leadership-hmg-strategy-the-worlds-1-executive-leadership-network-looks-ahead-to-its.md",
-      "title": "CIO Leadership: HMG Strategy, the World’s #1 Executive Leadership Network, Looks Ahead to Its ...",
-      "excerpt": "HMG Strategy, the world's #1 digital platform for connecting technology executives to reimagine the enterprise and reshape the business world, is looking",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/business/consumer/article_54317928-7247-5fb3-97c1-e81ebe1202ca.html",
-      "originalUrl": "https://omaha.com/business/consumer/article_54317928-7247-5fb3-97c1-e81ebe1202ca.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T14:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
         "images": null,
         "publishers": null,
         "authors": null

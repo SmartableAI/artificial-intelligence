@@ -110,6 +110,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-04-this-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
+      "title": "This AI maths whiz creates tough new problems for humans to solve",
+      "excerpt": "Algorithm named after mathematician Srinivasa Ramanujan suggests interesting formulae, some of which are difficult to prove true.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-021-00304-8",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-00304-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-00304-8/d41586-021-00304-8_18829048.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
       "title": "AI maths whiz creates tough new problems for humans to solve",
       "excerpt": "Algorithm named after mathematician Srinivasa Ramanujan suggests interesting formulae, some of which are difficult to prove true.",
@@ -1465,58 +1509,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-can-an-ai-predict-the-language-of-viral-mutation.md",
-      "title": "Can an AI Predict the Language of Viral Mutation?",
-      "excerpt": "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
-      "originalUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
-      "publishedDateTime": "2021-01-14T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
