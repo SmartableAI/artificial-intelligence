@@ -21,43 +21,68 @@ topics:
   - AI
 
 related:
-  - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
-    excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
-    publishedDateTime: 2021-02-03T01:38:00Z
-    webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
+  - title: "Google’s AI-focused venture fund leads $5.4M investment for Seattle analytics startup Iteratively"
+    excerpt: "Seattle startup Iteratively raised a $5.4 million round led by Gradient Ventures, Google's AI-focused venture fund. Founded in 2019 by veterans of Atlassian and"
+    publishedDateTime: 2021-02-04T23:52:00Z
+    webUrl: "https://www.geekwire.com/2021/googles-ai-focused-venture-fund-leads-5-4m-investment-seattle-analytics-startup-iteratively/"
+    ampWebUrl: "https://www.geekwire.com/2021/googles-ai-focused-venture-fund-leads-5-4m-investment-seattle-analytics-startup-iteratively/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/googles-ai-focused-venture-fund-leads-5-4m-investment-seattle-analytics-startup-iteratively/amp/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: GeekWire
+      domain: geekwire.com
     quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
-        width: 1500
-        height: 843
-        isCached: true
-  - title: "SAS Viya Delivers Innovation And Analytics For All"
-    excerpt: "Customers benefit from easier cloud migration and management of analytic workloads; SAS continues to strengthen its partnership with Microsoft Azure Mumbai, Maharashtra, India Business Wire India Analytics leader SAS continues to innovate by making it easier to access its powerful,"
-    publishedDateTime: 2021-02-03T08:05:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/sas-viya-delivers-innovation-and-analytics-for-all.html"
+  - title: "Google’s AI fund leads $5.4M round for data startup Iteratively"
+    excerpt: "Iteratively Inc. today announced that it has closed a $5.4 million financing round led by Google LLC’s Gradient Ventures fund, which focuses on backing promising artificial intelligence startups. Fika Ventures and PSL Ventures participated in the round as well."
+    publishedDateTime: 2021-02-04T21:44:00Z
+    webUrl: "https://siliconangle.com/2021/02/04/googles-ai-fund-leads-5-4m-round-data-startup-iteratively/"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 24
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wf9zahdas70tznpq_1612339428.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/data.png"
+        width: 820
+        height: 500
         isCached: true
-  - title: "OH: Local analytics startup signs COTA as first client"
-    excerpt: "Ikonos is positioned to establish process and governance around the use of data in organizations, such as COTA."
-    publishedDateTime: 2021-02-04T12:22:00Z
-    webUrl: "https://www.masstransitmag.com/technology/news/21208795/oh-local-analytics-startup-signs-cota-as-first-client"
+  - title: "Viking Analytics and pour-tech AB sign contract to provide AI operators to iron foundries"
+    excerpt: "Viking Analytics, a Swedish startup in advanced analytics solution for predictive operations, and pour-tech AB, specialized in"
+    publishedDateTime: 2021-02-03T10:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-pour-tech-ab-sign-contract-to-provide-ai-operators-to-iron-foundries-301221068.html"
     type: article
     provider:
-      name: Mass Transit
-      domain: masstransitmag.com
-    quality: 2
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Viking Analytics and Pour-tech AB Sign Contract to Provide AI Operators to Iron Foundries"
+    excerpt: "Automation is well established in foundries, but companies also must take on digital transformation. The Viking Analytics / pour-tech AB partnership shows the potential Artificial Intelligence use in the metal industry."
+    publishedDateTime: 2021-02-04T20:39:00Z
+    webUrl: "https://www.automation.com/en-us/articles/february-2021/viking-analytics-pour-tech-ab-contract-ai-iron"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 28
+    images:
+      - url: "https://www.automation.com/getmedia/c471b09e-28ab-4216-bcd8-972b5c9f81a8/Viking-news-Feb-4-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
+    excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
+    publishedDateTime: 2021-02-05T19:52:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2021/02/05/atlanta-partners-with-olea-edge-analytics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
 
 secured: "8/6FKBHEeKLFrP1JzLKjlk0CnTPzHSveJUt96RPTrEuEbbcfKzqyHLFZAvc2dcNSHQUEU8bRYqm0PIemRnzZPKrTDlgyo0xscfFplgyien9sNnRWOjkEt83CzRglfuT6rtW0t36W7qrJ9T+Y0YHHf3UWMnsjWqYl/TwZjul08ycnnhHzxqbJB57MY+HfpcSDxVLDDaWBlhNhF4b2YvjrCHSnUXreGNZaKcMGPlwmacWBaE+qwqta/ogFe7K8jWYLTw2y75vY9OzI2jzm04iI4tEyRZ8urfkSFHKt1VCIe+92NyPg6wOMMFF+caGSKw/os59fOsgnXh2SqE/uaQvdjbUJn800cSO428bOl33hM3w=;IlaDnXALAUntal1FWQvtHA=="
 ---

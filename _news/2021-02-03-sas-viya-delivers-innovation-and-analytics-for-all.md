@@ -25,40 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
-    excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
-    publishedDateTime: 2021-02-03T01:38:00Z
-    webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
+  - title: "Monitoreal provides an AI-smart object detection appliance to deliver advanced analytics and real time alerts"
+    excerpt: "The use of AI-computer vision technology to improve situational awareness and provide highly accurate advanced object detection analytics, reducing false alerts and delivering real time"
+    publishedDateTime: 2021-02-05T05:47:00Z
+    webUrl: "https://www.sourcesecurity.com/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 40
     images:
-      - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
-        width: 1500
-        height: 843
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/safety-in-smart-cities-how-video-surveillance-keeps-security-front-and-centre-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
-  - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
-    excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
-    publishedDateTime: 2021-02-07T13:56:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+  - title: "Law.com Litigation Trendspotter: Why Trial Lawyers Owe It to Their Clients to Embrace AI and Data Analytics"
+    excerpt: "Now, more than ever, litigators may be doing their clients a disservice by not taking advantage of legal technology."
+    publishedDateTime: 2021-02-05T03:08:00Z
+    webUrl: "https://www.law.com/2021/02/04/law-com-litigation-trendspotter-why-trial-lawyers-owe-it-to-their-clients-to-embrace-ai-and-data-analytics/"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 28
-  - title: "OH: Local analytics startup signs COTA as first client"
-    excerpt: "Ikonos is positioned to establish process and governance around the use of data in organizations, such as COTA."
-    publishedDateTime: 2021-02-04T12:22:00Z
-    webUrl: "https://www.masstransitmag.com/technology/news/21208795/oh-local-analytics-startup-signs-cota-as-first-client"
-    type: article
-    provider:
-      name: Mass Transit
-      domain: masstransitmag.com
-    quality: 2
+      name: Law
+      domain: law.com
+    quality: 19
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2021/02/Robot-Article-202102042052.jpg"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "SrzqrSoUTBFeC2WwjZo+abmWxU4340kzbrkNiVjj0FUZ/ET5tgSlNc6QAa2sMGmZibkXgAqVy32THsnISDy1DIPtDAPX/ReCub6PiS79/NAcEBOGN1L7eB7uGaeZaT1GP2EL6nex08ZHhVHzMH535fjkTCLzTsvj2iTMQoX/VQdz2KFpdglxpQarvjTJBHDLtQuTYWoL4eduF2v4vllFWklu+ZBSqVVfJWhPh5KdSkoim1XILJuvyVrMjZefqi6X0AgLfZyDUJszKctSh3Z7LFGGoZFK6tqA0YF+qgFxPPpXJ+zD8tmJuDOZ/ViCTa8X218MJbPXHObe5PgDfC/fbgHfdCjNJVKJS1mb8HPtE4Q=;e0somuwTw8HVAY6fuAzkow=="
 ---

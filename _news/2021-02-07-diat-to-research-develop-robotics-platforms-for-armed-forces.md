@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/cities/pune/diat-to-research-devel
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/lite/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

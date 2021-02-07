@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Pony.ai is raising $ 100 million more to improve its autonomous vehicle technology"
+    excerpt: "Pony.ai is raising $ 100 million more to improve its autonomous vehicle technology Start up self-driving car Pony.ai announced today that"
+    publishedDateTime: 2021-02-07T17:30:00Z
+    webUrl: "https://www.compsmag.com/news/technology/pony-ai-is-raising-100-million-more-to-improve-its-autonomous-vehicle-technology/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/pony-ai-is-raising-100-million-more-to-improve-its-autonomous-vehicle-technology/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/pony-ai-is-raising-100-million-more-to-improve-its-autonomous-vehicle-technology/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 53
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Ponyai-is-raising-100-million-more-to-improve-its.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "3Bjwmwdh0yaNwfGyTuZepntH0UJIXXuGLL4Iq7rpSAd+5sIFbNI2fTHJCxZbsQa5fmlY0VSB/zQTDjoE2YrxX3/BCQgH/FTcu1Pg7weKf7d2373jY/AvEF/WoYOKQV1UUyqxWmx86Ip9mTS2EIyxrt6/vHkOOkV7x39mSmB40PtMtV8ticH2brjRPeBcWEOKZ5XUdKB14+RfzBwE9giBr9iFMJ968qAayRbo61Id10rqapVZKxJojp41kONxuODO42Qqb9UrWAHGqOj4x8uICV4uO+IDfDsZUETYsdMZeGd4lsHN9TVm9g2z0HJU+iFgFEevMXILkw4H9M1wZL4bTG7pogA4YG3Nx9W4sV7LCkf3n7WW3ZLUqU+VJUWFI9/no57BTzECw2loAznVbF9EhaQWkjmrYKWQWq7eBGs+umFt4BT62Npy/T8fx9NVXYcG414MhGqS5WfQSGbhriH3pxqUSJmiR9KkgRIgD9jxVoMMPhYLlqNQlnuUjEK3FKRpQY3WpKxw4SfT4qx1XYj1FA==;VA5MosSan9FGO++EJH/GPA=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Etihad Airways transforms operations with Microsoft AI capabilities"
 excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
 publishedDateTime: 2021-02-05T05:44:00Z
-originalUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-webUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_199629494/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_199629494/"
+originalUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
 type: article
 quality: 74
 heat: -1
@@ -181,15 +181,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
-    publishedDateTime: 2021-02-04T17:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 58
   - title: "GDIT Signs Microsoft Partner Agreement to Deliver Azure to Federal Agencies"
     excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics, has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G), GDIT reported on Thursday. \"Clients across the federal government are rapidly adopting cloud and Software-as-a-Service solutions,"
     publishedDateTime: 2021-02-05T00:00:00Z
@@ -217,6 +208,34 @@ related:
       - url: "https://www.yankodesign.com/images/design_news/2021/01/these-in-ear-translator-earphones-help-you-fluently-speak-in-as-many-as-40-different-languages/worlds_first_bi_directional_translation_earbuds-510x314.jpg"
         width: 510
         height: 314
+        isCached: true
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
+    publishedDateTime: 2021-02-04T17:59:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
@@ -331,6 +350,6 @@ related:
         height: 315
         isCached: true
 
-secured: "hTsBLX+pxNWObCJNh12IQdkZf/WRp8/uFURWT9wH/9pv1iUyfBubxLDPoJjh46z28mjaF+o1EWnXYmzOOaxYvqdtolVVt+q2W1E77P/wcdj9gpDA6GLxPYfP0z/EdFUBZrE4NJyksI+qEw+pWMGj1XEg9h/h1XkB2DdjZUCfDRq0cf+TmshwC+HgL/qYF/4jXn5mA+/hH2CRjgEb5Ze8BWVqGiapEKoikAU+l4kP4ASi0DWiOfY1M/tkvxrTXcukgAya7pjzAejtceRhgRvFOYw3ERHlKNKZLo6y84Y1WkpEWbhFlQIWFvbm/wPbJW+61UX4PhWMCCugRD+q+1Mh0dvSvEua+wZ54Y6I6BhppSIRQlC0Y3MRZFow9jACPnQoqlDYTbkUZJ4Woh0Xin6fXP0Q0m7dk7FMzMstjgdhkVjxm97e8kqQeI+Flb9/t1jzSiKLmzhjdf7vuF7aC7VXk7LEPGAxdlchVzYsyaeWpEYLh8MEVLuQYdlIFEb84Q8Xj/E/Hrhg+CyVywiFevkBlg==;3aJeey1JQZEFF733h5QGTA=="
+secured: "j6yY2B4hQwzPmLdj9XnXlS/60q9TuOzQECEVDY+rAwWySQbMW5USC/kywxeMQ7+LgJlB0W8Uts9Hictn/5PHuSMsFvarIQ1k+GsWE0I7JzupKRwA0uzrOeuzELgyIuLMxFGSpBIuqQPRD+5hghrR9iPV8iI4VURLDiA4Y3WITRJZcGVpeI8HoZO/GchJuoaRzmNVIFQIKNic3QstignD1JWIBQHqEYsEjb5E8R+G5cjPEBpBZJcpSoLrKK08UgwLivemxSVVt4Vnom8HHpEMIGVrHd4tl9rVUaNdlYXv+h5/HLcaWn6Vm2FocbB5yPO1lNnZySLT1DYvMCBQoSWGdlBhHtDzOEHV1rDBJ+/ryhg=;Kd8DaJh+Cy4KAvkmFIFLPg=="
 ---
 

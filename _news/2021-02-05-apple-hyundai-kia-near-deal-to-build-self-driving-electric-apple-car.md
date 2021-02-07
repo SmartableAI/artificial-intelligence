@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-
 webUrl: "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 24
+  - title: "Report: Apple to develop electric self-driving car with Hyundai"
+    excerpt: "After many years of trying to jump-start a self-driving car program internally, a new report claims that Apple Inc. is closing on a deal with Korean automotive OEM Hyundai-Kia to develop an Apple-based autonomous electric vehicle (EV)."
+    publishedDateTime: 2021-02-05T13:34:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16314/report-apple-to-develop-electric-self-driving-car-with-hyundai"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
   - title: "Apple and Hyundai-Kia nearing deal to build self-driving car in US - report"
     excerpt: "Apple is close to finalising an agreement with Hyundai-Kia to build an Apple-branded autonomous electric vehicle in West Point, Georgia, according to unnamed sources cited by CNBC. The deal reportedly depends on the automaker allowing Apple to control the software and hardware that will go into the vehicle."
     publishedDateTime: 2021-02-04T08:43:00Z

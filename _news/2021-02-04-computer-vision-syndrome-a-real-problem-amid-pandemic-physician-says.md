@@ -1,29 +1,31 @@
 ---
 category: news
-title: "'Computer vision syndrome a real problem' amid pandemic, physician says"
-excerpt: "\"And that leads to fluctuations in vision and blurred vision and of course the eye strain can cause headaches,\" Dr. Starr said. \"So the computer vision syndrome is a real problem, especially in the post-COVID-19 era."
-publishedDateTime: 2021-02-03T22:44:00Z
-originalUrl: "https://www.beckershospitalreview.com/public-health/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.html"
-webUrl: "https://www.beckershospitalreview.com/public-health/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.html"
+title: "‘Computer vision syndrome a real problem’ amid pandemic, physician says"
+excerpt: "Computer vision syndrome a real problem’ amid pandemic, physician says. Erica Carbajal - Wednesday, Print | E-mail"
+publishedDateTime: 2021-02-03T23:38:00Z
+originalUrl: "https://www.compsmag.com/news/pc/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says/"
+webUrl: "https://www.compsmag.com/news/pc/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says/"
+ampWebUrl: "https://www.compsmag.com/news/pc/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Becker's Hospital Review
-  domain: beckershospitalreview.com
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-    width: 800
-    height: 600
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/‘Computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says-1024x768.png"
+    width: 1024
+    height: 768
     isCached: true
 
-secured: "pDy/u+SxBg+tCeEIAgmRmGePMFZymtFuy5lNIeLmr4hHh29u1kzQ4SFbmnQe75Ied37eLG9ez+KqSM/I1Eh0QB48Y5riNmcIXODEknniZgtJ1HmT5AXqneRhJHnc9Su47ZK5i51hEHZ+rQLXGoyiTtCsNVV10m8bflkvFM7XiEnTqrH7WuqYw99d377TwzkruglP5EJonNYiS2zkBKxWjRUcEgf3IvRktljqcrUMvIWwP28aly5G93JcanQBV1vyVhiqQIB8FAtIa3BkbXD/l2x379tgD3Qv8XrAhGiPf464yHe/r+TpT+Wp9sqRlUX1sKRW1sNh07FKYbm221wAFqi/XNeLp94AAb45b9BnVk4=;GFPW58KXPU0SHgEqWWtmtQ=="
+secured: "CkgjwxI/hErWcT2r1g2zf2+mSY4NWp1xlf9sNNvYuCD7TMejP0ISKuLaqFMzmqkTrW1iM9p4bKwgH3DKF9uuOn8IGrnv1F3zVOYs6Lo0QG7LvYZwGEKmkV2VK2MhVddc5cIStNhK3oZZ4GwG7CogJ6yXLIlBaoIrPaETfCmXm9JyM0wGwPQdWNzyg8oEruxW5MqrbOJ2FGl/V0pLn22VWc/Vj1j+PfKP6J3NYPEKNrJUKcVKXI4el2Lkb6aJmt0EMEvlxg6goH1RVM8pyY18brFc6EGfHzJlmEn3dJFOxtHOTOR4BL4RBeHg1R5zj5xZ3vI3HqLnawvZK4U9ixALutWuRT4TiGcjLNT4IYsii/A=;fXk38paYQ1FkNsIJOsQcrg=="
 ---
 

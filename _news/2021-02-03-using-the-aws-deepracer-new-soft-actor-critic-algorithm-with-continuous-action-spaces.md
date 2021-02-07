@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/using-the-aws-deepra
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces/"
 type: article
 quality: 114
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "Using genetic algorithms on AWS for optimization problems"
+    excerpt: "Machine learning (ML)-based solutions are capable of solving complex problems, from voice recognition to finding and identifying faces in video clips or photographs. Usually, these solutions use large amounts of training data, which results in a model that processes input data and produces numeric output"
+    publishedDateTime: 2021-02-04T17:59:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/ML-1235-4.jpg"
+        width: 728
+        height: 296
+        isCached: true
 
 secured: "gthIBzi8IumdRSqzG5pbxVse2PrRmA1sRKzRqK0WEyp9UShpGdkGcbkYhp1DPA0IHnW8zgyv31Id9PNSFOhhuBc101y9LRU7zj58dmMJkfEhPZEqCnXkUcTyQAQlzP9wMqBVEljdf4BjCvlFVY79h5kvhxNwsNRytg7QtVOAJudaU7wS8IoCotzEsB65mAeEJmSgKvN6r6Q4WbGD6I2p88etV8kxmaX4SQt5GyyDNjBIhMP5tzZHMN9rGFrhCsaLguX9SZv01KPhIHsPOOfErjlx2A7Clkxyy6a/G3XJ+coBBGfcFTkDezh0cgCBB8PyU8wTliLQRGAus9g5bKm5njVCMqZp2cBgnyhDoHxxxp4=;sMAD9oFpBB+05czvmbXAjw=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge AI Hardware Market Global Forecast to 2024 by Devices, Processor, Power Consumption, Process, End-User Industry, Top Key Players, and Regions"
-    excerpt: "The edge AI hardware market is expected to register a shipment of 610 million units in 2019 and is likely to reach 1559.3 million units by 2024, at a CAGR of 20.64% during the forecast period. Major drivers for the market's growth are growing demand for low latency and real-time processing on edge devices and emergence of AI coprocessors for edge computing."
-    publishedDateTime: 2021-02-03T14:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-global-forecast-to-2024-by-devices-processor-power-consumption-process-end-user-industry-top-key-players-and-regions-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Tj0Y4qUdOOfh7S0oVivFA6wAfawkMXjEeVN4J5MJlC1v3RBjhwvbbjtrEzTRZrT1uu3CAkR+BlxHNn6nKnJmSB4i/+Ok79blkZgqfDnWiCrAC40cVjTGhsJuL4p4Shq0524ZMrBATTsXN+4RaFjNzOkJZYY7bIiVqi1h2gjkrp7nVd1NBZsH/qpb2tSXfufr4GrDC305cot+cid/Aqbumu94PUo2LQ8g/yby+CKeCA3T1okRWPP2kih9/CE9AKF6hiteBqxGpdBK1UP8IymWsyvN0Bq8OfW4xIuajdNEPg53s0e0UuZoWry0ULdoOzVV2CzSbLwFvQIMCzGF3sHt8HRMCS3Au1Sh09bIChS4WFM=;z3QidM2NR9PMqqHxE5ki1Q=="
 ---

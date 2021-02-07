@@ -1,22 +1,28 @@
 ---
 category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
-publishedDateTime: 2021-02-04T17:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
-webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
+publishedDateTime: 2021-02-04T17:59:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
 type: article
-quality: 58
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft launches Custom Neural Voice in limited access"
@@ -86,9 +92,9 @@ related:
   - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
     excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
     publishedDateTime: 2021-02-05T05:44:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_199629494/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_199629494/"
+    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
     type: article
     provider:
       name: Zawya
@@ -217,6 +223,20 @@ related:
         width: 510
         height: 314
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
     publishedDateTime: 2021-02-04T22:13:00Z
@@ -330,6 +350,6 @@ related:
         height: 315
         isCached: true
 
-secured: "r7KcY8Kln3GVK1xiIGpDnhZeAM9CgLHe2T9ueBrSABogDLTJSSlVMgW1cVrGzkYKmNyi6OpwM3FUe2J/s3ToV3I/xGdO3+HJtkJI+A9MhhPwJ3KK6PmXFzVp1yg3WI+FNFdE7r1/q14ke0tDAqPFHgTKDDC5nliFjNHqS8qwXNqZRWidjc1UaF+5he8kRb99uLjYlDfKMgSm3xLaFSIfe6/NxsFFdLxoyMVJswbqqY1wE4A1ELA18mEdilM4OpSUbLNJfdPUSgY6gmglLZC2eodFkJXgkplGxzb5Dk/B4VJFOpiDmdBQY7ACwtcArHd+LR+zCj/R+QPWRkXDNStiPyH8z2DkquuiKGXlE4AxjfQ=;PIh2yqB+IKWlskxe5y1LDg=="
+secured: "tXCwl6hzv0EWuXI+P+n55lBBtPWBtcSrgWkJlmM7kk4Qc2+dmyjmBEhiEqC7auAyKeVnzTfI++2K5pQK3bOcVHGcIFo85a41ntwn8EjQTe/NIw9zwOkdRliwMm0HfCC0RprPeDiagsXmGml8vsvj9p2/ORLqIvzyOaFh5bDh9J7zV77IuG6vwy8Rpcdpu1Yxwdyf5kIjl+jshOO+gCdLiyCRiKOcO71e/u5k+uDrKxm7UESUnzut2edr2DpJ9QQ3J1577PJwC49esKOOVXX31wu3T06LsXq29oENWcdJpre4rMQcb4G+WHu3cneScpYaJuyuz4Gh5uEE01UhQqhtOxMHlQ2HoYkR/QBIzh1+atY=;ql9Zmz302GBhs4iUH6ZKYg=="
 ---
 

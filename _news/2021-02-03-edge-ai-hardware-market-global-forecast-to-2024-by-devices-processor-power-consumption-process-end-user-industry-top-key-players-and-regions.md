@@ -29,62 +29,105 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Robots Market 2020: Expected Development, Share, Demand And Study Of Key Players"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
-    publishedDateTime: 2021-02-03T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03"
+  - title: "Obtaining Market Recognition And Assessing Value Propositions In A Rapidly Changing Business Climate"
+    excerpt: "What will it take for organizations to keep building market recognition? How can leaders impact the sentiment of their audiences? Why are some companies excelling and others getting behind?"
+    publishedDateTime: 2021-02-03T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee90f75a2b06400077bbb41%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Using Facial Recognition to Find Capitol Rioters Brings Risks"
+    excerpt: "In the aftermath of a riot that included white supremacist factions attempting to overthrow the results of the presidential election, communities of color are warning about the potential danger of the software."
+    publishedDateTime: 2021-02-05T23:39:00Z
+    webUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html"
+    ampWebUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/BIZ-CPT-CAPITOL-RIOTS-FACIALRECOGNITION-ABA.jpg"
+        width: 941
+        height: 626
+        isCached: true
+  - title: "Bingo and AI The changing relation between entertainment and artificial intelligence"
+    excerpt: "The relation between entertainment and artificial intelligence is undoubtedly influencing the quality of humans lives. It is personalizing our entertainment activities, including gaming."
+    publishedDateTime: 2021-02-03T14:44:00Z
+    webUrl: "https://www.analyticsinsight.net/bingo-and-ai-the-changing-relation-between-entertainment-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 45
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Bingo-and-AI-The-changing-relation-between-entertainment-and-artificial-intelligence-min.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Machine Learning to Bring a Transformation in Software Testing"
+    excerpt: "Automated testing has emerged as one of the most relevant technologies for scaling DevOps, businesses are spending a lot of time and effort to develop end-to-end software delivery pipelines, and containers and their ecosystem are keeping up with their early promise."
+    publishedDateTime: 2021-02-04T11:19:00Z
+    webUrl: "https://www.cioapplications.com/news/machine-learning-to-bring-a-transformation-in-software-testing-nid-7199.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/hvhlh450.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "Amazon Begins Expanding Electric Van Program, Provides Update on Packaging Reduction"
+    excerpt: "Amazon is seeing returns on its sustainability investments, particularly for its electric delivery van pilot and machine learning (ML)-powered reductions in packaging weight. These initiatives are part of Amazon’s commitment to The Climate Pledge,"
+    publishedDateTime: 2021-02-04T18:08:00Z
+    webUrl: "https://retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction"
+    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 37
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/08/Amazon-Mercedes-e-Van.jpg"
+        width: 960
+        height: 643
+        isCached: true
+  - title: "Speech and Voice Recognition Market Revenue, Industry Growing Demand, Size, Share, Business Opportunities, Top Companies, Regional Outlook 2027"
+    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
+    publishedDateTime: 2021-02-03T21:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-industry-growing-demand-size-share-business-opportunities-top-companies-regional-outlook-2027-2021-02-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 18
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market 2020: Expected Development, Share, Demand And Study Of Key Players"
-    excerpt: "The Automotive Artificial Intelligence Market is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR of 37.5% in the given forecast period. Browse Full Report Here:  The Automotive Artificial Intelligence Market is segmented on the Basis of Technology type,"
-    publishedDateTime: 2021-02-03T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03"
+  - title: "Amherst teen wins recognition in national arts competition"
+    excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
+    publishedDateTime: 2021-02-05T14:05:00Z
+    webUrl: "https://www.amherstbulletin.com/Amherst-teen-is-a-finalist-in-national-music-competition-38644548"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning Market 2020 Regional Demand, Industry Top Players Study, Key Trends and SWOT Analysis to 2025"
-    excerpt: "The latest report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast to 2025 firstly focuses on some important aspects of the market such as revenue rate, market share,"
-    publishedDateTime: 2021-02-03T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regional-demand-industry-top-players-study-key-trends-and-swot-analysis-to-2025-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cognitive Analytics Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
-    excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
-    publishedDateTime: 2021-02-03T04:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Amherst Bulletin
+      domain: amherstbulletin.com
+    quality: 4
 
 secured: "/kLGoHweSXs4b8Hd7fMK6D5hWnQR7q5reXByd92VLH91De/98UPk23/ipLNVWsucBEXrPoL1ZxryynPq/GBpwwjqdrumOovBL3DOdGUemETWgGD1X6TBPIbEieVEWgY8rDL486MJu12Z4p2a8OkJ5yLzkq4fcCE/XPl0U+ryjwSFG3hl94UFvFNXCDJ2ZcDw3VtDeoAlM7AfLm5ayl+IC1MmhgU5b6sVFAP6m7nvhna+EoYSA7iDEzJJJyz2H4tQalrJBTpGkfAwNu+mnVfT8/kXFCj7wEHvoK9s2rgoMpFutCuJnEcsLXjuXbkgmOWz9xmXLHoCD4LHVVu678sOovGsPWS82lS6NUi4Us+BeVk=;iRsidFA0kVtWZCO14wEV/w=="
 ---
