@@ -35,22 +35,6 @@ related:
         width: 810
         height: 405
         isCached: true
-  - title: "Utah Bill Looks to Tighten Grip on Facial Recognition Use"
-    excerpt: "The proposal out of the Senate is the latest in a string of efforts to limit the use of the technology in Utah. Allegation of misuse first surfaced in 2019, kicking off a long-running conversation about guardrails."
-    publishedDateTime: 2021-02-02T19:53:00Z
-    webUrl: "https://www.govtech.com/policy/Utah-Bill-Looks-to-Tighten-Grip-on-Facial-Recognition-Use.html"
-    ampWebUrl: "https://www.govtech.com/policy/Utah-Bill-Looks-to-Tighten-Grip-on-Facial-Recognition-Use.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Utah-Bill-Looks-to-Tighten-Grip-on-Facial-Recognition-Use.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_631751717.jpg"
-        width: 949
-        height: 630
-        isCached: true
   - title: "Image Recognition Market will obtain $53.0 billion by 2025"
     excerpt: "According to a new market research report Image Recognition Market by Technology Digital Image Processing Facial Recognition Pattern Recognition Component Hardware Software and Services Deployment Mode On premises Cloud Application Vertical and Region Global Forecast to 2025 published by"
     publishedDateTime: 2021-02-04T16:55:00Z

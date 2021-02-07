@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/exposing
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/exposing-hidden-tumors-with-near-infrared-imaging-and-machine-learning-345181"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: technologynetworks.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Near-infrared imaging and machine learning can identify hidden tumors"
-    excerpt: "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery."
-    publishedDateTime: 2021-02-02T19:39:00Z
-    webUrl: "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nearinfrared.jpg"
-        width: 2075
-        height: 1638
-        isCached: true
   - title: "New technology uses near-infrared imaging and machine learning to find hidden tumors"
     excerpt: "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery."
     publishedDateTime: 2021-02-03T05:15:00Z

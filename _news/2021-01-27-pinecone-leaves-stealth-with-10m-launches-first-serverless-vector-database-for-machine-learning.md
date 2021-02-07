@@ -2,26 +2,20 @@
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
 excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."
-publishedDateTime: 2021-01-27T15:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
-webUrl: "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
+publishedDateTime: 2021-01-27T15:10:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "8e6qGuqm0RXyyoR2MaH7riP2H0VzZzNPUV83Nv75h7QPF5SE8uB8m1/CSBUWrspVBDMMdTKpOxtYedTdDQG8AQg7t26DotyOvAaYe1coUYIFnx0q+y1IN56SHse9jQ94wjObyihzbsZM0mq7GAABCeDvBmYZqNpWLwhQzZVPwCjuxJcOrYWkiA+AAUqraQ4MEbS5rDYFO8e8AQMmlmX74fkRTIPtJ6G9UQdBjQeV/O1HqYxKayyghGXNXEjtySZh0h32SXL3009z8jh56gyxFBYg3Svq8O0DOWJdhMz1GWc+LVnIKn2GY6WJ8uYNe1V3SjsqquXHIjDQIYDkeHXWrUj683E5eFzbdHGzF7Jnous=;wndHT0S5hQxidqF00GxY2A=="
+secured: "HojP0eLzmBboX18iQAE85k9utg1W1HKuu2prAVBzgKV3w0tVyQ1g48sbNLjMpNbwLAmGqgydkpVHbfUBGqQB+ksPdAWN0ffd9Wc6yV0NCFuxP5ti+ChcIv+mfEuBQR/qnf2zEzwI592ugQXP1+cxhjjL6rLc8ua10g8QY0LAm0x7CN47I6TmeUi5NW6KKbofugvCHWBob8q+11FYiifZCNeGiEqtxlUW4upKbEhfWgbnOESE7aC+W6prBH0wCooIyFLhiI3uQ3xtlso88A8O1FUMBFwJ53J6NC32cgoFOaG52ei7DEM9o6ZwoNpQq7RxQwPoenhbeo8PKOwbme/DbnM/8dn0jDLJa/qbYo5ypDg=;X/hcpkrI6/GmmEvAGJWu8Q=="
 ---
 

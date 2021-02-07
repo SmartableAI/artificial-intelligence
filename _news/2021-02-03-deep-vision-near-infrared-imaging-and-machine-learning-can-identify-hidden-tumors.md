@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Near-infrared imaging and machine learning can identify hidden tumors"
-    excerpt: "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery."
-    publishedDateTime: 2021-02-02T19:39:00Z
-    webUrl: "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nearinfrared.jpg"
-        width: 2075
-        height: 1638
-        isCached: true
   - title: "Exposing Hidden Tumors With Near-Infrared Imaging and Machine Learning Methods"
     excerpt: "Researchers have coupled near-infrared hyperspectral imaging with machine learning techniques to visualize tumors in deep tissue that are typically hard to detect."
     publishedDateTime: 2021-02-03T10:04:00Z

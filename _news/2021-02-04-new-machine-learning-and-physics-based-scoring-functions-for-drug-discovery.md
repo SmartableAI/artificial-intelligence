@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Google employees consider jumping ship for Facebook and Microsoft after firings, reorgs and mounting tension in its AI division"
-    excerpt: "Google's commitment to building ethical AI has been thrown into question as tensions between employees and management continue to flare."
-    publishedDateTime: 2021-02-02T19:46:00Z
-    webUrl: "https://www.businessinsider.com/sundar-pichai-to-build-ethical-ai-detonated-battle-inside-google-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/6018d1106dfbe10018e0135d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Machine Learning to Bring a Transformation in Software Testing"
     excerpt: "Automated testing has emerged as one of the most relevant technologies for scaling DevOps, businesses are spending a lot of time and effort to develop end-to-end software delivery pipelines, and containers and their ecosystem are keeping up with their early promise."
     publishedDateTime: 2021-02-04T11:19:00Z

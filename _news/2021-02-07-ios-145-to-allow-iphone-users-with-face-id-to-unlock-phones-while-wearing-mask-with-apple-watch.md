@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Apple is testing “new way to create “iPhone without removing “face mask"
-excerpt: "Apple is testing a new way to create a iPhone without removing a face mask Apple (AAPL) is testing new iOS software that allows people to"
-publishedDateTime: 2021-02-02T23:30:00Z
-originalUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/"
-webUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/"
-ampWebUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/amp/"
+title: "iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing “mask with Apple Watch"
+excerpt: "News Highlights: iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing a mask with Apple Watch Apple makes it easier for users to"
+publishedDateTime: 2021-02-07T12:37:00Z
+originalUrl: "https://www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/"
+webUrl: "https://www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/"
+ampWebUrl: "https://www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/amp/"
 type: article
-quality: 24
+quality: 11
 heat: -1
 published: false
 
@@ -62,6 +62,17 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 28
+  - title: "Apple is testing “new way to create “iPhone without removing “face mask"
+    excerpt: "Apple is testing a new way to create a iPhone without removing a face mask Apple (AAPL) is testing new iOS software that allows people to"
+    publishedDateTime: 2021-02-02T23:30:00Z
+    webUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 24
   - title: "Apple tests new way to unlock an iPhone without removing a face mask"
     excerpt: "Some iPhone users will soon be able to unlock their smartphones without needing to remove their face masks in public. There's just one catch: it requires an additional Apple device."
     publishedDateTime: 2021-02-03T00:53:00Z
@@ -76,18 +87,7 @@ related:
         width: 820
         height: 462
         isCached: true
-  - title: "iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing “mask with Apple Watch"
-    excerpt: "News Highlights: iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing a mask with Apple Watch Apple makes it easier for users to"
-    publishedDateTime: 2021-02-07T12:37:00Z
-    webUrl: "https://www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/"
-    ampWebUrl: "https://www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 11
 
-secured: "pIZk8eWEIkXKIzgw/oaSeCfkj7hVAhSu/L99uTixQkdzQZPE3g6du9np596HkFGZwt0iftY0mkaR9s5FKN9ICSGF0yOlj+URjNtbL/k6uWXbqs/f+D7WQz2snveMTNRe9UUOz9fn49KnKIVPnfEX/TEaBVCFFBO4AYz61EWu7SRFolSUpOHVlZ71sWyyYlXOg34OFoap53cMTCVqUwyk350FqrRvBMUvND5iyQi85mUTjwsT2uIYN9Jt7xfss+aPlinnoVAeg05yQjgHw6WdI/vaoO2kY4sAzlHyzuDSua/9UjZnXHGnWfJUD6/0621RbAIKxAQv9jVf6FTKQfhUZProWdKCxJzEQB1vLVo9kSU8rpCn9MaP31+4snjZPL1GlDgHtSOWb7tB96wN10/zxn6xpAAoaxEHINTDr6ANCrrKB6fmSV5JOkK47HBEyv0y+/zVEU+h1UFB8G1gGFWnAdOnPOEmC78Q53/pztkGAtWusCN15+Sw+xNXn7frosu53ZlQ/hefuTsZQ2vY0QWEmg==;DdcN3pcRBZRBLtAj0VPldg=="
+secured: "zYFFT0El1yt8tJ5tbDG+9yN51q1SXOKAjHBDs5DawO1WeZ6Xeyi+5qkJv6lTQ2gJk4/U8fcWWv7Qs0+ce36RUgCueK5FS8t7XhYHVzTn1q4CyFOFQ38cYaPmfHECKWOKVg/NVG9LnbHW6uWVGEJ/UQ1FwbIn/W7WyOZhGo0Y3/MmgBtPDuunSUE/RkzlUf+08hmtSr5y6YylgV972iA9BVsWgTnX8rI97SF6p31zx3YEHy8yIli4vBGuzvunSxDnJ8+EL0AsyyNckmu/6OniaD1ktrC1gpYPyJZQRLidoFQaHAVZJ7RSqjpExwOtGyhBXa4FBRsEoNq29taDUcGuzngQATaA1t06rlgsz1AHlw4=;887l3hClSyTtNWsD/JBa+A=="
 ---
 

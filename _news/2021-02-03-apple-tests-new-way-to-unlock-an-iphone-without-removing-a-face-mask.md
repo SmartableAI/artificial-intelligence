@@ -41,20 +41,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "iOS 14.5 developer beta allows users unlock their iPhones with Face ID while wearing mask"
-    excerpt: "Apple has just released the developer beta of iOS 14.5 that has incorporated a new feature that makes it possible to unlock an iPhone using Face ID even while putting on a facemask. The feature in the Apple watch is called Unlock iPhone,"
-    publishedDateTime: 2021-02-02T21:01:00Z
-    webUrl: "https://www.gizmochina.com/2021/02/02/ios-14-5-developer-beta-allows-users-unlock-their-iphones-with-face-id-while-wearing-mask/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 45
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/09/ios-14-1.jpg"
-        width: 640
-        height: 378
-        isCached: true
   - title: "iOS update introduces facial recognition with masks to iPhones, but only via Apple Watch"
     excerpt: "Apple has released a new iOS developer beta featuring Face ID biometric unlocking by users wearing masks on iPhones."
     publishedDateTime: 2021-02-03T19:37:00Z
@@ -91,6 +77,17 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 24
+  - title: "iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing “mask with Apple Watch"
+    excerpt: "News Highlights: iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing a mask with Apple Watch Apple makes it easier for users to"
+    publishedDateTime: 2021-02-07T12:37:00Z
+    webUrl: "https://www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 11
 
 secured: "b7ikDRg32FRl2ouAaALTTeUqygta7HvZ4PVGqb7HPXenEtYWewbJvZxnGW2NwEhaVsEkP2wdMpDLman/K54+HkrnM5VhX1NtNc4xKzxpAMFDbtmAjIu808Nr2qXa7y+bioqMlPeXv3deTfegXrdddmhC3Rzo3zPx8piAbvCEPoa9oVN9y8aVz0WlatSysCsAR+RBVKNyVMZzucHOlCP3OUZ7KoPrOTna9DfyWqCDMp7Cr21auiO9UQCsjVahX1+oMRdVcDAH9iIbkRsrAFIsGs7mVUfKLybL9agllvsIZKuKpyM07y32FPnyi5uSyI5/KsJsOiETUM4CB7vwme1/qZfkF5EQZ7yUbCiN09Qaz/0=;XFTB3V8TpKW16Uu5a/A4vg=="
 ---

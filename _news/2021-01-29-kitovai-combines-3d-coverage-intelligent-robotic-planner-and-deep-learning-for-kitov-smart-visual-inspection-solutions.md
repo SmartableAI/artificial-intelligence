@@ -3,20 +3,24 @@ category: news
 title: "Kitov.ai Combines 3D coverage, Intelligent Robotic planner and Deep Learning for KITOV Smart Visual Inspection Solutions"
 excerpt: "Israeli-based smart visual inspection company Kitov.ai introduces its KITOV ONE inspection system to North America. A novel, hybrid approach combining 3D image acquisition"
 publishedDateTime: 2021-01-28T20:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19379252"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19379252"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual/article_75cdefe6-3ac5-51e4-9b64-1ce901e20d1f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual/article_75cdefe6-3ac5-51e4-9b64-1ce901e20d1f.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "OIAe9TY+w9cimCJf5Gc/zE91g/uogtYqmOGe330QnRvrjlebtHQLtYfo14r2+eI7yQ1h5mG8MfttW1AHVMTiRFO4u4osbk9v0rdi2aPx+u5jBpVA7YE5EjtnUuKqaR9DSP4Xf84NfD1s4a2NCJW/iXJxBjLqqXhwdT74ROORaM44kx052Hb2/fDvHuayCCeR2sdddG+3Tfv38U+XgThkH1A3MwGC59RMuELuY9MQ05wO+0Ia3VQH6bnQ1uS0eNccsB7S98Qn+0BFXe6eJ5zSptNp8L3vbgjVjZv62yVXXT80YOmKRDwuxLzTBd+pDq4aU/4qJuAfhnKjjE+NHO+eBk7vEPUQ9VEkFOtKw8ow8Vs=;79ZceckjMdzY4J0HH116wg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "HdYsR+mQhYoAhgSdtK9eSpun4VmnjDLWYONOLSNSz+O6QP8KeYPIbcDkSu8slSrhixJOw7cBoADC7ApYKlXksgMXGmYRXzdbpYkNkZ1clLHxi6N6MLV8ox1TOfWXRJ0GnzvAKMAxgj1q5A3mWMP3vHmZdNzGrATxFhKbpxJb1E0VByc7JHt4/r4DVtCVNZnzybJ4v18wgc8ZZv4bl7fch0LZENMhzhOOf9Y8hVC0aTZv8BOuf8unAf7jZBxeCYeN6hXSIMlbWvEG27BWsW9JRMCKJ3jZyyUNMSpAhd6jayroLS8vveh293QvBn26d3xJ71QtCfhf1dWfAweWXwLOOlD/eh4La4J1bovKDzxhjjc=;vXPN+iaOTXVC4dLkHr45ag=="
 ---
 

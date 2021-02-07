@@ -39,22 +39,6 @@ related:
         width: 810
         height: 405
         isCached: true
-  - title: "Utah Bill Looks to Tighten Grip on Facial Recognition Use"
-    excerpt: "The proposal out of the Senate is the latest in a string of efforts to limit the use of the technology in Utah. Allegation of misuse first surfaced in 2019, kicking off a long-running conversation about guardrails."
-    publishedDateTime: 2021-02-02T19:53:00Z
-    webUrl: "https://www.govtech.com/policy/Utah-Bill-Looks-to-Tighten-Grip-on-Facial-Recognition-Use.html"
-    ampWebUrl: "https://www.govtech.com/policy/Utah-Bill-Looks-to-Tighten-Grip-on-Facial-Recognition-Use.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Utah-Bill-Looks-to-Tighten-Grip-on-Facial-Recognition-Use.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_631751717.jpg"
-        width: 949
-        height: 630
-        isCached: true
   - title: "Image Recognition Market will obtain $53.0 billion by 2025"
     excerpt: "According to a new market research report Image Recognition Market by Technology Digital Image Processing Facial Recognition Pattern Recognition Component Hardware Software and Services Deployment Mode On premises Cloud Application Vertical and Region Global Forecast to 2025 published by"
     publishedDateTime: 2021-02-04T16:55:00Z
@@ -236,6 +220,6 @@ related:
       domain: amherstbulletin.com
     quality: 4
 
-secured: "/bpXEK/ecIMIPQoMwlxo+1BDqLWeMrOGHV1wDWutk45FKS8g0BqwuqwD74xQ2ra1kukcOsJgrFPjTdyTMoT350JedbEcwK+8WOFinO1Jkb0tmBn9X0P9bZfW/fMhgOUzwYpYZ6AodPxMLEB5va6fbX73Kc0idIcQ9lNy1evbJUFtpaZ5CPMmBXGze8zY+s11jGiP63rVOpd0G0ijT4/5riZjD8uAoiCrj6JyCVKhNOJKNBxMcXBoIAi+dzF2Tk1+JFcXpymFnXT64Wxp5ceHGDVSvD98BcrKjLqnJRuZkr+8+ZlDzUanq1hdFH4uNHF0S0u2UXWUGCcz3hFWnsBL3UAjdTMzNQJlnzlAs4jErog=;sE7VXdk4SKjCSTPV3x22HQ=="
+secured: "9hQqjLMBQ6OYCvGw8UJ3LAzUhOsy+Rwmvl/CaCushFJTjepZnYOuYStVTMQZG/ePvuM5m00+dkEnp5oG4QxSpZEvkcfKLqjblZW9/b+kvDCSiqWk3xYg2xKP9VXmKkNcpIv2AU6HGUse6CC0RDLPq/NIyQAbNfMid1dPf2M1Wk4s3nItRV9iqKxa00HUA3vAm3AlDkKBLlsr+faS8xzCJbKt01UqmQsuSOAj++i3lmUwsDvqbE7kyT+f920ugM2S7q826A73KVsIe5lBgLM2ocDAPmQEm+jnNitrZd2iF/ZWMloxuyYEetrrgHbSPpgcUyuunFFCgPlmQdNvNmtU9VSe8hNw0Kup9xicJRDzlIVeP7MkzI98K844GXSp85LQbGK7bDJXxNp9MWY9tIhb0Ul/3iHyQ+B9n1//yOtNLkjiyBOlYIyTpunQMWdKCquZngZiMfA/nz8G/vhtdb51gm9nwRmxn3il/EkJGm3tLuuV992C9yUAmvG4mNK0shceUNL1BjaC9hspCnVlx+Yfmw==;Skb62k6+ZqT2+wY4sejmfw=="
 ---
 

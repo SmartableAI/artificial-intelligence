@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Google employees consider jumping ship for Facebook and Microsoft after firings, reorgs and mounting tension in its AI division"
-    excerpt: "Google's commitment to building ethical AI has been thrown into question as tensions between employees and management continue to flare."
-    publishedDateTime: 2021-02-02T19:46:00Z
-    webUrl: "https://www.businessinsider.com/sundar-pichai-to-build-ethical-ai-detonated-battle-inside-google-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/6018d1106dfbe10018e0135d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "New machine learning and physics-based scoring functions for drug discovery"
     excerpt: "Scoring functions are essential for modern in silico drug discovery. However, the accurate prediction of binding affinity by scoring functions remains a challenging task. The performance of scoring functions is very heterogeneous across different target classes."
     publishedDateTime: 2021-02-04T14:20:00Z

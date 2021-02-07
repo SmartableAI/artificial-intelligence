@@ -55,20 +55,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Closing the gap to win the AI marathon"
-    excerpt: "Fortunately for the U.S., the race for AI superiority with China is not a sprint. An industry expert shares ideas for how Washington can come out ahead in the long run."
-    publishedDateTime: 2021-02-02T21:01:00Z
-    webUrl: "https://www.airforcetimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
-    type: article
-    provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 39
-    images:
-      - url: "https://www.armytimes.com/resizer/p3zemX6HJKBa4qaZxvSnd7xISxo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/SY7J6A2BH5ACZDPUZLELFFKBNU.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The rise of AI in Stanford’s CS curricula"
     excerpt: "AI-related courses experienced large growth, both in terms of the number of courses and the number of students enrolling in these courses."
     publishedDateTime: 2021-02-05T05:06:00Z

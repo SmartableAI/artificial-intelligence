@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/04/latitude-seed-funding/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/04/latitude-seed-funding/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 680
     height: 356
     isCached: true
-
-related:
-  - title: "Superb AI raises $9.3M to automate the creation of AI training datasets"
-    excerpt: "Startup Superb AI Inc. announced today it has raised $9.3 million from investors to pursue its vision for artificial intelligence development, which involves using deep learning to automate and thereby speed up key parts of the workflow."
-    publishedDateTime: 2021-02-02T19:15:00Z
-    webUrl: "https://siliconangle.com/2021/02/02/superb-ai-raises-9-3m-automate-creation-ai-training-datasets/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/ai.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "qdgIsXQoBoic2hMC46bmocKJkBMYReiBnRA12KgRP7oECukB1A0tBCcWue2suwBR/vMsKFwVPRJSVEorDAcr93mc2mkInuIkzxwsZJjP5x9bizk3nP/cPjgrHAZgPQott8uMeQ2OdcgaBIfJHag7FIjsWrnaB9uWbGYfrErKq3FaN6h7hzpG5JfwBAFhX4mZ+ewgGuu7rg4MBWOoXTyuiLTGwJvegiJTRFdO5NSXcNN4bEAeCma2u0XMxhJ9irrnMzNnWQKhIxO3xLXpoaDvwH3Iku/oUcsxaWZp9CcnGLglJvvwwxSq+UoAHBKUZ5iUbQiLnFDvAfe5QpJfCQuQBirOygT6YNAMQBq1XX+6fLQBYB+VTtb7LVtZCmJ/nNAY0OP945ZBxP284i7eyULX9YMSYlprT4Z8Pr3Qyvn07CBdYcpuCR1SbVznmQ2EXRcO47SZ8+JwX6QLYb2kBs41LaPMjmz42WoMDM1RUmiK1Pp20HssE5NtVZpvqbFYVzft8GcsvAYV1Vq0SdsSIPITyw==;nWD//2v8gyYX1dXJYslPqw=="
 ---

@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "iOS 14.5 developer beta allows users unlock their iPhones with Face ID while wearing mask"
-    excerpt: "Apple has just released the developer beta of iOS 14.5 that has incorporated a new feature that makes it possible to unlock an iPhone using Face ID even while putting on a facemask. The feature in the Apple watch is called Unlock iPhone,"
-    publishedDateTime: 2021-02-02T21:01:00Z
-    webUrl: "https://www.gizmochina.com/2021/02/02/ios-14-5-developer-beta-allows-users-unlock-their-iphones-with-face-id-while-wearing-mask/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 45
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/09/ios-14-1.jpg"
-        width: 640
-        height: 378
-        isCached: true
   - title: "iOS update introduces facial recognition with masks to iPhones, but only via Apple Watch"
     excerpt: "Apple has released a new iOS developer beta featuring Face ID biometric unlocking by users wearing masks on iPhones."
     publishedDateTime: 2021-02-03T19:37:00Z
@@ -95,6 +81,17 @@ related:
         width: 820
         height: 462
         isCached: true
+  - title: "iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing “mask with Apple Watch"
+    excerpt: "News Highlights: iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing a mask with Apple Watch Apple makes it easier for users to"
+    publishedDateTime: 2021-02-07T12:37:00Z
+    webUrl: "https://www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 11
 
 secured: "o49Yl7PAMP9dEJZLiYA/B8g+wYfhJJlhRO8pXmvb5CJPzgr/db1MtCd1q9mXxu79lzhzx1TZ1L0eskTIevcz5J9fk9oQuBK2qlATXpP3RTnyslu5sPXprx2ZOTyj3WtsoJ2liftlODyTX1VnJs6bm1ecrN+z5IocfigxLPX7xwKojDAm9TR1SmpXw1KUCmvOTKoW1tLApoHa4cFmMfs2Bu0XTcB0IoYfuH6SAOkFEKkDJoGEOHHwDcNofDTjDjzXgO2XbysTGwpPtZRAoiVzaY430li7M0f8Z3uF9acE1OIAKFa2bBGHG0FlHvxSEvoM2Fq7eBbggjoQN3j0hBmftt0KpUV6ziW1D2UJVJxbuOXqtnqtKCj983K4lJvOrYO5dHwuqq8sQNipBX+kGG4Oad3cIfUoJlW7gGb4zPVe8qNMMfDX6IMi7InGXDDIvZzG+kx81yKedCKT/JPrPu5cpKA7Yd7r8K5T2nZ4Ct+zhwc6sDEY9pEX2FQETnpSNfZh4+h6JCQop2XVi9Dy5cnudg==;/tqLvtTdQU7/MxOkmQ6xaA=="
 ---
