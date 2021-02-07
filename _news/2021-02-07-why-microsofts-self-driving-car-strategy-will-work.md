@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Microsoft launches Custom Neural Voice in limited access – Jaweb"
-excerpt: "Microsoft today announced the general availability of Custom Neural Voice, an Azure Cognitive Services product that lets developers create synthetic voices with neural text-to-speech technology. It’s in limited access,"
-publishedDateTime: 2021-02-03T17:41:00Z
-originalUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/"
-webUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/"
-ampWebUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
-cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
+title: "Why Microsoft’s self-driving car strategy will work"
+excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"
+publishedDateTime: 2021-02-07T08:37:00Z
+originalUrl: "https://talkiot.co.za/2021/02/07/why-microsofts-self-driving-car-strategy-will-work/"
+webUrl: "https://talkiot.co.za/2021/02/07/why-microsofts-self-driving-car-strategy-will-work/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Elmoudjaweb
-  domain: elmoudjaweb.com
+  name: Talk IoT
+  domain: talkiot.co.za
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/Microsoft-launches-Custom-Neural-Voice-in-limited-access-–-Jaweb.png"
-    width: 1200
-    height: 600
+  - url: "https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/01/Microsoft-cruise-gm.jpg?resize=696%2C348&ssl=1"
+    width: 696
+    height: 348
     isCached: true
 
 related:
@@ -183,6 +181,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft launches Custom Neural Voice in limited access – Jaweb"
+    excerpt: "Microsoft today announced the general availability of Custom Neural Voice, an Azure Cognitive Services product that lets developers create synthetic voices with neural text-to-speech technology. It’s in limited access,"
+    publishedDateTime: 2021-02-03T17:41:00Z
+    webUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 59
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/Microsoft-launches-Custom-Neural-Voice-in-limited-access-–-Jaweb.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
@@ -304,20 +318,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Why Microsoft’s self-driving car strategy will work"
-    excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"
-    publishedDateTime: 2021-02-07T08:37:00Z
-    webUrl: "https://talkiot.co.za/2021/02/07/why-microsofts-self-driving-car-strategy-will-work/"
-    type: article
-    provider:
-      name: Talk IoT
-      domain: talkiot.co.za
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/01/Microsoft-cruise-gm.jpg?resize=696%2C348&ssl=1"
-        width: 696
-        height: 348
-        isCached: true
   - title: "Microsoft Partnership Will Bring New Cloud Service to DOD Microelectronics Project"
     excerpt: "Microsoft announced new partnerships Thursday that will support two major Defense Department projects using the tech giant’s Azure cloud services. Microsoft is working with ten companies on a technology solution for the secure design of microelectronics using a new service in the Azure Government cloud region in support of a Defense Department program,"
     publishedDateTime: 2021-02-05T02:57:00Z
@@ -370,6 +370,6 @@ related:
         height: 315
         isCached: true
 
-secured: "4eGBFssrddiPJmY6Dr2WJwOc7irkMSb73e9kTJ8/SSKJrfrsGqjT1MJan1ygm0sbDQlwb1+gooXbr5jZCg5dpDENi+jn7nrhUgm1Lt74lS75RYJqciEKz3Nly7lrUOuN8Ynp0k3vDWMOTbIJzDDDgNJikIensa1JsQk18XMom+TOIA/A8aLl6SLhVxEhOkYFke7/yq8RKLaVh+V1HVPYUMRbfDh5seB2y5mWgXup5fQzvO2MzkXxKzPOkOaxft/Jv5NOzaGc54AyQPAyFCaQVoYb8oEZRazEWXyyBtnx4eSC57JWVRmrc4bbzP9soka/10o8Ivsnx1PC1TeYoA/J4F/gIT7UrnoK1ZSD1IH42+uD2erI/HvJ8TFRdf2HzTDftQsRDCXx3lkI0K6GrXaSL6sDysnV3dxrHMfqMvcNywe0akBpvZVRfcylo9qQseHH9hvoHAkIqFbdFvp10/rAPjdStsdNwaLnL9suIMFk9E77GD8CVzcQEjDBbc1TPVS+FYX0R9aAaS/msLxvsjfFEw==;zI96X9vNYWgxFf01ybTNNA=="
+secured: "a/cpjLNF21oV4I8yfAi09P8tkmHM5luLl+MO3mE4/Oc9wWTSOVbLRFULbb4xLzv9AJ/qfCILvNAGM/kCpsFeFoH/2HEvabtHl11Sj0cPso3ePY3qTdiNanjkU7yCmajyOeG7nob+KBf+8QE5wCgMArgvUoHZ+JnAvuHUb/oy3Jn4LknhoVN6X10eFNaxLE8/0xfHM6xE8UD+X4ax/w4QklMCnIZJpMfBwBNa3UoFtCMkEzN0L/PucB8KJwJ9u1DgLa45j7N8GspiN63hv8Rj7jbhSzOwLrKYF+wN7mvOHKV3icgWTQuciUZL5QN++X2wJ/CQyy7pg5/sCm3pqGxfWPATodaIJoV5RY289pfpEyo=;A47wQxSL8x36/LExPhgJoQ=="
 ---
 

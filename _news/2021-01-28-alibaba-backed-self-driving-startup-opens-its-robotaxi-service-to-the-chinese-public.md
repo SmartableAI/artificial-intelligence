@@ -3,8 +3,8 @@ category: news
 title: "Alibaba-backed self-driving startup opens its robotaxi service to the Chinese public"
 excerpt: "AutoX became the third firm to receive a test permit in California to operate its autonomous vehicles without a human safety driver."
 publishedDateTime: 2021-01-28T10:14:00Z
-originalUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china?ref=recommender-671946"
-webUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china?ref=recommender-671946"
+originalUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china"
+webUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "NX0ObzYcCzezJk6m/fAC6hnZHHd0dlIa1hmTqjfcotoqcsRGhpdUqNUiFJuYDfONWS2bqS10qZO821f83BuEwZGhv2nP6hv4DaiL+K3LmMWhPik74agEY8pyxLSC6Scwm+bdENtuLeCv+tQJ7eRSfMbxynFSIHGcw/tCq80OGaGNSsgN2vzs0KgGvbwW10td0RvCOAt8dMT0hnidY0LF627enoldE+Mg83j2zpySubbpHep6oPaXepqNq6BQ4fm/tCHi6ErmmdmYf4R4dMg/bnt4L5iFbyTsY7WviWcTVyCCK8tiSW5EmNGYeJaHyc9BH+k8DqsfhVYKYzR7fS42qvP3ycgBeNTZb48ttElPc+emGxbBQhvBDChrE53WCW/Ff/fiq79CFHHzhrTDASphqn0cbxPAV3Gdys8wtdgwFvyCmbFefR+/ysIipzbz51SXNQjz6hR/BJqGRzw0FCvdv9wVvMnyJdKAIweJWfc17aAoBesZtRfLG8ZnT5Wt0IFfjIDDJtAp5d6kg4qrBkJ0fw==;31/8WZpVd6rL84iKyWqL0A=="
+secured: "tUSeafH6fN3P+MmgOwYzKvQZDxRRLtB6LPepddeFt20dYGmn6dNmdut18QTfOTKD324aPTB4UvrMSFHV2k7ON1+C9IUBKa/1NO90rjsVdIBFFrJ8dliNS1/0nwBa+pQB56UoefHi1500wZX8Cj7hPqDPJTAMEBoXxxfFug8IHngWmWiYEmyvtCAYp9hjPEmrqKX7pk/+TfV2emCVqHle6voGthDwFyGBzAday2j3kCuczpvjUhzaQH0mHlsV+P3SbwnclXDUi4IWw3+he2bA4fy8FxcAOw6TuGsyAjWOQLAqWS6DYa87FQvUoiNkFV2za5lAFepLWYKl87x/jG2Kfqq4QL+c41NWk7Nsy/EcSqT9sIQDW2LxQLov1XHWE4aXt47rEB9Jj6rU4wzqVKkIRNLsUkhP7xmM5GyUYRNmdG+SeKSboVsnK0V5NxKh96ZXviwwzW4CkIEhXmmRRlj7UpusKPgp3RN5r6QGgNyQAQFuF+GPkWZyw22b6TOK152WIQuf3MHgGJFXRp0xGsq92A==;YlkGN9n4NYBY1xQ826uJCg=="
 ---
 

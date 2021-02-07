@@ -794,49 +794,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence.md",
-      "title": "Vantagepoint AI Publishes Weekly \"Stock Study\" To Demonstrate the Power of Artificial Intelligence",
-      "excerpt": "Vantagepoint AI was the first company in the world to give independent traders the power of artificial intelligence for their home computers. Company founder, Louis Mendelsohn, rocked the financial trading world when he introduced his strategy back-testing using artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "publishedDateTime": "2021-02-05T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-05-humanoid-robots-and-how-were-failing-at-human-relationships.md",
       "title": "Humanoid robots and how we're failing at human relationships",
       "excerpt": "Hanson Robotics didn’t make Sophia just because they could. They’re capitalizing on something in our culture that needs to be recognized. We’re failing each other.",
@@ -1220,6 +1177,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.md",
+      "title": "Apple, Hyundai-Kia near deal to build self-driving electric Apple Car",
+      "excerpt": "CNBC's Phil LeBeau explains his scoop about the deal talks between Hyundai-Kia and Apple to manufacture an Apple Car as soon as 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106741890-16025951652020-10-13t105843z_940689204_rc2mhj94sbo0_rtrmadp_0_apple-iphone.jpeg?v=1602595195",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T20:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

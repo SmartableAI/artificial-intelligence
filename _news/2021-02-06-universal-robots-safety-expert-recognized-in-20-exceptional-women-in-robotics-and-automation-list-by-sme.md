@@ -48,15 +48,6 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 16
-  - title: "SLAMcore software adds ROS integration, wheel odometry, and environment customization for advanced robotics location and mapping"
-    excerpt: "SLAMcore, a leader in Spatial Intelligence for autonomous location and mapping, today announced a new software release for developers of robots and consumer electronics products. The new release further expands SLAMcore's highly regarded location/mapping capabilities (visual inertial SLAM) for developers of robots/consumer electronics products."
-    publishedDateTime: 2021-02-02T16:37:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=16195"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 5
 
 secured: "stVS79DPNGRGN/eZGyYoi1VSy4BPKkt+Ys01r5ZLDOabY064kul9SE8udNovKGrNttHVrwyBtANzIrL3rzgmYq8VS48c+fV0/cuE+Puwcc+p7TZi26pLpbaEe5TW9TAwEOMUJYrfqZo7IofmAQWy5jL84c/roqknY8RwARndLZOZAzwbpTt4DbqAZ8UzzUUQ39HTD0+L+69nnMOpfl3a8r8S6QEjRHHTtryeguu8IgypbT8/QuzddlwzCHWpPofLUiOrWrQJkseB/tHSGENuMppTCAdJPgobJ3fgwAj3L8noiJwJJUrfApcYbcMnLwl9nEGzyFKcSyToyZ4XjxFHZBvVsxy6TD/W4zFqkAb4/QbpEP2IHE45dzRY8cgf+phwOsz+VPXlpDXVEZIfc7VpjgWfUIVYvaASy7HjE7SRLLvhWpbbbbvZ/vq7xke37kSdQRulBR4F4K9ScTkIV6A5U57e8bduKzq5aqZSzSWP3NCd/e1oRTXQOTQ++ic1nm51f7wXoWoJqS8Nmf7pJNpvGA==;ONvWO2mEy6EmaRufWKGu5w=="
 ---

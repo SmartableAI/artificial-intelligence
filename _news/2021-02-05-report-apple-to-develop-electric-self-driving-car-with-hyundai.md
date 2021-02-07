@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "App from VEMI Lab group will help people with visual impairments, seniors enjoy ride sharing with self-driving cars"
-    excerpt: "Self-driving cars will offer access to ride-sharing and ride-hailing with their suite of modern conveniences. However, many people with visual"
-    publishedDateTime: 2021-02-02T16:52:00Z
-    webUrl: "https://bangordailynews.com/2021/02/02/bdn-maine/app-from-vemi-lab-group-will-help-people-with-visual-impairments-seniors-enjoy-ride-sharing-with-self-driving-cars/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 17
-    images:
-      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/06/BDN-Web-Masthead-01.png?fit=5000%2C3200&#038;ssl=1"
-        width: 5000
-        height: 3200
-        isCached: true
 
 secured: "zehr420kKnGSWOGTqZ9uLSesBzS82HahQ68VcJGH+mYk4+FW+kTJcYd9qoPkiAIsiJpaP2OlPU0rfjSeN0Z+nWelOu8Mqip72hoVos1O1R9EY6p+BbTUTAVhaymWlvtjFvQRpBaoA0HVkEX8QVAdIylGHaH+yiAi8bIFE/Mcv7nZQCua1S8KQLddbtDOCAbKThfp7cLzj8M6buNmx9mD5aKLm/8Ivdtb4mZrOW3XhIBTU2Z9+/Z3c44CF835VKvPYJPF7DdFPvkAZ7UXTbmftJsGAyU2zfyXct5hyj1JagoazdF2O1HWzlCu2K5wnzKDJD8MEYol7y5jAqrU+qGbiDssYz9kdge97w4KU9rfJiRsVYCC4QCOCGpQEF4psW4Izhwst/SmOq33teUDNO4dVtLcrQkVgrbgCG3kKrL+HSw4t/PaJOqhYuR9iU17HFl6nO+qsazlXu2Q7hHUlXV8mAPCMFHtBf3YJugAKd+Wi+QrQdXwUzAZYB29aAnqafN8dxaaoWD4lZh7lOpIhpQiMA==;hzAT1S2EUoj3RvpnRUxxNQ=="
 ---

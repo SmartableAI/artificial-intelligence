@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft launches Custom Neural Voice in limited access"
@@ -318,6 +312,20 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Why Microsoft’s self-driving car strategy will work"
+    excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"
+    publishedDateTime: 2021-02-07T08:37:00Z
+    webUrl: "https://talkiot.co.za/2021/02/07/why-microsofts-self-driving-car-strategy-will-work/"
+    type: article
+    provider:
+      name: Talk IoT
+      domain: talkiot.co.za
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/01/Microsoft-cruise-gm.jpg?resize=696%2C348&ssl=1"
+        width: 696
+        height: 348
+        isCached: true
   - title: "Microsoft Partnership Will Bring New Cloud Service to DOD Microelectronics Project"
     excerpt: "Microsoft announced new partnerships Thursday that will support two major Defense Department projects using the tech giant’s Azure cloud services. Microsoft is working with ten companies on a technology solution for the secure design of microelectronics using a new service in the Azure Government cloud region in support of a Defense Department program,"
     publishedDateTime: 2021-02-05T02:57:00Z
@@ -361,6 +369,6 @@ related:
         height: 315
         isCached: true
 
-secured: "M0VzNBDrqRZJ54wjS0vdVZ9npPq9w/hzJS4rzNuKQboR0xDfVirQjo6E2MSw0zAYPnebAiw2P2ly1mbbe1qJ7sdL0aV1XbkqVMkCkChKIB6ca3bt6tnvBxEz33qRzv/1rWFXRjJkFP3PswU7/YFAZxbbrTtAjyXW3nLP+43aChftHQD+lq84YTquZQB6x/6AAzVrHobtgJ7goBfv5NMZZ3Qz4TMScj0PAhOFPF0kE8oJcfD55ETUNLXdbLdgPok5L3HEhTrYpska8lc0aCkXJcF7nJpu5kMOgXTbyZq0I/YO5t482/Ri2MsHMZFoW+M0SE9QvhCxX9OEDIMd3ZSEJP01pXHjhNdGN69miWKRNSo=;1KJAuX9my3K0zMGtAQttrA=="
+secured: "crP9aJqvvchVYbWKdebpT+g9Vfz05LI+PhokaPTo1oUO7yCvJNrycWS+0/2A0XCL7sjMGHSnvG83ocdM9iIG+xbdOOXVixZ5fMQT4icqotRgDm4Nq6UjLjcOq26wcDEGBLHRn5Eke/Y8pA7k21R9eUj4etHPtcMMmB3HhYq7wkBPEYbcpHEhRPM4f50laq7i8v5uDOwKwgycjUyFrbzlS7dgQMym7Y7xczPansx0AkV7wrtA/iT3dQrOxtY0uS/QaI810/JRGwmzjvLzMV8cImFuW060dbCNKpVNajhhXWsLY3Po4KX9YaTTpxrzsOEfKJ4dKDEcKhDGpp/yx7e19d/eofDo2c2ILexs5j7oKqQ=;htBAp/ASKRW4BbsKS94kDA=="
 ---
 

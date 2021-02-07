@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/03/granulate-raises-30-million-for-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/granulate-raises-30-million-for-ai-that-optimizes-server-workloads/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "HealthTensor raises $5 million for AI that augments and corrects medical records"
-    excerpt: "HealthTensor, a startup developing a platform that leverages AI to identify health care inefficiencies, has raised $5 million."
-    publishedDateTime: 2021-02-02T16:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/02/healthtensor-raises-5-million-for-ai-that-augments-and-corrects-medical-records/"
-    ampWebUrl: "https://venturebeat.com/2021/02/02/healthtensor-raises-5-million-for-ai-that-augments-and-corrects-medical-records/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/healthtensor-raises-5-million-for-ai-that-augments-and-corrects-medical-records/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
         width: 1200

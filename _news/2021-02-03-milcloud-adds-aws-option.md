@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS cloud now available on milCloud 2.0"
-    excerpt: "AWS is now a part of the MilCloud 2.0 offering, GDIT announced Monday. MilCloud is GDIT's DOD-specific cloud service offering."
-    publishedDateTime: 2021-02-02T15:57:00Z
-    webUrl: "https://www.fedscoop.com/aws-mil-cloud-gdit-disa/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 34
 
 secured: "mwns03HFKMuafu2bLyG9TO5Ey5OnrfBGJr4Ih87w4B+Px3n7sYjxZstP05bLLQKKZg1hztZ1qeLaCaWT2ZrUjIX9H+8Cchy0uVQVHysp1VQLj5wt56rQ4ryzbZh2QiAePf0tHDAmXIaDmEtvliMlMkw+26l+s7D8Q92T5YcedFa7UBaX2vZSXxbgWOEh9j7XfuCS92IXP5mjOVWgob49lU5pYIKnXzQAH1OkWKhi2GylrD9XnP+0KmQC9+uCUt8vgMOW1JgtudHlDwYhr/lsASg6t64oe2YLghFuXXugKQ4AMIyUmIFJ4sHf3Ar4BaCjMvWbudSSqh02Oy5TgdYFtPEuOJ+wQ6C9LLkdB6AvbEDXYgWv+Cc5U4wDG/kq1frNGl85mB69qQOV/KUa7/Hgjtg3ARISLEQ9PPljxf45Q/ARgJgwp+2F4JonOQWpKNy+DzcX8WNHp38+3hex9P/beONOev8Y2gKRdo2NDSHH9jgeuGKsPghWO7BqmCbUnrVPONz1dMHOkBC9kKY1u7Lgeg==;nozAVrEmqr/l8CazB1SaDw=="
 ---

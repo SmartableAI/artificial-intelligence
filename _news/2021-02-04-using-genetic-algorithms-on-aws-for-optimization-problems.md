@@ -43,20 +43,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Setting up an IVR to collect customer feedback via phone using Amazon Connect and AWS AI Services"
-    excerpt: "As many companies place their focus on customer centricity, customer feedback becomes a top priority. However, as new laws are formed, for instance GDPR in Europe, collecting feedback from customers can become increasingly difficult. One means of collecting this feedback is via phone. When a customer"
-    publishedDateTime: 2021-02-02T15:28:45Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/setting-up-an-ivr-to-collect-customer-feedback-via-phone-using-amazon-connect-and-aws-ai-services/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/08/ML-1454-1.jpg"
-        width: 800
-        height: 345
-        isCached: true
   - title: "Obtaining Market Recognition And Assessing Value Propositions In A Rapidly Changing Business Climate"
     excerpt: "What will it take for organizations to keep building market recognition? How can leaders impact the sentiment of their audiences? Why are some companies excelling and others getting behind?"
     publishedDateTime: 2021-02-03T12:10:00Z

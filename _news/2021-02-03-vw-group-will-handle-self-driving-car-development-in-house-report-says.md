@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/vw-group-self-driving-developme
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 19
-  - title: "App from VEMI Lab group will help people with visual impairments, seniors enjoy ride sharing with self-driving cars"
-    excerpt: "Self-driving cars will offer access to ride-sharing and ride-hailing with their suite of modern conveniences. However, many people with visual"
-    publishedDateTime: 2021-02-02T16:52:00Z
-    webUrl: "https://bangordailynews.com/2021/02/02/bdn-maine/app-from-vemi-lab-group-will-help-people-with-visual-impairments-seniors-enjoy-ride-sharing-with-self-driving-cars/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 17
-    images:
-      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/06/BDN-Web-Masthead-01.png?fit=5000%2C3200&#038;ssl=1"
-        width: 5000
-        height: 3200
-        isCached: true
 
 secured: "+EP3cm5doZT9nwUEsNV2d20HOXCJ77yuzAW734qjN/EionyAVV7XkWmkqMjrcqMIJh93jcThD661baE6ZEB0pYW4ScXoFoSgdbiIu14gm2Q91EjcBM+29YJlFAIbMhNkIO9V7jSsM//c2tqGYHfhSr8o1w1+3g+coeT9X46fGNs7i7VzNqAA9cB34u8T+eTel0ZjvdOx19faLSo2qE9xjlsrghl8djNnAgQaebz4efVb4nFUqDzso41gYx7H2D1yMxvr5u9NXm0dZc7Vw4S54nlyXCZQYOhY0QIOA+F4xRKFUXL24lv2SYC/UkVKSz9NCGeWGPsP3Rdom6ocb1oQyK0A/TWHVhQn41s+skubZwkcafB+vt2JYoz4Z+mOqjjDL9aiTkkAeXW6hOW+5+M9teaoQIYFnYHQvxnT7lnUJ2ciVN7peZvkdUcm7UpPv+abjJW4+9SBKRbgpMmAvtW5vK9B8tmtUV1pzf/OXgzOjfv0mnCQA9xT2BbZ81N6a9GI2yLt7YU1VAprPXIzK0c69g==;RZWdedQaLoeo/Bq6+9ZIVg=="
 ---

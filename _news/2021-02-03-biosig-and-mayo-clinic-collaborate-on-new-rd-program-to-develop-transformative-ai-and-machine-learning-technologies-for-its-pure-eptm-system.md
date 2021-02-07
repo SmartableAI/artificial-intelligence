@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/biosig-and-mayo-clinic-c
 webUrl: "https://www.marketwatch.com/press-release/biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-eptm-system-2021-02-02-81973843"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "BioSig Technologies collaborates with Mayo Clinic on artificial intelligence R&D program for its PURE EP system"
-    excerpt: "PURE EP is a computerized system for acquiring, measuring and and storing electrocardiographic and intracardiac signals"
-    publishedDateTime: 2021-02-02T15:45:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/940180/biosig-technologies-collaborates-with-mayo-clinic-on-artificial-intelligence-rd-program-for-its-pure-ep-system-940180.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/940180"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/940180"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 19
 
 secured: "HaIHcTHV/MEo859dIAouBMjM0yCed78geZX6bizrxXOLu6H/nSh6HOvdsUfil1GUhhcjEEnspP91qipwjqCfO67K5jxJ9Y6CHgC/oTL/Or8YOd3/FTC8xCMh/P0/JGcD0wy7xwAzvwS4Ou0v+ZgRGVcieOQV4Nk7yWETDmPx4EDrTCwJtz64BFvsDOwBD9UkVQv7bnh/cAQL9ed+w0XEfsztCNOvT1xz/7S8pKQ6gPAkTTUBtqIRudAbxXKcRGkkAqmPeB6ftEOUY+tOW5T4o1CQfVvZcwQeH0OY5FEV0yVTYH4ObvsGzQig54EjxhsQmHH1IVFnhSFH1n3ZWG3jnRgbhrSaBvc/XClguK7Ajf4=;DFk+L9vrqb93n4Ic8zEJPg=="
 ---
