@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Jeff Bezos to step down as Amazon CEO, Andy Jassy to take over in Q3"
+    excerpt: "Jassy joined Amazon in 1997 and has led Amazon's Web Services cloud team since its inception. Bezos said he will stay engaged in important Amazon projects but will also have more time to focus on ..."
+    publishedDateTime: 2021-02-02T23:53:00Z
+    webUrl: "https://inside.com/campaigns/inside-amazon-2021-02-03-26425/sections/223561"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 152
+    images:
+      - url: "https://e.insd.io/s/p/223561_original.jpg?1612370704"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New Amazon CEO Andy Jassy Loves Fossil Fuels and Facial Recognition"
     excerpt: "Jassy, who will replace Bezos this year, has a deeply concerning track record on everything from antitrust to killer robots."
     publishedDateTime: 2021-02-03T18:29:00Z
@@ -75,6 +89,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Bezos' Departure as CEO Shows Amazon Is a Cloud Company Now"
+    excerpt: "Andy Jassy, who helped create Amazon Web Services in 2006 and has run it since, will take over as chief executive later this year."
+    publishedDateTime: 2021-02-03T01:07:00Z
+    webUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/"
+    ampWebUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "After 27 Years, Jeff Bezos Will Step Down As CEO Of Amazon"
     excerpt: "Jeff Bezos is stepping down as Amazon CEO, the online internet retailing giant he founded 27 years ago, and will become executive chair, focused on “new products and early initiatives,” he announced on Tuesday."
     publishedDateTime: 2021-02-03T18:29:00Z
@@ -121,38 +151,6 @@ related:
         width: 1200
         height: 797
         isCached: true
-  - title: "Jeff Bezos Will Step Down as Amazon CEO in Third Quarter of 2021"
-    excerpt: "Jeff Bezos will step down as CEO of Amazon and become Executive Chair of the Amazon Board in 2021 third quarter. Andy Jassy will become CEO. Bezos will focus on new products and early initiatives. As"
-    publishedDateTime: 2021-02-02T22:39:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/02/jeff-bezos-will-step-down-as-amazon-ceo-in-third-quarter-of-2021.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/02/jeff-bezos-will-step-down-as-amazon-ceo-in-third-quarter-of-2021.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/02/jeff-bezos-will-step-down-as-amazon-ceo-in-third-quarter-of-2021.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 44
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/10/amazonbezos-min-1024x584.jpg"
-        width: 1024
-        height: 584
-        isCached: true
-  - title: "What to Know About Jeff Bezos's Successor, Amazon's Next CEO Andy Jassy"
-    excerpt: "Amazon CEO Jeff Bezos announced that he would be stepping down from his position in Q3 of this year, and will be replaced by Amazon Web Services CEO Andy Jassy. At that point, Bezos will transition to executive chair of Amazon’s board."
-    publishedDateTime: 2021-02-02T22:47:00Z
-    webUrl: "https://www.townandcountrymag.com/society/money-and-power/a35398175/andy-jassy-amazon-ceo-news/"
-    ampWebUrl: "https://www.townandcountrymag.com/society/money-and-power/amp35398175/andy-jassy-amazon-ceo-news/"
-    cdnAmpWebUrl: "https://www-townandcountrymag-com.cdn.ampproject.org/c/s/www.townandcountrymag.com/society/money-and-power/amp35398175/andy-jassy-amazon-ceo-news/"
-    type: article
-    provider:
-      name: Town & Country
-      domain: townandcountrymag.com
-    quality: 44
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeff-bezos-owner-of-blue-origin-introduces-a-new-lunar-news-photo-1612302458.?crop=1.00xw:0.672xh;0,0.210xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
     excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
     publishedDateTime: 2021-02-04T12:20:00Z
@@ -184,20 +182,6 @@ related:
       - url: "https://cheesecake.articleassets.meaww.com/520377/uploads/f1b1a910-65aa-11eb-bea0-fbd4614cd2cf_800_420.png"
         width: 800
         height: 420
-        isCached: true
-  - title: "Amazon.com Announces Financial Results and CEO Transition"
-    excerpt: "Founder and CEO Jeff Bezos will transition to role of Executive Chair in Q3, Andy Jassy to become Chief Executive Officer of Amazon at that timeSEATTLE--(BUSINESS WIRE)--Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its fourth quarter ended December 31,"
-    publishedDateTime: 2021-02-02T21:22:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=415814"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/29/mark/20210129882520.jpg"
-        width: 580
-        height: 327
         isCached: true
   - title: "What Amazon CEO Jeff Bezos stepping down means for fintech"
     excerpt: "Jeff Bezos will step down as founder and CEO of Amazon and transition to chairman in 2021, allowing seasoned cloud executive Andy Jassy to take the reins of the $1.6 trillion giant. As detailed in an email to his employees,"

@@ -2,6 +2,49 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-12-18-global-deep-learning-market-top-companies-covid-19-impact-regional-demand-and-future-development-research.md",
+      "title": "Global Deep Learning Market -Top Companies, COVID-19 Impact, Regional Demand And Future Development Research",
+      "excerpt": "Facto Market Insights published a title on “Global Deep Learning Market – 2020-2028”, to its collection. The study on the global deep learning market defines the analysis of all the segments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2212858/global-deep-learning-market-top-companies-covid-19-impact",
+      "originalUrl": "https://www.openpr.com/news/2212858/global-deep-learning-market-top-companies-covid-19-impact",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc18479226_g.jpg",
+          "width": 800,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2212858/global-deep-learning-market-top-companies-covid-19-impact",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212858/global-deep-learning-market-top-companies-covid-19-impact",
+      "publishedDateTime": "2020-12-18T00:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics.md",
       "title": "CoachHub nabs $30 million for talent development platform that meshes AI with analytics",
       "excerpt": "CoachHub, a digital coaching platform that leans on AI and analytics, has raised $30 million in a round of funding led by Draper Esprit.",
@@ -1131,40 +1174,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-kiromic-announces-submission-of-two-ind-applications-for-pd1-gamma-delta-car-t-cell-therapy-with-the-fda.md",
-      "title": "Kiromic Announces Submission of Two IND Applications for PD1 Gamma-delta CAR - T cell Therapy with the FDA",
-      "excerpt": "Kiromic BioPharma (\"the Company\") (NASDAQ:KRBP), a target discovery and gene-editing company utilizing artificial intelligence and its proprietary neural network platform with",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/b18840129/kiromic-announces-submission-of-two-ind-applications-for-pd1-gamma-delta-car-t-cell-therapy-with-t",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/b18840129/kiromic-announces-submission-of-two-ind-applications-for-pd1-gamma-delta-car-t-cell-therapy-with-t",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18840129",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18840129",
-      "publishedDateTime": "2020-12-17T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

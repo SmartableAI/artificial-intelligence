@@ -2,24 +2,24 @@
 category: news
 title: "Apple creates workaround to facial recognition blocked by face mask"
 excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-publishedDateTime: 2021-02-03T18:13:00Z
-originalUrl: "https://www.wpxi.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
-webUrl: "https://www.wpxi.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+publishedDateTime: 2021-02-03T19:02:00Z
+originalUrl: "https://www.wsbtv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+webUrl: "https://www.wsbtv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WPXI
-  domain: wpxi.com
+  name: WSB-TV
+  domain: wsbtv.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.wpxi.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
+  - url: "https://www.wsbtv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
     width: 1200
     height: 628
     isCached: true
@@ -101,20 +101,17 @@ related:
         width: 980
         height: 519
         isCached: true
-  - title: "Use of facial recognition to combat sex crimes in India sparks concerns"
-    excerpt: "Police in the Indian state of Uttar Pradesh will use facial recognition to track sex offenders in the latest use of a technology that many argue throws up issues of privacy.. Read more at straitstimes."
-    publishedDateTime: 2021-02-02T22:33:00Z
-    webUrl: "https://www.straitstimes.com/asia/south-asia/use-of-facial-recognition-to-combat-sex-crimes-in-india-sparks-concerns"
+  - title: "Here’s a way to learn if facial recognition systems used your photos"
+    excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research -- including a data set created by UW professors -- fed on personal images."
+    publishedDateTime: 2021-02-07T14:01:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/?amp=1"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/03/ST_20210203_NGFACIAL03_6306811.jpg?itok=wH6IiOFk"
-        width: 763
-        height: 509
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 41
   - title: "New A.I. face recognition tool"
     excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
     publishedDateTime: 2021-02-05T04:45:00Z
@@ -220,6 +217,6 @@ related:
       domain: amherstbulletin.com
     quality: 4
 
-secured: "DsxC+yh4ASJ+BWnYvNahxa4cb8BS8V6GPCLGejvWyURuqc1WAQPThpYT+Htu7vKXdodlQ7kz/bIzeIpmkF0OvHY6hELhdH6DJq7UrsRreDppiDWeWfYaRvucwImmgaRlkvhYjAUN9qmmMaj2YPKKFAw552BPr74QfTAf7hZfowL0o5U3WllW2YzmKt2X3pR1YO95QmVUiHUJiNnX4VOdymXsXc567RklNbj6e3TVyh5czMrjrdfVorFqgG7rwfrBJ9HgLbsK3iZzVrdYcIcgDXz/VVk/Qc1c/5boEJ6m1rhetKBC+53n/Kba1MRTMd9OfcdPf2V8kDuwHJqjBikay6IbQm/jeWkZTag17lVSms0=;bvDCF7uk2j2BbaKiDGFyPQ=="
+secured: "0a4WrBHKed+E2AjvF3HRPD1sHH6k5xIN33Op7wA8xA0n+Gc5GnAZIh48KqlP48kqyAWRmTH3ucXU2FQFbjw0fvffqafKbkPBpWkMdilKT1nbGRSK4fXziEdhfYU8GZ7Q6WdR6TYTmksQzYzMSQUO8di6jFZTWEDEgH+fiYDkyAVaVdsoIcgZJ82vo7ZG6T+Jor7xN3dmRXs6p58p8rHT7G5Y+C+QcxDa3X/XLLinn8Y7gUcGOq5i8Y55f9oN7aBni+Nrw2NhgMWCH3TDzBSEc7UB8rSrH1bMJIZoATBgfBj8wEYs6Zw6ihz/6guTUxkBsHQ46kMggGomBmArWUjb3Yd5zP0s4RDptXpyW/ZJ2Sk=;ikbExeBeSxbgbQMQ1ogn5A=="
 ---
 

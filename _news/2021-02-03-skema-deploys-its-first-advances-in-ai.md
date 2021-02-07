@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-social-aff
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-social-affairs-higher-education-artificial-intelligence-education-2939010dc5580529579313dda81e387e"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Why Future Advances In AI Need A New Architecture"
-    excerpt: "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be"
-    publishedDateTime: 2021-02-02T22:22:00Z
-    webUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/"
-    ampWebUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 63
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg"
-        width: 432
-        height: 293
-        isCached: true
 
 secured: "k3FBJxkHyPEq9pGAKuHswIvKokG95114MvVBYjGAZJYBZ1NyYlanrvgOa1NmCFI3mdWacELNsA5wWJB9KbtKd/UjYhPbltQNaDnlSm6vDNdRvwShtbaTAWQDE8+eVCVInBlXDP6sNCEH8hVBVIEf+q3Xj2f2dvund6w9DrrmhCLXoZVtX0c/lT4SaP63bb0JJpf+1FD1cTijoxfCK4oRhnpPWinNpx0d5OziEcrJLvlB3HhCVl4ZVeKaIC0c2FRpV7pOEp20BNzvPs5vanMj5e8cpcGKE5OpZ8PzFeaKzcmgAEK0mYkVjSWELispb0yOeihAYvF8TblkGy7xqqy/+Cz0gmL8Tql+lzJMxveLvgE=;3H3kGLkpMLMwPZX2SHZewQ=="
 ---

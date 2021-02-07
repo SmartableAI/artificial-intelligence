@@ -71,20 +71,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Strategy Analytics Reveals Research to Maximize Success for AI-Enhanced Product Development"
-    excerpt: "Strategy Analytics today released complimentary research which explores the link between the level of understanding of the buyer journey and the success of AI projects. The report “ Defining the AI Buyer Journey ” clearly shows that both AI vendors and users can succeed through a thorough understanding of customer journeys."
-    publishedDateTime: 2021-02-04T14:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-68226491913d4cd2a19db72f2d5970c4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "NeerdNIrjJ/PbNJMURNK3rxzXW++cBVJnTlr7b30kL79t/RAt3/z29Qb21RjP79H6RbG9TWaXh6cR+oVX/ogSWjc9ZBOyc3wJCHeqED5nOqAqhCzpC1QqUCDLxA2G7bxPk+MXDCofl32n9XCtyRSHel/mG5Bwf/sEJtuWl2QZSajjENIPiDn6OZfSDJHv/2wVpjHf6gpWnzBr62UC1G4l+1ox67jaw9LzxubSlyznNIAnIXbaG1arJ2PxoN1Fy0zjI6AowyfqUn5kfmBArsiwkGebL+5wEnSUy0wgScf+kBq31WIeL3zuzBL4mz2FEMCtGZnpBXckQguYaRqplLvZDx7FHnAegj2R8zmat8QLbuNSMdrBre7vI6vpQG2kGUGBzZdn0CIseaSvhoHzkTqcx7N4WlfJhMwlkOBgStQ3Ee3qZOP0/Co4Mw5esO8TGpnLSr3XPpNWFIPgIJwog4QUQex4nmPl8otoltYH5XBEM2hVRQyUDVHDHBDFPnah1Zwb2Jk5lfn+1gtL3VweeVoWw==;DG2Bhtl/lyvaWFQAxugfzg=="
 ---

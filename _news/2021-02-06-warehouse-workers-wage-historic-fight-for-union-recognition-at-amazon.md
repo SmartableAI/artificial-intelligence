@@ -87,31 +87,28 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Use of facial recognition to combat sex crimes in India sparks concerns"
-    excerpt: "Police in the Indian state of Uttar Pradesh will use facial recognition to track sex offenders in the latest use of a technology that many argue throws up issues of privacy.. Read more at straitstimes."
-    publishedDateTime: 2021-02-02T22:33:00Z
-    webUrl: "https://www.straitstimes.com/asia/south-asia/use-of-facial-recognition-to-combat-sex-crimes-in-india-sparks-concerns"
+  - title: "Here’s a way to learn if facial recognition systems used your photos"
+    excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research -- including a data set created by UW professors -- fed on personal images."
+    publishedDateTime: 2021-02-07T14:01:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/?amp=1"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/03/ST_20210203_NGFACIAL03_6306811.jpg?itok=wH6IiOFk"
-        width: 763
-        height: 509
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 41
   - title: "Apple creates workaround to facial recognition blocked by face mask"
     excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-    publishedDateTime: 2021-02-03T18:13:00Z
-    webUrl: "https://www.wpxi.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+    publishedDateTime: 2021-02-03T19:02:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
+      name: WSB-TV
+      domain: wsbtv.com
     quality: 39
     images:
-      - url: "https://www.wpxi.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
+      - url: "https://www.wsbtv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
         width: 1200
         height: 628
         isCached: true

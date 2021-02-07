@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Baidu gets California nod for testing empty self-driving cars"
-excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-publishedDateTime: 2021-01-28T02:37:00Z
-originalUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
+excerpt: "Currently, 58 companies have permits in California to test self-driving cars with such a backup driver, including most major automakers and Apple Inc."
+publishedDateTime: 2021-01-28T06:18:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
-    width: 817
-    height: 545
+  - url: "https://www.thehindu.com/sci-tech/technology/6dgq1r/article33526855.ece/ALTERNATES/LANDSCAPE_615/baidu-reutersjpg"
+    width: 615
+    height: 384
     isCached: true
 
-secured: "57WQCnw8Fi9cXWyXmqZLcseoOC/INU/Y6UqU36++9zSZSI8HYjIT1a/THuXhSD0Z8oaHZrBWuDe+ky18d0ESjiYC+ATLqAxfRLLwsO6H9uNi7/PV0BkMuBfkyIrn7sPiVZC7nS+iJ//TznhyQrgMEehVpNLshrKlvbd/lGw9TgBdASLIaxDtC5tIcUvr1IhkBwhOYAYUWEyCujvWOgC9EvA8F0wy5ymIoJCPotupUEYGJT/bvFzUDvEhSMusSGa2gTZRvK1kd1WeqFUHv4m4sMHDKGqISwLoeJ5NYVVfRb/fjZyUjo/a/Ih/5KK85EbZsRX+NUK5/J9VQkDHKRySmGgZOHHgJaL6OE8OwvoClx6zw/DAjUEyrfjOwMnoL3HNCF+a/C6+h61gFMSzE7w/GREQlsYm2vjjbSUVQvt2kwuIhFooPneD0sMmIlLl1OAhbp3klN91AYSMJFJmBu4qHMvyHLxFfYTAQI2xZ+xXSlM5j6GXxau8XOrEr69glA1B++RwTLCMRIJLzRT3XCsWeA==;vPIxyt8YGADf09vY8vSV4Q=="
+secured: "2tOS5Mjv7fJcSH9NI1vLFVGgbSWK5dkglCFM/fPPQkEbT62cBVu4E7DflxaCcmb/Pb/7s3WuYg3qISBMfUiMvMVJP9jSR/rWid8QdtM5iKfiX/c2qXv2C6it8871+GrpYjxH9Q60rB54IMVK3KzZJc4CiH95p/fUAX2De7ZCTPV7+fjwqZaY9AniyZh/w1Apyswose97t2fpv0plPoFIe5z6ph4911MxD5vlf1beessbtUyWnwBXZGm+Iy96u1XGmC3k1+gCvYlMM1vW7T51L8aWL3HQNT9aO0poMVv4qxvzNQa8lAC5Kem6L4nq1o0YCgpBAhdWylBSn9lfxQCGPFHVDw5cAyml09HiaUkI1eU=;BKgJlJY1z9jjOMpxFk40cg=="
 ---
 

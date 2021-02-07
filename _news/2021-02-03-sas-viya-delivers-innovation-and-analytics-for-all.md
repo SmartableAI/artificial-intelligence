@@ -55,6 +55,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
+    excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
+    publishedDateTime: 2021-02-07T13:56:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 28
   - title: "OH: Local analytics startup signs COTA as first client"
     excerpt: "Ikonos is positioned to establish process and governance around the use of data in organizations, such as COTA."
     publishedDateTime: 2021-02-04T12:22:00Z

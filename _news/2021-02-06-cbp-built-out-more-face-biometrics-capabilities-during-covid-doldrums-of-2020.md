@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 585
         isCached: true
-  - title: "Hikvision to deploy 1,900 cameras with face biometrics for $33M smart city contract"
-    excerpt: "Hikvision has won a contract worth an estimated $33 million to install roughly 1,900 cameras with face biometrics as part of a smart city project."
-    publishedDateTime: 2021-02-02T22:31:00Z
-    webUrl: "https://www.biometricupdate.com/202102/hikvision-to-deploy-1900-cameras-with-face-biometrics-for-33m-smart-city-contract"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/18144436/Hikvision-biometric-facial-recognition-cameras.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "rkgPzolNT0thZ2Y0+UHzLs2pgyVOvMbgn+AhYEJd5MweDz/B28yUJ7VvsULvozajMEttiC4DgQLVQ4TMzooj+wldfbJdA6g5fb+qX1mjEBhM5qXmBNjUMTSDzRvv+z++B799eZ1hnCjetfuWKhV9ofu6UB0Cpu+L05jyPyLeP8hxKjzesqweNDUOzbi8WdIPh0Yy+UUxvxK7nWwg32wvY2H/7MEWqy6vxmz5FuRc2gATXPnwk2sR5a2SOlF0E7UZihSctBsUMXtiXNguCo2N9P3nPol4fCW0y280Je2sI9CI37ve2Vv/DuFjwAsmAetiwB977s+g8aCZSzl1Rh49Ii8JWjhYBfpSdA9eVvublhE=;fZ0fswjuNuPmT0BYHbUmMQ=="
 ---
