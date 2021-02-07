@@ -83,17 +83,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Superb AI Secures $9.3 Million to Extend Leadership in Training Data Automation"
-    excerpt: "Superb AI, one of the world's most powerful AI-enabled training data platforms, today announced it has completed a $9.3 million Series A round of financing. Atinum Investment led the round with participation from existing and new investors including Premier Partners,"
-    publishedDateTime: 2021-02-02T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/superb-ai-secures-9-3-million-to-extend-leadership-in-training-data-automation-1030032496"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/superb-ai-secures-9-3-million-to-extend-leadership-in-training-data-automation-1030032496"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superb-ai-secures-9-3-million-to-extend-leadership-in-training-data-automation-1030032496"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
   - title: "Google employees consider jumping ship for Facebook and Microsoft after firings, reorgs and mounting tension in its AI division"
     excerpt: "Google's commitment to building ethical AI has been thrown into question as tensions between employees and management continue to flare."
     publishedDateTime: 2021-02-02T19:46:00Z

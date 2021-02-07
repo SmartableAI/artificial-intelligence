@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Ai Weiwei's Covid-19 Documentary"
-    excerpt: "When his family found him he was dead hanging on a tree in a forest. This is not just an interview case but a tragedy.” Dissident artist Ai Weiwei @aiww’s #Covid19 documentary details China’s handling of the pandemic,"
-    publishedDateTime: 2021-02-02T13:20:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-02-03/ai-weiwei-s-covid-19-documentary-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1C7VDWV8asA/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Community Health Network prescribes AI to combat COVID-19 – Jaweb"
     excerpt: "AI is about to play a much larger role in identifying individuals who are at risk for contracting COVID-19 in Indiana. Community Health Network (CHN), an accountable care organization (ACO), revealed today that it is beginning to employ an AI platform from Jvion to analyze members’ electronic health care records that are stored in a"
     publishedDateTime: 2021-02-03T15:00:00Z
@@ -129,6 +115,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence can predict whether you will die from COVID-19"
+    excerpt: "Copenhagen: Using patient data, artificial intelligence can make a 90 per cent accurate assessment of whether a person will die from COVID-19 or not, according to new research at the University of Copenhagen."
+    publishedDateTime: 2021-02-07T06:22:00Z
+    webUrl: "https://www.freepressjournal.in/health/artificial-intelligence-can-predict-whether-you-will-die-from-covid-19"
+    ampWebUrl: "https://m.freepressjournal.in/article/health/artificial-intelligence-can-predict-whether-you-will-die-from-covid-19/d3559d80-e9df-47ef-a628-16eaef76be95"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/health/artificial-intelligence-can-predict-whether-you-will-die-from-covid-19/d3559d80-e9df-47ef-a628-16eaef76be95"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 37
   - title: "Jvion Partners with Community Health Network to Mitigate Impact of Deferred Care"
     excerpt: "Jvion, a leader in clinical artificial intelligence, today announced that Community Health Network, an integrated health system with over 200 sites of care and affiliates throughout Central Indiana, will leverage Jvion's prescriptive clinical AI CORE to target outreach to Accountable Care Organization members who are likely to suffer negative"
     publishedDateTime: 2021-02-03T16:18:00Z

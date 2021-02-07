@@ -2,6 +2,40 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2020-11-30-bull-of-the-day-baidu-bidu.md",
+      "title": "Bull of the Day: Baidu (BIDU)",
+      "excerpt": "After peaking above $270 in 2018, Baidu (BIDU) shares have been stuck in bull market purgatory, spending most of the last 18 months under $140. That punishment could be ending soon as the company reinvents itself and recovers from government restrictions on its advertising revenues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30",
+      "originalUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30?amp",
+      "publishedDateTime": "2020-11-30T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-a-year-after-launch-the-financial-times-consultancy-is-booming.md",
       "title": "A Year After Launch, The Financial Times’ Consultancy Is Booming",
       "excerpt": "Called FT Strategies, the separate business division has autonomy from the Financial Times. Still, it has access to decades’ worth of expertise in building reader revenue, drawi",
@@ -1140,49 +1174,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-artificial-neural-network-market-trends-analysis-supply-chain-analysis-impact-of-covid-19-future-scope-and-forecast.md",
-      "title": "Artificial Neural Network Market Trends Analysis, Supply Chain Analysis, impact of COVID-19, Future Scope and Forecast",
-      "excerpt": "Growth across different regions and burgeoning market demand has been supporting the growth of the Artificial Neural Network Market, so as to attain a substantial market figure by 2027; witnessing robust growth rate (CAGR) from 2020 to 2027. Segmentation ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2020/11/27/artificial-neural-network-market-trends-analysis-supply-chain-analysis-impact-of-covid-19-future-scope-and-forecast/",
-      "originalUrl": "https://ipsnews.net/business/2020/11/27/artificial-neural-network-market-trends-analysis-supply-chain-analysis-impact-of-covid-19-future-scope-and-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2020/11/4558-1606480036.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-28T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "ADLINK Launches the DLAP x86 Series, a Deep Learning Acceleration Platform for Smarter AI Inferencing at the Edge"
-    excerpt: "ADLINK's DLAP x86 series is the most compact GPU-enabled deep learning acceleration platforms available, powering AI applications in industrial, manufacturing, and healthcare environments Designed to accelerate compute-intensive AI inferencing and learning tasks,"
-    publishedDateTime: 2021-02-02T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing/article_11c70074-228e-5304-a1c6-65d5cf14b4b6.html"
+  - title: "Accelerating machine learning and hyperscale computing infrastructure"
+    excerpt: "Microchip’s introduction of the world’s first PCIe 5.0 switch doubles the PCIe Gen 4 interconnect link rates to 32 GT/s to support the most demanding next-generation machine learning platforms,” said Andrew Dieckmann,"
+    publishedDateTime: 2021-02-03T09:38:00Z
+    webUrl: "https://www.electropages.com/2021/02/accelerating-machine-learning-and-hyperscale-computing-infrastructure"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 35
+      name: Electropages
+      domain: electropages.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.electropages.com/storage/app/media//company-logos/company-logo-Microchip@2x.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Microchip Accelerates Machine Learning and Hyperscale Computing Infrastructure with the World’s First PCI Express® 5.0 Switches"
+    excerpt: "CHANDLER, Ariz., Feb. 02, 2021 (GLOBE NEWSWIRE) — Applications such as data analytics, autonomous-driving and medical diagnostics are driving extraordinary demands for machine learning and hyperscale compute infrastructure. To meet these demands ..."
+    publishedDateTime: 2021-02-03T14:27:00Z
+    webUrl: "https://www.eejournal.com/industry_news/microchip-accelerates-machine-learning-and-hyperscale-computing-infrastructure-with-the-worlds-first-pci-express-5-0-switches/"
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 11
+    images:
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "Zrg0ga+JbWdgJVnrr0w82Yp2sw14Tc94QXvc0Xz4G0JCrmfJpIwz5B1zEtQPUVLAPhIReeC4qmIsMiaxF9EMsLX6zmKROv2k/TrJKTuvA+VcrcqVxHEE0E7hIMdyn5SKLwOXVDL0NSA6PdwjNM9nhh8J+EteJql1XuhJbbgzOeO/nDmBtBjEptGamQBMYhLv4ABrAgzm6rda2Xs7ombpG5Nb7xLhvcHlomSaVC7/2YQ6+yThv/NzPjun2guzoCPVsOPYA+ERQ4Vyfa/lkmj+OHlU60b4Az1MMFi2EmtEi09Dq8eu9NtnRLhPP0I9pxzQVcExEywV/svtPa7hBs8F20Kgzdmz55bR5PI5qOl4Vco=;v2BhsT2BLErZYvBymcsikA=="

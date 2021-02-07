@@ -92,17 +92,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and data analytics are the key to SME recovery in 2021"
-    excerpt: "For most enterprises, the bulk of new revenue opportunities into the future will come from digital sources, as customer engagement through to product development shifts how businesses operate. To take advantage of this as an opportunity,"
-    publishedDateTime: 2021-02-02T13:19:00Z
-    webUrl: "https://www.zdnet.com/paid-content/article/ai-and-data-analytics-are-the-key-to-sme-recovery-in-2021/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-data-analytics-are-the-key-to-sme-recovery-in-2021/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-analytics-are-the-key-to-sme-recovery-in-2021/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Top AI Startups to Watch in 2021"
     excerpt: "An abundance of startup companies that introduce new applications of artificial intelligence have emerged over the years. In 2020, Crunchbase’s records show that the number of AI startups is already about the breach the 10,000 mark. The number has ..."
     publishedDateTime: 2021-02-05T16:34:00Z
@@ -132,20 +121,6 @@ related:
       - url: "https://collegian.csufresno.edu/wp-content/uploads/2021/02/Depositphotos_271798500_s-20198551.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
-    excerpt: "COVID-19 put unbelievable strain on our health care system. With industry organizations facing sharper realities around managing costs and"
-    publishedDateTime: 2021-02-02T13:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-301219703.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 52
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "9W2Dys7s59QuOdN3qxP3XcR0EZ6ONP/Q+CpImMCSkb+0asr6xh2T6w44aSyZBqyb7UKCsRO5vhxFrZGx3Ne4e9VoVfresuvAK9sxKg2qaIOiotdyLoBCCK9azpEgKb25OUkulGYeLlQgvxSFSxxMZa3sZJWVRt5uHND0Vl4+1Dbsq6SDZ/mVIS3Lx4QstXVQhtWyNh/P5D+TjPSNXW1Ym+whqxRLBox8/Wt+4xWwQ5ypW2KFxOCKKEYoanZ0Uo6kfV7LPoJuAXmYbw4IF9pJJlECxaYc0/601j1fIjLwWJpwxUZFhNkvOMvSw4yUL7v6ZNr/OQfZxoB/TdgyXjYdNgGHmmbBD0zmMw9s3HQPQqY=;9GPW0OsqORntZQxFQtMK8Q=="

@@ -2,6 +2,57 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-12-23-dubber-acquires-speik-to-expand-its-ai-call-recording-service.md",
+      "title": "Dubber acquires Speik to expand its AI call-recording service",
+      "excerpt": "The acquisition enables Dubber to advance its ambitions for making call recording service infused with AI available around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/",
+      "originalUrl": "https://venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/dubber-speik.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/22/dubber-acquires-speik-to-expand-its-ai-call-recording-service/amp/",
+      "publishedDateTime": "2020-12-22T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-cmswires-top-10-information-management-articles-of-2020.md",
       "title": "CMSWire's Top 10 Information Management Articles of 2020",
       "excerpt": "The virtual event saw important announcements in hybrid cloud, edge computing and artificial intelligence ... streamlined IBM line-up of offerings, following the sale of its Watson marketing ...",
@@ -1138,58 +1189,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-baby-yoda-robot-uses-ai-to-follow-you-around-like-a-creepy-toddler.md",
-      "title": "Baby Yoda Robot Uses AI to Follow You Around Like a Creepy Toddler",
-      "excerpt": "While you can shell out hundreds of dollars for a startlingly lifelike replica of Grogu, this DIY Baby Yoda does what all the others can’t: automatically follow you everywhere you go like a curious 50-year-old toddler.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094",
-      "originalUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ge0szw9vewohscvyfg55.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094/amp",
-      "publishedDateTime": "2020-12-21T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

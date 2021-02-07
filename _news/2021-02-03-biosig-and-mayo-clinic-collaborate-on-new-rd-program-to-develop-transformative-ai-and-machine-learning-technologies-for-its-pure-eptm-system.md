@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/biosig-and-mayo-clinic-c
 webUrl: "https://www.marketwatch.com/press-release/biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-eptm-system-2021-02-02-81973843"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: MarketWatch
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "BioSig and Mayo Clinic Collaborate on New R&D Program to Develop Transformative AI and Machine Learning Technologies for its PURE EP™ System"
-    excerpt: "Global market for AI in healthcare is estimated to reach $45.2 billion by 2026 Westport, CT – February 2, 2021 — BioSig Technologies, Inc. (NASDAQ: BSGM) (“BioSig” or the “Company”), a medical technology company commercializing an innovative signal processing platform designed to improve signal fidelity and uncover the full range of ECG and intra-cardiac signals,"
-    publishedDateTime: 2021-02-02T13:58:00Z
-    webUrl: "https://www.financialnewsmedia.com/biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-ep-system/"
-    type: article
-    provider:
-      name: financialnewsmedia.com
-      domain: financialnewsmedia.com
-    quality: 21
-    images:
-      - url: "https://financialnewsmedia.com/wp-content/uploads/2018/08/fnmcolor-01.png"
-        width: 1250
-        height: 642
-        isCached: true
   - title: "BioSig Technologies collaborates with Mayo Clinic on artificial intelligence R&D program for its PURE EP system"
     excerpt: "PURE EP is a computerized system for acquiring, measuring and and storing electrocardiographic and intracardiac signals"
     publishedDateTime: 2021-02-02T15:45:00Z

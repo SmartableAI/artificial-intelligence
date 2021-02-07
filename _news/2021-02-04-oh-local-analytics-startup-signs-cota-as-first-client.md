@@ -48,34 +48,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "SAS deepens partnership with Microsoft, offers analytics through cloud"
-    excerpt: "Building on a partnership announced with Microsoft in 2020, SAS today disclosed it is offering its analytics platform to customers through Microsoft's cloud known as Azure."
-    publishedDateTime: 2021-02-02T15:01:00Z
-    webUrl: "https://www.wraltechwire.com/2021/02/02/sas-deepens-partnership-with-microsoft-offers-analytics-through-cloud/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 39
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2018/06/158478-sas1-DMID1-5f43ui4wc-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "SAS Viya delivers innovation and analytics for all"
-    excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"
-    publishedDateTime: 2021-02-02T14:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sas-viya-delivers-innovation-and-analytics-for-all-301219567.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1431107/doctor_with_tablet_SAS_Viya.jpg?p=facebook"
-        width: 800
-        height: 418
-        isCached: true
   - title: "SAS Viya Delivers Innovation And Analytics For All"
     excerpt: "Customers benefit from easier cloud migration and management of analytic workloads; SAS continues to strengthen its partnership with Microsoft Azure Mumbai, Maharashtra, India Business Wire India Analytics leader SAS continues to innovate by making it easier to access its powerful,"
     publishedDateTime: 2021-02-03T08:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/03/granulate-raises-30-million-for-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/granulate-raises-30-million-for-ai-that-optimizes-server-workloads/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Superb AI raises $9.3 million to annotate training data"
-    excerpt: "Superb AI, a startup developing a suite of AI training data prep and verification tools, has raised $9.3 million."
-    publishedDateTime: 2021-02-02T13:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/02/superb-ai-raises-9-3-million-to-annotate-training-data/"
-    ampWebUrl: "https://venturebeat.com/2021/02/02/superb-ai-raises-9-3-million-to-annotate-training-data/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/superb-ai-raises-9-3-million-to-annotate-training-data/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/Hyun-Kim-Superb-AI.jpg?w=1200&strip=all"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Reverie Labs raises $25 million for its AI drug discovery platform"
     excerpt: "Reverie Labs, a startup using AI to develop new medicines, today announced the closure of its $25 million series A round. The company says the capital will be used to advance its internal and partnered drug discovery program,"
     publishedDateTime: 2021-02-03T15:38:00Z

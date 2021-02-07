@@ -24,22 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "HappyFox applies conversational AI to support requests made via Slack"
-    excerpt: "HappyFox today announced it is using conversational AI to automatically resolve requests made to help or service desk platforms it supports via a Slack communications channel. Assist AI from HappyFox analyzes each request made via Slack to determine if a way to solve that issue already exists within an IT organization’s knowledge base."
-    publishedDateTime: 2021-02-02T14:03:00Z
-    webUrl: "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/"
-    ampWebUrl: "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/"
+  - title: "Signal Group launches hunt for tech start-ups to support AI drive"
+    excerpt: "Signal Group's new investment arm is seeking entrepreneurs and technology start-ups to work with on new digital solutions for shipping. The Thenamaris aframax chartering spin-off has launched Signal"
+    publishedDateTime: 2021-02-03T08:09:00Z
+    webUrl: "https://www.tradewindsnews.com/technology/signal-group-launches-hunt-for-tech-start-ups-to-support-ai-drive/2-1-956121"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: TradeWinds
+      domain: tradewindsnews.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/HappyFox-why-assist-ai-image-1.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://images-global.nhst.tech/image/dUF5UjV0dGp4aDFNSzRWbjZKeE1PQWJBUEdCdmh4b1l5dlU4cDZKYmRxYz0=/nhst/binary/334fbbc256a7cc4972711a381f88d06f?image_version=720"
+        width: 720
+        height: 361
         isCached: true
+  - title: "Recruiter com Group makes its case for harnessing video, acquires AI-focused tech startup"
+    excerpt: "CEO Evan Sohn tells Proactive how the group has harnessed video to help it achieve its recruiting goals. In the fourth quarter, Recruiter.com launched three new initiatives: On Demand, a gig platform for recruiter services;"
+    publishedDateTime: 2021-02-02T18:21:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/940204/recruiter-com-group-makes-its-case-for-harnessing-video-acquires-ai-focused-tech-startup-940204.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/940204"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/940204"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 28
 
 secured: "NZTuOuRbjn4O5BiRNWsXIVrcx3DJA6DtsPJycOFmdg2jSvr6dhPRFrlZ2noDDCmguDHv2uAXu3GqSHGNmwpvARhb4OD7j4hjIZieMpl5YTg4d4qSLAxNxcPmgX+jTqJ2VKpEiOWc3WzSqF6XqY3ifPQ7h1g3iNX2FItLaoEJ37RzpFrtRb4oKChfjxs0/hWN4lkneBLC4a290nZE1sAdKM6Y7ikZQtOn/MtYEdLFKYUGMtLdaJacq898w3YJ2XW4yOUMDpPruQYYWJvPoDN3LoLV+arCurPI71dh3SxCeGRkklLnYlonVyHhJK7c3x8rtq30k1GRgp0TLJzOAjjDraNahKDJ36pNkE/2zP6V4u0=;9BJN2gYDp3wcP6NLAt3wOQ=="
 ---

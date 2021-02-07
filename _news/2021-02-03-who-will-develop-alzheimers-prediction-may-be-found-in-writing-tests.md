@@ -35,20 +35,6 @@ related:
         width: 576
         height: 685
         isCached: true
-  - title: "Writing tests could help predict Alzheimer's disease"
-    excerpt: "The AI programme identified that one group of ... Vice President of health care and life sciences research at IBM Thomas J. Watson Research Center in Yorktown Heights, New York, where the A.I ..."
-    publishedDateTime: 2021-02-02T14:23:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/writing-tests-could-help-predict-alzheimers-disease-206957"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 24
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/2/2021_2$largeimg_1347625596.jpg"
-        width: 900
-        height: 621
-        isCached: true
 
 secured: "wY4DxE6f5hyB6TDe5xVfslTnQiMCgQfjLAXF2g71o90SKh+wqEnFrEGfcvIO6viGC1mui7JjRoCqGq/tU+oj9FtQQXCwIW7N6p8yQ0O6WO8yFqu8AWw0GC1jktHZEq7OfFktgF8VDYeS0yjaCkTiXF+rylhSyz4hji/3z8q5wKS+O84p7CmwOsLbUaIkpmskNsVmuCT9m8590S3jSncaWZgnalMIAUgBwXfOG5hTNrxFnoexUOrrCVuIGFKs1TkomEoBuoho7kZGeTyAv5eVv3dYY1O7AFPLmpxAtvuz+zNZ2/FFZi75HgCj/hwjBYjwKuNdGv1Tv+pOgzNOUKM3eeov+EHw/jlyKncS4ujYltndYHw3ohYR81IL+MXAqqZgzlSwiqFXVi7CdTfIW6jdibM9IjSRUWoaZ6qANWGzECIn/TeohStzRHHoGdwqoCyrX1DBNpeRykJbRCZ5gZ2hMCdIzPNMHfH/SZEXuf0P1apK6CssFz9Dh4J2tz+t5sSZbTn/cfSTYmso3BLSsAPliA==;kW25nLPI6lkQoWDnRv7gsg=="
 ---

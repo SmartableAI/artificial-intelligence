@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "BioSig and Mayo Clinic Collaborate on New R&D Program to Develop Transformative AI and Machine Learning Technologies for its PURE EP™ System"
-    excerpt: "Global market for AI in healthcare is estimated to reach $45.2 billion by 2026 Westport, CT – February 2, 2021 — BioSig Technologies, Inc. (NASDAQ: BSGM) (“BioSig” or the “Company”), a medical technology company commercializing an innovative signal processing platform designed to improve signal fidelity and uncover the full range of ECG and intra-cardiac signals,"
-    publishedDateTime: 2021-02-02T13:58:00Z
-    webUrl: "https://www.financialnewsmedia.com/biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-ep-system/"
-    type: article
-    provider:
-      name: financialnewsmedia.com
-      domain: financialnewsmedia.com
-    quality: 21
-    images:
-      - url: "https://financialnewsmedia.com/wp-content/uploads/2018/08/fnmcolor-01.png"
-        width: 1250
-        height: 642
-        isCached: true
 
 secured: "h4R1wDwTD1sjBZ8D0ZnGS3ylJvkQthAvgBuDRBgCgRXNX6qevri1IULBaytBZ3YKYVVOR/lHSiASunYl7kyUrkAeQMhxdAyo0WErsM/6nGQHlFvVAOZalQY3yWXbY9oogKHDmQoPRszS8S4SlU8rjZrx8JY92KzizcT8wuLMdJS18quiUF8Qi0gpEUoo9TDZI08TviDrgZ4CWVG/oo3w204rgyRY1VHNRMURDpxJz4/6r7ydTorqWCUQwZsWuFcjCL26c3bKm1LfnjrDXNzWc5yDrWsecfG4AcRyjtcOKcM393ZQVSIVpQAnSaVOGq9FQvzIcO64HhtjwDUniM165WZES/VsjsPQIK2zrr4WXlUhGh+KeGARElGGlgkLanROmn9KAsnK7L+5/LKmSfiDzs+FpYr7h7/578WgniaEgYQn/3fLsNB8tc5VqV9r3ugbB1s2hhwoEhfkD+2JFekJHJ3s5ODEO/a2Hmjda8DvzNmvLpozWQOdyJzOOtvEMbQ6ke2X/qQKiyAf01+cuDiA4Q==;I0AgMpPxQ16ZbqlsEwezkg=="
 ---

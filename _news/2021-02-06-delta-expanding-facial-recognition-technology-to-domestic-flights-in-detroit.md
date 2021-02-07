@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/travel/delta-expands-facial-recognition-dome
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.ajc.com/resizer/C-G8Xr8RpZqUnRl8gGEcgY-jFgo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/EQ2DJC3GNWFFY2Q2DAIPN7ANIU.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "India police use facial recognition technology to track known sexual offenders"
-    excerpt: "The use of modern technology has to become part of policing in everyday life, Lucknow inspector-general Laxmi Singh said.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-02T13:28:00Z
-    webUrl: "https://www.straitstimes.com/asia/south-asia/india-police-use-facial-recognition-technology-to-track-known-sexual-offenders"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/02/yq-indiawoman-210202.jpg?itok=YnJTxhW1"
-        width: 763
-        height: 509
         isCached: true
 
 secured: "ty6RgwwYsfQTfIwo8iP65Wq0BHZjeUg+emEj7h+Wpf5m/vQYUdTLoxYP+Uq41FfX7TxPcxxkif71hpkfKRtEKGVus/RIv0To6ALfPZVrbBw1FjW1zqB/yISC19+dUvvJN7z8nY5PHgSwj3oQWGK97bVcmIXgaHD4Jf46BZh2GjbR0KOz2qR4SLPAZ+kChFqrmeJy7vt8ZqWg0aN/+fXIBblwRL2aOJ6Uq9oi3O9uqZUCLYIzYyxps1pC7U82WshKrMKXnEUroa1hz3zcfINQ6dGIoHVrrPq1QHQYEvO1dLhq2OQCCKTId+MuRB9nyGstx0eW2qfPuR4qc0nWMx0Z+WftiLh/HnB5XBK0HB955ESd8SrEHt0qIpa5v+F6P6STUyKJb3lJPRHZ2ebJ5+nfBXXnAcHi2bKGfFc9bHBpMx6GzCpQXO3pLIoU266K46M/Xb7D7qWiBQEZUUDXvHEuk+cSpPoFPgegbnlN/yM57/W+1OqR+66ZR9+xSBvoHV2pWQr4SYgeexuhG8SViR94sQ==;Ei0ESlO2OY9oL4UwzF4NSg=="

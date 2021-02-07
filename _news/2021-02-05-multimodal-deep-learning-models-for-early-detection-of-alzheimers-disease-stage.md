@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Writing tests could help predict Alzheimer's disease"
-    excerpt: "The AI programme identified that one group of ... Vice President of health care and life sciences research at IBM Thomas J. Watson Research Center in Yorktown Heights, New York, where the A.I ..."
-    publishedDateTime: 2021-02-02T14:23:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/writing-tests-could-help-predict-alzheimers-disease-206957"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 24
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/2/2021_2$largeimg_1347625596.jpg"
-        width: 900
-        height: 621
-        isCached: true
   - title: "Who will develop Alzheimer’s? Prediction may be found in writing tests"
     excerpt: "Is it possible to predict who will develop Alzheimer’s disease simply by looking at writing patterns years before there are symptoms? According to a new study by IBM researchers, the answer is yes."
     publishedDateTime: 2021-02-02T19:06:00Z

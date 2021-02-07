@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Rescale Raises $50 Million in Series C Funding"
-    excerpt: "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft's M12, Nautilus Venture Partners,"
-    publishedDateTime: 2021-02-02T14:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Rescale Raises $50 Million in Series C Funding"
     excerpt: "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft’s M12, Nautilus Venture Partners,"
     publishedDateTime: 2021-02-03T07:58:00Z
     webUrl: "https://apnews.com/article/business-technology-science-genomics-products-and-services-3e1356013d10e82c6e1290414a7c7500"
