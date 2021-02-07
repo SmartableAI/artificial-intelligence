@@ -42,34 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Market 2020 Regional Demand, Industry Top Players Study, Key Trends and SWOT Analysis to 2025"
-    excerpt: "The latest report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast to 2025 firstly focuses on some important aspects of the market such as revenue rate, market share,"
-    publishedDateTime: 2021-02-03T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regional-demand-industry-top-players-study-key-trends-and-swot-analysis-to-2025-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cognitive Analytics Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
-    excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
-    publishedDateTime: 2021-02-03T04:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "R4sRF3EC+embtTkV6NUY4dfHK3GIpskEM6cZ+3wIYK92ibKWPI664cPbTMwSLBJ1CXL56Tl0FiWTofzF4uQc4BER/IhP5hspZnHkhyll18Hx+VXZRjvlid8N1hznbEYOZqshRqtdYgXhZDLWIZvOubeNvigucW3T6hF7bHmXOYLhrU29H67Pp2WB/RKi1C8CXSUr1DHvDcSbyja01wEMuIUvigyvB+XYOEWfTOLj7c9l38Rhps5k3ffM7zZ1V4LLTBf6rttSSfZF9q1jendNqPMQas3wMLOgDq0V7AhrIFu8oakPUHsJ4crOPQbwY3hC8TU4XcaiQgRZpK43QyTRb4iLxndaBK4RWGHPIp4V2Jg=;6aCKCAA2ZY13CwcUdF3P/A=="
 ---

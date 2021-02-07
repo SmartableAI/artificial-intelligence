@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-24-california-paves-way-to-let-self-driving-taxis-charge-for-rides.md",
+      "title": "California paves way to let self-driving taxis charge for rides",
+      "excerpt": "Regulators in California have developed two programs that will allow and permit self-driving taxis to charge their passengers for rides.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2020/11/24/california-paves-way-to-let-self-driving-taxis-charge-for-rides/",
+      "originalUrl": "https://thenextweb.com/shift/2020/11/24/california-paves-way-to-let-self-driving-taxis-charge-for-rides/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/money-self-driving-taxi-uber-california-workers-drivers-rights-employment-cars-lawsuit-lyft-uber-sued-796x448.png",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2020/11/24/california-paves-way-to-let-self-driving-taxis-charge-for-rides/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/24/california-paves-way-to-let-self-driving-taxis-charge-for-rides/amp/",
+      "publishedDateTime": "2020-11-24T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-kfc-rolls-out-self-driving-food-trucks-in-china-and-its-sort-of-wild.md",
       "title": "KFC rolls out self-driving food trucks in China and it's sort of wild",
       "excerpt": "Some experts believe the self-driving cars are in for a boom, thanks to how the coronavirus pandemic has started to reshape how we purchase goods. When a top priority is to slow the spread of a contagious virus, having things delivered can help some people.",

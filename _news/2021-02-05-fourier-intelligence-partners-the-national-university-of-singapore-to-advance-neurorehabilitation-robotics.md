@@ -2,17 +2,17 @@
 category: news
 title: "Fourier Intelligence partners the National University of Singapore to advance neurorehabilitation robotics"
 excerpt: "The collaboration aims to facilitate research in rehabilitation technology, and promote its adoption in patient care and therapy."
-publishedDateTime: 2021-02-05T07:20:00Z
-originalUrl: "https://www.wfmj.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
-webUrl: "https://www.wfmj.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
+publishedDateTime: 2021-02-05T03:01:00Z
+originalUrl: "https://www.wicz.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
+webUrl: "https://www.wicz.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WFMJ
-  domain: wfmj.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI in Robotics
@@ -54,6 +54,6 @@ related:
         height: 324
         isCached: true
 
-secured: "AlXCdfBuPdfolqW0XYYeBQyOXxLKyZJnreQBNuXXpQqKrx9btVBR9TZ8H/YcHnQSWQxyRIkkzAizMGt3u6/oPQzu87Jm8n0X7T9uZ9tST+vsbJ7pyAPxMUp1Z+lLPXaFbiRSTg/a5qAXBeheZY1IEA/cQE+A+c/IhRpYIQ8eadDH6mWvK/nHWLyYZwi7jI6m8e5bsaZEMlGN8j4oDO66VYwD9JSJsWi2a58s2PrYqvYPoAaBChiz0ym6/QkpTpZF/xUHxip8lXrxQOpR4QjfB+7FyqxvlRtdm0mwlIx7xiGUMAXWYU03smUhzBR4JJaBf3lWXV4K1cVGqT9GrqBf7/xvqGfwaYIv3NoaeJRV5CundcxkcaNcDQ8mKsmTthncwDBb31Ljf/Jf0bkuTbi1SJgj5LVajln/xgUU62iWZqcHN1EuQPjRknTISjjZTjDU0wSoMziCEJVr6obS5t6ZzwE+5ONer4nBllxzUwiLNNWjBrmRyV6vJofJ2Sorwew2PJyGwWLkrlNvRyuRUpySXg==;NnxAzPR4/S4ebbbJSsiF3Q=="
+secured: "9UVaXtQBp/9bPbHwsq5iEE1Qra7ZJlxMM9LXEGymh3XMgCmutLo56pSpG61eo311KAttDbvux/8B9v3069R3cTSdfmgLvqauGrKCW3Uk977kgnTCt1TVApZNaxgbdelBCGbxLw5VDJlmZIlKWCY/Mg+KXTarpoSpCwnpwsLbpTl1pP//fL+SIzuP6N3hgmAYBIs/roR4MwpMZNhw683X2ob59vQ1IDNr5752/0jxuokzC/czA2YBsUurGV3vlxlgkF8dyV0cGRt28yL6hZQxqDPrdRRyJA/YLrgBApf9QlYto5Imnm8Ibpf+rsDaY2JUfAxpxfUqLbipbqCFwLGsQrNbgvAeX1yOd0RbptIBnh0=;pyoKyVUsbiBCHdsbXaXQXA=="
 ---
 
