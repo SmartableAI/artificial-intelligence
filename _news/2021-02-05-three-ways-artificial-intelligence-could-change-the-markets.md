@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2021 State of Marketing AI Report"
-    excerpt: "The State of Marketing AI from Marketing AI Institute and Drift provides benchmarks on AI in marketing and the future of marketing AI. Get the FREE report."
-    publishedDateTime: 2021-02-02T13:01:00Z
-    webUrl: "https://www.drift.com/insider/learn/books-reports/state-of-marketing-ai/"
-    type: article
-    provider:
-      name: Drift
-      domain: drift.com
-    quality: 58
-    images:
-      - url: "https://www.drift.com/wp-content/uploads/2021/02/StateOfMarketingAI-unfurl.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Why AI Can’t Solve Everything"
     excerpt: "We are now seeing governments pledge support to national AI initiatives and compete in a technological and rhetorical arms race to dominate the burgeoning machine learning sector."
     publishedDateTime: 2021-02-05T06:20:00Z

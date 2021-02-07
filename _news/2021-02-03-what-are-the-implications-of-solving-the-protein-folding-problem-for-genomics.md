@@ -24,22 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "NeoGenomics and Tempus Join the Access to Comprehensive Genomic Profiling Coalition"
-    excerpt: "The Access to Comprehensive Genomic Profiling Coalition (ACGP) announced today the addition of NeoGenomics, Inc. (NASDAQ: NEO) and Tempus"
-    publishedDateTime: 2021-02-02T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/neogenomics-and-tempus-join-the-access-to-comprehensive-genomic-profiling-coalition-301218197.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "tSbuhOx7X+1Q5y3/rNqspsYlVxmVSFICf9FMkwJElEAs1hCqOWg4gdYKHRmvhmRogARXYCjMrL8r2mK2cY9dNIfl9M8IEQewmIviYe5m7MOpZn3DeZf6j2jlJQBf/fSFhYX3+afqrgk8gjfnBCkItFNszCVbjcptDcFwxcA2WB5MBNfPc7PzFXuqx6z+5KfyEPp28gz8UO8RyQn28e90T7gXdLIkV8/JPiM+Xq8Wb55bYYnZ+U9pJC0/uaesI1BMaxvNncHupH+JfO7kbFDxO1QbQKmShjspx/XF45z6n7FRwePbyis0YkHmMwzjzTuJooySfvx6/CM3nKDTIlfDympbV/U4T2Zm/ReOw1RFLS2sliJhEf4HbiCnyaTpgDLurGxnYchbBNrExMmHHvqStjArsAkOmeC6D+0yiM2P2VxhflVRhHCmHUmhBrXxsVjHjlufghyqeWKTsfLnBMD9pFqt4Xll/cJpSQPShXvbjOd9vv943IggcAMXn3qWtKR7hXPPsha8keKlyUJMuSP/sg==;CCobkHSU/jgA+31yVv7rHw=="
 ---
 

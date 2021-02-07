@@ -53,20 +53,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Microsoft, Nvidia join $50M round for high-performance computing startup Rescale"
-    excerpt: "Rescale Inc., a startup developing software for running high-performance computing applications in the cloud, today announced that it has raised a $50 million funding round from Microsoft Corp., Nvidia Corp."
-    publishedDateTime: 2021-02-02T12:05:00Z
-    webUrl: "https://siliconangle.com/2021/02/02/microsoft-nvidia-join-50m-round-high-performance-computing-startup-rescale/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/unsplash-1.png"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "b99zNeJSIBGXc1NLXIrWf7aNchOvRk6SwgHbEgS+bCZcH4/M2xxBRMokLaoGVQu5cbXo7Yvs8dJ6ZIvv/P+rdNXgUTusyROlZhCnJF92x4oPcotlHSWv4439Uzv2SJb65F0PR+9gSAckQa27vUhVDB73yMxMLUW7OhdvO0x3G3t6n8RhvnGErYimsEODf/gdoCwn1fQacFsHdkKkTPMqd//u2EqI6htkAiVhsFO5ycPsklob1B9tr9usumg9SUPlC3BSsbWW76mmMDoOUwEVGpAELT+ZJCUQL0SFxrIwP2qsazQEz94qhd5y52wxDp+GYBZCvJO/3hRH+eQRukLpNzPh5nggNWG7+vyykCalEDo=;RcJHk7naV5YkGo7chZt6PQ=="
 ---

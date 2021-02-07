@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-01-11-microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier.md",
+      "title": "Microsoft's Power BI and DirectQuery: Making data analysis and visualisation easier",
+      "excerpt": "Mixing datasets to generate complex insights can help even the smallest organisation maximise business value from its data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
+      "originalUrl": "https://www.techrepublic.com/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/01/11/bdf92a85-ff6a-4ca8-9dc6-c1568df3cb28/resize/1200x/50c9144aa13bac2aefd673276c636f1b/istock-679353026.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
+      "publishedDateTime": "2021-01-11T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs.md",
       "title": "AI Drug Discovery Startup Valo Raises $190 Million And Unveils Cancer Therapy Programs",
       "excerpt": "The Boston-based company aims to accelerate the drug discovery process for cancer therapies that are both more effective and less toxic.",
@@ -1132,57 +1184,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-when-should-you-not-invest-in-ai.md",
-      "title": "When Should You Not Invest in AI?",
-      "excerpt": "A study was conducted on the business adoption of Artificial Intelligence (AI) in the 1980s. Published in the MIS Quarterly, the study found that enterprises were rushing to invest in AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359803",
-      "originalUrl": "https://www.entrepreneur.com/article/359803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610142767-GettyImages-1181350791.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359803",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359803",
-      "publishedDateTime": "2021-01-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

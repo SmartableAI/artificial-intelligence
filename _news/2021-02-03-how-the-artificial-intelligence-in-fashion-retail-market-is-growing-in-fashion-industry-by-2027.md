@@ -36,17 +36,6 @@ related:
         width: 1200
         height: 891
         isCached: true
-  - title: "Worldwide Digital Talent Acquisition Industry to 2025 - Integration with AI and Machine Learning"
-    excerpt: "The Global Digital Talent Acquisition Market is expected to grow from $22,791.04 Million in 2020 to $33,498.78 Million by the end of 2025. This research report categorizes the Digital Talent Acquisition to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Training,"
-    publishedDateTime: 2021-02-02T11:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
 
 secured: "6C/gm8byOpCaFbEUTGoArWVKM0Pm7tIvEXWTp9CsvbnrMCdmDoPgkQ/nQdEsCjHPbTEO9PEVjpWOlTst3GAW0w0Mx77X7OI+KKG/qvdk5qGeBn9bgxKI6m4IWrsYwX+Cvmo0RZhjTQqvSynXFw5LLvTz6vymTS/mrhhoY8VAAfOv/SxumZoAXeH9Z08Hm4C8PqJ1l8LhykKcMu3zxq2GOohEylZJxMWW96E5XDHu8ZOHGc+vNiiPo3RLxqmdkSoPiK47pQ7qh6LgyAV6JAgH3XMgFIl7SAxT2Ol4ruj7gc/7BZIXsFWR5HXtMvan0dAIMr+IhPCxlSkMxErMik46AOPfo6LcAer+5EIEyKbL4Y0=;ZiuRQCSXWdtMhJQYVgypZg=="
 ---

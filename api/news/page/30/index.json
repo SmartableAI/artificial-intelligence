@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-01-14-fda-clears-deep-learning-application-to-support-image-interpretation-with-hyperfines-swoop.md",
+      "title": "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™",
+      "excerpt": "(k) clearance from the US FDA for its deep-learning image analysis software. These Advanced AI Applications measure brain structure and pathology in images acquired by the category-defining Swoop™ Portable MR Imaging System through tools featuring automatic measurement of ventricular volume,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184.md",
       "title": "Machine Learning and Artificial Intelligence Integration Drives the Growth of the Global Natural Language Processing Market at a CAGR of 18.4%",
       "excerpt": "In 2019, the global natural language processing market reached USD 9.2 Billion and it is expected to grow at a",
@@ -1096,49 +1139,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-deep-learning-outperforms-standard-machine-learning-in-biomedical-research-applications.md",
-      "title": "Deep learning outperforms standard machine learning in biomedical research applications",
-      "excerpt": "Deep learning encodes robust discriminative neuroimaging representations to outperform standard machine learning. Nature Communications , 2021; 12 (1) DOI: 10.1038/s41467-020-20655-6 Cite This Page :",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/01/210114130125.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210114130125.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

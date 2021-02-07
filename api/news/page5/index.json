@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-03-biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-eptm-system.md",
+      "title": "BioSig and Mayo Clinic Collaborate on New R&D Program to Develop Transformative AI and Machine Learning Technologies for its PURE EP(TM) System",
+      "excerpt": "Global market for AI in healthcare is estimated to reach $45.2 billion by 2026 Westport, CT – February 2, 2021 — BioSig Technologies, Inc. (NASDAQ: BSGM) (\"BioSig\" or the \"Company\"), a medical technology company commercializing an innovative signal processing platform designed to improve signal fidelity and uncover the full range of ECG and intra-cardiac signals,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-eptm-system-2021-02-02-81973843",
+      "originalUrl": "https://www.marketwatch.com/press-release/biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-eptm-system-2021-02-02-81973843",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-experimental-ai-framework-vx2text-generates-video-captions-using-inferences-from-audio-and-text.md",
       "title": "Experimental AI framework Vx2Text generates video captions using inferences from audio and text",
       "excerpt": "Researchers at Facebook have developed a framework, Vx2Text, that can generate captions by inferring from videos, audio, and text.",
@@ -285,7 +338,7 @@
       "originalUrl": "https://www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -663,7 +716,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -703,49 +756,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-california-to-license-driverless-cars-operated-by-artificial-intelligence.md",
-      "title": "California to license driverless cars operated by Artificial Intelligence",
-      "excerpt": "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),",
-      "sourceUrl": null,
-      "webUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/",
-      "originalUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1",
-      "cdnAmpWebUrl": "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1",
-      "publishedDateTime": "2021-02-02T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hayride",
-        "domain": "thehayride.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

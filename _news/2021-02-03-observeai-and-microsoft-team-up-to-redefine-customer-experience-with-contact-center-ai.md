@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Etihad Airways transforms its Finance Operations by leveraging Microsoft AI capabilities"
-    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services."
-    publishedDateTime: 2021-02-02T12:28:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Etihad_Airways_transforms_its_Finance_Operations_by_leveraging_Microsoft_AI_capabilities-ZAWYA20210202122859/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210202122859/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210202122859/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 82
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/Etiha1_2021_02_02.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Etihad Airways Transforms Its Finance Operations by Leveraging Microsoft AI Capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technol"
     publishedDateTime: 2021-02-03T07:30:00Z
@@ -371,6 +355,6 @@ related:
         height: 315
         isCached: true
 
-secured: "CrAKOKCbBJQtI9SgXDAYKKNA1d/C2dWv4XIa2EJA9Hn22SB2EV9YkM+RoQTqkoOUkhhl7H0EEctdVo4rvBHb+TxNEUnxpTA6DdB/SYaucRPHoPfd1yaoDRlHhQEZL8gm5yaWOEhONUzBkdtlmb/i2pyXKX2FOFJbgVIigC2is8erq3emgDp2Q64IOszfcAEKGVQKHP2oy9jVZnDQpMZY/DHg6eqkoVcQjPDQgMPQMzIIySNt5XykwqnhjAirrNvX//NgVpOx53PX8ksAGCPP+I1eufSRzDTWEJgpROg7TXvHPKghAMcSQVlm++rDU3Idm2LzoP6jtnvTnOgFrTzNsdjAlU58ELq686jdaHz5kU4=;0yya4vCfOimc7Wh9h+Or7A=="
+secured: "h9fBzda88uzAotVqmSWJU59O7LWaEkAAXhS3Cf0Qpy/oP9rktIB41raXy6pHUbuRHKNmZWNC0XuS0KGZyuROM+IwsrV9hh7LmFU5EwDIacdwKOBw3BW0pDOet1sHsTIEaNLVxLtdszzQmUmVcBqSdOYGGcixBNGbZgmxxERG+oPL1MeScC0D5yyLNo75IsMLKhV5Ie8tPRPUnbs+j7I0vK5JHfXE7JZoQ+Fs8dS6Bb/KARkSHu7tmC4VWcYxoLe6qSLbHoEz+f9L+pJI8P5jre363IybG1NZC0PY+1EeFgcG1FebHHdS646ztdl+++gsqH3c2rTrx3RXXoF+TU4tI85rbk+T0O07sIlb9q4vjqs=;gQbh2UtlH6RXoRL5JBP0fg=="
 ---
 

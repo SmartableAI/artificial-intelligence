@@ -2,6 +2,50 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-12-16-how-insurers-can-use-deep-learning-to-boost-performance-marketing.md",
+      "title": "How insurers can use deep learning to boost performance marketing",
+      "excerpt": "With deep learning, insurance companies can drive down the costs of customer acquisition while improving the effectiveness of their advertising, enabling them to win away more new customers in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/",
+      "originalUrl": "https://www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/12/Data-analytics-Rawpixels-Shutterstock.jpg",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/?amp=1",
+      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/?amp=1",
+      "publishedDateTime": "2020-12-16T04:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PropertyCasualty360",
+        "domain": "propertycasualty360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-the-future-of-ai-deployments-reaching-production-is-bright-in-2021.md",
       "title": "The future of AI deployments reaching production is bright in 2021",
       "excerpt": "Despite AI's deployment historic failure rate, the future's looking brighter for a number of reasons, and many will beat the odds.",
@@ -1145,49 +1189,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence.md",
-      "title": "IAiDL Disrupts World Of Technology In The Area Of Artificial Intelligence",
-      "excerpt": "IAiDL covers everything from big data solutions to edge computing, drone management, the Internet of Things (IoT,) blockchain technology, and robotics. In line with the company’s goal of raising Artificial Intelligence competence standards in all walks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1607956287.jpeg",
-          "width": 585,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18807435",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18807435",
-      "publishedDateTime": "2020-12-15T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

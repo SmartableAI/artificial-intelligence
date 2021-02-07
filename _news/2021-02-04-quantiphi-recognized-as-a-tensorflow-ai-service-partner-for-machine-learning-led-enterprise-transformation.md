@@ -1,31 +1,26 @@
 ---
 category: news
 title: "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation"
-excerpt: "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,"
-publishedDateTime: 2021-02-04T14:45:00Z
-originalUrl: "https://www.lelezard.com/en/news-19635111.html"
-webUrl: "https://www.lelezard.com/en/news-19635111.html"
+excerpt: "Quantiphi has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,"
+publishedDateTime: 2021-02-04T14:25:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19489798"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19489798"
 type: article
-quality: 72
-heat: 92
+quality: 70
+heat: 90
 published: true
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - Google AI
   - TensorFlow
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Lilt Included in Gartner's Market Guide for AI-Enabled Translation Services"
@@ -57,6 +52,6 @@ related:
         height: 450
         isCached: true
 
-secured: "dyhz+2fargadxF8444KAv8um+nabzYjBCpU2+3avh28+Ou+wzAuQgfngFg+Ov1aQfbIZphDaVKAEDIeW0L0zycuXcD17fjOurTnrUxwTMDiD7e4cN+BmbMwCSlgY/HwSy5nBcxDqe0rwB501ccha8Rj0BYbsS7itH2qo0c7UtVyRGm179TZztN16wUNczipIjl0vclQOgqkSKReR/UjAHrePiF3C2qP94ZDiBSCMDwYQ8luXPzBVoIpyEgN51XdtzXLT8h/GOM0NrY31TynjX2GB2r0t0IDrHJAQ3QoDpwD4KoWeqheIPdnOgeeJ/DUfzdrk2SlwVQ+R3ly8erwZCztMCj9QQw/t69oDMi6Akp0=;CVC3ibcQ7eVfhR1fP4XB5A=="
+secured: "TGvwjUhee1Ppf7FwRIcyOxGUV/7GihXAXpMBJRZBdd3HhP2VJQHs5JvqifeN5All0zBlbxqmr/nhHwpG6lcyzFoVPtrpDvYKzclgr6u6tUhxd3DZcbvzlnZZjpp1PCD/ofe0YogAUlw5YDuy9WUiwzDvijdkUIh6b9IVO5kBBnPCVZCkKYIBsXidb1/lKERiVislj3INWiX40Wm2igBB/swvgf/cQ+VM3FR70Q0Fom+ViyjjBONcyucvJquw3jm9GWBTFQdg/KGG7C1TWqt/y/YwkU/h6Y6wy36YhR0zJkJyQTF9UbTgeOMlUFf9RMGKuhLz250IjZ87wArJN5Fxfi1RxbuJi/dAIkQ2ed9smbs=;C/MpADdW/qFPZLS/ZpHSRQ=="
 ---
 

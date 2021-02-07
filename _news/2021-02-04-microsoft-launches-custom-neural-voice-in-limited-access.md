@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
 type: article
 quality: 139
-heat: 379
+heat: 369
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/02/Jared-Spataro.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Etihad Airways transforms its Finance Operations by leveraging Microsoft AI capabilities"
-    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services."
-    publishedDateTime: 2021-02-02T12:28:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Etihad_Airways_transforms_its_Finance_Operations_by_leveraging_Microsoft_AI_capabilities-ZAWYA20210202122859/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210202122859/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210202122859/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 82
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/Etiha1_2021_02_02.jpg"
-        width: 450
-        height: 300
         isCached: true
   - title: "Etihad Airways Transforms Its Finance Operations by Leveraging Microsoft AI Capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technol"

@@ -2,6 +2,58 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-01-05-watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human.md",
+      "title": "Watch a Robot Dog Learn How to Deftly Fend Off a Human",
+      "excerpt": "Kick over this robot and it’ll quickly right itself—not because someone told it how, but because it taught itself to overcome the embarrassment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/",
+      "originalUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ff4814762dc9f2effae9942/master/pass/Science_yang7HR.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/amp",
+      "publishedDateTime": "2021-01-05T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language.md",
       "title": "Consumer-Like Employee Self-Help Requires A Bridge Between AI And The Semantics Of Human Language",
       "excerpt": "Whether completely remote, in the office with an abundance of safety precautions or a hybrid of the two, employees require immediate, personalized help 24/7.",
@@ -1160,49 +1212,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-recycler-ai-maker-amp-robotics-raises-55m-in-series-b.md",
-      "title": "Recycler AI maker AMP Robotics raises $55M in Series B",
-      "excerpt": "AMP Robotics Corp. brought in $55 million in its second round of funding last week, including an undisclosed investment from Google’s venture capital group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/",
-      "originalUrl": "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailycamera.com/wp-content/uploads/migration/2016/0429/20160429_02dcbpretw-1.jpg?w=1024&h=670",
-          "width": 654,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/",
-      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/",
-      "publishedDateTime": "2021-01-04T14:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Camera",
-        "domain": "dailycamera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

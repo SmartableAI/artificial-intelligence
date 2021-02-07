@@ -130,20 +130,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Land a career in AI with these top artificial intelligence jobs in 2021."
-    excerpt: "As AI has taken the center-stage in businesses, the demand for AI professionals is soaring. Here are the top artificial intelligence jobs to apply for in February 2021."
-    publishedDateTime: 2021-02-02T11:24:00Z
-    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-to-apply-in-february-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 53
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Top-Artificial-Intelligence-Jobs-to-Apply-in-February-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
     excerpt: "COVID-19 put unbelievable strain on our health care system. With industry organizations facing sharper realities around managing costs and"
     publishedDateTime: 2021-02-02T13:45:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-f
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: Wall Street Journal
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The iPhone's Face ID Will Soon Work With a Mask—If You Have an Apple Watch"
-    excerpt: "Apple is facing our face-masked future. This week, the company started testing some new software for the iPhone that will let device owners unlock the handset while wearing a. There’s a catch though,"
-    publishedDateTime: 2021-02-02T12:02:00Z
-    webUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/"
-    ampWebUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 72
-    images:
-      - url: "https://media.wired.com/photos/6018a6413453f789506008b6/master/pass/Gear-iPhone-Mask-1211881889.jpg"
-        width: 2400
-        height: 1605
-        isCached: true
   - title: "iOS 14.5 developer beta allows users unlock their iPhones with Face ID while wearing mask"
     excerpt: "Apple has just released the developer beta of iOS 14.5 that has incorporated a new feature that makes it possible to unlock an iPhone using Face ID even while putting on a facemask. The feature in the Apple watch is called Unlock iPhone,"
     publishedDateTime: 2021-02-02T21:01:00Z

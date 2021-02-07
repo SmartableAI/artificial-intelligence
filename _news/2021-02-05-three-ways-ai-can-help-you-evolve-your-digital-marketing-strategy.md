@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-hel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/DTM2WC-09P4lRMtdCxVzwxoPwMk=/2021/02/02/aba25320-76a3-4a1a-8510-faa2836694c0/porsche-configurator-smartphone-2.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "2021 State of Marketing AI Report"
-    excerpt: "The State of Marketing AI from Marketing AI Institute and Drift provides benchmarks on AI in marketing and the future of marketing AI. Get the FREE report."
-    publishedDateTime: 2021-02-02T13:01:00Z
-    webUrl: "https://www.drift.com/insider/learn/books-reports/state-of-marketing-ai/"
-    type: article
-    provider:
-      name: Drift
-      domain: drift.com
-    quality: 58
-    images:
-      - url: "https://www.drift.com/wp-content/uploads/2021/02/StateOfMarketingAI-unfurl.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Three ways artificial intelligence could change the markets"
     excerpt: "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul."

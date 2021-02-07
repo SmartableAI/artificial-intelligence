@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-tec
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-technological-improvements-steering-growth-during-2020-2025-2021-02-04"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Car Technology Market"
-    excerpt: "The Self driving Car Technology Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i e 2020 to 2027 The"
-    publishedDateTime: 2021-02-02T12:35:00Z
-    webUrl: "https://www.openpr.com/news/2234913/self-driving-car-technology-market-latest-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2234913/self-driving-car-technology-market-latest-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2234913/self-driving-car-technology-market-latest-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
 
 secured: "rXPAVIW5rKrczoAY0NuTNaH59YTypGjXNm2dQ/MwCf39KwxmXQstCBU+BOJDfem3KcSAOkBI4h1CuytS20TVetKgIcgafmKxfYqchpsp8S1RBOK0r9/zBpOnjh7/VhoQ0VxGbRYBcUyfbXsg8+wkvQDylNikeUeglRyNxEWbo1XSHzMIXgVRKDt1BfJx6NvFazO+QtWlBPfeDSfZe91q8FY49O5ZNHaAWiJrrtn00/BwqcW8dck6NQtybx2wthk4pPWfptdDUlJrPp4XXkb3+usK0eGZzz2gmnvRPhmLFSBvmoW8LgK//8nNp4JfvXPGmlWt325m4dQEEUW30TH00njqdr6V8t7WrCqmn76dFt8=;1o0I8z8Ivziy95mJrMAsaw=="
 ---

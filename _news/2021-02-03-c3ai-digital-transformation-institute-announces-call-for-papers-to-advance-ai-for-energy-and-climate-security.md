@@ -25,17 +25,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "C3.ai Digital Transformation Institute Announces Call for Papers to Advance AI for Energy and Climate Security"
-    excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to address the challenge of re-envisioning energy sy"
-    publishedDateTime: 2021-02-02T11:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005323/en/C3.ai-Digital-Transformation-Institute-Announces-Call-for-Papers-to-Advance-AI-for-Energy-and-Climate-Security"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 18
-
 secured: "KbQr+dNw2uX8nUG9s30j1XKAiFl8G1nGBeRTP538Fx5ItyOEe+MEr/b6e9yNIKQCffxu0PD0V0not0m5QgqHT1N6qqojyeRg7tcTdhQvGRXaLWK3daZwqN+vzIihYXonJ9D0CtuU+X/utswoOU6H0DAzCZl3n1Bsa3jH0JMIDl4VvVPjos6NZBSWxXNLiCWJctWMfwThGXRUiQzzbQTqndJ2XGjvhfAmvOfhLQDWrKduiP+qpRvjWa9lOh3CVfBRD6X/DPEmng4FAnCDlV9b/odVLsynkXRHNoXMRNlKvX2PGqp2QkQlGWEvEmOSSdP1H0uuw1KO86+NhHTLVJrmONkQuUBb+ir7bErY2ZUQYrM=;6sI15vaLolIcCA3vspWKAg=="
 ---
 
