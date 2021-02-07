@@ -64,16 +64,30 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
-    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
-    publishedDateTime: 2021-02-06T13:43:00Z
-    webUrl: "https://www.freep.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
-    ampWebUrl: "https://amp.freep.com/amp/4393554001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4393554001"
+  - title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $250 billion industry"
+    excerpt: "As vehicles change and develop, the tools for insuring them do, too. Insurance companies are adapting their coverage models for an autonomous future."
+    publishedDateTime: 2021-02-06T23:25:00Z
+    webUrl: "https://www.businessinsider.com/how-insurance-companies-are-preparing-for-self-driving-cars-2021-2"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://i.insider.com/601c0fecee136f00183aa431?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T13:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4393554001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 34
     images:
       - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"

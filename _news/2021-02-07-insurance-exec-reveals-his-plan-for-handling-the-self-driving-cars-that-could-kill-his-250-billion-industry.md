@@ -1,8 +1,8 @@
 ---
 category: news
-title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $1.3 trillion industry"
+title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $250 billion industry"
 excerpt: "As vehicles change and develop, the tools for insuring them do, too. Insurance companies are adapting their coverage models for an autonomous future."
-publishedDateTime: 2021-02-04T15:20:00Z
+publishedDateTime: 2021-02-06T23:25:00Z
 originalUrl: "https://www.businessinsider.com/how-insurance-companies-are-preparing-for-self-driving-cars-2021-2"
 webUrl: "https://www.businessinsider.com/how-insurance-companies-are-preparing-for-self-driving-cars-2021-2"
 type: article
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.insider.com/601c0bfbee136f00183aa420?width=700"
-    width: 700
-    height: 525
+  - url: "https://i.insider.com/601c0fecee136f00183aa431?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -54,9 +54,9 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $250 billion industry"
+  - title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $1.3 trillion industry"
     excerpt: "As vehicles change and develop, the tools for insuring them do, too. Insurance companies are adapting their coverage models for an autonomous future."
-    publishedDateTime: 2021-02-06T23:25:00Z
+    publishedDateTime: 2021-02-04T15:20:00Z
     webUrl: "https://www.businessinsider.com/how-insurance-companies-are-preparing-for-self-driving-cars-2021-2"
     type: article
     provider:
@@ -64,9 +64,9 @@ related:
       domain: businessinsider.com
     quality: 35
     images:
-      - url: "https://i.insider.com/601c0fecee136f00183aa431?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/601c0bfbee136f00183aa420?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
     excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
@@ -115,6 +115,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/ZXDgih5Y0G6QaDY/BUf2sIYMDHgjSW4QcrVT4Jf2wadF5pEg3H8EMWfLbWpEFIx4aNK26EtmIGdcQaRfXHUTVL9ENPDs2Y8jsDVjdDx42yHogcpVRbuYUWeVotC8qlWWOuPkITl/lT+yRaBJCt2/H7Iopg1IZmbVgvgbrkgP9COgj3x0pbh+SOK4UJgLUFCXAnX7T2HXrOajWc4eNhLAN0lQBTLvvIwwgx8cOnfPUKL9F8pWKh461azqajLBs9szPiLWdzdHDOpg/77x3Bhe9RS8KZ1rUfCMilqgdtuNfhZdEY3vJmQoGbIU6agSop7o0ft+JYiBqyCVNDS65ksmngqX8U9BI/ce6vbhk3mYYmsH0+px+omR8wq5YpCx2rrAFLyfwjky8UBnXZAnynN2PAYe1h7t8aykEPRfHk6S5sXfLiHAjt2AniGORZSOrrrQ2N9QcwyO4JIxKyqqtcCE0NenPJhYy5YuRXPuj/HD9hCkgQZUeN3nl1fF9SmHh98KEwApjPvbO61JbexkMGMOg==;QrEbXPpX/XBebVmPdphHzA=="
+secured: "o13NrR+cM2KX/0olVN1RKvG/UfzaL8/LacwurPev3S/NdLLa7bkXKN7H53UO0C0PbYn2ZXV7h60ABC7qa9sq+nMvJVIz20fqnnvWOD8T3TQHmi2XL848HOhgsLjl5nLu28IpIbbjylg3ol3Y8UdFYK2nHAwsfPUNilsDhghosH+FHx8CAKEC6wDPssPtMhGeFxdO84XyVYfuAcI/zU9SyOrRmA+PtYzTpoSbdTtzFs9bnGK/dLBBrMVzBosIT0Ea9lo+ROF35jgkTng77ihKodf+OnZNsO5JnQcriGpd6kSpBbaUAaKnq+87Lm/PXoP7J4ZWYVOqLrvK4HLAsbTHil0FVEWv8kcLIZ/42LuBCsQ=;xZvUnvmHCVodC8cHTSkdRw=="
 ---
 

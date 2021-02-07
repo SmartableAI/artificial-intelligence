@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-wi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-lookout-for-metrics/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

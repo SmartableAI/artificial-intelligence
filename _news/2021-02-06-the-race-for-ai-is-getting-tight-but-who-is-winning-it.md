@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-w
 webUrl: "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-who-is-winning-it/"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

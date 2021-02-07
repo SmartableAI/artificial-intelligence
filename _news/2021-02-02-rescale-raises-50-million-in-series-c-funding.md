@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-millio
 webUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/unsplash-1.png"
         width: 1050
         height: 700
-        isCached: true
-  - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
-    excerpt: "Weights and Biases, the Experiment Tracking platform that is transforming how teams build and collaborate on Machine Learning (ML) models and operations (MLOps), announced today that it has raised a $45 million Series B investment round led by Insight Partners,"
-    publishedDateTime: 2021-02-02T08:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-investment-management-financial-services-venture-capital-98a44334895d88e6adbd6305da1774ef"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "uDtdZkt1FS+oW6Ro+gjEZOsXn5Du1u3PMWnCtzWQdIfnKh/2mSPbafsFKDgF5uBx2y1TqQHIa6PZVxhkxK9f/bJw02Hyfr2UmPO2gCZoPxu4HQG+lFblNrB20dVOTGUC0f7Sai5pS+JjRGZHtOTP+TfWViLNQvpAsZZUMAEnqHXvlfloFYlITjBC1wD76wrTt2fCw3BkVI81xGx6T3MzhQDsj2+D5FSY6+yo+lGVQv+ZQW27KvHbmC6qcd0rswD/2pFaKBMT3PeW6eBeG82pkS41Ohu9p1Kid7fEHi5oveYbX/oxd1UvobcoOUEQxiAgyn8ToTsaS/G+RQzEvOTszTHB3LiNVkRiEpMNBLmvgMQ=;MP1wgILNPceYBi7ZwNy20g=="

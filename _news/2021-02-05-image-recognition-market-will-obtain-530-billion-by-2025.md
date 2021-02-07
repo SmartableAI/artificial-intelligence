@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2236648/image-recognition-market-will-obt
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

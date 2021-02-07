@@ -2,19 +2,19 @@
 category: news
 title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
 excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
-publishedDateTime: 2021-02-06T13:43:00Z
-originalUrl: "https://www.freep.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
-webUrl: "https://www.freep.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
-ampWebUrl: "https://amp.freep.com/amp/4393554001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4393554001"
+publishedDateTime: 2021-02-06T13:30:00Z
+originalUrl: "https://www.usatoday.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+webUrl: "https://www.usatoday.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4393554001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4393554001"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI in Autos
@@ -66,6 +66,20 @@ related:
         width: 700
         height: 525
         isCached: true
+  - title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $250 billion industry"
+    excerpt: "As vehicles change and develop, the tools for insuring them do, too. Insurance companies are adapting their coverage models for an autonomous future."
+    publishedDateTime: 2021-02-06T23:25:00Z
+    webUrl: "https://www.businessinsider.com/how-insurance-companies-are-preparing-for-self-driving-cars-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://i.insider.com/601c0fecee136f00183aa431?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
     excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
     publishedDateTime: 2021-02-06T16:01:00Z
@@ -97,6 +111,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Ze9/suEsgBApCtVfl9l3sP7+NikXhzTx88IsFaYYOtI+v7Ne2mRjtNNIoM5/ulkrdCnnxSmi26QY+KQ8tIFoTfo8M7OgZR2zWw/SY0Uhy8ZxdYAjQY1OFxzD3+2n4oSVJNy92kyxL22u6nHX31qfEI9Ee44V3ButBv9JUBaYaY4vwUJpK8ZQyeDmcX+dN9zY3IgHuCIAhkvAlIUoB26tH4Q+U8G7v1XbhV7lOM2HyXeTe/O0QUXuNOE12Gz+l68b0n2j3387U0AX/HbzUgYetwPgERCHMs2oIniyN0ovBM3loc32quV/DH6AuH93TF2LV7VCQmZJEykJmbfk+Orx0p+/ufyr6AH+dqvDu4bcjEa/HUJfDPTthj9dKP1ojn0Y7nKV75qFP15PHNSE4nKUUFgIpZ2aocc5jdPx35DXXsi8ILUZuGWvDUiPBNrjLpxyvz6yPuGYpsB/5jGWLPxNYHh/h8LW3WQePwPZ1k253rL41GnKpml+xJ6Pm/JEhPu95WJa2/z474M3LXB+/6+V4w==;UWr1y+T1blCnAz8dD5ZWZg=="
+secured: "P0+5bcdjqNbL1u3m8L2+Yp8wppNjsiW2Hdi6ojJu+SulaQIBhJ32ppMeReC/d8YhbKIFfVzZ7K7lvBvRZHg1UofbBbTV+hs9MbuverNujU12MXM3sqNZZxW7ojPG5a0i+FaDyfrYe/Rgnx43c9FZVb4Hz+UnmZO1OxP01JdzRVbkLCq5r0aBkBmnOHyRckjCvi3sI0nglSwNImw8ko/mgAU4r+Vj3R2C8QFakWQsgQv8AM5lUviDj+yoI50v5njBDd5XItFgy/r1Tiso4Gz7xEmSff9IGkGhApX9kLacQ8SMcms0p4yLA2a+CnITD1XmSeE//9M38nIUzCjnMLK5jFbImDHkKt1zP7t3Zf9AIOY=;cV6c9ZshDZ8qMP0rQ0K7kQ=="
 ---
 

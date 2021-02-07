@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Ai Weiwei's Covid-19 Documentary"
-excerpt: "When his family found him he was dead hanging on a tree in a forest. This is not just an interview case but a tragedy.” Dissident artist Ai Weiwei @aiww’s #Covid19 documentary details China’s handling of the pandemic,"
-publishedDateTime: 2021-02-02T13:20:00Z
-originalUrl: "https://www.bloomberg.com/news/videos/2021-02-03/ai-weiwei-s-covid-19-documentary-video"
-webUrl: "https://www.bloomberg.com/news/videos/2021-02-03/ai-weiwei-s-covid-19-documentary-video"
+title: "Artificial intelligence can determine whether you'll die from Covid, finds study"
+excerpt: "Using patient data, artificial intelligence can make a 90 per cent accurate assessment of whether a person will die from Covid-19 or not, according to new research at the University of . Body mass index (BMI),"
+publishedDateTime: 2021-02-06T23:15:00Z
+originalUrl: "https://www.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
+webUrl: "https://www.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
+ampWebUrl: "https://amp.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
+cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
 type: article
-quality: 67
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1C7VDWV8asA/v5/-1x-1.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://images.khaleejtimes.com/storyimage/KT/20210206/ARTICLE/210209333/AR/0/AR-210209333.jpg&NCS_modified=20210206200205&MaxH=225&imageVersion=16by9"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -43,6 +41,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Ai Weiwei's Covid-19 Documentary"
+    excerpt: "When his family found him he was dead hanging on a tree in a forest. This is not just an interview case but a tragedy.” Dissident artist Ai Weiwei @aiww’s #Covid19 documentary details China’s handling of the pandemic,"
+    publishedDateTime: 2021-02-02T13:20:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-02-03/ai-weiwei-s-covid-19-documentary-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1C7VDWV8asA/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Community Health Network prescribes AI to combat COVID-19 – Jaweb"
     excerpt: "AI is about to play a much larger role in identifying individuals who are at risk for contracting COVID-19 in Indiana. Community Health Network (CHN), an accountable care organization (ACO), revealed today that it is beginning to employ an AI platform from Jvion to analyze members’ electronic health care records that are stored in a"
@@ -73,22 +85,6 @@ related:
       - url: "https://jaxenter.com/wp-content/uploads/2021/01/shutterstock_1713989494-scaled.jpg"
         width: 2560
         height: 1706
-        isCached: true
-  - title: "Artificial intelligence can determine whether you'll die from Covid, finds study"
-    excerpt: "Using patient data, artificial intelligence can make a 90 per cent accurate assessment of whether a person will die from Covid-19 or not, according to new research at the University of . Body mass index (BMI),"
-    publishedDateTime: 2021-02-06T23:15:00Z
-    webUrl: "https://www.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
-    ampWebUrl: "https://amp.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 52
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20210206/ARTICLE/210209333/AR/0/AR-210209333.jpg&NCS_modified=20210206200205&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
         isCached: true
   - title: "Global Computer Vision Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
     excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, presents an encyclopedic evaluation of the global market."
@@ -147,6 +143,6 @@ related:
         height: 630
         isCached: true
 
-secured: "N7sw5ODRGV55jXfQHIgzN3Nk0hnHFtSolz4zi2TpWZPTAlXAIj1xL9LXahGkVHq4uvT82oo1j6Bj0+IvWzKIHTJ/kf8Wt3bXtuP95AF5gmJlF2qR2p7Hu4MR3gl1W9ahmUfHiM4tXRmrJcmpWpGEieygzV2TTs3BfWVnwvvA20tkVy/Vm2YE4XN0j11nC72QFzARidGL7fLoXrb7HtQiWimPdiMhyPg4poUWP0Ud+KCxUeD20vwucZ1Qz8gloMENux29PrC1NZcRiBZWYe2CahmWwtxcIIMzP2MsOnVUCW6WazgvQ2/peaK9dTmVX6DfeMX/4YpNR5nTkp3eoKhLgfoogB7ZV0KnH1Bdbs0i5y+PuwiYIOlovRiOw8sKinieJ3OP8id/2N94hZlB6hmoSuqjltLr8FwM+e2oFAkNSZSIbCRy7xTaRcOFAgLEN5tyga2G4E5HVVaGY7Zep5S77TeNrtPDHvkX5WpnaidTBzZS9/GWML4DDZGuaGjYM1dH8CIn/h/CwHKz6DayrePJ1g==;ycJDvYuWPeeZSVafU4mRAw=="
+secured: "vQlVnYiGvHb3WKNSaV3NP5WJzN3smhqMsOZ5uZlbUE9xqcvN/KG2XpSeT84gGL78pWn2u3t2nrh4Eota5FQ9Qydde8sLuh9wj1y8ME72If3Ub3y048bXXDNZBQ6tZMNDFaI5m/srhPNKiGap1AYCC/Nsj0F4RuEUYGppqWaUezJmyaq/YkPmegyqaFxhZKQm19zRJ6CY0aBeVDMloutSdEuzPfQXKOjrclnJ64Ych+4sncGZTGyDMSSB9oyGrqxy9ql+Sz0Stbzy1Tjs7eQ8Pfc1OEhVW8ZsyS3gLY4DpZ+YHUWLdJ4vk0ccB5Vf6N+HS4LLJA8n47EmW9JBiM8Zod2nlWXQeRwdE5LgI5U2lsM=;dQBhnsAeOiQyQOPWy7huvg=="
 ---
 

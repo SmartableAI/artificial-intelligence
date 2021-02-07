@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-ne
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "SKEMA deploys its first advances in AI"
-    excerpt: "One year after the launch of its strategic plan 2020-2025, SKEMA is pleased to announce several concrete advances especially in"
-    publishedDateTime: 2021-02-02T08:38:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/skema-deploys-its-first-advances-in-ai-836747076.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1430593/SKEMA_AI_visual.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "SKEMA deploys its first advances in AI"
     excerpt: "With SKEMA AI Institute, AI is being rolled out across all programmes and campuses. A forerunner in 2019 with the opening of an AI research centre in Montreal, SKEMA is gaining momentum with the creation of the SKEMA AI Institute,"
     publishedDateTime: 2021-02-03T08:00:00Z

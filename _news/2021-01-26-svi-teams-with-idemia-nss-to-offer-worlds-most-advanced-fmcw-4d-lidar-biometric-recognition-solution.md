@@ -1,26 +1,20 @@
 ---
 category: news
-title: "SVI Teams with IDEMIA NSS to Offer World's Most Advanced FMCW 4D LiDAR Biometric Recognition Solution"
-excerpt: "StereoVision Imaging, Inc. (SVI), the emerging world leader in 2D and 3D/4D LiDAR based facial/object recognition and remote sensing technology, has joined forces with IDEMIA National Security Solutions (NSS) to offer the most capable"
-publishedDateTime: 2021-01-25T16:08:00Z
-originalUrl: "https://www.lelezard.com/en/news-19614735.html"
-webUrl: "https://www.lelezard.com/en/news-19614735.html"
+title: "SVI Teams with IDEMIA NSS to Offer World’s Most Advanced FMCW 4D LiDAR Biometric Recognition Solution"
+excerpt: "The solution combines NSS’s world-class biometric software with SVI’s superior 4D FMCW LiDAR system technology. FMCW LiDAR, which is short for “frequency-modulated continuous wave light detection and ranging,"
+publishedDateTime: 2021-01-25T16:11:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "3nbOS/EYXIQ233k0G3xTPSYG/N7jREVdV+SXXihlm3C22j0PQLSrjGjH0EtUITnPD+rppzG4iDH1REO+SwLV4YauVsABdP231ge8g3sruNOj6pD1zWj54fsnNC8gnYS903wFiHz2ThPERIKRgt/KoA0COvaaWSRMiVkyRp/gIfOxSngQ5kdBkG1+k1ANo2nLBV6M4ookjeAuQj/8I4c50QmWmwkzqShk+aIpyTYSh/Y7BvnDz3JEO595DHkhJ71fM0ygNWUGUsWz0PkW2O+5/oYJMKIxSxkhPCQOyLLJiyjcB8g3JYXN9d+kKVJWbvIZVJVJukGhPiu+Et2Z42bl6eE18eV3ZnS3OwO5erE/tWw=;2W3DDrKwhjDWb9BvAbWL7w=="
+secured: "2fThXcsLD6K6ZFjFViPWE+Cm4edvVIFb/jzBfqi58ir4VpMs2JOLo74kEHZ02tmt9qnldMJkGfji0KC025c9DZlFnELByJTB+osZql8Y0tfarvhR5CaWGp6wZjpWwwc62SxJePrbNym8Cm8fhCDn4YBlurgnwoV0heoopnEg1qFyOSeI6Apt76pLo8H/RYGsibGpzqlPFTCLZ8W34EnOzBCpT+N2HJvPey0Cep94XfWxfQgTMwr4JhV3tQ5lEj6uMjov91qi/V7xVfXpswO27cwc4NVHWrYpIHn3jkZQrm3QjLTwAY9PHZRyU/f+LacFIddIZI6fBeIcf7AfDnPzl21A/rKWcYaunCs/tquFQqc=;zr5c1gHWmVKZH0EPvY/Rjg=="
 ---
 

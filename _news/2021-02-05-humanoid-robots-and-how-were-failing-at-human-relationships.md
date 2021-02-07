@@ -9,7 +9,7 @@ ampWebUrl: "https://www.christianpost.com/amp/humanoid-robots-and-how-were-faili
 cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/humanoid-robots-and-how-were-failing-at-human-relationships.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

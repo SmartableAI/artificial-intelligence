@@ -85,6 +85,22 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "Artificial intelligence can determine whether you'll die from Covid, finds study"
+    excerpt: "Using patient data, artificial intelligence can make a 90 per cent accurate assessment of whether a person will die from Covid-19 or not, according to new research at the University of . Body mass index (BMI),"
+    publishedDateTime: 2021-02-06T23:15:00Z
+    webUrl: "https://www.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
+    ampWebUrl: "https://amp.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 52
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20210206/ARTICLE/210209333/AR/0/AR-210209333.jpg&NCS_modified=20210206200205&MaxH=225&imageVersion=16by9"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Global Computer Vision Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
     excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, presents an encyclopedic evaluation of the global market."
     publishedDateTime: 2021-02-04T12:20:00Z
@@ -126,20 +142,6 @@ related:
       - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/02/Artificial-intelligence-could-predict-whether-youll-die-from-COVID-19.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Mass General uses artificial intelligence to bust imaging language barriers during COVID-19 pandemic"
-    excerpt: "The COVID-19 pandemic has disproportionately affected members of minority communities, leaving some unable to obtain imaging services in a timely fashion. One Boston-based provider, however, is busting these care disparities,"
-    publishedDateTime: 2021-02-02T07:53:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/mass-general-artificial-intelligence-imaging-language"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 22
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-02/portuguese-5233295_1920.jpg?h=d1cb525d&itok=kJGJ5iMR"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "cQwfjjkPLlk+QClU5bpL8L4TM4m+MP10MSrtUCS9h+gUbcQeJcV/6yGj8BA21EAQGIzNIPDstLgYkWu4KexHXPB4CT5AWHgWVhRRihpUIOCNoY1mYuA0YtVSnjFTw0cXMlijoNmRorFu5jkxAsWocg+f/R172ntNavNR1dupEQ/78iLq+FIZb3kDSECGNJOzyCX4re4bXMNmRO6V/mYxgvCR2hzAngnTRfQq2YJ0gF2+ngh7/jrvDcXOg+4ke7OOxwY2WeXc+X/UfkTqIgePk2obt3D4bBzcBngVare5MDEh83rAkXkr3px4pkqj2ECSbF5Bm2u7XK/kg4S9xq5tpPm78gO5IjsTRfdmWkML24E=;4Yt6yUmFPD+jZmSYR5OBVw=="

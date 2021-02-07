@@ -40,20 +40,6 @@ related:
         width: 432
         height: 293
         isCached: true
-  - title: "SKEMA deploys its first advances in AI"
-    excerpt: "One year after the launch of its strategic plan 2020-2025, SKEMA is pleased to announce several concrete advances especially in"
-    publishedDateTime: 2021-02-02T08:38:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/skema-deploys-its-first-advances-in-ai-836747076.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1430593/SKEMA_AI_visual.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "k3FBJxkHyPEq9pGAKuHswIvKokG95114MvVBYjGAZJYBZ1NyYlanrvgOa1NmCFI3mdWacELNsA5wWJB9KbtKd/UjYhPbltQNaDnlSm6vDNdRvwShtbaTAWQDE8+eVCVInBlXDP6sNCEH8hVBVIEf+q3Xj2f2dvund6w9DrrmhCLXoZVtX0c/lT4SaP63bb0JJpf+1FD1cTijoxfCK4oRhnpPWinNpx0d5OziEcrJLvlB3HhCVl4ZVeKaIC0c2FRpV7pOEp20BNzvPs5vanMj5e8cpcGKE5OpZ8PzFeaKzcmgAEK0mYkVjSWELispb0yOeihAYvF8TblkGy7xqqy/+Cz0gmL8Tql+lzJMxveLvgE=;3H3kGLkpMLMwPZX2SHZewQ=="
 ---
