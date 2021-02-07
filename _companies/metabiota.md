@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "metabiota"
   url: "https://twitter.com/metabiota"
-  followers: 1338
+  followers: 1339
 
 locations:
   - San Francisco, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Metabiota"
 
-secured: "XtU8rVqYp6cbha+3NE9u9lPd1VJ7u9oQZDRwgbv7ALu0X97K2OyRGreAMf9rBnDAcm0VcwbdA8HO5rDrhGH7ldp98Plgk2S6bK/FUhBwc+UdSLsRRKRVSguFGT3Y3gfot6PrGPl4ZqZWErmMv/R2jrlNzOH2jiuprmmUvTza8NvTHwsMlJBj9PRvxgl0t5UGRsm2l8iMEv39/HUuBw1TSjYDXjKgFRsUoJqUptW6Ggf1rbf9ZdUB68LtrIU6Ku3JUBiQn5Ui5WwDZ3N95iWG0KJouQCNgTypaRFI5kCfb+vgdOWA8C9OnKMpo40bCwF97aOWAi5wR9Hx+kUHqtvJzO7oCFvH424PR0Kt6xBeKuxBL3qaJm1ZS/wPi0hppNYkDwqSBmjPWUgQsaii5fVhpua6AAkREiFmwENrwsRaapY=;u4ycXxsIAQLj4ag/Bw0sTA=="
+secured: "Hnz3b8VBchBwnU1djcoyxJhg1hTy61OTTFr5xQ/XCPxjfhFGH9K5VKAZ7n0pG5VUD8OMCRxbalwC/zarrysahq4JhkcJRLOAxm5AY+xt6SCUuOA/E5bd54X8vKWthZ3Zv5YChd7GOfoe/B8ISC0dkBmIq193X1ZPk+haTnnDh/+AWgZjJvkMusaI9Rrm8TiV21VwezctUPp4pAGKgVkJ2rYxoQtFFhbX0j2ZQUrps1/yfGz+lcUHyi/zsn8smYBXnZ9N4rkjPCdUA8kV7HdiE8r6AhlMEplBVwWPZz5/r7ySFuFoLLpeM79VfwO4iqSjigAw8Vntwj603fWL4gGHDI5m0VSjDQyKkNJ70+QJ/yjCqepaZEDrF0D8bnJ4szLwGJNYrVFJt0YkP36KZ1M9lfkwlBFSA7hFe8Lb+Vd2mZ4=;ysM37kTSEH+FmhqSq2pRXQ=="
 ---
 
