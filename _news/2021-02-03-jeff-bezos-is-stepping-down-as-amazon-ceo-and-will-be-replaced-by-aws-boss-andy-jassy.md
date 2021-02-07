@@ -153,17 +153,17 @@ related:
         isCached: true
   - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
     excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
-    publishedDateTime: 2021-02-04T20:24:00Z
-    webUrl: "https://tucson.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_79ecfde9-7203-53e8-a0ff-2f08976bf244.html"
+    publishedDateTime: 2021-02-04T20:26:00Z
+    webUrl: "https://tulsaworld.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_409521a9-4084-5c25-814c-66321c2cec71.html"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
-        width: 620
-        height: 290
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/4b/a4b80c15-0025-5c29-aaa2-c8bc8fe84457/601c55e50d45a.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
 
 secured: "D8vQapqJMdJ5LPL34tuiRDRGgsq0MF+9JKxttAY/CwSi5KiaEdm/gqUDvOoPwRRSDSvW+eLzjVOlFHunIj42FBmzUUOnNDQsUQTNEAqVKs/Xdn4pCHSo0wrhbyuKxZaacvgPLRw+xeM4YgOrOipUZGEgJlGKos6J25pLGQFYY9D8I6MxdQRjr2GJUnhA5TH4d8mn8YEr/+3negiuaMBRlkBTkXJbAfMdjOmwwRluqd2LZC4/jbzweYgDK3jOuSN5ZmWcpVE+gO3nFVIcQPBvwbdWwyexIzWedVtGvjrppFFc9GnWb3oIMg8tw4zv567kYZXpx3ZW3Q11drw08XP8xe/CqxOlX+xH3KiVgCdbBY8hnNXAL4hNi56bWoxubDwtVbpJqytef60nj7OlRB7jsSO3oN+hYThVp4+yJdwuQ4PgDBS0CmN5TVygqC6d3jvmeeqpupPiGR9EU+5tuy2SJ0uLcuGzARN+bnQTQJUhJ0AMpHz24RmXOkA2j4yGgth2Xsp5MOUt/F3tlQ0ojp4uGQ==;eYXmjyDqmEQ5onAJ5caI4g=="

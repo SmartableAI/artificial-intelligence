@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Sony's Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence"
-excerpt: "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony"
-publishedDateTime: 2021-02-02T01:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence-301219527.html"
-webUrl: "https://www.prnewswire.com/news-releases/sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence-301219527.html"
+excerpt: "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for"
+publishedDateTime: 2021-02-02T01:10:00Z
+originalUrl: "https://www.lelezard.com/en/news-19628160.html"
+webUrl: "https://www.lelezard.com/en/news-19628160.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "bEPkL88JADaFqre2KFXyN5Mryewk/zewdyDdfvaQ0mfxqNa2G6r6CPSHDYvMQiY2puj6xQMp+gPzouiuuglSE+CQSAP7JXW1/8Ue/SGjN5CDIuob3IPoLj2MyRG55C6sYhnqcCCtXpTFYNCmeB96FkrYFV/fiBNkk8lkldYwPIPS87XRYM08zDeIFMJ9xpptBMxrAmhJYCmUunMza8N5OfBHIId5C7jc8CIB3JgjeQ70J1QXmCezr9Tt8JSIvXeVPjVCbVSsBFvQw48GBMT7j0EBUiZkEbBDyoFk+K17SsaSuU3gPeusuYj/8mgGGQFO9Kb+J17Uujvozv/DRjublmTTZNqDNKrFkmyfX8yP9vc=;fwkT3vM6BpPRnNK013P+8w=="
+secured: "fwsFk6Xa5p3gUTa+etE7epKnJXPBqiy5YGqwVK44iQRm/aQPUVnOnnrpy87cpJEwwTzk4ooIW+A3RksCnB3O0wq9lf4IleIKPSMgnpeGsyP8Sh6yLj2RA3jFLK5JbEcjeWs8P4OqOvSArlZEWaV18Jd1qsmSYZlDbcwDFgRcAkoFtwmsEty+b1wo+7CLQGVnb21Hk/jmYGyyk/oH4xB1QdIarx/Rr7iBJoNQNmIRsg3UhAIV8H5yXxyua4U4V0lCRonjFyKmTLte/T2cqraFPkcfo1mfF3IJJDp6oWoT4fvDFozTESjnFCCINgJRuMhMxRWahIhZCvLMRc5IbTZe2bi90XvuvKHktM2L3RQ6QtE=;sCMWy8F0S/kgrX0IBRT3UA=="
 ---
 

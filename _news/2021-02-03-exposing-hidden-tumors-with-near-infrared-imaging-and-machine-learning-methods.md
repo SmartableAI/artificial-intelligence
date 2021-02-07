@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/exposing
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/exposing-hidden-tumors-with-near-infrared-imaging-and-machine-learning-345181"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "New technology uses near-infrared imaging and machine learning to find hidden tumors"
-    excerpt: "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery."
-    publishedDateTime: 2021-02-03T05:15:00Z
-    webUrl: "https://www.news-medical.net/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 52
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Gastroenterology-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "QfDdyd+OYjaN2EkWl6c58fov1qTDSGyIuGIqzHNaW0MlwmDpJOUQHyFJ/v/MYO5RxiH+7nWZDJis4OkfK99uCiGF1/4/ZezPUyzoiyOrYXh3uHHd8Rf1zL86hDwaA+KXCzxBWjVJi/NsIrHp+NZwh0V48MPpgZO0RAErT0WgKhSswud1Kl0fc15LP3aNR3/584+x+Gq0cUaK06L1CqdFYpclhJ4QBtpJAjXtc186VR83JdSil24EGoXUITBPdJhG/l0NQmoOwINxURtj28x2to64VPSeIVaWJdRAsmWI8caaiOjCvs07UuazfvvbErUIo5bYU6C/dJYqw1z0FW6JayqGcaufcgPHkdYCQ+QLesWq8JmGsEyvbjjR3pFkDEBcaf+G6eYmo7Wga7nMIabWvxUW897cQoOo8c/VSD6LIGmZmhwuwttliEHHWyzJegjYQKw4CDlXzzjx18EbvBRpL/Z1xsq1XeboBaZpvdCcSUMh1HqJWMjudYZ2kVKdENlQxv7V0JBnNmbmIS0yyKGvlw==;xaKU0fePC9yGY9ipjOQJpA=="
 ---

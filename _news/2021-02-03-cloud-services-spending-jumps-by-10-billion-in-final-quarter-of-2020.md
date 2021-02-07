@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/cloud-services-spend
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://i.insider.com/5f1b3f0aaee6a81da0721f24?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Global cloud services market surges by US$10 billion in Q4 2020"
-    excerpt: "Cloud infrastructure services spending increased 32% to US$39.9 billion in the last quarter of 2020, following heightened customer investment with the major clo"
-    publishedDateTime: 2021-02-03T06:39:00Z
-    webUrl: "https://www.cxotoday.com/press-release/global-cloud-services-market-surges-by-us10-billion-in-q4-2020/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 24
-    images:
-      - url: "https://www.cxotoday.com/ashojoac/2020/09/multicloud_CXO.jpg"
-        width: 600
-        height: 450
         isCached: true
 
 secured: "T6CPLvyFh9QyFap6cMR7fBSqNyexObOMb/oXlP8r8JeBHJLgUgXtJ43t5e5KvuNubTx9AjG+XLlDm3Ms4BkhSsxJGknQNPtiUkUdd0jYlatuye1cIFt0bxTzvmytUGtvjYRh2rqwQGjqGlB6+UiLYzZRBfW8yEqLLA0DLzNJOSDaEGZAmmimESE+ow7wEqcA+xX9nt7fxaiK7ssyA3/PGuzO58KwnvrEl/bc6Qu1x9GSKyKzZGY0N+2HOaLUJ0fBHjbujK3StZzXqkopC9a03ViFtPyj6vdGzjeNKAiw5bekYpgtCJR1H1kxAAUCgnzfD9SCeJ4hXBO94Y1a6NWlJhBsCb+FBzlK4uV2x3kWvLs=;LoPGt571eO1V+gQU6RmsbQ=="

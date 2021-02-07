@@ -1,29 +1,40 @@
 ---
 category: news
 title: "Rev Announces New Languages in Automated Speech Recognition"
-excerpt: "The world’s most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four new languages: French, German, Portuguese,"
-publishedDateTime: 2021-02-05T14:32:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9"
+excerpt: "The world's most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four"
+publishedDateTime: 2021-02-05T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/12/712f0cfb-9316-516f-8c16-14cee40223d6/60206f189ce2c.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
-secured: "dA6FcCPHVMYxCQbpG4wCvSDD3tsAkF5VTBg1LRMycq0U27zc3gC9558QlN2OPy9XrzeXDVoEU2ynZg6bCJzF0rKCs85rItx4ATrfdgk1j7r+Bcb468hfvLHgbs+HAsvCb2DgQ01zXH7RwfABev+JqR3kZX0gsMsiQ/xQo+Myx3Au6tbiYso2hLI0/oLDNj2bA0TzDGas+mKifv9Kh9dHwqLFH24a8kl8rAJEaePMz/AxFGi0Y5wsbDR2YS6zoNwEUTrGldU5D06WVVGSck0FXt020gVf4hO11DRIPOLKnRHvWyGV6B4t+HuzvvZT1B8G0nlS7QV87nyveiJv0Yu+r0aWWfGOHzr/EsiFVYjtyso=;eEQxyWB/XHA7lGWHJUsyEg=="
+related:
+  - title: "TrinityRail Announces New Products and Services Expansion"
+    excerpt: "TrinityRail® announced today two new service offerings that will expand and enhance the TrinityRail platform for its customers. The company has officially launched a new technology service platform, Trinsight™,"
+    publishedDateTime: 2021-02-03T08:47:00Z
+    webUrl: "https://www.financialbuzz.com/trinityrail-announces-new-products-and-services-expansion/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 19
+
+secured: "JR84pvoCcml3lYaTgH4lb8kqRbUvZlunjX42AvnmlBxAfvs2XA77D/VW++2w6HY8y0m7KY/Ru/CpX9In9rXrduTtoYOm3p46DNDrDBLgFudThIogQI40IebuVuMCdyNtIBS9mNL1z3HYF/+q407NFi4nn2EGHA7MH9Rp8kVnWSbvmF5YgKITv67/eVJoc/Ayrv1IoRVtMmmQl4ByW6rmOgXhubPP8BaIHm1l3e76vBDkhCO0O2OECGBS6BzxsCyJnrGu+/jDhKwOf06LtJVUN5s9Wa6HIP2SNxdOOmJsIHtldNUSOJN0vNqht3xny93MTIpq//jQ22qAyxfqnMqmkLaKSV8YEgp1dNSkwecUnLI=;XDh9RWxA/PVqJaisL4kmfA=="
 ---
 

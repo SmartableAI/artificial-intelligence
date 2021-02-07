@@ -41,6 +41,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Delta expands facial recognition Technology"
+    excerpt: "Delta expands facial recognition Technology Delta Air Lines Expands Facial Recognition Technology to Domestic Flights at Detroit"
+    publishedDateTime: 2021-02-07T22:24:00Z
+    webUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Delta-expands-facial-recognition-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "XwnnFnJA+y/NxdB/vCPmydzL1AyurGXWRwtttBWT5oG7Sx3BWyqHCzYFf8Xu6BW3o7YVkyMizsTal8RGaM/mRN2u72g8MCvSG9bHkUqad+5sC2NdazlIS/9/zvISzQbqe/J/vhD1Znn5j97Wf1zCOxz8WgNt3vHCCIv6Vsx1Azl+t85CdsfyszwxlfgrVmuR6Yt/Bq7vI/bXz6hmSthcPWvSgrcbPNCOfip9UIWtjSmnp4LJeD7HZwN7xclxz9oMv5Dhpuh2UqxGroCl3pYlAnWHAj1wBGeO527cMo7Wykyj9dyha3VYUqtePi4RCkV/k1n48SICb8dHK2b2GhaM234kErQC4zd5QXm6797ZVjg=;/or4L2V4kJ6HrjrVbHAM6Q=="
 ---

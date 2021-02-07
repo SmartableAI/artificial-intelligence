@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Global cloud services market surges by US$10 billion in Q4 2020"
-    excerpt: "Cloud infrastructure services spending increased 32% to US$39.9 billion in the last quarter of 2020, following heightened customer investment with the major clo"
-    publishedDateTime: 2021-02-03T06:39:00Z
-    webUrl: "https://www.cxotoday.com/press-release/global-cloud-services-market-surges-by-us10-billion-in-q4-2020/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 24
-    images:
-      - url: "https://www.cxotoday.com/ashojoac/2020/09/multicloud_CXO.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "a/y/6BzIaI5WwiGvZ5jgrQ/MO7ULOZR9JRqX1zLmx+OtSyk4iPOO0NKjMa/szsKY9LrjdLMy9YOHH+o7H/Lfsojbn8UrglcoP/615sJQ6VYSH62BTCvw+eERsewGAKSlFVas1kXDldenHdWoKm777IdgF/KQ/mqANWOYeffKUqJohHCV1yFJAzIT5PwrLQOmSJqouP85nYNjXRdwutqM2fYkbXwvUsFf8P4a88Yj9HEkLVr0tROgUuHz571jESmEmb9AzNRQhcRFaeft91lPaMbOuhYvHpWBd4iGFh2iVkLYwXi7iSuCnfJQkosUAmqJdRfeyPtcnjLxcCzji1avwGbZb43ONknG8c9K9LoiTQp7Ydd4yv95b1N54YOmPGWzyTN2GfAla35AVjmc61FXeZKkkti7nLfYim5y3vx6HzuaRkEO9WrPrEn4k8CZY1cr65akPgPcFk27LCMbtfEEnSGpsnxQsG4NATiA4CZmd1Q6ZEns3NlhRgXk/z+11rJJzhjbBskpcf/l0M75DWN8+w==;Li9l8kzcjOhmb+PpnWsx5A=="
 ---

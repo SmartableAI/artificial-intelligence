@@ -2,49 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2021-01-23-minneapolis-a-step-closer-to-banning-facial-recognition-technology.md",
-      "title": "Minneapolis a step closer to banning facial recognition technology",
-      "excerpt": "There are concerns about it leading to a surveillance state, and that it could harm disadvantaged communities.",
-      "sourceUrl": null,
-      "webUrl": "https://bringmethenews.com/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "originalUrl": "https://bringmethenews.com/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc0MzMyNDc4ODA1MjU1ODE0/minneapolis-skyline.jpg",
-          "width": 620,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "cdnAmpWebUrl": "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "publishedDateTime": "2021-01-22T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bring Me The News",
-        "domain": "bringmethenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-23-center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy-jaweb.md",
       "title": "Center for Applied Data Ethics suggests treating AI like a bureaucracy – Jaweb",
       "excerpt": "A recent paper from the Center for Applied Data Ethics (CADE) at the University of San Francisco urges AI practitioners to adopt terms from anthropology when reviewing the performance of large machine learning models.",
@@ -644,6 +601,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-the-real-self-driving-revolution-remains-years-away.md",
+      "title": "The real self-driving revolution remains years away",
+      "excerpt": "But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future. Automakers like General Motors (GM), Ford (F) and Stellantis (the company formed in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/01/21/success/self-driving-car-technology-2021/index.html",
+      "originalUrl": "https://edition.cnn.com/2021/01/21/success/self-driving-car-technology-2021/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200204152457-02-cadillac-escalade-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html",
+      "publishedDateTime": "2021-01-22T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },

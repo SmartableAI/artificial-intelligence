@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/travel/delta-expands-facial-recognition-dome
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Delta expands facial recognition Technology"
+    excerpt: "Delta expands facial recognition Technology Delta Air Lines Expands Facial Recognition Technology to Domestic Flights at Detroit"
+    publishedDateTime: 2021-02-07T22:24:00Z
+    webUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Delta-expands-facial-recognition-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Delta rolls out facial recognition for domestic travel at Detroit airport"
     excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a “biometric terminal” for international travel using facial recognition at Hartsfield-Jackson’s Maynard H."
     publishedDateTime: 2021-02-04T20:51:00Z

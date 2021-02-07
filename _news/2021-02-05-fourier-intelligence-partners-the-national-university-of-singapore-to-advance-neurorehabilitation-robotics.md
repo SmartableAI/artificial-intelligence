@@ -2,17 +2,17 @@
 category: news
 title: "Fourier Intelligence partners the National University of Singapore to advance neurorehabilitation robotics"
 excerpt: "The collaboration aims to facilitate research in rehabilitation technology, and promote its adoption in patient care and therapy."
-publishedDateTime: 2021-02-05T03:01:00Z
-originalUrl: "https://www.wicz.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
-webUrl: "https://www.wicz.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
+publishedDateTime: 2021-02-05T07:20:00Z
+originalUrl: "https://www.wfmj.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
+webUrl: "https://www.wfmj.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: WFMJ
+  domain: wfmj.com
 
 topics:
   - AI in Robotics
@@ -54,6 +54,6 @@ related:
         height: 324
         isCached: true
 
-secured: "9UVaXtQBp/9bPbHwsq5iEE1Qra7ZJlxMM9LXEGymh3XMgCmutLo56pSpG61eo311KAttDbvux/8B9v3069R3cTSdfmgLvqauGrKCW3Uk977kgnTCt1TVApZNaxgbdelBCGbxLw5VDJlmZIlKWCY/Mg+KXTarpoSpCwnpwsLbpTl1pP//fL+SIzuP6N3hgmAYBIs/roR4MwpMZNhw683X2ob59vQ1IDNr5752/0jxuokzC/czA2YBsUurGV3vlxlgkF8dyV0cGRt28yL6hZQxqDPrdRRyJA/YLrgBApf9QlYto5Imnm8Ibpf+rsDaY2JUfAxpxfUqLbipbqCFwLGsQrNbgvAeX1yOd0RbptIBnh0=;pyoKyVUsbiBCHdsbXaXQXA=="
+secured: "Wacq1CZmtkns7kZ3NDTH2tbGaiLzRL/L9KYV3HERXRZnaUB7Sq4qVlMuE43LtpH+3SSUko4SziXlJgSruq87le7Rla/f3Cip8EDtfaCv1rzJyW3T71l+Db6OotrWOr7nEsKNkDOalUKNf5oC7zWpJhfcLCfp30eLJ8Qc1N4DzRbL7rLzJCustMRA0UqkUiXcHCV3nuAKCAtR3G2P0UdJ673XRm4N4kdZ0wK8oe9Rb/ZeokrL6j78rFODqLJW+Xu3zndHHmDX/Zzy7lTCrriPIy5pGHknq75Vhvr0E3ytK5fTsVh6xynCTieMosufcqmHS1nEMmx7z6stqUjo0FTJ4O2PnxsHrCxcFx0+dKP8TZ0=;tnUW02egd8yg72yaR74cQw=="
 ---
 
