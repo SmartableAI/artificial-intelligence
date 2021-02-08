@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/erc-mlg020521.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-02/erc-mlg020521.php"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Generates Human Genomes"
+    excerpt: "Researchers have used machine learning to mine existing biobanks and generate chunks of human genomes which do not belong to real humans but have the characteristics of real genomes."
+    publishedDateTime: 2021-02-08T04:52:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-generates-human-genomes-199787-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-generates-human-genomes-199787-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-generates-human-genomes-199787-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/motion-picture-stored-in-bacterial-genome.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Machine learning generates realistic genomes for imaginary humans"
     excerpt: "Machines, thanks to novel algorithms and advances in computer technology, can now learn complex models and even generate high-quality synthetic data such as photo-realistic images or even resumes of imaginary humans."
     publishedDateTime: 2021-02-05T17:33:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.globalbankingandfinance.com/category/news/singapore-ba
 webUrl: "https://www.globalbankingandfinance.com/category/news/singapore-based-fintech-firm-transwap-expands-into-the-uk-with-plans-to-open-new-rd-centre/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "Singapore Fintech Start-up Sleek Becomes APAC's First Carbon-Neutral Corporate Service Provider"
+    excerpt: "Singapore Fintech start-up Sleek has become the first provider of carbon-neutral corporate services in the Asia-Pacific region with its new sustainability initiative that tackles carbon emissions. Singapore's corporate services industry has long been known to be traditional and paper-based."
+    publishedDateTime: 2021-02-08T06:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-start-up-sleek-becomes-apac-s-first-carbon-neutral-corporate-service-provider-1030053733"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/singapore-fintech-start-up-sleek-becomes-apac-s-first-carbon-neutral-corporate-service-provider-1030053733"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/singapore-fintech-start-up-sleek-becomes-apac-s-first-carbon-neutral-corporate-service-provider-1030053733"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
 
 secured: "pCN3vBuQNb2XnRBNsY+z4XI3eqIkIIrSxjBHbZDY2tNch90sA/9ydWEFXOgwXyW7Z+yYSGaDB3f2RF6RPp1R7TYV8m5m62gTohnWZonxSNC1r+od3lGrDKNrI4vaNrjXOipfh83Ds7HpzjnbwoFljVgEtFvml7RjYKnoDbdrsd44hftxa+dZVnPpNMdDXSeUjKEgnJfrg1CKVzSWFNwlKan2oieY5THTlOBJxDwJGHO97LI0ueE0oBVzWpK2K9V27rbfJDKDDilK6pIa/7voVTOFcACrmXtg8pBEbN+eEkVu/QyKCPorknsKwKrGrC7LR/ZB4M84ExaSPcq1NscNUm9gOXircs/qnDSykUNiyEo=;gGTKxTd+BXlekT+OIx4mZg=="
 ---

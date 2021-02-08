@@ -2,38 +2,29 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-08-hyundai-and-kia-say-they-are-not-talking-to-apple-about-self-driving-cars.md",
-      "title": "Hyundai and Kia say they are not talking to Apple about self-driving cars",
-      "excerpt": "Shares of Hyundai and Kia plunged on Monday in Seoul after the automakers said they were not in talks with Apple to develop self-driving cars after all.",
+      "path": "_news/2021-02-08-making-ai-real-a-2019-report-into-ai-machine-learning.md",
+      "title": "Making Ai Real: A 2019 Report Into Ai & Machine Learning",
+      "excerpt": "Making AI Real report surveys global business about real world AI usage. This report reveals how technologies such as machine learning and AI are being used in 2019. To achieve this we surveyed a panel of 2,",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html",
-      "originalUrl": "https://www.cnn.com/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html",
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 86,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210207220435-hyundai-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html",
-      "publishedDateTime": "2021-02-07T14:09:00-08:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
+      "publishedDateTime": "2021-02-07T21:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +40,51 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-machine-learning-generates-human-genomes.md",
+      "title": "Machine Learning Generates Human Genomes",
+      "excerpt": "Researchers have used machine learning to mine existing biobanks and generate chunks of human genomes which do not belong to real humans but have the characteristics of real genomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-generates-human-genomes-199787-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-generates-human-genomes-199787-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/motion-picture-stored-in-bacterial-genome.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-generates-human-genomes-199787-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-generates-human-genomes-199787-1.htm",
+      "publishedDateTime": "2021-02-07T20:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1087,7 +1122,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1178,58 +1213,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-youre-doing-cloud-based-ai-and-machine-learning-wrong.md",
-      "title": "You’re doing cloud-based AI and machine learning wrong",
-      "excerpt": "Artificial intelligence and machine learning are hard, and most building these systems don’t know what they are doing. Here’s how to avoid AI/ML failures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html",
-      "originalUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/success_roadmap_perserverance_determination_challenges_thinkstock_155099452-100749443-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html",
-      "publishedDateTime": "2021-02-05T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

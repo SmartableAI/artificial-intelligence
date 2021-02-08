@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli Startup Granulate Raises $30M To Slash Computing Costs"
-    excerpt: "Granulate says it is addressing rising computing costs with an automated solution that tailors workload prioritization for companies."
-    publishedDateTime: 2021-02-03T14:02:00Z
-    webUrl: "https://nocamels.com/2021/02/granulate-30m-computing-costs-optimization/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/02/Granulate-e1612357025730.jpg"
-        width: 1021
-        height: 487
-        isCached: true
   - title: "Israeli Synthetic Data Startup Datomize Closes $6M Seed Round"
     excerpt: "Datomize developed a synthetic data solution to accelerate and streamline the training and testing of AI/ML models."
     publishedDateTime: 2021-02-04T13:36:00Z

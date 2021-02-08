@@ -2,6 +2,334 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-03-bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures.md",
+      "title": "BioWare used AI upscaling to remaster Mass Effect’s original textures",
+      "excerpt": "BioWare rescued many of the textures in the original Mass Effect games through the use of AI upscaling, which can make them look more modern.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/",
+      "originalUrl": "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/eden-prime.png?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/amp/",
+      "publishedDateTime": "2021-02-02T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research.md",
+      "title": "PercayAI and Saint Louis University Partner to Accelerate AI Adoption across Biomedical Sciences Research",
+      "excerpt": "Biotech startup PercayAI and Saint Louis University (SLU) announced a partnership today to provide SLU researchers with access to PercayAI's augmented intelligence (AI) drug discovery platform. One of the primary components of the PercayAI platform is CompBio™,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "publishedDateTime": "2021-02-02T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-case-studies-of-successful-ai-startups.md",
+      "title": "Case studies of successful AI startups",
+      "excerpt": "Unsurprisingly, artificial intelligence is a small part -- albeit an important one -- of a successful product management strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/artificial-intelligence-startup-case-studies.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/",
+      "publishedDateTime": "2021-02-02T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-ai-stock-why-c3-ai-shares-are-surging-today.md",
+      "title": "AI Stock: Why C3 AI Shares Are Surging Today",
+      "excerpt": "C3 AI (NYSE:AI) stock is on the rise Tuesday after announcing a partnership with Shell (NYSE:RDS), Baker Hughes (NY",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02?amp",
+      "publishedDateTime": "2021-02-02T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-rescale-raises-50-million-in-series-c-funding.md",
+      "title": "Rescale Raises $50 Million in Series C Funding",
+      "excerpt": "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft's M12, Nautilus Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-california-to-license-driverless-cars-operated-by-artificial-intelligence.md",
+      "title": "California to license driverless cars operated by Artificial Intelligence",
+      "excerpt": "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),",
+      "sourceUrl": null,
+      "webUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/",
+      "originalUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1",
+      "cdnAmpWebUrl": "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1",
+      "publishedDateTime": "2021-02-02T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hayride",
+        "domain": "thehayride.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-artificial-intelligence-in-marketing-market-next-big-thing-major-giants-alphabet-baidu-oculus360.md",
+      "title": "Artificial Intelligence in Marketing Market Next Big Thing | Major Giants- Alphabet, Baidu, Oculus360",
+      "excerpt": "HTF MI presents an in-depth overview of the Global Artificial Intelligence in Marketing Market Study, detailing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-happyfox-applies-conversational-ai-to-support-requests-made-via-slack.md",
       "title": "HappyFox applies conversational AI to support requests made via Slack",
       "excerpt": "HappyFox today announced it is using conversational AI to automatically resolve requests made to help or service desk platforms it supports via a Slack communications channel. Assist AI from HappyFox analyzes each request made via Slack to determine if a way to solve that issue already exists within an IT organization’s knowledge base.",
@@ -862,341 +1190,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-california-to-license-driverless-cars-operated-by-artificial-intelligence.md",
-      "title": "California to license driverless cars operated by artificial intelligence",
-      "excerpt": "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
-      "originalUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true",
-      "publishedDateTime": "2021-02-01T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-artificial-intelligence-and-the-gamestonk-blowback.md",
-      "title": "Artificial intelligence and the Gamestonk blowback",
-      "excerpt": "Surrounded by rallies of “power to the people,” a rag-tag group of scrappy underdogs recently managed to bring Wall Street to its knees through a dazzling display of disobedient investing that saw Gamestop stocks rocket Moonward.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/1280px-GameStop_Globen-e1611550531323-796x420.jpg",
-          "width": 796,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/amp/",
-      "publishedDateTime": "2021-02-01T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-rpa-startup-uipath-raises-750-million.md",
-      "title": "RPA startup UiPath raises $750 million",
-      "excerpt": "Robotic process automation startup UiPath has raised $750 million in a series F round valuing the company at $35 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/uipath.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/",
-      "publishedDateTime": "2021-02-01T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-ios-145-apple-just-revealed-brilliant-new-face-id-feature.md",
-      "title": "iOS 14.5: Apple Just Revealed Brilliant New Face ID Feature",
-      "excerpt": "The next version of iOS is coming soon, and today’s developer beta release lets slip a timely and important security feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/",
-      "originalUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6018415e9f9059ef357afd41%2F0x0.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/",
-      "publishedDateTime": "2021-02-01T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-the-two-companies-have-announced-a-significant-6-year-partnership.md",
-      "title": "The two companies have announced a significant 6-year partnership",
-      "excerpt": "Google and Ford have inked a six-year partnership that will see the automaker using the tech giant’s expertise and products to bolster their cars and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88477-ford-google-sign-significant-6-year-partnership.html",
-      "originalUrl": "https://www.techspot.com/news/88477-ford-google-sign-significant-6-year-partnership.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-01-image-9.jpg",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88477-ford-google-sign-significant-6-year-partnership.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88477-ford-google-sign-significant-6-year-partnership.html",
-      "publishedDateTime": "2021-02-01T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-weights-biases-raises-45m-for-its-machine-learning-tools.md",
-      "title": "Weights & Biases raises $45M for its machine learning tools",
-      "excerpt": "Weights & Biases, a startup building tools for machine learning practitioners, is announcing that it’s raised $45 million in Series B funding. The company was founded by Lukas Biewald, Chris Van Pelt and Shawn Lewis — Biewald and Van Pelt previously founded CrowdFlower/Figure Eight",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/",
-      "originalUrl": "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/image-5.jpg?w=680",
-          "width": 680,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/",
-      "publishedDateTime": "2021-02-01T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-ford-says-millions-of-its-vehicles-will-run-on-googles-android-starting-in-2023.md",
-      "title": "Ford says ‘millions’ of its vehicles will run on Google’s Android starting in 2023",
-      "excerpt": "Ford is the latest automaker to turn its vehicle operating systems over to Google. The Dearborn, Michigan-based company said it will use Google’s Android to power the infotainment systems in “millions” of its cars starting in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/2/1/22260176/ford-google-android-infotainment-os-2023",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/ford-says-e2-80-98millions-e2-80-99-of-its-vehicles-will-run-on-google-e2-80-99s-android-starting-in-2023/ar-BB1dhZyF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/-uLkByrqABxw1MkzWgOSvpc8GzY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68751502/sokane_191117_3793_6040.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/1/22260176/ford-google-android-infotainment-os-2023",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/1/22260176/ford-google-android-infotainment-os-2023",
-      "publishedDateTime": "2021-02-01T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/2/1/22260176/ford-google-android-infotainment-os-2023",
-        "domain": "theverge.com/2021/2/1/22260176/ford-google-android-infotainment-os-2023",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

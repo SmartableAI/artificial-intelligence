@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/science-business-te
 webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-media-1e1bfb36d8944678a13496401aafdf00"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "ADLINK Launches the DLAP x86 Series, a Deep Learning Acceleration Platform for Smarter AI Inferencing at the Edge"
-    excerpt: "Summary: • ADLINK’s DLAP x86 series is the most compact GPU-enabled deep learning acceleration platforms available, powering AI applications in industrial, manufacturing, and healthcare"
-    publishedDateTime: 2021-02-03T14:21:00Z
-    webUrl: "https://www.eejournal.com/industry_news/adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing-at-the-edge/"
+  - title: "Mouser Electronics Releases New Intelligent Revolution eBook Examining AI in Humanitarian Applications"
+    excerpt: "Mouser Electronics Inc. today released Artificial Intelligence: Improving Harvests and the Human Experience, the third eBook from The Intelligent Revolution series. The new eBook examines fascinating new uses for artificial intelligence (AI) in farming and other specialized applications targeting the human experience."
+    publishedDateTime: 2021-02-03T16:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-537bb3328bba44ebbb871deac8ba13c3"
     type: article
     provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 35
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
     images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
-        width: 512
-        height: 512
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "zDQG6SyVSDB0Rs8IXLJ8icGbOdB9ZMCZst2AYLlVgNq0t2cjrGcqHBaVrqLj9m3YjDKW5rVB6GnrJ2LheBu076x8zsnOhSNO1oc8l7eCW1NW6i83oJ2nqS20x6wRJgwJmSXLt8PLr/fHsCLREWwTT7GRo3c+cZSAmfPnefcALwrO00BDA3soAxEu+tUMZBlH2rnwXh0BUSyfpWo/WStRCAfgUsiOYUV0QtZ9xXhyXE285lqwGgpMoxx7fQH483OfhTLKnROkAxUSPeCBXSc+4PEyWb0aiS10UmQ7PxbapjU7+icgy7ha9uNXCxH8wWX7mFQMB896pAhFzYsC0gy3Xzh8yT+REV66jNke1ieR6Qw=;P6tAnHncbjpdnAAU7zJR0g=="

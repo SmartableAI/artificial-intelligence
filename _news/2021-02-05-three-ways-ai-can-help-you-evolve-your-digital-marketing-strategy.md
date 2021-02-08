@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-hel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Porsche created an AI to help you configure your perfect car"
-    excerpt: "The system, called the Recommendation Engine, uses machine learning to recommend options and packages based on your individual preferences."
-    publishedDateTime: 2021-02-03T14:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/porsche-ai-car-configurator-recommendation-engine/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/porsche-ai-car-configurator-recommendation-engine/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/porsche-ai-car-configurator-recommendation-engine/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/DTM2WC-09P4lRMtdCxVzwxoPwMk=/2021/02/02/aba25320-76a3-4a1a-8510-faa2836694c0/porsche-configurator-smartphone-2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Three ways artificial intelligence could change the markets"
     excerpt: "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul."
     publishedDateTime: 2021-02-05T13:05:00Z

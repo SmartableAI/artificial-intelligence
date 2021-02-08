@@ -29,120 +29,75 @@ images:
     isCached: true
 
 related:
-  - title: "Community Health Network prescribes AI to combat COVID-19"
-    excerpt: "Community Health Network is employing an AI platform from Jvion to assign COVID-19 risk scores and drive an education outreach initiative."
-    publishedDateTime: 2021-02-03T14:33:00Z
-    webUrl: "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/"
-    ampWebUrl: "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/amp/"
+  - title: "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market"
+    publishedDateTime: 2021-02-04T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Community Health Network prescribes AI to combat COVID-19 – Jaweb"
-    excerpt: "AI is about to play a much larger role in identifying individuals who are at risk for contracting COVID-19 in Indiana. Community Health Network (CHN), an accountable care organization (ACO), revealed today that it is beginning to employ an AI platform from Jvion to analyze members’ electronic health care records that are stored in a"
-    publishedDateTime: 2021-02-03T15:00:00Z
-    webUrl: "https://elmoudjaweb.com/community-health-network-prescribes-ai-to-combat-covid-19-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/community-health-network-prescribes-ai-to-combat-covid-19-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/community-health-network-prescribes-ai-to-combat-covid-19-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/K-Health-raises-132-million-to-launch-AI-powered-telemedical-pediatric.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Computer vision in the fight against the COVID-19 pandemic"
-    excerpt: "Computer vision technology helped Taiwan nip COVID-19 dissemination in the bud. The technology proved efficient for virus spread prevention."
-    publishedDateTime: 2021-02-05T09:01:00Z
-    webUrl: "https://jaxenter.com/computer-vision-covid-173692.html"
-    type: article
-    provider:
-      name: jaxenter.com
-      domain: jaxenter.com
-    quality: 54
-    images:
-      - url: "https://jaxenter.com/wp-content/uploads/2021/01/shutterstock_1713989494-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
-  - title: "Artificial intelligence can determine whether you'll die from Covid, finds study"
-    excerpt: "Using patient data, artificial intelligence can make a 90 per cent accurate assessment of whether a person will die from Covid-19 or not, according to new research at the University of . Body mass index (BMI),"
-    publishedDateTime: 2021-02-06T23:15:00Z
-    webUrl: "https://www.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
-    ampWebUrl: "https://amp.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 52
     images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20210206/ARTICLE/210209333/AR/0/AR-210209333.jpg&NCS_modified=20210206200205&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "New Artificial Intelligence Tool Can Thwart COVID-19 Mutations"
-    excerpt: "USC researchers have developed a new method to counter emergent mutations of the coronavirus and hasten vaccine development to stop the pathogen responsible for killing thousands of people and ruining the economy."
-    publishedDateTime: 2021-02-05T10:14:00Z
-    webUrl: "https://scitechdaily.com/new-artificial-intelligence-tool-can-thwart-covid-19-mutations/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/AI-Coronavirus-Concept.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Artificial intelligence could predict whether you’ll die from COVID-19"
-    excerpt: "Artificial intelligence could predict who is most likely to die from the coronavirus. In doing so, it can also help decide who should be at the front of the line for the precious vaccines now being administered across Denmark."
-    publishedDateTime: 2021-02-06T11:16:00Z
-    webUrl: "https://knowridge.com/2021/02/artificial-intelligence-could-predict-whether-youll-die-from-covid-19/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 37
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/02/Artificial-intelligence-could-predict-whether-youll-die-from-COVID-19.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Artificial Intelligence can predict whether you will die from COVID-19"
-    excerpt: "Copenhagen: Using patient data, artificial intelligence can make a 90 per cent accurate assessment of whether a person will die from COVID-19 or not, according to new research at the University of Copenhagen."
-    publishedDateTime: 2021-02-07T06:22:00Z
-    webUrl: "https://www.freepressjournal.in/health/artificial-intelligence-can-predict-whether-you-will-die-from-covid-19"
-    ampWebUrl: "https://m.freepressjournal.in/article/health/artificial-intelligence-can-predict-whether-you-will-die-from-covid-19/d3559d80-e9df-47ef-a628-16eaef76be95"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/health/artificial-intelligence-can-predict-whether-you-will-die-from-covid-19/d3559d80-e9df-47ef-a628-16eaef76be95"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 37
-  - title: "Jvion Partners with Community Health Network to Mitigate Impact of Deferred Care"
-    excerpt: "Jvion, a leader in clinical artificial intelligence, today announced that Community Health Network, an integrated health system with over 200 sites of care and affiliates throughout Central Indiana, will leverage Jvion's prescriptive clinical AI CORE to target outreach to Accountable Care Organization members who are likely to suffer negative"
-    publishedDateTime: 2021-02-03T16:18:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/jvion-partners-with-community-health-network-to-mitigate-impact-of-deferred-care"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 19
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Image Recognition Market Insights By Revenue, Upcoming Trends And Worldwide Players Foresights Till 2026 | Fortune Business Insights"
+    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
+    publishedDateTime: 2021-02-05T13:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-revenue-upcoming-trends-and-worldwide-players-foresights-till-2026-fortune-business-insights-2021-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Revenue, Industry Growing Demand, Size, Share, Business Opportunities, Top Companies, Regional Outlook 2027"
+    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
+    publishedDateTime: 2021-02-03T21:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-industry-growing-demand-size-share-business-opportunities-top-companies-regional-outlook-2027-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ISRI’s 2021 Advocacy Agenda Highlights Industry Opportunities for Growth and Recognition"
+    excerpt: "The importance of recycling has never been greater. Recognizing the essential role of the industry and its immeasurable benefits, the Institute of Scrap Recycling Industries’ (ISRI) 2021 Advocacy Agenda highlights ISRI’s proactive engagement on new challenges and opportunities at the local,"
+    publishedDateTime: 2021-02-04T16:36:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-legislature-environment-and-nature-waste-management-services-government-and-politics-c2bc9dc1ccbecd171c6b23193c0c4fca"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-02-05T02:09:00Z
+    webUrl: "https://menafn.com/1101548486/Global-Mobile-Speech-Recognition-Software-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "ct5xH08BZo1cdED46XwMHN0Vrk/f5uPuiVTwnHbg+Jwt4Tq0uFhwzOQLL9wCBI9s8cRMXbAcQOFujj3bCJLhZAhxl/kn+mJTiuD32auIbMW7fBemhAtPjj4Po1fMhyuCOJ5inbxcrod9Q/oymS9NIy401ChdHMYSa9GntWKy4Lt2V/ly1DRCVrCHAJclHiU5GDJhpB56hDZjlJ2Y67VdePBGz3CZpdR6NlQAXYulp+fqA6m24z9zbrP8nbs5wWaEldzJ4Iznj0mBIJo39R4s11X8tLFdmG7sK7f7DZbxkcUFCfGwOMwR+VVfxG8wBiCWtSp5sCPJapo/CEiKJZxERGtyA+Wi4J40wJLB8z8YbtQ=;h+yWgOOjT17IE+QHaD4Btg=="

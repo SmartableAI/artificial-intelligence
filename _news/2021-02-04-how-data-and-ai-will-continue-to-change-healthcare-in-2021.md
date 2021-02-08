@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-dat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
         width: 320
         height: 320
+        isCached: true
+  - title: "Maybe artificial intelligence will drastically change health care, but who will benefit?"
+    excerpt: "Our federal and provincial governments have proven they can unite around issues of national importance in health care and they must do so again if we are going to have any chance of AI playing the role many believe it can in helping us move toward personalized health care."
+    publishedDateTime: 2021-02-08T05:01:00Z
+    webUrl: "https://www.hilltimes.com/2021/02/08/maybe-artificial-intelligence-will-drastically-change-healthcare-but-who-will-benefit/281783"
+    type: article
+    provider:
+      name: The Hill Times
+      domain: hilltimes.com
+    quality: 30
+    images:
+      - url: "https://www.hilltimes.com/wp-content/uploads/2021/02/pexels-photo-339620-750x375.jpeg"
+        width: 750
+        height: 375
         isCached: true
 
 secured: "TdpNRRq7PUxELbSucXgZWyzS37TTGGghKUQxWEJWRpGFuwKkBSjFqSt4W3I1ypbWuLyIqKrduWNsWerOy2JGqWzGaJAvKEQgF9a7lVeuPokjJo5vbGNtEvqAoXV+I1UD/eCtjIZHR2uaMnk3ruPmXkgdw0P++D74d7eZ0uLyWyfNXO25F4W22Q3fIywcvPn1qoaNexKJmxAvJfkDLHvEE68e6ySiPkYIjs7vZTx3zOCeiG0BGMQ9CgU8HrZ7KLaCG6LLCt6k0UGG52jR3R4acapSSe+dQ8q4atFY2sTu0A7qxyoMlE/rTVjfu45CKweCGZbxHaugKb5E+DujGA3XIp7rPfHi1TMZIj7kkHt1zp8u9BtBxPTEM7kW9z4f/ofRkBPwTTwdh/jyO8hmWka3kaF5J1EZnIwgtLoplKkdeEzhujXBkZCH1OFEMUbZV4cDJuhDcu/zoCLTpKmwAWA5BpPaty2FnOC9vRmN6O94udfr13SiaWViqknE4v/9XkJ0iIHPIWjnAg7tMDBPQG4jmw==;YAyAJeMC8DjyiIVWoGe3BA=="

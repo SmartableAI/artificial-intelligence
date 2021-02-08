@@ -8,8 +8,8 @@ webUrl: "https://scienceblog.com/520932/researchers-test-detection-methods-for-a
 ampWebUrl: "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/amp/"
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://scienceblog.com/wp-content/uploads/2021/02/news-trends_50.jpg"
@@ -25,6 +26,6 @@ images:
     height: 279
     isCached: true
 
-secured: "X1p8gKnxMmeG50YSxjpBjdDGohffH5do7BBZt4FALIffLTmgpS6nLyTxmW9VFqq0bBQrXvPfjJ+F2rhX0eZaNWY13jUiZ0SS0g1R9/dBSdcVUB813Vw9f1LMjhLZKkJGxaxDJDg2YnIw8K58TmbGChUZ7HFvMiKKgf3eTJatu2CVbbLxj1JE9VRsQ12lPnO98pJnODbOCj7drj1OGpQJuIxfhbXCc3wAA2yv6ZSwYqhVpSz0cb+c2BCgpJ0tI1D+OgLJYmjUQ3AGAhNoZhutduRRleM0VwOzBPNQyFvqDBh9J//CjyHnlyDteWyECCyIeEROXKGDmSssC6JOxGrMBkOquRbe+6wFQq/lYjkb2yk=;7isDkeQgaeygkwI9Rc6cWA=="
+secured: "ZSiMXWqCzivg2d5acDoTf2pGj12HnHI6Z/UMwAz508uE3kNS8kVKta6Gn2dZ33bJ4gfFHHCQr3iUXgW02YBO1MSHcRncvtdmrELwMvDaVgTXu5eUNE5VrDmI2m1OV56lS8Hhj7OmAlY12+k/s5SMzV0jZpCf0lWwys8dxJnA+Y2BCWaiGNY/81SVoVbKan00kI/kuJE7KbcOE5hjuxY2rkOpQA1wgLv53GPpMCBb2dWq0Wyl+8h0oxWDswpyC8hp+2jmNu4M34kdz3Q68V/zQvdh/RuX88KKdWnVr6H1+vcqzLL4aIlvifrNyi646Si/tz4y/zWbkZC+8LQEGGFBQUZOjCNNuyswSDXfQ2HZZxQjWQ9Kvm9ISBpetAamDi5myFLoWfUbDZzFnlWdUshd+pm2V4HTgucuMr0wFuHcvmGc6TD4TpTuU73gfwOk5GDgmJXEA2krxf1Mghyw3/1kuVnfpSClibZC6gNjxBXJUfH4q0QPGkJip6Yod1f3LOYrHooKK+LjwaJXrrTDL6fc6A==;kt6MgG7jqVQTyGwBHTZLRg=="
 ---
 

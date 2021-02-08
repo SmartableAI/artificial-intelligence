@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI finds more than 1,200 gravitational lensing candidates"
-    excerpt: "A research team with participation by Berkeley Lab physicists has used artificial intelligence to identify more than 1,200 possible gravitational lenses—objects that can be powerful markers for the distribution of dark matter."
-    publishedDateTime: 2021-02-03T14:47:00Z
-    webUrl: "https://hubblesite.org/contents/articles/gravitational-lensing"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 137
-    images:
-      - url: "http://hubblesite.org/files/live/sites/hubble/files/home/resource-gallery/articles/_images/hs-article-gLens-2400x1200.jpg"
-        width: 2400
-        height: 1200
-        isCached: true
   - title: "AI detects 1,210 new potential gravitational lenses in the search for dark matter"
     excerpt: "Scientists used deep residual neural networks to search for the lenses in surveys of the sky. Their study could help unravel the mysteries of dark matter."
     publishedDateTime: 2021-02-03T21:24:00Z

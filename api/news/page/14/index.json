@@ -2,6 +2,298 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-27-state-of-the-art-applied-artificial-intelligence-defined.md",
+      "title": "State-Of-The-Art Applied Artificial Intelligence Defined",
+      "excerpt": "If the AI industry wants to shake off buyers’ perception of being sold snake oil, it should stop selling it. For users, it’s important to be aware of what makes a solution truly state-of-the-art, and which are just sprinkling AI on as an afterthought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60104fb1a4f5ba2187cb3cf4%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/",
+      "publishedDateTime": "2021-01-27T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-sales-startup-insentai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots.md",
+      "title": "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots",
+      "excerpt": "B2B enterprise sales platform Insent.ai has raised $2 million to expand its data visibility and automated chatbot integrations.Read MoreRead more",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sales-startup-insent-ai-raises-$2-million-to-expand-its-data-strategy-with-automated-chatbots-9735019",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sales-startup-insent-ai-raises-$2-million-to-expand-its-data-strategy-with-automated-chatbots-9735019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sales-startup-insent-ai-raises-$2-million-to-expand-its-data-strategy-with-automated-chatbots-9735019",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sales-startup-insent-ai-raises-$2-million-to-expand-its-data-strategy-with-automated-chatbots-9735019",
+      "publishedDateTime": "2021-01-27T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-synthetic-biology-partners-with-ai-to-delete-food-allergies.md",
+      "title": "Synthetic Biology Partners With AI To Delete Food Allergies",
+      "excerpt": "Binur and fellow co-founder Yanay Ofran began Ukko in 2016 in an attempt to shift the paradigm on food allergies. Their mission seems to have struck a chord. The company recently announced a $40M Series B funding round to advance its efforts in ending food allergies for good.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/",
+      "originalUrl": "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010b4bd276bd88056ff9673%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/amp/",
+      "publishedDateTime": "2021-01-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-the-race-to-outsmart-the-competition-adobe-unveils-new-ai-tools-for-retailers.md",
+      "title": "The Race To Outsmart The Competition: Adobe Unveils New AI Tools For Retailers",
+      "excerpt": "Tech companies are vying to offer retailers ways to create smarter, seamless, and personalized online shopping experiences. Adobe unveils its new tools that use AI and data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/",
+      "originalUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60106b5264291785f81a07e8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D404%26cropY2%3D3563",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/amp/",
+      "publishedDateTime": "2021-01-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-the-role-artificial-intelligence-is-playing-in-the-healthcare-sector.md",
+      "title": "The Role Artificial Intelligence is Playing In the Healthcare Sector",
+      "excerpt": "With modern technology making business operations convenient, fraudsters are also banking on advanced technology for their illicit activities. Cybercriminals are now targeting the healthcare sector for their illegal gains.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
+      "originalUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/01/Healthcare-Sector.jpg",
+          "width": 1600,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/",
+      "publishedDateTime": "2021-01-27T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias.md",
+      "title": "It’s time to use all of Twitter’s archives to teach AI about about bias",
+      "excerpt": "Microsoft released a chatbot called Tay that fed off people’s replies to it. Within hours, the bot turned racist and the company had to pull it down. This incident remains one of the classic lessons that teach us why it’s a bad idea to train an AI using social media.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/",
+      "originalUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Screenshot-2020-08-13-at-11.17.10-AM-796x386.png",
+          "width": 796,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/amp/",
+      "publishedDateTime": "2021-01-27T00:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026",
       "excerpt": "Selbyville Delaware Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,",
@@ -906,290 +1198,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection.md",
-      "title": "What real AI developers and Black Mirror both get wrong about digital resurrection",
-      "excerpt": "One day we’re all going to die. Science and technology can put it off for awhile, but the march of time stops for no human. Sadly, most of us will be forgotten. It’s a bleak prognosis but that’s how things have always been.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/26/what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/26/what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/graveyard_brb-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/26/what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/26/what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection/amp/",
-      "publishedDateTime": "2021-01-26T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-more-than-a-name-ibm-support-for-watson-college-remains-strong.md",
-      "title": "More than a name: IBM support for Watson College remains strong",
-      "excerpt": "If you want to see the connections between IBM Corp. and Watson College, you need to look no further than the name of the school itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.binghamton.edu/news/story/2858/more-than-a-name-ibm-support-for-watson-college-remains-strong/",
-      "originalUrl": "https://www.binghamton.edu/news/story/2858/more-than-a-name-ibm-support-for-watson-college-remains-strong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.binghamton.edu/news/images/uploads/features/_normal/IBM_car.jpg",
-          "width": 770,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Binghamton University",
-        "domain": "binghamton.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis.md",
-      "title": "Japanese giant Nikko Global builds on Fintica AI success for market analysis",
-      "excerpt": "Fintica AI, Ltd. announced today the successful execution of a project for leading international Japan-based asset management company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/il/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html",
-      "originalUrl": "https://www.prnewswire.com/il/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-how-to-deliver-natural-conversational-experiences-using-amazon-lex-streaming-apis.md",
-      "title": "How to deliver natural conversational experiences using Amazon Lex Streaming APIs",
-      "excerpt": "Natural conversations often include pauses and interruptions. During customer service calls, a caller may ask to pause the conversation or hold the line while they look up the necessary information before continuing to answer a question. For example, callers often need time to retrieve credit card details",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/delivering-natural-conversational-experiences-using-amazon-lex-streaming-apis/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/delivering-natural-conversational-experiences-using-amazon-lex-streaming-apis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/26/Lex-Streaming-API-Image-01.26.21.jpg",
-          "width": 680,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T11:19:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-german-robot-being-designed-to-prune-fruit-trees.md",
-      "title": "German robot being designed to prune fruit trees",
-      "excerpt": "According to Germany's University of Hohenheim, about 80 percent of the fruit trees in that country aren't regularly pruned – despite the fact that doing so makes them structurally stronger and more resistant to disease.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/",
-      "originalUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/aa51c6a/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F41%2F04%2Fa3ab894841ba8a1e05a227aaa875%2Froboter2-jung.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/phoenix-robot-prune-fruit-trees/?amp=true",
-      "publishedDateTime": "2021-01-26T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.md",
-      "title": "Machine learning identifies patterns of maternal autoantibodies associated with autism",
-      "excerpt": "Using machine learning, researchers at the UC Davis MIND Institute have identified several patterns of maternal autoantibodies highly associated with the diagnosis and severity of autism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Autism-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "publishedDateTime": "2021-01-26T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

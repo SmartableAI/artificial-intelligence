@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Community Health Network prescribes AI to combat COVID-19"
-    excerpt: "Community Health Network is employing an AI platform from Jvion to assign COVID-19 risk scores and drive an education outreach initiative."
-    publishedDateTime: 2021-02-03T14:33:00Z
-    webUrl: "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/"
-    ampWebUrl: "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Community Health Network prescribes AI to combat COVID-19 – Jaweb"
-    excerpt: "AI is about to play a much larger role in identifying individuals who are at risk for contracting COVID-19 in Indiana. Community Health Network (CHN), an accountable care organization (ACO), revealed today that it is beginning to employ an AI platform from Jvion to analyze members’ electronic health care records that are stored in a"
-    publishedDateTime: 2021-02-03T15:00:00Z
-    webUrl: "https://elmoudjaweb.com/community-health-network-prescribes-ai-to-combat-covid-19-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/community-health-network-prescribes-ai-to-combat-covid-19-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/community-health-network-prescribes-ai-to-combat-covid-19-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/K-Health-raises-132-million-to-launch-AI-powered-telemedical-pediatric.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Computer vision in the fight against the COVID-19 pandemic"
     excerpt: "Computer vision technology helped Taiwan nip COVID-19 dissemination in the bud. The technology proved efficient for virus spread prevention."
     publishedDateTime: 2021-02-05T09:01:00Z
@@ -71,20 +39,6 @@ related:
       - url: "https://jaxenter.com/wp-content/uploads/2021/01/shutterstock_1713989494-scaled.jpg"
         width: 2560
         height: 1706
-        isCached: true
-  - title: "Global Computer Vision Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
-    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, presents an encyclopedic evaluation of the global market."
-    publishedDateTime: 2021-02-04T12:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-research-study-with-trends-and-opportunities-to-2025---impact-of-covid-19-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "New Artificial Intelligence Tool Can Thwart COVID-19 Mutations"
     excerpt: "USC researchers have developed a new method to counter emergent mutations of the coronavirus and hasten vaccine development to stop the pathogen responsible for killing thousands of people and ruining the economy."
@@ -125,20 +79,6 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 37
-  - title: "Jvion Partners with Community Health Network to Mitigate Impact of Deferred Care"
-    excerpt: "Jvion, a leader in clinical artificial intelligence, today announced that Community Health Network, an integrated health system with over 200 sites of care and affiliates throughout Central Indiana, will leverage Jvion's prescriptive clinical AI CORE to target outreach to Accountable Care Organization members who are likely to suffer negative"
-    publishedDateTime: 2021-02-03T16:18:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/jvion-partners-with-community-health-network-to-mitigate-impact-of-deferred-care"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 19
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vQlVnYiGvHb3WKNSaV3NP5WJzN3smhqMsOZ5uZlbUE9xqcvN/KG2XpSeT84gGL78pWn2u3t2nrh4Eota5FQ9Qydde8sLuh9wj1y8ME72If3Ub3y048bXXDNZBQ6tZMNDFaI5m/srhPNKiGap1AYCC/Nsj0F4RuEUYGppqWaUezJmyaq/YkPmegyqaFxhZKQm19zRJ6CY0aBeVDMloutSdEuzPfQXKOjrclnJ64Ych+4sncGZTGyDMSSB9oyGrqxy9ql+Sz0Stbzy1Tjs7eQ8Pfc1OEhVW8ZsyS3gLY4DpZ+YHUWLdJ4vk0ccB5Vf6N+HS4LLJA8n47EmW9JBiM8Zod2nlWXQeRwdE5LgI5U2lsM=;dQBhnsAeOiQyQOPWy7huvg=="
 ---

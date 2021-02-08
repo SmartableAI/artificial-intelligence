@@ -78,20 +78,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Insights By Growth, Research Methodology, Emerging Trends and Forecast 2027"
-    excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
-    publishedDateTime: 2021-02-03T14:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Organs Market Trends Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
     excerpt: "Request a sample Report of Artificial Organs Market Analysis Report at:  Global artificial organs market is acclaimed to be one of the most profitable verticals within the healthcare and medical devices space and is projected to grow substantially by 2026."
     publishedDateTime: 2021-02-05T07:36:00Z
@@ -106,20 +92,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2020-2026"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
-    publishedDateTime: 2021-02-03T14:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2020-2026-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
     excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
     publishedDateTime: 2021-02-05T10:37:00Z
@@ -129,20 +101,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge AI Hardware Market Global Forecast to 2024 by Devices, Processor, Power Consumption, Process, End-User Industry, Top Key Players, and Regions"
-    excerpt: "The edge AI hardware market is expected to register a shipment of 610 million units in 2019 and is likely to reach 1559.3 million units by 2024, at a CAGR of 20.64% during the forecast period. Major drivers for the market's growth are growing demand for low latency and real-time processing on edge devices and emergence of AI coprocessors for edge computing."
-    publishedDateTime: 2021-02-03T14:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-global-forecast-to-2024-by-devices-processor-power-consumption-process-end-user-industry-top-key-players-and-regions-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

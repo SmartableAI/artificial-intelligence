@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global Military Robots Market to 2026: Intelligence, Surveillance, and Reconnaissance (ISR) Segment is Expected to Lead the Market"
-excerpt: "The \"Global Military Robots Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Military Robots market is expected to reach $29.87 billion by 2026 growing at a CAGR of 12."
-publishedDateTime: 2021-01-26T17:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
+excerpt: "The \"Global Military Robots Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Military Robots"
+publishedDateTime: 2021-01-26T17:15:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-301215031.html"
+webUrl: "https://www.prnewswire.com/news-releases/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-301215031.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "peVJ13jJUUoovYp1/zAE3NdvsQCxbrLMBxEMNf43otPhlvvKwHcwyG0vblMtMqyux/NBm5DPZSqc5uX4VwdtpeN1mcuKYU2DA20JRiInSEPqX2Ye1SNZNhOpArJDFs9w2b/n0wiwPi7rewfGf8ziz2D/du2SWqSLLhFwSskBaa5fq4I7OeBvWgDELkuEssprbklFhSAEXFsSYxh/lRPd2ndILJAoRj2ebz6LXxpFUrOF06To8q/IzHbNFl5XlqUUEYvldq0ZWcbw8MRtSqJxxtpM7zlRWFtGeXQc5B4oAq7gSmCAvNK/eU28Ttw7+5+BEaJXiHDfaS9Oa2a/Fb7lJ8kLlgzqU3X7aO+K7ybRc08=;GiB0hg9JRMFqhaGIrIfrLA=="
+images:
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
+
+secured: "+xAxSiqzm5dNwH057WY8bm7/GTHCxgrO3Hu3ExkyUTeNWJAl35+Z7/JQQiQV5QjmzTLQxS+O8fQjYFfucn6ns5dbha0eMK3BhExHVjm7qpwQaY7+hke6h+Y2iZx+aO6ArwlY5id5mGFzBGYpPnHu+XthjbyNt/b6OgGpQhr2yPVe2ggyDGkC8TfHfn2Ilx1A2QVAMPooU+n/5TExlZkq3HdDyjrMsBXZwVoCovdqJo8sDZj39jfMKBvdwsklqrH/9cHnPG3GD74kOqsrhtkhExtp2ZNsr7lfJFZV6oN3aZWA9jLJwsvb0dUcZWI1tTUArYMILkleXTn/5EyTlyNdVoujP8+ZWq6s7WsbGKnAEZo=;6a5GJCQr8ncWK6nmUpRtgQ=="
 ---
 

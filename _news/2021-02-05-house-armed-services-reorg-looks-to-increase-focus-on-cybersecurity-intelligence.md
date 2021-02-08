@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning meets cybersecurity"
-    excerpt: "The healthy and transformative relationship between Machine Learning (ML) and cybersecurity continues to unfold in front of our eyes. As our world becomes increasingly digital, the demand for ML and cybersecurity has peaked."
-    publishedDateTime: 2021-02-03T15:00:00Z
-    webUrl: "https://www.cuinsight.com/machine-learning-meets-cybersecurity.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 39
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2020/10/bigstock-Web-Browser-Closeup-On-Lcd-Scr-292271380.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Data Sharing Critical to AI’s Use in Cybersecurity"
     excerpt: "Strategies for enabling the effective use of AI technologies in cyber-defense were highlighted by a panel of experts during the RSAC 365 webinar ‘AI Meets Cybersecurity: Crossing the Streams and How to Manage the Dynamic Results."
     publishedDateTime: 2021-02-05T11:05:00Z

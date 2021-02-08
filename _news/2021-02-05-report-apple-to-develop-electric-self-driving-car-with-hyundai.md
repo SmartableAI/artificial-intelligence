@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
-    excerpt: "Shares of Hyundai and Kia plunged on Monday in Seoul after the automakers said they were not in talks with Apple to develop self-driving cars after all."
-    publishedDateTime: 2021-02-07T22:09:00Z
-    webUrl: "https://www.cnn.com/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 88
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207220435-hyundai-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Apple, Hyundai-Kia near deal to build self-driving electric Apple Car"
     excerpt: "CNBC's Phil LeBeau explains his scoop about the deal talks between Hyundai-Kia and Apple to manufacture an Apple Car as soon as 2024."
     publishedDateTime: 2021-02-05T04:03:00Z
@@ -63,6 +47,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hyundai says it is not talking with Apple about self-driving cars"
+    excerpt: "Shares in South Korean carmaker and affiliate Kia fall as investors’ hopes of autonomous EV projects are dashedRead more on 'Financial Times"
+    publishedDateTime: 2021-02-08T04:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "Hyundai, Kia deny reports they’re working with Apple on self-driving EV"
     excerpt: "Hyundai and Kia have been discussing with multiple companies on self-driving electric car development, but no decision has been made, they said"
     publishedDateTime: 2021-02-07T00:00:00Z
@@ -79,22 +74,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Hyundai says it is not talking with Apple about self-driving cars"
-    excerpt: "Shares in South Korean carmaker and affiliate Kia fall as investors’ hopes of autonomous EV projects are dashed"
-    publishedDateTime: 2021-02-08T03:02:00Z
-    webUrl: "https://www.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-    ampWebUrl: "https://amp.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F408b27d3-3f40-4616-bee4-25cd987c1ed9.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Hyundai’s Kia latest focus of Apple self-driving car rumors"
     excerpt: "South Korea's Kia Corp is the latest car manufacturer to have come under the spotlight following previous reports that Apple is targeting 2024 to produce a self-driving car that could include its own battery technology."
     publishedDateTime: 2021-02-03T16:11:00Z
@@ -108,6 +87,20 @@ related:
       - url: "https://img.lightreading.com/2021/02/767107/5236.jpg"
         width: 500
         height: 500
+        isCached: true
+  - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
+    excerpt: "Shares of Hyundai and Kia plunged on Monday in Seoul after the automakers said they were not in talks with Apple to develop self-driving cars after all. “We are not having talks with Apple about developing self-driving cars,"
+    publishedDateTime: 2021-02-08T03:52:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/02/07/hyundai-and-kia-say-they-are-not-talking-to-apple-about-self-driving-cars/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 38
+    images:
+      - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Hyundai, Kia say not in talks with Apple on self-driving car development"
     excerpt: "South Korea's Hyundai Motor and Kia said on Monday (Feb 8) they are not in talks with Apple on developing autonomous vehicles, sending their shares tumbling.. Read more at straitstimes.com."
@@ -123,38 +116,31 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
-    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
-    publishedDateTime: 2021-02-06T13:30:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4393554001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4393554001"
+  - title: "Apple’s self-driving electric car project could call Georgia home"
+    excerpt: "If Georgia is picked to build Silicon Valley giant Apple’s self-driving electric vehicles, it could mean lots of new jobs, a big boost to tax revenue and a burnishing of the state’s reputation as a tech hub."
+    publishedDateTime: 2021-02-05T01:42:00Z
+    webUrl: "https://www.ajc.com/news/apples-self-driving-electric-car-project-could-call-georgia-home/MPQA3U2N7BH2HG4NLTFG6OT5LE/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 34
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 24
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://www.ajc.com/resizer/J3ITkLApWMSLxu9bJP_HZpIJN-E=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/TPRVKCNPGC7O2WSAZKTK6PUSXQ.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
-    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
-    publishedDateTime: 2021-02-06T16:01:00Z
-    webUrl: "https://www.tennessean.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/4393554001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4393554001"
+  - title: "Will it be self-driving car, “electric car?"
+    excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"
+    publishedDateTime: 2021-02-06T17:14:00Z
+    webUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 34
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Windows
+      domain: compsmag.com
+    quality: 24
   - title: "Apple and Hyundai-Kia nearing deal to build self-driving car in US - report"
     excerpt: "Apple is close to finalising an agreement with Hyundai-Kia to build an Apple-branded autonomous electric vehicle in West Point, Georgia, according to unnamed sources cited by CNBC. The deal reportedly depends on the automaker allowing Apple to control the software and hardware that will go into the vehicle."
     publishedDateTime: 2021-02-04T08:43:00Z

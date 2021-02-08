@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bingo and AI The changing relation between entertainment and artificial intelligence"
-    excerpt: "The relation between entertainment and artificial intelligence is undoubtedly influencing the quality of humans lives. It is personalizing our entertainment activities, including gaming."
-    publishedDateTime: 2021-02-03T14:44:00Z
-    webUrl: "https://www.analyticsinsight.net/bingo-and-ai-the-changing-relation-between-entertainment-and-artificial-intelligence/"
+  - title: "Talking Medicines Launches AI-Powered Patient Intelligence Platform to Revolutionize Marketing for World’s Leading Drug Brands"
+    excerpt: "Talking Medicines has today (Thursday 4 February) launched an AI-powered social intelligence service, PatientMetRx, giving the world’s leading drug brands insights on patient experience on a scale and depth never previously possible."
+    publishedDateTime: 2021-02-04T11:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-media-1e1bfb36d8944678a13496401aafdf00"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 45
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Bingo-and-AI-The-changing-relation-between-entertainment-and-artificial-intelligence-min.jpg"
-        width: 1600
-        height: 900
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ZamlzO3FEr4wFAZSsOXeP8pnFtPsKtWrV3IiDIlI0YJXXiZoTC5fJVj/ejvS+T++GouWR62ylF4oeU3EimT07YMXrlWJMSm3hb/98ZovhTRzRz89vgp9CVLxmNCX4/4nugCdY6dr+zQ8NJgDW5vBmdg6u0JuLgqCHv8u3GaBDCYEJvApbbM+9BerTkUHXGPbOSUCf3ojqMex9LKRJRpt6bsHrQyTqvHIaHv/I8PQbrihRmzrSP2yNge2xQAW2AaelTyOR/WVgFOj9AYs7au64Xg4xL8bewrloi4Pa5JkdBHgLah1pPFU3g0/FYhSTaEv5+nApwx0d+gLza7WZbIPKLUag6s7PfYJkLqyup4lUXw=;ClepEkzLlQLNpOxWKZyNUA=="

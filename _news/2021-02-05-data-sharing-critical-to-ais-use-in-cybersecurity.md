@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning meets cybersecurity"
-    excerpt: "The healthy and transformative relationship between Machine Learning (ML) and cybersecurity continues to unfold in front of our eyes. As our world becomes increasingly digital, the demand for ML and cybersecurity has peaked."
-    publishedDateTime: 2021-02-03T15:00:00Z
-    webUrl: "https://www.cuinsight.com/machine-learning-meets-cybersecurity.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 39
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2020/10/bigstock-Web-Browser-Closeup-On-Lcd-Scr-292271380.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "House Armed Services Reorg Looks to Increase Focus on Cybersecurity, Intelligence"
     excerpt: "The House Armed Services Committee separated oversight of intelligence functions from the purview of a subcommittee that has been leading on cybersecurity issues over the years, saying it will increase much-needed attention to both areas."
     publishedDateTime: 2021-02-05T00:22:00Z

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Porsche created an AI to help you configure your perfect car"
-    excerpt: "The system, called the Recommendation Engine, uses machine learning to recommend options and packages based on your individual preferences."
-    publishedDateTime: 2021-02-03T14:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/porsche-ai-car-configurator-recommendation-engine/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/porsche-ai-car-configurator-recommendation-engine/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/porsche-ai-car-configurator-recommendation-engine/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/DTM2WC-09P4lRMtdCxVzwxoPwMk=/2021/02/02/aba25320-76a3-4a1a-8510-faa2836694c0/porsche-configurator-smartphone-2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Why AI Can’t Solve Everything"
     excerpt: "We are now seeing governments pledge support to national AI initiatives and compete in a technological and rhetorical arms race to dominate the burgeoning machine learning sector."
     publishedDateTime: 2021-02-05T06:20:00Z

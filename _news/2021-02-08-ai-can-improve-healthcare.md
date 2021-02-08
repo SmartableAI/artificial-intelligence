@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Maybe artificial intelligence will drastically change health care, but who will benefit?"
+    excerpt: "Our federal and provincial governments have proven they can unite around issues of national importance in health care and they must do so again if we are going to have any chance of AI playing the role many believe it can in helping us move toward personalized health care."
+    publishedDateTime: 2021-02-08T05:01:00Z
+    webUrl: "https://www.hilltimes.com/2021/02/08/maybe-artificial-intelligence-will-drastically-change-healthcare-but-who-will-benefit/281783"
+    type: article
+    provider:
+      name: The Hill Times
+      domain: hilltimes.com
+    quality: 30
+    images:
+      - url: "https://www.hilltimes.com/wp-content/uploads/2021/02/pexels-photo-339620-750x375.jpeg"
+        width: 750
+        height: 375
+        isCached: true
 
 secured: "CeYQEDGwoinRAk4NFMWWDw4IwhMNfoCFgGAkD340LfxCCbdsI73W2ztYSb3zvClRc1ACT7QjFt4O7YTwMgVNUuu1/A0qXJreSH+3se125jag2mR+7Jzba+ozJFss8xoK1xqUPp0QPHGyjzTsVQU9BfMvH9fsGws09fwWOhsdHsv7j7X9/QiBCiMDEZcbrl8PcUCNL9sH9jJ+Uz3InRpdG0W9fX7J+nd1SSdtB+/IHV6F3UMhap9wB3gOM5ePz57TeS8o+sLpWkJI/O8vwtSI5tyBDHA/HYdXBcCs6Fc92NpgHKUreO+0fxkhnn5t4Tzikp53kZ7cU0NIzS2vk9ii1c4NrHmLxGUpOB/iMOwK1UA=;Ist55iEovqtu0lxfakD9+g=="
 ---

@@ -2,26 +2,26 @@
 category: news
 title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
 excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
-publishedDateTime: 2021-02-04T20:26:00Z
-originalUrl: "https://bismarcktribune.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_88f097f2-6421-52d1-8aa7-d55cfa96e0da.html"
-webUrl: "https://bismarcktribune.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_88f097f2-6421-52d1-8aa7-d55cfa96e0da.html"
+publishedDateTime: 2021-02-04T20:24:00Z
+originalUrl: "https://tucson.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_79ecfde9-7203-53e8-a0ff-2f08976bf244.html"
+webUrl: "https://tucson.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_79ecfde9-7203-53e8-a0ff-2f08976bf244.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Bismarck Tribune
-  domain: bismarcktribune.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/2/d4/2d408a84-28a1-5e3e-a378-7ab31d02b8d1/601c568ff0f28.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+    width: 620
+    height: 290
     isCached: true
 
 related:
@@ -120,6 +120,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tRdODtpkwuY0EnrARPkfNmVkJ+NZJSWJCZWlvuVKHUl2GgGlY9ipSrz9wDRXvv3XfqdZdeGjqKVRWDgeVGIrKNoyzzKgUOLeB6sEWhcxSYtrwH/VS8+aILZOEp6CqRKwzir5wki9lIf51TcUpp0EbAehjfWxAk7eINuywDJUcs7jDcMavBFyh/M6laswXMqG9A6xXj5dMbxWRA+7JbvwI6VAVsvotSSW54E22U4hSQPbnoqxN9pahqEZpIPPLCBOpInU6lcpIQLhl87aFMYEFkspUQ4b66CwBE4SkxzgamyAdMV8xxIu8Lc5R6BYxP+NmJKgWVwEv822XNAhNveMEcC0NRDSQYklFkELwI9q8sg=;Odw3cf04ZOrN6r39dURSYw=="
+secured: "lWh+IuszcDRuZLTOAOgsIVqDqlLRxkWrtD1FdIJEK2zisOue3vk23P2JI3cCZ7VKmKffE5Pm7IxijNjIsfg/1GLsE7PxkTIV+OcPvA9oQXgke9TFBlGlxzI3/zsLIht0WLI+fkQSBSXqvk1H9vFbk+/m6RH9E9U+L+nBqSG0uTfonfy1OHHE8uUES9fWlJz+1XaFZkwp3jgss3C25HQiBcNIeDuVGqneg6PRvr334akAUTnYa2HXgqppSfas1FfMrM4MYNhIQ+YiYU5OyksRAaznvDeBnhLs4tgnBywa3aybpjbn49mtQ798DifccUh8N0vl3imB3uUcxo6SkgMX9qTZ2/gVO8hfmdmQlZgLvSk=;VhFxQm5cqPcgGQM0NwyQHw=="
 ---
 

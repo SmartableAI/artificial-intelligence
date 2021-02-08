@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephanrabimov/2021/02/04/stylescan-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephanrabimov/2021/02/04/stylescan-is-disrupting-fashion-industry-with-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 891
     isCached: true
-
-related:
-  - title: "How the Artificial Intelligence In Fashion Retail Market is Growing in Fashion Industry by 2027"
-    excerpt: "The Artificial Intelligence In Fashion Retail Market study added by Reports web exhibits a comprehensive analysis of the growth trends present in the global business scenario The study further presents conclusive data referring to the commercialization aspects industry size and"
-    publishedDateTime: 2021-02-03T13:05:00Z
-    webUrl: "https://www.openpr.com/news/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
-    ampWebUrl: "https://www.openpr.com/amp/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
 
 secured: "M8XagaGC67A6Pz58qulLFOR8Fh6TrsU/fatqjl/LJzlqjpxuO7Ox8GtmyQPvMGU7RWh8p26IUplaIws1/b5PY/z5yahOzfbM/XLscc+FfwjZ/y5hUwGh8aAhYL8Uaxju3t6MYErArYQh/FKtQci/vY9OuHCkmtUYKzjBErAKg4KksIXRqj0RyeKAyudCLdCRhtyzqcaNOYo22j7PZngfQeiE+qMs/lGvCqhEDVmqgP1p/hQXRpamv9pYwzu7HhJkNi6yyPi2g7WknRH8gKdcaxg0blEOPe/0MTqk23HYgxddgM8vn9gaMnSmQgDVTPRxgPQeMxqR9pCHnUu1OrSG6Fop8KnLcjRIawjA+As3Iq0e+XGnuXvTlpRvjfSqj+oT2/PWnrZz5BHT+3vRgpzT38pC3KetyqshOSPg9Y1yrNXXvMhuOkPHNTJ3sjUN0qDkJy0quoMCteuLk85DTht7uYCvn18XSSgisoROiK6Wq5znQD9r2v6nm23TnbA7FU9VRsTR+V/VkPy7L+IQkbXSgw==;W8tLmJjbtsjn7aPU+EGHOA=="
 ---
