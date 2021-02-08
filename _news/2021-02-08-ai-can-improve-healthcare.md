@@ -1,36 +1,46 @@
 ---
 category: news
-title: "How Data And AI Will Continue To Change Healthcare In 2021"
-excerpt: "The growth of data, artificial intelligence (AI) and machine learning (ML) has had a particularly strong impact on healthcare."
-publishedDateTime: 2021-02-04T12:00:00Z
-originalUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/"
-webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/"
-ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/"
+title: "AI Can Improve Healthcare"
+excerpt: "One area where AI has found some traction is in the healthcare industry, where is seems to be helping improve care."
+publishedDateTime: 2021-02-08T00:23:00Z
+originalUrl: "https://www.sqlservercentral.com/editorials/ai-can-improve-healthcare"
+webUrl: "https://www.sqlservercentral.com/editorials/ai-can-improve-healthcare"
 type: article
-quality: 104
-heat: 144
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SQL Server Central
+  domain: sqlservercentral.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
+    width: 320
+    height: 320
     isCached: true
 
 related:
+  - title: "How Data And AI Will Continue To Change Healthcare In 2021"
+    excerpt: "The growth of data, artificial intelligence (AI) and machine learning (ML) has had a particularly strong impact on healthcare."
+    publishedDateTime: 2021-02-04T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "What 2020 Taught Marketers About Data And AI"
     excerpt: "There is a strong need for marketers to understand their data and models to make predictions about the future."
     publishedDateTime: 2021-02-03T12:20:00Z
@@ -77,21 +87,7 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "AI Can Improve Healthcare"
-    excerpt: "One area where AI has found some traction is in the healthcare industry, where is seems to be helping improve care."
-    publishedDateTime: 2021-02-08T00:23:00Z
-    webUrl: "https://www.sqlservercentral.com/editorials/ai-can-improve-healthcare"
-    type: article
-    provider:
-      name: SQL Server Central
-      domain: sqlservercentral.com
-    quality: 54
-    images:
-      - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
-        width: 320
-        height: 320
-        isCached: true
 
-secured: "TdpNRRq7PUxELbSucXgZWyzS37TTGGghKUQxWEJWRpGFuwKkBSjFqSt4W3I1ypbWuLyIqKrduWNsWerOy2JGqWzGaJAvKEQgF9a7lVeuPokjJo5vbGNtEvqAoXV+I1UD/eCtjIZHR2uaMnk3ruPmXkgdw0P++D74d7eZ0uLyWyfNXO25F4W22Q3fIywcvPn1qoaNexKJmxAvJfkDLHvEE68e6ySiPkYIjs7vZTx3zOCeiG0BGMQ9CgU8HrZ7KLaCG6LLCt6k0UGG52jR3R4acapSSe+dQ8q4atFY2sTu0A7qxyoMlE/rTVjfu45CKweCGZbxHaugKb5E+DujGA3XIp7rPfHi1TMZIj7kkHt1zp8u9BtBxPTEM7kW9z4f/ofRkBPwTTwdh/jyO8hmWka3kaF5J1EZnIwgtLoplKkdeEzhujXBkZCH1OFEMUbZV4cDJuhDcu/zoCLTpKmwAWA5BpPaty2FnOC9vRmN6O94udfr13SiaWViqknE4v/9XkJ0iIHPIWjnAg7tMDBPQG4jmw==;YAyAJeMC8DjyiIVWoGe3BA=="
+secured: "CeYQEDGwoinRAk4NFMWWDw4IwhMNfoCFgGAkD340LfxCCbdsI73W2ztYSb3zvClRc1ACT7QjFt4O7YTwMgVNUuu1/A0qXJreSH+3se125jag2mR+7Jzba+ozJFss8xoK1xqUPp0QPHGyjzTsVQU9BfMvH9fsGws09fwWOhsdHsv7j7X9/QiBCiMDEZcbrl8PcUCNL9sH9jJ+Uz3InRpdG0W9fX7J+nd1SSdtB+/IHV6F3UMhap9wB3gOM5ePz57TeS8o+sLpWkJI/O8vwtSI5tyBDHA/HYdXBcCs6Fc92NpgHKUreO+0fxkhnn5t4Tzikp53kZ7cU0NIzS2vk9ii1c4NrHmLxGUpOB/iMOwK1UA=;Ist55iEovqtu0lxfakD9+g=="
 ---
 

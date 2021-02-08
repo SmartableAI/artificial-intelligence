@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipset
 webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03"
 type: article
 quality: 77
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market By Competitive Landscape, Industry Size, Applications, Pricing Analysis and Opportunities Forecast to 2026"
-    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2021-02-03T08:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-competitive-landscape-industry-size-applications-pricing-analysis-and-opportunities-forecast-to-2026-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

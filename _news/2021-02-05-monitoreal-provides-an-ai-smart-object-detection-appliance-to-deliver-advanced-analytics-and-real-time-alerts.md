@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "SAS Viya Delivers Innovation And Analytics For All"
-    excerpt: "Customers benefit from easier cloud migration and management of analytic workloads; SAS continues to strengthen its partnership with Microsoft Azure Mumbai, Maharashtra, India Business Wire India Analytics leader SAS continues to innovate by making it easier to access its powerful,"
-    publishedDateTime: 2021-02-03T08:05:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/sas-viya-delivers-innovation-and-analytics-for-all.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 24
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wf9zahdas70tznpq_1612339428.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
   - title: "Law.com Litigation Trendspotter: Why Trial Lawyers Owe It to Their Clients to Embrace AI and Data Analytics"
     excerpt: "Now, more than ever, litigators may be doing their clients a disservice by not taking advantage of legal technology."
     publishedDateTime: 2021-02-05T03:08:00Z

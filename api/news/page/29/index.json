@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-01-16-facebook-develops-ai-to-predict-likelihood-of-worsening-covid-symptoms.md",
+      "title": "Facebook develops A.I. to predict likelihood of worsening Covid symptoms",
+      "excerpt": "The 10 researchers involved in the study — five from Facebook AI Research and five from the NYU School of Medicine — said they have developed three machine-learning \"models\" in total ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/15/facebook-develops-ai-to-predict-likelihood-of-worsening-covid-symptoms.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/15/facebook-develops-ai-to-predict-likelihood-of-worsening-covid-symptoms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106822467-16103929872021-01-11t191852z_1187074364_rc2v5l9jg0ho_rtrmadp_0_health-coronavirus-usa-trends.jpeg?v=1610394636",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/15/facebook-develops-ai-to-predict-likelihood-of-worsening-covid-symptoms.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/15/facebook-develops-ai-to-predict-likelihood-of-worsening-covid-symptoms.html",
+      "publishedDateTime": "2021-01-15T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care.md",
       "title": "Facebook uses AI to predict if COVID-19 patients will need more care",
       "excerpt": "Using X-ray images, the three AI models Facebook developed could help hospitals decide how to allot its resources as COVID-19 cases rise.",
@@ -1136,49 +1188,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-a-skeleton-key-for-ai-hardware-experimentation.md",
-      "title": "A Skeleton Key for AI Hardware Experimentation",
-      "excerpt": "There’s TensorFlow, Keras, PyTorch, and so on not to mention the increasingly complex interplay between ML models, software frameworks, and hardware,” says Luis Ceze, professor at the University of Washington and co-founder and co-CEO of TVM-driven ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/",
-      "originalUrl": "https://www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/TVM1.png",
-          "width": 941,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/amp/",
-      "publishedDateTime": "2021-01-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

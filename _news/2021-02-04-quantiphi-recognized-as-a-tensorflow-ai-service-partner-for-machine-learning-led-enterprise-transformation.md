@@ -1,48 +1,31 @@
 ---
 category: news
 title: "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation"
-excerpt: "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,"
-publishedDateTime: 2021-02-04T14:45:00Z
-originalUrl: "https://www.lelezard.com/en/news-19635111.html"
-webUrl: "https://www.lelezard.com/en/news-19635111.html"
+excerpt: "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries"
+publishedDateTime: 2021-02-04T14:25:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html"
 type: article
-quality: 72
-heat: 82
+quality: 70
+heat: 70
 published: true
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Finance
+  - TensorFlow
+  - Google AI
   - AI
   - Machine Learning
-  - Google AI
-  - TensorFlow
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-related:
-  - title: "Lilt Included in Gartner’s Market Guide for AI-Enabled Translation Services"
-    excerpt: "Lilt, a leading provider of human-powered, AI-enabled translation services and technology, today announced that it has been identified as a Representative Vendor in the Gartner ” Market Guide for AI-Enabled Translation Services” report."
-    publishedDateTime: 2021-02-03T07:55:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-55d4a7ddc9d20796c31730febd3a85ab"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "/26YZ7tEpa6nx9LiCaISueAY/szBRp8JwMlXvjdup2d+03YpxjTmZE7dJaHpaHDnyP5tKsyE+pB2DpHblRwaFzrOVfi3uddOTf/jHXcHUK/9oa4hI1I73bFIoW7ZYxo/jMlXVv8htM+g2zVuRNaKyQG4Ead1jI+Ez7EOxJmp6fOvZ8jcJgZ6DE+YSXj2JTHjF8WBfNoL5wW/Jr0ihS+boo5dJHWKDMr8cioSCajJo5lWIA6WBKOJi2q6RkDBfebfAapLM1DWHCLrfUf8gKrOEqOA6KIE8TF1uoZWURXkNpjw0rRRJ3MzsU2IQxKcuqY3rdMxIJa5R03U90t5hsESAzlAWYS15HQwpIkQshmo/r8=;vvcTX+6z/ZAZcsg0bBy90A=="
+secured: "aQ6ge2t2wRoR5cctpYF3fCEy9IPxL/qdmTSck38fdzEIfe1VFG4OlyoCmrZS6VTcJZAnNnq0NVQZ611FcGyGUeDeiE63iFOeoFXl21qqMXEIcnWHROH6PXu73StE20ZG+hjFvYLVueqUfEwjByNr4QFBKp2so3vpMVVHzuRbdrawf+1WmCAZJaE735NCiP6jwTzuniR+9rsV9rnOCqkFyEsT3LRR5NGsqTU8wXZoz4Ia1nxy80BYkYUIi2YEe7fUEw0GoGbe0z7QUMdL7wABPb8qf2JrOPdgDGbtODPTJRPDp7/MmDIVf9rWK10riYf7vSkWHLcVONk/oZdcLdNr6x2Oo09HpKkqmu6UAF+tGf8=;rTzZcXKwdjI6X4G9O1OiRA=="
 ---
 

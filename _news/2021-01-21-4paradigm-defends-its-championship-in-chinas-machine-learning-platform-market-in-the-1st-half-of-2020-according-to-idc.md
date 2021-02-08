@@ -1,26 +1,28 @@
 ---
 category: news
-title: "4Paradigm Defends its Championship in China’s Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
-excerpt: "Paradigm stays on a leadership position from 2018 to the first half of 2020. IDC, a premier global provider of market intelligence, has recently published China AI Software and A"
-publishedDateTime: 2021-01-21T05:53:00Z
-originalUrl: "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc"
-webUrl: "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc"
+title: "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
+excerpt: "The IDC report recognizes the advantages of 4Paradigm machine learning platform and AutoML products in technological accumulation, enterprise-level product layout, commercial implementation ..."
+publishedDateTime: 2021-01-21T05:02:00Z
+originalUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020"
+webUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020"
+ampWebUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020?amp"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+    width: 299
+    height: 300
     isCached: true
 
-secured: "SBmuZGK/kVby60QZUKa74GrocpdAjjC4/nhYrv4/YTkKebJ3iUnF3tCIsfm20tSm8YuSq410v2AJ9DqfgBO/gqXf7kUrcW0Duroln1qv1OHTkaFt71KEajZhCpWoX3lWlv9M8j1RLTuDl2MGgulzQMSHwKw9X7FDev5FSeBh0/db+u5YUL9XYB3815GlZemlHnAmPeCkLlOruEZjQpEEziXGrcDxoEvWFy004XTN2WLybTR+T5A6vpd27jzgSXHpjjKffGXRRLOqyVk5OTO4DLU4EfuSlyihmNEYKJOcWzSsnSRSqVRRt+4D6nX9aXX5OsBayeb6tYW2iBwH9Zmttzo3i10UOPReHQOA8NLtkN4=;U+w7h4L1YW7MAds4OUDlGQ=="
+secured: "JOvX0SLMQMLs6lIv8Qe3zvPQadDw0hBWgbSFRbx+A8m6za5y0YMlFJeBxF9HToklM6hKEWM9AY5O37jI5waMrUXmVcdLa4BdKQrhoGM/eMEo+44xqCUbW0zRNUMhMWXTCIsOLEIDKh+ZBCtGW7pbk5QV6EFAPeEBnrxPrRk4sK1q80j47Lc8smG/fLCMto9qRN8/PE8rcaT0YwvRyjQg2sGQVq2J/IP67GpEfyJMB+e+QX4aR9AT4cQvii6BvuF7OVD5Y7aLhUIIJWwJCB6IbV2pqgEON+EbrfsaYTmtpCY5Oua7rRJ7uidM+z9dAR7nud6kHcMSP2vhE6GiDYmFZskZaV9Mc5qYtNqgA5nkti0=;4pKY6kqkjuIrcMm4ozbCiA=="
 ---
 

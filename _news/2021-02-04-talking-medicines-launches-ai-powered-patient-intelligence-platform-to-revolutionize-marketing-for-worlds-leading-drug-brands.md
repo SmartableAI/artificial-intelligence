@@ -40,6 +40,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Carecard Launches Artificial Intelligence-Powered Platform to Tackle the $450 Billion Dollar Prescription Market"
+    excerpt: "Carecard launches to make healthcare affordable for everyone by tackling the $450 billion dollar prescription market. Carecard is powered by advanced AI technology, and the Company has secured relationships with major pharmacies nationwide,"
+    publishedDateTime: 2021-02-03T14:36:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-health-care-costs-medication-4d765d736591a663ef4230894bf2a559"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "zDQG6SyVSDB0Rs8IXLJ8icGbOdB9ZMCZst2AYLlVgNq0t2cjrGcqHBaVrqLj9m3YjDKW5rVB6GnrJ2LheBu076x8zsnOhSNO1oc8l7eCW1NW6i83oJ2nqS20x6wRJgwJmSXLt8PLr/fHsCLREWwTT7GRo3c+cZSAmfPnefcALwrO00BDA3soAxEu+tUMZBlH2rnwXh0BUSyfpWo/WStRCAfgUsiOYUV0QtZ9xXhyXE285lqwGgpMoxx7fQH483OfhTLKnROkAxUSPeCBXSc+4PEyWb0aiS10UmQ7PxbapjU7+icgy7ha9uNXCxH8wWX7mFQMB896pAhFzYsC0gy3Xzh8yT+REV66jNke1ieR6Qw=;P6tAnHncbjpdnAAU7zJR0g=="
 ---

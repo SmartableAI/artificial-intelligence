@@ -2,6 +2,40 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-12-30-the-zacks-analyst-blog-highlights-baidu-tesla-general-motors-ford-and-volkswagen.md",
+      "title": "The Zacks Analyst Blog Highlights: Baidu, Tesla, General Motors, Ford and Volkswagen",
+      "excerpt": "Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Baidu Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12",
+      "originalUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12?amp",
+      "publishedDateTime": "2020-12-29T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match.md",
       "title": "Another Arrest, and Jail Time, Because of a Bad Facial Recognition Match",
       "excerpt": "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition.",
@@ -1181,49 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-how-prepared-are-schools-for-online-pre-board-check-details-here.md",
-      "title": "How prepared are schools for online pre-board, check details here",
-      "excerpt": "Choubey takes pride in the “high cognitive abilities” of his students ... Many among them would be taking their pre-boards via Microsoft Teams with cameras installed to ensure cheating-free ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/articleshow/79989645.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/articleshow/79989645.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79989609/79989609.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/amp_articleshow/79989645.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/amp_articleshow/79989645.cms",
-      "publishedDateTime": "2020-12-28T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

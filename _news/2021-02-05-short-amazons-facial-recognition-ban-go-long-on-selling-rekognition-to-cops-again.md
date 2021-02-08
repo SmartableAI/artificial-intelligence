@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recogn
 webUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again"
 type: article
 quality: 65
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -163,20 +163,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/face-detection-4760281_1280.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
-    excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software & Services award winner,"
-    publishedDateTime: 2021-02-03T07:56:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-voice-recognition-computing-and-information-technology-5cd52a89fd3eb2b038ccf842a9781924"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Privacy investigation finds U.S. tech firm violated Canadian rules with facial-recognition tool"
     excerpt: "Watch Privacy investigation finds U.S. tech firm violated Canadian rules with facial-recognition tool Video Online, on GlobalNews.ca"

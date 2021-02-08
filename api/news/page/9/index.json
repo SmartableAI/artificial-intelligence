@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-30-researchers-propose-ai-that-creates-controllable-videos.md",
+      "title": "Researchers propose AI that creates ‘controllable’ videos",
+      "excerpt": "Learn how fintechs and forward-thinking FIs are accelerating personalized financial products through data-rich APIs. In an effort to create an AI system that can develop some of these same reasoning skills,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/",
+      "originalUrl": "https://venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Untitled-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/amp/",
+      "publishedDateTime": "2021-01-29T12:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-the-youngest-ai-programmer-in-the-world-is-a-7-year-old-guinness-record-holder.md",
       "title": "The youngest AI programmer in the world is a 7-year-old Guinness record holder",
       "excerpt": "Kautilya Katariya, a computer whiz from the UK, became the youngest qualified computer programmer in the world last year at just six-years-old after taking a series of computer lessons including AI courses from IBM.",
@@ -590,6 +641,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
+      "title": "SoftBank's Son expects mass production of driverless cars in two years",
+      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1",
+      "originalUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp",
+      "publishedDateTime": "2021-01-29T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform.md",
       "title": "End-to-End Deep Learning Inference with the NVIDIA Data Center Platform",
       "excerpt": "The AI revolution is surging forward, igniting opportunities for businesses to reimagine how they solve customer challenges. It’s a",
@@ -672,49 +766,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
-      "title": "SoftBank's Son Expects Mass Production of Driverless Cars in Two Years",
-      "excerpt": "SoftBank's Son Expects Mass Production of Driverless Cars in Two Years While ... in public companies he thinks are frontrunners in the artificial intelligence (AI) race. \"I am investing in many ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years?context=amp",
-      "publishedDateTime": "2021-01-29T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1144,49 +1195,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-machine-learning-software-market-to-see-huge-growth-by-2025-google-bigml-fair-isaac.md",
-      "title": "Machine Learning Software Market to see Huge Growth by 2025 | Google, BigML, Fair Isaac",
-      "excerpt": "Stay up to date and exploit latest trends of Machine Learning Software Market with latest edition released by AMA A Latest intelligence report published by AMA Research with title Machine Learning Software Market Outlook to 2025 A detailed study accumulated",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2233321/machine-learning-software-market-to-see-huge-growth-by-2025",
-      "originalUrl": "https://www.openpr.com/news/2233321/machine-learning-software-market-to-see-huge-growth-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/1/U129933167_g.jpg",
-          "width": 480,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2233321/machine-learning-software-market-to-see-huge-growth-by-2025",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2233321/machine-learning-software-market-to-see-huge-growth-by-2025",
-      "publishedDateTime": "2021-01-29T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

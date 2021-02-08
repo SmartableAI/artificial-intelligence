@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
-    excerpt: "However, in time, AI has made its way closer to the user - into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
-    publishedDateTime: 2021-02-03T08:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How AI Will Reshape Healthcare After The Pandemic"
     excerpt: "The Covid-19 crisis has affected healthcare workers and the healthcare system in many profound ways. In an article for The New Yorker, Dr. Siddhartha Mukherjee showed that the healthcare industry has failed to provide adequate support and care to its patients and practitioners,"
     publishedDateTime: 2021-02-03T11:09:00Z
@@ -86,6 +72,20 @@ related:
       - url: "https://collegian.csufresno.edu/wp-content/uploads/2021/02/Depositphotos_271798500_s-20198551.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "AI Can Improve Healthcare"
+    excerpt: "One area where AI has found some traction is in the healthcare industry, where is seems to be helping improve care."
+    publishedDateTime: 2021-02-08T00:23:00Z
+    webUrl: "https://www.sqlservercentral.com/editorials/ai-can-improve-healthcare"
+    type: article
+    provider:
+      name: SQL Server Central
+      domain: sqlservercentral.com
+    quality: 54
+    images:
+      - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
+        width: 320
+        height: 320
         isCached: true
 
 secured: "Ixcd1H1tuI1hs07gq/+8kPNo5DrMA17qS7WbmZ/l9y5SmeE8kXO1ylHXwEsYUjkAm4QQkF6Tsd0oqPP6lE1VIs9sxUjEXfKvabT4xszRx2kPKf5tPpDHuP7I9dBoYz6UEHNWLd9wrn8/858R4NxAR1GNo1Q3P6di2eM3psCWCO9bbhgxYCjymD0K/IsWmXMjMHs/bEB+tjeh7sb7iXqtqutjVAk4GqBL8sB7vy9Kq7qJCq278/0IqN8NvcZVh23qaHUA+4eFFliwq79nj2IeK58VB5D8nlqY57dNue/hTWDYWIGv+SepDYtT4faat5e5NDVgGXMpVPeATPau89XjjO265Z4sQaHovnGHA8v9F6A=;PnbyxBVnOpxzJFkb9V6nlg=="

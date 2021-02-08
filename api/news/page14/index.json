@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-27-its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias.md",
+      "title": "It’s time to use all of Twitter’s archives to teach AI about about bias",
+      "excerpt": "Microsoft released a chatbot called Tay that fed off people’s replies to it. Within hours, the bot turned racist and the company had to pull it down. This incident remains one of the classic lessons that teach us why it’s a bad idea to train an AI using social media.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/",
+      "originalUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Screenshot-2020-08-13-at-11.17.10-AM-796x386.png",
+          "width": 796,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/amp/",
+      "publishedDateTime": "2021-01-27T00:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026",
       "excerpt": "Selbyville Delaware Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,",
@@ -1147,49 +1198,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.md",
-      "title": "Machine learning identifies patterns of maternal autoantibodies associated with autism",
-      "excerpt": "Using machine learning, researchers at the UC Davis MIND Institute have identified several patterns of maternal autoantibodies highly associated with the diagnosis and severity of autism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Autism-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "publishedDateTime": "2021-01-26T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

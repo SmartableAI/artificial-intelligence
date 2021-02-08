@@ -23,22 +23,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "CyberLink Partners with Network Optix for Facial Recognition Integration into Video Management Systems"
-    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced a high level integration with all Powered by Nx VsaaS solutions developed by Network Optix – including Nx Witness VMS."
-    publishedDateTime: 2021-02-03T08:16:00Z
-    webUrl: "https://apnews.com/article/technology-business-corporate-news-greater-china-products-and-services-9ceb6713ea0741cfb7605fd554b9b9ce"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "sgvT5IoV1qbr05cEzScpqY/O5HxBpxnHYloCRvbffAx1eT5uvs5LDOdyH3wb5Eewuex2BhER9kcV2dJgF5EMYptGWRLiMFp5y1QXjwMUzGORLm2e3TQlgoHmqMppNV7PS2EQQV5QsvsenRE5Zna/VYb90CcLSSMAaaMTDL6XayMWYCbYON3igIBu6lWhLd3SrvteeBilnegqONjqn0KB+L8WLieW/5mV0qx3eOCeNS0uJADhfNtSLvFBzhJ9J/gASMqKMqlcA8P4Zhhhg8VA/hFXaBC64s9nKa7x79sYghSl4bzNQMyEQD9mCkCPHwec7dHH8iIEiTO/xmrFW+A33rU8QDq8q3RFZ4G3xyVDhNo=;7yutFunUKS5hg/WgwXcLiA=="
 ---
 

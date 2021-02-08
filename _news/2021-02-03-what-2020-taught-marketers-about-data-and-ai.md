@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
-    excerpt: "However, in time, AI has made its way closer to the user - into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
-    publishedDateTime: 2021-02-03T08:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Top AI Startups to Watch in 2021"
     excerpt: "An abundance of startup companies that introduce new applications of artificial intelligence have emerged over the years. In 2020, Crunchbase’s records show that the number of AI startups is already about the breach the 10,000 mark. The number has ..."
     publishedDateTime: 2021-02-05T16:34:00Z
@@ -89,6 +75,20 @@ related:
       - url: "https://collegian.csufresno.edu/wp-content/uploads/2021/02/Depositphotos_271798500_s-20198551.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "AI Can Improve Healthcare"
+    excerpt: "One area where AI has found some traction is in the healthcare industry, where is seems to be helping improve care."
+    publishedDateTime: 2021-02-08T00:23:00Z
+    webUrl: "https://www.sqlservercentral.com/editorials/ai-can-improve-healthcare"
+    type: article
+    provider:
+      name: SQL Server Central
+      domain: sqlservercentral.com
+    quality: 54
+    images:
+      - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
+        width: 320
+        height: 320
         isCached: true
 
 secured: "2M3RfKU3IspJxrt7aaCOoN7CEsz3U6z0RajNj8q+ZanA/ZkLkBsSnaUi5+N0e3Yl87vmuqri5Rjdr56a05DaV0RjHunyN4svanape6KPBI/n953kNqS1xoHVNzUJ4hHguFnLD7kXNTBJrRcED2SCctUeSr7Reej0/zeu3u1htKnoIj+8nsekBFu59AMSLDvRgld9jaiTeh9BzAZSreWroCmO7RPcS977Y8jjpy3xxWZHqHk7Na4dkSVHCMnaaovF8joAgoMhd09YkZQpKmxe44k/jwwI1GtxEvfvq0nJ6k7LoxvNw8wvkMJtEEKGnjOQ735N6NYhJq9YssjLGf+WUui84q4G4awK1Rd99fzwaffUF8HmQ+nEXmksHfnrfXGFkiVq/cDFLdTFLLrlNh1OIm49iAuuksUKfOSF3veu0xFArekVnqY0TE2ifSzULTg2hrEo0qfoHFHZoK/BRWKZra1y0pXdQ9ZWsUYRlBkNpn7DmTUE43eSDB4XxWWQer2CmxfAmFGME/b2OYENBaXimA==;Nql2xJCbNFDdUqmI3uraOw=="

@@ -159,7 +159,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 349,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -1024,7 +1024,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1216,36 +1216,36 @@
       ]
     },
     {
-      "path": "_news/2021-02-03-scania-tests-self-driving-trucks-in-motorway-traffic.md",
-      "title": "Scania tests self-driving trucks in motorway traffic",
-      "excerpt": "Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and Jönköping. The tests will occur in collaboration with TuSimple,",
+      "path": "_news/2021-02-03-observeai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai.md",
+      "title": "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI",
+      "excerpt": "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027",
+      "webUrl": "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1",
+      "originalUrl": "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027",
-      "publishedDateTime": "2021-02-03T00:15:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T00:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1254,7 +1254,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     }

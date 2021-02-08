@@ -177,20 +177,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
-    excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software & Services award winner,"
-    publishedDateTime: 2021-02-03T07:56:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-voice-recognition-computing-and-information-technology-5cd52a89fd3eb2b038ccf842a9781924"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "DmxeRamUt//qtRtAYrrlhWapGpxcAC3h6A2DbgO3G813AgLNP1OwxojT7OyCoeFohSdnhCCgn2Ar2Yo1EkwA4rBbB8SJRBg+GuTEs+yAPITKW61DJNN7vrgKiutvQxZpDXYIVh5CKz8WOWHRR0H6j50zcI1JdXV4lcjl6wd49n9+Ip4GzN/mhj4Z4VmvKSkjGKEa9Xd6H8J6kXVowgalzl9ht/921ZZLEwWAOWDpeRvX2FwDtWTpINceFZqDpDRzvQCfMcoRyTktiaKQgyhN75x+ZvROBLucMVCLfQVDe1xQQ2aZylInML+zk5qcvqqUJHgEQNEj1OS4ySIn6GvEJGh4/zHYifNp/N7MW4Z2/iXChSdZMp97G/84Ll8RX/OKzWwUhoJJeB7WzXbLuRaAPCCtjxNPTz6Vk/52ZItLYw1lZCiSs+XNUWQCD5VPeWdH7Mq5NG7M7a6+dMgYBCyZR6/5RbtEpkwCaTpYPv64hYP/h0xzIXFiOIzdBla7OJWQWoPRkSDxnMLqrcCN/7wweQ==;9VI4ZfQf2Z2Y40hJ6ppNGw=="
 ---

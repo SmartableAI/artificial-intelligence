@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-01-04-microsoft-takes-azure-to-the-next-level.md",
+      "title": "Microsoft takes Azure to the next level",
+      "excerpt": "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
+      "originalUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg",
+          "width": 660,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-03T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-deep-learning-and-extreme-weather-catastrophes.md",
       "title": "Deep Learning and Extreme Weather Catastrophes",
       "excerpt": "Welcome to the second edition of the AI and Global Grand Challenges newsletter, where we explore how AI is tackling the largest problems facing the world. In the short term we are focusing exclusively on the use of AI in Healthcare and Climate Change!",
@@ -1126,49 +1178,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-veritone-achieves-aws-public-safety-disaster-response-competency.md",
-      "title": "Veritone Achieves AWS Public Safety & Disaster Response Competency",
-      "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the worlds first operating system for artificial intelligence, aiWARE„¢, today announced that it has achieved Amazon Web Services (AWS) Public Safety & Disaster Response (PSDR) Competency status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/veritone-achieves-aws-public-safety-disaster-response-competency/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/veritone-achieves-aws-public-safety-disaster-response-competency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-01T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

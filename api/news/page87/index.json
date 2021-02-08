@@ -2,6 +2,49 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2020-12-01-soldiers-dont-trust-robot-battle-buddies-can-virtual-training-fix-that.md",
+      "title": "Soldiers Don’t Trust Robot Battle Buddies. Can Virtual Training Fix That?",
+      "excerpt": "Allowing soldiers to train their robot wingmen in game environments could be the key to human-machine teaming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govexec.com/defense/2020/12/soldiers-dont-trust-robot-battle-buddies-can-virtual-training-fix/170384/",
+      "originalUrl": "https://www.govexec.com/defense/2020/12/soldiers-dont-trust-robot-battle-buddies-can-virtual-training-fix/170384/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.govexec.com/media/img/upload/2020/12/01/120120d1/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Executive",
+        "domain": "govexec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-whos-to-blame-when-a-self-driving-car-has-an-accident.md",
       "title": "Who’s to blame when a self-driving car has an accident?",
       "excerpt": "With self-driving cars gaining traction in today’s automobile landscape, the issue of legal liability in the case of an accident has become more relevant. Research in human-vehicle interaction ...",
@@ -1102,58 +1145,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-amazon-is-launching-new-industrial-ai-tools-to-help-companies-monitor-productivity-and-worker-safety.md",
-      "title": "Amazon is launching new industrial AI tools to help companies monitor productivity and worker safety",
-      "excerpt": "Amazon AWS is launching a series of industrial machine learning tools aimed at helping companies use artificial intelligence to monitor factory workers and machines, the company announced in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-launches-industrial-ai-tools-for-monitoring-productivity-safety-2020-12",
-      "originalUrl": "https://www.businessinsider.com/amazon-launches-industrial-ai-tools-for-monitoring-productivity-safety-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc6d50150e71a0011558536?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon-launches-industrial-ai-tools-for-monitoring-productivity-safety-2020-12",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-launches-industrial-ai-tools-for-monitoring-productivity-safety-2020-12",
-      "publishedDateTime": "2020-11-30T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

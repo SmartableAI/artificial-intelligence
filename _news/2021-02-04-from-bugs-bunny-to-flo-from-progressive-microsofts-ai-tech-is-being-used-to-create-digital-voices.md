@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Etihad Airways Transforms Its Finance Operations by Leveraging Microsoft AI Capabilities"
-    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technol"
-    publishedDateTime: 2021-02-03T07:30:00Z
-    webUrl: "https://www.albawaba.com/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 82
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-02/Etihad%20image%201.jpg?itok=tMPbQ2Tz"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its finance operations through harnessing the power of Microsoft AI. The Finance and"
     publishedDateTime: 2021-02-04T14:27:00Z
@@ -134,22 +118,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/stampede2-405x228.jpg"
         width: 405
         height: 228
-        isCached: true
-  - title: "Why Microsoft’s Self-Driving Car Strategy Will Work"
-    excerpt: "Self-driving car startup Cruise received more than $2 billion investment from Microsoft, General Motors, Honda, and institutional investors,"
-    publishedDateTime: 2021-02-03T08:02:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/"
-    ampWebUrl: "https://www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/?amp"
-    cdnAmpWebUrl: "https://www-techfinancials-co-za.cdn.ampproject.org/c/s/www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/?amp"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 61
-    images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/05/Microsoft.png"
-        width: 512
-        height: 341
         isCached: true
   - title: "Microsoft launches Custom Neural Voice in limited access – Jaweb"
     excerpt: "Microsoft today announced the general availability of Custom Neural Voice, an Azure Cognitive Services product that lets developers create synthetic voices with neural text-to-speech technology. It’s in limited access,"

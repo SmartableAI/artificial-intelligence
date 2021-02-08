@@ -43,6 +43,20 @@ related:
         width: 940
         height: 627
         isCached: true
+  - title: "Vt. transportation officials to hold forum on self-driving cars"
+    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
+    publishedDateTime: 2021-02-04T19:32:00Z
+    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 24
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
+        width: 980
+        height: 552
+        isCached: true
 
 secured: "acfrjU0qf8PEMIC4Dh7ZwFDmYEBZi5cxIYUU0hiA9VRnG67+KM0ufsKoxBQIGC6qsC+OwgCRFIi4A/LvgKVKL2LGr/C5FbzVJnViQL/KLVJa3aybqHEajtjMdngVTRgsAZtHIDcevAw3e864UPSpHFoEGfCQelB9CrXKgWBSlLVqqHhBLYfaimYlNzBzOyc5WjidgiWAXFUxdJlCYN5zFFBCFtp5c3jCJGQHEIFi/zvhoxF9ybXGI2AKLVKi9yQYFmEgFHXMiLyS9RN9OJxREQv6K6dHjIuLliIOg/wPKKDZvtQsC2OqZrhnjAFCvf7f1GmSHfq6EB/dzpUwGI+Gl0U+CLHm5FEs5eU7iXD+epY=;a5FZVcUctqsJ9QvVKUkzxg=="
 ---

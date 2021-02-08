@@ -40,20 +40,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "SAS Viya Delivers Innovation And Analytics For All"
-    excerpt: "Customers benefit from easier cloud migration and management of analytic workloads; SAS continues to strengthen its partnership with Microsoft Azure Mumbai, Maharashtra, India Business Wire India Analytics leader SAS continues to innovate by making it easier to access its powerful,"
-    publishedDateTime: 2021-02-03T08:05:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/sas-viya-delivers-innovation-and-analytics-for-all.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 24
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wf9zahdas70tznpq_1612339428.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
 
 secured: "+oUWp+IdV7+p1VadOa3r1MSiwuTUortfGj+WE0ASKNIqXaKOPYgEM/0zf5/k/sP3OHCTEocP7l7TcOtvHREgINoqqFyrh8GRXcL3FAlZgM3b7tEl9bAuw8fH3SqxNIgur1G46cfMe9uhRkGAyc2trjeqFfa+U7/pTUrxpsnCXLJJ2QlNZToduZMNNJnSGETbv1UPSxWYMjHcvkBhrRsWEoEz+VFpCpye/hucqUmMttBy2UNa2vA8VJzsT3clxEo3XBhGO+SP6skwIW7UjzKvzMjcmeAoetRQwf68NkRRXtK2hF+jqD9eNG6iwi47fSgJ+lmH0foSg6yivtX6AD5j5DLYBy7Uw4IuoF5GsXLCxvM=;kVaz3nEFcSmePnVEGuujrw=="
 ---

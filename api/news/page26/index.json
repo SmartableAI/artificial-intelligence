@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
+      "title": "Delhi Airport Evaluating 'computer Vision' Tech To Track Flyers, Ensure Social Distancing: Official",
+      "excerpt": "Delhi airport is evaluating a computer vision technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a top official of the facility's operator said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/india-news/city-news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.html",
+      "originalUrl": "https://www.republicworld.com/india-news/city-news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/8aiou9s6bqizw6uw_1611054674.jpeg?tr=f-jpeg",
+          "width": 1242,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-how-to-manage-your-power-bill-while-adopting-ai.md",
       "title": "How to manage your power bill while adopting AI",
       "excerpt": "Because AI and ML tend to run intense calculations at very high utilization rates, power and cooling costs can consume a higher proportion of the budget than an IT group might expect. It's not a new problem,",
@@ -441,6 +484,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-19-facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare.md",
+      "title": "Facebook to use AI in predicting if Covid-19 patients need better healthcare",
+      "excerpt": "Washington [: American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
+      "originalUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
+      "publishedDateTime": "2021-01-18T23:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-deep-learning-software-strategic-assessment-and-forecast-till-2025-ibm-microsoft-nvidia.md",
       "title": "Deep Learning Software Strategic Assessment and Forecast Till 2025: IBM, Microsoft, Nvidia",
       "excerpt": "Deep learning is a subset of neural networks. The deep learning architectures includes deep neural networks, conventional neural networks, recurrent neural networks and many more. The software ...",
@@ -628,50 +715,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare.md",
-      "title": "Facebook to use AI in predicting if COVID-19 patients need better healthcare",
-      "excerpt": "Washington [US], January 19 (ANI): American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/",
-      "originalUrl": "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aniportalimages.s3.amazonaws.com/media/details/wfsa4753.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T17:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asian News International",
-        "domain": "aninews.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1094,49 +1137,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-artificial-intelligence-beats-us-in-chess-but-not-in-memory.md",
-      "title": "Artificial Intelligence Beats Us in Chess, but Not in Memory",
-      "excerpt": "In the last decades, artificial intelligence (AI) has shown to be very good at achieving exceptional goals in several fields. Chess is one of them: in 1996, for the first time, the computer Deep Blue beat a human player,",
-      "sourceUrl": null,
-      "webUrl": "https://www.labmanager.com/news/artificial-intelligence-beats-us-in-chess-but-not-in-memory-24877",
-      "originalUrl": "https://www.labmanager.com/news/artificial-intelligence-beats-us-in-chess-but-not-in-memory-24877",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24877/aImg/46116/artificial-intelligence-vs-human-intelligence-m.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labmanager.com/news/artificial-intelligence-beats-us-in-chess-but-not-in-memory-24877/amp",
-      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/artificial-intelligence-beats-us-in-chess-but-not-in-memory-24877/amp",
-      "publishedDateTime": "2021-01-18T11:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lab Manager",
-        "domain": "labmanager.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
