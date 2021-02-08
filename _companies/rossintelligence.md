@@ -2,7 +2,7 @@
 name: "ROSS Intelligence"
 overview: "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies."
 type: "profile"
-heat: 32
+heat: 50
 
 website: https://rossintelligence.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ROSSIntel"
   url: "https://twitter.com/ROSSIntel"
-  followers: 5410
+  followers: 5409
 
 size: 11-50 employees
 yearFounded: 2014
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ZF0J_Q0AK0E"
 
-secured: "FnkDU5uXaYYz7Tmr9hCgzc9JpqePhAjNUSW0qCMlJtFy5ZjrvXZ3Dop1m0he/l5XV9yfimRmuI6AiX6XvPtLaB32pO0umWMOFetcbKf2xb5Ggnr7wNI7FFp8BU6hbs2Y8ngAZe+imFlLl07sS7sM34toCSo78A+7PO/xOYWbq9IY2sWL6UyKLvSz81AH2PvxvmKRy+y4ObbpICTKWFESKi+CHAEjkHhfpGBuHefg1kbFZqvcRDZB4c79lkOLziBsSv0IbfS2/N1oUV3o2YJUDFHTjUAZN3c2VX0vTIwj6QkWfihlq1VWHJmg2M8bS9Bba7H0MPgMoVvHXceLimQjRDXr+YphB4pxGfV+cuwbwI3oCu/QFTEREE1egCQPR+QEMqscMXq0qwCKUeZKOo9l9UDtFfdS5aZEyrXbBuElFk4=;ZgnW3lzEC3QTPE+noT3VVw=="
+secured: "A1kXztBetx/wqYEOLMRFmeJzt7YhzOJuaoGiZmqr5zkb/RKTYmrkuJMQy12zAtsy4mepBBHPTISYobThQazuVTJdBQZ30OsbPODnVRUpK0J7feunSc98NET7pzgN+OOYuKvqLDSsUCy5Q6mk0dqoySaX1+fQVZ/ko1nK3dC0xOOdNvttQxli+81R9SuUutSVqtgG8nmShRIQsydiMqEnnhuAn2ft0DxYfAHhkG2vYhINMc9kgilQRz5BJvyirisPPbXWo9Sm21DeDdttxoR+1KKlglqAGpapLi5EYqunRJeCVeax5KNacoKC6lz7Lf7B5iz98MAuqdwNcbRByW0+/c37MqKaEjO2nb8asiDriLKgSBmruopkhJKeiQaPf2W8vatERNwugu675IBLag6M5rYDNmdmUU1waEmnCItQtFA=;9aMYIjaRmNbT5zHbe1+MRQ=="
 ---
 

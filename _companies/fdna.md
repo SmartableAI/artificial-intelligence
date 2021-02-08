@@ -2,7 +2,7 @@
 name: "FDNA"
 overview: "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient."
 type: "profile"
-heat: 32
+heat: 64
 
 website: https://www.fdna.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=qUDQnRMJOcw"
 
-secured: "dnF8FJfXb0NevmHOgPtTtQHOy8mdm+tvLUoCMW71oQAHefFAUiW0uwxKdw5lgHDeOTPbAGq6PaF/K2pEgyMXmvWI883GPs+J7G5DIPHG32O+Aey7/rcqlyoY2uWtnkGufMOvAI70m5XLZIU5lnvykGST1OJHHU4RUEMVMnzh+k9fc4xt0hrvmiiZXhZeX5ZgeaEKKZbw0P/wlqZPRa+pmZyQcPIYoKq6kmO3LNMdV6xEcWWrL6hd9icqHo8c85A5a/sVhKs5+to3RCtduTQf+wJNEfeTxTSIEaasKRiqK9BXh0vy3coIWJ/Re9XOKvRMv8y4nO1jiH8WuGIUbhNy75Mrn6MG+/woMwGkCUGDfoxv2XvXkX5RxtkuM9xs37jjvntgRS1S7j0Jbs5vFBDBkWejEgN097K393ElB04bvn8=;jkDf3u2TbCm7d6i1PWNH+A=="
+secured: "bnOoszP1TfYoBIzvfqXoE7xdxNxxx6lmz+aTwTN7W1XsV6SqAuPnNzRIUpuxEBI5oyEb7NtnIybXTd0tlu+lbEz+z2laFRg4c+yC1Nmr+ZQaNJHWRD5wy6/0RJG0bLjjPU6RP8+u8rdtnG0wIIqK1uLXVnDdCoLzVUA1TYztoXh2ip1ai9KWQrF2H2aNG9xS0pZ1SM3hdgX8vHmGjltWhTF6vK0/re5AuYLKmnfhdWYNcFb/dvrptHOlcqgMZ4YsEf1e81jJ/BS40N077/rhbtQ6X3xi0Cx8x4XBasSfKU0zPtOaQh0mdH5AjvfbQrz9SpbkKPkF4ugAeZk1CBVSRB9nEEm0fiogMUcm5XmxHRyq4gzZ/A/zSPq8RIX2HoZXRSr3AC0eaTcNzdQ32Kk5aM8Xryr0Bs/W01LvCNetAAM=;Jw+VBuz3azAOj3OoQjG6zQ=="
 ---
 

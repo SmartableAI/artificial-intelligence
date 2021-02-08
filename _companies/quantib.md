@@ -2,7 +2,7 @@
 name: "Quantib"
 overview: "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports."
 type: "profile"
-heat: 71
+heat: 64
 
 website: http://www.quantib.com
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=MmbfaKF-wss"
 
-secured: "RnHDmg9gf4YpVzF8EwuF97DlAOKBAkv0ZrJcQqwsrB/0i7HvMLxrxjCNuRVo7GDJ4ZbxscB4bBId3nZwGSMW4upPCMGJ84XIz/On9xGiDMOeEJtJHXtdimTB4jDNf0HN3/3Z+0DEFF+FCNu7+hEcJ5gie5pFyc75hPhC0OWb2SwJp1f03dGREzCqZxSwqVD+xZkHVi10yDnVWkf0r1i3yPsywbLC0jGJQrawc5HXqtudSfGTIh2AuqLKgVGTksQ2Z+ZAbzVCCv8xyEkA/xURHJs6LBOCkb9qlA82UtXuU1qDS3HkMEVe3ZvV8XiFQajGf+F4m0NI9/+gEA28ePhgMuqkhFnDEWIZ1dzRpLm+oDZu7PRk6/vbcU0EfQIQfIwzQScHu5hy5SGBmMKO7lNH0g==;Ahlalu2Xf5QxOuwrUb3PtQ=="
+secured: "P+X10uoe9mNFpA/QatHYMOZj4Ga4ZIu1sTvIjKdqZR9jz6VM4HSVkDS0tRimEH8Dr/8mOPICmMwD8UdmEh1lr7DiZL5oAR3TXeuQubvEp2YU+pjnlAH9u+kBzN//Tz2LxMoVxLp7MsH+yzh3fnO89XvSsh5H3smKASMERpJwVe1c/4ksmGWxdysn7YcXueC2U3c5QDZOm78k/2bNTmNQsJeWl3ObWxDKEvx7yCM5OoA9p/alzx1dYvhr0uYvtdyOuGpIpIRy6h7bk0W+ytg5gs1UzF05UzzEOJjlzFbttFCCRibCYZOR6fpQu0/i0kP7MY4/16fLACE8vEzZld7p/pSb5FgZw4XDQeDxZ1ag+v84IA41hUSqP+ilQ4h/IK1jJ5R7zqFCajqkPRVxHwkMLQ==;9aSLSXb2OKq9o9MLqataBg=="
 ---
 
