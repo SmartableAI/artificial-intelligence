@@ -98,6 +98,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Hyundai, Kia Backslide After Apple Self-Driving Car Talks Die"
+    excerpt: "Hyundai Motor is not in talks with Apple on autonomous vehicle development,” the automaker said in a regulatory filing."
+    publishedDateTime: 2021-02-08T16:39:00Z
+    webUrl: "https://www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465"
+    ampWebUrl: "https://www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/09/19/hyundai-truck-engines-failed-to-meet-us-clean.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Hyundai, Kia Shares Drop After Firms Say They Are Not In Talks With Apple To Develop Self-Driving Car"
     excerpt: "The Korean carmakers saw their shares tumble after issuing the statement which refuted previous reporting of talks between them and the iPhone-maker."
     publishedDateTime: 2021-02-08T10:13:00Z
@@ -175,6 +191,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "OwGE1tBm/Nmj1z6/ic1plS37beaPiGEJShYL4GsC0GVx7cRMa6JLdE988XHcYi0sqsXCp0UrRaIY41oG6TI5/2WFO0ZtbZEXw2UTUApFYR2Hq1zXGIlizW603U40d1/obd/iN68BTyBgwo4c5lrhQBT3F36yI6guP328ihulIH3O51yHdAPD4dQ6YXvbDl0kj1XSQdqpS9mVQ/sK5S/NQdYFI6DjM0CLA9rs0e/Rcco5gBQMlz4CFy+rNMt6p2NpV2OWwO4AdKyFDdYU75wJClBD6nCIJ4PiWdfxdAgDORNYEpqt9zoo6SuYW6Bc5+NNHz+Hml23CdzhRVO4aovdw7S6QI/U7VULn5K+kSnn4gw=;3iqEpnxbGK3b4eClYGR2IQ=="
+secured: "6swi4CTL+doXxMOlhblmW6NU8pGaW4gfVihoAndtrtVgdVVBMFS3msHAzE0P1jyq7e10jeUBjQTZk9OqaXHu0YA8UzOo1Z3Swi7jmvO2fGjXtI0kl2OY6EtTa937tYRSWw923/zxqI/RvrJh7k1MN53RdZsVOuaUOOM1vuD+v5pGSKUtBSUoDICwkm5ywteqMS7e9V8dzV+hjZoDa5bYFJoefKKbsAletom0sysyDQq5Qwe1ooL2Yt2/47sZi/VhoxBPA16rc0V4p9qtu/FhACtWGqWJ53X0larqa1M6BRl3GgDIGzuRt1roxYn89qPYxe8YTTuv+07J8bXVkNDGcmUGcoRZOnFkoBFrJl/H2YpycaXPJJfNmKu/z+2DDHSmnZqMwcvuvb7r+0/ZWNbqvJbe0FXxGnVSg9BPrb51hsNNUpaXaSgnz8mdOUbPGOjchBgZLP6sMSi96Y39b0kJ1neWuFMPdJW5y9IjIKFnXguYq5B2DRHY14ELRFWqewvD7+MT5siUNL8wob+0FsRFtw==;wSN8lhVOeRr8gV+J0YqZXw=="
 ---
 

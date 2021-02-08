@@ -78,22 +78,6 @@ related:
         width: 1984
         height: 1280
         isCached: true
-  - title: "In Bid For Road Safety, Amazon Is Rolling Out AI-Powered Cameras To Monitor Delivery Drivers"
-    excerpt: "The effort is meant to improve driver safety, but critics say it doesn’t actually address the demanding quotas that make drivers more prone to reckless behavior."
-    publishedDateTime: 2021-02-03T23:18:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2021/02/03/in-bid-for-road-safety-amazon-is-rolling-out-ai-powered-cameras-to-monitor-delivery-drivers/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2021/02/03/in-bid-for-road-safety-amazon-is-rolling-out-ai-powered-cameras-to-monitor-delivery-drivers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2021/02/03/in-bid-for-road-safety-amazon-is-rolling-out-ai-powered-cameras-to-monitor-delivery-drivers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601b2d2f839ace54f5face8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D206%26cropY2%3D2456"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon adding AI-equipped cameras to delivery vans to monitor safety, sparking privacy concerns"
     excerpt: "Amazon delivery drivers keeping their eyes on the road could have Amazon keeping an eye on them according to reports that the company is planning to use AI-equipped cameras inside vehicles to"
     publishedDateTime: 2021-02-05T01:19:00Z

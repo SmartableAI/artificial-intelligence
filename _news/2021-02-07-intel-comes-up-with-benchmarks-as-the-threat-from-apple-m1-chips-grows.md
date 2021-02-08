@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/intel-comes-up-with-benchma
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

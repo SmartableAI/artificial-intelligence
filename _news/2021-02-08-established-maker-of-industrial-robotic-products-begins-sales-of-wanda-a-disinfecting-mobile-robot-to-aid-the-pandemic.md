@@ -2,17 +2,17 @@
 category: news
 title: "Established Maker of Industrial Robotic Products Begins Sales of Wanda, a Disinfecting Mobile Robot to aid the Pandemic"
 excerpt: "Resgreen (Stock Symbol: RGGI), an Established Maker of Industrial Robotic Products Begins Sales of Wanda, a Disinfecting Mobile Robot to battle the Pandemic"
-publishedDateTime: 2021-02-08T13:10:00Z
-originalUrl: "https://www.wboc.com/story/43307266/established-maker-of-industrial-robotic-products-begins-sales-of-wanda-a-disinfecting-mobile-robot-to-aid-the-pandemic"
-webUrl: "https://www.wboc.com/story/43307266/established-maker-of-industrial-robotic-products-begins-sales-of-wanda-a-disinfecting-mobile-robot-to-aid-the-pandemic"
+publishedDateTime: 2021-02-08T14:51:00Z
+originalUrl: "https://www.wicz.com/story/43307266/established-maker-of-industrial-robotic-products-begins-sales-of-wanda-a-disinfecting-mobile-robot-to-aid-the-pandemic"
+webUrl: "https://www.wicz.com/story/43307266/established-maker-of-industrial-robotic-products-begins-sales-of-wanda-a-disinfecting-mobile-robot-to-aid-the-pandemic"
 type: article
 quality: 47
 heat: 47
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI in Robotics
@@ -25,6 +25,6 @@ images:
     height: 518
     isCached: true
 
-secured: "t2Iel4TiV1sZhNFky86+XqMgwvo9RJ6lXR0MOXAvlGiVWBlWI73ZQ8O2lmZRtr+ADDc6HcrTKbRSgIO5+i2fvhXnk1m7lMZv7hzDiTY1MAXw1VdLUw9xlEzho6VHKWkHM9R1A6YOHgi7BGmslDFdQXJ96lyMBTq256I3wTmkKfqJl/Om6gRR2c5BcPm7Q3Fi3J9hGLYjSToDl3AnLwwZbpPIZQFL19dDWXGKIEQVQR2/HjVeQBX2mItCYXK5E0SaPGXatUZXiiDeEtj4hLqfmfvJHIAq4hvK8lR8VnDNpMGTuXcJ+L2GkJeQv3ZrjRX3k9PzwTQKuxmjrTSGXqoVEsphYOjaHOyzp4te01Mt+Vo=;aVaszIJoInBFARsIE/pcOg=="
+secured: "89KCm8mgpSK//tfPg3VHA8hFHXaRhaS0GVHS7QnlzySyUyfqa11t+Hbz6fAw06nNpq949x7kcjswj5xZYYFlqesx0ZyOutj+vvDKpB0DUuCi/4XPdOcdqjKMaok5IW3+WOUy8tVAzc3xYDigMRIns0YsFnfYxyOtsP9bsaZKl5ETUQcm6QGW0jaVAd9CJ6mbRcSvVRI4DANwlnVnSr6+VpkNfy/riPq1m0VHH5f0x14ia/TlTkNyaxpE3zqGSNm6vQus57pq1MOsQYWNQOsVlfeUdiTPl5kehe1EOg4pMoeFpQmq0ug1V15ZaY0JUUIHxMHfJjskUYZc7t6v5eIOG3GHz72os8y1wykP5IZE0fc=;GcoBsA9huZHv+7rGb8B0Mw=="
 ---
 

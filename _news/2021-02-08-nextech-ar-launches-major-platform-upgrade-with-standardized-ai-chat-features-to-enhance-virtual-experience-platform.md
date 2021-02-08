@@ -1,34 +1,48 @@
 ---
 category: news
 title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
-excerpt: "Standardizing embedded AI driven chat functionality can accommodate unlimited users, allowing for optimized, scalable events. Market leaders including"
-publishedDateTime: 2021-02-08T13:56:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-2021-02-08"
-webUrl: "https://www.marketwatch.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-2021-02-08"
+excerpt: "Nextech AR Solutions, a leading provider of virtual and augmented reality experience technologies and services for eCommerce, education, conferences and events today announced the launch of new standardized chat features within its Virtual Experience Platform/ VXP) and recently-launched ARoom collaborative streaming solution."
+publishedDateTime: 2021-02-08T12:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to"
+webUrl: "https://www.nasdaq.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to"
 type: article
-quality: 48
-heat: 48
+quality: 26
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Hardware
+  - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
+related:
+  - title: "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles"
+    excerpt: "LIZHI INC., a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics, an established chip maker for smart mobility in China,"
+    publishedDateTime: 2021-02-08T11:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 44
+  - title: "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers"
+    excerpt: "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,"
+    publishedDateTime: 2021-02-04T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "Iv2a+xCpDMCSQ2xg1Gg4Bi+pHUDVr9bwFvSun7hnGZJQ4URmsV27PQGB7vSfp2jx92tBzq9f098awR8e0rMLEGOGW4Ul36MJ+c1cOPw1FswORTPEFhbAGAaTipn5KnlRYt32OVtaNyHhQdJT/lHRxdWMLqE12OGwO9gcVJtgD+mv9slbhIlWXez7jplIbRVP9B2QERA53IuWYlUnZh6LKI9MX+2y9xHTGPLbdKp7HCi3PzSWOEC65d8nYpKYaqw7Lst9xqsODN0V31cqarvrLysrJ01D8YVYfGBTd2u+wYxlaXsf/Nym7JVJYo12tuBBYfy25Mq2G3ElFANkbgmeAx4Z2LNxDEj/XYgwRWXlpTg=;gHKluIhHca//mdCfFXtHyQ=="
+secured: "pmVk+OaRnsbeC4Fs2ptYn26UiDH9PKTjDXpH0Py5dQ5zHvosskSlEKXGds8/4pqUSy3yOTPvtfHXU5fmuRXlBhRMMeTPNDJL4ZTPP5UqdIHit8ACdmZFG+51vcI556jm+maSi5VvHExzqUAjWlXYexVM72IocJdAUrY4PsN8GTrDiiAIcvRJqaQS53nkJYN6QBOPkds4V7Z0rFKOaVF+RLpxXCYK4P1/zdAb6+z5fR8iVrMMQAc+Kl3KceY6XfGg/vhTewgvN/cCu0VF8OV+7B4lmGkq/QUAJ+1oumrxhLenc5IEbiglmaEVuh4j8MMFQQsmKd2CupfFDsNS3hTEDK6WFCgtRD50oj1vlu88kVE=;i3+f/BjDsNQEXZ81opIuLw=="
 ---
 

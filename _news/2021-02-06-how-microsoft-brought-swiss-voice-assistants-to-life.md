@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
+    excerpt: "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create"
+    publishedDateTime: 2021-02-08T08:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 121
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg"
+        width: 1024
+        height: 524
+        isCached: true
   - title: "Microsoft launches Viva, an AI-powered information hub for enterprises"
     excerpt: "Microsoft today introduced Microsoft Viva, a hub of services designed to address digital workplace challenges."
     publishedDateTime: 2021-02-04T14:02:00Z
@@ -160,19 +174,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 58
-  - title: "This Microsoft self-driving car concept takes aim at the ambitious Apple Project Titan"
-    excerpt: "With the Microsoft Surface car concept, that feud extends into the world of transportation too! Meet the Microsoft Surface Car, an automobile that beautifully channels the sleek aesthetic of Microsoft’s Surface laptops into its automotive design."
-    publishedDateTime: 2021-02-03T23:30:00Z
-    webUrl: "https://www.yankodesign.com/2021/02/03/this-microsoft-self-driving-car-concept-takes-aim-at-the-ambitious-apple-project-titan/"
+  - title: "GDIT Signs Microsoft Partner Agreement to Deliver Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics, has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G), GDIT reported on Thursday. \"Clients across the federal government are rapidly adopting cloud and Software-as-a-Service solutions,"
+    publishedDateTime: 2021-02-05T00:00:00Z
+    webUrl: "https://www.executivegov.com/2021/02/gdit-signs-microsoft-partner-agreement-to-deliver-azure-to-federal-agencies/"
     type: article
     provider:
-      name: Yanko Design
-      domain: yankodesign.com
-    quality: 48
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 52
     images:
-      - url: "https://www.yankodesign.com/images/design_news/2021/01/these-in-ear-translator-earphones-help-you-fluently-speak-in-as-many-as-40-different-languages/worlds_first_bi_directional_translation_earbuds-510x314.jpg"
-        width: 510
-        height: 314
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/22/95/47/f5/8c/f7/58/f8/e4/gdit_20200722.png"
+        width: 272
+        height: 270
         isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
@@ -230,6 +244,20 @@ related:
         width: 696
         height: 348
         isCached: true
+  - title: "Microsoft Partnership Will Bring New Cloud Service to DOD Microelectronics Project"
+    excerpt: "Microsoft announced new partnerships Thursday that will support two major Defense Department projects using the tech giant’s Azure cloud services. Microsoft is working with ten companies on a technology solution for the secure design of microelectronics using a new service in the Azure Government cloud region in support of a Defense Department program,"
+    publishedDateTime: 2021-02-05T02:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/microsoft-partnership-will-bring-new-cloud-service-dod-microelectronics-project/171872/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/04/NGmicrosfot20210204/860x394.jpg"
+        width: 860
+        height: 394
+        isCached: true
   - title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
     excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
     publishedDateTime: 2021-02-05T08:05:00Z
@@ -239,20 +267,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Talking Medicines Launches AI-Powered Patient Intelligence Platform to Revolutionize Marketing for World’s Leading Drug Brands"
-    excerpt: "Talking Medicines has today (Thursday 4 February) launched an AI-powered social intelligence service, PatientMetRx, giving the world’s leading drug brands insights on patient experience on a scale and depth never previously possible."
-    publishedDateTime: 2021-02-04T11:13:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-media-1e1bfb36d8944678a13496401aafdf00"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

@@ -116,6 +116,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Hyundai, Kia Backslide After Apple Self-Driving Car Talks Die"
+    excerpt: "Hyundai Motor is not in talks with Apple on autonomous vehicle development,” the automaker said in a regulatory filing."
+    publishedDateTime: 2021-02-08T16:39:00Z
+    webUrl: "https://www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465"
+    ampWebUrl: "https://www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/09/19/hyundai-truck-engines-failed-to-meet-us-clean.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "South Korean Hyundai and Kia say they don’t talk iPhone maker about self-driving vehicles"
     excerpt: "South Korean Hyundai and Kia say they don't talk iPhone maker about self-driving vehicles Shares of Hyundai and Kia plummeted on Monday"
     publishedDateTime: 2021-02-08T11:24:00Z

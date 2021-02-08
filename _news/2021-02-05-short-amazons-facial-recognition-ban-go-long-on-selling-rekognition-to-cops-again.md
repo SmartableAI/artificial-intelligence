@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recogn
 webUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again"
 type: article
 quality: 65
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -112,6 +112,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/3/d0/3d0c8992-3f6a-5603-9191-e9a72f968aa5/601cc71f95c27.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Privacy commissioners call facial recognition service illegal"
+    excerpt: "Canada’s privacy commissioner and three of his provincial counterparts say a facial recognition tool sold by  technology company Clearview constitutes mass surveillance and is illegal in Canada. “It is an affront to individuals’ privacy rights and inflicts broad-based harm on all members of society,"
+    publishedDateTime: 2021-02-04T16:00:00Z
+    webUrl: "https://www.rcinet.ca/en/2021/02/04/privacy-commissioners-call-facial-recognition-service-illegal/"
+    type: article
+    provider:
+      name: rcinet.ca
+      domain: rcinet.ca
+    quality: 39
+    images:
+      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/02/istock-1284886674.jpg"
+        width: 1266
+        height: 828
         isCached: true
   - title: "Facial Recognition Can Find Rioters, but May Harm Others"
     excerpt: "The AI-driven technology has been helping officials identify those who stormed the Capitol on Jan. 6, but it also has been found to have racial biases. Officials must balance the potential benefits with the risks."

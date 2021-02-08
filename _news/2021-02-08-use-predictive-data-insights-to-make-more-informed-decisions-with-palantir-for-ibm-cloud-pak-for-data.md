@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/02/palantir-for-ibm-cloud-pa
 webUrl: "https://www.ibm.com/blogs/watson/2021/02/palantir-for-ibm-cloud-pak-for-data/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -28,6 +28,38 @@ images:
     isCached: true
 
 related:
+  - title: "IBM and Palantir debut no-code platform for OpenAI applications"
+    excerpt: "IBM and Palantir have announced their jointly developed product, Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications."
+    publishedDateTime: 2021-02-08T16:14:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1612799848/itpro/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg"
+        width: 2252
+        height: 1600
+        isCached: true
+  - title: "Palantir leaps 15% after revealing partnership with IBM on artificial-intelligence applications"
+    excerpt: "The artificial intelligence offering aims to help businesses leverage large and complex data sets without the need for deep technical knowledge."
+    publishedDateTime: 2021-02-08T16:00:00Z
+    webUrl: "https://www.businessinsider.com/palantir-stock-price-ibm-partnership-artificial-intelligence-product-announcement-pltr-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/palantir-stock-price-ibm-partnership-artificial-intelligence-product-announcement-pltr-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/palantir-stock-price-ibm-partnership-artificial-intelligence-product-announcement-pltr-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/60214a4bcca90200129b6f35?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM, Palantir Technologies Announce New Partnership - Quick Facts"
     excerpt: "IBM (IBM) and Palantir Technologies (PLTR) announced Monday a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next generation operations platform for building applications."
     publishedDateTime: 2021-02-08T12:16:00Z
@@ -39,6 +71,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "SD Times news digest: JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
+    excerpt: "JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
+    publishedDateTime: 2021-02-08T15:56:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-jetbrains-2020-annual-report-microsofts-autofill-solution-for-passwords-ibm-and-palantir-team-up-on-cloud-and-ai/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/02/G58mtNnU.png"
+        width: 680
+        height: 425
+        isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid"
     excerpt: "Cloud Environments PR Newswire ARMONK, N.Y. and DEN"
     publishedDateTime: 2021-02-08T12:05:00Z
@@ -53,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Palantir for IBM Cloud Pak for Data Announced"
+    excerpt: "IBM is partnering with Palantir Technologies to bring AI-infused applications to businesses with Palantir for IBM Cloud Pak for Data."
+    publishedDateTime: 2021-02-08T16:47:00Z
+    webUrl: "https://www.storagereview.com/news/palantir-for-ibm-cloud-pak-for-data-announced"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 24
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/02/StorageReview-Palantir-for-IBM-Cloud-Pak.jpg"
+        width: 1000
+        height: 710
+        isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
     excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
     publishedDateTime: 2021-02-08T11:59:00Z
@@ -66,6 +126,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
         width: 2251
         height: 1179
+        isCached: true
+  - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
+    excerpt: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
+    publishedDateTime: 2021-02-08T16:20:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/02/08/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 1
+    images:
+      - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg"
+        width: 400
+        height: 284
         isCached: true
 
 secured: "HcNY/1lTYn1aRjlKtwjp7LXNVcJ3QShJGidVotQX9zT0MbfGP7jhP7E8iaa5ajxesjl0xrVI0h7onKvbqV43+tRhWLSaDg42YT/wS87wSfhTMjcP1r2ym5eQyekEptATzrf64wkwKvqejgm7L84dRiljgF5Mijjuey2lCw1alj4jb/OTMD891tpAulzj31LisxJyZdgIVbmZtVnE3CGAq4IgWSwm3ssQsFLYP8Wwc2XYtJopjEWJFmtXpPDEEIoT6hqqcyKWbJXKLZJMw42cmbG8gMpcLeBLs/YPPug3t4b2qmlzoX7EJg9kkLznmZEHCtG9lpDVruqEgdC6Ma+3+n3jr1JnKx0hw9d7G9IfNi0=;ewbLXgww3aTCh+PqrFV1vQ=="

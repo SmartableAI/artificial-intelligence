@@ -78,22 +78,6 @@ related:
         width: 1984
         height: 1280
         isCached: true
-  - title: "In Bid For Road Safety, Amazon Is Rolling Out AI-Powered Cameras To Monitor Delivery Drivers"
-    excerpt: "The effort is meant to improve driver safety, but critics say it doesn’t actually address the demanding quotas that make drivers more prone to reckless behavior."
-    publishedDateTime: 2021-02-03T23:18:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2021/02/03/in-bid-for-road-safety-amazon-is-rolling-out-ai-powered-cameras-to-monitor-delivery-drivers/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2021/02/03/in-bid-for-road-safety-amazon-is-rolling-out-ai-powered-cameras-to-monitor-delivery-drivers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2021/02/03/in-bid-for-road-safety-amazon-is-rolling-out-ai-powered-cameras-to-monitor-delivery-drivers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601b2d2f839ace54f5face8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D206%26cropY2%3D2456"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Privacy advocates say Amazon’s plans to put AI cameras in vans will create ‘mobile surveillance machines’"
     excerpt: "Amazon’s plans to install AI-powered cameras in its delivery vans have been slammed by privacy advocates as “the largest expansion of corporate surveillance in human history.” The e-commerce giant has been testing a system that provides real-time monitoring of the roads and drivers."
     publishedDateTime: 2021-02-04T14:41:00Z

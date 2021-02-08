@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Sets the Table for Continued Growth 2021-2027 | Gemalto NV, Ayonix Face Technologies, Cognitec Systems"
+    excerpt: "MarketDigits has recently published the Global research Report Titled Facial Recognition Market The study provides an overview of current statistics and future predictions of the Facial Recognition Market The study highlights a detailed assessment of the Market and displays market"
+    publishedDateTime: 2021-02-08T15:04:00Z
+    webUrl: "https://www.openpr.com/news/2238132/facial-recognition-market-sets-the-table-for-continued-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2238132/facial-recognition-market-sets-the-table-for-continued-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2238132/facial-recognition-market-sets-the-table-for-continued-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
+    images:
+      - url: "https://cdn.openpr.com/U/2/U208230480_g.jpg"
+        width: 700
+        height: 334
+        isCached: true
   - title: "Image Recognition Market Insights By Revenue, Upcoming Trends And Worldwide Players Foresights Till 2026 | Fortune Business Insights"
     excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
     publishedDateTime: 2021-02-05T13:03:00Z

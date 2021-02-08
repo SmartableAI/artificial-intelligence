@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Ford ups investment in self-driving and electric cars to $29B"
-    excerpt: "Ford plans to spend up big in the areas of electric vehicles and self-driving technology, CEO Jim Farley said Thursday during a conference call detailing the automaker's 2020 financial results. Key measures mentioned by the new Ford CEO include an increase in spending on EVs to $22 billion through 2025,"
-    publishedDateTime: 2021-02-05T13:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131191_ford-ups-investment-in-self-driving-and-electric-cars-to-29b"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/2021-ford-mustang-mach-e_100779690_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Report lays out figures on Beijing's self-driving vehicle tests"
     excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."
     publishedDateTime: 2021-02-08T04:47:00Z

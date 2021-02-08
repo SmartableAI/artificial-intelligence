@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI’s Facial-Recognition App Ruled Illegal in Canada"
-    excerpt: "Canadian authorities declared that the company needed citizens’ consent to use their biometric information, and ordered the firm to delete facial images from its database."
-    publishedDateTime: 2021-02-04T00:08:00Z
-    webUrl: "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Canada (politely) asks Clearview AI to stop scraping citizens’ photos"
     excerpt: "The country's regulators said Clearview violated Canada's privacy laws by scraping photos of citizens from the internet without permission."
     publishedDateTime: 2021-02-04T18:58:00Z
@@ -119,20 +103,6 @@ related:
       - url: "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png"
         width: 1280
         height: 1066
-        isCached: true
-  - title: "Privacy commissioners call facial recognition service illegal"
-    excerpt: "Canada’s privacy commissioner and three of his provincial counterparts say a facial recognition tool sold by  technology company Clearview constitutes mass surveillance and is illegal in Canada. “It is an affront to individuals’ privacy rights and inflicts broad-based harm on all members of society,"
-    publishedDateTime: 2021-02-04T16:00:00Z
-    webUrl: "https://www.rcinet.ca/en/2021/02/04/privacy-commissioners-call-facial-recognition-service-illegal/"
-    type: article
-    provider:
-      name: rcinet.ca
-      domain: rcinet.ca
-    quality: 39
-    images:
-      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/02/istock-1284886674.jpg"
-        width: 1266
-        height: 828
         isCached: true
   - title: "Clearview Facial-Recognition Technology Ruled Illegal in Canada"
     excerpt: "The company’s controversial practice of collecting and selling billions of faceprints was dealt a heavy blow by the Privacy Commissioner that could set a precedent in other legal challenges."

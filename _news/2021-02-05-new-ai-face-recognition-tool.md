@@ -112,6 +112,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 41
+  - title: "Privacy commissioners call facial recognition service illegal"
+    excerpt: "Canada’s privacy commissioner and three of his provincial counterparts say a facial recognition tool sold by  technology company Clearview constitutes mass surveillance and is illegal in Canada. “It is an affront to individuals’ privacy rights and inflicts broad-based harm on all members of society,"
+    publishedDateTime: 2021-02-04T16:00:00Z
+    webUrl: "https://www.rcinet.ca/en/2021/02/04/privacy-commissioners-call-facial-recognition-service-illegal/"
+    type: article
+    provider:
+      name: rcinet.ca
+      domain: rcinet.ca
+    quality: 39
+    images:
+      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/02/istock-1284886674.jpg"
+        width: 1266
+        height: 828
+        isCached: true
   - title: "Facial Recognition Can Find Rioters, but May Harm Others"
     excerpt: "The AI-driven technology has been helping officials identify those who stormed the Capitol on Jan. 6, but it also has been found to have racial biases. Officials must balance the potential benefits with the risks."
     publishedDateTime: 2021-02-05T21:44:00Z

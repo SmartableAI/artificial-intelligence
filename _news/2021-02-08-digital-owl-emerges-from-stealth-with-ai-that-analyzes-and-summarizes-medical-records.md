@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     isCached: true
 
-secured: "KSq6TRsSk9Imvx/4Jdfy4Iy1WKmnKW2FnhnXYARboUs74snfop7DJM6pQhzvAsvmLiQOQyd+2ICa1SxRtZSaPVxH+G2rXH1sPy1j1jjBNktR2mKkU/SxB4UcUfa6zoVY2WiX/ipIAqOCR+JOL3LCcHAsE3W3ICApUbuK0Dcvx0Up2E6UKcur5vA/JvXuDRFZbQvcAmaGefCHC5jYyfW3R0lZMAJDSXT8Pq5B0ID1Jp8oI2Uj2amQ9IhL13KnzU1j+RkLKMxLwgOVO3CUCVyGPbOk8NEkwU7aznOmVOlUNNSaeAA7q+P/Fl9Fihnh26CAW1/xHYbbEiJ0vJ1u11aYsF07LJYRE2ZvQLkwSklI454=;13ULtJmr8CHWW2WfAMro0Q=="
+secured: "kg2yJAtZO1DwBiFzi1+qEbXWHqFvtrFf2TSIQ9k/0Pk9FvnYcrn+30EG3bDGb6Lid3VsmZuvKAhBFVmw8Pe2sf/G51MhaevRUmoAArXEm+Yor4i3zNnH2G5TvNURnAgUOgQIiAHLVwWIwLOfXYYJwtUXMbEYQmw10NmxK5dlo5V98rNzrbOxKFaoNhPQhm6strT3bMhWzHJEXBdiiosasaqZ0KyY45tln5FYAnarpD/3gOnIfXtSeqHpH4mS/opht/FJh11L8ovYTnj0dy7/2dHe/l5EzZiyIIhJUwuUhOekHWLcoPp4CRvE883cc6jOXzWjslC82Y4iIxjYdLFx/ETah/5eOL+3T2SBxub6iyAmSWB2F3VYFUm1JZeuEOPBdsEIwPdvgsOZa9UAa/1wx4MF/wjnQ9W12m4Q3xR0HDzWx7jcK/mdEf6iUCK83nfsnjGYQPqDjR1SYmfzysg8xkpbWBThYI5oAM9RYlRiwQ0gtqndqLC/HkJNuTn9EIXGQA/H5KX2gRCNfrTvJhUeVw==;xvXGKmU9CRLf7pnJw3GYTg=="
 ---
 

@@ -2,27 +2,27 @@
 category: news
 title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
 excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
-publishedDateTime: 2021-02-04T05:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+publishedDateTime: 2021-02-04T05:43:00Z
+originalUrl: "https://www.newswire.ca/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-868778079.html"
+webUrl: "https://www.newswire.ca/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-868778079.html"
 type: article
-quality: 36
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Newswire
+  domain: newswire.ca
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
 
 related:
   - title: "IBM rolls out an all-new Elite Hybrid Cloud Build team for AI partners"
@@ -72,6 +72,6 @@ related:
         height: 627
         isCached: true
 
-secured: "mVXyMwr9zx3lb81F5NjPccPbg4ZUkOzlcPsgbvVcbI5C/Rh2jAyF8aP+C6iuO5FKPsw7ys3c2iF4VfB7CqA5B8APjYZRsSWPNJlPR8kXAhvAjArqTVcouxtOXwE5DTwmHal6zPsHRoMLK5VDuazPY65a/CYeyUMxdI00zvgQ/q43oXqzxBJncXsiWYelSRKl2X6nEYjsS5uJFqFijXCyypuh13dUHuCdkecRQK+1SdGsQWU87MndSC+8VFSvbYmzkEhYRhsFAhgJfYoR+XvDJnuSNiw/A4aDcxxtDg+Jo6bwoukZx3ODz5HJ7I58zx7I6nBFhN2c5vpKCOeQGS9AOd3ag0cMPzWot8d2+92Zylg=;QjbGRwLpwEIsjp6zkkBgog=="
+secured: "BjfNqEp3KarYJsHan7/QmnxAkYo78t+Hy0z2Rly9bEZG3bn/bpeB4/wWaMrjb/ni+Sd1J7WO5OKYwG58SbBQntsnsKYaJF81/koAT0Y3KocbCzHfGmmgsKzph2oASHtpnO18YN8EACYiEuMTw0ZRlDzpYjVPuEEWfGpCHxY4VAyeR74hHH9bz6n6gvZXVwq0GF9rePcBAMs73ITMVmRb32ETPHBgOJZkJXrfNSlxfYGoLqTn8Z75YrYOlZsFF6J63xiiDTMgrjz6FMVXer+GhlYaVLJZo6e64eZ1r4k59/NhBTJuWaymUzDbcVmM+uwQ+EntTATRljuE0kntTIPonWs9UizB2uFsaz7gWUXbtXY=;v7SAvVzEYb8IGBEy/K/vgQ=="
 ---
 

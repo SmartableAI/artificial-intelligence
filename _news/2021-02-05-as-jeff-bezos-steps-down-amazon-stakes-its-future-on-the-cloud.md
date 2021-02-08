@@ -2,28 +2,26 @@
 category: news
 title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
 excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
-publishedDateTime: 2021-02-04T20:39:00Z
-originalUrl: "https://www.cbs46.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_cc62980f-76bc-5d68-8d2a-bc86a8cd59d3.html?block_id=994631"
-webUrl: "https://www.cbs46.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_cc62980f-76bc-5d68-8d2a-bc86a8cd59d3.html?block_id=994631"
-ampWebUrl: "https://www.cbs46.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_cc62980f-76bc-5d68-8d2a-bc86a8cd59d3.amp.html"
-cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_cc62980f-76bc-5d68-8d2a-bc86a8cd59d3.amp.html"
+publishedDateTime: 2021-02-04T20:26:00Z
+originalUrl: "https://bismarcktribune.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_88f097f2-6421-52d1-8aa7-d55cfa96e0da.html"
+webUrl: "https://bismarcktribune.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_88f097f2-6421-52d1-8aa7-d55cfa96e0da.html"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: CBS Atlanta
-  domain: cbs46.com
+  name: The Bismarck Tribune
+  domain: bismarcktribune.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/6/82/68260dbe-6f2f-5987-9622-8e57c616132c/601c59ff06c95.image.jpg?resize=1024%2C576"
-    width: 1024
-    height: 576
+  - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/2/d4/2d408a84-28a1-5e3e-a378-7ab31d02b8d1/601c568ff0f28.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 324
         isCached: true
 
-secured: "JRm3nzAOpffSjH8nevTDr5jQAzSO9Gm1tBTe3vOqs9J1zZ6tnqXAyW1NnEjhbo6LMjCu9+mJbwV8fnKkuI1zpSVs1vyh5xj8GXJgsR9xOEQktt8I02LPUOdVHGzkjYCC4tXPJcZpyw0D0amJr/+dWp7T7TbAPFFYYyxVxhDM5MAFnj4sejAnvRn402qxc1tMWNQlVuALl394UPArIvKpNkTpF1l+XcLJQZ7i+b695PWgLWfhIIbBy0qHi8zZgt7lo15Te/fmheaMkZpFeXPpjcQKGmC9P1oVupjSS8u0gkMhR+lkOOQsVjWrIcQOHFsUGAXCirNyZBrEv/MD1pPNMH8RCNGH8cQmqURFzpKE7CY=;4kpYqiglJoeQF7BKRbG2Fw=="
+secured: "VQgb6BX2bxJ99v1/RPgZHSNj3owrYzPoxVVZedyk7GtAxame4beKaL3XNrtkVFFjV/oYaG5umcYbtPdsJzjBpwpS2W5U+qlYpH4K5ugfTGsqgheRXGyQshbShmZdjxdE4y4xYllECzo1B9H0jGlwVTsRX7UGbm+KGNj/i/EIXsnOil1ipAOGY+P15j4cExQ7MXxd7EpicvFMJRJp0V6xO+/mg3DzSZodK632pftDAu4VB+2WVgLTgXp7YLPAHpFSRst8LecKbJdZ07bTzl+eYO4HmYc6wCDLzBhooqe7X/Gi8GdTsaSr3TvIFon0Chc1CR1h4q7tWE15LWpIsO3wkOPkUy9954f0kIWYVyoq/Qw=;AZbxhC3fr1QJ3YgZ+HCErg=="
 ---
 

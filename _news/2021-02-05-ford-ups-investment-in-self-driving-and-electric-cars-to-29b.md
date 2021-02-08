@@ -25,77 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "Ford Boosts Investment Plan for EVs and Self Driving Vehicles, Reports Loss"
-    excerpt: "Ford Motor Co on Thursday boosted the amount of money it plans to invest on electric and autonomous vehicles to $29 billion even as it posted a fourth-quarter net loss of $2.8 billion. The No. 2 U.S."
-    publishedDateTime: 2021-02-04T21:24:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp"
+  - title: "When Self-Driving Cars Get Embroiled In Massive Car Pileups"
+    excerpt: "Exploring why self-driving cars will indeed be mired in massive car pileups and are not invincible for such tragedies."
+    publishedDateTime: 2021-02-08T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
-  - title: "Ford boosts investment in electric and self-driving vehicles to $29 billion over five years,"
-    excerpt: "Ford on Thursday said it will invest $29 billion in electric and autonomous vehicles, even as it posted a fourth-quarter net loss of $2.8 billion."
-    publishedDateTime: 2021-02-04T21:42:00Z
-    webUrl: "https://www.businessinsider.com/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://i.insider.com/601c68a119cbd800188afd52?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020d8f3a91e85b44784b7e1%2F0x0.jpg%3FcropX1%3D1144%26cropX2%3D3871%26cropY1%3D436%26cropY2%3D1970"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Ford boosts investment plan for EVs and self-driving vehicles, reports loss"
-    excerpt: "As ford announced a Q4 loss, it said it would increase its investment in electrification to $22 billion through 2025."
-    publishedDateTime: 2021-02-05T23:17:00Z
-    webUrl: "https://www.autoblog.com/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/02/05/ford-ev-investment-q4-earnings-loss/"
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T13:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4393554001"
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 42
+      name: USA Today
+      domain: usatoday.com
+    quality: 34
     images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/4032x2268+0+403/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/a2049ab0-67be-11eb-9f7f-36d2fa48d0e8"
-        width: 800
-        height: 450
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Report lays out figures on Beijing's self-driving vehicle tests"
-    excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."
-    publishedDateTime: 2021-02-08T04:47:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202102/08/WS6020b097a31024ad0baa80b9.html"
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T16:01:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4393554001"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
+      name: Tennessean
+      domain: tennessean.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vt. transportation officials to hold forum on self-driving cars"
+    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
+    publishedDateTime: 2021-02-04T19:32:00Z
+    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
     quality: 24
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202102/08/6020b639a31024adbdb38f08.jpeg"
-        width: 720
-        height: 480
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
+        width: 980
+        height: 552
         isCached: true
-  - title: "Ford posts strong results, promises big bet on electric and self-driving cars"
-    excerpt: "By Chris Isidore, CNN Business Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big"
-    publishedDateTime: 2021-02-05T10:08:00Z
-    webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
+  - title: "When will self-driving cars hit the road?"
+    excerpt: "Tech afficionados often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers."
+    publishedDateTime: 2021-02-05T10:01:00Z
+    webUrl: "https://www.daytondailynews.com/news/when-will-self-driving-cars-hit-the-road/NG3UDA3MJZDSTLNKS3N4I6QPFU/"
     type: article
     provider:
-      name: KTEN
-      domain: kten.com
-    quality: 21
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 24
     images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/20336791_G.jpg?lastEditedDate=1612462806000"
-        width: 500
-        height: 333
+      - url: "https://www.daytondailynews.com/resizer/er6gSOekz065eDW-FmCHa9YfwMw=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/FEOBHDBAUDH6KTMUTOPB74QYDQ.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Will it be self-driving car, “electric car?"
+    excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"
+    publishedDateTime: 2021-02-06T17:14:00Z
+    webUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 24
 
 secured: "tlKRX5dnD5zJPSNKIAQ7dPPKoCub8lVu6lvsuuIhJ6dCF2lIebx0gRyvvRx/y0dPjqo1EyxSy+SQu1Xhol4Mp0KqpeacsikTPk4ACxefVeDt3vqIsZimPRLQ/wPceybinB+plTELxV5yzHtrFr8i+8sEQmKiokWHCXDiI0ucuno7wQWTKPP7gMhBCDQSFY0JIlwuNSqcSeFYFA3ACcIY4zqUHXDnfaNXkCcfDePR2VSG4z39yX5c0uiAFMVgOCbtRvYkyZJ1DMfVIR+483t7l5iQ4vfYWG7XuH3KgLxSyN+Vs0lx0HczwqCd5i9EE18C00IBGfcXfsuKPxOsSw6u6Svh3xk0NmM1u7eSnNr7FVqvaoNs+gXzYoptv5dW7U8EV4rgIh14rGTs1KPJw4kCSbTeip8zx67jWXk9GRcG0rjoXkNN86+uH2De5QsI0MlHEHc8DI9YMUoWnvZdqxS6ulKw6YjdXBwV7lLZL1B/oS1hbG68QKh3so91jQktKqKhMKdse7EXZLh2JHubrQjQfw==;jL362hbfT7YOwrWzXak0YA=="
 ---

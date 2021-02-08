@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/4032x2268+0+403/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/a2049ab0-67be-11eb-9f7f-36d2fa48d0e8"
         width: 800
         height: 450
-        isCached: true
-  - title: "Ford ups investment in self-driving and electric cars to $29B"
-    excerpt: "Ford plans to spend up big in the areas of electric vehicles and self-driving technology, CEO Jim Farley said Thursday during a conference call detailing the automaker's 2020 financial results. Key measures mentioned by the new Ford CEO include an increase in spending on EVs to $22 billion through 2025,"
-    publishedDateTime: 2021-02-05T13:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131191_ford-ups-investment-in-self-driving-and-electric-cars-to-29b"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/2021-ford-mustang-mach-e_100779690_h.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Report lays out figures on Beijing's self-driving vehicle tests"
     excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."

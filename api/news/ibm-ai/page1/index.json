@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-08-use-predictive-data-insights-to-make-more-informed-decisions-with-palantir-for-ibm-cloud-pak-for-data.md",
-      "title": "Use predictive data insights to make more informed decisions with Palantir for IBM Cloud Pak for Data",
-      "excerpt": "Every year, the average enterprise makes thousands of critical operational decisions. With rapid digitization, this decision-making is becoming more siloed, distributed and complex. This can have staggering cost implications on the business. Are you confident that you are leveraging all your data to",
+      "path": "_news/2021-02-09-ibm-and-palantir-debut-no-code-platform-for-openai-applications.md",
+      "title": "IBM and Palantir debut no-code platform for OpenAI applications",
+      "excerpt": "IBM and Palantir have announced their jointly developed product, Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/palantir-for-ibm-cloud-pak-for-data/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/palantir-for-ibm-cloud-pak-for-data/",
+      "webUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications",
+      "originalUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 169,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/Palantir-for-IBM-Cloud-Pak-for-Data-990x498.png",
-          "width": 990,
-          "height": 498,
+          "url": "https://media.itpro.co.uk//image/upload/v1612799848/itpro/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg",
+          "width": 2252,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T04:00:21-08:00",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp",
+      "publishedDateTime": "2021-02-08T08:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "IBM AI",
+        "AI"
       ]
     },
     {
