@@ -2,6 +2,143 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-12-22-civil-rights-groups-demand-cbp-stops-facial-recognition-expansion-at-airports.md",
+      "title": "Civil rights groups demand CBP stops facial recognition expansion at airports",
+      "excerpt": "The American Civil Liberties Union, Electronic Frontier Foundation and more than a dozen other civil rights groups have objected to Customs and Border Protection's plan to expand use of facial recognition at border entry and exit points.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
+      "originalUrl": "https://www.engadget.com/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F42880f80-43ca-11eb-b7b6-51f4eb4fc119&client=amp-blogside-v2&signature=91f0f841f028a0036c46cedd061524d5764f7146",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/civil-rights-groups-cbp-facial-recognition-airports-seaports-211020854.html",
+      "publishedDateTime": "2020-12-21T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector.md",
+      "title": "Beyond Limits Aligns its AI with Nvidia in Energy Discovery Sector",
+      "excerpt": "AI company Beyond Limits today said it will collaborate with Nvidia on joint strategies leveraging Nvidia technical support and GPU-optimized AI software, including containers, models and application frameworks from the Nvidia NGC catalog, to improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/",
+      "originalUrl": "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-mercedes-teases-an-ai-powered-version-of-its-mbux-infotainment-system.md",
+      "title": "Mercedes teases an AI-powered version of its MBUX infotainment system",
+      "excerpt": "When the new Mercedes EQS sedan hits the road next year, it will feature a new and improved version of the automaker’s MBUX infotainment called the MBUX Hyperscreen as an optional upgrade. The company says the ultrawide screen spans the entire front dashboard of the upcoming EV and adds AI to the mix to make using the system more intuitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "originalUrl": "https://www.engadget.com/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fee6f0f50-43cb-11eb-94eb-df4c84d9d453&client=amp-blogside-v2&signature=5244a6d8187979bfeadbace8c67d51749b3b2789",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mercedes-mbux-hyperscreen-ces-2021-tease-204213039.html",
+      "publishedDateTime": "2020-12-21T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-dispelling-three-popular-myths-about-ai.md",
       "title": "Dispelling three popular myths about AI",
       "excerpt": "However, implementing an AI strategy without knowing what you want to achieve can not only be costly but ultimately sets a business up for failure. To learn more about some common misconceptions that may be holding organizations back from yielding the full potential value of their investments in AI,",
@@ -1030,135 +1167,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-cloud-api-market-2020-research-report-rationalize-share-size-and-future-opportunities-ca-technologies-dell-google-ibm-microsoft-corpo.md",
-      "title": "Cloud API Market 2020, Research Report Rationalize Share, Size and Future Opportunities - CA Technologies, Dell, Google, IBM, Microsoft Corpo",
-      "excerpt": "The cloud application programming interface (API) allows the development of applications and services utilized to ... such as speech recognition and cognitive computing are some factors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2214107/cloud-api-market-2020-research-report-rationalize-share-size",
-      "originalUrl": "https://www.openpr.com/news/2214107/cloud-api-market-2020-research-report-rationalize-share-size",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc21135012_g.jpg",
-          "width": 626,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2214107/cloud-api-market-2020-research-report-rationalize-share-size",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2214107/cloud-api-market-2020-research-report-rationalize-share-size",
-      "publishedDateTime": "2020-12-21T02:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-aws-premier-consulting-partner.md",
-      "title": "Cognizant acquires Inawisdom, an AWS Premier Consulting Partner",
-      "excerpt": "Cognizant (NASDAQ:CTSH) has acquired Inawisdom, a UK-based, privately-held consultancy specializing in artificial intelligence, machine learning, and data analytics to help businesses make better, faster decisions that improve business outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3646056-cognizant-acquires-inawisdom-aws-premier-consulting-partner",
-      "originalUrl": "https://seekingalpha.com/news/3646056-cognizant-acquires-inawisdom-aws-premier-consulting-partner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3646056-cognizant-acquires-inawisdom-aws-premier-consulting-partner",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3646056-cognizant-acquires-inawisdom-aws-premier-consulting-partner",
-      "publishedDateTime": "2020-12-21T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-chinese-face-scanning-firm-cloudminds-rebrands-us-unit-after-blacklisting.md",
-      "title": "Chinese face-scanning firm CloudMinds rebrands U.S. unit after blacklisting",
-      "excerpt": "The U.S. unit of SoftBank-backed robotics startup CloudMinds has changed its name to distance itself from the blacklisted China-based firm.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
-      "originalUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
-      "publishedDateTime": "2020-12-21T02:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

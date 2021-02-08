@@ -3,8 +3,8 @@ category: news
 title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
 excerpt: "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
 publishedDateTime: 2021-01-29T08:46:00Z
-originalUrl: "https://apnews.com/article/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3"
-webUrl: "https://apnews.com/article/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "Sw0y1LU65LfbOpgRelcfJEjFTuknvInKb7yWnytovu1LETG4LAGxbisGX/dDfCRJywKzmCwxgJDMLDqzUnE/KVFv1AxurFSeTwqnAiB12I1r1nD42eY9q+3x893BE6NfztACe+T+ftpkSjXSq85Z+ZJl4y4QF8iqRdjyMA5SxKThVhQqjO8cJD5cYy6WKXbmNQ4aYCcpZjZb3NH4bCjbVcALF75/e8ozdzu/pJmcJpxlM6Vk3PRxxlRAp78R1BlPI329v3kII4UIwUtaLq0l2gumdPshFM6NvyXf67O3fxfnzx41E2KaLZrKCWzJQ+KeT96s0lJWUL/8bli+ZIIQLEhwpIro2lbO09OI/3D73/Y=;4XSA6AFDO4D1SMxckgC3GA=="
+secured: "0RzhGtgGKfqqipqJjJTcR6TttOQ3AeNRCLzk3Y7sxVuTBKkwnD6VcAAPSb5OSoG6p63/OpHqKp1KVzfn8gpQbb9RsWtz8Zregt1a4BIBlm4h8zlRCE8WbaQFMkMBvR5hvSX6ao6WNjtEIm6tNVA9y2cEcYvtfbhLGeIMa+qCt7zWFEEElSh8y+TCzLtGAiIFjD8fpQtN/1Jtk6G25n/GhJW0C2evaFR7lHQxC4lSme0m93kSt0ZRXuax1Fy1uGfNNXo+I/SwuqenE8n2mamnfPpSyUXP3g9UAvdJxvvKNuRr+E7sPdd5YiS1sW1NylvoUw7U3k6ctmsMyJy7Ald08HOO+5w7IKeJhvQRcD3kwkg=;OmiVZYb/8zWEBND25Bv1ZA=="
 ---
 

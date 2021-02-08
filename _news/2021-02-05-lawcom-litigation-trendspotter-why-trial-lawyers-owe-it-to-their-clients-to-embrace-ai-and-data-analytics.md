@@ -40,6 +40,20 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
+    excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
+    publishedDateTime: 2021-02-08T10:21:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/kellton-tech-launches-kelive-a-building-management-solution-underpinned-with-ai-and-smart-analytics-888095974.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1276309/Kellton_Tech_Solutions_Logo.jpg?p=facebook"
+        width: 698
+        height: 366
+        isCached: true
 
 secured: "+oUWp+IdV7+p1VadOa3r1MSiwuTUortfGj+WE0ASKNIqXaKOPYgEM/0zf5/k/sP3OHCTEocP7l7TcOtvHREgINoqqFyrh8GRXcL3FAlZgM3b7tEl9bAuw8fH3SqxNIgur1G46cfMe9uhRkGAyc2trjeqFfa+U7/pTUrxpsnCXLJJ2QlNZToduZMNNJnSGETbv1UPSxWYMjHcvkBhrRsWEoEz+VFpCpye/hucqUmMttBy2UNa2vA8VJzsT3clxEo3XBhGO+SP6skwIW7UjzKvzMjcmeAoetRQwf68NkRRXtK2hF+jqD9eNG6iwi47fSgJ+lmH0foSg6yivtX6AD5j5DLYBy7Uw4IuoF5GsXLCxvM=;kVaz3nEFcSmePnVEGuujrw=="
 ---

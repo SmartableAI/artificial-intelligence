@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-generates-human-g
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-generates-human-genomes-199787-1.htm"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

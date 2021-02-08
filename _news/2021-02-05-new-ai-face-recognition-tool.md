@@ -112,20 +112,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 41
-  - title: "Apple creates workaround to facial recognition blocked by face mask"
-    excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-    publishedDateTime: 2021-02-03T19:02:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 39
-    images:
-      - url: "https://www.wsbtv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Facial Recognition Can Find Rioters, but May Harm Others"
     excerpt: "The AI-driven technology has been helping officials identify those who stormed the Capitol on Jan. 6, but it also has been found to have racial biases. Officials must balance the potential benefits with the risks."
     publishedDateTime: 2021-02-05T21:44:00Z

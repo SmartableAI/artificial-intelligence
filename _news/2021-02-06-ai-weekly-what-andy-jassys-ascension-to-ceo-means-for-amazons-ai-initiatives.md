@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Amazon CEO Andy Jassy Loves Fossil Fuels and Facial Recognition"
-    excerpt: "Jassy, who will replace Bezos this year, has a deeply concerning track record on everything from antitrust to killer robots."
-    publishedDateTime: 2021-02-03T18:29:00Z
-    webUrl: "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition"
-    ampWebUrl: "https://www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 91
-    images:
-      - url: "https://video-images.vice.com/articles/601ae267409f2e00958c730c/lede/1612374770921-gettyimages-670451714.jpeg?crop=1xw:0.843644544431946xh;center,center"
-        width: 4000
-        height: 2250
-        isCached: true
   - title: "How Andy Jassy, Amazon’s Next C.E.O., Was a ‘Brain Double’ for Jeff Bezos"
     excerpt: "Mr. Jassy, who will become Amazon’s chief this summer, has spent more than two decades absorbing lessons from Mr. Bezos."
     publishedDateTime: 2021-02-03T22:20:00Z
@@ -62,38 +46,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "After 27 Years, Jeff Bezos Will Step Down As CEO Of Amazon"
-    excerpt: "Jeff Bezos is stepping down as Amazon CEO, the online internet retailing giant he founded 27 years ago, and will become executive chair, focused on “new products and early initiatives,” he announced on Tuesday."
-    publishedDateTime: 2021-02-03T18:29:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 74
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-09/4/13/campaign_images/buzzfeed-prod-web-03/amazon-just-became-the-second-public-us-company-t-2-18612-1536082639-0_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
-  - title: "Incoming Amazon CEO said you can’t ‘assume’ police will abuse facial recognition tech"
-    excerpt: "Andy Jassy, who will take over for Jeff Bezos as CEO of Amazon, has previously defended law enforcement use of facial recognition technology."
-    publishedDateTime: 2021-02-03T17:32:00Z
-    webUrl: "https://www.dailydot.com/debug/andy-jassy-facial-recognition-amazon-law-enforcement/"
-    ampWebUrl: "https://www.dailydot.com/debug/andy-jassy-facial-recognition-amazon-law-enforcement/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/andy-jassy-facial-recognition-amazon-law-enforcement/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 67
-    images:
-      - url: "https://uploads.dailydot.com/2021/02/Andy-Jassy-Amazon-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
     excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
     publishedDateTime: 2021-02-04T12:20:00Z
@@ -109,6 +61,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/03/8d479944-d332-4de1-9d61-25c44ed488b0/thumbnail/1200x630g6/3de4be33411da8961307fb8858d5a45e/gettyimages-1129882595.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
+    excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
+    publishedDateTime: 2021-02-04T11:20:00Z
+    webUrl: "https://www.stltoday.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_1c676c50-6be9-5dd1-a7e9-53baff90b825.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/58/d5899960-f752-582f-bdee-07771afdc09e/601c565e30b9d.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
   - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
     excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."

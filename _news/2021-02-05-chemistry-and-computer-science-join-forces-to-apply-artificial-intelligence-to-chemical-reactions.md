@@ -25,22 +25,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "Chemistry and computer science join forces to apply artificial intelligence to chemical reactions"
-    excerpt: "Princeton chemists and computer scientists teamed up to develop open-source software that provides them with a state-of-the-art optimization algorithm to use in everyday work, folding what’s been learned in the machine learning field into synthetic chemistry."
-    publishedDateTime: 2021-02-03T18:55:00Z
-    webUrl: "https://www.princeton.edu/news/2021/02/03/chemistry-and-computer-science-join-forces-apply-artificial-intelligence-chemical"
-    type: article
-    provider:
-      name: Princeton University
-      domain: princeton.edu
-    quality: 24
-    images:
-      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2021/02/Shields-Doyle-2x1.jpg?itok=fx17D3FC"
-        width: 1440
-        height: 720
-        isCached: true
-
 secured: "TJsykxR3R2kQGRqFlLssrP5oG5vgFHtDPY8Rk4BDkxJBlT94qzOumAOA6Sce94TXRkrgjkDDQqye42hHQZUr1lUHrJp+1c5U6h4Ofw5iaV9v5i9ww8jbQHRFeqKzSy9vBncvhHvLUCi2INItmDCN21+fLUogo5/iojb66Q8NQ8v/HtYMWEc71+CGUwIsxmTG3ApyiKhasUgAttSNQawbDRO9XkjqH5JQ0WByUZnJmmypyRmv85rcNP+HcWaIQFSDzJOOx2KLVjYu06pXNjOmIte3l3OP70mzXP35r5Ld0q5JrXIhDc4sMzQbWG4JwCT8L1yvXZLZz5j0d32fbU3WD/2GRAp5ifflf8mGWT3nEvJiQxKinG+fTfWRtetz8YlQVzx7CaRkw27YYgkM8fGpJQAG1LW+X9ww54sWYUZYsUd6zU89T8RM1+8Q2XSBfq6BkjZPt9UZPXoX3jgHJmRAVhEleuVwRXBWWWVyNuUrVYGgcxkD8wbHVZ+jqiQ6j9O24lLuXI1BV3R89Bv4kV3NBQ==;3kvGf8Im1rYMHGlvmZUeDw=="
 ---
 

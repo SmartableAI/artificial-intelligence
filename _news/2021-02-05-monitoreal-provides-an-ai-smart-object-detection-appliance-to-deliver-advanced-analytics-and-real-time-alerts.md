@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
+    excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
+    publishedDateTime: 2021-02-08T10:21:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/kellton-tech-launches-kelive-a-building-management-solution-underpinned-with-ai-and-smart-analytics-888095974.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1276309/Kellton_Tech_Solutions_Logo.jpg?p=facebook"
+        width: 698
+        height: 366
+        isCached: true
   - title: "Law.com Litigation Trendspotter: Why Trial Lawyers Owe It to Their Clients to Embrace AI and Data Analytics"
     excerpt: "Now, more than ever, litigators may be doing their clients a disservice by not taking advantage of legal technology."
     publishedDateTime: 2021-02-05T03:08:00Z

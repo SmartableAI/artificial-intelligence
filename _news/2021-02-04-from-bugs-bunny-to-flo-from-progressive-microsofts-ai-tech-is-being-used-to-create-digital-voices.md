@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches Custom Neural Voice in limited access"
-    excerpt: "Microsoft today launched Custom Neural Voice in limited preview, a service that allows customers to create custom voices using AI."
-    publishedDateTime: 2021-02-03T17:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/"
-    ampWebUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 139
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft launches Viva, an AI-powered information hub for enterprises"
     excerpt: "Microsoft today introduced Microsoft Viva, a hub of services designed to address digital workplace challenges."
     publishedDateTime: 2021-02-04T14:02:00Z
@@ -135,22 +119,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Microsoft launches Custom Neural Voice in limited access – Jaweb"
-    excerpt: "Microsoft today announced the general availability of Custom Neural Voice, an Azure Cognitive Services product that lets developers create synthetic voices with neural text-to-speech technology. It’s in limited access,"
-    publishedDateTime: 2021-02-03T17:41:00Z
-    webUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/Microsoft-launches-Custom-Neural-Voice-in-limited-access-–-Jaweb.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
@@ -164,20 +132,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/ConnectedSoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "GDIT Signs Microsoft Partner Agreement to Deliver Azure to Federal Agencies"
-    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics, has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G), GDIT reported on Thursday. \"Clients across the federal government are rapidly adopting cloud and Software-as-a-Service solutions,"
-    publishedDateTime: 2021-02-05T00:00:00Z
-    webUrl: "https://www.executivegov.com/2021/02/gdit-signs-microsoft-partner-agreement-to-deliver-azure-to-federal-agencies/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 52
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/22/95/47/f5/8c/f7/58/f8/e4/gdit_20200722.png"
-        width: 272
-        height: 270
         isCached: true
   - title: "This Microsoft self-driving car concept takes aim at the ambitious Apple Project Titan"
     excerpt: "With the Microsoft Surface car concept, that feud extends into the world of transportation too! Meet the Microsoft Surface Car, an automobile that beautifully channels the sleek aesthetic of Microsoft’s Surface laptops into its automotive design."
@@ -277,20 +231,6 @@ related:
         width: 696
         height: 348
         isCached: true
-  - title: "Microsoft Partnership Will Bring New Cloud Service to DOD Microelectronics Project"
-    excerpt: "Microsoft announced new partnerships Thursday that will support two major Defense Department projects using the tech giant’s Azure cloud services. Microsoft is working with ten companies on a technology solution for the secure design of microelectronics using a new service in the Azure Government cloud region in support of a Defense Department program,"
-    publishedDateTime: 2021-02-05T02:57:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/microsoft-partnership-will-bring-new-cloud-service-dod-microelectronics-project/171872/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 35
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/04/NGmicrosfot20210204/860x394.jpg"
-        width: 860
-        height: 394
-        isCached: true
   - title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
     excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
     publishedDateTime: 2021-02-05T08:05:00Z
@@ -305,19 +245,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
-    excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
-    publishedDateTime: 2021-02-03T18:14:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
+  - title: "Talking Medicines Launches AI-Powered Patient Intelligence Platform to Revolutionize Marketing for World’s Leading Drug Brands"
+    excerpt: "Talking Medicines has today (Thursday 4 February) launched an AI-powered social intelligence service, PatientMetRx, giving the world’s leading drug brands insights on patient experience on a scale and depth never previously possible."
+    publishedDateTime: 2021-02-04T11:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-media-1e1bfb36d8944678a13496401aafdf00"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ORIcyfOQ9USOm+KbQhCN8jT55u47Cs7+pzg25z+peC960nd7fajbmugzLkyDyhtC6y1i7ugS6D8qEiCp38UaPakPYpkfQgr/JE43c0dBVcdBoJLoxkfFj7KcNBDSWWWZxaCSUM+W4VCwGJ7/QKhm2VZ+ht4Da7CTg900uNeOv2eFgkizj/ysTOYyq0JgrrG2tm847Y40bpItB7jP9CNz9KgDfl2QkTOsh3f9UwwC4vTZjucAbbV1m0NW4sdMgWGCpEPg04aXHluWINDSWJHOubsU2Cbga7m0WXaKmcsMJ6N3FjTkd1R5/FzevLh7/Pm8ut4UbaKCw1Rt8g+2UEZGZDThS+4g/AOtCPPAMnddIj2IHB/X9sHTjfyVytxbo3XOH5hSTT+j+B36mpaf7/p+oFUVbX2+5bMR9NFeHz0xCJoK4KgX1ejy5hq8/BkNDQGoU7imSG+GztOWS9bFzfeacthAX+skej+2U41TjR4+1PJhgcJ9BwmWH95jHsY0gKGJMH/lD0qDFtnKOjFmcy/c6A==;xr/G/PvDc7o/RjlSRqF2PA=="
