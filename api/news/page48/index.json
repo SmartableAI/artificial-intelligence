@@ -2,6 +2,249 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-01-05-amp-robotics-raises-55m-for-its-ai-based-recycling-robot.md",
+      "title": "AMP Robotics raises $55M for its AI-based recycling robot",
+      "excerpt": "Today, recycling robotics company AMP Robotics announced it’s raised $55 million in a funding round led by XN. Valor Equity Partners, GV, and existing investors Sequoia Capital, Sidewalk Infrastructure Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp",
+      "publishedDateTime": "2021-01-04T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes.md",
+      "title": "Deep Science: Using machine learning to study anatomy, weather and earthquakes",
+      "excerpt": "Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discoveries and papers — particularly in but",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/",
+      "originalUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/amp/",
+      "publishedDateTime": "2021-01-04T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-graphcore-series-e-funding-710m-total-440m-cash-in-hand.md",
+      "title": "Graphcore Series E Funding: $710m Total, $440m Cash-in-Hand",
+      "excerpt": "One of the most well-funded ventures in this space is Graphcore, and the company just announced its latest Series E funding round of $222 million, taking it to $710m total across the five rounds. Graphcore,",
+      "sourceUrl": null,
+      "webUrl": "https://www.anandtech.com/show/16346/graphcore-series-e-funding-710m-total-440m-cashinhand",
+      "originalUrl": "https://www.anandtech.com/show/16346/graphcore-series-e-funding-710m-total-440m-cashinhand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.anandtech.com/doci/16346/July%20Launch%20Blog%20Header%20Image_smallv2_678x452.jpg",
+          "width": 678,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AnandTech",
+        "domain": "anandtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
+      "title": "Healthcare Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
+      "excerpt": "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-why-baidu-stock-soared-556-in-december.md",
+      "title": "Why Baidu Stock Soared 55.6% in December",
+      "excerpt": "Shares of Baidu (NASDAQ:BIDU) rose 55.6% in December, according to data from YCharts. The Chinese search engine giant's stock surged following a report from Reuters",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/62e0770e28ee8c68be6d542e0b5127e7.png",
+          "width": 720,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "publishedDateTime": "2021-01-04T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure.md",
       "title": "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure",
       "excerpt": "\"This combination of Blue Prism and Azure Cognitive Services gives our customers a greater choice with AI-enabled, self-service experience that is provisioned via Microsoft Azure,\" says Chief ...",
@@ -966,240 +1209,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-payments-by-selfie-new-tech-lets-stores-be-paid-by-facial-recognition.md",
-      "title": "Payments by Selfie: New tech lets stores be paid by facial recognition",
-      "excerpt": "When we founded the company two and a half years ago, we were originally focused on offering a solution to give stores tools to personalize their customers’ shopping experience,” said CEO and co-founder Eyal Fisher.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/jpost-tech/coming-soon-payments-by-selfie-654112",
-      "originalUrl": "https://www.jpost.com/jpost-tech/coming-soon-payments-by-selfie-654112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/468942",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/jpost-tech/coming-soon-payments-by-selfie-654112/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/coming-soon-payments-by-selfie-654112/amp",
-      "publishedDateTime": "2021-01-03T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-decade-of-investment-in-big-data-and-ai-yield-mixed-results.md",
-      "title": "Decade Of Investment In Big Data And AI Yield Mixed Results",
-      "excerpt": "Companies remain at an early stage of progress in their efforts to become data-driven after nearly a decade of investment. Only 24.0% of firm’s say they are data-driven, according to NewVantage Partners 2021 annual survey of Fortune 1000 c-executives,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/randybean/2021/01/03/decade-of-investment-in-big-data-and-ai-yield-mixed-results/",
-      "originalUrl": "https://www.forbes.com/sites/randybean/2021/01/03/decade-of-investment-in-big-data-and-ai-yield-mixed-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff1efa04c70ac01465c1f87%2F0x0.jpg",
-          "width": 1199,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/01/03/decade-of-investment-in-big-data-and-ai-yield-mixed-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/01/03/decade-of-investment-in-big-data-and-ai-yield-mixed-results/amp/",
-      "publishedDateTime": "2021-01-03T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-ai-based-database-to-solve-similar-crimes-quicker-centre.md",
-      "title": "AI based database to solve similar crimes quicker, Centre",
-      "excerpt": "The Centre is involved in developing an Artificial Intelligence (AI) and Natural Language Processing (NLP)-based database of modus operandi various cr..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstracklive.com/uploads/crime-news//Jan/03/big_thumb/AI-based-database-to-solve-similar-crimes-quicker-Centre_5ff1b71375b0f.jpg",
-          "width": 796,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "publishedDateTime": "2021-01-03T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-why-robotics-and-language-need-each-other.md",
-      "title": "Why robotics and language need each other",
-      "excerpt": "Combining robotics and language complicates both, but they have the potential to bolster each other",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
-      "originalUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/istock-1127591787.jpg?itok=tVPxJFyv",
-          "width": 1260,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
-      "cdnAmpWebUrl": "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
-      "publishedDateTime": "2021-01-03T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity.md",
-      "title": "If Microsoft Can Be Hacked, What About Your Company? How AI Is Transforming Cybersecurity",
-      "excerpt": "The hackers are starting to use AI, and the only way to successfully defend against future threats is for your company to use AI as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0c3155de38b9230f6c8d2%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/",
-      "publishedDateTime": "2021-01-03T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

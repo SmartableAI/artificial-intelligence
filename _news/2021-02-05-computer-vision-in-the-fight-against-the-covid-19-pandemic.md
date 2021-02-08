@@ -7,7 +7,7 @@ originalUrl: "https://jaxenter.com/computer-vision-covid-173692.html"
 webUrl: "https://jaxenter.com/computer-vision-covid-173692.html"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20210206/ARTICLE/210209333/AR/0/AR-210209333.jpg&NCS_modified=20210206200205&MaxH=225&imageVersion=16by9"
         width: 400
         height: 225
+        isCached: true
+  - title: "Biometric Privacy in the Era of COVID-19: Facial Recognition Compliance for Airports and Airlines"
+    excerpt: "The commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries. This technology has had an especially transformative impact on the commercial aviation industry,"
+    publishedDateTime: 2021-02-08T22:37:00Z
+    webUrl: "https://www.aviationtoday.com/2021/02/08/biometric-privacy-era-covid-19-facial-recognition-compliance-airports-airlines/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 41
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/02/markus-spiske-ijv7mzpmyum-unsplash.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "New Artificial Intelligence Tool Can Thwart COVID-19 Mutations"
     excerpt: "USC researchers have developed a new method to counter emergent mutations of the coronavirus and hasten vaccine development to stop the pathogen responsible for killing thousands of people and ruining the economy."

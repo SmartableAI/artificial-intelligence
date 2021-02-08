@@ -57,6 +57,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Oceania region"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and"
+    publishedDateTime: 2021-02-08T22:05:00Z
+    webUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania"
+    ampWebUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 58
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/pr-newswire_500_4_390.jpg?itok=FTvrIOzU"
+        width: 763
+        height: 509
+        isCached: true
   - title: "How Your Business Can Benefit from Facial Recognition Technology"
     excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
     publishedDateTime: 2021-02-08T14:25:00Z

@@ -63,17 +63,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
-    excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
-    publishedDateTime: 2021-02-04T05:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "IBM Hybrid Cloud Build Team: Helping modernize and migrate workloads of partner ecosystem"
     excerpt: "IBM unveiled its highly-specialized Hybrid Cloud Build Team to support the migration and modernization of ecosystem partner products."
     publishedDateTime: 2021-02-05T03:06:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-c
 webUrl: "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fast-Growing Cybersecurity Startup Rebrands as Safe Security and Commits to US Growth Plans"
+    excerpt: "On the heels of 250% YoY growth, former Cisco Chairman and CEO John Chambers-backed Lucideus launches new identity."
+    publishedDateTime: 2021-02-08T18:09:00Z
+    webUrl: "https://www.darkreading.com/risk/fast-growing-cybersecurity-startup-rebrands-as-safe-security-and-commits-to-us-growth-plans/d/d-id/1340092"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 29
+    images:
+      - url: "https://img.deusm.com/darkreading/Cartoon/Jan21_DR_cartoon_winner.jpg"
+        width: 900
+        height: 855
         isCached: true
   - title: "Data Sharing Critical to AI’s Use in Cybersecurity"
     excerpt: "Strategies for enabling the effective use of AI technologies in cyber-defense were highlighted by a panel of experts during the RSAC 365 webinar ‘AI Meets Cybersecurity: Crossing the Streams and How to Manage the Dynamic Results."

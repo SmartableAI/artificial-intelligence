@@ -45,20 +45,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market Growing at 49.6% CAGR to Hit US$ 40.36 billion by 2027"
-    excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market Research Report and Forecast 2020-2027 is the latest report by Fior Markets which is the fastest growing market research company. The report provides a comprehensive scope of the market which includes future supply and demand"
-    publishedDateTime: 2021-02-04T05:46:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-02-04/global-artificial-intelligence-ai-in-drug-discovery-market-growing-at-496-cagr-to-hit-us-403"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 16
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "Artificial intelligence (AI) Market to Attain a Valuation of Highest CAGR 2022-2031| Google Inc. and IBM Corporation"
     excerpt: "Market.us, one of the worlds leading by prominent market research firms has released a new recent work on \"Artificial intelligence (AI) Market 2022-2031\" based on business intelli"
     publishedDateTime: 2021-02-08T08:24:00Z

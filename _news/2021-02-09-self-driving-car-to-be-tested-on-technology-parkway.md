@@ -41,6 +41,68 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving car for testing Technology Parkway"
+    excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
+    publishedDateTime: 2021-02-08T20:18:00Z
+    webUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 44
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T13:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4393554001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T16:01:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4393554001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ford ups investment in self-driving and electric cars to $29B"
+    excerpt: "Ford plans to spend up big in the areas of electric vehicles and self-driving technology, CEO Jim Farley said Thursday during a conference call detailing the automaker's 2020 financial results. Key measures mentioned by the new Ford CEO include an increase in spending on EVs to $22 billion through 2025,"
+    publishedDateTime: 2021-02-05T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131191_ford-ups-investment-in-self-driving-and-electric-cars-to-29b"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/2021-ford-mustang-mach-e_100779690_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Vt. transportation officials to hold forum on self-driving cars"
     excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
     publishedDateTime: 2021-02-04T19:32:00Z
@@ -80,6 +142,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 24
+  - title: "Will Vermonters support self-driving car testing in their communities?"
+    excerpt: "Will your local leaders support the testing of self-driving cars in your community? That's what state leaders are trying to find out."
+    publishedDateTime: 2021-02-08T21:08:00Z
+    webUrl: "https://www.wcax.com/2021/02/08/will-vermonters-support-self-driving-car-testing-in-their-communities/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 24
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
+        width: 980
+        height: 552
+        isCached: true
 
 secured: "jXercWwCrkGDRZnze9ziWkQCHcfenURI01pjc9T0m6+R9PXpWkB9cL8h47GSl7H3hVwg8B1G3FUy0zMs/ltnH+MfyG4TJHzd/fDmMVnXyoy65R3RZ7hyBFMgol7VT7XYQSvA2k/b5iltCocZCrv0bwNV9udtBJ0OhQAxT03ahh+I+SDgeMyd+p1WAT0SPmyly5RhgUMflKw8HvBjp1ANGrjRWiqWTiGjscNbGAj3Fq5yUEx5H7fvYgVj1JgOrbuaS7a556lDrCxDMo43ZGYEm5FKPfBZmI3dnn/FhbG+YRAfjWJJvyN83E//htwKOVEQbD8nVAGodTteWFpku/sF/idikJRiP6Ifjn3u+QVwL5I=;62oRWnZrn6ZO8dDdppr0nw=="
 ---

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-18-global-deep-learning-market-top-companies-covid-19-impact-regional-demand-and-future-development-research.md",
+      "title": "Global Deep Learning Market -Top Companies, COVID-19 Impact, Regional Demand And Future Development Research",
+      "excerpt": "Facto Market Insights published a title on “Global Deep Learning Market – 2020-2028”, to its collection. The study on the global deep learning market defines the analysis of all the segments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2212858/global-deep-learning-market-top-companies-covid-19-impact",
+      "originalUrl": "https://www.openpr.com/news/2212858/global-deep-learning-market-top-companies-covid-19-impact",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc18479226_g.jpg",
+          "width": 800,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2212858/global-deep-learning-market-top-companies-covid-19-impact",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212858/global-deep-learning-market-top-companies-covid-19-impact",
+      "publishedDateTime": "2020-12-18T00:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-forecast-2021-artificial-intelligence-during-covid-and-beyond.md",
       "title": "Forecast 2021: Artificial Intelligence during COVID and beyond",
       "excerpt": "Artificial intelligence has been a sector to watch during the pandemic. The enterprise has been seeking new routes to efficiency, organizations with an abundance of furloughed or fired workers have bandwidth crunches,",
@@ -1370,58 +1413,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more.md",
-      "title": "Bringing data back to the future: Forecasting supply chains with savvy data usage, deep learning, and more",
-      "excerpt": "Historical insights are routinely deployed to determine market forecasts, but how does one predict shifts in consumer behavior related to an unprecedented modern plague? The answer: Clever data use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/12/11/0eea8d4a-e8e0-40b4-8444-869d5c3d7aa3/resize/1200x/0b738c38ac165efdd7d7439d63bbc47a/monsitj-3.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "publishedDateTime": "2020-12-11T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

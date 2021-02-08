@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/travel/delta-expands-facial-recognition-dome
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Delta-expands-facial-recognition-Technology.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Oceania region"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and"
+    publishedDateTime: 2021-02-08T22:05:00Z
+    webUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania"
+    ampWebUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 58
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/pr-newswire_500_4_390.jpg?itok=FTvrIOzU"
+        width: 763
+        height: 509
         isCached: true
   - title: "Delta rolls out facial recognition for domestic travel at Detroit airport"
     excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a “biometric terminal” for international travel using facial recognition at Hartsfield-Jackson’s Maynard H."

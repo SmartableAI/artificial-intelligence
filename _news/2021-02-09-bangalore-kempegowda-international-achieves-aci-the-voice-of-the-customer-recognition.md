@@ -80,6 +80,15 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 19
+  - title: "ACI World Launches Voice of the Customer Recognition"
+    excerpt: "World revealed those airports that have continued to prioritize listening and engaging with customers during the COVID-19 pandemic. \"The Voice of the Customer\" recognition is for airports that demonstrated significant efforts in gathering passenger feedback through the Airport Service Quality (ASQ) program to help them better understand their customers during the pandemic."
+    publishedDateTime: 2021-02-08T21:16:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21209312/airports-council-international-aciworld-aci-world-launches-voice-of-the-customer-recognition"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 4
 
 secured: "qqwA2PbgOAJUXh+7DbMRu4iuctWznCYljx9JTznP8ydJMzhhUp5Y252GNYa0+tI6n34Bd+vKOeULQAcibaJkKFKXCrm61Qz6ZHATyopROk+jS1Ah7Je9WhgP4qKSlfmeVqT954rMXLUyVuzBHQqZYN8cxfqD6ah9VUg1cTf7JhG07NzC3fq+EK70RKhStA2DIT5WBWY2J8Mm5HC3uSbtChK/BNQiwzQnoQh+EhhSGR/QEEGuOGw34rCiCf5EN2CpdlOP+3dYcESa0rsvpQ1lne3c+DvQ7oUvCGxKHtwP9q3mgV5AT6GajvBm/tZnmB06RgQP+5T5VTQ1J0T5CRKBfnMv9MxY0tvMGfyYnPEWXIo=;mXEv5YT7A30AUNlrbi2IQA=="
 ---

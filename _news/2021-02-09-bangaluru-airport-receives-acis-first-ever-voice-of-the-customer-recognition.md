@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-air
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
 type: article
 quality: 55
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
         width: 280
         height: 280
         isCached: true
+  - title: "ACI World Launches Voice of the Customer Recognition"
+    excerpt: "World revealed those airports that have continued to prioritize listening and engaging with customers during the COVID-19 pandemic. \"The Voice of the Customer\" recognition is for airports that demonstrated significant efforts in gathering passenger feedback through the Airport Service Quality (ASQ) program to help them better understand their customers during the pandemic."
+    publishedDateTime: 2021-02-08T21:16:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21209312/airports-council-international-aciworld-aci-world-launches-voice-of-the-customer-recognition"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 4
 
 secured: "RoSn02qw5HlwDS2Y7D/sMdHWLvpJFUH5QwyN9ciX4MkjyzX3CofvSsqv3LJKs3yqXaXZVH1MfG8/DQDESLCm9RAvAvDcePfl8TuvXxYBCdlt8Zomn4zDhtEFqdVIk9nl1nWxdBZcEjcCrRhTsEYKb3kFhiL2DkfDdVpMo85W4Z1eVnmiPUwrCRG9u/y7AHmZeGutON53JD8xuLzBmce72JqFq/SQMj/ZAUDsZH2idgodUK37kE/h7oakp52Z2B0VtbtQ5wl8EyXkDLzszS4HD2sySjD9mnIDoIIwys29HaVEDUpeyCLvo907OE0BmQLsKN7s48S71aK20TBmAI3gIOjyWHQS/WgOFZFA8Iwdrtp7l7NYHY+jNCweaUar8tmW77tdExxuc0Xx1GoEiL4iJ/Jun1csihhpYHk20qTJAlA+4B8hsNjKJuQyr0yI7KIfGmL43ubK4kq6fh35g7n7qL9JUgboNZ89nQ+dFK8QWRww96GwKGM+us5d1Iq4FSTNYygvKVsEGzhlYpu1YPzXzw==;vWTeJZhp/JjsJkBNA5ho4A=="
 ---

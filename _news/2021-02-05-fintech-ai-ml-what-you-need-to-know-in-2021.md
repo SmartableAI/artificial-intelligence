@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
 type: article
 quality: 76
-heat: 116
+heat: 118
 published: true
 
 provider:

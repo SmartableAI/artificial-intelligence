@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/"
 type: article
 quality: 89
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ponyai-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Autonomous vehicle Tech Pony.ai raises $ 100 million"
+    excerpt: "Autonomous vehicle Tech Pony.ai raises $ 100 million Share Tweet Share Share Share E-mail Pony.ai, a California developer of self-driving"
+    publishedDateTime: 2021-02-08T17:08:00Z
+    webUrl: "https://www.compsmag.com/news/technology/autonomous-vehicle-tech-pony-ai-raises-100-million/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/autonomous-vehicle-tech-pony-ai-raises-100-million/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/autonomous-vehicle-tech-pony-ai-raises-100-million/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 57
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Autonomous-vehicle-Tech-Ponyai-raises-100-million.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Pony.ai is raising $ 100 million more to improve its autonomous vehicle technology"
     excerpt: "Pony.ai is raising $ 100 million more to improve its autonomous vehicle technology Start up self-driving car Pony.ai announced today that"

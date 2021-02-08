@@ -55,6 +55,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Biometric Privacy in the Era of COVID-19: Facial Recognition Compliance for Airports and Airlines"
+    excerpt: "The commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries. This technology has had an especially transformative impact on the commercial aviation industry,"
+    publishedDateTime: 2021-02-08T22:37:00Z
+    webUrl: "https://www.aviationtoday.com/2021/02/08/biometric-privacy-era-covid-19-facial-recognition-compliance-airports-airlines/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 41
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/02/markus-spiske-ijv7mzpmyum-unsplash.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Artificial Intelligence Tool Combats New COVID-19 Mutations"
     excerpt: "A new artificial intelligence framework could speed the development of vaccines to treat new COVID-19 mutations."
     publishedDateTime: 2021-02-08T14:31:00Z

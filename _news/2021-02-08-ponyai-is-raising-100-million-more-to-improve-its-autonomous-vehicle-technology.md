@@ -86,6 +86,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Autonomous vehicle Tech Pony.ai raises $ 100 million"
+    excerpt: "Autonomous vehicle Tech Pony.ai raises $ 100 million Share Tweet Share Share Share E-mail Pony.ai, a California developer of self-driving"
+    publishedDateTime: 2021-02-08T17:08:00Z
+    webUrl: "https://www.compsmag.com/news/technology/autonomous-vehicle-tech-pony-ai-raises-100-million/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/autonomous-vehicle-tech-pony-ai-raises-100-million/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/autonomous-vehicle-tech-pony-ai-raises-100-million/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 57
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Autonomous-vehicle-Tech-Ponyai-raises-100-million.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "China-backed self-driving car startup Pony.ai raises $100M more"
     excerpt: "Autonomous driving technology startup Pony.ai announced a $100 million extension to its last funding round today, bringing its total amount raised to more than $1 billion. The company is now valued at $5."
     publishedDateTime: 2021-02-08T01:20:00Z

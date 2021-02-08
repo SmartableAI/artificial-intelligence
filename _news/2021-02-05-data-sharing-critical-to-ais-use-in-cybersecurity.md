@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fast-Growing Cybersecurity Startup Rebrands as Safe Security and Commits to US Growth Plans"
+    excerpt: "On the heels of 250% YoY growth, former Cisco Chairman and CEO John Chambers-backed Lucideus launches new identity."
+    publishedDateTime: 2021-02-08T18:09:00Z
+    webUrl: "https://www.darkreading.com/risk/fast-growing-cybersecurity-startup-rebrands-as-safe-security-and-commits-to-us-growth-plans/d/d-id/1340092"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 29
+    images:
+      - url: "https://img.deusm.com/darkreading/Cartoon/Jan21_DR_cartoon_winner.jpg"
+        width: 900
+        height: 855
+        isCached: true
   - title: "House Armed Services Reorg Looks to Increase Focus on Cybersecurity, Intelligence"
     excerpt: "The House Armed Services Committee separated oversight of intelligence functions from the purview of a subcommittee that has been leading on cybersecurity issues over the years, saying it will increase much-needed attention to both areas."
     publishedDateTime: 2021-02-05T00:22:00Z

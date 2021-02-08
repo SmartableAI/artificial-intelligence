@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon plans AI-powered cameras in delivery vans to improve driver safety"
-    excerpt: "Amazon.com has revealed plans to install AI-powered video cameras in its branded delivery vans, in a move that the world's largest e-commerce firm says would improve safety of both drivers and the communities in which they deliver."
-    publishedDateTime: 2021-02-04T06:51:00Z
-    webUrl: "https://www.reuters.com/article/amazon-com-delivery-idINKBN2A406W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2A406W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A406W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550254162&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH13003"
-        width: 768
-        height: 545
-        isCached: true
   - title: "Amazon is installing AI-powered cameras in its delivery vans to monitor driver behavior"
     excerpt: "The Information reports that the Driveri platform being installed in the vehicles is made by San Diego-based start-up Netradyne. Its cameras use four lenses that film"
     publishedDateTime: 2021-02-04T14:14:00Z
@@ -78,22 +62,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "‘Dystopia Prime:’ Amazon AI van cameras spark surveillance concerns"
-    excerpt: "Amazon.com Inc’s announcement this week that it would be rolling out AI-powered cameras in its branded delivery vans for safety has drawn criticism from privacy advocates and workers concerned with being subjected to surveillance on the job."
-    publishedDateTime: 2021-02-06T09:06:00Z
-    webUrl: "https://www.globalbankingandfinance.com/dystopia-prime-amazon-ai-van-cameras-spark-surveillance-concerns/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/dystopia-prime-amazon-ai-van-cameras-spark-surveillance-concerns/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/dystopia-prime-amazon-ai-van-cameras-spark-surveillance-concerns/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 59
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/02/2021-02-05T155944Z_1_LYNXMPEH1417E_RTROPTP_4_HEALTH-CORONAVIRUS-FRANCE-AMAZON.jpg"
-        width: 750
-        height: 474
-        isCached: true
   - title: "Amazon criticized for spying over AI cameras in its vans"
     excerpt: "The reason for the cameras – designed by San Diego-based startup Netradyne – is to improve safety, so any mistakes that drivers make are recorded. If drivers get drowsy at the wheel, speed, fail to stop at a stop sign,"
     publishedDateTime: 2021-02-05T03:37:00Z
@@ -107,20 +75,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Capture.png"
         width: 963
         height: 526
-        isCached: true
-  - title: "Thompson Knight Joins Forces With Reveal to Bolster Its AI-Powered eDiscovery Capabilities"
-    excerpt: "Reveal, the global provider of the leading AI-powered eDiscovery platform, announced today that Thompson Knight, the Dallas-based, full-service law firm, has engaged the AI technology powerhouse to provide superior,"
-    publishedDateTime: 2021-02-05T15:46:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-technology-issues-professional-services-6dc5116fdf764f8ba5d38f803bf6e2eb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "cSqoEtWZPS514VqgY2rfn9BIc8GgJIIyekuaPca+/i8l7pXajWb2V78A2eGHf6gr7LbnaQycK4NKU5lIZa9HQ27hpVrDtWD3p9SebCM88QgL6mokkhyGq6D68dJlTBgooMSX+1V4yh8wNrzJwjyMM0jj6LTeVavUmrlzCvLoJCISW/HaEhjeXkDbamwzZKNFGPvPpbHbaKvxkelGWg4kOxZVeauuUE8tfTV+SfBwVct4sa6jRK9Ck9L5rwLPW/8oEs7tG8gH16Z/qJi7aA/7ZEAvBf5bTJyDQRIpcPEb0HMfE4sDb6tldNj5RC9IlZ4Qv+a8ef6hsck2ZbywzkViGr4TX/tYlhPc/w4gv7K8H6Q=;xHqsxQzauBOA9FLS8cYIPg=="

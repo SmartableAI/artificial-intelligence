@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-04-4-new-poly-courses-to-equip-grads-with-skills-future-workforce-needs.md",
+      "title": "4 new poly courses to equip grads with skills future workforce needs",
+      "excerpt": "TP's diploma in applied artificial intelligence will enable students to develop chatbots, undertake object recognition projects, and use machine learning and deep learning algorithms to develop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tnp.sg/news/singapore/4-new-poly-courses-equip-grads-skills-future-workforce-needs",
+      "originalUrl": "https://www.tnp.sg/news/singapore/4-new-poly-courses-equip-grads-skills-future-workforce-needs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-03T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Paper",
+        "domain": "www.tnp.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-payments-by-selfie-new-tech-lets-stores-be-paid-by-facial-recognition.md",
       "title": "Payments by Selfie: New tech lets stores be paid by facial recognition",
       "excerpt": "When we founded the company two and a half years ago, we were originally focused on offering a solution to give stores tools to personalize their customers’ shopping experience,” said CEO and co-founder Eyal Fisher.",
@@ -1287,58 +1321,6 @@
         "name": "Design-Reuse",
         "domain": "design-reuse.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-some-uk-stores-are-using-facial-recognition-to-track-shoppers.md",
-      "title": "Some UK Stores Are Using Facial Recognition to Track Shoppers",
-      "excerpt": "As a result of the trials, other regional Co-Op franchises are now believed to be trialing facial recognition systems. Use of facial recognition by police forces has been controversial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/",
-      "originalUrl": "https://www.wired.com/story/uk-stores-facial-recognition-track-shoppers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fdbda52fe02cb1be125fd70/191:100/w_1280,c_limit/Business-Facial-Recognition-Grocery-Stores-UK-499556448.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T01:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
