@@ -2,9 +2,9 @@
 category: news
 title: "Report lays out figures on Beijing's self-driving vehicle tests"
 excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."
-publishedDateTime: 2021-02-08T04:47:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202102/08/WS6020b097a31024ad0baa80b9.html"
-webUrl: "https://www.chinadaily.com.cn/a/202102/08/WS6020b097a31024ad0baa80b9.html"
+publishedDateTime: 2021-02-08T06:28:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202102/08/WS6020b097a31024ad0baa80b9.html"
+webUrl: "https://global.chinadaily.com.cn/a/202102/08/WS6020b097a31024ad0baa80b9.html"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202102/08/6020b639a31024adbdb38f08.jpeg"
+  - url: "https://img2.chinadaily.com.cn/images/202102/08/6020c6cda31024adbdb390cc.jpeg"
     width: 720
     height: 480
     isCached: true
@@ -83,6 +83,6 @@ related:
         height: 333
         isCached: true
 
-secured: "k6crw/jQdK9HFq/fBer+ObzB5wIiwlbmmGTk8yBOdLrxFmr7P3RhK1+dSogqCDArlRdXDGyV5NEdpRRLBiXcEQND7ZXx0tmYFizkQufjwrK4F348wiIIDxXCgWrytgVPQvaa/nyYJqB4UJXDnEmxVqlaOmJMnXTLLjAZ8LvcluU7tZJJvLYuvn9KbW/IB084AGSc/rU3kWNuydPFz/YveTRqBQsrKN1mK8o56D6WM4ijZkxJ4Wl4YSDQ5Aglnq20QosTtSh9NElALwyswZX+h1sulN79G6G3bRJ/9cOW+6EKVXh5HEEBpo8ISukQs07Xd6d4/SJRnfLjB2cs51kx500LYcOatJBEmWOlOEAzyCQ=;Czs9nMJSF8qersoJbwZKPA=="
+secured: "oJtqQjwtYOQkMx738UkbEUsYqk77kjsuFFs0KUJctJS7mYstvuTxYle84d5fLxlsvS5/Eqhb/dE8CwydmRQVFufTg4gDVq3rNhqXWFTtsQel5+HpvXXkC6z3bOrhCCZ2TcKSlj3auxWbTBKr4io005Bucgiu5jTFdhEY8TWP6cLtC0vIfLkcblAKROV1lD1p7vaO2Dj+TY1RWlZEduvOMa1dl4o2tzPGZFzuH5PKy8W30Mf8vOIgj9sA0quCwShObZEyjlta+79Cl8Jg3duvHbl+CVyI2o60wfpygln+iijEr0f95iBypLWjcAEU2IK9uK2nSAlok9tcPmeiK8kXL3yl1x0rbxFta2YK9P55HkI=;2st8YnotH3MmJIREHpYUuA=="
 ---
 

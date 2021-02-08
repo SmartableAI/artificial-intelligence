@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-air
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
 type: article
 quality: 55
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -57,7 +57,30 @@ related:
         width: 280
         height: 280
         isCached: true
+  - title: "Indy Airport Selected for Voice of Customer Honor"
+    excerpt: "The Indianapolis International Airport (IND) is among a select group of airports worldwide to be recently recognized with a Voice of the Customer honor, citing the Indy airport’s continued commitment and diligence in actively listening and responding to travelers’ needs during the global pandemic."
+    publishedDateTime: 2021-02-08T20:17:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21209308/indianapolis-airport-authority-indy-airport-selected-for-voice-of-customer-honor"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 19
+  - title: "Bangalore Kempegowda International achieves ACI ‘The Voice of the Customer’ recognition"
+    excerpt: "The airport has received global recognition for ensuring passengers’ requirements were assessed and implemented during the COVID-19 pandemic."
+    publishedDateTime: 2021-02-08T20:39:00Z
+    webUrl: "https://www.moodiedavittreport.com/bangalore-kempegowda-international-achieves-aci-the-voice-of-the-customer-recognition/"
+    type: article
+    provider:
+      name: Herve Bouillonnec
+      domain: moodiedavittreport.com
+    quality: 16
+    images:
+      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
+        width: 280
+        height: 280
+        isCached: true
 
-secured: "q0xLtPtuFWUqWxvULBfCK85BlGMxId4wsAgoyrU6jw+FuZUZn2lK4aiXRd8Iz4/vRFioN54kTIpvf1Wx6UrydmeNUAOv41XFmbPQWSab2oF9tf6xtqPuTuKeEer4sJ3Mhmg5QszPFVoOuxzw7dPtYGLUt5ppX5pwSrxyGN1mUvbtfQNPop+w+QOtJZQkLZXtWwkFgOdyqdDfGoag/kZGJ2r7rYsnjsyOgd1yZyFS+zKuM/+Xbdadsoqy0I2FeqUfY72kPl3+N5jcTSfmiTbRcbw/BFpVqNsLanoZFaxWb067hcBDtJFRwoso/wlAZUB9LNuawNOJoQMZ96oVbOTpEibAl4gRVDq0QtkPe1GJf9U=;brIb62cxFBOEvOpPV6wl6w=="
+secured: "RoSn02qw5HlwDS2Y7D/sMdHWLvpJFUH5QwyN9ciX4MkjyzX3CofvSsqv3LJKs3yqXaXZVH1MfG8/DQDESLCm9RAvAvDcePfl8TuvXxYBCdlt8Zomn4zDhtEFqdVIk9nl1nWxdBZcEjcCrRhTsEYKb3kFhiL2DkfDdVpMo85W4Z1eVnmiPUwrCRG9u/y7AHmZeGutON53JD8xuLzBmce72JqFq/SQMj/ZAUDsZH2idgodUK37kE/h7oakp52Z2B0VtbtQ5wl8EyXkDLzszS4HD2sySjD9mnIDoIIwys29HaVEDUpeyCLvo907OE0BmQLsKN7s48S71aK20TBmAI3gIOjyWHQS/WgOFZFA8Iwdrtp7l7NYHY+jNCweaUar8tmW77tdExxuc0Xx1GoEiL4iJ/Jun1csihhpYHk20qTJAlA+4B8hsNjKJuQyr0yI7KIfGmL43ubK4kq6fh35g7n7qL9JUgboNZ89nQ+dFK8QWRww96GwKGM+us5d1Iq4FSTNYygvKVsEGzhlYpu1YPzXzw==;vWTeJZhp/JjsJkBNA5ho4A=="
 ---
 

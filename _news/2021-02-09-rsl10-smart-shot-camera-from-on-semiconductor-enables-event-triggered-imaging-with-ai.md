@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI"
-    excerpt: "ON Semiconductor , driving energy efficient innovations, is pleased to introduce the RSL10 Smart Shot Camera, combining cloud-based AI with ultra-low-power image capture and recognition, to enable a new generation of IoT endpoints."
-    publishedDateTime: 2021-02-08T14:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19638870.html"
+    excerpt: "ON Semiconductor (Nasdaq:ON), driving energy efficient innovations, is pleased to introduce the RSL10 Smart Shot Camera, combining cloud-based AI with ultra-low-power image capture and recognition, to enable a new generation of IoT endpoints."
+    publishedDateTime: 2021-02-08T06:00:00Z
+    webUrl: "https://tucson.com/business/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai/article_6066fb0a-e643-569d-829c-51284f9ad514.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 32
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+        width: 620
+        height: 290
         isCached: true
 
 secured: "6uY67R94wvtI6KUe2OB0p6zyUU2/Qj80cHFUTB8S8TVdJX9Lg5szYifgcnTUFNXxq3eCMU3Iq0Qdztq9IrKkgoEVn3UulUuzZm9guiB4Bmk2pr2MKvrbFUudbhs+uSCj53zMIirDN1lUxEyexSx5yyNymIMbNPUv0eWgMWAI5VtoWZ8gB7YjH+0Ap9W8/6U7RHDNsR1/W23ir81E7qNBOc4byDyF2WuQay/P8eCMDQtU2SYQB5UwGjK/UXYT1uHpT2IAaocJ5QwNNNlWh2rKs34j0wobNMXZRVzcIhdSvCcMMTdL07HBVXp7aXk4LLXq8dlW43upr4BrqFkdNeQqIy5kfl2E7Mlke9+ipx267nE=;2TzjSaC+WyPz2rLgXgK8lQ=="

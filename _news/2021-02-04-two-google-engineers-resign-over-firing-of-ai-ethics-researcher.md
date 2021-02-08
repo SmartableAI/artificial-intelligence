@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna245"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna245"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Geisinger researchers find AI can predict death risk"
+    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm--an example of what is known as machine learning,"
+    publishedDateTime: 2021-02-08T17:40:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ghs-grf020821.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "kv5WYzm3ZEUZk/DP11mPYXp2krmwXd+wNho9v6OVpOUK/qjXFqXnvLhEdpO2G5PNjLSp/w1NYdSNoepQMeKS4yiHI2GDNM9cvGjZZ451VJq7mVK3a7i+2NL83lzHMEYsRZEyApPABf5l7lJaxNeWQV3UiFJ3asZbRGzAkiaFCbdNulukPmSXSVXXRrj3xPSoU6l52ugFxU675C1+lcMIkG7UOuAKJ4cfj0JBwYK/P+44llO5niMY2Fr1DVCc8+VQX7YoPCAJYtCcPpI0oKxRsXD/qd8KiGDNCAnVAHbZOUthq1mz8wYIP9Ojdqe8b3uNwo4ZKeUZVg7KIv87gvb99sywmIzufUT5nXJuYM4ee1ONjDtPFp7WNKJVEEqnFvKqhTLsUczq1TJJUntykFf5wF7OEZoxXOujcqq7HTqHDzqrFf3KxzfRjXTsn217zxOUcouMp611eOYxTTRMLkvnfjClOorRbnJUPVZFEWJJ+22ITsYqPfkoJyfjOhIICzvM+QA3V1tgHlf+Ivoma/BIyQ==;1OCGWtWHPVjaZoXydztXxA=="

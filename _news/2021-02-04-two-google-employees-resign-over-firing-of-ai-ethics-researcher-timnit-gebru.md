@@ -121,6 +121,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Geisinger researchers find AI can predict death risk"
+    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm--an example of what is known as machine learning,"
+    publishedDateTime: 2021-02-08T17:40:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ghs-grf020821.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "vIyLPhR1Q4yoZvWyUYuDkAMJ/r8wlY1N7ZY/gCRQipYvBpNsEU/dD/0i0x4X5y/q5IJQSbwVNmQYEgIs4PUnt0MTZxsGboBkEvYdCEYICSfaaLNGxnSdzCR1OB3acDpEOqAL2umTwIBmXpB3/xApLxn4Z2D553lXDBN4UpLIIFEt0tWR4MFrGYFkjAHctwhat+c0OU2WfyK/1QRndPoVwjPe+MZUqsi2NvzxRtbQO79GtA3v+s/oDltZ12nlFU5wEbva6DqiXvtvG1Trndp2k+ZknbuxcuRgvmYlWhSTG6x2kBJOFoDM6d4MeKSby4f0WUpLaUXzo/QzmTRZggn9uMdQ7GyifKzmsD+D/NCMwco=;yJZpcOv7zu3ATDPJADgsPg=="
 ---

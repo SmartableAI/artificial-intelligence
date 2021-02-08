@@ -57,6 +57,29 @@ related:
         width: 280
         height: 280
         isCached: true
+  - title: "Indy Airport Selected for Voice of Customer Honor"
+    excerpt: "The Indianapolis International Airport (IND) is among a select group of airports worldwide to be recently recognized with a Voice of the Customer honor, citing the Indy airport’s continued commitment and diligence in actively listening and responding to travelers’ needs during the global pandemic."
+    publishedDateTime: 2021-02-08T20:17:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21209308/indianapolis-airport-authority-indy-airport-selected-for-voice-of-customer-honor"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 19
+  - title: "Bangalore Kempegowda International achieves ACI ‘The Voice of the Customer’ recognition"
+    excerpt: "The airport has received global recognition for ensuring passengers’ requirements were assessed and implemented during the COVID-19 pandemic."
+    publishedDateTime: 2021-02-08T20:39:00Z
+    webUrl: "https://www.moodiedavittreport.com/bangalore-kempegowda-international-achieves-aci-the-voice-of-the-customer-recognition/"
+    type: article
+    provider:
+      name: Herve Bouillonnec
+      domain: moodiedavittreport.com
+    quality: 16
+    images:
+      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
+        width: 280
+        height: 280
+        isCached: true
 
 secured: "w6JKt2xXnONyKS9JK+0wr3TQSIDmNJvM6F2sio9bs9fAGDVlU6/JXLD8KTFwDQ/3ZHXXPYWZUpDeaGO3I8aDUup2O0Nw822Ci5ofyJ0en9vT++Iz7HY58E77GO4omICJL4KYX2mYcd/SFDubr8muytEndR3uBOQ9kEKzj2abWR+KnxsrlaOCoeOaT9Q6E9ZZbcAbEqrtloHRodLvqbDN2ctmZQjdutb9dNzBW/vfiH/lX/Pq6DI8YRdSD3QP36VyF9qTSF4m+XeC/tJuTaiTvLioa3BL6Il8AIYyv5Lw8MWNrzVB0ViCCOnDZzpHPu6bAyQYiIC6SJIZgp3yONCXzMJJcVdbsVk8zV0kBbOxANI=;FublznOBl8D4IoBiJpmtiw=="
 ---

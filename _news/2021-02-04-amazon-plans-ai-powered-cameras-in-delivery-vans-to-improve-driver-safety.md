@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2A406W"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A406W"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 146
+published: true
 
 provider:
   name: Reuters
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon plans to install AI-powered cameras in delivery vehicles"
-    excerpt: "Amazon said Wednesday it plans to equip its delivery vans with cameras powered by artificial intelligence in an effort The internet retailer said it had recently started rolling out technology across its delivery fleet,"
-    publishedDateTime: 2021-02-04T03:24:00Z
-    webUrl: "https://www.cnet.com/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/fS83UzG25a-76KAqWp20Oyc6ycU=/1200x630/2021/02/04/35d80178-a496-462f-a268-0a74948f3cb0/gettyimages-1230935623.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon is installing AI-powered cameras in its delivery vans to monitor driver behavior"
     excerpt: "The Information reports that the Driveri platform being installed in the vehicles is made by San Diego-based start-up Netradyne. Its cameras use four lenses that film"
     publishedDateTime: 2021-02-04T14:14:00Z
@@ -94,19 +78,21 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Next Insurance doubles gross written premium with AI-powered coverage"
-    excerpt: "Next Insurance's AI-powered coverage has proved increasingly popular among small businesses during the pandemic."
-    publishedDateTime: 2021-02-04T13:55:00Z
-    webUrl: "https://www.businessinsider.com/insurtech-unicorn-next-insurance-sees-record-2020-growth-2021-2"
+  - title: "‘Dystopia Prime:’ Amazon AI van cameras spark surveillance concerns"
+    excerpt: "Amazon.com Inc’s announcement this week that it would be rolling out AI-powered cameras in its branded delivery vans for safety has drawn criticism from privacy advocates and workers concerned with being subjected to surveillance on the job."
+    publishedDateTime: 2021-02-06T09:06:00Z
+    webUrl: "https://www.globalbankingandfinance.com/dystopia-prime-amazon-ai-van-cameras-spark-surveillance-concerns/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/dystopia-prime-amazon-ai-van-cameras-spark-surveillance-concerns/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/dystopia-prime-amazon-ai-van-cameras-spark-surveillance-concerns/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/6012caf36dfbe10018e00709?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/02/2021-02-05T155944Z_1_LYNXMPEH1417E_RTROPTP_4_HEALTH-CORONAVIRUS-FRANCE-AMAZON.jpg"
+        width: 750
+        height: 474
         isCached: true
   - title: "Amazon criticized for spying over AI cameras in its vans"
     excerpt: "The reason for the cameras – designed by San Diego-based startup Netradyne – is to improve safety, so any mistakes that drivers make are recorded. If drivers get drowsy at the wheel, speed, fail to stop at a stop sign,"
@@ -121,6 +107,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Capture.png"
         width: 963
         height: 526
+        isCached: true
+  - title: "Thompson Knight Joins Forces With Reveal to Bolster Its AI-Powered eDiscovery Capabilities"
+    excerpt: "Reveal, the global provider of the leading AI-powered eDiscovery platform, announced today that Thompson Knight, the Dallas-based, full-service law firm, has engaged the AI technology powerhouse to provide superior,"
+    publishedDateTime: 2021-02-05T15:46:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-technology-issues-professional-services-6dc5116fdf764f8ba5d38f803bf6e2eb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "NnRjUHf6FIlzbTf3NoYQKSq8pNbv7Q8B43/L92c3CQxf6/TQO7AjX9Y9Y8nF8iZOfWqPReZZCuH6IefDMDhPAyax9ptol3/jP8+SlZc3ExDRTH6gusSuAgD/qwcWJXmm8N39kBOKbS/SwOg2tbVNAZtQ/ZTeGRXQ7HT6Bompvf1pLcmJbVrB5BPZpOkJCdC/LH4QTqY2A7BgZS1M4cPpgJ/EHHWv/F3xwkQ+qbVKqfAd6wmSjPLCHVfo8/7MPe3rvCCcrkqQoe1ZpsXAqbaU+qcE4YihEBeHtJWNOCgO2cfTp2jhOi3cOQYbxCuj9GvgeiuJyWbbvdTIykE7DIZtlkeUdtv5g8ulVUrYzL5xWvs=;E7T7pvRK8I7EsJ6a3yDS0g=="

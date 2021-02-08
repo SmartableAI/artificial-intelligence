@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon plans to install AI-powered cameras in delivery vehicles"
-    excerpt: "Amazon said Wednesday it plans to equip its delivery vans with cameras powered by artificial intelligence in an effort The internet retailer said it had recently started rolling out technology across its delivery fleet,"
-    publishedDateTime: 2021-02-04T03:24:00Z
-    webUrl: "https://www.cnet.com/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/fS83UzG25a-76KAqWp20Oyc6ycU=/1200x630/2021/02/04/35d80178-a496-462f-a268-0a74948f3cb0/gettyimages-1230935623.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon plans AI-powered cameras in delivery vans to improve driver safety"
     excerpt: "Amazon.com has revealed plans to install AI-powered video cameras in its branded delivery vans, in a move that the world's largest e-commerce firm says would improve safety of both drivers and the communities in which they deliver."
     publishedDateTime: 2021-02-04T06:51:00Z
@@ -104,19 +88,35 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Next Insurance doubles gross written premium with AI-powered coverage"
-    excerpt: "Next Insurance's AI-powered coverage has proved increasingly popular among small businesses during the pandemic."
-    publishedDateTime: 2021-02-04T13:55:00Z
-    webUrl: "https://www.businessinsider.com/insurtech-unicorn-next-insurance-sees-record-2020-growth-2021-2"
+  - title: "‘Dystopia Prime:’ Amazon AI van cameras spark surveillance concerns"
+    excerpt: "Amazon.com Inc’s announcement this week that it would be rolling out AI-powered cameras in its branded delivery vans for safety has drawn criticism from privacy advocates and workers concerned with being subjected to surveillance on the job."
+    publishedDateTime: 2021-02-06T09:06:00Z
+    webUrl: "https://www.globalbankingandfinance.com/dystopia-prime-amazon-ai-van-cameras-spark-surveillance-concerns/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/dystopia-prime-amazon-ai-van-cameras-spark-surveillance-concerns/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/dystopia-prime-amazon-ai-van-cameras-spark-surveillance-concerns/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/6012caf36dfbe10018e00709?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/02/2021-02-05T155944Z_1_LYNXMPEH1417E_RTROPTP_4_HEALTH-CORONAVIRUS-FRANCE-AMAZON.jpg"
+        width: 750
+        height: 474
+        isCached: true
+  - title: "Thompson Knight Joins Forces With Reveal to Bolster Its AI-Powered eDiscovery Capabilities"
+    excerpt: "Reveal, the global provider of the leading AI-powered eDiscovery platform, announced today that Thompson Knight, the Dallas-based, full-service law firm, has engaged the AI technology powerhouse to provide superior,"
+    publishedDateTime: 2021-02-05T15:46:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-technology-issues-professional-services-6dc5116fdf764f8ba5d38f803bf6e2eb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "X6CAln6phzxt2rQvdnbkalE22dMSv2uwgAejWrQO94vih5dMyKMbKqennnKLqA1B3TEKDiLaKJTMh92l8NIlECo7dcBgiwTg3s+ARrCZb8/JCffZ+OZUxmAtGSAFGJFo8b46nlTJ2VkwdSTMyuljBSAJmZBxzsJZ+fLv6lzzaVsSYtjUTxxjr+EFUEwreNBwNX47nlo35nblpvqVa8liBsViFskZgA64v3vqJw0ktHzSAAj7uOj6kFVOwy0wPRrUr2tijbT5DZE9yMeU7XxUtA2h7ESwOyxFlkF1m2dP5Z7TrquFQ4haLPM7ts5kCXyxwKnQMPrlDopUuEh8wti7cINKgNHNuDnyNUAb84DYtTk=;tMhZsfz5fTHKkOHlUALPeA=="

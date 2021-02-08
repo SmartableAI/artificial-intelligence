@@ -1,29 +1,48 @@
 ---
 category: news
 title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
-excerpt: "Standardizing embedded AI driven chat functionality can accommodate unlimited users, allowing for optimized, scalable events.Market leaders"
-publishedDateTime: 2021-02-08T12:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-1030054709"
-webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-1030054709"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Launches-Major-Platform-Upgrade-with-Standardized-AI-Chat-Features-to-Enhance-Virtual-Experience-Platform-1030054709"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Launches-Major-Platform-Upgrade-with-Standardized-AI-Chat-Features-to-Enhance-Virtual-Experience-Platform-1030054709"
+excerpt: "Nextech AR Solutions, a leading provider of virtual and augmented reality experience technologies and services for eCommerce, education, conferences and events today announced the launch of new standardized chat features within its Virtual Experience Platform/ VXP) and recently-launched ARoom collaborative streaming solution."
+publishedDateTime: 2021-02-08T12:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to"
+webUrl: "https://www.nasdaq.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to"
 type: article
-quality: 46
-heat: 46
+quality: 26
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
-secured: "FyN2NOAzItikfztltubW5nkrb/xedOo9fRM7KzI+hXTqszQ2u+bxbVcAsmPcXBScI+VeuuLtd3qZx1I6Q5X0tdUmTuHx2LfY39Q0cNd2Ru09ygImXVmFEjpYUZZWkhOawkoWJ5eFhXSffsTXO8hhEjUde3ftbiTq6Wpg+TtOSb6eKeK9KZl9IL5TG5Lk21E+zZBM9q00E3o36yhObcDss7ksr3LMKC0G5QY2bqSBU3ARo9WCjcy2fH6NCbUmYWndacmNP/oN9DQYQzSLcyG6CxgS1hWPpgeVmGIqPw4okhAzNaxV4btEya0Q52ImoqKxx6E81oLT9gQsiq7JFUENQojAvLJkX3NX+pXc0YX6ErM=;yOk8ux+R8lZGHDP9eL55ww=="
+related:
+  - title: "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles"
+    excerpt: "LIZHI INC., a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics, an established chip maker for smart mobility in China,"
+    publishedDateTime: 2021-02-08T11:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 44
+  - title: "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers"
+    excerpt: "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,"
+    publishedDateTime: 2021-02-04T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "K+NxujJZdVzo2HMOMb1FPuuBJ77MnPuzmUeeWPfpeX+l0qxoKxbxBpW6pGPs/maQRDAavDmZCHWA4Kehua9dJtbvpgi22EEMvCiaLQ0i6ZnN8qRdwjbNYIQQLlC4lOACInyxY96nof5xGoJxppX3MPGUptxbzG8UXjYF43/0UcxShXjFSeEAkaBYnSCU9o4tqcZeOlr7kKVlILctYiFebIxBqxIHZiVxKd8Mi1AnF2bCxF5V3OruoByfdkNaIcMIcfZGXpCSRwb24IZQkZqVUqXpJMQ422B1nzsqaYkNNW6v1xm/TQMu2Etjsum9SPJips9ZB73Et5WDymzWHmcpU/crC6MkatXwhNdC8B7y4mI=;hES70P7ny2kfm/SqAlw7vA=="
 ---
 
