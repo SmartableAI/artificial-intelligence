@@ -1,29 +1,29 @@
 ---
 category: news
 title: "'Mind-written' couplets add technology to China's CNY"
-excerpt: "The auspicious characters are calligraphed by a robot arm controlled by the researchers' minds.. Read more at straitstimes.com."
-publishedDateTime: 2021-02-08T03:27:00Z
-originalUrl: "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-technology-to-chinas-spring-festival-celebrations"
-webUrl: "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-technology-to-chinas-spring-festival-celebrations"
+excerpt: "Hanging the Chinese character \"Fu\" (\"happiness\" in English) on doors and walls is the most common and important custom when celebrating the Spring Festival, or the Chinese New Year which falls on Feb 12 this year."
+publishedDateTime: 2021-02-08T04:37:00Z
+originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny"
+webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_mindwritten_080221.jpg?itok=C-QLeXjs"
-    width: 763
-    height: 509
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/02/08/1037355.jpg"
+    width: 860
+    height: 573
     isCached: true
 
-secured: "QT/zPHEZ/fdIuVVTzOhZ5ulpw5Oya3oqjIQa/1zqSFv4ott51mHn4LvzD/DwMWfK+yjYko8IkFU5Zx9F85WFVB9QfdxiV6Y55BfRhxJtRNW/alZHWgkswGxTcLNfzX7vFodik6oZtpjW8+faD+yhxBHtVGJSktuNt+5XKCKSHVWfxqHDVMI97+OzNkoh+7N0dH92uZMHekRiJowDGeVxdZjvR2AgaxB3jET8/xkELzHxG44GI6/DNY5CjV0xXuEjBD0E1AaSilEhUW6G+E+1rpN28ayAUcfVmg7NWVs6Lww2+ujmqACV7rMFdghgEnm89BSuB3ThgIz5AyHX6NfgQlOyVVuF1FzNXifFYRCML9k=;YqPRRCtLNJJbkRxZR0Mpqw=="
+secured: "Fw9PJsbiVaDH3S3+dMIWfYtrfncAPQO2dlRZik3a4kUe5KlaSagmVeEljBlrDgJboMaj8Tl2E3irgdqt05GH4kTisIw6lmvfYNJapb3GhSLCLrb8nXvjr+ZY8vB1AHlTKbsjMma198TSzuEjkUkLnnPJQO9V60vNpSyzjKHvpFcMOEe/zKv2f5UlOdik+FAt7zmyY7d76ouj90xezrGN7FpOVyBkwpsp/zcnEGFhYo2Icf+qzGCoWZ0qp93K4ydTUmyKQ/qPWyMeW2O65DsBCIDBvDEartYNUfevuaQIqnl5rfPw23wBPQbkOAETEOI/EtTNFVwdgxCFNuzmuXcxw+EcYu/7AVsQxR96mRR+szM=;Xg1rzuow8CKOhSyPA69jow=="
 ---
 

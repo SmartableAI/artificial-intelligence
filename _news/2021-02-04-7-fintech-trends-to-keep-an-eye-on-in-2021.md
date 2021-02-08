@@ -43,6 +43,22 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Key Takeaways For the Fintech Sector"
+    excerpt: "Fintech was acknowledged for the first time and this indicates that the sector plays a major role in the entire banking ecosystem today"
+    publishedDateTime: 2021-02-08T06:53:00Z
+    webUrl: "https://www.entrepreneur.com/article/364949"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/364949"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364949"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1612767183-money-transfer-3588301-1920.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "What can the world of Fintech expect in 2021?"
     excerpt: "By Björn Goß, CEO and Co-founder of Stocard Last year was a year like no other as the Covid-19 global pandemic caused us to change how we live and work. The pandemic caused huge challenges for people across the world as we sought to survive in new,"
     publishedDateTime: 2021-02-05T06:20:00Z
@@ -58,20 +74,6 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/06/tech-9-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Fintech company launches AI-powered post-closing tech"
-    excerpt: "Fintech company Avanze Tech Labs has launched an AI-powered SaaS software that automates and expedites the post-close process. “Post-closing has been an ignored sector in the digital mortgage evolution,"
-    publishedDateTime: 2021-02-03T15:23:00Z
-    webUrl: "https://www.mpamag.com/news/fintech-company-launches-aipowered-postclosing-tech-245391.aspx"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/001/0270_637479405128217784.jpg"
-        width: 500
-        height: 333
         isCached: true
   - title: "How Fintech Can Help Streamline Your Company’s Financial Operations"
     excerpt: "Huge.” “Surging.” “Very hot.” Those were just a couple of the terms financial news outlets used to describe the fintech market in 2020. They weren’t just buzzwords. Fintech has seen double-digit growth in transaction numbers and volumes during the pandemic,"

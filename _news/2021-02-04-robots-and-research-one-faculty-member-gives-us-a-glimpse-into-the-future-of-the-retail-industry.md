@@ -7,7 +7,7 @@ originalUrl: "https://news.illinoisstate.edu/2021/02/robots-and-research-one-fac
 webUrl: "https://news.illinoisstate.edu/2021/02/robots-and-research-one-faculty-member-gives-us-a-glimpse-into-the-future-of-the-retail-industry/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -17,36 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Thanks to machine learning, the future of catalyst research is now"
-    excerpt: "To date, research in the field of combinatorial catalysts has relied on serendipitous discoveries of catalyst combinations. Now, scientists from Japan have streamlined a protocol that combines random sampling,"
-    publishedDateTime: 2021-02-03T16:39:00Z
-    webUrl: "https://phys.org/news/2021-02-machine-future-catalyst.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/thankstomach.jpg"
-        width: 2880
-        height: 978
-        isCached: true
-  - title: "Thanks to machine learning, the future of catalyst research is now!"
-    excerpt: "This was implemented in the form of a \"decision tree classification,\" which is a form of machine learning that helped in understanding the efficiency of the selected catalyst combinations, in giving better OCM yield. This, in turn, helped in drawing up the ..."
-    publishedDateTime: 2021-02-08T04:48:00Z
-    webUrl: "https://www.chemeurope.com/en/news/1169761/thanks-to-machine-learning-the-future-of-catalyst-research-is-now.html"
-    type: article
-    provider:
-      name: CHEMIE.DE Information Service GmbH
-      domain: chemeurope.com
-    quality: 39
-    images:
-      - url: "https://rs1.chemie.de/images//151930-76.jpg"
-        width: 832
-        height: 283
-        isCached: true
 
 secured: "Ags+mwi2aKOIEtLgZV912h6IJp+7exwwgEW4goaE4up98jZ8viqoiekzz7QGOaiJKReHVxjOrRaHz8UhAh0EqMfaoKPtMxRar7eM5pELlquzkL0qKJY4tNIdCCmPj/iUKepMjLoPGSgNzUT8QX2YEW1CqFEJqfqgRLJgWuyERltoXMWsr4ppfFJgDnbRo4Ry6Eqlxe60BlXW91oXfA33vaeLSklxVGn+C7JkReddvq0j2H7qAApG/DxWKS392OkFOkZor1f/4iZk7pmAqjYsKd1OpLCGOX3gLYQ/mwyh2BZJJuyP18DePPwv0WvcFz1DCp6XWe3j4Olcuo5Tk89qruIoLJCSW/MW0AMFRlZ4vjc=;rWHt+51KDVxlw9j+MM84xA=="
 ---

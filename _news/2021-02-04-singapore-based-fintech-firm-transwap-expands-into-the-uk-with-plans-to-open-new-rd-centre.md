@@ -36,6 +36,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Hong Kong Fintech Start-up Sleek Becomes APAC's First Carbon-Neutral Corporate Service Provider"
+    excerpt: "Hong Kong fintech start-up Sleek has become the first provider of carbon-neutral corporate services in the Asia-Pacific region with its new sustainability initiative"
+    publishedDateTime: 2021-02-08T06:00:00Z
+    webUrl: "https://www.asiaone.com/business/hong-kong-fintech-start-sleek-becomes-apacs-first-carbon-neutral-corporate-service"
+    ampWebUrl: "https://www.asiaone.com/business/hong-kong-fintech-start-sleek-becomes-apacs-first-carbon-neutral-corporate-service?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/hong-kong-fintech-start-sleek-becomes-apacs-first-carbon-neutral-corporate-service?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 32
+    images:
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
+        isCached: true
 
 secured: "pCN3vBuQNb2XnRBNsY+z4XI3eqIkIIrSxjBHbZDY2tNch90sA/9ydWEFXOgwXyW7Z+yYSGaDB3f2RF6RPp1R7TYV8m5m62gTohnWZonxSNC1r+od3lGrDKNrI4vaNrjXOipfh83Ds7HpzjnbwoFljVgEtFvml7RjYKnoDbdrsd44hftxa+dZVnPpNMdDXSeUjKEgnJfrg1CKVzSWFNwlKan2oieY5THTlOBJxDwJGHO97LI0ueE0oBVzWpK2K9V27rbfJDKDDilK6pIa/7voVTOFcACrmXtg8pBEbN+eEkVu/QyKCPorknsKwKrGrC7LR/ZB4M84ExaSPcq1NscNUm9gOXircs/qnDSykUNiyEo=;gGTKxTd+BXlekT+OIx4mZg=="
 ---

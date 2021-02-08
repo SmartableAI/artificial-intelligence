@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Facebook to give UCSB $1.5M to study data centers"
-    excerpt: "Facebook will give $1.5 million to UC Santa Barbara’s Institute for Energy Efficiency to fund research into energy-efficient data centers and artificial intelligence, UCSB announced Feb. 4. The"
-    publishedDateTime: 2021-02-04T22:09:00Z
-    webUrl: "https://www.pacbiztimes.com/2021/02/04/facebook-to-give-ucsb-1-5m-to-study-data-centers/"
+  - title: "Explained: Facebook’s Novel Method To Downsize Recommendation Models By 112 Times"
+    excerpt: "The new approach by Facebook and Georgia Institute of Technology can compress the size of deep learning recommendation models by up to 112 times."
+    publishedDateTime: 2021-02-08T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/explained-facebooks-novel-method-to-downsize-recommendation-models-by-112-times/"
     type: article
     provider:
-      name: Pacbiztimes.com
-      domain: pacbiztimes.com
-    quality: 24
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
     images:
-      - url: "https://www.pacbiztimes.com/wp-content/uploads/2020/09/ucsb-campus-storke-bike-circle-ucen-ocean.jpg"
-        width: 1000
-        height: 667
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/pasted-image-0-5.png"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "IHxc/X4kLCUOZlHOuoFIMHWxZOonV26AQnqG18OzYI+UapWhd4fdY6CaCd2ubhglPJ6AyXk8DuQPJFGOrMdZVH6YfeFJFFKxjl844VD16G9ozk1AepmfJehTIDCY0HmELuj0sPH5+54Cx949qPdx7NkCJ1UhrebWVKoH9DA/VjC1WXpKP0Gl7wBuHHL+JNcyt9qM6qcE/GwwSfGdh3PI0IRC4CYrUf2OCCPxzOkM4qDspW+7Gc2f4jQ27pWOQpmTSNDsEwQuwvGlUNhEwYUVi3qhkFgloM9JXff3LlMYSgFrW+Lp5UsbDcHmh8uM70E9q+DjJSKE4C5gkU1/9B4EMC9h1Ky2RT1iLjjvXDbN2z8=;MxfbrDvJYCvYqUV5fICBfQ=="

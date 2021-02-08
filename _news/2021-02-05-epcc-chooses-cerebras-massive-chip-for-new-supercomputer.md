@@ -41,17 +41,6 @@ related:
         width: 1024
         height: 849
         isCached: true
-  - title: "Waferscale Makes Further AI Supercomputing Inroads"
-    excerpt: "The battle for HPC centers and national labs is underway among the leading AI chip startups in the high-end datacenter space (Graphcore, Cerebras, and"
-    publishedDateTime: 2021-02-03T17:00:00Z
-    webUrl: "https://www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/"
-    ampWebUrl: "https://www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 41
   - title: "EPCC Selects Cerebras Systems AI Supercomputer to Rapidly Accelerate AI Research"
     excerpt: "Cerebras Systems, the high performance artificial intelligence (AI) compute company, and EPCC, the supercomputing centre at the University of Edinburgh, today announced the selection of what Cerebras said is the world’s fastest AI computer,"
     publishedDateTime: 2021-02-05T20:26:00Z
@@ -60,7 +49,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
         width: 325

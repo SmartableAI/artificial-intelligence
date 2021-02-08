@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Bringing AI to the edge"
+    excerpt: "It seems that much of my work these days is concerned with bringing AI to the embedded-systems domain, understanding what the implications are and how companies should deal with it. In the discussions with technical experts and business leaders,"
+    publishedDateTime: 2021-02-08T07:51:00Z
+    webUrl: "https://bits-chips.nl/artikel/bringing-ai-to-the-edge/"
+    type: article
+    provider:
+      name: Bits&Chips
+      domain: bits-chips.nl
+    quality: 19
 
 secured: "HESCZd2Y8yWF3lLHHhPYhfe/N/En4Gg7zZvH2bpBUdz2nrWqNjHJlvcNlvs8XDaCtc9GPYbL/X554YMYr/uKNqjNpi/Mj50u8Hhs52PlsG2B/l/M5wPDtyEvTMITK8PNR6ZFpMi33C31etT1VHN1JftFxMzibkfosevGvKoTtcOVKS1kn0Xr62yJ6u0VJLo1xUUhydRJus+ApsXHYApEf4zdpBqPlNvGOZtYQMWbcGp5bnz6BKNjhAYhYbVEJTUNIu4hn6gNFRruqkIIUANCBCzsHyT6cFYqZsaUvK9zL5QSnRzaBrKF4GYttSq1epddjsOTnG9RkFEFzKLdKoU769Rdfp9Hlg2nb8A8QSeTcdA=;vXRL28pz6yvbRoc9sXSNVA=="
 ---

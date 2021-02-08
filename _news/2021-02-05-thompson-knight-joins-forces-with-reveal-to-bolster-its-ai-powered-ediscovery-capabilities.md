@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-technology-issues-professional-services-6dc5116fdf764f8ba5d38f803bf6e2eb"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Reverie Labs raises $25 million for its AI drug discovery platform"
-    excerpt: "Reverie Labs, a startup using AI to develop new medicines, today announced the closure of its $25 million series A round. The company says the capital will be used to advance its internal and partnered drug discovery program,"
-    publishedDateTime: 2021-02-03T15:38:00Z
-    webUrl: "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/amp/"
+  - title: "Unbxd collaborates with Google Cloud to offer AI-powered commerce search on Google Cloud for retail stores"
+    excerpt: "Unbxd Inc., a leading provider of AI-powered Commerce Search and Product Discovery solution today announced a collaboration with Google Cloud. As part of the collaboration, Unbxd will deliver its commerce search service,"
+    publishedDateTime: 2021-02-05T08:14:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-search-technology-e-commerce-software-computing-and-information-technology-d53d52316ddd4540428517b84b8ccbf1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "TDiDElr7jYLOjcysWGAJlAh8mKEh6LTGvlLsbGdNPpbk1I7S7It8PUW6DdYlBhzcqSsHNuxHssoieRIK3himztP22NV0yg8un5mepI2IaWESZ/yZK41enqUIaFlCGR36WPBjLiIKiUn40+DUgOwyUYYEOrLIIodGz2DCxyfW0xfJyStRu8hHdbKnYlpfY4zZ4ZvZEPxbU3QtXOe/SbLDropGH02i0kzMHlwqjuiabH5z5IotPpGDWDPeowmNNsNrVwB/Kqc45oq2HnLPkuTnFZ/TxFfFxebLMT0MbR4yyDi1pn0ZzY85QMiRv7N/Op9vqRu+k4H90XZN81wqqFjfOwE94fwAnvAMYhI5tBKQdAM=;AzXbKUKBcW9Ldz/pqcwpkQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2A329T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2A329T"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Daimler to spin off trucks in shift to electric and self-driving vehicles"
-    excerpt: "German carmaker Daimler plans to spin-off Daimler Truck to focus on zero-emission vehicles and self-driving technologies."
-    publishedDateTime: 2021-02-03T15:16:00Z
-    webUrl: "https://www.cnbc.com/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 88
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106834715-1612368566679-gettyimages-1145508601-AFP_1GS0WF.jpeg?v=1612368644"
-        width: 5296
-        height: 3283
-        isCached: true
   - title: "UPDATE 1-Daimler to spin off trucks in shift to electric, self-driving vehicles"
     excerpt: "German carmaker Daimler plans to spin-off Daimler Truck, the world's largest truck and bus maker, to allow it to focus on zero-emission vehicles and self-driving technologies."
     publishedDateTime: 2021-02-03T21:00:00Z

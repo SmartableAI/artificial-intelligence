@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Hong Kong Fintech Start-up Sleek Becomes APAC's First Carbon-Neutral Corporate Service Provider"
+    excerpt: "Hong Kong fintech start-up Sleek has become the first provider of carbon-neutral corporate services in the Asia-Pacific region with its new sustainability initiative"
+    publishedDateTime: 2021-02-08T06:00:00Z
+    webUrl: "https://www.asiaone.com/business/hong-kong-fintech-start-sleek-becomes-apacs-first-carbon-neutral-corporate-service"
+    ampWebUrl: "https://www.asiaone.com/business/hong-kong-fintech-start-sleek-becomes-apacs-first-carbon-neutral-corporate-service?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/hong-kong-fintech-start-sleek-becomes-apacs-first-carbon-neutral-corporate-service?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 32
+    images:
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
+        isCached: true
   - title: "Singapore-Based FinTech Firm TranSwap Expands into The UK With Plans to Open New R&D Centre"
     excerpt: "TranSwap, a home-grown cross-border payment platform, has officially launched in the United Kingdom. This expansion further strengthens TranSwap’s position as one of the leading fintech firms in Asia Pacific and beyond,"
     publishedDateTime: 2021-02-03T18:17:00Z

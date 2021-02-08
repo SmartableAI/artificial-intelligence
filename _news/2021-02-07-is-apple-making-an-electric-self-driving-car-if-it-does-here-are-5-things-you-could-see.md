@@ -27,58 +27,90 @@ images:
     isCached: true
 
 related:
-  - title: "Looking for Self-Driving Cars? The DRIV ETF Has You Covered"
-    excerpt: "I ncreasing demand for electric automobiles is opening up opportunities for ETF investors to focus on the sector with funds like the Global X Autonomous & Electric Vehicles ETF (DRIV). DRIV seeks to invest in companies involved in the development of autonomous vehicle technology,"
-    publishedDateTime: 2021-02-03T21:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
+  - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
+    excerpt: "Shares of Hyundai and Kia plunged on Monday in Seoul after the automakers said they were not in talks with Apple to develop self-driving cars after all."
+    publishedDateTime: 2021-02-07T22:09:00Z
+    webUrl: "https://www.cnn.com/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "2021's rising stars of self-driving vehicles share their best tips for jumpstarting your career"
-    excerpt: "Insider asked bright young stars from Waymo, Aurora, and Nuro for their advice on starting your career in the fast lane."
-    publishedDateTime: 2021-02-05T11:24:00Z
-    webUrl: "https://www.businessinsider.com/career-tips-advice-rising-stars-waymo-aurora-nuro-yandex-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: CNN
+      domain: cnn.com
+    quality: 88
     images:
-      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207220435-hyundai-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $1.3 trillion industry"
-    excerpt: "As vehicles change and develop, the tools for insuring them do, too. Insurance companies are adapting their coverage models for an autonomous future."
-    publishedDateTime: 2021-02-04T15:20:00Z
-    webUrl: "https://www.businessinsider.com/how-insurance-companies-are-preparing-for-self-driving-cars-2021-2"
+  - title: "Apple, Hyundai-Kia near deal to build self-driving electric Apple Car"
+    excerpt: "CNBC's Phil LeBeau explains his scoop about the deal talks between Hyundai-Kia and Apple to manufacture an Apple Car as soon as 2024."
+    publishedDateTime: 2021-02-05T04:03:00Z
+    webUrl: "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
     images:
-      - url: "https://i.insider.com/601c0bfbee136f00183aa420?width=700"
-        width: 700
-        height: 525
+      - url: "https://image.cnbcfm.com/api/v1/image/106741890-16025951652020-10-13t105843z_940689204_rc2mhj94sbo0_rtrmadp_0_apple-iphone.jpeg?v=1602595195"
+        width: 3500
+        height: 2334
         isCached: true
-  - title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $250 billion industry"
-    excerpt: "As vehicles change and develop, the tools for insuring them do, too. Insurance companies are adapting their coverage models for an autonomous future."
-    publishedDateTime: 2021-02-06T23:25:00Z
-    webUrl: "https://www.businessinsider.com/how-insurance-companies-are-preparing-for-self-driving-cars-2021-2"
+  - title: "Hyundai, Kia Say Not in Car Development Talks With Apple"
+    excerpt: "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in discussions with Apple Inc. on cooperating to develop a self-driving electric vehicle, following reports and speculation that they were working with the tech giant."
+    publishedDateTime: 2021-02-08T01:39:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy_OJ8GUjbk4/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Hyundai says it is not talking with Apple about self-driving cars"
+    excerpt: "Shares in South Korean carmaker and affiliate Kia fall as investors’ hopes of autonomous EV projects are dashedRead more on 'Financial Times"
+    publishedDateTime: 2021-02-08T04:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 35
+    quality: 69
+  - title: "Hyundai, Kia deny reports they’re working with Apple on self-driving EV"
+    excerpt: "Hyundai and Kia have been discussing with multiple companies on self-driving electric car development, but no decision has been made, they said"
+    publishedDateTime: 2021-02-07T00:00:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/foreign/2021/02/07/hyundai-kia-deny-reports-working-apple-self-driving-ev/115449536/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/115449536"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/115449536"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/601c0fecee136f00183aa431?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/PDTN/03943d0f-044c-491f-b0b3-8f6984103dca-Apple_Hyundai_Kia.jpg?auto=webp&crop=760,427,x136,y274&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 674
+        isCached: true
+  - title: "Hyundai, Kia say not in talks with Apple on self-driving car development"
+    excerpt: "South Korea's Hyundai Motor and Kia said on Monday (Feb 8) they are not in talks with Apple on developing autonomous vehicles, sending their shares tumbling.. Read more at straitstimes.com."
+    publishedDateTime: 2021-02-08T01:08:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/hyundai-kia-say-not-in-talks-with-apple-on-self-driving-car-development"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 38
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_hyundai_080221.jpg?itok=WS_uo6SL"
+        width: 763
+        height: 509
         isCached: true
   - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
     excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
@@ -96,20 +128,24 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "When will self-driving cars hit the road?"
-    excerpt: "Tech afficionados often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers."
-    publishedDateTime: 2021-02-05T10:01:00Z
-    webUrl: "https://www.daytondailynews.com/news/when-will-self-driving-cars-hit-the-road/NG3UDA3MJZDSTLNKS3N4I6QPFU/"
+  - title: "Report: Apple to develop electric self-driving car with Hyundai"
+    excerpt: "After many years of trying to jump-start a self-driving car program internally, a new report claims that Apple Inc. is closing on a deal with Korean automotive OEM Hyundai-Kia to develop an Apple-based autonomous electric vehicle (EV)."
+    publishedDateTime: 2021-02-05T13:34:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16314/report-apple-to-develop-electric-self-driving-car-with-hyundai"
     type: article
     provider:
-      name: Dayton Daily News
-      domain: daytondailynews.com
-    quality: 24
-    images:
-      - url: "https://www.daytondailynews.com/resizer/er6gSOekz065eDW-FmCHa9YfwMw=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/FEOBHDBAUDH6KTMUTOPB74QYDQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
+  - title: "Apple and Hyundai-Kia nearing deal to build self-driving car in US - report"
+    excerpt: "Apple is close to finalising an agreement with Hyundai-Kia to build an Apple-branded autonomous electric vehicle in West Point, Georgia, according to unnamed sources cited by CNBC. The deal reportedly depends on the automaker allowing Apple to control the software and hardware that will go into the vehicle."
+    publishedDateTime: 2021-02-04T08:43:00Z
+    webUrl: "https://www.telecompaper.com/news/apple-and-hyundai-kia-nearing-deal-to-build-self-driving-car-in-us-report--1371205"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "jADlarqMA/QUCEGmQKkhP4QaKppYLtURSnS9tEcxWXjv4nVI3Jl1NKIvktF8RFq/gTg6m5czZQFpthMhLTc1JOSdhAYI9tIBn5V9HifNsA7dcxBdaKOXHiSVdv2Ut8nc+XyZ3uS/bwLwIYJ80/n6mVRgcw8pc9IAp5H5+Ug9gLQxqBkx9lsl5/KuonDsIbv3lKRbWVKItzqxav3QirBl3bCLYW3MgwiuTkf7ZgJOxoh1mUx55e18dX6fIYst8VWs85JkSAbDp+r+YUjdNT1c2Ljy+1RDQszZF1pmLAaRvR+fLWOhtaC3NLABED6Bt09JlCEY1YMn+NoAERHRgK7HisQNR6uLg7xRVuKK9/z2IRh2yQ388jYD6Y1ECi+ZHqKxhXQZpWbcccQY946gANgv96xb3wiUaqmtdrgF/2U2shD4+BlA/vV0d88JqWzNREoy5A1ybX/tfOd1rOk/Gx/KGrFqDjAJ3oKfsY318tS0bs0whuaavtSK+w73x6M3AtFS9tVQQYSA0d1nB/grD0dj0g==;U6qyohcjdyQn/FTi4UNwDA=="
 ---

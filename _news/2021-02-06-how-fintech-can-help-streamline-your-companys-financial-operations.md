@@ -41,6 +41,22 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Key Takeaways For the Fintech Sector"
+    excerpt: "Fintech was acknowledged for the first time and this indicates that the sector plays a major role in the entire banking ecosystem today"
+    publishedDateTime: 2021-02-08T06:53:00Z
+    webUrl: "https://www.entrepreneur.com/article/364949"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/364949"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364949"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1612767183-money-transfer-3588301-1920.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "7 FinTech Trends to Keep an Eye on in 2021"
     excerpt: "As advancements in technology are on the rise, it seems inevitable that digitalization and innovation will change the world as we know it. And this is c"
     publishedDateTime: 2021-02-04T07:19:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/06/tech-9-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Fintech company launches AI-powered post-closing tech"
-    excerpt: "Fintech company Avanze Tech Labs has launched an AI-powered SaaS software that automates and expedites the post-close process. “Post-closing has been an ignored sector in the digital mortgage evolution,"
-    publishedDateTime: 2021-02-03T15:23:00Z
-    webUrl: "https://www.mpamag.com/news/fintech-company-launches-aipowered-postclosing-tech-245391.aspx"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/001/0270_637479405128217784.jpg"
-        width: 500
-        height: 333
         isCached: true
 
 secured: "ty3+ZjyYMblBf0kH4Eb0fLRnyXPpbPMetbZs6gzv0TWy7sFXwHqE0BCtureTHVw3mzoC3jplj8akbkNMorPHquxw5ieq3JPS6npefHO2C83ZWva+nHF/S4sKCPDpMGNwVvIpApdw47UAM4YTuV3Rf4jZ/ecQYFPV53aezBbUils/LoxHCxykSioQ4LkUMsXeDdqArxw7fzH8FyyPUSyQ9OciGca8eDz7xxYe8JMLvurb+skcbtZVBptwwIuJY39OEQva9R1+CQau7Xinuc7RL3uBJxPXEuwRmtALb0pnGNB5l/QUMRIqGgWEcsPAjyafWtOUJCrdFzbBHS+XAnUEby9I69pPj3MA9iEF5XLIfaulX/4InJaSEAgdjsNBgFwH4ad8wcnGbVDDFQGcbwltrPZnCrxjrPDzF1uVFp3J+m0wtnG54O3cipZbXE8dbC4pwo3iFCZZHpPBBg/ciQ/dshkuCvm9a7+IBZ4FH6Rgv/uNPSfV3ulMQz8zHOUWSgehn3ktfoORmNdSnKQ+ZxdUIw==;1XsZlYFJhxSRfUSXHe3rIA=="

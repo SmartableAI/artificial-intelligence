@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-new-york-consumer-products-and-services-f10a09f67a96b33b430281ac85b90e79"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "If You Have A Luxury Handbag To Sell, Rebag’s New Clair AI Makes It Easier"
-    excerpt: "In an effort to further distinguish itself amid the increasingly competitive luxury resale channel, Rebag is launching Clair AI image recognition technology for luxury products."
-    publishedDateTime: 2021-02-03T15:10:00Z
-    webUrl: "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/"
-    ampWebUrl: "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601a32875504fa3f560800f6%2F0x0.jpg"
-        width: 1200
-        height: 1016
-        isCached: true
   - title: "Rebag adds artificial intelligence tool that instantly prices luxury handbags for resale"
     excerpt: "An app called Clair helps sellers recognize the handbag and set prices in which company Rebag will offer to buy."
     publishedDateTime: 2021-02-04T13:47:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercompute
 cdnAmpWebUrl: "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waferscale Makes Further AI Supercomputing Inroads"
-    excerpt: "The battle for HPC centers and national labs is underway among the leading AI chip startups in the high-end datacenter space (Graphcore, Cerebras, and"
-    publishedDateTime: 2021-02-03T17:00:00Z
-    webUrl: "https://www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/"
-    ampWebUrl: "https://www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 41
   - title: "EPCC chooses Cerebras' massive chip for new supercomputer"
     excerpt: "EPCC, the supercomputing center of the University of Edinburgh, will deploy a Cerebras CS-1 supercomputer for AI-based research. The Cerebras CS-1 system uses the large Wafer Scale Engine (WSE) processor alongside an HPE Superdome Flex Server system for front-end storage and pre-processing,"
     publishedDateTime: 2021-02-05T11:59:00Z
@@ -60,7 +49,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
         width: 325

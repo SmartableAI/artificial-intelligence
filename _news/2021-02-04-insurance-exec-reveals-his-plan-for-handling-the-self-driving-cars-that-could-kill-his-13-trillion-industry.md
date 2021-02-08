@@ -68,38 +68,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
-    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
-    publishedDateTime: 2021-02-06T13:30:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4393554001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4393554001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 34
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
-    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
-    publishedDateTime: 2021-02-06T16:01:00Z
-    webUrl: "https://www.tennessean.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/4393554001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4393554001"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 34
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "When will self-driving cars hit the road?"
     excerpt: "Tech afficionados often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers."
     publishedDateTime: 2021-02-05T10:01:00Z

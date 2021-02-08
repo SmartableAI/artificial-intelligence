@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-05T20:26:00Z
 originalUrl: "https://insidehpc.com/2021/02/epcc-selects-cerebras-systems-ai-supercomputer-to-rapidly-accelerate-ai-research/"
 webUrl: "https://insidehpc.com/2021/02/epcc-selects-cerebras-systems-ai-supercomputer-to-rapidly-accelerate-ai-research/"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
@@ -41,17 +42,6 @@ related:
         width: 1024
         height: 849
         isCached: true
-  - title: "Waferscale Makes Further AI Supercomputing Inroads"
-    excerpt: "The battle for HPC centers and national labs is underway among the leading AI chip startups in the high-end datacenter space (Graphcore, Cerebras, and"
-    publishedDateTime: 2021-02-03T17:00:00Z
-    webUrl: "https://www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/"
-    ampWebUrl: "https://www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 41
   - title: "EPCC chooses Cerebras' massive chip for new supercomputer"
     excerpt: "EPCC, the supercomputing center of the University of Edinburgh, will deploy a Cerebras CS-1 supercomputer for AI-based research. The Cerebras CS-1 system uses the large Wafer Scale Engine (WSE) processor alongside an HPE Superdome Flex Server system for front-end storage and pre-processing,"
     publishedDateTime: 2021-02-05T11:59:00Z

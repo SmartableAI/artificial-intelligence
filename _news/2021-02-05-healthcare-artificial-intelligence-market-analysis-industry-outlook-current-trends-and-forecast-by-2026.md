@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y"
 type: article
 quality: 67
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2020 Segmentation Analysis, Key Players, Industry Share and Forecast by 2025"
+    excerpt: "The latest study on Global Natural Language Processing (NLP) in Healthcare Market 2020 by Company, Type and Application, Forecast to 2025 covers segment outlook, business assessment, competition scenario,"
+    publishedDateTime: 2021-02-08T06:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-segmentation-analysis-key-players-industry-share-and-forecast-by-2025-2021-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market: Size, Industry Outlook By Drivers, Restraints And 2021-2023"
     excerpt: "Market Analysis: AI in manufacturing market is estimated to be $330.5 million in 2017 and is expected to reach $4,012.5 million by 2023, growing at a CAGR of 51.6% during the forecast period 2017-2023."
     publishedDateTime: 2021-02-04T13:24:00Z
@@ -38,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Development trends, key manufacturers and competitive analysis 2026"
+    excerpt: "The latest Artificial Intelligence (AI) in Automotive Market Analysis report is comparative coverage of key player's qualitative and quantitative information highlighting key market developments, challenges,"
+    publishedDateTime: 2021-02-08T07:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-development-trends-key-manufacturers-and-competitive-analysis-2026-2021-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
