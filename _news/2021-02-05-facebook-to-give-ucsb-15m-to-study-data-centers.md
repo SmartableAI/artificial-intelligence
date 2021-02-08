@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook Donates $1.5 million to UCSB Institute for Energy Efficiency"
+    excerpt: "A new partnership of UC Santa Barbara’s Institute for Energy Efficiency (IEE) and Facebook will accelerate research into energy-efficient data centers and artificial intelligence (AI). Facebook, a leader in developing,"
+    publishedDateTime: 2021-02-08T17:57:00Z
+    webUrl: "https://www.noozhawk.com/article/facebook_donates_1.5_million_to_ucsb_institute_for_energy_efficiency"
+    ampWebUrl: "https://www.noozhawk.com/amp/facebook_donates_1.5_million_to_ucsb_institute_for_energy_efficiency"
+    cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/facebook_donates_1.5_million_to_ucsb_institute_for_energy_efficiency"
+    type: article
+    provider:
+      name: Noozhawk
+      domain: noozhawk.com
+    quality: 24
 
 secured: "gRXkvORwivyK0wAjqSEWGCgZKBaIqEnSg4MCq8xoKda7CBTzOoStkNe6aJJkFOjKikNieLqrtpfxo9dHscFlM1ukw0ly6xNeQHVEVfAfNySt5yoUWmEJq61ziL4scFYShKXLDf5pHPkKwXI7U7j8Zxg+bE0YqhgkVddYU8gB7mEzfCpzK41uYSQkTJl0Xukux8a8MnqcQA8KuQ0LvFHuuRDXCobVPP0u9pE/pjYxTSmCIdKVIp1w/fXa+UA95CuTucR3W4pr1bVFe0afEHmv+CGndHNn6G72PX8nAkRFjlE6uzz0vYk2mK0Qqucf21ZbnJbSd4Zg62OOhabv8l7ac884lKGFkcMcHeTw6dav1CEO1K76H7V1MRHRapXiBo9KaXMdNUI7xSVy/OcQdWVbDeuEonL+OO4We2lZDbPKG5/Cpi8JyaIQoHwSbQXNC0jqFpgERUhTFLjF10et9QHGZ1fHrZq77INAc84j/T1wJO6t9zqY7Jt4BFjaiGQG2OtrqYhWqK3oodUyYdG7BUE+bA==;O5r+J0JjoM7Dsa9RL+KBAQ=="
 ---

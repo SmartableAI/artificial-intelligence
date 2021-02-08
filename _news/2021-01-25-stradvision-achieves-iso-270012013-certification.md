@@ -1,16 +1,13 @@
 ---
 category: news
 title: "StradVision Achieves ISO 27001:2013 Certification"
-excerpt: "StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles, announced that its SVNet software has achieved ISO 27001:2013 certification — a recognition of its proven commitment to the highest level of information security management."
-publishedDateTime: 2021-01-25T15:24:00Z
+excerpt: "StradVision achieves ISO 27001:2013 certification for its AI-based object recognition software 'SVNet' ISO 27001:2013 is one of the most widely recognized and internationally accepted information ..."
+publishedDateTime: 2021-01-25T15:14:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/stradvision-achieves-iso-27001-2013-certification-1029999812"
 webUrl: "https://markets.businessinsider.com/news/stocks/stradvision-achieves-iso-27001-2013-certification-1029999812"
 ampWebUrl: "https://markets.businessinsider.com/amp/news/stradvision-achieves-iso-27001-2013-certification-1029999812"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradvision-achieves-iso-27001-2013-certification-1029999812"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: Business Insider
@@ -24,6 +21,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "8lz/OoVxLj8e7ZLXdQk5x9TQX71ZTz2euLIiDShwOEpGjvk17cy9AS8XhOcIXlmqvfh5yyB4bn1ShWIpYkvd8cqI6iimUY+goxyWlCLIRYUu5vK7p+aTUYQ+L9G6Epd6KXo+LSfooDTYp0xP9fTtRF+ehaUZ9dDF3euQoyVUfrIZJXvhfSxVLPUFv5Zvg35zcn+ZisguFUKst27paCWNuUAbjis5jzv7gbBMfrPYQr/OqfWlqGNaT5NFthRpwJ0UqoCgFjZFvpyiSZl0pdGF9Qfk2Cn3zBDmydmUrqaZXxtvv3bsn2Wb5P7p3/auUzgYTAgRr1tmaRRgSsh9H/E+YgvjY5D1G+9GyGPrW6mbAv4=;n7I15JR8pwXFlz6vYdOCqg=="
+secured: "PJm0AcsjAdYpCWf+lmYrKjoy9MKMgEhDdiKP83PfLD5JTIWtPERa1ZiSOWAkpwp4K1Hpt7nnnIGajiFUebOcUsHBCQTqIptrFczavEjJfdg/9luVQUsaBNqOCCxPJetrkAmRuoyTQPrH7wrphgjcZTsnGGxPJkRp1Iu4r4YVUw8Ikaf0p2irA2He4oLaqcaAWJfhGUpCp0T0k4VkVVGmO6eg0wxJBX2bcL5p0lePGD2Js7qtZNOOfXcA9HjcrNIcvCYTN94L5yUzBnd06ZtmdRUhjUlPnYkVPwmftmrCu6Z3mvgk7pEbz1/YLHMFFuX4nIalA34eYPSNgOPMb2uRpbWfpCZdnhoS+I3P2xxmLX4=;ZJHJg4sRs10CtDgvTUhAfw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -116,7 +116,21 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 24
+  - title: "Self-driving car to be tested on Technology Parkway"
+    excerpt: "Peachtree Corners could become the birthplace of new self-driving technology used in cars sold to the public in the near future."
+    publishedDateTime: 2021-02-08T18:05:00Z
+    webUrl: "https://www.ajc.com/news/atlanta-news/self-driving-car-to-be-tested-on-technology-parkway/55UVNUZZR5EV7JQX7GSRA4ZKQM/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 24
+    images:
+      - url: "https://www.ajc.com/resizer/F0CHpZfoF1h0Rl_PukCMJPsMovo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/OE4ZL2NCWREDXLMILF7EOEQPOA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "JTjIWP+buqV3IWaZwO2bRQ3oiNkHYovQu7luA6znX12CTR6YaMGXFrQ+iGp/8q6rX0eNZCuN9o5/GZ/LS7ZBf71u5kltvsPRbYmG7ml5uogjbA7tiJdGCB3f3fqzaecWyztNBsVPSUMF8u7SiBsnWxugUCDK+c5NvxYbQgR0aoHoXWbSBFJMsbapWM3YNxMiNu/tRl4EauWcCJ5DPnDJX2QgscaBX232mc3//+61hwqW0U0lXfGhZF22y+EkPmBEMjmRe71YQb/V9RgcC3wnCdLRnMHTq2Uaa0ftGhXvRdryr+ymV3WD+lJzJ7o7LHYry/v8CR1ubbsXFVIOH6reQWx42A8dQVaM5BPv/uZ5jBE=;chvbNn6y7jdPq0OlaYAx+A=="
+secured: "TM8FU1zq2e/T5DFU3UnDgQswX9eOl7laT+33IqYhj0311pduP3kNzR4Y9nw0aMBzLNw7oSFWVCrJ6CH4bT1eBxTSn0oN24fyuvZWmHcZVI5voXO9GyR7CguZ7mdRRMRrGIob1EtWz1CAoarKq2AS8GsZVrfRnS/RmFX9tzgBQRpL5GwjHjPK6gJxNE+Yo5jnVVZKk4Tx711KwDSb/jbbFjbiSbMTTfOaVL7+j1j3IplmE3HguY17KKfLek/7Np0k2La4/XWtHG/jBZt0xbvDHhaxggKEbot22OJ6IhGCZ7NlWOBbrehuOlZYOBI2d97UeIn+FvTeOBtXIOQn3yQvjdHJaQNcpVTlbFwIta2Nm+lSKxaOC4DLaF0sk5oYtbEqsD7rkXbwkW/muaZOIsSjns6hJy3H2ZNH9BpYlHrWCXnuYqEpU+pCiQIYYmyDqeza03HD5Xze+wdsOjG2CgliGNp/QCBaiJTdqgaySfRoNfLqwh6fJGIfo2uE0ZXvK0NhB+1sfrvwZ5HzpaWKucWs+Q==;oKLusE3s9yIIDSdqtZzv3g=="
 ---
 

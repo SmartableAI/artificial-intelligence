@@ -7,7 +7,7 @@ originalUrl: "https://www.gamasutra.com/view/news/376895/Sponsored_Just_getting_
 webUrl: "https://www.gamasutra.com/view/news/376895/Sponsored_Just_getting_started_with_coding_Heres_Python_is_a_strong_place_to_start.php"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sponsored: New to coding? Here's why Python is a strong place to start"
+    excerpt: "If you're looking for an approachable coding language to begin programming, Python is an excellent starting point."
+    publishedDateTime: 2021-02-08T15:54:00Z
+    webUrl: "https://www.gamasutra.com/view/news/376895/Sponsored_New_to_coding_Heres_why_Python_is_a_strong_place_to_start.php"
+    type: article
+    provider:
+      name: Gamasutra
+      domain: gamasutra.com
+    quality: 24
+    images:
+      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1003734.jpg"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Sponsored: Taking your first steps into coding? Here's why Python is a strong place to start"
     excerpt: "If you're looking for an approachable coding language to begin programming, Python is an excellent starting point."
     publishedDateTime: 2021-02-08T15:49:00Z

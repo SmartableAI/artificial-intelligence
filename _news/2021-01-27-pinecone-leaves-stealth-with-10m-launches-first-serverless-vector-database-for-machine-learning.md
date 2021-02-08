@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."
-publishedDateTime: 2021-01-27T15:10:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
+excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
+publishedDateTime: 2021-01-27T15:09:00Z
+originalUrl: "https://www.lelezard.com/en/news-19620012.html"
+webUrl: "https://www.lelezard.com/en/news-19620012.html"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
 
-secured: "HojP0eLzmBboX18iQAE85k9utg1W1HKuu2prAVBzgKV3w0tVyQ1g48sbNLjMpNbwLAmGqgydkpVHbfUBGqQB+ksPdAWN0ffd9Wc6yV0NCFuxP5ti+ChcIv+mfEuBQR/qnf2zEzwI592ugQXP1+cxhjjL6rLc8ua10g8QY0LAm0x7CN47I6TmeUi5NW6KKbofugvCHWBob8q+11FYiifZCNeGiEqtxlUW4upKbEhfWgbnOESE7aC+W6prBH0wCooIyFLhiI3uQ3xtlso88A8O1FUMBFwJ53J6NC32cgoFOaG52ei7DEM9o6ZwoNpQq7RxQwPoenhbeo8PKOwbme/DbnM/8dn0jDLJa/qbYo5ypDg=;X/hcpkrI6/GmmEvAGJWu8Q=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "GkMokl6wCXThj4ZMDtaMbvTD/8MPjP8QvjtV2MerER4KmPFIEuIwu2QvvRZO3mc0pcnqrSNpBfUPahcPmYYAVGj2/NCC5TpdZ3RroL+ZA1ETyaMV1CD0x0yEjKzg185sEPzEpLGmU9pYSReGR7kid70mbQ08y0J2IBDjfCg3O/ba8byfa/zrKZ9WPGG3md88nk7bDMn+tO9sVsfDjvI/0v07DK7WfbsFH7An79xzx2kuo/XDKUYCkSF+9cV6oz1OGzC8wDzhMyglTNfLbL5pN5FWmuG9a/l26XUXOWCR48PWDHQ3fFlNz073ExjawrHUpIv0fEUkWSwPcMa/VsBU3j6q33jgvcI24Da9gQiSqnA=;E0NR046WHhc4U+PnHxJ9Bg=="
 ---
 

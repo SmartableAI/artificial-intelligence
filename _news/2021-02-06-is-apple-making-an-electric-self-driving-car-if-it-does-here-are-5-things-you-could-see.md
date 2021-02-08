@@ -112,6 +112,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 24
+  - title: "Self-driving car to be tested on Technology Parkway"
+    excerpt: "Peachtree Corners could become the birthplace of new self-driving technology used in cars sold to the public in the near future."
+    publishedDateTime: 2021-02-08T18:05:00Z
+    webUrl: "https://www.ajc.com/news/atlanta-news/self-driving-car-to-be-tested-on-technology-parkway/55UVNUZZR5EV7JQX7GSRA4ZKQM/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 24
+    images:
+      - url: "https://www.ajc.com/resizer/F0CHpZfoF1h0Rl_PukCMJPsMovo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/OE4ZL2NCWREDXLMILF7EOEQPOA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RfV8rD7/dLjpIggQK8gK0dGt2tYaOKsHqAcUhKrSWVA8uZt9NwdpmiFSFUnxx19QAxTPmU8iZKLEfCKKH0ZqhlVy8uFWf/FtL/aacYoUMNlAKVrDrYjgZRNfjvfBCkXui1J0taFq2m8BoHdo5JNzwT6hNp07WKyrf+qxiRTR9Mv5Eh3rfbSmZspqG3/zBoxPCjS1za8yCu1PrF0NA7u3qMw7DwaT6GH1iTibGHR0NN/1+D3XlJrZknMeADyeAAg2aY6RsFefuz8dlYi6Z/sXQnNVPiRWXWQXvJbv6IfKuj8d/ckSUN0HNkiA3Tr1yhy9OFb6/0dHGTrqWxahucWQm5dW3tygpT1ng+HRsyaxa6nuGshLSKVEXp+mUyMgnYdd7Z8qOjWM4IgnpsWaBrx71WIU1QsqrAeVItSpNPoya++C3zj7qXAAOjS7YdINh7hee/pm1CNpp+fNypmsh4PZ59+mgJcO7FZkVKtED2E42Hpxz/EkFl1ymh86RKbxlcld5mA/PyCn6q3u6USqqbrofA==;BpBBCFvWtgIqqB8NBiyXMQ=="
 ---

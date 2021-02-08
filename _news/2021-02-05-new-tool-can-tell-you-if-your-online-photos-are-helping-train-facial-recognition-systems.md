@@ -165,19 +165,33 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Privacy investigation finds U.S. tech firm violated Canadian rules with facial-recognition tool"
-    excerpt: "Watch Privacy investigation finds U.S. tech firm violated Canadian rules with facial-recognition tool Video Online, on GlobalNews.ca"
-    publishedDateTime: 2021-02-04T02:49:00Z
-    webUrl: "https://globalnews.ca/video/7618882/privacy-investigation-finds-u-s-tech-firm-violated-canadian-rules-with-facial-recognition-tool"
+  - title: "Indy Airport Receives Global Recognition"
+    excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International. The recognition is given to airports f"
+    publishedDateTime: 2021-02-08T18:31:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/43309128/indy-airport-receives-global-recognition"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 12
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 39
     images:
-      - url: "https://i2.wp.com/media.globalnews.ca/videostatic/news/csb5en8tzl-ko7w5ykfhw/JPEG_FACIAL_RECOG_TED_CHERN.jpg?w=500&quality=70&strip=all"
-        width: 500
-        height: 281
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/19069708_G.jpg?lastEditedDate=1577978543000"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Tech Can Flag Distracted Jurors. But Will Courtrooms Allow Facial Recognition?"
+    excerpt: "Maintaining jurors' undivided attention during in-person trials can be tricky in a virtual environment. But where legal tech companies see an opportunity, judges may see an unneeded solution."
+    publishedDateTime: 2021-02-08T17:11:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/02/08/tech-can-flag-distracted-jurors-but-will-courtrooms-allow-facial-recognition/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 35
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/02/Virtual-Trial-Article-202102051607.jpg"
+        width: 620
+        height: 372
         isCached: true
   - title: "Amherst teen wins recognition in national arts competition"
     excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."

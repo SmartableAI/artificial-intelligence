@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bangaluru airport receives ACI's first-ever 'Voice of the Customer' recognition"
+    excerpt: "Bangalore International Airport Limited’s (BIAL) earned global recognition from the Airports Council International World’s ‘Voice of the Customer’ initiative"
+    publishedDateTime: 2021-02-08T17:12:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 55
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/02/08/1029780-airport.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "KIA bags ‘Voice of the Customer’ global recognition"
     excerpt: "(BIAL) has secured global recognition for being the ‘Voice of the Customer’, in an initiative by the Airports Council International World, by assessing passengers’ requirements and implementing various measures during the COVID-19 pandemic."
     publishedDateTime: 2021-02-08T12:47:00Z

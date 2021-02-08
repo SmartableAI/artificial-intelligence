@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/karnataka/kia-bags-voice-of-t
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/kia-bags-voice-of-the-customer-global-recognition/article33783332.ece/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bangaluru airport receives ACI's first-ever 'Voice of the Customer' recognition"
+    excerpt: "Bangalore International Airport Limited’s (BIAL) earned global recognition from the Airports Council International World’s ‘Voice of the Customer’ initiative"
+    publishedDateTime: 2021-02-08T17:12:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 55
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/02/08/1029780-airport.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "‘The Voice of the Customer’: ACI recognises airports for consumer engagement during pandemic"
     excerpt: "The Voice of the Customer’ recognises airports that demonstrated best efforts to understand the changing needs of their customers during the crisis."
     publishedDateTime: 2021-02-08T09:56:00Z

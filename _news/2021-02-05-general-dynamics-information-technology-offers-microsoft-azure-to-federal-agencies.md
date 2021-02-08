@@ -1,22 +1,28 @@
 ---
 category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
-publishedDateTime: 2021-02-04T17:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
-webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
+publishedDateTime: 2021-02-04T17:59:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
 type: article
-quality: 58
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
@@ -48,6 +54,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/02/Jared-Spataro.jpg?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft details Speller100, an AI system that checks spelling in over 100 languages"
+    excerpt: "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing."
+    publishedDateTime: 2021-02-08T17:07:00Z
+    webUrl: "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/"
+    ampWebUrl: "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "3 Reasons Microsoft Is Still a Growth Stock"
     excerpt: "Microsoft (NASDAQ:MSFT) became only the third publicly traded U.S. company ever to reach a trillion-dollar valuation. Just two years later, its market cap has grown to $1.7 trillion. From productivity software to cloud computing and gaming,"
@@ -268,6 +290,6 @@ related:
         height: 450
         isCached: true
 
-secured: "pgUcOhdSE40fth6uR/IfC60+TgIAjYDbDpHM6BaCSLRL9MDeohcAoENo0y7pAv+JbBTRMUYgjCp61aeWS1xXhSoWf52ZPCQSTCyWxMlvG+YOWmV/CKXM5qJI8iSPCesx5/dhvHhaR72BIQZN1d0qtcJlxKBc9fRjSIt/sNRK0I4Suc8w8s0Gx0sfn8E7Z456xLLPXbszous6Mu/S4tLd/l+NNvyFjyMqbrsyhHJvRWjj5ZA46MvqgD1lJu1nm1Q5R7ZrAsNCptn5dS9V9WEGrkO3r3DkYj9f7SaeU8kgmvfh0+ck3q90D/EAAUgsM4iE0nakAxgVuE6htYEzFflXx3pabDTUbZBPIeEhoWMl6ns=;mwjSaa7n3b+QxdNOEbGT8A=="
+secured: "/71t/7cbiVAHvWJxdR1NQwD89JZmhE6aZDLNGy4GF38wMRPLrmUygfkkwx38AuleAgooV+WmFyGX+EERxMhLD8dWcV1ev13zW3uFY076kcnpN5VMZk7evV/PTk5G48MPNTHZDaR5SlPB3InQbG6dQvGYDTlP9qnFUDVe5ubOBIy5WPpHwoHExqFIvdRETINLD2Rxg6WRz8fBve1zhlI3hSjsQZwXyQ6qPtqQWWwNjjqbypW6MrOhijJXpz8aSAzMPAmO/AXOyYM55bozeIjO9cnEtmOmd7awP1FQ/tPtQWuE9cDmUEcfw88J4zsSSDXF9q4aXANJDD3domGKPIn4zC2x0dpKiKuaZpf1hLQ5rkc=;LyglMVGU8B6S5F7Ku41PIw=="
 ---
 
