@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-bu
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

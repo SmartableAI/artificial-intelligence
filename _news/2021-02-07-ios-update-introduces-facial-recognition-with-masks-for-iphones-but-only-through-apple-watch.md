@@ -37,20 +37,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "iOS update introduces facial recognition with masks to iPhones, but only via Apple Watch"
-    excerpt: "Apple has released a new iOS developer beta featuring Face ID biometric unlocking by users wearing masks on iPhones."
-    publishedDateTime: 2021-02-03T19:37:00Z
-    webUrl: "https://www.biometricupdate.com/202102/ios-update-introduces-facial-recognition-with-masks-to-iphones-but-only-via-apple-watch"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06145144/apple-logo-building.png"
-        width: 721
-        height: 420
-        isCached: true
   - title: "iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing “mask with Apple Watch"
     excerpt: "News Highlights: iOS 14.5 to allow iPhone Users with Face ID to unlock Phones While wearing a mask with Apple Watch Apple makes it easier for users to"
     publishedDateTime: 2021-02-07T12:37:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence"
+title: "Sony's Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence"
 excerpt: "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence."
-publishedDateTime: 2021-02-02T01:18:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f"
+publishedDateTime: 2021-02-02T01:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sony-s-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence-1030029955"
+webUrl: "https://markets.businessinsider.com/news/stocks/sony-s-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence-1030029955"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/sony-s-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence-1030029955"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sony-s-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence-1030029955"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "yEgFMz7N/wUqp8rj7yrYAW7FiFdIHkgrwKiPkcIIZhTX+bS2dSB8Ae4kCL0haNaBaybpE8hn0nYT7p6Ndy5lVPrKk23XiWncK78mo2Tov2IWtnvMCZKiH/VJJSZvg3eOVjVYpbr4J6d60X12D6VT7NeWcWNMiDCqHIigLwmpTSWSnsFTRGO3YFIaSdSg8J4FZLPyk/z3SRi0kNDLQs2g7P03xv6pxLivh/V7u7GNF7J5RbVE6HyAOCIyvYi3pYe7SeQGE+AhFRMoFWxRdwcv2+XkeqpT2CXxXPBaCIAdkxmOVa5bl8cwR0kaOIF8lUaZfO9BZPoTcRqCQRcrEb0sHdphU8FrV52mF31kErUdkvs=;yeoK31USO3fTiZVe0vO2yA=="
+secured: "H+r3gfR5m0NNtYETzCxumUNGYZb2a6/b2NLD7nEAAJ4DqvotHwVDEw2ZvHmAHNyfhnvFQDnFLF8emA6XcHRJMc0P92nlP3Wk8sElNpnQRtnDIEOtaEma+igz1KKBPpJWR3r60o/FL5h4zU0v4k+2o63ugMebydh0Er+DQVVQ5Wyg9km7JVvcGSdglh7S2TskLBm9NWz1HElLDYXDxYoiYUjEBsXcHBZ5uvWOTl+enJ4fwBseda+EbQpBswnax08y5TEyzDd5RrPV6S7/GIKV4L83o2f2ZPrWzWAv7VKgEZdsXiI09EduLM8wqgiss8784xRuo4YThi1esOORQ5ElCLlI67PWewF3IhAxDxwSsF0=;DhLCxcwfg9BKLzliEnF+WA=="
 ---
 

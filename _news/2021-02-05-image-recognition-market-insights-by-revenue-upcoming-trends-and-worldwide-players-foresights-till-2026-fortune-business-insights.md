@@ -85,20 +85,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
-    excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"
-    publishedDateTime: 2021-02-05T02:09:00Z
-    webUrl: "https://menafn.com/1101548486/Global-Mobile-Speech-Recognition-Software-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "cXE30vWafbCm/RJs0RDxdZtq3YSTuiTBQc0dVDx0g9WoemOqN96qUsNbvwS+JpWtOhZODGAQFTEUlVDCQ4kT2MGuP4oKI7VolK3vjqkMyS+Eb+3P21le8j/IiGFNbxpjF4KWPt38n9DsyXkVeU3JJGGelw5cponIX4ddU2apbBkzKdUTf89kQv6gj10wQzicsCD0Xb8BdBewwpI5EQBoWc1ySWfjUxWFzP5aKPO8XMA0LGSc1zuxk72yPdEMDONSyoFf2hxQ4S+EvwG0rDqYWOSLJJivkiC2G1VNWbVfc9bqutd5fXGpNz0rV7dihfdmnIr6vMkoXbXM6+ekK4JvUZsekIY2Y1g8/mM9IRLj1mE=;3dutl/sELYSEy/uBY1IB4w=="
 ---

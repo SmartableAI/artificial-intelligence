@@ -150,20 +150,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ping Identity service uses video facial recognition to verify new customer accounts"
-    excerpt: "Ping Identity Holding Corp., a provider of identity management services, Tuesday launched PingOne Verify, a new cloud service that businesses can use to more quickly verify customer identities for rapid account onboarding,"
-    publishedDateTime: 2021-02-03T20:52:00Z
-    webUrl: "https://siliconangle.com/2021/02/03/ping-identity-service-uses-video-facial-recognition-verify-new-customer-accounts/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/face-detection-4760281_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Privacy investigation finds U.S. tech firm violated Canadian rules with facial-recognition tool"
     excerpt: "Watch Privacy investigation finds U.S. tech firm violated Canadian rules with facial-recognition tool Video Online, on GlobalNews.ca"
     publishedDateTime: 2021-02-04T02:49:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
 excerpt: "The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018), relies on object recognition to generate descriptions of photos ..."
-publishedDateTime: 2021-01-20T12:41:00Z
-originalUrl: "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
-webUrl: "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
+publishedDateTime: 2021-01-20T14:56:00Z
+originalUrl: "https://uk.pcmag.com/social-media/131125/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
+webUrl: "https://uk.pcmag.com/social-media/131125/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
 type: article
 
 provider:
@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_in/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_zvtd.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_njkb.1200.jpg"
     width: 1200
     height: 675
     isCached: true
 
-secured: "FTXCl7JKJIQ+GvDBhzK3cg24BHC+Z6uGuGeu+NghW17RSuLpopjvSfvNKkg9o3pB2li7IW7eURo97x67l7oC2jo3DyYjQylUFpNeH1PHxkWviwYOJEXLhQtg07jzP28Pm6C7xH2Shs9SCdPBWQsgYahFtMBxXvGGtrzFNBLzN+oEMcGNMmlwCfRM0tw+Dydd3hpAy4Pop+CPWtQ9n3pAciidsd5xivSnw101fV0u1jE+CuML8en4ztYcbaVQnne6mmTa40lc4QJanO8BO5cwdE9JI3NJ95Bepr/6Ci/4/7LmCNgHokvVlNfIVFzGJ0TcRuEwVaT51MR0mV0uIzqSvkbGKKLS7pvdiCPilvWYqqE=;Rwzt3Kmwir8mUTDSAZf1TQ=="
+secured: "8c7mhgJIreUDcVGAgp/USISMHkutjaSFfT3wS5iWgJ22NiSWl/+8F546B48ozHbZl3nDnMob4GS1fzRsx5hNwZNu3bpKCsgnl1kEz+6zJCF9V0X3AkDDHYSrJISJpHW37Vx8sTT3rZX/1FJejG7xlAlrHWt6zJKDEPl6PrGUq5oR9i/IDRQArVhawSyEtvVPaVBODXbWka6Vicq8Cqphw5G3BiWqI49LwqIptFRno/bpFlrFtNjgo+yvW/cQ/xFUIwzrCRt52fmnv9I6TQa0bvT9aecft6W0GVHUKYBbM4P/Y3j9iPAg20CjFsZzx/hp4AlzX7cdRfCnyBg9ZFEcUVZ45pHWKK+RwpNkH02f0U0=;hTmVXyQyewb28r+OJ2aWHw=="
 ---
 

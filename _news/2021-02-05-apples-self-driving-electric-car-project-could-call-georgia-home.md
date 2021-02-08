@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Vt. transportation officials to hold forum on self-driving cars"
+    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
+    publishedDateTime: 2021-02-04T19:32:00Z
+    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 24
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
+        width: 980
+        height: 552
+        isCached: true
   - title: "Will it be self-driving car, “electric car?"
     excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"
     publishedDateTime: 2021-02-06T17:14:00Z

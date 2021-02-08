@@ -1,28 +1,26 @@
 ---
 category: news
-title: "SoftBank’s Son expects mass production of driverless cars in two years"
-excerpt: "Automakers and tech companies, including Alphabet Inc’s Waymo and Tesla Inc ... in public companies he thinks are frontrunners in the artificial intelligence (AI) race."
-publishedDateTime: 2021-01-29T16:31:00Z
-originalUrl: "https://www.metro.us/softbanks-son-expects-mass/"
-webUrl: "https://www.metro.us/softbanks-son-expects-mass/"
-ampWebUrl: "https://www.metro.us/softbanks-son-expects-mass/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/softbanks-son-expects-mass/amp/"
+title: "SoftBank's Son expects mass production of driverless cars in two years"
+excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ..."
+publishedDateTime: 2021-01-29T16:38:00Z
+originalUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
+webUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
+ampWebUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
 type: article
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH0S194-BASEIMAGE.jpg"
-    width: 800
-    height: 525
-    isCached: true
-
-secured: "YXg/+JcOk2WkElgL3OxHVnaK4w8kVR76TrrAzASMJ6DlRe5tfu96L8QqzsBcvNeg2GRB+ndQ/EWqpenUu7HXIuqZSoFnFrtHMlQN+D1jz5pPXl5h3iA6UPJhOv0Hgb9MvM9871VV1rNlrRnxuU75FVKfWbpzuapVX1cH16Vc3UXxzbPvoo173MLbJWegVPutSQYEhE2CSWtgVLWgpC9Ab1NkRrGt4jt4xexlSHGVUMGiKPFFD5XFJ7oevsnUPQoixHDF/6SmV7yFzG+EGBiZUj0lekjxhRsZvs8zxAI8SdD9/PA7bqPUGTLPBQId2+S+AcxGTDzzETHKoL/1k3uIo4ED8Th+/rhlz/3xQCn7f4g=;oyxck0uPZ77Dsf0TUshD4w=="
+secured: "NCqfvahsQkEvZZhXH3780ZOjn6aTSn7+wzdgstlj1KNDv0IpsO7FOZuYCXh9+1/am7mebhZsbGHO7zkAPNllLZlYBhK+5zlt01CZCvF8GiFxRfcGxJNGCi05R1yWKK+L+Ke4rI4E7dlKhQ1slsxft7Bb7/sDHpzW+U4UXTCHOgn2dvpwtMWFAo2BNfSNW/Vw5YEYC3ucJBuw/IJiL2/B5qUXgk+gLTlUzOCp3mYHURlzXYJao7rqbJ9B63KV3evVvdM/1I0vsHqIeQpPYpGyCsRkawNy8gCU1LpyUYnrusr5ZLaJ1U824vBLWfiHfkfWns5ZTNc2CBC0/k7UCz2/vO3oBTmeB2WA6z5nVMiWnF4=;5wvfkD6fwXEDI7DmZP2ShQ=="
 ---
 

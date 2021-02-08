@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A800T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A800T"
 type: article
 quality: 86
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -99,6 +99,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60210e84e9a3903f0e2d90d8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4916%26cropY1%3D258%26cropY2%3D3025"
         width: 1199
         height: 675
+        isCached: true
+  - title: "South Korean Hyundai and Kia say they don’t talk iPhone maker about self-driving vehicles"
+    excerpt: "South Korean Hyundai and Kia say they don't talk iPhone maker about self-driving vehicles Shares of Hyundai and Kia plummeted on Monday"
+    publishedDateTime: 2021-02-08T11:24:00Z
+    webUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 50
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/South-Korean-Hyundai-and-Kia-say-they-dont-talk-iPhone.jpeg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
     excerpt: "Shares of Hyundai and Kia plunged on Monday after the South Korean automakers said they were not in talks with Apple to develop self-driving cars after all. “We are not having talks with Apple about developing self-driving cars,"

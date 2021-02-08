@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How I Learned To Stop Worrying And Love AI"
-    excerpt: "In recent years people’s concerns about artificial intelligence have heightened, especially anxiety that the technology will replace human workers throughout the economy."
-    publishedDateTime: 2021-02-03T20:26:00Z
-    webUrl: "https://www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601b0551eddc6b688511ddfe%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Amazing Ways You Can Combine AI, 5G, And Machine Vision To Transform Fish Farming"
     excerpt: "Artificial intelligence, 5G, and machine vision are changing aquaculture. Several companies, including Cermaq and Google's parent company Alphabet, are transforming the traditional industry of fish farming with high-tech to provide individualized care for fish."
     publishedDateTime: 2021-02-08T05:20:00Z

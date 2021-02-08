@@ -131,22 +131,6 @@ related:
         width: 1280
         height: 1066
         isCached: true
-  - title: "Image scraping facial recognition technology used in Alberta deemed illegal: report"
-    excerpt: "A controversial facial recognition tool is equivalent to mass surveillance and violates the privacy rights of Canadians, an investigation has found."
-    publishedDateTime: 2021-02-03T20:47:00Z
-    webUrl: "https://edmonton.ctvnews.ca/image-scraping-facial-recognition-technology-used-in-alberta-deemed-illegal-report-1.5294349"
-    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2021/2/3/1_5294349.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2021/2/3/1_5294349.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 53
-    images:
-      - url: "https://beta.ctvnews.ca/local/edmonton/2021/2/3/1_5294349/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 573
-        isCached: true
   - title: "Facial Recognition Software Has Been Used by 48 Agencies in Canada"
     excerpt: "Controversial facial recognition firm Clearview AI had at least 48 accounts in agencies across the country, most of them police forces, a press release by federal and provincial privacy commissioners said today."
     publishedDateTime: 2021-02-03T21:40:00Z

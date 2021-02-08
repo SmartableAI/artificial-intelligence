@@ -100,6 +100,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "South Korean Hyundai and Kia say they don’t talk iPhone maker about self-driving vehicles"
+    excerpt: "South Korean Hyundai and Kia say they don't talk iPhone maker about self-driving vehicles Shares of Hyundai and Kia plummeted on Monday"
+    publishedDateTime: 2021-02-08T11:24:00Z
+    webUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 50
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/South-Korean-Hyundai-and-Kia-say-they-dont-talk-iPhone.jpeg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
     excerpt: "Shares of Hyundai and Kia plunged on Monday after the South Korean automakers said they were not in talks with Apple to develop self-driving cars after all. “We are not having talks with Apple about developing self-driving cars,"
     publishedDateTime: 2021-02-08T03:52:00Z
@@ -147,6 +163,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "6vOq1wL68YQPvApWEdMvpFlDOXm9GlbNVjVhxqP0GnIv+jkiIfZRe5djvunMmeGW0UY9NmhxX+9UQLnyFv1qe/+sMY35HzmC0SZQgmIKr8SCYrWN0Wj1kkb7BFMSOuUv/QpwiwO6bMe6w/oJFmAT+JRaXwphWMy8kAmoIUP3QmAfL6tMACO1LfrhhlVkjxffB2glMYL6Cga3jw85QCWzn6NOElPwvkYaNkf0pE+PKurKl2ygO8mXHGlWRFvCsWd3RZH/jHW1375eYHpc0lADUSUDlEIGzOt6Y5kH3LMwHnfPy84XLGIqOx+Osgk6Z51QkYM0xznc5A+03/NnhDFbrA7VK193YES+NDgC2cWIMQw=;mo7ZRq5tUiCbF4lK0/1h5A=="
+secured: "c1vIYvM5vvDUWdQ5iRfCJ0eD/NY+PY4qAl7fmhkOWyk6tZR1eSNqGQ5d86OWcHLXeakZV8er9auAaiVaBtGEnxxU9LBZOUCWS2gdK6g7HRoqJw3FruiiteWq94uTnMNjYvRi+kh5obfknZ+KLQklLb/d+m2wAH1BX4w6gR9FJODtnwF6/S6wmmB7n+vhEF7UXQ5Ms3ArW9vtkU60Bmll7ngdnkgzabh2kjYdqL+fIVbLVrmMuoINVA9ZR09mEVeM7yUCrMnDKLXONhNu4yfOcWUrgo6ohYdL2dUZzRFbYsSqQL4hpFYzPL1zXlrWh6sPL7BomqYjikBCre3zgOlozQC0hLiFv3+SAYnag0cdMbks403LnhfYTHHJplZBarKPmJagYoctR0Oq6SuEnG9Rvy0qb1iEqN/obtHsvrnpdyUPDE2Xe4V+gB8OP7aJRELChPenCBKhcoopeBbr6wHy94Iky9ADaH0iZaeSsYETAyXPz2UG6FwV8LKdWVWlPeBvHEKpmhNt/AR9epmUcU5YVQ==;Crp+fUIcq3ONIEhkq2lj6g=="
 ---
 

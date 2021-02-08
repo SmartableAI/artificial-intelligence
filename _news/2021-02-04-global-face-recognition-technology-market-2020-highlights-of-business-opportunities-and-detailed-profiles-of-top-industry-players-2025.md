@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
 type: article
 quality: 52
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
-    excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"
-    publishedDateTime: 2021-02-05T02:09:00Z
-    webUrl: "https://menafn.com/1101548486/Global-Mobile-Speech-Recognition-Software-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "B+I2aveVmGwMfQht/6NgJzm/MYHBu2B/gFeaJN0gm7mdrQXl5893RZ8ONVYnDwxnLGbFgNHPMLTWP+wip1HHSgrfu5bUTjbQQ5BJWTp4Jz+1JabpVeJ8XoKtNRQFnuxncB5fncbs8K4ReVQiFyoPTYIU+aprfGsqFy86ndntVFFoGhUHJ3/gniwXoyEIbspmhkUxd9eFg6ZYow6+9OCVADFBSYmCldlzOMn8BOtrAnp/8p/mTi5FqEYlDSpFOUAXB5NKfbtulnNxrbI7sfT9joez8BPrfw+6f+PZDPxoUKW4Hu6xOQCeIx1znoywLAiiLRqnFmnrnoA16RcgfJnE6s9wDcpOX8hlE+g2qukwb1o=;vBHuBkEb8YbGY62F3bEiAA=="

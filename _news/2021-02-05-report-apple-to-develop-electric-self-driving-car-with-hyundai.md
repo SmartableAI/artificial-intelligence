@@ -104,6 +104,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "South Korean Hyundai and Kia say they don’t talk iPhone maker about self-driving vehicles"
+    excerpt: "South Korean Hyundai and Kia say they don't talk iPhone maker about self-driving vehicles Shares of Hyundai and Kia plummeted on Monday"
+    publishedDateTime: 2021-02-08T11:24:00Z
+    webUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 50
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/South-Korean-Hyundai-and-Kia-say-they-dont-talk-iPhone.jpeg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
     excerpt: "Shares of Hyundai and Kia plunged on Monday after the South Korean automakers said they were not in talks with Apple to develop self-driving cars after all. “We are not having talks with Apple about developing self-driving cars,"
     publishedDateTime: 2021-02-08T03:52:00Z

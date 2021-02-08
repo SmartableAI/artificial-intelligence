@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-c
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -120,22 +120,6 @@ related:
       - url: "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png"
         width: 1280
         height: 1066
-        isCached: true
-  - title: "Image scraping facial recognition technology used in Alberta deemed illegal: report"
-    excerpt: "A controversial facial recognition tool is equivalent to mass surveillance and violates the privacy rights of Canadians, an investigation has found."
-    publishedDateTime: 2021-02-03T20:47:00Z
-    webUrl: "https://edmonton.ctvnews.ca/image-scraping-facial-recognition-technology-used-in-alberta-deemed-illegal-report-1.5294349"
-    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2021/2/3/1_5294349.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2021/2/3/1_5294349.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 53
-    images:
-      - url: "https://beta.ctvnews.ca/local/edmonton/2021/2/3/1_5294349/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 573
         isCached: true
   - title: "Privacy Commissioner claims facial recognition company Clearview AI violated Canadian privacy laws"
     excerpt: "A report from the federal privacy commissioner and three provincial counterparts claims Clearview AI has unlawfully violated the privacy rights of Canadians."
