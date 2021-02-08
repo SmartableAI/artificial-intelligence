@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "XjeabwVRvNXI3SC0MsYztfITeng3v3Ru3pik5MHxaj0hOidYQZQPmfJ5JsUUHD28/Qo/jo4XW4lCec3K1yzD1SRwmZXUcL8vhcLX+TwDRSgIhAq0GPGKIF1EcDtsPi7kyi59Rf2KCWL3AqhroyyGPkHA0cKB5zsek3DdYI20tCGuO/UdnYjAHMy+Tp92ffMj6nrYCCvuwzmRD0K6oC6hebw40QEtIypHYEjNEFIRTs1XHpiCDw+Y9Cd0EuBzVmYVHmQIsqumRugj094AVQBz57IAC21mYr9RBCUn0ltVGcneZUsAT+Rk9UBzuoJ9rNqMcFHl2G0h2gXADKY8clO0ffwLvSOTFn3OtcwJpscpw+I=;kQKHBREaDKZDMZP7GyZsNg=="
+secured: "oUQCJlS6MyeFAo7oYQcDvlBNVIjjEA1bGFnUA0PhUhPFO/1UtTgSdpqGFMuv5K8C0VD7MokDA7Z6qXF1o2To3AOMOT5A9lVqPajU+1sEZrzgQvMX9as1kguLN9ibesslP3aoUMh2ukMF8jCuzKz8ypYidGMOuiokn25WU5UkK4eqYv7yBwMuQLK6gUQ/gLOnS1o/56nnB4FSbqMgG3aEm8oPtEzvmY1MaG5h3Vgs8NEeSh3GFCKi0B9Gcirli5wAwohiRLezmjJgJEOl1Zyn2SwFAuihoFkDtQF8a5z9SzNSM+BnP/+X2izpNS79xVoxkrp6KUXApSN0+1Z+G1/6Y/S2WCou65XUiudH+eRbA38=;GzuOY5Ghc3Sxo/8yygS0jg=="
 ---
 

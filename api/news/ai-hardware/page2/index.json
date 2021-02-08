@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-22-the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4.md",
+      "title": "The new Raspberry Pi Pico is an incredibly powerful little chip for just $4",
+      "excerpt": "The Pico is the first microcontroller board from Raspberry Pi and has been built around the new, custom RP2040 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/21/a6ec6b4b-2925-4f84-a92c-a9d06ecec4ab/resize/1200x/7e9b50b8b494608f7464ffceb3397843/raspberry-pi-pico-angle.jpg",
+          "width": 1200,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "publishedDateTime": "2021-01-21T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai.md",
       "title": "VAST Data allies with Nvidia on reference storage architecture for AI",
       "excerpt": "VAST Data collaborates with Nvidia to create reference architecture for attaching its storage systems to GPU servers.",
@@ -1382,49 +1435,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ai-chipsets-key-players-in-the-cloud-to-edge-shift.md",
-      "title": "AI Chipsets: Key Players in the Cloud-to-Edge Shift",
-      "excerpt": "AI chipsets and their significance in the modern industrial landscape. Why edge AI chips are surpassing cloud-based solutions as the preferred option for AI processing. The latest developments in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/iot/article/21152120/global-market-insights-ai-chipsets-key-players-in-the-cloudtoedge-shift",
-      "originalUrl": "https://www.electronicdesign.com/technologies/iot/article/21152120/global-market-insights-ai-chipsets-key-players-in-the-cloudtoedge-shift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/01/Smart_Factory_promo.5ffdc298234b7.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

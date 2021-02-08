@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-driving trucks join the motorway"
-    excerpt: "Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and Jönköping. The tests will occur in collaboration with TuSimple,"
-    publishedDateTime: 2021-02-03T10:48:00Z
-    webUrl: "https://www.khl.com/news/selfdriving-trucks-join-the-motorway/8010090.article"
-    type: article
-    provider:
-      name: KHL
-      domain: khl.com
-    quality: 24
-    images:
-      - url: "https://www.khl.com/Images/1260x628/index-20210203-101654-Scania-auto-2.jpg"
-        width: 1260
-        height: 628
-        isCached: true
 
 secured: "tlKRX5dnD5zJPSNKIAQ7dPPKoCub8lVu6lvsuuIhJ6dCF2lIebx0gRyvvRx/y0dPjqo1EyxSy+SQu1Xhol4Mp0KqpeacsikTPk4ACxefVeDt3vqIsZimPRLQ/wPceybinB+plTELxV5yzHtrFr8i+8sEQmKiokWHCXDiI0ucuno7wQWTKPP7gMhBCDQSFY0JIlwuNSqcSeFYFA3ACcIY4zqUHXDnfaNXkCcfDePR2VSG4z39yX5c0uiAFMVgOCbtRvYkyZJ1DMfVIR+483t7l5iQ4vfYWG7XuH3KgLxSyN+Vs0lx0HczwqCd5i9EE18C00IBGfcXfsuKPxOsSw6u6Svh3xk0NmM1u7eSnNr7FVqvaoNs+gXzYoptv5dW7U8EV4rgIh14rGTs1KPJw4kCSbTeip8zx67jWXk9GRcG0rjoXkNN86+uH2De5QsI0MlHEHc8DI9YMUoWnvZdqxS6ulKw6YjdXBwV7lLZL1B/oS1hbG68QKh3so91jQktKqKhMKdse7EXZLh2JHubrQjQfw==;jL362hbfT7YOwrWzXak0YA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-02-05"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,57 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Market Insights By Growth, Research Methodology, Emerging Trends and Forecast 2027"
-    excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
-    publishedDateTime: 2021-02-03T14:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03"
+  - title: "Artificial Industrial in Manufacturing Market Size by Regional Production Volume, Consumption Volume, Revenue and Growth Rate to 2027"
+    excerpt: "Feb 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Artificial Industrial"
+    publishedDateTime: 2021-02-05T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-industrial-in-manufacturing-market-size-by-regional-production-volume-consumption-volume-revenue-and-growth-rate-to-2027-2021-02-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025"
-    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market"
-    publishedDateTime: 2021-02-04T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Worldwide Deep Learning Market Outlook to 2025: Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "Global “Deep Learning Market” is segmented by region, players, by Type, and by Application. Players, stakeholders,"
-    publishedDateTime: 2021-02-04T12:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/worldwide-deep-learning-market-outlook-to-2025-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Insights By Revenue, Upcoming Trends And Worldwide Players Foresights Till 2026 | Fortune Business Insights"
-    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
-    publishedDateTime: 2021-02-05T13:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-revenue-upcoming-trends-and-worldwide-players-foresights-till-2026-fortune-business-insights-2021-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-driving trucks join the motorway"
-    excerpt: "Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and Jönköping. The tests will occur in collaboration with TuSimple,"
-    publishedDateTime: 2021-02-03T10:48:00Z
-    webUrl: "https://www.khl.com/news/selfdriving-trucks-join-the-motorway/8010090.article"
-    type: article
-    provider:
-      name: KHL
-      domain: khl.com
-    quality: 24
-    images:
-      - url: "https://www.khl.com/Images/1260x628/index-20210203-101654-Scania-auto-2.jpg"
-        width: 1260
-        height: 628
-        isCached: true
   - title: "Ford ups investment in self-driving and electric cars to $29B"
     excerpt: "Ford plans to spend up big in the areas of electric vehicles and self-driving technology, CEO Jim Farley said Thursday during a conference call detailing the automaker's 2020 financial results. Key measures mentioned by the new Ford CEO include an increase in spending on EVs to $22 billion through 2025,"
     publishedDateTime: 2021-02-05T13:00:00Z

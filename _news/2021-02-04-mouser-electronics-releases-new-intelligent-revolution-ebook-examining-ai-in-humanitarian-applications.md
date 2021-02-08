@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-537bb3328bba44ebbb871deac8ba13c3"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Talking Medicines Launches AI-Powered Patient Intelligence Platform to Revolutionize Marketing for World’s Leading Drug Brands"
-    excerpt: "Talking Medicines has today (Thursday 4 February) launched an AI-powered social intelligence service, PatientMetRx, giving the world’s leading drug brands insights on patient experience on a scale and depth never previously possible."
-    publishedDateTime: 2021-02-04T11:13:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-media-1e1bfb36d8944678a13496401aafdf00"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Carecard Launches Artificial Intelligence-Powered Platform to Tackle the $450 Billion Dollar Prescription Market"
-    excerpt: "Carecard launches to make healthcare affordable for everyone by tackling the $450 billion dollar prescription market. Carecard is powered by advanced AI technology, and the Company has secured relationships with major pharmacies nationwide,"
-    publishedDateTime: 2021-02-03T14:36:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-health-care-costs-medication-4d765d736591a663ef4230894bf2a559"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ZamlzO3FEr4wFAZSsOXeP8pnFtPsKtWrV3IiDIlI0YJXXiZoTC5fJVj/ejvS+T++GouWR62ylF4oeU3EimT07YMXrlWJMSm3hb/98ZovhTRzRz89vgp9CVLxmNCX4/4nugCdY6dr+zQ8NJgDW5vBmdg6u0JuLgqCHv8u3GaBDCYEJvApbbM+9BerTkUHXGPbOSUCf3ojqMex9LKRJRpt6bsHrQyTqvHIaHv/I8PQbrihRmzrSP2yNge2xQAW2AaelTyOR/WVgFOj9AYs7au64Xg4xL8bewrloi4Pa5JkdBHgLah1pPFU3g0/FYhSTaEv5+nApwx0d+gLza7WZbIPKLUag6s7PfYJkLqyup4lUXw=;ClepEkzLlQLNpOxWKZyNUA=="
 ---

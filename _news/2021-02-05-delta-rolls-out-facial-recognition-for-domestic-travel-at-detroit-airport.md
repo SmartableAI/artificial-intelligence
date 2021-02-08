@@ -57,6 +57,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Innovation in technology and vocational training gets financial recognition"
+    excerpt: "The winners of the first inaugural Cambodia Skills Challenge Innovation Call have been announced. The Innovation Call is an initiative of the Ministry of Labour and Vocational Training and the United Nations in Cambodia,"
+    publishedDateTime: 2021-02-08T02:44:00Z
+    webUrl: "https://www.khmertimeskh.com/50811599/innovation-in-technology-and-vocational-training-gets-financial-recognition/"
+    type: article
+    provider:
+      name: Khmer Times
+      domain: khmertimeskh.com
+    quality: 37
+    images:
+      - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/02/16824.jpg"
+        width: 750
+        height: 440
+        isCached: true
 
 secured: "XwnnFnJA+y/NxdB/vCPmydzL1AyurGXWRwtttBWT5oG7Sx3BWyqHCzYFf8Xu6BW3o7YVkyMizsTal8RGaM/mRN2u72g8MCvSG9bHkUqad+5sC2NdazlIS/9/zvISzQbqe/J/vhD1Znn5j97Wf1zCOxz8WgNt3vHCCIv6Vsx1Azl+t85CdsfyszwxlfgrVmuR6Yt/Bq7vI/bXz6hmSthcPWvSgrcbPNCOfip9UIWtjSmnp4LJeD7HZwN7xclxz9oMv5Dhpuh2UqxGroCl3pYlAnWHAj1wBGeO527cMo7Wykyj9dyha3VYUqtePi4RCkV/k1n48SICb8dHK2b2GhaM234kErQC4zd5QXm6797ZVjg=;/or4L2V4kJ6HrjrVbHAM6Q=="
 ---

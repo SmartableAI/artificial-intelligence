@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-12-ai-chipsets-key-players-in-the-cloud-to-edge-shift.md",
+      "title": "AI Chipsets: Key Players in the Cloud-to-Edge Shift",
+      "excerpt": "AI chipsets and their significance in the modern industrial landscape. Why edge AI chips are surpassing cloud-based solutions as the preferred option for AI processing. The latest developments in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/technologies/iot/article/21152120/global-market-insights-ai-chipsets-key-players-in-the-cloudtoedge-shift",
+      "originalUrl": "https://www.electronicdesign.com/technologies/iot/article/21152120/global-market-insights-ai-chipsets-key-players-in-the-cloudtoedge-shift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/01/Smart_Factory_promo.5ffdc298234b7.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-south-korea-mulls-investing-114-billion-in-ai-chips.md",
       "title": "South Korea Mulls Investing $114 Billion in AI Chips",
       "excerpt": "South Korea's ICT ministry said Tuesday it will invest 125.3 billion won ($114.1 million) this year to support the development of neural processors, up",
@@ -1368,58 +1411,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-ai-chipmaker-graphcore-raises-222m.md",
-      "title": "AI Chipmaker Graphcore Raises $222m",
-      "excerpt": "Graphcore, the UK-based AI chipmaker, has raised $222 million, a Series E in new funding, as it braces itself for the tougher competition from US rival Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/",
-      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb2795aed6bf81fc2905a5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/",
-      "publishedDateTime": "2020-12-29T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

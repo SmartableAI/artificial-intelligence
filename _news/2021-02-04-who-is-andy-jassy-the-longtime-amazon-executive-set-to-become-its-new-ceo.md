@@ -59,22 +59,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "As Jeff Bezos Takes Off, Meet His Earthbound Successor"
-    excerpt: "And, most of all, the self-effacing and affable executive has been perhaps the most loyal lieutenant to the Amazon founder Jeff Bezos, joining him right out of Harvard Business School in 1997 and playing no small part as the tech mogul became one of the most powerful figures in American business."
-    publishedDateTime: 2021-02-03T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/02/opinion/02swisher/02swisher-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "After 27 Years, Jeff Bezos Will Step Down As CEO Of Amazon"
     excerpt: "Jeff Bezos is stepping down as Amazon CEO, the online internet retailing giant he founded 27 years ago, and will become executive chair, focused on “new products and early initiatives,” he announced on Tuesday."
     publishedDateTime: 2021-02-03T18:29:00Z
@@ -120,22 +104,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 797
-        isCached: true
-  - title: "Jeff Bezos is stepping down as Amazon CEO and will be replaced by AWS boss Andy Jassy"
-    excerpt: "Bezos announced the change in an email to staff on Tuesday afternoon and as the company reported bumper 2020 Q4 earnings of more than $100billion."
-    publishedDateTime: 2021-02-03T09:31:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/02/02/21/38803406-0-image-a-27_1612302759925.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "What Amazon CEO Jeff Bezos stepping down means for fintech"
     excerpt: "Jeff Bezos will step down as founder and CEO of Amazon and transition to chairman in 2021, allowing seasoned cloud executive Andy Jassy to take the reins of the $1.6 trillion giant. As detailed in an email to his employees,"

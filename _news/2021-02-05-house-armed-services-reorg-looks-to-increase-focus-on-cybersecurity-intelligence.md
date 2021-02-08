@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/cio-briefing/2021/02/house-armed-services-
 webUrl: "https://www.nextgov.com/cio-briefing/2021/02/house-armed-services-reorg-looks-increase-focus-cybersecurity-intelligence/171862/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,59 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Data Drought Slows Advance of AI in Cybersecurity"
+    excerpt: "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data."
+    publishedDateTime: 2021-02-04T11:01:00Z
+    webUrl: "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-294669/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Cyber Daily: Data Drought Slows Advance of AI in Cybersecurity"
+    excerpt: "Cybersecurity professionals would love to use artificial intelligence to harden their defenses. But it’s hard to get enough of the right kind of data to train AI models, WSJ Pro’s James Rundle reports."
+    publishedDateTime: 2021-02-04T15:12:00Z
+    webUrl: "https://www.wsj.com/articles/cyber-daily-data-drought-slows-advance-of-ai-in-cybersecurity-11612448985"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine learning meets cybersecurity"
+    excerpt: "The healthy and transformative relationship between Machine Learning (ML) and cybersecurity continues to unfold in front of our eyes. As our world becomes increasingly digital, the demand for ML and cybersecurity has peaked."
+    publishedDateTime: 2021-02-03T15:00:00Z
+    webUrl: "https://www.cuinsight.com/machine-learning-meets-cybersecurity.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 39
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2020/10/bigstock-Web-Browser-Closeup-On-Lcd-Scr-292271380.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Data Sharing Critical to AI’s Use in Cybersecurity"
+    excerpt: "Strategies for enabling the effective use of AI technologies in cyber-defense were highlighted by a panel of experts during the RSAC 365 webinar ‘AI Meets Cybersecurity: Crossing the Streams and How to Manage the Dynamic Results."
+    publishedDateTime: 2021-02-05T11:05:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/data-sharing-ai-cybersecurity/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "bW5wvcHei5zv2xMaEHkowp1ZqK+yjt37PPvHlQl4rN7tqan5e3oxwr7cb55xiIq6SwQE5v7raLSsAp9AzVLr7OaM3QX/3J3CkmW2+tgLElHuKGZtDDx3HpTZJJYqUJOqqSM8T114H+m56Zh9DkB4eD+ndCJ29L4AeVtEebxzrfZzP10LG+G8xDb8yRheTrWGwJ2aZK9KfDRifoz4IMN/3Cu8BvwkVcspmzA9qfvqXtxa5ICKDLEDOQa8LjlvLO1AI5H8iT8YlXBeNl+koGgZgXFKli3hARjYb+quJ3WHDj/Av0pD0nhkvuI4m6e68xzA0VgJ58NPuXOnk9sOkUwu8uNVS19Q2w7HM2p1TcYW5ck=;DAhX58+OXJuKn3U7MaTA4w=="
 ---

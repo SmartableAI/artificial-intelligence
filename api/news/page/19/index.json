@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-01-23-the-biden-administrations-ai-plans-what-we-might-expect.md",
+      "title": "The Biden administration’s AI plans: what we might expect",
+      "excerpt": "The president hasn't yet announced anything explicit, but there may be something to glean from his early appointments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/AP_21016697634049-e1611336193653.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/amp/",
+      "publishedDateTime": "2021-01-22T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-minneapolis-a-step-closer-to-banning-facial-recognition-technology.md",
       "title": "Minneapolis a step closer to banning facial recognition technology",
       "excerpt": "There are concerns about it leading to a surveillance state, and that it could harm disadvantaged communities.",
@@ -1119,49 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-designing-customized-brains-for-robots.md",
-      "title": "Designing customized \"brains\" for robots",
-      "excerpt": "MIT researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

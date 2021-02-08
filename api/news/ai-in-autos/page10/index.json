@@ -2,49 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-11-24-artificial-intelligence-could-put-milton-keynes-on-a-par-with-san-francisco-and-singapore.md",
-      "title": "Artificial intelligence could put Milton Keynes on a par with San Francisco and Singapore",
-      "excerpt": "MK has the world’s largest fleet of autonomous delivery robots and was the UK partner for a three-year trial of driverless autonomous vehicles. In the last year alone, Santander’s has begun its £150m investment into a new innovation centre in Central ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miltonkeynes.co.uk/news/people/artificial-intelligence-could-put-milton-keynes-par-san-francisco-and-singapore-3045700",
-      "originalUrl": "https://www.miltonkeynes.co.uk/news/people/artificial-intelligence-could-put-milton-keynes-par-san-francisco-and-singapore-3045700",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.miltonkeynes.co.uk/webimg/T0FLMTI3MzE2ODA2.jpg",
-          "width": 532,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milton Keynes Citizen",
-        "domain": "miltonkeynes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-california-paves-way-to-let-self-driving-taxis-charge-for-rides.md",
       "title": "California paves way to let self-driving taxis charge for rides",
       "excerpt": "Regulators in California have developed two programs that will allow and permit self-driving taxis to charge their passengers for rides.",

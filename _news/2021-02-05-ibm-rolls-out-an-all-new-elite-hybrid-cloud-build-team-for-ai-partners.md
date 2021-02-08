@@ -46,18 +46,18 @@ related:
         height: 627
         isCached: true
   - title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
-    excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
-    publishedDateTime: 2021-02-04T15:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-301221852.html"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-02-04T05:20:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210204ny70064/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 6
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "b5vwIeFh4AUFGe72gjDBXaEwLEDkpP1z3/xYpM3Fsr3JTKLtdXXuMQdRNGg/LpII5m+DjaEIzxjRUwjA6GANcZE1MrhWTbkAC4zyPkESVMid3BRifv5BVf5FKYppual6hf4S4TGiJnHWr/K0EaPAbiQf0qDYBH9mD5PU3H+Jcv8H3hJk15KeTJj9OwzV704dyRUFXQRKgTXoYCPaARgwTFbviScgaQBzjJbP0HTXadUlVFkj16heEe5k5lSUGyTyAmEVd0WeztSVkKht5AZUGDe0uE87MrTqMOcnH1d3k70lq+A/olTXZk9EWdR3M31T63zxd0QfkrbkBfD4g2ag95PDO0Y29kgqW3vt9HDYEpBvCUZamB0ER0Av7ObngXCav2k7ax63TTqnesFRuJTZh7rFPOmb4pZwb6PR5vbu2pF94KKqaPqy85bQlpcTvrsi0HZ1ZhLAlEmswCrm7TexUwC3mp2u3TFjP5JWli+YsdcICnltZXS/GY+EgXy4YYfefqQHXS/Iy/YOd8ehMx9OYA==;M4/nn0VbSA/DlG7r+4uCCQ=="

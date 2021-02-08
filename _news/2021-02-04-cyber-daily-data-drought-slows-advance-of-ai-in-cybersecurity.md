@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber AI for SaaS Security: Protecting Your Dynamic Workforce"
-    excerpt: "To protect today's dynamic workforce, security teams must be equipped to discern when and how a trusted account has been leveraged for"
-    publishedDateTime: 2021-02-03T09:56:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
   - title: "Data Drought Slows Advance of AI in Cybersecurity"
     excerpt: "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data."
     publishedDateTime: 2021-02-04T11:01:00Z
@@ -76,6 +65,20 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 17
+  - title: "House Armed Services Reorg Looks to Increase Focus on Cybersecurity, Intelligence"
+    excerpt: "The House Armed Services Committee separated oversight of intelligence functions from the purview of a subcommittee that has been leading on cybersecurity issues over the years, saying it will increase much-needed attention to both areas."
+    publishedDateTime: 2021-02-05T00:22:00Z
+    webUrl: "https://www.nextgov.com/cio-briefing/2021/02/house-armed-services-reorg-looks-increase-focus-cybersecurity-intelligence/171862/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 17
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/04/NGcongress20210204/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "/0dbGXd1t+pKVnKIa5qC7meh5pWqIpfngWD6KdjZkPnPEpd0vHEWiOu7HEuc7ulO17T6OCgnH8/PpjwPDi9WOQV9Jr7fFZCLgK5P6BQoYGlJdfmvITodB9SyzUtM90h97UCYga4c3dKGXm7S2DaeuYEobfCd9sfoRfpIaCuz9mWSJwJ8xQPQqcCzC1vmnf1kGrHHwgfKelnCc8DZDeMfFr9xdbzs/X4vTZVW1YkajMwjCKbnhgUPGg8V/9Nww6xDvGUF+yv8fvUb07+IQqpIOQr4PZCXShbKJrF8ineb4fl067dUI/uc1cW2Fq8buCWHy0RSAiOme31ff918mTTY9AIyjEJ7ApUwXNBtqqUitb8=;inaOhpLf++hsAN+ORj/rng=="
 ---

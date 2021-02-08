@@ -49,20 +49,6 @@ related:
         width: 820
         height: 500
         isCached: true
-  - title: "Viking Analytics and pour-tech AB sign contract to provide AI operators to iron foundries"
-    excerpt: "Viking Analytics, a Swedish startup in advanced analytics solution for predictive operations, and pour-tech AB, specialized in"
-    publishedDateTime: 2021-02-03T10:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-pour-tech-ab-sign-contract-to-provide-ai-operators-to-iron-foundries-301221068.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
     excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
     publishedDateTime: 2021-02-07T13:56:00Z

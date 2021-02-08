@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-
 webUrl: "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html"
 type: article
 quality: 69
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai, Kia Say Not in Car Development Talks With Apple"
+    excerpt: "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in discussions with Apple Inc. on cooperating to develop a self-driving electric vehicle, following reports and speculation that they were working with the tech giant."
+    publishedDateTime: 2021-02-08T01:39:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy_OJ8GUjbk4/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Hyundai’s Kia latest focus of Apple self-driving car rumors"
     excerpt: "South Korea's Kia Corp is the latest car manufacturer to have come under the spotlight following previous reports that Apple is targeting 2024 to produce a self-driving car that could include its own battery technology."
     publishedDateTime: 2021-02-03T16:11:00Z
@@ -42,6 +56,20 @@ related:
       - url: "https://img.lightreading.com/2021/02/767107/5236.jpg"
         width: 500
         height: 500
+        isCached: true
+  - title: "Hyundai, Kia say not in talks with Apple on self-driving car development"
+    excerpt: "South Korea's Hyundai Motor and Kia said on Monday (Feb 8) they are not in talks with Apple on developing autonomous vehicles, sending their shares tumbling.. Read more at straitstimes.com."
+    publishedDateTime: 2021-02-08T01:08:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/hyundai-kia-say-not-in-talks-with-apple-on-self-driving-car-development"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 38
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_hyundai_080221.jpg?itok=WS_uo6SL"
+        width: 763
+        height: 509
         isCached: true
   - title: "Apple’s self-driving electric car project could call Georgia home"
     excerpt: "If Georgia is picked to build Silicon Valley giant Apple’s self-driving electric vehicles, it could mean lots of new jobs, a big boost to tax revenue and a burnishing of the state’s reputation as a tech hub."

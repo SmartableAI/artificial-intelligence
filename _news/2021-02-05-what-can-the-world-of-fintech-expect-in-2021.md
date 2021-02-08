@@ -43,22 +43,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Fintech industry will continue to grow stronger in 2021: Capital Float"
-    excerpt: "India is one of the fastest-growing fintech markets in the world. There is an increasing number of start-ups, an increased adoption of the Internet."
-    publishedDateTime: 2021-02-03T10:15:00Z
-    webUrl: "https://www.dqindia.com/fintech-industry-will-continue-to-grow-stronger-in-2021-capital-float/"
-    ampWebUrl: "https://www.dqindia.com/fintech-industry-will-continue-to-grow-stronger-in-2021-capital-float/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/fintech-industry-will-continue-to-grow-stronger-in-2021-capital-float/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/FintechBlue-750x375.jpg"
-        width: 750
-        height: 375
-        isCached: true
   - title: "7 FinTech Trends to Keep an Eye on in 2021"
     excerpt: "As advancements in technology are on the rise, it seems inevitable that digitalization and innovation will change the world as we know it. And this is c"
     publishedDateTime: 2021-02-04T07:19:00Z

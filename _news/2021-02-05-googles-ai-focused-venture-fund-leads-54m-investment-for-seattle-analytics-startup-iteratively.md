@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/googles-ai-focused-venture-fund-leads-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/googles-ai-focused-venture-fund-leads-5-4m-investment-seattle-analytics-startup-iteratively/amp/"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/data.png"
         width: 820
         height: 500
-        isCached: true
-  - title: "Viking Analytics and pour-tech AB sign contract to provide AI operators to iron foundries"
-    excerpt: "Viking Analytics, a Swedish startup in advanced analytics solution for predictive operations, and pour-tech AB, specialized in"
-    publishedDateTime: 2021-02-03T10:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-pour-tech-ab-sign-contract-to-provide-ai-operators-to-iron-foundries-301221068.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Viking Analytics and Pour-tech AB Sign Contract to Provide AI Operators to Iron Foundries"
     excerpt: "Automation is well established in foundries, but companies also must take on digital transformation. The Viking Analytics / pour-tech AB partnership shows the potential Artificial Intelligence use in the metal industry."

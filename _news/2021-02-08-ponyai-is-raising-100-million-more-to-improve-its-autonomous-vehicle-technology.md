@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "China-backed self-driving car startup Pony.ai raises $100M more"
+    excerpt: "Autonomous driving technology startup Pony.ai announced a $100 million extension to its last funding round today, bringing its total amount raised to more than $1 billion. The company is now valued at $5."
+    publishedDateTime: 2021-02-08T01:20:00Z
+    webUrl: "https://siliconangle.com/2021/02/07/china-backed-self-driving-car-startup-pony-ai-raises-another-100m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/BotRideReal.jpg"
+        width: 975
+        height: 650
+        isCached: true
 
 secured: "nH6BPFHoeJIKN2zZ8FMt8EsglgO8WB2BiCYmD5G9LGpzKUpyS/muDlihLw7x/9CC1dc9Am1nkpV73XlRqwIGuK46PIOb7RWDaItZOQtxF7lctoP8xvNjLslmNwuIBdNPO0M4aNqd6hLrYuhP9hOtUQ4sPS5PYQOswHvcBlY/lA89HVc8S7u5y4FRVtg9KwvDYxdEEIJs5qdnQ/BSFQGX3IAjiTN0IKwFlt7myB6A8ZUXoispWA7jxcmYAQtyawQnVqJNk4AkIvNBKkGSsDBpKfDdjGCTYmk1W6STQGG22mt1MjcwC1hTqag4GN3vDmfaPlj7xYCq2gW32gfZHmy7CHJgaMcPtgK7S2WdipnipXbpvhR/DtjZT5cOcoE9e6tdCELVqe7dsMc2QdvNf40sN17xg3Fof8tEn/wSK4aOXUD5mnfkZTdFI0Y8pxSKasyiwP1+GRjzPJKS04xI2yq6PVbWPUXXqJW6qMCOFbgDw3yMFc8jROTCD8X2KZRcqOMV65P3rKgBWuBpFX8cyGonWg==;d3e5iNc1o8pB7gpUWx38yQ=="
 ---

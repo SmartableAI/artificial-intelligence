@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
-excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
-publishedDateTime: 2021-02-04T15:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-301221852.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-301221852.html"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2021-02-04T05:20:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210204ny70064/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210204ny70064/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem"
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 627
         isCached: true
 
-secured: "f3yBnZz2v6nLWFXtr4g+mXBQxmnFJeLUYf3lpFUgFRugrDeqwKBlwArlvW3gYXhRh0vN75dHTrAxR94rQY9MrVYES5RpxxELTo/ZPJXYGlLUe3aR4CFtu5jdg8/THolbrQ5uX9SjaShW7bPjw2TiF2ygV/aujCJv6+LlZ5u/OKSKBY7/c2GIZZrP0JkCUivArqXNfCHuIFH0NmW3bJVXfK1vDLxgyT0g7y/Y7BrWVvM9zBS5OBeHtpCjIJ+kaj5dG+YgCblpepzcmz8t3LenCEx2uoXLGzczSnnBKg2GDBqVbz6+FIo+044K8TqkRPxv+xo7YmAZ/qyMiDfU1mj5DWewfgqnvsFr8y4d1OaVEm4=;JfnuA5uN6ORz+rPBWKDmHw=="
+secured: "rqi8/3ccZ5tiUvhxxPzw5t1vYhnKyprSJlM7yLzu+cQ7A/9BPlHc/UZaMHZUAnWWzPJccI5IKt3M1aXNId2Vm5y2RgH5UbL8mKZk7oNl+JSK8wH2Ky2Ze+DEOChxwmjNwP/KeF9CVq0iClW1gXe1NKbgL1hw+KWQjhNs3LMwrw55oI5XMX9wPkTgVUawnWWRw/BmqLIxfjiiuOHBwdwD1uXxL1iQjwAHH2B6wQyb7ofP+WWnbno1nzyuYnGlT2Qf6ntr/zchSuknfAuAaxw7rmkVQyhbJAhYL/2S4WR+yoSkgO8HPnWlH/EjIlpkKH1HZjzc/fs20DyMbVLw/V953w6+dzAPtmMx8qSIPQFBKp8=;TiTWOJsQeTvtxdaLBaHz4A=="
 ---
 
