@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-06-moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup.md",
+      "title": "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup",
+      "excerpt": "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in",
+      "originalUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T21:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round.md",
       "title": "Self-driving software startup Oxbotica raises $47mln in latest funding round",
       "excerpt": "Self-driving software startup Oxbotica said on Wednesday it has raised $47 million in its latest funding round led by the venture arm of oil giant BP and including health and safety device maker Halma Plc and Tencent.",
@@ -1336,58 +1389,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-uk-chipmaker-graphcore-valued-at-28bn-after-it-raises-222m.md",
-      "title": "UK chipmaker Graphcore valued at $2.8bn after it raises $222m",
-      "excerpt": "British firm challenges rivals including Nvidia with chips used in artificial intelligence Jasper Jolly ... with voice recognition and driverless cars among the potential target markets for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
-      "originalUrl": "https://www.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ca479579505d4b80607dc6f2c2e70cdfaf298c4d/0_253_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d42009c89d4cfa8f586425a27d1ccbe6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
-      "publishedDateTime": "2020-12-29T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

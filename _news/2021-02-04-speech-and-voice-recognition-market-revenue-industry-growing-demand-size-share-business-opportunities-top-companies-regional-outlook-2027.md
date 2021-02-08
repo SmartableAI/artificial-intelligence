@@ -29,105 +29,62 @@ images:
     isCached: true
 
 related:
-  - title: "Obtaining Market Recognition And Assessing Value Propositions In A Rapidly Changing Business Climate"
-    excerpt: "What will it take for organizations to keep building market recognition? How can leaders impact the sentiment of their audiences? Why are some companies excelling and others getting behind?"
-    publishedDateTime: 2021-02-03T12:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee90f75a2b06400077bbb41%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Using Facial Recognition to Find Capitol Rioters Brings Risks"
-    excerpt: "In the aftermath of a riot that included white supremacist factions attempting to overthrow the results of the presidential election, communities of color are warning about the potential danger of the software."
-    publishedDateTime: 2021-02-05T23:39:00Z
-    webUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html"
-    ampWebUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/BIZ-CPT-CAPITOL-RIOTS-FACIALRECOGNITION-ABA.jpg"
-        width: 941
-        height: 626
-        isCached: true
-  - title: "Bingo and AI The changing relation between entertainment and artificial intelligence"
-    excerpt: "The relation between entertainment and artificial intelligence is undoubtedly influencing the quality of humans lives. It is personalizing our entertainment activities, including gaming."
-    publishedDateTime: 2021-02-03T14:44:00Z
-    webUrl: "https://www.analyticsinsight.net/bingo-and-ai-the-changing-relation-between-entertainment-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 45
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Bingo-and-AI-The-changing-relation-between-entertainment-and-artificial-intelligence-min.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Machine Learning to Bring a Transformation in Software Testing"
-    excerpt: "Automated testing has emerged as one of the most relevant technologies for scaling DevOps, businesses are spending a lot of time and effort to develop end-to-end software delivery pipelines, and containers and their ecosystem are keeping up with their early promise."
-    publishedDateTime: 2021-02-04T11:19:00Z
-    webUrl: "https://www.cioapplications.com/news/machine-learning-to-bring-a-transformation-in-software-testing-nid-7199.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/hvhlh450.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "Amazon Begins Expanding Electric Van Program, Provides Update on Packaging Reduction"
-    excerpt: "Amazon is seeing returns on its sustainability investments, particularly for its electric delivery van pilot and machine learning (ML)-powered reductions in packaging weight. These initiatives are part of Amazon’s commitment to The Climate Pledge,"
-    publishedDateTime: 2021-02-04T18:08:00Z
-    webUrl: "https://retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction"
-    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 37
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/08/Amazon-Mercedes-e-Van.jpg"
-        width: 960
-        height: 643
-        isCached: true
-  - title: "Edge AI Hardware Market Global Forecast to 2024 by Devices, Processor, Power Consumption, Process, End-User Industry, Top Key Players, and Regions"
-    excerpt: "The edge AI hardware market is expected to register a shipment of 610 million units in 2019 and is likely to reach 1559.3 million units by 2024, at a CAGR of 20.64% during the forecast period. Major drivers for the market's growth are growing demand for low latency and real-time processing on edge devices and emergence of AI coprocessors for edge computing."
-    publishedDateTime: 2021-02-03T14:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-global-forecast-to-2024-by-devices-processor-power-consumption-process-end-user-industry-top-key-players-and-regions-2021-02-03"
+  - title: "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market"
+    publishedDateTime: 2021-02-04T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Amherst teen wins recognition in national arts competition"
-    excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
-    publishedDateTime: 2021-02-05T14:05:00Z
-    webUrl: "https://www.amherstbulletin.com/Amherst-teen-is-a-finalist-in-national-music-competition-38644548"
+  - title: "Image Recognition Market Insights By Revenue, Upcoming Trends And Worldwide Players Foresights Till 2026 | Fortune Business Insights"
+    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
+    publishedDateTime: 2021-02-05T13:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-revenue-upcoming-trends-and-worldwide-players-foresights-till-2026-fortune-business-insights-2021-02-05"
     type: article
     provider:
-      name: Amherst Bulletin
-      domain: amherstbulletin.com
-    quality: 4
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ISRI’s 2021 Advocacy Agenda Highlights Industry Opportunities for Growth and Recognition"
+    excerpt: "The importance of recycling has never been greater. Recognizing the essential role of the industry and its immeasurable benefits, the Institute of Scrap Recycling Industries’ (ISRI) 2021 Advocacy Agenda highlights ISRI’s proactive engagement on new challenges and opportunities at the local,"
+    publishedDateTime: 2021-02-04T16:36:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-legislature-environment-and-nature-waste-management-services-government-and-politics-c2bc9dc1ccbecd171c6b23193c0c4fca"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-02-05T02:09:00Z
+    webUrl: "https://menafn.com/1101548486/Global-Mobile-Speech-Recognition-Software-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "/ya7H6fcrfc7bgVaRipwvz9wpXW9Dtavc1kN52AI1Y26CBKuYJXtFCK0W0wst2mAufpujDBPF8KoJDDDreSkStPOy6BCbJR5H0vhfzKWTby9MZa+Mi/zy8Q/nN6QNlqDqXWuvP5CLG0NiG2C6d8nvHaGKJQC8V8jvQO6LoEtUqJOWG3hm28Gabrxs4ouWl9/Lr9NQaTtOEav3m/9lgPxmo5dSMBkm4960XCo3O6GdKnxu99qoEedveOfOXxi7DHiUrbsG2INSaBzFvZTlZ/exGeIGOzzjdex1RMd1ESk43YOmc3rQlC8qeTTwFG7tsSLKVUd37WX29mE2bWk4RsBUQFVfXRjRnnOR5tBji9zhJo=;UleE7Tai5/PzB/yTHzMfJQ=="
 ---

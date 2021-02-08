@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-08-hyundai-and-kia-say-they-are-not-talking-to-apple-about-self-driving-cars.md",
+      "title": "Hyundai and Kia say they are not talking to Apple about self-driving cars",
+      "excerpt": "Shares of Hyundai and Kia plunged on Monday in Seoul after the automakers said they were not in talks with Apple to develop self-driving cars after all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html",
+      "originalUrl": "https://www.cnn.com/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210207220435-hyundai-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html",
+      "publishedDateTime": "2021-02-07T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-diat-to-research-develop-robotics-platforms-for-armed-forces.md",
       "title": "DIAT to research, develop robotics platforms for armed forces",
       "excerpt": "The institute launched the School of Robotics last year, considering interdisciplinary requirements of research and development in the field.",
@@ -698,57 +750,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-the-race-for-ai-is-getting-tight-but-who-is-winning-it.md",
-      "title": "The race for AI is getting tight, but who is winning it?",
-      "excerpt": "Daphné Leprince-Ringuet says global superpowers are competing to win the AI race, but the winners and losers aren't so clear-cut. Read more:",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-who-is-winning-it/",
-      "originalUrl": "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-who-is-winning-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2021/02/05/74033f3c-63ec-45af-8941-ed95f206ca34/thumbnail/770x578/1f14bcfbfbb7b59c91385d1fef650225/20210205-daphne-karen-race.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

@@ -3,8 +3,8 @@ category: news
 title: "Alibaba-backed self-driving startup opens its robotaxi service to the Chinese public"
 excerpt: "AutoX became the third firm to receive a test permit in California to operate its autonomous vehicles without a human safety driver."
 publishedDateTime: 2021-01-28T10:14:00Z
-originalUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china"
-webUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china"
+originalUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china?ref=recommender-671946"
+webUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china?ref=recommender-671946"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "tUSeafH6fN3P+MmgOwYzKvQZDxRRLtB6LPepddeFt20dYGmn6dNmdut18QTfOTKD324aPTB4UvrMSFHV2k7ON1+C9IUBKa/1NO90rjsVdIBFFrJ8dliNS1/0nwBa+pQB56UoefHi1500wZX8Cj7hPqDPJTAMEBoXxxfFug8IHngWmWiYEmyvtCAYp9hjPEmrqKX7pk/+TfV2emCVqHle6voGthDwFyGBzAday2j3kCuczpvjUhzaQH0mHlsV+P3SbwnclXDUi4IWw3+he2bA4fy8FxcAOw6TuGsyAjWOQLAqWS6DYa87FQvUoiNkFV2za5lAFepLWYKl87x/jG2Kfqq4QL+c41NWk7Nsy/EcSqT9sIQDW2LxQLov1XHWE4aXt47rEB9Jj6rU4wzqVKkIRNLsUkhP7xmM5GyUYRNmdG+SeKSboVsnK0V5NxKh96ZXviwwzW4CkIEhXmmRRlj7UpusKPgp3RN5r6QGgNyQAQFuF+GPkWZyw22b6TOK152WIQuf3MHgGJFXRp0xGsq92A==;YlkGN9n4NYBY1xQ826uJCg=="
+secured: "F/njEVrf77AkVz87DerHvyVqX1XUDgpH+EHhmVdKL7sxqDJqP1apid6rrI0G+YXYB6QCs6ASzF4E1Tjgl7ktOoY2jYSxp4SIzwUlUACTPR/KYhZOeJXZ+IiTUZqrHpnkbcnz7vy1NVsF1oFiUXmzgLH4vdxvsqfR+oBtAcmVecM6u/k9CK/5dNycqFyr8EsIy9ETEfK2KNWQHrb2z+0Rr3eFz/roeuuwepNznV6bwFy8H7jSvP5f9lpJA4H+58YJy8A3amNXj0bMVwICnEJ4PIrISjTlk1etFbsEfqyl6U07MGMqZhGW3Sc1rg89TG8RxJFi/eOec7iOHYtyVsl127x8fSt21Ptv9nHELfLQ/5BQmfXPM1p2G49mBVMMoxxqotZBzAPShcJoDVNorlum9MxB7DNUMXBn8Ah9vitKzM28p30QpzZwxpqfWSUQuJRtS++Ky8KAqLDbLBOhBPQgL9P1JvBgAxiuETMQrRF4JzKJE8X/sWVSzkPIEh4Y/a2g1YiCA/K4tWku2Q9JauW2wg==;JJ7/K/qtPhdqfh5SDXpdWw=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Etihad Airways transforms operations with Microsoft AI capabilities"
 excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
 publishedDateTime: 2021-02-05T05:44:00Z
-originalUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
+originalUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+webUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_199629494/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_199629494/"
 type: article
 quality: 74
 heat: -1
@@ -58,6 +58,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/02/Jared-Spataro.jpg?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "3 Reasons Microsoft Is Still a Growth Stock"
+    excerpt: "Microsoft (NASDAQ:MSFT) became only the third publicly traded U.S. company ever to reach a trillion-dollar valuation. Just two years later, its market cap has grown to $1.7 trillion. From productivity software to cloud computing and gaming,"
+    publishedDateTime: 2021-02-06T18:30:00Z
+    webUrl: "https://www.fool.com/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611269%2Fsatya_nadella_02.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its finance operations through harnessing the power of Microsoft AI. The Finance and"
@@ -304,6 +320,6 @@ related:
         height: 315
         isCached: true
 
-secured: "pnRdH/aikCdjkGtpkyy/KfdMbINQhNm8C0qFTe1rNnFleKkqs/2j5433wn/hJefKef0nAiiyxzE5wsa2r2DJoPcTXX3FGcGz5KUplQQILmFd1i29uXmgpKSsXxlTDWJExhE8BEDr0egkD8lIrNHi48fa/mPLnqKnywAHq4IUHqMEDNcrVmhWqOTYkFsogWHDZspyg//IFHoMArmyomAc0Z0IBQOgUxLZDGzrjYuB9hzLQ6OpC3AyVxQiKXbdmUrSdAYQ44Wh4kUXAWJ3f1q/cnYo+n1TbnRr7Ult5v5B4d3uGUO5kAsh5gO7Iof4Ab7Fxwfrho/5JUQhyD6RHii2qJj9DI1Laasql4xYUkkO3xBFso9ByduqdC4HjknswMUtwokoCeYQ6GsIaunmwwigjsRi4D7cEv4II3SXlHS5bVLwA1qgXcQGb3q6IK1cm8X7JzSzA+OTs3Oq2pvQdSmXJFD+V0ylU/D7NLlyBfgKXmhYOWqD7SYZ1gF0ijHhYNlNHt2M43Jz9nqse86ODxK+Cg==;+krq7Rm0UeR0jPLiMbUjEg=="
+secured: "YqR8YAYrtaVgo6V/CtXScra1lyqMX6TpyaSlNIaFJFrYooi7LomwO2EjW3LrBkTAciY/15uC4/RYutOrYkHiWg6cXmvmchpPXkM4YkVBbUHbAZYUJ98uJyJsi2ZqufKTBTOOduyMRJ/xGAY8qFVB0RpzAN/3vpJ8Wm7V8MhkSPF0gy0yUqxoNBxdp9AW0Vq/RKQhOlskolqjDjJyLcd0NjnLXPoRZD5AbCYLrrQbvIJ35nUqan3wSheJENRgKaVc+PH6FeGyB4ZznfNfZwwx8AOLu9jryO9LjuZdylzXSOwn6OWIMJNZO2qOJrABBYWJrAWIpO+4QLACOuSRkJbCQykQBgyIswV/4z7g5LBWtZQ=;4XJKYpkje++nsD5sgvzl0g=="
 ---
 

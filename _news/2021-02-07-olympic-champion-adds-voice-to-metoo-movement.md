@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "AP Interview: Olympic champion adds voice to #MeToo movement"
-    excerpt: "By her 12th birthday, she was outperforming the boys in competitive races and on a path to winning gold medals as a world champion and at the Olympics. But the most successful woman in modern Greece’s sporting history revealed in January that an incident almost 23 years ago had marred much of her personal happiness and professional career — an alleged sexual assault by a Greek sailing federation official at a hotel in Palma de Mallorca,"
-    publishedDateTime: 2021-02-06T12:45:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/AP-Interview-Olympic-champion-adds-voice-to-15929679.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/AP-Interview-Olympic-champion-adds-voice-to-15929679.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/AP-Interview-Olympic-champion-adds-voice-to-15929679.php"
+    excerpt: "The most successful female athlete in Greek sporting history recently alleged that a senior national sailing federation official sexually assaulted her almost 23 years ago"
+    publishedDateTime: 2021-02-06T12:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html?outputType=amp"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/16/40/37/20580289/3/375x250.jpg"
-        width: 375
-        height: 249
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Olympic champion adds voice to #MeToo movement"
     excerpt: "Sailing champion Sofia Bekatorou recently alleged that a senior national sailing federation official sexually assaulted her almost 23 years ago."

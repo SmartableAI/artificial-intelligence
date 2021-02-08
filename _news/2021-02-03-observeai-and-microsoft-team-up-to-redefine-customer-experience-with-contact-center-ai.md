@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "oUQCJlS6MyeFAo7oYQcDvlBNVIjjEA1bGFnUA0PhUhPFO/1UtTgSdpqGFMuv5K8C0VD7MokDA7Z6qXF1o2To3AOMOT5A9lVqPajU+1sEZrzgQvMX9as1kguLN9ibesslP3aoUMh2ukMF8jCuzKz8ypYidGMOuiokn25WU5UkK4eqYv7yBwMuQLK6gUQ/gLOnS1o/56nnB4FSbqMgG3aEm8oPtEzvmY1MaG5h3Vgs8NEeSh3GFCKi0B9Gcirli5wAwohiRLezmjJgJEOl1Zyn2SwFAuihoFkDtQF8a5z9SzNSM+BnP/+X2izpNS79xVoxkrp6KUXApSN0+1Z+G1/6Y/S2WCou65XUiudH+eRbA38=;GzuOY5Ghc3Sxo/8yygS0jg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "mhIH5rjWG2Uci9VUlFF77fjDZP8sXjOGQS0QLvPqUgbtjNiQr9flk6jVXdrlQb4yd5wLjWzOmMWan840SLQTdEG2D6Q8f7Nj2fGz8zd2BrwC42p62xX4ds3wbKRX3/nqcftedZ2FX5Dk0aLISXQaihzHiFv3ammEmsEb70GF+svvWs39ZJBdar2kuLh3QdK2bgnCqwSY90eVc2DrGviH3A+AGwmSQGgy9+Mb9sYYCIrM7/9gAeROHYC+lFIkf4w6IjjZDPN/iU19zOX3t4diKOI8EXr8bBLT0Bxd+hZ4brri32q9h6q5kWVWtXeSmd7iCSnwEkAIOhSSoy3EWZOHeZllp3xC/6KKtxr0pTNzNiM=;42C9AhlpJkWvbh2R6dXrtQ=="
 ---
 

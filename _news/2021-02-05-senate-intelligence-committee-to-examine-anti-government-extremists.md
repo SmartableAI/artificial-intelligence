@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/04/us/politics/senate-intelligence-c
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/us/politics/senate-intelligence-committee-extremism.amp.html"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "Gillibrand joining Senate intelligence committee"
-    excerpt: "U.S. Senator Kirsten Gillibrand announced she will be joining the U.S. Senate Select Committee on Intelligence. This new national security assignment will complement Senator"
-    publishedDateTime: 2021-02-03T12:43:00Z
-    webUrl: "https://www.news10.com/news/ny-news/gillibrand-joining-senate-intelligence-committee/"
-    ampWebUrl: "https://www.news10.com/news/ny-news/gillibrand-joining-senate-intelligence-committee/amp/"
-    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/ny-news/gillibrand-joining-senate-intelligence-committee/amp/"
-    type: article
-    provider:
-      name: WTEN
-      domain: news10.com
-    quality: 42
-    images:
-      - url: "https://www.news10.com/wp-content/uploads/sites/64/2019/10/gillibrand.jpg?w=1280"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "qSBGCpASC8aSaUNODPjuHDObRUPoMZcEZfou2iFVl+0lXzMgFCLUEwnu940MTQR0UCYMRqk2gIQNISQyrSuswTYdoaNkOd5Unxb+ss/GPFI/rjfDHLxpgwZd+58pHk+iDMSpvp6dcNxgdkplCbDFt27+ihV49O7s3klGBBNLd/bXfvi1Gu5/IsqhcCBZD+oFK1qt2xOLQ0+r1Qqy6Pv+ZmfAI2j4avbAfyIgZkY2w24G13HDmRt0ATW4WNOsBKjJgWPBJa326JVHKyGfM9CX/+zlSqZb61IY0TDd4tKKWTmbXZVmg6NyLBRlWbRiMDLEe80zjU9XuuOZs69APQjSeAZpUztte8UQ/TYm4Pjuo/c=;4A0CfEHKu6S54Eug9fu34A=="
 ---

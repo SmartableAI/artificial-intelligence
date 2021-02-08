@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://wp.stanforddaily.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-04-at-3.00.18-PM.png"
         width: 1918
         height: 1296
+        isCached: true
+  - title: "The Role Of Bias In Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) has evolved exponentially, from driverless vehicles to voice automation in households, and is no longer just a term from sci-fi books and movies. The future of artificial"
+    publishedDateTime: 2021-02-07T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-bias-artificial-intelligence-steve-nouri"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHEpxtTtpG3NA/article-cover_image-shrink_600_2000/0/1612672822951?e=1618444800&v=beta&t=1CBZWH-mWtlgx-KNGmrfJrTt4KfEDXTrct_xy1W68Ok"
+        width: 786
+        height: 426
         isCached: true
 
 secured: "ORvem90ooGf4QkqoI2vQUKZeVM9avqbzZsCExwtlLAObUFl95xnQAM4eXQ3Vl/z1xREF9Cp88yms0rvofXUz5MEXhpd82VtsO14BGKm04+TpYjtQHvZzzv0eoF3Xd+zkG6VV+hlNfNkVDi2xeuSMEFg6panGAYY6JQktQp84dmt+OQjlXPMoslmPERm0ek31yeJBhYplK/rkhXMF8uIoxUq7YpczSVkwZjXJRC6dxg7NsHUzZvy45fkmZKPqjhd5TrlTXn+ZQXWDDSQ9Gr7tuVYudgDMH2w2Z7vvSuUSZbplGnKb6yjs0C5dT0fCPfqY6AWMey6xTVsXVm7bpJViLVkYDg/nxguOPlLEAvscyiTjMtH6eMtysfAs453ruHl8dIEXCULUJ/wXfw1heNHkiLkt1/fCGjUKrdsY/L+Mnds5LEvDMeWVK09n2UtmUYGpgpuV8LyyrfPB+2pNh3vCJ/EWJJ50KMp/pB/taCxDY+l8ZniJXe3RCjpsV2z2uXTMrlngLKpqyuVCpqGc4GMXKQ==;EX0u8p0ToGc0oaDKypzfbQ=="

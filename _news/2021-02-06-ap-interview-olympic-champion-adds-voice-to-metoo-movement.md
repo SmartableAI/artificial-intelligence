@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AP Interview: Olympic champion adds voice to #MeToo movement"
-excerpt: "By her 12th birthday, she was outperforming the boys in competitive races and on a path to winning gold medals as a world champion and at the Olympics. But the most successful woman in modern Greece’s sporting history revealed in January that an incident almost 23 years ago had marred much of her personal happiness and professional career — an alleged sexual assault by a Greek sailing federation official at a hotel in Palma de Mallorca,"
-publishedDateTime: 2021-02-06T12:45:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/AP-Interview-Olympic-champion-adds-voice-to-15929679.php"
-webUrl: "https://www.sfchronicle.com/news/article/AP-Interview-Olympic-champion-adds-voice-to-15929679.php"
-ampWebUrl: "https://www.sfchronicle.com/news/amp/AP-Interview-Olympic-champion-adds-voice-to-15929679.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/AP-Interview-Olympic-champion-adds-voice-to-15929679.php"
+excerpt: "The most successful female athlete in Greek sporting history recently alleged that a senior national sailing federation official sexually assaulted her almost 23 years ago"
+publishedDateTime: 2021-02-06T12:53:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/16/40/37/20580289/3/375x250.jpg"
-    width: 375
-    height: 249
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 667
         isCached: true
 
-secured: "5Bj1GqGoK1pprPyapG4UxuJzAWwvwdPLXCgJmXJv3Xs0k96FbyT1jpOPOM5ug0EiAbZC6jkrbGwZHsGhW7Mbzw7OAKZ19zraIhyp8AOd5OvpRAznzbka2tBJB9QZ43r5tfNWHlLBG4rZm6q+jz6BaCnYGLneJqncgRe5bRmItvexk3ZCGZfhsFC3rJRGNy4nVSDS+JLktxBDwJSVUXHcnJcMoGQm9Y1XqXu/yIGpzv4C156o4Fh45GnHGVc5/tCVqK4wTP7QvEJfK/sHAZYySk0rhpOR4ByDWM0pECC80XpJoUVjWoplXyCRHeVQXz0ki1YQOBKN/R3tPxN9kMpMjkPTIK01Xs+TsfreziJPtjDLmn6Yud8zNiCMUPjPxxLwuSpz8Vrwg6ZNSttkv1PIU7H4nETHTsC5HQ+OT7CLdrTKGv0QIveBUz4Su4zXTWj9x7dX9d4tev57BaULPdhU9RK91z3Ebu06FKhY6TAi9vU94GjbFToFR5PdF+ZUUjDywt032Rgov6LAnxohZF4u4g==;5OthgLkhFu/5nmyHai4K9Q=="
+secured: "bIeEeJt2WQe/errThSDV6Oqjio2LCDlMnYXXA0hifvwQf809PKGHI86U3tGxqaL564AOheoZ5d3f6HaJiOvA5AqxiM5PSEpRtEg7wVRCtGHm6LhOc9pzAlYbnnmyx1SHHtdFcz3WbywX4NdP/C60N1T64Agy0Ff5e/6TN8YnVrustUSc2zw3UwlI9iXXp42JM3Luf2S47jP2B5TimJgHhIvOY4W8QKRUiz7yrtUQDQ+hMV6m5Tp9KxdCeRxF1DH5DOkjxB/UcBZovBhoq4Bw0KDfTxZ2FCud7lSd23Nyo6aJpc97CwWa1xeYFfeItblDy+kIsWwdwvAJ4PYoxhGdZhJ8IdRSO8RilKaIElykuZ4=;iDi2qOIo/ltgrvEYnIKPqg=="
 ---
 

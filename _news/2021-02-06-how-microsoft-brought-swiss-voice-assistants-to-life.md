@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 Reasons Microsoft Is Still a Growth Stock"
+    excerpt: "Microsoft (NASDAQ:MSFT) became only the third publicly traded U.S. company ever to reach a trillion-dollar valuation. Just two years later, its market cap has grown to $1.7 trillion. From productivity software to cloud computing and gaming,"
+    publishedDateTime: 2021-02-06T18:30:00Z
+    webUrl: "https://www.fool.com/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611269%2Fsatya_nadella_02.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its finance operations through harnessing the power of Microsoft AI. The Finance and"
     publishedDateTime: 2021-02-04T14:27:00Z
@@ -80,9 +96,9 @@ related:
   - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
     excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
     publishedDateTime: 2021-02-05T05:44:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
+    webUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_199629494/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_199629494/"
     type: article
     provider:
       name: Zawya

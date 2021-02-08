@@ -55,6 +55,22 @@ related:
         width: 650
         height: 439
         isCached: true
+  - title: "Using Facial Recognition to Find Capitol Rioters Brings Risks"
+    excerpt: "In the aftermath of a riot that included white supremacist factions attempting to overthrow the results of the presidential election, communities of color are warning about the potential danger of the software."
+    publishedDateTime: 2021-02-05T23:39:00Z
+    webUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html"
+    ampWebUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/BIZ-CPT-CAPITOL-RIOTS-FACIALRECOGNITION-ABA.jpg"
+        width: 941
+        height: 626
+        isCached: true
   - title: "New tool can tell you if your online photos are helping train facial recognition systems"
     excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
     publishedDateTime: 2021-02-04T16:46:00Z
@@ -177,6 +193,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Amherst teen wins recognition in national arts competition"
+    excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
+    publishedDateTime: 2021-02-05T14:05:00Z
+    webUrl: "https://www.amherstbulletin.com/Amherst-teen-is-a-finalist-in-national-music-competition-38644548"
+    type: article
+    provider:
+      name: Amherst Bulletin
+      domain: amherstbulletin.com
+    quality: 4
 
 secured: "DmxeRamUt//qtRtAYrrlhWapGpxcAC3h6A2DbgO3G813AgLNP1OwxojT7OyCoeFohSdnhCCgn2Ar2Yo1EkwA4rBbB8SJRBg+GuTEs+yAPITKW61DJNN7vrgKiutvQxZpDXYIVh5CKz8WOWHRR0H6j50zcI1JdXV4lcjl6wd49n9+Ip4GzN/mhj4Z4VmvKSkjGKEa9Xd6H8J6kXVowgalzl9ht/921ZZLEwWAOWDpeRvX2FwDtWTpINceFZqDpDRzvQCfMcoRyTktiaKQgyhN75x+ZvROBLucMVCLfQVDe1xQQ2aZylInML+zk5qcvqqUJHgEQNEj1OS4ySIn6GvEJGh4/zHYifNp/N7MW4Z2/iXChSdZMp97G/84Ll8RX/OKzWwUhoJJeB7WzXbLuRaAPCCtjxNPTz6Vk/52ZItLYw1lZCiSs+XNUWQCD5VPeWdH7Mq5NG7M7a6+dMgYBCyZR6/5RbtEpkwCaTpYPv64hYP/h0xzIXFiOIzdBla7OJWQWoPRkSDxnMLqrcCN/7wweQ==;9VI4ZfQf2Z2Y40hJ6ppNGw=="
 ---

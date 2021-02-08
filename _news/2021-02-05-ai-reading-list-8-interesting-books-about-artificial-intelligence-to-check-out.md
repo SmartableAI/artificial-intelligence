@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/ai-reading-list-interesting-books-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
 type: article
-quality: 98
-heat: 98
+quality: 100
+heat: 100
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg"
@@ -29,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "IIYsUnOuwwpR1DkJD/sUutJcxzTIxn9H4P4d8LGnysN3DW549FLCWEFbsDwGZ1l0v44TY7+0UNsy+yhpObTYOuicyNj+As1EmyB3GkQGbVNOS8FjFyoLJEvseh3Nwj+U5UeRyjb4L9FXPHjHY1bhtThxM6bf99kf4tpbiZ3caoLQqQZ8rWNLOdBaQQNlY2cIuoc3/fyxy+c1l+hbWsYmB2/K9YSAMzC3Yk8HAhAh5ExhVlYDf5+kahiftLC8L49eyNK55bLztoXRCD1SNSQdhO702K10et+oWcfcBFpdargUXeLr+Glm6hcPAipaykymZrkSlMeTROSi15g5SYdLiu/xb1kpJfxcLxzO2ovypuM=;Kn2Mds5r44+W6mkRrmBYPQ=="
+secured: "9yLLZ5XvzBAJdv21+dmtVJ/7LCI5hvV+R6pkWwK1dyBOeMR2fRJXjhT+FYpIt3y0MFsl2+9PCQUVfpnL2C/34jR6howPgbzQVlg0SAw+OWOBwbXxMEUwjxA8g3hz/l4gszaU9Zp1nj0Bp31uwrNnMnPo6hB4chNqcwX0njcqwsuduI3RZWACI6WYC7cQolUD4/BHLiOIaWnaZ0IMI5cOeoX4e+ZyVGSk35ANXpWmCkd5sNcUJ3hEmE6+lIJ0CXw4aCz3AJ/cX1CAfXAD86XMkrp7oxgyQdfKjLUtskFwrYOur2O4LOlrr5GGCXXRx9aMdhUOPSGK9HzXqsQEFdqhRai0Qj82dZYDSCtLlZJ6vnRhppPDCD1H74yLy6dp1pkebsvI+EXvRkq1uyUA3rEPe3LZ/wSNhuoH9UYb6zxLEdHYXUU3mL+ZjQz3kNu91YHpGbwVbIRWaCJRDbe9H4UmAy1x8eoDIrdEinHcTGHBJZccwskDHMSTuiwjmX2uuX9X6ORHkJj62LDPxTsysOi92g==;XOzCqFjxx5a4IOwiGf+0CQ=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Thanks to machine learning, the future of catalyst research is now!"
+    excerpt: "This was implemented in the form of a \"decision tree classification,\" which is a form of machine learning that helped in understanding the efficiency of the selected catalyst combinations, in giving better OCM yield. This, in turn, helped in drawing up the ..."
+    publishedDateTime: 2021-02-08T04:48:00Z
+    webUrl: "https://www.chemeurope.com/en/news/1169761/thanks-to-machine-learning-the-future-of-catalyst-research-is-now.html"
+    type: article
+    provider:
+      name: CHEMIE.DE Information Service GmbH
+      domain: chemeurope.com
+    quality: 39
+    images:
+      - url: "https://rs1.chemie.de/images//151930-76.jpg"
+        width: 832
+        height: 283
+        isCached: true
   - title: "Robots and research: One faculty member gives us a glimpse into the future of the retail industry"
     excerpt: "Christina Soyoung Song, an assistant professor in the Department of Family and Consumer Sciences, has a goal of focusing on research projects that are future-forward."
     publishedDateTime: 2021-02-03T21:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-537bb3328bba44ebbb871deac8ba13c3"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Bingo and AI The changing relation between entertainment and artificial intelligence"
+    excerpt: "The relation between entertainment and artificial intelligence is undoubtedly influencing the quality of humans lives. It is personalizing our entertainment activities, including gaming."
+    publishedDateTime: 2021-02-03T14:44:00Z
+    webUrl: "https://www.analyticsinsight.net/bingo-and-ai-the-changing-relation-between-entertainment-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 45
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Bingo-and-AI-The-changing-relation-between-entertainment-and-artificial-intelligence-min.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "ZamlzO3FEr4wFAZSsOXeP8pnFtPsKtWrV3IiDIlI0YJXXiZoTC5fJVj/ejvS+T++GouWR62ylF4oeU3EimT07YMXrlWJMSm3hb/98ZovhTRzRz89vgp9CVLxmNCX4/4nugCdY6dr+zQ8NJgDW5vBmdg6u0JuLgqCHv8u3GaBDCYEJvApbbM+9BerTkUHXGPbOSUCf3ojqMex9LKRJRpt6bsHrQyTqvHIaHv/I8PQbrihRmzrSP2yNge2xQAW2AaelTyOR/WVgFOj9AYs7au64Xg4xL8bewrloi4Pa5JkdBHgLah1pPFU3g0/FYhSTaEv5+nApwx0d+gLza7WZbIPKLUag6s7PfYJkLqyup4lUXw=;ClepEkzLlQLNpOxWKZyNUA=="
 ---

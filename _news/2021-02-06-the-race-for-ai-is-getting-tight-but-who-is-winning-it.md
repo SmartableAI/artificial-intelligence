@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-w
 webUrl: "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-who-is-winning-it/"
 type: article
 quality: 67
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ZDNet
@@ -26,22 +26,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "How artificial intelligence is changing the face of banking in India?"
-    excerpt: "Artificial intelligence in Indian banking is in its nascent stage and will evolve exponentially with soaring demand for a better customer experience. Here are the top Indian banks using AI."
-    publishedDateTime: 2021-02-03T11:17:00Z
-    webUrl: "https://www.analyticsinsight.net/banking-of-tomorrow-top-indian-banks-using-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Artificial-Intelligence-1.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "z0OlFDfdxor2oXezynLw9rWe17DoYnXO7Q1+4s74/A9Iqh5ZhCFS9yYgoG0OGXlE5G3APnBtyQyYygT70ZI6qkvbZrEYWnwHieY6vV8/w6j5zc+nXxfHbUDySxugcm6ZrRvVsStvUs0HqYjBgxR7HkHc8w9BF5Wee0enfJwPbB0Bf0/cOviWW8bxxB/bKzs3wx2jBjtTlHZiBnhLT8kghTGxTaO4ZBgPcg1sGQCb9nzXX5Dt6wvA6YDXQw0b90xin9n1HQKX0k5pq7ofqd89JDf9/6iT/NRD6rDiaFpkgFlCCBBAWSa/4fsO55EJM7faMij33lcImc6aL8G8lbT8idJnwz9J0DJiGw82Eq3D0v8FdMcH20WIgqW1cFa/TvDYUx0bLWIy0+MXZGTtqaSKMIs9TllspJebfrrDozf6zIXqoWtZF16kc1ND2FsIDa7s4hmMEX8GrISrcrnFXoPO5Bt47VFSYki37PFUl8zMVDXz8N2869Pi4RUQ33Ter6zW3ilv9WHQixhukWPFhXNdfw==;s/2P9xdMOeRMO8t1uKlGOA=="
 ---

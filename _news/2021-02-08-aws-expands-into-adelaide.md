@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/aws-expands-into-adelaide-560775"
 webUrl: "https://www.crn.com.au/news/aws-expands-into-adelaide-560775"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 900
     isCached: true
 
-secured: "K98PaXShvkl8J+6kgsOf/T5jjXwddcDag7bBzFPGc4iDlwndCiyi6Us7shrU5exO2zF6w00YEcNYArwrpClNXR+kT/p0BZRptjb2aUr+4aCSqK5q6OPWNkVqENNe+RZ4CBX2bjagEIBj4GeDdyix/uL7AbOoDeDajiLnqGEA63ptDIMBEwN8nDbeAl7zm2M1YaipBlxyUmn5e8ACh4eOY4q8g5gwcdPnQR5v4zZXSO6TP2gfWznnLyjpldL0ZsIPDiuoxwqLs0Bf90X1rx+wMR7QtyorLUSQGqwHd1E4AyAx/ly6CCcA1uw7r34yEfkQfS+cYgX7o6XgbdQkbFUyUMUKHFVUFz4HE76NKNrh5ZU=;Yj2Xsu+lGqV53XbzbAJ0LA=="
+related:
+  - title: "AWS expands into SA through new Amazon office"
+    excerpt: "Amazon Web Services (AWS) has expanded into Adelaide with the opening of a new Amazon office in the state. Based at Adelaide’s technology precinct Lot Fourteen, the cloud giant's new location is expected to create more than 50 jobs by 2024 between AWS and its artificial intelligence (AI) and machine learning (ML) research subsidiary Amazon Sciences."
+    publishedDateTime: 2021-02-08T03:12:00Z
+    webUrl: "https://www.arnnet.com.au/article/686121/aws-expands-into-sa-through-new-amazon-office/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/adelaide_1_1.jpg"
+        width: 711
+        height: 500
+        isCached: true
+
+secured: "o2QI3AT5+DoD0QLSvmUmdIOxnwLtCr4j3kJFcw0UZWZoDDc6LT2wBUVZ4Ao/Jkn10E/lSUE45R5KLrnJ435JWOvuVMeVQJZsWWx65kPXsq4rkDSt/of7IFDJaiB/gv1PxNTnCP10oEQC+1Xn93VUTLjh/ItD9lEdp/ovYWvtiIYIJgiE+8A5PMWRjlBY/rqCkv1GfLn6BzJT5SWj5rKbl+KB+C0prUMcfmOXUjtmufE1yBAiM4iy5kAzuJaJnZjQkvMuh7WwOxtOiThXvxV0V+ae9d+3L8aMYlx44dsNZSIJ/ZbWeDYCd6jI36mCEJP3RVcTN+ZdSr0w6awMx1pqVKilG+IWecz+QMjW9azlN4Tt2LwYvYEUL8UwYWxF7LxaIphqIqLbTLdlthGpxLRGJ+Qz9HZ0k8QlpgQbE7e0V0/P9z5CSo0/Bpvq3tvyZOiXNW2obv8oZOyaFozB7vxOU80SdMvk0IW0SCEf+1E/+sL3WMP4UyT0FDw86KJNt7/C1TK8Ad/T33QSTTItO7oLJQ==;m84Qva4CpFBfA3+T3RvXDg=="
 ---
 

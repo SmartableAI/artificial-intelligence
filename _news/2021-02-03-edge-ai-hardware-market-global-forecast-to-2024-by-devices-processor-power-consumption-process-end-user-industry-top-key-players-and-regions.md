@@ -29,105 +29,154 @@ images:
     isCached: true
 
 related:
-  - title: "Obtaining Market Recognition And Assessing Value Propositions In A Rapidly Changing Business Climate"
-    excerpt: "What will it take for organizations to keep building market recognition? How can leaders impact the sentiment of their audiences? Why are some companies excelling and others getting behind?"
-    publishedDateTime: 2021-02-03T12:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee90f75a2b06400077bbb41%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Using Facial Recognition to Find Capitol Rioters Brings Risks"
-    excerpt: "In the aftermath of a riot that included white supremacist factions attempting to overthrow the results of the presidential election, communities of color are warning about the potential danger of the software."
-    publishedDateTime: 2021-02-05T23:39:00Z
-    webUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html"
-    ampWebUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/BIZ-CPT-CAPITOL-RIOTS-FACIALRECOGNITION-ABA.jpg"
-        width: 941
-        height: 626
-        isCached: true
-  - title: "Bingo and AI The changing relation between entertainment and artificial intelligence"
-    excerpt: "The relation between entertainment and artificial intelligence is undoubtedly influencing the quality of humans lives. It is personalizing our entertainment activities, including gaming."
-    publishedDateTime: 2021-02-03T14:44:00Z
-    webUrl: "https://www.analyticsinsight.net/bingo-and-ai-the-changing-relation-between-entertainment-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 45
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Bingo-and-AI-The-changing-relation-between-entertainment-and-artificial-intelligence-min.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Machine Learning to Bring a Transformation in Software Testing"
-    excerpt: "Automated testing has emerged as one of the most relevant technologies for scaling DevOps, businesses are spending a lot of time and effort to develop end-to-end software delivery pipelines, and containers and their ecosystem are keeping up with their early promise."
-    publishedDateTime: 2021-02-04T11:19:00Z
-    webUrl: "https://www.cioapplications.com/news/machine-learning-to-bring-a-transformation-in-software-testing-nid-7199.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/hvhlh450.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "Amazon Begins Expanding Electric Van Program, Provides Update on Packaging Reduction"
-    excerpt: "Amazon is seeing returns on its sustainability investments, particularly for its electric delivery van pilot and machine learning (ML)-powered reductions in packaging weight. These initiatives are part of Amazon’s commitment to The Climate Pledge,"
-    publishedDateTime: 2021-02-04T18:08:00Z
-    webUrl: "https://retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction"
-    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 37
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/08/Amazon-Mercedes-e-Van.jpg"
-        width: 960
-        height: 643
-        isCached: true
-  - title: "Speech and Voice Recognition Market Revenue, Industry Growing Demand, Size, Share, Business Opportunities, Top Companies, Regional Outlook 2027"
-    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
-    publishedDateTime: 2021-02-03T21:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-industry-growing-demand-size-share-business-opportunities-top-companies-regional-outlook-2027-2021-02-03"
+  - title: "Healthcare Artificial Intelligence Market Analysis, Industry Outlook, Current Trends and Forecast by 2026"
+    excerpt: "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
+    publishedDateTime: 2021-02-05T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Amherst teen wins recognition in national arts competition"
-    excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
-    publishedDateTime: 2021-02-05T14:05:00Z
-    webUrl: "https://www.amherstbulletin.com/Amherst-teen-is-a-finalist-in-national-music-competition-38644548"
+  - title: "Artificial Intelligence in Manufacturing Market: Size, Industry Outlook By Drivers, Restraints And 2021-2023"
+    excerpt: "Market Analysis: AI in manufacturing market is estimated to be $330.5 million in 2017 and is expected to reach $4,012.5 million by 2023, growing at a CAGR of 51.6% during the forecast period 2017-2023."
+    publishedDateTime: 2021-02-04T13:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023-2021-02-04"
     type: article
     provider:
-      name: Amherst Bulletin
-      domain: amherstbulletin.com
-    quality: 4
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence as a Service Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+    excerpt: "Selbyville, Delaware As cited by the business intelligence report titled 'Global Artificial Intelligence as a Service Market Analysis, 2020', available with Market Study Report LLC, global Artificial Intelligence as a Service market is anticipated to grow with a healthy year-on-year growth rate during the stipulated timeframe of 2020 to 2025."
+    publishedDateTime: 2021-02-04T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2021-2026"
+    excerpt: "Wiseguyreports.Com Adds \"Artificial Intelligence -Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023\" To Its Research Database Artificial Intelligence is one of the fastest growing areas of computer science,"
+    publishedDateTime: 2021-02-04T01:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Insights By Growth, Research Methodology, Emerging Trends and Forecast 2027"
+    excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
+    publishedDateTime: 2021-02-03T14:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Organs Market Trends Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Request a sample Report of Artificial Organs Market Analysis Report at:  Global artificial organs market is acclaimed to be one of the most profitable verticals within the healthcare and medical devices space and is projected to grow substantially by 2026."
+    publishedDateTime: 2021-02-05T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-organs-market-trends-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-02-05?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2020-2026"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
+    publishedDateTime: 2021-02-03T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2020-2026-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2021-02-05T10:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2021-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing in Healthcare and Life Sciences Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The global Natural Language Processing NLP in healthcare and life sciences market size to grow from USD 1 5 billion in 2020 to USD 3 7 billion by 2025 at a Compound Annual Growth Rate CAGR of 20 5 during"
+    publishedDateTime: 2021-02-04T12:44:00Z
+    webUrl: "https://www.openpr.com/news/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    ampWebUrl: "https://www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+  - title: "Automotive Artificial Intelligence Market Growth, Trends, Industry Analysis and Forecast - 2026"
+    excerpt: "Automotive Artificial Intelligence Ai Market is expected to be valued at USD 782 9 Million in 2017 and is expected to reach USD 10 573 3 Million by 2026 at a CAGR of 38 Artificial intelligence AI is one of"
+    publishedDateTime: 2021-02-04T11:02:00Z
+    webUrl: "https://www.openpr.com/news/2236293/automotive-artificial-intelligence-market-growth-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2236293/automotive-artificial-intelligence-market-growth-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236293/automotive-artificial-intelligence-market-growth-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
+  - title: "Artificial Intelligence in Medicine Market to Witness a CAGR of 49.6% During Forecast Period to 2025"
+    excerpt: "Allied Analytics –:Artificial Intelligence in Medicine Market by Product Type, Technology, and Application: Global Opportunity Analysis and Industry Forecast, 2017-2023,” the market was valued at $719 million in 2017 and is estimated to"
+    publishedDateTime: 2021-02-05T04:02:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-02-05/artificial-intelligence-in-medicine-market-to-witness-a-cagr-of-496-during-forecast-period-to-2025"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "/kLGoHweSXs4b8Hd7fMK6D5hWnQR7q5reXByd92VLH91De/98UPk23/ipLNVWsucBEXrPoL1ZxryynPq/GBpwwjqdrumOovBL3DOdGUemETWgGD1X6TBPIbEieVEWgY8rDL486MJu12Z4p2a8OkJ5yLzkq4fcCE/XPl0U+ryjwSFG3hl94UFvFNXCDJ2ZcDw3VtDeoAlM7AfLm5ayl+IC1MmhgU5b6sVFAP6m7nvhna+EoYSA7iDEzJJJyz2H4tQalrJBTpGkfAwNu+mnVfT8/kXFCj7wEHvoK9s2rgoMpFutCuJnEcsLXjuXbkgmOWz9xmXLHoCD4LHVVu678sOovGsPWS82lS6NUi4Us+BeVk=;iRsidFA0kVtWZCO14wEV/w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recogn
 webUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again"
 type: article
 quality: 65
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://cdn.openpr.com/U/2/U204746962_g.jpg"
         width: 650
         height: 439
+        isCached: true
+  - title: "Using Facial Recognition to Find Capitol Rioters Brings Risks"
+    excerpt: "In the aftermath of a riot that included white supremacist factions attempting to overthrow the results of the presidential election, communities of color are warning about the potential danger of the software."
+    publishedDateTime: 2021-02-05T23:39:00Z
+    webUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html"
+    ampWebUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/BIZ-CPT-CAPITOL-RIOTS-FACIALRECOGNITION-ABA.jpg"
+        width: 941
+        height: 626
         isCached: true
   - title: "New tool can tell you if your online photos are helping train facial recognition systems"
     excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
@@ -178,6 +194,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Amherst teen wins recognition in national arts competition"
+    excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
+    publishedDateTime: 2021-02-05T14:05:00Z
+    webUrl: "https://www.amherstbulletin.com/Amherst-teen-is-a-finalist-in-national-music-competition-38644548"
+    type: article
+    provider:
+      name: Amherst Bulletin
+      domain: amherstbulletin.com
+    quality: 4
 
 secured: "hJQgUnP/FdZiG1HJSZj4ZkG3V6xwUTflX4Odw+zIEN7QGVg0rg4dKU1+r3PBILm9mE3/pumgU/Db34CVK7D2y8crQch5LNp/BjIsIq2YdqsysyqyI2L69boNJrFrjLn0ngmoascNr9CfoDvt7UIhqcSq5c5ZZTMiNQtYvgkMYlcZF31iv/OO3kshDOsVkiV8KPL8MlMq4+re065rmJAcdnGpkcK7HDdiRQ4XmXj8+rxvDikMZXjj3iPuBn1m3NkzvlmWHHmJskkpwQrwlF9MU2aqttJhmZ6yELqzzxAEQY8i1n+flkmvohkP0xt8WS3fjJFzXsichwEVRaNZQD9G9bkGqe8PRz5BmeePW3EQRJg0Ssl4epTVc9/UC9KHhKU8tvHRhEPpJjoOhwGeRbGRBvm/fcXOilVJriHQIRRDTCJjYmNevAede7TYozBeDNncojzVvn6n6COdQg6pW1El8GrTLARL3tr4jmP5rgwLVIyJ5zxa66MRb/3NkGlEheazaHw5n6S2C+wju0ou4hb49Q==;xoVc30PE4yCiDoR7ku8Txg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -109,20 +109,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/03/8d479944-d332-4de1-9d61-25c44ed488b0/thumbnail/1200x630g6/3de4be33411da8961307fb8858d5a45e/gettyimages-1129882595.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "What Amazon CEO Jeff Bezos stepping down means for fintech"
-    excerpt: "Jeff Bezos will step down as founder and CEO of Amazon and transition to chairman in 2021, allowing seasoned cloud executive Andy Jassy to take the reins of the $1.6 trillion giant. As detailed in an email to his employees,"
-    publishedDateTime: 2021-02-03T11:31:00Z
-    webUrl: "https://www.finextra.com/the-long-read/115/what-amazon-ceo-jeff-bezos-stepping-down-means-for-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/115.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
     excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."

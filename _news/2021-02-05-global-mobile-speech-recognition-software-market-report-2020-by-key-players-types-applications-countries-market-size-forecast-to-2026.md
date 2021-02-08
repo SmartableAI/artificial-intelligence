@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market Revenue, Industry Growing Demand, Size, Share, Business Opportunities, Top Companies, Regional Outlook 2027"
+    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
+    publishedDateTime: 2021-02-03T21:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-industry-growing-demand-size-share-business-opportunities-top-companies-regional-outlook-2027-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ISRI’s 2021 Advocacy Agenda Highlights Industry Opportunities for Growth and Recognition"
     excerpt: "The importance of recycling has never been greater. Recognizing the essential role of the industry and its immeasurable benefits, the Institute of Scrap Recycling Industries’ (ISRI) 2021 Advocacy Agenda highlights ISRI’s proactive engagement on new challenges and opportunities at the local,"
     publishedDateTime: 2021-02-04T16:36:00Z

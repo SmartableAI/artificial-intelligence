@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/bingo-and-ai-the-changing-relatio
 webUrl: "https://www.analyticsinsight.net/bingo-and-ai-the-changing-relation-between-entertainment-and-artificial-intelligence/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -24,105 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Obtaining Market Recognition And Assessing Value Propositions In A Rapidly Changing Business Climate"
-    excerpt: "What will it take for organizations to keep building market recognition? How can leaders impact the sentiment of their audiences? Why are some companies excelling and others getting behind?"
-    publishedDateTime: 2021-02-03T12:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/"
+  - title: "Mouser Electronics Releases New Intelligent Revolution eBook Examining AI in Humanitarian Applications"
+    excerpt: "Mouser Electronics Inc. today released Artificial Intelligence: Improving Harvests and the Human Experience, the third eBook from The Intelligent Revolution series. The new eBook examines fascinating new uses for artificial intelligence (AI) in farming and other specialized applications targeting the human experience."
+    publishedDateTime: 2021-02-03T16:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-537bb3328bba44ebbb871deac8ba13c3"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee90f75a2b06400077bbb41%2F0x0.jpg"
-        width: 1200
-        height: 801
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Using Facial Recognition to Find Capitol Rioters Brings Risks"
-    excerpt: "In the aftermath of a riot that included white supremacist factions attempting to overthrow the results of the presidential election, communities of color are warning about the potential danger of the software."
-    publishedDateTime: 2021-02-05T23:39:00Z
-    webUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html"
-    ampWebUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/BIZ-CPT-CAPITOL-RIOTS-FACIALRECOGNITION-ABA.jpg"
-        width: 941
-        height: 626
-        isCached: true
-  - title: "Machine Learning to Bring a Transformation in Software Testing"
-    excerpt: "Automated testing has emerged as one of the most relevant technologies for scaling DevOps, businesses are spending a lot of time and effort to develop end-to-end software delivery pipelines, and containers and their ecosystem are keeping up with their early promise."
-    publishedDateTime: 2021-02-04T11:19:00Z
-    webUrl: "https://www.cioapplications.com/news/machine-learning-to-bring-a-transformation-in-software-testing-nid-7199.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/hvhlh450.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "Amazon Begins Expanding Electric Van Program, Provides Update on Packaging Reduction"
-    excerpt: "Amazon is seeing returns on its sustainability investments, particularly for its electric delivery van pilot and machine learning (ML)-powered reductions in packaging weight. These initiatives are part of Amazon’s commitment to The Climate Pledge,"
-    publishedDateTime: 2021-02-04T18:08:00Z
-    webUrl: "https://retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction"
-    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 37
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/08/Amazon-Mercedes-e-Van.jpg"
-        width: 960
-        height: 643
-        isCached: true
-  - title: "Edge AI Hardware Market Global Forecast to 2024 by Devices, Processor, Power Consumption, Process, End-User Industry, Top Key Players, and Regions"
-    excerpt: "The edge AI hardware market is expected to register a shipment of 610 million units in 2019 and is likely to reach 1559.3 million units by 2024, at a CAGR of 20.64% during the forecast period. Major drivers for the market's growth are growing demand for low latency and real-time processing on edge devices and emergence of AI coprocessors for edge computing."
-    publishedDateTime: 2021-02-03T14:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-global-forecast-to-2024-by-devices-processor-power-consumption-process-end-user-industry-top-key-players-and-regions-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Revenue, Industry Growing Demand, Size, Share, Business Opportunities, Top Companies, Regional Outlook 2027"
-    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
-    publishedDateTime: 2021-02-03T21:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-industry-growing-demand-size-share-business-opportunities-top-companies-regional-outlook-2027-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amherst teen wins recognition in national arts competition"
-    excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
-    publishedDateTime: 2021-02-05T14:05:00Z
-    webUrl: "https://www.amherstbulletin.com/Amherst-teen-is-a-finalist-in-national-music-competition-38644548"
-    type: article
-    provider:
-      name: Amherst Bulletin
-      domain: amherstbulletin.com
-    quality: 4
 
 secured: "/solXkIcrY4sEoBdDwt/BX+mGLcZwaoO6KvLHlaOIm+1Dcim/49kzXPw4SywpEmqveqXr+7TfdliQl0L2WceSCNIPefhpdlMeFKg3mOyEh0EsUCP+B8UQ9sVkaKdpMEpOxppjczwhubKukgyotpXlO0ywV3ovqGEGD9LpyFLVu8FPK1zmsHeP2bW3ECElgUBlqZXMD8L89BPK74qrS/6HmnrVQhR5rry2JxXxPYGkee6XM51yCvbpFQUUVEldK2+Ir3p18kCLry4FHm32qMcP65SicJ3Nu89ok9nd852vmNsmQDWmnac5O9Zu+2D6fTHukjvr+Occ7Kpf7WlqId/ZrrVRmX2+tVZl+8/97bheSk=;RurAuzEcgkm9+mdf+b0S9Q=="
 ---

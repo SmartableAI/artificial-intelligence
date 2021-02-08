@@ -113,15 +113,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Computer Vision Market 2020 Manufacturer Analysis, Technology Advancements, Industry Scope and Forecast to 2025"
-    excerpt: "MarketsandResearch.biz has added a new report Global Computer Vision Market 2020 by Company, Type and Application, Forecast to 2025 that contains aggregate information of the market’s current situation and future prospects."
-    publishedDateTime: 2021-02-03T11:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-manufacturer-analysis-technology-advancements-industry-scope-and-forecast-to-2025-2021-02-02"
+  - title: "Artificial Intelligence Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2020-2026"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
+    publishedDateTime: 2021-02-03T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2020-2026-2021-02-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge AI Hardware Market Global Forecast to 2024 by Devices, Processor, Power Consumption, Process, End-User Industry, Top Key Players, and Regions"
+    excerpt: "The edge AI hardware market is expected to register a shipment of 610 million units in 2019 and is likely to reach 1559.3 million units by 2024, at a CAGR of 20.64% during the forecast period. Major drivers for the market's growth are growing demand for low latency and real-time processing on edge devices and emergence of AI coprocessors for edge computing."
+    publishedDateTime: 2021-02-03T14:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-global-forecast-to-2024-by-devices-processor-power-consumption-process-end-user-industry-top-key-players-and-regions-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
