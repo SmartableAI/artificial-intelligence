@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/using-genetic-algori
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: AWS
@@ -29,19 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Using the AWS DeepRacer new Soft Actor Critic algorithm with continuous action spaces"
-    excerpt: "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. We’re excited to bring you two"
-    publishedDateTime: 2021-02-03T22:03:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces/"
+  - title: "Amazon Begins Expanding Electric Van Program, Provides Update on Packaging Reduction"
+    excerpt: "Amazon is seeing returns on its sustainability investments, particularly for its electric delivery van pilot and machine learning (ML)-powered reductions in packaging weight. These initiatives are part of Amazon’s commitment to The Climate Pledge,"
+    publishedDateTime: 2021-02-04T18:08:00Z
+    webUrl: "https://retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction"
+    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/amazon-begins-expanding-electric-van-program-provides-update-on-packaging-reduction/amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 114
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 37
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/Thumbnail.jpg"
-        width: 800
-        height: 533
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/08/Amazon-Mercedes-e-Van.jpg"
+        width: 960
+        height: 643
+        isCached: true
+  - title: "A machine learning method based on the genetic and world competitive contests algorithms for selecting genes or features in biological applications"
+    excerpt: "Gene/feature selection is an essential preprocessing step for creating models using machine learning techniques. It also plays a critical role in different biological applications such as the identification of biomarkers."
+    publishedDateTime: 2021-02-08T13:26:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82796-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 1
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82796-y/MediaObjects/41598_2021_82796_Fig1_HTML.png"
+        width: 685
+        height: 532
         isCached: true
 
 secured: "mKWpus3WSV7q4teYWrAhvtlKu2aKPYLoueR1s1EzfEg5p+Zb60O1iijxTTUKf25CEyoakx0peoepcK6tL4Uv/BPuP5U6gIwoX0wpRCiaPadAe7jGso2XuIrOte8+ylqIvzPj4eO0GuwLb6T7GAr8cPGfDO7wUPIHwowQzYtY0fGvGzWNkO1HTZQDCaIuZjRhQgpexP+h4oTJqmxuWgX6xGCktJsv1icT9RLfDuNIrrXQD7l6l3u2g+xxddOim3byBD8IT+77pfXLBss78fB4d5QWQX68kv4ZBkYixx4wsYE/dbnECXC0EdfKa/xbPW2iPVVndUhique9kAXc8l2L2LJ6S3qicwUtsO8esa8VB0Y=;xLnqzL8YnO+709eZRTbrZA=="

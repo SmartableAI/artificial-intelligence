@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Your Business Can Benefit from Facial Recognition Technology"
+    excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
+    publishedDateTime: 2021-02-08T14:25:00Z
+    webUrl: "https://pctechmag.com/2021/02/business-benefitting-from-facial-recognition-technology/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 39
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2021/02/Facial-Recognition-Technology.jpg"
+        width: 940
+        height: 705
+        isCached: true
 
 secured: "7GXZalUtEU0bmWsILDk5vaGFISY8OtUsk0gdwI3ZG9LuYwiufjQcy3pnrVXwqX5FUwz3qb6z//gk5DI5VuXMX5Xj/4R6Gc8TYZVAR1JJAVsQTkpESqueRFob112FzgbQsYb+yLv/iRMA9fO/ewXa1mUlep5PYfP0121WkWP3+bt0YT3d56o2YgB+Vml334zx/AzNcFWo97dQ2Rc4dejB7HRYbD08NQWt+puM6tDJSb1BOCGZcyrz1eJz0OCriUiXq7o/OcWSt8+Ppa25hU5KvgFOEXc9Itw3QjMTA4Oa4IDdqyPPWVo//hRD1INtZXb+VUqnsVIb1U7l7yYS3/nu/DYZOOzJ95jzqg+UYtBSX3M=;itReNo8/mPPtRNC+HFSKWg=="
 ---

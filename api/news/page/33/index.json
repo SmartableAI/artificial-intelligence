@@ -2,6 +2,333 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-01-14-twenty20tm-solutions-introduces-enhanced-artificial-intelligence-capabilities.md",
+      "title": "Twenty20(TM) Solutions Introduces Enhanced Artificial Intelligence Capabilities",
+      "excerpt": "At the forefront of Twenty20's enhanced AI capabilities is improved object recognition and classification. Fast and accurate object recognition is the foundation of Twenty20's AI security solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/twenty20-tm-solutions-introduces-enhanced-artificial-intelligence-capabilities/article_b8ddbfc8-179d-5de7-8cff-814bfd72c2e0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/twenty20-tm-solutions-introduces-enhanced-artificial-intelligence-capabilities/article_b8ddbfc8-179d-5de7-8cff-814bfd72c2e0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-teslas-main-self-driving-rival-isnt-googleits-intels-mobileye.md",
+      "title": "Tesla’s main self-driving rival isn’t Google—it’s Intel’s Mobileye",
+      "excerpt": "Mobileye's self-driving strategy has a number of things in common with that of Tesla, the world's most valuable automaker. Like Tesla, Mobileye is aiming to gradually evolve its current driver-assistance technology into a fully self-driving system.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/",
+      "originalUrl": "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/Intel-Mobileye-lidar-SoC-1-1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-tempus-announces-companion-diagnostic-collaboration-with-a2-biotherapeutics.md",
+      "title": "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics",
+      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx) test with A2 Biotherapeutics for its new therapy targeting patients with Loss of Heterozygosity (LOH).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T11:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-humans-wont-be-able-to-control-artificial-intelligence-scientists-warn.md",
+      "title": "Humans Won't Be Able to Control Artificial Intelligence, Scientists Warn",
+      "excerpt": "Some smart robots can perform complex tasks on their own, without the programmers understanding how they learned them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/363284",
+      "originalUrl": "https://www.entrepreneur.com/article/363284",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610562247-Ene13HumanosnopodrncontrolarinteligenciaartificialPORTEN.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/363284",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363284",
+      "publishedDateTime": "2021-01-13T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-the-ai-arms-race-comes-to-enterprise-content-management.md",
+      "title": "The AI arms race comes to enterprise content management",
+      "excerpt": "Enterprise content management (ECM) platforms that have historically been employed to manage files are, thanks to the rise of AI, about to evolve into central repositories for keeping track of relationships between a much wider range of types of data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/M-Files-Intelligent-Information-Management-Summit-2018.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/",
+      "publishedDateTime": "2021-01-13T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection.md",
+      "title": "Surveillance group exposes disturbing Huawei patent for AI-powered Uighur detection",
+      "excerpt": "Researchers from IPVM revealed that Huawei and a range of other Chinese tech firms have filed patents for spotting Uighurs and other ethnic groups.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-13T145309.087-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/amp/",
+      "publishedDateTime": "2021-01-13T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-5-things-to-know-about-employee-recognition-in-2021.md",
+      "title": "5 Things to Know About Employee Recognition in 2021",
+      "excerpt": "Employee recognition company Terryberry discusses how organizations are changing they way they recognize and appreciate teams the midst of a global pandemic. GRAND RAPIDS, Mich.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/p19149002/5-things-to-know-about-employee-recognition-in-2021",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/p19149002/5-things-to-know-about-employee-recognition-in-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19149002",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19149002",
+      "publishedDateTime": "2021-01-13T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-oracle-extends-database-leadership-with-oracle-database-21c.md",
       "title": "Oracle Extends Database Leadership with Oracle Database 21c",
       "excerpt": "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML ...",
@@ -867,346 +1194,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-back-to-work-say-hi-to-the-new-office-robot.md",
-      "title": "Back to work? Say hi to the new office robot",
-      "excerpt": "For robotics developers, promoting employee and customer confidence in the workplace through new health and safety tools is a prominent business priority for 2021. The clearest example is the surge in disinfecting robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "originalUrl": "https://www.zdnet.com/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/12/7e42b64d-8d9b-45b5-8ea5-b78793d5a46c/ava-hero.png",
-          "width": 2528,
-          "height": 1316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "publishedDateTime": "2021-01-13T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities.md",
-      "title": "AI & machine learning in CRM systems – opportunities & benefits for charities",
-      "excerpt": "While we tend to think first of robots and self-driving cars when we think of AI, in fact, along with its subset machine learning, it’s already firmly",
-      "sourceUrl": null,
-      "webUrl": "https://fundraising.co.uk/2021/01/13/ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities/?cmpredirect",
-      "originalUrl": "https://fundraising.co.uk/2021/01/13/ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities/?cmpredirect",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fundraising.co.uk/wp-content/uploads/2021/01/ash-edmonds-Koxa-GX_5zs-unsplash-1.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UK Fundraising",
-        "domain": "fundraising.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-friend-kitchen-staff-yoga-finder-at-ces-2021-robots-are-a-highlight-having-shown-their-worth-in-the-coronavirus-pandemic.md",
-      "title": "Friend, kitchen staff, yoga finder: at CES 2021, robots are a highlight, having shown their worth in the coronavirus pandemic",
-      "excerpt": "The pandemic is helping robots prove their worth, from one that helps people feel less lonely to another that can cut labour costs in the kitchen – and they take centre stage at a consumer tech show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
-      "originalUrl": "https://www.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2021/01/13/253e9dc0-54a7-11eb-84b3-e7426e7b8906_image_hires_114147.jpg?itok=WBrpKgD0&v=1610509319",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
-      "publishedDateTime": "2021-01-13T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-fda-releases-action-plan-for-ai-machine-learning-medical-software.md",
-      "title": "FDA Releases Action Plan for AI, Machine Learning Medical Software",
-      "excerpt": "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software",
-      "originalUrl": "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-gm-unveils-a-futuristic-self-driving-cadillac-that-can-fly.md",
-      "title": "GM unveils a futuristic self driving Cadillac that can fly",
-      "excerpt": "GM (General Motors) unveiled a new futuristic self driving car. This was a new Cadillac imagined by the automobile maker, which is even capable of flying and can carry a passenger through the skies. According to a Reuters report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/01/13/gm-unveils-futuristic-self-driving-cadillac-that-can-fly/",
-      "originalUrl": "https://www.gizmochina.com/2021/01/13/gm-unveils-futuristic-self-driving-cadillac-that-can-fly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/01/Cadillac-VTOL-Flying-VTOL-Craft.jpg",
-          "width": 875,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-intels-self-driving-car-unit-plans-to-step-up-use-of-its-own-radar-tech-by-2025.md",
-      "title": "Intel's self-driving car unit plans to step up use of its own radar tech by 2025",
-      "excerpt": "The head of Intel Corp's self-driving car subsidiary said on Tuesday the company wants to shift toward using its own radar-based technology and use a single lidar sensor per vehicle by 2025 in a bid to lower the cost of autonomous driving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-intel-mobileye/intels-self-driving-car-unit-plans-to-step-up-use-of-its-own-radar-tech-by-2025-idUSKBN29H2XU",
-      "originalUrl": "https://www.reuters.com/article/us-intel-mobileye/intels-self-driving-car-unit-plans-to-step-up-use-of-its-own-radar-tech-by-2025-idUSKBN29H2XU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574303&r=LYNXMPEH0B1L4&w=800",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T00:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

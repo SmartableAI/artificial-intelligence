@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna245"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna245"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -107,17 +107,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Army researchers expand study of ethics, artificial intelligence"
-    excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
-    publishedDateTime: 2021-02-03T22:24:00Z
-    webUrl: "https://www.army.mil/article/242923/army_researchers_expand_study_of_ethics_artificial_intelligence"
-    ampWebUrl: "https://www.army.mil/article-amp/242923/army_researchers_expand_study_of_ethics_artificial_intelligence"
-    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/242923/army_researchers_expand_study_of_ethics_artificial_intelligence"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 58
   - title: "Two Google employees quit over AI researcher Timnit Gebru’s exit"
     excerpt: "Two Google engineers have resigned from the tech giant, citing the departure late last year of prominent Black artificial intelligence researcher Timnit Gebru. The resignations are the latest salvos in an ongoing fight between the company and workers who are furious about its lack of diversity."
     publishedDateTime: 2021-02-04T22:31:00Z

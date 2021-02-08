@@ -1,28 +1,28 @@
 ---
 category: news
 title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2021-02-04T05:20:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210204ny70064/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210204ny70064/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem"
+excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
+publishedDateTime: 2021-02-04T05:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
 type: article
-quality: 6
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
 
 related:
   - title: "IBM rolls out an all-new Elite Hybrid Cloud Build team for AI partners"
@@ -41,6 +41,22 @@ related:
         width: 796
         height: 448
         isCached: true
+  - title: "IBM, Palantir forge partnership in low-code AI data processing space"
+    excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
+    publishedDateTime: 2021-02-08T13:53:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
+        width: 1170
+        height: 792
+        isCached: true
   - title: "IBM Hybrid Cloud Build Team: Helping modernize and migrate workloads of partner ecosystem"
     excerpt: "IBM unveiled its highly-specialized Hybrid Cloud Build Team to support the migration and modernization of ecosystem partner products."
     publishedDateTime: 2021-02-05T03:06:00Z
@@ -56,6 +72,6 @@ related:
         height: 627
         isCached: true
 
-secured: "vTx5SyFN4FLiXwCpNqouECVUWyZLQ5SR/teAeLH1FTI8McA30mMSdkll2WZBts9qRWWVzty8AzGQQCI/ghvxkOfzMuvgV1vjGtf27JfFTm+krVMXBQYFN59L+Ky5U9aSB8KrQ8nxP2PVGxsEbqL4EX7DDIJh+OHSiXjRrIaM2cGgEXMonVkntU1CFkU98Uaw6vpg611zct87wNcC4F7gDehzauj6CAEMDb79KukKvSgA5d1uGRfmZLZvtIzIMa+wKwJZJJZLuRJ4+WthQdTtGnlnhvQP0dsAU2m0bjDcPBOxZQncy/3AevPxrGAaP23sxI1HVoJZx1totjSsrsnc9u961BdJLiA7lC8ehUv2XYo=;dlKzzXlJuun8mv7V1/LVTQ=="
+secured: "mVXyMwr9zx3lb81F5NjPccPbg4ZUkOzlcPsgbvVcbI5C/Rh2jAyF8aP+C6iuO5FKPsw7ys3c2iF4VfB7CqA5B8APjYZRsSWPNJlPR8kXAhvAjArqTVcouxtOXwE5DTwmHal6zPsHRoMLK5VDuazPY65a/CYeyUMxdI00zvgQ/q43oXqzxBJncXsiWYelSRKl2X6nEYjsS5uJFqFijXCyypuh13dUHuCdkecRQK+1SdGsQWU87MndSC+8VFSvbYmzkEhYRhsFAhgJfYoR+XvDJnuSNiw/A4aDcxxtDg+Jo6bwoukZx3ODz5HJ7I58zx7I6nBFhN2c5vpKCOeQGS9AOd3ag0cMPzWot8d2+92Zylg=;QjbGRwLpwEIsjp6zkkBgog=="
 ---
 

@@ -2,75 +2,31 @@
 category: news
 title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
 excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
-publishedDateTime: 2021-02-04T20:24:00Z
-originalUrl: "https://tucson.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_79ecfde9-7203-53e8-a0ff-2f08976bf244.html"
-webUrl: "https://tucson.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_79ecfde9-7203-53e8-a0ff-2f08976bf244.html"
+publishedDateTime: 2021-02-04T20:39:00Z
+originalUrl: "https://www.cbs46.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_cc62980f-76bc-5d68-8d2a-bc86a8cd59d3.html?block_id=994631"
+webUrl: "https://www.cbs46.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_cc62980f-76bc-5d68-8d2a-bc86a8cd59d3.html?block_id=994631"
+ampWebUrl: "https://www.cbs46.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_cc62980f-76bc-5d68-8d2a-bc86a8cd59d3.amp.html"
+cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_cc62980f-76bc-5d68-8d2a-bc86a8cd59d3.amp.html"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: CBS Atlanta
+  domain: cbs46.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
-    width: 620
-    height: 290
+  - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/6/82/68260dbe-6f2f-5987-9622-8e57c616132c/601c59ff06c95.image.jpg?resize=1024%2C576"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
-  - title: "How Andy Jassy, Amazon’s Next C.E.O., Was a ‘Brain Double’ for Jeff Bezos"
-    excerpt: "Mr. Jassy, who will become Amazon’s chief this summer, has spent more than two decades absorbing lessons from Mr. Bezos."
-    publishedDateTime: 2021-02-03T22:20:00Z
-    webUrl: "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 88
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/03/business/03jassy/03jassy-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "AI Weekly: What Andy Jassy’s ascension to CEO means for Amazon’s AI initiatives"
-    excerpt: "VentureBeat examines how Andy Jassy's ascention to Amazon CEO could impact the company's AI initiatives and sales of facial recognition tech."
-    publishedDateTime: 2021-02-05T19:31:00Z
-    webUrl: "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 797
-        isCached: true
-  - title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
-    excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
-    publishedDateTime: 2021-02-04T12:20:00Z
-    webUrl: "https://www.cbsnews.com/news/andy-jassy-amazon-ceo-executive/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/andy-jassy-amazon-ceo-executive/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/andy-jassy-amazon-ceo-executive/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 42
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/03/8d479944-d332-4de1-9d61-25c44ed488b0/thumbnail/1200x630g6/3de4be33411da8961307fb8858d5a45e/gettyimages-1129882595.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
     excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
     publishedDateTime: 2021-02-04T11:20:00Z
@@ -86,6 +42,6 @@ related:
         height: 324
         isCached: true
 
-secured: "lWh+IuszcDRuZLTOAOgsIVqDqlLRxkWrtD1FdIJEK2zisOue3vk23P2JI3cCZ7VKmKffE5Pm7IxijNjIsfg/1GLsE7PxkTIV+OcPvA9oQXgke9TFBlGlxzI3/zsLIht0WLI+fkQSBSXqvk1H9vFbk+/m6RH9E9U+L+nBqSG0uTfonfy1OHHE8uUES9fWlJz+1XaFZkwp3jgss3C25HQiBcNIeDuVGqneg6PRvr334akAUTnYa2HXgqppSfas1FfMrM4MYNhIQ+YiYU5OyksRAaznvDeBnhLs4tgnBywa3aybpjbn49mtQ798DifccUh8N0vl3imB3uUcxo6SkgMX9qTZ2/gVO8hfmdmQlZgLvSk=;VhFxQm5cqPcgGQM0NwyQHw=="
+secured: "JRm3nzAOpffSjH8nevTDr5jQAzSO9Gm1tBTe3vOqs9J1zZ6tnqXAyW1NnEjhbo6LMjCu9+mJbwV8fnKkuI1zpSVs1vyh5xj8GXJgsR9xOEQktt8I02LPUOdVHGzkjYCC4tXPJcZpyw0D0amJr/+dWp7T7TbAPFFYYyxVxhDM5MAFnj4sejAnvRn402qxc1tMWNQlVuALl394UPArIvKpNkTpF1l+XcLJQZ7i+b695PWgLWfhIIbBy0qHi8zZgt7lo15Te/fmheaMkZpFeXPpjcQKGmC9P1oVupjSS8u0gkMhR+lkOOQsVjWrIcQOHFsUGAXCirNyZBrEv/MD1pPNMH8RCNGH8cQmqURFzpKE7CY=;4kpYqiglJoeQF7BKRbG2Fw=="
 ---
 

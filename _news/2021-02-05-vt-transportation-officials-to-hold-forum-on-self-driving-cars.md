@@ -25,31 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Apple’s self-driving electric car project could call Georgia home"
-    excerpt: "If Georgia is picked to build Silicon Valley giant Apple’s self-driving electric vehicles, it could mean lots of new jobs, a big boost to tax revenue and a burnishing of the state’s reputation as a tech hub."
-    publishedDateTime: 2021-02-05T01:42:00Z
-    webUrl: "https://www.ajc.com/news/apples-self-driving-electric-car-project-could-call-georgia-home/MPQA3U2N7BH2HG4NLTFG6OT5LE/"
+  - title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $1.3 trillion industry"
+    excerpt: "As vehicles change and develop, the tools for insuring them do, too. Insurance companies are adapting their coverage models for an autonomous future."
+    publishedDateTime: 2021-02-04T15:20:00Z
+    webUrl: "https://www.businessinsider.com/how-insurance-companies-are-preparing-for-self-driving-cars-2021-2"
     type: article
     provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
     images:
-      - url: "https://www.ajc.com/resizer/J3ITkLApWMSLxu9bJP_HZpIJN-E=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/TPRVKCNPGC7O2WSAZKTK6PUSXQ.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.insider.com/601c0bfbee136f00183aa420?width=700"
+        width: 700
+        height: 525
         isCached: true
-  - title: "Will it be self-driving car, “electric car?"
-    excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"
-    publishedDateTime: 2021-02-06T17:14:00Z
-    webUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/"
-    ampWebUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
+  - title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $250 billion industry"
+    excerpt: "As vehicles change and develop, the tools for insuring them do, too. Insurance companies are adapting their coverage models for an autonomous future."
+    publishedDateTime: 2021-02-06T23:25:00Z
+    webUrl: "https://www.businessinsider.com/how-insurance-companies-are-preparing-for-self-driving-cars-2021-2"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://i.insider.com/601c0fecee136f00183aa431?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Uf1Mq9ww1PH5Cqu4yTeUPY7vTYdB5LiU64pGrZ338nTWJGyK6e/JC8SSjDGOOYCBVOEWBbkrQ11oHbrtdNXvKDb9olrvzAtCPjJYmdzl/GLpYvZUv9QdM83CTNvd3FuTIuIAzSadEwfeGBE4p7r62hF0chiLVgNoLRWf4XEySrpxSFs4k+oRaPNGfCYk4U1fak+zhsf6jsKbCCI9o0aNqA9sjEUFptD5UswP0+0dqWVD8Nkh+rwDe6PuziixciKl/7AXaIih3wtjJ9i3ylbYruzgWbsf5cm1soBNd0RzYWQWIi4R4Z8EgqgyJkt0Lz7RuxYxf6YCGChC/SrdavcqugCJjsSBjKqiE3S6cS0OV0gRe83Dk7HooyGO8YiZsFhCywC/43a89CjUH7MFHi1qotBYE0Xs0ZgKrSga1MALEcAh2iv4E9bvOKSM0e91JAwY1vyCz4cu/T3zTIH9/2psZtuq9EYCr4YrYCPhRQaS4Cmo76yosnrL7ZEahZCKZsk5aRa8mp96X8KmgCcpW+eNNA==;a9X1a0KzDQKBiMU6XhouSQ=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 864
         height: 486
         isCached: true
+  - title: "The POWER Interview: AI, Big Data, and Efficiency"
+    excerpt: "The increased use of artificial intelligence (AI) and machine learning (ML) in the power generation sector has a goal of making electricity production"
+    publishedDateTime: 2021-02-07T19:05:00Z
+    webUrl: "https://www.powermag.com/the-power-interview-ai-big-data-and-efficiency/"
+    type: article
+    provider:
+      name: POWER Magazine
+      domain: powermag.com
+    quality: 37
+    images:
+      - url: "https://www.powermag.com/wp-content/uploads/2020/02/fig-2-light-bulb-ai-artificial-intelligence.jpg"
+        width: 600
+        height: 800
+        isCached: true
   - title: "Olympic champion adds voice to #MeToo movement"
     excerpt: "The most successful female athlete in Greek sporting history says a senior national sailing federation official sexually assaulted her almost 23 years ago."
     publishedDateTime: 2021-02-06T21:30:00Z

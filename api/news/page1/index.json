@@ -2,6 +2,186 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-08-artificial-intelligence-in-the-corporate-boardroom.md",
+      "title": "Artificial Intelligence In The Corporate Boardroom",
+      "excerpt": "We live in a new technological era, one where board members have to be prepared for situations where artificial i (AI) affects and maybe even disrupts their deliberations, with regards to both shareholders and stakeholder groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
+      "originalUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60213a6694af6361fcb98437%2F0x0.jpg%3FcropX1%3D153%26cropX2%3D9341%26cropY1%3D0%26cropY2%3D5168",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/amp/",
+      "publishedDateTime": "2021-02-08T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-machine-learning-creates-realistic-genomes-for-imaginary-humans.md",
+      "title": "Machine Learning Creates Realistic Genomes for Imaginary Humans",
+      "excerpt": "A study uses machine learning to mine existing biobanks and generate chunks of human genomes which do not belong to real humans but have the characteristics of real genomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/genomics/news/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
+      "originalUrl": "https://www.technologynetworks.com/genomics/news/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328.jpg?v=11101615",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/genomics/news/amp/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/genomics/news/amp/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
+      "publishedDateTime": "2021-02-08T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics.md",
+      "title": "4 Funds to Boom as Deep Learning Paves the Way for Robotics",
+      "excerpt": "Artificial intelligence (AI) and machine learning are frequently used to improve robots and make them more capable in industrial use. Industrial robotics systems are now being consolidated with computer vision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
+      "originalUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records.md",
+      "title": "Digital Owl emerges from stealth with AI that analyzes and summarizes medical records",
+      "excerpt": "Digital Owl, a startup developing a platform to extract key information from electronic medical records, has emerged from stealth.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/",
+      "originalUrl": "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400485394-e1518999817265.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/",
+      "publishedDateTime": "2021-02-08T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-artificial-intelligence-ai-in-education-market-size-by-technology-application-geography-analysis-forecast-to-2024.md",
       "title": "Artificial Intelligence (AI) in Education Market Size by Technology, Application & Geography - Analysis & Forecast to 2024",
       "excerpt": "Selbyville, Delaware, Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Education market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size.",
@@ -10,7 +190,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -62,7 +242,7 @@
       "originalUrl": "https://www.openpr.com/news/2237949/artificial-intelligence-ai-in-healthcare-market-will-be",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -250,7 +430,7 @@
       "originalUrl": "https://www.reuters.com/article/autos-tech-apple-hyundai-motor/update-2-hyundai-kia-say-theyre-not-in-talks-with-apple-on-autonomous-cars-idUSL1N2KE03C",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -338,49 +518,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-08-machine-learning-generates-human-genomes.md",
-      "title": "Machine Learning Generates Human Genomes",
-      "excerpt": "Researchers have used machine learning to mine existing biobanks and generate chunks of human genomes which do not belong to real humans but have the characteristics of real genomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/machine-learning-generates-human-genomes-199787-1.htm",
-      "originalUrl": "https://www.medindia.net/news/machine-learning-generates-human-genomes-199787-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/motion-picture-stored-in-bacterial-genome.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-generates-human-genomes-199787-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-generates-human-genomes-199787-1.htm",
-      "publishedDateTime": "2021-02-07T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-07-diat-to-research-develop-robotics-platforms-for-armed-forces.md",
       "title": "DIAT to research, develop robotics platforms for armed forces",
       "excerpt": "The institute launched the School of Robotics last year, considering interdisciplinary requirements of research and development in the field.",
@@ -432,7 +569,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -484,7 +621,7 @@
       "originalUrl": "https://www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -579,7 +716,7 @@
       "originalUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -778,6 +915,59 @@
       ]
     },
     {
+      "path": "_news/2021-02-06-ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives.md",
+      "title": "AI Weekly: What Andy Jassy’s ascension to CEO means for Amazon’s AI initiatives",
+      "excerpt": "VentureBeat examines how Andy Jassy's ascention to Amazon CEO could impact the company's AI initiatives and sales of facial recognition tech.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/",
+      "originalUrl": "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence.md",
       "title": "Amazon DevOps Guru is powered by pre-trained ML models that encode operational excellence",
       "excerpt": "On December 1, 2020, we announced the preview of Amazon DevOps Guru, a machine learning (ML)-powered service that gives operators of cloud-based applications a simpler way to measure and improve an application’s operational performance and availability to reduce expensive downtime. Amazon DevOps Guru",
@@ -839,7 +1029,7 @@
       "originalUrl": "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1026,203 +1216,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-3-no-brainer-stocks-to-buy-in-artificial-intelligence.md",
-      "title": "3 No-Brainer Stocks to Buy in Artificial Intelligence",
-      "excerpt": "In fiction, artificial intelligence is often associated with intelligent androids or dystopian futures. But in reality, the AI market mainly revolves around crunching large amounts of data to make quick decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611243%2Fgettyimages-664246660.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "publishedDateTime": "2021-02-05T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-145and-an-apple-watch.md",
-      "title": "Unlocking iPhones While Wearing a Face Mask: Now Easier, If You Have iOS 14.5—and an Apple Watch",
-      "excerpt": "Apple’s next iOS software updates—iOS 14.5—includes a feature we have all been waiting for: the ability to unlock an iPhone with Face ID while wearing a mask. The catch? You need an Apple Watch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "originalUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-295591/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "publishedDateTime": "2021-02-05T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-airbus-partners-indian-start-up-for-geo-spatial-ai.md",
-      "title": "Airbus partners Indian start-up for geo-spatial AI",
-      "excerpt": "OneAtlas, the Airbus geospatial digital platform delivering satellite imagery, analytics and services, will partner with Bengaluru-based start-up, HyperVerge, to implement and integrate new Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/economy/logistics/m2qqwh/article32228008.ece/ALTERNATES/LANDSCAPE_615/airbus-a350jpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece/amp/",
-      "publishedDateTime": "2021-02-05T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-the-best-super-bowl-commercial-this-ai-software-can-tell-you.md",
-      "title": "The best Super Bowl commercial? This AI software can tell you",
-      "excerpt": "Tonya Hall talks to RJ Talyor, CEO of Pattern89, a company that leverages AI to predict advertising performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai-software-can-tell-you/",
-      "originalUrl": "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai-software-can-tell-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2021/02/05/83b2392f-1564-4e37-a4bc-d09fc1861641/thumbnail/770x578/08557f70d13bd0a9a622f986df9ccbcf/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

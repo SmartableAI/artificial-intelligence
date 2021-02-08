@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/travel/delta-expands-facial-recognition-dome
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.ajc.com/resizer/C-G8Xr8RpZqUnRl8gGEcgY-jFgo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/EQ2DJC3GNWFFY2Q2DAIPN7ANIU.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How Your Business Can Benefit from Facial Recognition Technology"
+    excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
+    publishedDateTime: 2021-02-08T14:25:00Z
+    webUrl: "https://pctechmag.com/2021/02/business-benefitting-from-facial-recognition-technology/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 39
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2021/02/Facial-Recognition-Technology.jpg"
+        width: 940
+        height: 705
         isCached: true
   - title: "Innovation in technology and vocational training gets financial recognition"
     excerpt: "The winners of the first inaugural Cambodia Skills Challenge Innovation Call have been announced. The Innovation Call is an initiative of the Ministry of Labour and Vocational Training and the United Nations in Cambodia,"

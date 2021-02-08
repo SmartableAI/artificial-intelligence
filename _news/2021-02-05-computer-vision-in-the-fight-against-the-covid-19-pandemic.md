@@ -7,7 +7,7 @@ originalUrl: "https://jaxenter.com/computer-vision-covid-173692.html"
 webUrl: "https://jaxenter.com/computer-vision-covid-173692.html"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://scitechdaily.com/images/AI-Coronavirus-Concept.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Artificial Intelligence Tool Combats New COVID-19 Mutations"
+    excerpt: "A new artificial intelligence framework could speed the development of vaccines to treat new COVID-19 mutations."
+    publishedDateTime: 2021-02-08T14:31:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-tool-combats-new-covid-19-mutations"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "Artificial intelligence could predict whether you’ll die from COVID-19"
     excerpt: "Artificial intelligence could predict who is most likely to die from the coronavirus. In doing so, it can also help decide who should be at the front of the line for the precious vaccines now being administered across Denmark."

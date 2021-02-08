@@ -2,6 +2,203 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-06-3-no-brainer-stocks-to-buy-in-artificial-intelligence.md",
+      "title": "3 No-Brainer Stocks to Buy in Artificial Intelligence",
+      "excerpt": "In fiction, artificial intelligence is often associated with intelligent androids or dystopian futures. But in reality, the AI market mainly revolves around crunching large amounts of data to make quick decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611243%2Fgettyimages-664246660.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "publishedDateTime": "2021-02-05T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-145and-an-apple-watch.md",
+      "title": "Unlocking iPhones While Wearing a Face Mask: Now Easier, If You Have iOS 14.5—and an Apple Watch",
+      "excerpt": "Apple’s next iOS software updates—iOS 14.5—includes a feature we have all been waiting for: the ability to unlock an iPhone with Face ID while wearing a mask. The catch? You need an Apple Watch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "originalUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-295591/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "publishedDateTime": "2021-02-05T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-airbus-partners-indian-start-up-for-geo-spatial-ai.md",
+      "title": "Airbus partners Indian start-up for geo-spatial AI",
+      "excerpt": "OneAtlas, the Airbus geospatial digital platform delivering satellite imagery, analytics and services, will partner with Bengaluru-based start-up, HyperVerge, to implement and integrate new Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/economy/logistics/m2qqwh/article32228008.ece/ALTERNATES/LANDSCAPE_615/airbus-a350jpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece/amp/",
+      "publishedDateTime": "2021-02-05T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-the-best-super-bowl-commercial-this-ai-software-can-tell-you.md",
+      "title": "The best Super Bowl commercial? This AI software can tell you",
+      "excerpt": "Tonya Hall talks to RJ Talyor, CEO of Pattern89, a company that leverages AI to predict advertising performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai-software-can-tell-you/",
+      "originalUrl": "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai-software-can-tell-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2021/02/05/83b2392f-1564-4e37-a4bc-d09fc1861641/thumbnail/770x578/08557f70d13bd0a9a622f986df9ccbcf/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-first-trusts-robt-etf-a-hidden-gem-for-the-rise-of-robotics.md",
       "title": "First Trust’s ROBT ETF: A Hidden Gem for the Rise of Robotics",
       "excerpt": "Enter exchange traded funds like the First Trust Nasdaq Artificial Intelligence and Robotics ETF (NasdaqGM: ROBT). ROBT follows the Nasdaq CTA Artificial Intelligence and Robotics Index. ROBT provides exposure to target companies engaged in the artificial intelligence and robotics segments of the technology,",
@@ -345,7 +542,7 @@
       "originalUrl": "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -389,7 +586,7 @@
       "originalUrl": "https://jaxenter.com/computer-vision-covid-173692.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -879,7 +1076,7 @@
       "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1015,204 +1212,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry.md",
-      "title": "Synthetic Biology Startup Acquires AI Platform To Disrupt The Drug Industry",
-      "excerpt": "Synthetic biology company AbSci’s recent acquisition of the artificial intelligence platform, Denovium, could help get novel therapeutics to patients more quickly",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/",
-      "originalUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c5138d6243b1002155f1f%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/amp/",
-      "publishedDateTime": "2021-02-04T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners.md",
-      "title": "IBM rolls out an all-new Elite Hybrid Cloud Build team for AI partners",
-      "excerpt": "IBM today announced the formation of its Elite Hybrid Cloud Build Team. According to Big Blue, this group of AI and cloud computing experts was assembled to help bring its partners into the cutting edge of hybrid solution systems.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/ibm-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/",
-      "publishedDateTime": "2021-02-04T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again.md",
-      "title": "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again",
-      "excerpt": "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again",
-      "originalUrl": "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg",
-          "width": 810,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T11:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ai-dungeon-maker-latitude-raises-33m-to-build-games-with-infinite-story-possibilities.md",
-      "title": "AI Dungeon-maker Latitude raises $3.3M to build games with ‘infinite’ story possibilities",
-      "excerpt": "Latitude, a startup building games with stories are generated by artificial intelligence, is announcing that it has raised $3.3 million in seed funding. The idea of an AI-generated story might make you think of hilariously nonsensical experiments like “Sunspring,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/",
-      "originalUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/AID-Gameplay-Edit-AI-Output.jpg?w=680",
-          "width": 680,
-          "height": 356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/04/latitude-seed-funding/amp/",
-      "publishedDateTime": "2021-02-04T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

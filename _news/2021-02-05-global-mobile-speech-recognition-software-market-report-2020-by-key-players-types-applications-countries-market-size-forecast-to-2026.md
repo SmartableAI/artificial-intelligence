@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Gesture Recognition Market Size, Share and Trend to Record Momentous Growth Through 2026"
+    excerpt: "The report Automotive Gesture Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Automotive Gesture Recognition Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-02-08T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-size-share-and-trend-to-record-momentous-growth-through-2026-2021-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3dSo32CndnN8Yvtkf4NDk/V9wAKykkK6F70koFdH11SnfNYRGKTvfdtDJs4da4icAT3IV+mnsV27Sf9CMB7nzHoJyspBYy0wEgqabVJSxM91d621W4+4hmd6pYo8qkNq/aZSdH83PI2ZbjgWvOLjOrLBwD5nWxEvNt5EFUW3Q5r0mQ4xhPFskgumlpjlSwtO8+W02LFrZX05g/SnIJVlDqewEQalG/wK2yUuJontHxV3fdXmyBbrGkpXD9NkKENjNgoknnPW14sPJWb5inqrSnzD2CTVVc41y8zAU5NwOBAoDo1UFT2amHDcyAOHHCHxccAz4lT8saJndF2lhoU0O6C/3AMss0O7qwzhtML8HS0=;PONdmnMU9uk3OI1TtM7GaQ=="
 ---

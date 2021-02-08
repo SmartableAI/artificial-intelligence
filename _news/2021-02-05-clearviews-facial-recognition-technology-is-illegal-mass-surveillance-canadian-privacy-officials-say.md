@@ -127,34 +127,6 @@ related:
         width: 1280
         height: 1066
         isCached: true
-  - title: "Privacy Commissioner claims facial recognition company Clearview AI violated Canadian privacy laws"
-    excerpt: "A report from the federal privacy commissioner and three provincial counterparts claims Clearview AI has unlawfully violated the privacy rights of Canadians."
-    publishedDateTime: 2021-02-03T22:57:00Z
-    webUrl: "https://betakit.com/privacy-commissioner-claims-facial-recognition-company-clearview-ai-violated-canadian-privacy-laws/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 40
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/02/Clearview-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Facial Recognition Software Has Been Used by 48 Agencies in Canada"
-    excerpt: "Controversial facial recognition firm Clearview AI had at least 48 accounts in agencies across the country, most of them police forces, a press release by federal and provincial privacy commissioners said today."
-    publishedDateTime: 2021-02-03T21:40:00Z
-    webUrl: "https://thetyee.ca/News/2021/02/03/Facial-Recognition-Software-Used-By-48-Agencies-Canada/"
-    type: article
-    provider:
-      name: The Tyee
-      domain: thetyee.ca
-    quality: 39
-    images:
-      - url: "https://thetyee.ca/News/2021/02/03/FederalPrivacyCommissionerDanielTherrien.jpg"
-        width: 1000
-        height: 704
-        isCached: true
   - title: "Privacy commissioners call facial recognition service illegal"
     excerpt: "Canada’s privacy commissioner and three of his provincial counterparts say a facial recognition tool sold by  technology company Clearview constitutes mass surveillance and is illegal in Canada. “It is an affront to individuals’ privacy rights and inflicts broad-based harm on all members of society,"
     publishedDateTime: 2021-02-04T16:00:00Z

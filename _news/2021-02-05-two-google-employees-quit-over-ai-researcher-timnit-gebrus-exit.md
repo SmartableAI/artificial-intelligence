@@ -121,17 +121,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Army researchers expand study of ethics, artificial intelligence"
-    excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
-    publishedDateTime: 2021-02-03T22:24:00Z
-    webUrl: "https://www.army.mil/article/242923/army_researchers_expand_study_of_ethics_artificial_intelligence"
-    ampWebUrl: "https://www.army.mil/article-amp/242923/army_researchers_expand_study_of_ethics_artificial_intelligence"
-    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/242923/army_researchers_expand_study_of_ethics_artificial_intelligence"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 58
 
 secured: "BZWJEKgnKYQjnM/qJtrbjLGP9V6Bb0Dp1wPPsCLkJshS+9zi8ccplgCGM7KSjr1hY+2qjoCSK3M15sN4UGqQG1QUYZjxrcn7fcp5d/a34siqsTMKjVo1llvnSxvPUq6Wq0VlrOfPoUIPsWUOH6cVofadG3uqLe0Ank9wuCkFd9YMpJVwS1rGAjBAIrhPResngwBjTNyKtMZcPzSaQXHkA8JwnMGMjELbaz+I8S3ASG5+Rz3hCwcreY7/08E1/cDy8XBB6N8wn7XFOL3454VRXONQxArasppQhyvWhQHVijf1TVRe6+N68VlPPDTTSGlXqKEF2L3Z7MSxOxWh1j9S8L2Jmq0SoyZ7MDxy94pm/2k=;E6G0Np+c0AnerfwDU6Fy2A=="
 ---

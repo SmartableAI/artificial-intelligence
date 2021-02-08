@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-generates-human-g
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-generates-human-genomes-199787-1.htm"
 type: article
 quality: 59
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medindia
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Creates Realistic Genomes for Imaginary Humans"
+    excerpt: "A study uses machine learning to mine existing biobanks and generate chunks of human genomes which do not belong to real humans but have the characteristics of real genomes."
+    publishedDateTime: 2021-02-08T13:29:00Z
+    webUrl: "https://www.technologynetworks.com/genomics/news/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328"
+    ampWebUrl: "https://www.technologynetworks.com/genomics/news/amp/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/genomics/news/amp/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328.jpg?v=11101615"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Machine learning generates realistic genomes for imaginary humans"
     excerpt: "Machines, thanks to novel algorithms and advances in computer technology, can now learn complex models and even generate high-quality synthetic data such as photo-realistic images or even resumes of imaginary humans."
     publishedDateTime: 2021-02-05T15:38:00Z

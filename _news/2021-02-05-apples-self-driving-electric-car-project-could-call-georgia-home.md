@@ -7,7 +7,7 @@ originalUrl: "https://www.ajc.com/news/apples-self-driving-electric-car-project-
 webUrl: "https://www.ajc.com/news/apples-self-driving-electric-car-project-could-call-georgia-home/MPQA3U2N7BH2HG4NLTFG6OT5LE/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Vt. transportation officials to hold forum on self-driving cars"
-    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
-    publishedDateTime: 2021-02-04T19:32:00Z
-    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T13:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4393554001"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
-    quality: 24
+      name: USA Today
+      domain: usatoday.com
+    quality: 34
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
-        width: 980
-        height: 552
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T16:01:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4393554001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Will it be self-driving car, “electric car?"
     excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"

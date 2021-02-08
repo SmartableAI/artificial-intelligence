@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Creates Realistic Genomes for Imaginary Humans"
+    excerpt: "A study uses machine learning to mine existing biobanks and generate chunks of human genomes which do not belong to real humans but have the characteristics of real genomes."
+    publishedDateTime: 2021-02-08T13:29:00Z
+    webUrl: "https://www.technologynetworks.com/genomics/news/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328"
+    ampWebUrl: "https://www.technologynetworks.com/genomics/news/amp/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/genomics/news/amp/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328.jpg?v=11101615"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Machine Learning Generates Human Genomes"
     excerpt: "Researchers have used machine learning to mine existing biobanks and generate chunks of human genomes which do not belong to real humans but have the characteristics of real genomes."
     publishedDateTime: 2021-02-08T04:52:00Z

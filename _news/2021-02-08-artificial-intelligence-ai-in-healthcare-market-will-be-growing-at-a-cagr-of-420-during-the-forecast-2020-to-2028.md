@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2237949/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Security Market Research With Method, Top Companies, Global Development Factors,and Forecast 2026"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
+    publishedDateTime: 2021-02-08T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-with-method-top-companies-global-development-factorsand-forecast-2026-2021-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market Growing at 49.6% CAGR to Hit US$ 40.36 billion by 2027"
     excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market Research Report and Forecast 2020-2027 is the latest report by Fior Markets which is the fastest growing market research company. The report provides a comprehensive scope of the market which includes future supply and demand"
     publishedDateTime: 2021-02-04T05:46:00Z
@@ -44,12 +58,12 @@ related:
   - title: "Artificial intelligence (AI) Market to Attain a Valuation of Highest CAGR 2022-2031| Google Inc. and IBM Corporation"
     excerpt: "Market.us, one of the worlds leading by prominent market research firms has released a new recent work on \"Artificial intelligence (AI) Market 2022-2031\" based on business intelli"
     publishedDateTime: 2021-02-08T08:24:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/137531/artificial-intelligence-ai-market-to-attain-a/"
+    webUrl: "https://www.arnnet.com.au/mediareleases/137531/artificial-intelligence-ai-market-to-attain-a/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 9
+      name: ARN
+      domain: arnnet.com.au
+    quality: 11
   - title: "Artificial Intelligence in Diagnostics Market is Estimated to Achieve CAGR of 33.2% By 2027"
     excerpt: "The global artificial intelligence in Diagnostics market is expected to grow at a CAGR of 33.2% during the forecast period 2020 - 2027. According to the report titled ‘Artificial Intelligence in Diagnostics Market Size study,"
     publishedDateTime: 2021-02-04T07:06:00Z
@@ -60,6 +74,6 @@ related:
       domain: arnnet.com.au
     quality: 7
 
-secured: "xTNWJtrT7JWhjb2OEpOz62W+4urimZBZ/KaWvcvbacc9IpPWy2doRISiQSv4l3X0Iwl+BJEmDryp6/RXxSGI60i9E8fgRWD0zX1COwlm6Xh2klRHoacoMS8MDd1UN4TvMn5f9xqY53SToafGJ1/0k5rUA/I9tLFh8pbsr3YgKIqAm5bS2I19JJUn9PZJlS6yCwgxH0khQk5L8Fpeiljp6PIN6CmGc1lPmMp+Rq28yXbJfWLr9kYLLuJB2nhFldM8JyWYz0R79W8leachS6fgeJH9gq8hvzIIP3+GCwtWMikgrzR175L0gnXqFrVMbYvzZo8hgcuQX0DHfT8sA76py7MJ12b1Gw5fEnpmP+hLbcA=;lIrurXtTyKmZJKhWGHyOcw=="
+secured: "yAAGoj9v13Ivdo7KK3MmdKZIfLmbcwxyzLYEMscbUBlsXAxA9cE8RgLCXtJDSetjAjOU9MH9TFE+ocr4w060aFPEmwmZshKzAPdw3giyLGdZ/n1HvU7voqiCex0gTRAy+ckP1Ud22OMmzP95LtHQufZBHCJfK5pnqkmOFFfLQOGQtcWS3/m3Xt+w1tB1BPPMcp6nOo2hkhuKY47WbhB5UWH0GI890AnHGW+vGhC4Gwrzd4Qtsz/caDhrnTGRYHPt2cK5F7kBWlBXoHHkeMikj80wTR4ralR4sfSiz9wCdjOQvbNcNOrDS9H0O6mJDoFxE0ZUgE45mSHAUNNuGs8Be6hEhdFpJX+LxdMuDq4gtIcR8Qpi3QPL2TN3pMHhHgNENDKv3lNENTyccAAb30GtsurIVGgettNYQQ1ipMW8TV7UMxlU8Y1woIl/JzulVRDdO4gm//dV+e6VB897Kd3ljXqOanGu2mNLqytKVXQX6qtOJuErAy1XMFMFffPvMTyHmCNFp/QcpttYNSbCrR5xPQ==;RX11pAgteFUJTnL6pKELgA=="
 ---
 

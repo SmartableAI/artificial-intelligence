@@ -41,20 +41,33 @@ related:
         width: 796
         height: 448
         isCached: true
-  - title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
-    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-    publishedDateTime: 2021-02-04T05:20:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210204ny70064/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem"
+  - title: "IBM, Palantir forge partnership in low-code AI data processing space"
+    excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
+    publishedDateTime: 2021-02-08T13:53:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 6
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
+        width: 1170
+        height: 792
         isCached: true
+  - title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
+    excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
+    publishedDateTime: 2021-02-04T05:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
 
 secured: "aka3vZ2GUl3DDMlKPuOpw9pm5m+/WlycgoiRjs5Zw2ITk/tybvuC+v95JNV8uyvX4JfNWhdDpz3yzvZOwH4h4rbj6CsbN6dCx7TWcjy/CrXf05tTTym+GsR4naCyxUMxAPZyR4uRgmHbxm4bLONfUP5EeGagFLJSWw+vP+8/XSpd1E+snsjrSRM85AJfvL2XTIu/wwoWOwTfAvtLOJUoFfZzstU2g60Kz4R+8cwoKrkJc1A87QejkJBi7xCfYcStl6m8vOmI6vk2MHc5ggeNgJUcjlqImZeQAaQEfX3uTFJRrogSYkykNSzuiHgEsXWEXJJrqcMEd0S6GeyQ/YRgnYj0rERQooiGhXpVWC5NJNY=;zBHt4BwHrIiGYDwxD5AHRA=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 864
         height: 486
         isCached: true
+  - title: "The POWER Interview: AI, Big Data, and Efficiency"
+    excerpt: "The increased use of artificial intelligence (AI) and machine learning (ML) in the power generation sector has a goal of making electricity production"
+    publishedDateTime: 2021-02-07T19:05:00Z
+    webUrl: "https://www.powermag.com/the-power-interview-ai-big-data-and-efficiency/"
+    type: article
+    provider:
+      name: POWER Magazine
+      domain: powermag.com
+    quality: 37
+    images:
+      - url: "https://www.powermag.com/wp-content/uploads/2020/02/fig-2-light-bulb-ai-artificial-intelligence.jpg"
+        width: 600
+        height: 800
+        isCached: true
 
 secured: "Vt9YsIe0z5NmgTwCaaRfugVNxB29s6eSVObuJcqgh9y1RJMc4DYkVgCiYdiCOYSNH25b4lEet9DSl84jTnhB0o50AZ+sdGDQVjrbvlYxCTpXKnc7UyLxXg3qJdFd2kJL7Sj+BjHZJCRemkfBEOq38cRRZyZfY7WMuk0yagHhsRDfK6NargQrTbQNisACA1Rp/MGU7LvVWa+HxDIF9OhdB+PtF55+jVpRGd5bDnPJffrFOLuV3JR7Hx8h20EDxffbJwKAFnO9lWnx+iO9boFBBK1P12Rspr2bLOhjPqEacuIz52+9zKCPkkhCMWfsEFVRxXwq5McKBn+SPeYEUAjhFkpK03B/K78s0Sa5MESl4pjOaAtQtguREVuswUjbjDzf0PBEBOGrKBV60RjZU7iCunDjrbGEINMQ2ttO1f9JADcIhE4R4PZnvyWDy6rqoAiSED2VwdSHBoVy2JAYb0OrGoIx3nyp9HEuDNfkuvz/xaq6S5IK5O7u6hlwYM6Ov1oekre5n6ej/6xwWww+QDXJWA==;31lXW7xbBBEjJjkFe3n3BQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-15-artificial-intelligence-in-sports-market-next-big-thing-biggest-opportunity-of-2021.md",
+      "title": "Artificial Intelligence in Sports Market Next Big Thing | Biggest Opportunity Of 2021",
+      "excerpt": "Global Artificial Intelligence in Sports Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "originalUrl": "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/1/U115981371_g.jpg",
+          "width": 675,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "publishedDateTime": "2021-01-14T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-can-an-ai-predict-the-language-of-viral-mutation.md",
       "title": "Can an AI Predict the Language of Viral Mutation?",
       "excerpt": "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system.",
@@ -1419,49 +1462,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-facebook-open-sources-game-playing-ai-rebel.md",
-      "title": "Facebook Open-Sources Game Playing AI ReBeL",
-      "excerpt": "Facebook AI Research (FAIR) published a paper on Recursive Belief-based Learning (ReBeL), their new AI for playing imperfect-information games that can defeat top human players in poker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/12/facebook-poker-ai/",
-      "originalUrl": "https://www.infoq.com/news/2020/12/facebook-poker-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/12/facebook-poker-ai/en/headerimage/facebook-poker-ai-header-1607288751593.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null

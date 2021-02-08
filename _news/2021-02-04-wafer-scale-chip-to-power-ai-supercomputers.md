@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercompute
 cdnAmpWebUrl: "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 325
         height: 325
         isCached: true
-  - title: "EPCC Selects Cerebras Systems AI Supercomputer to Rapidly Accelerate AI Research"
-    excerpt: "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and EPCC, the supercomputing centre at the University of Edinburgh, today announced the selection of the world’s fastest AI computer,"
-    publishedDateTime: 2021-02-03T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210203005062/en/EPCC-Selects-Cerebras-Systems-AI-Supercomputer-to-Rapidly-Accelerate-AI-Research"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
 
 secured: "dxuVu9s4fyVzC2cPcRwxStvJ3h8sEj62LZLhTODSl/oLNESnPL9AVG0U3JyA7N8oMHAkriyFdkQO6kw92LN/TYcLWrJTXgm+bDVFhKYv5Tc8ziCUTdFFUDTNJWKwGVIZAMKFbTua9R5oNOMdPGDeFrfZj/rnxdKQD6d5J75ULaUDcI4i/rYpftXBQ7IlLkP6TCCwhTEW6TY0ze1Fk/fj7wULbNE+68Zyx+UhhzZy+RVkFOoBfcfF+UsS8qvfWerakyBiO8gAa+RL7JFA0xF4RYNnWw35p53WCZBu9bN8VgV2W8oxhwuMowNESndjRI+9IgAxrtMCOLxQiPObp/L49nMok5/qPvxycuCAu7os5YCf06DUq6LFZ3/7Fy2qnz4Re4BLtcyQuxxWejX8mmSd4aDa6XCQb1ebIPndvScdzK6S3x3adsm7zq13RdvSuX04yMVCPhaWtQD6rWASBnXhJHYQvuEImbQxKOC6A3oECB3LaQGcVlfKTSzI1BR5JRmcW5fqclAkL25lhhyvatlkzQ==;ZF+7K6eck/FW8iFaNdIVCA=="
 ---

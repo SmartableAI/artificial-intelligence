@@ -21,6 +21,38 @@ topics:
   - AI
 
 related:
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T13:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4393554001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T16:01:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4393554001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple’s self-driving electric car project could call Georgia home"
     excerpt: "If Georgia is picked to build Silicon Valley giant Apple’s self-driving electric vehicles, it could mean lots of new jobs, a big boost to tax revenue and a burnishing of the state’s reputation as a tech hub."
     publishedDateTime: 2021-02-05T01:42:00Z
@@ -34,20 +66,6 @@ related:
       - url: "https://www.ajc.com/resizer/J3ITkLApWMSLxu9bJP_HZpIJN-E=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/TPRVKCNPGC7O2WSAZKTK6PUSXQ.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Vt. transportation officials to hold forum on self-driving cars"
-    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
-    publishedDateTime: 2021-02-04T19:32:00Z
-    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
-    type: article
-    provider:
-      name: WCAX3
-      domain: wcax.com
-    quality: 24
-    images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
-        width: 980
-        height: 552
         isCached: true
 
 secured: "pSamVUcPo9dxPWvvrJHgYnPjaYcWta6nWZMtqV003Buz0zjFVo++ZI6effE4hqJbnq8Y7GFddZVycBPJbfbWtdZc4LFd5ax7eGAe/rIwoAqR7q0GZ8ZXH0FZO5AuSSozWb0ESSoqB6/PNf9RufyAoveF+HgdVSNKOpAc6OPOj9k0B4SckYnVAsV4TnAbRKU/znDDdOQjXtj+QevfiVTH6v7NjGLVm4bZGlczbK37jhsHe/pBk9ZlWtXnpEHk277DZMZVK+H/US62FBz3RO42T7aZ/ViX8KARNain7Wsg07KAj/dgSUfxW6QxwqZZahMqObOTtq0w5dpMn2LQXciDuq+p9vWkZejGIrF9ErsHI4o=;DYn2U3pHSfRPu95vW0zumQ=="

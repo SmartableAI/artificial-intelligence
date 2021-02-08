@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-15-facebook-open-sources-game-playing-ai-rebel.md",
+      "title": "Facebook Open-Sources Game Playing AI ReBeL",
+      "excerpt": "Facebook AI Research (FAIR) published a paper on Recursive Belief-based Learning (ReBeL), their new AI for playing imperfect-information games that can defeat top human players in poker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/12/facebook-poker-ai/",
+      "originalUrl": "https://www.infoq.com/news/2020/12/facebook-poker-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/12/facebook-poker-ai/en/headerimage/facebook-poker-ai-header-1607288751593.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference.md",
       "title": "A quick tour of what you missed at the NeurIPS 2020 AI conference",
       "excerpt": "The world’s most closely watched AI conference didn’t have its usual scenic backdrop of Vancouver or Barcelona, but it was a nicely organized six-day virtual affair that delivered on all the usual fascinating talks and presentations.",

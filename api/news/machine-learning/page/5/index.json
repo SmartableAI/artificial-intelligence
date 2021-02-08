@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-10-decentralized-machine-learning-trading-up-602-over-last-week-dml.md",
+      "title": "Decentralized Machine Learning Trading Up 60.2% Over Last Week (DML)",
+      "excerpt": "Decentralized Machine Learning (CURRENCY:DML) traded 1.3% lower against the U.S. dollar during the one day period ending at 13:00 PM Eastern on January 9th. Over the last week, Decentralized Machine Learning has traded 60.",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html/amp",
+      "publishedDateTime": "2021-01-09T17:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-artificial-intelligence-and-machine-learning-continues-at-aws-reinvent.md",
+      "title": "Artificial intelligence and machine learning continues at AWS re:Invent",
+      "excerpt": "A fresh new year is here, and we wish you all a wonderful 2021. We signed off last year at AWS re:Invent on the artificial intelligence (AI) and machine learning (ML) track with the first ever machine learning keynote and over 50 AI/ML focused technical sessions covering industries, use cases, applications,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/artificial-intelligence-and-machine-learning-continues-at-aws-reinvent/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/artificial-intelligence-and-machine-learning-continues-at-aws-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/Thumbnail.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T11:26:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-voice-life-inc-showcases-wireless-power-for-the-21st-century-with-nvidia-deep-learning-accelerator-technology-at-ces-2021-showcase.md",
       "title": "Voice Life Inc. Showcases Wireless Power For The 21st Century With NVIDIA Deep Learning Accelerator Technology At CES 2021 Showcase",
       "excerpt": "Voice Life Inc. today announced its digital presence at the CES 2021 Showcase launching the Life-Line Power Connect platform based upon a terahertz-based scalable network designed for far field wireless charging.",
@@ -1275,95 +1362,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-you-dont-code-do-machine-learning-straight-from-microsoft-excel.md",
-      "title": "You don’t code? Do machine learning straight from Microsoft Excel",
-      "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
-      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
-      "publishedDateTime": "2020-12-30T17:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-profitable-2021-portfolio.md",
-      "title": "3 Machine Learning Stocks for a Profitable 2021 Portfolio",
-      "excerpt": "Machine Learning (“ML”) is being integrated into everything, starting from business needs to consumer needs in the Artificial Intelligence ... on the back of its Waymo vehicles, which are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30?amp",
-      "publishedDateTime": "2020-12-30T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "Machine Learning"
       ]

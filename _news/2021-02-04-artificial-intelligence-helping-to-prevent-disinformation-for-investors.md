@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Young investors endorse Provista Trading's AI approach to forex"
+    excerpt: "Provista saw a surge in inquiries about its AI-empowered EA trading system, particularly from the younger generations from the millennial and Gen Z age group."
+    publishedDateTime: 2021-02-08T14:53:00Z
+    webUrl: "https://www.wicz.com/story/43306499/young-investors-endorse-provista-tradings-ai-approach-to-forex"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 37
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20346395_G.jpg?lastEditedDate=1612759798000"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "H3rfJ/8A7inUnuoRdcUrBnrVGMQnvbq22wJTJAkTC+nd4HiMoc8T/01YLPODqIwTSoi4ZwxOzjW77R4xoXnDMaggN4q3HULAQ1hpo8rkZYfS3VqHGKdlruuooq+Wa5oDFo4kcRh0RyRBbrO+yygH2dQu3mCmGejG17MXEORHFP7JlkbOFOV7ITvTdSlXBvasVpRIWrKCGZwGMnTXw5xV/+Md8d9LruaexR6KnaEDnUCIEHTxQ6uM8BlzynTZIyk13cC/jPsJ2EAP0QmSDl+iGCVvnSccrpiXw3r0+7K6h74Oh/+YHcL10ckT6zeLcldUEgBySdMIiC2NqxngDlzY4uVYeUV/7kmZO8XF7/a6va4=;OBaWkw8sI8wr80ep9gFgmw=="
 ---

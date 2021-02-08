@@ -1,0 +1,63 @@
+---
+category: news
+title: "Automotive Gesture Recognition Market Size, Share and Trend to Record Momentous Growth Through 2026"
+excerpt: "The report Automotive Gesture Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Automotive Gesture Recognition Market Growth and information corresponding to market segments such as geographies,"
+publishedDateTime: 2021-02-08T14:06:00Z
+originalUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-size-share-and-trend-to-record-momentous-growth-through-2026-2021-02-08"
+webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-size-share-and-trend-to-record-momentous-growth-through-2026-2021-02-08"
+type: article
+quality: 40
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI) in Education Market Size by Technology, Application & Geography - Analysis & Forecast to 2024"
+    excerpt: "Selbyville, Delaware, Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Education market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
+    publishedDateTime: 2021-02-08T12:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-02-05T02:09:00Z
+    webUrl: "https://menafn.com/1101548486/Global-Mobile-Speech-Recognition-Software-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
+
+secured: "6DLxDUR/fkf4EeTAtYF88Dr59C3coO+aWJEz/nuDtpaeiptauSD881WSZZRjofziC8HHYmpbeiSEg0cvR0sFqAqONyiIIlYq22dvQn+QiHS4ZiH8w/jsHwynLdCd1kByz9a8DKrT8FnTWTEam1v6Q+ZM8f0dWYzBx6RjcTfIUm0fDZb3JEE+SrtNXlsLCd0tnZupCwjbVWcOpv6YK4JYerZmXn4fl2fcUV+EOzjL4HlqloSGfBKyKP/UQyOGhJmcLnYGvIhZ/S6URAhMij2aaAIb1L/RNXU+59OvLb1+6huOPWQ+suQ3n1fkc1Sjt6MX1d4FvG7DVaN2ZsIScR8H4Kgtzlpf/gPH39rVKOE36Dw=;ZBDHZnzj1pn/Yk7sS6vm0g=="
+---
+
