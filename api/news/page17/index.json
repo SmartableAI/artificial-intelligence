@@ -2,6 +2,110 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-27-how-the-pandemic-is-accelerating-enterprise-open-source-adoption.md",
+      "title": "How the pandemic is accelerating enterprise open source adoption",
+      "excerpt": "Enterprise IT teams increasingly shifted to open source software solutions in 2020 as they adapted to the pandemic's disruptions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-452883256-e1611622262540.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/amp/",
+      "publishedDateTime": "2021-01-26T15:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-snap-looks-to-enhance-augmented-reality-features-with-acquisition-of-british-research-lab-ariel-ai.md",
+      "title": "Snap looks to enhance augmented reality features with acquisition of British research lab Ariel AI",
+      "excerpt": "Snap, the parent company of Snapchat, has acquired a British artificial intelligence start-up called Ariel AI which focuses on augmented reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104318447-GettyImages-647204978.jpg?v=1588764817",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
+      "publishedDateTime": "2021-01-26T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-researchers-are-working-on-a-chess-playing-ai-that-emulates-human-level-skill.md",
       "title": "Researchers are working on a chess-playing AI that emulates human-level skill",
       "excerpt": "This is certainly a novel concept: again, most chess and board game-playing AIs seek to beat out the best of the best. Indeed, in some cases,",
@@ -1082,101 +1186,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments.md",
-      "title": "Why the OECD wants to calculate the AI compute needs of national governments",
-      "excerpt": "The OECD is working to help countries better understand their AI compute demand needs and prepare for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/oecd.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/amp/",
-      "publishedDateTime": "2021-01-26T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-container-approach-to-boosting-gpu-utilization-secures-bigger-backing.md",
-      "title": "Container Approach to Boosting GPU Utilization Secures Bigger Backing",
-      "excerpt": "Getting peak utilization out of GPU farms in the age of AI will be the unending quest. From being able to partition a GPU into small fractions to scaling",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
-      "originalUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
-      "publishedDateTime": "2021-01-26T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and Palantir debut no-code platform for OpenAI applications"
-    excerpt: "IBM and Palantir have announced their jointly developed product, Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications."
-    publishedDateTime: 2021-02-08T16:14:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1612799848/itpro/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg"
-        width: 2252
-        height: 1600
-        isCached: true
   - title: "Use predictive data insights to make more informed decisions with Palantir for IBM Cloud Pak for Data"
     excerpt: "Every year, the average enterprise makes thousands of critical operational decisions. With rapid digitization, this decision-making is becoming more siloed, distributed and complex. This can have staggering cost implications on the business. Are you confident that you are leveraging all your data to"
     publishedDateTime: 2021-02-08T12:00:21Z
@@ -98,20 +82,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "SD Times news digest: JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
-    excerpt: "JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
-    publishedDateTime: 2021-02-08T15:56:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-jetbrains-2020-annual-report-microsofts-autofill-solution-for-passwords-ibm-and-palantir-team-up-on-cloud-and-ai/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 53
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/02/G58mtNnU.png"
-        width: 680
-        height: 425
-        isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid"
     excerpt: "Cloud Environments PR Newswire ARMONK, N.Y. and DEN"
     publishedDateTime: 2021-02-08T12:05:00Z
@@ -125,6 +95,20 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IBM and Palantir debut no-code platform for OpenAI applications"
+    excerpt: "IBM and Palantir have announced a jointly developed product for AI applications called Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications."
+    publishedDateTime: 2021-02-09T09:59:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/hybrid-cloud/8933/ibm-and-palantir-debut-no-code-platform-for-openai-applications"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 39
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2018/12/ibmmulticloudmanager_shutterstock_1093687415.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Big Data Analytics Firm Palantir Adopts IBM's Red Hat OpenShift"
     excerpt: "IBM and Palantir Technologies announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business"

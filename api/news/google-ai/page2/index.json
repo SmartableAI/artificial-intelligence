@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-12-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
+      "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
+      "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "originalUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-get-ready-for-really-low-power-ai-synaptics-and-eta-compute-envision-neural-nets-that-observe-every-sound-motion.md",
       "title": "Get ready for really low-power AI: Synaptics and Eta Compute envision neural nets that observe every sound, motion",
       "excerpt": "Eta was one of the first companies to implement Google's TFMicro implementation of TensorFlow for embedded devices. What sets Eta apart from other companies in edge inference, said Haddad ...",
@@ -1432,58 +1476,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-ai-helps-protect-australian-wildlife-in-fire-affected-areas.md",
-      "title": "AI helps protect Australian wildlife in fire-affected areas",
-      "excerpt": "Over the next six months, more than 600 sensor cameras will be deployed in bushfire-affected areas across Australia, monitoring and evaluating the surviving wildlife populations. This nationwide effort is part of An Eye on Recovery, a large-scale collaborative camera sensor project, run by the World",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/",
-      "originalUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/RSwwfau_14310.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/",
-      "publishedDateTime": "2020-12-15T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -2,6 +2,103 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-27-ai-ethics-really-come-down-to-security.md",
+      "title": "AI Ethics Really Come Down To Security",
+      "excerpt": "If we're going to rely on them to take more active and responsible roles in our lives, we must be able to trust that they're not only ethical but that the AI and the machine learning that underpins them operate safely and securely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
+      "publishedDateTime": "2021-01-27T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-yati-ernie-machine-learning-in-yandex-and-baidu.md",
+      "title": "YATI & ERNIE: Machine Learning in Yandex and Baidu",
+      "excerpt": "Google isn't the only search engine making strides in machine learning. See how Yandex and Baidu have advanced search with YATI and ERNIE, as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/",
+      "originalUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2021/01/machine-learning-for-yandex-and-baidu-60104ca449da0.png",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/amp/",
+      "publishedDateTime": "2021-01-27T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-14-ways-to-better-leverage-ai-to-connect-with-consumers.md",
       "title": "14 Ways To Better Leverage AI To Connect With Consumers",
       "excerpt": "Of the many ways businesses use artificial intelligence, leveraging it to connect with consumers is one that can generate great results for marketers.",
@@ -1095,110 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-how-the-pandemic-is-accelerating-enterprise-open-source-adoption.md",
-      "title": "How the pandemic is accelerating enterprise open source adoption",
-      "excerpt": "Enterprise IT teams increasingly shifted to open source software solutions in 2020 as they adapted to the pandemic's disruptions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-452883256-e1611622262540.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/amp/",
-      "publishedDateTime": "2021-01-26T15:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-snap-looks-to-enhance-augmented-reality-features-with-acquisition-of-british-research-lab-ariel-ai.md",
-      "title": "Snap looks to enhance augmented reality features with acquisition of British research lab Ariel AI",
-      "excerpt": "Snap, the parent company of Snapchat, has acquired a British artificial intelligence start-up called Ariel AI which focuses on augmented reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104318447-GettyImages-647204978.jpg?v=1588764817",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "publishedDateTime": "2021-01-26T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/clearview-ai-raises-disquiet-at-priva
 webUrl: "https://www.wsj.com/articles/clearview-ai-raises-disquiet-at-privacy-regulators-11612473878"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Canada (politely) asks Clearview AI to stop scraping citizens’ photos"
-    excerpt: "The country's regulators said Clearview violated Canada's privacy laws by scraping photos of citizens from the internet without permission."
-    publishedDateTime: 2021-02-04T18:58:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/"
+  - title: "Cyber Daily: Clearview AI Raises Disquiet at Privacy Regulators"
+    excerpt: "Facial recognition company Clearview AI is navigating lawsuits, investigations and regulatory reprimands in jurisdictions around the world. The company is having to adjust to differences in how regional laws define biometric data and privacy rights,"
+    publishedDateTime: 2021-02-05T17:21:00Z
+    webUrl: "https://www.wsj.com/articles/cyber-daily-clearview-ai-raises-disquiet-at-privacy-regulators-11612539617"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-04T164520.518-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9i5PLLl0BQWmYdEI4WlXyR2SINOYo582O8uHA5OQk2JzfraphOkXNJdmP6BbEV8gGZA2XAH57pUzF7ojGuPlgmvzMWtt6Z9RhrknosGOd7YwLCxvm3q6ge09X6AUklXp6YrggK1AEq9qE43SgNB6/4pmOZQddP5GbDb/bKcrxAwXhmYMELFSKSZKVZfNYV2Sk4hIq+oFBwSuOuNP17TIV5kJjVRlmP76DgxbqgkeWMb/m3sn6zXk03Fbd/hgMcwILqwmC951Msi2qyYmDqSjHt+8r0CH+SaNXimPd2Pf9ImEy/FUn/EAQtqEJKR+S4rCQ8EoV67vnqAFf2ubrvYQ6pmPQl5XX/CfBtDLRBjuNoJQwACNKIc/eroH+IdMl1iSisBr7fpP1OnLwsUShN5gwNGtCcKSQQGwf6KFpF2/ZHralaM9mn2DrClwNGHYtEn3qpeWQHfEt67bgCNhtpmHmyXafjbKnaklpu4iFbkMgDYJ+V+vySVk4456SaSd3LS7MijJQzzWFl+JIZ9w81b1xw==;Cr5VuQTRzhcUHhftumZJDg=="

@@ -67,6 +67,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "GMR Delhi, Hyderabad airports receive ACI World’s ‘Voice of Customer Recognition’"
+    excerpt: "Lauded for efforts to listen to passengers, engage and gather feedback to understand their needs, and ensure customers’ voice was heard during the Covid-19 pandemic"
+    publishedDateTime: 2021-02-09T10:08:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
+    images:
+      - url: "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "KIA bags ‘Voice of the Customer’ global recognition"
     excerpt: "(BIAL) has secured global recognition for being the ‘Voice of the Customer’, in an initiative by the Airports Council International World, by assessing passengers’ requirements and implementing various measures during the COVID-19 pandemic."
     publishedDateTime: 2021-02-08T12:47:00Z
@@ -149,6 +165,20 @@ related:
       - url: "https://images.assettype.com/swarajya%2F2019-04%2F63a3b75a-e9f3-4119-b25c-05acae467a14%2Fkempegowda_international_airport_245024_640.jpg?rect=0%2C42%2C602%2C316&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ACI World unveils ‘Voice of the Customer’ recognition"
+    excerpt: "The recognition rewards airports that have worked hard to better understand their customers during the COVID-19 pandemic."
+    publishedDateTime: 2021-02-09T10:37:00Z
+    webUrl: "https://www.internationalairportreview.com/news/152286/aci-world-voice-customer-recognition/"
+    type: article
+    provider:
+      name: internationalairportreview.com
+      domain: internationalairportreview.com
+    quality: 24
+    images:
+      - url: "https://www.internationalairportreview.com/wp-content/uploads/Customer-1.jpg"
+        width: 750
+        height: 450
         isCached: true
   - title: "Indy Airport Selected for Voice of Customer Honor"
     excerpt: "The Indianapolis International Airport (IND) is among a select group of airports worldwide to be recently recognized with a Voice of the Customer honor, citing the Indy airport’s continued commitment and diligence in actively listening and responding to travelers’ needs during the global pandemic."

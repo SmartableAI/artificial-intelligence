@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-20-twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition.md",
+      "title": "Twenty20 Solutions introduces edge AI face biometrics and object recognition",
+      "excerpt": "Twenty20 Solutions is now able to provide cutting-edge face biometrics and object recognition solutions powered by advanced machine learning methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
+      "originalUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
       "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
       "excerpt": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official Delhi: Man held for operating 46 fake firms, helping businesses evade tax Calling all fitness ...",
@@ -1380,49 +1423,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ftc-settles-facial-recognition-misuse-suit-with-everalbum.md",
-      "title": "FTC Settles Facial Recognition Misuse Suit With Everalbum",
-      "excerpt": "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field.",
-      "sourceUrl": null,
-      "webUrl": "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/",
-      "originalUrl": "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1165990649-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/",
-      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/",
-      "publishedDateTime": "2021-01-11T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law Street Media",
-        "domain": "lawstreetmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

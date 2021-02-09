@@ -3,10 +3,10 @@ category: news
 title: "IBM, Palantir forge partnership in low-code AI data processing space"
 excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
 publishedDateTime: 2021-02-08T13:53:00Z
-originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+originalUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+webUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
 type: article
 quality: 89
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - IBM AI
+  - AI
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
@@ -92,6 +92,6 @@ related:
         height: 627
         isCached: true
 
-secured: "AAWc/sJi8i6xPprujw/1ZI5OPRUmp6YswirLRtCrfHD46L1WFil4heSeNkshXjnGWMTjKseQBVsz3JlzkfFwT8kmPywuEEhXOlt7mnR2V2LmGHsHj+CsLfwoDaAQw9rz+/5Bkn9LwBVie5Ql+FOZsHUaoKF3jp4XLzogm4oQ9yMTwEciyermW9y9bC2zm/YYN+V7Zglkjp7KLH7eFgTw8sa8rOG6LYoRg1IYn9XWqetTPRqOnEkjIz4ERDrxMGWV3u0wsiiTk9UMTA7qK+weNFw1MUlrcHywva4dPPCqKDDjwdchFkWmX3PNlsRmYpROs8obBtx86GdWiauLCGfjs2y5QO7fF63mBdKWgXzM7SWl7j7nALSRAxt4RaWbuOXNzaoF5VoVwou55GvuxWrP5KZOhXrZzczvNBj/bhFFCBb4I/Dv0Bky8bq4Mvm5EqqFWGWk21DZ9XJRZWFUgekKwoV83Oe27z3w8BIX0dNH6svd12NqxvTcny7yRb/HGslq8nnBu+dJGbn86rHfIDt9iw==;bF0OCqsF6Z7bBv8qjoxnTw=="
+secured: "EjtMYy8da1KDxV08eUQ4qU8T6pPatU3KCHq+2tOpZ1Dma4qw5ZaPFlH89IfJbyq2cOvtbCkySpOd5yUey++p0Vm4D9V2RDako9j+CAc3wC00Eo0YRbwflySQRvvHKZrDGu/CpuVUuOfUzgyEaN0t1VDOZrGwvd+/qh1KJKLvFxm8jybIxQl6fbBHzuWfixRrtgF9oWe8+dQQ9N1cfefcHyvpUM2VoUZx3VsWZng/9oMFdsj17ckiODNJ4jTEbXd5SCx1lAaHL2cMIFBNklOg0ItqUjeKxjYxuv/lQObCIUplqqNXQO6G6qYQRUl2l49P9ahEXWLuETBONO0LnZLxi+oTRIH+FGqwXG3yAh3rMJY=;PCrbXGo7teKi0a/yy+VbFA=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-01-15-deep-learning-outperforms-standard-machine-learning-in-biomedical-research-applications.md",
+      "title": "Deep learning outperforms standard machine learning in biomedical research applications",
+      "excerpt": "ATLANTA--Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-can-an-ai-predict-the-language-of-viral-mutation.md",
+      "title": "Can an AI Predict the Language of Viral Mutation?",
+      "excerpt": "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
+      "originalUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
+      "publishedDateTime": "2021-01-14T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.md",
       "title": "Full Autonomous Self Driving Teslas in Vegas Boring Tunnels by the End of 2021",
       "excerpt": "The LVCVA board approved $6.25 million to Boring to operate the mile-long convention center system from Feb. 1 through June 30, 2022. At no cost, authorized access to Boring to dig tunnels connecting",
@@ -1070,101 +1165,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources.md",
-      "title": "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources",
-      "excerpt": "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA",
-      "originalUrl": "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210114&t=2&i=1547727620&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0D073",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29J0DA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29J0DA",
-      "publishedDateTime": "2021-01-14T00:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment.md",
-      "title": "CES 2021 Taiwanese startup FiduciaEdge Technologies develops Edge security solution for a secure edge computing environment",
-      "excerpt": "FiduciaEdge's software/firmware platform makes edge intelligence trustworthy, while protecting data privacy at the source. With FiduciaEdge's solutions, the vulnerable edge computing landscape can be transformed into a trusted/confidential environment with ease.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103",
-      "publishedDateTime": "2021-01-13T23:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

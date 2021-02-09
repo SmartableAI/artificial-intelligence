@@ -1,33 +1,27 @@
 ---
 category: news
 title: "IBM and Palantir debut no-code platform for OpenAI applications"
-excerpt: "IBM and Palantir have announced their jointly developed product, Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications."
-publishedDateTime: 2021-02-08T16:14:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications"
-webUrl: "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications"
-ampWebUrl: "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp"
+excerpt: "IBM and Palantir have announced a jointly developed product for AI applications called Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications."
+publishedDateTime: 2021-02-09T09:59:00Z
+originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/hybrid-cloud/8933/ibm-and-palantir-debut-no-code-platform-for-openai-applications"
+webUrl: "https://www.cloudpro.co.uk/cloud-essentials/hybrid-cloud/8933/ibm-and-palantir-debut-no-code-platform-for-openai-applications"
 type: article
-quality: 89
-heat: 189
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk//image/upload/v1612799848/itpro/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg"
-    width: 2252
-    height: 1600
+  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2018/12/ibmmulticloudmanager_shutterstock_1093687415.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -88,20 +82,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "SD Times news digest: JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
-    excerpt: "JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
-    publishedDateTime: 2021-02-08T15:56:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-jetbrains-2020-annual-report-microsofts-autofill-solution-for-passwords-ibm-and-palantir-team-up-on-cloud-and-ai/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 53
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/02/G58mtNnU.png"
-        width: 680
-        height: 425
-        isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid"
     excerpt: "Cloud Environments PR Newswire ARMONK, N.Y. and DEN"
     publishedDateTime: 2021-02-08T12:05:00Z
@@ -173,6 +153,6 @@ related:
         height: 284
         isCached: true
 
-secured: "lguIKcIocdMcNdv5t94zAlEXSdw3cBm0ny6EgsvQap7QZHRiLTHHK8UAAovT0Xe89NWkP6+U9vKpalxRd5MQFhHF0O/Fy9uG4vlZq5GlYcu/SMaYB9thOEbh1zcM4CrFt9vHRStDtSvwlfDWnZN2YEc7y4AdjJzjgRAdApuObm8XyO8iPF4p8JUjHPGaKLFn3hPqHvReo6b5iD7XBEPYiWlEEkhdoWb4fgdfzy8mdWfOQvAKq6Nn9+ocaaBMSTGsrwUSx2JaAM5G/ZXVlo3JY0gnxcTa482DEMy7xL4WETwzaekZCkkLeKc3gFJgGGQZ2mdkMF10hSN/hyHtVKxHWtA8Tve+j+0yeHOL4Y/6NtRK5IcLTo9sWqiRmI18kSE59c42jh9zgPnT3enVCmijp+Ut8cEnhprQlntpJ6kHMGebpdai31gti6fUOjR4Kbkn7mMBfmbmPZaCDJZzm9hj0gwuuwZaD26bltdpfvEChOb4B279AWC854Dxj+XJi0F7NlAtDmRHZeNQTGDwBTA0qQ==;3JTgrV1wIP7KeTbtpnVVew=="
+secured: "6ZmTHaq/yGzWG8e4sGCnXSDcV170rJmKgUaHPkz0pnFBXCfsLrNhk/9ceSHC0EQLpSa21rtPgUe0AjlKchk7TczWSByR5BceboZHJr2jBsKlCmem+FviqGcw0sihMHYlRe/EOQTHpM5tL9p8W6hlMRx7EMco5t5F3bhlszFTq5QlaLYSuPu/r41xU6pRFXDSBnGqJ3nTw1sx0+SNRPM99nFzrRjDywPDbqXLzPcNCfbE6FKXtKRSp21FHhMgV31SrQrRnPk0KrhaMEDolN+ntUhXu5Mz9UYOrh0r6gMvaLoBGlTE3vqkrlavwgBF91Qu99YAq/Yur1GHA9vzqVfuVQ+Ktj/Ou4GCSVGK86T6Akk=;cNSwQkfgLkkGZTBNsxhjaw=="
 ---
 

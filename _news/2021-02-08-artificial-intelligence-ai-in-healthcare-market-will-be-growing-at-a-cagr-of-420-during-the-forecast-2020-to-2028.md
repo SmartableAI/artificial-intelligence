@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2237949/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chip Market to Witness Huge Growth from 2020-2030 and Focusing on Top Key Players - Intel Corp, NVIDIA Corp"
+    excerpt: "Market Industry Reports (MIR) has published a new report titled “AI Chip Market- Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020–2030.” According to the report, the Global AI Chip Market accounted for over ~US$ 9."
+    publishedDateTime: 2021-02-09T09:49:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137575/ai-chip-market-to-witness-huge-growth-from-2020/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 14
   - title: "Artificial intelligence (AI) Market to Attain a Valuation of Highest CAGR 2022-2031| Google Inc. and IBM Corporation"
     excerpt: "Market.us, one of the worlds leading by prominent market research firms has released a new recent work on \"Artificial intelligence (AI) Market 2022-2031\" based on business intelli"
     publishedDateTime: 2021-02-08T08:24:00Z

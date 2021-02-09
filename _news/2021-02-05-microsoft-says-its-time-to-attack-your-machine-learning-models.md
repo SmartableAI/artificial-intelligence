@@ -130,20 +130,6 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
-    publishedDateTime: 2021-02-04T17:59:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Activ Surgical Joins Microsoft for Startups Program"
     excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"
     publishedDateTime: 2021-02-06T07:56:00Z

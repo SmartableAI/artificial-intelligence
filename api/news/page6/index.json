@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-04-new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition.md",
+      "title": "New Amazon CEO Andy Jassy Loves Fossil Fuels and Facial Recognition",
+      "excerpt": "Jassy, who will replace Bezos this year, has a deeply concerning track record on everything from antitrust to killer robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "originalUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/601ae267409f2e00958c730c/lede/1612374770921-gettyimages-670451714.jpeg?crop=1xw:0.843644544431946xh;center,center",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "publishedDateTime": "2021-02-03T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-microsoft-launches-custom-neural-voice-in-limited-access.md",
+      "title": "Microsoft launches Custom Neural Voice in limited access",
+      "excerpt": "Microsoft today launched Custom Neural Voice in limited preview, a service that allows customers to create custom voices using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/",
+      "originalUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 339,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/",
+      "publishedDateTime": "2021-02-03T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-are-you-talking-to-me-azure-ai-brings-iconic-characters-to-life-with-custom-neural-voice.md",
       "title": "Are you talking to me? Azure AI brings iconic characters to life with Custom Neural Voice",
       "excerpt": "The post Are you talking to me? Azure AI brings iconic characters to life with Custom Neural Voice appeared first on The AI Blog.\n",
@@ -1100,116 +1205,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-03-scania-tests-self-driving-trucks-in-motorway-traffic.md",
-      "title": "Scania tests self-driving trucks in motorway traffic",
-      "excerpt": "Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and Jönköping. The tests will occur in collaboration with TuSimple,",
+      "path": "_news/2021-02-03-observeai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai.md",
+      "title": "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI",
+      "excerpt": "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027",
+      "webUrl": "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1",
+      "originalUrl": "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027",
-      "publishedDateTime": "2021-02-03T00:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-vw-group-will-handle-self-driving-car-development-in-house-report-says.md",
-      "title": "VW Group will handle self-driving car development in-house, report says",
-      "excerpt": "Not only is developing self-driving car technology incredibly difficult, but it's also expensive. That has led many car companies to partner up with smaller, self-driving car-specific startups. Ford and Argo or Honda and Cruise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/vw-group-self-driving-development-in-house/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/vw-group-self-driving-development-in-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cnet3.cbsistatic.com/img/mHimEO5D4t57G21MdHwHA29Gl_U=/2019/08/30/b94c197b-f23c-4c0b-8248-a67c9d9108ef/ogi-vw.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/",
-      "publishedDateTime": "2021-02-02T17:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-sas-teams-with-microsoft-to-offer-viya-analytics-on-azure.md",
-      "title": "SAS Teams With Microsoft To Offer Viya Analytics On Azure",
-      "excerpt": "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure",
-      "originalUrl": "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg",
-          "width": 1500,
-          "height": 843,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1219,11 +1229,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T17:38:00-08:00",
+      "publishedDateTime": "2021-02-03T00:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

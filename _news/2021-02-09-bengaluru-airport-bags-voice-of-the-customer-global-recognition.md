@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html"
 type: article
 quality: 59
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2021/02/08/1029780-airport.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "GMR Delhi, Hyderabad airports receive ACI World’s ‘Voice of Customer Recognition’"
+    excerpt: "Lauded for efforts to listen to passengers, engage and gather feedback to understand their needs, and ensure customers’ voice was heard during the Covid-19 pandemic"
+    publishedDateTime: 2021-02-09T10:08:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
+    images:
+      - url: "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "KIA bags ‘Voice of the Customer’ global recognition"
     excerpt: "(BIAL) has secured global recognition for being the ‘Voice of the Customer’, in an initiative by the Airports Council International World, by assessing passengers’ requirements and implementing various measures during the COVID-19 pandemic."
@@ -142,6 +158,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ACI World unveils ‘Voice of the Customer’ recognition"
+    excerpt: "The recognition rewards airports that have worked hard to better understand their customers during the COVID-19 pandemic."
+    publishedDateTime: 2021-02-09T10:37:00Z
+    webUrl: "https://www.internationalairportreview.com/news/152286/aci-world-voice-customer-recognition/"
+    type: article
+    provider:
+      name: internationalairportreview.com
+      domain: internationalairportreview.com
+    quality: 24
+    images:
+      - url: "https://www.internationalairportreview.com/wp-content/uploads/Customer-1.jpg"
+        width: 750
+        height: 450
+        isCached: true
   - title: "ACI World launches 'Voice of the Customer' recognition for airports"
     excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."
     publishedDateTime: 2021-02-09T05:40:00Z
@@ -184,6 +214,6 @@ related:
       domain: aviationpros.com
     quality: 4
 
-secured: "cmW0DVGR5gsdbfvGPNyCdE0WXwKSxohDdbOkSrUSxW079E2xn7iwgiLh5KBqiYdpxrXRQN2Lc/t5PrjTEMDw+QPd43rpaEG1PgEYa9yGdBawSwUTPojjTVR7Au4vvD+OiCPzJoCyRtydmEkuWg4orU4eRMyZkECHcEjF7CssNmfwtZyRX9/CPtaSnVA/rClo7MrCYxDqux7Qvaiv1OO4K+AGiFek+R7ZCQmQrEQt4iFSsi4nzUBoYTtxWhVsmn9VzjeIUIv15QNPgR//1VCERRR63JKKI8SAVLuHPYCP2oR6n/MD6Saebfjf0uxAmlkIjvChQ/OWoKnDFhIHhPyV3SxgaIWEfBWGcgdFjB1JxX0=;2RCJ5cwqIXrAG26KsyocKg=="
+secured: "VG20kZJIS9PaiMkKPNcRdhzrTIwkcOHSRL8oA5pm6ffRJujuHpdRQn+ZKJxVS9wFFkwqr/GqsvmGWmw1olCGvDl/AOfmgPaKt9CrE7Tqpg9lmFFcx5sarAIavT3f1D62X8sA+pZKStkvPVAyv3sxRCWxFJXlw5YsQPX53bQSzAoZ4jQiz3nc2WOqOU5zpipEnIYtfnaSyUxFh2yrbqdpV+nsLuwqBMn0L17YCbjE19IY1xqRHwnyEwdX5cDuHNtdQVanEAQr80v/aq8r3MSH5v8l+rXX6VtLgNUq7MZDpuuFERRKmT2kWDIrHV6FRSSC66ISNR/hu/P7Xj6IEpGHoPPDvSCGhjMW04mav+CVYzufF8NX3AlidDRFafNRSIkntYnvqrR4W351gL5Ya+mjM0nwPO43YOq3yuBhPxJiSJxZ6n4P8f/IMZkX2jfdeDT5e1/CjA0PGQO54ZaZntyi1LR1O2s5DZx4Nt+w/ex5Yg3nbhr7GUiJoQC6mUQloC2ILkGic85QSQ142PAcAkjeRA==;rIHFYCpfkaSnKPkY1kUiEw=="
 ---
 

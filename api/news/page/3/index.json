@@ -492,7 +492,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -730,6 +730,57 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-clearview-ai-raises-disquiet-at-privacy-regulators.md",
+      "title": "Clearview AI Raises Disquiet at Privacy Regulators",
+      "excerpt": "In Europe, North America, the U.K. and Australia, the facial-recognition company is looking down investigations, lawsuits and reprimands, and adjusting accordingly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/clearview-ai-raises-disquiet-at-privacy-regulators-11612473878",
+      "originalUrl": "https://www.wsj.com/articles/clearview-ai-raises-disquiet-at-privacy-regulators-11612473878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-295201/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1188,57 +1239,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos.md",
-      "title": "Canada (politely) asks Clearview AI to stop scraping citizens’ photos",
-      "excerpt": "The country's regulators said Clearview violated Canada's privacy laws by scraping photos of citizens from the internet without permission.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-04T164520.518-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/",
-      "publishedDateTime": "2021-02-04T10:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

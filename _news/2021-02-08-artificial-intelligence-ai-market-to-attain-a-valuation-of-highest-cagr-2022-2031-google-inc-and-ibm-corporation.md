@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chip Market to Witness Huge Growth from 2020-2030 and Focusing on Top Key Players - Intel Corp, NVIDIA Corp"
+    excerpt: "Market Industry Reports (MIR) has published a new report titled “AI Chip Market- Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020–2030.” According to the report, the Global AI Chip Market accounted for over ~US$ 9."
+    publishedDateTime: 2021-02-09T09:49:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137575/ai-chip-market-to-witness-huge-growth-from-2020/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 14
 
 secured: "987qliR3mUIzOza7Tlxl1kHYK6j3UVx861vGRML8u378i+URM0+8CostmCDTypRb/BTPwM+91v/xYSWcBxXYYVgUFoWdjvb88N0WOXvj7ZoYWwQLDPfWRmvRKLx12B3g/qwcgClPA4Ob3+eJjkYvIfSIwDJIGSGIzqhtB+MN90fZ+2vZGJz3u06RO4Qb1AdqAnrcuOvv6dufIu5elAGafIYbYTI+PtrXfhsGI6aOm+xjecbJe1R+Pnvly5jpemzMOkT6UzOFyegztyb8HoyF/UWPf4d2rvTx66X32Or7cUnhcDPFWMDI8C4ctzFoPS32DKFE5upKsTJEeep2RIEUngUwdn7aRJz2+ME8ZeRTaXM=;EHC6MQjl7Wn/5YHFyyo8LQ=="
 ---

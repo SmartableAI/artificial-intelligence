@@ -59,6 +59,22 @@ related:
         width: 549
         height: 309
         isCached: true
+  - title: "GMR Delhi, Hyderabad airports receive ACI World’s ‘Voice of Customer Recognition’"
+    excerpt: "Lauded for efforts to listen to passengers, engage and gather feedback to understand their needs, and ensure customers’ voice was heard during the Covid-19 pandemic"
+    publishedDateTime: 2021-02-09T10:08:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
+    images:
+      - url: "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "KIA bags ‘Voice of the Customer’ global recognition"
     excerpt: "(BIAL) has secured global recognition for being the ‘Voice of the Customer’, in an initiative by the Airports Council International World, by assessing passengers’ requirements and implementing various measures during the COVID-19 pandemic."
     publishedDateTime: 2021-02-08T12:47:00Z
@@ -141,6 +157,20 @@ related:
       - url: "https://images.assettype.com/swarajya%2F2019-04%2F63a3b75a-e9f3-4119-b25c-05acae467a14%2Fkempegowda_international_airport_245024_640.jpg?rect=0%2C42%2C602%2C316&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ACI World unveils ‘Voice of the Customer’ recognition"
+    excerpt: "The recognition rewards airports that have worked hard to better understand their customers during the COVID-19 pandemic."
+    publishedDateTime: 2021-02-09T10:37:00Z
+    webUrl: "https://www.internationalairportreview.com/news/152286/aci-world-voice-customer-recognition/"
+    type: article
+    provider:
+      name: internationalairportreview.com
+      domain: internationalairportreview.com
+    quality: 24
+    images:
+      - url: "https://www.internationalairportreview.com/wp-content/uploads/Customer-1.jpg"
+        width: 750
+        height: 450
         isCached: true
   - title: "ACI World launches 'Voice of the Customer' recognition for airports"
     excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."

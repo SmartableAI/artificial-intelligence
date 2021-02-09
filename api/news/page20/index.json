@@ -2,6 +2,109 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-25-jetplays-ludo-ai-platform-accelerates-game-concept-creation.md",
+      "title": "JetPlay’s Ludo AI platform accelerates game concept creation",
+      "excerpt": "JetPlay has launched Ludo AI, a game creativity platform that leverages artificial intelligence to accelerate the creative process.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/",
+      "originalUrl": "https://venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ludo-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/amp/",
+      "publishedDateTime": "2021-01-25T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security.md",
+      "title": "How To Leverage AI, Visualization And IoT To Simplify And Improve Security",
+      "excerpt": "With the right strategies and technologies, you don't have to contend with the added burdens of cybersecurity complexity and disconnected point systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b425db7d369a10dfa14df%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/amp/",
+      "publishedDateTime": "2021-01-25T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-tesla-partners-with-samsung-on-new-5nm-chip-for-full-self-driving-report-says.md",
       "title": "Tesla partners with Samsung on new 5nm chip for full self-driving, report says",
       "excerpt": "Tesla has reportedly partnered with Samsung on a new 5nm chip for full self-driving, according to a new report coming from Korea. Tesla moves to design its own chips Back in 2016, Tesla started building a team of chip architects led by legendary chip designer Jim Keller to develop its own silicon.",
@@ -1069,102 +1172,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-talking-to-the-dead-microsofts-ai-chatbot-idea-feels-straight-out-of-black-mirror.md",
-      "title": "Talking to the dead? Microsoft's AI chatbot idea feels straight out of Black Mirror",
-      "excerpt": "The Rise of Skywalker probably didn’t have this in mind when its opening scroll proclaimed “The dead speak!” In a move that feels more Black Mirror than Star Wars, Microsoft is reportedly working on a",
-      "sourceUrl": null,
-      "webUrl": "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people",
-      "originalUrl": "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/apple-macbook-laptop-via-getty-images.jpg?offset-x=0",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp",
-      "publishedDateTime": "2021-01-23T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-the-most-important-voice-in-artificial-intelligence-frontline-workers.md",
-      "title": "The Most Important Voice In Artificial Intelligence: Frontline Workers",
-      "excerpt": "Success with AI is going to be a bumpy and uneven road, and is going to need more human knowledge and input than we can ever imagine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/01/23/the-most-important-voice-in-artificial-intelligence-frontline-workers/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/01/23/the-most-important-voice-in-artificial-intelligence-frontline-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c584297d2fc0b51fa5541%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/01/23/the-most-important-voice-in-artificial-intelligence-frontline-workers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/01/23/the-most-important-voice-in-artificial-intelligence-frontline-workers/amp/",
-      "publishedDateTime": "2021-01-23T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

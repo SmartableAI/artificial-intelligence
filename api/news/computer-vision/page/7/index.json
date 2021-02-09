@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-10-ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision.md",
+      "title": "AI is not yet perfect, but it's on the rise and getting better with computer vision",
+      "excerpt": "It can beat anyone at chess but can't recognize fountains. One professor talks about the promise of AI and computer vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/09/2004f139-bec3-45b0-97ef-38c3f2934cac/thumbnail/1200x675/5c415c0f75141a1795cb279d61b3d614/20201203-aiindiana-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
+      "publishedDateTime": "2020-12-09T12:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-computer-vision-software-market.md",
       "title": "Computer Vision Software Market",
       "excerpt": "The Global Computer Vision Software Market analysis report published on ReportsnReports.com is a detailed study of market size, share, and dynamics covered in XX pages and is an illustrative ...",
@@ -1342,58 +1395,6 @@
         "name": "India Times",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-facial-recognition-is-getting-better-at-making-matches-around-face-masks.md",
-      "title": "Facial recognition is getting better at making matches around face masks",
-      "excerpt": "Scientists agree that face masks are here to stay, and research finds that facial recognition technology is starting to catch up. Since the start of the pandemic, facial recognition providers have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
-      "originalUrl": "https://www.cnet.com/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/xx0OCJhFZ3mvk7oybRnu3nm8vEY=/1200x630/2020/03/19/4efc54e4-464f-4791-a361-055412759011/coronavirus-masks-n95-health-4948.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
-      "publishedDateTime": "2020-12-01T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

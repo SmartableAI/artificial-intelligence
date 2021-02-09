@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y"
 type: article
 quality: 67
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market, Analyst To Witness A 10% CAGR By 2023 | Size, Share, Trend and Global Forecast"
+    excerpt: "Automotive Artificial Intelligence Market-Overview: The automotive technology and services reports are produced by"
+    publishedDateTime: 2021-02-09T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analyst-to-witness-a-10-cagr-by-2023-size-share-trend-and-global-forecast-2021-02-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

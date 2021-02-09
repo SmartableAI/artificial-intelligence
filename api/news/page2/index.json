@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-08-use-predictive-data-insights-to-make-more-informed-decisions-with-palantir-for-ibm-cloud-pak-for-data.md",
+      "title": "Use predictive data insights to make more informed decisions with Palantir for IBM Cloud Pak for Data",
+      "excerpt": "Every year, the average enterprise makes thousands of critical operational decisions. With rapid digitization, this decision-making is becoming more siloed, distributed and complex. This can have staggering cost implications on the business. Are you confident that you are leveraging all your data to",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/palantir-for-ibm-cloud-pak-for-data/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/palantir-for-ibm-cloud-pak-for-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/Palantir-for-IBM-Cloud-Pak-for-Data-990x498.png",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T04:00:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california.md",
       "title": "Vietnam's Vinfast gets permit to test self-driving vehicles in California",
       "excerpt": "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California.",
@@ -62,7 +113,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -1133,57 +1184,6 @@
         "name": "Business Line",
         "domain": "thehindubusinessline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-the-best-super-bowl-commercial-this-ai-software-can-tell-you.md",
-      "title": "The best Super Bowl commercial? This AI software can tell you",
-      "excerpt": "Tonya Hall talks to RJ Talyor, CEO of Pattern89, a company that leverages AI to predict advertising performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai-software-can-tell-you/",
-      "originalUrl": "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai-software-can-tell-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2021/02/05/83b2392f-1564-4e37-a4bc-d09fc1861641/thumbnail/770x578/08557f70d13bd0a9a622f986df9ccbcf/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

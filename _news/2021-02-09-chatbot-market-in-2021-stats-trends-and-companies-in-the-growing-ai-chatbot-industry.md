@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market, Analyst To Witness A 10% CAGR By 2023 | Size, Share, Trend and Global Forecast"
+    excerpt: "Automotive Artificial Intelligence Market-Overview: The automotive technology and services reports are produced by"
+    publishedDateTime: 2021-02-09T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analyst-to-witness-a-10-cagr-by-2023-size-share-trend-and-global-forecast-2021-02-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Commercial Robotics Market Size, Share, Growth, Trends Analysis & Industry Forecast Report, 2020-2027"
     excerpt: "The GMI Research expects the commercial robotics market to expand at a significant rate. From a regional perspective, the Asia-Pacific is expected to increase at a higher CAGR due to the strong demand"
     publishedDateTime: 2021-02-08T20:37:00Z

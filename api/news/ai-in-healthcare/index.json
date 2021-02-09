@@ -115,7 +115,7 @@
       "originalUrl": "https://www.openpr.com/news/2237949/artificial-intelligence-ai-in-healthcare-market-will-be",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -254,7 +254,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -550,6 +550,49 @@
         "AI in Marketing",
         "AI in Healthcare",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence.md",
+      "title": "Sony's Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
+      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19628160.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19628160.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1392,58 +1435,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-new-algorithms-could-reduce-racial-disparities-in-health-care.md",
-      "title": "New Algorithms Could Reduce Racial Disparities in Health Care",
-      "excerpt": "Machine learning programs trained with patient reports, rather than doctors', find problems that doctors miss—especially in Black people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/",
-      "originalUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/600b52ec4c976bdf61ac2b78/master/pass/Business-AI-Doctor-Bias-151032869.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/amp",
-      "publishedDateTime": "2021-01-25T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,112 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-02-rescale-raises-50-million-in-series-c-funding.md",
+      "title": "Rescale Raises $50 Million in Series C Funding",
+      "excerpt": "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft's M12, Nautilus Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-artificial-intelligence-in-marketing-market-next-big-thing-major-giants-alphabet-baidu-oculus360.md",
+      "title": "Artificial Intelligence in Marketing Market Next Big Thing | Major Giants- Alphabet, Baidu, Oculus360",
+      "excerpt": "HTF MI presents an in-depth overview of the Global Artificial Intelligence in Marketing Market Study, detailing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-happyfox-applies-conversational-ai-to-support-requests-made-via-slack.md",
       "title": "HappyFox applies conversational AI to support requests made via Slack",
       "excerpt": "HappyFox today announced it is using conversational AI to automatically resolve requests made to help or service desk platforms it supports via a Slack communications channel. Assist AI from HappyFox analyzes each request made via Slack to determine if a way to solve that issue already exists within an IT organization’s knowledge base.",
@@ -580,20 +686,20 @@
     },
     {
       "path": "_news/2021-02-02-sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence.md",
-      "title": "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
-      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence.",
+      "title": "Sony's Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
+      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
+      "webUrl": "https://www.lelezard.com/en/news-19628160.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19628160.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -603,11 +709,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T17:18:00-08:00",
+      "publishedDateTime": "2021-02-01T17:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -617,7 +723,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1077,110 +1183,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-ios-145-apple-just-revealed-brilliant-new-face-id-feature.md",
-      "title": "iOS 14.5: Apple Just Revealed Brilliant New Face ID Feature",
-      "excerpt": "The next version of iOS is coming soon, and today’s developer beta release lets slip a timely and important security feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/",
-      "originalUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6018415e9f9059ef357afd41%2F0x0.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/",
-      "publishedDateTime": "2021-02-01T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-the-two-companies-have-announced-a-significant-6-year-partnership.md",
-      "title": "The two companies have announced a significant 6-year partnership",
-      "excerpt": "Google and Ford have inked a six-year partnership that will see the automaker using the tech giant’s expertise and products to bolster their cars and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88477-ford-google-sign-significant-6-year-partnership.html",
-      "originalUrl": "https://www.techspot.com/news/88477-ford-google-sign-significant-6-year-partnership.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-01-image-9.jpg",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88477-ford-google-sign-significant-6-year-partnership.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88477-ford-google-sign-significant-6-year-partnership.html",
-      "publishedDateTime": "2021-02-01T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

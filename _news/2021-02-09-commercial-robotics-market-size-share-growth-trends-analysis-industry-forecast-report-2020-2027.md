@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market, Analyst To Witness A 10% CAGR By 2023 | Size, Share, Trend and Global Forecast"
+    excerpt: "Automotive Artificial Intelligence Market-Overview: The automotive technology and services reports are produced by"
+    publishedDateTime: 2021-02-09T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analyst-to-witness-a-10-cagr-by-2023-size-share-trend-and-global-forecast-2021-02-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
     excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
     publishedDateTime: 2021-02-05T10:37:00Z

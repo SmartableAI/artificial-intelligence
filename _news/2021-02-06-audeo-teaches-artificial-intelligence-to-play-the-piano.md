@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "‘Audeo’ teaches artificial intelligence to play piano"
-    excerpt: "A University of Washington team created Audeo, a system that can generate music using only visual cues of someone playing the"
-    publishedDateTime: 2021-02-04T18:12:00Z
-    webUrl: "https://www.miragenews.com/audeo-teaches-artificial-intelligence-to-play-510057/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: "https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2021/02/03123234/patrick-tomasso-OA1Gc9zOJq8-unsplash-750x500.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "'Audeo' teaches artificial intelligence to play the piano"
     excerpt: "A University of Washington team created Audeo, a system that can generate music using only visual cues of someone playing the piano."
     publishedDateTime: 2021-02-04T21:25:00Z

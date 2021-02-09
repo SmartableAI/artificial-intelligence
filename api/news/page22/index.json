@@ -2,6 +2,101 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-01-22-5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east.md",
+      "title": "5G, fintech and mega projects: what 2021 will mean for tech in the Middle East",
+      "excerpt": "G, fintech and mega projects: what 2021 will mean for tech in the Middle East The MENA region is in the midst of a digital",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "originalUrl": "https://www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/5G-fintech-and-mega-projects-what-2021-will-mean-for.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/amp/",
+      "publishedDateTime": "2021-01-22T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-what-nonprofits-stand-to-gain-from-artificial-intelligence.md",
+      "title": "What Nonprofits Stand To Gain From Artificial Intelligence",
+      "excerpt": "Nonprofits have the opportunity to develop AI powerful algorithms to raise more funds, improve the efficiency of their resources and learn more about their members' needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37866b8beb90007c3a79a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-01-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-the-leader-of-the-alphabet-workers-union-looks-beyond-wages.md",
       "title": "The Leader of the Alphabet Workers Union Looks Beyond Wages",
       "excerpt": "How are you able to make Alphabet executives do anything they don ... Yeah, dozens have been messaging our union, and we’re having really great conversations with workers at other tech companies. I think that having a concrete example of an organization ...",
@@ -1075,111 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-artificial-intelligence-researchers-rank-the-top-ai-labs-worldwide.md",
-      "title": "Artificial intelligence researchers rank the top A.I. labs worldwide",
-      "excerpt": "Artificial intelligence researchers don’t like it when you ask them to name the top AI labs in the world, possibly because it’s so hard to answer. There are some obvious contenders. U.S. Big Tech — Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "publishedDateTime": "2021-01-21T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-south-african-startup-aerobotics-raises-17m-to-scale-its-ai-for-agriculture-platform.md",
-      "title": "South African startup Aerobotics raises $17M to scale its AI-for-agriculture platform",
-      "excerpt": "As the global agricultural industry stretches to meet expected population growth and food demand, and food security becomes more of a pressing issue with global warming, a startup out of South Africa is using artificial intelligence to help farmers manage their farms,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/",
-      "originalUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Image-5-1024x683-1.png?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/amp/",
-      "publishedDateTime": "2021-01-21T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

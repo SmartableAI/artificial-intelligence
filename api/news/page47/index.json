@@ -2,6 +2,102 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-01-06-self-driving-cars-and-asimovs-three-laws-about-robots.md",
+      "title": "Self-Driving Cars And Asimov’s Three Laws About Robots",
+      "excerpt": "Asimov's famous Three Laws of robotics are considered in the use case of self-driving cars, and found to be aspirational but not ironclad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbda74b146f4f451dec796%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4743%26cropY1%3D0%26cropY2%3D3751",
+          "width": 1200,
+          "height": 949,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
+      "publishedDateTime": "2021-01-05T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-denver-start-up-uses-artificial-intelligence-for-at-home-workouts.md",
+      "title": "Denver start-up uses artificial intelligence for at-home workouts",
+      "excerpt": "By using artificial intelligence — without any human in ... Eventually, they hope to use the technology for physical therapy and sports training, among other applications. To learn more about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts",
+      "originalUrl": "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f22f802/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F33%2F74%2F9e7b522242f28df9e9355a769681%2Fposter-fa7bd816d68347ad8a2a07017ec59b54.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-machine-learning-improves-particle-accelerator-diagnostics.md",
       "title": "Machine learning improves particle accelerator diagnostics",
       "excerpt": "Operators of the primary particle accelerator at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility are getting a new tool to help them quickly address issues that can prevent it from running smoothly.",
@@ -1118,100 +1214,6 @@
         "AI in Healthcare",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-mlops-the-missing-piece-in-the-enterprise-ai-puzzle.md",
-      "title": "MLOps - The Missing Piece In The Enterprise AI Puzzle",
-      "excerpt": "MLOps brings the best of iterative development involved in training machine learning models and scalable and manageable model deployment. It is currently the missing piece of the puzzle in the enterprise AI strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff412ef2693833243b358ad%2F0x0.jpg",
-          "width": 1051,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/amp/",
-      "publishedDateTime": "2021-01-04T23:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price.md",
-      "title": "How Machine Learning, Artificial Intelligence Anticipate Cryptocurrency Price?",
-      "excerpt": "The popularity of cryptocurrencies skyrocketed in 2017 due to a few continuous months of an exponential development of their showcase capitalization. The",
-      "sourceUrl": null,
-      "webUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/",
-      "originalUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://leadership.ng/wp-content/uploads/2021/01/images-2021-01-05T062604.468.jpeg",
-          "width": 739,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/amp/",
-      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/amp/",
-      "publishedDateTime": "2021-01-04T21:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LEADERSHIP Newspaper",
-        "domain": "leadership.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
