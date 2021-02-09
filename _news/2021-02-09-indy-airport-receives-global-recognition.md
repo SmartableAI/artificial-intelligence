@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Indy Airport Receives Global Recognition"
-excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International. The recognition is given to airports f"
-publishedDateTime: 2021-02-08T18:31:00Z
-originalUrl: "https://www.insideindianabusiness.com/story/43309128/indy-airport-receives-global-recognition"
-webUrl: "https://www.insideindianabusiness.com/story/43309128/indy-airport-receives-global-recognition"
+title: "Indy airport receives global recognition"
+excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International."
+publishedDateTime: 2021-02-08T17:12:00Z
+originalUrl: "https://www.wishtv.com/news/inside-indiana-business/indy-airport-receives-global-recognition/"
+webUrl: "https://www.wishtv.com/news/inside-indiana-business/indy-airport-receives-global-recognition/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: INside INdiana Business
-  domain: insideindianabusiness.com
+  name: WISHTV8
+  domain: wishtv.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://INSIDEINDIANA.images.worldnow.com/images/19069708_G.jpg?lastEditedDate=1577978543000"
+  - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2020/01/Indianapolis-Airport.jpg?fit=960%2C540&#038;ssl=1"
     width: 960
     height: 540
     isCached: true
@@ -100,6 +100,22 @@ related:
       - url: "https://prospect.org/downloads/15748/download/Leon-Amazon%20020621.jpg?cb=8c170d0cc2918b783a48c4c8b595519f"
         width: 980
         height: 519
+        isCached: true
+  - title: "Blinken stops short of endorsing Trump recognition of Golan Heights"
+    excerpt: "When asked whether he regards Jerusalem as Israel's capital, Blinken replied \"I do, yes. And, more importantly, we do.\""
+    publishedDateTime: 2021-02-09T00:28:00Z
+    webUrl: "https://www.jpost.com/middle-east/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-658295"
+    ampWebUrl: "https://m.jpost.com/middle-east/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-658295/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/middle-east/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-658295/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 44
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/470135"
+        width: 640
+        height: 428
         isCached: true
   - title: "Here’s a way to learn if facial recognition systems used your photos"
     excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research -- including a data set created by UW professors -- fed on personal images."
@@ -203,6 +219,6 @@ related:
       domain: amherstbulletin.com
     quality: 4
 
-secured: "vsHdiQRBGgnMgPCvZod7gxjB2lY6gFcgAqMqgieALhGKDYrUnFtOJzCQ+jG5uIoHksOhRrHjE2v9+69WB+G82exsLlwSHq0OoqubaE1AqnG+2AKIufaQuNPdOYhb4oqRrY2GvNA06E9eBRQm7DHs+K6i1Jxsy7HVpQX/ZIXYvBKjnnaCTpzVT6WryyMEmb4zeQw9RjA/1+wPyT0E85PmaVzLQ3dHcjWqLFJusnapvWHk5UxGCNfAcMXgpYacETkr8f4zSHv1dPfbIbMTbIIV+r6huod70jo/Xphj/oIA2XSAms5jf1DHIJfTklxRVrNZIIReuymUINK89AVdpOvDAvD64x88B+PZ/qC9vmAABQLKp6qDOXYY9n2ffhY3xuPc9io3N2ljYVRa6Y5RutXlSVEl1KDNywZV0nuz8wuL/HuPEp5k6RQSzV09H+PbISeMZ5hn6eR7iA9UV/LjBn6BugoYDNXxtfasE4G2H9T5kHD172W1rgiiehGiaIr7TiTm60MsHiKMYHvUBniEJGA8Aw==;Tdba3mlVH2/DV2JX75ijIA=="
+secured: "c1LzNB/xmfvL/CxRct2jesb1V1UA292cKOqg9oZ3me4qPwqcUhCy6n1fWoAlHACbkUxOPmhsQ4CBdMBNPdAvsQfI6W1ywceDH3XEbI2U3utKpOVpYU/Tg3z6eELM6Is8yd5Wnp86gHFFyIe2VHAi/6WcJ37q2ArrKlxujPYVy5laq+w2+zh7hhxzYxijofi04iOMdftYT+qnTIvamljajltr57xlfa2Lyqi4uZU+XDma0Z0cDK2iMFXasNjHcW1O93Q/Esx15yS4kVtD5YVcw43kZiPuOW7NxvASHaEvIYJzHRYwSWRCCsaYf/gQmgET795WngZj27yu/DZc1JPl53JAkX+mrnGEYG4k8MFM8nY=;bt5BqMVwXZd/tJCTE5ZbMA=="
 ---
 

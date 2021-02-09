@@ -175,15 +175,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "Apple and Hyundai-Kia nearing deal to build self-driving car in US - report"
-    excerpt: "Apple is close to finalising an agreement with Hyundai-Kia to build an Apple-branded autonomous electric vehicle in West Point, Georgia, according to unnamed sources cited by CNBC. The deal reportedly depends on the automaker allowing Apple to control the software and hardware that will go into the vehicle."
-    publishedDateTime: 2021-02-04T08:43:00Z
-    webUrl: "https://www.telecompaper.com/news/apple-and-hyundai-kia-nearing-deal-to-build-self-driving-car-in-us-report--1371205"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "gh1dDloAteekcY4rXghTUot3QSgofzqL2aUTRyS3emZKDTlnGQyRV9ik80fjSE+fc8EwPdZhdFb1xZznlwlHzsU6NL7dJYYmE2ivVHKL7lkckFrxqgkg89VyOBlv2LL1XnE1vGd2ydwKSvu+Uuli86iuCvEOxZv5B9yOwT2Lv5XR/vSmDa7bDuTW63RnqSOBiXzEQrAcNPaddFZDst9zPx/iOg8uJ2OHklxmz6MvBkxN5T3cjC3kzbqbgyFJxS04w19XenbHvxpOBRX9dkILH78b0MvRLHZj2dLEwGBLpX9kllgMrm9HK+70Tl54xJgayJOWu/gNKadMRaiddHZu3pqSiEKW174pyaXD3vmPG8w=;O0WYuLU0mKSVmC2Hlfg4ng=="
 ---

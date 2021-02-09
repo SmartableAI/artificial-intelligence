@@ -1,0 +1,63 @@
+---
+category: news
+title: "Who is Andy Jassy, the next Amazon CEO?"
+excerpt: "Jeff Bezos announced in a letter to his employees that he would step down as CEO of Amazon later that year. He left his place to Andy Jassy, ​​the current head of Amazon Web Services. If the future boss of Amazon is at first sight less well known than Bezos,"
+publishedDateTime: 2021-02-08T23:53:00Z
+originalUrl: "https://galusaustralis.com/2021/02/1048586/who-is-andy-jassy-​​the-next-amazon-ceo/"
+webUrl: "https://galusaustralis.com/2021/02/1048586/who-is-andy-jassy-​​the-next-amazon-ceo/"
+ampWebUrl: "https://galusaustralis.com/2021/02/1048586/who-is-andy-jassy-%e2%80%8b%e2%80%8bthe-next-amazon-ceo/amp/"
+cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1048586/who-is-andy-jassy-%e2%80%8b%e2%80%8bthe-next-amazon-ceo/amp/"
+type: article
+quality: 44
+heat: -1
+published: false
+
+provider:
+  name: galusaustralis.com
+  domain: galusaustralis.com
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://galusaustralis.com/wp-content/uploads/2021/02/5db235cbdee019394653efd4-1024x538.jpeg"
+    width: 1024
+    height: 538
+    isCached: true
+
+related:
+  - title: "AI Weekly: What Andy Jassy’s ascension to CEO means for Amazon’s AI initiatives"
+    excerpt: "VentureBeat examines how Andy Jassy's ascention to Amazon CEO could impact the company's AI initiatives and sales of facial recognition tech."
+    publishedDateTime: 2021-02-05T19:31:00Z
+    webUrl: "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 797
+        isCached: true
+  - title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
+    excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
+    publishedDateTime: 2021-02-04T12:20:00Z
+    webUrl: "https://www.cbsnews.com/news/andy-jassy-amazon-ceo-executive/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/andy-jassy-amazon-ceo-executive/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/andy-jassy-amazon-ceo-executive/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 42
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/03/8d479944-d332-4de1-9d61-25c44ed488b0/thumbnail/1200x630g6/3de4be33411da8961307fb8858d5a45e/gettyimages-1129882595.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "jXxFvc7kEYc0xFi5VQ5lag8WZP6OSJXQgKwDhBCeZiKPkTCYmr0WgHvVQ/gtVq1cR86V2W8izo9YdFjuzMtAwpGEpWlSxd96UmdZ4oCXZ65EB1nku+slpLW4KpPCQT+IXWtrz/X3BRU9Hy70yLrH+FZhs9eyu4hYhHMxn4Uz8g4ek3V8DtbPLTtgOB+UW1Hpfp/whph/1pH76Kz3N9KcPHpPK/td7LP2FYP6LGoem1klHYgQ9FpIv2I1cHXQWuCza4G2FcTjY6tEHKNhhnRWk/yv+5sKT8qIl+4Zg3QXPXH8RWrEUZVcxlNJCw9YR+02I6PD8eEdevdPzX/KQ15fzd/dOfDvwpZ2/M2harntQOE=;NKI5GbrpLYjTpIFMJjzatQ=="
+---
+

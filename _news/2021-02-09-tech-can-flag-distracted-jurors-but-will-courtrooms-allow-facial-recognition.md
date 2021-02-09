@@ -101,6 +101,22 @@ related:
         width: 980
         height: 519
         isCached: true
+  - title: "Blinken stops short of endorsing Trump recognition of Golan Heights"
+    excerpt: "When asked whether he regards Jerusalem as Israel's capital, Blinken replied \"I do, yes. And, more importantly, we do.\""
+    publishedDateTime: 2021-02-09T00:28:00Z
+    webUrl: "https://www.jpost.com/middle-east/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-658295"
+    ampWebUrl: "https://m.jpost.com/middle-east/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-658295/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/middle-east/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-658295/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 44
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/470135"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Here’s a way to learn if facial recognition systems used your photos"
     excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research -- including a data set created by UW professors -- fed on personal images."
     publishedDateTime: 2021-02-07T14:01:00Z
@@ -179,17 +195,17 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Indy Airport Receives Global Recognition"
-    excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International. The recognition is given to airports f"
-    publishedDateTime: 2021-02-08T18:31:00Z
-    webUrl: "https://www.insideindianabusiness.com/story/43309128/indy-airport-receives-global-recognition"
+  - title: "Indy airport receives global recognition"
+    excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International."
+    publishedDateTime: 2021-02-08T17:12:00Z
+    webUrl: "https://www.wishtv.com/news/inside-indiana-business/indy-airport-receives-global-recognition/"
     type: article
     provider:
-      name: INside INdiana Business
-      domain: insideindianabusiness.com
+      name: WISHTV8
+      domain: wishtv.com
     quality: 39
     images:
-      - url: "https://INSIDEINDIANA.images.worldnow.com/images/19069708_G.jpg?lastEditedDate=1577978543000"
+      - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2020/01/Indianapolis-Airport.jpg?fit=960%2C540&#038;ssl=1"
         width: 960
         height: 540
         isCached: true

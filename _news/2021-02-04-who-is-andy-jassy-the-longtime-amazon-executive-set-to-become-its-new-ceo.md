@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Who is Andy Jassy, the next Amazon CEO?"
+    excerpt: "Jeff Bezos announced in a letter to his employees that he would step down as CEO of Amazon later that year. He left his place to Andy Jassy, ​​the current head of Amazon Web Services. If the future boss of Amazon is at first sight less well known than Bezos,"
+    publishedDateTime: 2021-02-08T23:53:00Z
+    webUrl: "https://galusaustralis.com/2021/02/1048586/who-is-andy-jassy-​​the-next-amazon-ceo/"
+    ampWebUrl: "https://galusaustralis.com/2021/02/1048586/who-is-andy-jassy-%e2%80%8b%e2%80%8bthe-next-amazon-ceo/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1048586/who-is-andy-jassy-%e2%80%8b%e2%80%8bthe-next-amazon-ceo/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 44
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2021/02/5db235cbdee019394653efd4-1024x538.jpeg"
+        width: 1024
+        height: 538
+        isCached: true
 
 secured: "hZKBbxShmguTEB4IjbQhPh/so7hTlWx8sCMvus/OREsCaVJwYPWswrr5EhYHONRaI4rWwqaFO87MbQ5Y5nPJZqmo1LL4XiCC/ogsA/I/Bib6mPYKmD/s8lfTKARiARLgmIF6vmYHm/rBIVQTOhHVwec7spyQ2yeJjNynPwDLeK57uDefIRp+zlWSi9/j2OKjIFyNxyku+/TaopG/1cuG16GeXBhtqD+OQEQzS0vFNuvzGiHb5ZYS+EsGc9dovsxJqpfm7ZKc8ySy7wfqAsfFINFSvQIlpPQxdi8FokymntnbOXyc/kGjtalD1T7KGQ6PcAZUCYMA2CnTx2XbqeaBvBae0XsgsgVMC+wsneX4/9PBw8NqMqgmr/gBEZDPrUHAqUfb7JDuuONJOhVCd8g7BT1y/4+sionCgtHOnbiuODB+j+xggz3zwt8wUTbs7mQIua6QI7RaaIzAgIuD7EGDSyw+hO/z5iqwYM6lQB9aEqedIBJfxGFf/2Zka5cqsY/YFiYUB29Oq5yMqiOysEPBFA==;Kzg4Uq8LOepopkS2x5Xb3Q=="
 ---

@@ -3,91 +3,26 @@ category: news
 title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
 excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
 publishedDateTime: 2021-02-04T05:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19481702/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-e"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/n19481702/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-e"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19481702"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19481702"
 type: article
-quality: 36
-heat: -1
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
-related:
-  - title: "IBM rolls out an all-new Elite Hybrid Cloud Build team for AI partners"
-    excerpt: "IBM today announced the formation of its Elite Hybrid Cloud Build Team. According to Big Blue, this group of AI and cloud computing experts was assembled to help bring its partners into the cutting edge of hybrid solution systems."
-    publishedDateTime: 2021-02-04T20:15:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/ibm-796x448.jpg"
-        width: 796
-        height: 448
-        isCached: true
-  - title: "IBM, Palantir forge partnership in low-code AI data processing space"
-    excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
-    publishedDateTime: 2021-02-08T13:53:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
-        width: 1170
-        height: 792
-        isCached: true
-  - title: "Palantir Soars on Artificial Intelligence Partnership With IBM"
-    excerpt: "IBM was up nearly 1% to $122.95. The product is intended to make it easier for businesses to build and deploy AI-infused applications with IBM Watson. It also aims to help users access, analyze, and take action on the large amounts of data in hybrid cloud environments without the need for deep technical skills,"
-    publishedDateTime: 2021-02-08T18:41:00Z
-    webUrl: "https://www.thestreet.com/investing/palantir-pltr-ibm-artificial-intelligence-partnership"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/palantir-pltr-ibm-artificial-intelligence-partnership"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/palantir-pltr-ibm-artificial-intelligence-partnership"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 61
-    images:
-      - url: "https://content.jwplatform.com/thumbs/iyF3evbu-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "IBM Hybrid Cloud Build Team: Helping modernize and migrate workloads of partner ecosystem"
-    excerpt: "IBM unveiled its highly-specialized Hybrid Cloud Build Team to support the migration and modernization of ecosystem partner products."
-    publishedDateTime: 2021-02-05T03:06:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/05/ibm-hybrid-cloud-build-team/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 15
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
 
-secured: "t309fdlDI29gMFwUhaZssrPWVe48jgCqQyhPW/D7YAMz4X/uGDGRtK/pgfvlKaviwet1MjaFNexlDmiWtdpEfIQaZIAfmM29oCPWTTaEw4LZGTg4LYzPOt58RxqkL5RK4iTQ+2CxlwXJ3dsLByAEvBtRM2IoceDjZDT8IH3kSAO8wfyZSr/e21zlx1OjcXzeca/IvjtdX9szBOhqGK30uUwzN9/zJ6r70YwzyFA2ZXMpESqVow08trL6mL5LNciPB4+HlV2/68BDviWoa5YU3P4KAOwjGIvgFDr/4uvPelwQHEmiJEMhVszaEFbwcOZxCywt2RUWOBmz3K9Yiq90Mm13RHgH9IlIVbZPdq3lUaM=;ZwkdAwROujFNIpldv/i4sQ=="
+secured: "NoJyi50jNk5aFtulaobFTcqR00f70ePGWW96uWFAG0MGQAdv8ax5KoR1SaluGaygSOB1xuND92uoge+IyQNztTkhZpBYJx6QUaGymE9EHRL5pSaL/+vr2dG/He4YlTjoyG110N5Z9MlXD8YrJH7SyCxUvYpdc1XhvxwOTM7oZhjdz5mN/S8j8QIN8jkpYwQyM3tSXhdeN9QlJQO3chteQNgkq4vY9A8NjO2/PeUmAbM1MNziSsL50vxDFaGlzLMTnBiVopmc3QnYd00/nuuwmmapqcbnRw0RWj/gXz8psc0KWfAqUbKWhnfys3ziIENa98ZtFhxzg/2uYLTPEV3Ho6fj3NbUJJL81dWSgVxTjxg=;ApXtTCO/tOMTTRMfsNTPtg=="
 ---
 

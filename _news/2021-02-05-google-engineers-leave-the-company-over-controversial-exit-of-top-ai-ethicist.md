@@ -79,38 +79,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Two Google engineers resign over firing of AI ethics researcher Timnit Gebru"
-    excerpt: "An engineering director and a software developer have quit Alphabet Inc's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics."
-    publishedDateTime: 2021-02-04T07:26:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-resignations-idUSKBN2A4090"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A4090"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A4090"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 101
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550257126&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1304U"
-        width: 1056
-        height: 545
-        isCached: true
-  - title: "Two Google Employees Resign Over Firing of AI Ethics Researcher Timnit Gebru"
-    excerpt: "We cannot say we believe in diversity, and then ignore the conspicuous absence of many voices from within our walls,\" one of the employees said."
-    publishedDateTime: 2021-02-04T07:29:00Z
-    webUrl: "https://thewire.in/tech/two-google-employees-resign-over-firing-of-ai-ethics-researcher-timnit-gebru"
-    ampWebUrl: "https://m.thewire.in/article/tech/two-google-employees-resign-over-firing-of-ai-ethics-researcher-timnit-gebru/amp"
-    cdnAmpWebUrl: "https://m-thewire-in.cdn.ampproject.org/c/s/m.thewire.in/article/tech/two-google-employees-resign-over-firing-of-ai-ethics-researcher-timnit-gebru/amp"
-    type: article
-    provider:
-      name: The Wire
-      domain: thewire.in
-    quality: 71
-    images:
-      - url: "https://mcmscache.epapr.in/post_images/website_350/post_20768318/full.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Two Google employees quit over AI researcher Timnit Gebru’s exit"
     excerpt: "Two Google engineers have resigned from the tech giant, citing the departure late last year of prominent Black artificial intelligence researcher Timnit Gebru. The resignations are the latest salvos in an ongoing fight between the company and workers who are furious about its lack of diversity."
     publishedDateTime: 2021-02-04T22:31:00Z

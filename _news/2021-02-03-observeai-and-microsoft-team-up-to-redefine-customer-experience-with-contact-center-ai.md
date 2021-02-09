@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "E0NjvcbpJFSCdHUJKpxsYWjxhqLD454JeGJUV0fP013VT+Bhc3DCYHi0+nUR8IG76fZY3E1QWWoJP6KJFJA+k5zQS3HlI7ZeTkasgqaN5EHwZk6J/Z2h1SSSCLr5Z0uuCEGWT3i7l5I6Zya13JGTicYAIBJTVAb11ob8OsL0H88Xd2sKxD2bPM1Pfc2dIzp8lo1nx27xqZgC6nY64oP4Xe5w7kHmG648QFjmIHUC4hG4o/klCxn5Bkol/zVXYBC+1MCaSJCMeqtBVRGLblj3z+ULdfcD/Et7fHtOTQgzklG3TB/Y+3zZV93TolN3o6VSdyhBo0Hrn6S+ChwyuqOofnfLb96PB5Ttk/HvDbclcZE=;IHHISY0rAg7hCHQfVyulhQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "8JhpDDtJ2oQjPYoxWf+0+UzG8XDc8/+4JlMzxGX0g+j9L57d67Qp3t1pkmkA+PXS0DDkc/sMZA4HhFGgaKsdrV8NSB7V4q716rkX7dc+9FYMAwt0JPOzTc3ejKZqe27hjgPjcUPW7hyovQAs1G4+26ei4UzVu+90+OpUHD9mDzpbddRDrEs2MYdG6R9Uy+UCBJMzABUhO12Dz6dWIQF6qOu1uD+Ecv50R85DftVtwsEbY/OryU3aMETLebsmrfyfOrhrduIFmAelU2WI2lVMILDQ+CFFgQ5Nd1dpgflVRZLwAgjKt/L39tqeboa9usTokCONqQMBzTHH4tfemKkcLRctLiu4iIMhV++RL3qZNrk=;c0teP7BRvDPv/VAFkYJTJw=="
 ---
 

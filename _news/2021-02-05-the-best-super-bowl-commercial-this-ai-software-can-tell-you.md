@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai
 webUrl: "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai-software-can-tell-you/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "CloudCommerce Reports Further Artificial Intelligence (AI) Success"
-    excerpt: "Also, this experience demonstrates, once again, the benefit of using artificial intelligence to improve advertising performance.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
-    publishedDateTime: 2021-02-04T08:11:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AI that detects gas pipeline leaks to be commercialized"
     excerpt: "A startup is preparing to commercialize an artificial intelligence (AI) algorithm for immediately detecting the presence of gas leaks and water ingress in gas pipelines. First developed by researchers at Nanyang Technological University (NTU),"
     publishedDateTime: 2021-02-04T17:22:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/08/researchers-find-that-labels-in-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/researchers-find-that-labels-in-computer-vision-datasets-poorly-capture-racial-and-ethnic-diversity/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 600
     isCached: true
 
-secured: "tdhn1fjxQboSalKaxW2/paIO8YbFWRPMANssNpRIAsgM8MF0aiB5VJsNpgRGZ6oHKaJZdtZ3C+yD3IUQUVQh5fKKhd3SxjVJ9v+2Fn3FSKxD+i7xAhmloISlsYaZeFdHf+nKmCF3Nuh1jztrtqHBVLPBMFrQfbI5GaM8bVPWf/LA3+QE/wZJZkd9JsnPjYjPaLKsOnQVhxo5td8s82w9O0RocHhCxH+2BfSkM/BqK0Kp+YXO7z2gONC/hZmNIPfslQXQazfxeZxe/r/PYA6mccEDjyYdETMNZpT0FUf0TPy/5aYmUbaLwbf4gNGx2xIkdoE80IaEUyL++paXdwuOZoEZU1yIFXzLM/8G8l5hvaI=;IAGE2cwzoukaHAsDO1yIKA=="
+related:
+  - title: "Researchers find that labels in computer vision datasets poorly represent racial diversity"
+    excerpt: "Researchers find that labels in computer vision datasets poorly represent racial diversity . Data sets are a primary driver of"
+    publishedDateTime: 2021-02-08T23:57:00Z
+    webUrl: "https://www.compsmag.com/news/pc/researchers-find-that-labels-in-computer-vision-datasets-poorly-represent-racial-diversity/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/researchers-find-that-labels-in-computer-vision-datasets-poorly-represent-racial-diversity/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/researchers-find-that-labels-in-computer-vision-datasets-poorly-represent-racial-diversity/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 49
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Researchers-find-that-labels-in-computer-vision-datasets-poorly-represent.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "sfK6bvj6iECFi23m+VlZ/ciN1gaxGIRCcYNawFjGW1ozkpH25k+ehJ2B4JleQquWBP8dTt63dSFzL6DadVLUAgDdMc+JPSFV5T3jBUWGyJ6E37uINIBKQpw4aonkoxMyKwJMOCqBXVZWD7j0mZfvjTsiQJjfcXfbk+7Poq4Tm7CopD7PIcrr4DH0YKT7GA6Wuzfupji1roio6UEb65OgGaHVYQJScIiWNoS2VZxniP0W9lt4AxJOyJM4effTQYNhQw3eZHtRvUhCRNVBjtTkKKY8szBw/E3MD/bGdYnecc2VKTqAyplnvVbEvXqlNcSKpWIfCZ9WE+k6IthO5919Zxml6oXeU6mUqQBQJ2Z1yVwiRDtUSMEdGrvQu2KQR1LfmvC9llaotg3JJrzdivlBHu5ONbXdVdE36uEtzhIdP+sDzM/OlCTs6G8ySS7DDdH35IRtcsoCGPD8/nlDuP/9SdSWpxAXA1rpZg5y0gg3FwgvkznZiZhFwdyY7+EX8s+d4c2DS46uX00TLAv6bGJcKA==;iPikGP7k1bAhY0AaoYia7A=="
 ---
 

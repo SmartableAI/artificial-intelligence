@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-asce
 webUrl: "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Who is Andy Jassy, the next Amazon CEO?"
+    excerpt: "Jeff Bezos announced in a letter to his employees that he would step down as CEO of Amazon later that year. He left his place to Andy Jassy, ​​the current head of Amazon Web Services. If the future boss of Amazon is at first sight less well known than Bezos,"
+    publishedDateTime: 2021-02-08T23:53:00Z
+    webUrl: "https://galusaustralis.com/2021/02/1048586/who-is-andy-jassy-​​the-next-amazon-ceo/"
+    ampWebUrl: "https://galusaustralis.com/2021/02/1048586/who-is-andy-jassy-%e2%80%8b%e2%80%8bthe-next-amazon-ceo/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1048586/who-is-andy-jassy-%e2%80%8b%e2%80%8bthe-next-amazon-ceo/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 44
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2021/02/5db235cbdee019394653efd4-1024x538.jpeg"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
     excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
     publishedDateTime: 2021-02-04T12:20:00Z

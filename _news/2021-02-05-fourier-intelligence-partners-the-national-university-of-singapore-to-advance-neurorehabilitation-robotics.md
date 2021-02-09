@@ -2,17 +2,17 @@
 category: news
 title: "Fourier Intelligence partners the National University of Singapore to advance neurorehabilitation robotics"
 excerpt: "The collaboration aims to facilitate research in rehabilitation technology, and promote its adoption in patient care and therapy."
-publishedDateTime: 2021-02-05T03:01:00Z
-originalUrl: "https://www.wicz.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
-webUrl: "https://www.wicz.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
+publishedDateTime: 2021-02-05T07:20:00Z
+originalUrl: "https://www.wfmj.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
+webUrl: "https://www.wfmj.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: WFMJ
+  domain: wfmj.com
 
 topics:
   - AI in Robotics
@@ -54,6 +54,6 @@ related:
         height: 324
         isCached: true
 
-secured: "Bjv3EJRtagOw+pxSrDK2xjWedBEQTL0jZ5Sf+UOuZ6PEu5ILuAgBkFUFelHwHUrzcbPD6boYRTXMj8AqoqsAfXFiytWdNVZ+GzyU/yj8H0Y9BqOh5SOH8ehWwHgd1AlG0cDCWATurI/mFtq/Apc5XUacFuSn51uthO1aHBEGG72ZjxmK1KjRPUV/6o8lOAeTk/0PDa0T/UWCNb2aWu9A12VEvcFE8k+oMPiAj3/ZApML+7aEH7yQZlAcUPyYHtkWtH9wxv14zPdglzoVLmhSvNW2jdqo2upZAHKswj5rF72hEmiTxlKu+b2txcdtj9eXQoTacwZ7WE/jjbbkJ/Tfd7S8J8TexqmB68/+Z0QkhAQ=;Ia2XQ2sp5HSpO2utdQx03w=="
+secured: "YbAmUKmw5xX2953si6/rJscNQK0a1JM6CIiR6Ey1DNMLhP6H+qxQJrAkWaXDwTNeo5gHRQTpAIuzPLZwLxpm16ie30CTYRmCj7Sirdtk7D31r33Gutba9aE6fHN+A/PwDHcufhZIAao1Qs6RSmNnqE70WJuNpwea4djNuJxNLHeuRB81tRy2ntJ+Is89X4Ot2L6Jpwmb0wfeKYqWsVt6ie1VDVTSuAYK7hHWGfjbJHNEvWoG26A0/Rym2UZ0EF5LDw8k2PGh+sVeybfuWBmI1uU6CoTfNOuqKkZnBzNZikacan6KkFMHuSnBsgWpn8qlNAwtOr7nVTvFzRBbZrHO2n7LfbcI0Vec/bqqbuTxIfY=;OJSr2daq5C9flwvm/d9sMQ=="
 ---
 
