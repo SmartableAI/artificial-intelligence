@@ -2,7 +2,7 @@
 name: "Persado"
 overview: "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale"
 type: "profile"
-heat: 64
+heat: 41
 
 website: https://www.persado.com/
 
@@ -36,7 +36,7 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1268932502363594753/rpTjICXr_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1359197249838874628/avr1lbZ-_400x400.png"
     width: 400
     height: 400
     isCached: true
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ig4B5roBgao"
 
-secured: "UIg3glsVv7nR83Ru82nolEwYhm0fsmSki+XJQpRc0bZEupYVGVK9yW796XeUUvIm1R0TmwgU+SU0GG0usypgob5cwHxQZYL4WIYgjVLb6ij/Y07Fi9m9tIneerZkioAMa3nSg+oN/1ObsF3MVTnxTtQ+nUXRpf+1eJ8Q36RR6rHwbrZajJuTt59pgHQ4u2OixvuaH6cf/jdRKpvRNsKsMqyygRG5Wx6ANuYT2r6l8vgWY3k4/Dm/Wt3nSp6p+QXD1J4DbiywjJFHQILD6CHmKcr3uM+NluHhl8TH1GEkCdN3Je0MsXP9iUUD7nGOII2idWUFOEhkBBS6jw0ZsO//EPdSSYIwhFBmDoL9yhvbAMW9EKuZSRssSc5Jqww57F9vx6gBjuir8jL0veORt2a68xNvbl/4FKVpry+g0eMFl9A=;kSXLIJF3YoC1WofC8fmmFA=="
+secured: "YEWues2qQk3PG/W6u2mw9bktdDSsrRH/BtUBBD2N/FsoA2aeelh0kzH2FyyQ+r1pr8F5/vjioMjA3uXVcDu7eGsUOzL+FgySbp1TlHNfhrxxnZePuKXXPdFCRR1+n6qhqJ/4Oju3rPALn4GACMnynwJTjHFADXz4tUjyuLwzG+pcaCoHIaCBk60oo9BGU3/p0Ug+TH1hyqxN3JdrQKVJJxBX/4lllbcByirBb/gxJKA7ve3zBFVzUplbRHXdfn+bmEx47s2ncbXFPRGY2EEQPUER9Ut/Y74twD0obuxbFPn2bQVF3q5MbLCSIeusD672CyMvz2A/xf+mpwL/3lkF9g0sRWItmu2KsDUN6eHDvL9GEs1lo3KL7/6taJYGI7KqLvm6i/Uoghm7TwwCGhE8PS32D3uPZgAo1Y3IdtG2d7Y=;2+NYjOk/6a1Fqh8gshiGBA=="
 ---
 
