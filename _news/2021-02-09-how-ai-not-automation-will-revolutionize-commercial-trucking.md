@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-ai-not-automation-will-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1280
     height: 854
     isCached: true
+
+related:
+  - title: "WISeKey Combating Counterfeit and Extending AIoT with arago’s AI and Automation"
+    excerpt: "WISeKey Combating Counterfeit and Extending AIoT with arago’s AI and Automationarago among IT automation leadersGeneva – February 9, 2021 -"
+    publishedDateTime: 2021-02-09T17:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wisekey-combating-counterfeit-and-extending-aiot-with-arago-s-ai-and-automation-1030061996"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/WISeKey-Combating-Counterfeit-and-Extending-AIoT-with-arago-s-AI-and-Automation-1030061996"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/WISeKey-Combating-Counterfeit-and-Extending-AIoT-with-arago-s-AI-and-Automation-1030061996"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
 
 secured: "C99resCZqkVHcD80bD1E7sMCGPDBrf8obpqEuOD3eHNZQKwX0BMZiEltZq21KgzPerS0aAE09gxZ3JsvPmb9opfNPNjvlxjuocWLUSFLADlIYlr0A2YjFnQOIUxjZ8Q9Ve6CxP2Hn9p22l7j9KF9C6dNgXNGk/xFNT9QGQk96nbb1YEZyB5TaGcJLrGAel8sgFslilDX4iBCFhHyffGvQa2QlwF9JbwKfS3j5YUGxOJMYsP8UmoHn9ateRYeHwMLiqPJarP9QuInV//tTq8yi/cCR0id1VZq26dyujyj0SvNse6+szTOfeXS45j/B90OxFQphPCsHUyBA8mT6XTNKbFlurOTuFxZC0YdNS2Z8beDKloW4bXbV25K8tPbFaARmipiXmafBmRZ6W6p1L9WSzihX6jgaw7SryJBNP0iovpeHj3C0cm6Ol2ulS9v03UY/JKJ3IYCIYg2sseQB4WWWn8UC+boyZSNn6s//OrA6jF2oOlArAl+xxAsYrXLicGLYVpozr52x8Mc9sGJj1Jdqg==;fM+dB+bFUdsP5oISTZpSUA=="
 ---

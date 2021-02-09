@@ -68,20 +68,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 41
-  - title: "New A.I. face recognition tool"
-    excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
-    publishedDateTime: 2021-02-05T04:45:00Z
-    webUrl: "https://www.fox10tv.com/news/daily_dot_com/new-a-i-face-recognition-tool/article_5dceafd6-6753-11eb-9920-135d6b072d2c.html"
-    type: article
-    provider:
-      name: FOX10 News
-      domain: fox10tv.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/3/d0/3d0c8992-3f6a-5603-9191-e9a72f968aa5/601cc71f95c27.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Law enforcement turns to facial recognition to find Capitol rioters"
     excerpt: "Researchers such as the cybersecurity expert John Scott-Railton said they deployed facial recognition software to detect trespassers, including a retired Air Force lieutenant alleged to have been spotted on the Senate floor during the riot."
     publishedDateTime: 2021-02-05T21:11:00Z
@@ -155,6 +141,6 @@ related:
         height: 334
         isCached: true
 
-secured: "g5b8z8dqXVmOdg8Sb8dyE6vPK0+wIEmsCred2vTF4PjTveqL/QMZNW/EjLRI9WclKTteKEWyjUKy1SHWU4rDypkTA1ho3dqQ+3s/1ZPsDf+khL3TDGbgN+JJHbN3BbAmvMW9MjYDtZpEj+VQ90QkYIT3pKI6rFimBUMjB36KklOolFlVEkGcw0p9Pnjj9tsjKgmWjFy/a2LE+yZo+0a+tke7OmpNY1aTtqvc+m02YMe99hFL1XbkFT+8JIOKUZKqIP0iR/t36LUu5r16ncXmFDZHab1/c7hDCZu1K1baYYOz8l3DjV+pywkQ5FwXlm4WLGB7oxnp2uXysM4VhL/InXsNgglAAB0BhiSXa6oGPJ8=;CU86gAcUYqokGXnKTKPpNQ=="
+secured: "H/OOgl1osTWTD92oT8qHgJOVZbbsVgBX2urMWUXmRhL7sUzAm7fQrmetXVVulHPGc7Y9VFg/WBPsAQCjcQn9VVfRJD0AvJ+ExUF5+5UwH9MbMRwYcGojqyMNhFAk7WaKEG4zC9AHsYSMFhXT7dOYJ1L4lNO7Rw5tX3lr2MF5z0sO8JFfODaeheCCMqnIClo/YzSZj4oFTNv05cV2awS91OtG+XyXKiOlQoZ+dAM1I3fQblxWttI3CVLGuc+WrMVgpWRr8L9tjpvmrLhgCUPFMrJqEN9/7Jf3gsdeRQo+3ExNP720HpAUEyF0OnOcw8WPOJmpyTMYXnVozYAFfTGb8/YqX7U29wHSPnNmThSqXAIx84uQ7yv9bGp2VOT2FcAPK4WSUOlmG0taV2Nqr7J6ZS56cPC6OEfhA6HcsSXoQhmdC/vx4iiTl9XwK1xQByUQeNkbZUFsDf04fShGMkw3EBQiRmC8Kf5zLid13UcmhwwoSNgDixGlIgbCf+Aj9icjWITmhh7sycdNoqUmg6pMNw==;L+kSp6pPnh034mmCGQ83sg=="
 ---
 

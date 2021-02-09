@@ -54,20 +54,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 41
-  - title: "New A.I. face recognition tool"
-    excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
-    publishedDateTime: 2021-02-05T04:45:00Z
-    webUrl: "https://www.fox10tv.com/news/daily_dot_com/new-a-i-face-recognition-tool/article_5dceafd6-6753-11eb-9920-135d6b072d2c.html"
-    type: article
-    provider:
-      name: FOX10 News
-      domain: fox10tv.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/3/d0/3d0c8992-3f6a-5603-9191-e9a72f968aa5/601cc71f95c27.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Law enforcement turns to facial recognition to find Capitol rioters"
     excerpt: "Researchers such as the cybersecurity expert John Scott-Railton said they deployed facial recognition software to detect trespassers, including a retired Air Force lieutenant alleged to have been spotted on the Senate floor during the riot."
     publishedDateTime: 2021-02-05T21:11:00Z

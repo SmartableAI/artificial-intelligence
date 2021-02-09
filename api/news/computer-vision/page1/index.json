@@ -157,7 +157,7 @@
       "originalUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -542,33 +542,24 @@
     {
       "path": "_news/2021-02-04-this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems.md",
       "title": "This new tool can tell you if your online photos are helping train facial recognition systems",
-      "excerpt": "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new site hopes to raise awareness of this issue by offering a rare window into how a fraction of our pictures are used.",
+      "excerpt": "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition",
       "sourceUrl": null,
-      "webUrl": "https://localnews8.com/money/2021/02/04/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/",
-      "originalUrl": "https://localnews8.com/money/2021/02/04/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/",
+      "webUrl": "https://whdh.com/news/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/",
+      "originalUrl": "https://whdh.com/news/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2021/02/hypatia-h_49f15336bbaab0b9c920387c0fdb87e3-h_7f22ebabb0a70c04d2ec50df19f2615b_preview.jpg",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T07:08:00-08:00",
+      "ampWebUrl": "https://whdh.com/news/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/amp/",
+      "publishedDateTime": "2021-02-04T07:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
+        "name": "WHDH",
+        "domain": "whdh.com",
         "images": null,
         "publishers": null,
         "authors": null

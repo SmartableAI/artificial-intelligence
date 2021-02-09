@@ -126,20 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market to Witness a CAGR of 49.6% During Forecast Period to 2025"
-    excerpt: "Allied Analytics –:Artificial Intelligence in Medicine Market by Product Type, Technology, and Application: Global Opportunity Analysis and Industry Forecast, 2017-2023,” the market was valued at $719 million in 2017 and is estimated to"
-    publishedDateTime: 2021-02-05T04:02:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-02-05/artificial-intelligence-in-medicine-market-to-witness-a-cagr-of-496-during-forecast-period-to-2025"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 24
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "WKJkP64gWiHX6wmEoRmHXSpVjwDTAlVj3X7N4QaivXT+u3wxC0uVGp/mynuZlP96uZWwKUNMM0gd2lwTrkeheTEtfZAGJBgAbEm5tqOv3C3Olfa8KNi900NKpWY61tPKAKGqycaiVfxkc9jUDM5b/GTzzZ1zefimR+icE1guS/it1O8vyQ/doDCrqBA+X/BcysloDrPBrRymSB0IyxcsCFWZlcUIr7FiF5tlsSmLE14C/gmJJBw9c9i0f6sj87TjOspBAQw8ciwDTojZKPH4h6oYLW0EtZ3rI9chETNMQbXwEC4cPhwLnX/uRIDXao73rQeMmoNhMY8MYbjcrKS5GmsvaR0dBflHRMa6rUw/EpM=;0rLRRHune03fthJdk8Wbsw=="
 ---

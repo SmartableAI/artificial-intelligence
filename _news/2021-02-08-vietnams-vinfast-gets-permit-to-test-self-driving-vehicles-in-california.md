@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Vietnam's Vinfast gets permit to test self-driving vehicles in California"
-excerpt: "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California."
-publishedDateTime: 2021-02-08T08:10:00Z
-originalUrl: "https://www.reuters.com/article/us-vietnam-vinfast-autonomous-idUKKBN2A808F"
-webUrl: "https://www.reuters.com/article/us-vietnam-vinfast-autonomous-idUKKBN2A808F"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A808F"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A808F"
+title: "Vietnam's Vinfast Gets Permit to Test Self-Driving Vehicles in California"
+excerpt: "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California. Vinfast, a unit of Vietnam's largest conglomerate Vingroup JSC,"
+publishedDateTime: 2021-02-08T03:15:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp"
 type: article
-quality: 73
-heat: 83
-published: true
+quality: 53
+heat: 63
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550679698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1705C"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Vietnam’s first domestic car manufacturer gets permit to test self-driving vehicles in the U.S"
@@ -48,6 +42,6 @@ related:
         height: 533
         isCached: true
 
-secured: "nIR18m7P5A0ZoTSvutSrwkTOW0jTAFN/enOEDQ0UIhnU8UL7Awr71vW58B6RuwStiJMa2YqnqYAIfVknE/CGhAZGEh8BqtH37avzY0awC2F906CUzao8YbNHElPrrsLmvBxWVD+EGfxMon2mifbZxrEdh90RhrZ8SXHY1ZJG5iL+NHJ1hYmzniodwKzN4lzkyWcHzd1rN6oFSzf9A1YLXEtm5/bXvjKwwDXPuZ2ym3QAtOCrxHfXs+TdMo/xtZQOZ5fApjmcng8/TRUr2yKPHCPzEtKA/gX1CmuLPBJtU1xcuic4V0coSELWntK0lJs4beh7BNCQpoTfpOs+H5HRYTeyAUUAlpzr1PdPKgLEusAb0A+fFBPRCnU5s4EOsfJ7sqkfLjGo3K1uekVap6s8No4jEfh2yug7ncjT4rB94VLooAf0ZNF8M3fiDCMDzY+doIwun+BnxDypgWoL3mI4qQ+5R6AfZzL+KHMyv/OrfpFG79KFHmj3k8vUNhhdFNtHB6xgBeOXFddf/giXWmMCtg==;Gv46I8cWjJj0dBDXSXZtcA=="
+secured: "TRaw6LKCuiLw2T0Fy/eOYBpEfQRW+DndJlLk1J+zuads8hLSWW7Tm44s1faQ60vfenFf8Em/OVHPDvvN0ffGMiSujffiAj+r3XyHXONWO157/k2TbHs5SNJhlMbGtUEWYJp0U1bwSYtwSINT1XxXE7zdf6u61R+NaTIACZS4H8+gYYzXcwzbB0B0k8XltB9o/rdN3kZdDJ7Y92ExNDw/uzSlJV7pJXXc+GdhzBYcVIzkLwWdOOP4h4bnq/nMhiuN6Yql+umRHkvIzx4Vbj15CHO6hLIQhsbADSsTjFTFxnX4j8gqZVr5CuHz0kF3jyEydHKWRIuiL4/qPPriZ//2DaQFRMJRcrxWJRb3N65gQr/zDRqWZtpSbqRQpqE5S1L2Mb5Vlf+rJKt0gt+7XbxzvxYWujqRZX9Hg26GInMvBd/dJnsDR4/XvFlZ+tvrdwWovt7IZpMamgnyQPXKWbgjw6Oew+IQ5tbHvmTQhJNPK5InzbCcRJkwk+vr3vWmhw2HJFBseKdIIr+m4EhY1/kp5A==;Z1ODYYjqSqH5i8h3LD6M3g=="
 ---
 

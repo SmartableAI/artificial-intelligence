@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/transportation-planners-cities-self-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/transportation-planners-cities-self-driving-cars-sam-schwartz-meera-joshi-2021-2?amp"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -31,21 +31,23 @@ images:
     isCached: true
 
 related:
-  - title: "Report lays out figures on Beijing's self-driving vehicle tests"
-    excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."
-    publishedDateTime: 2021-02-08T06:28:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202102/08/WS6020b097a31024ad0baa80b9.html"
+  - title: "Apple’s self-driving car strategy may be stuck in neutral"
+    excerpt: "If true, the latest news paints a clearer picture about Apple’s self-driving plans—and leaves many more questions unanswered."
+    publishedDateTime: 2021-02-09T19:49:00Z
+    webUrl: "https://venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/"
+    ampWebUrl: "https://venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/amp/"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202102/08/6020c6cda31024adbdb390cc.jpeg"
-        width: 720
-        height: 480
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/Apple-self-driving-car-hyundai-kia.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "LYG66H3TpMpZjwFnmGp0jzhjGV5wdQ3/rcHXn//1Lim59A2QSYRsxYT6/plGsFkUCULN3ADrxBxlVythlN0cvvic7PK9Ltw7dHOt2bNrRisozrhSIArkTX8F1r9JIgdn7yje18iRJ6g3htg3G3OoQ4ouh1CvR0Wf7OgG4lcqxNaf309UXnrsiwZ07+WjWgBEf1DUqfStqTyP7MvlvogVnCDwY+OMovnrJI7ieKWxPURbBsEuK9iAua4jm4v97wp8k6UsK7LCkIUHWlpzov/T4E7sswPhx0ty1vBGefqIIMjFgJnLCE3LOiSlNQoL0GooJRUcnsinnK5L5Q6h9riAtXBp6KYPFuioYgjPobi//MI=;gvMM70/c8sW0KpfXuKw3sg=="
+secured: "42BJwwzKXcWm3bQJLtJYHqlzNOZx7LZs1SM7/5dpur4ii61bek0BTOJoY+5FPqBj4njAM4jIldVmCU/BPkAWzsI2hGgsGRcMj3LGFicFQa71ySe3alrurjhiDiC5qpV8OLoEEQItMwoyp6oqnmiEilhZGYA5CWmLd2IXG1KX78EswiT6liAzEz5uDIQXAzWmBE74BFPtoLNbLFN6qv824tVpThJo+VIUleYc3z1iGVq1J3vIcrk4WtIiBjmIY0gacgJBeMjlUcXStbmkUYjxH5PP2FNvybERNLALqCINdhwSaBz9ggj+DsxJj93DBdz91JKE7knH/4eTILKamVTLGffojT/l/rytMBH76e1P9cpulMRBR4xBgAFBtqzNdp1ICWgLi6DmJGHiaecDyBF1rHDVccLys41+w+itbxC2+bqbUC5Lm3KTN7a0T5YoiKoYMa3gn21MXmhQcLk9FDaMaSeRo8XPIslpReIAT20Kdq2oeQkmzsmvjS57oe9UBuIqfgDwxgzXbPhRMLSPVnXysA==;x30AEA1wLSCX6H0d69qmtQ=="
 ---
 

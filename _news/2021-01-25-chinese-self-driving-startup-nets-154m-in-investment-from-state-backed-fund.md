@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-669214"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-669214"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "iaLCmzIXsLxp/K/WsEJVqehhnFD1VGI3oUVpvBni5JKrEVOMt5ZREGg7DrA1jo8fD/1istYQ8CVnc6/lxRXtlQj2R5bBaLUwk2oPxt2iDDbtPVNZk1KnA2ZmXhNKhawbEs99kLRk9+A9aJtsrCnlk51rVdqpCWtngBepvJ64I2Jor2Ft/PIYnh1xk+s/Xmdv4VLbS0bxYYH5VAjMJsBp3mn8MOa+PA4Db+J8Nbs8ocb7MkwDSJ+017wjF8J7/e1gzN/W3/1NysQlV/34yQ+o3CnKYqyvHhzt+9xygF1poAjG/rWRkZNtA3lRPbdfTLA06oZoqpozs0rpgwHSdOrNhnPpAt/2fkBsj1K+O1dMYFgWglF1GmtHglRMx6tk7gKGl+bbPSKTLvFKMn9/swBgbWQkHbSlpSBT9rozzAxe6WOra8QAeybH5G114zaKVWCHoL45tUNhN4rAQMdbu252B+Vl8Xa8GXIs2vy2Hdzdp4lqHZKc9/x1R1WchbSBEydH2TsM2NyCOLGJE5BuNvemaA==;0AM0OC8UGrq1+dl21KQ/nA=="
+secured: "LNjcJ4vHX3q/0i5tkyRmkxYulTlbOIHcxP3SsH3khBNRex0wzuxi2JAEM3s+YqhF3x9k/XBUj8Wy67KuSVcLiXHjEXKGER3TbIA4/Qc1IsWC+huNdYRJkSriS84T2YjPgjaxtFmNxprYQv0basBbq7siJbX+dW3fwvoMyp6ZRixhePPcvEombmuXy817iTm/6ohi1A4firOKY+Vg6ercE0hjiF2COBRON0B+3cMSkr3pa4wRNJK6UsWEKAd2ieO2L9cyWMj4ROcadggZSQl4jWn3BRqPds6ojUGFusdHQIq+6/QI4wtffW5ktc8K+27I+7Cg+0oLiw8U4PLB1/2QClbcFYzBmPXY6tHPRefiG9Q2hlaf/WzzhcnK+mksmjLTYRXzxm9TfKL6zA7EgA8IEPkaxVf5TsZTzM7I+X+dE1DKKyyK9QF0RRPk1MPjaSqlJi292Hq7piATDe6jIBIuMbBbKQTXLIwuyiCKpAJKkCCfBquoBWSSdbVssxL5VuJQ5+r7ZG9fJp3psmOTeI/j1g==;rkLKC6t9U9pnCBiVglNlZg=="
 ---
 

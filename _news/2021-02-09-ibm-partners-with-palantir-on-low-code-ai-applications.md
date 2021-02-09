@@ -3,8 +3,8 @@ category: news
 title: "IBM partners with Palantir on low-code AI applications"
 excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
 publishedDateTime: 2021-02-09T01:02:00Z
-originalUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
-webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
+originalUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
 type: article
 quality: 39
 heat: -1
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
+    excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
+    publishedDateTime: 2021-02-08T11:59:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 99
+    images:
+      - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
+        width: 2251
+        height: 1179
+        isCached: true
   - title: "IBM, Palantir forge partnership in low-code AI data processing space"
     excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
     publishedDateTime: 2021-02-08T13:53:00Z
@@ -35,7 +49,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 89
+    quality: 87
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
         width: 1170
@@ -114,17 +128,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Palantir (PLTR) Stock Surges On IBM Deal; Is It A Buy Now?"
-    excerpt: "Should Investors Consider Palantir Stock In Their Portfolio? Palantir Technologies (NYSE: PLTR) is a tech company that has mostly been in the spotlight since it went public last S"
-    publishedDateTime: 2021-02-09T15:44:00Z
-    webUrl: "https://www.nasdaq.com/articles/palantir-pltr-stock-surges-on-ibm-deal-is-it-a-buy-now-2021-02-09"
-    ampWebUrl: "https://www.nasdaq.com/articles/palantir-pltr-stock-surges-on-ibm-deal-is-it-a-buy-now-2021-02-09?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/palantir-pltr-stock-surges-on-ibm-deal-is-it-a-buy-now-2021-02-09?amp"
+  - title: "SD Times news digest: JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
+    excerpt: "JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
+    publishedDateTime: 2021-02-08T15:56:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-jetbrains-2020-annual-report-microsofts-autofill-solution-for-passwords-ibm-and-palantir-team-up-on-cloud-and-ai/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/02/G58mtNnU.png"
+        width: 680
+        height: 425
+        isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid"
     excerpt: "Cloud Environments PR Newswire ARMONK, N.Y. and DEN"
     publishedDateTime: 2021-02-08T12:05:00Z
@@ -196,20 +213,6 @@ related:
         height: 710
         isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-    excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is ..."
-    publishedDateTime: 2021-02-08T13:11:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock/article_a596a384-6945-50fb-bb5b-ee15ccb0f52f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 1
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/b9/0b95e751-9808-5551-9563-4755982ca8c3/602292ca96197.image.jpg?resize=887%2C630"
-        width: 887
-        height: 630
-        isCached: true
-  - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
     excerpt: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
     publishedDateTime: 2021-02-08T16:20:00Z
     webUrl: "https://stockhouse.com/news/press-releases/2021/02/08/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai"
@@ -224,6 +227,6 @@ related:
         height: 284
         isCached: true
 
-secured: "eDpxydB9eyVXKh8j1hdcEUTs8n7MMzQu3KVKiv+GT+WbSd3GUYE7+s5xAtBJOETNMLibTjunUx7TW0jNzDaBBJyVbkNhr8557oPHrzo4Gu7FZ/GEXIPJI39MpWBt0+DrGERU2buX2fEdFTECg91L+QVfWE8wjkUxlvjIVAOf7NrfvStATFyPQxr7c8mQ8M4D66133xcJWs8KxqjbSz5kOGG2psRf47hFfSL11lX4XSjFPvk68+FmxuNcHKxSm4d+5P428y2vvqppBOJEqX2MSiP9/+A2UoGJ+qm12clzWbTDs/2qplVtNqHB9lXvxQqkURl331+fwAP4LNPEkJSAmMMjtOIacFYK5Szx15PT83E=;GSIz8ixhDoP4ou/HTTf+QA=="
+secured: "RT+TCRdLvheV4QHDBGCKmfQ0tNm4AJMUv5qqUnwrBJ4Q3TC8tcvSxIMjPn8dS7oqAyBludL8YUWOGnHaTGv6d13exzQmvrUdpJ+zcRPWw2gx1pA5e39aw4siA60GQIghkWbStUuEWvsng27hM+FDpeFW0cuJo825G0qN29y30LQ+wqoGowsn21gsfDXuEFq3hU3wBLvGsUKct/wKX+dGNhm9WR839RC3obk8/k+jbHzKQ4+dgc/1arGAJubCrLw16c9pbZhHw3213BADtl+eDuib2FZc3Vl9TIIPqrPsXOsO3tSwh+MeJ5gexQET544tr8qcWG+0Tk0EWn1//PGHEH3H5cfR8fCQn/BK81Wls8I=;GgAHbOhoipISw2BSnU4QEQ=="
 ---
 

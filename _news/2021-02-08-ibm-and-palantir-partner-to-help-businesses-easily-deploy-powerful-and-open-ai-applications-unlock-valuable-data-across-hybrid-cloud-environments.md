@@ -1,27 +1,26 @@
 ---
 category: news
 title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is ..."
-publishedDateTime: 2021-02-08T13:11:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock/article_a596a384-6945-50fb-bb5b-ee15ccb0f52f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock/article_a596a384-6945-50fb-bb5b-ee15ccb0f52f.html"
+excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
+publishedDateTime: 2021-02-08T11:59:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
 type: article
-quality: 1
-heat: -1
-published: false
+quality: 99
+heat: 239
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/b9/0b95e751-9808-5551-9563-4755982ca8c3/602292ca96197.image.jpg?resize=887%2C630"
-    width: 887
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
+    width: 2251
+    height: 1179
     isCached: true
 
 related:
@@ -35,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 89
+    quality: 87
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
         width: 1170
@@ -114,17 +113,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Palantir (PLTR) Stock Surges On IBM Deal; Is It A Buy Now?"
-    excerpt: "Should Investors Consider Palantir Stock In Their Portfolio? Palantir Technologies (NYSE: PLTR) is a tech company that has mostly been in the spotlight since it went public last S"
-    publishedDateTime: 2021-02-09T15:44:00Z
-    webUrl: "https://www.nasdaq.com/articles/palantir-pltr-stock-surges-on-ibm-deal-is-it-a-buy-now-2021-02-09"
-    ampWebUrl: "https://www.nasdaq.com/articles/palantir-pltr-stock-surges-on-ibm-deal-is-it-a-buy-now-2021-02-09?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/palantir-pltr-stock-surges-on-ibm-deal-is-it-a-buy-now-2021-02-09?amp"
+  - title: "SD Times news digest: JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
+    excerpt: "JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
+    publishedDateTime: 2021-02-08T15:56:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-jetbrains-2020-annual-report-microsofts-autofill-solution-for-passwords-ibm-and-palantir-team-up-on-cloud-and-ai/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/02/G58mtNnU.png"
+        width: 680
+        height: 425
+        isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid"
     excerpt: "Cloud Environments PR Newswire ARMONK, N.Y. and DEN"
     publishedDateTime: 2021-02-08T12:05:00Z
@@ -156,7 +158,7 @@ related:
   - title: "IBM partners with Palantir on low-code AI applications"
     excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
     publishedDateTime: 2021-02-09T01:02:00Z
-    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
     type: article
     provider:
       name: SiliconANGLE
@@ -224,6 +226,6 @@ related:
         height: 284
         isCached: true
 
-secured: "MptRyF+Uo2XrK+y/AAjOAmZQ7oXXvktka5+lUtgtPvUNOYvwIMByR2Qop60W2PxeM1CsVYm36wrsiDvJZdkwKlv4TUs5Iz3Ir7ONHcgw+ZphfMVcXGAwU+nHVL5cBSHrUd3G76dlFU07H0BNBD6eQxyXcQGqIUPjjNaJyWB2TUd0fUMD8Ya7xNRMtwJU0nxzNjVoclRgKzRuGR3/rv1xfAMgn37rorZfffP5OSfqDr0KZjGm53WyzcCoj2yiBw91/1co3NjYhA0sEXtqOGjl4VhLmvlCQ3I8tixG4e0SqJllb+ciDl7ORLJRnQ9iXWrRW5KOpxBfFITZ3mEmD4Uz49SXZcrkovLvaL+e3jR/O/M=;mvZIfsNOskg/dkgu8QUsvQ=="
+secured: "svhDIm3xkracRyrzJVsuJUXyPOYYUZl6GsBW0ugEQUDan6iqc9CAb9n7yPDY/bqn/x1fUmvkzUUqphjCOTjLtY3Qh2PbYX3PpYgi3kPHViHYZg6Havi72lDC30cQa6cHbztHDarHu0elcjxpXrjaWKSGlvbFtGcJLsLVplz6xwKN93RRafQ+ZuvHQH1XslrA9SXOOT69fPMa+c9XAO4WGhzNKlnkq+MF9ntJVFApNLdMnIEFKxNcYCagqgElh1YhXb+tfsM537yCGrwaDFpIzq9DG60ToGmgKtoHpuzMK9+nn9o0MMjmGOBjYTgiWbdNBhYpcItuG9nhoEMM9655L1UJ7u0VLc1m10fRvPMOQ48=;ZkBvPOZiGmh++RtYl0ryzA=="
 ---
 
