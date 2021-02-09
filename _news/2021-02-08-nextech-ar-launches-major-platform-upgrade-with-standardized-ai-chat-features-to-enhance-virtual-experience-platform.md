@@ -1,48 +1,45 @@
 ---
 category: news
 title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
-excerpt: "Nextech AR Solutions, a leading provider of virtual and augmented reality experience technologies and services for eCommerce, education, conferences and events today announced the launch of new standardized chat features within its Virtual Experience Platform/ VXP) and recently-launched ARoom collaborative streaming solution."
-publishedDateTime: 2021-02-08T12:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to"
-webUrl: "https://www.nasdaq.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to"
+excerpt: "Standardizing embedded AI driven chat functionality can accommodate unlimited users, allowing for optimized, scalable events.Market leaders"
+publishedDateTime: 2021-02-08T12:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-1030054709"
+webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-1030054709"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Launches-Major-Platform-Upgrade-with-Standardized-AI-Chat-Features-to-Enhance-Virtual-Experience-Platform-1030054709"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Launches-Major-Platform-Upgrade-with-Standardized-AI-Chat-Features-to-Enhance-Virtual-Experience-Platform-1030054709"
 type: article
-quality: 26
-heat: -1
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
 
 related:
-  - title: "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles"
-    excerpt: "LIZHI INC., a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics, an established chip maker for smart mobility in China,"
-    publishedDateTime: 2021-02-08T11:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio"
+  - title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
+    excerpt: "Standardizing embedded AI driven chat functionality can acco"
+    publishedDateTime: 2021-02-08T19:48:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-02-08/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 44
-  - title: "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers"
-    excerpt: "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,"
-    publishedDateTime: 2021-02-04T16:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "IVaqqTe/J3uoHcILWQZ4mYAtkzIq/mNP2cQy3/kzsV+ZldmMa8NX+ot2AX8Vo9BUJVmLl5T0Bc55gXh8H9e1unZipa7QZGcMTv4VCcZFeQcEq/w5vCISWlBV7GDjumJtc+ky27XaU//rbDH26fpBt+kOoH00qivvk5Qq0fE5xdCGJQt7lsb5mxIbE2Nj5wnh66s7vvnEjt9EIyt9pKAc8gMpBRO/ihD0NSlLBsUB1GtMJGeDOF7Ob7JiPyB4QpGRfY17jq2SDOVE6BhdK97AwGkpJki0VgtUUvX0Qenul7lr5Hvb4naOu7NEvz0i/wFxlgHUVQZ6/XDyjAXC/xQzZxWS4Av4T6tPkdghfkhP9EI=;ZE/2rMqi3c9xgEkkZVT75Q=="
+secured: "XL8IWsl/wCd5kk4D43QCUY/x5gZYGv+jEJz/Q5adVftEqY63jiY/EqUjT2bvYRT55+WvLgW+nhpbVQs+E9uI6zDkXDQVCrxT3zMUIKNPVbVNF8E91HCB37BaogsUthJDiPA4zFQWmumHdYyiGftBmkZBDiQ3CpvHjs+pukDYDeRVyKkRhbNE0xBbfRn2sGSf8w6c20WLov3MYeH3/cOWX9cANkOe8tgEeet5dyxQkZEhmDcILQWOSrCaMeGLGSK2aR6ZfVzYgHQ96thui8iL5dj7AIk3VEsCifibtRhpht+YGvPS88Y8JnGbS4G3I2MfV9843CtephoRfvFnCX/wv2Z8fRnFGw6p6HTx+3ElMZA=;A1QAlFFqfPhw8YTpEiHAxQ=="
 ---
 

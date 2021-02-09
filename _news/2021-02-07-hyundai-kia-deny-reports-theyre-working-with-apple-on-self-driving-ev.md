@@ -82,22 +82,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Hyundai says it is not in talks with Apple to make self-driving cars"
-    excerpt: "Hyundai Motor and its affiliate Kia said they are not in talks with Apple about developing autonomous vehicles, disappointing investors who sent shares in both South Korean carmakers lower. The pair said in a regulatory filing on Monday that they have been talking with multiple companies about co-operating to develop self-driving electric vehicles,"
-    publishedDateTime: 2021-02-08T13:02:00Z
-    webUrl: "https://www.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-    ampWebUrl: "https://amp.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F408b27d3-3f40-4616-bee4-25cd987c1ed9.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Hyundai, Kia Backslide After Apple Self-Driving Car Talks Die"
     excerpt: "Hyundai Motor is not in talks with Apple on autonomous vehicle development,” the automaker said in a regulatory filing."
     publishedDateTime: 2021-02-08T16:39:00Z
@@ -177,6 +161,15 @@ related:
     provider:
       name: Engineering360 News
       domain: globalspec.com
+    quality: 19
+  - title: "Hyundai says it is not in talks with Apple to make self-driving cars"
+    excerpt: "Hyundai Motor and its affiliate Kia said they are not in talks with Apple about developing autonomous vehicles, disappointing investors who sent shares in both South Korean carmakers lower."
+    publishedDateTime: 2021-02-08T14:24:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/08/hyundai-apple-self-driving-cars.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 19
 
 secured: "Uc8+P1dvkUQPxRFzbJgClNckdyyqDe8m9U0wjVeGxLUIhe58s6ZKj4d/IPGzIASn0NiStchRwZv6+Q3vzopc10J7rrroiv7GqLtzOKnYNvl30+bsEEh3VgHAaOilZZAGHLawTlWlKYQKw33WRmHfCJFG3ncQmbgnFKbH2fIG8FMEyqXr8RVjwq8wQS0bE9MY4YpbvHjg7kv9bS2Ewh0meNo+mn3VI6oBuWXeA1G4p59Vp0GiyL5dNPe5fKU+M7DsT1SUEDuVzixq/Iq6gSMqyfMJ/ChvzCnZeOCVI1/8GkqDqGkyYThB5fU6MyQSXkCg5nW29OGLqxJnKiZqc6plBC6okdokNH3JQPlr73G9HEEooqrM3SqZ4pp8wCcai/rHKsGuWmpUDx4acJ85jo8jpHZZ/iBzMPtP8dF2L0pbonF60V68mUOpHk2lRyp7wv70eyNWo3rIqKlpYRCMdq9Jb6G/6BxiNbuyGEHSgRtS1sDeAXSWx/a3FWQ7WNKj5S1949S8/DFMfsPrS6qhQp19ng==;XYrf983y5+jY3nhw/poVpw=="

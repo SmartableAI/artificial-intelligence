@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-01-11-worlds-first-self-driving-water-taxi-is-ready-to-ferry-passengers-in-knoxville.md",
+      "title": "World's first self-driving water taxi is ready to ferry passengers in Knoxville",
+      "excerpt": "All you need is an app. Buffalo Automation, an artificial intelligence startup from Buffalo, New York, introduced its self-driving Greycraft water taxi to the public last week. Privately ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.knoxnews.com/story/money/business/2021/01/11/worlds-first-self-driving-water-taxi-debuts-knoxville/6578481002/",
+      "originalUrl": "https://www.knoxnews.com/story/money/business/2021/01/11/worlds-first-self-driving-water-taxi-debuts-knoxville/6578481002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/07/PKNS/105c28dd-9960-4032-8ac9-1935006d0593-kns-taxi00108_BP.jpg?auto=webp&crop=3499,1968,x0,y57&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.knoxnews.com/amp/6578481002",
+      "cdnAmpWebUrl": "https://amp-knoxnews-com.cdn.ampproject.org/c/s/amp.knoxnews.com/amp/6578481002",
+      "publishedDateTime": "2021-01-11T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Knox News",
+        "domain": "knoxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog.md",
       "title": "Samsung reveals smarter Family Hub fridge and a robo-vac that thinks it’s a guard dog",
       "excerpt": "Samsung’s big Galaxy S21 launch may be coming later this week, but it’s home appliances which are getting their moment in the spotlight today. Fresh for CES 2021 are updates in the",
@@ -1147,59 +1190,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase.md",
-      "title": "Top 25 Machine Learning Startups To Watch In 2021 Based On Crunchbase",
-      "excerpt": "Throughout 2020, venture capital firms continued expanding into new global markets, with London, New York, Tel Aviv, Toronto, Boston, Seattle and Singapore startups receiving increased funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/?sh=1411d09a4038",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/",
-      "publishedDateTime": "2021-01-10T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

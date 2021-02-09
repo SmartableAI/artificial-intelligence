@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-25-new-algorithms-could-reduce-racial-disparities-in-health-care.md",
-      "title": "New Algorithms Could Reduce Racial Disparities in Health Care",
-      "excerpt": "Machine learning programs trained with patient reports, rather than doctors', find problems that doctors miss—especially in Black people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/",
-      "originalUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/600b52ec4c976bdf61ac2b78/master/pass/Business-AI-Doctor-Bias-151032869.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/amp",
-      "publishedDateTime": "2021-01-25T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-25-artificial-intelligence-in-military-market-trends-and-analysis-research-report-2021-2025.md",
       "title": "Artificial Intelligence In Military Market Trends and Analysis Research Report 2021 – 2025",
       "excerpt": "Jan 25, 2021 (AmericaNewsHour) -- Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of",
@@ -687,20 +635,20 @@
     },
     {
       "path": "_news/2021-01-19-facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare.md",
-      "title": "Facebook to use AI in predicting if Covid-19 patients need better healthcare",
-      "excerpt": "Washington [: American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a ...",
+      "title": "Facebook to use AI in predicting if COVID-19 patients need better healthcare",
+      "excerpt": "Washington [US], January 19 (ANI): American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers ...",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
-      "originalUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
+      "webUrl": "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/",
+      "originalUrl": "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG",
+          "url": "https://aniportalimages.s3.amazonaws.com/media/details/wfsa4753.jpg",
           "width": 600,
-          "height": 338,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -708,13 +656,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
-      "publishedDateTime": "2021-01-18T23:17:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T17:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "Asian News International",
+        "domain": "aninews.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1344,6 +1292,59 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-service-robotics-market-top-trends-accentuating-size-by-2024.md",
+      "title": "Service Robotics Market Top Trends Accentuating, Size by 2024",
+      "excerpt": "The service robotics market is expected to grow at a substantial rate driven by the system's high efficiency, reliability and convenience as compared to conventional labor. Integration of artificial intelligence (AI) and proliferation of IoT is bringing key transformations in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

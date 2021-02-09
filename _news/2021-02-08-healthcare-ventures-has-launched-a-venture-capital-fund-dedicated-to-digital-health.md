@@ -42,6 +42,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "AI Can Improve Healthcare"
+    excerpt: "One area where AI has found some traction is in the healthcare industry, where is seems to be helping improve care."
+    publishedDateTime: 2021-02-08T00:23:00Z
+    webUrl: "https://www.sqlservercentral.com/editorials/ai-can-improve-healthcare"
+    type: article
+    provider:
+      name: SQL Server Central
+      domain: sqlservercentral.com
+    quality: 54
+    images:
+      - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
+        width: 320
+        height: 320
+        isCached: true
 
 secured: "tpZ+2Ob31IzBiyS7V9T9jtiqgsYTO61tUNH7RuPlnfGSJMPL3tBABYuzoGyhJqUqMHUuyJnEBUPbDmrf1/QhfiKx6Xzm81G+Djh00YkGVnPkpX6ln35T5CCGw1Mpd5Vh/7JWlZfbYlzzDni/jtRII/vhKLor9u8aCXckyFG4WUSp0G4SgjcGPG+wzTtUi6jeeT+xn/b/pu4hRAG1IeolKwRjKkErd3QMqNE0kLcjtf1RgrDeiN7397PRPHBR3X4BvH4kGnq8C97+TbGRYzQ102SfoTU6B8xDHaH624L+cNn3HaGEzDakU+jPqmf010VnZF2Ku50jZGE6frsGcfuKMrQnuP/lYQ+HO+mKV5MiaY8=;LfbVzYf7nSXd2Edx3ev4Hw=="
 ---

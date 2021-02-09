@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1374,8 +1374,8 @@
       "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
       "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1383,13 +1383,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19345715",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19345715",
-      "publishedDateTime": "2021-01-27T07:15:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T07:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -52,6 +52,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
+  - title: "Does Deep Learning Fuel Loss of Privacy In Facial Recognition Technology?"
+    excerpt: "Although face data is biometric information as unique and identifiable as a fingerprint, it is also casually available in many forms and can thus be passively collected in ways likely to perpetuate severe privacy violations."
+    publishedDateTime: 2021-02-09T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/does-deep-learning-fuel-loss-of-privacy-in-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 55
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Does-Deep-Learning-Fuel-Loss-of-Privacy-In-Facial-Recognition-Technology.jpg"
+        width: 626
+        height: 417
+        isCached: true
 
 secured: "XwnnFnJA+y/NxdB/vCPmydzL1AyurGXWRwtttBWT5oG7Sx3BWyqHCzYFf8Xu6BW3o7YVkyMizsTal8RGaM/mRN2u72g8MCvSG9bHkUqad+5sC2NdazlIS/9/zvISzQbqe/J/vhD1Znn5j97Wf1zCOxz8WgNt3vHCCIv6Vsx1Azl+t85CdsfyszwxlfgrVmuR6Yt/Bq7vI/bXz6hmSthcPWvSgrcbPNCOfip9UIWtjSmnp4LJeD7HZwN7xclxz9oMv5Dhpuh2UqxGroCl3pYlAnWHAj1wBGeO527cMo7Wykyj9dyha3VYUqtePi4RCkV/k1n48SICb8dHK2b2GhaM234kErQC4zd5QXm6797ZVjg=;/or4L2V4kJ6HrjrVbHAM6Q=="
 ---

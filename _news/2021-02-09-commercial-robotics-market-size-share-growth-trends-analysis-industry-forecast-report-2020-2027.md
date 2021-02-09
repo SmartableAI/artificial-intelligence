@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chatbot market in 2021: Stats, trends, and companies in the growing AI chatbot industry"
+    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from ou Report."
+    publishedDateTime: 2021-02-08T22:27:00Z
+    webUrl: "https://www.businessinsider.com/chatbot-market-stats-trends"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/6011cef11d2df20018b71349?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market Development trends, key manufacturers and competitive analysis 2026"
     excerpt: "The latest Artificial Intelligence (AI) in Automotive Market Analysis report is comparative coverage of key player's qualitative and quantitative information highlighting key market developments, challenges,"
     publishedDateTime: 2021-02-08T07:32:00Z
@@ -109,17 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing in Healthcare and Life Sciences Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "The global Natural Language Processing NLP in healthcare and life sciences market size to grow from USD 1 5 billion in 2020 to USD 3 7 billion by 2025 at a Compound Annual Growth Rate CAGR of 20 5 during"
-    publishedDateTime: 2021-02-04T12:44:00Z
-    webUrl: "https://www.openpr.com/news/2236397/natural-language-processing-in-healthcare-and-life-sciences"
-    ampWebUrl: "https://www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
   - title: "Artificial Intelligence in Medicine Market to Witness a CAGR of 49.6% During Forecast Period to 2025"
     excerpt: "Allied Analytics –:Artificial Intelligence in Medicine Market by Product Type, Technology, and Application: Global Opportunity Analysis and Industry Forecast, 2017-2023,” the market was valued at $719 million in 2017 and is estimated to"
     publishedDateTime: 2021-02-05T04:02:00Z

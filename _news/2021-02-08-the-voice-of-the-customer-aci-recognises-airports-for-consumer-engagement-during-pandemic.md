@@ -71,6 +71,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Indianapolis International Airport recognized with Voice of the Customer honor"
+    excerpt: "IND recognized for listening, responding to travelers during pandemic INDIANAPOLIS, IN, 2021-Feb-09 — /Travel PR News/ — The Indianapolis Internation"
+    publishedDateTime: 2021-02-09T03:31:00Z
+    webUrl: "https://travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/"
+    ampWebUrl: "https://travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/amp/"
+    cdnAmpWebUrl: "https://travelprnews-com.cdn.ampproject.org/c/s/travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/amp/"
+    type: article
+    provider:
+      name: Travel PR News
+      domain: travelprnews.com
+    quality: 35
   - title: "Indy Airport Selected for Voice of Customer Honor"
     excerpt: "The Indianapolis International Airport (IND) is among a select group of airports worldwide to be recently recognized with a Voice of the Customer honor, citing the Indy airport’s continued commitment and diligence in actively listening and responding to travelers’ needs during the global pandemic."
     publishedDateTime: 2021-02-08T20:17:00Z

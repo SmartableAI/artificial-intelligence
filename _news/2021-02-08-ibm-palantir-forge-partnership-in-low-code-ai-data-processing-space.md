@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-f
 ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
@@ -65,7 +66,7 @@ related:
   - title: "IBM partners with Palantir on low-code AI applications"
     excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
     publishedDateTime: 2021-02-09T01:02:00Z
-    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
     type: article
     provider:
       name: SiliconANGLE
@@ -91,6 +92,6 @@ related:
         height: 627
         isCached: true
 
-secured: "poFhQ/ImYPr/OeJ8dSRgW3wQj/r8jmEZx1O40/I4IaTZtqJin9kaRBvOndHSw52tmbkXZ08CXCb1+itGupcRnKJZn9SzsS72ADz/4EOnaaCt2sMhLnK2DsWA4X8DAjJE1rjCm0dAvh1F6dBAfCgszGtfQJoiqa6TAdyjt8TRNlxdwny4I5dsw/xkdj2oemTRlwJIj1h+WEt4LovUjtqRdljKp7TwV9R9xi7ec41vBnlo/P6izti538E4Ey5VuD7lXh6cnBEEc1BpP0Nr6MpkIoj9jGkXg3piWAgBPhXouP/FLGAlPNmgERGnZbAmwffh1W3CthKsXvgWo2YDJlhp8Xfu6RfqQ7b/j5mOhYOGtWw=;tJEn1qb4srLgtOBCU5Xqyg=="
+secured: "AAWc/sJi8i6xPprujw/1ZI5OPRUmp6YswirLRtCrfHD46L1WFil4heSeNkshXjnGWMTjKseQBVsz3JlzkfFwT8kmPywuEEhXOlt7mnR2V2LmGHsHj+CsLfwoDaAQw9rz+/5Bkn9LwBVie5Ql+FOZsHUaoKF3jp4XLzogm4oQ9yMTwEciyermW9y9bC2zm/YYN+V7Zglkjp7KLH7eFgTw8sa8rOG6LYoRg1IYn9XWqetTPRqOnEkjIz4ERDrxMGWV3u0wsiiTk9UMTA7qK+weNFw1MUlrcHywva4dPPCqKDDjwdchFkWmX3PNlsRmYpROs8obBtx86GdWiauLCGfjs2y5QO7fF63mBdKWgXzM7SWl7j7nALSRAxt4RaWbuOXNzaoF5VoVwou55GvuxWrP5KZOhXrZzczvNBj/bhFFCBb4I/Dv0Bky8bq4Mvm5EqqFWGWk21DZ9XJRZWFUgekKwoV83Oe27z3w8BIX0dNH6svd12NqxvTcny7yRb/HGslq8nnBu+dJGbn86rHfIDt9iw==;bF0OCqsF6Z7bBv8qjoxnTw=="
 ---
 

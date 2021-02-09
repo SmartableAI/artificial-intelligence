@@ -25,51 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "How Data And AI Will Continue To Change Healthcare In 2021"
-    excerpt: "The growth of data, artificial intelligence (AI) and machine learning (ML) has had a particularly strong impact on healthcare."
-    publishedDateTime: 2021-02-04T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/"
+  - title: "Nuance acquires Seattle digital health startup Saykara to boost healthcare AI products"
+    excerpt: "Nuance Communications has acquired Saykara, a Seattle health-tech startup that makes a voice assistant for clinicians. Nuance, based in Boston and publicly traded, will use the deal to boost its"
+    publishedDateTime: 2021-02-08T23:24:00Z
+    webUrl: "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/"
+    ampWebUrl: "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: GeekWire
+      domain: geekwire.com
+    quality: 96
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/10/20181003_GeekWire_Summit_813-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Top AI Startups to Watch in 2021"
-    excerpt: "An abundance of startup companies that introduce new applications of artificial intelligence have emerged over the years. In 2020, Crunchbase’s records show that the number of AI startups is already about the breach the 10,000 mark. The number has ..."
-    publishedDateTime: 2021-02-05T16:34:00Z
-    webUrl: "https://www.ibtimes.com/top-ai-startups-watch-2021-3138837"
-    ampWebUrl: "https://www.ibtimes.com/top-ai-startups-watch-2021-3138837?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/top-ai-startups-watch-2021-3138837?amp=1"
+  - title: "Healthcare Ventures Has Launched a Venture Capital Fund, Dedicated to Digital Health"
+    excerpt: "As a specialist digital health fund, Sydney based Healthcare Ventures will invest in early stage and growth companies transforming healthcare via digital health technologies. The investment strategy focuses primarily on Australian companies going global,"
+    publishedDateTime: 2021-02-07T20:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-south-wales-australia-medical-technology-b0ae6f493b6b464e91e034b187c1b6ed"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/05/top-ai-startups-watch-2021.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Maybe artificial intelligence will drastically change health care, but who will benefit?"
-    excerpt: "Our federal and provincial governments have proven they can unite around issues of national importance in health care and they must do so again if we are going to have any chance of AI playing the role many believe it can in helping us move toward personalized health care."
-    publishedDateTime: 2021-02-08T05:01:00Z
-    webUrl: "https://www.hilltimes.com/2021/02/08/maybe-artificial-intelligence-will-drastically-change-healthcare-but-who-will-benefit/281783"
-    type: article
-    provider:
-      name: The Hill Times
-      domain: hilltimes.com
-    quality: 30
-    images:
-      - url: "https://www.hilltimes.com/wp-content/uploads/2021/02/pexels-photo-339620-750x375.jpeg"
-        width: 750
-        height: 375
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "CeYQEDGwoinRAk4NFMWWDw4IwhMNfoCFgGAkD340LfxCCbdsI73W2ztYSb3zvClRc1ACT7QjFt4O7YTwMgVNUuu1/A0qXJreSH+3se125jag2mR+7Jzba+ozJFss8xoK1xqUPp0QPHGyjzTsVQU9BfMvH9fsGws09fwWOhsdHsv7j7X9/QiBCiMDEZcbrl8PcUCNL9sH9jJ+Uz3InRpdG0W9fX7J+nd1SSdtB+/IHV6F3UMhap9wB3gOM5ePz57TeS8o+sLpWkJI/O8vwtSI5tyBDHA/HYdXBcCs6Fc92NpgHKUreO+0fxkhnn5t4Tzikp53kZ7cU0NIzS2vk9ii1c4NrHmLxGUpOB/iMOwK1UA=;Ist55iEovqtu0lxfakD9+g=="

@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-01-13-is-amazon-creepier-than-google-at-this-point.md",
+      "title": "Is Amazon creepier than Google at this point?",
+      "excerpt": "We could go on and on. Remember Rekognition, the facial recognition system Amazon allowed police to use that sparked fears the company was essentially supporting the surveillance state?",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/",
+      "originalUrl": "https://bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2019/01/1b8toh.jpg?quality=70&strip=all",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/amp/",
+      "publishedDateTime": "2021-01-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-unsupervised-deep-learning-for-super-resolution-reconstruction-of-turbulence.md",
       "title": "Unsupervised deep learning for super-resolution reconstruction of turbulence",
       "excerpt": "Recent attempts to use deep learning for super-resolution reconstruction of turbulent flows have used supervised learning, which requires paired data for training. This limitation hinders more practical applications of super-resolution reconstruction.",
@@ -1111,48 +1154,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-artificial-intelligence-puts-focus-on-the-life-of-insects.md",
-      "title": "Artificial intelligence puts focus on the life of insects",
-      "excerpt": "Scientists are combining artificial intelligence and advanced computer technology with biological know how to identify insects with supernatural speed. This opens up new possibilities for describing u",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.html",
-      "originalUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-artificialin.jpg",
-          "width": 1430,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp",
-      "publishedDateTime": "2021-01-12T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

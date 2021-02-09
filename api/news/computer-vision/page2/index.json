@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-29-facial-recognition-now-used-for-border-screenings-at-msp-airport.md",
-      "title": "Facial recognition now used for border screenings at MSP Airport",
-      "excerpt": "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals.",
-      "sourceUrl": null,
-      "webUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "originalUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcxODMyMjYyNjQ2NTcyMzU0/1024px-msp_airport_-_view_from_the_observation_deck_8487245657.jpg",
-          "width": 620,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "cdnAmpWebUrl": "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "publishedDateTime": "2021-01-28T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bring Me The News",
-        "domain": "bringmethenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-the-next-target-for-a-facial-recognition-ban-new-york.md",
       "title": "The Next Target for a Facial Recognition Ban? New York",
       "excerpt": "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell.",
@@ -1391,6 +1348,49 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition.md",
+      "title": "Twenty20 Solutions introduces edge AI face biometrics and object recognition",
+      "excerpt": "Twenty20 Solutions is now able to provide cutting-edge face biometrics and object recognition solutions powered by advanced machine learning methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
+      "originalUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
         "images": null,
         "publishers": null,
         "authors": null

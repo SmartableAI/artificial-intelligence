@@ -44,20 +44,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Clearview Facial-Recognition Technology Ruled Illegal in Canada"
-    excerpt: "The company’s controversial practice of collecting and selling billions of faceprints was dealt a heavy blow by the Privacy Commissioner that could set a precedent in other legal challenges."
-    publishedDateTime: 2021-02-04T12:52:00Z
-    webUrl: "https://threatpost.com/clearview-facial-recognition-canada/163650/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 24
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2018/11/12101942/Facial-Recognition-2.jpg"
-        width: 750
-        height: 499
-        isCached: true
 
 secured: "9i5PLLl0BQWmYdEI4WlXyR2SINOYo582O8uHA5OQk2JzfraphOkXNJdmP6BbEV8gGZA2XAH57pUzF7ojGuPlgmvzMWtt6Z9RhrknosGOd7YwLCxvm3q6ge09X6AUklXp6YrggK1AEq9qE43SgNB6/4pmOZQddP5GbDb/bKcrxAwXhmYMELFSKSZKVZfNYV2Sk4hIq+oFBwSuOuNP17TIV5kJjVRlmP76DgxbqgkeWMb/m3sn6zXk03Fbd/hgMcwILqwmC951Msi2qyYmDqSjHt+8r0CH+SaNXimPd2Pf9ImEy/FUn/EAQtqEJKR+S4rCQ8EoV67vnqAFf2ubrvYQ6pmPQl5XX/CfBtDLRBjuNoJQwACNKIc/eroH+IdMl1iSisBr7fpP1OnLwsUShN5gwNGtCcKSQQGwf6KFpF2/ZHralaM9mn2DrClwNGHYtEn3qpeWQHfEt67bgCNhtpmHmyXafjbKnaklpu4iFbkMgDYJ+V+vySVk4456SaSd3LS7MijJQzzWFl+JIZ9w81b1xw==;Cr5VuQTRzhcUHhftumZJDg=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 797
         isCached: true
-  - title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
-    excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
-    publishedDateTime: 2021-02-04T12:20:00Z
-    webUrl: "https://www.cbsnews.com/news/andy-jassy-amazon-ceo-executive/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/andy-jassy-amazon-ceo-executive/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/andy-jassy-amazon-ceo-executive/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 42
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/03/8d479944-d332-4de1-9d61-25c44ed488b0/thumbnail/1200x630g6/3de4be33411da8961307fb8858d5a45e/gettyimages-1129882595.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8fA2WEL8Z8QwmcNMkDQYuPhwCDTQpDQIzjwbYCGS7SDykAAlpIekhSMWkykoj8FqU+tELrb0j6Of5e0TX6UDm58V6TPiB2ezvKjRZ+pdIsEYmEJarSUrofZqlC1gpH4M9x/dhtEf0NMvnCDVOoVapGudtriUDfwUDbkb66Vv6Dnj8BtT59VASIeVEpxvwdkkEG7Xcj3M72FDoKkHn+R8MUviFU+N4qJJ+iPfjyX1w6WNeIZnb4lgAyntDiVBDfFDi8Mii+Uk2LEflDRV/chwq+LpBOWK3dCRSYvuZdTDtYpn8bjW+djQTH4X5IWxNO1Xu3UkmjXlbZs2utOmixI0ZKokiC5YNGxb7XYqk66Z8FqPvNjxpCo8855VfngVaK15x3K1ZzKLQr4zggmuZjl1sJeKi6ePMsw+1XkvVXy+6UBdXDS0QAhDSmNZ9KI6QweIsPv7C86vIfqjK6QD37EJU6UQRCUoPjQVCKvAaDh+OrdO9pEY90gEiS770nTvtRWu6WcXke8S83s+P7SngqdF3A==;E3HfUzLkmbqiwwkYI2NWng=="
 ---

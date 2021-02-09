@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Hyundai says it is not in talks with Apple to make self-driving cars"
-excerpt: "Hyundai Motor and its affiliate Kia said they are not in talks with Apple about developing autonomous vehicles, disappointing investors who sent shares in both South Korean carmakers lower. The pair said in a regulatory filing on Monday that they have been talking with multiple companies about co-operating to develop self-driving electric vehicles,"
-publishedDateTime: 2021-02-08T13:02:00Z
-originalUrl: "https://www.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-webUrl: "https://www.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-ampWebUrl: "https://amp.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
+excerpt: "Hyundai Motor and its affiliate Kia said they are not in talks with Apple about developing autonomous vehicles, disappointing investors who sent shares in both South Korean carmakers lower."
+publishedDateTime: 2021-02-08T14:24:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2021/02/08/hyundai-apple-self-driving-cars.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/08/hyundai-apple-self-driving-cars.html"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F408b27d3-3f40-4616-bee4-25cd987c1ed9.jpg?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
-    isCached: true
 
 related:
   - title: "UPDATE 2-Hyundai, Kia say they're not in talks with Apple on autonomous cars"
@@ -179,6 +171,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "BVvA2ScaUGUXFlFqAGi/wyxNT2CkN8sAgEjZB3nNNZWA+W5XmxKIGEfAwqxGB78FcH4o+KMPFhv4j80S2gPjD3npOviKg757ZKlc2N5mdM1wLM5ahnTJR08rDwAqjxMvfNFyTrlXiKM5dsB2lZ05acgMO0Rpm2NHoYQI4CAy+BEI0Tce/21NLsptuaV+ulV/viV0IQMLfU7+o7YY/EH2nMb6w1Q6ANdKcaBKSHn4OExbDSTb6dcVAYlnG356mlJ9iS66Cml0s8Rjm2BG0U59kdW/JuqpHlWDpC9FxUnbQOXZqi9Pp87fRYmcGC6sCS8/+6+npyjs1Qvk86Xjhq7QHcTZpB6gTVb67xAf8RrXBbM=;amhKBJGBnLTD80EwUSr9MQ=="
+secured: "v3XDZO0T4GuzLCV+aaXuXkagHvr2VYQ4fkkbamWb1gZE8WhRDp0M4fgtBD6Bp0MFTrxWoymfDP5YX5C3TGuo+UbVXwRYhzvPPbHyDnilOOhzCLWCwqPml6RhZa6lvr3HIK0O4w9nOvXBKTLps8vKDAERN1xvHR2vLPwf4ldMq4jDL/ZrkrbzzOtT2K3gxvryPlpmRT2MF9JBrDCQRlH9KEYLqMlhU+OJVY44h/ywO5pjSDn8IrkiIAXXbqSEiWU19iKUzyVampn2gah+N4WXrRTeykF2KaZ6uoiYDoRWDK5AKVLL7SMYGzHIRv7qdg8W+8fJFfh+XWo7tJqUKAROOmsl+MaA1dP9j655EYZoy1CCzosjefZA0FHA5SgIe3dby24tbIYSR87sJBrqKdiRIAIys8zLWHmoYRz7JHhemETIKLCe+eT+J9KdiqBDe53CDRFZ8EBaxyX6Q9CoVbyldiwbdxbvyd9S9nHGkbyNzIBK3sYGQ+a8D2XKdEgWAM8eefqaVF2G1WsruEuDG8UENw==;1K2ONC7QLat1W1QNNPlqpg=="
 ---
 

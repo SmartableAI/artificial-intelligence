@@ -41,6 +41,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Does Deep Learning Fuel Loss of Privacy In Facial Recognition Technology?"
+    excerpt: "Although face data is biometric information as unique and identifiable as a fingerprint, it is also casually available in many forms and can thus be passively collected in ways likely to perpetuate severe privacy violations."
+    publishedDateTime: 2021-02-09T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/does-deep-learning-fuel-loss-of-privacy-in-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 55
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Does-Deep-Learning-Fuel-Loss-of-Privacy-In-Facial-Recognition-Technology.jpg"
+        width: 626
+        height: 417
+        isCached: true
   - title: "Delta rolls out facial recognition for domestic travel at Detroit airport"
     excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a “biometric terminal” for international travel using facial recognition at Hartsfield-Jackson’s Maynard H."
     publishedDateTime: 2021-02-04T20:51:00Z

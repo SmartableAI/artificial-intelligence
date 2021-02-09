@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-air
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
 type: article
 quality: 55
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Indianapolis International Airport recognized with Voice of the Customer honor"
+    excerpt: "IND recognized for listening, responding to travelers during pandemic INDIANAPOLIS, IN, 2021-Feb-09 — /Travel PR News/ — The Indianapolis Internation"
+    publishedDateTime: 2021-02-09T03:31:00Z
+    webUrl: "https://travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/"
+    ampWebUrl: "https://travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/amp/"
+    cdnAmpWebUrl: "https://travelprnews-com.cdn.ampproject.org/c/s/travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/amp/"
+    type: article
+    provider:
+      name: Travel PR News
+      domain: travelprnews.com
+    quality: 35
   - title: "‘The Voice of the Customer’: ACI recognises airports for consumer engagement during pandemic"
     excerpt: "The Voice of the Customer’ recognises airports that demonstrated best efforts to understand the changing needs of their customers during the crisis."
     publishedDateTime: 2021-02-08T09:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/russia-central-asia/article/3120588/
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "Fears raised over facial recognition use at Moscow protests"
-    excerpt: "Lawyers say several people were held after being identified by surveillance cameras in Moscow during protests last week"
-    publishedDateTime: 2021-02-04T12:45:00Z
-    webUrl: "https://news.trust.org/item/20210204114516-3ztzg"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 54
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/6c581121-1e5d-4ba3-ac44-8fedff5da105/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 736
-        isCached: true
 
 secured: "jozl4pHZOlK/52Ll+sWSf/bDFjWan1KvZhqLyrR9JGjZPNdSWlltSoORqY6IMtzPCdkP1c9Zn9GZ+LBlIkjL//7hJFAw+aGZPKc2NuvnAB4QdrpMpIzqr7ynu1Tfnje5lawo8mjXKT0MLx5oUuMs0ztq0i+kDiIx1ViXKbaQOgTeQyYfBs9hp9oJl/+xoHm7o1JftvH/+jtGOPTjMAu+5yNbvZ03rLdabQoxEsTCJOvzzAWlJdTqHnHxJNTe8LpzwF73AK+TXjarS43K8JlOi+njyGxZJppqUz9+o7iTq3qY1kJ7EggKEOGrCtich4e2GPHXhnFGms+5gkkHLQ94CKJN3ts7lQmtv6+IC1NveFwF4cz30fNEVa+93+Zw2F/lGsPz4rsITXSbjNGlEdD0KYB9ccuIX0whdI2CB6pab9OEF78diyQqxsnKchQAIv8yTnrem9gp3oX4Va9voLgjnk/qr2FAhEEirp5/lKPlxulUQQQjE3SHZagHWjHZGHIJR9xIXsC0D5Xoxnce333N/g==;s/UBeSRlZJ42uetcFDOVPg=="
 ---

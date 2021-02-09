@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chatbot market in 2021: Stats, trends, and companies in the growing AI chatbot industry"
+    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from ou Report."
+    publishedDateTime: 2021-02-08T22:27:00Z
+    webUrl: "https://www.businessinsider.com/chatbot-market-stats-trends"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/6011cef11d2df20018b71349?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market Development trends, key manufacturers and competitive analysis 2026"
     excerpt: "The latest Artificial Intelligence (AI) in Automotive Market Analysis report is comparative coverage of key player's qualitative and quantitative information highlighting key market developments, challenges,"
     publishedDateTime: 2021-02-08T07:32:00Z
@@ -123,17 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing in Healthcare and Life Sciences Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "The global Natural Language Processing NLP in healthcare and life sciences market size to grow from USD 1 5 billion in 2020 to USD 3 7 billion by 2025 at a Compound Annual Growth Rate CAGR of 20 5 during"
-    publishedDateTime: 2021-02-04T12:44:00Z
-    webUrl: "https://www.openpr.com/news/2236397/natural-language-processing-in-healthcare-and-life-sciences"
-    ampWebUrl: "https://www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
 
 secured: "3ghVsqwdQ19W5inR4zJnQJz0WsnwAYYf4ZQ4IeQeHAP3DyuCh574cw29pgJ5EMGJC50oAQ7hTOCBivaVBEKFTbsh/ooZEMLWubL0lNNuK3O4YKIwaprKHVx1M5xftZ7dHokQoX8vusKTG5mGPHDHxh4SgBIZyi9F0P2hKsBV3lManf0MsISH9KntRYgKBDq3xq80KFHp6q62KXDT4clR3RIur3DUE/Z82u+6BHQX+ly27pjSwQ7zsKZldOejalvEsI0UTXqwl5Nac3OQFHfKO1iclZwg6vVGijTGNFEy/gviI5y16qENZ005D1ydQ9nrqWmZHKkwfGZCHgHg87vnOunGAr6YR4HHTmc27YRL6OA=;P3BLdlmqvOmF8OcsJAfq4A=="
 ---

@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-01-18-fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection.md",
+      "title": "Fitch invests in AI start-up to improve bank misconduct detection",
+      "excerpt": "Credit rating agency seeks to expand how it evaluates lenders’ riskiness amid raft of scandalsRead more on 'Financial Times Companies'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "publishedDateTime": "2021-01-17T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-natural-language-processing-market-share-industry-size-leading-companies-outlook-upcoming-challenges-and-opportunities-till-2026.md",
       "title": "Natural Language Processing Market Share, Industry Size, Leading Companies Outlook, Upcoming Challenges and Opportunities till 2026",
       "excerpt": "\"Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel ...",
@@ -1130,49 +1173,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-2-fintech-ipos-to-watch.md",
-      "title": "2 Fintech IPOs to Watch",
-      "excerpt": "Then, the pair take a closer look at fintech start-up SoFi, which is getting set to go public via a SPAC merger with Social Capital Hedosophia Holdings V (NYSE:IPOE). And last but not least, we discuss the recent correction in bitcoin and other cryptocurrencies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/01/15/2-fintech-ipos-to-watch/",
-      "originalUrl": "https://www.fool.com/investing/2021/01/15/2-fintech-ipos-to-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/",
-      "publishedDateTime": "2021-01-15T15:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -27,50 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "How Data And AI Will Continue To Change Healthcare In 2021"
-    excerpt: "The growth of data, artificial intelligence (AI) and machine learning (ML) has had a particularly strong impact on healthcare."
-    publishedDateTime: 2021-02-04T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/"
+  - title: "4 Stocks to Watch as Adoption of AI Looks Poised for Growth"
+    excerpt: "Notably, per a report by SG Analytics, the global market size of AI is estimated to witness a CAGR of 42.2% between 2020 and 2027. The report mentioned that certain trends will be important to look forward to in 2021."
+    publishedDateTime: 2021-02-08T12:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth-2021-02-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth-2021-02-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth-2021-02-08?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI Can Improve Healthcare"
-    excerpt: "One area where AI has found some traction is in the healthcare industry, where is seems to be helping improve care."
-    publishedDateTime: 2021-02-08T00:23:00Z
-    webUrl: "https://www.sqlservercentral.com/editorials/ai-can-improve-healthcare"
-    type: article
-    provider:
-      name: SQL Server Central
-      domain: sqlservercentral.com
-    quality: 54
-    images:
-      - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
-        width: 320
-        height: 320
-        isCached: true
-  - title: "Maybe artificial intelligence will drastically change health care, but who will benefit?"
-    excerpt: "Our federal and provincial governments have proven they can unite around issues of national importance in health care and they must do so again if we are going to have any chance of AI playing the role many believe it can in helping us move toward personalized health care."
-    publishedDateTime: 2021-02-08T05:01:00Z
-    webUrl: "https://www.hilltimes.com/2021/02/08/maybe-artificial-intelligence-will-drastically-change-healthcare-but-who-will-benefit/281783"
-    type: article
-    provider:
-      name: The Hill Times
-      domain: hilltimes.com
-    quality: 30
-    images:
-      - url: "https://www.hilltimes.com/wp-content/uploads/2021/02/pexels-photo-339620-750x375.jpeg"
-        width: 750
-        height: 375
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "Ixcd1H1tuI1hs07gq/+8kPNo5DrMA17qS7WbmZ/l9y5SmeE8kXO1ylHXwEsYUjkAm4QQkF6Tsd0oqPP6lE1VIs9sxUjEXfKvabT4xszRx2kPKf5tPpDHuP7I9dBoYz6UEHNWLd9wrn8/858R4NxAR1GNo1Q3P6di2eM3psCWCO9bbhgxYCjymD0K/IsWmXMjMHs/bEB+tjeh7sb7iXqtqutjVAk4GqBL8sB7vy9Kq7qJCq278/0IqN8NvcZVh23qaHUA+4eFFliwq79nj2IeK58VB5D8nlqY57dNue/hTWDYWIGv+SepDYtT4faat5e5NDVgGXMpVPeATPau89XjjO265Z4sQaHovnGHA8v9F6A=;PnbyxBVnOpxzJFkb9V6nlg=="
 ---

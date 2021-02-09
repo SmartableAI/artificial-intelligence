@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2236648/image-recognition-market-will-obt
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: openpr.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Computer Vision Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
-    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, presents an encyclopedic evaluation of the global market."
-    publishedDateTime: 2021-02-04T12:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-research-study-with-trends-and-opportunities-to-2025---impact-of-covid-19-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Text-to-Speech Market worth $5.0 billion by 2026"
     excerpt: "Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education,"
     publishedDateTime: 2021-02-05T12:22:00Z

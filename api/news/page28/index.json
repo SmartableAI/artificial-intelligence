@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-01-19-intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others.md",
+      "title": "Intel Unit MobilEye’s Strategy To Win Self-Driving Is Very Different From Tesla, Waymo And Others",
+      "excerpt": "You may not see MobilEye named as a major contender in self-driving a lot, but their radical strategy takes interesting bets and makes them a top company to watch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006667bd1af2435b265762f%2F0x0.jpg",
+          "width": 1199,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
+      "publishedDateTime": "2021-01-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-will-ai-save-the-movie-consumer.md",
       "title": "Will AI Save The Movie Consumer?",
       "excerpt": "Any organization planning to use AI in their processes should collect a diverse and trusted set of data upon which to perform thorough back-testing to reach the necessary precision for their intended application.",
@@ -864,50 +916,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare.md",
-      "title": "Facebook to use AI in predicting if Covid-19 patients need better healthcare",
-      "excerpt": "Washington [: American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
-      "originalUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
-      "publishedDateTime": "2021-01-18T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-01-19-deep-learning-software-strategic-assessment-and-forecast-till-2025-ibm-microsoft-nvidia.md",
       "title": "Deep Learning Software Strategic Assessment and Forecast Till 2025: IBM, Microsoft, Nvidia",
       "excerpt": "Deep learning is a subset of neural networks. The deep learning architectures includes deep neural networks, conventional neural networks, recurrent neural networks and many more. The software ...",
@@ -1098,21 +1106,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-ai-and-creativity-why-openais-latest-model-is-a-big-deal.md",
-      "title": "AI And Creativity: Why OpenAI’s Latest Model Is A Big Deal",
-      "excerpt": "OpenAI—the research organization behind last summer’s much-hyped language model GPT-3—released a new AI model named DALL-E. While it has generated less buzz than GPT-3 did, DALL-E has even more profound implications for the future of AI.",
+      "path": "_news/2021-01-19-facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare.md",
+      "title": "Facebook to use AI in predicting if COVID-19 patients need better healthcare",
+      "excerpt": "Washington [US], January 19 (ANI): American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/",
+      "webUrl": "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/",
+      "originalUrl": "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005ff901c6ca277f62e83f1%2F0x0.jpg",
-          "width": 730,
-          "height": 439,
+          "url": "https://aniportalimages.s3.amazonaws.com/media/details/wfsa4753.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1120,23 +1128,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/amp/",
-      "publishedDateTime": "2021-01-18T17:03:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T17:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Asian News International",
+        "domain": "aninews.in",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1145,7 +1144,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

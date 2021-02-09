@@ -41,20 +41,6 @@ related:
         width: 650
         height: 439
         isCached: true
-  - title: "Global Computer Vision Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
-    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, presents an encyclopedic evaluation of the global market."
-    publishedDateTime: 2021-02-04T12:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-research-study-with-trends-and-opportunities-to-2025---impact-of-covid-19-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "CZDWjhvdiSr62Eo1uvKeGpq/0TRFBvk+j8dX6fhImIzZ7EqaPAAlsz5NjnR51hrFah7xh5JhjlCH141VPlRfURfyONpVSvpnG7DYlny+L6LccLxtabLdSJqsjAGF+I2Wsgdx/hWFxR0b3RVzhmnLgShWzGpg6LYyHfE343nDIswgB4bW3LSJFDZeMAfWYz9rn/WtE8lRr6B1EVbl7wijfwJxBeJjZkptaU5+LAgK+vheZ3i8gDXKxr5WMfBsHy6w6hdAbaMGblApopOqLfKUo7M1tz60qup+oIGJ/RuldyzC8t0m/DM7M3cOxVA7n5p0MAxOwqHiSPcM6iHTpMYZSNkPvmCiIb6jfd7zIeHsKE8=;coYjuNofyb3OD0J0LWNZWA=="
 ---
