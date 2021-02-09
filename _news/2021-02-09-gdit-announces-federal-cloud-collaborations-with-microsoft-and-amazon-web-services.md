@@ -185,20 +185,6 @@ related:
         width: 696
         height: 348
         isCached: true
-  - title: "Microsoft Partnership Will Bring New Cloud Service to DOD Microelectronics Project"
-    excerpt: "Microsoft announced new partnerships Thursday that will support two major Defense Department projects using the tech giant’s Azure cloud services. Microsoft is working with ten companies on a technology solution for the secure design of microelectronics using a new service in the Azure Government cloud region in support of a Defense Department program,"
-    publishedDateTime: 2021-02-05T02:57:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/microsoft-partnership-will-bring-new-cloud-service-dod-microelectronics-project/171872/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 35
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/04/NGmicrosfot20210204/860x394.jpg"
-        width: 860
-        height: 394
-        isCached: true
   - title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
     excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
     publishedDateTime: 2021-02-05T08:05:00Z
@@ -223,6 +209,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "eeZDFT0u7DqztMnuR0n4M0Z7jaVn7vMrHB1beVxk6T/X5czfcYKYIjPf4xPUTaG6Hp+yXdW4CvNO+kSO5ffC/lpoav1ZbWlT391/KPTtcUKcxlfU0kv0/RqS/1kFRS3Vtom5uW7iWn87f8QgAFZBuBbi5+5vXOhunFJkpK34fFHnYGPoqlQyQCY70ag1+QPXeSgQlYkKf3nX7RQwdRoGPjrXOhIY+E3p/g40BXgHtCzIn/ldJj/hc1VYG4+AWWPPz2ZdlfnIj1XbtMvVc4u9oMPD2k/3wv34FjU/b3Pc/NWBFFRFsnQ6K3IwvA1wp4ioR8dVGqjGORLohy1D1jbrNixfc+50SzgwG1naFqnYkjA=;pbcdDTf5pY8Giux5j+Dn8A=="
+secured: "B4vyTQA33EBP6riZftyM/cExlxbu0GyR7pQTTjMPVV5vIDkQyT4aLHq0XuZz2TaW01er5v49od8rrmxFWFqv0jGFvR9PoRJwvGRtujOLDSsztkDlnQT+J1q9H0mHbnP3Ot2bI5nvgJOJ6JmYgRB+JAmlybJ19e2TggzFP2IRQmZWpFPDQloqs65J4Pf/9mn9iAVwGbbX9mKEBohYD+q7aA2CM9/RiB+quMMh8DXPM/LE0vUTrnl619X/QaEccXaZb4dZL4ALjJIsrrcuvw266pMK3JfgC8e54GmWU+yGUfNXKqpqyhYCO3XiXMi9SNrBuY6YENbx9O2RyI0EIdy94EVJw5aMKePWa2YiKBuCDCm9VEVsWis+iYElHThIeLEzZFaSqlk7+l5dpkE6r9AVx4qf754IjMklnXqSAPomCimCGPRXBLzQ+azVBrYGNmXAj2bNFybm4gTvi8Lr0Y57GSnHL2URPz92x1Zo3WQO5TSu1SkX0iuhL0Q+2S1rrGnkq8850ZZidG5ofzhymJK/Tw==;az7GINXjrCaJ72wO9+LLWw=="
 ---
 

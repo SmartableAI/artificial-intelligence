@@ -1,14 +1,11 @@
 ---
 category: news
 title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
-excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising recent approach to train deep neural networks, to directly learn what EEG looks like,"
-publishedDateTime: 2021-01-21T21:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210121005681/en/New-Deep-Learning-Discovery-Paves-Way-for-AI-Interpretation-of-Brainwave-Data"
-webUrl: "https://www.businesswire.com/news/home/20210121005681/en/New-Deep-Learning-Discovery-Paves-Way-for-AI-Interpretation-of-Brainwave-Data"
+excerpt: "Machine learning has the potential to relieve some of this burden, but EEG data is extremely multidimensional and can be expensive, and time-consuming to annotate. It also requires the deep ..."
+publishedDateTime: 2021-01-21T17:39:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210121005681/en/"
+webUrl: "https://www.businesswire.com/news/home/20210121005681/en/"
 type: article
-quality: 31
-heat: -1
-published: false
 
 provider:
   name: Business Wire
@@ -18,72 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare"
-    excerpt: "Ehave, Inc. (OTC Pink: EHVVF) (the “Company”), a provider of digital therapeutics for the psychedelic and mental health sectors, announced today plans to continue to address the needs of big data management in mental healthcare."
-    publishedDateTime: 2021-01-25T13:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-  - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
-    excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising"
-    publishedDateTime: 2021-01-25T13:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-1029998995"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-1029998995"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-1029998995"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-  - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
-    excerpt: "Interpreting the results of electroencephalogram (EEG) graphs, which are used to visualize brain activity of everything from meditation"
-    publishedDateTime: 2021-01-25T23:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-898183188.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in ..."
-    excerpt: "The Ehave Dashboard will continue to evolve to include its artificial intelligence and machine learning functions in order to become more integrated with clinical care in the coming years. Ehave Dashboard has been in the forefront of using data analytics with its blockchain data warehouse that provides insights to clinicians and patients."
-    publishedDateTime: 2021-01-26T06:02:00Z
-    webUrl: "https://apnews.com/article/technology-government-regulations-medical-technology-lung-disease-coronavirus-pandemic-23b526e4b4ead9ea7e999196b97d23a3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 43
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AI and the Virtuous Cycle of Unprecedented Data Management"
-    excerpt: "This is the first article in a four-part series that examines how new AI architectures are leading to a renaissance in computer architecture, and why there’s a renewed focus on memory systems."
-    publishedDateTime: 2021-01-25T20:10:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21153217/rambus-ai-and-the-virtuous-cycle-of-unprecedented-data-management"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/01/DataCenter_AI_promo.600f1f0648349.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "dI39uHct2+mB5Tq6mJCi6Lk6dSNN6LwZsK7yTv2N6aAivzFkFMzjYwVRwIgVa2HIdyEYGZ6LpmRRMSk46gsVHKSek5SIClOnNKWmQ0KZwM0G+afzZQB/WTJXwd9ztgOYja7F21CkLIdtMveaNYyGOv1SDsgg6QtRQGJXdvBH5Bvh5ya2icfuOkNLyxLlYEPkZ7DT1nMuf7bxWC7Yc5yiOwM04KY8JjnmGCpBXPTv03khdzGfJtt3kpWW+t/xx5qkixYDCr/qnrBpN5j1tVLy+x5a0CbJ28avvX4qTRkGz0XiiyFeRqrDm1ySc0DCR6oB4qt8hjfAp6U1JgPi5ePWx5xeOn2xsUCZdZ5egpNqy1E=;ZGzvIPPtOtgfod3Ps+b3sQ=="
+secured: "GcyPCK0b4wkYXoHJpPgSH8/U/eEb5F7aGmUrxDwPJbCela8ZobIrRbafqcFB/345xJkGfFsDoARaPgWiVlBt74P8uJXb7shM2immNZ53+8sapqyV3HauU/1ROHaYahzsM+O6bvrZn6pWL7F9nAn3qY6On2d2HYciwsDWr3c/+oexnxZZSg24wvTHLIzpZqMcRrTUNNUUY+DaMAHP5pT7V6Ka2aUNHE+yuAJsC0+hxXRoAv9+S15WMDHU2CYEoZI6cZVfKkebLq/+iCna+twQYS5hZWEIpNxwCE0MKUGXCzzIn3h8yrAlpsv6CyQ6EjEf/ae51P/rzNgI8ERj4afmpSz+ROaVXbfz0n0cLh6qbjw=;ohwPFnCrh1vcDL1WOX0e8A=="
 ---
 

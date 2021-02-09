@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/02/05/meet-robby-megabyte-bosnias-first-robo
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/05/meet-robby-megabyte-bosnias-first-robot-rock-band-musician/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet Robby Megabyte, Bosnia's first robot rock band musician"
-    excerpt: "Bosnia's most popular rock band, Dubioza Kolektiv, has a new recruit who sings and plays musical instruments - a humanoid robot called Robby Megabyte."
-    publishedDateTime: 2021-02-05T01:31:00Z
-    webUrl: "https://www.reuters.com/article/us-bosnia-robot-idINKBN2A41U5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2A41U5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A41U5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550324550&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1314G"
-        width: 817
-        height: 545
-        isCached: true
   - title: "It's electrifying! Meet Robby Megabyte, Bosnia's first robot rock musician"
     excerpt: "Bosnia's most popular rock band, Dubioza Kolektiv, has a new recruit who sings and plays musical instruments - a humanoid robot called Robby Megabyte. Students from Sarajevo University's electrical engineering school agreed to build Robby after the band requested a robot designed to fit the concept of their album #fakenews,"
     publishedDateTime: 2021-02-09T04:45:00Z

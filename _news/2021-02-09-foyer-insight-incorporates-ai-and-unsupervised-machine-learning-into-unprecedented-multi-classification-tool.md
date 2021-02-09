@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Foyer Insight Incorporates AI and Unsupervised Machine Learning Into Unprecedented Multi-Classification Tool"
-excerpt: "Foyer, Inc., a startup PropTech development company, is introducing Foyer Insight, the most advanced computer vision Artificial"
-publishedDateTime: 2021-02-09T14:54:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-301224825.html"
-webUrl: "https://www.prnewswire.com/news-releases/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-301224825.html"
+excerpt: "Foyer, Inc., a startup PropTech development company, is introducing Foyer Insight, the most advanced computer vision Artificial Intelligence (AI) suite focused solely on the real estate industry. Using multi-label image classification and unsupervised learning,"
+publishedDateTime: 2021-02-09T15:06:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-1030061343"
+webUrl: "https://markets.businessinsider.com/news/stocks/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-1030061343"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-1030061343"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-1030061343"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 65
+heat: 75
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "AI-Based Video Identification Shaping the Insurance Industry in 2021"
@@ -39,21 +39,7 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "While Artificial intelligence is already being leveraged in many IT sectors, what does it offer in space industry?"
-    excerpt: "Applications of Artificial intelligence in space is not restricted to space explorations. For instance NASA uses AI for discovering exoplants, built humanoids that assist astronauts and more."
-    publishedDateTime: 2021-02-05T17:12:00Z
-    webUrl: "https://www.analyticsinsight.net/beyond-the-unknown-applications-of-artificial-intelligence-in-space/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 19
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Here-are-few-ways-how-AI-can-help-us-venture-in-space.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
-secured: "mTB7QBQ10/rroxQ9SOLhFzzUyA8pAQ4jB+csB/XxPohxVVQ5Eq64cbiMicn+wyjl9VONYmpWsto7aZWbRh98D+B3l6cXXthj2uv3y7eQj1aDq2dKLImS4lMMiDsg39AphHVNpf5duBfEefi5LcNI7lxwwWkq9Dqkb4lPrmPFIo9oRLDmMd9hR0dP3rkUT2t/lCKRkAivyAMfDOPZtg7YXj6fj4nvBYWRuBczh7jZjAslztl+hdF8chFznbL6Pl23UF4Ti3yYYFpms4DOT+JI3G/rXpDHdQwaxKZKc9DO9GAU5JQ12F8jVic25eea1IoiDtBW6ZYT7I3KDMOmuykNkUZVvnW0kZx6gDMKxTzDT4M=;Iq0bsJooxyXR+cqbLpJJww=="
+secured: "2H9bdusgT6y6qmqCywn4ilaSAhlHkg0qINbE1HqwEkhDad5M6e5qOYKV3OI9U4r0tVvll4lynp03eJILCFuYn5i83NLLe2rz4jDEKSoK7KdvBPQY/dBrtiDpL3dVlPp40vtlexPyC46FQciKy4JobUMGNxF8zZbMMsch6HVmb6y48xfW45zJnS4eaEujTb4csR5AVekp2ExL7lZkZyhoV8xrWVjtrLuSKr9Pb0y5mOleIu+9cPL4vIV2J10erLlGTVkWr2ub8BBD/ibWzKk2NtOy7XaWM5qxpUHbdABNNa3Wv7v8gO07FFEIYjECa4cgNkGyQqHZH719PYTwkY2bmQZO1PHKnJsSeUfZwSQBpJA=;ckS1ye3dGdzusKYau7hNDw=="
 ---
 

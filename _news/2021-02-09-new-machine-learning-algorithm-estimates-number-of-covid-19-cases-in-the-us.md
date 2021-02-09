@@ -57,6 +57,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Machine Learning Model Shows Higher COVID-19 Cases Than Reported"
+    excerpt: "A machine learning model estimated that the number of COVID-19 cases in the US is nearly three times greater than reported."
+    publishedDateTime: 2021-02-09T17:35:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-model-shows-higher-covid-19-cases-than-reported"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1132660268.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "p4cz/JR4zWRSRhhTf5DzbgXs3CM7MeZEeB1KeM0bTrDJhMvixAQ84TdEKrqSKGL4RClnkwjTyJdPsullrq3yGYngelIPk18afJcs3ZkasinwQdAe4vA1iu0N45BEyvbHSod3NBX9NFR6qnhUNQDMJgSjMIqbK1I2NgTSkdn2wlQUSy5tI3lvI+1DQVt1h0wjJma1Sx8J6LglrRog2CIMJS2FgPE6pn3lkO+HEfK0RcAy5VDtDVGuJMxCxhFBoLGb0yO23W9jxgNEvJaGMEkQ/uOlmF7OERNYYKDmCJHJGXfWdt7H0mliRTvKbks+meJ6l39DU/WByoG95TPZau9YP7tFCJlWf12NkWb+hgWmhjQ=;gRWiv+4sLYFjh9UgmXOjDg=="
 ---

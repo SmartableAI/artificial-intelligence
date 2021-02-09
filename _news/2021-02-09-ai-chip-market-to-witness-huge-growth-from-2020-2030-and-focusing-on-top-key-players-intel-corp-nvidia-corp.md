@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI Chip Market to Witness Huge Growth from 2020-2030 and Focusing on Top Key Players - Intel Corp, NVIDIA Corp"
-excerpt: "Market Industry Reports (MIR) has published a new report titled “AI Chip Market- Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020–2030.” According to the report, the Global AI Chip Market accounted for over ~US$ 9."
-publishedDateTime: 2021-02-09T09:49:00Z
-originalUrl: "https://www.arnnet.com.au/mediareleases/137575/ai-chip-market-to-witness-huge-growth-from-2020/"
-webUrl: "https://www.arnnet.com.au/mediareleases/137575/ai-chip-market-to-witness-huge-growth-from-2020/"
+excerpt: "Market Industry Reports (MIR) has published a new report titled “AI Chip Market- Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020–2030.” According to the report, the Global AI Chip Market accounted for over ~US$ 9.7 billion ..."
+publishedDateTime: 2021-02-09T09:52:00Z
+originalUrl: "https://www.reseller.co.nz/mediareleases/137575/ai-chip-market-to-witness-huge-growth-from-2020/"
+webUrl: "https://www.reseller.co.nz/mediareleases/137575/ai-chip-market-to-witness-huge-growth-from-2020/"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AI Hardware
@@ -91,6 +91,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "DNBfAB+uzTVb0h2gJ3XknTW0h03ez+9b2e+wXeh7unLGHjERx63eVBSnRg22bqlWXb1gn2tK9a2IvXO6VJMsvPW9yVJazri/8yjz2VKZ6diU/PBop3AbLaAYFzN398+cHTWnv7/kLgJshnIkqPuMpnIga6QcivHC0DdE9Z7pYTl7eaSY9wanYqudrOH+5i0tgj6b+pfks1JBQZw2OedssPt5aqeiO/iij4Gtm2/eSdxyc/Puo1LmLfoSgiV7rACQg7zWPVrMZJ9rrQ4fu2z2Vk6jksvoU9XO0Ldxf+Cr6k+lmBjdVnS6IMFw1BbrJ4up1Yvaz6sVyOJdfv+Mg8ocDSgNtLEm/m/6SK6Hf6EUoTM=;OIaw5ktLKvzIECD9NLG+sg=="
+secured: "kR65l/1mu3mbVsDjEYbsXnR66AkpjNVtLSpU4UWitJWOpo8JStZzlMJEL9kJ0uAn2eFIj5dklOwoY+4ycE+pgGgexAO6f8BqdsGcwwyH/259XKojocjU3SOrH7SRtW5SdqKIdXDSIDsfYK9DK2MHzPhASBzlqGK6futH6ByGsr3ndqR7nb8JuWchTsmrGiF/csVXZEQfwzwFYvbqF2IM/m7F3Xhp14vKSbkt6YEHd53PCDVLVZmuFk4XK23AXa8eAja2sgGk3t03VARGGurRBmraBq9eBmnykpWDApFG+8AAq7gVMGlRJs66XLP2hv1pXpshdFNODhkoyt/8fmq84R7/lStC5PosfW0eWz+73WQ=;Rj2cT9Ypy3IDn97k+6PTXw=="
 ---
 

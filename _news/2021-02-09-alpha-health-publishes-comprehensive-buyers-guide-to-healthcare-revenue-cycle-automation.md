@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/alpha-health-publishes-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -23,6 +23,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Massachusetts-based Parlance Corporation partners with Hendrick Health to provide speech-recognition solutions"
+    excerpt: "With the recent purchase of two hospitals, Texas-based Hendrick Health understands the importance of quickly connecting and unifying services throughout the organization. To create a consistent brand experience and superior service for the organization’s callers,"
+    publishedDateTime: 2021-02-09T17:03:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "8YxAIuuNjn43+5jSRlntqBMnQhTOvOEZFmtlQcY+RRuLO0tKr2JWl0IfU4YyC2s1H4IVK7IMuC/aDS1zVu9PbW7+IKL3QgrTFF1prlo7TTWflrhbDSRHC1JAqCdGDtNzAoIj3idnaD+HsrfsM/ilmh9mODKAWB3kqI7Xs0CubTr8i5O4If6dLbBqO/idpYXN8F7D2TIZe/LM9Wsu0vPGJUrOLljXk/0+mhVEc4r5xCzdJHYH5w59ANKfLT2gCxpkW5iF/TNZjbgcZQlA7ATHdoyjgGquB1MNn45q1INtv3+vcGsePPn+oOtxQzb7FoYxvq5hSXxkHOFrHlA7Og1XZSog9T40+MycBvsgKfeoRXI=;mYKzacSnDOxMD7qp+mgP0A=="
 ---

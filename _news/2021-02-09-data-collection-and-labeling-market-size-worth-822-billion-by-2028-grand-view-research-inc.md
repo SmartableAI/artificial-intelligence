@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-lab
 ampWebUrl: "https://markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415"
 type: article
-quality: 44
-heat: 44
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -21,9 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - Facebook AI
+  - AI
 
 related:
   - title: "Service Robotics Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
@@ -64,6 +63,6 @@ related:
         height: 630
         isCached: true
 
-secured: "e0qHc40RS6jgOHBmxVkGWgIbxdGr87SBM4j50DgYcplROmaJhH4JT2Ry0NRtK8ODQ19jR8MrAgL7E9E4lun/y3NWuy43kVYVT2UbE/k7me6ahxRWZijSygTjDCn8kzLSmVfYT6DF1Phzr1R4lFUefrUfXWe2hmUx6rruumyG1o5/KKvRcTP0X4C3oqJM77LAxVVOz6av8mgwJX/HDIL3exFX3oFQCdiZ7hhUKGU/jxDadhvI3E3ZatF+dqEHr5/L5835DShU36tDy1zIz2mvvLRhoPCHQzPzm5umo3LDa3clqjOX/QtM/x/odMl9Znz3CEoRoeLgDT6kS0gDMuHHOAohDv8NfHrG9wgY6qPe4I4=;i8XdPBkQel8h4xGHNjU7Bw=="
+secured: "swqICBTmx+xYmMToFpyXrtA5iwVyUyg+i2lO4pxj1BNchfBrdo1t9MkSQlttiJ3ZLYMV8+1M+b6ywySacQAgKltoycOzCsbeAwLgUdUkEduwS75GB067kdXZyCflSqIAFh3d8QWF7bVR5Lomtzj5LTmZgtjb3PyhxMpMECwk8TBAd44ghZqCWqUsqCBxe1NQ4sRUANTbTPeRWkhYRbBQafCCHGEkoFMbzoWFkM4o5+r+vVecuMd9oZy44UrsX4BUAERLmzLkAwKbCxq5Zc1g2ICbsn6wRgzYobSx5jGxArbjKJaKEKXqKbV0cSgP0NDyiyCO6H64bx7N3OintDiZjvKJqg6iNaOz8sx4wJcV3Og=;O3L0hROzktbBALWkZKjViQ=="
 ---
 

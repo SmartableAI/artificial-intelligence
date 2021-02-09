@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.complianceweek.com/webcasts/cpe-webcast-machine-learning-leads-next-gen-battle-against-financial-crime/pictures/web/h/l/v/rtw21_390x260_update_607939.png"

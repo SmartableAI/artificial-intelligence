@@ -7,7 +7,7 @@ originalUrl: "https://jaxenter.com/computer-vision-covid-173692.html"
 webUrl: "https://jaxenter.com/computer-vision-covid-173692.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/7/antibody_in_pink_and_red_background_selective_focus_3d_art_-_Mirror-Images_A1_71b890c58eb74b42a6490cfe1b003dce-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Machine Learning Model Shows Higher COVID-19 Cases Than Reported"
+    excerpt: "A machine learning model estimated that the number of COVID-19 cases in the US is nearly three times greater than reported."
+    publishedDateTime: 2021-02-09T17:35:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-model-shows-higher-covid-19-cases-than-reported"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1132660268.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "0XPnaLnZl6iZjnA3WAQSf3sF7DJN0dpKAvNz6hCc4RNhC4JHgbH07ZNEMHenloTR/6MYMqFtEYkHRekkdTwkA3yLLmxLlUJm7Bop20NYbncQoxQkQHVHRospvdw9dftbCbWaQSmRmOP0z77brDicaXZVqG6RxNIvFdHTYxGQ/ZoZUsYuyyopQY1Hc0oXKHgmEGvOD8imDzIbizhJLQx91qJjxmX/DEhKjt8xfjSGL7IZd0eV1cBp3LoZ2RXbUJx+M1RVMBYCMwTcvchuH/8IIYDJEXRKvf48cK8DylFmsNDS88CkJq0f6zCpMxf8MgqEUFGjFAzql0w3TZ49BgeK/67wlPfafBIg8yewrPERFxdvWXu4w/ze4s89l1t41aoY/P5X09UE+HHk4FP4vR+MNtV0gxIjDPTtknlwqb54l+Z1yBkMCcUBipPA/h1RdJvE+97gqI58tYTxkkbTHJ8tcwuRjKK/SFwR3XWX3JAYtbCDfxBTQvA8HhVMNN/JFuxptfoM4Pw57g4JZZGMiSpzIA==;9Qu6YCMkWsqgAnQNru7YKw=="

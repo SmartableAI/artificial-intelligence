@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
 type: article
 quality: 91
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       - url: "https://pctechmag.com/wp-content/uploads/2021/02/Facial-Recognition-Technology.jpg"
         width: 940
         height: 705
+        isCached: true
+  - title: "Council of Europe calls for strict regulations on facial recognition"
+    excerpt: "At the end of January, the Council of Europe announced its recommendations on facial recognition, a central issue. Faced with the increasing use of facial recognition technologies, the European body recommended strict rules to avoid significant risks to privacy and data protection."
+    publishedDateTime: 2021-02-09T18:15:00Z
+    webUrl: "https://www.actuia.com/english/council-of-europe-calls-for-strict-regulations-on-facial-recognition/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 39
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/02/Conseil-de-leurope.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Innovation in technology and vocational training gets financial recognition"
     excerpt: "The winners of the first inaugural Cambodia Skills Challenge Innovation Call have been announced. The Innovation Call is an initiative of the Ministry of Labour and Vocational Training and the United Nations in Cambodia,"

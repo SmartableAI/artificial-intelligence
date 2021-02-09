@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 44
+    quality: 42
   - title: "Text-to-Speech Market worth $5.0 billion by 2026"
     excerpt: "Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education,"
     publishedDateTime: 2021-02-05T12:22:00Z

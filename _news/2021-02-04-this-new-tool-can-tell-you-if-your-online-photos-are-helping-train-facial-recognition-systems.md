@@ -1,41 +1,26 @@
 ---
 category: news
 title: "This new tool can tell you if your online photos are helping train facial recognition systems"
-excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition"
-publishedDateTime: 2021-02-04T15:18:00Z
-originalUrl: "https://whdh.com/news/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/"
-webUrl: "https://whdh.com/news/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/"
-ampWebUrl: "https://whdh.com/news/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/amp/"
-cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/amp/"
+excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new site hopes to raise awareness of this issue by offering a rare window into how a fraction of our pictures are used."
+publishedDateTime: 2021-02-04T15:08:00Z
+originalUrl: "https://localnews8.com/money/2021/02/04/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/"
+webUrl: "https://localnews8.com/money/2021/02/04/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/"
 type: article
-quality: 43
-heat: -1
-published: false
 
 provider:
-  name: WHDH
-  domain: whdh.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "New tool can tell you if your online photos are helping train facial recognition systems"
-    excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
-    publishedDateTime: 2021-02-04T16:46:00Z
-    webUrl: "https://www.wrcbtv.com/story/43293468/new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems"
-    type: article
-    provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 45
-    images:
-      - url: "https://WRCB.images.worldnow.com/images/19484854_G.jpeg?lastEditedDate=1591862630000"
-        width: 1920
-        height: 1080
-        isCached: true
+images:
+  - url: "https://localnews8.b-cdn.net/2021/02/hypatia-h_49f15336bbaab0b9c920387c0fdb87e3-h_7f22ebabb0a70c04d2ec50df19f2615b_preview.jpg"
+    width: 500
+    height: 281
+    isCached: true
 
-secured: "CnOxvulBnpvSNuyb9FNZSCqfyGQoFTZr7UlPCbuR/2L97mRLDstb8qgUrd56IxwoCa9pfihP6bmeB9oMxCJUeoSBBbrubUj/mh1l2yxl1mYeis0f+ktQGKeXwfqHajniVDWdxTWnpRSDni7ZCa4ivCkDl8/oOB4FRLrUQ4OYhYe3tGrA/cLmz+8Dz91tCocDN/LAkC2hkzv7ILW+jJDrAjau+Diq8qyO0EP3Bee9aiDDvBOotawKpnT2FN88Ghe1NJ08ehTnj5wR4mA7cAVKJdKYBnVLOzo/JOMt49Rd1SIHKXiktVMVhGMlag52TVxAO0oAu/zeCw6vKI9FJ+gLj/Ec2SOQYLZBTLhgjQG4sERd6MoxF/SMtS8/d6SwWrMxB1+wKEjJl6AG2eMMlRWNROghp/nqZrI1vxKNZ8RwA/yhW5uALDMX/5am7dYcwDa/cDqGRWn6sNXAkKqFz5mQG1NGHdull4/4EhvLQq9FGWGUmRrCZgRCJUpYJEb6wiOPKFbnyrrSuyyyA22dKhzpHw==;FXX00bzWyhyAnXlpmRHufg=="
+secured: "cxcJY9/3RAYmXjd6qpa9xXObomB85FsTHR11CYUveCqMIelRUgYOqsC8kkoHwgIsyHgpWrag4OL91Zua6eOxTACh7muGoPROpXth0vNvLVlGxegClfqDp1v0Xtp6U7FjEV6Nbujlv02giHyd9/+7hJhocQwdx2Tan9vTAdO2qsbW+9qAZnz40/JsSVw6ez8JTr5N0YYNYCF3SfJb2UK/wYhYsg+JhhZZWR9Hw6mKGR/szwop42cgd5sAl4hy9BDU5vswxTii7PId1ZYexc5YKlhGY2lA5ZZZ1DFp3YPBL6Qtt3AGoMdtVRCVTtTPdbCo2J6iLOhTFaeI/qdx58mh4au1aYkBnKSoFL7LCDIFZEs=;EI+y5TnhnJWRwr9lhfuxvg=="
 ---
 
