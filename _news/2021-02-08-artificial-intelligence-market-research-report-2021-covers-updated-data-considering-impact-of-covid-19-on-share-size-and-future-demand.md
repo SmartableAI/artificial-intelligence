@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Service Robotics Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
-    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
-    publishedDateTime: 2021-02-05T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
   - title: "Enterprise hits and misses - taking stock of AI in retail, Black History Month's tech voices, and the COVID-19 data challenge"
     excerpt: "AI in retail gets realistic; Black History Month brings needed scrutiny to diversity in tech. COVID-19's data challenges get a tech boost, and Google makes enterprise moves. Your whiffs include Amazon's (lack of) employee experience,"
     publishedDateTime: 2021-02-08T12:49:00Z

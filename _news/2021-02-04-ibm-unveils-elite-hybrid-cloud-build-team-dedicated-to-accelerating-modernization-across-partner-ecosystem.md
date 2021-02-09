@@ -3,26 +3,24 @@ category: news
 title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
 excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
 publishedDateTime: 2021-02-04T05:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19481702/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-e"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/n19481702/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-e"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19481702"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19481702"
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-1030041226"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
-
-secured: "1DaNXuiX6exD7KUHlpsHO5TsXU1XHXFAxHchLCuS4iRTvysc/R4F4iviENP9gtfKZBSWxf3qGtgIadkOfL1dn0mIqC9JdegXnz8evqmJuGedig1remVDzjdF5+cz3LhTunhmyEMsRrcfIo3OKf40i+3Jkin8bw9trpV570e9ITClqbmLP3i/GC0S5qRlqaW/bGnm/KCPds20hj03l8OjeR4itdZXJ4yyQXEGXqgh2xm8r8Re638ZGk/z88wrtIJpbytaodVw/pIJL1xPs0FIzqA7VOnbIKBZt4zGXwFB0GzsHn82yzoTYo07drWeI8EKcGa0tN3mYb3XTQIg0pOD7JPcQV9d+4Un9qrO1Hjn9OQ=;vdcJpXRZaPSaZiiowheItg=="
+secured: "CbZ1ZmAWHu8I0XsWJBoyYMM6eFNP/8EIaMc2ZMuHyPWlWsC9gUJ690Ra8O4N2EkizhuOyMrdehF85RE3XQfcCOlc7ZFIWH4rlvM74zrjd/6kqE/hfDxkEjSc4ETd0Vz4/o+rhcgtbsf9LbZZW6sMEANJA670OuD2s+8SAnntiEoR598V88aPMfON5Q1XlqVXL9SZPftVnkkaD9L9/I+AAVaGnLRNuAkANZcD59ljaGYg99deE8M5Bg1sx2TS32zAlb9vxaA0JfEbUMTby5QQ+QCngiuXHD+VZFMffjdQPHUqv4Opk0prR1TM+aGpA+Qu9W9OObEgOKYvavCxq9s6ewJCrHXARWpt0t7iZXlBFxY=;2AQVxjtI3/Tb/pumO0zZ+Q=="
 ---
 

@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This is how self-driving cars are becoming blueprints for smarter surgeries"
+    excerpt: "A startup is exploring how the artificial intelligence (AI) technologies used in self-driving cars could act as a \"blueprint\" for smarter surgeries. Theator, based in Palo Alto, Calif., is the developer of a \"surgical intelligence\" platform designed to improve the decision-making of surgeons and,"
+    publishedDateTime: 2021-02-09T12:01:00Z
+    webUrl: "https://www.zdnet.com/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
   - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
     excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
     publishedDateTime: 2021-02-06T13:30:00Z
@@ -88,20 +99,6 @@ related:
       - url: "https://images.hgmsites.net/hug/2021-ford-mustang-mach-e_100779690_h.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "Vt. transportation officials to hold forum on self-driving cars"
-    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
-    publishedDateTime: 2021-02-04T19:32:00Z
-    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
-    type: article
-    provider:
-      name: WCAX3
-      domain: wcax.com
-    quality: 24
-    images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
-        width: 980
-        height: 552
         isCached: true
   - title: "When will self-driving cars hit the road?"
     excerpt: "Tech afficionados often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers."

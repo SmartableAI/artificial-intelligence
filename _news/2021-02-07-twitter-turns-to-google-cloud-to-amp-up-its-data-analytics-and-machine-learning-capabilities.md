@@ -46,20 +46,6 @@ related:
         width: 820
         height: 500
         isCached: true
-  - title: "Viking Analytics and Pour-tech AB Sign Contract to Provide AI Operators to Iron Foundries"
-    excerpt: "Automation is well established in foundries, but companies also must take on digital transformation. The Viking Analytics / pour-tech AB partnership shows the potential Artificial Intelligence use in the metal industry."
-    publishedDateTime: 2021-02-04T20:39:00Z
-    webUrl: "https://www.automation.com/en-us/articles/february-2021/viking-analytics-pour-tech-ab-contract-ai-iron"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 28
-    images:
-      - url: "https://www.automation.com/getmedia/c471b09e-28ab-4216-bcd8-972b5c9f81a8/Viking-news-Feb-4-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
     excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
     publishedDateTime: 2021-02-05T19:52:00Z

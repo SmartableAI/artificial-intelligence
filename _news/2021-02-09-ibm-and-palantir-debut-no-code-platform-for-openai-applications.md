@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM, Palantir forge partnership in low-code AI data processing space"
+    excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
+    publishedDateTime: 2021-02-08T13:53:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
+        width: 1170
+        height: 792
+        isCached: true
   - title: "Use predictive data insights to make more informed decisions with Palantir for IBM Cloud Pak for Data"
     excerpt: "Every year, the average enterprise makes thousands of critical operational decisions. With rapid digitization, this decision-making is becoming more siloed, distributed and complex. This can have staggering cost implications on the business. Are you confident that you are leveraging all your data to"
     publishedDateTime: 2021-02-08T12:00:21Z
@@ -54,6 +70,22 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612223%2Fgettyimages-1254825733.jpg&w=1200&op=resize"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Palantir Soars on Artificial Intelligence Partnership With IBM"
+    excerpt: "IBM was up nearly 1% to $122.95. The product is intended to make it easier for businesses to build and deploy AI-infused applications with IBM Watson. It also aims to help users access, analyze, and take action on the large amounts of data in hybrid cloud environments without the need for deep technical skills,"
+    publishedDateTime: 2021-02-08T18:41:00Z
+    webUrl: "https://www.thestreet.com/investing/palantir-pltr-ibm-artificial-intelligence-partnership"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/palantir-pltr-ibm-artificial-intelligence-partnership"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/palantir-pltr-ibm-artificial-intelligence-partnership"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 61
+    images:
+      - url: "https://content.jwplatform.com/thumbs/iyF3evbu-720.jpg"
+        width: 720
+        height: 406
         isCached: true
   - title: "Palantir leaps 15% after revealing partnership with IBM on artificial-intelligence applications"
     excerpt: "The artificial intelligence offering aims to help businesses leverage large and complex data sets without the need for deep technical knowledge."
@@ -95,6 +127,20 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IBM partners with Palantir on low-code AI applications"
+    excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
+    publishedDateTime: 2021-02-09T01:02:00Z
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-09_065434.png"
+        width: 1303
+        height: 722
         isCached: true
   - title: "Big Data Analytics Firm Palantir Adopts IBM's Red Hat OpenShift"
     excerpt: "IBM and Palantir Technologies announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business"
@@ -153,6 +199,6 @@ related:
         height: 284
         isCached: true
 
-secured: "6ZmTHaq/yGzWG8e4sGCnXSDcV170rJmKgUaHPkz0pnFBXCfsLrNhk/9ceSHC0EQLpSa21rtPgUe0AjlKchk7TczWSByR5BceboZHJr2jBsKlCmem+FviqGcw0sihMHYlRe/EOQTHpM5tL9p8W6hlMRx7EMco5t5F3bhlszFTq5QlaLYSuPu/r41xU6pRFXDSBnGqJ3nTw1sx0+SNRPM99nFzrRjDywPDbqXLzPcNCfbE6FKXtKRSp21FHhMgV31SrQrRnPk0KrhaMEDolN+ntUhXu5Mz9UYOrh0r6gMvaLoBGlTE3vqkrlavwgBF91Qu99YAq/Yur1GHA9vzqVfuVQ+Ktj/Ou4GCSVGK86T6Akk=;cNSwQkfgLkkGZTBNsxhjaw=="
+secured: "5VGdFkoZyDmCDuhGdBq7glE2grbdFSj/bWQZ+iXef39r6yRFM14/42xNAOHWc95Ro6UUlv4VAjHVuvrSSmPedRUq7yALLOZFSeBooSPs15vI7Qb4BdfNnpwJk0awqSmESmagNprS+ugC8tTPJh5JoLMrzoh4QpjXxIEQBry1Q3rVO2R6A5ansCZd8Nf8qUjsP80IBMwF7HW+XOQA3aujNmc/xPcEXvBAMqId0n8xBC319gMymPfSEIgdXrdRQKC7aERBMZUky49KTngB/ZG05T8ppcXFwOuz7NlNwRL+NuYZtxesEJJpdYNraWp7Dq9DkqA9T/NrAGhKJnxH9I8aX05lnD6inuXHzCDgZFInF3FDD8cuKr32D2yYV96YPHhxc1tauGW0cTTVV/1fU/Z93+HQCt9C3VYds9ilhzDeUxHU6HNvHpsJsdytWctj/vMzs8qIWdLBsKaGnvjdl3i9IFM3hIjei7Bpi3Enac1FHnHnPP3seCak8YEVfT7UelgKuUwpErz4SZUKZ/n16OEUlA==;0p4+eLXGxtZMB2mTx0dfWg=="
 ---
 

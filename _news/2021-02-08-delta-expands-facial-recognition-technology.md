@@ -43,20 +43,6 @@ related:
         width: 620
         height: 467
         isCached: true
-  - title: "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again"
-    excerpt: "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends."
-    publishedDateTime: 2021-02-04T19:11:00Z
-    webUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 65
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
-        width: 810
-        height: 405
-        isCached: true
   - title: "Here’s a way to learn if facial recognition systems used your photos"
     excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research -- including a data set created by UW professors -- fed on personal images."
     publishedDateTime: 2021-02-07T14:01:00Z

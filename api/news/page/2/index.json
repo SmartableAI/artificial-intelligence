@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-08-use-predictive-data-insights-to-make-more-informed-decisions-with-palantir-for-ibm-cloud-pak-for-data.md",
-      "title": "Use predictive data insights to make more informed decisions with Palantir for IBM Cloud Pak for Data",
-      "excerpt": "Every year, the average enterprise makes thousands of critical operational decisions. With rapid digitization, this decision-making is becoming more siloed, distributed and complex. This can have staggering cost implications on the business. Are you confident that you are leveraging all your data to",
+      "path": "_news/2021-02-08-artificial-intelligence-ai-in-healthcare-market-will-be-growing-at-a-cagr-of-420-during-the-forecast-2020-to-2028.md",
+      "title": "Artificial Intelligence (AI) In Healthcare Market will be growing at a CAGR of 42.0 % during the forecast 2020 to 2028",
+      "excerpt": "According to a new market research report published by sheer analytics and insights The Global Artificial intelligence in healthcare market was 6 1 Bn in 2019 and it is expected to reach 170 5 Bn by 2028 It is eventually",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/palantir-for-ibm-cloud-pak-for-data/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/palantir-for-ibm-cloud-pak-for-data/",
+      "webUrl": "https://www.openpr.com/news/2237949/artificial-intelligence-ai-in-healthcare-market-will-be",
+      "originalUrl": "https://www.openpr.com/news/2237949/artificial-intelligence-ai-in-healthcare-market-will-be",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/Palantir-for-IBM-Cloud-Pak-for-Data-990x498.png",
-          "width": 990,
-          "height": 498,
+          "url": "https://cdn.openpr.com/U/2/U208132444_g.jpg",
+          "width": 400,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,93 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T04:00:21-08:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be",
+      "publishedDateTime": "2021-02-08T04:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth.md",
+      "title": "4 Stocks to Watch as Adoption of AI Looks Poised for Growth",
+      "excerpt": "Notably, per a report by SG Analytics, the global market size of AI is estimated to witness a CAGR of 42.2% between 2020 and 2027. The report mentioned that certain trends will be important to look forward to in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth-2021-02-08",
+      "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth-2021-02-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth-2021-02-08?amp",
+      "publishedDateTime": "2021-02-08T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily.md",
+      "title": "Jigsaw’s AI-powered toxic language detector is now processing 500 million requests daily",
+      "excerpt": "Perspective, a hate speech detection service built by Alphabet-backed company Jigsaw, now sees 500 million requests per day.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/",
+      "originalUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/jigsaw-e1574185322346.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/amp/",
+      "publishedDateTime": "2021-02-08T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +126,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "AI"
       ]
     },
     {
@@ -1150,82 +1227,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-airbus-partners-indian-start-up-for-geo-spatial-ai.md",
-      "title": "Airbus partners Indian start-up for geo-spatial AI",
-      "excerpt": "OneAtlas, the Airbus geospatial digital platform delivering satellite imagery, analytics and services, will partner with Bengaluru-based start-up, HyperVerge, to implement and integrate new Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/economy/logistics/m2qqwh/article32228008.ece/ALTERNATES/LANDSCAPE_615/airbus-a350jpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/airbus-partners-indian-start-up-for-geo-spatial-ai/article33761440.ece/amp/",
-      "publishedDateTime": "2021-02-05T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-first-trusts-robt-etf-a-hidden-gem-for-the-rise-of-robotics.md",
-      "title": "First Trust’s ROBT ETF: A Hidden Gem for the Rise of Robotics",
-      "excerpt": "Enter exchange traded funds like the First Trust Nasdaq Artificial Intelligence and Robotics ETF (NasdaqGM: ROBT). ROBT follows the Nasdaq CTA Artificial Intelligence and Robotics Index. ROBT provides exposure to target companies engaged in the artificial intelligence and robotics segments of the technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/first-trusts-robt-etf%3A-a-hidden-gem-for-the-rise-of-robotics-2021-02-05",
-      "originalUrl": "https://www.nasdaq.com/articles/first-trusts-robt-etf%3A-a-hidden-gem-for-the-rise-of-robotics-2021-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/first-trusts-robt-etf%3A-a-hidden-gem-for-the-rise-of-robotics-2021-02-05?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/first-trusts-robt-etf%3A-a-hidden-gem-for-the-rise-of-robotics-2021-02-05?amp",
-      "publishedDateTime": "2021-02-05T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

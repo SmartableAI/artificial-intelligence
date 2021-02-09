@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/01/Tripactions.-HBR-Header-1200x675-3.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Finch Capital closes €150m fintech fund"
+    excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
+    publishedDateTime: 2021-02-09T11:07:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37441/finch-capital-closes-150m-fintech-fund"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/charging.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "pHWe9MraeeOxACQKLZhpENhRSOI87TVdyDcztZt+xjnacb/VSmYihC6cq4MuprtmVaZJ609laErp29PkHcbxmQTo4NmlK7xyLiwL0g+kIcxahkBwEhhGw4YslHzzfsdVlqu3YzYB7mcOazNrofINHWkVrUv9KlvbK4cG543q/K2YZ4OP9iHNrchgBfj6mMpGCPwJj90C+KV5cjkJlF9Yxz+cDqJ1l716dMAWV+tzWTx5rRFsm3X1qscpIPnE8pJ1SE30agUtfLMLumz7Q0LKhIf24AC6a0fJmnpYAqfPT1VcaOyVfoNDICUQ2/AGm9J0G+phNezgN7S3idKAeQzADfKmMjlTmebh+vpCtHMAvIc=;iI9cwpQRrAwkk7xQ+oxcLQ=="

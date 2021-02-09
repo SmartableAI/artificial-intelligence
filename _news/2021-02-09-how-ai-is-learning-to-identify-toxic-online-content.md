@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-09T06:04:00Z
 originalUrl: "https://www.scientificamerican.com/article/can-ai-identify-toxic-online-content/"
 webUrl: "https://www.scientificamerican.com/article/can-ai-identify-toxic-online-content/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/C9A31747-FBED-41A5-8820ED507C404BB0.jpg"

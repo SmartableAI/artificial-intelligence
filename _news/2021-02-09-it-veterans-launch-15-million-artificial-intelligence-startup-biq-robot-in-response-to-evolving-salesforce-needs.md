@@ -17,9 +17,9 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
-secured: "0AoihXg4jizQgVKdKbZX5KFWrcCBXWxityZscF53eFOOEg27to8rc6IThx98yrIGn5/27Iisy7F44/3Dvsr8uricT0pN00r3WAVEFi7RktKKmCsnVtEgj2Q3c3P3gZWuvnVqYxejtqmc0pZyM30vob8UuiL0Q0Q0y6W0RdTRzkXPs54+dN7mgX/acm2Yrcsj/VwGbuVLkFVwLihv+ecS+7EdhrS+jEvmLwKWxDtnqtKSG8ALFz+HxONK1lLMJgDOLfvewGpU6l5bSqpbtxXIlRo2f0ro6LjoAS7JywiQ95mkseRDZ9PaI0Fh6z4U4zGKZbt8z0a+d4VtqXImJX2V/vyd89x83Z0/no1s426l9gQ=;xcaTVK3yJrCA4SkMmcY54w=="
+secured: "H0/0RPC3vHEu8b03CM0lGiwg9u8Urs/TMvglvP8g7mShXyp1HEX4FxTH8WD93Vx0XIEVyg2cutPQlck5jotgmDmvdEnsaFg48OtWoTTEdlpZhYOBqIX+8IXdHN+VYq5/S3dHaweOQfSfo5P83u1v9g8xLIpsksLDb8XNqm6yeluKr/CrapGJfHctHca7Nvswjc8bcki14o0SyQbgFB5eD0ZEe42nzlzGifhMtAlMh0MksDe47BW29UYd8ZoI2KR0IB5LWu/AXOidab6r/lGCH0wSqAYjYIFN59FvkTTH2ODjY06fcloTxPiiEpPvqwdydvLlFEz5Dnbp3GCY1eNj9xhfPoydYZSFRRSQWyZblRY=;CP6tZqtk5CiVDjPdm5HU8A=="
 ---
 

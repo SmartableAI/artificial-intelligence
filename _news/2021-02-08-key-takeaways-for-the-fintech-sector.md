@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Finch Capital closes €150m fintech fund"
+    excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
+    publishedDateTime: 2021-02-09T11:07:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37441/finch-capital-closes-150m-fintech-fund"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/charging.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "STStduwBAg2H+sPSuD0sqYNn+yhtyGzudcMSWelt/Aw47xNINXPlO6RsRp9K24Kj0uxMi5ZnlIdT/j5K0Dcnw1E4zJI4m/raDp8JQbl3sEc870m9QT5MRsJhFAseTajOIEevMyXrOfmNtEH7aUQY0GEu/I3Qmn8Z544wKjIzennSX1nEj03aI83i27Fabqax81ucumm/jFy5MUXUrE97k1FE1WKlRcCXMNID/RyqDpRryH/05eJNvCru1+DwqHAkNwTzdn7vsDsrPf62KU4WmBDQyJG6l5K6KObVF6d22pwP7/OFb3gBWz8GzBJKbXN2pAZYUHYl7k7WqWnFgM/b1RlWra6xVEX8DUsVVtS3wZ2/6z2c8ncbpH5Wr3WUQN38RY1kSwtvm3udPYGaU/apyv2gpAE+hKT+HSV8WRkrGiktakES2Zw7BUt40IhaxnY/p6lZWriDHsSrrlTQmjmSLfAhVzyG60u40aZ3cKN2LOT/uQQC5wwLtZ8epohS74eI94VD0woeQXKfpjsy2VwioA==;UDW/jAtqkoJV9tToXUWmzQ=="
 ---

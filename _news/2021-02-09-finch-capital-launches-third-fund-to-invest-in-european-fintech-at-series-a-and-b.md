@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/"
 ampWebUrl: "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/"
 type: article
-quality: 69
-heat: 89
+quality: 71
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/02/IMG_6638.jpg?w=1024"
@@ -62,6 +63,6 @@ related:
         height: 667
         isCached: true
 
-secured: "ZZy0N6BzSVoHgbrtiPC9Zi9L7oU+gqWCPm+pu7iErvMhb9uZ4TxbBqHgDK3NIZbjI4gbat1wKRwofkRWq/ZflUikG02MmSP7RV/XYCaB8t38kdKC/jCHnUcvHxRXynewpU/SfaR6TXMiZ9y0qz8NIYmxqcSsC++Wrp7a+6VGttiwXppWpdYF/MHxUahb9KLYX1QMSMPYlwR7XKqqfjh+ASCXloZJhHRxw4B4zQuDXStE11HaMULJhQ9YODjpjbDWmUZd1VeZdXiGW/we+QaHMmeu1Kr8smeN2gF8AZzlrEB5w8OILMGqrXKpspwtZQdOdWolotDjGY6sO1xlibYRpSs8IW3z6wD/LQmVPem1V4U=;1ZxRx98eYiZUPC5yz0703w=="
+secured: "A0W/4wBj3JXCcV/XKCqg2ppGZvbsgO5ySAifly7ggmBxqh8spluHQQQxhikBErtX1eFIFMQLcIFB0nk4QqWJz2/QgQ81JJ5WNxOqLC0OfdXxS8incL44a96U3eALK+C2s8wnAtv/Q9KW2K5qAnnILHqreCZ6SPx7IANnzjMMrS08FD0VTN8xipZKHQVMJWFZ3JRyW0kID0yiptiq6tHV9F+Z1dwejun9Lyjb4CPyEzN2G3iRkHDCDJmvklm1yVSU8Ykk/a9/+xLjv1zGYHZnv2aXFvmnlsy9vkRgru9RsSYZmEwbgMi7lprc5Rvc62j0psAdJzrO+qrfQfTQ/qLOyWHPmGG4zEQOm/+uJtNxnAI8uK/YEFIcocpSLciFOberGS9J/nJYwZlu6Q80KIl2I85OEdDjwICwlTlFBiusb7HA6zpGiT/xyf6AQYb3NYhy9ZAOEluJ0fa2wFznknfa9LKjviW08OPJzoFmF5hbuxDWhOTxxczBUVXlRmXNBBug2SPVw7GF8fjC6i9DDgv0sA==;pMVkQdF3I7P9KoJTSZA7fg=="
 ---
 
