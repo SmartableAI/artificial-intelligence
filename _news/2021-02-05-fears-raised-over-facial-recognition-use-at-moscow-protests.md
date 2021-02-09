@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2KA54T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Reuters
@@ -25,21 +25,21 @@ topics:
   - AI
 
 related:
-  - title: "Moscow’s facial recognition cameras are identifying Navalny supporters: activists"
-    excerpt: "Authorities have said that the police’s heavy-handed response to the demonstrations, which saw thousands of arrests across the country, was justified because the protests were illegal and unauthorised."
-    publishedDateTime: 2021-02-04T14:15:00Z
-    webUrl: "https://www.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying"
-    ampWebUrl: "https://amp.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying"
+  - title: "Using Facial Recognition to Find Capitol Rioters Brings Risks"
+    excerpt: "In the aftermath of a riot that included white supremacist factions attempting to overthrow the results of the presidential election, communities of color are warning about the potential danger of the software."
+    publishedDateTime: 2021-02-05T23:39:00Z
+    webUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html"
+    ampWebUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 84
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/04/6b9142c6-66ec-11eb-bc00-908c10a5850a_image_hires_214543.jpg?itok=9B_TQYjx&v=1612446354"
-        width: 1200
-        height: 630
+      - url: "https://media2.govtech.com/images/BIZ-CPT-CAPITOL-RIOTS-FACIALRECOGNITION-ABA.jpg"
+        width: 941
+        height: 626
         isCached: true
 
 secured: "wRjT04nvH2RwftrzPbrcOq1+de/lGu2DTLl8i8apZBaIH5o9t6Ung3yRrnfzfOSptFbYxeZgY04aNCKf3l2csHbFYv96TS4LGTsZ4PoQ6nPhjc48R5KwBemeVRIVud2M6DdYsISHU504F97HPkooDwW6/fmH4jUgvsfZFvyUEXwt4rJWCiF2KtIey3Y8TPdAw3OoKs1ZednQ6szGETOrVdWgsFtcrKmb8Ib0y4zJ5ZUAmzIBJ+pnkH8Q67BPPAH2pWus3y2kLervSkC4kovIGwkZ88SlrA01hU9nEpFA73hJTvfFd6pkhaGZNIQSULkSvr66AmCHV6CUTQaXQDAWqOu90y3LXWpfzd8LgPEd9WE=;lEPZyu2Icno5W9d2x5FZNw=="

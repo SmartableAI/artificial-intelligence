@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Leading facial recognition technology provider Corsight AI announces expansion into the Oceania region"
-excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and has appointed Sean Borg to accelerate market growth and support the regional surge in demand for facial recognition technology."
-publishedDateTime: 2021-02-08T21:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
-webUrl: "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
+excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and"
+publishedDateTime: 2021-02-09T06:00:00Z
+originalUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania"
+webUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania"
+ampWebUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
 type: article
-quality: 68
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/pr-newswire_500_4_390.jpg?itok=FTvrIOzU"
+    width: 763
+    height: 509
+    isCached: true
 
 related:
   - title: "Delta expanding facial recognition technology to domestic flights in Detroit"
@@ -70,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+vtXR8QN9VqlMDmEf9LD3+5KF4Ff+Vz1Fi9htxKZNq0NvGeY38+1L7hOtP9Z8Gdi5L3Go1gW9HkEy7RUucWSrkBWOsdkRHVKx1TG5bZ4s8WYVatJ6uRCTO80WhFgAKBfAaDYXqDNjXFlyhNghHg3TbQczyI6C5wJYzjMuhZ4b30eIkL9SbiCWczHIrqe7RhwEQ7SUn5IiUFzEXmUbBfigusFBHpGB+924rO4ACqdxuSwOjWmOiIJlpoQtciRDiT+k05yasUUczQbfK6BwXeTgUPzFUiww4WFR3bs1kjOQeguSO1JYymcHFsXuLKVL9PlaGynWquz5jNr2SjZIXciRp3M0IMpRJ04vXwofaaOdZI=;ae5IPFz/C3dq4LbT1zXdcA=="
+secured: "KkstVYjguGlB2OzUnluQ1Sd6bX3BGmmC9wttUhCrf9btD6Hjmif1bFmrb+2DH7zd7rEk4iOAlBGguhQHsnHX4ZBlb50DUvKZ/JJzv0NX2ridbwlFcUmlaUn3adARNedqyvV4SBgXB2Ryk69MYNLl4RBE7F3nfpomJAaKKu68o9fDk/x0RPgcp5KiPDF7QrbwgZg1S9RGtcDeVrvPwYSMG2+X6G4KdLsz8jZwwnQXkUXMJSY/96gmpT6P0Pz4DKyq+qoVJk10XRX8GEb8lfc3xuZ6g4qIpRWfxPoUQ6UGQmBL/euR9Q+zcU0FMMyy3fmnhKKHWgKNJn+kZimXfdXiN0yBQKOmXd7J2cGcHQ885Bo=;uS5zk4LELA2SU3qLNpMbPw=="
 ---
 

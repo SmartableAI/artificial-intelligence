@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How AI Is Learning to Identify Toxic Online Content"
+    excerpt: "One solution might be AI: developing algorithms to detect and alert us to toxic and inflammatory comments and flag them for removal. But such systems face big challenges. The prevalence of hateful or offensive language online has been growing rapidly in recent years,"
+    publishedDateTime: 2021-02-09T06:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/can-ai-identify-toxic-online-content/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/C9A31747-FBED-41A5-8820ED507C404BB0.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "c2GNJM/bdL+npqWVDpLcCLLIrHqagmmlo9u1nOzhpGzkd6Y+fySu+9MrWz0gHo68pN0qc0/OGxERayNaxz+7GRZn8PoVYsPBSOZZdtjPyAHSyod96D6kTgsTgwaMU2k/sTjYbJaOzgce6DzTF0LUqAHvOGP7bAcdj8V7ycVDzr1R9hd73svh9OHXquU4L1TOg2KnvDbJVyJM3vX+R8OurpxaotEGacx1xdPO0MT5bcRWf9O2gqRKSbOT+Ff4SbXbuuaaH85Ej7N140SRoHmsl8BXibbGeiYfEz6VqhaCzvO5ZkUWv5qhubb6yczgEgn3zZrWarpcvOFvMiHzZeEMMsNVxETSgK6DZN8n5nLjrh8=;MIXXHEkUjrQ9cpAkMx9CHA=="
 ---

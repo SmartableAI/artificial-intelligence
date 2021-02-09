@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Universal Robots’ Safety Expert Recognized in ‘20 Exceptional Women in Robotics and Automation’ List by SME"
-    excerpt: "The international group of remarkable women on SME’s list published today represent a comprehensive cross section of technologies in robotics and automation. The list was developed by U.S.-based Smart Manufacturing magazine published by SME in consultation with several leaders across the robotics and automation industries."
-    publishedDateTime: 2021-02-04T15:01:00Z
-    webUrl: "https://www.fltimes.com/business/national/universal-robots-safety-expert-recognized-in-20-exceptional-women-in-robotics-and-automation-list-by/article_9f7f2920-65ac-5786-91f6-fe3f798f8f8c.html"
-    type: article
-    provider:
-      name: Finger Lakes Times
-      domain: fltimes.com
-    quality: 36
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/e/b0/eb0c58f5-8b72-5421-b41d-9612b509c1a4/601c105850126.image.jpg?crop=1297%2C973%2C0%2C312&resize=840%2C630&order=crop%2Cresize"
-        width: 840
-        height: 630
-        isCached: true
   - title: "Universal Robots’ Safety Expert Recognized in '20 Exceptional Women in Robotics and Automation' List by SME"
     excerpt: "Roberta Nelson Shea, Universal Robots’ Global Technical Compliance Officer, is celebrated today by SME, the professional association committed to advancing manufacturing."
     publishedDateTime: 2021-02-05T18:33:00Z

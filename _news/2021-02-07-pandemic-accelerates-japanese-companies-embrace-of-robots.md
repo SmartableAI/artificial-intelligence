@@ -24,6 +24,22 @@ images:
     height: 512
     isCached: true
 
+related:
+  - title: "Kore.ai Launches Virtual Assistant Platform in Japanese"
+    excerpt: "Kore.ai, a leading conversational AI software company, has today announced the launch of its enterprise-grade virtual assistant platform in Japanese. Conversational AI is a technology that enables individuals to interact with companies,"
+    publishedDateTime: 2021-02-09T05:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-florida-orlando-asia-9c91f60fdd31477bbbcc8ae266ebd6aa"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "bT9MKproEWTHhfK7s7ut3Jwfp4GB6yo3jJL/tP+fiS8FePLzM9kupoJms2Y7EM/OkCv/YXKPHGOq2RHKdmhXH2xcWnE8mfgieivU/3JePGPuJa6HNsh/kASENUBb28pspmeTplYJqlIpQwVL3NqJbVeiSNwf12MTQlKLoGkUukmK44INq2cGr0/RRtfrVh4riA2z7/AKrsEwGyNhe3H2/Up4zGoOi6Xk5YTFAXZVSXqZVQFY9R1Op9IELjaEHyawR8jzjm80vtsrLcFTrBBosFSvS+r1SHu+2Pe/2hkOnBiuuWl0LUmhYIShUBg9OpKlAZZ5oMhUodgD3J4GMD8gAEPsyNndweS5dQ16ZbzPA0p/QOxRgOXR9fcCUEpeCEwvwLggBbaMZEpnPVAELUrPLJGsee4MYg87CqtVzdGTNQuIkkc3PvWCI9AJFXalrNmBc0Y2PQre6g5t5QNqyjmmLSFF7gRT3sTjvIAc6anlP6Zqe/WRCDQlH/q7XRlMcOmDZfZFRelzobvjTNnBEhLh9w==;oZcsjoq5SWOngITCEposMg=="
 ---
 

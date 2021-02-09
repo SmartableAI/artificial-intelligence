@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-24-robotic-ankle-moves-more-like-the-real-thing.md",
-      "title": "Robotic ankle moves more like the real thing",
-      "excerpt": "The soft materials, combined with pneumatic artificial muscles (PAMs), lightweight sensors, and advanced control software, made it possible for the robotic device to achieve natural motions in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurity.org/bio-inspired-robotic-ankle-help-rehabilitation/",
-      "originalUrl": "https://www.futurity.org/bio-inspired-robotic-ankle-help-rehabilitation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.futurity.org/wp/wp-content/uploads/2014/01/robotic_ankle_770.jpg",
-          "width": 770,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-23T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurity News",
-        "domain": "futurity.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-23-florida-man-becomes-first-person-to-live-with-advanced-mind-controlled-robotic-arm.md",
       "title": "Florida Man Becomes First Person to Live With Advanced Mind-Controlled Robotic Arm",
       "excerpt": "Matheny, who lost his arm to cancer in 2005, has recently become the first person to live with an advanced mind-controlled robotic arm. He received the arm in December and will be spending the ...",
@@ -1383,6 +1340,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-all-hail-your-new-robot-vac-overlord-irobot-roomba-i3-is-here.md",
+      "title": "All hail your new robot vac overlord: iRobot Roomba i3+ is here",
+      "excerpt": "They’ve dusted down the iRobot robot vac range and added the Roomba i3+ which looks and performs a treat iRobot has taken the dust covers off its brand new model, the Roomba i3+. This manufacturer is known for producing some of the best robot vacuum cleaners money can buy and the latest addition to the Roomba robot vacuum lineup comes packed with new features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.t3.com/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
+      "originalUrl": "https://www.t3.com/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fLKRdQrKG4hg7j8MkG7aoU-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.t3.com/amp/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
+      "cdnAmpWebUrl": "https://www-t3-com.cdn.ampproject.org/c/s/www.t3.com/amp/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
+      "publishedDateTime": "2021-01-12T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "T3",
+        "domain": "t3.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

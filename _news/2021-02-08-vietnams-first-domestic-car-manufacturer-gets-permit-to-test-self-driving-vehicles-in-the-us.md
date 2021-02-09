@@ -30,9 +30,9 @@ related:
   - title: "Vietnam's Vinfast gets permit to test self-driving vehicles in California"
     excerpt: "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California."
     publishedDateTime: 2021-02-08T08:10:00Z
-    webUrl: "https://www.reuters.com/article/us-vietnam-vinfast-autonomous-idUKKBN2A808F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A808F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A808F"
+    webUrl: "https://www.reuters.com/article/us-vietnam-vinfast-autonomous-idUSKBN2A808F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A808F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A808F"
     type: article
     provider:
       name: Reuters

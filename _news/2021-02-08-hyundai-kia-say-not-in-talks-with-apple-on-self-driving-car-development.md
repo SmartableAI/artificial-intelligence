@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
+    excerpt: "Shares of Hyundai and Kia plunged on Monday in Seoul after the automakers said they were not in talks with Apple to develop self-driving cars after all."
+    publishedDateTime: 2021-02-07T22:09:00Z
+    webUrl: "https://www.cnn.com/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 88
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207220435-hyundai-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "UPDATE 2-Hyundai, Kia say they're not in talks with Apple on autonomous cars"
     excerpt: "South Korea's Hyundai Motor Co said on Monday it is not now in talks with Apple Inc on autonomous electric vehicles, sending the automaker's shares skidding a month after it said it was in early-stage talks on cars with the tech giant."
     publishedDateTime: 2021-02-08T07:15:00Z
@@ -142,17 +158,79 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
-    excerpt: "Shares of Hyundai and Kia plunged on Monday after the South Korean automakers said they were not in talks with Apple to develop self-driving"
-    publishedDateTime: 2021-02-08T15:32:00Z
-    webUrl: "https://wsvn.com/news/us-world/hyundai-and-kia-say-they-are-not-talking-to-apple-about-self-driving-cars/"
-    ampWebUrl: "https://wsvn.com/news/us-world/hyundai-and-kia-say-they-are-not-talking-to-apple-about-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/hyundai-and-kia-say-they-are-not-talking-to-apple-about-self-driving-cars/amp/"
+  - title: "Why Automakers Are Looking Beyond 'Self-Driving' -- and Why Investors Should Follow"
+    excerpt: "I don't remember what Toyota's name for theirs is, their advanced driver assist, but it's along the lines of \"guardian angel.\" The idea is it's looking out for the driver all the time, but the human is still doing the driving."
+    publishedDateTime: 2021-02-06T00:33:00Z
+    webUrl: "https://www.fool.com/investing/2021/02/05/why-automakers-are-looking-beyond-self-driving-and/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/05/why-automakers-are-looking-beyond-self-driving-and/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/05/why-automakers-are-looking-beyond-self-driving-and/"
     type: article
     provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 38
+      name: The Motley Fool
+      domain: fool.com
+    quality: 48
+  - title: "Self-driving car for testing Technology Parkway"
+    excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
+    publishedDateTime: 2021-02-08T20:18:00Z
+    webUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 44
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T13:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4393554001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T16:01:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4393554001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ford ups investment in self-driving and electric cars to $29B"
+    excerpt: "Ford plans to spend up big in the areas of electric vehicles and self-driving technology, CEO Jim Farley said Thursday during a conference call detailing the automaker's 2020 financial results. Key measures mentioned by the new Ford CEO include an increase in spending on EVs to $22 billion through 2025,"
+    publishedDateTime: 2021-02-05T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131191_ford-ups-investment-in-self-driving-and-electric-cars-to-29b"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/2021-ford-mustang-mach-e_100779690_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Report: Apple to develop electric self-driving car with Hyundai"
     excerpt: "After many years of trying to jump-start a self-driving car program internally, a new report claims that Apple Inc. is closing on a deal with Korean automotive OEM Hyundai-Kia to develop an Apple-based autonomous electric vehicle (EV)."
     publishedDateTime: 2021-02-05T13:34:00Z

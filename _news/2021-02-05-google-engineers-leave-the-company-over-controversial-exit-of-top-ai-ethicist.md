@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Two Google engineers resign over firing of AI ethics researcher"
-    excerpt: "An engineering director and a software developer have quit Alphabet's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics."
-    publishedDateTime: 2021-02-04T13:58:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/two-google-engineers-resign-firing-ai-ethics-researcher-rcna245"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna245"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna245"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 104
-    images:
-      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-02/279/210204-google-timnit-gebru-jm-0819-f159ea_1feca3a0d9ad0c970c8da6b982134d473bd228e0.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Two Google engineers quit over firing of ethical AI leader Timnit Gebru"
     excerpt: "Two Google engineers have quit over the treatment of Timnit Gebru, former co-lead of the ethical AI team. David Baker, an engineering director, said Gebru’s dismissal “extinguished” his desire to remain at the company."
     publishedDateTime: 2021-02-04T19:08:00Z
@@ -92,20 +76,6 @@ related:
       - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Geisinger researchers find AI can predict death risk"
-    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm--an example of what is known as machine learning,"
-    publishedDateTime: 2021-02-08T17:40:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ghs-grf020821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "xLRNIII04N2SLxRkK3Skg719wcnOn2b19So5nR1jfsJVmNEGc86ZCeEMflHtUFnFpTwWBO2+Ou5BbVeBbbVTIe1wuMhoK2W76DEfk8IYABfxKuHw8nLCgJ9RCPekDTJIUcwL/v7vFIS55bZfNTXgT7QxmubqtiJhhGCVSF542aQfvzUCEdxY1Xa5Q3A47+mHcLoOnN+Qt5ydSn2oFamalWNqSFjHWHndPSXgFnTi4Y/ButdAEGiLtM48Q/MlQT7XAivkffIBLrQ8WdSh61oIKWRLIj9C2RPfJ1xFUJJ4SFLagyZ6mWOGasFHeFNdsJkW65osIPjaUz7csH7bndjaG7JrfYOvSyLQnnCMSyeZiG5beJvnbVplH3GQQwWktzoCJ4gmV4yD7IcPh+Q5fpByngWt5RsknkeFlRYJ4+r/cvfYrY8qFuo7Ru1j7S1S9kGjbi3KrXbnwRYAM9ixoQ+KruXlmS5RszoTPd49y+Sjte0nLkjq5w6q0n8kP6LIoML44GCsSGiqn0DUjxBjxbirFQ==;ciQ53G7H0+/4HQXgfe4EtA=="

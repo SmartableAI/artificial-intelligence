@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/2/4/22266513/google-engin
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: The Verge
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Two Google engineers resign over firing of AI ethics researcher"
-    excerpt: "An engineering director and a software developer have quit Alphabet's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics."
-    publishedDateTime: 2021-02-04T13:58:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/two-google-engineers-resign-firing-ai-ethics-researcher-rcna245"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna245"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna245"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 104
-    images:
-      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-02/279/210204-google-timnit-gebru-jm-0819-f159ea_1feca3a0d9ad0c970c8da6b982134d473bd228e0.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Google engineers quit after the company fired its star AI ethics researcher"
     excerpt: "Two Google engineers have quit over the firing of AI researcher Timnit Gebru, whose exit sparked an internal backlash about ethics and diversity."
     publishedDateTime: 2021-02-05T12:57:00Z
@@ -92,20 +76,6 @@ related:
       - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Geisinger researchers find AI can predict death risk"
-    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm--an example of what is known as machine learning,"
-    publishedDateTime: 2021-02-08T17:40:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ghs-grf020821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "JeH0wYZqjjY/hNdb2HEOvqfpWlorXiACNlcA1ZcJ+UTMvm5E5pTXB81lzEUy67pk3YF9TwvePSv8J18DWrBX7vIu4LT/pTYKGgNbK5amqlACLw2AOkH/4ObltlwvXi7QqODIKCgQUr/A0C2wIgBOeTmDrKv+mMzT6A/o151zFccQibXMTxq0s+HkVgbaXxmenyBaV4zQM37CrxA9pcpTjv6/lIFfqxiHSbFF7stD7cw320TW9hc4exydLaD+X9HlanFuNJJXYHY8VmB+MTbMhvWhTZJPoqkMJjnM8XHBA2mQaK6+9rMGWHXUgNnD1/utOU9m6weaj3pmATUe2zV1qkqS6mMhQxhwAoRgnafLk4W63qWWtFBCiMUJ0xBiwBhdO3ZhYL6kUrTdbgnqEBKgMJx65xW33URdYlq+qYerU8q1NeWdpN7bf9eUFhR6/wPzq0neyYvu0MwYRnSaghR3NdNxPOnTh1lSB/DBiMykWykUozt+/Sa5b1DzmOMK8lOpve95N3yp3kQMGXpvDTEQyw==;ZO2HzCRwnewJhQnumaqKEw=="

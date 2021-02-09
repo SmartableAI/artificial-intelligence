@@ -1,20 +1,26 @@
 ---
 category: news
-title: "SVI Teams with IDEMIA NSS to Offer World’s Most Advanced FMCW 4D LiDAR Biometric Recognition Solution"
-excerpt: "The solution combines NSS’s world-class biometric software with SVI’s superior 4D FMCW LiDAR system technology. FMCW LiDAR, which is short for “frequency-modulated continuous wave light detection and ranging,"
-publishedDateTime: 2021-01-25T16:11:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution"
+title: "SVI Teams with IDEMIA NSS to Offer World's Most Advanced FMCW 4D LiDAR Biometric Recognition Solution"
+excerpt: "StereoVision Imaging, Inc. (SVI), the emerging world leader in 2D and 3D/4D LiDAR based facial/object recognition and remote"
+publishedDateTime: 2021-01-26T09:48:00Z
+originalUrl: "https://www.wboc.com/story/43229319/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution"
+webUrl: "https://www.wboc.com/story/43229319/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "+iEgan24WD/g+LadyXxjKukZfuiaZsf6gPOnU/QfnwRs8FCZLbbkunD2H6D8423i1oemMg+8lZv6/u0RuAoosEK7a7AVp3nsO1KStn7n9eAyKt9G6M1GrEVhgGLYMGBJvIodYi0ROKK3eDeJRR9z2cQ9KOzXALnFoCH2GxRndlXFWjqUoSLR7meB8Zu9dGyLlp2fNnFHvCqu6YcS+2NSnvyaNignmWHT4yHHUJwWKKisT1XjPSInVmMKw6fb8kcZtBSbxjU3uJT4f59OuiZPxdaacIM5cLBx+fz385mzUWLexVsO3yT7r54mIN+Umk7dAdtRV5rwavCMGoJ7mq54J7TGZgFFNd6J0w/D2UKkxC4=;+3C5v0V34DECkJ3z0rlYLQ=="
+images:
+  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "UZsb5Zj87LpxDu2GfloAcxXSaCt9FxdXo6wC5dJ36ZtugX9yyo6XNgXgbO2UJRwlFpC6vObtudSUddd8eG19BAoa0JvWO8IB8k89uqBnpbyrdJeq6/LvBjQuLbU90N9LZwhU+JpVigrp2h9f2LOTw83gckLphcgZvTipk3Zb4cAKFMI9tAYYTlWQ7kOxKAEF2DuA8gaemD5f8Sp3s06o5a0uxrmLQwRIuECctxiMN4g7/PpHz7iUvt9Cm12njQhtJn7i4QSD2YLCRoNDABh4AjA/f3a5ZzfNe3+VBOeC+lOytzK5kJNOEKzC32aNlgfcXubDMa7Z6JlANbil2QhDD0cRuwPuStzASEhWB3rjSpw=;TH4gDEuQ/5OeoUiJNpj+cw=="
 ---
 

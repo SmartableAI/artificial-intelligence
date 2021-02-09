@@ -43,16 +43,21 @@ related:
         height: 320
         isCached: true
   - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Oceania region"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and has appointed Sean Borg to accelerate market growth and support the regional surge in demand for facial recognition technology."
-    publishedDateTime: 2021-02-08T21:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and"
+    publishedDateTime: 2021-02-09T06:00:00Z
+    webUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania"
+    ampWebUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: Asia One
+      domain: asiaone.com
+    quality: 58
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/pr-newswire_500_4_390.jpg?itok=FTvrIOzU"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Delta rolls out facial recognition for domestic travel at Detroit airport"
     excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a “biometric terminal” for international travel using facial recognition at Hartsfield-Jackson’s Maynard H."
     publishedDateTime: 2021-02-04T20:51:00Z
@@ -68,6 +73,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ATIGx3EVubRlgKu2Lgg0SmuSsiwb0W+RMwKQt9sc1QabHRAnV268QEsL55YFmgMmSka7elj7LHSd/QybmQWRn9TFqnZAXhLTcS88gOvAiCQ0MePHBMNs1lGr4FJaJCZBzOffJ4e+gGpGKjZTggI6gmNvWbYT+2YTEnRDUeoRnhU5F8WiDv4/11T8CKQ/CH/uK1vhNuLPZVPlCq5gmtjfaVrgDRAIWSAZWgXb8nOxs/MRCUBhOrvrLS8CuUUdjtg0nK3G3vcdgnRJ5c7fIyBagurb8Orx7mx6uJid+3hZYn1NWQyDQXgS6pcERlf6+uQ2kPzre2bOUslcqK36mW7xOUOLWGdcPbps/LM8MQtzg0c=;H19BB1LN3GMfbWpxFh4ZnA=="
+secured: "TjE/3DGYUxPcwY9ZoHtcIoWMy9p2LIs9P63Jq8a2J2tP7GwQd69Sr6D48xyDlAbO0eEvEQ4t2ATfKrJPOa0OP4xruEHv0cZ2VkqrBCEq08oLlRTqnlqRWL5KLCv35bpedwYrJSBE/vhhNkJJtKj2x1OW/IkJgzjqtzpnZ6fdyqxdUm/bIvZWtOLuVotJtTNryIvE2C5yJTyUV3661kGyNLAs/dXYI8wPcJ4LuMs9CxOrQTPD7yNxrqZq5XqmlnnJNbZ68rm05Cs5FuVDXoLiCCjK3nm9cmoppjzI7GUqCOXTz3pJLua8q390py3zJVK90T2haIaNIJoNmBErZmvO738mUQvbGJbIeDEDxot0i+lvqcmHVL6yQAYjhhv1+ejgPmEZSQRlQWFjeXYX/c+7+8gXVrdizdYvUcpCl06GuDOq9giLU88k6/rseSEYOTGEh5AmChCEzDLphiVNj1MTzXEryOwyNSRe/9X3LakfrWdEkPcncdHzVznOHhHnAeTlBGL2ci2I5K7FBvcowMoAqw==;w1NXG6XCaTkYpzw+eHKUIw=="
 ---
 

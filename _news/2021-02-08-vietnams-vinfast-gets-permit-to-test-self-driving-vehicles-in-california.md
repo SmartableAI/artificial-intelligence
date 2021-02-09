@@ -3,10 +3,10 @@ category: news
 title: "Vietnam's Vinfast gets permit to test self-driving vehicles in California"
 excerpt: "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California."
 publishedDateTime: 2021-02-08T08:10:00Z
-originalUrl: "https://www.reuters.com/article/us-vietnam-vinfast-autonomous-idUKKBN2A808F"
-webUrl: "https://www.reuters.com/article/us-vietnam-vinfast-autonomous-idUKKBN2A808F"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A808F"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A808F"
+originalUrl: "https://www.reuters.com/article/us-vietnam-vinfast-autonomous-idUSKBN2A808F"
+webUrl: "https://www.reuters.com/article/us-vietnam-vinfast-autonomous-idUSKBN2A808F"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A808F"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A808F"
 type: article
 quality: 73
 heat: 83
@@ -48,6 +48,6 @@ related:
         height: 533
         isCached: true
 
-secured: "DhsROyBa+/yycr5UDcD9An5TVDIgIHtswuyMDn/xqoMVtrkE8aKR+aE/GQsCno9WQB6EKfmsFK89lN3xnHxCeCYGodT/km10sJ/SIuV0vX7L8/ooDVZA7GEuKqAfib0UziynDKSZ2umEZrN3bRnbFveMJv2MmkDyA6ULPel/KF9Q7zaKTKtgwAdJdS9s8A4Z+lD35Id0+HpWk6M9eFutSyvxBDpED7b7vsCN8ghW2WX639F52wvfu89b81+gJv0mQ6SHCyUgWDiv+3A94LQw+ZpXE/Z41qe3NgdWMtz80t4tTekPCJcVDqUeJTTuelaQjivQUecxrE8Y0w9E734JSByUI8hPMm3UUZepsrFB0M+ernH+pRU5Ie8ZIo/R5DYveE2588OiVi/49HW1AEE5/YyARGa6d6Yx2wnwE8qRfky6o5se5C0/vkaOSzNETbuSKguXzqFmH30LgmeOOBG1rCSAIv0fOx29t3i1hk9b4upzEijO8QA+S1apmuwQfDEmlH4AiA5z+Ak2vAgmSx0l7w==;yLiD8Zh/xvwz0LxpCxvPJA=="
+secured: "+inxA6Sy+qZ07h8pGgfKp9HFIc4SaqBn17eIlbPiXxOb04JWvi49XCJ5OTfgbiXvKkgvGkn2pQLbcRXfG7jUgurBbunvVO22FLMBVHRF3ozpKM+tZRbZ+1aiTFFrusjAGQUMEoAy2gnIpuzxxLYiO3+PGkV28EszMtTupFGcMK0YKKZRLN/N0ll/5m35YP0Y8ZlEEQF1S2OrmXUQ8bWlGS6dVlHtXBbQLtcKr/HDjWt1oma7dHdhxkRonUepArUyez5msNfnNPFz8Q/RjCgPLXIUGu8zJW5X35sbRz+p/Hm/ZhIoATd7oXkMrVwd0byeR/GRsS0uIj8/nqovAIs8vmlvgYPWewZ6JrlqqcfU0Nw=;OG2+4bkDswXDP8yO6Utt+Q=="
 ---
 

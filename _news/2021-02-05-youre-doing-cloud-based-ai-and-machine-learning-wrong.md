@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020c96074cb8469b584b7e3%2F0x0.jpg%3FcropX1%3D551%26cropX2%3D2028%26cropY1%3D0%26cropY2%3D1108"
         width: 1200
         height: 900
+        isCached: true
+  - title: "How AI Is Learning to Identify Toxic Online Content"
+    excerpt: "One solution might be AI: developing algorithms to detect and alert us to toxic and inflammatory comments and flag them for removal. But such systems face big challenges. The prevalence of hateful or offensive language online has been growing rapidly in recent years,"
+    publishedDateTime: 2021-02-09T06:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/can-ai-identify-toxic-online-content/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/C9A31747-FBED-41A5-8820ED507C404BB0.jpg"
+        width: 790
+        height: 496
         isCached: true
   - title: "Bringing AI to the edge"
     excerpt: "It seems that much of my work these days is concerned with bringing AI to the embedded-systems domain, understanding what the implications are and how companies should deal with it. In the discussions with technical experts and business leaders,"

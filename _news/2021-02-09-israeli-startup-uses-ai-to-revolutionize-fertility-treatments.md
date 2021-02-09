@@ -23,17 +23,6 @@ images:
     height: 397
     isCached: true
 
-related:
-  - title: "Israeli Synthetic Data Startup Datomize Closes $6M Seed Round"
-    excerpt: "Datomize developed a synthetic data solution to accelerate and streamline the training and testing of AI/ML models."
-    publishedDateTime: 2021-02-04T13:36:00Z
-    webUrl: "https://nocamels.com/2021/02/synthetic-data-datomize-6m-seed-round/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 2
-
 secured: "Nm637xrvPoSg9PsHDhkmnUnCS8kcEaNXXlxDzD4lHxg2pDgARbAgz6AuKsHKSiCVw3XqZInwoo7vc/UcPQOSsRvub9UwVyeD6+LruLBk0FDyFbGPTYLIYvd9yAjdhlTKjH+lM0dA+i4oGQXaD8wN4dldmJDV8inZ6wm3Hu9D9CPkfveM0VrZbjW4F1sfqAnC/SWMH9knxKv+MY2TdncqH3S344h1pWVIn+KwxTcCt1MRQu5s4b6BTFJ8Ur8jdLwydtaEu3IBp8qAQ3XGsHgv8NxJwttep+JBOAIToZDxGQ6widz3+BTOrigUKPcPcdzkOWrsg12QfRLnGypUbK+NNWBXu1l2li9Onn8nKhyuVS1wWGxs7pOXFuLDiMTeab8/Tj/up7Rx+jUS1qBBgXQ6icPHWwS66f9Sjq65+YgwbVMNBZFPQ9DJIK1DbfY1aCgOe2NrmYbI0nqjlRWnXvo5GFG1IOkj/zZ6ItZuRL2dejXyDJp9x10wCE6iUmybyYxXie3iLsKggkIigeWg/D13KQ==;vMhRcIlufHPEEKRTM7YzOQ=="
 ---
 

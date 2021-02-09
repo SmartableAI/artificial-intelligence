@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 524
         isCached: true
-  - title: "Microsoft launches Viva, an AI-powered information hub for enterprises"
-    excerpt: "Microsoft today introduced Microsoft Viva, a hub of services designed to address digital workplace challenges."
-    publishedDateTime: 2021-02-04T14:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/"
-    ampWebUrl: "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/Jared-Spataro.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft details Speller100, an AI system that checks spelling in over 100 languages"
     excerpt: "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing."
     publishedDateTime: 2021-02-08T17:07:00Z
@@ -88,36 +72,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611269%2Fsatya_nadella_02.jpg&w=1200&op=resize"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
-    excerpt: "Etihad Airways has carried out a transformation of its finance operations through harnessing the power of Microsoft AI. The Finance and"
-    publishedDateTime: 2021-02-04T14:27:00Z
-    webUrl: "https://www.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
-    ampWebUrl: "https://amp.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 74
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20210204/ARTICLE/210209551/AR/0/AR-210209551.jpg&NCS_modified=20210204151537&MaxH=225&imageVersion=16by9"
-        width: 399
-        height: 225
-        isCached: true
-  - title: "Microsoft Debuts Custom Neural Voice for Azure Cognitive Services"
-    excerpt: "With Custom Neural Voice, Azure Cognitive Services developers can use AI to generate human-like speech-to-voice for their apps."
-    publishedDateTime: 2021-02-04T13:48:00Z
-    webUrl: "https://winbuzzer.com/2021/02/04/microsoft-debuts-custom-neural-voice-for-azure-cognitive-services-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 69
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/AT-T-Neural-Voice-Research-Azure-Microsoft.jpg"
-        width: 1157
-        height: 649
         isCached: true
   - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
     excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
@@ -274,6 +228,6 @@ related:
         height: 450
         isCached: true
 
-secured: "jx8qS/tHAvGJ5SVEPLWch+zBLnCaQ0JktTl5/K7w52acf7zP15xDrBQdkthelap9M0di4pOYornStgkv5AS99b1HV1UtwO63TH95iXUDcV27chiJyBIMtCowNRcviWxbGh8gwY2ILYdIhUls8ua+lrTfczqMX3UFSMor+PPQeHFIVaIEk9BoHmI+0fBw9sey4D4TZINJ/jeIBun/2YybT+3ZTGH0B2M1TkHP7ZSbMJQCZ0yzIIKX+SSnJPuTBJNBg2ffH8/8ZAvtGkJdLCYgQIP0txKzv8nF/87T9Bd8fjzBTU6BBR0f1hlXHB2ZlJGQU8fAt+/G+0OhXJxJPg8JMIrBvd9N/SV4qT2CgsUA83w=;I1/1fSNvqUXkIReYncQ5mg=="
+secured: "nejmEhmQZJUU/oXtlA5SJTOXcUVRjQFX2QmUBVAv5MAv5QXYxuiklcYpbX8hGNWfJ0gq6ONqhS4Lu5Cf9OFa67Ti7uMiPEDIAnktlTgDHjoevvVvuDOYEAjj1KOCQmfKwi8ReUGiSnHuDjekTRKo/QcpI8w3XK/T6JiX43Az/KH5dwVME2pUND1TRKs6x6y4mN1ia+8eJ08OoUrQBPvuy7qYKH607yLi8Sg3cWYr/JHfvPRGJ5LBAxutqEbKMrm6wXMLCOpE+JbgcBCLUHOOXGQ6lv/37XY+1lPEhn2RQmPjwAwLKNIEKcw/vN3igM3aZOvTTo8+dvMUuxQF2wnQvrjRloXhWI/wfJ0icm+OGVBZnBxH3nTRUyx7U0y95hDuR+DVK1CRkd1Dnfvs5kTRxavKdr6dDL/AL6H90hTjhA8gZpMczX0xwkOcTcpMfYxMomFmBn5QyxGmw2e/SdhxNY+uG5tRUb5NFoAoNjJ0iksKqNEYAC3EO3oLoJhjeelzMgbtA/V0uRqNP5pljKt00g==;WnGdNJs61CAGvkfFp+GceQ=="
 ---
 

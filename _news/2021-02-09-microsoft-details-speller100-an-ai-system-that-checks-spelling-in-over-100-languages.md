@@ -45,22 +45,6 @@ related:
         width: 1024
         height: 524
         isCached: true
-  - title: "Microsoft launches Viva, an AI-powered information hub for enterprises"
-    excerpt: "Microsoft today introduced Microsoft Viva, a hub of services designed to address digital workplace challenges."
-    publishedDateTime: 2021-02-04T14:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/"
-    ampWebUrl: "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/Jared-Spataro.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "3 Reasons Microsoft Is Still a Growth Stock"
     excerpt: "Microsoft (NASDAQ:MSFT) became only the third publicly traded U.S. company ever to reach a trillion-dollar valuation. Just two years later, its market cap has grown to $1.7 trillion. From productivity software to cloud computing and gaming,"
     publishedDateTime: 2021-02-06T18:30:00Z
@@ -78,22 +62,6 @@ related:
         height: 800
         isCached: true
   - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
-    excerpt: "Etihad Airways has carried out a transformation of its finance operations through harnessing the power of Microsoft AI. The Finance and"
-    publishedDateTime: 2021-02-04T14:27:00Z
-    webUrl: "https://www.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
-    ampWebUrl: "https://amp.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 74
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20210204/ARTICLE/210209551/AR/0/AR-210209551.jpg&NCS_modified=20210204151537&MaxH=225&imageVersion=16by9"
-        width: 399
-        height: 225
-        isCached: true
-  - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
     excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
     publishedDateTime: 2021-02-05T05:44:00Z
     webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
@@ -108,20 +76,6 @@ related:
       - url: "https://images.zawya.com/images/cia/zAmp/201122084121FMQX.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft Debuts Custom Neural Voice for Azure Cognitive Services"
-    excerpt: "With Custom Neural Voice, Azure Cognitive Services developers can use AI to generate human-like speech-to-voice for their apps."
-    publishedDateTime: 2021-02-04T13:48:00Z
-    webUrl: "https://winbuzzer.com/2021/02/04/microsoft-debuts-custom-neural-voice-for-azure-cognitive-services-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 69
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/AT-T-Neural-Voice-Research-Azure-Microsoft.jpg"
-        width: 1157
-        height: 649
         isCached: true
   - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
     excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"

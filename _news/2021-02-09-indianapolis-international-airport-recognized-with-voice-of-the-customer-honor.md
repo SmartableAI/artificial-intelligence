@@ -53,17 +53,17 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Indy airport receives global recognition"
-    excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International."
-    publishedDateTime: 2021-02-08T17:12:00Z
-    webUrl: "https://www.wishtv.com/news/inside-indiana-business/indy-airport-receives-global-recognition/"
+  - title: "Indy Airport Receives Global Recognition"
+    excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International. The recognition is given to airports f"
+    publishedDateTime: 2021-02-08T18:31:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/43309128/indy-airport-receives-global-recognition"
     type: article
     provider:
-      name: WISHTV8
-      domain: wishtv.com
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
     quality: 39
     images:
-      - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2020/01/Indianapolis-Airport.jpg?fit=960%2C540&#038;ssl=1"
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/19069708_G.jpg?lastEditedDate=1577978543000"
         width: 960
         height: 540
         isCached: true
@@ -81,6 +81,15 @@ related:
         width: 280
         height: 280
         isCached: true
+  - title: "ACI World launches 'Voice of the Customer' recognition for airports"
+    excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."
+    publishedDateTime: 2021-02-09T05:40:00Z
+    webUrl: "https://centreforaviation.com/news/aci-world-launches-voice-of-the-customer-recognition-for-airports-1051603"
+    type: article
+    provider:
+      name: Centreforaviation.com
+      domain: centreforaviation.com
+    quality: 19
   - title: "Indy Airport Selected for Voice of Customer Honor"
     excerpt: "The Indianapolis International Airport (IND) is among a select group of airports worldwide to be recently recognized with a Voice of the Customer honor, citing the Indy airport’s continued commitment and diligence in actively listening and responding to travelers’ needs during the global pandemic."
     publishedDateTime: 2021-02-08T20:17:00Z

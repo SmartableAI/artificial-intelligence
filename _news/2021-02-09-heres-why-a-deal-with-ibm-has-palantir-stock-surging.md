@@ -2,23 +2,33 @@
 category: news
 title: "Here's Why a Deal With IBM Has Palantir Stock Surging"
 excerpt: "Palantir and IBM announced a major partnership today. The deal will see IBM offer Palantir's technologies as part of its cloud data services, and it could dramatically expand the"
-publishedDateTime: 2021-02-08T22:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/heres-why-a-deal-with-ibm-has-palantir-stock-surging-2021-02-08"
-webUrl: "https://www.nasdaq.com/articles/heres-why-a-deal-with-ibm-has-palantir-stock-surging-2021-02-08"
-ampWebUrl: "https://www.nasdaq.com/articles/heres-why-a-deal-with-ibm-has-palantir-stock-surging-2021-02-08?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-why-a-deal-with-ibm-has-palantir-stock-surging-2021-02-08?amp"
+publishedDateTime: 2021-02-08T22:34:00Z
+originalUrl: "https://www.fool.com/investing/2021/02/08/heres-why-a-deal-with-ibm-has-palantir-stock-surgi/"
+webUrl: "https://www.fool.com/investing/2021/02/08/heres-why-a-deal-with-ibm-has-palantir-stock-surgi/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/02/08/heres-why-a-deal-with-ibm-has-palantir-stock-surgi/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/08/heres-why-a-deal-with-ibm-has-palantir-stock-surgi/"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612223%2Fgettyimages-1254825733.jpg&w=1200&op=resize"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "IBM and Palantir debut no-code platform for OpenAI applications"
@@ -163,6 +173,6 @@ related:
         height: 284
         isCached: true
 
-secured: "JMYXjJglrqb7Za4s5Wl+TTnLCZJdsn1gPYdzkymGF0yi4W4UHQcT1BgLZCDe5idedk2V6L1MgBrSGfMezgy3+b3x1JjnDH72kXY9n430wUUo8RxcsCiAgLTqi5gr73Bv1abWJdCFyQZUTMrDi/T/RGgGlngBPn5SD3aF3dNX4IFhj/UA+B2OY68u+PcCa2hwzpNAz8fd+qiehPRJYcGeeNOHIyY4BMp2WWwdaukjRDL2BZqdzgFjvqx+OYyGDtEqoLHvt6SdTneZ3Qyak4TgRk1III+6Tht9wqMnCCtiXCcoyqCgynb1Elvy7wHcNBvxlqYfk3Gou2LbyyPXa317ZYx4TtuHQy5Q7RwNJQiFAew=;+V3D4ElNP5TKZjpk58AvNA=="
+secured: "ax11qtBXB9EcYSAsLaus0MZoKgANpyb43zImlNWRXgqBty6zNDklhsNhx+Sz3Ca/NzbZTFeYwgD5sA7OmtjbNLOp3L0U66BtM/A61paQKgxOTc6D5+otCe4czeNtDDNcpcdSDxEghzptynp+cP6wUgeYJm2z3jBos2wvcucuJj/9FhMx5CimBFpG8w/b7+8A8d7AJn/Lt6dVYqJt+W5j5tG0jE+z0bLFRxSoSXOOL85egHJH7XvY9+kYMkxq4FYKu40kUwI5APP4pR9JSZDp5JjLG5Ty/asv5ainqA+/gfBLWyYcMZ8MSBg3ttKgaguMYbFm9EJhE2ftxWqFqhkDhOWH6XZw//BR1VLZn1fiXOE=;Pw9SXC4EpSpgISZooj8kKA=="
 ---
 

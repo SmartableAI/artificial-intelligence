@@ -1,15 +1,17 @@
 ---
 category: news
-title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
-excerpt: "Washington [US], January 19 (ANI): American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers ..."
-publishedDateTime: 2021-01-19T01:36:00Z
-originalUrl: "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/"
-webUrl: "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/"
+title: "Facebook to use AI in predicting if Covid-19 patients need better healthcare"
+excerpt: "Washington [: American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a ..."
+publishedDateTime: 2021-01-19T07:17:00Z
+originalUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html"
+webUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html"
+ampWebUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html"
 type: article
 
 provider:
-  name: Asian News International
-  domain: aninews.in
+  name: Mint
+  domain: livemint.com
 
 topics:
   - Facebook AI
@@ -17,11 +19,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://aniportalimages.s3.amazonaws.com/media/details/wfsa4753.jpg"
+  - url: "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG"
     width: 600
-    height: 450
+    height: 338
     isCached: true
 
-secured: "uzmkHGLZgbK6gCxA+WOqnJyGH27N9lNDtB/sTG7gmQDH05fgx4PlFaxfVN2Fxt7Ug8NciOGQC9QcsPaOen+hQjgXxeLQuhzox9Q25rap4sLOZxtHd3dv4yN1DspfxbEDrazeVR8+VxLDG2GcoYKV1wwyxLDc7C/wcNM8UjABAmDvgao017QIag3iwXGz0J4mGutTrfMALoACbvPKPvsH03rUYk/nIrzBvGKESn/C2btG9ODJjMhyg/AJ2DMvlz/0QKxsPeGYTXvSdfoGWshLuJFN3f4URFokmhpmNYW8uHNUlciYTkqZHjji1bdqIVAvAZwlfWqleIZ5jqmeWuGr8uVkRKZEKFHGCZR8ZxZqePQ=;J56t/1ASX7ySJ6TAqO0gQA=="
+secured: "6rrdYWJiSCs3elqiDWwtslHOj6/8Oydr5u2BbB+qdocpfB+JjJXdCeO7Q/WhhuXFo/9V1C2gJWoZC2nsbo3xj/dafCxFfMy3e5QniuZscHgeBCtoHHbmiZQi5NnJFBvOezJhzN+fbj4owRPdfWcqLjQUf4/z/32TMmOUPeazFh2vZdIKctM478uC6zS068wwngn1go/FwO/M+rTAnpq2DkKBKJuIX+AO5zNCgA6WmmcI5LJWkxPeJWPgfisnNUK9Esh7P2O4C0W0WqbZi0e+TOylci9bNypWco++7nbihyVbtK7XXFMsml3GrXKQ9dHGy1UqYCnbdeNFqd69K8ysKp0r/60NP+1mTxUQW/qAo/E=;vI+5biBJj8YdhwFFH2ctEA=="
 ---
 

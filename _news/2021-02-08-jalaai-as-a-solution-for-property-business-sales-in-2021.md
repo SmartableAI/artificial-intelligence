@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/jala-ai-as-a-solution-f
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -23,6 +23,22 @@ provider:
 topics:
   - AI
   - AI in Sales
+
+related:
+  - title: "Motorola Solutions Combines AI Capabilities with a Network Video Recorder to Present an All-in-One Solution"
+    excerpt: "Motorola Solutions , today announced the newest addition to its video security and analytics portfolio, the Artificial Intelligence Network Video Recorder (AI NVR). The AI NVR combines the traditional Avigilon NVR with the capabilities of"
+    publishedDateTime: 2021-02-09T06:01:00Z
+    webUrl: "https://www.lelezard.com/en/news-19638851.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "tHJUCimPewLL0RyfIhycXCmfcg6i9+dy44L+xO4G+BARo/nRSkNeHXWCJ+N2HcuuUETiU9Hz1hT2AHljHJG0Xk5qBLbraPVTxZrbq7BOA4JLyKmSdqA41IJfhBgle08atUfviX8IJ5Zo4c7fyINg21h5h0DJ87u40uT1+4PrVRPT6z496LDqoU+58tz+EImm0MIM2oNivseFzwzxHuKRGcNRukkwjVYqTE2j8ezUxoyjQVq9RZampCXRj5+/fIEkWeu6d5ZBJdzco6lJ+c3lLx7wSRfJj2arPCl0BUu0C2tVU6qTxgYQhQPGmchTtUIvIxgnBs/odxq67qzQAXIuLuGnnHShjgMs9ujNEtYwBeA=;t+twDctCSvB9HeEuqPD8OQ=="
 ---
