@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Leading facial recognition technology provider Corsight AI announces expansion into the Oceania region"
-excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and"
-publishedDateTime: 2021-02-08T22:05:00Z
-originalUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania"
-webUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania"
-ampWebUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
+excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and has appointed Sean Borg to accelerate market growth and support the regional surge in demand for facial recognition technology."
+publishedDateTime: 2021-02-08T21:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
+webUrl: "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
 type: article
-quality: 58
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/pr-newswire_500_4_390.jpg?itok=FTvrIOzU"
-    width: 763
-    height: 509
-    isCached: true
 
 related:
   - title: "Delta expanding facial recognition technology to domestic flights in Detroit"
@@ -43,22 +41,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Delta expands facial recognition Technology"
-    excerpt: "Delta expands facial recognition Technology Delta Air Lines Expands Facial Recognition Technology to Domestic Flights at Detroit"
-    publishedDateTime: 2021-02-07T22:24:00Z
-    webUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Delta-expands-facial-recognition-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Delta rolls out facial recognition for domestic travel at Detroit airport"
     excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a “biometric terminal” for international travel using facial recognition at Hartsfield-Jackson’s Maynard H."
     publishedDateTime: 2021-02-04T20:51:00Z
@@ -73,35 +55,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Your Business Can Benefit from Facial Recognition Technology"
-    excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
-    publishedDateTime: 2021-02-08T14:25:00Z
-    webUrl: "https://pctechmag.com/2021/02/business-benefitting-from-facial-recognition-technology/"
-    type: article
-    provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 39
-    images:
-      - url: "https://pctechmag.com/wp-content/uploads/2021/02/Facial-Recognition-Technology.jpg"
-        width: 940
-        height: 705
-        isCached: true
-  - title: "Innovation in technology and vocational training gets financial recognition"
-    excerpt: "The winners of the first inaugural Cambodia Skills Challenge Innovation Call have been announced. The Innovation Call is an initiative of the Ministry of Labour and Vocational Training and the United Nations in Cambodia,"
-    publishedDateTime: 2021-02-08T02:44:00Z
-    webUrl: "https://www.khmertimeskh.com/50811599/innovation-in-technology-and-vocational-training-gets-financial-recognition/"
-    type: article
-    provider:
-      name: Khmer Times
-      domain: khmertimeskh.com
-    quality: 37
-    images:
-      - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/02/16824.jpg"
-        width: 750
-        height: 440
-        isCached: true
 
-secured: "wkftgDcDW+JUj/kXsOBceDYpaWX3nc245s4BIv5v1iMtbqeIaE4NvQ4jJzw/VGVZYz41VmrgTQEocUEcrG/7dIG6yPqwWI1cshnB3nUsLJoJqTIr/3Ni2bGZrUdX95lBQ8DjWhxjPNAfcKxTJbEBLr5Rk3ZVqsTjRlCNKYiSG8Auhypj+x81/2u9yWxTQ2NWqj2yWhq12dloooDKy/5eGJ5e7+lT1o3x4+OM9TzDkiCm2Sx2Gs4sUtMBy7zfQVdvMxc3r1VCTfq2Vw6iedM0MQjx/P8+JF0CGJBEpZgXuL8kI0guMVGthDZTOvGE95xhjfuQ1E9rUjDrZtVz9JF1OfXr8JW2agP/yjIueAWcPs1zHky2O6O9hLq5Oe3KhEmUa6JsZoozQRwkG2KBcKtbWOeVlVHV0Z8sb5Dg3VkvUAVDSU5UkV0M1CbVE4N4vcQj5JTqLUAzAnCfwI75bWWikTzX3Op1rlR51Zqs8jiiRkmYjsW2C4dGmnK0c8PovTNk21Gpsq/gY9lCNqAGLj72gw==;TjS3ZIF300vHVVFbRX/6jA=="
+secured: "+vtXR8QN9VqlMDmEf9LD3+5KF4Ff+Vz1Fi9htxKZNq0NvGeY38+1L7hOtP9Z8Gdi5L3Go1gW9HkEy7RUucWSrkBWOsdkRHVKx1TG5bZ4s8WYVatJ6uRCTO80WhFgAKBfAaDYXqDNjXFlyhNghHg3TbQczyI6C5wJYzjMuhZ4b30eIkL9SbiCWczHIrqe7RhwEQ7SUn5IiUFzEXmUbBfigusFBHpGB+924rO4ACqdxuSwOjWmOiIJlpoQtciRDiT+k05yasUUczQbfK6BwXeTgUPzFUiww4WFR3bs1kjOQeguSO1JYymcHFsXuLKVL9PlaGynWquz5jNr2SjZIXciRp3M0IMpRJ04vXwofaaOdZI=;ae5IPFz/C3dq4LbT1zXdcA=="
 ---
 

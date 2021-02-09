@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-09-9-scary-revelations-from-40-years-of-facial-recognition-research.md",
+      "title": "9 Scary Revelations From 40 Years Of Facial Recognition Research",
+      "excerpt": "In science fiction, facial recognition technology is a hallmark of a dystopian society. The truth of how it was created, and how it's used today, is just as freaky. In a new study, researchers conduct a historical survey of over 100 data sets used to train facial recognition systems compiled over the last 43 years.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research",
+      "originalUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/feature/9/9-scary-re/9-scary-revelations-from-40-years-of-facial-recognition-rese_hhw8.620.jpg",
+          "width": 620,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1",
+      "publishedDateTime": "2021-02-08T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-researchers-find-that-labels-in-computer-vision-datasets-poorly-capture-racial-diversity.md",
       "title": "Researchers find that labels in computer vision datasets poorly capture racial diversity",
       "excerpt": "In a study, researchers at Northeastern University find evidence that lables in computer vision datasets poorly reflect racial diversity.",
@@ -62,7 +106,7 @@
       "originalUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -93,6 +137,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-using-facial-recognition-to-find-capitol-rioters-brings-risks.md",
+      "title": "Using Facial Recognition to Find Capitol Rioters Brings Risks",
+      "excerpt": "In the aftermath of a riot that included white supremacist factions attempting to overthrow the results of the presidential election, communities of color are warning about the potential danger of the software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html",
+      "originalUrl": "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/BIZ-CPT-CAPITOL-RIOTS-FACIALRECOGNITION-ABA.jpg",
+          "width": 941,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP",
+      "publishedDateTime": "2021-02-05T15:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -187,6 +274,49 @@
       "provider": {
         "name": "jaxenter.com",
         "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-clearview-ais-facial-recognition-service-called-an-illegal-mass-surveillance-tool-in-canada.md",
+      "title": "Clearview AI’s facial recognition service called an ‘illegal’ ‘mass surveillance’ tool in Canada",
+      "excerpt": "What facial recognition company Clearview does is “mass surveillance”, and “illegal” — the company should \"delete all images of Canadians from its database\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.medianama.com/2021/02/223-clearview-ai-illegal-canada/",
+      "originalUrl": "https://www.medianama.com/2021/02/223-clearview-ai-illegal-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png",
+          "width": 1280,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medianama.com/2021/02/223-clearview-ai-illegal-canada/amp/",
+      "cdnAmpWebUrl": "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/02/223-clearview-ai-illegal-canada/amp/",
+      "publishedDateTime": "2021-02-05T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaNama",
+        "domain": "medianama.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -306,21 +436,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again.md",
-      "title": "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again",
-      "excerpt": "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends.",
+      "path": "_news/2021-02-05-image-recognition-market-will-obtain-530-billion-by-2025.md",
+      "title": "Image Recognition Market will obtain $53.0 billion by 2025",
+      "excerpt": "According to a new market research report Image Recognition Market by Technology Digital Image Processing Facial Recognition Pattern Recognition Component Hardware Software and Services Deployment Mode On premises Cloud Application Vertical and Region Global Forecast to 2025 published by",
       "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again",
-      "originalUrl": "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again",
+      "webUrl": "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
+      "originalUrl": "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg",
-          "width": 810,
-          "height": 405,
+          "url": "https://cdn.openpr.com/U/2/U204746962_g.jpg",
+          "width": 650,
+          "height": 439,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -328,13 +458,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T11:11:00-08:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
+      "publishedDateTime": "2021-02-04T08:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -344,9 +474,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1311,153 +1440,6 @@
         "name": "The CEO Magazine",
         "domain": "theceomagazine.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-facial-recognition-now-used-for-border-screenings-at-msp-airport.md",
-      "title": "Facial recognition now used for border screenings at MSP Airport",
-      "excerpt": "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals.",
-      "sourceUrl": null,
-      "webUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "originalUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcxODMyMjYyNjQ2NTcyMzU0/1024px-msp_airport_-_view_from_the_observation_deck_8487245657.jpg",
-          "width": 620,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "cdnAmpWebUrl": "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "publishedDateTime": "2021-01-28T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bring Me The News",
-        "domain": "bringmethenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-the-next-target-for-a-facial-recognition-ban-new-york.md",
-      "title": "The Next Target for a Facial Recognition Ban? New York",
-      "excerpt": "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
-      "originalUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
-      "publishedDateTime": "2021-01-28T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-amnesty-international-calls-for-ban-on-facial-recognition.md",
-      "title": "Amnesty International calls for ban on facial recognition",
-      "excerpt": "As advocates for facial recognition tout the tech’s potential to track down the US Capitol rioters, a new Amnesty International campaign has provided a timely reminder of the software’s dangers.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-27T132716.034-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/amp/",
-      "publishedDateTime": "2021-01-27T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

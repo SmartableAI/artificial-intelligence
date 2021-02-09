@@ -2,6 +2,334 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2020-12-05-automatic-speech-recognition-market.md",
+      "title": "Automatic Speech Recognition Market",
+      "excerpt": "The \"Automatic Speech Recognition - Market Development Scenario \" Study has been added to HTF MI database. The study envisage qualitative as well as quantitative market data and follows Industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2203115/automatic-speech-recognition-market-to-see-huge-growth",
+      "originalUrl": "https://www.openpr.com/news/2203115/automatic-speech-recognition-market-to-see-huge-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc05616526_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2203115/automatic-speech-recognition-market-to-see-huge-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2203115/automatic-speech-recognition-market-to-see-huge-growth",
+      "publishedDateTime": "2020-12-05T04:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-teradata-ceo-advanced-agile-analytics-help-enterprises-navigate-global-disruption.md",
+      "title": "Teradata CEO: Advanced, agile analytics help enterprises navigate global disruption",
+      "excerpt": "As the global COVID-19 pandemic has shown, it is imperative for enterprises to be able to respond quickly to uncertain and constantly changing business environments. But how to prepare for such ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/02/advanced-agile-analytics-help-enterprise-navigate-global-disruption-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/02/advanced-agile-analytics-help-enterprise-navigate-global-disruption-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Steve-McMillan-AWS-re-Invent-2020.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-05T00:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-bluescope-steel-completes-data-and-analytics-overhaul.md",
+      "title": "BlueScope Steel completes data and analytics overhaul",
+      "excerpt": "The move is expected to expand BlueScope’s machine learning capabilities. The company is using Azure Machine Learning to improve its steel manufacturing processes and tackle cash position ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
+      "originalUrl": "https://www.itnews.com.au/news/bluescope-steel-completes-data-and-analytics-overhaul-558594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/20200915121752_Bluescope.png",
+          "width": 570,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-using-a-test-framework-to-design-better-experiences-with-amazon-lex.md",
+      "title": "Using a test framework to design better experiences with Amazon Lex",
+      "excerpt": "Chatbots have become an increasingly important channel for businesses to service their customers. Chatbots provide 24/7 availability and can help customers interact with brands anywhere, anytime and on any device. To effectively utilize chatbots, they must be built with good design, development, test,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-a-test-framework-to-design-better-experiences-with-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-a-test-framework-to-design-better-experiences-with-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/ML-972-1.jpg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T18:07:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-mlcommons-debuts-with-public-86000-hour-speech-data-set-for-ai-researchers.md",
+      "title": "MLCommons debuts with public 86,000-hour speech data set for AI researchers",
+      "excerpt": "If you want to make a machine learning system, you need data for it, but that data isn’t always easy to come by. MLCommons aims to unite disparate companies and organizations in the creation of large public databases for AI training,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/?tpcc=ECTW2020",
+      "originalUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/?tpcc=ECTW2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/MLCommons.png?w=1024",
+          "width": 1024,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/",
+      "publishedDateTime": "2020-12-04T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility.md",
+      "title": "Intel Develops $50 3D Printed OpenBot to Advance Robotics Accessibility",
+      "excerpt": "A curated collection of industry and product deep-dives. Edouard Moens de Hase talks to us today about Aerosint. For the last few years, they have been working on improving powder bed fusion. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/",
+      "originalUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3dprint.com/wp-content/uploads/2020/08/openbot4_intel_3dprint_smartphone.jpg",
+          "width": 1015,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/",
+      "cdnAmpWebUrl": "https://3dprint-com.cdn.ampproject.org/c/s/3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/",
+      "publishedDateTime": "2020-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "3dprint.com",
+        "domain": "3dprint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics.md",
+      "title": "Google widely criticized after parting ways with a leading voice in AI ethics",
+      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "originalUrl": "https://www.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203175844-timnit-gebru-google-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "publishedDateTime": "2020-12-04T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics.md",
       "title": "AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics",
       "excerpt": "With the firing of Timnit Gebru this week, Google implicitly signaled that it's willing to put commercial interests ahead of all else.",
@@ -873,342 +1201,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-google-staff-hit-out-at-effort-to-silence-ai-ethics-leader.md",
-      "title": "Google staff hit out at effort to 'silence' AI ethics leader",
-      "excerpt": "More than 400 employees of the US firm signed a letter saying Timnit Gebru's departure was 'a moment of reckoning beyond Google'",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/12/01/TELEMMGLPICT000224849586_trans_NvBQzQNjv4BqCPWxJu6r_Co_Uapdy2dIiiutx_PFeIfnF6XtRkqB7Pc.jpeg",
-          "width": 2394,
-          "height": 1497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/",
-      "publishedDateTime": "2020-12-04T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-darktrace-says-its-ai-can-be-used-for-performance-monitoring.md",
-      "title": "Darktrace Says Its AI Can Be Used for Performance Monitoring",
-      "excerpt": "Darktrace Ltd.’s artificial intelligence could be used to better “understand the productivity and performance” of employees, the British company’s Chief Strategy Officer Nicole Eagan said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-04/darktrace-says-its-ai-can-be-used-for-performance-monitoring",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-04/darktrace-says-its-ai-can-be-used-for-performance-monitoring",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8RfuYcx4Lvc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator.md",
-      "title": "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator",
-      "excerpt": "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
-      "originalUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
-      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
-      "publishedDateTime": "2020-12-04T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Mining Review",
-        "domain": "globalminingreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-google-scientists-abrupt-exit-exposes-rift-in-prominent-ai-unit.md",
-      "title": "Google Scientist’s Abrupt Exit Exposes Rift in Prominent AI Unit",
-      "excerpt": "Google’s decision to part ways with a prominent researcher laid bare divisions within the company’s artificial intelligence unit and subjected its leader, the lauded software engineer Jeff Dean, to widespread scorn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNxHoRM2yY0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "publishedDateTime": "2020-12-04T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-black-ethical-ai-researcher-says-google-fired-her-over-a-critical-email.md",
-      "title": "Black Ethical AI Researcher Says Google Fired Her Over A Critical Email",
-      "excerpt": "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that was allegedly deemed “inconsistent with the expectations of a Google manager.",
-      "sourceUrl": null,
-      "webUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528",
-      "originalUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wdrwpvfwhrwrv4cgb8nz.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp",
-      "cdnAmpWebUrl": "https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp",
-      "publishedDateTime": "2020-12-04T00:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jezebel",
-        "domain": "jezebel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-signs-order-on-principles-for-us-government-ai-use.md",
-      "title": "Trump signs order on principles for U.S. government AI use",
-      "excerpt": "U.S. President Donald Trump signed an executive order on Thursday setting guidance for federal agency use of artificial intelligence in government decision-making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357",
-      "originalUrl": "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28D357",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357",
-      "publishedDateTime": "2020-12-03T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models.md",
-      "title": "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models",
-      "excerpt": "AI research at the center of Google AI co-lead Timit Gebru's exit focuses on the bias, risks, and inequality tied to deploying large language models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/",
-      "originalUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/",
-      "publishedDateTime": "2020-12-03T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

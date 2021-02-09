@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-wit
 ampWebUrl: "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/"
 type: article
-quality: 80
-heat: 81
+quality: 82
+heat: 83
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400485394-e1518999817265.jpg?w=1200&strip=all"

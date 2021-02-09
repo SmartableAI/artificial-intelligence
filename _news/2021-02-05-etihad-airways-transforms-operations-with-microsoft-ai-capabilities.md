@@ -3,10 +3,10 @@ category: news
 title: "Etihad Airways transforms operations with Microsoft AI capabilities"
 excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
 publishedDateTime: 2021-02-05T05:44:00Z
-originalUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
+originalUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+webUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_199629494/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_199629494/"
 type: article
 quality: 74
 heat: -1
@@ -290,6 +290,6 @@ related:
         height: 450
         isCached: true
 
-secured: "TN8/QnVBtInpjQR2Ctt2dTCwaZDEGwSSKRv7t5YZcv9nSShJxIJmjtppxawT21Ql10V9HfutW2ysiYDEmF4jqJrAzRYH5TK3QUNMdp1DvQiuhpeT2kIZFm3/3GP/KlmSFwF6xOSXd4GLl421Vqx8FE70OdVAld0ISgTDPvgHZUMe6SI37SmeNshJqKT41qEKR0R9r2cpjIW0RyT8pCXlOp6MX/sEAvrQCJwf98jHKxENymmAQ4BJg/yqS8VAZDBZnW++Mfmf0+pXNO5FTBGu4Pb2IB2eOMtCYAbOjSbQcFODUgzn6CZZiuDRuk/jr93WNY+s/dmZHlYvPvdIWLUqVSTQMkOKNn+Jp6/vmtBsAwM=;ig5kc/fOr23BAZvS5sjnFQ=="
+secured: "STMrcilKX1mk7tw2VOIxlUOLyaqjDFoVKs0IHqpwOkJNGNF9yoB94LcUJJiGJb5dknZIhEZ6BzUafM6n4iMI2O+ZDiKiekW2ogcHG4nqaUngQ/G2F6OElNkUNV5VXJVxyxuzrDdxvkuldynj0w17WWn80rE9tNnpSbetczcZ9LZ6WP2xfnRFesieshuMlm2iJott3UMtjSGN1vYN6HdBJ7OxlPVcxkFvAL+0DJhk2METFrVtdlSpmosegzZjulSMVI0lYr8nGlZG4Wz3bek4YktcAAcVkG0GZ92f2dznPvfUUO0BhEZRIvAZ63xvq+fH1MZ6VKpzYINQ5inPt3MgzoH5p/IrXYUtA3ZvraVfq2g=;LFgB9cMm53IiQDdi9oWRUQ=="
 ---
 

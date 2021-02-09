@@ -43,6 +43,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Machine-learning model helps determine protein structures"
+    excerpt: "Biologists have developed a computer modeling technique that lets them use cryo-electron microscopy to identify multiple possible structures that a protein can take."
+    publishedDateTime: 2021-02-05T17:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210204144011.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "M8vVI6xC+SPUsLNC8qELdUNtd+im7IbBhHWCORTACYA9EKA9Bd4jUKUOSj1xoE9X1etquiI6HHs8u//StDk6Gj0GQwOcSECT0DKJEsf/8T5RKkbLYAuShfHvupZkWhwsR4uywsxIEc1qlqdt1jhz+8Ua/xxSlNAtAv3uHVon+7IleBtfF7INr/HOMhEvblq7mzNELd7fTQ1l2e1+f1iY7gTzB5TXLKlW1XmWXVj2YtYJt7egspq9mzqcjoghg1IEvZmRUgAIcoCQ1686mM0vDluNXG0S6yECPxt2YrX967Hhi3f7abaArm/FNhb7dXS/9FTlDoZThwd27Of1P1Kr0KuaiJA7HlEthkBV99ieOC50rrZUZN+QqFzIBUQcUU1k8rnmTrgi9o7ibV+16qB8WC4+ePQNXMvTSH0hEgzbZsS4sHwctr1v6XRahS+PweTQSF1uAMwcHqXBaCISlW5yJvlNAFyI1OsXthuwcAvwxY6z4E8xnIVeFG2NxzjST7XgHB6bSs6gpd9RIP8bCIjlmg==;0XzV53otU0+wqRwLCqUMfA=="
 ---

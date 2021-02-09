@@ -22,6 +22,22 @@ topics:
   - Computer Vision
 
 related:
+  - title: "9 Scary Revelations From 40 Years Of Facial Recognition Research"
+    excerpt: "In science fiction, facial recognition technology is a hallmark of a dystopian society. The truth of how it was created, and how it's used today, is just as freaky. In a new study, researchers conduct a historical survey of over 100 data sets used to train facial recognition systems compiled over the last 43 years."
+    publishedDateTime: 2021-02-09T01:07:00Z
+    webUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research"
+    ampWebUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 91
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/feature/9/9-scary-re/9-scary-revelations-from-40-years-of-facial-recognition-rese_hhw8.620.jpg"
+        width: 620
+        height: 467
+        isCached: true
   - title: "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again"
     excerpt: "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends."
     publishedDateTime: 2021-02-04T19:11:00Z
@@ -36,83 +52,21 @@ related:
         width: 810
         height: 405
         isCached: true
-  - title: "Image Recognition Market will obtain $53.0 billion by 2025"
-    excerpt: "According to a new market research report Image Recognition Market by Technology Digital Image Processing Facial Recognition Pattern Recognition Component Hardware Software and Services Deployment Mode On premises Cloud Application Vertical and Region Global Forecast to 2025 published by"
-    publishedDateTime: 2021-02-04T16:55:00Z
-    webUrl: "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
-    ampWebUrl: "https://www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
+  - title: "Delta expands facial recognition Technology"
+    excerpt: "Delta expands facial recognition Technology Delta Air Lines Expands Facial Recognition Technology to Domestic Flights at Detroit"
+    publishedDateTime: 2021-02-07T22:24:00Z
+    webUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: Windows
+      domain: compsmag.com
     quality: 59
     images:
-      - url: "https://cdn.openpr.com/U/2/U204746962_g.jpg"
-        width: 650
-        height: 439
-        isCached: true
-  - title: "Using Facial Recognition to Find Capitol Rioters Brings Risks"
-    excerpt: "In the aftermath of a riot that included white supremacist factions attempting to overthrow the results of the presidential election, communities of color are warning about the potential danger of the software."
-    publishedDateTime: 2021-02-05T23:39:00Z
-    webUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html"
-    ampWebUrl: "https://www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Using-Facial-Recognition-to-Find-Capitol-Rioters-Brings-Risks.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/BIZ-CPT-CAPITOL-RIOTS-FACIALRECOGNITION-ABA.jpg"
-        width: 941
-        height: 626
-        isCached: true
-  - title: "New tool can tell you if your online photos are helping train facial recognition systems"
-    excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
-    publishedDateTime: 2021-02-04T16:46:00Z
-    webUrl: "https://www.wrcbtv.com/story/43293468/new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems"
-    type: article
-    provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 45
-    images:
-      - url: "https://WRCB.images.worldnow.com/images/19484854_G.jpeg?lastEditedDate=1591862630000"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Warehouse Workers Wage Historic Fight for Union Recognition at Amazon"
-    excerpt: "Workers at an Amazon warehouse in the Deep South are hoping to make history by establishing the company’s first unionized workplace in the United States. A"
-    publishedDateTime: 2021-02-06T10:30:00Z
-    webUrl: "https://prospect.org/labor/warehouse-workers-wage-historic-fight-for-union-recognition-amazon/"
-    ampWebUrl: "https://prospect.org/api/amp/labor/warehouse-workers-wage-historic-fight-for-union-recognition-amazon/"
-    cdnAmpWebUrl: "https://prospect-org.cdn.ampproject.org/c/s/prospect.org/api/amp/labor/warehouse-workers-wage-historic-fight-for-union-recognition-amazon/"
-    type: article
-    provider:
-      name: The American Prospect
-      domain: prospect.org
-    quality: 44
-    images:
-      - url: "https://prospect.org/downloads/15748/download/Leon-Amazon%20020621.jpg?cb=8c170d0cc2918b783a48c4c8b595519f"
-        width: 980
-        height: 519
-        isCached: true
-  - title: "Blinken stops short of endorsing Trump recognition of Golan Heights"
-    excerpt: "When asked whether he regards Jerusalem as Israel's capital, Blinken replied \"I do, yes. And, more importantly, we do.\""
-    publishedDateTime: 2021-02-09T00:28:00Z
-    webUrl: "https://www.jpost.com/middle-east/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-658295"
-    ampWebUrl: "https://m.jpost.com/middle-east/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-658295/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/middle-east/blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-658295/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 44
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/470135"
-        width: 640
-        height: 428
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Delta-expands-facial-recognition-Technology.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "New A.I. face recognition tool"
     excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
@@ -142,17 +96,6 @@ related:
         width: 1266
         height: 828
         isCached: true
-  - title: "Facial Recognition Can Find Rioters, but May Harm Others"
-    excerpt: "The AI-driven technology has been helping officials identify those who stormed the Capitol on Jan. 6, but it also has been found to have racial biases. Officials must balance the potential benefits with the risks."
-    publishedDateTime: 2021-02-05T21:44:00Z
-    webUrl: "https://www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html"
-    ampWebUrl: "https://www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "Law enforcement turns to facial recognition to find Capitol rioters"
     excerpt: "Researchers such as the cybersecurity expert John Scott-Railton said they deployed facial recognition software to detect trespassers, including a retired Air Force lieutenant alleged to have been spotted on the Senate floor during the riot."
     publishedDateTime: 2021-02-05T21:11:00Z
@@ -167,33 +110,33 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Take Image Recognition and Computer Vision to the Next Level"
-    excerpt: "Enhancing AI with powerful image and signal processing capabilities. Digital Harmonic is a leading innovator in image processing for artificial intelligence (AI) and machine learn"
-    publishedDateTime: 2021-02-05T22:25:00Z
-    webUrl: "https://www.cio.com/article/3606471/take-image-recognition-and-computer-vision-to-the-next-level.html"
+  - title: "How Your Business Can Benefit from Facial Recognition Technology"
+    excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
+    publishedDateTime: 2021-02-08T14:25:00Z
+    webUrl: "https://pctechmag.com/2021/02/business-benefitting-from-facial-recognition-technology/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
+      name: PC Tech Magazine
+      domain: pctechmag.com
     quality: 39
     images:
-      - url: "https://images.idgesg.net/images/article/2021/02/digital-harmonic-100876398-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://pctechmag.com/wp-content/uploads/2021/02/Facial-Recognition-Technology.jpg"
+        width: 940
+        height: 705
         isCached: true
-  - title: "Indy airport receives global recognition"
-    excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International."
-    publishedDateTime: 2021-02-08T17:12:00Z
-    webUrl: "https://www.wishtv.com/news/inside-indiana-business/indy-airport-receives-global-recognition/"
+  - title: "Innovation in technology and vocational training gets financial recognition"
+    excerpt: "The winners of the first inaugural Cambodia Skills Challenge Innovation Call have been announced. The Innovation Call is an initiative of the Ministry of Labour and Vocational Training and the United Nations in Cambodia,"
+    publishedDateTime: 2021-02-08T02:44:00Z
+    webUrl: "https://www.khmertimeskh.com/50811599/innovation-in-technology-and-vocational-training-gets-financial-recognition/"
     type: article
     provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 39
+      name: Khmer Times
+      domain: khmertimeskh.com
+    quality: 37
     images:
-      - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2020/01/Indianapolis-Airport.jpg?fit=960%2C540&#038;ssl=1"
-        width: 960
-        height: 540
+      - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/02/16824.jpg"
+        width: 750
+        height: 440
         isCached: true
   - title: "Tech Can Flag Distracted Jurors. But Will Courtrooms Allow Facial Recognition?"
     excerpt: "Maintaining jurors' undivided attention during in-person trials can be tricky in a virtual environment. But where legal tech companies see an opportunity, judges may see an unneeded solution."
@@ -209,15 +152,22 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Amherst teen wins recognition in national arts competition"
-    excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
-    publishedDateTime: 2021-02-05T14:05:00Z
-    webUrl: "https://www.amherstbulletin.com/Amherst-teen-is-a-finalist-in-national-music-competition-38644548"
+  - title: "Facial Recognition Market Sets the Table for Continued Growth 2021-2027 | Gemalto NV, Ayonix Face Technologies, Cognitec Systems"
+    excerpt: "MarketDigits has recently published the Global research Report Titled Facial Recognition Market The study provides an overview of current statistics and future predictions of the Facial Recognition Market The study highlights a detailed assessment of the Market and displays market"
+    publishedDateTime: 2021-02-08T15:04:00Z
+    webUrl: "https://www.openpr.com/news/2238132/facial-recognition-market-sets-the-table-for-continued-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2238132/facial-recognition-market-sets-the-table-for-continued-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2238132/facial-recognition-market-sets-the-table-for-continued-growth"
     type: article
     provider:
-      name: Amherst Bulletin
-      domain: amherstbulletin.com
-    quality: 4
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
+    images:
+      - url: "https://cdn.openpr.com/U/2/U208230480_g.jpg"
+        width: 700
+        height: 334
+        isCached: true
 
 secured: "MKt49xMeyFrrji1MuYXae8HXlSftSdUxdVf3V/JgikUrMfb+0oiUEPurY3D12YHMkV4HSjt61synKrIKMA98uwjIpDXU3WfqQ24FefkOC7weiam9NSZ62+0MSgX9Kfr3XsHowfEcN5PCPd8H+tsA7fSllTDwlG/eM/cAEiMx5LC3fVmrGeIOnNtbYvSwlFzFXZ4SXIPu2swdVybvpIMT/ipk05BNGv6rfV7WFUWphEgcX6HD5gs6ZZ0dcqzFs6+EpkkrAgTPbkDOkTLrA6NCIVv8Ht75eUgSkRIEv1uSLTTEERnxeCfxiUmTMvs+yu36EkiIlYV28KD/JIhoedxjmJKnsrj3qrRnXT8ySyDT2kOJys4zwXGrdRiqoeog4RqiAkfX+81lgANHohI7fnEomjt+nUXvPWi/oh92zXCYeBzh0IdU8JXsTgmxbFhoXlKHRb+E1RFLby2lgAtzJQGA9TBo28mHiok0nwc0TnHHcCaqV5LdhdE+qoTreD4T5vKQ58CnCm76ANHZzuw1xzn+dQ==;SNu4hadsBFo7SUsBt/ox8A=="
 ---

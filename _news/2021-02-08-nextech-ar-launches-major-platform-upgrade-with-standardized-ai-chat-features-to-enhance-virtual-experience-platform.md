@@ -1,45 +1,48 @@
 ---
 category: news
 title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
-excerpt: "Standardizing embedded AI driven chat functionality can accommodate unlimited users, allowing for optimized, scalable events.Market leaders"
-publishedDateTime: 2021-02-08T12:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-1030054709"
-webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-1030054709"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Launches-Major-Platform-Upgrade-with-Standardized-AI-Chat-Features-to-Enhance-Virtual-Experience-Platform-1030054709"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Launches-Major-Platform-Upgrade-with-Standardized-AI-Chat-Features-to-Enhance-Virtual-Experience-Platform-1030054709"
+excerpt: "Nextech AR Solutions, a leading provider of virtual and augmented reality experience technologies and services for eCommerce, education, conferences and events today announced the launch of new standardized chat features within its Virtual Experience Platform/ VXP) and recently-launched ARoom collaborative streaming solution."
+publishedDateTime: 2021-02-08T12:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to"
+webUrl: "https://www.nasdaq.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to"
 type: article
-quality: 46
-heat: 46
+quality: 26
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
 related:
-  - title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
-    excerpt: "Standardizing embedded AI driven chat functionality can acco"
-    publishedDateTime: 2021-02-08T19:48:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-08/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform"
+  - title: "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles"
+    excerpt: "LIZHI INC., a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics, an established chip maker for smart mobility in China,"
+    publishedDateTime: 2021-02-08T11:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 44
+  - title: "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers"
+    excerpt: "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,"
+    publishedDateTime: 2021-02-04T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "Nii8JZPlAxYQeOp60yUn6bSfftXMs2SX2InSHBTnw5eAJYXQewZw30A2HDja2nzj6Rz4uTwhcsvTDWAL/b1NMbLYouaWY+pjW2GLMmCrpsyVATkeZtgntcPZS/7EPBins8lQwhKBQVU2bqjjFhFPrfoAduya6vuBbJnjYHt8gsrALrYmF1/OqrmnEwFlft08kEAmc+qToHyRH10BgnR2DIUDvU1HRrR1i09MCQTRk33LAWe96F5GbyIVDDJNvrjZQ2Nj1MPPP8RfB7QlgIicseRq/XMO6n6El07K8PZltyLCmRsBG4yi+TNHJTpk8vi9GpPMP/GnN3Kwj9Zu9RzzwIWQlq63syhOlmwFUnvEpXA=;O1HWKUZs0UCnTYrgDkvALQ=="
+secured: "IVaqqTe/J3uoHcILWQZ4mYAtkzIq/mNP2cQy3/kzsV+ZldmMa8NX+ot2AX8Vo9BUJVmLl5T0Bc55gXh8H9e1unZipa7QZGcMTv4VCcZFeQcEq/w5vCISWlBV7GDjumJtc+ky27XaU//rbDH26fpBt+kOoH00qivvk5Qq0fE5xdCGJQt7lsb5mxIbE2Nj5wnh66s7vvnEjt9EIyt9pKAc8gMpBRO/ihD0NSlLBsUB1GtMJGeDOF7Ob7JiPyB4QpGRfY17jq2SDOVE6BhdK97AwGkpJki0VgtUUvX0Qenul7lr5Hvb4naOu7NEvz0i/wFxlgHUVQZ6/XDyjAXC/xQzZxWS4Av4T6tPkdghfkhP9EI=;ZE/2rMqi3c9xgEkkZVT75Q=="
 ---
 

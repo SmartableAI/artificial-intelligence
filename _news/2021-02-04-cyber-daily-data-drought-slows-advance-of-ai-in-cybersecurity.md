@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/cyber-daily-data-drought-slows-advanc
 webUrl: "https://www.wsj.com/articles/cyber-daily-data-drought-slows-advance-of-ai-in-cybersecurity-11612448985"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Data Drought Slows Advance of AI in Cybersecurity"
-    excerpt: "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data."
-    publishedDateTime: 2021-02-04T11:01:00Z
-    webUrl: "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602"
+  - title: "Cyber Daily: Clearview AI Raises Disquiet at Privacy Regulators"
+    excerpt: "Facial recognition company Clearview AI is navigating lawsuits, investigations and regulatory reprimands in jurisdictions around the world. The company is having to adjust to differences in how regional laws define biometric data and privacy rights,"
+    publishedDateTime: 2021-02-05T17:21:00Z
+    webUrl: "https://www.wsj.com/articles/cyber-daily-clearview-ai-raises-disquiet-at-privacy-regulators-11612539617"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 69
+    quality: 67
     images:
-      - url: "https://images.wsj.net/im-294669/social"
-        width: 1280
-        height: 640
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fast-Growing Cybersecurity Startup Rebrands as Safe Security and Commits to US Growth Plans"
     excerpt: "On the heels of 250% YoY growth, former Cisco Chairman and CEO John Chambers-backed Lucideus launches new identity."

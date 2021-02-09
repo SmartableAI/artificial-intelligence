@@ -2,6 +2,325 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2020-11-25-microservices-development-boosted-with-integrated-deep-learning.md",
+      "title": "Microservices Development Boosted With Integrated Deep Learning",
+      "excerpt": "This blog explores a simplified approach to combine microservice technology stacks and proven deep learning frameworks while using existing talent and resources. Many AWS customers—startups and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3598313/microservices-development-boosted-with-integrated-deep-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3598313/microservices-development-boosted-with-integrated-deep-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/11/team-of-computer-engineers-work-on-machine-learning-neural-network-picture-id1182697691-100868264-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market.md",
+      "title": "Resgreen Group Brings Affordable and Effective Disinfecting Robot to Market",
+      "excerpt": "PRNewswire/ -- Resgreen Group (RGGI) today launched sales of its industry-changing Wanda SD, a cost-effective robot that uses Ultraviolet-C (UVC) lights to sanitize everything from schools and offices to hotels and airplanes.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "publishedDateTime": "2020-11-24T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers.md",
+      "title": "The ethical use of AI will help businesses when engaging with customers",
+      "excerpt": "Dries Cronje, CEO if Deep Learning Café, says that ethics will play a critical role as more businesses leverage AI in order to tap into customer trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/",
+      "originalUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.htxt.co.za/wp-content/uploads/2020/11/alexander-sinn-KgLtFCgfC28-unsplash.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/amp/",
+      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/amp/",
+      "publishedDateTime": "2020-11-24T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs.md",
+      "title": "AI that directs drones to film ‘exciting’ shots could lower video production costs",
+      "excerpt": "Researchers at Facebook, Carnegie Mellon, and the University of Sao Paulo propose an AI framework for drone videography.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/",
+      "originalUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/24f6fcb9-2778-4c44-a265-cff1d99931e7-e1606169815359.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/amp/",
+      "publishedDateTime": "2020-11-24T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-apples-ml-compute-framework-accelerates-tensorflow-training.md",
+      "title": "Apple's ML Compute Framework Accelerates TensorFlow Training",
+      "excerpt": "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/",
+      "originalUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/11/apple-tensorflow-acceleration/en/headerimage/apple-tensorflow-acceleration-header-1606058017134.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world.md",
+      "title": "Artificial Intelligence Technology Solutions Receives Wally HSO Order From Top 20 Largest Medical Devices Company in the World",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) today announced that its wholly-owned subsidiary Robotic Assistance Devices",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289",
+      "publishedDateTime": "2020-11-24T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data.md",
+      "title": "GSTS Awarded Contribution for Artificial Intelligence Fusion of Satellite Data",
+      "excerpt": "GSTS to augment real-time AI-based data fusion capabilitiesHALIFAX, NS, Nov. 24, 2020 /CNW/ - Global Spatial Technology Solutions ('GSTS' or 'the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "publishedDateTime": "2020-11-24T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-binarized-neural-networks-show-promise-for-fast-accurate-machine-learning.md",
       "title": "Binarized neural networks show promise for fast, accurate machine learning",
       "excerpt": "As anyone with a green thumb knows, pruning can promote thriving vegetation. A snip here, a snip there, and growth can be controlled and directed for a more vigorous plant.",
@@ -824,317 +1143,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-industry-and-demand-forecast-by-2027.md",
-      "title": "Artificial Intelligence (AI) In Healthcare Market Advancements in Technology, Current Scenario of Industry and Demand Forecast by 2027",
-      "excerpt": "Pune, Maharashtra, India, November 24 2020 (Wiredrelease) Allied Analytics –:AI in healthcare market is majorly driven by surge in processing power of AI systems leading to enhanced AI capabilities and application of AI for novel surgeries. Furthermore ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2020-11-24/artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-in",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2020-11-24/artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-softbank-led-round-values-uber-like-truck-startup-at-12-billion.md",
-      "title": "SoftBank-Led Round Values Uber-Like Truck Startup at $12 Billion",
-      "excerpt": "known as Manbang in Chinese, said Tuesday it broke even this year and currently handles transactions for some 10 million truckers and 5 million shippers. It’s also expanding into automotive technology and backs autonomous trucking startup Plus.AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZmQLXcawPmM/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "publishedDateTime": "2020-11-23T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge.md",
-      "title": "GrAI Matter Labs Raises $14M to Bring Fastest AI per Watt to Every Device on the Edge",
-      "excerpt": "Press Release GrAI Matter Labs, a pioneer of brain inspired ultra-low latency computing, today announced its latest financing round of $14 million. The round was led by iBionext, joined by all existing investors and newly welcomed Bpifrance through the Future",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/",
-      "originalUrl": "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/amp/",
-      "publishedDateTime": "2020-11-23T19:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-aws-launches-ml-dev-service-in-sydney-region.md",
-      "title": "AWS launches ML dev service in Sydney region",
-      "excerpt": "Amazon Web Services (AWS) has launched Amazon SageMaker Studio, an integrated development environment for machine learning (ML), in its Sydney region. The service allows users to build, train and deploy ML models through a web-based visual interface for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/684686/aws-launches-ml-dev-service-sydney-region/",
-      "originalUrl": "https://www.reseller.co.nz/article/684686/aws-launches-ml-dev-service-sydney-region/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-machine-learning-101-part-1.md",
-      "title": "Machine Learning 101: Part 1",
-      "excerpt": "The purpose of this series of articles is to provide a complete guide (from data to predictions) to machine learning, for .NET developers in a .NET ecosystem, and that is possible now using Microsoft ML.NET and Jupyter Notebooks. Even more, you don’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://jaxenter.com/machine-learning-101-part-1-173473.html",
-      "originalUrl": "https://jaxenter.com/machine-learning-101-part-1-173473.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/11/shutterstock_1740253916.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
-      "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
-      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:AMZN&p=5&t=52",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ADVFN",
-        "domain": "advfn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-houston-airports-add-facial-recognition-tech-to-arrival-process.md",
-      "title": "Houston Airports Add Facial Recognition Tech to Arrival Process",
-      "excerpt": "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_530657836.jpg",
-          "width": 940,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP",
-      "publishedDateTime": "2020-11-23T15:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

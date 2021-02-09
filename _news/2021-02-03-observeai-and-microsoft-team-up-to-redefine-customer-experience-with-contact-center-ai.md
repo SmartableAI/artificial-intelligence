@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "8JhpDDtJ2oQjPYoxWf+0+UzG8XDc8/+4JlMzxGX0g+j9L57d67Qp3t1pkmkA+PXS0DDkc/sMZA4HhFGgaKsdrV8NSB7V4q716rkX7dc+9FYMAwt0JPOzTc3ejKZqe27hjgPjcUPW7hyovQAs1G4+26ei4UzVu+90+OpUHD9mDzpbddRDrEs2MYdG6R9Uy+UCBJMzABUhO12Dz6dWIQF6qOu1uD+Ecv50R85DftVtwsEbY/OryU3aMETLebsmrfyfOrhrduIFmAelU2WI2lVMILDQ+CFFgQ5Nd1dpgflVRZLwAgjKt/L39tqeboa9usTokCONqQMBzTHH4tfemKkcLRctLiu4iIMhV++RL3qZNrk=;c0teP7BRvDPv/VAFkYJTJw=="
+secured: "RkASs0qOUiS/2EIAAN4RaPqcIjRBcU+T7ZJCw+WtAdeOlpY/3Z8PUM5FRAQdg0Tep7/7vqPD8v/pjwvnTnbHfrdNng/HvxJW9OzCvIg1oUDf/liFUqE4NJXPybC7MPmc8c/1g+2Bypz/mWu7Cva8iaIKg6A88CmcuzZFsX1JNlTyu1msohNq8egoiWIOlMvLGgmLklGSSnYDipXepOmoXjCRzL1PE0wd5mbTXJTXwGzx7fOZ5F358iJr1xejAdRB8+hybVKVJjZw8sFlHkMCVnr+a3PFAJNgP8JrJp/G1rCUJ2LHYhHAz+sBNpgP1CyMnVzd7doc/b52eAx/qiwe74wx1662ZszF5LO9NAm8wyg=;kZ3wY/ll1ze9uOABlG/Edg=="
 ---
 

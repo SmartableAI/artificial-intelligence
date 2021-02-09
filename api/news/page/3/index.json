@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-05-three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy.md",
+      "title": "Three Ways AI Can Help You Evolve Your Digital Marketing Strategy",
+      "excerpt": "The main reason businesses use AI is for data collection. Instead of manually going through every customer interaction, businesses can use AI programs to compile this information into actionable reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c0c001884bc5a79fd7756%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/amp/",
+      "publishedDateTime": "2021-02-05T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-coreldraw-graphics-suite-2020-review-ai-collaboration-tools-are-worth-a-look.md",
+      "title": "CorelDraw Graphics Suite 2020 review: AI, collaboration tools are worth a look",
+      "excerpt": "Break down creative barriers with CorelDraw Graphics Suite 2020—find all the professional vector illustration, layout, photo editing, and typography tools you need to create and complete important design projects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/3605017/coreldraw-graphics-suite-2020-review-ai-collaboration-tools-are-worth-a-look.html",
+      "originalUrl": "https://www.macworld.com/article/3605017/coreldraw-graphics-suite-2020-review-ai-collaboration-tools-are-worth-a-look.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/01/coreldraw-mac-icon-100875516-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/3605017/coreldraw-graphics-suite-2020-review-ai-collaboration-tools-are-worth-a-look.amp.html",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3605017/coreldraw-graphics-suite-2020-review-ai-collaboration-tools-are-worth-a-look.amp.html",
+      "publishedDateTime": "2021-02-05T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-youre-doing-cloud-based-ai-and-machine-learning-wrong.md",
+      "title": "You’re doing cloud-based AI and machine learning wrong",
+      "excerpt": "Artificial intelligence and machine learning are hard, and most building these systems don’t know what they are doing. Here’s how to avoid AI/ML failures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html",
+      "originalUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/success_roadmap_perserverance_determination_challenges_thinkstock_155099452-100749443-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html",
+      "publishedDateTime": "2021-02-05T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-fintech-ai-ml-what-you-need-to-know-in-2021.md",
       "title": "Fintech, AI & ML: What you need to know in 2021",
       "excerpt": "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23.",
@@ -75,6 +230,49 @@
       "provider": {
         "name": "jaxenter.com",
         "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-clearview-ais-facial-recognition-service-called-an-illegal-mass-surveillance-tool-in-canada.md",
+      "title": "Clearview AI’s facial recognition service called an ‘illegal’ ‘mass surveillance’ tool in Canada",
+      "excerpt": "What facial recognition company Clearview does is “mass surveillance”, and “illegal” — the company should \"delete all images of Canadians from its database\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.medianama.com/2021/02/223-clearview-ai-illegal-canada/",
+      "originalUrl": "https://www.medianama.com/2021/02/223-clearview-ai-illegal-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png",
+          "width": 1280,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medianama.com/2021/02/223-clearview-ai-illegal-canada/amp/",
+      "cdnAmpWebUrl": "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/02/223-clearview-ai-illegal-canada/amp/",
+      "publishedDateTime": "2021-02-05T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaNama",
+        "domain": "medianama.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -191,7 +389,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -743,7 +941,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -787,21 +985,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again.md",
-      "title": "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again",
-      "excerpt": "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends.",
+      "path": "_news/2021-02-05-canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos.md",
+      "title": "Canada (politely) asks Clearview AI to stop scraping citizens’ photos",
+      "excerpt": "The country's regulators said Clearview violated Canada's privacy laws by scraping photos of citizens from the internet without permission.",
       "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again",
-      "originalUrl": "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again",
+      "webUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg",
-          "width": 810,
-          "height": 405,
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-04T164520.518-796x417.png",
+          "width": 796,
+          "height": 417,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -809,14 +1007,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T11:11:00-08:00",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/",
+      "publishedDateTime": "2021-02-04T10:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -825,9 +1032,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
+        "AI"
       ]
     },
     {
@@ -934,6 +1139,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-05-image-recognition-market-will-obtain-530-billion-by-2025.md",
+      "title": "Image Recognition Market will obtain $53.0 billion by 2025",
+      "excerpt": "According to a new market research report Image Recognition Market by Technology Digital Image Processing Facial Recognition Pattern Recognition Component Hardware Software and Services Deployment Mode On premises Cloud Application Vertical and Region Global Forecast to 2025 published by",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
+      "originalUrl": "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U204746962_g.jpg",
+          "width": 650,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
+      "publishedDateTime": "2021-02-04T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
       "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
       "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
@@ -982,232 +1230,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-deep-learning-for-steep-gains-the-ever-popular-arkq-etf.md",
-      "title": "Deep Learning for Steep Gains: The Ever-Popular ARKQ ETF",
-      "excerpt": "Deep learning, widely viewed as the next technological revolution, carries with it an array of investment implications. Investors can tap into that theme with the ARK Autonomous Technology & Robotics ETF (CBOE: ARKQ).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/deep-learning-for-steep-gains%3A-the-ever-popular-arkq-etf-2021-02-04",
-      "originalUrl": "https://www.nasdaq.com/articles/deep-learning-for-steep-gains%3A-the-ever-popular-arkq-etf-2021-02-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/deep-learning-for-steep-gains%3A-the-ever-popular-arkq-etf-2021-02-04?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/deep-learning-for-steep-gains%3A-the-ever-popular-arkq-etf-2021-02-04?amp",
-      "publishedDateTime": "2021-02-04T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
-      "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19635111.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19635111.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-moscows-facial-recognition-cameras-are-identifying-navalny-supporters-activists.md",
-      "title": "Moscow’s facial recognition cameras are identifying Navalny supporters: activists",
-      "excerpt": "Authorities have said that the police’s heavy-handed response to the demonstrations, which saw thousands of arrests across the country, was justified because the protests were illegal and unauthorised.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying",
-      "originalUrl": "https://www.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/04/6b9142c6-66ec-11eb-bc00-908c10a5850a_image_hires_214543.jpg?itok=9B_TQYjx&v=1612446354",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying",
-      "publishedDateTime": "2021-02-04T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-amazon-is-installing-ai-powered-cameras-in-its-delivery-vans-to-monitor-driver-behavior.md",
-      "title": "Amazon is installing AI-powered cameras in its delivery vans to monitor driver behavior",
-      "excerpt": "The Information reports that the Driveri platform being installed in the vehicles is made by San Diego-based start-up Netradyne. Its cameras use four lenses that film",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88521-amazon-installing-ai-powered-cameras-delivery-vans-monitor.html",
-      "originalUrl": "https://www.techspot.com/news/88521-amazon-installing-ai-powered-cameras-delivery-vans-monitor.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-04-image-7.jpg",
-          "width": 1984,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88521-amazon-installing-ai-powered-cameras-delivery-vans-monitor.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88521-amazon-installing-ai-powered-cameras-delivery-vans-monitor.html",
-      "publishedDateTime": "2021-02-04T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-two-google-engineers-resign-over-firing-of-ai-ethics-researcher.md",
-      "title": "Two Google engineers resign over firing of AI ethics researcher",
-      "excerpt": "An engineering director and a software developer have quit Alphabet's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/two-google-engineers-resign-firing-ai-ethics-researcher-rcna245",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/two-google-engineers-resign-firing-ai-ethics-researcher-rcna245",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-02/279/210204-google-timnit-gebru-jm-0819-f159ea_1feca3a0d9ad0c970c8da6b982134d473bd228e0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna245",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna245",
-      "publishedDateTime": "2021-02-04T05:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

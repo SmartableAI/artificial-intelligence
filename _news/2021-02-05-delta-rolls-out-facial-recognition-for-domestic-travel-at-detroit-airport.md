@@ -41,66 +41,17 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Delta expands facial recognition Technology"
-    excerpt: "Delta expands facial recognition Technology Delta Air Lines Expands Facial Recognition Technology to Domestic Flights at Detroit"
-    publishedDateTime: 2021-02-07T22:24:00Z
-    webUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Delta-expands-facial-recognition-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Oceania region"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and"
-    publishedDateTime: 2021-02-08T22:05:00Z
-    webUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania"
-    ampWebUrl: "https://www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-oceania?amp"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and has appointed Sean Borg to accelerate market growth and support the regional surge in demand for facial recognition technology."
+    publishedDateTime: 2021-02-08T21:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 58
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/pr-newswire_500_4_390.jpg?itok=FTvrIOzU"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "How Your Business Can Benefit from Facial Recognition Technology"
-    excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
-    publishedDateTime: 2021-02-08T14:25:00Z
-    webUrl: "https://pctechmag.com/2021/02/business-benefitting-from-facial-recognition-technology/"
-    type: article
-    provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 39
-    images:
-      - url: "https://pctechmag.com/wp-content/uploads/2021/02/Facial-Recognition-Technology.jpg"
-        width: 940
-        height: 705
-        isCached: true
-  - title: "Innovation in technology and vocational training gets financial recognition"
-    excerpt: "The winners of the first inaugural Cambodia Skills Challenge Innovation Call have been announced. The Innovation Call is an initiative of the Ministry of Labour and Vocational Training and the United Nations in Cambodia,"
-    publishedDateTime: 2021-02-08T02:44:00Z
-    webUrl: "https://www.khmertimeskh.com/50811599/innovation-in-technology-and-vocational-training-gets-financial-recognition/"
-    type: article
-    provider:
-      name: Khmer Times
-      domain: khmertimeskh.com
-    quality: 37
-    images:
-      - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/02/16824.jpg"
-        width: 750
-        height: 440
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
 
 secured: "XwnnFnJA+y/NxdB/vCPmydzL1AyurGXWRwtttBWT5oG7Sx3BWyqHCzYFf8Xu6BW3o7YVkyMizsTal8RGaM/mRN2u72g8MCvSG9bHkUqad+5sC2NdazlIS/9/zvISzQbqe/J/vhD1Znn5j97Wf1zCOxz8WgNt3vHCCIv6Vsx1Azl+t85CdsfyszwxlfgrVmuR6Yt/Bq7vI/bXz6hmSthcPWvSgrcbPNCOfip9UIWtjSmnp4LJeD7HZwN7xclxz9oMv5Dhpuh2UqxGroCl3pYlAnWHAj1wBGeO527cMo7Wykyj9dyha3VYUqtePi4RCkV/k1n48SICb8dHK2b2GhaM234kErQC4zd5QXm6797ZVjg=;/or4L2V4kJ6HrjrVbHAM6Q=="
 ---

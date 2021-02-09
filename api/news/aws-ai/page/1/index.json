@@ -212,50 +212,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again.md",
-      "title": "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again",
-      "excerpt": "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again",
-      "originalUrl": "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg",
-          "width": 810,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T11:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-using-genetic-algorithms-on-aws-for-optimization-problems.md",
       "title": "Using genetic algorithms on AWS for optimization problems",
       "excerpt": "Machine learning (ML)-based solutions are capable of solving complex problems, from voice recognition to finding and identifying faces in video clips or photographs. Usually, these solutions use large amounts of training data, which results in a model that processes input data and produces numeric output",
@@ -1418,8 +1374,8 @@
       "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
       "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1427,13 +1383,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T07:10:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19345715",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19345715",
+      "publishedDateTime": "2021-01-27T07:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1499,6 +1455,40 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-pluralsight-inc-class-a-common-stock-ps.md",
+      "title": "Pluralsight, Inc. Class A Common Stock (PS)",
+      "excerpt": "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
+      "originalUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

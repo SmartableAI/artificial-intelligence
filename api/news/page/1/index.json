@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-09-bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-22-million-seed-round.md",
+      "title": "Bangladesh-based Maya, a startup focused on accessible healthcare, raises $2.2 million seed round",
+      "excerpt": "Based in Bangladesh, Maya is dedicated to making it easier for women to get healthcare, especially for sensitive issues like reproductive and mental health. The startup announced today it has raised $2.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/",
+      "originalUrl": "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/29.jpg?w=1024",
+          "width": 1024,
+          "height": 845,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/amp/",
+      "publishedDateTime": "2021-02-08T18:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-9-scary-revelations-from-40-years-of-facial-recognition-research.md",
+      "title": "9 Scary Revelations From 40 Years Of Facial Recognition Research",
+      "excerpt": "In science fiction, facial recognition technology is a hallmark of a dystopian society. The truth of how it was created, and how it's used today, is just as freaky. In a new study, researchers conduct a historical survey of over 100 data sets used to train facial recognition systems compiled over the last 43 years.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research",
+      "originalUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/feature/9/9-scary-re/9-scary-revelations-from-40-years-of-facial-recognition-rese_hhw8.620.jpg",
+          "width": 620,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1",
+      "publishedDateTime": "2021-02-08T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-nuance-acquires-seattle-digital-health-startup-saykara-to-boost-healthcare-ai-products.md",
       "title": "Nuance acquires Seattle digital health startup Saykara to boost healthcare AI products",
       "excerpt": "Nuance Communications has acquired Saykara, a Seattle health-tech startup that makes a voice assistant for clinicians. Nuance, based in Boston and publicly traded, will use the deal to boost its",
@@ -314,7 +411,7 @@
       "originalUrl": "https://www.thehansindia.com/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -461,7 +558,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -608,7 +705,7 @@
       "originalUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -738,7 +835,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -777,7 +874,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1123,93 +1221,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-making-ai-real-a-2019-report-into-ai-machine-learning.md",
-      "title": "Making Ai Real: A 2019 Report Into Ai & Machine Learning",
-      "excerpt": "Making AI Real report surveys global business about real world AI usage. This report reveals how technologies such as machine learning and AI are being used in 2019. To achieve this we surveyed a panel of 2,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
-      "publishedDateTime": "2021-02-07T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-diat-to-research-develop-robotics-platforms-for-armed-forces.md",
-      "title": "DIAT to research, develop robotics platforms for armed forces",
-      "excerpt": "The institute launched the School of Robotics last year, considering interdisciplinary requirements of research and development in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/",
-      "originalUrl": "https://indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/02/DIAT-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/lite/",
-      "publishedDateTime": "2021-02-07T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

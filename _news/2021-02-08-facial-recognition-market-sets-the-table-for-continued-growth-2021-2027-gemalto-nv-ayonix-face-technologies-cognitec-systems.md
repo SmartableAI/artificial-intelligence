@@ -27,61 +27,146 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025"
-    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market"
-    publishedDateTime: 2021-02-04T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
+  - title: "9 Scary Revelations From 40 Years Of Facial Recognition Research"
+    excerpt: "In science fiction, facial recognition technology is a hallmark of a dystopian society. The truth of how it was created, and how it's used today, is just as freaky. In a new study, researchers conduct a historical survey of over 100 data sets used to train facial recognition systems compiled over the last 43 years."
+    publishedDateTime: 2021-02-09T01:07:00Z
+    webUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research"
+    ampWebUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Mashable
+      domain: mashable.com
+    quality: 91
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
+      - url: "https://sm.mashable.com/t/mashable_in/feature/9/9-scary-re/9-scary-revelations-from-40-years-of-facial-recognition-rese_hhw8.620.jpg"
+        width: 620
+        height: 467
+        isCached: true
+  - title: "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again"
+    excerpt: "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends."
+    publishedDateTime: 2021-02-04T19:11:00Z
+    webUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 65
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
+        width: 810
+        height: 405
+        isCached: true
+  - title: "Delta expands facial recognition Technology"
+    excerpt: "Delta expands facial recognition Technology Delta Air Lines Expands Facial Recognition Technology to Domestic Flights at Detroit"
+    publishedDateTime: 2021-02-07T22:24:00Z
+    webUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/delta-expands-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Delta-expands-facial-recognition-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Here’s a way to learn if facial recognition systems used your photos"
+    excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research -- including a data set created by UW professors -- fed on personal images."
+    publishedDateTime: 2021-02-07T14:01:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 41
+  - title: "New A.I. face recognition tool"
+    excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
+    publishedDateTime: 2021-02-05T04:45:00Z
+    webUrl: "https://www.fox10tv.com/news/daily_dot_com/new-a-i-face-recognition-tool/article_5dceafd6-6753-11eb-9920-135d6b072d2c.html"
+    type: article
+    provider:
+      name: FOX10 News
+      domain: fox10tv.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/3/d0/3d0c8992-3f6a-5603-9191-e9a72f968aa5/601cc71f95c27.image.jpg?resize=1120%2C630"
+        width: 1120
         height: 630
         isCached: true
-  - title: "Global Computer Vision Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
-    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, presents an encyclopedic evaluation of the global market."
-    publishedDateTime: 2021-02-04T12:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-research-study-with-trends-and-opportunities-to-2025---impact-of-covid-19-2021-02-03"
+  - title: "Privacy commissioners call facial recognition service illegal"
+    excerpt: "Canada’s privacy commissioner and three of his provincial counterparts say a facial recognition tool sold by  technology company Clearview constitutes mass surveillance and is illegal in Canada. “It is an affront to individuals’ privacy rights and inflicts broad-based harm on all members of society,"
+    publishedDateTime: 2021-02-04T16:00:00Z
+    webUrl: "https://www.rcinet.ca/en/2021/02/04/privacy-commissioners-call-facial-recognition-service-illegal/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: rcinet.ca
+      domain: rcinet.ca
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/02/istock-1284886674.jpg"
+        width: 1266
+        height: 828
         isCached: true
-  - title: "Image Recognition Market Insights By Revenue, Upcoming Trends And Worldwide Players Foresights Till 2026 | Fortune Business Insights"
-    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
-    publishedDateTime: 2021-02-05T13:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-revenue-upcoming-trends-and-worldwide-players-foresights-till-2026-fortune-business-insights-2021-02-05"
+  - title: "Law enforcement turns to facial recognition to find Capitol rioters"
+    excerpt: "Researchers such as the cybersecurity expert John Scott-Railton said they deployed facial recognition software to detect trespassers, including a retired Air Force lieutenant alleged to have been spotted on the Senate floor during the riot."
+    publishedDateTime: 2021-02-05T21:11:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21209114/law-enforcement-turns-to-facial-recognition-to-find-capitol-rioters"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/BIZ_CPT_CAPITOL_RIOTS_FACIALRECOGNITION_ABA.601db418ce1b8.png?auto=format&fit=max&w=1200"
         width: 1200
-        height: 630
+        height: 798
         isCached: true
-  - title: "ISRI’s 2021 Advocacy Agenda Highlights Industry Opportunities for Growth and Recognition"
-    excerpt: "The importance of recycling has never been greater. Recognizing the essential role of the industry and its immeasurable benefits, the Institute of Scrap Recycling Industries’ (ISRI) 2021 Advocacy Agenda highlights ISRI’s proactive engagement on new challenges and opportunities at the local,"
-    publishedDateTime: 2021-02-04T16:36:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-legislature-environment-and-nature-waste-management-services-government-and-politics-c2bc9dc1ccbecd171c6b23193c0c4fca"
+  - title: "How Your Business Can Benefit from Facial Recognition Technology"
+    excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
+    publishedDateTime: 2021-02-08T14:25:00Z
+    webUrl: "https://pctechmag.com/2021/02/business-benefitting-from-facial-recognition-technology/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://pctechmag.com/wp-content/uploads/2021/02/Facial-Recognition-Technology.jpg"
+        width: 940
+        height: 705
+        isCached: true
+  - title: "Innovation in technology and vocational training gets financial recognition"
+    excerpt: "The winners of the first inaugural Cambodia Skills Challenge Innovation Call have been announced. The Innovation Call is an initiative of the Ministry of Labour and Vocational Training and the United Nations in Cambodia,"
+    publishedDateTime: 2021-02-08T02:44:00Z
+    webUrl: "https://www.khmertimeskh.com/50811599/innovation-in-technology-and-vocational-training-gets-financial-recognition/"
+    type: article
+    provider:
+      name: Khmer Times
+      domain: khmertimeskh.com
+    quality: 37
+    images:
+      - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/02/16824.jpg"
+        width: 750
+        height: 440
+        isCached: true
+  - title: "Tech Can Flag Distracted Jurors. But Will Courtrooms Allow Facial Recognition?"
+    excerpt: "Maintaining jurors' undivided attention during in-person trials can be tricky in a virtual environment. But where legal tech companies see an opportunity, judges may see an unneeded solution."
+    publishedDateTime: 2021-02-08T17:11:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/02/08/tech-can-flag-distracted-jurors-but-will-courtrooms-allow-facial-recognition/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 35
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/02/Virtual-Trial-Article-202102051607.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "unAfxWI5rSamwfB/He4yTVPMoUsZAkKzfDXO1eQ5ww++Oh5vICU2cjvQMspkjgGSz5q2KP4ydEmcuZw4rEvA4MMc1PG3kEHkNVb1xXa/D1xwuBYkYWcqaiMJ3MgV+6EwziiIOynasoabu3usgzfQA2PdY6vt9XewQ9UJUb035Xh9mNIsaxC2TGcbmyliKijIgNiz3AidPLUWwycnSTbS/2bpuXoaQ0s0sWcavP7CXB7IQkascmiQ8nG7iQFv0dAyiD2yXBq2VO6McHr7KmGeKmwYg3CpVXieSF+AR7jI/5RTaP70DcKx9ji0UxMcY57CNYiS3bSkq0HU2pY5duEhBIvQuZhiMYDb3ndtpyqPKd6Fl/Cm/4Q8k5DXTwO2Zor+8fRkfMSkSQaWVAfimaM9UNpMGZewGU1pFrh3BLcNCEph4GetK4ewuzk4iiRUBrJdTnXTDM/ioB8zpLR06VBsbC8tdgBS0r0pdlqHtQ+WqMvfGGiLVeGXS1DO7Nn7GSg7GI+st7lzflnzHla/U+RiPw==;a6iVN2ArCYEIlGL+SL3awg=="

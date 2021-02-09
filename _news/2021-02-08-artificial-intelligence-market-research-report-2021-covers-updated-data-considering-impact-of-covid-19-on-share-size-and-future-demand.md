@@ -78,17 +78,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 7
-  - title: "Text-to-Speech Market with COVID-19 Impact By Offering, Vertical, Deployment, Language, Organization Size, Voice Type And Geography-Forecast 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Text-to-Speech Market with COVID-19 Impact By Offering, Vertical, Deployment, Language, Organization Size, Voice Type And Geography-Forecast 2026\" -  However,"
-    publishedDateTime: 2021-02-04T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19483398/text-to-speech-market-with-covid-19-impact-by-offering-vertical-deployment-language-organization-s"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19483398"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19483398"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "pWSaHOteu/rDPy5SyLwyT3r2v+NAzbV/I5/9WceoTtkszMEbKC1E94TkYSDc8M1qIQQjTU4SDlWjJiVbJKmOt+H3epZQ8RdUOw5PIREeE5yRei2plN1vD6fWzcQrdxMq0QffVmX0nxp+7sSdoXaWDfYFTUmmrfXxC3i4BbvXTWvm0WU5SrlPpNs6LIGua9pMg8OItFpQ98iB0+jmPbJ+BSK719NtRmKFRC1RWJFcRrY3dUQt3q8Ko4jLaDEGtULFk5KQ1JKS0l/0RnnH7KrxoZhrQwIlFxEOEON8+YF2RU5k1tnF3JW34URh5eSxWTn+BLxtFWp/9IeomqOcylRYBYIa+AbrI7a/6mj2NMFkwoE=;A7FkA0B6kgN4+QMRav1dVA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/artificial-intelligence-yields-new-wa
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-yields-new-ways-to-combat-the-coronavirus/?amp"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -29,7 +29,7 @@ related:
     provider:
       name: MyNewsLA
       domain: mynewsla.com
-    quality: 30
+    quality: 49
     images:
       - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
         width: 583

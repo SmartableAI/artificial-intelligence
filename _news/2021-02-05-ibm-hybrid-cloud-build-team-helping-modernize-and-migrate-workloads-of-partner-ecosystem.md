@@ -44,14 +44,14 @@ related:
   - title: "IBM, Palantir forge partnership in low-code AI data processing space"
     excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
     publishedDateTime: 2021-02-08T13:53:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 89
+    quality: 87
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
         width: 1170
@@ -72,6 +72,20 @@ related:
       - url: "https://content.jwplatform.com/thumbs/iyF3evbu-720.jpg"
         width: 720
         height: 406
+        isCached: true
+  - title: "IBM partners with Palantir on low-code AI applications"
+    excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
+    publishedDateTime: 2021-02-09T01:02:00Z
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-09_065434.png"
+        width: 1303
+        height: 722
         isCached: true
 
 secured: "aka3vZ2GUl3DDMlKPuOpw9pm5m+/WlycgoiRjs5Zw2ITk/tybvuC+v95JNV8uyvX4JfNWhdDpz3yzvZOwH4h4rbj6CsbN6dCx7TWcjy/CrXf05tTTym+GsR4naCyxUMxAPZyR4uRgmHbxm4bLONfUP5EeGagFLJSWw+vP+8/XSpd1E+snsjrSRM85AJfvL2XTIu/wwoWOwTfAvtLOJUoFfZzstU2g60Kz4R+8cwoKrkJc1A87QejkJBi7xCfYcStl6m8vOmI6vk2MHc5ggeNgJUcjlqImZeQAaQEfX3uTFJRrogSYkykNSzuiHgEsXWEXJJrqcMEd0S6GeyQ/YRgnYj0rERQooiGhXpVWC5NJNY=;zBHt4BwHrIiGYDwxD5AHRA=="

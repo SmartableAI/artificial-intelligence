@@ -72,17 +72,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Text-to-Speech Market with COVID-19 Impact By Offering, Vertical, Deployment, Language, Organization Size, Voice Type And Geography-Forecast 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Text-to-Speech Market with COVID-19 Impact By Offering, Vertical, Deployment, Language, Organization Size, Voice Type And Geography-Forecast 2026\" -  However,"
-    publishedDateTime: 2021-02-04T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19483398/text-to-speech-market-with-covid-19-impact-by-offering-vertical-deployment-language-organization-s"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19483398"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19483398"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "mqdOD07NhFk+xHZ6Wtfnr+qA6TSRZNj2BFqd2jd/dkbH5UAxBipsmXpAZBYg0Rsco1r9aIHu7iXPE+qZlF8/4OHZwcJf0FKm+ipjxkyTkKQ+gdF86YaU6lJQtfA8Fzf4biMnCzoxseuAeeTd6WwXGJjqTFzXLJkuTdq0sGXHdnfbot8/TisRvecfCLjTHrV5cfOvmgXNYgVPc7GoxBzI88d9+ChNtC+d2NQu0TV8OP5A1JbyAXfIRnJcV4EQHXYz4rgLpuq7KeeyHpKnuK3WHD01FTIaf0/oBu/I/1Xkx9rcQsrEPq6iOoFmQrptbkPXYl4bOl8FnP73mXfKxiyx9Dz+y3fBjsBVmotyCWAZ29o=;/5tAmU1LkDST5juqVlj7mw=="
 ---

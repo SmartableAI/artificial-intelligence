@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-08T23:44:00Z
 originalUrl: "https://mynewsla.com/education/2021/02/08/maybe-artificial-intelligence-robots-can-battle-coronavirus-mutations-usc-has-hopes/"
 webUrl: "https://mynewsla.com/education/2021/02/08/maybe-artificial-intelligence-robots-can-battle-coronavirus-mutations-usc-has-hopes/"
 type: article
-quality: 30
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"

@@ -57,6 +57,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Indy airport receives global recognition"
+    excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International."
+    publishedDateTime: 2021-02-08T17:12:00Z
+    webUrl: "https://www.wishtv.com/news/inside-indiana-business/indy-airport-receives-global-recognition/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2020/01/Indianapolis-Airport.jpg?fit=960%2C540&#038;ssl=1"
+        width: 960
+        height: 540
+        isCached: true
   - title: "‘The Voice of the Customer’: ACI recognises airports for consumer engagement during pandemic"
     excerpt: "The Voice of the Customer’ recognises airports that demonstrated best efforts to understand the changing needs of their customers during the crisis."
     publishedDateTime: 2021-02-08T09:56:00Z

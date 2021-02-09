@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-25-python-remains-most-popular-programming-language-to-learn.md",
+      "title": "Python remains most popular programming language to learn",
+      "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
+      "originalUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/85083d05-b7b7-4832-a3b1-f1532b6d905e/resize/1200x/f816050b9bf16dda28145dfd5dcf70cd/fullstackdeveloperimage.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "publishedDateTime": "2021-01-25T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-women-in-tech-the-spectrum-of-career-opportunities-in-the-tech-industry-is-very-diverse.md",
+      "title": "Women in Tech: “The spectrum of career opportunities in the tech industry is very diverse”",
+      "excerpt": "Today, we’d like you to meet Katrin Strasser, Technology Lead Natural Language Processing at Cloudflight. A research study by The National Center for Women & Information Technology showed that “gender diversity has specific benefits in technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://jaxenter.com/women-in-tech-strasser-172687.html",
+      "originalUrl": "https://jaxenter.com/women-in-tech-strasser-172687.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/07/WiT_Aufmacher_900x450_39593_Katrin_Strasser.jpg",
+          "width": 900,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win.md",
       "title": "TripAdvisor Beats Speech Recognition IP Suit After PTAB Win",
       "excerpt": "Mimzi LLC on Thursday agreed to permanently dismiss an infringement suit against TripAdvisor LLC over a speech recognition patent after the Patent Trial and Appeal Board found all the claims invalid.",
@@ -1293,101 +1389,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-salesforce-researchers-release-framework-to-test-nlp-model-robustness.md",
-      "title": "Salesforce researchers release framework to test NLP model robustness",
-      "excerpt": "Researchers at Salesforce released a framework called Robustness Gym to benchmark the robustness of NLP models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/",
-      "originalUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/amp/",
-      "publishedDateTime": "2021-01-13T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-rep-clyburn-wants-to-make-lift-every-voice-and-sing-a-national-hymn.md",
-      "title": "Rep. Clyburn wants to make 'Lift Every Voice and Sing' a national hymn",
-      "excerpt": "The Democrat from South Carolina is aiming for bipartisan support on his proposal, since, he said, it's a song “everybody can identify with.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
-      "originalUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_02/3403781/200811-james-clyburn-ew-345p_39d26c4940824baaac8f4aef818ceb23.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253963",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253963",
-      "publishedDateTime": "2021-01-12T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null
