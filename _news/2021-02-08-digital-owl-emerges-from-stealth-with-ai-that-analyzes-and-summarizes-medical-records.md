@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/"
 type: article
 quality: 82
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Digital Owl emerges from stealth with AI that analyzes and summarizes medical records"
+    excerpt: "Digital Owl, a startup developing a platform to extract key information from electronic medical records, has emerged from stealth.Read MoreRead"
+    publishedDateTime: 2021-02-09T08:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records-9785629"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records-9785629"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records-9785629"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
 
 secured: "kg2yJAtZO1DwBiFzi1+qEbXWHqFvtrFf2TSIQ9k/0Pk9FvnYcrn+30EG3bDGb6Lid3VsmZuvKAhBFVmw8Pe2sf/G51MhaevRUmoAArXEm+Yor4i3zNnH2G5TvNURnAgUOgQIiAHLVwWIwLOfXYYJwtUXMbEYQmw10NmxK5dlo5V98rNzrbOxKFaoNhPQhm6strT3bMhWzHJEXBdiiosasaqZ0KyY45tln5FYAnarpD/3gOnIfXtSeqHpH4mS/opht/FJh11L8ovYTnj0dy7/2dHe/l5EzZiyIIhJUwuUhOekHWLcoPp4CRvE883cc6jOXzWjslC82Y4iIxjYdLFx/ETah/5eOL+3T2SBxub6iyAmSWB2F3VYFUm1JZeuEOPBdsEIwPdvgsOZa9UAa/1wx4MF/wjnQ9W12m4Q3xR0HDzWx7jcK/mdEf6iUCK83nfsnjGYQPqDjR1SYmfzysg8xkpbWBThYI5oAM9RYlRiwQ0gtqndqLC/HkJNuTn9EIXGQA/H5KX2gRCNfrTvJhUeVw==;xvXGKmU9CRLf7pnJw3GYTg=="
 ---

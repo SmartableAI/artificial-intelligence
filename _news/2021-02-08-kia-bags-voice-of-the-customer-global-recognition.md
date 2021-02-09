@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Bengaluru airport bags 'Voice of the Customer' global recognition"
+    excerpt: "The 'Voice of the Customer' initiative by the Airports Council International World recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice"
+    publishedDateTime: 2021-02-09T07:36:00Z
+    webUrl: "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html"
+    ampWebUrl: "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/02/09/600x338/Bangalore_International_Airport_Limited_1612853485727_1612853517355.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Bengaluru airport achieves ACI World's 'Voice of the Customer' recognition"
+    excerpt: "The Voice of the Customer recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice was heard during the Covid-19 pandemic in 2020."
+    publishedDateTime: 2021-02-09T07:09:00Z
+    webUrl: "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-achieves-aci-world-s-voice-of-the-customer-recognition-101612853663259.html"
+    ampWebUrl: "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-achieves-aci-world-s-voice-of-the-customer-recognition-101612853663259-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-achieves-aci-world-s-voice-of-the-customer-recognition-101612853663259-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/02/09/550x309/international-kempegowda-bengaluru-589713521-bengaluru-international-karnataka_4b078bb4-00da-11eb-ac80-07fcacbe9f14_1612853743356.jpg"
+        width: 549
+        height: 309
+        isCached: true
   - title: "Bangaluru airport receives ACI's first-ever 'Voice of the Customer' recognition"
     excerpt: "Bangalore International Airport Limited’s (BIAL) earned global recognition from the Airports Council International World’s ‘Voice of the Customer’ initiative"
     publishedDateTime: 2021-02-08T17:12:00Z
@@ -42,6 +74,20 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2021/02/08/1029780-airport.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Biometric Privacy in the Era of COVID-19: Facial Recognition Compliance for Airports and Airlines"
+    excerpt: "The commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries. This technology has had an especially transformative impact on the commercial aviation industry,"
+    publishedDateTime: 2021-02-08T22:37:00Z
+    webUrl: "https://www.aviationtoday.com/2021/02/08/biometric-privacy-era-covid-19-facial-recognition-compliance-airports-airlines/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 41
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/02/markus-spiske-ijv7mzpmyum-unsplash.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Indy Airport Receives Global Recognition"
     excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International. The recognition is given to airports f"
@@ -81,6 +127,20 @@ related:
       - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
         width: 280
         height: 280
+        isCached: true
+  - title: "Karnataka: Bangalore International Airport Limited Bags ACI World’s ‘Voice Of The Customer’ Award"
+    excerpt: "The Bengaluru International Airport Limited launched various campaigns #WeAreHereForYou umbrella for consumers"
+    publishedDateTime: 2021-02-09T08:50:00Z
+    webUrl: "https://swarajyamag.com/insta/karnataka-bangalore-international-airport-limited-bags-aci-worlds-voice-of-the-customer-award"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 26
+    images:
+      - url: "https://images.assettype.com/swarajya%2F2019-04%2F63a3b75a-e9f3-4119-b25c-05acae467a14%2Fkempegowda_international_airport_245024_640.jpg?rect=0%2C42%2C602%2C316&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "ACI World launches 'Voice of the Customer' recognition for airports"
     excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."

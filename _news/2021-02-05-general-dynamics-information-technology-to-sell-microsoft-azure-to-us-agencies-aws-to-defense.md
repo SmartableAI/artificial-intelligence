@@ -144,20 +144,6 @@ related:
         width: 800
         height: 637
         isCached: true
-  - title: "Microsoft’s Custom Neural Voice technology goes out of preview"
-    excerpt: "Microsoft has announced that its text-to-speech AI “Custom Neural Voice” has hit general availability. The technology enables developers to create personalized voices using their audio data and"
-    publishedDateTime: 2021-02-04T16:31:00Z
-    webUrl: "https://www.onmsft.com/news/microsofts-custom-neural-voice-technology-goes-out-of-preview"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Microsoft-Campus.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Activ Surgical Joins Microsoft for Startups Program"
     excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"
     publishedDateTime: 2021-02-06T07:56:00Z

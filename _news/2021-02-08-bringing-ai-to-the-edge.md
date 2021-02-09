@@ -59,7 +59,7 @@ related:
     provider:
       name: Scientific American
       domain: scientificamerican.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://static.scientificamerican.com/sciam/cache/file/C9A31747-FBED-41A5-8820ED507C404BB0.jpg"
         width: 790

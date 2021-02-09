@@ -96,20 +96,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Privacy commissioners call facial recognition service illegal"
-    excerpt: "Canada’s privacy commissioner and three of his provincial counterparts say a facial recognition tool sold by  technology company Clearview constitutes mass surveillance and is illegal in Canada. “It is an affront to individuals’ privacy rights and inflicts broad-based harm on all members of society,"
-    publishedDateTime: 2021-02-04T16:00:00Z
-    webUrl: "https://www.rcinet.ca/en/2021/02/04/privacy-commissioners-call-facial-recognition-service-illegal/"
-    type: article
-    provider:
-      name: rcinet.ca
-      domain: rcinet.ca
-    quality: 39
-    images:
-      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/02/istock-1284886674.jpg"
-        width: 1266
-        height: 828
-        isCached: true
   - title: "How Your Business Can Benefit from Facial Recognition Technology"
     excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
     publishedDateTime: 2021-02-08T14:25:00Z

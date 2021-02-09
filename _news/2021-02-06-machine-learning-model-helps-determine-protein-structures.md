@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine-learning model helps determine protein structures"
-    excerpt: "Cryo-electron microscopy (cryo-EM) allows scientists to produce high-resolution, three-dimensional images of tiny molecules such as proteins. This technique works best for imaging proteins that exist in only one conformation,"
-    publishedDateTime: 2021-02-04T16:04:00Z
-    webUrl: "https://phys.org/news/2021-02-machine-learning-protein.html"
-    ampWebUrl: "https://phys.org/news/2021-02-machine-learning-protein.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-learning-protein.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-protein.jpg"
-        width: 2880
-        height: 2365
-        isCached: true
   - title: "Machine-learning program imagines a protein's many possible structures"
     excerpt: "Thanks to a new machine-learning algorithm, scientists can now anticipate and recognize a protein's varied structural iterations."
     publishedDateTime: 2021-02-04T22:29:00Z

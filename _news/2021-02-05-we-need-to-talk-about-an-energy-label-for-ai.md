@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 836
     isCached: true
-
-related:
-  - title: "A Guide to Artificial Intelligence"
-    excerpt: "I was attracted by the word “brief” — a “brief history.” I was also attracted by the subject, artificial intelligence. It is an important subject, I knew, and one about which I was largely ignorant. I’m not really sure I cared about AI,"
-    publishedDateTime: 2021-02-04T16:42:00Z
-    webUrl: "https://www.nationalreview.com/magazine/2021/02/22/a-guide-to-artificial-intelligence/"
-    ampWebUrl: "https://www.nationalreview.com/magazine/2021/02/22/a-guide-to-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/magazine/2021/02/22/a-guide-to-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 57
-    images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/02/Kasparov-v-Blue-1.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "x9zgfs+9GQL3eZ9zlvtPZowBEtBaMS4v+tkhZZkCtNtC95rj1v3i93oE/Fn+485CaE29T2uDShV6PxwwM8QlZ6YK5Zo8rSvv8np9X157d5ReQ+mBGohDl6PBHZl4VwfE5i38/SI0AxEi1HrILkPyuUJ3nuzAgPRICGWg0+sudVfw49/tTOPrt3JIUoLx5nzxKsHrNlx2sPrrBKySSrR9tD2G58TF+a8c3BikGgyf7GHS35TP0MCndynfzHkjxnpuGq2VaXu8hn7gYwMKrlSIClnRvUS+8QbATlwieMKl3Ck5CwuuHmffPoyMhzZpajVcHCP6cwwrlWbMY/ruAzkNozcZ+xJ8Yyq+oBA0+qK62g9KQlVOt9qhkvBQdkOL8LZ9UwMpfMMRhR/82sLKR5KyiZ5GcsLxsWdGft1umOW+vWYI0Y3n85mQMkHxevibqihwdvf+5W4M/CBDqOmP3xbFa3O9QH9Ogj/ahjNz1cKAg/4LCEb2ZkcbMoOM5GS7dPRCWtEZfFdLlploHhwlsnV1zw==;yWPB8BQ8VtG2ThPAvbM3LQ=="
 ---

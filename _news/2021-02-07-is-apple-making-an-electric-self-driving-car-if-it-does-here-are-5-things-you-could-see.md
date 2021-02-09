@@ -27,150 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
-    excerpt: "Shares of Hyundai and Kia plunged on Monday in Seoul after the automakers said they were not in talks with Apple to develop self-driving cars after all."
-    publishedDateTime: 2021-02-07T22:09:00Z
-    webUrl: "https://www.cnn.com/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/tech/hyundai-kia-stock-apple-car-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 88
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207220435-hyundai-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "UPDATE 2-Hyundai, Kia say they're not in talks with Apple on autonomous cars"
-    excerpt: "South Korea's Hyundai Motor Co said on Monday it is not now in talks with Apple Inc on autonomous electric vehicles, sending the automaker's shares skidding a month after it said it was in early-stage talks on cars with the tech giant."
-    publishedDateTime: 2021-02-08T07:15:00Z
-    webUrl: "https://www.reuters.com/article/autos-tech-apple-hyundai-motor/update-2-hyundai-kia-say-theyre-not-in-talks-with-apple-on-autonomous-cars-idUSL1N2KE03C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A800T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A800T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550671539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH17008"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Apple, Hyundai-Kia near deal to build self-driving electric Apple Car"
-    excerpt: "CNBC's Phil LeBeau explains his scoop about the deal talks between Hyundai-Kia and Apple to manufacture an Apple Car as soon as 2024."
-    publishedDateTime: 2021-02-05T04:03:00Z
-    webUrl: "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106741890-16025951652020-10-13t105843z_940689204_rc2mhj94sbo0_rtrmadp_0_apple-iphone.jpeg?v=1602595195"
-        width: 3500
-        height: 2334
-        isCached: true
-  - title: "Hyundai, Kia Say Not in Car Development Talks With Apple"
-    excerpt: "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in discussions with Apple Inc. on cooperating to develop a self-driving electric vehicle, following reports and speculation that they were working with the tech giant."
-    publishedDateTime: 2021-02-08T01:39:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy_OJ8GUjbk4/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Hyundai says it is not talking with Apple about self-driving cars"
-    excerpt: "Shares in South Korean carmaker and affiliate Kia fall as investors’ hopes of autonomous EV projects are dashedRead more on 'Financial Times"
-    publishedDateTime: 2021-02-08T04:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Hyundai, Kia deny reports they’re working with Apple on self-driving EV"
-    excerpt: "Hyundai and Kia have been discussing with multiple companies on self-driving electric car development, but no decision has been made, they said"
-    publishedDateTime: 2021-02-07T00:00:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/foreign/2021/02/07/hyundai-kia-deny-reports-working-apple-self-driving-ev/115449536/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/115449536"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/115449536"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/05/PDTN/03943d0f-044c-491f-b0b3-8f6984103dca-Apple_Hyundai_Kia.jpg?auto=webp&crop=760,427,x136,y274&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Hyundai, Kia Backslide After Apple Self-Driving Car Talks Die"
-    excerpt: "Hyundai Motor is not in talks with Apple on autonomous vehicle development,” the automaker said in a regulatory filing."
-    publishedDateTime: 2021-02-08T16:39:00Z
-    webUrl: "https://www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465"
-    ampWebUrl: "https://www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/09/19/hyundai-truck-engines-failed-to-meet-us-clean.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Hyundai, Kia Shares Drop After Firms Say They Are Not In Talks With Apple To Develop Self-Driving Car"
-    excerpt: "The Korean carmakers saw their shares tumble after issuing the statement which refuted previous reporting of talks between them and the iPhone-maker."
-    publishedDateTime: 2021-02-08T10:13:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2021/02/08/hyundai-kia-shares-drop-after-firms-say-they-are-not-in-talks-with-apple-to-develop-self-driving-car/"
+  - title: "When Self-Driving Cars Get Embroiled In Massive Car Pileups"
+    excerpt: "Exploring why self-driving cars will indeed be mired in massive car pileups and are not invincible for such tragedies."
+    publishedDateTime: 2021-02-08T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 54
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60210e84e9a3903f0e2d90d8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4916%26cropY1%3D258%26cropY2%3D3025"
-        width: 1199
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020d8f3a91e85b44784b7e1%2F0x0.jpg%3FcropX1%3D1144%26cropX2%3D3871%26cropY1%3D436%26cropY2%3D1970"
+        width: 1200
         height: 675
         isCached: true
-  - title: "South Korean Hyundai and Kia say they don’t talk iPhone maker about self-driving vehicles"
-    excerpt: "South Korean Hyundai and Kia say they don't talk iPhone maker about self-driving vehicles Shares of Hyundai and Kia plummeted on Monday"
-    publishedDateTime: 2021-02-08T11:24:00Z
-    webUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/"
-    ampWebUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 50
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/South-Korean-Hyundai-and-Kia-say-they-dont-talk-iPhone.jpeg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Why Automakers Are Looking Beyond 'Self-Driving' -- and Why Investors Should Follow"
-    excerpt: "I don't remember what Toyota's name for theirs is, their advanced driver assist, but it's along the lines of \"guardian angel.\" The idea is it's looking out for the driver all the time, but the human is still doing the driving."
-    publishedDateTime: 2021-02-06T00:33:00Z
-    webUrl: "https://www.fool.com/investing/2021/02/05/why-automakers-are-looking-beyond-self-driving-and/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/05/why-automakers-are-looking-beyond-self-driving-and/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/05/why-automakers-are-looking-beyond-self-driving-and/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 48
   - title: "Self-driving car for testing Technology Parkway"
     excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
     publishedDateTime: 2021-02-08T20:18:00Z
@@ -186,20 +58,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Hyundai, Kia say not in talks with Apple on self-driving car development"
-    excerpt: "South Korea's Hyundai Motor and Kia said on Monday (Feb 8) they are not in talks with Apple on developing autonomous vehicles, sending their shares tumbling.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-08T01:08:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/hyundai-kia-say-not-in-talks-with-apple-on-self-driving-car-development"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 38
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_hyundai_080221.jpg?itok=WS_uo6SL"
-        width: 763
-        height: 509
         isCached: true
   - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
     excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
@@ -231,24 +89,73 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Report: Apple to develop electric self-driving car with Hyundai"
-    excerpt: "After many years of trying to jump-start a self-driving car program internally, a new report claims that Apple Inc. is closing on a deal with Korean automotive OEM Hyundai-Kia to develop an Apple-based autonomous electric vehicle (EV)."
-    publishedDateTime: 2021-02-05T13:34:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16314/report-apple-to-develop-electric-self-driving-car-with-hyundai"
+  - title: "Vt. transportation officials to hold forum on self-driving cars"
+    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
+    publishedDateTime: 2021-02-04T19:32:00Z
+    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
-  - title: "Hyundai says it is not in talks with Apple to make self-driving cars"
-    excerpt: "Hyundai Motor and its affiliate Kia said they are not in talks with Apple about developing autonomous vehicles, disappointing investors who sent shares in both South Korean carmakers lower."
-    publishedDateTime: 2021-02-08T14:24:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/08/hyundai-apple-self-driving-cars.html"
+      name: WCAX3
+      domain: wcax.com
+    quality: 24
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
+        width: 980
+        height: 552
+        isCached: true
+  - title: "When will self-driving cars hit the road?"
+    excerpt: "Tech afficionados often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers."
+    publishedDateTime: 2021-02-05T10:01:00Z
+    webUrl: "https://www.daytondailynews.com/news/when-will-self-driving-cars-hit-the-road/NG3UDA3MJZDSTLNKS3N4I6QPFU/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 24
+    images:
+      - url: "https://www.daytondailynews.com/resizer/er6gSOekz065eDW-FmCHa9YfwMw=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/FEOBHDBAUDH6KTMUTOPB74QYDQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Will it be self-driving car, “electric car?"
+    excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"
+    publishedDateTime: 2021-02-06T17:14:00Z
+    webUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 24
+  - title: "Self-driving car to be tested on Technology Parkway"
+    excerpt: "Peachtree Corners could become the birthplace of new self-driving technology used in cars sold to the public in the near future."
+    publishedDateTime: 2021-02-08T18:05:00Z
+    webUrl: "https://www.ajc.com/news/atlanta-news/self-driving-car-to-be-tested-on-technology-parkway/55UVNUZZR5EV7JQX7GSRA4ZKQM/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 24
+    images:
+      - url: "https://www.ajc.com/resizer/F0CHpZfoF1h0Rl_PukCMJPsMovo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/OE4ZL2NCWREDXLMILF7EOEQPOA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Will Vermonters support self-driving car testing in their communities?"
+    excerpt: "Will your local leaders support the testing of self-driving cars in your community? That's what state leaders are trying to find out."
+    publishedDateTime: 2021-02-08T21:08:00Z
+    webUrl: "https://www.wcax.com/2021/02/08/will-vermonters-support-self-driving-car-testing-in-their-communities/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 24
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
+        width: 980
+        height: 552
+        isCached: true
 
 secured: "jADlarqMA/QUCEGmQKkhP4QaKppYLtURSnS9tEcxWXjv4nVI3Jl1NKIvktF8RFq/gTg6m5czZQFpthMhLTc1JOSdhAYI9tIBn5V9HifNsA7dcxBdaKOXHiSVdv2Ut8nc+XyZ3uS/bwLwIYJ80/n6mVRgcw8pc9IAp5H5+Ug9gLQxqBkx9lsl5/KuonDsIbv3lKRbWVKItzqxav3QirBl3bCLYW3MgwiuTkf7ZgJOxoh1mUx55e18dX6fIYst8VWs85JkSAbDp+r+YUjdNT1c2Ljy+1RDQszZF1pmLAaRvR+fLWOhtaC3NLABED6Bt09JlCEY1YMn+NoAERHRgK7HisQNR6uLg7xRVuKK9/z2IRh2yQ388jYD6Y1ECi+ZHqKxhXQZpWbcccQY946gANgv96xb3wiUaqmtdrgF/2U2shD4+BlA/vV0d88JqWzNREoy5A1ybX/tfOd1rOk/Gx/KGrFqDjAJ3oKfsY318tS0bs0whuaavtSK+w73x6M3AtFS9tVQQYSA0d1nB/grD0dj0g==;U6qyohcjdyQn/FTi4UNwDA=="
 ---

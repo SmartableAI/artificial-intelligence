@@ -157,20 +157,6 @@ related:
         width: 800
         height: 637
         isCached: true
-  - title: "Microsoft’s Custom Neural Voice technology goes out of preview"
-    excerpt: "Microsoft has announced that its text-to-speech AI “Custom Neural Voice” has hit general availability. The technology enables developers to create personalized voices using their audio data and"
-    publishedDateTime: 2021-02-04T16:31:00Z
-    webUrl: "https://www.onmsft.com/news/microsofts-custom-neural-voice-technology-goes-out-of-preview"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Microsoft-Campus.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "How Microsoft brought Swiss voice assistants to life"
     excerpt: "Microsoft’s Custom Neural Voice is now generally available. In Switzerland, the technology has been already used to create unique voice assistants."
     publishedDateTime: 2021-02-05T20:26:00Z

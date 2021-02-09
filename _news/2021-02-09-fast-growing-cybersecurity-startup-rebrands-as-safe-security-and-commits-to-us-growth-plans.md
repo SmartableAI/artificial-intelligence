@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/risk/fast-growing-cybersecurity-startu
 webUrl: "https://www.darkreading.com/risk/fast-growing-cybersecurity-startup-rebrands-as-safe-security-and-commits-to-us-growth-plans/d/d-id/1340092"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber Daily: Data Drought Slows Advance of AI in Cybersecurity"
-    excerpt: "Cybersecurity professionals would love to use artificial intelligence to harden their defenses. But it’s hard to get enough of the right kind of data to train AI models, WSJ Pro’s James Rundle reports."
-    publishedDateTime: 2021-02-04T15:12:00Z
-    webUrl: "https://www.wsj.com/articles/cyber-daily-data-drought-slows-advance-of-ai-in-cybersecurity-11612448985"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cyber Daily: Clearview AI Raises Disquiet at Privacy Regulators"
-    excerpt: "Facial recognition company Clearview AI is navigating lawsuits, investigations and regulatory reprimands in jurisdictions around the world. The company is having to adjust to differences in how regional laws define biometric data and privacy rights,"
-    publishedDateTime: 2021-02-05T17:21:00Z
-    webUrl: "https://www.wsj.com/articles/cyber-daily-clearview-ai-raises-disquiet-at-privacy-regulators-11612539617"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data Sharing Critical to AI’s Use in Cybersecurity"
     excerpt: "Strategies for enabling the effective use of AI technologies in cyber-defense were highlighted by a panel of experts during the RSAC 365 webinar ‘AI Meets Cybersecurity: Crossing the Streams and How to Manage the Dynamic Results."
     publishedDateTime: 2021-02-05T11:05:00Z

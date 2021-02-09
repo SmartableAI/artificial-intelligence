@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medianama.com/2021/02/223-clearview-ai-illegal-canada/am
 cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/02/223-clearview-ai-illegal-canada/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: MediaNama
@@ -25,19 +25,6 @@ images:
     width: 1280
     height: 1066
     isCached: true
-
-related:
-  - title: "Clearview’s facial recognition technology is illegal mass surveillance, Canadian privacy officials say"
-    excerpt: "Clearview's facial recognition technology is illegal mass surveillance, Canadian privacy officials say Clearview AI's facial recognition"
-    publishedDateTime: 2021-02-04T16:02:00Z
-    webUrl: "https://www.compsmag.com/news/technology/clearviews-facial-recognition-technology-is-illegal-mass-surveillance-canadian-privacy-officials-say/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/clearviews-facial-recognition-technology-is-illegal-mass-surveillance-canadian-privacy-officials-say/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/clearviews-facial-recognition-technology-is-illegal-mass-surveillance-canadian-privacy-officials-say/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 23
 
 secured: "+gWGdsu8mkEyG4mEhjaVI8LI9k75Je3luBHSz+uEDFye4pvosz3Zv6WFDibUpGdPlwGPXJ6f+P5GC9wgVaBzIC4po0C32Vb5aFkcEJZNmbbzgid+jak8mZRUYv2Ygn685KzV/zSYh8Qdl63ef9F6trsQu9RliHabmEUq/qAd/T9SDsPkIjHM038QC+Rx3QNcV65QKmiQOYGijQUmsYSPykFqXdM8WcEXhTWR8k7KHODI07Vdfb2aiFl7muz0itpH92WiaNKutzFQSXLS8AYH0PbMcTfdSDglAOA81pKrHquJubaYgkOr9OFxlEfKwXwZfzn3TsLEc8URCcVgvcfSgDI3b02Hsxki7wCZfHd45PTReasTzb8Ji20cGmxla0BqTm28ONvYJF75JGMe2hYTUXgUmzCzGQA2q1QpVdVYY6aszw267Wbn+D16fOZ5iakdOZkNF9l6zZMk7/exdgZ0df658qcGUzYbJjm5vHSV+Q3sXm5QFIpLcvSanAaEA6T9madoZeMpIbZXXHZCIqm7yg==;6Z9J6gbhslZ28vW1Z1LZ6g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
 type: article
 quality: 91
-heat: 191
+heat: 182
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/3/d0/3d0c8992-3f6a-5603-9191-e9a72f968aa5/601cc71f95c27.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Privacy commissioners call facial recognition service illegal"
-    excerpt: "Canada’s privacy commissioner and three of his provincial counterparts say a facial recognition tool sold by  technology company Clearview constitutes mass surveillance and is illegal in Canada. “It is an affront to individuals’ privacy rights and inflicts broad-based harm on all members of society,"
-    publishedDateTime: 2021-02-04T16:00:00Z
-    webUrl: "https://www.rcinet.ca/en/2021/02/04/privacy-commissioners-call-facial-recognition-service-illegal/"
-    type: article
-    provider:
-      name: rcinet.ca
-      domain: rcinet.ca
-    quality: 39
-    images:
-      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/02/istock-1284886674.jpg"
-        width: 1266
-        height: 828
         isCached: true
   - title: "Law enforcement turns to facial recognition to find Capitol rioters"
     excerpt: "Researchers such as the cybersecurity expert John Scott-Railton said they deployed facial recognition software to detect trespassers, including a retired Air Force lieutenant alleged to have been spotted on the Senate floor during the riot."

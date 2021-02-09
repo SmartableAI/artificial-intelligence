@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iisc-launches-new-online-mtech-programme-art
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iisc-launches-new-online-mtech-programme-artificial-intelligence-organisations/amp/"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "Interested In AI Or Programming? Learn It All For Only $20"
-    excerpt: "Artificial intelligence (AI) is a phrase we hear all the time these days, but how many of us really understand what that loaded term encompasses? On the"
-    publishedDateTime: 2021-02-04T16:13:00Z
-    webUrl: "https://www.iflscience.com/technology/interested-in-ai-or-programming-learn-it-all-for-only-20/"
-    ampWebUrl: "https://amp.iflscience.com/technology/interested-in-ai-or-programming-learn-it-all-for-only-20/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/interested-in-ai-or-programming-learn-it-all-for-only-20/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 59
-    images:
-      - url: "https://cdn.iflscience.com/images/36cc7f2b-f5bb-5562-b081-947a6b5d6baf/default-1612455189-learning-code-on-laptop.jpg"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "05mCndi0AByOegfOMUw9sK7qlR8/2yltbhxR0uyepPTP2sPxitI+09C8Py8/Xqs+Wzl9vUwcd2qOpPvoDHYWrHEM+mgCG33bf3IUZ8enpl/O5rN2Su+nksyfFeAe+nsQmP8QnQvnSt1jV5Z+FU1mVQF6SaYQmPCNNrEWETqPxbCrWkTvzScHbF3Rva0oH979HUHvoAjw9nQYuDbVciZo/Jzvc0H7R0Px5HmuJRjTJXsj5gXbX+G8NDr8L47Agn/Jd9sVK6vi5J5jpzYYWYQAnoO9UGmM6zi0J0f8N+dD9+P9Q2AkJA4mC2xxnGE9iE+fyT4uropQql0dtDlJ+f+Znc1pfHy3KMKiGp0nLDiCtTg=;3R4bAfTECtn45nttsfBjWw=="
 ---
