@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/5dp4ek/new-jersey-transit-wont-e
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 2246
     isCached: true
 
-secured: "sy7webA1KpDKDWHqwLAE1729ykKtG0FRvtr3abFRBsoKyRKHJw0PxAfSUkDpQOPrWCF7MFMXvnrbH5x5Fy5ZRDFC7j3y8Ld1LEgYRGw4QW1jS0EjWfMAmPnXIUej4I7q2lRHEn63mb6oJcJhF3k6o9tPQLPOTXiK6IBj3C15Sl9Zzp7h3aGBqwS4ftt3ih33ec3mKFxF0TM70hT/vujx7CnMb/dx/xuYkZFko/LJ8U+XCumd/wDzV8pOwmTxVrnZgciBFHzC3PT7edNyAMql5wraE4zBBzrG4VQcJUK+KMtt3pO1VBTrROOlV8+FdrtSBId1Z6/YGfT/dPxgmX9dkmynnLxDrL9zaV4ew8/8aGk=;Vi10WkvjOaKJ4L+bsfHPkg=="
+secured: "RmXDWPwKKps6sL8pkqGpWwCXs9KCJV3OLYeUvmPcuhUwVbexBCEV2LjvAFZWoMi079+XKdDnLQhoZugkGD4uI6ERngZWOaMGDq3clpictQI2gLkyEVviv+/5o/b4iwMTSe8xJNNSa5qirD/hnPpg9fgsWYlnJHLXDRArDJdwbImUeQ5sNNetJV72IdG5I/IAdoGWOEPnKG3XI5MkrNMBN9woeFkq5t+TaI2nf6H0qsM8PtNRPcF+kaJnaR5O7mPqXAujxMw26ShjpHQcVS5A/evUtGtQvt6CFuDxXkHqFS3fN9ID7PJqdzzrRunPThKiFOZ/fri0veJSRlWeiLvTtS8osTA40CjatKKO9dLg6IKrDnb0g5SbyMYSj63ZIbKELBhIHqzKdxpIKWAXHlUy6RYeJwrXOMkhEGuSViG7AZ9/FYXmoSJp25vlyVCHXJx/k7hDhJ7u8bEEr4C0bPoMQdLctzRtYoSN54EsKStI4scn8QudO/Fh1vpEIls+QaViGkkfeIEgj0q7unwr8BLQ/g==;+GJ3xZ0RJbGN57oegMW1QA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2237949/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
 type: article
 quality: 65
-heat: 95
+heat: 125
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%"
+    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in healthcare market."
+    publishedDateTime: 2021-02-09T15:38:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI Chip Market to Witness Huge Growth from 2020-2030 and Focusing on Top Key Players - Intel Corp, NVIDIA Corp"
     excerpt: "Market Industry Reports (MIR) has published a new report titled “AI Chip Market- Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020–2030.” According to the report, the Global AI Chip Market accounted for over ~US$ 9."
     publishedDateTime: 2021-02-09T09:49:00Z
@@ -59,6 +73,24 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 11
+  - title: "Lucintel: The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%"
+    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in heal"
+    publishedDateTime: 2021-02-09T15:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51968415-lucintel-the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-dollar-36-1-billion-by-2025-with-cagr-of-50-2-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 9
+  - title: "Lucintel: The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
+    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in manu"
+    publishedDateTime: 2021-02-09T15:57:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51968721-lucintel-the-artificial-intelligence-in-manufacturing-market-is-expected-to-reach-dollar-15-273-7-million-in-2025-with-a-cagr-of-52-2-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "PQwRo8FIF0WWUA6kSYNROolIt2fhJYVMZyuAGJGuTabD8mV+pN8iUObUjjL+EmEyXxGezE8RFGD6//eCiu61DIqQzUgmkhoB0vBQ9Kum48+1vZU5kelgI96oWGnNqVL97fQCloufUwvPEc15pb/f/+NmSbsbiiiXoLbv+0nyTuQgPH2BP+FSnxO/UqXDWkYCUMp4IEqW5ifY5c2kX9YqPq8O3SGQ9P2NVVzbcQZCqJe+iJmbUrMmslajTLYtKC99Ej6SoN/xI+51RDQq5nPgqZ+9JAOC3GJJugRdTBD/wvfH0EaoXGTPG2buqWs2Ot1scdxuishS6FRxUIDvEcrSD05/JbJvP87QxRdgleYe+frBFTjJ0dClsmX2G+SuxTTySessIP/69Qbx+PfWsL4Zyh1FSiG9kMX3KJIOCdekz8nE9Fl2SBvMcpqQEEWBXeyEAQFHVyS+U57vfBP3rQ/w9VCsq4xkuMo2y5/IBONJ4kBkDv23w7D2M3PpGRhWbEc91476nUq2HOJBw9smDNRiCg==;o7PsW53+eypwkoGHrCpQHQ=="
 ---

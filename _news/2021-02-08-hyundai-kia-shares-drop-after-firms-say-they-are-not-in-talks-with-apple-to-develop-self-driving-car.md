@@ -84,6 +84,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Hyundai and Kia Won't Build Apple's Self-Driving Car After All"
+    excerpt: "Korean automakers Hyundai (OTC: HYMTF) and Kia say that a deal to build cars for tech giant Apple (NASDAQ: AAPL) -- which had been expected as"
+    publishedDateTime: 2021-02-09T05:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "Hyundai, Kia deny reports they’re working with Apple on self-driving EV"
     excerpt: "Hyundai and Kia have been discussing with multiple companies on self-driving electric car development, but no decision has been made, they said"
     publishedDateTime: 2021-02-07T00:00:00Z

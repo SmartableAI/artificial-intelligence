@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A800T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A800T"
 type: article
 quality: 86
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -65,6 +65,17 @@ related:
     webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
     ampWebUrl: "https://markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
     cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "Hyundai and Kia Won't Build Apple's Self-Driving Car After All"
+    excerpt: "Korean automakers Hyundai (OTC: HYMTF) and Kia say that a deal to build cars for tech giant Apple (NASDAQ: AAPL) -- which had been expected as"
+    publishedDateTime: 2021-02-09T05:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439"
     type: article
     provider:
       name: Business Insider

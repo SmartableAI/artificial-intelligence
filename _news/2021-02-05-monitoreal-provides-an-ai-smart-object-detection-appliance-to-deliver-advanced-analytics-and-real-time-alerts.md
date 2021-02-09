@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
+    excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
+    publishedDateTime: 2021-02-07T13:56:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 28
   - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
     excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
     publishedDateTime: 2021-02-08T10:21:00Z
@@ -69,6 +80,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
+    excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
+    publishedDateTime: 2021-02-05T19:52:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2021/02/05/atlanta-partners-with-olea-edge-analytics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
 
 secured: "T+yyinN9GzgxFhVvI+dn0hMfMZg/BoPWJ4tRKcwM0xzseGu3AjoGPu3P96+DjdcbZkewA+qJZSeGk7xLiSEHq9j6eUKbUf3oTM3Qk4Da17XaYPwklb2Vszdo6b++vilMmg3osy+B0hIXg5hDQSSNZEMUPpoxlg/2lzoYpc/s8+Wl0rSCrW8Pjia8y7UIPeOr/eSl7OUzEWWae4ftMng+nHZMAuyuO2T3Ml1/f4J0vN0hXSUhPL7IiYVCdZqy+N3rFz0PEElU3FC2+55NVmLxV+F1WPoSnMQbeC3mq+8rSKthNED62LFXSattR9Bj4mQ9s/3gmDTqCy3ELbsTX9wBfee0GDO/FpMjYcyBOcn++J4=;BN91n84+rNDMgoR1oWzQFA=="
 ---

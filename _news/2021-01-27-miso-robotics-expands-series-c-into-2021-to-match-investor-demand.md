@@ -3,8 +3,8 @@ category: news
 title: "Miso Robotics Expands Series C into 2021 to Match Investor Demand"
 excerpt: "After raising a record-breaking $17 million through crowdfunding, the creators of Flippy extend round as pandemic boosts demand for kitchen robots"
 publishedDateTime: 2021-01-26T20:47:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=16155"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=16155"
+originalUrl: "https://www.roboticstomorrow.com/news/2021/01/26/miso-robotics-expands-series-c-into-2021-to-match-investor-demand/16155/"
+webUrl: "https://www.roboticstomorrow.com/news/2021/01/26/miso-robotics-expands-series-c-into-2021-to-match-investor-demand/16155/"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "i9T4CA6Gtgj5SIddgkwHe4PuIuTNV2jed+O3780fn9J4di0RZGoMN3MGNWUCVmEar8tAC8EAQeiOxqlMFehAVSxjIproZaa5raECZR2Oc6Tgst3kp09wACMPY4Tu8n2HWEWfSq8JOCycjVRNve2J/B0gGCud3USXk3t5Hg+m4ktgV1umPO6rE+osv+D9lD5iEXkd7NQvlvxpfrXssq19/LGCYVhdldtMIJ5+P9CquwarNk/XeCDpsmFfZFVSFda1NFZoYIHLJdXAHe2IZziCg9pNDUsuGojsSF4h77dRPpKeJ49/JcVoxetNfZsNPyB/XHmnDM40GAeCTaD6uh8iQcooE09JfkUE6vdLeKr73c0=;VOLP5GRZG1A51smz0Bm+Wg=="
+secured: "Z+agHxNviPEFqI32Hda76g8mAzUT3NtvISje1o663vpkNUffzCmBIkAGFUdKdmIhCeQS8oIK6lgK7ZHlXhwQlvwgK8tGIJ6YFu4kMhwst4FVxCigJ0pE8uPyytPSWCrM09wdz7u8HLX7CuZ/WuZuuyCdU8x91iGqBNfuArjiUJTUs7maaDOiGkl97L+M1aeMT/qwPBw/wbIksJEt22Da9Qu3MEZ66zZwFlW9cyNNCIBbOyDIs2fVf10X4LKeusGzS7eJtETcP+KKVU9JJlJvzshR+mv71v1wNYYwD1dZu70D/NkfoQNzv9RZ8syIWHlwhq8Eu/G/wVbeb56G/cCGbgeL+MN9QiywidkIXDiJTSU=;tvbEi1mKbrgByqfWv6NwsQ=="
 ---
 

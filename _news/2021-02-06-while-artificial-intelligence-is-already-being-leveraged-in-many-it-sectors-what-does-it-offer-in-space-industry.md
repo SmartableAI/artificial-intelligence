@@ -40,6 +40,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Foyer Insight Incorporates AI and Unsupervised Machine Learning Into Unprecedented Multi-Classification Tool"
+    excerpt: "Foyer, Inc., a startup PropTech development company, is introducing Foyer Insight, the most advanced computer vision Artificial"
+    publishedDateTime: 2021-02-09T14:54:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-301224825.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "kSlEyiJCZx+UTeTeBl93d9WZ1j1n34Cmo9RIZ2OoQCO82IlgmjLwPqyl6/GVX5FsNZGlo5xOGPPPsWhDrCxyGM17zFVpNUYpSPpoZ0wHR65KZmpYF9NQPTuIvy5Vc1f2OOD9mliBgY19o16XgScEXjs055BqNKp57PrZgp/QaokbgN1I7T6ekhD2cK0tYtbwjml/3VOxt8b4sSoxHKpvfaQqeN2UXTWvwBa3A2Cdq90GyjoJSXGb60PpXxjKjY4i9W4KwuHdhJ0TTndAUqN50tm5Hjbp/a7oEjfMdpKVODs/IIzbI0vnOLQjGZBjE/rpk9roO5z+yNYTIW+cKzRbFgnHLBLBrOCyDSOgoqgLhYI=;8bgJJMz13nrPVP/KsKgf0w=="
 ---

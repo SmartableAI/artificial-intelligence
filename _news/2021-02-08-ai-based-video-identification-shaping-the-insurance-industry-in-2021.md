@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Foyer Insight Incorporates AI and Unsupervised Machine Learning Into Unprecedented Multi-Classification Tool"
+    excerpt: "Foyer, Inc., a startup PropTech development company, is introducing Foyer Insight, the most advanced computer vision Artificial"
+    publishedDateTime: 2021-02-09T14:54:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-301224825.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "While Artificial intelligence is already being leveraged in many IT sectors, what does it offer in space industry?"
     excerpt: "Applications of Artificial intelligence in space is not restricted to space explorations. For instance NASA uses AI for discovering exoplants, built humanoids that assist astronauts and more."
     publishedDateTime: 2021-02-05T17:12:00Z

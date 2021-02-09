@@ -1,30 +1,40 @@
 ---
 category: news
 title: "Data Collection And Labeling Market Size Worth $8.22 Billion By 2028: Grand View Research, Inc."
-excerpt: "The global data collection and labeling market size is expected to reach USD 8.22 billion by 2028, according to a new report by Grand"
-publishedDateTime: 2021-02-09T10:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html"
-webUrl: "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html"
+excerpt: "The global data collection and labeling market size is expected to reach USD 8.22 billion by 2028, according to a new report by Grand V"
+publishedDateTime: 2021-02-09T10:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415"
+webUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415"
 type: article
-quality: 12
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-    width: 1400
-    height: 733
-    isCached: true
+  - Facebook AI
 
 related:
+  - title: "Service Robotics Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
+    publishedDateTime: 2021-02-05T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
   - title: "Text-to-Speech Market worth $5.0 billion by 2026"
     excerpt: "Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education,"
     publishedDateTime: 2021-02-05T12:22:00Z
@@ -39,7 +49,21 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Artificial Industrial in Manufacturing Market Size by Regional Production Volume, Consumption Volume, Revenue and Growth Rate to 2027"
+    excerpt: "Feb 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Artificial Industrial"
+    publishedDateTime: 2021-02-05T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-industrial-in-manufacturing-market-size-by-regional-production-volume-consumption-volume-revenue-and-growth-rate-to-2027-2021-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "TwvFMQTRiev4yTZsyOTZX9aHrCXfrAhKLtVcWCXNEO+RxG0gFCw+r1+n6/vRtvIUGjE1GnZqsWrWh3smBolu/yVN9GP+aircvrGq4Glu9pQJtKJYD5Xr0HgjI+JwfLWPCsIrWARtW8FY00tVlSMaGgIzAyJ+pbw9yKY3huD9QGo9zkCuPOPIpgNFul8uAZG0YX8F28dHIXSphgbixLyecXr2zxxurAJmclJ9jLLtIxdOQvQAM4bkv6gjjRiJ4KAVS84Vr9yywxM/xwmHC0c04P0e3Fhr6KVPekJt/xRml0N5f7p/rTNRC6awheU8jy2MlUeaar9WR2ITJSMh/jFaSNepZfMuz658qOd5BL/ABfg=;KuR1ZK5UOFuzsOnfwxlARg=="
+secured: "e0qHc40RS6jgOHBmxVkGWgIbxdGr87SBM4j50DgYcplROmaJhH4JT2Ry0NRtK8ODQ19jR8MrAgL7E9E4lun/y3NWuy43kVYVT2UbE/k7me6ahxRWZijSygTjDCn8kzLSmVfYT6DF1Phzr1R4lFUefrUfXWe2hmUx6rruumyG1o5/KKvRcTP0X4C3oqJM77LAxVVOz6av8mgwJX/HDIL3exFX3oFQCdiZ7hhUKGU/jxDadhvI3E3ZatF+dqEHr5/L5835DShU36tDy1zIz2mvvLRhoPCHQzPzm5umo3LDa3clqjOX/QtM/x/odMl9Znz3CEoRoeLgDT6kS0gDMuHHOAohDv8NfHrG9wgY6qPe4I4=;i8XdPBkQel8h4xGHNjU7Bw=="
 ---
 

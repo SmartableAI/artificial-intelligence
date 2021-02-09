@@ -40,6 +40,17 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
+    excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
+    publishedDateTime: 2021-02-07T13:56:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 28
   - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
     excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
     publishedDateTime: 2021-02-08T10:21:00Z
@@ -68,6 +79,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
+    excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
+    publishedDateTime: 2021-02-05T19:52:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2021/02/05/atlanta-partners-with-olea-edge-analytics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
 
 secured: "+oUWp+IdV7+p1VadOa3r1MSiwuTUortfGj+WE0ASKNIqXaKOPYgEM/0zf5/k/sP3OHCTEocP7l7TcOtvHREgINoqqFyrh8GRXcL3FAlZgM3b7tEl9bAuw8fH3SqxNIgur1G46cfMe9uhRkGAyc2trjeqFfa+U7/pTUrxpsnCXLJJ2QlNZToduZMNNJnSGETbv1UPSxWYMjHcvkBhrRsWEoEz+VFpCpye/hucqUmMttBy2UNa2vA8VJzsT3clxEo3XBhGO+SP6skwIW7UjzKvzMjcmeAoetRQwf68NkRRXtK2hF+jqD9eNG6iwi47fSgJ+lmH0foSg6yivtX6AD5j5DLYBy7Uw4IuoF5GsXLCxvM=;kVaz3nEFcSmePnVEGuujrw=="
 ---

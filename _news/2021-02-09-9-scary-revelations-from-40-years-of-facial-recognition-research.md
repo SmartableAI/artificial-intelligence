@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
 type: article
 quality: 91
-heat: 172
+heat: 173
 published: true
 
 provider:

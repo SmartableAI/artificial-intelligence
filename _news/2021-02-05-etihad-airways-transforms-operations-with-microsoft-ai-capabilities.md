@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
+    excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
+    publishedDateTime: 2021-02-09T15:25:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 76
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg"
+        width: 600
+        height: 440
+        isCached: true
   - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
     excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
     publishedDateTime: 2021-02-05T16:06:00Z
@@ -111,20 +127,20 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 56
-  - title: "GDIT Signs Microsoft Partner Agreement to Deliver Azure to Federal Agencies"
-    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics, has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G), GDIT reported on Thursday. \"Clients across the federal government are rapidly adopting cloud and Software-as-a-Service solutions,"
-    publishedDateTime: 2021-02-05T00:00:00Z
-    webUrl: "https://www.executivegov.com/2021/02/gdit-signs-microsoft-partner-agreement-to-deliver-azure-to-federal-agencies/"
+    quality: 58
+  - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
+    excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
+    publishedDateTime: 2021-02-09T12:27:00Z
+    webUrl: "https://www.hstoday.us/industry/gdit-announces-federal-cloud-collaborations-with-microsoft-and-amazon-web-services/"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 52
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 50
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/22/95/47/f5/8c/f7/58/f8/e4/gdit_20200722.png"
-        width: 272
-        height: 270
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
+        width: 1920
+        height: 1152
         isCached: true
   - title: "Activ Surgical Joins Microsoft for Startups Program"
     excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"
@@ -196,6 +212,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
+    excerpt: "Cleareye.ai Collaborates with Microsoft for AI Platform. Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collab"
+    publishedDateTime: 2021-02-09T16:45:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210209005295/cleareyeai-collaborates-with-microsoft-for-ai-platform"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 34
 
 secured: "nejmEhmQZJUU/oXtlA5SJTOXcUVRjQFX2QmUBVAv5MAv5QXYxuiklcYpbX8hGNWfJ0gq6ONqhS4Lu5Cf9OFa67Ti7uMiPEDIAnktlTgDHjoevvVvuDOYEAjj1KOCQmfKwi8ReUGiSnHuDjekTRKo/QcpI8w3XK/T6JiX43Az/KH5dwVME2pUND1TRKs6x6y4mN1ia+8eJ08OoUrQBPvuy7qYKH607yLi8Sg3cWYr/JHfvPRGJ5LBAxutqEbKMrm6wXMLCOpE+JbgcBCLUHOOXGQ6lv/37XY+1lPEhn2RQmPjwAwLKNIEKcw/vN3igM3aZOvTTo8+dvMUuxQF2wnQvrjRloXhWI/wfJ0icm+OGVBZnBxH3nTRUyx7U0y95hDuR+DVK1CRkd1Dnfvs5kTRxavKdr6dDL/AL6H90hTjhA8gZpMczX0xwkOcTcpMfYxMomFmBn5QyxGmw2e/SdhxNY+uG5tRUb5NFoAoNjJ0iksKqNEYAC3EO3oLoJhjeelzMgbtA/V0uRqNP5pljKt00g==;WnGdNJs61CAGvkfFp+GceQ=="
 ---

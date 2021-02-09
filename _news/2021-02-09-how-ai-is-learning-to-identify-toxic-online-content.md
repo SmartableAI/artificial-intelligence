@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Alice Camera Brings AI and Deep Learning to a Full-Size Camera"
+    excerpt: "In an attempt to bridge the gap between the power of computational photography that is backed by artificial intelligence and the physical benefits of larger sensors and optics, Alice Camera was born."
+    publishedDateTime: 2021-02-09T16:41:00Z
+    webUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-learning-to-a-full-size-camera/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 56
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/02/Alice-Camera-Adds-AI-and-Deep-Learning-to-a-Full-Size-Camera.jpg"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "Bringing AI to the edge"
     excerpt: "It seems that much of my work these days is concerned with bringing AI to the embedded-systems domain, understanding what the implications are and how companies should deal with it. In the discussions with technical experts and business leaders,"
     publishedDateTime: 2021-02-08T07:51:00Z

@@ -59,6 +59,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Finch Capital’s New Fund to Target Fintech, AI Startups in Europe"
+    excerpt: "Finch Capital, a UK and Netherlands based VC firm, has closed on a new fund - Europe III - raising €150 million to invest in Fintechs and artificial intelligence (AI) startups in the financial services sector."
+    publishedDateTime: 2021-02-09T15:18:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/FIntech-UK-Cambridge-University-scaled-600x498.jpg"
+        width: 600
+        height: 498
+        isCached: true
   - title: "How Fintech Can Help Streamline Your Company’s Financial Operations"
     excerpt: "Huge.” “Surging.” “Very hot.” Those were just a couple of the terms financial news outlets used to describe the fintech market in 2020. They weren’t just buzzwords. Fintech has seen double-digit growth in transaction numbers and volumes during the pandemic,"
     publishedDateTime: 2021-02-05T16:18:00Z

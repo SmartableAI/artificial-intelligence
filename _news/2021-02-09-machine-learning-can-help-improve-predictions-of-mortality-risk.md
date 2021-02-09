@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Geisinger researchers find AI can predict death risk"
-    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm--an example of what is known as machine learning,"
-    publishedDateTime: 2021-02-08T17:40:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ghs-grf020821.php"
+    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm—an example of what is known as machine learning,"
+    publishedDateTime: 2021-02-09T15:48:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-medical-technology-health-medical-research-8dec9fab85f154247727ce3286f85014"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality"
     excerpt: "A deep learning model trained on raw pixel data in hundreds of thousands of echocardiographic videos for the prediction of one-year all-cause mortality outperforms clinical scores and improves predictions by cardiologists."

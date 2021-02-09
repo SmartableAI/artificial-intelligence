@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Alice Camera Brings AI and Deep Learning to a Full-Size Camera"
+    excerpt: "In an attempt to bridge the gap between the power of computational photography that is backed by artificial intelligence and the physical benefits of larger sensors and optics, Alice Camera was born."
+    publishedDateTime: 2021-02-09T16:41:00Z
+    webUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-learning-to-a-full-size-camera/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 56
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/02/Alice-Camera-Adds-AI-and-Deep-Learning-to-a-Full-Size-Camera.jpg"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "How AI Is Learning to Identify Toxic Online Content"
     excerpt: "One solution might be AI: developing algorithms to detect and alert us to toxic and inflammatory comments and flag them for removal. But such systems face big challenges. The prevalence of hateful or offensive language online has been growing rapidly in recent years,"
     publishedDateTime: 2021-02-09T06:04:00Z

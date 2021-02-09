@@ -32,20 +32,6 @@ related:
         width: 900
         height: 855
         isCached: true
-  - title: "House Armed Services Reorg Looks to Increase Focus on Cybersecurity, Intelligence"
-    excerpt: "The House Armed Services Committee separated oversight of intelligence functions from the purview of a subcommittee that has been leading on cybersecurity issues over the years, saying it will increase much-needed attention to both areas."
-    publishedDateTime: 2021-02-05T00:22:00Z
-    webUrl: "https://www.nextgov.com/cio-briefing/2021/02/house-armed-services-reorg-looks-increase-focus-cybersecurity-intelligence/171862/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 17
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/04/NGcongress20210204/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "NrE9AhtNkwsKcPXvVwCJmM/Z+SPFeZpce7OCf89Vs+siN5n8n5VLFip76aQEAaDKS2A72OpPVpq3FOhJ2J5PY5kslVEIm06xS9Wdc4e/j8JZ/E5UooFxiRU3E5FcRO3S7UC1LTm1wl4/Gx+0lYiE7OgvV+4dtYjQqTf3/1jvpq0xRqrWJeZdX8sfoiBptSWfDzBACcOx3D1KwDekx1FeMEvpwrOoEbFEczkTgasil3eEdXuBAN7TQJY37YzO4Zl/432ZGvmtfVFUMRNSeXsZKCbWuUxun0xHXVm//KUCw38v6lF9rn6zxfeO5I0t7/+bqcCGd21D4Fl6sPd8sUnpRcymTuWMyUErzFHJ+yEfN+qDnYToNEh3nreLrARAGsEpAiNRnfDsyee+PjbVStg+hD8UH/CAKxhq75rLTos0KVIwWP+c2qfXqm0TrwX3i009dG7bmSSBvEgthes4RoMJBbmSVBRWBcaO33fHhtKdg02OG8xuTvoUOFPcE115UH178MDz2R+P95AVvhvfLfvMYA==;nzHp/evhB1sopWKxTW6f8g=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-09T13:30:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-review-by-comprehensive-study-development-status-opportunities-and-future-plans-forecast-to-2026-2021-02-09"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-review-by-comprehensive-study-development-status-opportunities-and-future-plans-forecast-to-2026-2021-02-09"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

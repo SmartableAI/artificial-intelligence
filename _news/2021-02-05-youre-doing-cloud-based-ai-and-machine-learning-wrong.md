@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020c96074cb8469b584b7e3%2F0x0.jpg%3FcropX1%3D551%26cropX2%3D2028%26cropY1%3D0%26cropY2%3D1108"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Alice Camera Brings AI and Deep Learning to a Full-Size Camera"
+    excerpt: "In an attempt to bridge the gap between the power of computational photography that is backed by artificial intelligence and the physical benefits of larger sensors and optics, Alice Camera was born."
+    publishedDateTime: 2021-02-09T16:41:00Z
+    webUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-learning-to-a-full-size-camera/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 56
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/02/Alice-Camera-Adds-AI-and-Deep-Learning-to-a-Full-Size-Camera.jpg"
+        width: 1600
+        height: 840
         isCached: true
   - title: "How AI Is Learning to Identify Toxic Online Content"
     excerpt: "One solution might be AI: developing algorithms to detect and alert us to toxic and inflammatory comments and flag them for removal. But such systems face big challenges. The prevalence of hateful or offensive language online has been growing rapidly in recent years,"

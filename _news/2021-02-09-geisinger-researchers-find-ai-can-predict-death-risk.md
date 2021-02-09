@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Geisinger researchers find AI can predict death risk"
-excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm--an example of what is known as machine learning,"
-publishedDateTime: 2021-02-08T17:40:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/ghs-grf020821.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ghs-grf020821.php"
+excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm—an example of what is known as machine learning,"
+publishedDateTime: 2021-02-09T15:48:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-medical-technology-health-medical-research-8dec9fab85f154247727ce3286f85014"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-medical-technology-health-medical-research-8dec9fab85f154247727ce3286f85014"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 685
         isCached: true
 
-secured: "fM5xdkI1fRxUE5fl4Aw91siZvpob40ZOeO3s1eHfIUIf25z/EC+bsfKDDS4XxzWjQAd6GvOnaWz+4wBBiYJQS2wD8YInRlXbjGD3aA97ho0Xw3f4LYIt99FgYUtekGjIJoprVRUYyORf/o3AsbTh5VptI+xIcfTCs9TzG/b6kb+Jw01ndfmxuUcg7y3HOYMzSzAtp/I5UFCV609r5U77eGGbYcl5fdv/xmmSe1Ix+qA4NMD+hkFDIpMGOjcfFl8Twxj+4hMryJDzLfWrZTQUE8L8LKI68BQjmKJZk5EitkLU8U/x5FILWogQMgPZ7j6Ux+CHYFOYNmvgysz2tQjtzlQrxmwpq+IyPUZl3st7vvA=;JAh202Ms8sEAj0MExfYdhQ=="
+secured: "t7wFdHe1cw8uTVpqwy68lEHy31uudwUqv0GhhcmCNjrtt5AWw9mSLyx9bjdtPgOwWSvbCdLMPCuMB7KTUQ1IO6DNm7617VCHP9wKSGbtBxEwNGLBmpPJN2sIDzXpVWxMWsLbk1QrCbwekJkcDXfSW+7LwZ4tKJ/PXQsfdEMiio+H4EW3Q7S5YOIKOWvE/t0p545yoWfU7CBcNMNL6ip8sbF1W/4X8Ine5fKAGfhO+UXyJh37SYfQmjCDiQKdYL/SGArj4UMaI6SKIqYOlNCwbBdgnEwb7VPJNntx80gPFx8Zm4G86c444PLL9AXee2iRhSYOjeCT+CqZnyjlthbpoWSlzYhzu2GxkNtlBeiWaA4=;9xf3UsRg9KdJ1v7kd8n6Sw=="
 ---
 

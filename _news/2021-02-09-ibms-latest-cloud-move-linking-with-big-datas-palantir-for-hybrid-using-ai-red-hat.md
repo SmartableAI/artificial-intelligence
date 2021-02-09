@@ -49,7 +49,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
         width: 1170
@@ -173,7 +173,7 @@ related:
   - title: "IBM partners with Palantir on low-code AI applications"
     excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
     publishedDateTime: 2021-02-09T01:02:00Z
-    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
     type: article
     provider:
       name: SiliconANGLE
@@ -227,6 +227,6 @@ related:
         height: 284
         isCached: true
 
-secured: "SaFxxlUL+cDoTQBmHsz9EsSy5AMWoStMuQP1Hnsbqm1PXF7Ai9ko9g3k/jRyI0yRDuCxYG45lEaiiqnP4CoTzf0mW+Dg4ilMwq1ySWvK5hRVu2I9d/nDUnZdc1y6riCNGgNUo9UDnvCSuUv42QdzTjzOm9aYhJDuetYFk8vExC/Q0nrCWzaFDpeZTDkQsrN5kKslLbLV9sUFB9ldDemt5sxUUpDnccD3B/lSKEsFLpMP1LvgOTlqxy+tP9PVeDgrggYVDJpT0y2reyqE2z1+98swaJsvp0lVQAtDkqvJwHGHmKaDKsT7aGpjXKSWvFaPlne57P0gOWJlhE/xl9te6GMw/FGhntD49cK/bCUmE4Y=;ruvm/PxrQ7fipvufY+LqmQ=="
+secured: "aQ/p8Qrt/fNe3HXa3xK23JA3hLOaIt9qIAK67jqwvpgpUHwhV3Y/wIxJGWXUZXr/RgTTEsWELMOo8zvf0oM+vSlXTK14uLQhp6uXl10sJ9lN5VU+23Ukc8FBen+cW9eYgVY9eXEJqxbfKQWQXevlFBtkGuw8arc18MHP1XB+NogYF43zJYSweaFucn4/kOHRAbKWSAmRXM9xCz/aAsWJEtG4jG1e0rtOh4gGFciPowoNX+PsOINMsZFRCkH0mkMjN4F6W7Cm83V3NQDNZeOfpCtXF8RzqQw469LtZX3EwE/LCr+qvE0dKOuMseBfa6TbHe8PuMrKCEjaAUf4wPLyhz8cKxaXv23rTgoqu/GigC5AG1mczFoNCLxoJx6MErqD2UsLjISn+flr8WWOiwy10SxC5RCpYiZBSI71R3g3j8i2DOhltc21QE5TRRTJAhGaDZyS8vLeZcCX6QiEP7AGT+gw9FqiheMNdfmsqQTZHsd3y5oCTTcgK5ES7n1EvxHgu7up7l+MoLEuo17gf2oGOQ==;3uCDH1DjsxJW0FVpABS07g=="
 ---
 

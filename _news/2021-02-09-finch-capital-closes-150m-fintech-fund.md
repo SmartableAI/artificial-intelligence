@@ -57,6 +57,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Finch Capital’s New Fund to Target Fintech, AI Startups in Europe"
+    excerpt: "Finch Capital, a UK and Netherlands based VC firm, has closed on a new fund - Europe III - raising €150 million to invest in Fintechs and artificial intelligence (AI) startups in the financial services sector."
+    publishedDateTime: 2021-02-09T15:18:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/FIntech-UK-Cambridge-University-scaled-600x498.jpg"
+        width: 600
+        height: 498
+        isCached: true
   - title: "What can the world of Fintech expect in 2021?"
     excerpt: "By Björn Goß, CEO and Co-founder of Stocard Last year was a year like no other as the Covid-19 global pandemic caused us to change how we live and work. The pandemic caused huge challenges for people across the world as we sought to survive in new,"
     publishedDateTime: 2021-02-05T06:20:00Z
@@ -88,6 +104,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ZLSOP+GZI1Mkwze2SKPDb61mOpua7omCOWRQaupNOilX5M7AsHCR8ryajLlCvKur0th4yxrTjVJQYap8AfWyrTrqjq301NnabeGtvFI1GCdTd3FCiOY+gPMLGaxEXqXI/gAZRcAiKBAoO7GK+dSp979rPNpDoEWI067eNdRFtWMiYZEnCBcloaIjK0r6Nw9BQAcKaufw7VMX7b+Z/M/0OB6bg+fAFLdNqGg/KsJLfjGnQApNtCxGeGgWq53a4fQZ9O1UKSfnMg/vfcUH9+kh9f+bihXbeMkMTmsKKiVdLxCmLwxFdOBMdcumAdKEgABgEnNP6YCoapWQQNAI6wzPSGjlk5aqErvYYDFF8zX4er8=;VqG4UEzZtdGBSkjYMX/isg=="
+secured: "AVB6qSlXyO/YOr6QtMQbgFAHKpPjpIw3u03f3qBW3+wCYrUtO7Ajo2ODdxDlFVck26iGFbu1q5am27RPgdAd+N1JP6fzzMo0eer6xvlU3nnYBK/K69kU4DcUYv2Kv0xVsCUdpSoASopuywDkoG8Gcpq9maJCf/0qXSCPWogZPHLulGkOtKqib/pBdjfv9bodsml9V/FhO4ESe3yvrjIT9bb8dVhROVg3vPACTsakP4Lk+WrYOrFiACb8WqqLXHWZmTaByI2FPPmTFSudvO372rqjxFINJ/HGGLriY7U2oqfejXoNimoJY0m1X/m0eavmwMEihPS/JvU0x10rX/joZQmJgnxvDw9F3RIRDWqB01f8VSHgEjAmNF+izIUWY62rYt7P62Of9fHvhY2+fyBFq5A0IiJWVkXBmXDnBfxXCG6f20LxO8qNTSApUDiBxWBAtNzlKgj5u0dQgR/WNZGxuXm/1sVK1O5ccft078F8LPlMEKWiuFzCj4z+A71mTTIf8zy9++UOyiQvtmEs32EJTA==;IG1ek60JDqeqpB67Xvd0HA=="
 ---
 
