@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-goog
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -21,36 +21,26 @@ topics:
   - AI
 
 related:
-  - title: "Monitoreal provides an AI-smart object detection appliance to deliver advanced analytics and real time alerts"
-    excerpt: "The use of AI-computer vision technology to improve situational awareness and provide highly accurate advanced object detection analytics, reducing false alerts and delivering real time"
-    publishedDateTime: 2021-02-05T05:47:00Z
-    webUrl: "https://www.sourcesecurity.com/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
+  - title: "RS21 to acquire Albuquerque health care data analytics firm"
+    excerpt: "The two companies have worked together in the past, previously linking up to develop a platform that would use AI and machine learning to identify trends in health care data."
+    publishedDateTime: 2021-02-09T12:00:00Z
+    webUrl: "https://www.bizjournals.com/albuquerque/news/2021/02/09/rs21-to-acquire-albuquerque-data-analytics-firm.html"
+    ampWebUrl: "https://www.bizjournals.com/albuquerque/news/2021/02/09/rs21-to-acquire-albuquerque-data-analytics-firm.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/albuquerque/news/2021/02/09/rs21-to-acquire-albuquerque-data-analytics-firm.amp.html"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 40
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/safety-in-smart-cities-how-video-surveillance-keeps-security-front-and-centre-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
-    excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
-    publishedDateTime: 2021-02-08T10:21:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/kellton-tech-launches-kelive-a-building-management-solution-underpinned-with-ai-and-smart-analytics-888095974.html"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+  - title: "Twitter adopts Google Data Cloud for machine learning processing"
+    excerpt: "Google Cloud announced a new, multi-year partnership with Twitter, to move the latter's offline analytics, data processing, and machine learning workloads to Google's Data Cloud. This will allow Twitter to analyze data faster and improve the experience for people who use the service,"
+    publishedDateTime: 2021-02-05T09:41:00Z
+    webUrl: "https://www.telecompaper.com/news/twitter-adopts-google-data-cloud-for-machine-learning-processing--1371375"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1276309/Kellton_Tech_Solutions_Logo.jpg?p=facebook"
-        width: 698
-        height: 366
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
   - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
     excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
     publishedDateTime: 2021-02-09T14:09:00Z
@@ -60,6 +50,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Twitter Expands Strategic Partnership with Google Cloud to Improve Data Insights and Enhance Productivity"
+    excerpt: "Google Cloud today announced a new, multi-year, strategic partnership with Twitter (NYSE: TWTR). The company will deepen its initial work with Google and move its offline analytics, data processing, and machine learning workloads to Google’s Data Cloud."
+    publishedDateTime: 2021-02-05T08:17:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-social-media-online-media-data-management-media-07738c1a4d3e89e000eff9d69f85cf48"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Doubles Mileage of Self-Driving Vehicles in 2020"
+    excerpt: "Apple over doubled the mileage of its self-driving vehicles last year, according to new data released by the California DMV. In 2019, Apple's autonomous vehicles drove 7,544 miles. This year that number has jumped to 18,"
+    publishedDateTime: 2021-02-09T21:55:00Z
+    webUrl: "https://www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020"
+    ampWebUrl: "https://www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020/amp"
+    type: article
+    provider:
+      name: iClarified
+      domain: iclarified.com
+    quality: 44
+    images:
+      - url: "https://www.iclarified.com/images/news/79640/79640/79640-640.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Ford boosts investment plan for EVs and self-driving vehicles, reports loss"
     excerpt: "As ford announced a Q4 loss, it said it would increase its investment in electrification to $22 billion through 2025."
     publishedDateTime: 2021-02-05T23:17:00Z
@@ -41,21 +57,7 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Ford posts strong results, promises big bet on electric and self-driving cars"
-    excerpt: "By Chris Isidore, CNN Business Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big"
-    publishedDateTime: 2021-02-05T10:08:00Z
-    webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
-    type: article
-    provider:
-      name: KTEN
-      domain: kten.com
-    quality: 21
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/20336791_G.jpg?lastEditedDate=1612462806000"
-        width: 500
-        height: 333
-        isCached: true
 
-secured: "SU/8PMYzLisPTKmuRI4WloMYG9ItpM8NtkQESmEiRNdqxFIPracCX8b99mYam3i/yqMVID6N1fyCh5s7z7PN3DExK4Uzc/DEHC5nLEsXvG162yweQTpsYZokPLP7duE63HWc/ntqMCFS4MkT1umYfAM2l79aoql/3wYZpY7mY6figpwHjQyrx3V94mpIB6eDkF/2UNmfpJfyqBDl0ik1wyDVgYNNgwy8K6f2s6RXxNuY15PmY0cM9azYIphYdDfPpzrSnCPlhE1tWeQ6gXZaSuwbQDvXmCrZjWmbB3ZhqLZeiLt7UmJrZIAZdoe4Hs7Gy8Mxp2SiU5akLD2oI90cPegzlV+inz37Eg77M1jrCe8=;9ICA91Ohx3ayfrq8SV5JZw=="
+secured: "zifUt1IQRYaf06jlCshXHCvJrQf2Vj/V9VhZLHlLC7etWUkli/cxFWdQ3WP1GMN0t7G5LPBD2v37iBWMA+QBrwFQxzmifCqAR+Pq58WDYstwHPw+iyy6u66CDXgdt+UxYI1S2cslnGP8De4KZaGU7aolIjh67WUpM55DhOQjvBYk1h2STDooqXH4QHrHKV+Wjb8BIlsAwTAV8Z4OFptZeDAPV37kpjvWoVgVB/UF9q0szRifBWIC9mjcqFHUa/6oisthQWqvnsVb67N9Kz7pOBFt8Hr1GQb24/MYB0YiZ+IgZ3rEeSt0eXObpZiPhtQd5AlRFuL/KpDHcQylKT6JP+n0M0CDifLzaqJr+p+R5/PcTiYVBU/ISaCR+1cn0KzFddSgyCylJFNYWCt99s9Kc4nRN4O/QlLawKiMHKeqvCBWhnBTbIJkJ6AF6ioy1CY32/esLUjjamVwlMAu0v4XrG4BbqAQx+o7JB1fmUxngkgulrjtCD6MOj9kdznT2VzBGVWotxNq0DgLDiV5KZbtfw==;ADCAyuOxmmReQvTPiL2elQ=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why AI Can’t Solve Everything"
-    excerpt: "We are now seeing governments pledge support to national AI initiatives and compete in a technological and rhetorical arms race to dominate the burgeoning machine learning sector."
-    publishedDateTime: 2021-02-05T06:20:00Z
-    webUrl: "https://goodmenproject.com/featured-content/why-ai-cant-solve-everything/"
-    type: article
-    provider:
-      name: Good Men Project
-      domain: goodmenproject.com
-    quality: 41
-    images:
-      - url: "https://goodmenproject.com/wp-content/uploads/2021/01/iStock-1206796363-1.jpg"
-        width: 800
-        height: 426
-        isCached: true
 
 secured: "Fc6eIrmlH1D/TP/8U3yT6xT64dwN69oi1b46N51IlWK4pIi8CCOZ+h9E7jsNhFS3rPC3XIciQ3xtPKnvDv7RoXgDiJxZ1jwRktdppYi0/A7RmlYS1VTBLaQdBcbveFDVqj4V6KKn223R8bLWlYcUpVVIiSfdwNMfutrN0C8TmBp2Xs8NMwBD8OnL5WivNrrOtRJTOKQTJWb2MdXgJWjovIIQVMYR6vdb56Ornt4GA3/6N9uFxjok68BkwQwFpx1Nrhv26F2+I01/dk2fb7HyAgO2TzNvnrJo6++SxZJIowoBtxGOXD4dIc+Ltx8UMdCLQWI6p1zdbzXRFgD7Mer/VLLPVZgFEuDnP6NRFr2/9xVjeZ+uLoM1UTpW1FNuhNO6ZSGJkrgOgYvMBSnqL+y8I7GDVa6UuXKl4fgf0sA6jMIlP0fmu/lk6LG77dgi5+Ibw9pjZgYvtw3smmWY3pukI6TTgg8tiIpqixdZ80XxovyYhlLTQtsFA/46SjGXajCCjqakNWKAAweZo8t9FHEPTA==;3nRAwhlBc6Kuqwb32XKGPA=="
 ---

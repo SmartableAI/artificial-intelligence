@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/FIntech-UK-Cambridge-University-scaled-600x498.jpg"
         width: 600
         height: 498
-        isCached: true
-  - title: "What can the world of Fintech expect in 2021?"
-    excerpt: "By Björn Goß, CEO and Co-founder of Stocard Last year was a year like no other as the Covid-19 global pandemic caused us to change how we live and work. The pandemic caused huge challenges for people across the world as we sought to survive in new,"
-    publishedDateTime: 2021-02-05T06:20:00Z
-    webUrl: "https://www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/06/tech-9-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "How Fintech Can Help Streamline Your Company’s Financial Operations"
     excerpt: "Huge.” “Surging.” “Very hot.” Those were just a couple of the terms financial news outlets used to describe the fintech market in 2020. They weren’t just buzzwords. Fintech has seen double-digit growth in transaction numbers and volumes during the pandemic,"

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
+    excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
+    publishedDateTime: 2021-02-09T22:05:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92G0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550913326&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181IR"
+        width: 781
+        height: 545
+        isCached: true
   - title: "Aurora to strikes deal with Toyota, Denso to develop, test self-driving Sienna minivans"
     excerpt: "Aurora has reached a deal with Toyota and auto-parts supplier Denso to develop and test vehicles equipped with the self-driving startup’s technology, beginning with a fleet of Toyota Sienna minivans."
     publishedDateTime: 2021-02-09T17:21:00Z
@@ -62,6 +78,6 @@ related:
         height: 450
         isCached: true
 
-secured: "uMGgq4Px6scduWCqQk+D/kriQ2F4RmTFypq8JHHO3kvZ9i8hpcoH2cf/VrL4TGQ+xbNqyhfCy9l1JP3OwxoPBnqKPtGpRPK7VUDjtqtTpYhn8kQw4yFihLR8WaRQYYi9W2wDVnvZ7qJCO84SHrJD+uLvkPHDFXwC6D3u8+TTRrE/hT7MIdWtWx6EFY5fU6pbYume3vJY8VSBONk0KR+5MpTqjbAk/e/vIoOOO4YmVAgM5ffPWPz9kmM0wWDzhWIGe55GrFS7n0DDNgX6DEPzVxg7cMvPKEn/Z2qBIlO/XvDqOfz7eSlMdFyWEMv6nWyPNtfYneHObWoSQ5DPMD42ZAAZAdJevdiHJVUxaEQuS2M=;4KPNhUKb54iOivuxrwIvCg=="
+secured: "AoIdpni7G38xH+2xth/O1+tbAumm8/6g0CC8mljjGte76N10yz7J+nFNRqOfdoGsiNLiefihKYe4kXYaImpTqLr/mWHQiBnzi1teWoI6AuIJDYVUjiYQbLmzejCEDwMaLsSgKgV/D3qZjCDfnCf3pBDFxxnplxl0SThInhpbICnIhwQY3tVUXFfjnCmycmSddFk73UjFwOa05bw5jbMZEa2wUBl9WJ+Cy7CEwYLbvCcCGx1j3nTbA0ICd52GcCvPHpKinaOwDXTyqCtcNRp5Uhk7kgZkv7/YmjshgyqYerYkzkCyPet2PIOYLCvvKdPDpgxnuZZ3ZwjU9BNILc+9tVR9z5sS3OG5Hkhwb0Xr8H6OchassXK+l8SLc0bAzt87oV1oMuj6yhz+yBjTB9h9wqymBoh1ZmMbBjVaAq8YNDYwVpC4fFYhLtYK7IMwxO5YZrQ6oP4b+BK3jlDBASVq5tD22MRBvPqW62tTJC+N+c7HHHFCFT/wMJhtGQs//x958Ds3Ijsr2sTrsT1UfDGKEA==;JU4A0WQJQ7atV2jPe4xiYw=="
 ---
 

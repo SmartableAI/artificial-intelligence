@@ -3,13 +3,13 @@ category: news
 title: "How AI (not automation) will revolutionize commercial trucking"
 excerpt: "Beset with labor shortages and the whims of markets and new technologies, truckers are getting a boost from digital brains."
 publishedDateTime: 2021-02-09T12:05:00Z
-originalUrl: "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
-webUrl: "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,7 +41,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "The AI revolution is happening now"
+    excerpt: "The AI revolution is advancing faster than anyone anticipated. This year, the market for AI chips reached $5 billion and expected to be $10 billion by 2022. Among the most promising projects are driverless cars,"
+    publishedDateTime: 2021-02-09T21:37:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267789289/the-ai-revolution-is-happening-now"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1612694376629.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
-secured: "C99resCZqkVHcD80bD1E7sMCGPDBrf8obpqEuOD3eHNZQKwX0BMZiEltZq21KgzPerS0aAE09gxZ3JsvPmb9opfNPNjvlxjuocWLUSFLADlIYlr0A2YjFnQOIUxjZ8Q9Ve6CxP2Hn9p22l7j9KF9C6dNgXNGk/xFNT9QGQk96nbb1YEZyB5TaGcJLrGAel8sgFslilDX4iBCFhHyffGvQa2QlwF9JbwKfS3j5YUGxOJMYsP8UmoHn9ateRYeHwMLiqPJarP9QuInV//tTq8yi/cCR0id1VZq26dyujyj0SvNse6+szTOfeXS45j/B90OxFQphPCsHUyBA8mT6XTNKbFlurOTuFxZC0YdNS2Z8beDKloW4bXbV25K8tPbFaARmipiXmafBmRZ6W6p1L9WSzihX6jgaw7SryJBNP0iovpeHj3C0cm6Ol2ulS9v03UY/JKJ3IYCIYg2sseQB4WWWn8UC+boyZSNn6s//OrA6jF2oOlArAl+xxAsYrXLicGLYVpozr52x8Mc9sGJj1Jdqg==;fM+dB+bFUdsP5oISTZpSUA=="
+secured: "j7kU0Dy1y9YkFqVv3u9Aw18vipqXz2f7gofH8JrwTz49JjkJmxjGpg5w7xvi7yuai73zqUfSo983uWeQ5ARbXl+I6ib3iuBdb/OLNK2kcyVeUyWMkQBsxF915i1pUcCHvEsPI1YtrMCYFAKTOV/SQCZul5rvqDsugYtQpXlzQQIqya+vHRAcwfavuiPJtnd0HuGOEXfyd5A0uqxQxIQP62DL76vJjGv7nLE9i5DUrhPu249icl5Ueb5fWWDul73T/+wtkS1Ja2gCGtNXGAdO9is2GaUo5/MxnE+T2ecUnX5L6u4yRyND8tZwxZ+GcWSkb470rPhQKylZHAYXFEF9sx0piHxUqQ7FEFeWKkzdBko=;3F/+eJh3xMdQoVDiac5+xA=="
 ---
 

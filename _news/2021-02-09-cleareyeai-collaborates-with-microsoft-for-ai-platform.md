@@ -1,21 +1,23 @@
 ---
 category: news
 title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
+excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
 publishedDateTime: 2021-02-09T13:01:00Z
-originalUrl: "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html"
-webUrl: "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Natural Language Processing
+  - AI in Finance
   - AI
   - Microsoft AI
 
@@ -81,22 +83,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg"
         width: 600
         height: 440
-        isCached: true
-  - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
-    excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
-    publishedDateTime: 2021-02-05T05:44:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/201122084121FMQX.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
     excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
@@ -206,6 +192,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "Xh5c5mnk3MnhPWEgo8ZcncF/LtFCH9kB8GRcCnmtrUOtj0AohcsmbGa9Dp0ZYgKQveyO3jrIlJFAcE0zOYdBnayi2eL+g8i6XLGqrmKO78exo/DyOZ/fYZA2x1kqIdRH7nt2utcjGjGQCmeRs32rCnQ08uH6ihgVfIIjmgYtFsEY4RMKKOM5G4C1WfSWt55E7N3qFIWbDhUV16YFz7PmF/LhEFH7Ye78UDxWSTD6Zpcpr1kijvHlJZPyQpVXLiHRwfponOAF36UpC7d0JUu3xW7tZKQD5fMu3EikChUXC0FchwKXJqplAFoRQvcFkaNcDsc2kVEGoXT1gAoMADcZSWMHYUfePzdhEIG/UJvFwKc=;aP4F8NDZi27jgawAt2oxeA=="
+secured: "X0oQijzSIE1KaEthFyHmzy2N8dvaMqixW+l+25r1DO1mhnB3pHkzmawF+85K5Got6bhBgpPP5oR/cQTE4GqVBlvU+Ok9fLhDal2REARMJw7EoI85LnMo/0793IQEKCd1/1b4elSu2QhriJ0fLEvsHYjlN2LGTzZoY/1UH2Stw+ToPe8Z/351bKtHlDtNdMPCodthWHZRr376WN+cSdArEUqt+KTjR2B21uNN04D0XKnSVUu+7YhYXp8UV/GMPLqu8z2p9Pf8RDCky4CFG734fASSll7lv30SFzHduGgdF3llux+kOQNr5YPB7P+qxZiz57zas2mbkxMt2FVv2h0QY0GbqSpt2fIF+X88EEbcbgI=;qXL+vjqXIh6iCx15aHW89A=="
 ---
 

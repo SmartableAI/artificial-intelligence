@@ -73,22 +73,6 @@ related:
         width: 600
         height: 498
         isCached: true
-  - title: "What can the world of Fintech expect in 2021?"
-    excerpt: "By Björn Goß, CEO and Co-founder of Stocard Last year was a year like no other as the Covid-19 global pandemic caused us to change how we live and work. The pandemic caused huge challenges for people across the world as we sought to survive in new,"
-    publishedDateTime: 2021-02-05T06:20:00Z
-    webUrl: "https://www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/06/tech-9-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Finch Capital closes €150m fintech fund"
     excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
     publishedDateTime: 2021-02-09T11:07:00Z

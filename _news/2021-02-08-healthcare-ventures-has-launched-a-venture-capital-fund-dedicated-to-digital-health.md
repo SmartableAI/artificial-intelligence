@@ -56,6 +56,34 @@ related:
         width: 320
         height: 320
         isCached: true
+  - title: "Nuance acquires Saykara to build out healthcare AI tools"
+    excerpt: "Nuance Communications has acquired Saykara, a startup that developed an artificial intelligence-powered physician assistant tool. The deal will help Nuance boost its capabilities in healthcare AI."
+    publishedDateTime: 2021-02-09T21:42:00Z
+    webUrl: "https://www.fiercehealthcare.com/practices/nuance-acquires-saykara-to-expand-healthcare-ai-products"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 54
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1612903666/GettyImages-998453918.jpg/GettyImages-998453918.jpg?khEcoran3IgdXbq8BJU0P4MeH2sP.Nbd"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "Nuance buys AI voice assistant startup Saykara"
+    excerpt: "Nuance Communications has acquired artificial-intelligence startup Saykara, Nuance said Monday. Seattle-based Saykara offers a mobile app that uses so-called \"ambient listening\" to automate clinical documentation for physicians—meaning the AI voice assistant \"listens\" in the background during a patient's visit with a physician and automatically documents notes in the electronic health record system."
+    publishedDateTime: 2021-02-09T19:22:00Z
+    webUrl: "https://www.modernhealthcare.com/information-technology/nuance-buys-ai-voice-assistant-startup-saykara"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/doctor_parent_child_tablet_getty_resized_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "tpZ+2Ob31IzBiyS7V9T9jtiqgsYTO61tUNH7RuPlnfGSJMPL3tBABYuzoGyhJqUqMHUuyJnEBUPbDmrf1/QhfiKx6Xzm81G+Djh00YkGVnPkpX6ln35T5CCGw1Mpd5Vh/7JWlZfbYlzzDni/jtRII/vhKLor9u8aCXckyFG4WUSp0G4SgjcGPG+wzTtUi6jeeT+xn/b/pu4hRAG1IeolKwRjKkErd3QMqNE0kLcjtf1RgrDeiN7397PRPHBR3X4BvH4kGnq8C97+TbGRYzQ102SfoTU6B8xDHaH624L+cNn3HaGEzDakU+jPqmf010VnZF2Ku50jZGE6frsGcfuKMrQnuP/lYQ+HO+mKV5MiaY8=;LfbVzYf7nSXd2Edx3ev4Hw=="
 ---

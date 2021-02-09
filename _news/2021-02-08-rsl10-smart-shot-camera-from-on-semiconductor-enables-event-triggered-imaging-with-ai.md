@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI"
-    excerpt: "The RSL10 Smart Shot Camera adds the power of AI-based image recognition to ultra-low-power IoT endpoints, such as surveillance cameras, restricted areas, factory automation, smart agriculture and smart homes."
-    publishedDateTime: 2021-02-09T05:28:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-consumer-products-and-services-camaron-marvel-ochs-computer-components-b6fe5ab1dc844306b7aa02d9a39db105"
+    excerpt: "ON Semiconductor (Nasdaq:ON), driving energy efficient innovations, is pleased to introduce the RSL10 Smart Shot Camera, combining cloud-based AI with"
+    publishedDateTime: 2021-02-08T17:06:00Z
+    webUrl: "https://www.eejournal.com/industry_news/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Electronic Engineering Journal
+      domain: eejournal.com
     quality: 32
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "twnpq5I3qEJu9elNA/zJVyNCCK8gXIelfBkfc0QWJxqeyobJyUXVekvX6yCS5/FAdeluInSP1UNupXnJ/kwnZtw9lt804W+985z9R9/HxR30Zt7XT0OxzbmRVA3SixOmCON6vPkdzDU+wD448gGdEyeHcAfHgn0CjtMqlonrP5KA2rlqxuuGf60xk6uJRZbBLH6UvtuBY7VP19i1cGRh/cXnELoJi2VTTkgpDMJZkpzeYvr/FWWzKeg4y+5nwV0mfKuT42Foaq+G7pJMWJMUSzYZYLr3/mv/nJa455d+Wj8Q7n57wiEZg2BEp+k8J8fyBEfAMUXJzwsk9X1ZOGmvdxzBZXsMWFbbQdq2fqBBcBI=;Wk72DQ9VxwZ8FCwvua1Rng=="

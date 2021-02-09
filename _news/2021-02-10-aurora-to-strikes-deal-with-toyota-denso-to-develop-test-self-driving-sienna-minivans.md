@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/02/09/aurora-to-strikes-deal-with-toyota
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/aurora-to-strikes-deal-with-toyota-denso-to-develop-test-self-driving-sienna-minivans/amp/"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
+    excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
+    publishedDateTime: 2021-02-09T22:05:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92G0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550913326&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181IR"
+        width: 781
+        height: 545
+        isCached: true
   - title: "Toyota partners with startup Aurora to develop self-driving taxis"
     excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
     publishedDateTime: 2021-02-09T16:02:00Z
@@ -62,6 +78,6 @@ related:
         height: 450
         isCached: true
 
-secured: "8UL4muGv2mzKjLT6U5K5lP28gbu/h8itgzcaRHGuh++cCn2sZwe3qQGEcYfkpR3hGwwvMIRH2MOgKaf2g5bCwixtTAM8iy/a7S8TWosbipesdhUoWWx/ohP64G/PAYItSmaL0xIqjbVfTn1SrBtkXuGZpNEDMQVOrjEEUkF66iVTSs3d0NxbC2rs7tpexkjIry9xf4sBmIsREDsPkDBnQvSIG0mIWjVKohr+qliasLdhEOXOk6MVmosWPcZuPHJEezwN2+ktwUdgZuHyrxRFQ8i+1R0Jcoo7wxzvn20POe8/2rakXb3eOTLV0bJ2nRc04GwX4WMtNSn8cgsiYE9U+9+Qk5YX7VsKNkFavd3LmCY=;9JUDYZSGtthlxupeSxfVgQ=="
+secured: "Qz2i+s/mvxMduPA6/qqdj22NMSCkX4Y8Q53mu4+Dr0FhR7HwxxW/XxNn3ImJrQZZKUEM2JogoySbs88Kz2l83BMBMS0p8WCLJ98WN2RwzYPygmL6sOcH/tQzq/oBdK2fzvtrHtzPHhVQs9Wf6nqnwFNiMsUMNmXVhgr1csLd12xXhhk0pYoPNJdiQEWMEKg+L8Kkgr+dlmrEpeNSPmmNcwnrKovKl/LIjE8WS/ApUctozBorFzKqGnvwalqgpHEu8jZntgk+EDqej7lJVCwKG3x/CrwrN8ZqUAydrHILy94Fqzt+/uxrPX6FSWh7U5I/TLZcQjFA2MTeohNANoc7zqg9EFDnonMPu/M1GV3y7QaRSkjwzcPjoCVEORno3AXyoizutTPM4cnat1BFSoNoEA9vEPVBmG6DoEL/+jFjYpwah+F3ysG4xGKPOWJxh4kjZRj/BL5RW8nV8miA6XcIk6JsQJzQkuR4LBBNdXSGMooCnWhD/0ovf/CHIIR9qPuUviZYjc7tLP7Iy4JdBV5VLA==;xqmr5j8YLsNu9YHrGUofkQ=="
 ---
 

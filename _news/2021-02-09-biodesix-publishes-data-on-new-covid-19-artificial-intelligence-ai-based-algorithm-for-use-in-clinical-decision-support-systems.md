@@ -19,6 +19,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Biodesix Publishes Data on New COVID-19 Artificial Intelligence (AI)-Based Algorithm for Use in Clinical Decision Support Systems"
+    excerpt: "Biodesix, Inc. (Nasdaq: BDSX), a leading data-driven diagnostic solutions company with a focus in lung disease, today announced a publication describi"
+    publishedDateTime: 2021-02-09T16:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210209005452/en/Biodesix-Publishes-Data-on-New-COVID-19-Artificial-Intelligence-AI--Based-Algorithm-for-Use-in-Clinical-Decision-Support-Systems"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
+
 secured: "x0xNfJ6nO8vwl8FyVJbIrNj8sw5Cjt/Jp7BsWofiUSC1H5trhBDnDboVgj1HTsOAKHAVaSURhXW6WtIr78ZAhS5cRhOe6vZyRr2/Bd48V9xSWAIjQrVIFQVI1/tVhQim2ySvNzXFcyudOHOjeaHi2Y5MBETqKQYoxuAdvsrWnf4/RFkESeIR+35Wri6wgNSmMfjRCtbMu2+2MKS3AFkaAT0DXCr2kvzwLQYt16bBXjguMh/pF7z3gIW+oNV/mL83n3cQmz/fR310q/WvXI7/+33vgMMZGu1ypM/f45m4tLyVuA+A3tUeIlwRdLVncSTqlL/so7ljjIn9DAnN1w5q7xtQXgKsWlYPD0zLMQSJuF0=;zaWsXVP2KC6R+AYui2GzBg=="
 ---
 

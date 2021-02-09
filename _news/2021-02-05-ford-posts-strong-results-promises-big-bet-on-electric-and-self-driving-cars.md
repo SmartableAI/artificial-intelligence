@@ -7,7 +7,7 @@ originalUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-prom
 webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 500
     height: 333
     isCached: true
-
-related:
-  - title: "Ford boosts investment plan for EVs and self-driving vehicles, reports loss"
-    excerpt: "As ford announced a Q4 loss, it said it would increase its investment in electrification to $22 billion through 2025."
-    publishedDateTime: 2021-02-05T23:17:00Z
-    webUrl: "https://www.autoblog.com/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 42
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/4032x2268+0+403/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/a2049ab0-67be-11eb-9f7f-36d2fa48d0e8"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Report lays out figures on Beijing's self-driving vehicle tests"
-    excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."
-    publishedDateTime: 2021-02-08T04:47:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202102/08/WS6020b097a31024ad0baa80b9.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202102/08/6020c6cda31024adbdb390cc.jpeg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "Xx7oJkCyVEJC4ivJvunFijKySceTbF2Kba00rDrYwFTGhYcTzM4N7IDrL94Xr+79u7Rvv9+ZFVWOh8NE7TkdqYzaEwEPn8HL1yMY6zyIUW0c1uUVoBKOm41gbucHXkfuhqAOpIX8MeNHxU2z2dvuuV+uT4P7XfrbY37Txu4AHYGX8YnOjSGYPO/iwLvoohra4Jhzg8Wh4O+DgLvXIliqr4yHtuDEFbYV67F/HoKSrd3g9gPvi29GHx8RYWZCXh82HPApGsCbXvoOufGpXCnsWBxOxhbPVoq13mqcYP83pr+BS4t0Sz5MkW35A/QMftUqotV+n7cq9oabEue88vuLl8U/6OAiH44g1cPScZSF5igxkrzohtK5PP4C6EoSwUpSP6YOQ5/ULysd6ufMUw1KiNe+bKuiYg9tslTmR37XQI1F03t9yFDrXa2Xr7aJkrZaLFmyNdU4CSp3JsHDqYFsgmh3XwhsyKDTmiPOehAiFoOxIzQPj9LuuBwc1YXctXHQvrujU7FdBw95yx4f8jU0zg==;FKxSZoyd70y+3Z0nfKvt2g=="
 ---

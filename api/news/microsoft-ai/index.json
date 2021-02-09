@@ -96,7 +96,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -1398,21 +1398,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-24-talking-to-the-dead-microsofts-ai-chatbot-idea-feels-straight-out-of-black-mirror.md",
-      "title": "Talking to the dead? Microsoft's AI chatbot idea feels straight out of Black Mirror",
-      "excerpt": "The Rise of Skywalker probably didn’t have this in mind when its opening scroll proclaimed “The dead speak!” In a move that feels more Black Mirror than Star Wars, Microsoft is reportedly working on a",
+      "path": "_news/2021-01-26-voice-and-speech-recognition-software-market-predicted-to-witness-sustainable-evolution-in-future-microsoft-alphabet-sensory.md",
+      "title": "Voice And Speech Recognition Software Market Predicted to Witness Sustainable Evolution in Future | Microsoft, Alphabet, Sensory",
+      "excerpt": "Global Voice And Speech Recognition Software Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns ...",
       "sourceUrl": null,
-      "webUrl": "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people",
-      "originalUrl": "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people",
+      "webUrl": "https://menafn.com/1101493281/Voice-And-Speech-Recognition-Software-Market-Predicted-to-Witness-Sustainable-Evolution-in-Future-Microsoft-Alphabet-Sensory",
+      "originalUrl": "https://menafn.com/1101493281/Voice-And-Speech-Recognition-Software-Market-Predicted-to-Witness-Sustainable-Evolution-in-Future-Microsoft-Alphabet-Sensory",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/apple-macbook-laptop-via-getty-images.jpg?offset-x=0",
-          "width": 1200,
-          "height": 680,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?402257",
+          "width": 437,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1420,13 +1420,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp",
-      "publishedDateTime": "2021-01-23T11:44:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T01:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1436,6 +1436,7 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI",
         "Microsoft AI"
       ]

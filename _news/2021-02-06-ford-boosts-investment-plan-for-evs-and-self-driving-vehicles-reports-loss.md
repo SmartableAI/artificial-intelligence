@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2021/02/05/ford-ev-investment-q4-earnin
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/02/05/ford-ev-investment-q4-earnings-loss/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Doubles Mileage of Self-Driving Vehicles in 2020"
+    excerpt: "Apple over doubled the mileage of its self-driving vehicles last year, according to new data released by the California DMV. In 2019, Apple's autonomous vehicles drove 7,544 miles. This year that number has jumped to 18,"
+    publishedDateTime: 2021-02-09T21:55:00Z
+    webUrl: "https://www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020"
+    ampWebUrl: "https://www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020/amp"
+    type: article
+    provider:
+      name: iClarified
+      domain: iclarified.com
+    quality: 44
+    images:
+      - url: "https://www.iclarified.com/images/news/79640/79640/79640-640.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Report lays out figures on Beijing's self-driving vehicle tests"
     excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."
     publishedDateTime: 2021-02-08T04:47:00Z
@@ -40,20 +56,6 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202102/08/6020c6cda31024adbdb390cc.jpeg"
         width: 720
         height: 480
-        isCached: true
-  - title: "Ford posts strong results, promises big bet on electric and self-driving cars"
-    excerpt: "By Chris Isidore, CNN Business Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big"
-    publishedDateTime: 2021-02-05T10:08:00Z
-    webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
-    type: article
-    provider:
-      name: KTEN
-      domain: kten.com
-    quality: 21
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/20336791_G.jpg?lastEditedDate=1612462806000"
-        width: 500
-        height: 333
         isCached: true
 
 secured: "0QbkY4S5JQNqHx5Miv06R4zc6hmwaUoP1iJtZ+LriPHKOQVRpdE2sHS3gQRY67opmTkVxGp3ZVRRB3lEHpw29AmBg6pAVTPWhEimW/ZRfEuGauKaDQE86Jp0ySBQKJAtk3RVTQpKJl5lOX0HLMQbYmjfnhTqvC+qtDW2bbjqQymbViAGfk9qCArdXRoeC5rG2u5lRznyVwVQVsHZ6JVXfwAsyqWpP3ePrvrb2HiVwWVlxgftZWxjgwC0cTZFhOzVcMLKL+5i7XnpM8QUf0Qw4ky3u05B3mVXoDSwAHNAVue+oad78cvzu2h454Ym3pid8HmmyqFgLzRI1NpxNiK8SPaks/lLZmS32hKvsQK6jwRQok7uNTyiLvibfJ3uPz0/YwnfSMZptUJb0SDJfl/6obYO9rRQ+iK4v1+ZMLh/dye5Eyr4ZsBvQcb1XolRktArAx6xXiLrAYnThiO7o64c+wp4OSja12OikR4syefdoPwQlZQM1NqHe5N+291EMoWtfdeH7DhqNnz8CoFOlS3Jhg==;fe3cV7Qv4/Dtde8i0KcBXA=="

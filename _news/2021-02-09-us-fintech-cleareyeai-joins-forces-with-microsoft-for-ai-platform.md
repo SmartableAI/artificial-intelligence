@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
-    excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
-    publishedDateTime: 2021-02-05T05:44:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/201122084121FMQX.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
     excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
     publishedDateTime: 2021-02-05T16:06:00Z
@@ -118,6 +102,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
+    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
+    publishedDateTime: 2021-02-09T13:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
   - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
     excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-09T12:27:00Z
@@ -174,15 +169,6 @@ related:
         width: 696
         height: 348
         isCached: true
-  - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
-    publishedDateTime: 2021-02-09T13:01:00Z
-    webUrl: "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 36
   - title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
     excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
     publishedDateTime: 2021-02-05T08:05:00Z

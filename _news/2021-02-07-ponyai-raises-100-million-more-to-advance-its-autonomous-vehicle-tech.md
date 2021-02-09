@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/"
 type: article
 quality: 89
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -37,6 +37,22 @@ related:
     webUrl: "https://venturebeat.com/2021/02/08/monte-carlo-raises-25-million-for-ai-that-monitors-data-reliability/"
     ampWebUrl: "https://venturebeat.com/2021/02/08/monte-carlo-raises-25-million-for-ai-that-monitors-data-reliability/amp/"
     cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/monte-carlo-raises-25-million-for-ai-that-monitors-data-reliability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Monte Carlo raises $25 million for AI that monitors data reliability"
+    excerpt: "Data reliability startup Monte Carlo has raised $25 million in venture capital, bringing its total raised to over $40 million."
+    publishedDateTime: 2021-02-09T21:00:00Z
+    webUrl: "https://venturebeat.com/2021/02/09/monte-carlo-raises-25-million-for-ai-that-monitors-data-reliability/"
+    ampWebUrl: "https://venturebeat.com/2021/02/09/monte-carlo-raises-25-million-for-ai-that-monitors-data-reliability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/monte-carlo-raises-25-million-for-ai-that-monitors-data-reliability/amp/"
     type: article
     provider:
       name: VentureBeat

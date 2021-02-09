@@ -28,17 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Service Robotics Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
-    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
-    publishedDateTime: 2021-02-05T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-
 secured: "VGdYBwy54tRdN/0VpUfrF66kYgFEg0HCOvxRpcBa9r+dmyKCooKUo3g63zkULnFPdTaYewsaLqsiB99/FUNBHG8KzLDbfPEP4t47dszJ6g2o1KRier6eO5vY7vnNbV3eOf9UHtqs8U24rW5S57s/LdyqdPo7NDw6sbagXxvj2IX5lW5e5hmQVra2UWpY1gp56yZT7KLfymLgQsrjS+N635qxr3zqEeSHOctAa+NRZOcsrdaLXG5ghd95ybert+8eamIwUdWTACW09lQbAP8I1osAkmyLyfYRONgZDjoKwQldETLEjyZwv+t3oCMdUC1IQaUVlGgKiV7grJtimYZrvRKL9m7d9ZS1ysByfw25rr4=;IcfHoWGD1YYwlOhbJIsQzg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/kellton-tech-launches-
 webUrl: "https://www.prnewswire.com/in/news-releases/kellton-tech-launches-kelive-a-building-management-solution-underpinned-with-ai-and-smart-analytics-888095974.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -22,58 +22,6 @@ images:
     width: 698
     height: 366
     isCached: true
-
-related:
-  - title: "Monitoreal provides an AI-smart object detection appliance to deliver advanced analytics and real time alerts"
-    excerpt: "The use of AI-computer vision technology to improve situational awareness and provide highly accurate advanced object detection analytics, reducing false alerts and delivering real time"
-    publishedDateTime: 2021-02-05T05:47:00Z
-    webUrl: "https://www.sourcesecurity.com/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 40
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/safety-in-smart-cities-how-video-surveillance-keeps-security-front-and-centre-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
-    excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
-    publishedDateTime: 2021-02-07T13:56:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 28
-  - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
-    excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
-    publishedDateTime: 2021-02-09T14:09:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-data-management-11649778f5b74007b565f1e184a749bf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
-    excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
-    publishedDateTime: 2021-02-05T19:52:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2021/02/05/atlanta-partners-with-olea-edge-analytics.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
 
 secured: "qwn9eTOGNj34+rQJl4duTGRIhY8xvDGXWnwk3n5yR0lzVWpadZzqI2VE7fzbS3l/T0RtCLYyAj4pDfdG2nLHond5tarye68cZr1NVogrDDOmqh1VJn7YRrJc1zjkvN59ErxkE6lWakjbRO0zioESCrmXNzYuf1QOx+8uUhwVZUA4iRlQULD4Iypqynkxn9HXmtENyQ7wDEzyqL7H5Q6qieoeSrM0FKtRpH2imjH2Vl8UX8IRdx6q1oSoBFvABq1NCS/05OEBbGgqIx47gsfxzCq8UbDXozbZePmQKm26ZUgbEtSvqK71COaYrV0JEOJh+CS8uWaJHbS+ZsKtLowNOkQnHU7GWcenVeqvUz/fnAk=;n/xbzC/IseQRQzMHvWxonA=="
 ---

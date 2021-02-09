@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Cloud lock-in: Why the microservices cure might be worse than the problem"
-excerpt: "Commentary: Microservices can be a great thing to drive enterprise agility, but it can also create all sorts of costs for those trying to avoid cloud lock-in."
-publishedDateTime: 2021-02-09T19:05:00Z
-originalUrl: "https://www.techrepublic.com/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
-webUrl: "https://www.techrepublic.com/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+excerpt: "That's going to \"lock\" you into BigQuery and AutoML and TensorFlow Enterprise, running GCP's TPUs and/or GPUs. Guess what? If it works, you're not going to fret about lock-in because the customer value generated more than outweighs any concerns that this ..."
+publishedDateTime: 2021-02-09T22:09:00Z
+originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
 type: article
 quality: 73
 heat: 73
@@ -21,7 +21,7 @@ provider:
       height: 50
 
 topics:
-  - Google AI
+  - Machine Learning
   - AI
 
 images:
@@ -30,6 +30,6 @@ images:
     height: 833
     isCached: true
 
-secured: "P9s4vOvZx2SR7RaAymGQI5zU2FPE7yYaCHkY1guJipZn3yF0tMq3FUH34aYSQeZN2bRu4H5weklF+i58Z7g4PBjtEn3xXvLEU34wDbsaguRA2hv83R4LixCp9UTCHDoaaBBq5ywO3T5tLnvBTJQqZfyuBnFDPxQRySvDv3pxYFXSx8wUwA+thYpAxU8q+5L5fwRyTbKQJTqwqxbd7vyi2Kj4xHazXFs7ucMnEVqgSR5tBaQncxZgNzuH6/ZbDLjsw8Igylzak0+HgqUZXRL4NMIvgaFwoyb2+IciJYQHa702dpbrnUMGzxr6cfc9xUorD+WKW5pfuE4PwshDIOMJbASRI1kOSfKWDaVnWNZDcmw=;ikYNuJPaPO8I9YCXtmS4FA=="
+secured: "uN974eqmoo91bZom176LibHkmQMuabV5MBXOWFTmqvhpTsfN55dJxPNbReY+BecSjC68RPqotb206zcG/gaOOof4XeNKIvMRMqh6KAaGkSYQ0R6Lp/etEwGbS6WevpYhPW9Q8kkDydBL3uIUHt5ja1HCMi+h6ceEqnC9EssGLr6+JOcIK5EC54xuiv7ON9PeoJR8qa/NHZd+n3ajcWXaqTqMwsJVySg0O4dcko/JNXYSnWBoF15eJCZvaMoHzB+csUefvijKwVE3vZ83xPG/TztW82Yf3yZoXipkMj3Qhwmad6lRB3UzZlPmI78QfaoOpxXmk+QO2cInDovWUM6ac50ZqkhLhb5GRBdBE82Zg74=;dL7wj4CcXrype3ZuwtRLnw=="
 ---
 
