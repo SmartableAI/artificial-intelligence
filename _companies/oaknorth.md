@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "oaknorth"
   url: "https://twitter.com/oaknorth"
-  followers: 948
+  followers: 950
 
 size: 501-1,000 employees
 yearFounded: 2015
@@ -31,7 +31,7 @@ tags:
   - FinTech
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1354847565154496521/Rb9H_mKK_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1359145285977530373/jQ7bFqWZ_400x400.jpg"
     width: 400
     height: 400
     isCached: true
