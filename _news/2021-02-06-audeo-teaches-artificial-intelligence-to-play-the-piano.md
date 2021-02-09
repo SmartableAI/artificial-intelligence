@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "'Audeo' teaches artificial intelligence to play the piano"
-    excerpt: "A University of Washington team created Audeo, a system that can generate music using only visual cues of someone playing the piano."
-    publishedDateTime: 2021-02-04T21:25:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/uow-ta020421.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "2qO/XLP2JRwGlBbJX6ol5xMR3ZBtN54lF1Yf7fPoVkbr18gG5ucd9hD9/i5jCsjLHViK+eAkknSlp+dXBX1O7DhrqN3ViDn8QKsyHm6KMthooIrOm033yhsOxQqhOEqNaioYG1lzNKhNrX+N3iU+W4Xnk82hpnUYbgKoyFUDp/5ekJKlMS6/VF2q7opTBrVAZaiepFaL55dZATHEEjvGwnLgEsYW5tI0Gnsv8qV9ARjfY67YacjoIir75dsU98YNVbZbYPkI7G50yTGLYmdB1ft75+JDLSqTAC12tHMS3Ce5OviQM7pwcJVS0lxBVeekXNaQQEVS9EwdTuTXxf19CkcSBkgre+Llm9NQHCqB9gY=;GkH2h4lz21GZfufl82XXwg=="
 ---
 

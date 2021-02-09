@@ -29,20 +29,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 54
-  - title: "Google’s AI fund leads $5.4M round for data startup Iteratively"
-    excerpt: "Iteratively Inc. today announced that it has closed a $5.4 million financing round led by Google LLC’s Gradient Ventures fund, which focuses on backing promising artificial intelligence startups. Fika Ventures and PSL Ventures participated in the round as well."
-    publishedDateTime: 2021-02-04T21:44:00Z
-    webUrl: "https://siliconangle.com/2021/02/04/googles-ai-fund-leads-5-4m-round-data-startup-iteratively/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/data.png"
-        width: 820
-        height: 500
-        isCached: true
   - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
     excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
     publishedDateTime: 2021-02-07T13:56:00Z

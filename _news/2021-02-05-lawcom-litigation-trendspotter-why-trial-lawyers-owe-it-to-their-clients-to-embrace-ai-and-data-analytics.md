@@ -54,6 +54,20 @@ related:
         width: 698
         height: 366
         isCached: true
+  - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
+    excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
+    publishedDateTime: 2021-02-09T14:09:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-data-management-11649778f5b74007b565f1e184a749bf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "+oUWp+IdV7+p1VadOa3r1MSiwuTUortfGj+WE0ASKNIqXaKOPYgEM/0zf5/k/sP3OHCTEocP7l7TcOtvHREgINoqqFyrh8GRXcL3FAlZgM3b7tEl9bAuw8fH3SqxNIgur1G46cfMe9uhRkGAyc2trjeqFfa+U7/pTUrxpsnCXLJJ2QlNZToduZMNNJnSGETbv1UPSxWYMjHcvkBhrRsWEoEz+VFpCpye/hucqUmMttBy2UNa2vA8VJzsT3clxEo3XBhGO+SP6skwIW7UjzKvzMjcmeAoetRQwf68NkRRXtK2hF+jqD9eNG6iwi47fSgJ+lmH0foSg6yivtX6AD5j5DLYBy7Uw4IuoF5GsXLCxvM=;kVaz3nEFcSmePnVEGuujrw=="
 ---

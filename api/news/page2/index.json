@@ -2,6 +2,240 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-08-artificial-intelligence-in-the-corporate-boardroom.md",
+      "title": "Artificial Intelligence In The Corporate Boardroom",
+      "excerpt": "We live in a new technological era, one where board members have to be prepared for situations where artificial i (AI) affects and maybe even disrupts their deliberations, with regards to both shareholders and stakeholder groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
+      "originalUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60213a6694af6361fcb98437%2F0x0.jpg%3FcropX1%3D153%26cropX2%3D9341%26cropY1%3D0%26cropY2%3D5168",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/amp/",
+      "publishedDateTime": "2021-02-08T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-machine-learning-creates-realistic-genomes-for-imaginary-humans.md",
+      "title": "Machine Learning Creates Realistic Genomes for Imaginary Humans",
+      "excerpt": "A study uses machine learning to mine existing biobanks and generate chunks of human genomes which do not belong to real humans but have the characteristics of real genomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/genomics/news/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
+      "originalUrl": "https://www.technologynetworks.com/genomics/news/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328.jpg?v=11101615",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/genomics/news/amp/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/genomics/news/amp/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
+      "publishedDateTime": "2021-02-08T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics.md",
+      "title": "4 Funds to Boom as Deep Learning Paves the Way for Robotics",
+      "excerpt": "Artificial intelligence (AI) and machine learning are frequently used to improve robots and make them more capable in industrial use. Industrial robotics systems are now being consolidated with computer vision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
+      "originalUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records.md",
+      "title": "Digital Owl emerges from stealth with AI that analyzes and summarizes medical records",
+      "excerpt": "Digital Owl, a startup developing a platform to extract key information from electronic medical records, has emerged from stealth.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/",
+      "originalUrl": "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400485394-e1518999817265.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/",
+      "publishedDateTime": "2021-02-08T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-artificial-intelligence-ai-in-education-market-size-by-technology-application-geography-analysis-forecast-to-2024.md",
+      "title": "Artificial Intelligence (AI) in Education Market Size by Technology, Application & Geography - Analysis & Forecast to 2024",
+      "excerpt": "Selbyville, Delaware, Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Education market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-artificial-intelligence-ai-in-healthcare-market-will-be-growing-at-a-cagr-of-420-during-the-forecast-2020-to-2028.md",
       "title": "Artificial Intelligence (AI) In Healthcare Market will be growing at a CAGR of 42.0 % during the forecast 2020 to 2028",
       "excerpt": "According to a new market research report published by sheer analytics and insights The Global Artificial intelligence in healthcare market was 6 1 Bn in 2019 and it is expected to reach 170 5 Bn by 2028 It is eventually",
@@ -126,6 +360,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments.md",
+      "title": "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments",
+      "excerpt": "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook",
+          "width": 2251,
+          "height": 1179,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -371,6 +648,40 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-kaggle-publishes-2020-state-of-machine-learning-and-data-science-report.md",
+      "title": "Kaggle Publishes 2020 State of Machine Learning and Data Science Report",
+      "excerpt": "Addison Wesley Professional The Kollected Kode Vicious by George V. Neville-Neil aims to provide thoughtful and pragmatic insight into programming to both experienced and younger software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kaggle.com/kaggle-survey-2020",
+      "originalUrl": "https://www.infoq.com/news/2021/02/kaggle-report-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -873,361 +1184,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence.md",
-      "title": "Amazon DevOps Guru is powered by pre-trained ML models that encode operational excellence",
-      "excerpt": "On December 1, 2020, we announced the preview of Amazon DevOps Guru, a machine learning (ML)-powered service that gives operators of cloud-based applications a simpler way to measure and improve an application’s operational performance and availability to reduce expensive downtime. Amazon DevOps Guru",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/02/ML-2395-3.jpg",
-          "width": 800,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T11:25:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-orwellian-ai-lie-detector-project-challenged-in-eu-court.md",
-      "title": "‘Orwellian’ AI lie detector project challenged in EU court",
-      "excerpt": "A legal challenge was heard today in Europe’s Court of Justice in relation to a controversial EU-funded research project using artificial intelligence for facial ‘lie detection’ with the aim of speeding up immigration checks.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/",
-      "originalUrl": "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/10860059976_9f2f8c8151_k.jpg?w=1024",
-          "width": 1024,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/amp/",
-      "publishedDateTime": "2021-02-05T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-ukuma-taai-newcastle-thunder-sign-ex-huddersfield-giants-back-rower.md",
-      "title": "Ukuma Ta'ai: Newcastle Thunder sign ex-Huddersfield Giants back-rower",
-      "excerpt": "Newcastle Thunder have signed former Huddersfield Giants back-rower Ukuma Ta'ai for the 2021 season. Ta'ai spent seven years at the Giants following his move from New Zealand Warriors in the National Rugby League,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/rugby-league/55956761",
-      "originalUrl": "https://www.bbc.com/sport/rugby-league/55956761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E469/production/_116837485_r045_0646.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/amp/rugby-league/55956761",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/rugby-league/55956761",
-      "publishedDateTime": "2021-02-05T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy.md",
-      "title": "Using Artificial Intelligence to prevent harm caused by immunotherapy",
-      "excerpt": "Until recently, researchers and oncologists had placed lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not. Now, researchers, using artificial intelligence (AI) to analyze simple tissue scans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/02/210204192459.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/02/210204192459.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-anomaly-detection-with-amazon-lookout-for-metrics.md",
-      "title": "Anomaly detection with Amazon Lookout for Metrics",
-      "excerpt": "This is a guest blog post from Quantiphi, an AWS Advanced Consulting Partner that specializes in artificial intelligence, machine learning, and data and analytics solutions. We’ve all heard the saying “time is money,” and that’s especially true for the retail industry. In a highly competitive environment",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-lookout-for-metrics/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-lookout-for-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/LookoutforMetrics.jpg",
-          "width": 800,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-3-no-brainer-stocks-to-buy-in-artificial-intelligence.md",
-      "title": "3 No-Brainer Stocks to Buy in Artificial Intelligence",
-      "excerpt": "In fiction, artificial intelligence is often associated with intelligent androids or dystopian futures. But in reality, the AI market mainly revolves around crunching large amounts of data to make quick decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611243%2Fgettyimages-664246660.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "publishedDateTime": "2021-02-05T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-145and-an-apple-watch.md",
-      "title": "Unlocking iPhones While Wearing a Face Mask: Now Easier, If You Have iOS 14.5—and an Apple Watch",
-      "excerpt": "Apple’s next iOS software updates—iOS 14.5—includes a feature we have all been waiting for: the ability to unlock an iPhone with Face ID while wearing a mask. The catch? You need an Apple Watch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "originalUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-295591/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "publishedDateTime": "2021-02-05T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

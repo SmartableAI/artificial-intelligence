@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Facebook to give UCSB $1.5M to study data centers"
-    excerpt: "Facebook will give $1.5 million to UC Santa Barbara’s Institute for Energy Efficiency to fund research into energy-efficient data centers and artificial intelligence, UCSB announced Feb. 4. The"
-    publishedDateTime: 2021-02-04T22:09:00Z
-    webUrl: "https://www.pacbiztimes.com/2021/02/04/facebook-to-give-ucsb-1-5m-to-study-data-centers/"
-    type: article
-    provider:
-      name: Pacbiztimes.com
-      domain: pacbiztimes.com
-    quality: 24
-    images:
-      - url: "https://www.pacbiztimes.com/wp-content/uploads/2020/09/ucsb-campus-storke-bike-circle-ucen-ocean.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "UC Santa Barbara launches Facebook Data Center Energy Efficiency Lab"
     excerpt: "The UC Santa Barbara Institute for Energy Efficiency will research how to improved data centers with a $1.5m grant from Facebook. The newly formed Facebook Data Center Energy Efficiency Lab will study different approaches to efficiency,"
     publishedDateTime: 2021-02-08T10:55:00Z

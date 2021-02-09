@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-09-new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works.md",
+      "title": "New Jersey Transit Won’t Explain How Its 'Face Mask Detection' AI Works",
+      "excerpt": "In 2016, the New Jersey Transit Corporation quietly ended its short-lived attempt to record and store passengers’ conversations on trains and buses after a backlash from riders and civil liberties groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
+      "originalUrl": "https://www.vice.com/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/60219410d4a8ae0095a2040b/lede/1612817787377-gettyimages-1221537846.jpeg?crop=1xw:0.8425xh;0xw,0.084xh",
+          "width": 4000,
+          "height": 2246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
+      "publishedDateTime": "2021-02-09T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-theator-raises-155-million-to-analyze-surgical-footage-with-computer-vision.md",
+      "title": "Theator raises $15.5 million to analyze surgical footage with computer vision",
+      "excerpt": "Theator, a startup developing a 'surgical intelligence' platform powered by computer vision, has raised $15.5 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/",
+      "publishedDateTime": "2021-02-09T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-9-scary-revelations-from-40-years-of-facial-recognition-research.md",
       "title": "9 Scary Revelations From 40 Years Of Facial Recognition Research",
       "excerpt": "In science fiction, facial recognition technology is a hallmark of a dystopian society. The truth of how it was created, and how it's used today, is just as freaky. In a new study, researchers conduct a historical survey of over 100 data sets used to train facial recognition systems compiled over the last 43 years.",
@@ -210,7 +314,7 @@
       "originalUrl": "https://jaxenter.com/computer-vision-covid-173692.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -550,20 +654,20 @@
     },
     {
       "path": "_news/2021-02-04-computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.md",
-      "title": "'Computer vision syndrome a real problem' amid pandemic, physician says",
-      "excerpt": "\"And that leads to fluctuations in vision and blurred vision and of course the eye strain can cause headaches,\" Dr. Starr said. \"So the computer vision syndrome is a real problem, especially in the post-COVID-19 era.",
+      "title": "‘Computer vision syndrome a real problem’ amid pandemic, physician says",
+      "excerpt": "Computer vision syndrome a real problem’ amid pandemic, physician says. Erica Carbajal - Wednesday, Print | E-mail",
       "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/public-health/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.html",
-      "originalUrl": "https://www.beckershospitalreview.com/public-health/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.html",
+      "webUrl": "https://www.compsmag.com/news/pc/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says/",
+      "originalUrl": "https://www.compsmag.com/news/pc/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png",
-          "width": 800,
-          "height": 600,
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/‘Computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says-1024x768.png",
+          "width": 1024,
+          "height": 768,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -571,13 +675,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T14:44:00-08:00",
+      "ampWebUrl": "https://www.compsmag.com/news/pc/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says/amp/",
+      "publishedDateTime": "2021-02-03T15:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
+        "name": "Windows",
+        "domain": "compsmag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1353,92 +1457,6 @@
       "provider": {
         "name": "galusaustralis.com",
         "domain": "galusaustralis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-facial-recognition-payments-making-a-mark-on-world.md",
-      "title": "Facial recognition payments making a mark on world",
-      "excerpt": "Facial recognition is happening in large parts of China, the US, Spain, Denmark and Nigeria as contactless payments look here to stay",
-      "sourceUrl": null,
-      "webUrl": "https://www.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "originalUrl": "https://www.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theceomagazine.net/wp-content/uploads/2021/01/29095154/facial-recognition.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "cdnAmpWebUrl": "https://amp-theceomagazine-com.cdn.ampproject.org/c/s/amp.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "publishedDateTime": "2021-01-28T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The CEO Magazine",
-        "domain": "theceomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-facial-recognition-now-used-for-border-screenings-at-msp-airport.md",
-      "title": "Facial recognition now used for border screenings at MSP Airport",
-      "excerpt": "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals.",
-      "sourceUrl": null,
-      "webUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "originalUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcxODMyMjYyNjQ2NTcyMzU0/1024px-msp_airport_-_view_from_the_observation_deck_8487245657.jpg",
-          "width": 620,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "cdnAmpWebUrl": "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "publishedDateTime": "2021-01-28T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bring Me The News",
-        "domain": "bringmethenews.com",
         "images": null,
         "publishers": null,
         "authors": null

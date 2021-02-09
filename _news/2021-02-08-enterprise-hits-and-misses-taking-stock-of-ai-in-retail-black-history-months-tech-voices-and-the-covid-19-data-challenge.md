@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Service Robotics Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
+    publishedDateTime: 2021-02-05T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-02-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
   - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
     excerpt: "The “Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
     publishedDateTime: 2021-02-06T08:04:00Z

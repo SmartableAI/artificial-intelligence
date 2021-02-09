@@ -32,20 +32,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 54
-  - title: "Google’s AI fund leads $5.4M round for data startup Iteratively"
-    excerpt: "Iteratively Inc. today announced that it has closed a $5.4 million financing round led by Google LLC’s Gradient Ventures fund, which focuses on backing promising artificial intelligence startups. Fika Ventures and PSL Ventures participated in the round as well."
-    publishedDateTime: 2021-02-04T21:44:00Z
-    webUrl: "https://siliconangle.com/2021/02/04/googles-ai-fund-leads-5-4m-round-data-startup-iteratively/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/data.png"
-        width: 820
-        height: 500
-        isCached: true
   - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
     excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
     publishedDateTime: 2021-02-05T19:52:00Z

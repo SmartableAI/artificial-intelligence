@@ -6,9 +6,9 @@ publishedDateTime: 2021-02-08T11:59:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
 webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
 type: article
-quality: 1
-heat: -1
-published: false
+quality: 101
+heat: 241
+published: true
 
 provider:
   name: PR Newswire
@@ -114,6 +114,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "SD Times news digest: JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
+    excerpt: "JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
+    publishedDateTime: 2021-02-08T15:56:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-jetbrains-2020-annual-report-microsofts-autofill-solution-for-passwords-ibm-and-palantir-team-up-on-cloud-and-ai/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/02/G58mtNnU.png"
+        width: 680
+        height: 425
+        isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid"
     excerpt: "Cloud Environments PR Newswire ARMONK, N.Y. and DEN"
     publishedDateTime: 2021-02-08T12:05:00Z
@@ -155,6 +169,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-09_065434.png"
         width: 1303
         height: 722
+        isCached: true
+  - title: "IBM’s latest cloud move: Linking with big data’s Palantir for hybrid using AI, Red Hat"
+    excerpt: "IBM is hooking up with hot big data firm Palantir Technologies for a new partnership focusing on hybrid cloud utilizing artificial intelligence and Red Hat Open Shift."
+    publishedDateTime: 2021-02-09T13:07:00Z
+    webUrl: "https://www.wraltechwire.com/2021/02/09/ibms-latest-cloud-move-linking-with-big-datas-palantir-for-hybrid-using-ai-red-hat/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 31
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
+        width: 577
+        height: 324
         isCached: true
   - title: "Big Data Analytics Firm Palantir Adopts IBM's Red Hat OpenShift"
     excerpt: "IBM and Palantir Technologies announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business"
@@ -199,6 +227,6 @@ related:
         height: 284
         isCached: true
 
-secured: "exuh7RHVvHlzNUkCESyAZgSyX2b/OfX7gF+VfOiIQ9PngSonILrBkJkOxDCbdplz/gjnU6OVwcUl6wSSpasHJxUHPYsYo3RWRjfLCKnJoEp6cf0yX+A9fGKtP18EeFaEWPC02c4wWX2+G6qAkrKwcsqv/s2L+qt1iXB8pGExYP1JAw8NNFFvigkM2xrLGe23U0p5W9HevpbrPKNI4XSb8gbEY/kCRwc8RhhiKH9m/lDZrUODI2GU06y1JU/CYS1JvDgHsTZ1Q7UAN1kD720MgyXYJhBGnUu1PP+3kKb4IU/Ug+VXf3PTy1iSKDVcIY/DBphYi5wyJUnyidEudiTuMv85mx+/yXQTEKNGECvGblU=;QO9+NkBJg5WvxKRN3Eq3Jw=="
+secured: "oIIbRESqRERSH75ElSI4Uk1xhSuqwR4b6JloaTjOx8tEUB8saGFDoODIfT6P/UzGp7i468BVgfjq1OFexCnpW2kMVSGoOiXGNyT2kuGar0JVuJa+ot1pB26rxyHYwR2j9oAdwQz7zq0ze/6/5i/af6IxumH27rhtUK+raAp2VT2sj0sicog0gX43oeeZBvfRAqNhkXK4ILmnK91PoiVEWVgISakccEPSyn3Y7ej1j15BZKoCCO2JVkjRJ1gfFX9oKk2Am07G5WIYFYZL7OsH8NV+QdKkom/a9u523qV1lWFOP4dGtctR98uaXmI0L3Cw8LIScIRdU3vd9OVaPyUNxRf680rOhYXexEFvdnAEvhaZXIX0kuLILcFk6hlIUt/I;bUkYNa3dqWnMOxObinnEaQ=="
 ---
 

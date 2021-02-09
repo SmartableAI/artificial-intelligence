@@ -25,33 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ford Boosts Investment Plan for EVs and Self Driving Vehicles, Reports Loss"
-    excerpt: "Ford Motor Co on Thursday boosted the amount of money it plans to invest on electric and autonomous vehicles to $29 billion even as it posted a fourth-quarter net loss of $2.8 billion. The No. 2 U.S."
-    publishedDateTime: 2021-02-04T21:24:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
-  - title: "Ford boosts investment in electric and self-driving vehicles to $29 billion over five years,"
-    excerpt: "Ford on Thursday said it will invest $29 billion in electric and autonomous vehicles, even as it posted a fourth-quarter net loss of $2.8 billion."
-    publishedDateTime: 2021-02-04T21:42:00Z
-    webUrl: "https://www.businessinsider.com/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/601c68a119cbd800188afd52?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Ford boosts investment plan for EVs and self-driving vehicles, reports loss"
     excerpt: "As ford announced a Q4 loss, it said it would increase its investment in electrification to $22 billion through 2025."
     publishedDateTime: 2021-02-05T23:17:00Z

@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Computer vision in the fight against the COVID-19 pandemic"
-    excerpt: "Computer vision technology helped Taiwan nip COVID-19 dissemination in the bud. The technology proved efficient for virus spread prevention."
-    publishedDateTime: 2021-02-05T09:01:00Z
-    webUrl: "https://jaxenter.com/computer-vision-covid-173692.html"
+  - title: "New AI tool predicts who’ll die from COVID-19 with 90% accuracy"
+    excerpt: "Scientists say the system could help identify who to prioritize for COVID-19 vaccines and predict respirator demand at hospitals."
+    publishedDateTime: 2021-02-09T13:06:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
     type: article
     provider:
-      name: jaxenter.com
-      domain: jaxenter.com
-    quality: 54
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://jaxenter.com/wp-content/uploads/2021/01/shutterstock_1713989494-scaled.jpg"
-        width: 2560
-        height: 1706
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-09T125345.436-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "AI Can Predict Whether Someone Will Die From COVID-19 With 90 Percent Accuracy"
+    excerpt: "Since the start of the pandemic, various research groups have been working on prediction models using patient history and public health data to assess how"
+    publishedDateTime: 2021-02-08T13:01:00Z
+    webUrl: "https://www.iflscience.com/health-and-medicine/ai-can-predict-whether-someone-will-die-from-covid19-with-90-percent-accuracy/"
+    ampWebUrl: "https://amp.iflscience.com/health-and-medicine/ai-can-predict-whether-someone-will-die-from-covid19-with-90-percent-accuracy/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/health-and-medicine/ai-can-predict-whether-someone-will-die-from-covid19-with-90-percent-accuracy/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 53
+    images:
+      - url: "https://cdn.iflscience.com/images/3845f41d-f105-5d4f-be31-7ef9183db9a2/default-1612782258-icu.jpg"
+        width: 720
+        height: 405
         isCached: true
   - title: "Artificial intelligence can determine whether you'll die from Covid, finds study"
     excerpt: "Using patient data, artificial intelligence can make a 90 per cent accurate assessment of whether a person will die from Covid-19 or not, according to new research at the University of . Body mass index (BMI),"
@@ -54,38 +72,6 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20210206/ARTICLE/210209333/AR/0/AR-210209333.jpg&NCS_modified=20210206200205&MaxH=225&imageVersion=16by9"
         width: 400
         height: 225
-        isCached: true
-  - title: "How digital transformation and AI will lead future development of aviation in post COVID-19 era"
-    excerpt: "Dubai Airshow 2021 will serve as a platform to showcase the role of cutting edge technologies in bolstering the recovery of the aviation"
-    publishedDateTime: 2021-02-09T03:54:00Z
-    webUrl: "https://www.traveldailymedia.com/how-digital-transformation-and-ai-will-lead-future-development-of-aviation-in-post-covid-19-era/"
-    ampWebUrl: "https://www.traveldailymedia.com/how-digital-transformation-and-ai-will-lead-future-development-of-aviation-in-post-covid-19-era/amp/"
-    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/how-digital-transformation-and-ai-will-lead-future-development-of-aviation-in-post-covid-19-era/amp/"
-    type: article
-    provider:
-      name: Travel Daily Media
-      domain: traveldailymedia.com
-    quality: 47
-    images:
-      - url: "https://www.traveldailymedia.com/assets/2021/02/image-1-scaled-e1612842532165.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "New machine-learning algorithm estimates number of COVID-19 cases in the U.S."
-    excerpt: "World health experts have long suspected that the incidence of COVID-19 has been higher than reported. Now, a machine-learning algorithm developed at UT Southwestern estimates that the number of COVID-19 cases in the U."
-    publishedDateTime: 2021-02-09T04:55:00Z
-    webUrl: "https://www.news-medical.net/news/20210208/New-machine-learning-algorithm-estimates-number-of-COVID-19-cases-in-the-US.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210208/New-machine-learning-algorithm-estimates-number-of-COVID-19-cases-in-the-US.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/New-machine-learning-algorithm-estimates-number-of-COVID-19-cases-in-the-US.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 41
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/7/antibody_in_pink_and_red_background_selective_focus_3d_art_-_Mirror-Images_A1_71b890c58eb74b42a6490cfe1b003dce-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
   - title: "New Artificial Intelligence Tool Can Thwart COVID-19 Mutations"
     excerpt: "USC researchers have developed a new method to counter emergent mutations of the coronavirus and hasten vaccine development to stop the pathogen responsible for killing thousands of people and ruining the economy."

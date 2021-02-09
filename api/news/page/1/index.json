@@ -2,6 +2,263 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-09-new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works.md",
+      "title": "New Jersey Transit Won’t Explain How Its 'Face Mask Detection' AI Works",
+      "excerpt": "In 2016, the New Jersey Transit Corporation quietly ended its short-lived attempt to record and store passengers’ conversations on trains and buses after a backlash from riders and civil liberties groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
+      "originalUrl": "https://www.vice.com/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/60219410d4a8ae0095a2040b/lede/1612817787377-gettyimages-1221537846.jpeg?crop=1xw:0.8425xh;0xw,0.084xh",
+          "width": 4000,
+          "height": 2246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
+      "publishedDateTime": "2021-02-09T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-theator-raises-155-million-to-analyze-surgical-footage-with-computer-vision.md",
+      "title": "Theator raises $15.5 million to analyze surgical footage with computer vision",
+      "excerpt": "Theator, a startup developing a 'surgical intelligence' platform powered by computer vision, has raised $15.5 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/",
+      "publishedDateTime": "2021-02-09T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy.md",
+      "title": "New AI tool predicts who’ll die from COVID-19 with 90% accuracy",
+      "excerpt": "Scientists say the system could help identify who to prioritize for COVID-19 vaccines and predict respirator demand at hospitals.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-09T125345.436-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/",
+      "publishedDateTime": "2021-02-09T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-sentinelone-to-acquire-high-speed-logging-startup-scalyr-for-155m.md",
+      "title": "SentinelOne to acquire high-speed logging startup Scalyr for $155M",
+      "excerpt": "SentinelOne, a late-stage security startup that helps customers make sense of security data using AI and machine learning, announced today that it is acquiring Scalyr, the high-speed logging startup for $155 million in stock and cash.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/",
+      "originalUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-998110690.jpg?w=1024",
+          "width": 1024,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/amp/",
+      "publishedDateTime": "2021-02-09T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-symend-raises-43-million-more-for-ai-that-helps-customers-resolve-past-due-bills.md",
+      "title": "Symend raises $43 million more for AI that helps customers resolve past-due bills",
+      "excerpt": "Symend, a platform that taps AI to help customers resolve past-due bills, has raised $43 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/09/symend-raises-43-million-more-for-ai-that-helps-customers-resolve-past-due-bills/",
+      "originalUrl": "https://venturebeat.com/2021/02/09/symend-raises-43-million-more-for-ai-that-helps-customers-resolve-past-due-bills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9cc469b8-554a-45ab-911b-57fb23b7e4c5-e1588710720507.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/09/symend-raises-43-million-more-for-ai-that-helps-customers-resolve-past-due-bills/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/symend-raises-43-million-more-for-ai-that-helps-customers-resolve-past-due-bills/amp/",
+      "publishedDateTime": "2021-02-09T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-artificial-intelligence-for-good-how-ai-is-helping-humanity.md",
       "title": "Artificial Intelligence For Good: How AI Is Helping Humanity",
       "excerpt": "AI empowers organizations, governments and communities to build a high-performing ecosystem, and its profound impact on human lives is solving some of the most critical challenges faced by society.",
@@ -10,7 +267,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -49,7 +306,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -57,8 +315,8 @@
       "title": "How AI (not automation) will revolutionize commercial trucking",
       "excerpt": "Beset with labor shortages and the whims of markets and new technologies, truckers are getting a boost from digital brains.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
+      "webUrl": "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
+      "originalUrl": "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -75,8 +333,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
       "publishedDateTime": "2021-02-09T04:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -112,7 +370,7 @@
       "originalUrl": "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -161,8 +419,8 @@
       "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
       "excerpt": "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030060370",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030060370",
       "featuredContent": null,
       "highlight": null,
       "heat": 75,
@@ -170,8 +428,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030060370",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030060370",
       "publishedDateTime": "2021-02-09T00:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -195,8 +453,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -208,7 +466,7 @@
       "originalUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -251,7 +509,7 @@
       "originalUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -686,6 +944,57 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-softbank-turns-11-billion-profit-helped-by-doordash.md",
+      "title": "SoftBank Turns $11 Billion Profit, Helped by DoorDash",
+      "excerpt": "The Japanese technology investor rode red-hot stock markets to a big quarterly profit, largely on the back of investment gains at its $100 billion Vision Fund and its $10 billion successor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "originalUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-296084/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "publishedDateTime": "2021-02-08T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-alphabet-and-dolby-lead-the-balance-sheet-powerhouses.md",
       "title": "Alphabet And Dolby Lead The Balance Sheet Powerhouses",
       "excerpt": "When choosing a stock to buy don't just look at earnings. Pay attention to a company’s balance sheet (assets versus liabilities). These companies pass six tests of strength.",
@@ -934,291 +1243,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space.md",
-      "title": "IBM, Palantir forge partnership in low-code AI data processing space",
-      "excerpt": "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png",
-          "width": 1170,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
-      "publishedDateTime": "2021-02-08T05:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-artificial-intelligence-in-the-corporate-boardroom.md",
-      "title": "Artificial Intelligence In The Corporate Boardroom",
-      "excerpt": "We live in a new technological era, one where board members have to be prepared for situations where artificial i (AI) affects and maybe even disrupts their deliberations, with regards to both shareholders and stakeholder groups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
-      "originalUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60213a6694af6361fcb98437%2F0x0.jpg%3FcropX1%3D153%26cropX2%3D9341%26cropY1%3D0%26cropY2%3D5168",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/amp/",
-      "publishedDateTime": "2021-02-08T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-machine-learning-creates-realistic-genomes-for-imaginary-humans.md",
-      "title": "Machine Learning Creates Realistic Genomes for Imaginary Humans",
-      "excerpt": "A study uses machine learning to mine existing biobanks and generate chunks of human genomes which do not belong to real humans but have the characteristics of real genomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/genomics/news/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
-      "originalUrl": "https://www.technologynetworks.com/genomics/news/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328.jpg?v=11101615",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/genomics/news/amp/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/genomics/news/amp/machine-learning-creates-realistic-genomes-for-imaginary-humans-345328",
-      "publishedDateTime": "2021-02-08T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics.md",
-      "title": "4 Funds to Boom as Deep Learning Paves the Way for Robotics",
-      "excerpt": "Artificial intelligence (AI) and machine learning are frequently used to improve robots and make them more capable in industrial use. Industrial robotics systems are now being consolidated with computer vision,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
-      "originalUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records.md",
-      "title": "Digital Owl emerges from stealth with AI that analyzes and summarizes medical records",
-      "excerpt": "Digital Owl, a startup developing a platform to extract key information from electronic medical records, has emerged from stealth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/",
-      "originalUrl": "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400485394-e1518999817265.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/",
-      "publishedDateTime": "2021-02-08T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-artificial-intelligence-ai-in-education-market-size-by-technology-application-geography-analysis-forecast-to-2024.md",
-      "title": "Artificial Intelligence (AI) in Education Market Size by Technology, Application & Geography - Analysis & Forecast to 2024",
-      "excerpt": "Selbyville, Delaware, Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Education market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

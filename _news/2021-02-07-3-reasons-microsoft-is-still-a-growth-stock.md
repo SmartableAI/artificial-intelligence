@@ -105,6 +105,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
+    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
+    publishedDateTime: 2021-02-09T13:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
   - title: "GDIT Signs Microsoft Partner Agreement to Deliver Azure to Federal Agencies"
     excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics, has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G), GDIT reported on Thursday. \"Clients across the federal government are rapidly adopting cloud and Software-as-a-Service solutions,"
     publishedDateTime: 2021-02-05T00:00:00Z
@@ -118,20 +129,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2021/01/22/95/47/f5/8c/f7/58/f8/e4/gdit_20200722.png"
         width: 272
         height: 270
-        isCached: true
-  - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
-    excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
-    publishedDateTime: 2021-02-04T22:13:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-says-its-time-to-attack-your-machine-learning-models/d/d-id/1340072"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 41
-    images:
-      - url: "https://img.deusm.com/darkreading/Jan21_DR_cartoon.jpg"
-        width: 800
-        height: 637
         isCached: true
   - title: "Activ Surgical Joins Microsoft for Startups Program"
     excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"

@@ -3,10 +3,10 @@ category: news
 title: "How AI (not automation) will revolutionize commercial trucking"
 excerpt: "Beset with labor shortages and the whims of markets and new technologies, truckers are getting a boost from digital brains."
 publishedDateTime: 2021-02-09T12:05:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
-webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+originalUrl: "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+webUrl: "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 854
     isCached: true
 
-secured: "cE4PYCg4c5SHuim1MjJui0hv48bSwDdVlYNfkcnDxk/ZT0r3PjNHMkscxWlQxeyzZm79K2oldVnWGEgUFtFo0alBsg+UPCsTq5VcKgSJexrsB5pj6WBct2eKHIKwWxuJ7i/rJyN4wvn2dhFHS8hYYbyBEh7av0I6O8VcaRuYsMKoH0ZX52exzTKQ0ReF4beX8+ssgkSjNLR4MbhvAZG/22s0+W3HJ8iuD6P2CFHHfiG2cLUo4gkfCU4ZiA9tAg0PTPxc2QBTKKCR3yVdhpTOh61so9hFAPuNnWnvhu/rM+8CoqRvcBqf2kUn+cQQxnwapa8tRH9RbuOxDfS7YohqO9vHfNULi7SwV1ecoQRbvIs=;LLyFfg17j42BdveCT0HBNg=="
+secured: "d7RVm52n5TF629DnBcpe+95vl/GtpT7DSA5NFt08hW9KKexCHdM/cb6/FpIHICB1cQZp2rzIgAuB88DvZXc0OTeSFqLrF9+pMxmZSboYB6/vVqBP86/CylC26LipXxSBaTvpYlJUpL3LwvkleUGrD24+9Zbhmcwpqb3ug5dqWGO1zZs9KvbwhuwTvFWSSaUbp/vxDO2CWo8wvcvCkqXeOIibm0bwXIkBjn3RJQBhuLrZtx+cCt3dIupWwEDtj9JGWgOT5+3IdmTDqDdSMN3adox+good1ehTWxVe3C1GivjYzKvWN4ofRiK70xUg1V9gY9SKbSQYTrzRXKd0uCm4/iFUZioT8wxt5Nujm1/lofs=;HBtlSXznEEr0Cmo5UO6Qqw=="
 ---
 

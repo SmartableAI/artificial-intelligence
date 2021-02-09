@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forg
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
 type: article
 quality: 87
-heat: 207
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
+    excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
+    publishedDateTime: 2021-02-08T11:59:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 101
+    images:
+      - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
+        width: 2251
+        height: 1179
+        isCached: true
   - title: "Use predictive data insights to make more informed decisions with Palantir for IBM Cloud Pak for Data"
     excerpt: "Every year, the average enterprise makes thousands of critical operational decisions. With rapid digitization, this decision-making is becoming more siloed, distributed and complex. This can have staggering cost implications on the business. Are you confident that you are leveraging all your data to"
     publishedDateTime: 2021-02-08T12:00:21Z
@@ -103,6 +117,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "SD Times news digest: JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
+    excerpt: "JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
+    publishedDateTime: 2021-02-08T15:56:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-jetbrains-2020-annual-report-microsofts-autofill-solution-for-passwords-ibm-and-palantir-team-up-on-cloud-and-ai/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/02/G58mtNnU.png"
+        width: 680
+        height: 425
+        isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid"
     excerpt: "Cloud Environments PR Newswire ARMONK, N.Y. and DEN"
     publishedDateTime: 2021-02-08T12:05:00Z
@@ -145,6 +173,20 @@ related:
         width: 1303
         height: 722
         isCached: true
+  - title: "IBM’s latest cloud move: Linking with big data’s Palantir for hybrid using AI, Red Hat"
+    excerpt: "IBM is hooking up with hot big data firm Palantir Technologies for a new partnership focusing on hybrid cloud utilizing artificial intelligence and Red Hat Open Shift."
+    publishedDateTime: 2021-02-09T13:07:00Z
+    webUrl: "https://www.wraltechwire.com/2021/02/09/ibms-latest-cloud-move-linking-with-big-datas-palantir-for-hybrid-using-ai-red-hat/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 31
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
+        width: 577
+        height: 324
+        isCached: true
   - title: "Big Data Analytics Firm Palantir Adopts IBM's Red Hat OpenShift"
     excerpt: "IBM and Palantir Technologies announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business"
     publishedDateTime: 2021-02-09T02:23:00Z
@@ -174,20 +216,6 @@ related:
         height: 710
         isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-    excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
-    publishedDateTime: 2021-02-08T11:59:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 1
-    images:
-      - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
-        width: 2251
-        height: 1179
-        isCached: true
-  - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
     excerpt: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
     publishedDateTime: 2021-02-08T16:20:00Z
     webUrl: "https://stockhouse.com/news/press-releases/2021/02/08/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai"
@@ -202,6 +230,6 @@ related:
         height: 284
         isCached: true
 
-secured: "GhPrTFudyi7NLpgcx1C8njU0S38q2m945AI9vKRSYgFdBuGgJnyRUWN3WHCp55jiKXeZSPpmYN/7ZCyJQUNzLjJbzaj7AS490+NS1WM0N5ZvfcEqBXX9QubKOVfdc5SE2jRuVDQAJeudKPAfCQN9ozqaIOQF6wx5gih4iZzIC9n6aTlGBv3hz4hdx7+Y8b2TzMcT0S1sD6rrv6UVxp1Fgm78mhmuqJRl3kGuCn9loWKZ0kxJXqmk60KtJUBDBHS1G72VnZpQGeTiX9C9WwDe/+WG0LQqa/Av3EpGmSPRLfCnnaLzhZR0ozvvvyYlU9Voh9sV3PkVdJT7tp5VS2zQLZJ6moxLl3iSOVLJcpDpipo=;58IMxTPkF0TNzIr8S538UQ=="
+secured: "SweUFeNCKCWrZ1kRIxYyVzIaYSQcrjBLyl1/M/GqQIgB0+o5h+ndW+Je52Yl8O0Os29GWlE9kQb4FdIPeh7vG+oC0ia7f+5nIrozvfZaV1YXXUdK+/LSUkkIbGeWnJkTHiV666Ne7+ZKXhq0NrcF09++0PzzInAci+XJexy+20SpUQqKO+UCz/y99mM7V7aC/GMRQxo+K2NsNu5UDIL7hgr90vtmM5ifpEaP20nAWa6EFuHzxNWvqIkKAemefu4ZKkqqUYbm/A1CMI3ek0o78uEaMLvTV1tbOJ+CR5h9MEwEHVyHjwzydkz+qMMPDux53CXskpm1l885jARzJh6dD1mPvIE0Dto+OVpqetQw6T4=;Zw6+NX8g0bEuKGtxqb/IHw=="
 ---
 

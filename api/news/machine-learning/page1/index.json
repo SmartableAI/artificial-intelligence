@@ -254,6 +254,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-07-kaggle-publishes-2020-state-of-machine-learning-and-data-science-report.md",
+      "title": "Kaggle Publishes 2020 State of Machine Learning and Data Science Report",
+      "excerpt": "Addison Wesley Professional The Kollected Kode Vicious by George V. Neville-Neil aims to provide thoughtful and pragmatic insight into programming to both experienced and younger software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kaggle.com/kaggle-survey-2020",
+      "originalUrl": "https://www.infoq.com/news/2021/02/kaggle-report-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-aiops-and-the-quest-for-the-grail.md",
       "title": "AIOps And The Quest For The Grail",
       "excerpt": "For those unfamiliar with the term, AIOps simply means applying machine learning to IT operations functions. But implementing AIOps into a complex environment requires patience and a carefully planned strategy.",
@@ -1344,62 +1378,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises.md",
-      "title": "Amazon’s Unique Approach To AutoML Makes AI Accessible To Enterprises",
-      "excerpt": "AutoML is a technique where customers bring their data and walk away with a model without worrying about the complex workflow involved in training machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60168f6c53f27a98a70bf662%2F0x0.png",
-          "width": 1000,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
-      "publishedDateTime": "2021-01-31T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "IBM AI",
-        "Google AI"
       ]
     }
   ],

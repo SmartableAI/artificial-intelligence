@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/uc-santa-barbara-launch
 webUrl: "https://www.datacenterdynamics.com/en/news/uc-santa-barbara-launches-facebook-data-center-energy-efficiency-lab/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook to give UCSB $1.5M to study data centers"
-    excerpt: "Facebook will give $1.5 million to UC Santa Barbara’s Institute for Energy Efficiency to fund research into energy-efficient data centers and artificial intelligence, UCSB announced Feb. 4. The"
-    publishedDateTime: 2021-02-04T22:09:00Z
-    webUrl: "https://www.pacbiztimes.com/2021/02/04/facebook-to-give-ucsb-1-5m-to-study-data-centers/"
-    type: article
-    provider:
-      name: Pacbiztimes.com
-      domain: pacbiztimes.com
-    quality: 24
-    images:
-      - url: "https://www.pacbiztimes.com/wp-content/uploads/2020/09/ucsb-campus-storke-bike-circle-ucen-ocean.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Facebook Donates $1.5 million to UCSB Institute for Energy Efficiency"
     excerpt: "A new partnership of UC Santa Barbara’s Institute for Energy Efficiency (IEE) and Facebook will accelerate research into energy-efficient data centers and artificial intelligence (AI). Facebook, a leader in developing,"
     publishedDateTime: 2021-02-08T17:57:00Z
