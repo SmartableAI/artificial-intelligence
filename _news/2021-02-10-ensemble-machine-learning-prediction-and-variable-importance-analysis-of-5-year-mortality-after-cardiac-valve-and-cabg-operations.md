@@ -64,6 +64,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Machine Learning Tool Predicts Mortality During Transfers of Care"
+    excerpt: "A new web-based tool developed using machine learning predicts mortality rates based on hospital transfers, leading to better patient outcomes."
+    publishedDateTime: 2021-02-10T18:00:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-mortality-during-transfers-of-care"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality"
     excerpt: "A deep learning model trained on raw pixel data in hundreds of thousands of echocardiographic videos for the prediction of one-year all-cause mortality outperforms clinical scores and improves predictions by cardiologists."
     publishedDateTime: 2021-02-08T17:38:00Z

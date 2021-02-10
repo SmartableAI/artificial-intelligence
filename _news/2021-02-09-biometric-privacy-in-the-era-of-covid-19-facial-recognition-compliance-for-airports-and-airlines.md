@@ -25,247 +25,116 @@ images:
     isCached: true
 
 related:
-  - title: "Bengaluru airport bags 'Voice of the Customer' global recognition"
-    excerpt: "The 'Voice of the Customer' initiative by the Airports Council International World recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice"
-    publishedDateTime: 2021-02-09T07:36:00Z
-    webUrl: "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html"
-    ampWebUrl: "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html"
+  - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Oceania region"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and has appointed Sean Borg to accelerate market growth and support the regional surge in demand for facial recognition technology."
+    publishedDateTime: 2021-02-08T21:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/02/09/600x338/Bangalore_International_Airport_Limited_1612853485727_1612853517355.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Kenyan Airports Get International Recognition"
-    excerpt: "The body recognized KAA for prioritising customers and for the measures put in place during the covid-19 pandemic."
-    publishedDateTime: 2021-02-10T08:30:00Z
-    webUrl: "https://www.kenyans.co.ke/news/62057-kenyan-airports-get-international-recognition"
-    ampWebUrl: "https://www.kenyans.co.ke/news/62057-kenyan-airports-get-international-recognition?amp"
-    cdnAmpWebUrl: "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/62057-kenyan-airports-get-international-recognition?amp"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+  - title: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region"
+    excerpt: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region SYDNEY, Feb. 9, 2021 /"
+    publishedDateTime: 2021-02-09T11:19:00Z
+    webUrl: "https://www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/amp/"
     type: article
     provider:
-      name: Kenyans.co.ke
-      domain: kenyans.co.ke
-    quality: 59
-    images:
-      - url: "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/KAA-HEAD-OFFICE.jpg?itok=_xmDTgue"
-        width: 700
-        height: 350
-        isCached: true
-  - title: "Bengaluru airport achieves ACI World's 'Voice of the Customer' recognition"
-    excerpt: "The Voice of the Customer recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice was heard during the Covid-19 pandemic in 2020."
-    publishedDateTime: 2021-02-09T07:09:00Z
-    webUrl: "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-achieves-aci-world-s-voice-of-the-customer-recognition-101612853663259.html"
-    ampWebUrl: "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-achieves-aci-world-s-voice-of-the-customer-recognition-101612853663259-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-achieves-aci-world-s-voice-of-the-customer-recognition-101612853663259-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: Windows
+      domain: compsmag.com
     quality: 57
     images:
-      - url: "https://images.hindustantimes.com/img/2021/02/09/550x309/international-kempegowda-bengaluru-589713521-bengaluru-international-karnataka_4b078bb4-00da-11eb-ac80-07fcacbe9f14_1612853743356.jpg"
-        width: 549
-        height: 309
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Leading-provider-of-facial-recognition-technology-Corsight-AI-announces-expansion.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Bangaluru airport receives ACI's first-ever 'Voice of the Customer' recognition"
-    excerpt: "Bangalore International Airport Limited’s (BIAL) earned global recognition from the Airports Council International World’s ‘Voice of the Customer’ initiative"
-    publishedDateTime: 2021-02-08T17:12:00Z
-    webUrl: "https://www.thehansindia.com/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
-    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
+  - title: "Does Deep Learning Fuel Loss of Privacy In Facial Recognition Technology?"
+    excerpt: "Although face data is biometric information as unique and identifiable as a fingerprint, it is also casually available in many forms and can thus be passively collected in ways likely to perpetuate severe privacy violations."
+    publishedDateTime: 2021-02-09T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/does-deep-learning-fuel-loss-of-privacy-in-facial-recognition-technology/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 55
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/02/08/1029780-airport.jpg"
-        width: 1000
-        height: 600
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Does-Deep-Learning-Fuel-Loss-of-Privacy-In-Facial-Recognition-Technology.jpg"
+        width: 626
+        height: 417
         isCached: true
-  - title: "GMR Delhi, Hyderabad airports receive ACI World’s ‘Voice of Customer Recognition’"
-    excerpt: "Lauded for efforts to listen to passengers, engage and gather feedback to understand their needs, and ensure customers’ voice was heard during the Covid-19 pandemic"
-    publishedDateTime: 2021-02-09T10:08:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece/amp/"
+  - title: "Meet in4m, An AI Tool That's Unlocking Access To Actionable Financial Market Insights"
+    excerpt: "Benzinga held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10, 2020. In"
+    publishedDateTime: 2021-02-08T12:27:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/02/19504462/meet-in4m-an-ai-tool-thats-unlocking-access-to-actionable-financial-market-insights"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19504462"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19504462"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
     images:
-      - url: "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
+      - url: "https://www.benzinga.com/files/images/story/2012/pexels-photo-2182973.jpeg"
+        width: 2250
+        height: 1500
         isCached: true
-  - title: "KIA bags ‘Voice of the Customer’ global recognition"
-    excerpt: "(BIAL) has secured global recognition for being the ‘Voice of the Customer’, in an initiative by the Airports Council International World, by assessing passengers’ requirements and implementing various measures during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-08T12:47:00Z
-    webUrl: "https://www.thehindu.com/news/national/karnataka/kia-bags-voice-of-the-customer-global-recognition/article33783332.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/karnataka/kia-bags-voice-of-the-customer-global-recognition/article33783332.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/kia-bags-voice-of-the-customer-global-recognition/article33783332.ece/amp/"
+  - title: "Study provides key insight into the neural mechanism of attention selection in primates"
+    excerpt: "This discovery was made possible by applying the research method for the comparison of the brain activity between monkeys and humans to artificial neural networks."
+    publishedDateTime: 2021-02-09T05:10:00Z
+    webUrl: "https://www.news-medical.net/news/20210209/Study-provides-key-insight-into-the-neural-mechanism-of-attention-selection-in-primates.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210209/Study-provides-key-insight-into-the-neural-mechanism-of-attention-selection-in-primates.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210209/Study-provides-key-insight-into-the-neural-mechanism-of-attention-selection-in-primates.aspx"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
+      name: News Medical
+      domain: news-medical.net
+    quality: 36
     images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "Indy Airport Receives Global Recognition"
-    excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International. The recognition is given to airports f"
-    publishedDateTime: 2021-02-08T18:31:00Z
-    webUrl: "https://www.insideindianabusiness.com/story/43309128/indy-airport-receives-global-recognition"
+  - title: "Corsight AI Receives Top Rankings in 2020 Biometric Technology Rally Conducted by the Department of Homeland Security"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that the company received top rankings in the 2020 Biometric Technology Rally, conducted by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T)."
+    publishedDateTime: 2021-02-10T13:34:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-north-america-covid-19-pandemic-lung-disease-coronavirus-pandemic-539f8f23bd1fc25d6bb2d03d46e361c0"
     type: article
     provider:
-      name: INside INdiana Business
-      domain: insideindianabusiness.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
     images:
-      - url: "https://INSIDEINDIANA.images.worldnow.com/images/19069708_G.jpg?lastEditedDate=1577978543000"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "San Francisco Airport recognised by ACI’s ‘Voice of the Customer’"
-    excerpt: "San Francisco International Airport (SFO) has been recognised by Airports Council International (ACI) World for their ‘Voice of the Customer’ initiative, which honours airports that continued to prioritise customers and ensure that their voice was heard during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-09T10:53:00Z
-    webUrl: "https://www.internationalairportreview.com/news/152308/san-francisco-airport-aci-voice-customer/"
-    type: article
-    provider:
-      name: internationalairportreview.com
-      domain: internationalairportreview.com
-    quality: 39
-    images:
-      - url: "https://www.internationalairportreview.com/wp-content/uploads/SFO-1.jpg"
-        width: 750
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
-  - title: "Indianapolis International Airport recognized with Voice of the Customer honor"
-    excerpt: "IND recognized for listening, responding to travelers during pandemic INDIANAPOLIS, IN, 2021-Feb-09 — /Travel PR News/ — The Indianapolis Internation"
-    publishedDateTime: 2021-02-09T03:31:00Z
-    webUrl: "https://travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/"
-    ampWebUrl: "https://travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/amp/"
-    cdnAmpWebUrl: "https://travelprnews-com.cdn.ampproject.org/c/s/travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/amp/"
+  - title: "Information Intelligence and Compliance SaaS Provider RecordPoint Announces New Sales and Product Leadership"
+    excerpt: "RecordPoint, creator of the information governance SaaS Records365™, announced today a team expansion with recent hires for Sales Director, APAC and VP of Product. This leadership reinforces the Company’s vision to bring real intelligence and structure to data everywhere to reduce risk for everyone."
+    publishedDateTime: 2021-02-09T00:50:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-australia-products-and-services-d8fd336dcc794bfe8fbb18b0de04b442"
     type: article
     provider:
-      name: Travel PR News
-      domain: travelprnews.com
-    quality: 35
-  - title: "‘The Voice of the Customer’: ACI recognises airports for consumer engagement during pandemic"
-    excerpt: "The Voice of the Customer’ recognises airports that demonstrated best efforts to understand the changing needs of their customers during the crisis."
-    publishedDateTime: 2021-02-08T09:56:00Z
-    webUrl: "https://www.moodiedavittreport.com/the-voice-of-the-customer-aci-recognises-airports-for-consumer-engagement-during-pandemic/"
-    type: article
-    provider:
-      name: Herve Bouillonnec
-      domain: moodiedavittreport.com
-    quality: 28
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
     images:
-      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
-        width: 280
-        height: 280
-        isCached: true
-  - title: "Mumbai Chhatrapati Shivaji Maharaj Airport achieves ACI ‘The Voice of the Customer’ recognition"
-    excerpt: "The accolade demonstrates the efforts of the airport in gathering passenger feedback to better understand their needs and preferences during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-10T12:07:00Z
-    webUrl: "https://www.moodiedavittreport.com/mumbai-chhatrapati-shivaji-maharaj-airport-achieves-aci-the-voice-of-the-customer-recognition/"
-    type: article
-    provider:
-      name: Herve Bouillonnec
-      domain: moodiedavittreport.com
-    quality: 27
-    images:
-      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
-        width: 280
-        height: 280
-        isCached: true
-  - title: "Karnataka: Bangalore International Airport Limited Bags ACI World’s ‘Voice Of The Customer’ Award"
-    excerpt: "The Bengaluru International Airport Limited launched various campaigns #WeAreHereForYou umbrella for consumers"
-    publishedDateTime: 2021-02-09T08:50:00Z
-    webUrl: "https://swarajyamag.com/insta/karnataka-bangalore-international-airport-limited-bags-aci-worlds-voice-of-the-customer-award"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 26
-    images:
-      - url: "https://images.assettype.com/swarajya%2F2019-04%2F63a3b75a-e9f3-4119-b25c-05acae467a14%2Fkempegowda_international_airport_245024_640.jpg?rect=0%2C42%2C602%2C316&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ACI World unveils ‘Voice of the Customer’ recognition"
-    excerpt: "The recognition rewards airports that have worked hard to better understand their customers during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-09T10:37:00Z
-    webUrl: "https://www.internationalairportreview.com/news/152286/aci-world-voice-customer-recognition/"
-    type: article
-    provider:
-      name: internationalairportreview.com
-      domain: internationalairportreview.com
-    quality: 24
-    images:
-      - url: "https://www.internationalairportreview.com/wp-content/uploads/Customer-1.jpg"
-        width: 750
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
-  - title: "ACI World launches 'Voice of the Customer' recognition for airports"
-    excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."
-    publishedDateTime: 2021-02-09T05:40:00Z
-    webUrl: "https://centreforaviation.com/news/aci-world-launches-voice-of-the-customer-recognition-for-airports-1051603"
+  - title: "Corsight AI receives top rankings in 2020 Biometric Technology rally conducted by DHS"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that the company received top rankings in the 2020 Biometric Technology Rally, conducted by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T)."
+    publishedDateTime: 2021-02-10T18:20:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/press-release/21209718/corsight-corsight-ai-receives-top-rankings-in-2020-biometric-technology-rally-conducted-by-dhs"
     type: article
     provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 19
-  - title: "Indy Airport Selected for Voice of Customer Honor"
-    excerpt: "The Indianapolis International Airport (IND) is among a select group of airports worldwide to be recently recognized with a Voice of the Customer honor, citing the Indy airport’s continued commitment and diligence in actively listening and responding to travelers’ needs during the global pandemic."
-    publishedDateTime: 2021-02-08T20:17:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21209308/indianapolis-airport-authority-indy-airport-selected-for-voice-of-customer-honor"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 19
-  - title: "Bangalore Kempegowda International achieves ACI ‘The Voice of the Customer’ recognition"
-    excerpt: "The airport has received global recognition for ensuring passengers’ requirements were assessed and implemented during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-08T20:39:00Z
-    webUrl: "https://www.moodiedavittreport.com/bangalore-kempegowda-international-achieves-aci-the-voice-of-the-customer-recognition/"
-    type: article
-    provider:
-      name: Herve Bouillonnec
-      domain: moodiedavittreport.com
-    quality: 16
-    images:
-      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
-        width: 280
-        height: 280
-        isCached: true
-  - title: "Mumbai, Delhi and Hyderabad airports receive 'Voice of the Customer' Recognition from ACI World"
-    excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."
-    publishedDateTime: 2021-02-10T05:48:00Z
-    webUrl: "https://centreforaviation.com/news/mumbai-delhi-and-hyderabad-airports-receive-voice-of-the-customer-recognition-from-aci-world-1052023"
-    type: article
-    provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 7
-  - title: "ACI World Launches Voice of the Customer Recognition"
-    excerpt: "World revealed those airports that have continued to prioritize listening and engaging with customers during the COVID-19 pandemic. \"The Voice of the Customer\" recognition is for airports that demonstrated significant efforts in gathering passenger feedback through the Airport Service Quality (ASQ) program to help them better understand their customers during the pandemic."
-    publishedDateTime: 2021-02-08T21:16:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21209312/airports-council-international-aciworld-aci-world-launches-voice-of-the-customer-recognition"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 4
+      name: Security
+      domain: securityinfowatch.com
+    quality: 12
 
 secured: "G9abWLlFa6bF4HaC8BykUglVLhxa1Z6b4Dba9OoWKI0Y6bZIRngi6T6fDF6Jx1SDWqVBz3/JTYGUKNruhFwrDM4TspipYSYIfVf/r0Lnl+lLJFi5xeZtDVb2DH74vNcD/MZ3WSeQWSSM6dfwPOnuv5yN/5sHMHizTCGAfjnqU1jQyTw/G1PlzpzPQC5UzzvHZFc9SL1a42Xhort8PrENHwQCNZ3nnaHiqglf6/rosOFzUUNB7tExpIldgjhjENdTgzoddQJxrluUXTX1a4kLkiUg2lt58EYRHwtUAqNs8JTPur7SX1aFCFRmAd3kj8XI0bhKV+hizhcznStYX11Hr94mVLZ6FCTlo5/1xuD9nqAea7AzBJwFrYRdv7quHtBm4Areb6CoEfi++AONXBYsiZ8uar6AOTAG2G8Cw5657+GUC0vRz7RA+aWFOaPLsaHkdnWi6wuTwFN/fHR7d+bcx7cj8xe7dANvcFdxYesDWgYEm9hY1IIHKjuWhH5DtbH/t32O4ES7Ogl6WV8HMjbM/w==;qXIZQ3SsnaRht/7xLwaBhw=="
 ---

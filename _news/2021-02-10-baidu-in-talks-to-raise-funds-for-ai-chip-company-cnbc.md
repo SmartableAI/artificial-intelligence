@@ -31,7 +31,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425"
         width: 3000
@@ -47,7 +47,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 84
+    quality: 86
   - title: "Baidu in negotiations to raise funds to start AI chip company"
     excerpt: "Chinese tech giant Baidu is in talks to raise money to start its own standalone artificial intelligence semiconductor chip company."
     publishedDateTime: 2021-02-10T12:05:00Z

@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple’s self-driving cars will have doubled the number of test kilometers on the road by 2020"
+    excerpt: "Apple's self-driving cars will have doubled the number of test kilometers on the road by 2020 Apple has more than doubled the number of"
+    publishedDateTime: 2021-02-10T15:26:00Z
+    webUrl: "https://www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 33
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Apples-self-driving-cars-will-have-doubled-the-number-of-test.jpg"
+        width: 870
+        height: 485
+        isCached: true
   - title: "Self-driving car to be tested on Technology Parkway"
     excerpt: "Peachtree Corners could become the birthplace of new self-driving technology used in cars sold to the public in the near future."
     publishedDateTime: 2021-02-08T18:05:00Z

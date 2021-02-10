@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple Self-Driving Test Vehicles Doubled Mileage in 2020"
-    excerpt: "The California DMV today released new disengagement and mileage reports for self-driving vehicles that are being tested in the state, giving us"
-    publishedDateTime: 2021-02-09T20:24:00Z
-    webUrl: "https://www.macrumors.com/2021/02/09/apple-self-driving-cars-doubled-mileage-2020/"
-    ampWebUrl: "https://www.macrumors.com/2021/02/09/apple-self-driving-cars-doubled-mileage-2020/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/09/apple-self-driving-cars-doubled-mileage-2020/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 44
-    images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
 
 secured: "4gTQ3yUsTv9fmjypaPZOFPHFlBM+CEOF0tceqa5oO38Ny697mKTWJXE+5MWr1bzd4jvEO47+5ve3H6lAaOmu7Q9+F71P6+zNxlSFmNFOlhBrEJUVHZ6AFHAu8PuxQN0c/ssyOBe/Fysw/O/dbm9sX1GlZnLReYcls4yGxHVSmDkFD1sarGuyM+2QJGzArtZIs9OOmzqz5PIQki0uhmhGsfw4UB2QoXSuJDkRz55mUjLFInYytB23P6rfuNsBKLB6FpVcyHK3lUZA+itOkbTWYSB5wdroi53RwV0L8H6AwjJTurKC8Lud+uQQuXUYxEM6STXWRtI1qK0Qsqt3lAETTz1YQgumPxxoz2DTNkrznlA=;ZRykOrDoRh7ShCwJkNeNrw=="
 ---

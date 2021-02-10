@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "NeuReality Out of Stealth with $8M Seed for AI Compute Infrastructure"
+    excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges from stealth today with $8M seed from Cardumen Capital, OurCrowd and Varana Capital to fuel the growth of real-life AI applications running at scale."
+    publishedDateTime: 2021-02-10T17:18:00Z
+    webUrl: "https://insidehpc.com/2021/02/neureality-out-of-stealth-with-8m-seed-for-ai-compute-infrastructure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
   - title: "Israeli Startup NeuReality Raises $8M For AI-As-A-Service Infrastructure"
     excerpt: "Israeli startup NeuReality, the developer of high-performance AI compute for cloud data centers and edge nodes, emerged from stealth mode on Wednesday, announcing a $8 million seed round. Investors include Cardumen Capital,"
     publishedDateTime: 2021-02-10T13:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210208/Machine-learning-can-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Machine Learning Tool Predicts Mortality During Transfers of Care"
+    excerpt: "A new web-based tool developed using machine learning predicts mortality rates based on hospital transfers, leading to better patient outcomes."
+    publishedDateTime: 2021-02-10T18:00:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-mortality-during-transfers-of-care"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "Ensemble machine learning prediction and variable importance analysis of 5-year mortality after cardiac valve and CABG operations"
     excerpt: "Despite having a similar post-operative complication profile, cardiac valve operations are associated with a higher mortality rate compared to coronary artery bypass grafting (CABG) operations. For long-term mortality,"

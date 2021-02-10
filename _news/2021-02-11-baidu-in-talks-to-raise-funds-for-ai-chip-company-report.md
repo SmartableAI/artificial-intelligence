@@ -35,29 +35,29 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425"
         width: 3000
         height: 1966
         isCached: true
-  - title: "Baidu in talks to raise funds for AI chip company - CNBC"
-    excerpt: "China's search engine giant Baidu Inc BIDU.O is in talks to raise cash for an artificial intelligence semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter. Venture capital firms GGV and IDG Capital are in discussions with Baidu,"
-    publishedDateTime: 2021-02-10T10:23:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Chinese Search Giant Baidu Looks to Launch AI Chip Company"
     excerpt: "China's search engine giant Baidu (NASDAQ: BIDU) is reportedly in talks to raise cash for the creation of a stand-alone artificial intelligence (AI) semiconductor company. CNBC reports GGV and IDG Capital,"
     publishedDateTime: 2021-02-10T16:00:00Z
     webUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10"
     ampWebUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
+  - title: "Baidu in talks to raise funds for AI chip company - CNBC"
+    excerpt: "China's search engine giant Baidu Inc BIDU.O is in talks to raise cash for an artificial intelligence semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter. Venture capital firms GGV and IDG Capital are in discussions with Baidu,"
+    publishedDateTime: 2021-02-10T10:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
     type: article
     provider:
       name: Nasdaq
@@ -80,6 +80,6 @@ related:
         height: 533
         isCached: true
 
-secured: "fns+TimSrJcWAxBVbPjUGyGjaZ5cgnhX9VjecZCijy9Prm/LZJlPxfGKP38IxAxGA5Xn3h1Vj/Y4nIXzsoeg9nC6yN15utD4MBCKVrb+WkAOGjV/raokw8ynypSJ8OuHpWtgf1Qrgu6iZA7AC9D//hFAY2/Z+XnzT//lJIFoCzTGO1X/132XBu7Owlif1wA5A8Xcgfu5/KhJsEo819lU0GWjfmklN3nZLJwtLkFCxmo5rHnWCcXrf76l80iF/3hhhU16weAZg2LntWn8ld8p44wxbWko1SYj9GOUkoeR2MnPOofF54UyLxvQVoJVkSbEl0PaS8IgkbJrtNmWu7ahAfK8f6BqKCswDT8FfBRb+g8=;w9f0c09oOUmb4wpdBvIFVg=="
+secured: "Sc+qal3d39xbH29MtBqpmF9T5LgWJA9Zb7N/VQLgubj7Ukb+r6XsAgviP86gRQuVyqWzf7v4f0Nhb+eaKykYX+hT8w/xrnnGqCpXPgG6sS9kYbI4P0ZE5iTt/L1MmqNSwIiZ2N00dDDphdhhLxAF0CkAxolJ4nPonzNoviZeLn3UeLXXLgRUFZSzjX/BsR7alOaj1Rsl7+f52kwEern9hJFW//i3Y2e8mOy021H8JcjIFHO29v4TBGK0S1isQrveN8KK6Wjxb9QDwqXjHPnUJWR2FS5b1mZku4+sAiJU42JhZ7qo2//oEBxmrHLO1jr4xbwAp5tzP20l9cF+1WIM3Mr+PdFcnsBFZX697Xox2aHLW6QDu1gxN/Kk1ms7jkMRnz5bbZdzEcrtVtpQT57bzO4uXltqRnKp/1aOjdxHFmzhtRN7TpiBtIGAizZuF/JTUQvdtDoTSm55IQx0XfIQXrivSez12H4u/qDDjr4dbf1qRQskrn7CjRwKf6+85H+Smt4K651Ifke3KfXeeob4BA==;UmShv1SDXEJCqAI11RmNIA=="
 ---
 

@@ -12,10 +12,10 @@ provider:
   domain: wfmz.com
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
   - Machine Learning
+  - TensorFlow
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JpJN89fmUFY++3wyBFaO35/FW8P7YStvVVrxsMUEG7uV/s1nA/lZQBuRC0xDsJSiHVSWuKELsX+JINH91eEKJu9L/+YquVYj3IJKe9Qz1YIJbPkSNCoE6EKot4lMub86k07meSeELgswHN8FDm6IIU8JccrTLyjSwxpn1XtGzNXrqb5nlKh18aTZGukVa1mzAe4F+rCybLL6ncq8tSR6/w8FxVlf98KodP4lO+5uI3fIv/mLWEIA57mvbk+YoVsUsc1r7GMo80DVPctp6Iv7lGhSuBZVoJN4d6ExrZe2qDzFqP+GqW9eeJS+BwMG2ZR4BOfH+W28i6CFi5lAMcRdMCHrdtMHn6Jk+NZChfd3Zp8=;7ViA9OQnneoB/jATj3wfRg=="
+secured: "Xjk83wo1rmK4rbCZoTTog0c4prezh01d2jn8a310OBF0FmRzkmyft0sPCPJYnENHY0n/8k91eQFyjobMHcWjfIyVoNWe814EK+mS5dlk+5cVBzz96tvHBMNUg0rWhzPPLecgGce94YsFts3gpkwYhmWpdW8+YuhJ6bojWblM0ruFEhye05Wk46h4nfDueO+Wra3iE75RfdxIA5HUhzFS1xo5iwLqEKTaU08VVec8snQxkLkzkhw1AreHaG6PMVuxLjVBZKvOP5/irdEuhDt/WfZ76/j7XDSlwtrD6skZgwmNzaT6cCkXXpnapFUC4eJs6RuRBFMv8xQLX03rVDFQOdpGHIdh6FxVWNyaRQ+4Yh8=;4TTpginHaA4p2YGL9wCEuA=="
 ---
 

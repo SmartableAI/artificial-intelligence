@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple’s self-driving cars will have doubled the number of test kilometers on the road by 2020"
+    excerpt: "Apple's self-driving cars will have doubled the number of test kilometers on the road by 2020 Apple has more than doubled the number of"
+    publishedDateTime: 2021-02-10T15:26:00Z
+    webUrl: "https://www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 33
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Apples-self-driving-cars-will-have-doubled-the-number-of-test.jpg"
+        width: 870
+        height: 485
+        isCached: true
   - title: "Will it be self-driving car, “electric car?"
     excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"
     publishedDateTime: 2021-02-06T17:14:00Z

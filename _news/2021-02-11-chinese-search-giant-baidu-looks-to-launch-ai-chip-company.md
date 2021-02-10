@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-lau
 ampWebUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 related:
   - title: "Baidu in talks to raise money for a stand-alone A.I. chip company"
@@ -31,7 +32,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425"
         width: 3000

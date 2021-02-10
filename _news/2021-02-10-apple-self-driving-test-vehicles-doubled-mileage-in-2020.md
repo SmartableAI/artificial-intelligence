@@ -27,67 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car firms reveal 2020 testing data: Cruise and Waymo improve, Apple stalls"
-    excerpt: "The California Department of Motor Vehicles reveals how companies operating autonomous cars in the state are progressing."
-    publishedDateTime: 2021-02-10T14:55:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
+  - title: "Volvo Aims to Ease the Queasiness of Riding in Self-Driving Vehicles"
+    excerpt: "The car maker is testing audio cues to prevent motion sickness in autonomous vehicles."
+    publishedDateTime: 2021-02-10T14:29:00Z
+    webUrl: "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951"
+    ampWebUrl: "https://www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 81
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
     images:
-      - url: "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.wsj.net/im-297352/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "10 rising stars at self-driving companies like Waymo, Aurora, and Cruise share their best career advice"
-    excerpt: "Insider asked bright young stars from Waymo, Aurora, and Nuro for their advice on starting your career in the fast lane."
-    publishedDateTime: 2021-02-06T07:04:00Z
-    webUrl: "https://www.businessinsider.com/career-tips-advice-rising-stars-waymo-aurora-nuro-yandex-2021-2"
+  - title: "Apple Doubles Mileage of Self-Driving Vehicles in 2020"
+    excerpt: "Apple over doubled the mileage of its self-driving vehicles last year, according to new data released by the California DMV. In 2019, Apple's autonomous vehicles drove 7,544 miles. This year that number has jumped to 18,"
+    publishedDateTime: 2021-02-09T21:55:00Z
+    webUrl: "https://www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020"
+    ampWebUrl: "https://www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Self-driving car for testing Technology Parkway"
-    excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
-    publishedDateTime: 2021-02-08T20:18:00Z
-    webUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
+      name: iClarified
+      domain: iclarified.com
     quality: 44
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.iclarified.com/images/news/79640/79640/79640-640.jpg"
+        width: 640
+        height: 400
         isCached: true
-  - title: "Apple doubled California self-driving test miles in 2020, disengagement rate improves"
-    excerpt: "Each year, the California Department of Motor Vehicles publishes detailed information from the companies testing self-driving cars in the state. This year’s data has just been made public, and it reveals that Apple completed 18,"
-    publishedDateTime: 2021-02-09T20:47:00Z
-    webUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/"
-    ampWebUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
+  - title: "Report lays out figures on Beijing's self-driving vehicle tests"
+    excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."
+    publishedDateTime: 2021-02-08T04:47:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202102/08/WS6020b097a31024ad0baa80b9.html"
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 37
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
     images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "http://img2.chinadaily.com.cn/images/202102/08/6020c6cda31024adbdb390cc.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Apple has doubled self-driving test miles of California in 2020"
+    excerpt: "Every year the California Department of Motor Vehicles posts detailed information about the companies testing self-driving cars in the state. This year's data"
+    publishedDateTime: 2021-02-10T15:41:00Z
+    webUrl: "https://www.ithinkdiff.com/apple-self-driving-test-miles-doubled-2020/"
+    type: article
+    provider:
+      name: iThinkDifferent
+      domain: ithinkdiff.com
+    quality: 24
+    images:
+      - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2020/12/Apple-car-e1610388350722.jpeg"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
 
 secured: "6Gdlum5/aDQnFrRY69Dmyx9YZ34KoSOYYM4ZBVhOSIxsd1xMnEUU2+knkxQR+V4w7e2WBEj92CZjpKQ/B5rAFmi7nLBiJpXbsonj89RmGhwkam7Ng1lPc+hhrJrLdYIC0MZ34jA8FMRwylIXYplfb9dVhlwjQD4r3UWVoBFnZMKLldsE6Kgm8A0WYsO32FS8udlgSuIYytG+uh6vc55QwfE5qp1Mu66LuLkL5POPmP0czwWDz1zRiXNnf3wbyWcyJVClQ7Gj1+WtedGpn8H2cC2A44uX7fSOO9xxR4so9RfQJka4o031Qdl4N6tj9Jb9ZMZjDQCPqXgbvGkQzj8mZbZXgOkQV39gvIpqarpGxK0=;yE/SFgsd0XkNmZ4FT9Ojug=="

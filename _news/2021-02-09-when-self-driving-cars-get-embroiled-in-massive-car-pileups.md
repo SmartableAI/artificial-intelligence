@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Apple’s self-driving cars will have doubled the number of test kilometers on the road by 2020"
+    excerpt: "Apple's self-driving cars will have doubled the number of test kilometers on the road by 2020 Apple has more than doubled the number of"
+    publishedDateTime: 2021-02-10T15:26:00Z
+    webUrl: "https://www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 33
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Apples-self-driving-cars-will-have-doubled-the-number-of-test.jpg"
+        width: 870
+        height: 485
         isCached: true
   - title: "Will it be self-driving car, “electric car?"
     excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"

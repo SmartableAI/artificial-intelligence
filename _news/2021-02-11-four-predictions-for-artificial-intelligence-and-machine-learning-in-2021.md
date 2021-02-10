@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for
 ampWebUrl: "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/"
 type: article
-quality: 103
-heat: 143
+quality: 105
+heat: 145
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837"
@@ -89,6 +90,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YrS8c2d87cZY9niAA53yTP1ENk8HTpWXiIWvBz02AQL0+MdhwLl3jRLEedaJ3uX7NYPE2hlRTPHOiF5m1e80nc5rC1yjEeoWLRASF7xUNgNRbCnm6ScF4Dpgej4I8odIuL8IhlTuj+ly2x7yCR/4L2PXfIT0OilPNbhK3VCtEBV6KftOLFukjrksqAOFaQGHRQQs0F1ldW4MdOdMXUVINdE4o3H0uzV9WgBvv1AkxAgqp/estnEe46BLFfKGtuLEf+e+tz8Yl/gDaYscDqRpCmyNCjK7wr9SFvg4moyA9DmTrirkP+A5fwvCmHCqlGj98l8k7esNeHrITOlifcL/2/74tUg9f2uUbGHPF1h7gLk=;OhAClOckt0DUYQOXcwTazA=="
+secured: "/U8XhWabnJxuVOjB0HJNMT4FICRz/sIzySjHsXvNh0NX2oGdo+Ni2xConWfkPBcqZ+rkoi+5dYnS+pAQ30AkxBcrMdSs2eqbcqIqJLCdg9/T30uTyIsJIX2Gv5C+4EEdd4rRBXFjZ8coBzDlVUJRGn/v/2vBDLZ7PvweHo+IUu3TmIvcrRHEUh0CxsqkRuRF8AiY8xRNQ1Ihkm/cHEeIOB7fGuybr52GYicvOUk82IUqKsAwdVCHnWAq1N1FelX6BU3r+YypuSita1M/VYLkAegmEFJVVXXXdSDW5IXvJTi1IOp4NRDSYrynlTzzQHZtTdxmeOoqx2fXrpYq1gLMMBlFIzfvqrvpw6lbP4ZLNgrUNIY00pZNZxqYz6vaK770+RIOSz1IrptJfRdSus+F4IPZguxVXQZ4HVKHrHkkc901SIvcs8OCUGW/Mu2guBh6ZT1JBDIctGcjlyxKHi/b7AVujm4dIhBqpoRHnG9SGTwZvepkZK3i2qWsmhuUommosifPV9MgJRo6b83MS24sWg==;fEJwypKRdxQjvMcP9oA4EA=="
 ---
 

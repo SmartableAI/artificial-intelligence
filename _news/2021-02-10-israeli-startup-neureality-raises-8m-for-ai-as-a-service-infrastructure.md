@@ -93,6 +93,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "NeuReality Out of Stealth with $8M Seed for AI Compute Infrastructure"
+    excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges from stealth today with $8M seed from Cardumen Capital, OurCrowd and Varana Capital to fuel the growth of real-life AI applications running at scale."
+    publishedDateTime: 2021-02-10T17:18:00Z
+    webUrl: "https://insidehpc.com/2021/02/neureality-out-of-stealth-with-8m-seed-for-ai-compute-infrastructure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "Hcna0hShQZzsLvE34WGw9NS3mOlNkgpOORrCK0o0fL0QpqKc4n2w298EAiFAyPF9Slili2jz+5pJNOugz9I4fMuqEV74TJAyPfu9IxfVQDG1mv/fxlOM3SR5768WBsUMPO2IR7zQksikcEa/02VMQqcbe8+xn0ViZM/TYWEjhuNEAwr2GC/RWMLdG7mUGHirflbjRokIi0F0/SK4YCVR+jbFDvCLwpuwJW9ba2O4fAWS6n5urUXd4OExqI8ukuck7BpX4+zdzVf5bU3gDWGLWK9x7aGGuh/AOAUfmwndFjtJteqhaawr/wfN8sHa44rpKdoZNfa6kC68QahnCopF0k5c2wu4SNo37z4CpFf5Sty5M/YbvE7J8zizNyibm0KTtTS7DivFLGLibTnzqld1RJxDqq8bBWHSkTu+OmpaeRBbG4dh8kzP/bFIozuXsSHu6k4ZGdALo9wEXrG+Lo/cIwueMMLXo9GStZ35h3Cv0qCqY2hxzd+ifLvP9b1L1/s3vE415JDa0P/7DfS2G4yjXw==;XiWoimcs1Q01lgrh1f8vsg=="
 ---

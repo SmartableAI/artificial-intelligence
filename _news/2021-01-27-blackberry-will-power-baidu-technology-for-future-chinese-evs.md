@@ -1,28 +1,32 @@
 ---
 category: news
 title: "BlackBerry will power Baidu technology for future Chinese EVs"
-excerpt: "BlackBerry will power Baidu technology for future Chinese EVs BlackBerry is on the move. BlackBerry BlackBerry is going big with Baidu,"
-publishedDateTime: 2021-01-27T02:37:00Z
-originalUrl: "https://www.compsmag.com/news/technology/blackberry-will-power-baidu-technology-for-future-chinese-evs/"
-webUrl: "https://www.compsmag.com/news/technology/blackberry-will-power-baidu-technology-for-future-chinese-evs/"
-ampWebUrl: "https://www.compsmag.com/news/technology/blackberry-will-power-baidu-technology-for-future-chinese-evs/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/blackberry-will-power-baidu-technology-for-future-chinese-evs/amp/"
+excerpt: "It's another step for BlackBerry to plant roots in China after it closed a deal with Baidu to provide its software to the search engine giant's Apollo self-driving car program. While the software ..."
+publishedDateTime: 2021-01-27T01:31:00Z
+originalUrl: "https://www.cnet.com/roadshow/news/blackberry-will-power-baidu-technology-for-future-chinese-evs/"
+webUrl: "https://www.cnet.com/roadshow/news/blackberry-will-power-baidu-technology-for-future-chinese-evs/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/blackberry-will-power-baidu-technology-for-future-chinese-evs/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/blackberry-will-power-baidu-technology-for-future-chinese-evs/"
 type: article
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/BlackBerry-will-power-Baidu-technology-for-future-Chinese-EVs.jpg"
+  - url: "https://cnet3.cbsistatic.com/img/S-Z43U4b_D-rADVN2T8YyVI7K3I=/2021/01/26/de4d16c2-cbea-412d-871e-2bc50534edd2/bb.jpg"
     width: 1200
     height: 630
     isCached: true
 
-secured: "2SKvLbdXwySUrh+9pG82yNWpsYYYGM9jcNB0MsN72Ta7S59hVhPOsI/fyzaO5Q7xYKXgXgbIq6kj3+LR89ido5EMnuDevhZQpko8IVTiaamaayq05U5k9zz5Q6AP2Mie0hderJ9YcAgYxd7pFKOmUkgO56QYbF5O3OOunfn1n4p32kv/82hM5pG7G3sRDzUlpgDnWKf+hU4+76uKf5tVUdEoV1/AXNBq/IQYIpajCanst5e4Q3ng6LtMO8Za7kXR7OPIa0vdj8ES4tfEprI7Vxse5767A5uZ8T+nu9v8++DTYM9UwGsPq4NJ3AUSQpgB8dIgMeK33FPFnZlDPi/6zXe+dqZrqlcX/fPa0Wh8MOk=;DqNyrxnY2Y5I/HTqw/OVUg=="
+secured: "af84sFJ+Uk/AzXoeI+v6GNSJqUxyqdncNxE+M1tjgkChir3WjCkzH1AzWAo/W0fOz6qYC8XYd6hPr/hVLW4rPw7CnqFPjbzidNZvgTX4Nfr4MUP+FIetywg4UuWoy8bO28AWRBFlbKJnFw6UnWj/1OALvZDN0+Hw8D7CguW5Yd5Owirvc6eygsgG6IvlBhOOL6c1cj349Oa3CRrd61E/q+aKlC1ZH3KcVQZRH3ciUyxnJUNBJvy+h+AuH5B8YQDZYOepD+goNq5XaqJqun25j3w4dp+669kXzwVtmWUMytjX8yu9xqq8NywdXSPKCTXk75nGGh2dwfniC9giWumJf/P+4KTXPjRwZZbtPwqLp/Y=;4Y2QN1x/NNmK8K7rnmu9Ww=="
 ---
 

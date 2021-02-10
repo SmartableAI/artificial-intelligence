@@ -26,36 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Iron Pillar leads $5 million funding round in AI startup Ushur"
-    excerpt: "Ushur is Iron Pillars second investment from its second fund, which is expected to announce its first close in a couple of months, co-founder Mohanjit Jolly says."
-    publishedDateTime: 2021-02-09T16:22:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms"
+  - title: "Self-Driving Trucking Startup Taps U.S., Chinese Investors"
+    excerpt: "Self-driving trucking startup PlusAI raised $200 million in fresh capital from investors including several top-tier Silicon Valley venture-capital firms as well as a Chinese investment firm and automotive companies."
+    publishedDateTime: 2021-02-10T17:26:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-85978,msid-80772644/startup-funding.jpg"
-        width: 600
-        height: 450
+      - url: "https://images.wsj.net/im-297255/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Ushur Closes $5M Series B Extension from Aflac Ventures and Iron Pillar"
-    excerpt: "Ushur, the no-code intelligent automation company, today announced a $5M addition to its over-subscribed $25M Series B funding in November 2020. Aflac Ventures and Iron Pillar participated in the round."
-    publishedDateTime: 2021-02-09T15:44:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-financial-services-insurance-industry-ac58b4371aeaeb9ac7e599f42c3a4340"
+  - title: "Cupertino self-driving truck unicorn PlusAI scores $200M funding"
+    excerpt: "Cupertino self-driving truck unicorn PlusAI scores $200 million funding. #siliconvalley #venturecapital #autonomous"
+    publishedDateTime: 2021-02-10T14:13:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/10/self-driving-truck-unicorn-plusai-scores-200m.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2021/02/10/self-driving-truck-unicorn-plusai-scores-200m.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2021/02/10/self-driving-truck-unicorn-plusai-scores-200m.amp.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
 
 secured: "yWDtSejpDOXeyyKlg4LQ1UwdjBP8MCVVojd9WTDS5bDajKDt5A5iO6M87q0oxAKcCGZUipDd4LdC7B3x3kQf+Vg8sw2ioXHNVwZVIgV5AWbB13/NxRq8FBX+vYBZM7WhCYd2bndAZDCHg2qEAcsFNTtAb7B7/p6wuegFx049tP7Hl+4LyTFHCpGxkFNaIaAgK3kb0fa5/dfhKZvDVeAL7c6cd42qFqffYHr20dl4ogFh0kZwcB+XePPEQvvDcLIgM8y2NdVfSXkhQi481tyWDcHDVjzal+sL9Qnef37uDvTiuAqOwxyjQr+1ZX0KpJq+BRmk/k5yduapt5JGGh8o2hwgbNYQTAPj3BwAh3RmkAeaBX5PEJVA6nsK1WuKTZo8NVjUy5QTAEFnH3BUm6Ia2N3+EgbRvMsqnS8YaUx0sShuGdQouXT6/yhpSJFgDwUrq87QgwiNFldcxm2nEmXu7ucuE0/Itx5LYiG9hiTp3EAnMoGJsaai+UA94FXPQRolvrB/RnpE/8d2wotXaFHSrw==;cbZs/5F989sH/iU+UwngXQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-
 ampWebUrl: "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/02/Lang.ai_.jpg?w=1024"
@@ -29,6 +30,6 @@ images:
     height: 509
     isCached: true
 
-secured: "/B5sa/UV8n4wmQ7s6KqozPFK+luSg9rJ0AwdhRLIAmxAyNTS1wZS662zwQwAZ9+CsDrfGdXSF34cIxrJjKNMbz+F7kD4OV9ys5/IONrEaTc8r+BZUrc2g6HIPfJ9fxh4EcvNrRy2WVXvR1IhGAvtnoiMo8/SqkBxHENIXlGEgUAe+/bOPLyYG1g4tAN3V6tlRU8ymU6P0Sg5L9/j2t2ZOSQCDGkrB1CexBUpaCgOO5pEk3MRHUbMAmcKiIl4mXCBQXhT8misH3P8QVUheHxWt/nkeKLLKP7bCiRFjQP2GO/QOz50Qt4lFxgt0LWDe7R6N7BtBy9B/hSiquqCnyFUTrKL/U/+TC93Tx+gjfYvYjw=;PaOnyz5P6WaRuft+0dwCTQ=="
+secured: "tmgkLpM07X6nfoeWdmRPUW9LO39QgEReeqmswAzgrQyXfqp/gxW606i+0JP35uSIKasAs2PNyEXPTViSA3WlOFtF4O9yR2N5YRZzaV2M/Y6P3Hr3y0uSe/kfXo9ABi+vNV6iGK+76yNSc3U1H9jafN426iuBk12tF+xMOMCTLw5VAXy0PHmdsunheGziOZ9zdUqpLrFTDmvcOdRt6DPMNdKTF2bCZHM5IESHte2XTw23qG8/FchE77Ak59XKsPQoE6n/aJv960GxB1HnCCttfBnApTPZjB41S+L97M9yD+TuwmqfforHfYi7AIxqSR/gIJdl9cwGBTWC2faP9k+6RGuuW5H3B/+lLhO21gEwunYkz7LVXDBj6k1/AYV1ygxWkW8nLJmZhXAgoC/3xFjqftiTPfynzNkfIqOhis/IqiufAivfj9EBeKLrw+PIHTW/Pp7kBm3uZa4lBN9CKfRDUfAoJeoV73XfUZKsoKHZcbwgHnY8C1TrrwjlXKsTN77Pi0fcCAmsbGQM2Kn4RPSLDg==;YoGy+nxXzB4Cnh7Wn9y0FQ=="
 ---
 
