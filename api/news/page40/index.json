@@ -2,6 +2,145 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-01-12-ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu.md",
+      "title": "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU",
+      "excerpt": "The Flow X13 is outfitted with a GeForce GTX 1650 GPU that can hit clock speeds up to 1255 MHz at ... And for times when you want to chat with friends or fellow gamers, a two-way AI noise cancellation mode removes unwanted sounds from both the input ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/b217b9e2-8472-4358-9fd7-36b134d84990/resize/1200x/97ea6a08734939b0c166dc9b21c9cf79/flow-x13-and-xg-mobile.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "publishedDateTime": "2021-01-12T02:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automation-platform-with-new-advanced-ai-capabilities.md",
+      "title": "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities",
+      "excerpt": "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-software-promises-to-improve-ai-object-recognition.md",
+      "title": "Software promises to improve AI object recognition.",
+      "excerpt": "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
+      "originalUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg",
+          "width": 940,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T01:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Engineer",
+        "domain": "theengineer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-ubtech-showcases-new-uv-c-robots-at-ces-2021.md",
       "title": "UBTECH Showcases New UV-C Robots at CES 2021",
       "excerpt": "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;",
@@ -1069,147 +1208,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-self-driving-truck-company-kodiak-robotics-hauls-in-honor-at-ces-after-reaching-texas-milestone.md",
-      "title": "Self-driving truck company Kodiak Robotics hauls in honor at CES after reaching Texas milestone",
-      "excerpt": "The company completed two 800-mile roundtrip commercial shipments in December between Dallas and Houston relying only on Kodiak’s autonomous driving system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/",
-      "originalUrl": "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Pu_zi9B6UUK8EDHBMq5USWEQgSk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/B2EZVYMUTBHWBITYJZWEAB7WR4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/?outputType=amp",
-      "publishedDateTime": "2021-01-11T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos.md",
-      "title": "Ever app settles FTC allegations it trained facial recognition tech with users' photos",
-      "excerpt": "The developer of Ever, a photo storage and backup app that shut down in August, settled US Federal Trade Commission allegations that it \"deceived consumers about its use of facial recognition technology and its retention of the photos and videos of users who deactivated their accounts,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
-      "originalUrl": "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/r4gbG59o75cofJR_X7DHqvmqZ1E=/1200x630/2021/01/11/ce25c79c-01df-4fb0-9119-68fdc6904237/gettyimages-1199149697.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
-      "publishedDateTime": "2021-01-11T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-why-ethics-should-guide-artificial-intelligence-use.md",
-      "title": "Why ethics should guide artificial intelligence use",
-      "excerpt": "Artificial Intelligence (AI) refers to the theory and development of computer systems able to perform tasks that normally require human intelligence. AI makes it possible for machines to learn from experience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.standardmedia.co.ke/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
-      "originalUrl": "https://www.standardmedia.co.ke/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.standardmedia.co.ke/images/monday/why_ethics_should_gu5ffc6b52c6f4f.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standardmedia.co.ke/amp/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
-      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
-      "publishedDateTime": "2021-01-11T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Standard Digital",
-        "domain": "standardmedia.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

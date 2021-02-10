@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-11-30-csi-partners-with-featurespace-for-anti-money-laundering-solution-to-combat-financial-crime.md",
-      "title": "CSI Partners with Featurespace for Anti-Money Laundering Solution to Combat Financial Crime",
-      "excerpt": "To empower its customers in the fight against financial crime, Computer Services, Inc. (CSI) (OTCQX: CSVI), a provider of end-to-end fintech and regtech solutions, has partnered with Featurespace™, a leading provider of Enterprise Financial Crime prevention software,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-corporate-news-north-america-b5e23f59d9714e4d92f9d9b8ca23e799",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-corporate-news-north-america-b5e23f59d9714e4d92f9d9b8ca23e799",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T04:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-27-ecbs-panetta-open-to-case-by-case-resumption-of-bank-dividends.md",
       "title": "ECB’s Panetta Open to Case-by-Case Resumption of Bank Dividends",
       "excerpt": "European Central Bank Executive Board member Fabio Panetta said he’s open to allowing some banks to resume paying dividends as the economy improves.",

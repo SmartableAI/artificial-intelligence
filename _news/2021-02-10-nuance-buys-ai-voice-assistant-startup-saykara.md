@@ -69,6 +69,20 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Nuance buys healthcare voice assistant startup Saykara"
+    excerpt: "Nuance Communications acquired Saykara, a startup building a medical AI voice assistant to help with charting and other administrative tasks. The deal is expected to build on Nuance's speech recognition tools for physicians."
+    publishedDateTime: 2021-02-10T02:44:00Z
+    webUrl: "https://medcitynews.com/2021/02/nuance-buys-healthcare-voice-assistant-startup-saykara/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 41
+    images:
+      - url: "https://medcitynews.com/uploads/2020/11/iNueng-sound-voice-illustratoni.jpg"
+        width: 782
+        height: 446
+        isCached: true
   - title: "Healthcare Ventures Has Launched a Venture Capital Fund, Dedicated to Digital Health"
     excerpt: "As a specialist digital health fund, Sydney based Healthcare Ventures will invest in early stage and growth companies transforming healthcare via digital health technologies. The investment strategy focuses primarily on Australian companies going global,"
     publishedDateTime: 2021-02-07T20:36:00Z

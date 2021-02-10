@@ -2,6 +2,151 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-12-29-how-doe-researchers-are-using-ai-and-robots-to-design-the-successor-to-lithium-ion-batteries.md",
+      "title": "How DOE Researchers Are Using AI And Robots To Design The Successor To Lithium-Ion Batteries",
+      "excerpt": "Building the better battery may be too big a job for humans, according to researchers at the Joint Center for Energy Storage Research, so the researchers are turning to artificial intelligence to find the right ingredients and to robots to make and test them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
+      "originalUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea3059d12e840ff06d83a7%2F0x0.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/",
+      "publishedDateTime": "2020-12-28T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-catching-them-young-hexagons-centre-to-train-students-in-ai-skills.md",
+      "title": "Catching them young: Hexagon’s centre to train students in AI skills",
+      "excerpt": "The fundamental and advanced level courses designed for Class VIII-XII students, and senior engineering graduates respectively",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece/amp/",
+      "publishedDateTime": "2020-12-28T20:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business.md",
+      "title": "Artificial Intelligence Is Great For Day-To-Day Stuff, But It Can’t Build A Business",
+      "excerpt": "AI can't build a business the way humans can. getty. Let’s face it, artificial intelligence is probably one of the best management tools to come along since the first commercial",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea1efdc398efe2f56e500e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
+      "publishedDateTime": "2020-12-28T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-china-increases-foreign-investment-list-by-10-per-cent-including-ai-semiconductors-and-5g.md",
       "title": "China increases foreign investment list by 10 per cent including AI, semiconductors and 5G",
       "excerpt": "A total of 127 areas have been added to the list of industries in which China will seek to encourage foreign investment, taking the total to 1,235 from 1,108.",
@@ -1068,144 +1213,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025.md",
-      "title": "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025",
-      "excerpt": "The AI software market in the legal industry is projected to register a growth of over 28% over the forecast period 2020 - 2025. The law firms have always been at the forefront of using emerging technological advancements for productivity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-27T19:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-this-woman-entrepreneur-aims-to-make-children-future-ready-by-introducing-them-to-stem-robotics.md",
-      "title": "This woman entrepreneur aims to make children future-ready by introducing them to STEM, robotics",
-      "excerpt": "Edtech startup Whizrobo, founded by husband-wife duo Dimple and Naveen Verma, offers products and training in artificial intelligence and robotics to the K-12 group.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm",
-      "originalUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/Untitleddesign16-1609060197399.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm/amp",
-      "publishedDateTime": "2020-12-27T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-levelling-the-playing-field.md",
-      "title": "Levelling the playing field",
-      "excerpt": "IBM has been using AI in its HR processes for several years thanks to the creation of Watson, a natural language computer system predating Amazon’s Alexa, which can answer questions in a human-like way. IBM’s Andi Britt says: “We’ve been doing a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
-      "originalUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hrmagazine.co.uk/article-images/image-library/138/screenshot_2020-12-22_at_18.49.06_f348cd83.jpg",
-          "width": 800,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-27T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HR Magazine",
-        "domain": "hrmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -1,23 +1,24 @@
 ---
 category: news
 title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
+excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
 publishedDateTime: 2021-02-09T13:01:00Z
-originalUrl: "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html"
-webUrl: "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
 type: article
-quality: 36
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
+  - AI
 
 related:
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
@@ -176,6 +177,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "mcMftWk9h1P4ckX7ZzJbc4S+M1i6/2K0FXHwSCHOPRcneAOmmrhaYuTkDfwfh+NOmCmpgHTpZAIXAI60VZeAbBAY9o2wnSJGdoCWj9tr/yCEoLwIUNcTcaK3Tth+k5TKL5xDxJBuZeqU3euBkx0mPEpxoJ7j93SY9l7X18VEFCuenLP/leJhk7rSOPyMVrZXZkgi7oCzo7XrANn7YnJQL8r2ltXl3Rz+UKIq+mBkrdUD5hWoIO6sJyJ1QnDKgMi3W5QrKp/uHShTH8puQSjt0k0JUjDZ9K1f37IWI9L/rqp1lQYegVMxeAYCuaygGvGwNK8uyHmDUESX6komuAC0Cvt1L9Dnz9S0C0hCl4uhFZc=;ONrf3swhmfof5hlsHwThfw=="
+secured: "QPMmzPwNa04yV9Lv6t0F66K9DkZRd1HZKE1kit3kVloZKnsHZDjrOZ0qlMRUPBxNtCDPOZUIlEBOreHyEwt4OD+QGoLwQTtckJDUx9ekg4cZBTcL/uw5VZCGHnwYUE0EBr5AbX5YIyxvbSHBQPbBz/aL9Pnk1OzcE6ThOmavz3tSHnQLoaJL0Ej+AaH9fny8zdAnz0BJi3IsdxQ21TpSs5vsF0EuWpRwrjm28WdA9ZOCcodRzdT2FQ/5PFWjg4C5yOQ4n/oJVcgZbBUSmHPZub9gYQU3uyiKkSRw7H1FDl2vdQ7Czz1cStepiLmQQMmK7Yx31henpkfFVUPQWW2VurKY/RrK80Q6nO2nNDlBkM0=;2pbQ18gAm8LyRWJc31af9A=="
 ---
 

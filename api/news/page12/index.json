@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-31-ai-needs-an-open-labeling-platform.md",
+      "title": "AI needs an open labeling platform",
+      "excerpt": "Training data platforms are emerging as the best way to handle the collection, labeling, and feeding of data into supervised learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/",
+      "originalUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/labeling.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/",
+      "publishedDateTime": "2021-01-30T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-scott-hollifield-larry-king-will-miss-the-robot-apocalypse.md",
       "title": "Scott Hollifield: Larry King will miss the Robot Apocalypse",
       "excerpt": "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots.",
@@ -1148,58 +1200,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-huami-to-launch-third-generation-self-developed-wearable-chip-soon.md",
-      "title": "Huami to launch third-generation self-developed wearable chip soon",
-      "excerpt": "Huami Technology is a company that excels in smart wearable technology. Headquartered in Hefei, China, the company also makes its own AI-powered wearable chips. Today, the company’s founder has announced that the third-generation wearable chip is coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/01/29/huami-to-launch-third-generation-self-developed-wearable-chip-soon/",
-      "originalUrl": "https://www.gizmochina.com/2021/01/29/huami-to-launch-third-generation-self-developed-wearable-chip-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2018/09/Huangshan-No.1-MHS001.jpg",
-          "width": 1225,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

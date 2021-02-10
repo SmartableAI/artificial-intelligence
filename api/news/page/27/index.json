@@ -2,6 +2,136 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-01-20-fintech-expands-data-services-through-acquisition-of-aperity.md",
+      "title": "Fintech Expands Data Services Through Acquisition of Aperity",
+      "excerpt": "Our partnership with Fintech brings a wide network of distributors and suppliers to Aperity’s Beverage Data Exchange, allowing us to leverage Fintech’s vast industry resources to scale our best-of-breed data management and analytic solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-technology-corporate-news-products-and-services-ffd59653030c88ca75aa587b28f1a7c3",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-technology-corporate-news-products-and-services-ffd59653030c88ca75aa587b28f1a7c3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-nucleus-research-releases-q1-2021-equity-snapshot-for-ibm.md",
+      "title": "Nucleus Research Releases Q1 2021 Equity Snapshot for IBM",
+      "excerpt": "Nucleus Research, a global provider of ROI-focused technology research and advisory services, today released its Q1 2021 Equity Snapshot for IBM. The snapshot provides an analysis of IBM’s market growth and performance over the last quarter and a competitive outlook for the months ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-ai-startup-alphaics-raises-8-million-in-series-b-funding.md",
+      "title": "AI-startup AlphaICs raises $8 million in Series B funding",
+      "excerpt": "The funding was led by Endiya Partners and Emerald Technology Ventures.The startup will use the funds to develop the software stack and to build system solutions for its target markets",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding-11611150898952.html",
+      "originalUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding-11611150898952.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/01/20/600x338/dollar6-kPTE--621x414@LiveMint_1611151313091.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html",
+      "publishedDateTime": "2021-01-20T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414.md",
       "title": "Healthcare Artificial Intelligence (AI) Market Worth $51.3 Billion by 2027 at a CAGR of 41.4%",
       "excerpt": "According to this latest publication from Meticulous Research(R), the healthcare artificial intelligence market is",
@@ -1065,144 +1195,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland.md",
-      "title": "Reliq Health Technologies, Inc. Announces Launch of Multilingual Interactive Voice Recognition and New Contract in Maryland",
-      "excerpt": "HAMILTON, Ontario, Jan. 20, 2021 (GLOBE NEWSWIRE) -- Reliq Health Technologies Inc. (TSXV:RHT, OTC:RQHTF) (\"Reliq\" or the \"Company\"), a rapidly growing global",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19229634/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-n",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19229634/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-n",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19229634",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19229634",
-      "publishedDateTime": "2021-01-20T00:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-apple-patents-next-gen-face-id-which-uses-facial-heat-mapping.md",
-      "title": "Apple patents next gen Face ID, which uses facial heat mapping",
-      "excerpt": "Apple has just been granted a new patent that is related to its Face ID biometric security system. The patent details a next gen advancement in facial recognition technology, which apparently uses facial heat mapping for authentication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-id-facial-heat-mapping/",
-      "originalUrl": "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-id-facial-heat-mapping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-9.34.42-PM.png",
-          "width": 1053,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-mediateks-dimensity-1200-crunches-5g-ai-and-image-data-at-the-edge.md",
-      "title": "MediaTek’s Dimensity 1200 crunches 5G, AI, and image data at the edge",
-      "excerpt": "The current top vendor of smartphone CPUs is revealing a new flagship system-on-chip for 5G devices, as well as a more affordable step down.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/19/mediateks-dimensity-1200-crunches-5g-ai-and-image-data-at-the-edge/",
-      "originalUrl": "https://venturebeat.com/2021/01/19/mediateks-dimensity-1200-crunches-5g-ai-and-image-data-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/dimensity1211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/19/mediateks-dimensity-1200-crunches-5g-ai-and-image-data-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/mediateks-dimensity-1200-crunches-5g-ai-and-image-data-at-the-edge/amp/",
-      "publishedDateTime": "2021-01-19T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

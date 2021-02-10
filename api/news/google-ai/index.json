@@ -60,8 +60,8 @@
       "title": "Cloud lock-in: Why the microservices cure might be worse than the problem",
       "excerpt": "Commentary: Microservices can be a great thing to drive enterprise agility, but it can also create all sorts of costs for those trying to avoid cloud lock-in.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
       "featuredContent": null,
       "highlight": null,
       "heat": 73,
@@ -78,8 +78,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
       "publishedDateTime": "2021-02-09T11:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -108,21 +108,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-finch-capital-launches-third-fund-to-invest-in-european-fintech-at-series-a-and-b.md",
-      "title": "Finch Capital launches third fund to invest in European fintech at Series A and B",
-      "excerpt": "Finch Capital, the early-stage fintech VC with a presence in London and Amsterdam, has raised a third fund. Targeting a final close of €150 million, the fund has already secured €85 million from LPs ready to deploy.",
+      "path": "_news/2021-02-09-australias-healthcare-ventures-launches-digital-health-vc-fund.md",
+      "title": "Australia's Healthcare Ventures Launches Digital Health VC Fund",
+      "excerpt": "Sydney, Australia-based Healthcare Ventures has launched a new fund dedicated to early stage and growth companies in the digital healthcare space.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/",
-      "originalUrl": "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/",
+      "webUrl": "https://www.pymnts.com/healthcare/2021/australias-healthcare-ventures-launches-digital-health-vc-fund/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/australias-healthcare-ventures-launches-digital-health-vc-fund/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/IMG_6638.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/digital-healthcare-fund-Healthcare-Ventures-457x274.jpg",
+          "width": 457,
+          "height": 274,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -130,23 +130,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/",
-      "publishedDateTime": "2021-02-09T01:01:00-08:00",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/australias-healthcare-ventures-launches-digital-health-vc-fund/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/australias-healthcare-ventures-launches-digital-health-vc-fund/amp/",
+      "publishedDateTime": "2021-02-08T16:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -157,7 +148,7 @@
       "topics": [
         "Google AI",
         "AI",
-        "AI in Finance"
+        "AI in Healthcare"
       ]
     },
     {
@@ -215,19 +206,19 @@
     {
       "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
       "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
+      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19635111.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19635111.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -237,11 +228,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:45:00-08:00",
+      "publishedDateTime": "2021-02-04T06:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -251,10 +242,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Google AI",
         "AI",
         "Machine Learning",
-        "Google AI",
         "TensorFlow"
       ]
     },

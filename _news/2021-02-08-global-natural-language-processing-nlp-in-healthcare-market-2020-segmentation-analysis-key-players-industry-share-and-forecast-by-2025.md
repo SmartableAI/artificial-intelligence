@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-segmentation-analysis-key-players-industry-share-and-forecast-by-2025-2021-02-08"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?180835"
         width: 475
         height: 250
-        isCached: true
-  - title: "Natural Language Processing Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2021-02-05T10:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2021-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "eSCgpNMMeI5nR7a9+do4E1x+HERTtPsvKAUKG/hOSMaZEvbPMlx95BZeGDDuwslYfnIZ1ptAWwWkNfkI0MuH/6aEZ75pGZ+EK0VIhb8a9gP69x588kIqRygxNkGDiwTAYr+uKQkO8GjItj44kBqzrHKQIbEp5q5r4Q+9KbN5kxLaOefRtoUeQpYvzUgCdRyDDai5AqaK3e46B5FuVSzrQUZMP3yFaQYkN7bkkSmEspYIRqBsZenElh0pgjkdjOm9x9BYW4A+MaVlL0S+NT/4y6G1dR8Z8vPokV6DX5WK4C54JMHWAFf1lmNK5XYgMuo46+uf9GXNLKLzirMP/cl58M8oBcG+nzJDMHpdnvp47iA=;97JRatEyQQ5stkkHx30CCA=="

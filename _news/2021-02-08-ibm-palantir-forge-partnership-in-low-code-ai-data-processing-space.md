@@ -3,10 +3,10 @@ category: news
 title: "IBM, Palantir forge partnership in low-code AI data processing space"
 excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
 publishedDateTime: 2021-02-08T13:53:00Z
-originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+originalUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+webUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
 type: article
 quality: 87
 heat: 227
@@ -145,7 +145,7 @@ related:
   - title: "IBM partners with Palantir on low-code AI applications"
     excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
     publishedDateTime: 2021-02-09T01:02:00Z
-    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
     type: article
     provider:
       name: SiliconANGLE
@@ -227,6 +227,6 @@ related:
         height: 284
         isCached: true
 
-secured: "XyUDnfM8uCzIaPqh5KJe3PlIiTAq6bWj/WvIUwET5Gke1B7k0fnb0g3VL4jRUC1dJgoa9YMiR9cIPEFMDUUL/Gd4WSNqZWgXah0X4B5T3AOXuRBDVsFk6C2i6yKZzTQ/960w1ukklQgwe2azBK4q36MWHeF6FcwxXY7eOP2MbVhESh9mHZ/BIN87eo42N+f6FIQxYx/oy3fhKrum7BJJIMaf1poVTl2YUYMCG+1k979Fbz9v0hdj0vLykhJt0hj3jXH/tLHyq4eK2lLF0/C3+2CkUKSBSIZ4htV7UtjMEwQDNLKDL7XP/xWIa2xqjRaGJXCSc+B4zJ45gX1Rs4D1Yvx1F2UoNgZW0IDrxp2eII4=;DIVcqhhTpQXWPq5bwOF/CA=="
+secured: "QwkPA0gevEEWZN7hbneLVVsioSyPyj0maTgL5pqs/GHX2svw3yC6qnTwoIi06aHiqZaQpVsawO8V+GzDOJHFMrIelc73m9bthclvm1L/QSEkXuHuQ/l6GK4wRiswt9iUVB/RNHeVH4DVap3R2Eg1fyYWH+rBAfeDbA2+CR7OaPJEXsx9JRRKQMj19RJ8FC6V3x1NlYuEkaqTGF5riwGWnysmoAS8/cCAAVfuJxv0sS42HGpM3OhRZtJWTHptSw4AORxefxf61U9qrKVvohFFABIYptDedHYX0opzuudb6FJg2gnAgFQ7zNQP4wtFjpb47/dbi33hK83N1tTl1p8anCCXFVPoo6GRHIC1jSFSGPE=;EgI8YhO5rYLhpMVDNVQY3Q=="
 ---
 

@@ -32,15 +32,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
-  - title: "Twitter adopts Google Data Cloud for machine learning processing"
-    excerpt: "Google Cloud announced a new, multi-year partnership with Twitter, to move the latter's offline analytics, data processing, and machine learning workloads to Google's Data Cloud. This will allow Twitter to analyze data faster and improve the experience for people who use the service,"
-    publishedDateTime: 2021-02-05T09:41:00Z
-    webUrl: "https://www.telecompaper.com/news/twitter-adopts-google-data-cloud-for-machine-learning-processing--1371375"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
     excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
     publishedDateTime: 2021-02-09T14:09:00Z

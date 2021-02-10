@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-28-tesla-had-talks-with-other-automakers-about-licensing-its-self-driving-software-elon-musk-says.md",
+      "title": "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says",
+      "excerpt": "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/",
+      "originalUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/",
+      "publishedDateTime": "2021-01-27T17:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-the-great-free-speech-reversal.md",
       "title": "The Great Free-Speech Reversal",
       "excerpt": "Liberals once believed that private corporations have far too much power over the flow of ideas and information in today’s society. Now it’s conservatives who are worried.",
@@ -1150,48 +1202,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-jeff-bezos-and-elon-musk-reignite-space-feud-worlds-richest-men-spar-over-their-satellite-internet-projects-with-the-spacex-founder-blasting.md",
-      "title": "Jeff Bezos and Elon Musk reignite space feud: World's richest men spar over their satellite internet projects with the SpaceX founder blasting Amazon for 'hamstringing' Starlink",
-      "excerpt": "On January 7, his net worth hit $187 billion - $1 billion more than Bezos's $186 billion. But his victory was short-lived after some movement in both Amazon ... in 2021. On February 6 ...",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/campaigns/inside-amazon-2021-02-03-26425/sections/223561",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-9192793/Jeff-Bezos-Elon-Musk-spar-satellite-internet-projects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e.insd.io/s/p/223561_original.jpg?1612370704",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,102 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-01-22-the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4.md",
+      "title": "The new Raspberry Pi Pico is an incredibly powerful little chip for just $4",
+      "excerpt": "The Pico is the first microcontroller board from Raspberry Pi and has been built around the new, custom RP2040 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/21/a6ec6b4b-2925-4f84-a92c-a9d06ecec4ab/resize/1200x/7e9b50b8b494608f7464ffceb3397843/raspberry-pi-pico-angle.jpg",
+          "width": 1200,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "publishedDateTime": "2021-01-21T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand.md",
+      "title": "‘Hybrid roles, the new norm: IELTS, Azure, software testing in demand’",
+      "excerpt": "The report is based on data from the global companies using the Udemy for Business platform and a survey of more than 500 learning and development professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/",
+      "originalUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2020/12/e-class-1200.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/lite/",
+      "publishedDateTime": "2021-01-21T14:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-new-google-union-concerned-after-a-senior-ai-ethics-researcher-is-reportedly-locked-out-of-her-account.md",
       "title": "New Google union ‘concerned’ after a senior A.I. ethics researcher is reportedly locked out of her account",
       "excerpt": "The Alphabet Workers Union has said it is concerned over Google's decision to lock Margaret Mitchell, a senior AI ethics researcher, out of her account.",
@@ -1101,100 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-transforming-the-energy-industry-with-ai.md",
-      "title": "Transforming the energy industry with AI",
-      "excerpt": "In the oil and gas industry, digitalization is improving project economics and streamlining operations, with AI as the key for sustainable growth and security against cyberthreats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/MITTR-Seimens-webart-Cover.png",
-          "width": 1500,
-          "height": 1129,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/",
-      "publishedDateTime": "2021-01-21T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-the-real-self-driving-revolution-remains-years-away.md",
-      "title": "The real self-driving revolution remains years away",
-      "excerpt": "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/01/21/success/self-driving-car-technology-2021/index.html",
-      "originalUrl": "https://www.cnn.com/2021/01/21/success/self-driving-car-technology-2021/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200204152457-02-cadillac-escalade-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html",
-      "publishedDateTime": "2021-01-21T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

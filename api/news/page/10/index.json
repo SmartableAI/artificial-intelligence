@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-02-baidu-green-light-to-test-driverless-autonomous-vehicles-in-california.md",
+      "title": "Baidu green light to test driverless autonomous vehicles in California",
+      "excerpt": "Baidu’s autonomous vehicles can now drive alongside those from Cruise, Waymo, Nuro, Zoox and AutoX in California. The Chinese company has just received approval to operate its autonomous driverless vehicles from the US state.",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/",
+      "originalUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galusaustralis.com/wp-content/uploads/2021/02/baidu.0-e1612158742517-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/",
+      "publishedDateTime": "2021-02-01T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-gdit-announces-aws-availability-on-milcloud-20-contract-dave-levy-quoted.md",
       "title": "GDIT Announces AWS Availability on milCloud 2.0 Contract; Dave Levy Quoted",
       "excerpt": "General Dynamics Information Technology (GDIT) has announced the availability of Amazon Web Services (AWS) under the milCloud 2.0 contract, GDIT reported on Monday. AWS availability will provide the Department of Defense (DoD) access to an expanded portfolio of secure cloud services.",
@@ -1164,50 +1207,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-budget-2021-ai-ml-and-analytics-to-ease-compliance-burden-and-check-tax-evasion.md",
-      "title": "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion",
-      "excerpt": "The Union Budget 2021 presented by Finance Minister Nirmala Sitharaman threw emphasis on technologies like Artificial Intelligence and Machine Learning, and their application to the e-Governance, GST and easing",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/",
-      "originalUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/AI-analytics-Union_Buget_2021.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/",
-      "publishedDateTime": "2021-02-01T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

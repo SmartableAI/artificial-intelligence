@@ -46,15 +46,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
-  - title: "Twitter adopts Google Data Cloud for machine learning processing"
-    excerpt: "Google Cloud announced a new, multi-year partnership with Twitter, to move the latter's offline analytics, data processing, and machine learning workloads to Google's Data Cloud. This will allow Twitter to analyze data faster and improve the experience for people who use the service,"
-    publishedDateTime: 2021-02-05T09:41:00Z
-    webUrl: "https://www.telecompaper.com/news/twitter-adopts-google-data-cloud-for-machine-learning-processing--1371375"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
     excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
     publishedDateTime: 2021-02-05T19:52:00Z

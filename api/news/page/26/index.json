@@ -2,6 +2,92 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-01-21-microsoft-introduces-azure-health-bot.md",
+      "title": "Microsoft Introduces Azure Health Bot",
+      "excerpt": "Microsoft recently introduced Azure Health Bot, an evolution of Microsoft Healthcare Bot that is becoming an Azure service with added functionalities. Built for developing virtual health care ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/01/azure-health-bot/",
+      "originalUrl": "https://www.infoq.com/news/2021/01/azure-health-bot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/01/azure-health-bot/en/headerimage/header%281%29-1611176663022.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-google-targets-ai-ethics-lead-margaret-mitchell-after-firing-timnit-gebru.md",
+      "title": "Google targets AI ethics lead Margaret Mitchell after firing Timnit Gebru",
+      "excerpt": "Margaret Mitchell leads the Google AI ethics team following the firing of Timnit Gebru. Now Google said Mitchell is under investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.m-mitchell.com/",
+      "originalUrl": "https://venturebeat.com/2021/01/20/google-targets-ai-ethics-lead-margaret-mitchell-after-firing-timnit-gebru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T15:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish.md",
       "title": "CES 2021 Celebrates New Era With Whimsical Robots, AI Influencers And Billie Eilish",
       "excerpt": "Meet the robots of CES 2021, ones that will pour you a glass of wine, soar you across the sky and land firmly on the moon. A look at AI innovation with an eye toward sustainability and equity at Samsung,",
@@ -908,6 +994,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-20-honda-to-collaborate-with-gm-on-self-driving-service-in-japan.md",
+      "title": "Honda to collaborate with GM on self-driving service in Japan",
+      "excerpt": "Honda Motor Co. said Wednesday it will collaborate with General Motors Co. and its unit Cruise LLC on launching a service using self-driving vehicles in Japan and start feasibility tests later ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.japantimes.co.jp/news/2021/01/20/business/honda-gm-self-driving/",
+      "originalUrl": "https://www.japantimes.co.jp/news/2021/01/20/business/honda-gm-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-japantimes.com/wp-content/uploads/2021/01/np_file_64237-870x489.jpeg",
+          "width": 870,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Japan Times",
+        "domain": "japantimes.co.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-will-2021-be-the-year-that-ai-finally-scales.md",
       "title": "Will 2021 Be The Year That AI Finally Scales?",
       "excerpt": "Growing businesses need to unlock the enormous potential of becoming AI-enabled - will 2021 be the year AI finally scales?",
@@ -1043,136 +1172,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-fintech-expands-data-services-through-acquisition-of-aperity.md",
-      "title": "Fintech Expands Data Services Through Acquisition of Aperity",
-      "excerpt": "Our partnership with Fintech brings a wide network of distributors and suppliers to Aperity’s Beverage Data Exchange, allowing us to leverage Fintech’s vast industry resources to scale our best-of-breed data management and analytic solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-technology-corporate-news-products-and-services-ffd59653030c88ca75aa587b28f1a7c3",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-technology-corporate-news-products-and-services-ffd59653030c88ca75aa587b28f1a7c3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-nucleus-research-releases-q1-2021-equity-snapshot-for-ibm.md",
-      "title": "Nucleus Research Releases Q1 2021 Equity Snapshot for IBM",
-      "excerpt": "Nucleus Research, a global provider of ROI-focused technology research and advisory services, today released its Q1 2021 Equity Snapshot for IBM. The snapshot provides an analysis of IBM’s market growth and performance over the last quarter and a competitive outlook for the months ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-ai-startup-alphaics-raises-8-million-in-series-b-funding.md",
-      "title": "AI-startup AlphaICs raises $8 million in Series B funding",
-      "excerpt": "The funding was led by Endiya Partners and Emerald Technology Ventures.The startup will use the funds to develop the software stack and to build system solutions for its target markets",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding-11611150898952.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding-11611150898952.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/01/20/600x338/dollar6-kPTE--621x414@LiveMint_1611151313091.JPG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html",
-      "publishedDateTime": "2021-01-20T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

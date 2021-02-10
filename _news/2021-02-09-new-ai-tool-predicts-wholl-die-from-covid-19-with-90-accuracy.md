@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
 type: article
 quality: 87
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20210206/ARTICLE/210209333/AR/0/AR-210209333.jpg&NCS_modified=20210206200205&MaxH=225&imageVersion=16by9"
         width: 400
         height: 225
-        isCached: true
-  - title: "New Artificial Intelligence Tool Can Thwart COVID-19 Mutations"
-    excerpt: "USC researchers have developed a new method to counter emergent mutations of the coronavirus and hasten vaccine development to stop the pathogen responsible for killing thousands of people and ruining the economy."
-    publishedDateTime: 2021-02-05T10:14:00Z
-    webUrl: "https://scitechdaily.com/new-artificial-intelligence-tool-can-thwart-covid-19-mutations/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/AI-Coronavirus-Concept.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Artificial Intelligence Tool Combats New COVID-19 Mutations"
     excerpt: "A new artificial intelligence framework could speed the development of vaccines to treat new COVID-19 mutations."

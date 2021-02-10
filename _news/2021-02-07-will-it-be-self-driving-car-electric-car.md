@@ -126,20 +126,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "When will self-driving cars hit the road?"
-    excerpt: "Tech afficionados often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers."
-    publishedDateTime: 2021-02-05T10:01:00Z
-    webUrl: "https://www.daytondailynews.com/news/when-will-self-driving-cars-hit-the-road/NG3UDA3MJZDSTLNKS3N4I6QPFU/"
-    type: article
-    provider:
-      name: Dayton Daily News
-      domain: daytondailynews.com
-    quality: 24
-    images:
-      - url: "https://www.daytondailynews.com/resizer/er6gSOekz065eDW-FmCHa9YfwMw=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/FEOBHDBAUDH6KTMUTOPB74QYDQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving car to be tested on Technology Parkway"
     excerpt: "Peachtree Corners could become the birthplace of new self-driving technology used in cars sold to the public in the near future."
     publishedDateTime: 2021-02-08T18:05:00Z

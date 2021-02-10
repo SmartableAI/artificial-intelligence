@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 796
     height: 417
     isCached: true
-
-related:
-  - title: "Google engineers leave the company over controversial exit of top AI ethicist"
-    excerpt: "Google has lost a couple of talents due to the way it treated and the departure of its former top AI ethics researcher, Dr. Timnit Gebru. According to Reuters, engineering director David Baker left the tech giant last month after 16 years with the company."
-    publishedDateTime: 2021-02-05T09:41:00Z
-    webUrl: "https://www.engadget.com/google-engineers-leave-over-timnit-gebru-exit-093645678.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-engineers-leave-over-timnit-gebru-exit-093645678.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-engineers-leave-over-timnit-gebru-exit-093645678.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 86
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/ijmx.rCk_5ObUU_vksjbdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-images/2019-10/23ee7660-f6fd-11e9-bfdb-8f0dd56ea0e0"
-        width: 1999
-        height: 1333
-        isCached: true
 
 secured: "xqepwOSzdh3JoZNZ+5AsEaauqdtWLM9kd4Y+lay2z4JOVirpE3e+qUrrsVRaj4rsVyaxR5YdJp0H8h8JaWkGxRf2aVoizfBwClX/Gn7yAcfOoKB0DDdh36FhP1qiw/JhahX8fn6gdiMIYOaMYNnYhPaVEsx0EdieaL3FTxRkfcG1l9A3NXdKDcLVWFH5BHavSfgU4Qjqxn0bxQu1hagGe+ee3l8geeGxyLe8r3V9PvgviCX4gvHL7Z7c6DvOT06eFVCkn2OxTcYuZOdOE5L2sZZAm3dSjkR4clci/tVZTQe4pFuREaxnC60f+igrPOJ9L1a+jFp21oH+2bN2mm8qu96gRqn56KBjzLc6ctwnZIbcQng5fCpoxW2/aaPFeUKRi1eXJi16J/7ieObrxDonNDKreBlwU/YWidgermIGZXqEC5rxQLjiQ7yFvlARAP8+U3ocBUmfqMkDizcbF8o9lpYGanzd2KTBn7AHxJAHJOJ9U8b5HnA23Dt4qhqzS0r1XUZOVLt4upBcHasqs3Cz8A==;P2LOtIJmeGThILH3b12Rgw=="
 ---

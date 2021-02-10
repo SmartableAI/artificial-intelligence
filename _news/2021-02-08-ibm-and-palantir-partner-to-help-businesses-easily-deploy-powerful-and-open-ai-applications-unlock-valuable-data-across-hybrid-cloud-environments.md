@@ -28,9 +28,9 @@ related:
   - title: "IBM, Palantir forge partnership in low-code AI data processing space"
     excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
     publishedDateTime: 2021-02-08T13:53:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    webUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
     type: article
     provider:
       name: ZDNet
@@ -156,7 +156,7 @@ related:
   - title: "IBM partners with Palantir on low-code AI applications"
     excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
     publishedDateTime: 2021-02-09T01:02:00Z
-    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
     type: article
     provider:
       name: SiliconANGLE
@@ -224,6 +224,6 @@ related:
         height: 284
         isCached: true
 
-secured: "L20LY9ElupiAxvM06OpB+YLQDzOpK1j93+bYRFPwQA5JiXBnB7sMAVYYNJyBUrtflskFCIb3ZWOfw6XKrs90wG0K1qpgUA98j2UXlM1H5odLXXRbe3U77ndGKgSg1QurDYbqJMAjMirOj2WgLwdZifvscpZtq4Wl3GiTTEWv1nGYh/a8G1oaL7+uyu0OAwkWhci9VevODWLDyyhBcu9SqU453y0YfQ1VCgTzpQrjAvTz2CQrTHl5HKbaL4yepz4IDqMqsgmrI1rFPtmaSySWZIvQVDFem3gOYccP+WLcoKjsRec2dUDsw1SMlBNvD1jPaXsiVulsEV2pPTct3JjaFeiWBls6hs5dNxe+4vUvqos=;mDnMOYztLiS6E7/kR2JgSQ=="
+secured: "W/SnsucOfynLIbArXdDXiGE8XgG285F2hbZWLRWPVlwFFt8HqakcqevxQq699I52tSMMytg4mkeGwxFQ9IPv90zr1XHhWoQwk1LwtpjIMtG8DZxbQXa0bWzUlYfSICjg81RHKvAVUVDrz0UGKnhkm7HIXTc1Q/GVANXwnpEgZku/ySa6mH+MNzOF+FD/B2MCOcXMRHkALbdYBohyW3UB3m+talAEUJa6XOsFTMe8nI6yNqYB6VWO41mnit0t38g4N4d1QG7nFXKh28Pfp4+0aAHGVvV5DUewC/W300GPSbmNeouD4oSDkuHbgHei+0dJy+3TrlzrDTPfni7ngBT1fj2346P4yBmQf0w/P3UzXTciIGsvgdQzHkpXx5kqiM/hN1ksk0D6i4qvKXKo9ghp8pXofjD2QrgUfzud61HmguzixW7kgsdhxBOPqegcVKQf2pfycR8CQlgzAQ1RzSiBADqabDOWc2dgeKm4kSv/8wU1R92td961ARuK7ulw69XAkhG6FRjRHJt6osKKL0ui8Q==;pRzsbOHHdg29TsZWKdfPBQ=="
 ---
 

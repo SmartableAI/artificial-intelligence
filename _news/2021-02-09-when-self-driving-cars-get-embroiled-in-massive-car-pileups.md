@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
       - url: "https://images.hgmsites.net/hug/2021-ford-mustang-mach-e_100779690_h.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "When will self-driving cars hit the road?"
-    excerpt: "Tech afficionados often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers."
-    publishedDateTime: 2021-02-05T10:01:00Z
-    webUrl: "https://www.daytondailynews.com/news/when-will-self-driving-cars-hit-the-road/NG3UDA3MJZDSTLNKS3N4I6QPFU/"
-    type: article
-    provider:
-      name: Dayton Daily News
-      domain: daytondailynews.com
-    quality: 24
-    images:
-      - url: "https://www.daytondailynews.com/resizer/er6gSOekz065eDW-FmCHa9YfwMw=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/FEOBHDBAUDH6KTMUTOPB74QYDQ.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Will it be self-driving car, “electric car?"
     excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"

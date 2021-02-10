@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2021-02-05T10:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2021-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4fnBn2laCyVyB0LagmR9rIUtJmXfcPRy9kq1YQT6dl8H9PjCewqxEk0DcELjqINqs51Anj/Vtn9bjvRVrvAH0x5BihzVe9AC+xwMC1exeDdK7DRIxJfv/ztqTBvtzahbVWwJPSqz0NNZAjjdQP/OJJJ4Z5Ds0Xh70kiQJjjIqXspyl5Z4uyGMpg6XDBAHmx9XD6p+aML6SMlSHlzR/DV0+LzsNWTKwOyfYgrPsJlh5lJdyaHckcWg//sggrSsYhgjhNSdgszNe4aNerMWZiJ9abQIXFzclIiifjWXJau9trp1l9uJKIvjcZT1eclmcE2pr2QCGAT9TpEpnuMnWzHCZvmx6HRkyxpvEvq0Tf7KLM=;QBUIoOWuGeYh6jzejulwow=="
 ---

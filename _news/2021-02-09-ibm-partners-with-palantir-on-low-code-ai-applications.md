@@ -3,8 +3,8 @@ category: news
 title: "IBM partners with Palantir on low-code AI applications"
 excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
 publishedDateTime: 2021-02-09T01:02:00Z
-originalUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
-webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+originalUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
+webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
 type: article
 quality: 39
 heat: -1
@@ -28,9 +28,9 @@ related:
   - title: "IBM, Palantir forge partnership in low-code AI data processing space"
     excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
     publishedDateTime: 2021-02-08T13:53:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    webUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
     type: article
     provider:
       name: ZDNet
@@ -224,6 +224,6 @@ related:
         height: 284
         isCached: true
 
-secured: "RT+TCRdLvheV4QHDBGCKmfQ0tNm4AJMUv5qqUnwrBJ4Q3TC8tcvSxIMjPn8dS7oqAyBludL8YUWOGnHaTGv6d13exzQmvrUdpJ+zcRPWw2gx1pA5e39aw4siA60GQIghkWbStUuEWvsng27hM+FDpeFW0cuJo825G0qN29y30LQ+wqoGowsn21gsfDXuEFq3hU3wBLvGsUKct/wKX+dGNhm9WR839RC3obk8/k+jbHzKQ4+dgc/1arGAJubCrLw16c9pbZhHw3213BADtl+eDuib2FZc3Vl9TIIPqrPsXOsO3tSwh+MeJ5gexQET544tr8qcWG+0Tk0EWn1//PGHEH3H5cfR8fCQn/BK81Wls8I=;GgAHbOhoipISw2BSnU4QEQ=="
+secured: "AY99vrs/46+LAyPoTTH+I9f5qCmRGfP8ZLa3Xa3Po5Ns9v5O5D/0VvBRh9WOaQEN7OuJhKE+4x44TM8wssuokc+v+r0auS6dLq8Q4bK95jlWBsDBkTmUZS+tnPqjHZQPtFBQ9jTuhuzzYndNXgsvAb6f/OchBqwbS2OkdF/P2tVCNzUKl7IRiIG/yzv9OQK0+4UfWvauPPw3EPLlEVEtSoXFF2z5m2X+vmwnNdOiFVgeiSEMpTOxoGFHwSTid5Gl+n7fQsysYyxXksY9809NM3OStubHwZ6rsVQWtblIbCmiIolj+d6AM57uLKGB5o4QnM7yWcqQtRpMi6AIs8oNN5vQeZm+6O7neWFkFdpgSIw=;Y2L+ZzOi/9ZrjMygx8c87Q=="
 ---
 

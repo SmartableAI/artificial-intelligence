@@ -70,6 +70,20 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Nuance buys healthcare voice assistant startup Saykara"
+    excerpt: "Nuance Communications acquired Saykara, a startup building a medical AI voice assistant to help with charting and other administrative tasks. The deal is expected to build on Nuance's speech recognition tools for physicians."
+    publishedDateTime: 2021-02-10T02:44:00Z
+    webUrl: "https://medcitynews.com/2021/02/nuance-buys-healthcare-voice-assistant-startup-saykara/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 41
+    images:
+      - url: "https://medcitynews.com/uploads/2020/11/iNueng-sound-voice-illustratoni.jpg"
+        width: 782
+        height: 446
+        isCached: true
   - title: "Nuance buys AI voice assistant startup Saykara"
     excerpt: "Nuance Communications has acquired artificial-intelligence startup Saykara, Nuance said Monday. Seattle-based Saykara offers a mobile app that uses so-called \"ambient listening\" to automate clinical documentation for physicians—meaning the AI voice assistant \"listens\" in the background during a patient's visit with a physician and automatically documents notes in the electronic health record system."
     publishedDateTime: 2021-02-09T19:22:00Z
