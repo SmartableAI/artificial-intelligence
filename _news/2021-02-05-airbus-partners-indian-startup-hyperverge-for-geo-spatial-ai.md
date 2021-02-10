@@ -52,20 +52,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Airbus partners Indian startup for geo-spatial artificial intelligence"
-    excerpt: "OneAtlas, the Airbus geospatial digital platform delivering satellite imagery, analytics and services, will partner with Bengaluru-based startup HyperVerge, to implement and integrate new Artificial Intelligence (AI)-based analysis of satellite data."
-    publishedDateTime: 2021-02-05T11:50:00Z
-    webUrl: "https://www.uniindia.com/airbus-partners-indian-startup-for-geo-spatial-artificial-intelligence/south/news/2311019.html"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 52
-    images:
-      - url: "http://www.uniindia.com/cms/gall_content/2021/2/2021_2$largeimg05_Feb_2021_175227880.jpg"
-        width: 595
-        height: 350
-        isCached: true
 
 secured: "+MeOwUbPxtVEtdpMPVw+HDgacYxFs7anUuT1M9RLKXI7PHG9QhjO5cPTcRiRg2ZLPUowPgzgErojXdSXsVi+38zCfooMQJ65l25+O2F+cA5Ve5cUo5xuTmXKlYQK3mmvAJtFkbkreEIIf4/TwwZGdNkGSzHu2NjNT0rvoS0GyJkeBmBlcWSZsSlQloJokmNELeVczg9OcRfx55+khuzT1zylrqgfQ5PUXAFG0iitALf4N7nDKEwE3DVpsLrIFDEz0C3F219VWkxhNtsBCL00rBcAo61K3Qq568Qlfi7wI0ciGypmhhhcXsjUHyTNE58LyeM3Xy1U1Dtyg6wT+8qT4VkkpOlR6c5dGDsdxZJPqxk=;eZIQhprdDEAbdbIW/BnXng=="
 ---

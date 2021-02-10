@@ -53,6 +53,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Sponsored: New to coding? Here's why Python is a strong place to start"
+    excerpt: "Or are youy already a programming pro, experienced Minecraft modder, or Lua-savvy Roblox creator? Find out how you can put your expertise to work and teach kids game development with iD Tech."
+    publishedDateTime: 2021-02-10T03:26:00Z
+    webUrl: "https://www.gamasutra.com/view/news/376895/Sponsored_Just_getting_started_with_coding_Heres_Python_is_a_strong_place_to_start.php"
+    type: article
+    provider:
+      name: Gamasutra
+      domain: gamasutra.com
+    quality: 24
+    images:
+      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1003734.jpg"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Sponsored: Taking your first steps into coding? Why Python is a strong place to start"
     excerpt: "If you're looking for an approachable coding language to begin programming, Python is an excellent starting point."
     publishedDateTime: 2021-02-08T15:51:00Z

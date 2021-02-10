@@ -39,6 +39,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "AWS Boosts Aussie Presence As It Hangs Adelaide Shingle"
+    excerpt: "ADELAIDE: Tech giant Amazon is opening its doors in Adelaide, with plans for its innovation-focused cloud computing subsidiary to move into the South Australian capital’s Lot Fourteen precinct. AWS said the group’s new office will include Amazon Web Services (AWS) and Amazon Sciences,"
+    publishedDateTime: 2021-02-09T22:53:00Z
+    webUrl: "https://www.channelnews.com.au/aws-boosts-aussie-presence-as-it-hangs-adelaide-shingle/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 54
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2019/02/aws-poster.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "5pgGh1jTWtDOg9tVwwsB+9LMulZzPmxA7qDDvdjmwux8Y23/mjPa/XCfqp1V66Rwv5V08AfL08zo50ESpXingNLJY5MV7BoFDzShkshDKui9h+0vnpGE+zi00W+bTLQF1yjLW0s21VqfjF+zJ+7Irc9fDmXjjqkLLHQyJKtVg//SzJagRGVLrVg/efG8ZjqW9c6K8yozFOFqnqsbdruHRYdoHBObKcS03QwJuUge9zNm9OGfxgvRFO9lDLipQ+aEm+tG+cUYBPvNVTrN8xMmAYqZI7n4uRNoIYmibJ9zcXx+LWVGVZxqDKD9nBwRvVAXGOstzU5in1gb0LKxti0lGJUGPLqw2DdrtoUh6sSTsE5dy3PIHq3gGnFoqiiYX2RR12858NHem4+0MwhFvH8HtjvgvYE07+50rlNiSBvjvnWB/9CVfSfEmivLfq1QX4ehRlll5GFSUsPj+0LY0yxmsYXPEqoLMrhTdUCL3/TJoVultSLhdxx+1cAtQRdBnonm/quvJmU7dw9hfftMcS0kAQ==;/iI/myj6fX23BObdwPd0IA=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Cloud lock-in: Why the microservices cure might be worse than the problem"
 excerpt: "Commentary: Microservices can be a great thing to drive enterprise agility, but it can also create all sorts of costs for those trying to avoid cloud lock-in."
 publishedDateTime: 2021-02-09T19:05:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
 type: article
 quality: 73
 heat: 73
@@ -30,6 +30,6 @@ images:
     height: 833
     isCached: true
 
-secured: "3OqgPN61GUKcYLOrUGrenIpDDKsA8aqlChFaruMQ1aMg/+8zttC3bBOVcw3PzqfOTMwLyEDkN5ZtTTMSL24ii4erFiKfLwsOQg4pIXJwWYxQZoUrgX9awf0N70G7Cn2CvbLsdOB0w3S9JD6aPFCbeG9DS465Qvt7jORr2XpkHwIR1CneK1d0OjMlx7prtWYib+jH33n2N13smr9RqnWJSygSBnzWzbpm1riOzMCLB6UydsId/3TKHqZWl3kXMiJy8rICp4XEY+4wcPf+yVpkpbUsJLjl85SbQF+zBOnsZ61TCmRLJ9Ipfw0MtOrC+4T51IFmX+oZyZ8e1jXRVBmHdquAdZBF+S1hya+InnT6VcI=;bF9QjuYXGCelcy3WAzzy3w=="
+secured: "wq33vw0+T1hgX98yU5+18FNNSsVNwvXcINh4i7X84udq0wJsEFFeVZmb7nvwL0FqwCJOLpaq7ampGCumFxZi/9rob23D+BK/uR4pa0FHaMTm9y1uUnt2yVlM/syN9Qn2ck/IPqj+Ctc12k6TEJwIHVkJ7HcVZui0dFU1bFUD9Gd6Sr4qd5n05fscUNs5+oeTxCcVuvcuKh3M3ATRU2cE4KgdVCX9gCV7ri9rTxskHbXlD5pel/+8n3QGQPAljfzigWpV+YIdi4wD25k1jCbkL5gr5YIygCuSzkCz5+XzEf3iNSHiXQqgraf8grVSatJRnuj7xJPMwNDEBrsaU2dsk/2EQHT2LSJJXRQ2ULFJI2E=;i+OgvCtvZQHYkSU/vkltnA=="
 ---
 

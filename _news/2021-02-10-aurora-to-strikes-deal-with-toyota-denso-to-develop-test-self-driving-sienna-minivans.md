@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota And Aurora Craft Deal To Develop Self-Driving Taxis"
+    excerpt: "A deal between Toyota and a fast-growing self-driving technology company shows how the autonomous vehicle market is developing. Car buyers look to be the last option for this kind of self-driving.  Toyota and its auto parts subsidiary,"
+    publishedDateTime: 2021-02-09T23:15:00Z
+    webUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/"
+    ampWebUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/02/Aurora-Sienna-1200px.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
     excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
     publishedDateTime: 2021-02-09T22:05:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com.au/news/aws-expands-into-adelaide-560775"
 webUrl: "https://www.crn.com.au/news/aws-expands-into-adelaide-560775"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: CRN Australia
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Boosts Aussie Presence As It Hangs Adelaide Shingle"
+    excerpt: "ADELAIDE: Tech giant Amazon is opening its doors in Adelaide, with plans for its innovation-focused cloud computing subsidiary to move into the South Australian capital’s Lot Fourteen precinct. AWS said the group’s new office will include Amazon Web Services (AWS) and Amazon Sciences,"
+    publishedDateTime: 2021-02-09T22:53:00Z
+    webUrl: "https://www.channelnews.com.au/aws-boosts-aussie-presence-as-it-hangs-adelaide-shingle/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 54
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2019/02/aws-poster.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AWS expands into SA through new Amazon office"
     excerpt: "Amazon Web Services (AWS) has expanded into Adelaide with the opening of a new Amazon office in the state. Based at Adelaide’s technology precinct Lot Fourteen, the cloud giant's new location is expected to create more than 50 jobs by 2024 between AWS and its artificial intelligence (AI) and machine learning (ML) research subsidiary Amazon Sciences."
     publishedDateTime: 2021-02-08T03:12:00Z

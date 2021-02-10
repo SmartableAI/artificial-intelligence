@@ -89,20 +89,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "SME-focused fintech Thrive starts £2 million crowdfunding campaign"
-    excerpt: "Thrive, a fintech that promises to automate financial admin for SMEs has announced a crowdfunding campaign on Birchal, with the goal of raising up to $2m to fund its launch plans for later this year."
-    publishedDateTime: 2021-02-05T12:13:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86037/sme-focused-fintech-thrive-starts-2-million-crowdfunding-campaign"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "How Fintech Can Help Streamline Your Company’s Financial Operations"
     excerpt: "Huge.” “Surging.” “Very hot.” Those were just a couple of the terms financial news outlets used to describe the fintech market in 2020. They weren’t just buzzwords. Fintech has seen double-digit growth in transaction numbers and volumes during the pandemic,"
     publishedDateTime: 2021-02-05T16:18:00Z

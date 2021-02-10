@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Alice MFT camera combines smartphone AI with interchangeable lenses, now live on Indiegogo"
-    excerpt: "A Micro Four Thirds camera that uses the same AI photo trickery as smartphones to improve the way pictures look promises open-source access for custom applications and live streaming video direct thro"
-    publishedDateTime: 2021-02-09T15:25:00Z
-    webUrl: "https://www.dpreview.com/news/5944088199/alice-ai-mft-camera-pre-order-campaign-goes-live"
-    ampWebUrl: "https://m.dpreview.com/news/5944088199/alice-ai-mft-camera-pre-order-campaign-goes-live.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/5944088199/alice-ai-mft-camera-pre-order-campaign-goes-live.amp"
+  - title: "Alice Camera Brings AI and Deep Learning to a Full-Size Camera"
+    excerpt: "In an attempt to bridge the gap between the power of computational photography that is backed by artificial intelligence and the physical benefits of larger sensors and optics, Alice Camera was born."
+    publishedDateTime: 2021-02-09T16:41:00Z
+    webUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-learning-to-a-full-size-camera/"
     type: article
     provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 49
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 56
     images:
-      - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/5944088199/Product_-_Landscape-05_copy.jpeg"
-        width: 590
-        height: 442
+      - url: "https://petapixel.com/assets/uploads/2021/02/Alice-Camera-Adds-AI-and-Deep-Learning-to-a-Full-Size-Camera.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "neeO81LP4xrr+Qxy9gLnq1WQBb5UaEDop8LjKMWmctBNLq5hV64PI3Ltb6Rl7zwBrPG3gTtHAFbGNVuogO9GzibaCcPZQYUlNUk3XQzLLDPRZrR7/ampS6AvsCjTXBReLwC9bWtsduag60AY5NlqwwIkFWBc9O6Dl2iJQifQRfPx/WU3pu1nflmvu4XaOOK2a3L3L2Hg6JwUMmQHbJR0GqDH64JAf38sqN8n7T7Y1J8eH4kEqBSvpUHluKnbRsu3CuCVNrLEIzvpKKZFEXGJeiZgra1YiUj+52AgpgU1gFuUpD/32GMiFJ6Qk116MJr6ad2sppK5Rn7ryno509Tyq9rgY7vKRXlqgU9k/xw6mQs=;RB6yJAMPXN3myX7tpmsYPg=="

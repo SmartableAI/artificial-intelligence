@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/02/epcc-selects-cerebras-systems-ai-sup
 webUrl: "https://insidehpc.com/2021/02/epcc-selects-cerebras-systems-ai-supercomputer-to-rapidly-accelerate-ai-research/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 325
     height: 325
     isCached: true
-
-related:
-  - title: "EPCC chooses Cerebras' massive chip for new supercomputer"
-    excerpt: "EPCC, the supercomputing center of the University of Edinburgh, will deploy a Cerebras CS-1 supercomputer for AI-based research. The Cerebras CS-1 system uses the large Wafer Scale Engine (WSE) processor alongside an HPE Superdome Flex Server system for front-end storage and pre-processing,"
-    publishedDateTime: 2021-02-05T11:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/epcc-chooses-cerebras-massive-chip-new-supercomputer/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/cs-wafer-comparison-gpu-black_cer.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "uwvqaCh/ByZUCdMF09zqCxoI1Y9UrHk8ExwlGikG0LyusPLqBC8HQBRm+2PGkQqgzaNmxf1JrlATTZPCJskBwpKS1AMZ6ZZOJL0w0+OaM7MnBurjw1TEPcUmnBpIy6ov9nNkeSgT2QzRIBGpJFiiRxhXsxETD/Eogf+d3EKBruY2t4S2IymjFED9ErC9u3Ty1CHa6NDjQ7DPntW9nXiSLuHTbULis2LFzkQyJs94IPVBGmn01brg/ydT9jSUXMmFH8Mn3V2aQBYBUtoe5VDWQy10vI9atgX91lndHAeMx4kP57hLmDpvmL/pW/2j/9Xq4l8qu+KWAzJ3DoGfZ4Q6B3qG6bgGocIvDNYDQ7YThFI=;IxdNnGuDmow1WDm4ZAagrA=="
 ---

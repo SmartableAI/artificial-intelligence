@@ -102,20 +102,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
-    excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
-    publishedDateTime: 2021-02-05T12:04:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/general-dynamics-information-technology-sell-microsoft-azure-us-agencies-aws-defense/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 59
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/ConnectedSoldier.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
     publishedDateTime: 2021-02-09T13:01:00Z
@@ -126,7 +112,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 54
+    quality: 56
   - title: "Activ Surgical Joins Microsoft for Startups Program"
     excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"
     publishedDateTime: 2021-02-06T07:56:00Z

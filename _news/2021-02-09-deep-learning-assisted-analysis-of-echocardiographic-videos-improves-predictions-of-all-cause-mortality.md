@@ -41,6 +41,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI can predict early death risk"
+    excerpt: "Researchers have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm -- an example of what is known as machine learning,"
+    publishedDateTime: 2021-02-10T03:09:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210209113914.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Geisinger researchers find AI can predict death risk"
     excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm—an example of what is known as machine learning,"
     publishedDateTime: 2021-02-09T15:48:00Z

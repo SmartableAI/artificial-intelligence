@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "You’re doing cloud-based AI and machine learning wrong"
-    excerpt: "Artificial intelligence and machine learning are hard, and most building these systems don’t know what they are doing. Here’s how to avoid AI/ML failures."
-    publishedDateTime: 2021-02-05T11:03:00Z
-    webUrl: "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html"
-    ampWebUrl: "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/success_roadmap_perserverance_determination_challenges_thinkstock_155099452-100749443-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Amazing Ways You Can Combine AI, 5G, And Machine Vision To Transform Fish Farming"
     excerpt: "Artificial intelligence, 5G, and machine vision are changing aquaculture. Several companies, including Cermaq and Google's parent company Alphabet, are transforming the traditional industry of fish farming with high-tech to provide individualized care for fish."
     publishedDateTime: 2021-02-08T05:20:00Z
@@ -50,34 +34,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020c96074cb8469b584b7e3%2F0x0.jpg%3FcropX1%3D551%26cropX2%3D2028%26cropY1%3D0%26cropY2%3D1108"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Alice Camera Brings AI and Deep Learning to a Full-Size Camera"
-    excerpt: "In an attempt to bridge the gap between the power of computational photography that is backed by artificial intelligence and the physical benefits of larger sensors and optics, Alice Camera was born."
-    publishedDateTime: 2021-02-09T16:41:00Z
-    webUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-learning-to-a-full-size-camera/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 56
-    images:
-      - url: "https://petapixel.com/assets/uploads/2021/02/Alice-Camera-Adds-AI-and-Deep-Learning-to-a-Full-Size-Camera.jpg"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "How AI Is Learning to Identify Toxic Online Content"
-    excerpt: "One solution might be AI: developing algorithms to detect and alert us to toxic and inflammatory comments and flag them for removal. But such systems face big challenges. The prevalence of hateful or offensive language online has been growing rapidly in recent years,"
-    publishedDateTime: 2021-02-09T06:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/can-ai-identify-toxic-online-content/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 43
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/C9A31747-FBED-41A5-8820ED507C404BB0.jpg"
-        width: 790
-        height: 496
         isCached: true
 
 secured: "c2GNJM/bdL+npqWVDpLcCLLIrHqagmmlo9u1nOzhpGzkd6Y+fySu+9MrWz0gHo68pN0qc0/OGxERayNaxz+7GRZn8PoVYsPBSOZZdtjPyAHSyod96D6kTgsTgwaMU2k/sTjYbJaOzgce6DzTF0LUqAHvOGP7bAcdj8V7ycVDzr1R9hd73svh9OHXquU4L1TOg2KnvDbJVyJM3vX+R8OurpxaotEGacx1xdPO0MT5bcRWf9O2gqRKSbOT+Ff4SbXbuuaaH85Ej7N140SRoHmsl8BXibbGeiYfEz6VqhaCzvO5ZkUWv5qhubb6yczgEgn3zZrWarpcvOFvMiHzZeEMMsNVxETSgK6DZN8n5nLjrh8=;MIXXHEkUjrQ9cpAkMx9CHA=="

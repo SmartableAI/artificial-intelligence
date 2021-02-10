@@ -2,6 +2,49 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-12-09-viacomcbs-migrating-entire-broadcast-footprint-to-amazons-aws-cloud-exclusive.md",
+      "title": "ViacomCBS Migrating Entire Broadcast Footprint to Amazon’s AWS Cloud (EXCLUSIVE)",
+      "excerpt": "Those include AWS Elemental media services, Amazon Rekognition (AWS’s service that adds image and video analysis to applications) and Amazon SageMaker (AWS’s service for building, training ...",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/",
+      "originalUrl": "https://variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://variety.com/wp-content/uploads/2020/09/viacomcbs-logo.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/amp/",
+      "publishedDateTime": "2020-12-08T17:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b.md",
       "title": "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+",
       "excerpt": "BEIJING, Dec. 9, 2020 /PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia ...",
@@ -1179,40 +1222,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery.md",
-      "title": "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery",
-      "excerpt": "ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery",
-      "originalUrl": "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

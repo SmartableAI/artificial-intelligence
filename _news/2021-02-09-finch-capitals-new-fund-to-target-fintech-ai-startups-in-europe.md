@@ -75,20 +75,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "SME-focused fintech Thrive starts £2 million crowdfunding campaign"
-    excerpt: "Thrive, a fintech that promises to automate financial admin for SMEs has announced a crowdfunding campaign on Birchal, with the goal of raising up to $2m to fund its launch plans for later this year."
-    publishedDateTime: 2021-02-05T12:13:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86037/sme-focused-fintech-thrive-starts-2-million-crowdfunding-campaign"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Fintech Start-up Bytemine launches AI trading signals application for Day Traders"
     excerpt: "Transforming data into better trading outcomes LONDON, UNITED KINGDOM, February 7, 2021 /EINPresswire.com / -- Bytemine , a market prediction and analysis platform that provides trading signals for day-traders,"
     publishedDateTime: 2021-02-07T08:25:00Z

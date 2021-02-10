@@ -27,61 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "You’re doing cloud-based AI and machine learning wrong"
-    excerpt: "Artificial intelligence and machine learning are hard, and most building these systems don’t know what they are doing. Here’s how to avoid AI/ML failures."
-    publishedDateTime: 2021-02-05T11:03:00Z
-    webUrl: "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html"
-    ampWebUrl: "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html"
+  - title: "Using machine learning to identify patients with a mix of psychotic and depressive symptoms"
+    excerpt: "A way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms has been developed by researchers at the University of Birmingham."
+    publishedDateTime: 2021-02-08T17:50:00Z
+    webUrl: "https://www.news-medical.net/news/20210208/Using-machine-learning-to-identify-patients-with-a-mix-of-psychotic-and-depressive-symptoms.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210208/Using-machine-learning-to-identify-patients-with-a-mix-of-psychotic-and-depressive-symptoms.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/Using-machine-learning-to-identify-patients-with-a-mix-of-psychotic-and-depressive-symptoms.aspx"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
     images:
-      - url: "https://images.idgesg.net/images/article/2018/02/success_roadmap_perserverance_determination_challenges_thinkstock_155099452-100749443-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Abstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "The Amazing Ways You Can Combine AI, 5G, And Machine Vision To Transform Fish Farming"
-    excerpt: "Artificial intelligence, 5G, and machine vision are changing aquaculture. Several companies, including Cermaq and Google's parent company Alphabet, are transforming the traditional industry of fish farming with high-tech to provide individualized care for fish."
-    publishedDateTime: 2021-02-08T05:20:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/02/08/the-amazing-ways-you-can-combine-ai-5g-and-machine-vision-to-transform-fish-farming/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/02/08/the-amazing-ways-you-can-combine-ai-5g-and-machine-vision-to-transform-fish-farming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/02/08/the-amazing-ways-you-can-combine-ai-5g-and-machine-vision-to-transform-fish-farming/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020c96074cb8469b584b7e3%2F0x0.jpg%3FcropX1%3D551%26cropX2%3D2028%26cropY1%3D0%26cropY2%3D1108"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Alice Camera Brings AI and Deep Learning to a Full-Size Camera"
-    excerpt: "In an attempt to bridge the gap between the power of computational photography that is backed by artificial intelligence and the physical benefits of larger sensors and optics, Alice Camera was born."
-    publishedDateTime: 2021-02-09T16:41:00Z
-    webUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-learning-to-a-full-size-camera/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 56
-    images:
-      - url: "https://petapixel.com/assets/uploads/2021/02/Alice-Camera-Adds-AI-and-Deep-Learning-to-a-Full-Size-Camera.jpg"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "Bringing AI to the edge"
-    excerpt: "It seems that much of my work these days is concerned with bringing AI to the embedded-systems domain, understanding what the implications are and how companies should deal with it. In the discussions with technical experts and business leaders,"
-    publishedDateTime: 2021-02-08T07:51:00Z
-    webUrl: "https://bits-chips.nl/artikel/bringing-ai-to-the-edge/"
-    type: article
-    provider:
-      name: Bits&Chips
-      domain: bits-chips.nl
-    quality: 19
 
 secured: "pvdartwEKbM/mHc5CRYgWGq8Lasd8TKU4qVT9zMrTZS8w41vjk/YDcCWqd/icSep6rMUN/AY4rcxEsCumSjltJPClwpSondoHNmF5FkZz7ljz6bR68hh7vAATMm8J71bI7ZV5xZU5uaGzyYGz1Qec5bSWejoz0TwM0pfYkH3KmaAGSrkh4YTsUoeW1v7J0jVGTKV3wKJbYXlg0LgFkjza0ot6W3j0tfy/DCrt8rsEte8sUFgj/sd3R5tyKnfjFrCivTmdj8z85m7dKucbJkZqiRKHEXzVabIO3hzAl5qW2tq9dg6puNVdYvR7a4KHbDtBJXb90vZj+2yC8ybP7OdXiLl1yVwpckYc67oLzjoZ7VbpZv68JzxyJg+MDjeVXLXl6tROCFRLDaQ//JoEFK281WDFHiYM5Zd4x1tWIn6X7imQuJJiiuAM50PEmojkce4tn429Rgc3ZS+BKjdIL36oIsFM/xlUyr58CU61AJycVg57e48RTp2WUXP2tN4mtF1kg8VAn0sRdPS4TAqRLa0wQ==;2kQlJVuZPaYiWhcVMgLODw=="
 ---
