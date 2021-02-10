@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2237949/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
 type: article
 quality: 65
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
+    quality: 0
+  - title: "The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
+    excerpt: "In terms of opportunities, the artificial intelligence in manufacturing market is expected to grow from $513.6 million in 2017 to $15,273.7 million in 2025; it is expected to grow at a CAGR of 52.2% during the forecast period."
+    publishedDateTime: 2021-02-09T09:50:00Z
+    webUrl: "https://www.morningstar.com/news/accesswire/628713msn/the-artificial-intelligence-in-manufacturing-market-is-expected-to-reach-152737-million-in-2025-with-a-cagr-of-522"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 0
 
 secured: "PQwRo8FIF0WWUA6kSYNROolIt2fhJYVMZyuAGJGuTabD8mV+pN8iUObUjjL+EmEyXxGezE8RFGD6//eCiu61DIqQzUgmkhoB0vBQ9Kum48+1vZU5kelgI96oWGnNqVL97fQCloufUwvPEc15pb/f/+NmSbsbiiiXoLbv+0nyTuQgPH2BP+FSnxO/UqXDWkYCUMp4IEqW5ifY5c2kX9YqPq8O3SGQ9P2NVVzbcQZCqJe+iJmbUrMmslajTLYtKC99Ej6SoN/xI+51RDQq5nPgqZ+9JAOC3GJJugRdTBD/wvfH0EaoXGTPG2buqWs2Ot1scdxuishS6FRxUIDvEcrSD05/JbJvP87QxRdgleYe+frBFTjJ0dClsmX2G+SuxTTySessIP/69Qbx+PfWsL4Zyh1FSiG9kMX3KJIOCdekz8nE9Fl2SBvMcpqQEEWBXeyEAQFHVyS+U57vfBP3rQ/w9VCsq4xkuMo2y5/IBONJ4kBkDv23w7D2M3PpGRhWbEc91476nUq2HOJBw9smDNRiCg==;o7PsW53+eypwkoGHrCpQHQ=="

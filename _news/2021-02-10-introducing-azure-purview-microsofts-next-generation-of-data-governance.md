@@ -112,6 +112,20 @@ related:
         width: 1000
         height: 387
         isCached: true
+  - title: "4 recent studies exploring AI in healthcare"
+    excerpt: "In the past decade, medical researchers have become increasingly interested in artificial intelligence's potential to improve healthcare by reducing workflow inefficiencies, predicting health outcomes and speeding up diagnoses."
+    publishedDateTime: 2021-02-10T19:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
     excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-09T12:27:00Z

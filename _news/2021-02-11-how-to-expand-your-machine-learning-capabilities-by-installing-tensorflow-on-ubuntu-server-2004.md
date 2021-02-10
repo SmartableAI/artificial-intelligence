@@ -1,12 +1,12 @@
 ---
 category: news
 title: "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04"
-excerpt: "If you're looking to add Machine Learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04. TensorFlow is an open source development platform for machine learning (ML). With this software platform ..."
-publishedDateTime: 2021-02-10T16:01:00Z
-originalUrl: "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
-webUrl: "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+excerpt: "If you're looking to add Machine Learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04."
+publishedDateTime: 2021-02-10T16:07:00Z
+originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
 type: article
 quality: 110
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Google AI
-  - AI
   - Machine Learning
+  - AI
+  - Google AI
   - TensorFlow
 
 images:
@@ -47,7 +47,21 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Running multiple HPO jobs in parallel on Amazon SageMaker"
+    excerpt: "The ability to rapidly iterate and train machine learning (ML) models is key to deriving business value from ML workloads. Because ML models often have many tunable parameters (known as hyperparameters) that can influence the model’s ability to effectively learn, data scientists often use a technique"
+    publishedDateTime: 2021-02-10T19:12:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/running-multiple-hpo-jobs-in-parallel-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/10/Batching-HPO-Pipeline.jpg"
+        width: 800
+        height: 413
+        isCached: true
 
-secured: "Jy6BLBVYtvcArZ9APEisu8beIwkE8yDP0eSg8vshWhuHY0XRDqErsK89+2xcrIB42nm3xd9zu/L11eiDKZhZjDetIrJL/lkfFnGwVJ7C/5q5S1JF0bznEUKatEN+MoFAfYlg4XkGQJk6wDW3XkRHI/BP+18X10LOB3ua6lNRxJIcE6eRsXgt1XcRF3NiFUPbUuW415/9KZtAM6ZXWvsllGRiPgTmT39ZxspG4Vtxrx5UbLAlMTZo7xf9tjpy5FEy7rShKYpI4tdvWLOQE8wI+YIyRc1yzRQSYIvashetstYFUgC6DF/ZqoNvKVK/xuSx4EcU6LP3NMJ6vL3dHi6DA/iYO7pItR48RIEtr90wvs4JmL+wLit0PqXIgvN7eszMrCLOlZ24D9OqMCllz59QaPKdtl82LLzjtlOFknXK420ArJCiAZHACr8cGEvewkxwzOob2u4sU76B7Zpqofb97gpDzKLGEdlZTXf9+2AaYwX5pkYJ2yvoLC+Oh0igmVb3zZH6jJm2RnFUs/i6AjKQYQ==;sFeUVCAWv/1YsQaJ/IA3cQ=="
+secured: "4vxMxgZYPSXKdi78nn8K2q/70AUXi+o9rx4MzC/gS41aW8lCKi3nhGLO63jRptNPsE/haAD7Q9x8YdI3QfiaIKw4VMlTskod234Nq9SqEH8JPlcPB6AIh2151gpPr44RDHKkfwv9nb73/3UFKg5UUztN/jziLxiZ6vC9/e2B5mxP4F1rcqE/V7EAn4/elJVX98V3lA0U4WgdQYMRIttvOBbEj7oc3wN1hF6xYWCzWLAAc9JaTNRVttLrVuGdQwm005FREIpF1Sj9D4vD0qorS5DT91C2oO7+Bu41QsZUE7OXMbbq5F0fHL//NgdMh9g8PrwTGZG/2radWYOHi6FLY8kzuUtgqORKAZoKzgW+HY8=;zk/zeOV7DyXfcjGB4uHz4Q=="
 ---
 

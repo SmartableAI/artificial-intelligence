@@ -1,15 +1,21 @@
 ---
 category: news
 title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-excerpt: "Microsoft has a presence in most enterprise development and IT shops, so it’s not a surprise that the Azure AI and Machine Learning platform has a presence in most enterprise development, data analysis, and data science shops. Enterprise AI often has ..."
-publishedDateTime: 2021-01-21T04:57:00Z
-originalUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
-webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+excerpt: "Microsoft has a presence in most enterprise development and IT shops, so it’s not a surprise that the Azure AI and Machine Learning platform has a presence in most enterprise development ..."
+publishedDateTime: 2021-01-21T10:43:00Z
+originalUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html"
+webUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html"
+ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -17,11 +23,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-    width: 740
-    height: 493
+  - url: "https://images.idgesg.net/images/article/2019/08/itil-tips-for-implementation_lightbulb_innovation_process_strategy_iot_by-ipopba-getty-100808462-large.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "/LM/EqYYfmg10vSAHz9QgJYFlvGdEZT3TaL6QtdwouUzGWyNRmwa0JBumQotpTaZ6aml4h7xwaAE/iHbAvJE2st7/zZyqkpOpO96ZfJ9bA87nKrIfcV8sQQWY1+66Z3AZjw8nfgQFNJflSxpO1ntnzHzwbzrBzBsBKgnHA+9T7Ry1tHpmdThe27ZNJ9ijf+luNmPSqoOylSiAESfv9asj4AbC9S5dYCOsYR/UhhloosrDBB4sMeO0z0uxqNiQkVcLg6BArpqp7X6gj0/3FJfoDJofs0Jc7hu+94Esp2SpzEV78B/Tf/P9tdJTIvazA27niEEF0iM9NEN5sP8Smg98UVl7gsXldAqTkuozkffNWs=;ULGqZEMo4RZopr7Ruoeptw=="
+secured: "hJmCjVOFmRokRJQKC4E6P+OGQy0CMEYgIbQh8OIJIzqPY47VcK4h9E9LF83sov7WDSvhA4eHnB9XLe09e6l+6TnN39XSxtc71Vz/cg/a3dwjKERkhic3shXHhvpGpvog1t1fjcusPlZtxofNO+StIHA9Alou7l3C2dYK36ZaASBWYou0Fd/gXve4jSrr4fPyH4DR2JdvcOx5PwZya4hgH9ar1qGvzN6JvxpYlr+1Xis3t6pZoHqmgKluooazVmH4PfHQ+yhKVd7BaTa/T1ZOLm5kf/hbCQ06c45+/q8pD0gdQmRwjaKZpaJ/aVmvMMkOib8boTiN5U1MBSKmMHGBj81k78HcUyPvnGhsUoZrqBk=;9EPRDjjcRJAS0vNKm//yKA=="
 ---
 

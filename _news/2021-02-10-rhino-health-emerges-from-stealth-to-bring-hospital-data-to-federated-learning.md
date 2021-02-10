@@ -90,6 +90,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Chip startup NeuReality launches from stealth to make AI inference more efficient"
+    excerpt: "NeuReality Ltd., a startup working to develop more efficient artificial intelligence chips, today exited stealth mode and disclosed on the occasion that it has raised $8 million in seed funding. Tel Aviv-based NeuReality was founded in 2019 by former executives from Intel Corp."
+    publishedDateTime: 2021-02-10T19:07:00Z
+    webUrl: "https://siliconangle.com/2021/02/10/chip-startup-neureality-launches-stealth-make-ai-inference-efficient/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Neureality-founders.-From-left-to-right-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli.-Credit-Neureality.jpg"
+        width: 3247
+        height: 2124
+        isCached: true
   - title: "NeuReality Out of Stealth with $8M Seed for AI Compute Infrastructure"
     excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges from stealth today with $8M seed from Cardumen Capital, OurCrowd and Varana Capital to fuel the growth of real-life AI applications running at scale."
     publishedDateTime: 2021-02-10T17:18:00Z
@@ -109,6 +123,6 @@ related:
       domain: nocamels.com
     quality: 16
 
-secured: "qOr/DHnHGjiDgCi00j0+SFemx6vesvLYsgoY+LU6dP5xG9wmBx1IVIGUGEKH/DNII/wGo0Bt6sKO+fP5s11rAmNIJpqLIk+zQmWU9oiRJeaOiGfzCNcrC+N3k6n1s2Rriyeo5VqgbvdzA/q/0OQZB2HUxWffTYMNEx0XTTGhu7lIncFkIqwhhp8rTmbaNvaNVL1SsPRcKvk563sByq8yH9QCxfJz1f/lviwrwqXVHrx1DQeWukDZpFAcpHWPA7E6PaMSb1+3hATBUw9RJgY/pjOE7AFA872vmh1vsJUDF2S3Xzx43wBWOsds7cTRcXrj/Sq6nF17XckKTy6lS9TnIvMuwGDiBsl0WsURvJvAliQ=;RkZkc7FmMiqIIghWp+KqKg=="
+secured: "3U0kjOKIB91hIq3jZMVrDryolNF+00ULpeFUMqSnmiAYH4O2B5YGCYpEqvsH2tmtXY9iPnCyiIliC3MLmjuLWTWS7n2jHkvVIDeqIJcw6MxEs29bXLYMW5iKR9qpkO2RbJtDzBCF/EstVVtsWESidhtXmOR39+v17EEIzIu1jeTfq9v2ZDVjIR2XLwgQjmo0HbgJJO3hkif+6/y2zKSBLz22ILnfVIo2K7MHuPffN6be+DeA8bu5GlB6BmFWB7FBtBMQLmsbPhqIyiYZx2lx8KXNak2UYbK3GdKxybszBNpz+AixpJcMxqDxnOtUNcDAHt8CLZOblD/P96pzdfHTzTrQSyl4jhiOmnL14HkVooMne+xi+PCU/9Glpvow+8bSVs4zYZYrvmAeKFQ8MYgzxPY8Q2zYopLdQihqhZuktOy9ZK05JkCyL7zIe6VRI82/Kt86IXd0SnBzjUcci3Mloiy6vs2fitaPa/jdudYWxz5PbwkHZaqbtJKjFf9yJEZhiW5InI0CTpzAg+HaYCC99w==;hB+4AnBSu7ywaYjPPePl9Q=="
 ---
 

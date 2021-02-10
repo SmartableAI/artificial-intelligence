@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html"
 type: article
 quality: 59
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Mumbai: CSMIA bags ‘Voice of the Customer’ recognition by Airports Council International"
+    excerpt: "Mumbai's Chhatrapati Shivaji Maharaj International Airport (CSMIA) has earned yet another laurel for its initiatives over the last year in the face of the COVID-19 pandemic. It has been awarded the Voice of the Customer recognition by the Airports Council International (ACI),"
+    publishedDateTime: 2021-02-10T18:42:00Z
+    webUrl: "https://www.freepressjournal.in/mumbai/mumbai-csmia-bags-voice-of-the-customer-recognition-by-airports-council-international"
+    ampWebUrl: "https://m.freepressjournal.in/article/mumbai/mumbai-csmia-bags-voice-of-the-customer-recognition-by-airports-council-international/9fade8f7-7100-4dc9-97df-a0620e229761"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/mumbai-csmia-bags-voice-of-the-customer-recognition-by-airports-council-international/9fade8f7-7100-4dc9-97df-a0620e229761"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 50
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2020-03/dedb16f6-629a-4847-9cb2-8e6cdd8d7b29/AIRPORT_03.jpg"
+        width: 600
+        height: 356
+        isCached: true
   - title: "KIA bags ‘Voice of the Customer’ global recognition"
     excerpt: "(BIAL) has secured global recognition for being the ‘Voice of the Customer’, in an initiative by the Airports Council International World, by assessing passengers’ requirements and implementing various measures during the COVID-19 pandemic."
     publishedDateTime: 2021-02-08T12:47:00Z
@@ -146,20 +162,6 @@ related:
       name: Travel PR News
       domain: travelprnews.com
     quality: 35
-  - title: "‘The Voice of the Customer’: ACI recognises airports for consumer engagement during pandemic"
-    excerpt: "The Voice of the Customer’ recognises airports that demonstrated best efforts to understand the changing needs of their customers during the crisis."
-    publishedDateTime: 2021-02-08T09:56:00Z
-    webUrl: "https://www.moodiedavittreport.com/the-voice-of-the-customer-aci-recognises-airports-for-consumer-engagement-during-pandemic/"
-    type: article
-    provider:
-      name: Herve Bouillonnec
-      domain: moodiedavittreport.com
-    quality: 28
-    images:
-      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
-        width: 280
-        height: 280
-        isCached: true
   - title: "Mumbai Chhatrapati Shivaji Maharaj Airport achieves ACI ‘The Voice of the Customer’ recognition"
     excerpt: "The accolade demonstrates the efforts of the airport in gathering passenger feedback to better understand their needs and preferences during the COVID-19 pandemic."
     publishedDateTime: 2021-02-10T12:07:00Z
@@ -201,6 +203,20 @@ related:
       - url: "https://www.internationalairportreview.com/wp-content/uploads/Customer-1.jpg"
         width: 750
         height: 450
+        isCached: true
+  - title: "CSMIA Bags ‘Voice of the Customer’ Recognition by ACI"
+    excerpt: "CSMIA has been awarded \"The Voice of the Customer\" recognition by Airports Council International (ACI), demonstrating the efforts of the airport in gathering passenger feedback to better understand their needs and preferences during the pandemic."
+    publishedDateTime: 2021-02-10T19:48:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21209736/chhatrapati-shivaji-maharaj-international-airport-csmia-bags-voice-of-the-customer-recognition-by-aci"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 24
+    images:
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2021/02/Image_1___Chhatrapati_Shivaji_Maharaj_International_Airport.602438548eb48.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 683
         isCached: true
   - title: "ACI World launches 'Voice of the Customer' recognition for airports"
     excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."

@@ -93,6 +93,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Chip startup NeuReality launches from stealth to make AI inference more efficient"
+    excerpt: "NeuReality Ltd., a startup working to develop more efficient artificial intelligence chips, today exited stealth mode and disclosed on the occasion that it has raised $8 million in seed funding. Tel Aviv-based NeuReality was founded in 2019 by former executives from Intel Corp."
+    publishedDateTime: 2021-02-10T19:07:00Z
+    webUrl: "https://siliconangle.com/2021/02/10/chip-startup-neureality-launches-stealth-make-ai-inference-efficient/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Neureality-founders.-From-left-to-right-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli.-Credit-Neureality.jpg"
+        width: 3247
+        height: 2124
+        isCached: true
   - title: "NeuReality Out of Stealth with $8M Seed for AI Compute Infrastructure"
     excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges from stealth today with $8M seed from Cardumen Capital, OurCrowd and Varana Capital to fuel the growth of real-life AI applications running at scale."
     publishedDateTime: 2021-02-10T17:18:00Z

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "IT Veterans launch $1.5 million artificial intelligence Startup BiQ Robot, in response to evolving Salesforce needs."
-excerpt: "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot, soon available on the"
-publishedDateTime: 2021-02-08T18:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19543999"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19543999"
+excerpt: "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot , soon available on the Salesforce AppExchange. BiQ Robot deep-cleans and updates Salesforce contact files' details autonomously through the application of AI and other innovative technologies."
+publishedDateTime: 2021-02-09T02:42:00Z
+originalUrl: "https://menafn.com/1101567043/IT-Veterans-launch-15-million-artificial-intelligence-Startup-BiQ-Robot-in-response-to-evolving-Salesforce-needs"
+webUrl: "https://menafn.com/1101567043/IT-Veterans-launch-15-million-artificial-intelligence-Startup-BiQ-Robot-in-response-to-evolving-Salesforce-needs"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
+
+images:
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
+    isCached: true
 
 related:
   - title: "Salesforce taps AWS machine learning tool for document automation in health cloud"
@@ -47,6 +51,6 @@ related:
       domain: benzinga.com
     quality: 28
 
-secured: "jTt4rK2zjafF6nyPKebTfkf626ewiEbR0z0UPe6RvQ6hM9Mw7XQQIyVUnDcuxfrcg9sY1ELIY9wueQLcyNqkMV+93/9L9n1ShteoV/M0d0j8nF1ZD0o7EPaernk+2i5yuzOTgEt78Xv8BeyyXa1AGbPXn+y3RwD54tA4/vkca5RAOqH88twE1CT96P5J5YGj01fdpmRkTtzeSp1J71gUBhQEyMtW04JBt2286wkzDGBPA2fijpnJvYuoG40g++AxmJ3YQLnKqnika51bH0YYyzH6yF/xU2l0scuUlNU7GHMo4PPNSZNsN78QUgwrBs3AKudA51o8saCsRrt3apFPZd2g1F+V3YhgoWoiqeE+SkY=;F+SiNgj2VePm0mRAC0XIXQ=="
+secured: "UuR6WG/1KpOtmmWla6P9nnFJmpFmh9SypLLLk2WpsHbClcQaI9z1qUrlQtt8Z+TWVOI0Ew1Qc5wAKRc0EoFuVVaz6z4YHdtnMPnHlsrWTlXhwb0Xwk55hqtxPkBmYTqqiwf1dFZepJX1LgIAEvhtNSEVhf8Z3KAIHT2IQuLq6S3oSQkqE5zk0HfV0jagj1dLaUcASmVU5wNZ5kUyU6JNch2F7HRUAkehdP78OG+FdA/KzbDbTym2G736vBr68xgwxD9EIV5c0H1Eyj43h+ZVosdgmzEoTi5KmFhNddIPDv0mWmJj7lXDoPaogB+w2tqsb7aJ6N/owyWUWTVKnE4OjPrsO2mM4dCea93OdSrSAXI=;ZZc6Bx78qePQIN+di6SCAQ=="
 ---
 

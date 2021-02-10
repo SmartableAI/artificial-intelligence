@@ -99,6 +99,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 9
+  - title: "The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
+    excerpt: "In terms of opportunities, the artificial intelligence in manufacturing market is expected to grow from $513.6 million in 2017 to $15,273.7 million in 2025; it is expected to grow at a CAGR of 52.2% during the forecast period."
+    publishedDateTime: 2021-02-09T09:50:00Z
+    webUrl: "https://www.morningstar.com/news/accesswire/628713msn/the-artificial-intelligence-in-manufacturing-market-is-expected-to-reach-152737-million-in-2025-with-a-cagr-of-522"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "jFOqi+06Vx5AzUOo0BelzAQGEd1mQV82oyGooTbw4VjEPL/bZxGVUxq93/CiiqfXe0/2m0Un1+QDgiM6obPe5KRR3BqahnItUhuM2a2xbU67zizOQDJihlH2XrWiRDykOxHZN9xvzKTgEdxBh3AYB3l4qZlHWABmpJeZovex0qJSVG+BflpfipDoKj7OLQe0G8LqSArZq5XSFRgQ/faH5q8SvnUsiPKvYom34C70t8X4eU3w1ciE7wJbhlGI9XO7Jy6UUQornpkix2wRO3sClkmnxA6qOjF6QL30ho4KQthplrMKMhD/DycWTLkZgSazXhXEZ6w7BO5R8OdX0fLX/p/1VA3076xiirV4GQ4O9xY=;WGTZxRJZOiu5eWWqsTPjzQ=="
 ---

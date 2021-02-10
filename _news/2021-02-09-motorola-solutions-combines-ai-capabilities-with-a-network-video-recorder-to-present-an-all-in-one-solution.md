@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Motorola Solutions’ Artificial Intelligence Network Video Recorder"
-    excerpt: "Enables third-party cameras with advanced analytics and the ability to make updates remotely using Avigilon Cloud Services"
-    publishedDateTime: 2021-02-09T17:46:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-surveillance-storage/network-video-recorders-nvrs/product/21209482/motorola-solutions-motorola-solutions-artificial-intelligence-network-video-recorder"
+  - title: "How one startup is proving that AI can come up with ethical solutions"
+    excerpt: "Though artificial intelligence has shown to improve efficiency in business and other aspects of our daily lives, there’s certainly no shortage of moral conundrums that arise from its use. Whether it be the fear that it will take away jobs at a large scale or stories of racial and gender bias — like a health"
+    publishedDateTime: 2021-02-10T19:06:00Z
+    webUrl: "https://sociable.co/technology/how-one-startup-is-proving-that-ai-can-come-up-with-ethical-solutions/"
+    ampWebUrl: "https://sociable.co/technology/how-one-startup-is-proving-that-ai-can-come-up-with-ethical-solutions/amp/"
+    cdnAmpWebUrl: "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/how-one-startup-is-proving-that-ai-can-come-up-with-ethical-solutions/amp/"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 37
+      name: The Sociable
+      domain: sociable.co
+    quality: 74
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/AI_Appliance_Image2.6022c9def3702.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://sociable.co/wp-content/uploads/2021/02/Omdena.jpg"
+        width: 585
+        height: 376
         isCached: true
 
 secured: "I9viad5nfCpM2q3cQ96vz/8yUV0Nxh4IF0ybnReGvUQwHcJTGb4LyCs2/nopL18WEhW1An5w6HLgMxj52qrNpeh2DVytVt8bs3GmKKeWidrFNNMG8zHYRU0jQhWpNyk618t50upUx5o3nxE7OmKRTF4/xTscb15An6Kb3u1VMAOsdEpjicCpo+prLcFztAmUppgz9yCJViXRsxR/RUAg1mhMd63bMD1jwMTUgHKgltaCPvUFSutg4M24i1d3i3dRdzie1F6n36sGV/Lhglv2rBvEXtRl5x6fTUH/AFYiZs/lLomWdWRvAGq/OQMld+H3PxT2M6luvvzFt6EN8aZS2RGD/12DxRc0Ma3P7iOTHiY=;wuwovOAyI3EV6Iua0JMC4g=="

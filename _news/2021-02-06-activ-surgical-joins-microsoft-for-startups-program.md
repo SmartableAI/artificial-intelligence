@@ -112,6 +112,20 @@ related:
         width: 1000
         height: 387
         isCached: true
+  - title: "4 recent studies exploring AI in healthcare"
+    excerpt: "In the past decade, medical researchers have become increasingly interested in artificial intelligence's potential to improve healthcare by reducing workflow inefficiencies, predicting health outcomes and speeding up diagnoses."
+    publishedDateTime: 2021-02-10T19:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
     excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
     publishedDateTime: 2021-02-10T15:48:00Z
