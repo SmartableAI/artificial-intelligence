@@ -3,10 +3,10 @@ category: news
 title: "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04"
 excerpt: "If you're looking to add Machine Learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04."
 publishedDateTime: 2021-02-10T16:07:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
-webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+originalUrl: "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+webUrl: "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
 type: article
 quality: 110
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - Google AI
+  - AI
+  - Machine Learning
   - TensorFlow
 
 images:
@@ -62,6 +62,6 @@ related:
         height: 413
         isCached: true
 
-secured: "4vxMxgZYPSXKdi78nn8K2q/70AUXi+o9rx4MzC/gS41aW8lCKi3nhGLO63jRptNPsE/haAD7Q9x8YdI3QfiaIKw4VMlTskod234Nq9SqEH8JPlcPB6AIh2151gpPr44RDHKkfwv9nb73/3UFKg5UUztN/jziLxiZ6vC9/e2B5mxP4F1rcqE/V7EAn4/elJVX98V3lA0U4WgdQYMRIttvOBbEj7oc3wN1hF6xYWCzWLAAc9JaTNRVttLrVuGdQwm005FREIpF1Sj9D4vD0qorS5DT91C2oO7+Bu41QsZUE7OXMbbq5F0fHL//NgdMh9g8PrwTGZG/2radWYOHi6FLY8kzuUtgqORKAZoKzgW+HY8=;zk/zeOV7DyXfcjGB4uHz4Q=="
+secured: "Pr1H+bYTtrCKwGBYRf/aUDhJp6GVZU9xx9xbt2vPP1e5P1VJXeGn2HCcS3QlFzinCYGRQaW16XDiEOcTAg8va6Nha1oWxKsRDahAGfkncCG0vRZyG5cTvQ5cBh9EymLlDctm0uO6hNHVCXThAz79uRVDe9E7G1QLJ32ihZnc2kKFkRqckFeeh5mmoRX6YihMzH3o0x+wdEYQX8Uw/kg5m1liLxa+D33SJ6DjcHd64xRs5umnwwVHgeeMDKovVkOAq7fpcMSKyoLTZn+MjannrocyuiZLGu28uyyTeOPMTL/9C84aQeRiQC9Dzq8dEqYU9RTe0JjKYRrqzeZjUXhDW/o9g5RzNnKbLvtBh/uBEsw=;IR4gfJrWEkCf4X2KCF1WSA=="
 ---
 

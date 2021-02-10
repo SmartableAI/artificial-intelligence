@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is ..."
-publishedDateTime: 2021-02-08T13:11:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock/article_a596a384-6945-50fb-bb5b-ee15ccb0f52f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock/article_a596a384-6945-50fb-bb5b-ee15ccb0f52f.html"
+excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
+publishedDateTime: 2021-02-08T11:59:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/b9/0b95e751-9808-5551-9563-4755982ca8c3/602292ca96197.image.jpg?resize=887%2C630"
-    width: 887
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
+    width: 2251
+    height: 1179
     isCached: true
 
 related:
@@ -226,8 +226,8 @@ related:
         height: 710
         isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-    excerpt: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-    publishedDateTime: 2021-02-08T16:20:00Z
+    excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is scattered across hybrid cloud environments – without the need ..."
+    publishedDateTime: 2021-02-08T16:06:00Z
     webUrl: "https://stockhouse.com/news/press-releases/2021/02/08/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai"
     type: article
     provider:
@@ -240,6 +240,6 @@ related:
         height: 284
         isCached: true
 
-secured: "QVwGMh+veXuPtnu9WGwc4CONqgXMrHWVm8nam73qs6/LJWzHEZXnkNxZ3S7HIo41hCdItowI5t0iPOcc4W7zsokO3y+w+usE6gpP2AmeUCwdtW5YXfbDEHHcVGoNAx/DG2gj65BoiMNO/VRgVMK62n15q/7XlOZlzK9g2/gqPg1NLkFrZyi6BMM0TDtPrMiO7Y4XGxYj4oJlwheC5meovD3yVSQc/8QsFjq78CMcv9e+FECWLIsj6byQX2K2/uO+q3P8mDQD+MT6uv/ogtbjhUEIzb15IpTdOT18aL0RLEjUpoGB803CLCqpgByHGWbl4Relqm7MNF01t+tOn1b+WERj8Vo/BkL6ATySRG11RRM=;31O8NmMo+Kq35p5CHkaVxg=="
+secured: "OYPhTmUrKJTzffcbT5vFuIMKlJP6rJdASJkpk1S5GwaM0eZ/h/cA9Q62t5bHinHW1jpgw6Q302I+ssiEYvYrAO9fFip2j0CYgzfE3n3+RX5oXJhs6PsL8PN60Ga7EgbuwpgrsaqQm48LxBUAhumdYRBDmbxO9NThEjDChdZyYVnjEywll1l9mq5sI4tHhLX4mHH8VnliLbRRoV1FF/XK0UViUa+BK/Bxc8B3w2Yvf8lCXOhHNjAvzbHL88dxtiHd8ejeFcbFEe1ETCN3wFISsERh4T6pVsy4LgtapsqRjP96jceFp5AvOQGmH9rjJh3JThI286j9TGOV1n6fC2EU7HUWyE3gx4QjkrVkWPbIGSA=;Mau4XpL80+Zhp/naZxW50A=="
 ---
 

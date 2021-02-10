@@ -36,6 +36,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "What to Watch in Artificial Intelligence in 2021"
+    excerpt: "Artificial intelligence continues to be a focus and concern for businesses, regulators, and lawmakers alike. As we recently wrote, there was much activity and focus on artificial intelligence and"
+    publishedDateTime: 2021-02-10T21:07:00Z
+    webUrl: "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021"
+    ampWebUrl: "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
 
 secured: "ahNha8iVOsrmNJqcb7+/WaOluoNJYUgsn8zwdBGLesT9jXz67g73XpMHFEPa1mg91gH+T7E00b/EjOqnkTylcYYTtAKESGqRulG5yCV/6snTFTCTv5vzgt3Y2Yx+jFSLxR2HD6UAjTh66QLCOoyth70eN4jalq5QkBcGcfomhJSdmkZpqhPYlm2Aoazs7f01U9iY4A2odxiI95G/2kikZ7QZN8ZvYvcF8YPcvhvM0uJsp5BZgUNaqOaanX5V3NiGGRqSAfmM/D3h8kOBIvsWefAuh5xyd5/ehfsVsdYoxxoV9aDhbYmels6hqrFLdeeJbikQzbmoodUFklrXQPMURCMfGdQviND6VmmUlvmwado=;0PPl9BtS7CW6eT/yd3GioQ=="
 ---

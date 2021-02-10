@@ -64,6 +64,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence Predicts Death: Echocardiogram Medical Imaging, Computer Models Detect Mortality of COVID-19 Patients"
+    excerpt: "Geisinger Health System researchers created a computer algorithm that uses echocardiogram videos of the heart, which it can use to predict the probability of death within a year. Developers claimed it outperforms other medical predictors."
+    publishedDateTime: 2021-02-10T21:57:00Z
+    webUrl: "https://www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 30
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Artificial-Intelligence-Predicts-Death-Echocardiogram-Medical-Imaging-Computer-Models-Detect.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Ensemble machine learning prediction and variable importance analysis of 5-year mortality after cardiac valve and CABG operations"
     excerpt: "Despite having a similar post-operative complication profile, cardiac valve operations are associated with a higher mortality rate compared to coronary artery bypass grafting (CABG) operations. For long-term mortality,"
     publishedDateTime: 2021-02-10T14:41:00Z

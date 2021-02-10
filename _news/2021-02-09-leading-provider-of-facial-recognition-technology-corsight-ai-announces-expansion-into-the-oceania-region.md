@@ -52,6 +52,22 @@ related:
         width: 626
         height: 417
         isCached: true
+  - title: "Lawyers threaten to sue California State Bar over facial recognition technology"
+    excerpt: "In a letter sent Wednesday, the nonprofit Lawyers Committee for Civil Rights Under the Law demanded the California State Bar, a government agency, stop using software that they say discriminates against women and people of color taking the test."
+    publishedDateTime: 2021-02-10T14:45:00Z
+    webUrl: "https://www.sfchronicle.com/business/article/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
+    ampWebUrl: "https://www.sfchronicle.com/business/amp/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/04/22/24/17900811/15/rawImage.jpg"
+        width: 2048
+        height: 1489
+        isCached: true
   - title: "Meet in4m, An AI Tool That's Unlocking Access To Actionable Financial Market Insights"
     excerpt: "Benzinga held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10, 2020. In"
     publishedDateTime: 2021-02-08T12:27:00Z

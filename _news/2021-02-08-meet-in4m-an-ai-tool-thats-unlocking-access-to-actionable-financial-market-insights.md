@@ -68,6 +68,22 @@ related:
         width: 626
         height: 417
         isCached: true
+  - title: "Lawyers threaten to sue California State Bar over facial recognition technology"
+    excerpt: "In a letter sent Wednesday, the nonprofit Lawyers Committee for Civil Rights Under the Law demanded the California State Bar, a government agency, stop using software that they say discriminates against women and people of color taking the test."
+    publishedDateTime: 2021-02-10T14:45:00Z
+    webUrl: "https://www.sfchronicle.com/business/article/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
+    ampWebUrl: "https://www.sfchronicle.com/business/amp/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/04/22/24/17900811/15/rawImage.jpg"
+        width: 2048
+        height: 1489
+        isCached: true
   - title: "Biometric Privacy in the Era of COVID-19: Facial Recognition Compliance for Airports and Airlines"
     excerpt: "The commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries. This technology has had an especially transformative impact on the commercial aviation industry,"
     publishedDateTime: 2021-02-08T22:37:00Z

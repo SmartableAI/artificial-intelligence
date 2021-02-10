@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "10 rising stars at self-driving companies like Waymo, Aurora, and Cruise share their best career advice"
-    excerpt: "Insider asked bright young stars from Waymo, Aurora, and Nuro for their advice on starting your career in the fast lane."
-    publishedDateTime: 2021-02-06T07:04:00Z
-    webUrl: "https://www.businessinsider.com/career-tips-advice-rising-stars-waymo-aurora-nuro-yandex-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Apple doubled California self-driving test miles in 2020, disengagement rate improves"
     excerpt: "Each year, the California Department of Motor Vehicles publishes detailed information from the companies testing self-driving cars in the state. This year’s data has just been made public, and it reveals that Apple completed 18,"
     publishedDateTime: 2021-02-09T20:47:00Z

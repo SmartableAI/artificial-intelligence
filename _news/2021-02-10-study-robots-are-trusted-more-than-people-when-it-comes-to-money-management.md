@@ -3,10 +3,10 @@ category: news
 title: "Study: \"Robots\" are trusted more than people when it comes to money management"
 excerpt: "COVID-19 has accelerated digital transformation across industries. A new study takes a look at the sentiments regarding \"robots\" in the financial services sector."
 publishedDateTime: 2021-02-10T08:24:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
+originalUrl: "https://www.techrepublic.com/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
+webUrl: "https://www.techrepublic.com/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
 type: article
 quality: 85
 heat: 95
@@ -46,6 +46,6 @@ related:
         height: 630
         isCached: true
 
-secured: "pCbiEEyxSEquk2843VVzjNFREyFzkS2vSUfVl5Sqr5FQrK8wCQNrmwjFtHzM4/wWMWgbbF6sg4DnllzcEA7WrSdK080xd3Heq/vENld1q4/fKCnckGlDrit38OYwY3G+x4xIfZ4nuwIw3NSe8b7386rMXFhkJY61wV/Cu3mwWWjqpOffz4V+9gLaFRMiZbOQ/22X3RYf1Ynub+CDLNSTd4wRo2T2VLWjj4XMpt/EPYcdBNa95AXUuIy3+oM9g1pxZOScULBdzV5VgLdok73qUQWjnpBke6vZQjQZ6Cx2reF+raWVjcPNjwAcnOyp+MMqVvFyxjJRwXdq6IJLXsTQYLcMjg/g01+Bhpq0P0cH1z3Y8KjQxDhbnPkDCEfZPuK1SnOAKEfnRhS/Dlqgg4pQyO0LiMbB66ZlEEwis8Se043yoamX1d9H0Ewr+apr/m0BsTNZQNktDx/KFslbF+9Tnfg+nlNgEE4tenLMZlAwNH/kwtwWfzJpoiyw2RQ6avr4QxqsMmB6a+uliwcxS9Adhw==;ri+q5ngRJNOlYV3lMhUjew=="
+secured: "VIUouxyf8Rm1yI5DHJTpQJ++skaKbok54Tglf+8dHhL+LlTEkiQ5fmzipsW+bG+pwdtXF0oht8k845SeXvK2ZHd+3WYxficBk+S691RaNOhWECQB+06YQ3EGhJSP5tY4PtT7MQh4ZuKDbVSgptCKEErIR8anaZXaBqHS6FVCHy8kekh9xfsWTVu1kNDnViPkTG2vlBgOQ/JPS8tbDlhLnKhX/TUIvMhjgu+OuEtVEXkp8rh5/woc1RkFAF3mDqNhT/Xfpr3l3oXFYjsf58LFja4zquKYu7foi3Q5r9G4DZ+iRT2zCgrgSu33eqNgpRxwHr+JBQuNo99XoZhfR4QB08kUcF7PUsJgV3IaEoKCSFA=;jxG4C9SCVgePjWR6q5sHSQ=="
 ---
 

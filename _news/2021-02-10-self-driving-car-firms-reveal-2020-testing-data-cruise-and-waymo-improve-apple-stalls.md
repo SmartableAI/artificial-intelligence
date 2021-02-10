@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-c
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 rising stars at self-driving companies like Waymo, Aurora, and Cruise share their best career advice"
-    excerpt: "Insider asked bright young stars from Waymo, Aurora, and Nuro for their advice on starting your career in the fast lane."
-    publishedDateTime: 2021-02-06T07:04:00Z
-    webUrl: "https://www.businessinsider.com/career-tips-advice-rising-stars-waymo-aurora-nuro-yandex-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Self-driving car for testing Technology Parkway"
     excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
     publishedDateTime: 2021-02-08T20:18:00Z

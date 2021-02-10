@@ -78,6 +78,22 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Artificial Intelligence Predicts Death: Echocardiogram Medical Imaging, Computer Models Detect Mortality of COVID-19 Patients"
+    excerpt: "Geisinger Health System researchers created a computer algorithm that uses echocardiogram videos of the heart, which it can use to predict the probability of death within a year. Developers claimed it outperforms other medical predictors."
+    publishedDateTime: 2021-02-10T21:57:00Z
+    webUrl: "https://www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 30
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Artificial-Intelligence-Predicts-Death-Echocardiogram-Medical-Imaging-Computer-Models-Detect.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality"
     excerpt: "A deep learning model trained on raw pixel data in hundreds of thousands of echocardiographic videos for the prediction of one-year all-cause mortality outperforms clinical scores and improves predictions by cardiologists."
     publishedDateTime: 2021-02-08T17:38:00Z
