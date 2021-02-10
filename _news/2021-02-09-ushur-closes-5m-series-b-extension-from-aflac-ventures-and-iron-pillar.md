@@ -41,6 +41,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Chinese AI Chip Unicorn Horizon Gets USD350 Million in New Funding Round Led by Great Wall Motors"
+    excerpt: "Horizon Robotics, a six-year-old startup that develops artificial intelligence chips was a focus on autonomous driving, has raised USD350 million in its latest fundraising led by Chinese carmaker Great Wall Motors,"
+    publishedDateTime: 2021-02-10T07:45:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 41
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors/11286501867126784.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "DyI/YIG1qKRf32+xNnbymWXwaxazJBS16LtRxyQXve1bfAUgAIkEtlWQQVt0EU0PwfX9lMHSgytSWDD0MQGovFDTR1vaL2/EhBspGPR/8mcQDT2r4+ahEu1+t/A1O8xkWwsy96up8VXBCAbOMEXU4R5/0r2PyVScy2YPZ7Z7ciO6ouI9fn+PwyvEGU2InGjFbx2QZZiVcu28ZTIAafXh42b5nNqGVHbqJtXAN5qoI0/59iYszgcnUnr7AVxXcNhsmFsV3jo6MtSk31taVa3JfNdgJQb3Ysea4ukPBOvQ0VGNDh6o2GBh33TjeRzy+ehEwPRePCEIohBkPe0p8Ebfj8Amis/fOMVJDZR92dXJzOs=;Z9vMNiKSDXBSzqBUBx7aTQ=="
 ---

@@ -2,6 +2,161 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-01-25-hyundai-dal-e-ai-powered-robot-provides-automated-customer-service.md",
+      "title": "Hyundai DAL-e AI-powered robot provides automated customer service",
+      "excerpt": "Automaker Hyundai has a new employee working in one of its showrooms in Seoul, Korea. The employee is an AI-powered automated robot called DAL-e that provides customer services at the showroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
+      "originalUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/kia-robot-1.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/",
+      "publishedDateTime": "2021-01-25T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract.md",
+      "title": "From Zero To Mach 2 In Months, How HPC In The Cloud Helped Startup Sensatek Land An Air Force Contract",
+      "excerpt": "Sensatek, in need of high-performance computing, turned to Rescale, whose platform mixes and matches HPC resources from the major cloud providers, taking the research – and guesswork – out of picking the right high-performance computing cluster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/",
+      "originalUrl": "https://www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c9e565b22606620120b09%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3024%26cropY1%3D875%26cropY2%3D3143",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/amp/",
+      "publishedDateTime": "2021-01-25T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-new-algorithms-could-reduce-racial-disparities-in-health-care.md",
+      "title": "New Algorithms Could Reduce Racial Disparities in Health Care",
+      "excerpt": "Machine learning programs trained with patient reports, rather than doctors', find problems that doctors miss—especially in Black people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/",
+      "originalUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/600b52ec4c976bdf61ac2b78/master/pass/Business-AI-Doctor-Bias-151032869.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/amp",
+      "publishedDateTime": "2021-01-25T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-100-years-later-the-future-of-robots-still-lies-in-science-fiction.md",
       "title": "100 Years Later, The Future Of Robots Still Lies In Science Fiction",
       "excerpt": "Every year there is some version of this remembrance on the internet, dated January 25th and full of science fiction references and doom-saying. This is the 2021 version. Today marks the 100th anniversary of the first use of the term \"robot\" to describe a non-human,",
@@ -839,6 +994,101 @@
       ]
     },
     {
+      "path": "_news/2021-01-24-can-facial-recognition-technology-really-reveal-political-orientation.md",
+      "title": "Can facial recognition technology really reveal political orientation?",
+      "excerpt": "The author of a peer-reviewed study says ‘yes it can’ and if he’s right, it has frightening implications A facial recognition system on display at the first Digital China summit, held in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1f986d762353b00bae878db163e8ee561ba35330/0_0_4240_2545/master/4240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5fe6e09686eeedab5b5451d107769c93",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
+      "publishedDateTime": "2021-01-23T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-commentary-who-owns-our-faces-and-how-will-facial-recognition-be-used.md",
+      "title": "COMMENTARY: Who ‘owns’ our faces and how will facial recognition be used?",
+      "excerpt": "The recent riot at the U.S. Capitol has put the question into the spotlight as facial recognition becomes a vital tool in identifying rioters: What is the power of facial recognition technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/7588121/facial-recognition-canada-rights/",
+      "originalUrl": "https://globalnews.ca/news/7588121/facial-recognition-canada-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalnews.ca/wp-content/uploads/2020/10/facial-recogition.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+          "width": 720,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T06:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming.md",
       "title": "A scary proposal to use facial recognition and AI by an Indian state has experts fuming",
       "excerpt": "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police.",
@@ -921,258 +1171,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025.md",
-      "title": "Artificial Intelligence (AI) in Marketing Market, Size, Share, Analysis Report & Forecast to 2025",
-      "excerpt": "Jan (Heraldkeepers) -- Artificial Intelligence (AI) in marketing market is growing rapidly owing to high demand for lead generation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-23T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform.md",
-      "title": "Yellow Messenger integrates Microsoft Azure cognitive services on its platform",
-      "excerpt": "Microsoft is working with Yellow Messenger to use AI services to make automated voice customer services with virtual assistants feel more natural and human to human during interactions",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
-      "originalUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/01/1611405390_yellow_messenger__story.jpg",
-          "width": 760,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/",
-      "publishedDateTime": "2021-01-23T00:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020.md",
-      "title": "How fintech and serial founders drove African pre-seed investing to new heights in 2020",
-      "excerpt": "When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
-      "originalUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/africa-preseed-investment.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
-      "publishedDateTime": "2021-01-22T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-technology-is-rapidly-changing-cancer-care.md",
-      "title": "Technology Is Rapidly Changing Cancer Care",
-      "excerpt": "The Watson platform was developed with ... to identify the best treatments for cancer patients. IBM Research has been exploring how AI systems could ingest raw data and support oncologists as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600cc1fc7c71e2869dea3b6f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/amp/",
-      "publishedDateTime": "2021-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-staten-island-da-draws-criticism-for-facial-recognition-use.md",
-      "title": "Staten Island DA Draws Criticism for Facial Recognition Use",
-      "excerpt": "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
-      "publishedDateTime": "2021-01-22T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

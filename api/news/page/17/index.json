@@ -2,6 +2,152 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-28-stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank.md",
+      "title": "Stilt, a financial services provider for immigrants, raises $100 million debt facility from Silicon Valley Bank",
+      "excerpt": "Stilt, a provider of financial services for immigrants in the United States, announced today it has raised a $100 million warehouse facility from Silicon Valley Bank for lending to its customers. This brings Stilt’s total debt facilities so far to $225 million,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/27/stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank/",
+      "originalUrl": "https://techcrunch.com/2021/01/27/stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/founder_photos_1.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/27/stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank/amp/",
+      "publishedDateTime": "2021-01-27T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-we-helped-greece-build-an-ai-system-to-make-covid-19-testing-more-efficient-heres-what-we-learned.md",
+      "title": "We Helped Greece Build an AI System to Make Covid-19 Testing More Efficient. Here's What We Learned.",
+      "excerpt": "In addition to travel and tourism, we believe AI-driven systems like Eva can help schools, workplaces, local governments, and other institutions with limited resources better manage their Covid-19 restrictions and testing policies. If a university ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/363706",
+      "originalUrl": "https://www.entrepreneur.com/article/363706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611603565-GettyImages-148740649.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/363706",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706",
+      "publishedDateTime": "2021-01-27T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-urikar-the-most-advanced-powerful-percussion-massager-with-ai-chip-for-daily-stress-relief-and-workout-recovery.md",
+      "title": "URIKAR - The Most Advanced & Powerful Percussion Massager with AI Chip for Daily Stress Relief and Workout Recovery",
+      "excerpt": "The percussion massage guns have truly become more and more popular in the past 2020 As a home massage tool it is a super useful innovation especially in this COVID 19 difficult period If you haven t yet jumped in",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2231632/urikar-the-most-advanced-powerful-percussion-massager-with-ai",
+      "originalUrl": "https://www.openpr.com/news/2231632/urikar-the-most-advanced-powerful-percussion-massager-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/1/U127970249_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2231632/urikar-the-most-advanced-powerful-percussion-massager-with-ai",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2231632/urikar-the-most-advanced-powerful-percussion-massager-with-ai",
+      "publishedDateTime": "2021-01-27T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-pushing-the-frontiers-of-manufacturing-ai-at-seagate.md",
       "title": "Pushing The Frontiers Of Manufacturing AI At Seagate",
       "excerpt": "Seagate's wafer manufacturing plant has adopted several AI applications that improve their quality and productivity.",
@@ -99,8 +245,8 @@
       "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
       "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -108,13 +254,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T07:10:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19345715",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19345715",
+      "publishedDateTime": "2021-01-27T07:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1081,145 +1227,6 @@
         "AI",
         "AI in Healthcare",
         "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-tesla-rival-xpeng-p7-gets-significant-self-driving-software-updates.md",
-      "title": "Tesla rival XPeng P7 gets significant self-driving software updates",
-      "excerpt": "China's closest Tesla Model 3 competitor, the XPeng P7, launched in April last year, loaded to the gills with enough self-driving sensors and computers to achieve full autonomy once the software is ready.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/xpeng-p7-self-driving/",
-      "originalUrl": "https://newatlas.com/automotive/xpeng-p7-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/fb141fa/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F5a%2Faf%2F069a73894762b1ee09fff403f676%2Fxpengp7otaupgrade2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/xpeng-p7-self-driving/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/xpeng-p7-self-driving/?amp=true",
-      "publishedDateTime": "2021-01-26T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
-      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
-      "excerpt": "A global contest aims to spark computer vision solutions to actual problems, and promises teams free camera hardware and Azure services.Read",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
-      "publishedDateTime": "2021-01-26T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-ai-and-ml-in-intelligent-analytics-can-drive-the-efficiency-in-business.md",
-      "title": "AI and ML in intelligent analytics can drive the efficiency in business",
-      "excerpt": "The role of AI and ML in intelligent analytics is quite fruitful as it quickens the data transformation process. Artificial intelligence and ML frameworks exist that utilize analytics data to assist businesses with foreseeing results and effective blueprints.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/",
-      "originalUrl": "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Intelligent-Analysis.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T22:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
         "Machine Learning"
       ]
     }

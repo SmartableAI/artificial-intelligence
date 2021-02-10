@@ -45,20 +45,6 @@ related:
         isCached: true
   - title: "Machine learning generates realistic genomes for imaginary humans"
     excerpt: "Machines, thanks to novel algorithms and advances in computer technology, can now learn complex models and even generate high-quality synthetic data such as photo-realistic images or even resumes of imaginary humans."
-    publishedDateTime: 2021-02-05T15:38:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/erc-mlg020521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/255601_web.jpg"
-        width: 1440
-        height: 916
-        isCached: true
-  - title: "Machine learning generates realistic genomes for imaginary humans"
-    excerpt: "Machines, thanks to novel algorithms and advances in computer technology, can now learn complex models and even generate high-quality synthetic data such as photo-realistic images or even resumes of imaginary humans."
     publishedDateTime: 2021-02-05T17:33:00Z
     webUrl: "https://phys.org/news/2021-02-machine-realistic-genomes-imaginary-humans.html"
     type: article

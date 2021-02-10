@@ -3,8 +3,8 @@ category: news
 title: "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020"
 excerpt: "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020."
 publishedDateTime: 2021-02-10T05:36:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59/gallery/4bb0ecb8a7655d1017849e19dfefeb38"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59/gallery/4bb0ecb8a7655d1017849e19dfefeb38"
 type: article
 quality: 45
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -37,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 75
 
-secured: "rLCHb/pVPsWQYhrxC1GjKsRPLbvp7qA4ZATCulILBF2j/wqLINUHtcjstD26zR/bp2QrG6xFdNYjrloZgrtzFYbp5lzR0aN9xEY1+sY9VCAIdLRHXRDR4WjfMjC7JAyYKu6q196kzUsUAj6R26pjtijdDxlAgJh1ojj2e8cjU4LnottX03tDdJ5W+pXeEe8hrciK4NY8FKojb0ZyUFRKLiBI36KoE9nOZBF7N4dF4MLg0jdG4q3b/eSm0u5xbXdCIP9ZilTtYG42tpq6NM2swlSSgC3Yk+FrRtNroyOZh2owGg4UCsrnwyPrG+URUEKdjsM7Zj2M6SdeDamXkuTGJXA8s4tU2FmY5Dg/8W7Tr9s=;wMAWTpwtoZlOD519Dsxj3w=="
+secured: "hhof3GvuTSNmL5vXVIqcfBNmz5rBoFkAISjLVQBFdJBf/DYU2JwLut/NZRC9tbopP0BOU5eQYn3s8KEa+LhuM1nWbCp/RGznBUNY625OQ9RGwO3i1Xf4Vy+TB9yYDD1yjzfKUZqAH3QDa/iOdrRjUgyUJeyB1oHWpuUnmyZ5YN5MjeIpw6tt6H5rZ8UpwLIUv5NbXNt6Gtl91UlEPIgoDddcceKsh3FZmYkNvtIamDYd+sa0H9qP8aum92wkBWgGm8gOdW0U9tWZ4lgmRTcp4dTOTW17zgTdgCt79wbrxU51lzRreNvHk6xLS2UaoGpXIpJf2FXnCxhomshtS+upnf6S7WrqaskV6L2HuI3JFAg=;B4kmMySYb+oW0Jd5jLOlJQ=="
 ---
 

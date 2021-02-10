@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-development-trends-key-manufacturers-and-competitive-analysis-2026-2021-02-08"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Review By Comprehensive Study, Development Status, Opportunities and Future Plans Forecast to 2026"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-02-09T13:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-review-by-comprehensive-study-development-status-opportunities-and-future-plans-forecast-to-2026-2021-02-09"
+  - title: "Artificial Intelligence (AI) in Medical Imaging Market New Innovations Trends, Research, Global Share and Growth Factor"
+    excerpt: "Artificial Intelligence (AI) in Medical Imaging Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis \"The report on AI in Medical Imaging Market was recently published by SDKI,"
+    publishedDateTime: 2021-02-10T05:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-imaging-market-new-innovations-trends-research-global-share-and-growth-factor-2021-02-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

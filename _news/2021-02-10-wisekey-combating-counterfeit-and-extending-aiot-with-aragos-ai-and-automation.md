@@ -27,9 +27,9 @@ related:
   - title: "How AI (not automation) will revolutionize commercial trucking"
     excerpt: "Beset with labor shortages and the whims of markets and new technologies, truckers are getting a boost from digital brains."
     publishedDateTime: 2021-02-09T12:05:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
     type: article
     provider:
       name: ZDNet

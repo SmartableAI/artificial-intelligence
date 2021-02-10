@@ -117,20 +117,6 @@ related:
         width: 377
         height: 250
         isCached: true
-  - title: "How Fintech Can Help Streamline Your Company’s Financial Operations"
-    excerpt: "Huge.” “Surging.” “Very hot.” Those were just a couple of the terms financial news outlets used to describe the fintech market in 2020. They weren’t just buzzwords. Fintech has seen double-digit growth in transaction numbers and volumes during the pandemic,"
-    publishedDateTime: 2021-02-05T16:18:00Z
-    webUrl: "https://hbr.org/sponsored/2021/02/how-fintech-can-help-streamline-your-companys-financial-operations"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 24
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/01/Tripactions.-HBR-Header-1200x675-3.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "PEAK6 Names Michelle Williams Executive Director of Fintech in Action"
     excerpt: "PEAK6, a financial technology business, announced today that Michelle Williams will serve as Executive Director of its Fintech in Action initiative to encourage the hiring, promotion and retention of Black employees in the fintech industry."
     publishedDateTime: 2021-02-09T16:29:00Z

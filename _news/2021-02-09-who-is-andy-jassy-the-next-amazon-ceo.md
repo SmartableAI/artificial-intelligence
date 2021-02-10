@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "How Andy Jassy Will Lead Amazon’s AI Strategy?"
+    excerpt: "Andy Jassy is the man who built Amazon’s cloud business from scratch, making it the most profitable technology company in the world."
+    publishedDateTime: 2021-02-10T07:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-andy-jassy-will-lead-amazons-ai-strategy/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/How-Andy-Jassy-Will-Lead-Amazonu2019s-AI-Strategy.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "8fA2WEL8Z8QwmcNMkDQYuPhwCDTQpDQIzjwbYCGS7SDykAAlpIekhSMWkykoj8FqU+tELrb0j6Of5e0TX6UDm58V6TPiB2ezvKjRZ+pdIsEYmEJarSUrofZqlC1gpH4M9x/dhtEf0NMvnCDVOoVapGudtriUDfwUDbkb66Vv6Dnj8BtT59VASIeVEpxvwdkkEG7Xcj3M72FDoKkHn+R8MUviFU+N4qJJ+iPfjyX1w6WNeIZnb4lgAyntDiVBDfFDi8Mii+Uk2LEflDRV/chwq+LpBOWK3dCRSYvuZdTDtYpn8bjW+djQTH4X5IWxNO1Xu3UkmjXlbZs2utOmixI0ZKokiC5YNGxb7XYqk66Z8FqPvNjxpCo8855VfngVaK15x3K1ZzKLQr4zggmuZjl1sJeKi6ePMsw+1XkvVXy+6UBdXDS0QAhDSmNZ9KI6QweIsPv7C86vIfqjK6QD37EJU6UQRCUoPjQVCKvAaDh+OrdO9pEY90gEiS770nTvtRWu6WcXke8S83s+P7SngqdF3A==;E3HfUzLkmbqiwwkYI2NWng=="
 ---

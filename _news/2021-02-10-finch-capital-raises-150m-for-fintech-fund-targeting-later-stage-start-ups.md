@@ -103,20 +103,6 @@ related:
         width: 377
         height: 250
         isCached: true
-  - title: "How Fintech Can Help Streamline Your Company’s Financial Operations"
-    excerpt: "Huge.” “Surging.” “Very hot.” Those were just a couple of the terms financial news outlets used to describe the fintech market in 2020. They weren’t just buzzwords. Fintech has seen double-digit growth in transaction numbers and volumes during the pandemic,"
-    publishedDateTime: 2021-02-05T16:18:00Z
-    webUrl: "https://hbr.org/sponsored/2021/02/how-fintech-can-help-streamline-your-companys-financial-operations"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 24
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/01/Tripactions.-HBR-Header-1200x675-3.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Finch Capital closes €150m fintech fund"
     excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
     publishedDateTime: 2021-02-09T11:07:00Z
@@ -146,6 +132,6 @@ related:
         height: 480
         isCached: true
 
-secured: "0tsZKpaSDjN/5Fr3tEw7TTjSf9qBR9Y9auHcypQsYJmRdOVedClndjQ5JqSKF3w2qwcj+TXGW5rXD9OPRjc+Vzz6pAAtDhzhv16y3r3I9nzyydAKWtUo+ZONmK77rzeJEx/ddLOA7ieAAYfEdam7r5GzBv5JMCsD/cezj9kxzxGu2Pijx7gSneiq1Ydb/c/Dvdb1jn8E+30Ej4F9xiBvZc1g34ceIV/txcpUTFp2MLISU7bG/wczDbYcdTw9wqzW5Db4ra3UiB2dhMo7CQK92dzhL4waMEEufkzSmSRpqDUWK8gUvFuBykK+XC7yxrjz5kp4a/vwi4+Wn8Cyp/ir7Ie+zSVMhGSRIjuCsoy9a9g=;QUxOKKZPtz9WyIDuQLgOKQ=="
+secured: "4ouZ+Tos+7qxyrP6mmU3cMW176HM967m85sXK6JzDsaasZ/Y30Hhfj5TN5d9GPHe1m4JjQIKexG4CHZLvyydxCzutrZOnU3Nrz2Vxff2A10mYwymHd269l7EFa5oGhsvaP8AS6jGruSpZngc2QZNFSYKrAwELMmOKOJsVys+xBcKqC8GcTMa/ViOhoXz8e58lHm6uFe+kLoiL+HOoKooFSiV29mVO6sJk/qo52SmeTZ8HVDLemfE4bOMVmYSJW12SNYIKtRI0Xx9u3D/ose051SfPHojSVbgzHEmhv6tQqx7/QbjeH0hcGb3xUrdMyWIRDI/zI3pUx6/spda8rH8tuP0GxgM1N6FCbm4NHEH6aBM2VwJ+6exAmf0IZC3pnhQJNZn2hb5rJEvzG5tTpP3uYsKJXeaqVumfvQ65dnwX9LT9phKOzcahUEqndbH2KHcQ9hB5G1aYTIL5YV34kMk8sjq6L0qksqMsnoY3YRw7S6kbn59HzdKDHeqgxBclDc1bMeryBl623lE9h4hqF/Q5w==;yEkWVqCuVfMpOTMxRjku7g=="
 ---
 

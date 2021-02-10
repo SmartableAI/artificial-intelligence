@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/funding/iron-pillar-leads-5-million
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese AI Chip Unicorn Horizon Gets USD350 Million in New Funding Round Led by Great Wall Motors"
+    excerpt: "Horizon Robotics, a six-year-old startup that develops artificial intelligence chips was a focus on autonomous driving, has raised USD350 million in its latest fundraising led by Chinese carmaker Great Wall Motors,"
+    publishedDateTime: 2021-02-10T07:45:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 41
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors/11286501867126784.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Ushur Closes $5M Series B Extension from Aflac Ventures and Iron Pillar"
     excerpt: "Ushur, the no-code intelligent automation company, today announced a $5M addition to its over-subscribed $25M Series B funding in November 2020. Aflac Ventures and Iron Pillar participated in the round."
     publishedDateTime: 2021-02-09T15:44:00Z

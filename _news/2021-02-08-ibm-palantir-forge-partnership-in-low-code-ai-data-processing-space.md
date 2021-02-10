@@ -94,15 +94,15 @@ related:
         height: 600
         isCached: true
   - title: "IBM, Palantir Technologies Announce New Partnership - Quick Facts"
-    excerpt: "IBM (IBM) and Palantir Technologies (PLTR) announced Monday a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next generation operations platform for building applications."
-    publishedDateTime: 2021-02-08T12:16:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08?amp"
+    excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is ..."
+    publishedDateTime: 2021-02-08T12:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-palantir-technologies-announce-new-partnership-quick-facts-1030054674"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/IBM-Palantir-Technologies-Announce-New-Partnership-Quick-Facts-1030054674"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-Palantir-Technologies-Announce-New-Partnership-Quick-Facts-1030054674"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 54
   - title: "Palantir (PLTR) Stock Surges On IBM Deal; Is It A Buy Now?"
     excerpt: "Should Investors Consider Palantir Stock In Their Portfolio? Palantir Technologies (NYSE: PLTR) is a tech company that has mostly been in the spotlight since it went public last S"
@@ -146,7 +146,7 @@ related:
   - title: "IBM partners with Palantir on low-code AI applications"
     excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
     publishedDateTime: 2021-02-09T01:02:00Z
-    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
     type: article
     provider:
       name: SiliconANGLE
@@ -228,6 +228,6 @@ related:
         height: 284
         isCached: true
 
-secured: "CcurHwaQsNWLdOvtj6iMNXFBJBoRHbeLEvUFsmiI8YkMMAcPBRV4+VyfWooQQycsGeD6kPahgQlr3MGIBJ3C9pNZRNKQh3KBNlPCaKligQ+5lRVStEQeSOU4bD6tHB6g/pY7+X/RzNHoMPXXtqHYRYlwoX3IQAphSFPDa0/z8BpU/j/RZQEeyt+LUlnQBgX94Cet8b5Q/xxyVzIy82T4tiQiNCv718i58AgAN1IdbdmalIpLkXQ8czGEJmWTypPuNZD9C/5REuuXkbuDtJTdwJ2WoDlimj7pixS/ygOaDcUwuUfpvmsmS0lO7erUqcZ/3pbEuoYFS7q6APpgAFH5yPDmu6BfZyD+TXh2U/m/D/g=;hMjOmCREnoVdMVs2R5LDCA=="
+secured: "XbCMwjkmHbM6Ld68zoKKBaphDfFSRaL0q1GeAmcvAu7aqMRt6RRj7rcx1rzrePHFuCN6SFdh5ppGvIRV0pVyBCU2TE02R6YhU5/7nANNDAXXOq8ibHwUDnbwgrPE6ciIedXdV/Rg72EqvX4oE07YIp3CisvZiIMhGOgho94hdICa1qtgL9vvDGTQLrAD9Jz9ed32AgEyAUEoTjh+Bf0ybD3mW3l9Dy7fPH3UoIJvHvfUpjyQf12YQn0/0fEVyYOTJZXn4f29EJAPFzR9uvAV+CMIJik5VGghhGmyI/X3wPjA9rXM6qLvosKhBQ4zdSsF4ML6lQ0OZQ0EkQ0CLG8erGPX0VS84fRPv6FFkz9L4vVTwZ7sXckvoRR0rRQbxhqtFOAoQvSxAprs4cFay6yzqGaNRpUH/0Ru3UFgGhn0A6+ghw/34yQkSlgx1iO96iHeBScgtcGJYOm3CebVAVVxxM0Rx/R9rh1UbgTkjHvBn3ZuiI5zlZkVVlepqrjiaSHNI8RMaotOfy2Rn1SySORI4w==;O/C1FeuszkACcN3RIqANKw=="
 ---
 

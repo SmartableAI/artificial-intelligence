@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-13-how-far-can-facial-recognition-go-in-finding-rioters-in-dc.md",
+      "title": "How far can facial recognition go in finding rioters in D.C.?",
+      "excerpt": "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtsp.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "originalUrl": "https://www.wtsp.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wtsp.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "cdnAmpWebUrl": "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "publishedDateTime": "2021-01-12T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTSP",
+        "domain": "wtsp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-roboflow-raises-21m-for-its-end-to-end-computer-vision-platform.md",
+      "title": "Roboflow raises $2.1M for its end-to-end computer vision platform",
+      "excerpt": "Roboflow, a startup that aims to simplify the process of building computer vision models, today announced that it has raised a $2.1 million seed round co-led by Lachy Groom and Craft Ventures. Additional investors include Segment co-founder Calvin French-Owen,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/",
+      "originalUrl": "https://techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Joseph_Nelson_Brad_Dwyer.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/amp/",
+      "publishedDateTime": "2021-01-12T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-programming-tweak-helps-ai-software-imitate-human-visual-learning.md",
       "title": "Programming tweak helps AI software imitate human visual learning",
       "excerpt": "Using a novel programming tweak, a pair of neuroscientists have managed to replicate human visual learning in computer-based artificial intelligence.",
@@ -1312,111 +1407,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-seoul-robotics-a-3d-vision-of-the-future.md",
-      "title": "Seoul Robotics: A 3D Vision Of The Future",
-      "excerpt": "Seoul Robotics leverages LiDAR 3D vision to make robots intelligent and enable autonomous systems from smart cities to smart factories",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff7162c24227293870c722f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
-      "publishedDateTime": "2021-01-07T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-masks-no-obstacle-for-new-nec-facial-recognition-system.md",
-      "title": "Masks no obstacle for new NEC facial recognition system",
-      "excerpt": "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW",
-          "width": 743,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ",
-      "publishedDateTime": "2021-01-07T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

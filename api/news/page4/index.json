@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-06-unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-145and-an-apple-watch.md",
+      "title": "Unlocking iPhones While Wearing a Face Mask: Now Easier, If You Have iOS 14.5—and an Apple Watch",
+      "excerpt": "Apple’s next iOS software updates—iOS 14.5—includes a feature we have all been waiting for: the ability to unlock an iPhone with Face ID while wearing a mask. The catch? You need an Apple Watch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "originalUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-295591/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "publishedDateTime": "2021-02-05T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-first-trusts-robt-etf-a-hidden-gem-for-the-rise-of-robotics.md",
+      "title": "First Trust’s ROBT ETF: A Hidden Gem for the Rise of Robotics",
+      "excerpt": "Enter exchange traded funds like the First Trust Nasdaq Artificial Intelligence and Robotics ETF (NasdaqGM: ROBT). ROBT follows the Nasdaq CTA Artificial Intelligence and Robotics Index. ROBT provides exposure to target companies engaged in the artificial intelligence and robotics segments of the technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/first-trusts-robt-etf%3A-a-hidden-gem-for-the-rise-of-robotics-2021-02-05",
+      "originalUrl": "https://www.nasdaq.com/articles/first-trusts-robt-etf%3A-a-hidden-gem-for-the-rise-of-robotics-2021-02-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/first-trusts-robt-etf%3A-a-hidden-gem-for-the-rise-of-robotics-2021-02-05?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/first-trusts-robt-etf%3A-a-hidden-gem-for-the-rise-of-robotics-2021-02-05?amp",
+      "publishedDateTime": "2021-02-05T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space.md",
+      "title": "Robot Motherships To Launch Drone Swarms From Sea, Underwater, Air And Near-Space",
+      "excerpt": "Metal Shark's unmanned vessel is just one of a series of new launch platforms able to deliver swarms of attack drones -- swarm-equipped boats, unmanned submarines, unmanned jets and stratospheric balloons are all on the way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d471a948dfd8ec26c348b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
+      "publishedDateTime": "2021-02-05T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher.md",
       "title": "Google engineers quit after the company fired its star AI ethics researcher",
       "excerpt": "Two Google engineers have quit over the firing of AI researcher Timnit Gebru, whose exit sparked an internal backlash about ethics and diversity.",
@@ -1065,162 +1203,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows.md",
-      "title": "The AI industry is built on geographic and social inequality, research shows",
-      "excerpt": "Researchers find that the AI industry is build on geographic and social inequality, but opportunities exist to change this.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/",
-      "originalUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data.GettyImages-1176071503.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/amp/",
-      "publishedDateTime": "2021-02-04T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-super-bowl-sunday-changes-face-masks-empty-seats-and-driveway-parties.md",
-      "title": "Super Bowl Sunday Changes: Face Masks, Empty Seats and Driveway Parties",
-      "excerpt": "The Super Bowl will once again feature the Chiefs, but almost every other part of the fan experience could be different.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/04/sports/04sb-fans1/04sb-fans1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.amp.html",
-      "publishedDateTime": "2021-02-04T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry.md",
-      "title": "Synthetic Biology Startup Acquires AI Platform To Disrupt The Drug Industry",
-      "excerpt": "Synthetic biology company AbSci’s recent acquisition of the artificial intelligence platform, Denovium, could help get novel therapeutics to patients more quickly",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/",
-      "originalUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c5138d6243b1002155f1f%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/amp/",
-      "publishedDateTime": "2021-02-04T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

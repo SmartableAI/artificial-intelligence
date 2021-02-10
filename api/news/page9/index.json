@@ -2,6 +2,143 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-03-spot-the-robots-new-arm-lets-it-jump-rope-and-do-serious-stuff.md",
+      "title": "Spot the robot's new arm lets it jump rope (and do serious stuff)",
+      "excerpt": "Boston Dynamic's Spot robot got a whole toolkit of improvements from an arm that can lift 11 pounds to thermal imaging video cameras. The dog-like robot can now swing a",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=6Zbhvaac68Y&feature=youtu.be",
+      "originalUrl": "https://www.stltoday.com/lifestyles/technology/spot-the-robots-new-arm-lets-it-jump-rope-and-do-serious-stuff/video_c1ad22d0-c742-597c-9f8a-d43102ae5b2c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6Zbhvaac68Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-fintech-integrator-50-.md",
+      "title": "\"Fintech Integrator\" - ინიციატივა 5.0-ის ფარგლებში ჰაკათონი ჩატარდება",
+      "excerpt": "Fintech Integrator“ ინიციატივა 5.0–ის ფარგლებში ფინტექის მიმართულებით დაგეგმილი აქტივობებს შორის ერთ–ერთი ღონისძიებაა. ჰაკათონი 13–14 მარტს გაიმართება და მასში მონაწილეობა ყველა დაინტერესებულ ადამიანს შეეძლება.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/364604",
+      "originalUrl": "https://www.entrepreneur.com/article/364604",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1612290528-image-safe-zone-check.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364604",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364604",
+      "publishedDateTime": "2021-02-02T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-5-artificial-intelligence-predictions-for-2021.md",
+      "title": "5 Artificial Intelligence Predictions for 2021",
+      "excerpt": "Here in this blog, I am sharing a few predictions for the specific AI techniques, tooling, apps, and platforms that will come to the forefront in the year to come. Pandemic has brought changes in all the workforce,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937",
+      "originalUrl": "https://www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/01/2021-AI-predictions.jpg",
+          "width": 550,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937/amp",
+      "publishedDateTime": "2021-02-02T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-salesforces-ai-ethics-chief-shares-3-ways-to-use-tech-when-planning-a-safe-return-to-the-office.md",
       "title": "Salesforce's AI ethics chief shares 3 ways to use tech when planning a safe return to the office",
       "excerpt": "With vaccinations rolling out, companies must carefully plan next steps and map out how to get employees back to their desks safely.",
@@ -1022,20 +1159,20 @@
     },
     {
       "path": "_news/2021-02-02-sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence.md",
-      "title": "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
-      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence.",
+      "title": "Sony's Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
+      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
+      "webUrl": "https://www.lelezard.com/en/news-19628160.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19628160.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1045,11 +1182,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T17:18:00-08:00",
+      "publishedDateTime": "2021-02-01T17:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1059,146 +1196,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-daily-crunch-google-shutters-internal-game-studios.md",
-      "title": "Daily Crunch: Google shutters internal game studios",
-      "excerpt": "Google rethinks its gaming strategy, Microsoft rolls out its quantum computing platform and UiPath is now valued at $35 billion. This is your Daily Crunch for. The big story: Google shutters internal game studios When Google announced its Stadia cloud platform,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/",
-      "originalUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/Google-GDC-Stadia-14.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/amp/",
-      "publishedDateTime": "2021-02-01T15:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-this-month-in-aws-machine-learning-january-edition.md",
-      "title": "This month in AWS Machine Learning: January edition",
-      "excerpt": "Hello and welcome to our first “This month in AWS Machine Learning” of 2021! Every day there is something new going on in the world of AWS Machine Learning—from launches to new to use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-january-edition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-january-edition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/January-Edition-01.jpg",
-          "width": 801,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T15:06:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry.md",
-      "title": "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry",
-      "excerpt": "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210201005936/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry",
-      "originalUrl": "https://www.businesswire.com/news/home/20210201005936/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
+        "AI in Healthcare",
         "AI"
       ]
     }

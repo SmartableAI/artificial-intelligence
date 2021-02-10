@@ -3,8 +3,8 @@ category: news
 title: "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation"
 excerpt: "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries"
 publishedDateTime: 2021-02-04T14:25:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vQ0nhK75K6L6EbjEfKiRFJcUpiocLY5EZgeIPtcT9bdqn/ZDj1JdbvFHgygNBYfK+r7qxGAAbR2DhkiJ5XVczjh+NAL5ucU0uP9/50sSTPf9IQaY5nOnM8ESDW60WMvCeH0ZEFfY987RRCs17tlMND+lgNQ5LdR6KlskYb5xUf37F0waHvaBrN9QDZC/B9BHc1MEPmVhOzBoO8FJMF27U/R8IyreM6fiQ4rN+0432ZJW9Wi7BuCoT/GJ9uv0gJgASDzESbPIEz1sQYbnI7mgOBsbmju6M88X8w1NVHd4s8C2ztvMf4HuqmstW8UrddZgB7fmUr7A8dVvKkv0IshA/KiHAx1QaQ3896TsM3A28sA=;0u5H7GAZvYNmw8mTamL1tQ=="
+secured: "5IXbyQdoJexach2hCq/PoRU72AL0ZTY7XAGZFCRO+pS4sXsELtdS+6uyc+57nil95U+DFTOOaQymJqoARBDvqjuUpfSXyoPbapnlffX3p2i6rMLpN1bJUV3dLCgnUKzsZ3CHjbHvfXhua1JaF8Ir1XJ5OZ/N7JSMVc2ZOx3oxXlNy/28PjsgdsTWVg45cgg05gu0gPlEuOg13fi8NoPGCebWFCD0FzbNCXRMc/Z/Sx5CqZ0jQEl/SFR0b9o/LMhRiH9XspM2CaUliVN48UTTKirYjMPovmsAVBb+zMnkpbmCp+Swv3XDl4tzYzpYRP01q0BZhAbg9Xuy9UvZQWSNrnZTbnNCkMSSwPM6WoLJ0Ug=;0WJhHoYX+ewvqQO+yTsZ4g=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Kenyan Airports Get International Recognition"
+    excerpt: "The body recognized KAA for prioritising customers and for the measures put in place during the covid-19 pandemic."
+    publishedDateTime: 2021-02-10T08:30:00Z
+    webUrl: "https://www.kenyans.co.ke/news/62057-kenyan-airports-get-international-recognition"
+    ampWebUrl: "https://www.kenyans.co.ke/news/62057-kenyan-airports-get-international-recognition?amp"
+    cdnAmpWebUrl: "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/62057-kenyan-airports-get-international-recognition?amp"
+    type: article
+    provider:
+      name: Kenyans.co.ke
+      domain: kenyans.co.ke
+    quality: 59
+    images:
+      - url: "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/KAA-HEAD-OFFICE.jpg?itok=_xmDTgue"
+        width: 700
+        height: 350
+        isCached: true
   - title: "Bengaluru airport achieves ACI World's 'Voice of the Customer' recognition"
     excerpt: "The Voice of the Customer recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice was heard during the Covid-19 pandemic in 2020."
     publishedDateTime: 2021-02-09T07:09:00Z

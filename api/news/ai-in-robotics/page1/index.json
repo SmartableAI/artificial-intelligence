@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-10-study-robots-are-trusted-more-than-people-when-it-comes-to-money-management.md",
+      "title": "Study: \"Robots\" are trusted more than people when it comes to money management",
+      "excerpt": "COVID-19 has accelerated digital transformation across industries. A new study takes a look at the sentiments regarding \"robots\" in the financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "originalUrl": "https://www.techrepublic.com/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/09/0953d7ac-34bd-4885-8ee2-0a3efe7c43c7/resize/1200x/cfaea5f9d1536c37c7b9b37d60c96fa9/oracle.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "publishedDateTime": "2021-02-10T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-the-queens-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.md",
       "title": "The Queen's Gambit helped Square Off see huge uptake in robot chess sales",
       "excerpt": "Square Off released its first robotic chess board a couple of years ago. It's now on the brink of introducing a new model. We speak to the co-founder.",
@@ -879,49 +931,6 @@
       "provider": {
         "name": "Robohub",
         "domain": "robohub.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence.md",
-      "title": "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
-      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T17:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

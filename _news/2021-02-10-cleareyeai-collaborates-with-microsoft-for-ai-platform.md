@@ -81,20 +81,6 @@ related:
         width: 600
         height: 440
         isCached: true
-  - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
-    excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
-    publishedDateTime: 2021-02-05T16:06:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-azure-helping-to-strengthen-us-microelectronics-supply-chain/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 69
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/stampede2-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
   - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
     publishedDateTime: 2021-02-09T13:01:00Z
@@ -162,6 +148,15 @@ related:
         width: 696
         height: 348
         isCached: true
+  - title: "Cleareye.aiCollaborates with Microsoft for AI Platform"
+    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
+    publishedDateTime: 2021-02-10T08:48:00Z
+    webUrl: "https://www.financialbuzz.com/cleareye-aicollaborates-with-microsoft-for-ai-platform/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 38
 
 secured: "Fk45X8GsHSSxIZFMYeQ0cH8CQx/WeaLRyZK8uuKLpCAN23kmMvILrsQWQXDIg4p17URy0poE189T/CnwRW3+ISvOSTkIAOEEVrb/crCvbIrmUmdZyPT99l9fhoiWzFjoKM0HIiy9KwmfEqA66rgIXMdG+ea89sKi1l4X9JWwqEYeEO0o8wYJA+21uUgUJVMtWcTfmWEAlOvflhscAzVBoIjDsyhDoa21q/aglPRCBJIuChL0jd6WqQKj1L2VR8FhP94XuEthOOa1clCfz30kL7PMl2Y/oBPiaBXZhfLxGdqI/CFbJQmWaxjnKGJKXagWRuEKiP4vtISh64o635OokQpFbQ3rmskrdyaXyQVIl3A=;bjoylyrjzJwyYKb5IDcE4Q=="
 ---

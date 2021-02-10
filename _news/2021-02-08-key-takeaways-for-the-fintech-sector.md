@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/364949"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364949"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?91760"
         width: 377
         height: 250
-        isCached: true
-  - title: "How Fintech Can Help Streamline Your Company’s Financial Operations"
-    excerpt: "Huge.” “Surging.” “Very hot.” Those were just a couple of the terms financial news outlets used to describe the fintech market in 2020. They weren’t just buzzwords. Fintech has seen double-digit growth in transaction numbers and volumes during the pandemic,"
-    publishedDateTime: 2021-02-05T16:18:00Z
-    webUrl: "https://hbr.org/sponsored/2021/02/how-fintech-can-help-streamline-your-companys-financial-operations"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 24
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/01/Tripactions.-HBR-Header-1200x675-3.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Finch Capital closes €150m fintech fund"
     excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."

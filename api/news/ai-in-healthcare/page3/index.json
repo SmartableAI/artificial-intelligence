@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-17-artificial-intelligence-ai-helps-map-intestinal-bacteria.md",
+      "title": "Artificial Intelligence (AI) Helps Map Intestinal Bacteria",
+      "excerpt": "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Changes in the intestinal flora, caused by antibacterial and antibiotic drugs, may have an effect on a person's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-map-intestinal-bacteria-199408-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-map-intestinal-bacteria-199408-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/human-body3.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-map-intestinal-bacteria-199408-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-map-intestinal-bacteria-199408-1.htm",
+      "publishedDateTime": "2021-01-16T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-aws-goes-big-with-contact-center-intelligence.md",
+      "title": "AWS Goes Big with Contact Center Intelligence",
+      "excerpt": "Artificial intelligence is redefining contact centers and AWS is taking a leading position. We are two weeks into 2021, and Amazon Web Services has wasted no time in making a splash in the contact center industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
+      "originalUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2021/01/AWS.Connect.call.center.png?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T16:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more.md",
       "title": "Blockchain Beyond Bitcoin: Transforming FinTech, Healthcare, And More",
       "excerpt": "The origin of blockchain dates back to 1991, when researchers Stuart Haber and W. Scott Stornetta outlined a system to document timestamps that could not be altered. However, it is most widely known as the underpinning of Bitcoin,",
@@ -1308,93 +1404,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth , Leading Players and Forecast To 2025",
-      "excerpt": "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101380099/Artificial-Intelligence-In-Healthcare-Market-Growth-Leading-Players-and-Forecast-To-2025",
-      "originalUrl": "https://menafn.com/1101380099/Artificial-Intelligence-In-Healthcare-Market-Growth-Leading-Players-and-Forecast-To-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T01:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-coming-up-the-bias-problem-with-artificial-intelligence.md",
-      "title": "Coming up: The bias problem with artificial intelligence",
-      "excerpt": "Artificial intelligence is a booming industry that is creeping into more aspects of our daily lives. But can computers discriminate? As advanced technology tries to make our lives easier, it can also cause a lot of harm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "originalUrl": "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.apmcdn.org/3290ee3a567dea211722343fc331c0cf3d0cc825/widescreen/0f4c77-20201231-ai.jpg",
-          "width": 2000,
-          "height": 1124,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "publishedDateTime": "2020-12-31T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MPR News",
-        "domain": "mprnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
