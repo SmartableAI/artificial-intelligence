@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Cloud lock-in: Why the microservices cure might be worse than the problem"
-excerpt: "That's going to \"lock\" you into BigQuery and AutoML and TensorFlow Enterprise, running GCP's TPUs and/or GPUs. Guess what? If it works, you're not going to fret about lock-in because the customer value generated more than outweighs any concerns that this ..."
-publishedDateTime: 2021-02-09T22:09:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
-webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+excerpt: "Commentary: Microservices can be a great thing to drive enterprise agility, but it can also create all sorts of costs for those trying to avoid cloud lock-in."
+publishedDateTime: 2021-02-09T19:05:00Z
+originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/"
 type: article
 quality: 73
 heat: 73
@@ -21,7 +21,7 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
+  - Google AI
   - AI
 
 images:
@@ -30,6 +30,6 @@ images:
     height: 833
     isCached: true
 
-secured: "0vG42kqZEF1iOBiIoHDpCowPmeJfFoXGrAWqmfrP+Jy3SNStRmga0o5t9gDgB352YXc6zHoa1PvnW4GB18a1Wfs2s8hJHL7X1/wNiLAcZiFEUj2AZDAUFf4vvluTqcqtyRvddB2nwxPHMLBAhvFQU1LNSwTAhO+Ai4nGJfAm+FkA84FJMc0Z98YbXTzKH5OFNbMfzdv/bVNQ+zndb+YwXwoETe5b9kSbGZ7ZCQfflHLxdxKx/d/+KHDLxVK2Ovx6VJFGlZ+44Xu8H+slta5uEC8qK6Ltshl44aUA4X4twsCez4t+z+9Sgs81MHNYpuGCVlPRrU55IMWUwwsf750bS1a4Vr70GZcbEn1LCSrO+t8=;vBuJE6+rGfoAQ+IJytaXzw=="
+secured: "vlIn5e/WR08B28A+VZo0Jzx784Cs+mfkfOXI6l+P8WfebnMSnOn44gNfo0XZuUYmdPvloNiGOgpanZ90hQl0OV/fmK0NX5uBcr44SHvLMBUISvOFsZKcQLP77qExDshBosPlsQ8KiFQ19vRPZsTi5nbHVcrIpq5WBrt3koQ9WoYlUx6X/fnKnfWNmlZGb6y6sHyTgd6CnWxZQ8Beb9/3j8PNzAbLAioK13h0oIAjTMSITPJqYLiyDMQKef4z7aI1TRZKY6yr7ZWYQHESPpDwcNkizuinzl6w5oi9LjZ3kmIt/JcnpzgnY/B0wzJHrSR0LtSOPydgDAeXSeuBjWBPnQSjq38IrPB8/sQqffS3+Ok=;pZU3uheCrXbp4p6vRTH4cQ=="
 ---
 

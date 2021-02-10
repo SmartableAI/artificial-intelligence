@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-01-new-teslas-get-free-trial-of-full-self-driving-option-but-theres-a-catch.md",
+      "title": "New Teslas Get Free Trial of Full Self-Driving Option, but There's a Catch",
+      "excerpt": "Well, now you've got a new incentive to make your own magic happen: three free months of the company's questionably named Full Self-Driving Capability feature, as decreed on Twitter by Elon Musk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/",
+      "originalUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motortrend.com/uploads/sites/5/2020/10/2020-Tesla-Model-Y-Dual-Motor-Long-Range-25.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/amp/",
+      "publishedDateTime": "2020-12-31T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
+      "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
+      "excerpt": "The roadways of metro Phoenix may not look much different 10 years from now, but how we travel them might. We may have more vehicles without drivers behind the wheel, said Andrew Maynard, an associate dean at Arizona State University’s College of Global Futures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future",
+      "originalUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/00261d5/2147483647/strip/true/crop/1200x675+0+38/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Faf%2F39%2F353dc3544745b95be3d878b0a881%2Fwaymo-minivan.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future?_amp=true",
+      "cdnAmpWebUrl": "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future?_amp=true",
+      "publishedDateTime": "2020-12-31T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC15 Arizona",
+        "domain": "abc15.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-how-artificial-intelligence-will-be-used-in-2021.md",
       "title": "How artificial intelligence will be used in 2021",
       "excerpt": "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3.",
@@ -1244,101 +1330,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-ouster-maker-of-self-driving-tech-agrees-19-billion-deal-to-go-public.md",
-      "title": "Ouster, maker of self-driving tech, agrees $1.9 billion deal to go public",
-      "excerpt": "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ctech-us-ouster-m-a-colonnade-acqsn-idCAKBN28W1D3-OCATC",
-      "originalUrl": "https://www.reuters.com/article/ctech-us-ouster-m-a-colonnade-acqsn-idCAKBN28W1D3-OCATC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545437645&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0TE",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN28W1D3-OCATC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28W1D3-OCATC",
-      "publishedDateTime": "2020-12-22T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-apple-and-others-are-coming-for-tesla.md",
-      "title": "Apple and Others Are Coming for Tesla",
-      "excerpt": "Google parent Alphabet has a self-driving car business, Waymo. Baidu, the Google of China, is also thought to be planning an EV. Baidu might be looking at the valuation NIO and other Chinese EV ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/apple-and-others-are-coming-for-tesla-51608642430",
-      "originalUrl": "https://www.barrons.com/articles/apple-and-others-are-coming-for-tesla-51608642430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-270718/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/apple-and-others-are-coming-for-tesla-51608642430",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/apple-and-others-are-coming-for-tesla-51608642430",
-      "publishedDateTime": "2020-12-22T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

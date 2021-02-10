@@ -63,20 +63,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Twitter Expands Strategic Partnership with Google Cloud to Improve Data Insights and Enhance Productivity"
-    excerpt: "Google Cloud today announced a new, multi-year, strategic partnership with Twitter (NYSE: TWTR). The company will deepen its initial work with Google and move its offline analytics, data processing, and machine learning workloads to Google’s Data Cloud."
-    publishedDateTime: 2021-02-05T08:17:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-social-media-online-media-data-management-media-07738c1a4d3e89e000eff9d69f85cf48"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "NeerdNIrjJ/PbNJMURNK3rxzXW++cBVJnTlr7b30kL79t/RAt3/z29Qb21RjP79H6RbG9TWaXh6cR+oVX/ogSWjc9ZBOyc3wJCHeqED5nOqAqhCzpC1QqUCDLxA2G7bxPk+MXDCofl32n9XCtyRSHel/mG5Bwf/sEJtuWl2QZSajjENIPiDn6OZfSDJHv/2wVpjHf6gpWnzBr62UC1G4l+1ox67jaw9LzxubSlyznNIAnIXbaG1arJ2PxoN1Fy0zjI6AowyfqUn5kfmBArsiwkGebL+5wEnSUy0wgScf+kBq31WIeL3zuzBL4mz2FEMCtGZnpBXckQguYaRqplLvZDx7FHnAegj2R8zmat8QLbuNSMdrBre7vI6vpQG2kGUGBzZdn0CIseaSvhoHzkTqcx7N4WlfJhMwlkOBgStQ3Ee3qZOP0/Co4Mw5esO8TGpnLSr3XPpNWFIPgIJwog4QUQex4nmPl8otoltYH5XBEM2hVRQyUDVHDHBDFPnah1Zwb2Jk5lfn+1gtL3VweeVoWw==;DG2Bhtl/lyvaWFQAxugfzg=="
 ---

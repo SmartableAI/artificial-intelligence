@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/09/symend-raises-43-million-more-for
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/symend-raises-43-million-more-for-ai-that-helps-customers-resolve-past-due-bills/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 743
     isCached: true
-
-related:
-  - title: "We got an exclusive look at the pitch deck Canadian AI startup Symend used to raise $48 million"
-    excerpt: "Canadian tech startup Symend has almost doubled the size of its Series B as it expands into new geographies."
-    publishedDateTime: 2021-02-09T13:00:00Z
-    webUrl: "https://www.businessinsider.com/symend-ai-tech-startup-raises-48-million-extension-from-vc-investors-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/5eb29ad8204ad356f7327ba6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "Bt0TlHuonU7buNDKBIaME827BtIVKOJ2ymU66dmLuDy0Qd5JM/cvLMfvKqbRjUVy1aExzgxEO386GoAQmEO2pFqqa0xUJGyNtwi0kZX5/AspmtImfZv1BHc3d6AcHwHBtO2Vin2hIEDJd9Ud/e6oTO76+0bFWMSJir+8bfAXzqW+M9uko0/tqWn40V7aGU7LXggkjpMZAJiWRG6iSduGAD6QU5T5gS+Kqs3eM0TYbXtPLy4IHtQei4cu/JJfeneXIKADOmzTdv7bq94IACTb0GCcqvc2UD2EZwtiy6lqbNu05VaVr/L3D5EAvinqamz478NbyE6Ev61en+gBH1XI3QypydscI8XKgqsKCIXoD0ilB/c4o5HVfdI2eqRWIBD1fbjyAucP6Xkz4ZzWummqoUjP/NXCIbzpF2NFoCgmPegdUm09XwzRaxBH96CNdpxN6FSLxYEXODRa6ArKEpWkBLUt73bdUYZsgCiP73KGyFr5EB6LtAr78SFdcJKH2q2lpQZCu+7AFoEYKr5CBJQMJw==;h5416wtzOpbFXcMkvzqL7A=="
 ---

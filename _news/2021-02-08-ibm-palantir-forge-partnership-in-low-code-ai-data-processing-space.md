@@ -3,10 +3,10 @@ category: news
 title: "IBM, Palantir forge partnership in low-code AI data processing space"
 excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
 publishedDateTime: 2021-02-08T13:53:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-webUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
 type: article
 quality: 87
 heat: 227
@@ -93,15 +93,15 @@ related:
         height: 600
         isCached: true
   - title: "IBM, Palantir Technologies Announce New Partnership - Quick Facts"
-    excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is ..."
-    publishedDateTime: 2021-02-08T12:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-palantir-technologies-announce-new-partnership-quick-facts-1030054674"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/IBM-Palantir-Technologies-Announce-New-Partnership-Quick-Facts-1030054674"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-Palantir-Technologies-Announce-New-Partnership-Quick-Facts-1030054674"
+    excerpt: "IBM (IBM) and Palantir Technologies (PLTR) announced Monday a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next generation operations platform for building applications."
+    publishedDateTime: 2021-02-08T12:16:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
   - title: "Palantir (PLTR) Stock Surges On IBM Deal; Is It A Buy Now?"
     excerpt: "Should Investors Consider Palantir Stock In Their Portfolio? Palantir Technologies (NYSE: PLTR) is a tech company that has mostly been in the spotlight since it went public last S"
@@ -227,6 +227,6 @@ related:
         height: 284
         isCached: true
 
-secured: "7q4WTOsDU0g6ji14+1ATNh6oBjFTd7TR5LyrBninM29775CXiehGL2pMhpnAbrDqDgtKt2vm9VBb9SrQfGtLvl1/3ljofP5CkjLRzRweAIBTtEpF/GGukSsPgPJ+goQ1gg8sDrS0L0Ug6ho2QzN+emGpnMns0sAzj0x78MDHd4PkKd08F0ESRGeLiKD+HRpf7lHakhL/B352sJYYp9xMvSDEwe+FGDlKMBUCs2yjmDi4lkQcniIzlF194Dt9Chgg7mxDTEn9eJCTpZD5JXWMZRI6mGvb1F+2b+tJSixkJN2SMyQ377FdpoqoWiM0J1D+h7ioGft/qWo/AZ9L9AIWekoGv43Dwq2Em4fvlT4z7JY=;eLqSXjTf7/iA1RqvPMOxBQ=="
+secured: "XyUDnfM8uCzIaPqh5KJe3PlIiTAq6bWj/WvIUwET5Gke1B7k0fnb0g3VL4jRUC1dJgoa9YMiR9cIPEFMDUUL/Gd4WSNqZWgXah0X4B5T3AOXuRBDVsFk6C2i6yKZzTQ/960w1ukklQgwe2azBK4q36MWHeF6FcwxXY7eOP2MbVhESh9mHZ/BIN87eo42N+f6FIQxYx/oy3fhKrum7BJJIMaf1poVTl2YUYMCG+1k979Fbz9v0hdj0vLykhJt0hj3jXH/tLHyq4eK2lLF0/C3+2CkUKSBSIZ4htV7UtjMEwQDNLKDL7XP/xWIa2xqjRaGJXCSc+B4zJ45gX1Rs4D1Yvx1F2UoNgZW0IDrxp2eII4=;DIVcqhhTpQXWPq5bwOF/CA=="
 ---
 

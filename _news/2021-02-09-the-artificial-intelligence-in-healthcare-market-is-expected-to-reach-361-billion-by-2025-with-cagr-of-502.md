@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
+    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in manufacturing market."
+    publishedDateTime: 2021-02-09T16:19:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-industrial-equipment-repair-information-technology-5bc5bd87020e8288ad67c67be5202146"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI Chip Market to Witness Huge Growth from 2020-2030 and Focusing on Top Key Players - Intel Corp, NVIDIA Corp"
     excerpt: "Market Industry Reports (MIR) has published a new report titled “AI Chip Market- Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020–2030.” According to the report, the Global AI Chip Market accounted for over ~US$ 9."
     publishedDateTime: 2021-02-09T09:49:00Z

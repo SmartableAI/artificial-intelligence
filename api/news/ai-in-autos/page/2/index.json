@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
+      "title": "SoftBank's Son expects mass production of driverless cars in two years",
+      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1",
+      "originalUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp",
+      "publishedDateTime": "2021-01-29T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-softbanks-son-expects-mass-production-of-driverless-cars-in-2-years.md",
       "title": "SoftBank's Son expects mass production of driverless cars in 2 years",
       "excerpt": "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ...",
@@ -677,6 +720,40 @@
       ]
     },
     {
+      "path": "_news/2021-01-27-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
+      "title": "Baidu gets California nod for testing empty self-driving cars",
+      "excerpt": "OAKLAND — Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state’s Department of Motor Vehicles said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars",
+      "originalUrl": "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars/wcm/d15c9ea4-b1e6-4af0-8483-a093f259084b/amp/",
+      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars/wcm/d15c9ea4-b1e6-4af0-8483-a093f259084b/amp/",
+      "publishedDateTime": "2021-01-26T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Post",
+        "domain": "nationalpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple.md",
       "title": "Aeva to supply lidar sensors to self-driving truck firm TuSimple",
       "excerpt": "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple.",
@@ -1335,101 +1412,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-baidu-share-price-why-citi-and-jpmorgan-analysts-raised-their-price-targets-to-us290.md",
-      "title": "Baidu share price: Why Citi and JPMorgan analysts raised their price targets to US$290",
-      "excerpt": "Baidu share price: the latest. Chinese search engine company Baidu’s share price has burgeoned roughly 19% since announcing that it would be entering the electric vehicle (EV) s",
-      "sourceUrl": null,
-      "webUrl": "https://www.ig.com/en/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121",
-      "originalUrl": "https://www.ig.com/en/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a.c-dn.net/c/content/igcom/en_EN/ig-financial-markets/market-news-and-analysis/news/2021/01/21/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p/_jcr_content/ArticleImage.adaptive.620.high.png/1611210708314.png",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ig.com/en/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp",
-      "cdnAmpWebUrl": "https://www-ig-com.cdn.ampproject.org/c/s/www.ig.com/en/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp",
-      "publishedDateTime": "2021-01-20T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ig.com",
-        "domain": "ig.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-trump-pardons-anthony-levandowski-the-engineer-who-stole-self-driving-car-secrets-from-google.md",
-      "title": "Trump pardons Anthony Levandowski, the engineer who stole self-driving car secrets from Google",
-      "excerpt": "Tech billionaire Peter Thiel — previously one of Trump's top allies in Silicon Valley — was among those the White House listed as supporters of Levandowski's pardon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106648265-1596584130509-UBER-LEVANDOWSKI.JPG?v=1596584247",
-          "width": 4393,
-          "height": 2928,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html",
-      "publishedDateTime": "2021-01-20T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

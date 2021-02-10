@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/"
 type: article
 quality: 89
-heat: 160
+heat: 159
 published: true
 
 provider:

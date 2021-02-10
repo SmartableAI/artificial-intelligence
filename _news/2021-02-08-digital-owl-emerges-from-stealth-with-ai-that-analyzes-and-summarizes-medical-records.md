@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/"
 type: article
 quality: 82
-heat: 93
+heat: 92
 published: true
 
 provider:

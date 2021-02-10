@@ -55,20 +55,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Twitter Expands Strategic Partnership with Google Cloud to Improve Data Insights and Enhance Productivity"
-    excerpt: "Google Cloud today announced a new, multi-year, strategic partnership with Twitter (NYSE: TWTR). The company will deepen its initial work with Google and move its offline analytics, data processing, and machine learning workloads to Google’s Data Cloud."
-    publishedDateTime: 2021-02-05T08:17:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-social-media-online-media-data-management-media-07738c1a4d3e89e000eff9d69f85cf48"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
     excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
     publishedDateTime: 2021-02-05T19:52:00Z

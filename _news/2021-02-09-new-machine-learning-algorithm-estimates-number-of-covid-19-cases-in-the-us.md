@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210208/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/New-machine-learning-algorithm-estimates-number-of-COVID-19-cases-in-the-US.aspx"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer vision in the fight against the COVID-19 pandemic"
-    excerpt: "Computer vision technology helped Taiwan nip COVID-19 dissemination in the bud. The technology proved efficient for virus spread prevention."
-    publishedDateTime: 2021-02-05T09:01:00Z
-    webUrl: "https://jaxenter.com/computer-vision-covid-173692.html"
-    type: article
-    provider:
-      name: jaxenter.com
-      domain: jaxenter.com
-    quality: 54
-    images:
-      - url: "https://jaxenter.com/wp-content/uploads/2021/01/shutterstock_1713989494-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
-  - title: "How digital transformation and AI will lead future development of aviation in post COVID-19 era"
-    excerpt: "Dubai Airshow 2021 will serve as a platform to showcase the role of cutting edge technologies in bolstering the recovery of the aviation"
-    publishedDateTime: 2021-02-09T03:54:00Z
-    webUrl: "https://www.traveldailymedia.com/how-digital-transformation-and-ai-will-lead-future-development-of-aviation-in-post-covid-19-era/"
-    ampWebUrl: "https://www.traveldailymedia.com/how-digital-transformation-and-ai-will-lead-future-development-of-aviation-in-post-covid-19-era/amp/"
-    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/how-digital-transformation-and-ai-will-lead-future-development-of-aviation-in-post-covid-19-era/amp/"
-    type: article
-    provider:
-      name: Travel Daily Media
-      domain: traveldailymedia.com
-    quality: 47
-    images:
-      - url: "https://www.traveldailymedia.com/assets/2021/02/image-1-scaled-e1612842532165.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Machine Learning Model Shows Higher COVID-19 Cases Than Reported"
     excerpt: "A machine learning model estimated that the number of COVID-19 cases in the US is nearly three times greater than reported."
     publishedDateTime: 2021-02-09T17:35:00Z

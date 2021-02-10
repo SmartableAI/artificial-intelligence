@@ -116,17 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
-    publishedDateTime: 2021-02-09T13:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
   - title: "Activ Surgical Joins Microsoft for Startups Program"
     excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"
     publishedDateTime: 2021-02-06T07:56:00Z
@@ -169,20 +158,15 @@ related:
         width: 696
         height: 348
         isCached: true
-  - title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
-    excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
-    publishedDateTime: 2021-02-05T08:05:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-professional-services-4872dc3dd517417798ad767ac157b1fb"
+  - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
+    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
+    publishedDateTime: 2021-02-09T13:01:00Z
+    webUrl: "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Odessa American
+      domain: oaoa.com
+    quality: 36
   - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai Collaborates with Microsoft for AI Platform. Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collab"
     publishedDateTime: 2021-02-09T16:45:00Z

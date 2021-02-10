@@ -63,6 +63,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
+    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in manufacturing market."
+    publishedDateTime: 2021-02-09T16:19:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-industrial-equipment-repair-information-technology-5bc5bd87020e8288ad67c67be5202146"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Artificial intelligence (AI) Market to Attain a Valuation of Highest CAGR 2022-2031| Google Inc. and IBM Corporation"
     excerpt: "Market.us, one of the worlds leading by prominent market research firms has released a new recent work on \"Artificial intelligence (AI) Market 2022-2031\" based on business intelli"
     publishedDateTime: 2021-02-08T08:24:00Z

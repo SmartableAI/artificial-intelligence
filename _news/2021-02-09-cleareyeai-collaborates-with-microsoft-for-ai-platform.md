@@ -1,23 +1,21 @@
 ---
 category: news
 title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
+excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
 publishedDateTime: 2021-02-09T13:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
+originalUrl: "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html"
+webUrl: "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
   - Microsoft AI
 
@@ -168,20 +166,6 @@ related:
         width: 696
         height: 348
         isCached: true
-  - title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
-    excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
-    publishedDateTime: 2021-02-05T08:05:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-professional-services-4872dc3dd517417798ad767ac157b1fb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai Collaborates with Microsoft for AI Platform. Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collab"
     publishedDateTime: 2021-02-09T16:45:00Z
@@ -192,6 +176,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "X0oQijzSIE1KaEthFyHmzy2N8dvaMqixW+l+25r1DO1mhnB3pHkzmawF+85K5Got6bhBgpPP5oR/cQTE4GqVBlvU+Ok9fLhDal2REARMJw7EoI85LnMo/0793IQEKCd1/1b4elSu2QhriJ0fLEvsHYjlN2LGTzZoY/1UH2Stw+ToPe8Z/351bKtHlDtNdMPCodthWHZRr376WN+cSdArEUqt+KTjR2B21uNN04D0XKnSVUu+7YhYXp8UV/GMPLqu8z2p9Pf8RDCky4CFG734fASSll7lv30SFzHduGgdF3llux+kOQNr5YPB7P+qxZiz57zas2mbkxMt2FVv2h0QY0GbqSpt2fIF+X88EEbcbgI=;qXL+vjqXIh6iCx15aHW89A=="
+secured: "mcMftWk9h1P4ckX7ZzJbc4S+M1i6/2K0FXHwSCHOPRcneAOmmrhaYuTkDfwfh+NOmCmpgHTpZAIXAI60VZeAbBAY9o2wnSJGdoCWj9tr/yCEoLwIUNcTcaK3Tth+k5TKL5xDxJBuZeqU3euBkx0mPEpxoJ7j93SY9l7X18VEFCuenLP/leJhk7rSOPyMVrZXZkgi7oCzo7XrANn7YnJQL8r2ltXl3Rz+UKIq+mBkrdUD5hWoIO6sJyJ1QnDKgMi3W5QrKp/uHShTH8puQSjt0k0JUjDZ9K1f37IWI9L/rqp1lQYegVMxeAYCuaygGvGwNK8uyHmDUESX6komuAC0Cvt1L9Dnz9S0C0hCl4uhFZc=;ONrf3swhmfof5hlsHwThfw=="
 ---
 

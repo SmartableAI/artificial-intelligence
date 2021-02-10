@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

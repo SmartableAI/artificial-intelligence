@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2237949/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
 type: article
 quality: 65
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
+    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in manufacturing market."
+    publishedDateTime: 2021-02-09T16:19:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-industrial-equipment-repair-information-technology-5bc5bd87020e8288ad67c67be5202146"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

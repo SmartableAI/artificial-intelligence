@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-08"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -30,45 +30,36 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise hits and misses - taking stock of AI in retail, Black History Month's tech voices, and the COVID-19 data challenge"
-    excerpt: "AI in retail gets realistic; Black History Month brings needed scrutiny to diversity in tech. COVID-19's data challenges get a tech boost, and Google makes enterprise moves. Your whiffs include Amazon's (lack of) employee experience,"
-    publishedDateTime: 2021-02-08T12:49:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-taking-stock-ai-retail-black-history-months-tech-voices-and-covid-19"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-taking-stock-ai-retail-black-history-months-tech-voices-and-covid-19?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-taking-stock-ai-retail-black-history-months-tech-voices-and-covid-19?amp"
+  - title: "How digital transformation and AI will lead future development of aviation in post COVID-19 era"
+    excerpt: "Dubai Airshow 2021 will serve as a platform to showcase the role of cutting edge technologies in bolstering the recovery of the aviation"
+    publishedDateTime: 2021-02-09T03:54:00Z
+    webUrl: "https://www.traveldailymedia.com/how-digital-transformation-and-ai-will-lead-future-development-of-aviation-in-post-covid-19-era/"
+    ampWebUrl: "https://www.traveldailymedia.com/how-digital-transformation-and-ai-will-lead-future-development-of-aviation-in-post-covid-19-era/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/how-digital-transformation-and-ai-will-lead-future-development-of-aviation-in-post-covid-19-era/amp/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 30
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 47
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess1.jpg"
-        width: 425
-        height: 283
+      - url: "https://www.traveldailymedia.com/assets/2021/02/image-1-scaled-e1612842532165.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
-    publishedDateTime: 2021-02-06T08:04:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-97a4402fba5f422483e604c3a2baf2be"
+  - title: "AI-Powered Cooperation Will Transform U.S. Military Operations"
+    excerpt: "And as 2021 shifts into gear, the U.S. military is operating against a backdrop of not just these changes, but also an evolving threat landscape. Chiefs across the service branches over the past year made clear their sharp focus on technology-driven dominance over near-peer adversaries,"
+    publishedDateTime: 2021-02-06T15:29:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/ai-powered-cooperation-will-transform-u-s-military-operations/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.hstoday.us/wp-content/uploads/2021/02/1000w_q95-6.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
-    publishedDateTime: 2021-02-05T11:43:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210205005219/worldwide-machine-learning-industry-to-2030-featuring-bigml-featurespace-and-google-among-others-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 7
 
 secured: "pWSaHOteu/rDPy5SyLwyT3r2v+NAzbV/I5/9WceoTtkszMEbKC1E94TkYSDc8M1qIQQjTU4SDlWjJiVbJKmOt+H3epZQ8RdUOw5PIREeE5yRei2plN1vD6fWzcQrdxMq0QffVmX0nxp+7sSdoXaWDfYFTUmmrfXxC3i4BbvXTWvm0WU5SrlPpNs6LIGua9pMg8OItFpQ98iB0+jmPbJ+BSK719NtRmKFRC1RWJFcRrY3dUQt3q8Ko4jLaDEGtULFk5KQ1JKS0l/0RnnH7KrxoZhrQwIlFxEOEON8+YF2RU5k1tnF3JW34URh5eSxWTn+BLxtFWp/9IeomqOcylRYBYIa+AbrI7a/6mj2NMFkwoE=;A7FkA0B6kgN4+QMRav1dVA=="
 ---

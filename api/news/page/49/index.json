@@ -2,6 +2,396 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-01-05-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70.md",
+      "title": "Microsoft Azure helps Irctc chatbot boost user experience by 70%",
+      "excerpt": "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.imdb.com/news/ni63147427/",
+      "originalUrl": "https://www.imdb.com/news/ni63147427/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IMDb",
+        "domain": "imdb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-here-are-the-robots-taking-the-virtual-stage-at-ces-2021.md",
+      "title": "Here are the robots taking the virtual stage at CES 2021",
+      "excerpt": "This story is part of CES, where our editors will bring you the latest news and the hottest gadgets of the entirely virtual CES 2021. This year's all-digital CES is going to be a tough one for everyone involved,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
+      "originalUrl": "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/JGUzgEzR4jP1EdJeaQKYKvFiIXI=/1200x630/2019/01/09/6851653c-d1df-4274-a1ef-1d4125740260/yukai-bocco-emo-product-photos-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
+      "publishedDateTime": "2021-01-05T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human.md",
+      "title": "Watch a Robot Dog Learn How to Deftly Fend Off a Human",
+      "excerpt": "Kick over this robot and it’ll quickly right itself—not because someone told it how, but because it taught itself to overcome the embarrassment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/",
+      "originalUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ff4814762dc9f2effae9942/master/pass/Science_yang7HR.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/amp",
+      "publishedDateTime": "2021-01-05T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language.md",
+      "title": "Consumer-Like Employee Self-Help Requires A Bridge Between AI And The Semantics Of Human Language",
+      "excerpt": "Whether completely remote, in the office with an abundance of safety precautions or a hybrid of the two, employees require immediate, personalized help 24/7.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f184032107158000722cf84%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/amp/",
+      "publishedDateTime": "2021-01-05T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design.md",
+      "title": "Jarvis Meets Automotive: How Artificial Intelligence Is Remodeling Computer-Aided Design",
+      "excerpt": "The world of computer-aided design is transforming from a visual, drafting tool to an artificial intelligence agent that uses feedback and weighted goals to design an integrated system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/",
+      "originalUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce6fad7d46dc2167aa1ac4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/",
+      "publishedDateTime": "2021-01-05T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group.md",
+      "title": "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group",
+      "excerpt": "New Delhi: Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been recognized as a Leader in the Everest",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/",
+      "originalUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/TCS.jpg?fit=400%2C400&ssl=1",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp",
+      "publishedDateTime": "2021-01-05T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots.md",
+      "title": "Microsoft wants to use AI to turn your friends and family into 3D chatbots",
+      "excerpt": "A patent published by Microsoft describes the process of creating an AI chatbot based on a real-life person using their social data, photos, and even voice recordings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
+      "publishedDateTime": "2021-01-05T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-learn-about-nvidia-in-cambridge-and-its-plans-for-a-global-ai-research-centre.md",
+      "title": "Learn about NVIDIA in Cambridge and its plans for a global AI research centre",
+      "excerpt": "NVIDIA recently announced its acquisition of Arm and its intention to develop a new global centre of excellence in AI research in Cambridge. Join Cambridge Network for a special online event on Thursday 28 January,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre",
+      "originalUrl": "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridgenetwork.co.uk/sites/default/files/styles/large/public/Blog%20Advert%20%28News%29.png?itok=XJens5pZ",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge Network",
+        "domain": "cambridgenetwork.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-apple-work-podcast-deep-learning-with-osmo.md",
       "title": "Apple @ Work Podcast: Deep learning with Osmo",
       "excerpt": "In this episode of the Apple @ Work podcast, Bradley is joined by Pramod Sharma who is CEO of Osmo to talk about the founding of the company, how Osmo promotes deep learning with children, and more. Sponsor: If you’re a business of school looking to find a trusted repair partner for your Apple devices,",
@@ -822,386 +1212,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-artificial-intelligence-project-aims-to-find-new-uses-for-old-drugs.md",
-      "title": "Artificial Intelligence Project Aims To Find New Uses For Old Drugs",
-      "excerpt": "Medical researchers at Ohio State University have received promising results from a project that uses artificial intelligence to suggest new uses for old drugs. The team, led by D",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359",
-      "originalUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/14/artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359?amp=1",
-      "publishedDateTime": "2021-01-04T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-building-a-secure-search-application-with-access-controls-using-amazon-kendra.md",
-      "title": "Building a secure search application with access controls using Amazon Kendra",
-      "excerpt": "For many enterprises, critical business information is often stored as unstructured data scattered across multiple content repositories. Not only is it challenging for organizations to make this information available to employees when they need it, but it’s also difficult to do so securely so relevant",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-search-application-with-access-controls-using-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-search-application-with-access-controls-using-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/24/ML-1021-1.jpg",
-          "width": 626,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T15:20:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-recycler-ai-maker-amp-robotics-raises-55m-in-series-b.md",
-      "title": "Recycler AI maker AMP Robotics raises $55M in Series B",
-      "excerpt": "AMP Robotics Corp. brought in $55 million in its second round of funding last week, including an undisclosed investment from Google’s venture capital group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/",
-      "originalUrl": "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailycamera.com/wp-content/uploads/migration/2016/0429/20160429_02dcbpretw-1.jpg?w=1024&h=670",
-          "width": 654,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/",
-      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/",
-      "publishedDateTime": "2021-01-04T14:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Camera",
-        "domain": "dailycamera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing.md",
-      "title": "Data 2021 Outlook, Part I: What’s ahead for AI and Cloud Data Warehousing",
-      "excerpt": "Responsible AI” is at the beginning of a long slog, while Cloud Data Lakehouses will supplement but not replace Data Warehouses or Data Lakes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
-      "originalUrl": "https://www.zdnet.com/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/01/04/4ac23f0e-f51b-40de-b89b-01595216f758/21-is-going-to-be-a-good-year.jpg",
-          "width": 630,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing/",
-      "publishedDateTime": "2021-01-04T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-of-animal-bondage-andre-nortons-iron-cage.md",
-      "title": "Of Animal Bondage: Andre Norton’s Iron Cage",
-      "excerpt": "She and her husband were colonists on a newly discovered world, and were captured and taken offworld to serve as mind-controlled slaves. But Rutee and Bron could not be controlled, and their young ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tor.com/2021/01/04/of-animal-bondage-andre-nortons-iron-cage/",
-      "originalUrl": "https://www.tor.com/2021/01/04/of-animal-bondage-andre-nortons-iron-cage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.tor.com/wp-content/uploads/2020/12/Iron-Cage-Norton.jpg?fit=300%2C+9999&crop=0%2C0%2C100%2C496px&quality=100&ssl=1",
-          "width": 300,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tor.com",
-        "domain": "tor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-how-some-companies-are-solving-the-issues-with-language-and-ai.md",
-      "title": "How some companies are solving the issues with language and AI",
-      "excerpt": "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/04/ee84d7c1-5b90-4316-b794-a0c7bf0a33ee/resize/1200x/9ac461c9047dc9ffb635e89c3641aafb/istock-889309652.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/",
-      "publishedDateTime": "2021-01-04T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-mozzaz-and-giupedi-llc-sign-strategic-partnership-for-workers-compensation-and-personal-injury-clinical-care-coordination.md",
-      "title": "Mozzaz and Giupedi, LLC Sign Strategic Partnership for Workers Compensation and Personal Injury Clinical Care Coordination",
-      "excerpt": "Mozzaz and Giupedi, LLC Sign Strategic Partnership for Workers Compensation and Personal Injury Clinical Care Coordination. Jan 04, 2021 3:08 PM ET. Legal Newswire POWERED BY LAW.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legalnewswire/news.php?id=2788696",
-      "originalUrl": "https://www.law.com/legalnewswire/news.php?id=2788696",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.law.com/assets/master-template/images/close-btn.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-2-tesla-analysts-break-down-fundamentals-valuation-china-prospects-after-q4-delivery-report.md",
-      "title": "2 Tesla Analysts Break Down Fundamentals, Valuation, China Prospects After Q4 Delivery Report",
-      "excerpt": "Tesla Inc (NASDAQ: TSLA) nearly met what many thought was an insurmountable 2020 deliveries target in the wake of the COVID-19 pandemic — and beat Street projections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/2-tesla-analysts-break-down-fundamentals-valuation-china-prospects-after-q4-delivery-report-1029931521",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106806378-1607090735605-gettyimages-1229775377-CHINA-SHANGHAI-TESLA-GIGAFACTORY_CN.jpeg?v=1607090789",
-          "width": 4000,
-          "height": 2833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
-      "publishedDateTime": "2021-01-04T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
