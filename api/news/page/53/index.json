@@ -2,6 +2,186 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-01-03-leading-computer-scientists-debate-the-next-steps-for-ai-in-2021.md",
+      "title": "Leading computer scientists debate the next steps for AI in 2021",
+      "excerpt": "What do we need to push AI to the next level? A panel of experts hosted by Montreal AI discussed possible answers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/franck-v-740555-unsplash-1-e1573833675406.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/02/leading-computer-scientists-debate-the-next-steps-for-ai-in-2021/amp/",
+      "publishedDateTime": "2021-01-02T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-ktr-releases-telanganas-2020-year-of-ai-success-report.md",
+      "title": "KTR releases Telangana’s 2020 Year of AI success report",
+      "excerpt": "Telangana IT and Industries Minister KT Rama Rao today released the report “Telangana’s Year of AI – 2020 and Beyond” highlighting the various achievements made in the sector during 2020. A year which saw one of the biggest FDIs wherein Amazon Web Services announced plans to invest about $ 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/pyrjlk/article33018127.ece/ALTERNATES/LANDSCAPE_615/Telangana-targeGM17U5V1I6jpgjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/",
+      "publishedDateTime": "2021-01-02T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-senate-overrides-trumps-veto-of-defense-bill.md",
+      "title": "Senate overrides Trump's veto of defense bill",
+      "excerpt": "The Senate on Friday overrode President Trump's veto of the National Defense Authorization Act, the $740 billion defense policy bill. This veto, in the waning days of Mr. Trump's presidency, marked the first time Congress has voted to override him.",
+      "sourceUrl": null,
+      "webUrl": "https://spacenews.com/congress-overrides-trumps-veto-and-passes-the-national-defense-authorization-act/",
+      "originalUrl": "https://www.msn.com/en-us/news/politics/senate-overrides-trumps-veto-of-defense-bill/ar-BB1coX5g",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://spacenews.com/wp-content/uploads/2020/05/Capitol_USC.jpg",
+          "width": 879,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-02T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https://spacenews.com/congress-overrides-trumps-veto-and-passes-the-national-defense-authorization-act/",
+        "domain": "https://spacenews.com/congress-overrides-trumps-veto-and-passes-the-national-defense-authorization-act/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-could-the-ancient-greeks-really-not-see-blue.md",
+      "title": "Could the Ancient Greeks really not see blue?",
+      "excerpt": "Blue seems to be all around us, we see it in the sky and we see it in the ocean - but the word blue was missing from our lexicon until relatively recently. Professor Jules Davidoff has been researching colour recognition for many decades,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rnz.co.nz/national/programmes/the-weekend/audio/2018779012/could-the-ancient-greeks-really-not-see-blue",
+      "originalUrl": "https://www.rnz.co.nz/national/programmes/the-weekend/audio/2018779012/could-the-ancient-greeks-really-not-see-blue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rnz.co.nz/assets/news_crops/115781/eight_col_greek_ruins.jpg?1609540664",
+          "width": 720,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-02T02:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rnz",
+        "domain": "rnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-off-the-menu-robotics-gains-foothold-in-fast-food.md",
       "title": "Off The Menu: Robotics gains foothold in fast food",
       "excerpt": "Miso Robotics installed Flippy in a White Castle test location, where the robot automated several parts of White Castle’s burger and fries preparation.",
@@ -948,207 +1128,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-why-this-ai-company-founder-left-tech-to-become-a-healer.md",
-      "title": "Why This AI Company Founder Left Tech To Become A Healer",
-      "excerpt": "After founding three tech companies and working for years as a UX designer, Cris Beasley made a radical choice. She left the tech world to become a healer, moving from SF to the cloud forests of Chiapas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/",
-      "originalUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee1620c984f344e6740c36%2F0x0.jpg%3FcropX1%3D260%26cropX2%3D4514%26cropY1%3D0%26cropY2%3D3190",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/",
-      "publishedDateTime": "2020-12-31T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops.md",
-      "title": "Mohammed Farooq Q&A: How Hypergiant is pushing for an open AI platform for ‘ModelOps’",
-      "excerpt": "Companies building AI applications may think Amazon's AWS is the only place to turn for help, but we need an open AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/",
-      "originalUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/HG_Office-cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/amp/",
-      "publishedDateTime": "2020-12-31T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-amazon-we-dont-need-another-ai-tool-or-apl-we-need-an-open-ai-platform-for-cloud-and-edge.md",
-      "title": "Amazon, we don’t need another AI tool or APl, we need an open AI platform for cloud and edge",
-      "excerpt": "Amazon announced improvements to SageMaker, its machine learning (ML) workflow service, and to Edge Manager — improving AWS’ ML capabilities on the edge at a time when serving the edge is ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/",
-      "originalUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/HG_Office-cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/amp/",
-      "publishedDateTime": "2020-12-31T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-coming-up-the-bias-problem-with-artificial-intelligence.md",
-      "title": "Coming up: The bias problem with artificial intelligence",
-      "excerpt": "Artificial intelligence is a booming industry that is creeping into more aspects of our daily lives. But can computers discriminate? As advanced technology tries to make our lives easier, it can also cause a lot of harm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "originalUrl": "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.apmcdn.org/3290ee3a567dea211722343fc331c0cf3d0cc825/widescreen/0f4c77-20201231-ai.jpg",
-          "width": 2000,
-          "height": 1124,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "publishedDateTime": "2020-12-31T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MPR News",
-        "domain": "mprnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

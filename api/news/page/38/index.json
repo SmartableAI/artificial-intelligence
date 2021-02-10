@@ -2,6 +2,205 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-01-13-best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more.md",
+      "title": "Best robots at CES 2021: Humanoid hosts, AI pets, UV-C disinfecting bots, and more",
+      "excerpt": "CES features the latest in robotics innovation, and this year is no exception. From disinfecting robots to AI-enabled companions, here are some of the best robots at CES 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/f629a590-bded-4833-932c-c74d846af5c8/resize/1200x/fd3a1a8ff2935b04e09b30bf703cb399/adibot-a-ubtech-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
+      "publishedDateTime": "2021-01-13T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-global-face-recognition-device-market-industry-demand-top-players-industry-future-growth-by-2025.md",
+      "title": "Global Face Recognition Device Market Industry Demand, Top Players, Industry Future Growth by 2025",
+      "excerpt": "Selbyville, Delaware, The Global Face Recognition Device Market Research Report 2020-2025 is a valuable source",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-industry-demand-top-players-industry-future-growth-by-2025-2021-01-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-industry-demand-top-players-industry-future-growth-by-2025-2021-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management.md",
+      "title": "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management",
+      "excerpt": "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect.md",
+      "title": "Qualcomm will acquire Nuvia, server CPU maker led by ex-Apple chip architect",
+      "excerpt": "The deal could give Qualcomm the high-performance chip design chops to match or beat Apple, which now offers powerful M1 computer chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/01/2019-01-04T130429Z_2_LYNXNPEF030OH_RTROPTP_4_QUALCOMM-M-A-BROADCOM-e1546625473928.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/amp/",
+      "publishedDateTime": "2021-01-13T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai.md",
       "title": "Nayya raises $10 million to guide employee health benefits decisions with AI",
       "excerpt": "Nayya, an insurance benefits management platform, has raised $10 million for its technology that leverages AI to match employees with plans.",
@@ -981,188 +1180,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-is-amazon-creepier-than-google-at-this-point.md",
-      "title": "Is Amazon creepier than Google at this point?",
-      "excerpt": "We could go on and on. Remember Rekognition, the facial recognition system Amazon allowed police to use that sparked fears the company was essentially supporting the surveillance state?",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/",
-      "originalUrl": "https://bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2019/01/1b8toh.jpg?quality=70&strip=all",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/amp/",
-      "publishedDateTime": "2021-01-12T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-unsupervised-deep-learning-for-super-resolution-reconstruction-of-turbulence.md",
-      "title": "Unsupervised deep learning for super-resolution reconstruction of turbulence",
-      "excerpt": "Recent attempts to use deep learning for super-resolution reconstruction of turbulent flows have used supervised learning, which requires paired data for training. This limitation hinders more practical applications of super-resolution reconstruction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/unsupervised-deep-learning-for-superresolution-reconstruction-of-turbulence/CF82FEF56DD7C2711B1102209872E6D6",
-      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/unsupervised-deep-learning-for-superresolution-reconstruction-of-turbulence/CF82FEF56DD7C2711B1102209872E6D6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-rep-clyburn-wants-to-make-lift-every-voice-and-sing-a-national-hymn.md",
-      "title": "Rep. Clyburn wants to make 'Lift Every Voice and Sing' a national hymn",
-      "excerpt": "The Democrat from South Carolina is aiming for bipartisan support on his proposal, since, he said, it's a song “everybody can identify with.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
-      "originalUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_02/3403781/200811-james-clyburn-ew-345p_39d26c4940824baaac8f4aef818ceb23.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253963",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253963",
-      "publishedDateTime": "2021-01-12T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-service-robotics-market-top-trends-accentuating-size-by-2024.md",
-      "title": "Service Robotics Market Top Trends Accentuating, Size by 2024",
-      "excerpt": "The service robotics market is expected to grow at a substantial rate driven by the system's high efficiency, reliability and convenience as compared to conventional labor. Integration of artificial intelligence (AI) and proliferation of IoT is bringing key transformations in the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

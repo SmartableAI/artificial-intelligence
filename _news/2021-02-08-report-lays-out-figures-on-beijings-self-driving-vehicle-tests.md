@@ -41,22 +41,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "Ford boosts investment plan for EVs and self-driving vehicles, reports loss"
-    excerpt: "As ford announced a Q4 loss, it said it would increase its investment in electrification to $22 billion through 2025."
-    publishedDateTime: 2021-02-05T23:17:00Z
-    webUrl: "https://www.autoblog.com/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 42
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/4032x2268+0+403/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/a2049ab0-67be-11eb-9f7f-36d2fa48d0e8"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "zifUt1IQRYaf06jlCshXHCvJrQf2Vj/V9VhZLHlLC7etWUkli/cxFWdQ3WP1GMN0t7G5LPBD2v37iBWMA+QBrwFQxzmifCqAR+Pq58WDYstwHPw+iyy6u66CDXgdt+UxYI1S2cslnGP8De4KZaGU7aolIjh67WUpM55DhOQjvBYk1h2STDooqXH4QHrHKV+Wjb8BIlsAwTAV8Z4OFptZeDAPV37kpjvWoVgVB/UF9q0szRifBWIC9mjcqFHUa/6oisthQWqvnsVb67N9Kz7pOBFt8Hr1GQb24/MYB0YiZ+IgZ3rEeSt0eXObpZiPhtQd5AlRFuL/KpDHcQylKT6JP+n0M0CDifLzaqJr+p+R5/PcTiYVBU/ISaCR+1cn0KzFddSgyCylJFNYWCt99s9Kc4nRN4O/QlLawKiMHKeqvCBWhnBTbIJkJ6AF6ioy1CY32/esLUjjamVwlMAu0v4XrG4BbqAQx+o7JB1fmUxngkgulrjtCD6MOj9kdznT2VzBGVWotxNq0DgLDiV5KZbtfw==;ADCAyuOxmmReQvTPiL2elQ=="
 ---

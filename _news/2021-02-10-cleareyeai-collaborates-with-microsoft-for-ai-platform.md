@@ -106,6 +106,20 @@ related:
         width: 1000
         height: 387
         isCached: true
+  - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
+    excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
+    publishedDateTime: 2021-02-10T15:48:00Z
+    webUrl: "https://www.dbta.com/Columns/SQL-Server-Drill-Down/Introducing-Azure-Purview-Microsofts-Next-Generation-of-Data-Governance-145167.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 53
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
     excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-09T12:27:00Z

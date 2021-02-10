@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-deployi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/"
 type: article
 quality: 124
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 500
     height: 375
     isCached: true
+
+related:
+  - title: "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04"
+    excerpt: "If you're looking to add Machine Learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04. TensorFlow is an open source development platform for machine learning (ML). With this software platform ..."
+    publishedDateTime: 2021-02-10T16:01:00Z
+    webUrl: "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 110
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2019/04/15/c4cd780e-d300-42ff-bed2-b5a9f568dc3f/resize/1200x/93ee1e53acaf6f50c163d1dc759fc216/tensorflowgoogle.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TGhvnq109BZ1VzdGavj6BxBiKGr5zmMb/yf4wd+bEiKnu3s01tZG4KvNsiN0zqyUoks5g35VA4wZMqkgNlrs6m3zyTcMS/7dWHD5P1PtSEwT4MevzpU2yHRULonq9OdcKBFDkl9TXMQ0PIYS0kuwsw63x6IpGl0pFjTBLOoBWDUz+CBBfYWV+fGSusfdhrD8Ouh99Mn1e1xhWCPY5AoNKIqsA54kEDVyBkTiYpyoCDxqEb3KUJfx9w6Qlf14w/gg+asXbrA9HCx3wKXaxYunDNR1vstEKz2dD3vRQSJBtyTu/p5hVm3rw/OMZ97IOl5Vn/pwXwJWzfNcWhn0OeXhsOzo7pqxAngUPLLya1lPSLs=;u8MQ3TrJQfH8q83LwVP/rA=="
 ---

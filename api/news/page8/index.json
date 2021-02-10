@@ -2,6 +2,152 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-03-how-to-safeguard-students-mental-health-while-learning-from-home.md",
+      "title": "How To Safeguard Students’ Mental Health While Learning From Home",
+      "excerpt": "It’s no secret that students do their best work when they can fully concentrate on their education. But, thanks to the various lockdowns and learning from home, this tends to be a lot easier said than done, creating a huge number of other home-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.elearninginside.com/how-to-safeguard-students-mental-health-while-learning-from-home/",
+      "originalUrl": "https://news.elearninginside.com/how-to-safeguard-students-mental-health-while-learning-from-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.elearninginside.com/wp-content/uploads/2021/02/josefa-ndiaz-IzmdWT2lW5Q-unsplash-scaled.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eLearningInside News",
+        "domain": "elearninginside.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier.md",
+      "title": "If You Have A Luxury Handbag To Sell, Rebag’s New Clair AI Makes It Easier",
+      "excerpt": "In an effort to further distinguish itself amid the increasingly competitive luxury resale channel, Rebag is launching Clair AI image recognition technology for luxury products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/",
+      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601a32875504fa3f560800f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 1016,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/amp/",
+      "publishedDateTime": "2021-02-03T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020.md",
+      "title": "Cloud services spending jumps by $10 billion in final quarter of 2020",
+      "excerpt": "Driven by demand from remote workers and students as well as content streaming and online gaming, cloud services took in $40 billion in sales last quarter, says Canalys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020/",
+      "originalUrl": "https://www.techrepublic.com/article/cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020/",
+      "publishedDateTime": "2021-02-03T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-ai-finds-more-than-1200-gravitational-lensing-candidates.md",
       "title": "AI finds more than 1,200 gravitational lensing candidates",
       "excerpt": "A research team with participation by Berkeley Lab physicists has used artificial intelligence to identify more than 1,200 possible gravitational lenses—objects that can be powerful markers for the distribution of dark matter.",
@@ -1073,144 +1219,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
-      "title": "AI maths whiz creates tough new problems for humans to solve",
-      "excerpt": "Algorithm named after mathematician Srinivasa Ramanujan suggests interesting formulae, some of which are difficult to prove true.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-00304-8/d41586-021-00304-8_18829048.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-amazons-ai-is-helping-the-police-watch-you.md",
-      "title": "Amazon's AI Is Helping the Police Watch You",
-      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-jeff-bezos-to-step-down-as-amazon-ceo-andy-jassy-to-take-over-in-q3.md",
-      "title": "Jeff Bezos to step down as Amazon CEO, Andy Jassy to take over in Q3",
-      "excerpt": "Jassy joined Amazon in 1997 and has led Amazon's Web Services cloud team since its inception. Bezos said he will stay engaged in important Amazon projects but will also have more time to focus on ...",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/campaigns/inside-amazon-2021-02-03-26425/sections/223561",
-      "originalUrl": "https://www.cnbc.com/2021/02/02/jeff-bezos-to-step-down-as-amazon-ceo-andy-jassy-to-take-over-in-q3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e.insd.io/s/p/223561_original.jpg?1612370704",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T15:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,195 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-01-11-worlds-first-self-driving-water-taxi-is-ready-to-ferry-passengers-in-knoxville.md",
+      "title": "World's first self-driving water taxi is ready to ferry passengers in Knoxville",
+      "excerpt": "All you need is an app. Buffalo Automation, an artificial intelligence startup from Buffalo, New York, introduced its self-driving Greycraft water taxi to the public last week. Privately ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.knoxnews.com/story/money/business/2021/01/11/worlds-first-self-driving-water-taxi-debuts-knoxville/6578481002/",
+      "originalUrl": "https://www.knoxnews.com/story/money/business/2021/01/11/worlds-first-self-driving-water-taxi-debuts-knoxville/6578481002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/07/PKNS/105c28dd-9960-4032-8ac9-1935006d0593-kns-taxi00108_BP.jpg?auto=webp&crop=3499,1968,x0,y57&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.knoxnews.com/amp/6578481002",
+      "cdnAmpWebUrl": "https://amp-knoxnews-com.cdn.ampproject.org/c/s/amp.knoxnews.com/amp/6578481002",
+      "publishedDateTime": "2021-01-11T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Knox News",
+        "domain": "knoxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog.md",
+      "title": "Samsung reveals smarter Family Hub fridge and a robo-vac that thinks it’s a guard dog",
+      "excerpt": "Samsung’s big Galaxy S21 launch may be coming later this week, but it’s home appliances which are getting their moment in the spotlight today. Fresh for CES 2021 are updates in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/",
+      "originalUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/samsung-ces-2021-home-appliances-1.jpg",
+          "width": 1680,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/",
+      "publishedDateTime": "2021-01-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently.md",
+      "title": "Samsung's new washers and dryers use AI to clean your clothes more efficiently",
+      "excerpt": "Samsung announced a new series of front-load washers and dryers that use artificial intelligence to reduce the time it takes to clean your clothes. The new models are part of the Samsung 8800 Series that sit near the top of the 2021 range and will be the only models to use the new AI-powered Optiwash mode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently",
+      "originalUrl": "https://www.techradar.com/au/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/H7pBB2544H9wYUgHdQ8zeW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently",
+      "publishedDateTime": "2021-01-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-baidu-geely-join-hands-to-establish-intelligent-ev-company.md",
+      "title": "Baidu, Geely join hands to establish intelligent EV company",
+      "excerpt": "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Robin Li ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101418893/Baidu-Geely-join-hands-to-establish-intelligent-EV-company&source=30",
+      "originalUrl": "https://menafn.com/1101418893/Baidu-Geely-join-hands-to-establish-intelligent-EV-company&source=30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-01/11/I_a0679f55-dimage_story.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier.md",
       "title": "Microsoft's Power BI and DirectQuery: Making data analysis and visualisation easier",
       "excerpt": "Mixing datasets to generate complex insights can help even the smallest organisation maximise business value from its data.",
@@ -1001,189 +1190,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase.md",
-      "title": "Top 25 Machine Learning Startups To Watch In 2021 Based On Crunchbase",
-      "excerpt": "Throughout 2020, venture capital firms continued expanding into new global markets, with London, New York, Tel Aviv, Toronto, Boston, Seattle and Singapore startups receiving increased funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/?sh=1411d09a4038",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/",
-      "publishedDateTime": "2021-01-10T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-cognitive-services-platform-market-emerging-players-growth-analysis-and-forecast-by-2023.md",
-      "title": "Cognitive Services Platform Market: Emerging Players, Growth, Analysis and Forecast by 2023",
-      "excerpt": "In the research report, Market Research Future (MRFR), emphasizes that the Global Cognitive Services Platform Market 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-platform-market-emerging-players-growth-analysis-and-forecast-by-2023-2021-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-platform-market-emerging-players-growth-analysis-and-forecast-by-2023-2021-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-10T20:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-baidu-teams-up-with-geely-to-create-new-self-driving-car-company.md",
-      "title": "Baidu teams up with Geely to create new self-driving car company",
-      "excerpt": "The Chinese search giant will focus on the intelligent driving side of things while Geely will bring its manufacturing capabilities to the table.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "publishedDateTime": "2021-01-10T19:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ethics-and-governance-of-ai.md",
-      "title": "Ethics and Governance of AI",
-      "excerpt": "The rapidly growing capabilities and increasing presence of AI-based systems in our lives raise pressing questions about the impact, governance, ethics, and accountability of these technologies around the world. How can we narrow the knowledge gap between ...",
-      "sourceUrl": null,
-      "webUrl": "https://cyber.harvard.edu/topics/ethics-and-governance-ai",
-      "originalUrl": "https://cyber.harvard.edu/topics/ethics-and-governance-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

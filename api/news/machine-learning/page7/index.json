@@ -2,6 +2,103 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-22-amazon-aws-says-very-very-sophisticated-practitioners-of-machine-learning-are-moving-to-sagemaker.md",
+      "title": "Amazon AWS says ‘Very, very sophisticated practitioners of machine learning’ are moving to SageMaker",
+      "excerpt": "The infrastructure software is catching on with some of the most demanding machine learning scientists at big firms such as Lyft and Intuit, and also taking over Amazon dot com's internal ML development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reddit.com/r/MachineLearning/",
+      "originalUrl": "https://www.zdnet.com/article/aws-says-very-very-sophisticated-practitioners-of-machine-learning-are-moving-to-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://styles.redditmedia.com/t5_2rfzn/styles/communityIcon_m7hfe9ybk8g41.jpg?format=pjpg&s=cad4fbbb503c781d262b12dc27efb9e4093a0073",
+          "width": 277,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-diving-into-japans-top-aiml-startups.md",
+      "title": "Diving into Japan’s top AI/ML startups",
+      "excerpt": "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
+      "originalUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-top-10-deep-learning-chip-makers-in-global-market-and-their-business-development-strategies-over-2020-2027.md",
       "title": "Top 10 Deep Learning Chip Makers in Global Market and Their Business Development Strategies Over 2020-2027",
       "excerpt": "Allied Market Research Published Latest Report titled, “Deep Learning Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and Others), Technology (System-on-chip, System-in-package, Multi-chip ...",
@@ -1327,93 +1424,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-accurate-neural-network-computer-vision-without-the-black-box.md",
-      "title": "Accurate Neural Network Computer Vision Without The ‘Black Box’",
-      "excerpt": "DURHAM, N.C. -- The artificial intelligence behind self-driving cars, medical image analysis and other computer vision applications relies on what’s called deep neural networks. Loosely modeled on the brain, these consist of layers of interconnected ...",
-      "sourceUrl": null,
-      "webUrl": "https://today.duke.edu/2020/12/accurate-neural-network-computer-vision-without-black-box",
-      "originalUrl": "https://today.duke.edu/2020/12/accurate-neural-network-computer-vision-without-black-box",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://today.duke.edu/sites/default/files/ChenRudin.jpg",
-          "width": 1388,
-          "height": 930,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chronicle",
-        "domain": "duke.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment.md",
-      "title": "AI: This COVID machine-learning tool helps swamped hospitals pick the right treatment",
-      "excerpt": "A Barcelona hospital's artificial-intelligence tool analyzes trillions of pieces of data to predict likely patient outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
-      "originalUrl": "https://www.zdnet.com/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
-      "publishedDateTime": "2020-12-15T03:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

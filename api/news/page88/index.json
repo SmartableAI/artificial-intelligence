@@ -2,6 +2,196 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-12-03-ai-construction-startup-versatile-raises-a-20m-series-a.md",
+      "title": "AI construction startup Versatile raises a $20M Series A",
+      "excerpt": "San Francisco-based construction startup Versatile is announcing today that it has raised a $20 million Series A. The round was led by Insight Partners and Entree Capital, along with existing investors Robert Bosch Venture Capital GmbH,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/",
+      "originalUrl": "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/C130761.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/amp/",
+      "publishedDateTime": "2020-12-03T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics.md",
+      "title": "Neuroglee Therapeutics to Attack Alzheimer's Disease Through Personalized AI-Powered Digital Therapeutics",
+      "excerpt": "Neuroglee's technology leverages artificial intelligence (AI), machine learning and novel ... will offer DTx that can be used with pharmacological therapy or as a standalone treatment, with a focus on slowing dementia-related cognitive decline.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2020-12-03/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therape",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2020-12-03/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pharmiweb.com/media/9690/neurogleerx_logo.jpg?anchor=center&amp;mode=crop&amp;width=300&amp;height=300&amp;rnd=132514696030000000",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Research Report, Growth Forecast 2026",
+      "excerpt": "The major vendors in the Healthcare Natural Language Processing (NLP) market aggressively focused on enhancing their contributions to meet the business goal. Request a sample Report of Healthcare Natural Language Processing (NLP) Market Analysis Report at:  Global Healthcare Natural Language Processing (NLP) Market to reach USD XX billion by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026-2020-12-03?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026-2020-12-03?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-himax-ultralow-power-we-i-plus-endpoint-ai-development-board-available-at-sparkfun-to-enable-ai.md",
+      "title": "Himax Ultralow Power WE-I Plus Endpoint AI Development Board available at SparkFun to enable AI ...",
+      "excerpt": "High performance Endpoint AI solution with ultralow power consumption The WE-I Plus processor is designed to accommodate a wide selection of TinyML Neural Network models with programmable DSP running up to 400MHz clock and 2MB internal SRAM.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-4e6bf5efc22032dae67be27a2cbfffbb",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-4e6bf5efc22032dae67be27a2cbfffbb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-blue-prism-intelligent-automation-now-available-in-aws-marketplace.md",
       "title": "Blue Prism Intelligent Automation Now Available in AWS Marketplace",
       "excerpt": "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ...",
@@ -978,186 +1168,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-meldcx-unveils-samir-digitizing-clean-up-in-public-spaces-with-ai-and-computer-vision.md",
-      "title": "meldCX unveils SAMi(R) - digitizing clean-up in public spaces with AI and computer vision",
-      "excerpt": "AI-powered system \"digitizes cleaning\" by generating a heat-map of touched surfaces MELBOURNE, Australia, /PRNewswire/ -- To help businesses meet new hygiene standards efficiently and affordably, meldCX,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/meldcx-unveils-samir---digitizing-clean-up-in-public-spaces-with-ai-and-computer-vision-2020-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/meldcx-unveils-samir---digitizing-clean-up-in-public-spaces-with-ai-and-computer-vision-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-robotics-ai-etfs-still-producing-massive-gains.md",
-      "title": "Robotics & A.I. ETFs Still Producing Massive Gains",
-      "excerpt": "T he Global X Robotics & Artificial Intelligence ETF (BOTZ) isn't churning out an almost 50% gain year-to-date for nothing. The ETF operates in a space that's not only benefiting from the technological requirements brought on by the current pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
-      "publishedDateTime": "2020-12-02T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-european-computer-vision-industry-to-2026-featuring-intel-sony-and-texas-instruments-researchandmarketscom.md",
-      "title": "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com",
-      "excerpt": "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html",
-      "originalUrl": "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-google-ai-is-now-piloting-loons-internet-beaming-balloons.md",
-      "title": "Google AI is now piloting Loon's internet-beaming balloons",
-      "excerpt": "Alphabet’s Loon has shifted to a different type of navigation system for its internet-beaming balloons. Rather than relying on algorithms designed by humans, the balloons are using an artificial intelligence system Loon developed with Google AI over the last few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "originalUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F8fe95500-34c4-11eb-8bdd-b873bb76cc4b&client=amp-blogside-v2&signature=b8942deb9363daaa01eca9e5ce5527ae2732f7f9",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "publishedDateTime": "2020-12-02T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

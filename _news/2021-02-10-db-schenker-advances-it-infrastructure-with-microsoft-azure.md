@@ -98,6 +98,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
+  - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
+    excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
+    publishedDateTime: 2021-02-10T15:48:00Z
+    webUrl: "https://www.dbta.com/Columns/SQL-Server-Drill-Down/Introducing-Azure-Purview-Microsofts-Next-Generation-of-Data-Governance-145167.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 53
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
     excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-09T12:27:00Z
@@ -159,6 +173,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "MwKsmabxrC5YVYNHKpIRP5mQRYeORi570OOI40FUbe3mDeErN/1whLqqEX/0DtZdbiM8acozeFhgX0n4HCXGf+78e0r7zhgCehGPuGPQMdw5jaQXu1tMcvE28YOBNnYP0oQsqbUF6fsPBD5ZcOIT+JpqNz0WOP1KQGr8+Jf/J2gPfrCwjvV/qo2EUd7j7s39uatn2T0Y00/7nI7sWDwBmPOX8DpC2UqqAH2SAVOao4EBrCy+UNIXhLuEPQnnWtUhHkLloXsFkLx6tMM/HbRa2gyRG9OpRwwpu04nCwTzvaK251GHn3lJhusOdgOHe/5Kd2FcoVi1P0BSQMqqSBTPZb3ocWAY2tZMVST3t606rwM=;zRsTckjww47thFRI4maNQg=="
+secured: "oHRIbra3TtEsh2IQbGfnqcx8+J6j05nNIY+TgqNqLttEz2xhL+cu3rAAoxVEoi4O3wpsJP/zqa7ScAOc/PlCGFOjCFxjlAsQyMU7WI+/iXDtpBRD5yUqPUStljymb1S56e5UyefCmmN5r2Pm9eIt1RGj2hiaJkWzDGNcJ6bg/0Vf6X45Fl9kc1PQL4Ns5wapWfPnG5dY9CHUPD/SV28FckL8ROHoTUKiVCx3m97XxDSZTT/xHCyHqqITso5rLYTZHHn2uCqJG6sryFQevNaOMmDbaGgjz0IvB9vkv4F1OiKa0zqzfGG0Dyrai7KurjTg3rnQiWVCMu8A5K6yAJKUehxLt4A7SyVfDQgHUKw22x+Xf32Y9VsYppnPthcGbsH6TxafXTUSLLIxN66dpXD3JqGpGAVjKm0wu24DMR6RSBcK35NP2MHRQ9V3SvxGb/5Cp7cRhKM8FxLddsXrY7F1uqNyHqkPs5+hHUa4r+qngTnQuN1qqMOkWVq63ZZbBLyRjZrxVBN+G7QvRRKCGfL6og==;4Di6CFDTGP2iBRxWdBCd/A=="
 ---
 

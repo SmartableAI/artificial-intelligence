@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-15-amazon-will-let-companies-build-voice-assistants-on-alexa.md",
+      "title": "Amazon Will Let Companies Build Voice Assistants on Alexa",
+      "excerpt": "Amazon.com Inc. is offering other companies the ability to use the building blocks of the Alexa digital assistant for their own automated versions, the latest effort to embed the company’s voice software into other devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4RPzukzY818/v0/360x-1.jpg",
+          "width": 360,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
+      "publishedDateTime": "2021-01-15T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-worried-about-your-firms-ai-ethics-these-startups-are-here-to-help.md",
       "title": "Worried about your firm’s AI ethics? These startups are here to help.",
       "excerpt": "A growing ecosystem of “responsible AI” ventures promise to help organizations monitor and fix their AI models.",
@@ -1333,58 +1385,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-how-to-win-customers-with-voice-search-three-simple-tips.md",
-      "title": "How To Win Customers With Voice Search: Three Simple Tips",
-      "excerpt": "Now that voice search is on the rise and gaining more popularity, there’s a whole new dynamic to consider when implementing SEO tactics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb2e730929caf746d6e44f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/amp/",
-      "publishedDateTime": "2021-01-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

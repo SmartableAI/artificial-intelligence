@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-15-exemptions-from-some-safety-rules-eyed-for-self-driving-cars.md",
+      "title": "Exemptions From Some Safety Rules Eyed for Self-Driving Cars",
+      "excerpt": "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXeN87BDBPAs/v1/360x-1.jpg",
+          "width": 360,
+          "height": 221,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars",
+      "publishedDateTime": "2021-01-14T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-dji-is-building-a-new-team-that-will-work-on-self-driving-technology.md",
       "title": "DJI is building a new team that will work on self driving technology",
       "excerpt": "The popular drone making brand, DJI, is apparently building a new team that will be working on developing self driving or autonomous technologies. The company has put up various job listings and has already begun hiring as well.",
@@ -1376,49 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-hyundai-to-partner-with-apple-on-self-driving-car-but-maybe-not.md",
-      "title": "Hyundai to Partner With Apple on Self-Driving Car ... but Maybe Not",
-      "excerpt": "Hyundai says it will partner with Apple on a self-driving car, but then quickly shifts gears to say it has received requests from a number of technology suitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "originalUrl": "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/nJGNyKYO-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "publishedDateTime": "2021-01-08T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

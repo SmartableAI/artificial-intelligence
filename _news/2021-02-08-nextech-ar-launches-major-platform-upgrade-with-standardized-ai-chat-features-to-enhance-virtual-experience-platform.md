@@ -1,34 +1,68 @@
 ---
 category: news
 title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
-excerpt: "Nextech AR Solutions, a leading provider of virtual and augmented reality experience technologies and services for eCommerce, education, conferences and events today announced the launch of new standardized chat features within its Virtual Experience Platform/ VXP) and recently-launched ARoom collaborative streaming solution."
-publishedDateTime: 2021-02-08T12:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to"
-webUrl: "https://www.nasdaq.com/press-release/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to"
+excerpt: "Standardizing embedded AI driven chat functionality can accommodate unlimited users, allowing for optimized, scalable events.Market leaders"
+publishedDateTime: 2021-02-08T12:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-1030054709"
+webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-1030054709"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Launches-Major-Platform-Upgrade-with-Standardized-AI-Chat-Features-to-Enhance-Virtual-Experience-Platform-1030054709"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Launches-Major-Platform-Upgrade-with-Standardized-AI-Chat-Features-to-Enhance-Virtual-Experience-Platform-1030054709"
 type: article
-quality: 26
-heat: -1
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
 
 related:
-  - title: "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles"
-    excerpt: "LIZHI INC., a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics, an established chip maker for smart mobility in China,"
-    publishedDateTime: 2021-02-08T11:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio"
+  - title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
+    excerpt: "Standardizing embedded AI driven chat functionality can acco"
+    publishedDateTime: 2021-02-08T19:48:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-02-08/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 44
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance ..."
+    excerpt: "Market leaders including Zoom have been shifting towards standardized chat features to accommodate large-scale events. AI driven Chat functionality will integrate directly with existing offerings including Nextech’s Virtual Experience Platform and ‘ARoom’ streaming solution."
+    publishedDateTime: 2021-02-09T05:30:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-coronavirus-pandemic-asia-0cbf0db2092498a17643fa93b1a0b91e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Climate tech startup lands grant funding to launch AI platform"
+    excerpt: "Dallas climate tech startup Skyven Technologies lands grant funding to launch industrial AI emissions-reduction platform"
+    publishedDateTime: 2021-02-09T16:29:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/fundings/2021/02/09/skyven-technologies-lands-grant-for-ai-platform.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
-secured: "zCUHQYM3bha/TtSjJwJdH96efd2BvDpzWIeOigMmwjuPA9GBdcWotPBvPnnRSlTNbtRBfOm/qnEIrmyiRcrYYUY23kKGFZVfGDLA/v/pvRP6/9lhk8eOGpZwBgREMlXuja7VhvesYqLUOj86O+l3TpfiQKzF77axqg/f1L8354+m9MOC+l6tMP49J/a2t1eAjaIw2wh7bJJnvwaeYkMj0YQOOV5VJxPs295rbUOsD0riJLUc3qIdYWyzETzNYVkzuDpo74urk1PgM0HJXq62uid4QwvrTBcfycsipeRCmHKEXYDDc05yKQOEvbFBAV9GjDjN5dlKEQjV1Xk3DM/YNS0f6vbeJsYm1v3S5vcGFBY=;Z6LTjOHq/MeWvlcsNNz5BQ=="
+secured: "E7TwcwmyjSXk5ZCLwyfUjUe57FvhJWX0DuoTt7uH6M/RkX4CZv9H9OXP2bj0/6tXMKqnteu6+s13Xk9J+LxV9X0db05t1hj0QYZLLDPrGK3V8h9wAlD25/ZrScAYTwimBmMNAa8TskhZ2hfTYi1MpD9UKT7nEr69+qkSgVyyrXIZxuj9Zupyi6qa5UhoXYwhf/4O8xnfUEnzm1v+ZG/EMQn7DyjO8TQaO4SbDYic0+Xh9jFqVkUsqPLox8PT3Fs1sWl7RDu2v6SG9DQYkpfImO5p6lif/DQwmJoJDuC4nhdPM/M/6OauzT7UxjF6tlRRpddNIOHDx7HkF8ZAu2BdbXgJOEZZ5YwVg23IgRExDHw=;PQvoo2DOj281ByNnqJauHg=="
 ---
 

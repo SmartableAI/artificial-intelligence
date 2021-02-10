@@ -42,6 +42,17 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Georgia Startup Races to Complete AI-powered Voice Screening Tool to Crush COVID-19"
+    excerpt: "With innovative AI methods and algorithms, BRAVE Innovations is working tirelessly to increase the number of confidential voice samples recorded at COVIDvoice.net to launch a voice-based COVID-19 screening tool."
+    publishedDateTime: 2021-02-10T16:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/georgia-startup-races-to-complete-ai-powered-voice-screening-tool-to-crush-covid-19-1030067798"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/georgia-startup-races-to-complete-ai-powered-voice-screening-tool-to-crush-covid-19-1030067798"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/georgia-startup-races-to-complete-ai-powered-voice-screening-tool-to-crush-covid-19-1030067798"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
   - title: "One Minn. health care provider using AI to prioritize patients for COVID-19 shots"
     excerpt: "How should health care providers decide who gets to the front of the line for a coronavirus vaccine? The state Health Department has mostly left that decision up to individual providers, most of whom are prioritizing their patients based on age."
     publishedDateTime: 2021-02-10T15:00:00Z
@@ -139,6 +150,6 @@ related:
       domain: freepressjournal.in
     quality: 37
 
-secured: "jyaPp04HYkaREx5hndO19vMkWbDUGGqOqKhNPqFSDafTsnjw1CIe0UsOPD0UPA5P2l7qXD5hcVOagl53SpZlmsWm3c+nSNxgYARNwvR/PuzViTEvhAYyyNDe3ds4KThFnsTC6QURg7gA0wGqlxuJY4MsJ0jZaoCmaah0fpas4egCPV/vEUMkhDWm/c5sjL8fL+zOc8L9t3c+vTXPyCOwzrhz6U+iH88jJ7jIEn0SJ+Hb30Bc6b3IlTqD4zTLmjDgoRXkK8WM3lGZwXtJp65lZgLL9jA2ZpEYr+IfVwql+YKY0yxx/WI0CcpWMQaNWOwwQdd+EEoMXkB1QUGX1UfX59Mbm5J1IkYpldzGi97GssI=;/2Sv03woCqS33HZjM6T4Hg=="
+secured: "jc6rU/V+MhIu6nggpUHARo2MoL1a1lzRsvmmCo7W5pAcoaerH5WAFMdQaAWqPjb4MsmCkDoCajJubevJRx92VkcbCYvvnnzzhyxpiwrfZa0AC5RowYT5n8caJzGzBYgRYvGZvL6N8w9dnthi9s84JVwYayU1i8NeabObu28gxAh23BxJFpHeausrg5Pj6PauuOIzTGnU6g1coX+gkqS4tQgn4E21IxokG7DeUfKEFSCyOHi0Q/sIKydSgkbEau27uBO2Kne2YFF64akDXYy+inoGz6ZBiAYstky07uelSC8Xe4DFz455IBO0EbqqtbdzQXdw9Uwr1jlBJlQzzFIghUeHNojSSgKr5WamkHJrRIRI8rvJ1v7HtERCKt3ZNkHJxAbnS7cQqDc5/VuWqRfybGaiGzFNHyBOcIbnhvE+CnrHB271aJFj5GGp/mvwO4SPz2eMS8/ePtqy//3XMnHeFE3cv8MMdAcPA7QkGo1xG879+WmvRiRHvyJHYVjoH7/VtTMHFnTdkpheMnFVxee6gA==;SpKRtfKRCzozzShQYRkqlw=="
 ---
 

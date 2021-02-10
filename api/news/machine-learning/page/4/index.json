@@ -2,6 +2,95 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-19-amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market.md",
+      "title": "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market",
+      "excerpt": "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "publishedDateTime": "2021-01-19T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-deep-learning-software-strategic-assessment-and-forecast-till-2025-ibm-microsoft-nvidia.md",
+      "title": "Deep Learning Software Strategic Assessment and Forecast Till 2025: IBM, Microsoft, Nvidia",
+      "excerpt": "Deep learning is a subset of neural networks. The deep learning architectures includes deep neural networks, conventional neural networks, recurrent neural networks and many more. The software ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101454248/Deep-Learning-Software-Strategic-Assessment-and-Forecast-Till-2025-IBM-Microsoft-Nvidia",
+      "originalUrl": "https://menafn.com/1101454248/Deep-Learning-Software-Strategic-Assessment-and-Forecast-Till-2025-IBM-Microsoft-Nvidia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?171866",
+          "width": 356,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-machine-learning-101-part-3.md",
       "title": "Machine Learning 101: Part 3",
       "excerpt": "“ML.NET has been designed as an extensible platform. Therefore you can consume other popular ML frameworks (TensorFlow, ONNX, Infer.NET, and more)”, the documentation says and this is how ML.NET is stepping into the Deep Learning world. ML.NET is not ...",
@@ -1288,94 +1377,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-us-ai-strategy.md",
-      "title": "What this bald eagle and neural network depiction have to do with future U.S. AI strategy",
-      "excerpt": "The White House launched the National AI Initiatives Office, an org with an eagle and neural network on its seal, to plan U.S. AI strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/",
-      "originalUrl": "https://venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/national-ai-initiatives-office.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/amp/",
-      "publishedDateTime": "2021-01-12T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence.md",
-      "title": "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence",
-      "excerpt": "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

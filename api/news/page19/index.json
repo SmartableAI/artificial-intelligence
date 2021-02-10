@@ -2,6 +2,160 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-01-27-artificial-intelligence-revolution-will-make-many-jobs-obsolete.md",
+      "title": "Artificial Intelligence Revolution Will Make Many Jobs Obsolete",
+      "excerpt": "From personal digital assistants to self-driving cars, artificial intelligence is quickly gaining ground with the technology promising increased productivity, efficiency and safety. Kiet Do reports.",
+      "sourceUrl": null,
+      "webUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/",
+      "originalUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
+      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
+      "publishedDateTime": "2021-01-26T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS SF BayArea",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-artificial-intelligence-takes-center-stage-early-in-2021.md",
+      "title": "Artificial Intelligence Takes Center Stage Early in 2021",
+      "excerpt": "Looking back, IBM was the first vendor to have a commercially available AI product with Watson, but it could not turn this into a competitive advantage. Cloud paints an equally grim picture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
+      "originalUrl": "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
+      "title": "Baidu gets California nod for testing empty self-driving cars",
+      "excerpt": "OAKLAND — Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state’s Department of Motor Vehicles said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars",
+      "originalUrl": "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars/wcm/d15c9ea4-b1e6-4af0-8483-a093f259084b/amp/",
+      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars/wcm/d15c9ea4-b1e6-4af0-8483-a093f259084b/amp/",
+      "publishedDateTime": "2021-01-26T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Post",
+        "domain": "nationalpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-pluralsight-inc-class-a-common-stock-ps.md",
+      "title": "Pluralsight, Inc. Class A Common Stock (PS)",
+      "excerpt": "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
+      "originalUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-the-neurochemistry-of-flow-states-with-steven-kotler.md",
       "title": "The Neurochemistry of Flow States, with Steven Kotler",
       "excerpt": "Steven Kotler is an award-winning journalist, a New York Times bestselling author, and executive director of Flow Research Collective. His books include the non-fiction works The Rise of Superman ...",
@@ -963,195 +1117,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform.md",
-      "title": "Reveal And Brainspace Merge to Become Leading Artificial Intelligence Powered eDiscovery Platform",
-      "excerpt": "Press Release Reveal, a global provider of the leading AI-powered eDiscovery platform, and Brainspace, a global provider of visual analytics for eDiscovery and investigations, announced today that they have joined forces.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/amp/",
-      "publishedDateTime": "2021-01-26T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-humans-wouldnt-be-able-to-control-a-superintelligent-ai-according-to-a-new-study.md",
-      "title": "Humans wouldn't be able to control a superintelligent AI, according to a new study",
-      "excerpt": "Not only does the research suggest humans wouldn't be able to control machines — we may not even know when superintelligent machines have arrived.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study",
-      "originalUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/601024131d2df20018b70d21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp",
-      "publishedDateTime": "2021-01-26T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics.md",
-      "title": "TraQiQ makes big bet on Machine learning by acquiring Kringle, Leader in Loyalty, Rewards and Data analytics.",
-      "excerpt": "Ajay Sikka, CEO of TraQiQ said “Bringing the Kringle product suite and team into the TraQiQ family will allow us to provide a seamless solution for the post COVID hyper-digital, Contactless economy by integrating Kringle’s mobile and web products for end-to-end digital commerce solutions”.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics-1030004935",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics-1030004935",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935",
-      "publishedDateTime": "2021-01-26T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge.md",
-      "title": "Artificial Intelligence Will Define Google’s Future. For Now, It’s a Management Challenge.",
-      "excerpt": "Google’s parent, Alphabet, has waded through one controversy after another involving its top researchers and executives in the field over the past 18 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-290370/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
-      "publishedDateTime": "2021-01-26T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

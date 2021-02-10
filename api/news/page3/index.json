@@ -2,6 +2,213 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-09-softbank-turns-11-billion-profit-helped-by-doordash.md",
+      "title": "SoftBank Turns $11 Billion Profit, Helped by DoorDash",
+      "excerpt": "The Japanese technology investor rode red-hot stock markets to a big quarterly profit, largely on the back of investment gains at its $100 billion Vision Fund and its $10 billion successor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "originalUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-296084/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "publishedDateTime": "2021-02-08T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-alphabet-and-dolby-lead-the-balance-sheet-powerhouses.md",
+      "title": "Alphabet And Dolby Lead The Balance Sheet Powerhouses",
+      "excerpt": "When choosing a stock to buy don't just look at earnings. Pay attention to a company’s balance sheet (assets versus liabilities). These companies pass six tests of strength.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/",
+      "originalUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020bb1d9bfddccf852d90d8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/amp/",
+      "publishedDateTime": "2021-02-08T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-when-self-driving-cars-get-embroiled-in-massive-car-pileups.md",
+      "title": "When Self-Driving Cars Get Embroiled In Massive Car Pileups",
+      "excerpt": "Exploring why self-driving cars will indeed be mired in massive car pileups and are not invincible for such tragedies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020d8f3a91e85b44784b7e1%2F0x0.jpg%3FcropX1%3D1144%26cropX2%3D3871%26cropY1%3D436%26cropY2%3D1970",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/",
+      "publishedDateTime": "2021-02-08T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid.md",
+      "title": "Pandemic Pivot: How Hospitality Start-Up Sonder Finds Success During COVID",
+      "excerpt": "There are themes emerging from COVID-19 that are likely to persist according to Deloitte’s “ The World Remade by COVID-19 for Travel and Hospitality: Scenarios for Resilient Leaders ” report, and travel and hospitality companies will be looking to learn how to adapt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/",
+      "originalUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c1a2dbcb91aac49155f1f%2F0x0.jpg",
+          "width": 779,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/amp/",
+      "publishedDateTime": "2021-02-08T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world.md",
       "title": "Video AI Could Be The Key To Unlock Communication In A Post-Pandemic World",
       "excerpt": "It’s creating virtual work and learning environments that are even more engaging than the physical spaces we’re leaving behind.",
@@ -441,7 +648,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -483,49 +690,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-jalaai-as-a-solution-for-property-business-sales-in-2021.md",
-      "title": "JALA.ai As a Solution For Property Business Sales in 2021",
-      "excerpt": "The Minister of Finance, Sri Mulyani, projected that economic growth in 2021 would grow by 4 to 5% in this explanation in the 2021 Indonesian Economic Outlook. One of the sectors pushed to achieve this target is the property sector.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843",
-      "publishedDateTime": "2021-02-07T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -642,7 +806,7 @@
       "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1046,160 +1210,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-former-cios-discuss-what-it-takes-to-be-a-startup-ceo.md",
-      "title": "Former CIOs Discuss What It Takes to Be a Startup CEO",
-      "excerpt": "A new generation of business software startups is taking shape, in some cases with former CIOs serving as founders and chief executives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
-      "originalUrl": "https://www.wsj.com/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-295677/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
-      "publishedDateTime": "2021-02-05T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions.md",
-      "title": "Serbia And Key International Sovereigns Lead With Data And AI To Become Vaccination Champions",
-      "excerpt": "By leveraging the power of advanced technologies and artificial intelligence, nations like Serbia, Greece, the UAE and Israel have been able to set up an optimized and effective vaccine distribution framework.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dbde7581359319aa2b051%2F0x0.jpg",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/amp/",
-      "publishedDateTime": "2021-02-05T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-puppy-training-a-robotic-dog-points-to-the-future.md",
-      "title": "Puppy training a robotic dog points to the future",
-      "excerpt": "But don't rush to call the animal welfare authorities - it's a robotic dog undergoing training at Edinburgh University. Alex Li is the Head of the Advanced Robotics Lab at the university and is among those leading the way in applying artificial intelligence (AI) to robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-55770190",
-      "originalUrl": "https://www.bbc.com/news/business-55770190",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/BEC9/production/_116714884_dog.alexwithrobotdog-1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-55770190",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-55770190",
-      "publishedDateTime": "2021-02-05T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

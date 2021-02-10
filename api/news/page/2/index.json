@@ -2,6 +2,178 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-10-iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur.md",
+      "title": "Iron Pillar leads $5 million funding round in AI startup Ushur",
+      "excerpt": "Ushur is Iron Pillars second investment from its second fund, which is expected to announce its first close in a couple of months, co-founder Mohanjit Jolly says.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-85978,msid-80772644/startup-funding.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms",
+      "publishedDateTime": "2021-02-09T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-alpha-health-publishes-comprehensive-buyers-guide-to-healthcare-revenue-cycle-automation.md",
+      "title": "Alpha Health Publishes Comprehensive \"Buyer's Guide to Healthcare Revenue Cycle Automation\"",
+      "excerpt": "Today, Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, published its \"Buyer's Guide to Healthcare Revenue Cycle Automation.\" The free, 28-page booklet is meant to serve as a thoughtful guide to purchasing and deploying effective automation solutions within healthcare revenue cycle operations - from industry best practices to the variables that may be unique to individual organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
+      "publishedDateTime": "2021-02-09T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-sony-ais-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery.md",
+      "title": "Sony AI's Dr. Peter Stone Named Fellow by the Association for Computing Machinery",
+      "excerpt": "Dr. Peter Stone, Executive Director, Sony AI America Inc., has been named a Fellow by the Association for Computing Machinery (ACM), the premier professional organization in the field of computer science.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
+      "publishedDateTime": "2021-02-09T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-the-queens-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.md",
+      "title": "The Queen's Gambit helped Square Off see huge uptake in robot chess sales",
+      "excerpt": "Square Off released its first robotic chess board a couple of years ago. It's now on the brink of introducing a new model. We speak to the co-founder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales",
+      "originalUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155658-homepage-news-feature-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales-image1-hecqczp5xz.JPG",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.amphtml",
+      "publishedDateTime": "2021-02-09T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pocket-lint",
+        "domain": "pocket-lint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool.md",
       "title": "Foyer Insight Incorporates AI and Unsupervised Machine Learning Into Unprecedented Multi-Classification Tool",
       "excerpt": "Foyer, Inc., a startup PropTech development company, is introducing Foyer Insight, the most advanced computer vision Artificial Intelligence (AI) suite focused solely on the real estate industry. Using multi-label image classification and unsupervised learning,",
@@ -199,7 +371,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -301,7 +473,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/09/symend-raises-43-million-more-for-ai-that-helps-customers-resolve-past-due-bills/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1017,213 +1189,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-softbank-turns-11-billion-profit-helped-by-doordash.md",
-      "title": "SoftBank Turns $11 Billion Profit, Helped by DoorDash",
-      "excerpt": "The Japanese technology investor rode red-hot stock markets to a big quarterly profit, largely on the back of investment gains at its $100 billion Vision Fund and its $10 billion successor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
-      "originalUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510?mod=newsviewer_click",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-296084/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
-      "publishedDateTime": "2021-02-08T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-alphabet-and-dolby-lead-the-balance-sheet-powerhouses.md",
-      "title": "Alphabet And Dolby Lead The Balance Sheet Powerhouses",
-      "excerpt": "When choosing a stock to buy don't just look at earnings. Pay attention to a company’s balance sheet (assets versus liabilities). These companies pass six tests of strength.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/",
-      "originalUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020bb1d9bfddccf852d90d8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/amp/",
-      "publishedDateTime": "2021-02-08T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-when-self-driving-cars-get-embroiled-in-massive-car-pileups.md",
-      "title": "When Self-Driving Cars Get Embroiled In Massive Car Pileups",
-      "excerpt": "Exploring why self-driving cars will indeed be mired in massive car pileups and are not invincible for such tragedies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020d8f3a91e85b44784b7e1%2F0x0.jpg%3FcropX1%3D1144%26cropX2%3D3871%26cropY1%3D436%26cropY2%3D1970",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/",
-      "publishedDateTime": "2021-02-08T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid.md",
-      "title": "Pandemic Pivot: How Hospitality Start-Up Sonder Finds Success During COVID",
-      "excerpt": "There are themes emerging from COVID-19 that are likely to persist according to Deloitte’s “ The World Remade by COVID-19 for Travel and Hospitality: Scenarios for Resilient Leaders ” report, and travel and hospitality companies will be looking to learn how to adapt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/",
-      "originalUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c1a2dbcb91aac49155f1f%2F0x0.jpg",
-          "width": 779,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/amp/",
-      "publishedDateTime": "2021-02-08T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

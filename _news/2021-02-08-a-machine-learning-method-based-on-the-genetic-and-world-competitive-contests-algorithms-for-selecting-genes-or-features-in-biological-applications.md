@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ultra Low Energy Computer Memory for AI Learning in Medical and Other Applications"
-    excerpt: "Leti-based team's uses machine learning on RRAM to get 100,000 times less energy usage. They use randomness instead of trying to prevent it. This allows in-situ learning to be realized in"
-    publishedDateTime: 2021-02-09T15:24:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html?amp"
+  - title: "Deep action learning enables robust 3D segmentation of body organs in various CT and MRI images"
+    excerpt: "Segmentation and registration of anatomical structures in 3D imaging are important pre-processing steps for clinical applications such as computer aided-diagnosis, treatment planning, or X-ray dose management."
+    publishedDateTime: 2021-02-08T15:50:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82370-6"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 53
+      name: Nature
+      domain: nature.com
+    quality: 12
     images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2021/02/AIrram.jpg"
-        width: 714
-        height: 738
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-82370-6/MediaObjects/41598_2021_82370_Fig2_HTML.png"
+        width: 685
+        height: 448
         isCached: true
 
 secured: "dfgjheG8DatpSUF9UtBRW3GzvLLX1lcGOTerhFRPDACfnvdtXu1HTjViSBFSo+AC+wOczbN9sYCspMdh99RsEFMIdO2rzJFG9WpfZx/dSVMx6a2012bq/WvrGu0hsi7hLWAJxCKsh0DOGDxn8bwdKSKbaoM16+aZDPragJ126xqYIcrVHMS5Xqtu/hL27geyhd35bJge+GPDbHqjNiWDPqn6u056CGYft5hjoXvjg5CcnmTvJ0zrW00XxzlD7oXM71qDiPHAOJ0D/J8NJKKmxzhP0+NJtukoip+WhuBC5uneGXqevWRRE4SranYWzIS3Sd7TvkdUuxLf94TaOP1weGfDVLQ5tHasABWsqiKZyc/inqXKNOQqIpnll7iqvR1nWBu7Lihb8A7hxWpqChwmqeayctrS7nhmqNPChqVKIk1QAtASKgHI8ChF7peNC1RXhWHrba/lT8V0QoPSYYWKGVL85Yfp/GE2H9C+dT2V8vU2qhDg3wGdLMvgNr9DHr0A4zy1N2cpwQ7sL+AY+iQ8ng==;doDzIYsmamCUfpBIKBLWcg=="

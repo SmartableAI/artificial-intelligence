@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ford boosts investment plan for EVs and self-driving vehicles, reports loss"
-    excerpt: "As ford announced a Q4 loss, it said it would increase its investment in electrification to $22 billion through 2025."
-    publishedDateTime: 2021-02-05T23:17:00Z
-    webUrl: "https://www.autoblog.com/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/02/05/ford-ev-investment-q4-earnings-loss/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 42
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/4032x2268+0+403/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/a2049ab0-67be-11eb-9f7f-36d2fa48d0e8"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Report lays out figures on Beijing's self-driving vehicle tests"
     excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."
     publishedDateTime: 2021-02-08T04:47:00Z

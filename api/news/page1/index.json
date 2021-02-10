@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.md",
+      "title": "Salesforce taps AWS machine learning tool for document automation in health cloud",
+      "excerpt": "Salesforce launched a new machine learning tool, powered by Amazon Web Services, on Feb. 10 that aims to help healthcare organizations digitize their document management processes on a single platform. Salesforce's Intelligent Document Automation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-four-predictions-for-artificial-intelligence-and-machine-learning-in-2021.md",
+      "title": "Four Predictions For Artificial Intelligence And Machine Learning In 2021",
+      "excerpt": "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
+      "publishedDateTime": "2021-02-10T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-langai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses.md",
+      "title": "Lang.ai snags $2M to remove technical burden of implementing AI for businesses",
+      "excerpt": "Lang.ai, which has developed a no-code platform for businesses, closed on a $2 million seed funding round. The company’s SaaS platform aims to allow business users to structure any free-text data with custom categories built through a drag & drop interface,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
+      "originalUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Lang.ai_.jpg?w=1024",
+          "width": 1024,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
+      "publishedDateTime": "2021-02-10T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-spider-legs-build-webs-without-the-brains-helpproviding-a-model-for-future-robot-limbs.md",
+      "title": "Spider legs build webs without the brain's help—providing a model for future robot limbs",
+      "excerpt": "Arachnophobes often cite spiders' unpredictable movement as the basis of their fear, pointing out how each spindly leg seems to lift, flex and probe with a menacing degree of autonomy.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.html",
+      "originalUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/spiderlegsbu.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.amp",
+      "publishedDateTime": "2021-02-10T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-self-driving-car-firms-reveal-2020-testing-data-cruise-and-waymo-improve-apple-stalls.md",
       "title": "Self-driving car firms reveal 2020 testing data: Cruise and Waymo improve, Apple stalls",
       "excerpt": "The California Department of Motor Vehicles reveals how companies operating autonomous cars in the state are progressing.",
@@ -157,7 +347,7 @@
       "originalUrl": "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -261,7 +451,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -405,8 +595,8 @@
       "title": "Study: \"Robots\" are trusted more than people when it comes to money management",
       "excerpt": "COVID-19 has accelerated digital transformation across industries. A new study takes a look at the sentiments regarding \"robots\" in the financial services sector.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
-      "originalUrl": "https://www.techrepublic.com/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "webUrl": "https://www.techrepublic.com/index.php/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
       "featuredContent": null,
       "highlight": null,
       "heat": 95,
@@ -423,8 +613,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
       "publishedDateTime": "2021-02-10T00:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -772,7 +962,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -874,11 +1064,11 @@
       "title": "Cloud lock-in: Why the microservices cure might be worse than the problem",
       "excerpt": "Commentary: Microservices can be a great thing to drive enterprise agility, but it can also create all sorts of costs for those trying to avoid cloud lock-in.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -892,8 +1082,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
       "publishedDateTime": "2021-02-09T11:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -917,8 +1107,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "Google AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1057,178 +1248,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur.md",
-      "title": "Iron Pillar leads $5 million funding round in AI startup Ushur",
-      "excerpt": "Ushur is Iron Pillars second investment from its second fund, which is expected to announce its first close in a couple of months, co-founder Mohanjit Jolly says.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-85978,msid-80772644/startup-funding.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms",
-      "publishedDateTime": "2021-02-09T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-alpha-health-publishes-comprehensive-buyers-guide-to-healthcare-revenue-cycle-automation.md",
-      "title": "Alpha Health Publishes Comprehensive \"Buyer's Guide to Healthcare Revenue Cycle Automation\"",
-      "excerpt": "Today, Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, published its \"Buyer's Guide to Healthcare Revenue Cycle Automation.\" The free, 28-page booklet is meant to serve as a thoughtful guide to purchasing and deploying effective automation solutions within healthcare revenue cycle operations - from industry best practices to the variables that may be unique to individual organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "publishedDateTime": "2021-02-09T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-sony-ais-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery.md",
-      "title": "Sony AI's Dr. Peter Stone Named Fellow by the Association for Computing Machinery",
-      "excerpt": "Dr. Peter Stone, Executive Director, Sony AI America Inc., has been named a Fellow by the Association for Computing Machinery (ACM), the premier professional organization in the field of computer science.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "publishedDateTime": "2021-02-09T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-the-queens-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.md",
-      "title": "The Queen's Gambit helped Square Off see huge uptake in robot chess sales",
-      "excerpt": "Square Off released its first robotic chess board a couple of years ago. It's now on the brink of introducing a new model. We speak to the co-founder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales",
-      "originalUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155658-homepage-news-feature-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales-image1-hecqczp5xz.JPG",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.amphtml",
-      "publishedDateTime": "2021-02-09T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

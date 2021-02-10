@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-13-best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more.md",
+      "title": "Best robots at CES 2021: Humanoid hosts, AI pets, UV-C disinfecting bots, and more",
+      "excerpt": "CES features the latest in robotics innovation, and this year is no exception. From disinfecting robots to AI-enabled companions, here are some of the best robots at CES 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/f629a590-bded-4833-932c-c74d846af5c8/resize/1200x/fd3a1a8ff2935b04e09b30bf703cb399/adibot-a-ubtech-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
+      "publishedDateTime": "2021-01-13T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-back-to-work-say-hi-to-the-new-office-robot.md",
+      "title": "Back to work? Say hi to the new office robot",
+      "excerpt": "For robotics developers, promoting employee and customer confidence in the workplace through new health and safety tools is a prominent business priority for 2021. The clearest example is the surge in disinfecting robots,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/back-to-work-say-hi-to-the-new-office-robot/",
+      "originalUrl": "https://www.zdnet.com/article/back-to-work-say-hi-to-the-new-office-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/12/7e42b64d-8d9b-45b5-8ea5-b78793d5a46c/ava-hero.png",
+          "width": 2528,
+          "height": 1316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/back-to-work-say-hi-to-the-new-office-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/back-to-work-say-hi-to-the-new-office-robot/",
+      "publishedDateTime": "2021-01-13T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities.md",
       "title": "AI & machine learning in CRM systems – opportunities & benefits for charities",
       "excerpt": "While we tend to think first of robots and self-driving cars when we think of AI, in fact, along with its subset machine learning, it’s already firmly",
@@ -1250,111 +1354,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-healthcare-artificial-intelligence-ai-market-share-analysis-regional-outlook-growth-statistics-key-players-and-covid-19-impact-analysis.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market Share Analysis, Regional Outlook, Growth Statistics, Key Players and COVID-19 Impact Analysis By 2023",
-      "excerpt": "The healthcare artificial intelligence (AI) market is anticipated to grow by US$12.22 Billion by 2023 rapidly growing at a CAGR of 51.9% during the forecast period 2018 to 2023. The global demand for artificial intelligence (AI) in healthcare is driven by a rising volume of healthcare data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-share-analysis-regional-outlook-growth-statistics-key-players-and-covid-19-impact-analysis-by-2023-2021-01-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-share-analysis-regional-outlook-growth-statistics-key-players-and-covid-19-impact-analysis-by-2023-2021-01-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-robots-in-retail-what-investors-need-to-know.md",
-      "title": "Robots in Retail: What Investors Need to Know",
-      "excerpt": "I'll be watching you,'' that iconic yet creepy lyric from The Police song ''Every Breath You Take'' now applies to the world of artificial intelligence ... That's one aspect of the world of robots in retail. Find out what else could (literally) be in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/millionacres/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
-      "originalUrl": "https://www.fool.com/millionacres/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/millionacres/images/retail_store.max-1200x600.jpg",
-          "width": 899,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/millionacres/amp/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/millionacres/amp/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
-      "publishedDateTime": "2021-01-06T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
