@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-10T07:31:00Z
 originalUrl: "https://analyticsindiamag.com/how-andy-jassy-will-lead-amazons-ai-strategy/"
 webUrl: "https://analyticsindiamag.com/how-andy-jassy-will-lead-amazons-ai-strategy/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AWS AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/How-Andy-Jassy-Will-Lead-Amazonu2019s-AI-Strategy.jpg"
@@ -56,6 +57,6 @@ related:
         height: 538
         isCached: true
 
-secured: "+52jlH3AYOqYsSUbVTH1Z5u/IVOhiDS7iABdBOF2qCS9spi+RQHsoeomjTfiRKgZHig93GnjxsStamMZj3lI79iaSQzsIA1GSbWQ/6RPXPakWTwBmS1v0TuDJEV2kB2Q24e/YV6NFXY7q8EkcO2xxmxQAR1FDR06AnO9x4cuNFR1uBSYw0DzoHfsOR9dcQ6YBk7mXyC2pzbqMPTniS/qtOf8ehvDVJq6o9oT9/3+C37WoJ6fZs62AgROBy5vsPLV64PUIEE4SkaQXhxQB7Qt9mh+UkNsEjAGtbJWJgYw7y2xqPliRRcoEVgcM68rXKy5SkgUCW6kMLwfB5M+lb9jsLPLLYeskHB+bhAOLUiMSmg=;Kv4jOMuTzXBHXBVUCAte5g=="
+secured: "2Nxi+T7lADwQe9nDU48Bye8QiXXTL3JOYaU/oMlgMtkd4Jh8Bo9kP53lAANekin4/vqm57CkOKh9VJhYF0YKDvT8FnwHzzIJ6BLkS7Z2d4kY162MRPgyOWPn9cwC0K5osRtorP8T92/85BVm/NRIFu/0uf8wnvoywGeGdZayJZRFUwAo8yH5ycxWYMOVQdDqNbAi/107eZxIe3l8Xznt0nj5jAcS2Gxxr7EMkdgguPFfJ2RJZVovscnWPRwKpsg0YQ4qt4i3pP5xB4lUUxCbfmr+UUw1u2SJVzzFjtz7G8yqtiMlHwxi9evueKR2fmNK8vh3bOS39Ct7cJOWHpPAElI5oZkEgLAHS/NlEJuGOKw1/dBP0e6DgzlMutkT7qcGjL0QaeahGMkeeGcxVVAxAvtAEOM5g4vSEsr1/RAV/cPGXJ7uMsA1ZqQALW5gqfsyKzQ5RVFc/35dxnzlI9v3jpQfV84kBnVRugOKj38R/nlqz0/KPd38wZAOStmaTlDeimV2mYJ4/Fg3rB+t9kqNdA==;wFltxewubbZ9uBPYla5a/g=="
 ---
 

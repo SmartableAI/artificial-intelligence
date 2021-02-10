@@ -3,10 +3,10 @@ category: news
 title: "AI reading list: 8 interesting books about artificial intelligence to check out"
 excerpt: "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage."
 publishedDateTime: 2021-02-04T16:46:00Z
-originalUrl: "https://www.techrepublic.com/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
-webUrl: "https://www.techrepublic.com/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
-ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
+originalUrl: "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
+webUrl: "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 900
     isCached: true
 
-secured: "rjIssU1+OItf4RTz4Q7fV23M9I7zthpLuaN89pizJaW1ecbhO+RsFX/tHQgh3SW7isHaCeSnvZfrRuXzDCGgRJTzGKLiAz0wglndkSLaxzgUh2hAIc/rn6CVr1EKj3GPbnD4YO5vOCrMg1aHX8SYOT+geRn/beOE+ZHeKRyvwNMReY3OVREei3NjA1vqYY50GzeyQ2y8VMgZfRP2vmT5QZsY3jUbE5FY8HzFAC0RtvSkKEsVc8LUG31MwbTC6rrvqHRomKtC/tRAhGgEHzLPmrQLSW2efcXEOtXZi2V+e4in6MK1WqhPLHuZVjoxJBp8u21HwVoIfXfSFs9aetVEBPa4V14iBt1wLYIUOfKb4ME=;CtLGpEB0dkkX/oi+AxgY2A=="
+secured: "4S4cq8ypaEYPxgIc2FC/fvFteZc54z0Owr4yGU0ePH1C6kwf0mzpV2zYppZxGIGPQ/gECwGVdyDdb3aI3e/SnjlJLYw73C6edEVCgfuVdLsLjeiq8ZA5s4mvH1FEm/oBIcdO9zOoqK8lGBnV1IeaCnyMkW1qIMPwkcx1OWLFKUix0jaygLptGZm9uCUIf9jYzJcVm1xFhhf80+0hA88ho720W/oIGFY9LPFFyI9B/hDEegtlWMJ/KzfwQXvibLvKgN9io5ynNPwjSHLizq6uclCKTE/k4MDhapje5anSo1sdFtsk9JBzq9swghCtF+cPcga2n2NcZaSARKhvXyNLl+VMecV6QS5gSbH6bfFLaIk=;dXhVcUtZzBmMQ+2+MdKG0g=="
 ---
 

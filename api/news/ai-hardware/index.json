@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-10-baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc.md",
+      "title": "Baidu in talks to raise funds for AI chip company - CNBC",
+      "excerpt": "China's search engine giant Baidu Inc is in talks to raise cash for an artificial intelligence semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/baidu-funding/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-idUSL4N2KG2JB",
+      "originalUrl": "https://www.reuters.com/article/baidu-funding/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-idUSL4N2KG2JB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2KG2JB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2KG2JB",
+      "publishedDateTime": "2021-02-10T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows.md",
       "title": "Intel comes up with benchmarks as the threat from Apple M1 Chips grows",
       "excerpt": "In a slideshow shared by PCWorld this week, Intel highlighted what PCWorld described as \"carefully crafted\" benchmarks in an effort to prove that laptops",
@@ -1431,49 +1474,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai.md",
-      "title": "Intel’s Neuromorphic Chip Just Got More Accessible for Mainstream AI",
-      "excerpt": "While the promise of neuromorphic computing going mainstream is still mostly unrealized, there are steps being taken to bring it closer to reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/",
-      "originalUrl": "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ab_neuromorphic.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/amp/",
-      "publishedDateTime": "2021-01-25T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-segmentation-analysis-key-players-industry-share-and-forecast-by-2025-2021-02-08"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Wearable Healthcare Devices Market - Forecasts to 2026"
+    excerpt: "The findings reviewed by GME stated that the Global Wearable Healthcare Devices Market will expand with a CAGR value of 30 8 percent from 2021 to 2026 Factors like advanced sensors rising adoption of artificial intelligence growing mobile platforms precise"
+    publishedDateTime: 2021-02-10T08:31:00Z
+    webUrl: "https://www.openpr.com/news/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/2/U210206214_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Commercial Robotics Market Size, Share, Growth, Trends Analysis & Industry Forecast Report, 2020-2027"
     excerpt: "The GMI Research expects the commercial robotics market to expand at a significant rate. From a regional perspective, the Asia-Pacific is expected to increase at a higher CAGR due to the strong demand"
     publishedDateTime: 2021-02-08T20:37:00Z

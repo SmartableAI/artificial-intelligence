@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/its-electrifying-meet-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/its-electrifying-meet-robby-megabyte-bosnias-first-robot-rock-musician/amp_articleshow/80759391.cms"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Meet Robby Megabyte, Bosnia’s first robot rock musician"
-    excerpt: "Bosnia’s most popular rock band, Dubioza Kolektiv, has a new recruit who sings and plays musical instruments – a humanoid robot called Robby Megabyte. Students from Sarajevo"
-    publishedDateTime: 2021-02-05T17:27:00Z
-    webUrl: "https://nypost.com/2021/02/05/meet-robby-megabyte-bosnias-first-robot-rock-band-musician/"
-    ampWebUrl: "https://nypost.com/2021/02/05/meet-robby-megabyte-bosnias-first-robot-rock-band-musician/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/05/meet-robby-megabyte-bosnias-first-robot-rock-band-musician/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/2021-02-04T134137Z_1505073026_RC2PLL9TNIPB_RTRMADP_3_BOSNIA-ROBOT-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "1anFR3IkRiucG+yGGsrxJFEO4znwizVdRv809ETQOBWFf6Chbvdu2u0WqPvF4LFTd2ApeLXrLweuwew5TILzXsWZClzrlZXnv3utISJwIC7Vl6m7S6lAVLCXLnVpLkLDvpFTHvaPTfkP31hAFNNTXe14q3lWHzgqpfVFwPX88izg51CZDTCU3javGvokXOE517fcizYzf0jqTrCuru4FTjTpT8EzL1XDZd6KrxOqJEDj6+KTok9svdsMzPwAAV7XIQePIRbxxaTTrixG+NKYmuw5Uh/eYUI4u8KxQV2aqKstVpx4CldO9MAhyuctiHT0YInTRMThdTWDGbU7gnSHxl2e3vmQxm3eHdZOInfg3Jw=;q6imLRu1LgiK2XLzDQ4QAg=="
 ---

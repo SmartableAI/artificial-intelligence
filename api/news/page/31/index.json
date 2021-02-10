@@ -2,6 +2,74 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-01-19-artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Size Worth $61.59 Billion By 2027 | CAGR of 43.6% By Reports and Data",
+      "excerpt": "Artificial intelligence helps medical professionals to retrieve information, interpret images, and plan therapy during medical procedures. It also eases the burden on healthcare workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19208601/artificial-intelligence-ai-in-healthcare-market-size-worth-61-59-billion-by-2027-cagr-of-43-6-by-r",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19208601/artificial-intelligence-ai-in-healthcare-market-size-worth-61-59-billion-by-2027-cagr-of-43-6-by-r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19208601",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19208601",
+      "publishedDateTime": "2021-01-19T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-for-next-generation-ophthalmic-gene-therapy.md",
+      "title": "Neurophth and AAVnerGene Enter Strategic AAV Capsids Partnership for Next-Generation Ophthalmic Gene Therapy",
+      "excerpt": "Neurophth Therapeutics, Inc., a subsidiary of Wuhan Neurophth Biotechnology Ltd. gene therapy company (hereafter Neurophth), and AAVnerGene Inc., a specializing AAV technology company, today announced a strategic partnership to provide Neurophth with worldwide rights to mutually select adeno-associated virus (AAV) capsids for the next generation ophthalmic gene therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/health-press-release/Neurophth-and-AAVnerGene-Enter-Strategic-AAV-Capsids-Partnership-for-Next-Generation-Ophthalmic-Gene-Therapy-506755-1.htm",
+      "originalUrl": "https://www.medindia.net/health-press-release/Neurophth-and-AAVnerGene-Enter-Strategic-AAV-Capsids-Partnership-for-Next-Generation-Ophthalmic-Gene-Therapy-506755-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-us-lawmakers-aims-to-curtail-face-recognition.md",
       "title": "US lawmakers aims to curtail face recognition",
       "excerpt": "Microsoft and Amazon halted facial recognition sales to police this month following nationwide protests that have demanded an end to law enforcement tactics that unfairly target African Americans and other minorities.",
@@ -1069,84 +1137,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom.md",
-      "title": "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com",
-      "excerpt": "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19202252",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19202252",
-      "publishedDateTime": "2021-01-18T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how.md",
-      "title": "Facebook Will Use AI To Predict If COVID-19 Patients Need Better Healthcare: Here’s How",
-      "excerpt": "Facebook's artificial intelligence researchers developed models that use x-rays to anticipate the progression of the disease in a patient and help hospitals prepare.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
-      "originalUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/f/facebook-t/facebook-to-send-notifications-to-users-who-like-or-share-co_wj6r.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1",
-      "publishedDateTime": "2021-01-18T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

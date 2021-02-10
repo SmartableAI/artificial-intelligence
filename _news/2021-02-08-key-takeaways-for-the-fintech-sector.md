@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/364949"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364949"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/suma-smb-local-fintech-latam-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Finch Capital Targets European Fintech Companies with €150 million Fund"
+    excerpt: "Finch Capital announced the first close of Europe III, its €150 million investment fund, to invest in the European fintech companies."
+    publishedDateTime: 2021-02-10T10:16:00Z
+    webUrl: "https://www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
+        width: 880
+        height: 400
         isCached: true
   - title: "Finch Capital raises €150m for fintech fund targeting later stage start-ups"
     excerpt: "Finch Capital, a UK and Netherlands based VC firm, is looking to deploy €150m into 15-20 fintech companies in Europe. The new portfolio is Finch’s third fund since launching in 2013. Its current portfolio includes the likes of Trussle,"

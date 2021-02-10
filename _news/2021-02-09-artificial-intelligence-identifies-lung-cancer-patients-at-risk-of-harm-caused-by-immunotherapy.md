@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/artificial-intelligence-identifies
 webUrl: "https://www.genengnews.com/news/artificial-intelligence-identifies-lung-cancer-patients-at-risk-of-harm-caused-by-immunotherapy/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 2560
     height: 1643
     isCached: true
-
-related:
-  - title: "Using Artificial Intelligence to prevent harm caused by immunotherapy"
-    excerpt: "Until recently, researchers and oncologists had placed lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not. Now, researchers, using artificial intelligence (AI) to analyze simple tissue scans,"
-    publishedDateTime: 2021-02-05T18:11:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/02/210204192459.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
 
 secured: "uWiBGHStZ70kkIyJvWOemI1lrAmkdW0LinYh+nHXgy0BBn+++QVVDLbZ7udbrxJt3iI6jtQrrDKoKxKoT/12z946Z4dG3IYXvey5VfCa2jp/I//jhsOz15jiQGiThztUpLZ4JZeea5WoDfezoCy0p54aJDxQGC3A+LUCSelwlMCYXqKD2QPFnm/JROn7hhvyo3rTT/boINDzJcAPjv5XiHDD9YbhHRz242LHK9skXsReDlNjGpr0Cry8dmY3FXVfWEP5x1iMkqfUd4Ik00K921F8b7HB+GggQ4e77+KHI6NybaIePMotL2GDsqy69IqNdWwbyvU+ByplYCSGmxFMrTAMH14THDW/hvBZ4JpdAsa0CY7FAeMGrKBT+C8S6fKaAkcXlDuPl0MOuvYKlo9oQ6NA9GayzwQHzqYOOAEzMcOR32GuH4lU5EzwXquR2eXSyZG5T+NMmuk4LwhKMCfSzkyC+73RikoCG4Jwd4kGW+EukB4sdKYFRS7jhPQRoQjunxokgO1RidLBl1OEBJt6ig==;3JoiyPPKmyX3TpsHcMxjvg=="
 ---

@@ -49,7 +49,7 @@ related:
     provider:
       name: Yicai Global
       domain: yicaiglobal.com
-    quality: 41
+    quality: 43
     images:
       - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors/11286501867126784.jpg"
         width: 720

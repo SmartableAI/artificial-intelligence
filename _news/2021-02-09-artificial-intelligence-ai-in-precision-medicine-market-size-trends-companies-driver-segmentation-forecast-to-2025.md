@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Technology Market Size 2020: Industry Growth, Competitive Analysis, Future Prospects and Forecast 2025"
+    excerpt: "Selbyville, Delaware The Face Recognition Technology Market report offers detailed competitive landscape of the global market. It includes company, market share analysis, product portfolio of the major industry participants."
+    publishedDateTime: 2021-02-10T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2020-industry-growth-competitive-analysis-future-prospects-and-forecast-2025-2021-02-10?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Gesture Recognition Market Size, Share and Trend to Record Momentous Growth Through 2026"
     excerpt: "The report Automotive Gesture Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Automotive Gesture Recognition Market Growth and information corresponding to market segments such as geographies,"
     publishedDateTime: 2021-02-08T14:06:00Z

@@ -2,6 +2,84 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-12-14-nationwide-selects-aws-as-its-preferred-cloud-provider.md",
+      "title": "Nationwide selects AWS as its preferred cloud provider",
+      "excerpt": "Nationwide, a Fortune 100 insurance and financial services provider, is expanding its relationship with AWS and has selected AWS as its preferred cloud provider. Nationwide is leveraging AWS’ services, including analytics, database, machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144325",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/134650-1200-by-630-suburban-home-shutterstock-745809697--ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing.md",
+      "title": "Cambridge Quantum Computing Posts Foundational Scientific Papers on 'Meaning Aware' Quantum Natural Language Processing",
+      "excerpt": "Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computers Cambridge Quantum Computing (CQC) today announced that it has built on earlier advances in \"",
+      "sourceUrl": null,
+      "webUrl": "https://www.ryt9.com/en/anpi/246378",
+      "originalUrl": "https://www.ryt9.com/en/anpi/246378",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RYT9",
+        "domain": "ryt9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025.md",
       "title": "Sizing the AI software market: Not as big as investors expect but still $37 billion by 2025",
       "excerpt": "How big is the market for artificial intelligence software? In new research, Forrester forecasts that the size of the AI software market will approach $37 ... will grow to $13 billion by 2025.",
@@ -1154,101 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-tiny-four-bit-computers-are-now-all-you-need-to-train-ai.md",
-      "title": "Tiny four-bit computers are now all you need to train AI",
-      "excerpt": "Some researchers have rushed to find new directions, like algorithms that can train on less data, or hardware that can run those algorithms faster. Now IBM researchers are proposing a different one: to reduce the number of bits,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/",
-      "originalUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh5.googleusercontent.com/zQLYOIjEH08BXrs2j4Ii8uG8JzjDPjzeKSI7PAIWs553o4-qOXf2dWp9s2RRO4bAV0xu9qiJA_wMRBohAUYAC1VWtCmLVAZBYvrz7GMKmrp34ycLbND7_bHyKT-ru3ZG1UTjbAOx",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/amp/",
-      "publishedDateTime": "2020-12-11T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026.md",
-      "title": "Entertainment Robots Market New Opportunities for Sustained Growth and Expansion (With Covid-19 Impact) 2020-2026",
-      "excerpt": "Global Entertainment Robots Market Growth 2020-2026 This study specially analyses the impact of Covid-19 outbreak",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

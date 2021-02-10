@@ -2,6 +2,100 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2020-12-08-50k-ai-prediction-contest-launches-today.md",
+      "title": "$50K AI Prediction Contest Launches Today",
+      "excerpt": "A forecasting platform that aggregates insight from thousands of technology experts announced a two-year contest today focused on AI predictions: the future state of key benchmarks in machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcea9ea964f1397d45a037c%2F0x0.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/",
+      "publishedDateTime": "2020-12-07T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b.md",
+      "title": "Uber sells self-driving unit Uber ATG in deal that will push Aurora’s valuation to $10B",
+      "excerpt": "Aurora Innovation, the autonomous vehicle startup backed by Sequoia Capital and Amazon, has reached an agreement with Uber to buy the ride-hailing firm’s self-driving unit in a complex deal that will value the combined company at $10 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-2410b/ar-BB1bIk7S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 634,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/aurora-self-driving.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/amp/",
+      "publishedDateTime": "2020-12-07T13:05:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
+        "domain": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-brainchip-leads-the-asxs-top-small-cap-ai-stocks-in-2020.md",
       "title": "Brainchip leads the ASX’s top small cap AI stocks in 2020",
       "excerpt": "If you’re an investor seeking exposure to AI in the small cap space look no further because we have compiled an extensive run-down of small cap ASX stocks.",
@@ -1096,108 +1190,6 @@
         "AI Hardware",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021.md",
-      "title": "How will companies use AI hiring software in the Great Rehire of 2021?",
-      "excerpt": "With record numbers of candidates looking to work remotely, recruiters will have to expand beyond their usual geographic footprint.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
-      "originalUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/hiring.faces_.GettyImages-1145150839.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
-      "publishedDateTime": "2020-12-07T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-mohsen-fakhrizadeh-machine-gun-with-ai-used-to-kill-iran-scientist.md",
-      "title": "Mohsen Fakhrizadeh: 'Machine-gun with AI' used to kill Iran scientist",
-      "excerpt": "A satellite-controlled machine-gun with \"artificial intelligence\" was used to kill Iran's top nuclear scientist, a Revolutionary Guards commander says. Mohsen Fakhrizadeh was shot dead in a convoy outside Tehran on 27 November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
-      "originalUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/475A/production/_115866281_mediaitem115672686.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-middle-east-55214359",
-      "publishedDateTime": "2020-12-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

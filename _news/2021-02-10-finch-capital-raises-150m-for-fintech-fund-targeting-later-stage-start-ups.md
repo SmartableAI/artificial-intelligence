@@ -89,6 +89,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Finch Capital Targets European Fintech Companies with €150 million Fund"
+    excerpt: "Finch Capital announced the first close of Europe III, its €150 million investment fund, to invest in the European fintech companies."
+    publishedDateTime: 2021-02-10T10:16:00Z
+    webUrl: "https://www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
+        width: 880
+        height: 400
+        isCached: true
   - title: "Fintech Start-up Bytemine launches AI trading signals application for Day Traders"
     excerpt: "Transforming data into better trading outcomes LONDON, UNITED KINGDOM, February 7, 2021 /EINPresswire.com / -- Bytemine , a market prediction and analysis platform that provides trading signals for day-traders,"
     publishedDateTime: 2021-02-07T08:25:00Z

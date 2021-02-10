@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Wearable Healthcare Devices Market - Forecasts to 2026"
+    excerpt: "The findings reviewed by GME stated that the Global Wearable Healthcare Devices Market will expand with a CAGR value of 30 8 percent from 2021 to 2026 Factors like advanced sensors rising adoption of artificial intelligence growing mobile platforms precise"
+    publishedDateTime: 2021-02-10T08:31:00Z
+    webUrl: "https://www.openpr.com/news/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/2/U210206214_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "4fnBn2laCyVyB0LagmR9rIUtJmXfcPRy9kq1YQT6dl8H9PjCewqxEk0DcELjqINqs51Anj/Vtn9bjvRVrvAH0x5BihzVe9AC+xwMC1exeDdK7DRIxJfv/ztqTBvtzahbVWwJPSqz0NNZAjjdQP/OJJJ4Z5Ds0Xh70kiQJjjIqXspyl5Z4uyGMpg6XDBAHmx9XD6p+aML6SMlSHlzR/DV0+LzsNWTKwOyfYgrPsJlh5lJdyaHckcWg//sggrSsYhgjhNSdgszNe4aNerMWZiJ9abQIXFzclIiifjWXJau9trp1l9uJKIvjcZT1eclmcE2pr2QCGAT9TpEpnuMnWzHCZvmx6HRkyxpvEvq0Tf7KLM=;QBUIoOWuGeYh6jzejulwow=="
 ---

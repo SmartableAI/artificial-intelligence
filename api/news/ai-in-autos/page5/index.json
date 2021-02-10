@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-08-hyundai-in-early-talks-with-apple-for-self-driving-electric-car.md",
+      "title": "Hyundai in 'early talks' with Apple for self-driving electric car",
+      "excerpt": "Hyundai Motor Co. said Friday it is in the early stages of talks with tech giant Apple to jointly develop and produce a self-driving electric car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/6861610106800/2021/1/dda519f86bfc05448a184b6df6aa7007/v1.5/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
+      "publishedDateTime": "2021-01-08T04:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-apples-tesla-killer-self-driving-car-is-at-least-5-years-away-according-to-a-new-report.md",
       "title": "Apple's 'Tesla killer' self-driving car is at least 5 years away, according to a new report",
       "excerpt": "For years, rumors of Apple's self-driving car have swirled — but the latest report says it's still at least five years from its big debut.",
@@ -1394,58 +1437,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-how-apples-self-driving-car-plans-might-transform-the-company-itself.md",
-      "title": "How Apple’s self-driving car plans might transform the company itself",
-      "excerpt": "Core Apple tenets like controlling its own manufacturing and not collecting much user data may not stand up to the self-driving business.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
-      "originalUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/apple1mt.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
-      "publishedDateTime": "2020-12-31T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

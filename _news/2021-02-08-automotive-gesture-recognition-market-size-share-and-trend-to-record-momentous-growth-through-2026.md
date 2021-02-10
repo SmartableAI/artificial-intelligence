@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Technology Market Size 2020: Industry Growth, Competitive Analysis, Future Prospects and Forecast 2025"
+    excerpt: "Selbyville, Delaware The Face Recognition Technology Market report offers detailed competitive landscape of the global market. It includes company, market share analysis, product portfolio of the major industry participants."
+    publishedDateTime: 2021-02-10T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2020-industry-growth-competitive-analysis-future-prospects-and-forecast-2025-2021-02-10?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6DLxDUR/fkf4EeTAtYF88Dr59C3coO+aWJEz/nuDtpaeiptauSD881WSZZRjofziC8HHYmpbeiSEg0cvR0sFqAqONyiIIlYq22dvQn+QiHS4ZiH8w/jsHwynLdCd1kByz9a8DKrT8FnTWTEam1v6Q+ZM8f0dWYzBx6RjcTfIUm0fDZb3JEE+SrtNXlsLCd0tnZupCwjbVWcOpv6YK4JYerZmXn4fl2fcUV+EOzjL4HlqloSGfBKyKP/UQyOGhJmcLnYGvIhZ/S6URAhMij2aaAIb1L/RNXU+59OvLb1+6huOPWQ+suQ3n1fkc1Sjt6MX1d4FvG7DVaN2ZsIScR8H4Kgtzlpf/gPH39rVKOE36Dw=;ZBDHZnzj1pn/Yk7sS6vm0g=="
 ---

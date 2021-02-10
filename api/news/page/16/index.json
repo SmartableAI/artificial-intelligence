@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-28-artificial-intelligence-takes-center-stage-early-in-2021.md",
+      "title": "Artificial Intelligence Takes Center Stage Early in 2021",
+      "excerpt": "AI is the most significant technology of the last 30 years and its innovation is accelerating in the early part of 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/web/index.php/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
+      "originalUrl": "https://www.eweek.com/web/index.php/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/02/IBM.Watson2.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T21:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning.md",
       "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
       "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
@@ -1153,49 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-nerdio-launches-the-definitive-wvd-product-for-msps-offers-savings-of-up-to-75-of-azure-costs.md",
-      "title": "Nerdio Launches the Definitive WVD Product for MSPs – Offers Savings of Up to 75% of Azure Costs",
-      "excerpt": "Tenant Azure Virtual Desktop Deployment, Management, and Optimization to the Channel for MSPsCHICAGO--(BUSINESS WIRE)--Nerdio, the definitive Azure deployment, management and optimization solution for Managed Service Providers (MSPs) and enterprise IT professionals,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=412427",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=412427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/29/mark/20210129882520.jpg",
-          "width": 580,
-          "height": 327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
