@@ -58,6 +58,6 @@ related:
       domain: bits-chips.nl
     quality: 19
 
-secured: "cEMHbugKFlxopeiTK3gcuBCAriibXmGzpl9lyTIyTq6LGotBBTfLRh1yx0hn7KAn+BHn2XwxVpO6IrIpjZLXfE/y+P0UumQqytMhRLBmppbCa+Fm8cmoqV4iIgx0ybUowPGW/STzGJiFYv2QEOCRfOBxC9z91HYVpsKcnn7VhC2dGV8l8R8vorpbRaF6gT+cXyLMcoeaueTsG1yFP9Oel/Ux5WjIMiebxQRBWbS4hj03zAQhwD4GM4YAbBrJJnfd4RnXgT+4tnq0tnaXa4w+wEoVYws2VT8LwMjY5HA8FcqXgBqWx/3q30h9j571HNnK+bjK5xoyGAx7UkajokFiI5O6NLj+UtugUXp5mwtrzW8=;vwjj7vVZrYGsU+mFzhrqIA=="
+secured: "Ha7zzdlHWiP+UzB9niOgNPERCTaJM0yRZ/7iSMfm2Q7nRQZWQgkcPV4vBp4flHsw47niZxlDuNQhuwSDTTce6Yd0/RDVqubAru4s9Q64/Lb/2bLxekX/o8s30BKkr6YjDXWBG1z9IIwVHGAvq929VexJrvcG1Tx0y+6M52RlgsVxx1rqXNY4QxYASCQHOfpLytsPmmufZh/AtEBZKFNHWaclft+uhitKm6XzBZXJ6g4K4PyGLOa7cqoTlLGXpuTSInvhS/XaHeVhSqbHVt/VJZYP4MFzJtdlasVRKCCyLonb2T8GyWoxNFoJYePv+2SBd7VvseL4UXGqOecZNzvmZHg8Vyf6Nk+EqEgj952blD0=;MDte1Zstzt26S224xkmD+g=="
 ---
 
