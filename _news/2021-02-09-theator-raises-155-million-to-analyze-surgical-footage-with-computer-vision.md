@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "BigHat raises $19 million for an AI-powered antibody design platform"
+    excerpt: "BigHat, a startup developing an AI-powered platform for antibody design, has raised $19 million in venture capital."
+    publishedDateTime: 2021-02-10T13:37:00Z
+    webUrl: "https://venturebeat.com/2021/02/10/bighat-raises-19-million-for-an-ai-powered-antibody-design-platform/"
+    ampWebUrl: "https://venturebeat.com/2021/02/10/bighat-raises-19-million-for-an-ai-powered-antibody-design-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/bighat-raises-19-million-for-an-ai-powered-antibody-design-platform/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Theator raises $ 15.5 million to analyze surgical images with computer vision"
     excerpt: "Theator raises $ 15.5 million to analyze surgical images with computer vision . Surgical platform developer Theator today closed a $ 15.5"
     publishedDateTime: 2021-02-09T16:22:00Z

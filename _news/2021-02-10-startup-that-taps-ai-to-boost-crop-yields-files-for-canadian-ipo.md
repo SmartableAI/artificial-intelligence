@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Startup that Uses AI and Partners with Re/insurers, Now Is Seeking Canadian IPO"
+    excerpt: "Farmers Edge Inc., a firm that uses artificial intelligence to help growers boost crop yields, is seeking to raise about C$100 million ($79 million) in an"
+    publishedDateTime: 2021-02-10T14:09:00Z
+    webUrl: "https://www.insurancejournal.com/news/international/2021/02/10/600775.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 31
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/10/bigstock-concept-initial-public-offering-390746957-580x387.jpg"
+        width: 580
+        height: 387
+        isCached: true
 
 secured: "C0c1eIS9QM9QfhbvNw4kmskY919gTxjjnGIsRaU1gXG3kjM9rDiizib9ZLnydzLckmY8cYZJWatPywZW+FLo3MgRktWHDR/JefuDXT/+YMWDcGsZK69e6d943ylviCVeccA8AtQHv1H8zZHT5YwdfG7dJyEKVVhWUpl71XfkbBDRPtRNct90GlxP5uj1AApuhtMUrjj2XIFStH64ic3Lrgqe/uUiMqy3wUu5kp4Wo+NWSvea7qP8/U4J0t3Zk/m1L8OIYwf6/qZlYL/qsqDaGw7GB0FJojtcWovMoAZrmTezOwCSv+nzs384ijFMQbVKoGf2Rg7IGp2t6EgtTzrjwU9htR126neEnaq6O+Y6qcs=;UB23SuzAC+IVwvI4ubsJLg=="
 ---

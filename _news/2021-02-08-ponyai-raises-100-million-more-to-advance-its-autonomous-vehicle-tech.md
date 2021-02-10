@@ -34,9 +34,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 189
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "CYE raises $120 million for security that uses hackers and AI"
+    excerpt: "CYE has raised $120 million for a service that uses AI to probe defenses and human hackers to conduct attacks."
+    publishedDateTime: 2021-02-10T14:12:00Z
+    webUrl: "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/OKN_1440_websize-e1612959250260.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true

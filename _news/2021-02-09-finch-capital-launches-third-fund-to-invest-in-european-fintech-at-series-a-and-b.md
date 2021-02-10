@@ -152,6 +152,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Top 3 FinTech companies transforming the financial space in Iceland"
+    excerpt: "FinTech solutions are provided by the three largest commercial banks in the country, namely Landsbankinn, Íslandsbanki, and Arion Bank."
+    publishedDateTime: 2021-02-10T13:12:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/top-3-fintech-companies-transforming-the-financial-space-in-iceland/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "hyXM5cjf8thwbbF7gwsJf3A3H7hU+kUoS39TExl6A2agWfA2hs5u8dnKuZ0PX/FEjPLVuWBP7GN0LTBF4sQ164E/xnxs9krGEeNKt3UV/2WhGBhkbGQeeaGzQ71Wifnnff9HQLeC6z+S2RzVAGv2kUUSIPd+F8XER0DfTaiYYKjhn5YwIY2GLxI99s2smNsOzjRy+5kyqtJ2i/C75KeviIqed8mWXbVoCD0D7Mq/gOArfQRy+yCPRN9/7GKUqsTkdaAqBr5AB03wJVRBetAeXVFpdv/WIe+LHJY4gJba0rTQ4OFM2kHLsaSLFsZXbg2v5bAipXXd2hRnhNFg0oAJqnQG3sto+ueCybmnUHpB9KURxc/Ag8ZOlkCdecf5SblDVZ6O0tYGNtZjX2PSW2If2hjTi3lmhamHnE9KVtzoyWNFLCmFFHd199CiNUCuC49ufrhZELE613yZ/MRhx6AE1CT2Neub2yS8oAEJQLIk/IHZX1LE4Z1wqg05bzoOXyNsapFa9wF0HsjSTcY+wKabFA==;CKnxE/ihgx3ggv/QtEn5lg=="
 ---

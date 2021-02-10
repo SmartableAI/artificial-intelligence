@@ -24,6 +24,38 @@ topics:
   - AI
 
 related:
+  - title: "NeuReality emerges from stealth to accelerate AI workloads at scale"
+    excerpt: "NeuReality, a startup developing compute infrastructure for large-scale AI workloads, emerged from stealth with $8 million."
+    publishedDateTime: 2021-02-10T13:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/"
+    ampWebUrl: "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2015/10/shutterstock_102001114.jpg?w=1200&strip=all"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "NeuReality raises $8M for its novel AI inferencing platform"
+    excerpt: "NeuReality, an Israeli AI hardware startup that is working on a novel approach to improving AI inferencing platforms by doing away with the current CPU-centric model, is coming out of stealth today and announcing an $8 million seed round."
+    publishedDateTime: 2021-02-10T13:01:00Z
+    webUrl: "https://techcrunch.com/2021/02/10/neureality-raises-8m-for-its-novel-ai-inferencing-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/02/10/neureality-raises-8m-for-its-novel-ai-inferencing-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/neureality-raises-8m-for-its-novel-ai-inferencing-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/Neureality-founders.-From-left-to-right-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli.-Credit-Neureality.jpg?w=1024"
+        width: 1024
+        height: 670
+        isCached: true
   - title: "Digital Owl emerges from stealth with AI that analyzes and summarizes medical records"
     excerpt: "Digital Owl, a startup developing a platform to extract key information from electronic medical records, has emerged from stealth."
     publishedDateTime: 2021-02-08T13:03:00Z
@@ -56,6 +88,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Israeli Startup NeuReality Raises $8M For AI-As-A-Service Infrastructure"
+    excerpt: "Israeli startup NeuReality, the developer of high-performance AI compute for cloud data centers and edge nodes, emerged from stealth mode on Wednesday, announcing a $8 million seed round. Investors include Cardumen Capital,"
+    publishedDateTime: 2021-02-10T13:36:00Z
+    webUrl: "https://nocamels.com/2021/02/neureality-8m-ai-as-a-service-infrastructure/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 16
 
 secured: "Au6yBJ2UKXhLIdohdYDldIhoR8i7GI+HMBMgl9whY4+SKq995Bm4L/3o3UYSLT4I1D3M8mMOCwW5S9QJepiARsjCEZix3Z5qmQACH8V+BeMiJYjGTtKURMAR0ww8j7ecoxhTiCBtj+jJOta9vC/x9P+NrSGfojQMWWPTwzgvsju7soN8EO0HC8tEcfeOdCMobEQfvwRVunCSCkqkVkkVBHiHfSIA8h2p1uPj5eKzYUyr0Ckwuon+BqwPoIMPqdoSxnlzrOIH0wqT/QrN94O6mRhpslpKoTAMNuqyBcorxo3+kyYP6BqBVF7I4H8FgO4gaNrk+sPGhu/ywQ3Hq2iS6uwIlkelRqlz8k9TMfStaGg=;qKQy+1O1zcaUdCJAB9C17A=="
 ---

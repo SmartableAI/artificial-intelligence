@@ -25,77 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Nuance acquires Seattle digital health startup Saykara to boost healthcare AI products"
-    excerpt: "Nuance Communications has acquired Saykara, a Seattle health-tech startup that makes a voice assistant for clinicians. Nuance, based in Boston and publicly traded, will use the deal to boost its"
-    publishedDateTime: 2021-02-08T23:24:00Z
-    webUrl: "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/"
-    ampWebUrl: "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/"
+  - title: "How AI Can Improve Your Website Security"
+    excerpt: "Across all industries, artificial intelligence can help you stop hackers in their tracks, release bug-free updates and provide assistance if you’re experiencing a security breach."
+    publishedDateTime: 2021-02-10T13:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 96
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/10/20181003_GeekWire_Summit_813-630x420.jpg"
-        width: 630
-        height: 420
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc8f61243ce8b03f3e11ea4%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Nuance acquires Saykara to build out healthcare AI tools"
-    excerpt: "Nuance Communications has acquired Saykara, a startup that developed an artificial intelligence-powered physician assistant tool. The deal will help Nuance boost its capabilities in healthcare AI."
-    publishedDateTime: 2021-02-09T21:42:00Z
-    webUrl: "https://www.fiercehealthcare.com/practices/nuance-acquires-saykara-to-expand-healthcare-ai-products"
+  - title: "Delta Web: Established security firms war with disruptive AI rivals"
+    excerpt: "Computing is the leading information resource for UK technology decision makers, providing the latest market news and hard-hitting opinion."
+    publishedDateTime: 2021-02-09T08:00:00Z
+    webUrl: "https://www.computing.co.uk/news/4026871/delta-web-security-war-disruptive-ai"
     type: article
     provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 54
+      name: Computing
+      domain: computing.co.uk
+    quality: 56
     images:
-      - url: "https://qtxasset.com/fiercehealthcare/1612903666/GettyImages-998453918.jpg/GettyImages-998453918.jpg?khEcoran3IgdXbq8BJU0P4MeH2sP.Nbd"
-        width: 6000
-        height: 4000
+      - url: "https://www.computing.co.uk/api/v1/wps/d4ad6a1/be805ced-c6e2-4162-b710-d5be7c65b514/3/Delta-Web-AIS-vendors-title-image-370x229.png"
+        width: 370
+        height: 229
         isCached: true
-  - title: "Nuance buys healthcare voice assistant startup Saykara"
-    excerpt: "Nuance Communications acquired Saykara, a startup building a medical AI voice assistant to help with charting and other administrative tasks. The deal is expected to build on Nuance's speech recognition tools for physicians."
-    publishedDateTime: 2021-02-10T02:44:00Z
-    webUrl: "https://medcitynews.com/2021/02/nuance-buys-healthcare-voice-assistant-startup-saykara/"
+  - title: "Use Artificial Intelligence to Improve Your Portraits in Luminar AI"
+    excerpt: "Artificial Intelligence is the next step in image editing, so find out how you'll edit your portraits of tomorrow with this tutorial on editing portrait images using Luminar AI. AI is set to ramp up image editing software like never before."
+    publishedDateTime: 2021-02-07T20:07:00Z
+    webUrl: "https://fstoppers.com/originals/use-artificial-intelligence-improve-your-portraits-luminar-ai-547916"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 41
+      name: Fstoppers
+      domain: fstoppers.com
+    quality: 52
     images:
-      - url: "https://medcitynews.com/uploads/2020/11/iNueng-sound-voice-illustratoni.jpg"
-        width: 782
-        height: 446
-        isCached: true
-  - title: "Nuance buys AI voice assistant startup Saykara"
-    excerpt: "Nuance Communications has acquired artificial-intelligence startup Saykara, Nuance said Monday. Seattle-based Saykara offers a mobile app that uses so-called \"ambient listening\" to automate clinical documentation for physicians—meaning the AI voice assistant \"listens\" in the background during a patient's visit with a physician and automatically documents notes in the electronic health record system."
-    publishedDateTime: 2021-02-09T19:22:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/nuance-buys-ai-voice-assistant-startup-saykara"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/doctor_parent_child_tablet_getty_resized_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Healthcare Ventures Has Launched a Venture Capital Fund, Dedicated to Digital Health"
-    excerpt: "As a specialist digital health fund, Sydney based Healthcare Ventures will invest in early stage and growth companies transforming healthcare via digital health technologies. The investment strategy focuses primarily on Australian companies going global,"
-    publishedDateTime: 2021-02-07T20:36:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-south-wales-australia-medical-technology-b0ae6f493b6b464e91e034b187c1b6ed"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2021/02/1fe7dce4d1a7450d3b2a18734ba1b3e9.jpg"
+        width: 1185
+        height: 670
         isCached: true
 
 secured: "CeYQEDGwoinRAk4NFMWWDw4IwhMNfoCFgGAkD340LfxCCbdsI73W2ztYSb3zvClRc1ACT7QjFt4O7YTwMgVNUuu1/A0qXJreSH+3se125jag2mR+7Jzba+ozJFss8xoK1xqUPp0QPHGyjzTsVQU9BfMvH9fsGws09fwWOhsdHsv7j7X9/QiBCiMDEZcbrl8PcUCNL9sH9jJ+Uz3InRpdG0W9fX7J+nd1SSdtB+/IHV6F3UMhap9wB3gOM5ePz57TeS8o+sLpWkJI/O8vwtSI5tyBDHA/HYdXBcCs6Fc92NpgHKUreO+0fxkhnn5t4Tzikp53kZ7cU0NIzS2vk9ii1c4NrHmLxGUpOB/iMOwK1UA=;Ist55iEovqtu0lxfakD9+g=="

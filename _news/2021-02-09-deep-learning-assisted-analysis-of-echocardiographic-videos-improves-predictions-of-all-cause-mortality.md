@@ -64,6 +64,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Ensemble machine learning prediction and variable importance analysis of 5-year mortality after cardiac valve and CABG operations"
+    excerpt: "Despite having a similar post-operative complication profile, cardiac valve operations are associated with a higher mortality rate compared to coronary artery bypass grafting (CABG) operations. For long-term mortality,"
+    publishedDateTime: 2021-02-10T14:41:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82403-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 10
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-82403-0/MediaObjects/41598_2021_82403_Fig3_HTML.png"
+        width: 685
+        height: 551
+        isCached: true
 
 secured: "Pa/9BgJLl8gDWyHeUtUdoHYA6+cjF74tmYgs4mgk/GhakLutGAaqnNT0ohQNL0pb1EnjQxCI5Xn4OXHMlLtcWD2lTsSr7Obp3N33kkNOeixVnG32YGapMxd6NAqO0bD8y+6De25CpqrhxYapCB5+7DCN7bOvFjmCuLlTEP4l28oDHhISNnXXA35ajoOVakT4S1vNCANU+OcJKwj7TN/pqprduUvHtxWrLwoIKDPTfBeqkwfEdnlX/83QVrWCPcw7L08CKcfp0WcudVTdStxAqtQ7e164U3X9wfsYI0Sswd/fUW8W/Vn7V/4AqYPKd5DVlglgXl0DG1IhRYJW5vbJhMYRfGgwMAZMPu1Oc+3YOcGUw8ruqMjtP2t5OR84NrQukEzTtYEvxOvd1VTnQXYaWuh35kLbtH1Ne5yvvDFSPR3FOjBD2EjkZbOC9q/Msp69xqMC677mZXVA+Wd3h64se7KDa8cii+tE35GMZJrbIh+0OSwH6l/w768g3U7v9megeBSFqfJMF4mK1YzDkCVIdg==;w9W1BXpzXXLV6tfHFocPCQ=="
 ---

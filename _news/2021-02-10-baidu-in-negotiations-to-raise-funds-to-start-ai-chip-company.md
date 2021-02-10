@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu in talks to raise money for a stand-alone A.I. chip company"
+    excerpt: "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers."
+    publishedDateTime: 2021-02-10T13:39:00Z
+    webUrl: "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425"
+        width: 3000
+        height: 1966
+        isCached: true
   - title: "Baidu in talks to raise funds for AI chip company - CNBC"
     excerpt: "China's search engine giant Baidu Inc BIDU.O is in talks to raise cash for an artificial intelligence semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter. Venture capital firms GGV and IDG Capital are in discussions with Baidu,"
     publishedDateTime: 2021-02-10T10:23:00Z
@@ -39,6 +55,6 @@ related:
       domain: nasdaq.com
     quality: 84
 
-secured: "taCOQFNPhHr0KqYk72RaLBdaWq/fGsLNQf7iPMvkytNEwrZtvnhyWZuYFjsZgwe1xzaDrpJ3t77elVETssIazItkSMq8ajIfymT1IXiEwpe9iRkZqgn0OLIEiQsLmzXsoeErAjd4Xgw556DKjd/zxchC7gZ+MlqtrszIdADn1nFL+hyYJTCna6ta1GyADkDXqqRuIiwo57AH6y5EPrX0k+bsayXYxbWe3tqj1Xnd/ldW6TpVd26Qd6q9vImUhFHqiuv/8iuYwNIOVoHa+2+wAdlokDWRa6ib9twtzSEK4229/7o5T3CfO8wL41uNYv9ZvUI/oi9wPLn3FyqKltDDzjlMlNAYKbT3YzScFk7KkQU=;8Sa52pdQMnAfNXSzfRyLqw=="
+secured: "OjC260jKTfduERrLE7KoihWsahHJcEo+qLjpXyyNhwff9qHzOD8r2o2IgPmlgvaH+F/R3IwqVIKTTXsYF8avXZkrnpNQFDu+/tLiYkyURgbx9LF3rp5kxz+8Ds2Gpc1RY1pEgyKMnIXqDEo6amXQcdRXrHAAZqmPgo7AC/4mmlOG/we6cwxBPxQex2I4HHzJ3r8iHl23SqrE+SmiN32gd5no8vlMOyIugbu90+xFO3/t/QPzacBagHRGJ0xRAcx4Aev7/0PjnQiCzu2Uuj1itY3uD7s7IZ6QDS2YV8Is3YY73J4S7AMBntWka6nh5FY2pVgQL0k4RZyhepfdWSQYrQ09WBjTzS9P1TmyPabqrcnInH//GTgjubZdYif+4pDYnClDcbXrXpI+Iojn2y+QXD7NNDFkeSpEcZQG1EcLVZqxJ1Kt/+zN9SIgaJxRMh9BxRlU0nzlp/gYyUK2aZ7blWJ4MGyQdDX9oqJJXYtbbnjlnNJ0u/Wu6TJk9HEso6Uf1LkxLfRcjkwTKlBtslJu0A==;x2d8/ZcCX3QjTBs3ok58NA=="
 ---
 

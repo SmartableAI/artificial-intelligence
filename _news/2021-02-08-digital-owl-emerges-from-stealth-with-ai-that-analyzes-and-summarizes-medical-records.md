@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/"
 type: article
 quality: 82
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "NeuReality emerges from stealth to accelerate AI workloads at scale"
+    excerpt: "NeuReality, a startup developing compute infrastructure for large-scale AI workloads, emerged from stealth with $8 million."
+    publishedDateTime: 2021-02-10T13:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/"
+    ampWebUrl: "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2015/10/shutterstock_102001114.jpg?w=1200&strip=all"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "NeuReality raises $8M for its novel AI inferencing platform"
+    excerpt: "NeuReality, an Israeli AI hardware startup that is working on a novel approach to improving AI inferencing platforms by doing away with the current CPU-centric model, is coming out of stealth today and announcing an $8 million seed round."
+    publishedDateTime: 2021-02-10T13:01:00Z
+    webUrl: "https://techcrunch.com/2021/02/10/neureality-raises-8m-for-its-novel-ai-inferencing-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/02/10/neureality-raises-8m-for-its-novel-ai-inferencing-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/neureality-raises-8m-for-its-novel-ai-inferencing-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/Neureality-founders.-From-left-to-right-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli.-Credit-Neureality.jpg?w=1024"
+        width: 1024
+        height: 670
+        isCached: true
   - title: "Rhino Health emerges from stealth to bring hospital data to federated learning"
     excerpt: "Rhino Health, a startup developing a federated learning platform for exchanging health information, emerged from stealth with $5 million."
     publishedDateTime: 2021-02-10T11:17:00Z
@@ -58,6 +90,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Israeli Startup NeuReality Raises $8M For AI-As-A-Service Infrastructure"
+    excerpt: "Israeli startup NeuReality, the developer of high-performance AI compute for cloud data centers and edge nodes, emerged from stealth mode on Wednesday, announcing a $8 million seed round. Investors include Cardumen Capital,"
+    publishedDateTime: 2021-02-10T13:36:00Z
+    webUrl: "https://nocamels.com/2021/02/neureality-8m-ai-as-a-service-infrastructure/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 16
 
 secured: "kg2yJAtZO1DwBiFzi1+qEbXWHqFvtrFf2TSIQ9k/0Pk9FvnYcrn+30EG3bDGb6Lid3VsmZuvKAhBFVmw8Pe2sf/G51MhaevRUmoAArXEm+Yor4i3zNnH2G5TvNURnAgUOgQIiAHLVwWIwLOfXYYJwtUXMbEYQmw10NmxK5dlo5V98rNzrbOxKFaoNhPQhm6strT3bMhWzHJEXBdiiosasaqZ0KyY45tln5FYAnarpD/3gOnIfXtSeqHpH4mS/opht/FJh11L8ovYTnj0dy7/2dHe/l5EzZiyIIhJUwuUhOekHWLcoPp4CRvE883cc6jOXzWjslC82Y4iIxjYdLFx/ETah/5eOL+3T2SBxub6iyAmSWB2F3VYFUm1JZeuEOPBdsEIwPdvgsOZa9UAa/1wx4MF/wjnQ9W12m4Q3xR0HDzWx7jcK/mdEf6iUCK83nfsnjGYQPqDjR1SYmfzysg8xkpbWBThYI5oAM9RYlRiwQ0gtqndqLC/HkJNuTn9EIXGQA/H5KX2gRCNfrTvJhUeVw==;xvXGKmU9CRLf7pnJw3GYTg=="
 ---

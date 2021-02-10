@@ -50,6 +50,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "Ensemble machine learning prediction and variable importance analysis of 5-year mortality after cardiac valve and CABG operations"
+    excerpt: "Despite having a similar post-operative complication profile, cardiac valve operations are associated with a higher mortality rate compared to coronary artery bypass grafting (CABG) operations. For long-term mortality,"
+    publishedDateTime: 2021-02-10T14:41:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82403-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 10
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-82403-0/MediaObjects/41598_2021_82403_Fig3_HTML.png"
+        width: 685
+        height: 551
+        isCached: true
   - title: "Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality"
     excerpt: "A deep learning model trained on raw pixel data in hundreds of thousands of echocardiographic videos for the prediction of one-year all-cause mortality outperforms clinical scores and improves predictions by cardiologists."
     publishedDateTime: 2021-02-08T17:38:00Z

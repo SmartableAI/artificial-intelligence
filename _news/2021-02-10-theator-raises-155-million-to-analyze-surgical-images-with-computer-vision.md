@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "BigHat raises $19 million for an AI-powered antibody design platform"
+    excerpt: "BigHat, a startup developing an AI-powered platform for antibody design, has raised $19 million in venture capital."
+    publishedDateTime: 2021-02-10T13:37:00Z
+    webUrl: "https://venturebeat.com/2021/02/10/bighat-raises-19-million-for-an-ai-powered-antibody-design-platform/"
+    ampWebUrl: "https://venturebeat.com/2021/02/10/bighat-raises-19-million-for-an-ai-powered-antibody-design-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/bighat-raises-19-million-for-an-ai-powered-antibody-design-platform/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Qzu/r6YZmJWGDLlf+uJSfBnnu4xvMaXvPR217OsQQVdujf8eMWdGhALDhJwypOczycTd/00MTGw+geJ7HlxqJDdjf4PyKre2uatLGd0vNGeoS3WA7LBbH/7Kf4j/9Bzt4T8PiO5dSsn2BQz5NNYvC9atP5q6IueozQZikyIXVyCvn7qUFfUDNu9Cj61ugcHGMulpYz2H2v7KCBZORFqJa2i+DajWoOKDqJ+4oKQWEPaIMLbeWIMMyM1jG/Au1KJHxYj76jeLePiH6ztKXlMgYAaXSNnabDDcxBuyOJizjUhSXcnxWGFLk5fK4Kk/2KvzUHmi3eA4BRKcgUt636mzwFpvT2on/O+oX7jwiv0fhGI33ve+WmT4HPKNxJ5NlnGTgAVM+tFvp9y4300G/Zs6dKQY5JR9hPY3y/bYQaUthl2MiDdu2bcr0PIE6DiuZicHryhLIZ0NnrpYWYsXXJ4wYFPZc5ZZndrU+nSkfCWZfY57XuEvz8rEVd5f/KqYrY08iP1bdS9BguUHRK7M75/JEw==;D1pRnLJnk2RUi9D6jG8IYg=="
 ---

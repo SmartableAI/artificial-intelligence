@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
 type: article
 quality: 91
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 41
-  - title: "Law enforcement turns to facial recognition to find Capitol rioters"
-    excerpt: "Researchers such as the cybersecurity expert John Scott-Railton said they deployed facial recognition software to detect trespassers, including a retired Air Force lieutenant alleged to have been spotted on the Senate floor during the riot."
-    publishedDateTime: 2021-02-05T21:11:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21209114/law-enforcement-turns-to-facial-recognition-to-find-capitol-rioters"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/BIZ_CPT_CAPITOL_RIOTS_FACIALRECOGNITION_ABA.601db418ce1b8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "How Your Business Can Benefit from Facial Recognition Technology"
     excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
     publishedDateTime: 2021-02-08T14:25:00Z

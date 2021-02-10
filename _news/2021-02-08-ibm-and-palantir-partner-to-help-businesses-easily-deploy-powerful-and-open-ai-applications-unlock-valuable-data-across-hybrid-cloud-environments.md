@@ -104,15 +104,15 @@ related:
         height: 600
         isCached: true
   - title: "IBM, Palantir Technologies Announce New Partnership - Quick Facts"
-    excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is ..."
-    publishedDateTime: 2021-02-08T12:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-palantir-technologies-announce-new-partnership-quick-facts-1030054674"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/IBM-Palantir-Technologies-Announce-New-Partnership-Quick-Facts-1030054674"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-Palantir-Technologies-Announce-New-Partnership-Quick-Facts-1030054674"
+    excerpt: "IBM (IBM) and Palantir Technologies (PLTR) announced Monday a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next generation operations platform for building applications."
+    publishedDateTime: 2021-02-08T12:16:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
   - title: "Palantir (PLTR) Stock Surges On IBM Deal; Is It A Buy Now?"
     excerpt: "Should Investors Consider Palantir Stock In Their Portfolio? Palantir Technologies (NYSE: PLTR) is a tech company that has mostly been in the spotlight since it went public last S"
@@ -224,6 +224,6 @@ related:
         height: 284
         isCached: true
 
-secured: "k+5C2xI5q+HZviT1xXi6JRBBDDhJTblw0b03TVcsvmcsNOddFYsKYgHOAgbOJAe9cRUEYngqk6FLkunZnGpybjoTTffGnBBD32fZIJcvWWPJBTG8nQfmu0tPAweHszAHJPobenR6QPfKXu975flRfjc1YzIGscFcVA/FQXISK4az8ILIWoCYoXLfUN6mKda8lIHKFlMsokJ18MZRDXzYmrg05V1xj3PLM9dlTTTeix3XkQ/YhOh9s3VN0r50uehqswI+hhvHe6ASe1GRz6rKkPi8qB48lDAAxFIMJWVL6MmkR563V+o8jmuLEgNhk13LjMnjrl84mh5DqPCfRDTx7XBQ8C00R55sOQ/yI3kyIS4=;IbdXc7YAyCjuxsjTxRUCDw=="
+secured: "VIlK+AGCeIaic2P1jbQK6QhNOeWdOORBhN9/nTiulmyZpcefGwFzabnKLNalj7BhFSIbPDylvp1r4h6jjkSbDPzdP2BIkFM4tXM9+Jssad6mzN5CPo/ihOG1YDrBV+UrXkRDvZx3ovdoCLxqkPd6MCsNdE38KUyFPY/6LgY/lIfirzqkyklxZtXfTBJFprAuHdNva5+NckwhRd5/77ntcz3wAQLGTU0ZD/uL1UtB7+ncEuyyTVEQZ1Smxo9tbsTZsTKkRLEWqICTbOup+X0RIsWbJdmX4k0RdW3poWKxRcobuf+tmDOhk11Yj0/4a84Z28Zzp84Fu3HjDVSj0+v38Dt2AjdwrDci5c9IOZ6oZ2A=;Foca69qwKQuuuQwvczgJxA=="
 ---
 

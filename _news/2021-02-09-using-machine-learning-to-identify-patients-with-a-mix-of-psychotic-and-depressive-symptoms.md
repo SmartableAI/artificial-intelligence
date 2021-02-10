@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210208/Using-machine-learnin
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/Using-machine-learning-to-identify-patients-with-a-mix-of-psychotic-and-depressive-symptoms.aspx"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New machine learning system developed to identify deteriorating patients in hospital"
+    excerpt: "Researchers in Oxford have developed a machine learning algorithm that could significantly improve clinicians' ability to identify hospitalized patients whose condition is deteriorating to the extent that they need intensive care."
+    publishedDateTime: 2021-02-10T14:35:00Z
+    webUrl: "https://medicalxpress.com/news/2021-02-machine-deteriorating-patients-hospital.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-02-machine-deteriorating-patients-hospital.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-deteriorating-patients-hospital.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 52
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/newmachinele.jpg"
+        width: 1200
+        height: 575
+        isCached: true
   - title: "How AI Is Learning to Identify Toxic Online Content"
     excerpt: "One solution might be AI: developing algorithms to detect and alert us to toxic and inflammatory comments and flag them for removal. But such systems face big challenges. The prevalence of hateful or offensive language online has been growing rapidly in recent years,"
     publishedDateTime: 2021-02-09T06:04:00Z

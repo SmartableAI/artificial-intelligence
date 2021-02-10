@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/2021/02/10/mizuho-predicts-how-much-self-driv
 webUrl: "https://www.cnbc.com/2021/02/10/mizuho-predicts-how-much-self-driving-cars-could-boost-baidu-stock.html"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: CNBC
@@ -27,6 +27,17 @@ images:
     width: 3100
     height: 1884
     isCached: true
+
+related:
+  - title: "Baidu begins self-driving smart mobility service in China"
+    excerpt: "Baidu Inc. has begun a multi-modal self-driving mobility-as-a-service (MaaS) that will use a fleet of Apollo robotaxis and robobuses for a smart on-demand transportation service in Guangzhou, China. During the Chinese New Year holiday period,"
+    publishedDateTime: 2021-02-10T13:08:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16337/baidu-begins-self-driving-smart-mobility-service-in-china"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "te/P8yZxMwtffthaz+BPAvP9dErzQO5AUcNFE347nZZ+S2WzuMuPd+csoQOeE5soRYBbCBSvBGd6YBfLeEjHUug/zBDkS35UmlxzV9LFoDPw1GHrZUpwbZzElqBzRT/Uwew9/pr7funmbYa1mF4l3DNW7Yn6te1fCpOVagh7+wb2MbGaaNZufBpHI2kmrkDGXBMmFD1+Di3AjyOzNQuKGn7JAOSpSvUdYPDkRvhPZcpzC96ag+TBEYfqUDzCFQb/FG5nDhJXHPWc+qMM0NikUzrB5vcwprjhnl5QVTaT9JJYpl0t61vwyLLASZElDuCn9I8V/Uo0xxzK8LX7Bz4lLKVm1N9WmuQI5ZRNownyP/s=;hk/gYg0lsd39HcJq/WGvcA=="
 ---

@@ -68,20 +68,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 41
-  - title: "Law enforcement turns to facial recognition to find Capitol rioters"
-    excerpt: "Researchers such as the cybersecurity expert John Scott-Railton said they deployed facial recognition software to detect trespassers, including a retired Air Force lieutenant alleged to have been spotted on the Senate floor during the riot."
-    publishedDateTime: 2021-02-05T21:11:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21209114/law-enforcement-turns-to-facial-recognition-to-find-capitol-rioters"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/BIZ_CPT_CAPITOL_RIOTS_FACIALRECOGNITION_ABA.601db418ce1b8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Council of Europe calls for strict regulations on facial recognition"
     excerpt: "At the end of January, the Council of Europe announced its recommendations on facial recognition, a central issue. Faced with the increasing use of facial recognition technologies, the European body recommended strict rules to avoid significant risks to privacy and data protection."
     publishedDateTime: 2021-02-09T18:15:00Z

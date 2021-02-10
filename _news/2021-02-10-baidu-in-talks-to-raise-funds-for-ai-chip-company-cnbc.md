@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Baidu in talks to raise money for a stand-alone A.I. chip company"
+    excerpt: "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers."
+    publishedDateTime: 2021-02-10T13:39:00Z
+    webUrl: "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425"
+        width: 3000
+        height: 1966
+        isCached: true
   - title: "Baidu in negotiations to raise funds to start AI chip company"
     excerpt: "Chinese tech giant Baidu is in talks to raise money to start its own standalone artificial intelligence semiconductor chip company."
     publishedDateTime: 2021-02-10T12:05:00Z

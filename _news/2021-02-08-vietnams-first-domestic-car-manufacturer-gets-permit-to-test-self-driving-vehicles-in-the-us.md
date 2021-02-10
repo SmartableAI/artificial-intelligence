@@ -38,22 +38,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 53
-  - title: "Apple doubled California self-driving test miles in 2020, disengagement rate improves"
-    excerpt: "Each year, the California Department of Motor Vehicles publishes detailed information from the companies testing self-driving cars in the state. This year’s data has just been made public, and it reveals that Apple completed 18,"
-    publishedDateTime: 2021-02-09T20:47:00Z
-    webUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/"
-    ampWebUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 37
-    images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "a0k2Z5lDLCx+/juJTo0PyZkyrxYKUTaLEDLSk0J6qGGCR8rq46P10sh29yVmwJ1x8A52eFqLkv8chlLM94K6VR9FZ+W+/7p+w8E70sFj11vL0EZm48zDpwAQ7R+rJ1Yj6lRR06S/VgK+21B4Wkpjxf17+zQLylCHGBJjQlsrpfig6QVq4LF12vXZTNtI1Q05prxmAN+sjnLEypmvhiCPtTV34bjPptQ/dtBmr+/tcc4rltfarw9H+jc7zPhAZ+CVE5No6Q+nTHYhbqmTGCp+btUeFk5zNeMjA6zlhBqozDtjoDsbDEavFZSPbsWbXHs5dvkFUigUxFiOEFrlaHbmXavErLv/klj4WlPmUWUmwusF9iy2rDkzmS/hguHZINtrlM5iUeP4PBMykAHwt4zX0iHQYJf5/bJUMBbD8FFExULM7KoklQubD9Qa3qWNtC455t6a03RYUzKWCBs30B6qAbI6X3BuZm+nx8V+DTrsNqQF5qfLosOxOayqcAoDjBqwKLh1zMnFCUuMj5kGlfZSdA==;pbufAwLTTVgSbbNnaEk+rA=="
 ---

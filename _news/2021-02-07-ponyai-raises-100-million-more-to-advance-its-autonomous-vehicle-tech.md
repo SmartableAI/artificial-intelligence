@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-a
 ampWebUrl: "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/"
 type: article
-quality: 89
-heat: 159
+quality: 189
+heat: 269
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "CYE raises $120 million for security that uses hackers and AI"
+    excerpt: "CYE has raised $120 million for a service that uses AI to probe defenses and human hackers to conduct attacks."
+    publishedDateTime: 2021-02-10T14:12:00Z
+    webUrl: "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/OKN_1440_websize-e1612959250260.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Monte Carlo raises $25 million for AI that monitors data reliability"
     excerpt: "Data reliability startup Monte Carlo has raised $25 million in venture capital, bringing its total raised to over $40 million."
     publishedDateTime: 2021-02-08T13:02:00Z
@@ -137,6 +153,6 @@ related:
         height: 650
         isCached: true
 
-secured: "3Bjwmwdh0yaNwfGyTuZepntH0UJIXXuGLL4Iq7rpSAd+5sIFbNI2fTHJCxZbsQa5fmlY0VSB/zQTDjoE2YrxX3/BCQgH/FTcu1Pg7weKf7d2373jY/AvEF/WoYOKQV1UUyqxWmx86Ip9mTS2EIyxrt6/vHkOOkV7x39mSmB40PtMtV8ticH2brjRPeBcWEOKZ5XUdKB14+RfzBwE9giBr9iFMJ968qAayRbo61Id10rqapVZKxJojp41kONxuODO42Qqb9UrWAHGqOj4x8uICV4uO+IDfDsZUETYsdMZeGd4lsHN9TVm9g2z0HJU+iFgFEevMXILkw4H9M1wZL4bTG7pogA4YG3Nx9W4sV7LCkf3n7WW3ZLUqU+VJUWFI9/no57BTzECw2loAznVbF9EhaQWkjmrYKWQWq7eBGs+umFt4BT62Npy/T8fx9NVXYcG414MhGqS5WfQSGbhriH3pxqUSJmiR9KkgRIgD9jxVoMMPhYLlqNQlnuUjEK3FKRpQY3WpKxw4SfT4qx1XYj1FA==;VA5MosSan9FGO++EJH/GPA=="
+secured: "8Yx9ZbOddrW+CgsHiacwmpwnnxRHoYkkGc6yGV2crMFLXM8L976/wfjbQ5hiqQb/cPhG+u/nAz9hJU3GKDA2rBuXXrdRig8f/sA3NhqYmnhOQOKGAJ2v6osYXIxABLHSG42pHNVKFqSVhYQEII5yVOR87bqAVguLq+CMR0px8eNHgqRXqdukO7QGqP2vd0VlpNaaff7jRbyd7uXV0Qbqku0qY/vFw0ntkEvNYPWmThpobgZb84FZBbJfrlGx8JzcXuka1Ec5CYsp1JlIMdmkE///OHSHTWFWQJv9Wsq8DSA15KQ0V38nfSB8taBxxac3Y3C0Wf/9fCRtuaCsqoXiBykGqSqMtQzkRn94QhuuzUV6dcrkZIEbBuUhenDUv+UKH3cFmTLAsCo8x7ZhcqsCcZPlpzmHDqgXl511zqtvc+F0+/il82vz+AjulPX0D/bAGS0jPDMWW6nQ70mysoxRDRkV6CtEO0W7tGZzcDuPBYz3uhOoxsEBquuzRJNw/9yxcvhjVnpC62vMcktPT/FRk9ULUTpyEBtGyOqp1HRwaRA=;E/3B2rU27MW1KfnUXZIZ7w=="
 ---
 

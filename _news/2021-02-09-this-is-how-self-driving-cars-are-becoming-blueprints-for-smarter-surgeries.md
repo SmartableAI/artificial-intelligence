@@ -41,38 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving car for testing Technology Parkway"
-    excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
-    publishedDateTime: 2021-02-08T20:18:00Z
-    webUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 44
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Apple Self-Driving Test Vehicles Doubled Mileage in 2020"
-    excerpt: "The California DMV today released new disengagement and mileage reports for self-driving vehicles that are being tested in the state, giving us"
-    publishedDateTime: 2021-02-09T20:24:00Z
-    webUrl: "https://www.macrumors.com/2021/02/09/apple-self-driving-cars-doubled-mileage-2020/"
-    ampWebUrl: "https://www.macrumors.com/2021/02/09/apple-self-driving-cars-doubled-mileage-2020/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/09/apple-self-driving-cars-doubled-mileage-2020/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 44
-    images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
     excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
     publishedDateTime: 2021-02-06T13:30:00Z

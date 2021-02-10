@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-21-bda-advises-inawisdom-on-its-sale-to-cognizant.md",
+      "title": "BDA Advises Inawisdom on Its Sale to Cognizant",
+      "excerpt": "BDA Partners is pleased to announce that its client, Inawisdom Ltd., has been acquired by Cognizant. BDA was exclusive",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/r18875064/bda-advises-inawisdom-on-its-sale-to-cognizant",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/r18875064/bda-advises-inawisdom-on-its-sale-to-cognizant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18875064",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18875064",
+      "publishedDateTime": "2020-12-21T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom.md",
       "title": "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom",
       "excerpt": "San Francisco, Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum.",
@@ -1370,49 +1404,6 @@
           "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Rik-Tamm-Daniels-and-Rick-Turnock-AWS-re-Invent-2020.jpg",
           "width": 1881,
           "height": 1058,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-capital-one-closes-all-data-centers-relies-on-aws-on-demand-infrastructure.md",
-      "title": "Capital One closes all data centers, relies on AWS on-demand infrastructure",
-      "excerpt": "The highly regulated financial industry has been notoriously cautious about moving to the cloud. To benefit from the flexibility and economy of cloud computing but also to be able to address ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/01/capital-one-closes-all-data-centers-to-rely-on-aws-on-demand-infrastructure-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/01/capital-one-closes-all-data-centers-to-rely-on-aws-on-demand-infrastructure-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Melanie-Frank-AWS-re-Invent-2020.jpg",
-          "width": 666,
-          "height": 375,
           "title": null,
           "attribution": null,
           "isCached": true

@@ -32,18 +32,18 @@ images:
 
 related:
   - title: "Global Study: People Trust Robots More Than Themselves with Money"
-    excerpt: "PRNewswire/ -- 2020 has changed our relationship with money and people now trust robots more than themselves to manage their finances, according to a new study by Oracle and personal finance expert Farnoosh Torabi."
-    publishedDateTime: 2021-02-10T08:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-planning-covid-19-pandemic-lung-disease-066fde985015cdf5672df3e31510cdf5"
+    excerpt: "Research shows growing confidence among consumers and business leaders that robots handle finance tasks better than people."
+    publishedDateTime: 2021-02-10T09:52:00Z
+    webUrl: "https://www.oracle.com/news/announcement/money-and-machines-021021.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Oracle
+      domain: oracle.com
     quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.oracle.com/oce/press/assets/CONT0B91C18DB66C44B7A07A5CDD0EACF047/native/og-social-money-machines.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NdYuT+jjbGTgYcZ931jXQsBK+dtzS6vMGgEtMvEmiYAb0kEX1wM0OOXUnk3JqZzNjMWTxc2omr9dSOqngzyAuXbn7qDmnLlhVNk/D62HIgwUBBCJbxOX2rQG8BIvWKi8nSvm8E/EEn2wrYtH3LY4I99KiG3wzCGE3JFxh38ara1Qvmg7Xm4Hw+FDR7F8Wv8urNsD0Vb3J8mskY8Oy1ut8ZeehLduEncTD78YJB8TJWQlqKpbjVH3tIJrS6Ox0OZq+9yMu9cZD/AZY8OwSPGUPay38UJbEK331ZYcSat4zqoRSWQaS0HQ0GTmi3Y1+nTL6e+ECQLd1mg+MKOz+rWV7NFV4Izuk9RGU2PdWPidtomClTMaalfithQ6gGfcsET7yB2zz3ps9ZEuCeU0DZFGeMa18fuRY5iIW6WbD0mhUare2roKdB7cHbMTEX90ChTQJOCXFIv9vfuwxD+2ptDaa1MG5eyyZGsE2NJLqJ9uLgToT+5qtRaEdlcNDNgfBnT2hT+RleeWWQFZEBPw7iIFCg==;u4wHNjcTgCNj0TvjKkRGoQ=="

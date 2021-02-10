@@ -142,34 +142,34 @@
     {
       "path": "_news/2021-01-20-image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition.md",
       "title": "Image Recognition Markets, 2025 - Digital Image Processing, Facial Recognition, Pattern Recognition",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, Jan. 20, 2021 /PRNewswire/ -- The \"Image Recognition Market by Technology (Digital Image Processing, Facial ...",
+      "excerpt": "DUBLIN, Jan. 20, 2021 /PRNewswire/ -- The \"Image Recognition Market by Technology (Digital Image Processing, Facial Recognition, Pattern Recognition), Component (Hardware, Software, and Services ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
+      "webUrl": "https://www.prnewswire.com/news-releases/image-recognition-markets-2025---digital-image-processing-facial-recognition-pattern-recognition-301211658.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/image-recognition-markets-2025---digital-image-processing-facial-recognition-pattern-recognition-301211658.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "publishedDateTime": "2021-01-20T06:51:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T07:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

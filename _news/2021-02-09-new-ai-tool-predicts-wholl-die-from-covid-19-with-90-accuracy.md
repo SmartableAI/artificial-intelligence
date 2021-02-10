@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
 type: article
 quality: 87
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "One Minn. health care provider using AI to prioritize patients for COVID-19 shots"
+    excerpt: "How should health care providers decide who gets to the front of the line for a coronavirus vaccine? The state Health Department has mostly left that decision up to individual providers, most of whom are prioritizing their patients based on age."
+    publishedDateTime: 2021-02-10T15:00:00Z
+    webUrl: "https://www.mprnews.org/story/2021/02/10/one-minn-health-care-provider-using-ai-to-pair-patients-with-covid19-shots"
+    ampWebUrl: "https://www.mprnews.org/amp/story/2021/02/10/one-minn-health-care-provider-using-ai-to-pair-patients-with-covid19-shots"
+    cdnAmpWebUrl: "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/story/2021/02/10/one-minn-health-care-provider-using-ai-to-pair-patients-with-covid19-shots"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 54
+    images:
+      - url: "https://img.apmcdn.org/1dbea43b992b1e684a8d30df0215ff5ce89c7293/widescreen/3a4d85-20210120-covid-vaccine-community-health-clinic-03-2000.jpg"
+        width: 2000
+        height: 1123
+        isCached: true
   - title: "AI Can Predict Whether Someone Will Die From COVID-19 With 90 Percent Accuracy"
     excerpt: "Since the start of the pandemic, various research groups have been working on prediction models using patient history and public health data to assess how"
     publishedDateTime: 2021-02-08T13:01:00Z
@@ -61,6 +77,22 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20210206/ARTICLE/210209333/AR/0/AR-210209333.jpg&NCS_modified=20210206200205&MaxH=225&imageVersion=16by9"
         width: 400
         height: 225
+        isCached: true
+  - title: "The AI-driven initiative that's hastening the discovery of drugs to treat COVID-19"
+    excerpt: "A novel pipeline of AI and simulation tools may make the process of screening drug candidates for COVID-19 50,000 times faster."
+    publishedDateTime: 2021-02-10T13:44:00Z
+    webUrl: "https://phys.org/news/2021-02-ai-driven-hastening-discovery-drugs-covid-.html"
+    ampWebUrl: "https://phys.org/news/2021-02-ai-driven-hastening-discovery-drugs-covid-.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-ai-driven-hastening-discovery-drugs-covid-.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/theaidriveni.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Artificial Intelligence Tool Combats New COVID-19 Mutations"
     excerpt: "A new artificial intelligence framework could speed the development of vaccines to treat new COVID-19 mutations."

@@ -7,7 +7,7 @@ originalUrl: "https://www.computing.co.uk/news/4026871/delta-web-security-war-di
 webUrl: "https://www.computing.co.uk/news/4026871/delta-web-security-war-disruptive-ai"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,52 @@ images:
     width: 370
     height: 229
     isCached: true
+
+related:
+  - title: "How AI Can Improve Your Website Security"
+    excerpt: "Across all industries, artificial intelligence can help you stop hackers in their tracks, release bug-free updates and provide assistance if you’re experiencing a security breach."
+    publishedDateTime: 2021-02-10T13:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc8f61243ce8b03f3e11ea4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI Can Improve Healthcare"
+    excerpt: "One area where AI has found some traction is in the healthcare industry, where is seems to be helping improve care."
+    publishedDateTime: 2021-02-08T00:23:00Z
+    webUrl: "https://www.sqlservercentral.com/editorials/ai-can-improve-healthcare"
+    type: article
+    provider:
+      name: SQL Server Central
+      domain: sqlservercentral.com
+    quality: 54
+    images:
+      - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
+        width: 320
+        height: 320
+        isCached: true
+  - title: "Use Artificial Intelligence to Improve Your Portraits in Luminar AI"
+    excerpt: "Artificial Intelligence is the next step in image editing, so find out how you'll edit your portraits of tomorrow with this tutorial on editing portrait images using Luminar AI. AI is set to ramp up image editing software like never before."
+    publishedDateTime: 2021-02-07T20:07:00Z
+    webUrl: "https://fstoppers.com/originals/use-artificial-intelligence-improve-your-portraits-luminar-ai-547916"
+    type: article
+    provider:
+      name: Fstoppers
+      domain: fstoppers.com
+    quality: 52
+    images:
+      - url: "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2021/02/1fe7dce4d1a7450d3b2a18734ba1b3e9.jpg"
+        width: 1185
+        height: 670
+        isCached: true
 
 secured: "t+cBw15Wt0S6gg9d56DsiEyOnSifs+fIYOxONMFPJzQX6P9WziFtDNxGqR025kZM1QeIi+YAsXwz4MVHQ9EkmVK9y+j50d0OJIqMM02mXrtAzJ9AG/XuNt+SYvsRsiErybB0AoYDEIsTtBaPkLjPZhaSq+GbiSAOnn4uDZTFru4Pu51c4iBnwfJNuBwQJ7MjfLMUDATkR24aineHd2POGMg1cX+R56Dwwz5w39V2dQXth/8VPq97Gz30o96rUOWYUsrrq/U1vzmjMuzZZGYv3R6HpHCU2+/Z9vSWsfNgJxmB9mGsa0uTcY5qWdIiz9ayiLQNsnvlVaR+xhqQ/z+8INDju9EZfdENeFCbSHd8X+1Kx+D99LGqWXFS5iZb26ofLdeBwnVyNeUtOS62Hf91QnpzWtb3/Ww61xLNIwe5e/i2nn/2b8t7ku4UUsMJZnC2IoNMSWcrimm0xu2btkU+XqzlzSZqEOEzHd7on0ul9vBDrI8eC7QYr4gmKpVXHQGyr3KaRwPVg4uiExbWWU2l0g==;grniiMfleDfrOrwa2iSH2g=="
 ---

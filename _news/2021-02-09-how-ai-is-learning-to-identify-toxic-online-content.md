@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New machine learning system developed to identify deteriorating patients in hospital"
+    excerpt: "Researchers in Oxford have developed a machine learning algorithm that could significantly improve clinicians' ability to identify hospitalized patients whose condition is deteriorating to the extent that they need intensive care."
+    publishedDateTime: 2021-02-10T14:35:00Z
+    webUrl: "https://medicalxpress.com/news/2021-02-machine-deteriorating-patients-hospital.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-02-machine-deteriorating-patients-hospital.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-deteriorating-patients-hospital.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 52
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/newmachinele.jpg"
+        width: 1200
+        height: 575
+        isCached: true
   - title: "Using machine learning to identify patients with a mix of psychotic and depressive symptoms"
     excerpt: "A way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms has been developed by researchers at the University of Birmingham."
     publishedDateTime: 2021-02-08T17:50:00Z

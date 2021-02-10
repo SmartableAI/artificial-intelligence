@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-10-this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread.md",
-      "title": "This cutting-edge cloud-computing service is helping researchers track COVID's spread",
+      "path": "_news/2021-02-10-this-cutting-edge-cloud-computing-service-is-helping-doctors-track-covids-spread.md",
+      "title": "This cutting-edge cloud-computing service is helping doctors track COVID's spread",
       "excerpt": "As computational science and data science are becoming closer than ever, a deal with Microsoft could see Verily and Broad Institute's open-source cloud platform hit new users.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread/",
-      "originalUrl": "https://www.zdnet.com/article/this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread/",
+      "webUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "originalUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread/",
-      "publishedDateTime": "2021-02-10T03:40:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "publishedDateTime": "2021-02-10T03:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -114,7 +114,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 221,
       "tags": null,
       "images": [
         {

@@ -99,6 +99,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
+  - title: "DB Schenker advances IT infrastructure with Microsoft Azure"
+    excerpt: "In a collaborative partnership with Microsoft, DB Schenker has established plans that will advance its IT infrastructure transformation with the help of Microsoft Azure. As part of the collaboration,"
+    publishedDateTime: 2021-02-10T13:35:00Z
+    webUrl: "https://www.supplychaindigital.com/supply-chain-2/db-schenker-advances-it-infrastructure-microsoft-azure"
+    type: article
+    provider:
+      name: Supply Chain Digital
+      domain: supplychaindigital.com
+    quality: 54
+    images:
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62akkzgv82a100220212615.jpeg"
+        width: 1000
+        height: 387
+        isCached: true
   - title: "Activ Surgical Joins Microsoft for Startups Program"
     excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"
     publishedDateTime: 2021-02-06T07:56:00Z

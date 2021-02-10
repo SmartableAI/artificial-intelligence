@@ -27,32 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Vietnam's Vinfast Gets Permit to Test Self-Driving Vehicles in California"
-    excerpt: "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California. Vinfast, a unit of Vietnam's largest conglomerate Vingroup JSC,"
-    publishedDateTime: 2021-02-08T03:15:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp"
+  - title: "Self-driving car firms reveal 2020 testing data: Cruise and Waymo improve, Apple stalls"
+    excerpt: "The California Department of Motor Vehicles reveals how companies operating autonomous cars in the state are progressing."
+    publishedDateTime: 2021-02-10T14:55:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 53
-  - title: "Vietnam’s first domestic car manufacturer gets permit to test self-driving vehicles in the U.S"
-    excerpt: "Vietnam’s Vinfast gets permit to test self-driving vehicles in California, according to Reuters. Another Vietnam’s driver-less car got the green light but no further updates since 2018. Visit Vietnam Insider’s homepage for more stories."
-    publishedDateTime: 2021-02-08T03:35:00Z
-    webUrl: "https://vietreader.com/business/33068-vietnams-first-domestic-car-manufacturer-gets-permit-to-test-self-driving-vehicles-in-the-us.html"
-    ampWebUrl: "https://m.vietreader.com/business/33068-vietnams-first-domestic-car-manufacturer-gets-permit-to-test-self-driving-vehicles-in-the-us/amp.html"
-    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/33068-vietnams-first-domestic-car-manufacturer-gets-permit-to-test-self-driving-vehicles-in-the-us/amp.html"
-    type: article
-    provider:
-      name: vietreader.com
-      domain: vietreader.com
-    quality: 32
+      name: CNET
+      domain: cnet.com
+    quality: 81
     images:
-      - url: "https://cdn.vietreader.com/uploads/posts/2021-02/business_vietnams-first-domestic-car-manufacturer-gets-permit-to-test-self-driving-vehicles-in-the-us-1.jpg"
-        width: 900
-        height: 533
+      - url: "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "10 rising stars at self-driving companies like Waymo, Aurora, and Cruise share their best career advice"
+    excerpt: "Insider asked bright young stars from Waymo, Aurora, and Nuro for their advice on starting your career in the fast lane."
+    publishedDateTime: 2021-02-06T07:04:00Z
+    webUrl: "https://www.businessinsider.com/career-tips-advice-rising-stars-waymo-aurora-nuro-yandex-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Self-driving car for testing Technology Parkway"
+    excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
+    publishedDateTime: 2021-02-08T20:18:00Z
+    webUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 44
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Apple Self-Driving Test Vehicles Doubled Mileage in 2020"
+    excerpt: "The California DMV today released new disengagement and mileage reports for self-driving vehicles that are being tested in the state, giving us"
+    publishedDateTime: 2021-02-09T20:24:00Z
+    webUrl: "https://www.macrumors.com/2021/02/09/apple-self-driving-cars-doubled-mileage-2020/"
+    ampWebUrl: "https://www.macrumors.com/2021/02/09/apple-self-driving-cars-doubled-mileage-2020/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/09/apple-self-driving-cars-doubled-mileage-2020/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 44
+    images:
+      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
+        width: 2500
+        height: 1406
         isCached: true
 
 secured: "4gTQ3yUsTv9fmjypaPZOFPHFlBM+CEOF0tceqa5oO38Ny697mKTWJXE+5MWr1bzd4jvEO47+5ve3H6lAaOmu7Q9+F71P6+zNxlSFmNFOlhBrEJUVHZ6AFHAu8PuxQN0c/ssyOBe/Fysw/O/dbm9sX1GlZnLReYcls4yGxHVSmDkFD1sarGuyM+2QJGzArtZIs9OOmzqz5PIQki0uhmhGsfw4UB2QoXSuJDkRz55mUjLFInYytB23P6rfuNsBKLB6FpVcyHK3lUZA+itOkbTWYSB5wdroi53RwV0L8H6AwjJTurKC8Lud+uQQuXUYxEM6STXWRtI1qK0Qsqt3lAETTz1YQgumPxxoz2DTNkrznlA=;ZRykOrDoRh7ShCwJkNeNrw=="

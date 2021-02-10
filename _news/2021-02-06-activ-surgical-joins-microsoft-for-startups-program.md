@@ -98,6 +98,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
+  - title: "DB Schenker advances IT infrastructure with Microsoft Azure"
+    excerpt: "In a collaborative partnership with Microsoft, DB Schenker has established plans that will advance its IT infrastructure transformation with the help of Microsoft Azure. As part of the collaboration,"
+    publishedDateTime: 2021-02-10T13:35:00Z
+    webUrl: "https://www.supplychaindigital.com/supply-chain-2/db-schenker-advances-it-infrastructure-microsoft-azure"
+    type: article
+    provider:
+      name: Supply Chain Digital
+      domain: supplychaindigital.com
+    quality: 54
+    images:
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62akkzgv82a100220212615.jpeg"
+        width: 1000
+        height: 387
+        isCached: true
   - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
     excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-09T12:27:00Z

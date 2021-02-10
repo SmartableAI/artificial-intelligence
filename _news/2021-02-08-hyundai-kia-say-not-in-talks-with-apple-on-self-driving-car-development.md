@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Car Talks Aren’t Happening, Say Automakers Hyundai, Kia"
+    excerpt: "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in talks with Apple Inc. to develop an autonomous vehicle, responding to intense speculation about the potential new product by the maker of the iPhone."
+    publishedDateTime: 2021-02-08T09:05:00Z
+    webUrl: "https://www.bloombergquint.com/technology/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 167
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-02%2F9e500661-4bf4-4ec3-bdf1-bb234b51a574%2F367503011.jpg?rect=86%2C0%2C3706%2C2668&auto=format%2Ccompress&w=1200"
+        width: 1200
+        height: 864
+        isCached: true
   - title: "UPDATE 2-Hyundai, Kia say they're not in talks with Apple on autonomous cars"
     excerpt: "South Korea's Hyundai Motor Co said on Monday it is not now in talks with Apple Inc on autonomous electric vehicles, sending the automaker's shares skidding a month after it said it was in early-stage talks on cars with the tech giant."
     publishedDateTime: 2021-02-08T07:15:00Z

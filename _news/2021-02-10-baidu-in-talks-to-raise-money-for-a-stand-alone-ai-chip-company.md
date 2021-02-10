@@ -1,0 +1,64 @@
+---
+category: news
+title: "Baidu in talks to raise money for a stand-alone A.I. chip company"
+excerpt: "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers."
+publishedDateTime: 2021-02-10T13:39:00Z
+originalUrl: "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
+webUrl: "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
+ampWebUrl: "https://www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
+type: article
+quality: 104
+heat: 124
+published: true
+
+provider:
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425"
+    width: 3000
+    height: 1966
+    isCached: true
+
+related:
+  - title: "Baidu in talks to raise funds for AI chip company - CNBC"
+    excerpt: "China's search engine giant Baidu Inc BIDU.O is in talks to raise cash for an artificial intelligence semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter. Venture capital firms GGV and IDG Capital are in discussions with Baidu,"
+    publishedDateTime: 2021-02-10T10:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
+  - title: "Baidu in negotiations to raise funds to start AI chip company"
+    excerpt: "Chinese tech giant Baidu is in talks to raise money to start its own standalone artificial intelligence semiconductor chip company."
+    publishedDateTime: 2021-02-10T12:05:00Z
+    webUrl: "https://www.sharecast.com/news/international-companies/baidu-negotiations-raise-funds-start-ai-chip-company--7809548.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/international-companies/baidu-negotiations-raise-funds-start-ai-chip-company--7809548.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/international-companies/baidu-negotiations-raise-funds-start-ai-chip-company--7809548.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 74
+    images:
+      - url: "https://img1.s3wfg.com/web/img/images_uploaded/e/8/baidu-poursuit-son-declin.jpg"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "NAmIWz5/eaVJyLL9eF7h8jVxNdp9e24ioR/2LrHs1z69to/lh8uzlF93zMEOSjnHrEY0QTfwNe8BGCbFRwpCuV/HE2kWPW8+QMxmavy4Emz0KeZCp/2pXS6BqBfJOrKKm+e43N0hxvzZyz2FM1OuzikuqVNfsbV/Z6CEZboDJMflrKs0tlZXvkRL0CaPSB9HUreP4zXpl18h5yWcZ04qVx7bg7KZohvRFXFZrY51+wwKpAT1+or2jbVTXybwK43RpdjOnFwI3BEbJhlg1Cc2zUmyrSbI+W3F0jFxZJmAtdezlzvpq+5BBe9ZSFdgqkNWkLXAOGEm1+03gdpY1zCz1yW0sQhbqxfiBZgMFE5xYkA=;rUT83uW0uWMmC57ICA27dQ=="
+---
+

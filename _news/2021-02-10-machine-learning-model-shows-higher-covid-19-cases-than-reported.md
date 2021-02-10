@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "This cutting-edge cloud-computing service is helping researchers track COVID's spread"
-    excerpt: "As computational science and data science are becoming closer than ever, a deal with Microsoft could see Verily and Broad Institute's open-source cloud platform hit new users."
-    publishedDateTime: 2021-02-10T11:40:00Z
-    webUrl: "https://www.zdnet.com/article/this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread/"
+  - title: "New machine-learning algorithm estimates number of COVID-19 cases in the U.S."
+    excerpt: "World health experts have long suspected that the incidence of COVID-19 has been higher than reported. Now, a machine-learning algorithm developed at UT Southwestern estimates that the number of COVID-19 cases in the U."
+    publishedDateTime: 2021-02-09T04:55:00Z
+    webUrl: "https://www.news-medical.net/news/20210208/New-machine-learning-algorithm-estimates-number-of-COVID-19-cases-in-the-US.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210208/New-machine-learning-algorithm-estimates-number-of-COVID-19-cases-in-the-US.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/New-machine-learning-algorithm-estimates-number-of-COVID-19-cases-in-the-US.aspx"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
+      name: News Medical
+      domain: news-medical.net
+    quality: 41
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/02/09/fe1c2228-aa05-4e10-84f1-3a64d1d5e0d1/istock-1214075704.jpg"
-        width: 1254
-        height: 836
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/7/antibody_in_pink_and_red_background_selective_focus_3d_art_-_Mirror-Images_A1_71b890c58eb74b42a6490cfe1b003dce-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "OHDGFDLdTRwITOuTER8iJ0pVpzWC0K+A+nktMtG1y31ZSLbVfpwl4bZIIXKC4S7a3AI9imBf8UsP8GvGXsUW2Hujg71SZNZq7mxia11L5kffaYz6ekicnZ3LdmMBxW+FDfQWASN+WbXtgpRN8eZ9A3KZCooHNWl/Ordc9EVUkEj1Ag/I/oPEI+LVbxDCZV6GdGO+4jZe/NT5DLZrYzoOnal/6sjbNfKuEAVFpkxVp6d+vl8zwKI1px2QdRh2aebyCH6EXqcOrRX6w6uB+DNJbqpd/Od2GQJJGPrvACKi+vktmKk4H3f0UN0ehnG6cN04TiS6HMINDIgiWi0aY2WuDLpkIzZVOZxP4RGQZXGdKONZe1A0cxuZ0UHcy9cB+Nb4i8zbleQdD5tc8+OAt4C1sEZM/ibs6+STI3zDCC4M8O/rsdRQPiWoAg14gEoMfxIRhO55d50kzNRJHL1tIcoMLaGgjQvs52hGQIamNugHBFZCFKOQAwwPlUCdj/+4w6eUDsPo++r3zcu/hyZILhUkKw==;W/ACe16hIAMumARmXu6aQA=="

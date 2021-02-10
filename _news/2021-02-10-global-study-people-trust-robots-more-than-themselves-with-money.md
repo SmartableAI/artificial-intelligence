@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Global Study: People Trust Robots More Than Themselves with Money"
-excerpt: "PRNewswire/ -- 2020 has changed our relationship with money and people now trust robots more than themselves to manage their finances, according to a new study by Oracle and personal finance expert Farnoosh Torabi."
-publishedDateTime: 2021-02-10T08:24:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-planning-covid-19-pandemic-lung-disease-066fde985015cdf5672df3e31510cdf5"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-planning-covid-19-pandemic-lung-disease-066fde985015cdf5672df3e31510cdf5"
+excerpt: "Research shows growing confidence among consumers and business leaders that robots handle finance tasks better than people."
+publishedDateTime: 2021-02-10T09:52:00Z
+originalUrl: "https://www.oracle.com/news/announcement/money-and-machines-021021.html"
+webUrl: "https://www.oracle.com/news/announcement/money-and-machines-021021.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Oracle
+  domain: oracle.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.oracle.com/oce/press/assets/CONT0B91C18DB66C44B7A07A5CDD0EACF047/native/og-social-money-machines.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 900
         isCached: true
 
-secured: "P5X3UD8K5qZ+BGTR0nN5r+bKibLDKyyQL+WEhYcj72ZfLmCghwqQUQmsGBvxUHTc9rhiYeS1giyI33OCfn/iyt2hQwUHugoCUGG6T9CI0u6fYZTbBFglESdObUoFKvOKBilFNV+wqkJn2oRnvLPCrsxTS69fSJPqVF2bTvHuiedLjcMouza5wSNbiokS8BE4Ajh4GuvK4oAxqg9qzZYlfpjiUHemntVfq1E/vGuvocHrCfhjpaQjwxMkpFSydMueqTak6f/zepHaU5trb8/QroOtx7poc7VOhzFJVR1AlyviCUy+lR063LEp91JghGOU2hJe7eIGnS6UEHVtjAA9j/+utlr6SBn4bI3iqTsIWFU=;CcKA7PoBRqelx7JY2pheoA=="
+secured: "8ocKVNX9EMRqBsfLpsqMG890hWkZtfallIm7/jhNkWYbTRCwZ8KakxD0Ob9ACMtRAlpeJRfzTzMAjzcnhypwBA3D0BofeDs1x/xBDifz7JJ3n41ZP5DBzj0q5YpmfDdzP6yrZy/D4OGOpf/tsC6rzxmW42ju104FkStLCzGdaUoO0pm9iKFv61MJzo/ZO7mjHRU0V/hCmVdhilIyHJLOwHT/2xu4pQRJBymiofHEgkPvpwMlWxPM50e86LvpVVJp7w03YRgUBxtRV31uzJGQNHktsbo8Kgseezd179zRNcI1xsSFvMifjes4qMEO5Bc0yAxi0tJjRm828kTtlZAGF9yFLemABtJmyeJYBk7QsI4=;dLDcf2M3gd8q2muohfEF6A=="
 ---
 

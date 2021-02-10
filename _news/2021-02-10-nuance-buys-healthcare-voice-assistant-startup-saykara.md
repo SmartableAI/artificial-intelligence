@@ -42,20 +42,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "AI Can Improve Healthcare"
-    excerpt: "One area where AI has found some traction is in the healthcare industry, where is seems to be helping improve care."
-    publishedDateTime: 2021-02-08T00:23:00Z
-    webUrl: "https://www.sqlservercentral.com/editorials/ai-can-improve-healthcare"
-    type: article
-    provider:
-      name: SQL Server Central
-      domain: sqlservercentral.com
-    quality: 54
-    images:
-      - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
-        width: 320
-        height: 320
-        isCached: true
   - title: "Nuance acquires Saykara to build out healthcare AI tools"
     excerpt: "Nuance Communications has acquired Saykara, a startup that developed an artificial intelligence-powered physician assistant tool. The deal will help Nuance boost its capabilities in healthcare AI."
     publishedDateTime: 2021-02-09T21:42:00Z

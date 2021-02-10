@@ -1,24 +1,20 @@
 ---
 category: news
 title: "IBM, Palantir Technologies Announce New Partnership - Quick Facts"
-excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is ..."
-publishedDateTime: 2021-02-08T12:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-palantir-technologies-announce-new-partnership-quick-facts-1030054674"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-palantir-technologies-announce-new-partnership-quick-facts-1030054674"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/IBM-Palantir-Technologies-Announce-New-Partnership-Quick-Facts-1030054674"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-Palantir-Technologies-Announce-New-Partnership-Quick-Facts-1030054674"
+excerpt: "IBM (IBM) and Palantir Technologies (PLTR) announced Monday a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next generation operations platform for building applications."
+publishedDateTime: 2021-02-08T12:16:00Z
+originalUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08"
+webUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08"
+ampWebUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08?amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
@@ -227,6 +223,6 @@ related:
         height: 284
         isCached: true
 
-secured: "CFddvLUEwIdr2YFDv5MUaR+6FjFda6o7aRl1RMtMeFQJRbleVHrzFI+K2qMHO6fKf82XBlnsRsnKw99vjhGfhypmLjNTcPQEESaSTcGgr62TEeDPgQIGj672/cgQQEjTrW7tOUQtd8ULtpYdcSfOVsN01iGCtspcr5g9KWQcbdbvxQQWiUyd3doMrLlQL1TDegbajhR3d/G9HzrWC63n7OKv/oqyrJPxDdrL5ZV9dpINQqVLbP+wiq3j+tkK3O/d6WItY+RpRsdARmf36iI5Ioqqto7TwtoA/UgnurvwWyVanfx7xLzE6teJ2eOveQlBaobnUwr9lrzs30z7W2LxgdoqztzShKEVuVVObfmVGfc=;DNWYQd1vGS2bZGfsC0Q/xA=="
+secured: "IVohpxHD9J4MNd04ssTOR2V35vO8GOcF5zJACRxGLa7PjCujuAoY6QzNJITI+SgriFbnLnOd8CG6fTmOSxpqRHQYWQRW74KfZWDGjdEkwH0fvY9TcAaAw9Kq+Prh2nNBCF3MrFOOVUmDz1qfDV9BLp7ISn3iKz2xutTtysJoaFOi+kqwtsiBobAMIB7lVjnvnHobqb2fMdxss71dc/c2hGhkwjf8yavb9ML1YW59qALhGnrvZu98IxvILWJN5ke3QpbNpbydslDCLEQ4NPtjQuz1u6wZNlBmpQxHX03NkGmyMajYBFXuxTZ1ACXeMKNnfzK3D6V9ur+hjhg4FmOx4BDSTnYWsDeUkN4qERjkapo=;72TT9bayYBCzXZnEysKGyg=="
 ---
 

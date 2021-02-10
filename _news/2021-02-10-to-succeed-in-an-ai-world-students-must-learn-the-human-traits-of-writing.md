@@ -1,30 +1,30 @@
 ---
 category: news
 title: "To succeed in an AI world, students must learn the human traits of writing"
-excerpt: "Our children should no longer be taught formulaic writing. Writing education should encompass skills that go beyond the capacities of artificial intelligence."
-publishedDateTime: 2021-02-09T19:06:00Z
-originalUrl: "https://theconversation.com/to-succeed-in-an-ai-world-students-must-learn-the-human-traits-of-writing-152321"
-webUrl: "https://theconversation.com/to-succeed-in-an-ai-world-students-must-learn-the-human-traits-of-writing-152321"
-ampWebUrl: "https://theconversation.com/amp/to-succeed-in-an-ai-world-students-must-learn-the-human-traits-of-writing-152321"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/to-succeed-in-an-ai-world-students-must-learn-the-human-traits-of-writing-152321"
+excerpt: "Students across Australia have started the new school year using pencils, pens and keyboards to learn to write."
+publishedDateTime: 2021-02-10T13:42:00Z
+originalUrl: "https://phys.org/news/2021-02-ai-world-students-human-traits.html"
+webUrl: "https://phys.org/news/2021-02-ai-world-students-human-traits.html"
+ampWebUrl: "https://phys.org/news/2021-02-ai-world-students-human-traits.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-ai-world-students-human-traits.amp"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/383166/original/file-20210209-21-hx3kgt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/tosucceedina.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "5B1Jy2F3GnQ0VwvQT+89ZNccm6CFSqik6O1iOn7aEZGXUqIIc+hRe+u49Zh7oAcBLUFGtALNgqt1PiJHqsUdqA4CpPFnlq0/UySd7h5+350OcdPlM1mR5KBRnxXY68FixmQ2eORdeOwJSXCyJcICPBwgmCRfwsh4ZLu2wJL2zQEOPaxIPKGUtoPL3SYQS3oMPZtCxtGa/rrJwOGsTCc+D33YFwfdp36gK0t9gHZgGgYj/KtzqvI44N0f/MpoK59uniVGRO/rRJ+Kuj795/Oux49043OfFWfx5mLFlwxMmG+j6MpL2iqIQ36kfIcBsQrxX2z50Hbc3+AXjEit9gAyqsrSI1Sf4fiYyf1AGnj9AzDo4yPAOL/mRgRtlvMh6liQsjk8sdqeVEViKHR16CsgUYDHi8GaFdis2dbOWso0Er16wi0FLnmxquSiwdzwGISWdbS92Tc5WoltDWhVYwzTW8pGKBDjldrLaQBn5vVqcBzFEwaVA6LawaIeX4/Au0ar1B55yCXEWjq6Rlan8g8vQg==;oP5DM9vLe2wYoGq4Xl4hug=="
+secured: "Fj2KUC3n9TLXBILfVdccFeAxbjwMkDtjSxa/EwZGVYXtoIeyME3P6t9velwzSvAId4GDA56RNyqlGUyNIbnOrWCOgrmrCYZvANng9biu0lDyVnzeVYhrQqz3QCQfXUiQGITPRoP47gUpdo5RIYk4TTO1N7dLgHYr52axc7xFH08ndVkwOxQD24OlOurdGkIOC3O4jGnkgrrl3ez5FxGa9Xls9Aaat4Wa5mXLl3NXHZ39Ds8T7WENL6iR/t4DUVXLuhjz7nbSWCu8cf6ezYB8KVKg+AF+tHMQlWkS02ZEtAhaU7eoZjlIxGb/h2Vf+ijFrj0nADTlno9cA6WBH7K72PQDqyNDF0QJ1tAgOkqCElU=;AmhEBHY1JEFTN5CID3d4eQ=="
 ---
 
