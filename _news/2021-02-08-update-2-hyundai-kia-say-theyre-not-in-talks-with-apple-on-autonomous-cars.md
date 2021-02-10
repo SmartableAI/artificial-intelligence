@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A800T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A800T"
 type: article
 quality: 86
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -170,15 +170,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Report: Apple to develop electric self-driving car with Hyundai"
-    excerpt: "After many years of trying to jump-start a self-driving car program internally, a new report claims that Apple Inc. is closing on a deal with Korean automotive OEM Hyundai-Kia to develop an Apple-based autonomous electric vehicle (EV)."
-    publishedDateTime: 2021-02-05T13:34:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16314/report-apple-to-develop-electric-self-driving-car-with-hyundai"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "UnKtZH/fE0kWG7UUWbsEC/k4kUHISKqAwAHo2p13l2d4ie18tsM4HhhEZ/lWx7UDLWrT/ZXz1IqkFfszqkhGfm5T+68Y6kR8WD/SoWqNDI9MwD/e2CYcp2Th9JbWKsjMLgGfVJhKLof993INoTOo59ysTRE/C4gtGJM2Immr0GNpFS4WGAlFj7FIjDMtpEx1AhnUG3vPwlP1bCmQ++r3RPo8/jTZ53ckhhmtYj96bn8TSO2oD7m54dvRxaoyl7ATnWH4AS+HM0DBU/1pllBd6bSSvRN+twG2m1dAcMraS7PnIfJHcmO/3STKX4iVnbbp9fq09Pxlq7IDN1EQqZj83ieYWYWh+SKYOGQzJErLLOg=;sGi9YyKsw6H6/BGxaXmk3Q=="
 ---

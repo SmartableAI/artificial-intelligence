@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-08-ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space.md",
+      "title": "IBM, Palantir forge partnership in low-code AI data processing space",
+      "excerpt": "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png",
+          "width": 1170,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
+      "publishedDateTime": "2021-02-08T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem.md",
       "title": "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem",
       "excerpt": "Specialized Hybrid Cloud Build Team co-creates advanced solutions with ecosystem partners; helps modernize and migrate workloads, and infuses AI into software",
@@ -1377,49 +1429,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-ibm-appoints-gary-d-cohn-as-vice-chairman.md",
-      "title": "IBM Appoints Gary D. Cohn As Vice Chairman",
-      "excerpt": "will bring unique value to our clients and stakeholders as we accelerate our hybrid cloud and AI strategy.\" \"I am honored to be joining IBM, one of the world's most important companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-appoints-gary-d-cohn-as-vice-chairman-856896195.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-appoints-gary-d-cohn-as-vice-chairman-856896195.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

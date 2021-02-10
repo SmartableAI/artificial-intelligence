@@ -28,9 +28,9 @@ related:
   - title: "How AI (not automation) will revolutionize commercial trucking"
     excerpt: "Beset with labor shortages and the whims of markets and new technologies, truckers are getting a boost from digital brains."
     publishedDateTime: 2021-02-09T12:05:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+    webUrl: "https://www.zdnet.com/index.php/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
     type: article
     provider:
       name: ZDNet
@@ -42,16 +42,19 @@ related:
         height: 854
         isCached: true
   - title: "WISeKey Combating Counterfeit and Extending AIoT with arago’s AI and Automation"
-    excerpt: "WISeKey Combating Counterfeit and Extending AIoT with arago’s AI and Automationarago among IT automation leadersGeneva – February 9, 2021 -"
-    publishedDateTime: 2021-02-09T17:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wisekey-combating-counterfeit-and-extending-aiot-with-arago-s-ai-and-automation-1030061996"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/WISeKey-Combating-Counterfeit-and-Extending-AIoT-with-arago-s-AI-and-Automation-1030061996"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/WISeKey-Combating-Counterfeit-and-Extending-AIoT-with-arago-s-AI-and-Automation-1030061996"
+    excerpt: "WISeKey International Holding Ltd (“WISeKey”), (SIX: WIHN, NASDAQ: WKEY) a cybersecurity AI IoT platform company, today announced that its solution for brand protection is now able to minimize counterfeiting and fraud by adding AI to the trusted digital identities of goods and luxury products to track and protect any item in real-time."
+    publishedDateTime: 2021-02-10T05:45:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-industrial-products-and-services-ee9cb9b8eb0210b81a8f0a64b41f691f"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "qJzQqiKk2E6+j9GyFx1UmFy0rUbBtLXegFAekg7p4boAdkDI4OPpUc3RUUTobPpwn4ErCtkKHw4Z1M4zDkmI1LDzsVGcSUHKxgJqAswajOP/tOJ4DCRRKwSrAtj8dfdOOAyUAA0u7xPcr2HczIRdfSrk2WZToYRxfRdlB2iU0QWfvQktAEw/CrscylpU7Pk+E24Iob1DQ3FYKqCpnuY8z2eZJYM/nXX6c1ABBOAgEg46VzBLBGmevSkfw0R/d7TgIeSACjFph0p/p/zTeZK+88bDQpeqfgCD43Fv2WlXYr2OEW/109A8L27SAObxQfJa6kzVTKraM726wcR7ORBQ2jNZVB2OXQW5iy4sV9xOBfo=;Wp9KMZhrr/uCC61UvHB+mA=="
 ---

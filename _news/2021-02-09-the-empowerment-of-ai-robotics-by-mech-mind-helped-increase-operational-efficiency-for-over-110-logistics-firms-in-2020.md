@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-r
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -23,6 +23,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020"
+    excerpt: "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020."
+    publishedDateTime: 2021-02-10T05:36:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 45
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Jycqmo62bbg/idZNBtIJJhELtiYffAiu0dOjLHAWw2x5XlzRDzY5zo9D55dkzEFNpWuWWxMCnW7Cf/qSd7ZHQaEkXSm0RWS5rsSxOr4KNZDxEHojYx0H2JRPbqyaDYr32/P3IhVm/W4FZKa2/vFqlYNNr7Xwqd/ui5Bwpq46l8mRanwSGm3D+SqzbPHLIRl1NlU3G6Peojoc8qF201MaPKjiVEZ7kBeUeUwC75+ABqisqADpibVcbCffWOQX6XzELoWstuNjB4PxyahSEO7y19T3FHcdtHgBottQdAdsfddxJXxSsmKRyEDYLFa2vQQA1C5mXsroN3tvhw8tJGk5NK90RZFfEn2TXL9nUKozzOQ=;LNN4a1H0sPk3FVXVh/sI1A=="
 ---

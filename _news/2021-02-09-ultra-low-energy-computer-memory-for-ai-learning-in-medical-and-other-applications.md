@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memo
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html?amp"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: NextBigFuture
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chemistry and computer science join forces to apply artificial intelligence to chemical reactions"
-    excerpt: "In the past few years, researchers have turned increasingly to data science techniques to aid problem-solving in organic synthesis."
-    publishedDateTime: 2021-02-05T14:21:00Z
-    webUrl: "https://phys.org/news/2021-02-chemistry-science-artificial-intelligence-chemical.html"
-    ampWebUrl: "https://phys.org/news/2021-02-chemistry-science-artificial-intelligence-chemical.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-chemistry-science-artificial-intelligence-chemical.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-chemicalreac.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "A machine learning method based on the genetic and world competitive contests algorithms for selecting genes or features in biological applications"
     excerpt: "Gene/feature selection is an essential preprocessing step for creating models using machine learning techniques. It also plays a critical role in different biological applications such as the identification of biomarkers."
     publishedDateTime: 2021-02-08T13:26:00Z

@@ -166,15 +166,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Report: Apple to develop electric self-driving car with Hyundai"
-    excerpt: "After many years of trying to jump-start a self-driving car program internally, a new report claims that Apple Inc. is closing on a deal with Korean automotive OEM Hyundai-Kia to develop an Apple-based autonomous electric vehicle (EV)."
-    publishedDateTime: 2021-02-05T13:34:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16314/report-apple-to-develop-electric-self-driving-car-with-hyundai"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "XYAnYhDJu/qYcVVtMwPznXQfiGt2AAiMYSyK6+GMbJZ+X9d5q2K6sM12dCXVXOBvA04M6VhXCa9aA7xzjTzxkUoxJZvzm9eHoNzBTuh9YrqXbFJBiEV7VXINoKOQJBIimDZjAEo9m24Y6Z1oa8A3+SxvDYnLh/Hkk9QUxM5Bf8R3rdH02OKCtGNb0+Ed9QU09Kx1u1TWOIDgDrSKNGYpI1ehEqvh3Q8SSF+JbF8mJi21+Y+a1rT53JqwVVZEBeo/W/bAWYC/gKgxuSikXoyO2YSoZQUFcK2UNnyCTrmp3sOYj82C/0p+ETC9zBPSZ594NqRA5LWx75m+L03eeKGrg9+SX4neJkSXWGS96DJMagc=;dFYsLRVG29Tu7xV3uxKkTQ=="
 ---

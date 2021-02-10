@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-09-sony-ais-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery.md",
+      "title": "Sony AI's Dr. Peter Stone Named Fellow by the Association for Computing Machinery",
+      "excerpt": "Dr. Peter Stone, Executive Director, Sony AI America Inc., has been named a Fellow by the Association for Computing Machinery (ACM), the premier professional organization in the field of computer science.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
+      "publishedDateTime": "2021-02-09T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-artificial-intelligence-in-the-corporate-boardroom.md",
       "title": "Artificial Intelligence In The Corporate Boardroom",
       "excerpt": "We live in a new technological era, one where board members have to be prepared for situations where artificial i (AI) affects and maybe even disrupts their deliberations, with regards to both shareholders and stakeholder groups.",
@@ -1442,58 +1485,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy.md",
-      "title": "Center for Applied Data Ethics suggests treating AI like a bureaucracy",
-      "excerpt": "A new research paper suggests AI practitioners adopt anthropology terms to assess large machine learning models that harm people.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/",
-      "originalUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ian-hutchinson-U8WfiRpsQ7Y-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/amp/",
-      "publishedDateTime": "2021-01-22T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

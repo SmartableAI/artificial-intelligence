@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.md",
-      "title": "Ultra Low Energy Computer Memory for AI Learning in Medical and Other Applications",
-      "excerpt": "Leti-based team's uses machine learning on RRAM to get 100,000 times less energy usage. They use randomness instead of trying to prevent it. This allows in-situ learning to be realized in",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/02/AIrram.jpg",
-          "width": 714,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html?amp",
-      "publishedDateTime": "2021-02-09T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-09-foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool.md",
       "title": "Foyer Insight Incorporates AI and Unsupervised Machine Learning Into Unprecedented Multi-Classification Tool",
       "excerpt": "Foyer, Inc., a startup PropTech development company, is introducing Foyer Insight, the most advanced computer vision Artificial Intelligence (AI) suite focused solely on the real estate industry. Using multi-label image classification and unsupervised learning,",
@@ -663,19 +620,19 @@
     {
       "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
       "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
+      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19635111.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19635111.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -685,11 +642,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:45:00-08:00",
+      "publishedDateTime": "2021-02-04T06:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -699,11 +656,10 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
+        "TensorFlow",
         "Google AI",
-        "TensorFlow"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1386,6 +1342,50 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control.md",
+      "title": "AI: MIT scientists develop a new ‘liquid’ neural network – ‘future of robot control’",
+      "excerpt": "MIT scientists have developed a type of neural network that learns on the job, not just during its training phase. These flexible algorithms, dubbed “liquid” networks, change their underlying equations to continuously adapt to new data inputs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/",
+      "originalUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tunisiesoir.com/wp-content/uploads/2021/02/AI-MIT-scientists-develop-a-new-‘liquid-neural-network-‘future-of-robot-control.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp",
+      "cdnAmpWebUrl": "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp",
+      "publishedDateTime": "2021-02-01T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tunisie Soir",
+        "domain": "tunisiesoir.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

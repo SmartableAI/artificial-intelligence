@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/01/IMG_8828-1.jpg?w=1024"

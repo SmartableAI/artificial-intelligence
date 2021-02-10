@@ -25,6 +25,19 @@ images:
     height: 399
     isCached: true
 
+related:
+  - title: "Increased screen time during pandemic leading to vision problems, doctors say"
+    excerpt: "Local eye doctors figure we've increased our screen time at home in the past year by over three hours a day. Eye-Q Ophthalmologist Dr. Frank Bishop says we're not blinking enough. \"Our blink rate goes from out 16 a minute to about 7 or 8 times a minute,"
+    publishedDateTime: 2021-02-10T05:21:00Z
+    webUrl: "https://abc30.com/work-from-home-eye-problems-screen-time/10324662/"
+    ampWebUrl: "https://abc30.com/amp/work-from-home-eye-problems-screen-time/10324662"
+    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/work-from-home-eye-problems-screen-time/10324662"
+    type: article
+    provider:
+      name: ABC30 Action News
+      domain: abc30.com
+    quality: 21
+
 secured: "5oQszlZ4KbkDCo3GJD32/tljIZovJ5o/Ce5Y50jiw0+yWsVx3a+EgRVDbdyC3KUDH1G8OOKCe09j4VWxTFi97PfnMNadNjJkwScJkHlifxOo7eeeWE6uagb3FQOsYgDWSL4HhFT7lIO8BUfPta0la/TV+jIauQv2+BYHFY+z2a6wGNZ+t0uoui2Qzb30oqqbZEXGG1iXbe61wES8OKakMfyV4cAgQE8l60uu3hNQg58RaSosOJ3mZbZLkyA9QIZeylVH6rxJqJoU2ph3p7RiDB8+pKiX25vI2UUAfeVTUc/uvZ4uk181CnZhuCYXXBl9O0hcABtQUoqU9avxNcK34EEgPsEQaVsE6d3daxwZWIY=;b8AnzZdCYsZ2AsCPYOkEmA=="
 ---
 

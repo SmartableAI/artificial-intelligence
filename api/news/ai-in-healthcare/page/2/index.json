@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-27-artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026",
+      "excerpt": "Selbyville Delaware Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare.md",
       "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare",
       "excerpt": "Ehave has been using artificial intelligence and machine learning since the first version of its Ehave Dashboard to transform clinical research, identify treatment protocols, and increase the virtual care capabilities of health providers. Before the COVID ...",
@@ -1320,59 +1375,6 @@
         "AI in Healthcare",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more.md",
-      "title": "Blockchain Beyond Bitcoin: Transforming FinTech, Healthcare, And More",
-      "excerpt": "The origin of blockchain dates back to 1991, when researchers Stuart Haber and W. Scott Stornetta outlined a system to document timestamps that could not be altered. However, it is most widely known as the underpinning of Bitcoin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001bffef1677f1270da7683%2F0x0.jpg",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
-      "publishedDateTime": "2021-01-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

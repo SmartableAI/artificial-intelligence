@@ -82,6 +82,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "AI can make accurate assessment of whether a person will die from COVID-19, study finds"
+    excerpt: "Using patient data, artificial intelligence can make a 90 percent accurate assessment of whether a person will die from COVID-19 or not, according to new research. The research can be used to predict the number of patients in hospitals,"
+    publishedDateTime: 2021-02-10T00:20:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210205104219.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 39
   - title: "Artificial intelligence could predict whether you’ll die from COVID-19"
     excerpt: "Artificial intelligence could predict who is most likely to die from the coronavirus. In doing so, it can also help decide who should be at the front of the line for the precious vaccines now being administered across Denmark."
     publishedDateTime: 2021-02-06T11:16:00Z

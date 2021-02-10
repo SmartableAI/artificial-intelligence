@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Computer Vision Market by Size, Growth, Opportunity and Forecast to 2027"
+    excerpt: "Selbyville, Delaware Global Computer Vision Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Computer Vision Market Report also covers top key players,"
+    publishedDateTime: 2021-02-10T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Precision Medicine Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
     excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence (AI) in precision medicine market is expected to record 50% CAGR during 2020-2025."
     publishedDateTime: 2021-02-09T07:38:00Z

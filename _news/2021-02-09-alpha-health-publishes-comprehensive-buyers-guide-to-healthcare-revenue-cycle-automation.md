@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/alpha-health-publishes-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "Alpha Health Publishes Comprehensive “Buyer’s Guide to Healthcare Revenue Cycle Automation”"
+    excerpt: "Today, Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, published its Bu"
+    publishedDateTime: 2021-02-10T05:38:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-4b3e12edde4f8ca3c8e3198e8f669eae/gallery/bfa6e35f4b8c2cc3662859093902f5e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Massachusetts-based Parlance Corporation partners with Hendrick Health to provide speech-recognition solutions"
     excerpt: "With the recent purchase of two hospitals, Texas-based Hendrick Health understands the importance of quickly connecting and unifying services throughout the organization. To create a consistent brand experience and superior service for the organization’s callers,"
     publishedDateTime: 2021-02-09T17:03:00Z

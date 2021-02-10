@@ -42,17 +42,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Airbus partners Indian startup HyperVerge for geo-spatial AI"
-    excerpt: "Aerospace major Airbus on Friday said its geospatial digital platform delivering satellite imagery, analytics and services, OneAtlas, will partner with Bengaluru-based startup, HyperVerge, to implement and integrate new Artificial Intelligence (AI)-based analysis of satellite data."
-    publishedDateTime: 2021-02-05T14:24:00Z
-    webUrl: "https://www.sify.com/news/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai-news-education-vcfplPhgbibei.html"
-    ampWebUrl: "https://www.sify.com/news/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai-news-education-vcfplPhgbibei.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai-news-education-vcfplPhgbibei.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
 
 secured: "0eiBZ0rNVCGDytkdxWHoEzf19Yt9+JZOyZPofolE5LJc44RFEo6wwrT4S8yVbzasWQCzj3DNkpWJcByMUC4iJf9w02I+F5EyH9JKMH5IfC46rXJKZ7YcZ/OxSQoWiYNQzj08cVtstvlyjlSCQtlw0b9OY1WNGRaWnNd6YPpkscADEMyIW23Z2sEM06JvHKvTMUifaHwaiGYK7l0ZxVBexTsZ0VHjUK+YGLwXhbDCRMVqGCGW+SSy/CpHMF5XYdA4I6HXYMYi/fAmt8cCqVWoKrTIZYiUHa7SK/Y2upGQXt9QfZxbtEYUgMxKrqLO5OqKmELCHQS2X3QM8h5f95uC5DEVbmIgzKEWeIIc/w4i/qcgADB8sKCgR7uKXlq2c3yEG7KPnTyFcbjtQIfeyG84jOcWkAxCqRQ/XwYl180Zg/JIq+pDnBZUuVmu/h7yWuwgFRPyBMQ1iFmc/5qCTsZoQk/CJTg2Mp3foLdbhMbUmGZ/FZ2NzLvpls3jxESF47UZI6/O9lZrT4NOjnBa2eazng==;IPu6MwhqpKkaP7MSNdCXlA=="
 ---

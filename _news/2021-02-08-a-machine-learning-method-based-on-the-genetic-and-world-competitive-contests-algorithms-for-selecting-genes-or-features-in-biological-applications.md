@@ -41,22 +41,6 @@ related:
         width: 714
         height: 738
         isCached: true
-  - title: "Chemistry and computer science join forces to apply artificial intelligence to chemical reactions"
-    excerpt: "In the past few years, researchers have turned increasingly to data science techniques to aid problem-solving in organic synthesis."
-    publishedDateTime: 2021-02-05T14:21:00Z
-    webUrl: "https://phys.org/news/2021-02-chemistry-science-artificial-intelligence-chemical.html"
-    ampWebUrl: "https://phys.org/news/2021-02-chemistry-science-artificial-intelligence-chemical.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-chemistry-science-artificial-intelligence-chemical.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-chemicalreac.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "dfgjheG8DatpSUF9UtBRW3GzvLLX1lcGOTerhFRPDACfnvdtXu1HTjViSBFSo+AC+wOczbN9sYCspMdh99RsEFMIdO2rzJFG9WpfZx/dSVMx6a2012bq/WvrGu0hsi7hLWAJxCKsh0DOGDxn8bwdKSKbaoM16+aZDPragJ126xqYIcrVHMS5Xqtu/hL27geyhd35bJge+GPDbHqjNiWDPqn6u056CGYft5hjoXvjg5CcnmTvJ0zrW00XxzlD7oXM71qDiPHAOJ0D/J8NJKKmxzhP0+NJtukoip+WhuBC5uneGXqevWRRE4SranYWzIS3Sd7TvkdUuxLf94TaOP1weGfDVLQ5tHasABWsqiKZyc/inqXKNOQqIpnll7iqvR1nWBu7Lihb8A7hxWpqChwmqeayctrS7nhmqNPChqVKIk1QAtASKgHI8ChF7peNC1RXhWHrba/lT8V0QoPSYYWKGVL85Yfp/GE2H9C+dT2V8vU2qhDg3wGdLMvgNr9DHr0A4zy1N2cpwQ7sL+AY+iQ8ng==;doDzIYsmamCUfpBIKBLWcg=="
 ---

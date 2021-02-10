@@ -28,14 +28,14 @@ related:
   - title: "IBM, Palantir forge partnership in low-code AI data processing space"
     excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
     publishedDateTime: 2021-02-08T13:53:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    webUrl: "https://www.zdnet.com/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
         width: 1170
@@ -104,15 +104,15 @@ related:
         height: 600
         isCached: true
   - title: "IBM, Palantir Technologies Announce New Partnership - Quick Facts"
-    excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is ..."
-    publishedDateTime: 2021-02-08T12:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-palantir-technologies-announce-new-partnership-quick-facts-1030054674"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/IBM-Palantir-Technologies-Announce-New-Partnership-Quick-Facts-1030054674"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-Palantir-Technologies-Announce-New-Partnership-Quick-Facts-1030054674"
+    excerpt: "IBM (IBM) and Palantir Technologies (PLTR) announced Monday a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next generation operations platform for building applications."
+    publishedDateTime: 2021-02-08T12:16:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-palantir-technologies-announce-new-partnership-quick-facts-2021-02-08?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
   - title: "Palantir (PLTR) Stock Surges On IBM Deal; Is It A Buy Now?"
     excerpt: "Should Investors Consider Palantir Stock In Their Portfolio? Palantir Technologies (NYSE: PLTR) is a tech company that has mostly been in the spotlight since it went public last S"
@@ -156,7 +156,7 @@ related:
   - title: "IBM partners with Palantir on low-code AI applications"
     excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
     publishedDateTime: 2021-02-09T01:02:00Z
-    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
     type: article
     provider:
       name: SiliconANGLE
@@ -224,6 +224,6 @@ related:
         height: 284
         isCached: true
 
-secured: "BqeBFWC1cHoaJlRVXg3D3ShV8o2YaHsIUPDRGWFi97bHNZGBZLre2S6mZJzIn35Zu4Wt/aMud+IZJ2ChLnblimN9TZvizbRkJYQRYWxwHCH/iTdkdw0Vbrufa7Uhw1O7mW1uXRRz11MZEaxn2RtENiUqrxehMj4qEVQxHUygWLpaZGe+yh7K2JxqZ9yxuWwQ1ZEZfGuCfdSS7RWX2edLyOMbN18XfaltO8J4W3sjNpo7H/YFDc3pvyR3wrfaJXZZzQS3oHGcJb+5RtK4kCHWUOXQvFN7Tj0s2WPiVX+v1BK3NWJ1Z2H61H3z4TxEDsR4PgLMWkZLwsbi5kBdu9lmzhtrEscVoLAGe0vS2VA6OA8=;SN59x5QypJ3jPgMpBAYjiA=="
+secured: "QdIb4hLBusleWBVzJF+bG8z5AMlas0lCIs42zdsniGgu1z0aKhl8FZkGQqINi5AIAzlQ/f+FjjfkjVlNU79hOf5BsnA6t1g7AIufnwMy6CUOyK48mAWLtxdKnu/oXDk0fkfUJzbkJ0xF882vSpi+G6ojzfn/ndGqj/npCdH++E3a1Nj0EBc41p9q+1CT7FxHj1g5tZKGK4UQV7wqiHDzttMfcux/4cefD4nnzvulRj/ZnE7PKHATfgkjdFPt1NLd0SvbMC0JenuQJXjp3Q94ANU/x+D99hBoeK6hLUYvMs9FUZRznOOfYm/qvk0Iip+MwlArsh13og2uB6bqLQwRcAsVNAB3FJicVtUXduM0PVAXbQntLix59Hr+9We4/YYk0xqsbc1B09ae/nnQCadgYBAGBooSU7WZO2Ur+5SSu/O0CImLrX0Y+6MPsb9qyjc6mC376+S0IfEtGE9+pU6e2A5SfFEESuHluFWQCVtdjEQdKJWrTmculVJZRZqCXfIEqSW8cYd3kGhhV4Auo3OLFQ==;bvMv8FgOEj+dgi7RGo7PRw=="
 ---
 

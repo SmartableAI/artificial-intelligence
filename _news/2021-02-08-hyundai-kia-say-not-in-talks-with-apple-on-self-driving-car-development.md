@@ -166,15 +166,6 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 38
-  - title: "Report: Apple to develop electric self-driving car with Hyundai"
-    excerpt: "After many years of trying to jump-start a self-driving car program internally, a new report claims that Apple Inc. is closing on a deal with Korean automotive OEM Hyundai-Kia to develop an Apple-based autonomous electric vehicle (EV)."
-    publishedDateTime: 2021-02-05T13:34:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16314/report-apple-to-develop-electric-self-driving-car-with-hyundai"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "0IBMqOLx+B5uug9MlLmUdAE9mkUMVBPSPglSSFbQFb4dgwxTenSCzlZke4ROyn2U43vvvgWbadl94+rzILlqHjORIJiTK8sloMstaYUAocWAVW1sFWKUYcmVaTsvllvGMsqECfFsv8F1ozxgVWrfCxFjo3Vohhg0IDk62iBuTgejHsXc1foELIh/cUb6kTgMjyVP/+unxebgGM/8z0r/fv/9kWx5BcTX+aBMOP9JkkFT3kIzkV7P7HfyPpUdGjLNg9bmJ90+b6D/dD5JgRhllzwHxjrh3UAHtJVkcJTa+qZROV6Q6b8IYYNbMdSiGRytTZomfWAr9XLznxSB4pQKLhd5KvW1t3ArfEVV5rA6vbc=;m+lSWa2G6X6q81Nc4Ar2Rw=="
 ---

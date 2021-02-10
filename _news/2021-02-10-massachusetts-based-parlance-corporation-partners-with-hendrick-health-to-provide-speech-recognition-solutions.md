@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "Alpha Health Publishes Comprehensive “Buyer’s Guide to Healthcare Revenue Cycle Automation”"
+    excerpt: "Today, Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, published its Bu"
+    publishedDateTime: 2021-02-10T05:38:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-4b3e12edde4f8ca3c8e3198e8f669eae/gallery/bfa6e35f4b8c2cc3662859093902f5e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "tFIHZV0ep1mrUfkgScG4RhLo8n3KiOm1ea7mz640zOyiRCkR2PldaEeLbA6vQTYFFJqDaKliLEAP/JTPGqezoNKuSxtu2vYK8DxKq+6B2XygYRo1gk5sFOE4heSf+ErfwrNCqaCpNep5Y67XfDlWniSIMKwrhcxLW0A7GlFBQ1/2rRq7avXFUAPPIlVOfrDrVizOjLPCotfw//UbNugl1dsdPilscAXjJxYmt8/NjcIUR0AE/a9AksmTrcXmyI3uKN/xyBRDJ1Q8/Td4+rkLiAHmUcrjchc8t2DmHxkB8ju3xfC5mTfkg5GoZW38oSnV3hT1pEriKKCCNaEYHOx9UEGhSObb5o6l0OKnvxPlCq4=;+uzLucrwXi3KTpXbdg2VVg=="
 ---
