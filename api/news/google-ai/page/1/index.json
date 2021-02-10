@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-10-using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal.md",
+      "title": "Using AI And Machine Learning To Break Past The Constraints Of The 'New Normal'",
+      "excerpt": "Getting started with AI and machine learning is becoming increasingly accessible for organizations of all sizes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/",
+      "publishedDateTime": "2021-02-10T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker.md",
       "title": "Training and deploying models using TensorFlow 2 with the Object Detection API on Amazon SageMaker",
       "excerpt": "With the rapid growth of object detection techniques, several frameworks with packaged pre-trained models have been developed to provide users easy access to transfer learning. For example, GluonCV, Detectron2, and the TensorFlow Object Detection API are three popular computer vision frameworks with",
@@ -1414,59 +1467,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ces-2021s-chip-announcements-mobile-takes-center-stage.md",
-      "title": "CES 2021's Chip Announcements: Mobile Takes Center Stage",
-      "excerpt": "Virtual or not, CES has plenty of chip news from the big name companies, many with renewed or new focus on the world of laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/processors/130961/ces-2021s-chip-announcements-mobile-takes-center-stage",
-      "originalUrl": "https://uk.pcmag.com/processors/130961/ces-2021s-chip-announcements-mobile-takes-center-stage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/c/ces-2021s-/ces-2021s-chip-announcements-mobile-takes-center-stage_yqa2.1200.jpg",
-          "width": 1077,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

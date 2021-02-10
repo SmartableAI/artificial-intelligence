@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-segmentation-analysis-key-players-industry-share-and-forecast-by-2025-2021-02-08"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 475
         height: 250
         isCached: true
+  - title: "Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026"
+    excerpt: "Reportlinker.com announces the release of the report \"Global Smart Robots Market By Component, By Mobility, By"
+    publishedDateTime: 2021-02-10T11:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19581256/global-smart-robots-market-by-component-by-mobility-by-operating-environment-by-end-user-by-region"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19581256"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581256"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "eSCgpNMMeI5nR7a9+do4E1x+HERTtPsvKAUKG/hOSMaZEvbPMlx95BZeGDDuwslYfnIZ1ptAWwWkNfkI0MuH/6aEZ75pGZ+EK0VIhb8a9gP69x588kIqRygxNkGDiwTAYr+uKQkO8GjItj44kBqzrHKQIbEp5q5r4Q+9KbN5kxLaOefRtoUeQpYvzUgCdRyDDai5AqaK3e46B5FuVSzrQUZMP3yFaQYkN7bkkSmEspYIRqBsZenElh0pgjkdjOm9x9BYW4A+MaVlL0S+NT/4y6G1dR8Z8vPokV6DX5WK4C54JMHWAFf1lmNK5XYgMuo46+uf9GXNLKLzirMP/cl58M8oBcG+nzJDMHpdnvp47iA=;97JRatEyQQ5stkkHx30CCA=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
-    publishedDateTime: 2021-02-06T08:04:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-97a4402fba5f422483e604c3a2baf2be"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Biodesix Publishes Data on New COVID-19 Artificial Intelligence (AI)-Based Algorithm for Use in Clinical Decision Support Systems"
     excerpt: "Biodesix, Inc. (Nasdaq: BDSX), a leading data-driven diagnostic solutions company with a focus in lung disease, today announced a publication describing the development of a new AI-based COVID-19 algorithm and the important data from a related study."
     publishedDateTime: 2021-02-10T05:28:00Z

@@ -116,20 +116,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "How Microsoft brought Swiss voice assistants to life"
-    excerpt: "Microsoft’s Custom Neural Voice is now generally available. In Switzerland, the technology has been already used to create unique voice assistants."
-    publishedDateTime: 2021-02-05T20:26:00Z
-    webUrl: "https://news.microsoft.com/de-ch/2021/02/05/how-microsoft-brought-swiss-voice-assistants-to-life/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2021/02/sctv4-socialmedia-1200x630-1-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Why Microsoft’s self-driving car strategy will work"
     excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"
     publishedDateTime: 2021-02-07T08:37:00Z

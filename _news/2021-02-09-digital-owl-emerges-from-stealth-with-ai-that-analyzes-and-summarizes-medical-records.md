@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Rhino Health emerges from stealth to bring hospital data to federated learning"
+    excerpt: "Rhino Health, a startup developing a federated learning platform for exchanging health information, emerged from stealth with $5 million."
+    publishedDateTime: 2021-02-10T11:17:00Z
+    webUrl: "https://venturebeat.com/2021/02/10/rhino-health-emerges-from-stealth-to-bring-hospital-data-to-federated-learning/"
+    ampWebUrl: "https://venturebeat.com/2021/02/10/rhino-health-emerges-from-stealth-to-bring-hospital-data-to-federated-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/rhino-health-emerges-from-stealth-to-bring-hospital-data-to-federated-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Au6yBJ2UKXhLIdohdYDldIhoR8i7GI+HMBMgl9whY4+SKq995Bm4L/3o3UYSLT4I1D3M8mMOCwW5S9QJepiARsjCEZix3Z5qmQACH8V+BeMiJYjGTtKURMAR0ww8j7ecoxhTiCBtj+jJOta9vC/x9P+NrSGfojQMWWPTwzgvsju7soN8EO0HC8tEcfeOdCMobEQfvwRVunCSCkqkVkkVBHiHfSIA8h2p1uPj5eKzYUyr0Ckwuon+BqwPoIMPqdoSxnlzrOIH0wqT/QrN94O6mRhpslpKoTAMNuqyBcorxo3+kyYP6BqBVF7I4H8FgO4gaNrk+sPGhu/ywQ3Hq2iS6uwIlkelRqlz8k9TMfStaGg=;qKQy+1O1zcaUdCJAB9C17A=="
 ---

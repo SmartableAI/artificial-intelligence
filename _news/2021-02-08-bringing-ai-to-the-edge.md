@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Using AI And Machine Learning To Break Past The Constraints Of The 'New Normal'"
+    excerpt: "Getting started with AI and machine learning is becoming increasingly accessible for organizations of all sizes."
+    publishedDateTime: 2021-02-10T12:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Amazing Ways You Can Combine AI, 5G, And Machine Vision To Transform Fish Farming"
     excerpt: "Artificial intelligence, 5G, and machine vision are changing aquaculture. Several companies, including Cermaq and Google's parent company Alphabet, are transforming the traditional industry of fish farming with high-tech to provide individualized care for fish."
     publishedDateTime: 2021-02-08T05:20:00Z

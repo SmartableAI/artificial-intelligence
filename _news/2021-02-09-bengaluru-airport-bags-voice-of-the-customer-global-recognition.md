@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html"
 type: article
 quality: 59
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -169,6 +169,20 @@ related:
       name: Herve Bouillonnec
       domain: moodiedavittreport.com
     quality: 28
+    images:
+      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
+        width: 280
+        height: 280
+        isCached: true
+  - title: "Mumbai Chhatrapati Shivaji Maharaj Airport achieves ACI ‘The Voice of the Customer’ recognition"
+    excerpt: "The accolade demonstrates the efforts of the airport in gathering passenger feedback to better understand their needs and preferences during the COVID-19 pandemic."
+    publishedDateTime: 2021-02-10T12:07:00Z
+    webUrl: "https://www.moodiedavittreport.com/mumbai-chhatrapati-shivaji-maharaj-airport-achieves-aci-the-voice-of-the-customer-recognition/"
+    type: article
+    provider:
+      name: Herve Bouillonnec
+      domain: moodiedavittreport.com
+    quality: 27
     images:
       - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
         width: 280

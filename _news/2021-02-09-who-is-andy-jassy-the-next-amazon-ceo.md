@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2021/02/1048586/who-is-andy-jassy-%e2%80%
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1048586/who-is-andy-jassy-%e2%80%8b%e2%80%8bthe-next-amazon-ceo/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: What Andy Jassy’s ascension to CEO means for Amazon’s AI initiatives"
-    excerpt: "VentureBeat examines how Andy Jassy's ascention to Amazon CEO could impact the company's AI initiatives and sales of facial recognition tech."
-    publishedDateTime: 2021-02-05T19:31:00Z
-    webUrl: "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "How Andy Jassy Will Lead Amazon’s AI Strategy?"
     excerpt: "Andy Jassy is the man who built Amazon’s cloud business from scratch, making it the most profitable technology company in the world."
     publishedDateTime: 2021-02-10T07:31:00Z

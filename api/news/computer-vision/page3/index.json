@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-21-facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition.md",
+      "title": "Facebook updates its automatic alternative text system with expanded object recognition",
+      "excerpt": "The next-generation AAT system can identify more objects in photos, perceive where each object is located relative to each other and provide more detailed descriptions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dpreview.com/news/1012238603/facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition",
+      "originalUrl": "https://www.dpreview.com/news/1012238603/facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3.img-dpreview.com/files/p/E~TS590x0~articles/1012238603/facebook.png",
+          "width": 590,
+          "height": 332,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.dpreview.com/news/1012238603/facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition.amp",
+      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1012238603/facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition.amp",
+      "publishedDateTime": "2021-01-20T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Photography Review",
+        "domain": "dpreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-transforming-cpg-inventory-management-with-augmented-reality-computer-vision.md",
       "title": "Transforming CPG Inventory Management with Augmented Reality & Computer Vision",
       "excerpt": "Computer Vision AI and AR-powered visual assistance provide remote “eyes” that enable field and store employees to receive guidance on product placement and verify that shelf space is optimized, in human-assisted or self-service modes. They can quickly ...",
@@ -77,6 +120,49 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition.md",
+      "title": "Image Recognition Markets, 2025 - Digital Image Processing, Facial Recognition, Pattern Recognition",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, Jan. 20, 2021 /PRNewswire/ -- The \"Image Recognition Market by Technology (Digital Image Processing, Facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
+      "publishedDateTime": "2021-01-20T06:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1325,110 +1411,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-job-screening-service-halts-facial-analysis-of-applicants.md",
-      "title": "Job Screening Service Halts Facial Analysis of Applicants",
-      "excerpt": "HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
-      "originalUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ffcea25072d3ec215c55753/master/pass/hirevue-1210924894.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
-      "publishedDateTime": "2021-01-12T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ces-liveblog-laptops-robovacs-and-lab-grown-breast-milk.md",
-      "title": "CES Liveblog: Laptops, Robovacs, and Lab-Grown Breast Milk",
-      "excerpt": "The consumer tech show is virtual this year, and the WIRED Gear crew is watching all the Zooms to bring you up-to-the-minute highlights of news from CES.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ces-2021-liveblog-day-2/",
-      "originalUrl": "https://www.wired.com/story/ces-2021-liveblog-day-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ffcfc947576555735fb9eb6/master/pass/Gear-CES-Liveblog-Day2.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ces-2021-liveblog-day-2/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2021-liveblog-day-2/amp",
-      "publishedDateTime": "2021-01-12T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

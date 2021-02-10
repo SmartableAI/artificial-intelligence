@@ -173,6 +173,20 @@ related:
         width: 280
         height: 280
         isCached: true
+  - title: "Mumbai Chhatrapati Shivaji Maharaj Airport achieves ACI ‘The Voice of the Customer’ recognition"
+    excerpt: "The accolade demonstrates the efforts of the airport in gathering passenger feedback to better understand their needs and preferences during the COVID-19 pandemic."
+    publishedDateTime: 2021-02-10T12:07:00Z
+    webUrl: "https://www.moodiedavittreport.com/mumbai-chhatrapati-shivaji-maharaj-airport-achieves-aci-the-voice-of-the-customer-recognition/"
+    type: article
+    provider:
+      name: Herve Bouillonnec
+      domain: moodiedavittreport.com
+    quality: 27
+    images:
+      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
+        width: 280
+        height: 280
+        isCached: true
   - title: "Karnataka: Bangalore International Airport Limited Bags ACI World’s ‘Voice Of The Customer’ Award"
     excerpt: "The Bengaluru International Airport Limited launched various campaigns #WeAreHereForYou umbrella for consumers"
     publishedDateTime: 2021-02-09T08:50:00Z

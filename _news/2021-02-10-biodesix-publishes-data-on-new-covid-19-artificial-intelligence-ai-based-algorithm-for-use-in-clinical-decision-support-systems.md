@@ -54,20 +54,6 @@ related:
         width: 425
         height: 283
         isCached: true
-  - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
-    publishedDateTime: 2021-02-06T08:04:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-97a4402fba5f422483e604c3a2baf2be"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "rTV7fScS4ZZb4NvEsMAKq89hSvrBcQK0fUV8aT7f5WDqCXsXvUU76WimgQCTxEEdVyo+BcURa1ZTmY/kMb22izSyE5NaoCvApGItZPLmay8VRkg9xSJuggIN95tFoLssCe4Eu1glJ3isE9PJsohAOkFiuvL5MPKi1P8DS0LDkE6XwVwNAnBooV/+nmEC69RY5M2Ps8zr+Q3jX3U5Kv0fuTW1ZLU2nkKwpMHcsrgv66tR8q5hWK9SW8azBcV1zHhAk/XVuEywDHWdeBsaghtThLxtmVALgGp+PqFbEm41PFAlVmMIcfxXsETDcbGQJB7Qd7vxeQvNmwOsxxKfcXrrXsLkXWLWygf91o1PJJitp04=;7pQRHYKPf9cTCbkucj28/A=="
 ---

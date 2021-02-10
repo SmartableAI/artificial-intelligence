@@ -9,8 +9,8 @@ ampWebUrl: "https://thelensnola.org/2021/02/09/aclu-sues-louisiana-state-police-
 cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2021/02/09/aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Lens
@@ -42,6 +42,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/41/641d68fa-755c-11e8-be39-bb2e09e0b42b/5b2bb11f7aa0c.image.jpg?resize=1024%2C855"
         width: 1024
         height: 855
+        isCached: true
+  - title: "ACLU seeks Louisiana State Police facial recognition records"
+    excerpt: "The American Civil Liberties Union of Louisiana said Tuesday it is suing state police for records regarding the use of facial recognition technology."
+    publishedDateTime: 2021-02-10T11:35:00Z
+    webUrl: "https://www.wbrz.com/news/aclu-seeks-louisiana-state-police-facial-recognition-records"
+    type: article
+    provider:
+      name: WBRZ
+      domain: wbrz.com
+    quality: 39
+    images:
+      - url: "https://dcer237tfveol.cloudfront.net/v2/beUiUf8mf51JOSE_GdFeSQedrVZy30xb9xqIbNWT6evxUeLJLu7Ti4Rtq6R9hWhPxiYaT08W5VK2cetk3vZ7KeKi7HEUIAzUeftls6OuAwZBLAPP2_69dxCaHRGy-4bN0aSthKIXAykKJ6BKu1U9mAv_wKYo2wQInR95docqypeg"
+        width: 854
+        height: 480
         isCached: true
 
 secured: "DSUHCyI7c7U8n5Hp5z0LOyMFiT2AffVhvmoWEe9CxaEMx8IhFTWzVgFX0Dxj3i8afXHbUSdgYCQCi9AYibRnMT+wE0gPTsLQmHhnln8vE8tSjk6FiLbKxtSULVbSDroTAiMx6qod3EZbGLbwylZ0h2LLR4VqxeHI7HMW2Q0wLxzXa3H8NnVELmDrkwc7pfyYzJCNSnH5hl6bziUaxIJZD79JESl2pYFWierMgeHla6uBVGXQO6yYZFbWd3KbQkLj7q9qfszkoLi6gaRxQCHt9JJNVyfAJVoWn1GbwRFznEIsfhlhFFcjJfXn8oGIvFDfuAto1UIxk0MeGhCpSz+CHkWbbpIuE+4mckv+ehnlwZUj+ZykBGEOxCGb7FEdpv93yykIMtUuearhxZuAU0J9q64afg7ObbrYy1C+KTWjqWmMU3bZZKxGILg2+YRpO4ZQqSdmJXHdm4YPIIpdgg0kIFvRWwHxzf+OcTqJprRQFK8i3QYLT4uTPdnaOdd+YyeIrBJsdOhn8o8CrQwMK98mrA==;bI1tw8NEC3ZfdVrodVNqCg=="

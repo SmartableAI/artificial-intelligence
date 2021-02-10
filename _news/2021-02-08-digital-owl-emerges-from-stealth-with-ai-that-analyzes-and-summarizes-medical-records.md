@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rhino Health emerges from stealth to bring hospital data to federated learning"
+    excerpt: "Rhino Health, a startup developing a federated learning platform for exchanging health information, emerged from stealth with $5 million."
+    publishedDateTime: 2021-02-10T11:17:00Z
+    webUrl: "https://venturebeat.com/2021/02/10/rhino-health-emerges-from-stealth-to-bring-hospital-data-to-federated-learning/"
+    ampWebUrl: "https://venturebeat.com/2021/02/10/rhino-health-emerges-from-stealth-to-bring-hospital-data-to-federated-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/rhino-health-emerges-from-stealth-to-bring-hospital-data-to-federated-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Digital Owl emerges from stealth with AI that analyzes and summarizes medical records"
     excerpt: "Digital Owl, a startup developing a platform to extract key information from electronic medical records, has emerged from stealth.Read MoreRead"
     publishedDateTime: 2021-02-09T08:02:00Z

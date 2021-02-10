@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-10-aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents.md",
+      "title": "ACLU sues Louisiana State Police for access to facial recognition documents",
+      "excerpt": "According to suit, the State Police falsely claimed it did not have records on facial recognition. Emails released by the city of New Orleans prove that wasn't true, the ACLU says.",
+      "sourceUrl": null,
+      "webUrl": "https://thelensnola.org/2021/02/09/aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents/",
+      "originalUrl": "https://thelensnola.org/2021/02/09/aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/thelensnola.org/wp-content/uploads/2020/07/IMG_1306-scaled.jpg?fit=2560%2C1828&ssl=1",
+          "width": 2560,
+          "height": 1828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thelensnola.org/2021/02/09/aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents/",
+      "cdnAmpWebUrl": "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2021/02/09/aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents/",
+      "publishedDateTime": "2021-02-09T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Lens",
+        "domain": "thelensnola.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-dahua-facial-recognition-praises-real-time-uyghur-warnings.md",
       "title": "Dahua facial recognition praises ‘real-time Uyghur warnings’",
       "excerpt": "Dahua facial recognition praises 'real-time Uyghur warnings' Facial recognition software developed by China-based Dahua, one of the",
@@ -242,58 +285,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-the-amazing-ways-you-can-combine-ai-5g-and-machine-vision-to-transform-fish-farming.md",
-      "title": "The Amazing Ways You Can Combine AI, 5G, And Machine Vision To Transform Fish Farming",
-      "excerpt": "Artificial intelligence, 5G, and machine vision are changing aquaculture. Several companies, including Cermaq and Google's parent company Alphabet, are transforming the traditional industry of fish farming with high-tech to provide individualized care for fish.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/02/08/the-amazing-ways-you-can-combine-ai-5g-and-machine-vision-to-transform-fish-farming/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/02/08/the-amazing-ways-you-can-combine-ai-5g-and-machine-vision-to-transform-fish-farming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020c96074cb8469b584b7e3%2F0x0.jpg%3FcropX1%3D551%26cropX2%3D2028%26cropY1%3D0%26cropY2%3D1108",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/02/08/the-amazing-ways-you-can-combine-ai-5g-and-machine-vision-to-transform-fish-farming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/02/08/the-amazing-ways-you-can-combine-ai-5g-and-machine-vision-to-transform-fish-farming/amp/",
-      "publishedDateTime": "2021-02-07T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {

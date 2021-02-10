@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/02/q-ctrl-ai-based-tools-enable-quantam
 webUrl: "https://insidehpc.com/2021/02/q-ctrl-ai-based-tools-enable-quantam-computers-to-self-tune/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "New AI-based tools enable quantum computers to 'self-tune' for unparalleled results"
+    excerpt: "A new AI-based toolset developed by scientists at Q-CTRL enables quantum computers to optimize their own performance autonomously without user intervention, resulting in a 2X reduction in errors in comparison to hardware defaults."
+    publishedDateTime: 2021-02-10T12:07:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/hmc-nat020921.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/255991_web.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "Em/7fWwnP2+mTxQbP6h3AIUhuh6xTeXYGUqU+pHYv/h7rPGgDelRFeFYgnifeGUWHXWIS16FSsg2sQPKFGBXP2olrj2dvCTX5L8sOAtKCIrMojvHPgMGzddL9rxq0VAJ/6HgNvsN6HCf/gG2DefaRAjN9z8i4o3tLiahWB+8hL6Hqm5Hr3zTwOARvWrQYL/yYo23ZtJiGg7fcF0bYAEmJI3D348sfi+qYivWeGgS8viexLXG8sD/lng63ySKq9J9rHVB55GgToGWKp2Djcc6MMm+4x4dqGe+YBTbKjWZ+saJS8PgmF56eTmgHSNl+acUYfO2YifREF3dbbVmcwVdqKA2KaXi46XagLqOMlL1k3I=;t1KxJG5D3jLPpBbiVabB7Q=="
 ---

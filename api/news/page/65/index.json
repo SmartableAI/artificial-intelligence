@@ -2,6 +2,220 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-12-18-ai-controlled-a-us-military-aircraft-for-the-first-time.md",
+      "title": "AI controlled a US military aircraft for the first time",
+      "excerpt": "AI has controlled a US military aircraft for the first time, serving as a co-pilot aboard a U-2 spy plane in a milestone test for the Air Force.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-controls-us-military-aircraft-142844768.html",
+      "originalUrl": "https://www.engadget.com/ai-controls-us-military-aircraft-142844768.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F88a387b0-4136-11eb-b7ff-d535d526638c&client=amp-blogside-v2&signature=746051fd7fa46351f3d53bca721d6e884784658e",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html",
+      "publishedDateTime": "2020-12-18T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-acryl-launches-advanced-integrated-ai-artificial-intelligence-service-platform-jonathan.md",
+      "title": "Acryl Launches Advanced Integrated AI (Artificial Intelligence) Service Platform, Jonathan®",
+      "excerpt": "Acryl, Inc., a leading AI (artificial intelligence) technology company, unveils a pilot service for Jonathan®, an integrated AI platform that can be used in a variety of industries with a spectrum of users from non-experts to professional developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201218005063/en/Acryl-Launches-Advanced-Integrated-AI-Artificial-Intelligence-Service-Platform-Jonathan®",
+      "originalUrl": "https://www.businesswire.com/news/home/20201218005063/en/Acryl-Launches-Advanced-Integrated-AI-Artificial-Intelligence-Service-Platform-Jonathan®",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-deepmind-revenue-dwarfed-by-649-million-loss.md",
+      "title": "DeepMind revenue dwarfed by $649 million loss",
+      "excerpt": "DeepMind’s revenue more than doubled from $139 million to $359 million while losses increased from 2018 to 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/",
+      "originalUrl": "https://www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2020/12/DeepMind-Revenue-Alphabet-Google.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/amp/",
+      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/amp/",
+      "publishedDateTime": "2020-12-18T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Leadership",
+        "domain": "industryleadersmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year.md",
+      "title": "Nvidia’s Inception program tracks 7,000 AI startups, up 25% in a year",
+      "excerpt": "Nvidia's Inception program is tracking over 7,000 AI startups, up 25% in a year. That's a lot of growth in a very tough climate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/",
+      "originalUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-nv-inception-milestone-logo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/",
+      "publishedDateTime": "2020-12-18T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-the-next-stock-market-crash-is-rooted-in-this-cognitive-misconception.md",
+      "title": "The Next Stock Market Crash Is Rooted In This Cognitive Misconception",
+      "excerpt": "In my view, the problem is a widespread and increasingly spreading cognitive distortion ... to sleep soundly despite the high valuations. Microsoft, in particular, has seen that such companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4395384-next-stock-market-crash-is-rooted-in-this-cognitive-misconception",
+      "originalUrl": "https://seekingalpha.com/article/4395384-next-stock-market-crash-is-rooted-in-this-cognitive-misconception",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise.md",
       "title": "Microsoft Teams: Switch on new AI-powered noise suppression to cut out unwanted background noise",
       "excerpt": "Microsoft has trained its algorithm to identify more than 150 annoying background noises and stop them from interrupting your calls.",
@@ -935,239 +1149,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-missouri-farm-bureau-selects-ssc-for-insurance-accounting.md",
-      "title": "Missouri Farm Bureau Selects SS&C for Insurance Accounting",
-      "excerpt": "SS&C Technologies Holdings, Inc. today announced that Jefferson City- based Missouri Farm Bureau will migrate its insurance investment accounting to SS&C SmartSource SM services powered by Singularity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/missouri-farm-bureau-selects-ssc-for-insurance-accounting-2020-12-17",
-      "originalUrl": "https://www.nasdaq.com/press-release/missouri-farm-bureau-selects-ssc-for-insurance-accounting-2020-12-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform.md",
-      "title": "Intel reveals new Clover Falls AI-powered coprocessor for Intel Evo platform",
-      "excerpt": "Intel unveiled their latest enhancement to their Intel Evo mobile computing platform this week: Clover Falls, an AI-powered coprocessor that Intel says will noticeably improve laptop power efficiency and battery life going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "originalUrl": "https://www.techradar.com/nz/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/tHasCRNvhLb5akDB52Swkc-1200-80.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "publishedDateTime": "2020-12-17T13:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-has-ai-adoption-plateaued-or-is-it-just-catching-its-breath.md",
-      "title": "Has AI adoption plateaued, or is it just catching its breath?",
-      "excerpt": "While AI adoption in the enterprise has slowed, major breakthroughs in AI research this year show the technology is still moving forward.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/",
-      "originalUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/plateau.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/amp/",
-      "publishedDateTime": "2020-12-17T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money.md",
-      "title": "How Corporate Card Startup Ramp Is Using AI To Save Clients Money",
-      "excerpt": "Ramp's growth and success in attracting venture funding in a challenging economic environment further prove that their business model is prescient and signals the future of fintech,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbc218d27bb5af30fdc3c9%2F0x0.jpg",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/amp/",
-      "publishedDateTime": "2020-12-17T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025.md",
-      "title": "Speech and Voice Recognition Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2020-2025",
-      "excerpt": "(MENAFN - America News Hour) Market Overview: The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101298104/Speech-and-Voice-Recognition-Market-Share-Trend-Opportunity-Affect-On-Demand-By-COVID-19-Pandemic-And-Forecast-2020-2025",
-      "originalUrl": "https://menafn.com/1101298104/Speech-and-Voice-Recognition-Market-Share-Trend-Opportunity-Affect-On-Demand-By-COVID-19-Pandemic-And-Forecast-2020-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?327574",
-          "width": 444,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T12:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
