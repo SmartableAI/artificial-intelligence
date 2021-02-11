@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "airaio"
   url: "https://twitter.com/airaio"
-  followers: 4162
+  followers: 4163
 
 size: 11-50 employees
 yearFounded: 2015
