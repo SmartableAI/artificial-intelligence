@@ -150,6 +150,20 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 37
+  - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
+    excerpt: "BRAVE Innovations LLC rallies community, faith groups, healthcare workers, colleges, and civic organizations to spur participation in urgent voiceprint research"
+    publishedDateTime: 2021-02-11T01:09:00Z
+    webUrl: "https://www.wboc.com/story/43329903/georgia-startup-races-to-complete-ai-powered-voice-based-covid-19-screening-tool"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 32
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20362691_G.jpg?lastEditedDate=1612981275000"
+        width: 716
+        height: 415
+        isCached: true
 
 secured: "/2JlEEWQA6vZrHNzRHkZpNTh6ea3lXyekA8b2hkGzDOMesjyCll/PI/uqsqcHoOw+n4FJUl85EzqmHszOQemwOCPOVNx1r9+YsQj+zdXa3cPblrbgJ9m9k8laYtNhUCTKPrW5jDERMDgca+6ywbPLIrVp6/VRH4a9uYdJ2HaszjLnTF5tLFhdmPBNqPTEVfYsWqqw5MHDEKVIvdg6CKKf057RbWH77Gn5/GGf2miPPFg1I6vfiAgx50yozQhhwCIRO5ZQBMun9iKCgmB8V00DcefS23m3MMpEtuVPpQ8afTpds4UQVfB3d9NqZQzNe/fom3muO81Wec+wk/3petZ/UuCTSZHuL2nD/9Nbk+CGFhOYGcMli1vHpxOYQCNf3quNOygst7TcTM/+A2xDYH4SYl2a+fLtL3GkOFliB/OwqTbDF8Jg1+16WzljDZDkoWWr9EnHV+P8vrbyXPkwQi2ezQFing8LoFd93mXEwtz3DIAqYDsCGozBlPjHfQtGXMaA82Puv8EdzyyOJV4AxIzmg==;C28bq/Q3a8T4rgMV1LUS7A=="
 ---

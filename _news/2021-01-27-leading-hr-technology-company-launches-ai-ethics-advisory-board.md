@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Leading HR Technology Company launches AI Ethics Advisory Board"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BALTIMORE, Jan. 26, 2021 /PRNewswire/ -- Arena Analytics launched its external AI Ethics Advisory Board - the first human ..."
-publishedDateTime: 2021-01-26T19:36:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
-webUrl: "https://markets.businessinsider.com/news/stocks/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
+excerpt: "BALTIMORE, Jan. 26, 2021 /PRNewswire/ -- Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12, 2021. Arena's ..."
+publishedDateTime: 2021-01-26T19:52:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
+webUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "YAPOXOlEMlXkqUvHhZ5rITDjlIMrdgKiETI8BtKzb5wa24GS6ZQWCEskKwbNkVcidMKP5SFT10NTbb+QyYGZbhMncOHERwxotKcFGsji+PA4UQeX7rWB/It7BALE+/r8zZdM0iYqUQ9yO6bmwbYLJIf1TDFmWzOGg2wQnytRnvW9GcUtwvqaGkI1fnR0GalWk7qWn+10/dSCO6IYoo9oFHc6AuAAz/3gY8504mTzvTYUksefcK0xLQUjUpxxiGQdO3NzZVAQ5GmV2OqX734IuEcPMW2TY92p89dxHKVx40KanYsT3F17Kgx0RwJBi/boUBESgJMhfKE/N1xkjgYxexHXgXGNyYtIQgeP972T4Ws=;OX3xo9Lslm4aNutW+3zdcg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1427165/arena_ethics_advisors.jpg?p=facebook"
+    width: 1920
+    height: 1005
+    isCached: true
+
+secured: "xUxeloGGcPwVzySX88iEoAKuZi70laXTg60ZPP2RQ7wXAH+N4ysZNVmdwmGRwd/JtwMP6WBEpwsEf78ejmdh1Ic+08yjYjLKm0zhPg84fPZVS5nwiF9iYqEKGIrmuFHvWL/sIXsshxTACMLHP9n2zFWVXc2ofm3bmWeWG7VE8pPGn3nUstIJFspwqitXWF39VBrx7YIuDnjvjd17hEl3WkVAGxgwqcXpeejKvRYXOtHL6XryrzrVTMTrXxs5l0qzOotvrSJk9oxvi2lsXaTjklru2BsDreNB0jlawGlAeD4lrCdsZlFREmCDjEs5vCOyTbk53UsLUfMl4Gg7/SYnW08s/LSQcmtQfDwZ3fxyZEQ=;sTC7YMk16H4Lp5cO4CXAWg=="
 ---
 

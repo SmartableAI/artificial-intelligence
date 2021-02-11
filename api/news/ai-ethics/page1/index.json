@@ -1229,34 +1229,34 @@
     {
       "path": "_news/2021-01-27-leading-hr-technology-company-launches-ai-ethics-advisory-board.md",
       "title": "Leading HR Technology Company launches AI Ethics Advisory Board",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BALTIMORE, Jan. 26, 2021 /PRNewswire/ -- Arena Analytics launched its external AI Ethics Advisory Board - the first human ...",
+      "excerpt": "BALTIMORE, Jan. 26, 2021 /PRNewswire/ -- Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12, 2021. Arena's ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008",
+      "webUrl": "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1427165/arena_ethics_advisors.jpg?p=facebook",
+          "width": 1920,
+          "height": 1005,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008",
-      "publishedDateTime": "2021-01-26T11:36:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T11:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

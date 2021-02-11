@@ -2,6 +2,135 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-28-machine-learning-technique-helps-predict-covid-19-outcomes.md",
+      "title": "Machine Learning Technique Helps Predict COVID-19 Outcomes",
+      "excerpt": "Mount Sinai researchers used a machine learning technique called 'federated learning' to predict outcomes of COVID-19 patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/pollen-allergy-women-cold.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "publishedDateTime": "2021-01-28T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-systran-enhances-automated-professional-translation-by-launching-the-first-catalog-of-industry-specific-translation-models.md",
+      "title": "SYSTRAN Enhances Automated Professional Translation by Launching the First Catalog of Industry-Specific Translation Models",
+      "excerpt": "SYSTRAN, the leader in neural machine translation technology, announces the launch of its new multilingual catalog of industry-specific translation models. These unique models are designed by a community of experts called ‘trainers’—owners,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-industrial-technology-5017e6248e188d73d21d9d9e0aa5fb2f",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-industrial-technology-5017e6248e188d73d21d9d9e0aa5fb2f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-grooper-intelligent-document-processing.md",
+      "title": "Grooper - Intelligent Document Processing",
+      "excerpt": "BIS, creator of Grooper® - a leading intelligent document processing and digital data integration platform is recognized in Quadrant Knowledge Solutions SPARK MatrixTM: Intelligent Document Processing Report.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/4f8f67b70640b4ba3ff0f547f7b2a832",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/4f8f67b70640b4ba3ff0f547f7b2a832",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T00:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-levity-is-a-no-code-ai-tool-to-let-anyone-create-workflow-automations.md",
       "title": "Levity is a ‘no-code’ AI tool to let anyone create workflow automations",
       "excerpt": "Levity, which has been operating in stealth (until now), is the latest no-code company to throw its wares into the ring, having picked up $1.7M in pre-seed funding led by Gil Dibner’s Angular Ventures.",
@@ -673,6 +802,40 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
+      "title": "Baidu gets California nod for testing empty self-driving cars",
+      "excerpt": "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-gets-california-nod-for-testing-empty-self-driving-cars-2021-01-27",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-gets-california-nod-for-testing-empty-self-driving-cars-2021-01-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-gets-california-nod-for-testing-empty-self-driving-cars-2021-01-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-gets-california-nod-for-testing-empty-self-driving-cars-2021-01-27?amp",
+      "publishedDateTime": "2021-01-27T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-aws-introduces-healthlake-and-redshift-ml-in-preview.md",
       "title": "AWS Introduces HealthLake and Redshift ML in Preview",
       "excerpt": "Redshift ML is a service that provides a gateway into SageMaker to Redshift users. Using Redshift ML, you can deploy ML models by just using SQL statements. Healthcare data mostly comprises ...",
@@ -807,49 +970,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
-      "title": "Baidu Gets California Nod for Testing Empty Self-Driving Cars",
-      "excerpt": "Baidu Gets California Nod for Testing Empty Self-Driving Cars OAKLAND, Calif (Reuters) - Baidu Inc has received a permit from the state of California to test self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp",
-      "publishedDateTime": "2021-01-27T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1040,163 +1160,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-deepmind-co-founder-was-investigated-by-a-law-firm-following-staff-complaints-on-his-management-style.md",
-      "title": "DeepMind co-founder was investigated by a law firm following staff complaints on his management style",
-      "excerpt": "The truth about why DeepMind's Mustafa Suleyman left the company he co-founded may finally be coming out. Suleyman's departure from the Google-owned and London-based AI lab was announced out of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/27/deepmind-co-founder-investigated-by-law-firm-after-staff-complaints-.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/27/deepmind-co-founder-investigated-by-law-firm-after-staff-complaints-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106830698-1611754303373-GettyImages-627782598.jpg?v=1611755158",
-          "width": 5496,
-          "height": 3664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/27/deepmind-co-founder-investigated-by-law-firm-after-staff-complaints-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/27/deepmind-co-founder-investigated-by-law-firm-after-staff-complaints-.html",
-      "publishedDateTime": "2021-01-27T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-deepset-achieves-a-39x-speedup-and-128x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia.md",
-      "title": "Deepset achieves a 3.9x speedup and 12.8x cost reduction for training NLP models by working with AWS and NVIDIA",
-      "excerpt": "This is a guest post from deepset (creators of the open source frameworks FARM and Haystack), and was contributed to by authors from NVIDIA and AWS.&nbsp; At deepset, we’re building the next-level search engine for business documents. Our core product, Haystack, is an open-source framework that enables",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deepset-achieves-a-3-9x-speedup-and-12-8x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deepset-achieves-a-3-9x-speedup-and-12-8x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/21/ML-2254-1-1159x630.jpg",
-          "width": 1159,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T10:11:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-this-robot-could-be-mass-manufactured-to-fight-the-pandemic.md",
-      "title": "This Robot Could Be Mass-Manufactured to Fight the Pandemic",
-      "excerpt": "Now more than ever, the pandemic has created the need to incorporate new technologies that will help reduce the workload of health professionals. Likewise, the prevention of the risk of contagion, reducing physical contact between people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/364271",
-      "originalUrl": "https://www.entrepreneur.com/article/364271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611768922-sophia-robot1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364271",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364271",
-      "publishedDateTime": "2021-01-27T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

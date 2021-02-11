@@ -148,6 +148,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
+    excerpt: "BRAVE Innovations LLC rallies community, faith groups, healthcare workers, colleges, and civic organizations to spur participation in urgent voiceprint research"
+    publishedDateTime: 2021-02-11T01:09:00Z
+    webUrl: "https://www.wboc.com/story/43329903/georgia-startup-races-to-complete-ai-powered-voice-based-covid-19-screening-tool"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 32
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20362691_G.jpg?lastEditedDate=1612981275000"
+        width: 716
+        height: 415
+        isCached: true
 
 secured: "8yno2INSbR+kw7NfSzpNpHgpODflDfCEFVJoewE5PNmvdLv6gIPDQKDWebxcQDo+BjsBw6ZoEQlnlz4GlsE2bnwBPTYCiiTdknpP6HYdsePWSjzWfoADeQ7fbhKV30EFo7GzGX/qFX0WPrrrf/qAZngiTWQUVsgu5qw8iAuTkjIympOvHfK+3SF1f8lC8dJVWD47ZmLNvRf5rGX2eZcJQx6A02N2E4W70jQf6JleIOxfJa5edc+GwC28JmsHLQeheS1rEd62NMIYxZUB4cOJYkR0AGvfEAv4i+7xfY9kXKopE7lj4MK0cgnruaorzqZ7qDplYDJ6tJeSnDnuCc4cpvRcWmnel722GsU05r167tRMMdjE3pQowmburb6scGnJSJ4LUoMvcdNCC5n5YGr+ihpo7hXq/SGKSTJPhJSVueQw0GRvqDqTEoX5wfK8aQS3swbypJBMLjJ6RiONKzoIWOCpcckr2QD/JWrfZiaGkbQWL4dXno5pn+KfL8W1flybSrD6kmdBMgU9VS2XTx0l9A==;Cc9+q8InDEhBKOciTH7cWw=="
 ---

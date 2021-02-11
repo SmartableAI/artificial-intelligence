@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -153,6 +153,20 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 37
+  - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
+    excerpt: "BRAVE Innovations LLC rallies community, faith groups, healthcare workers, colleges, and civic organizations to spur participation in urgent voiceprint research"
+    publishedDateTime: 2021-02-11T01:09:00Z
+    webUrl: "https://www.wboc.com/story/43329903/georgia-startup-races-to-complete-ai-powered-voice-based-covid-19-screening-tool"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 32
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20362691_G.jpg?lastEditedDate=1612981275000"
+        width: 716
+        height: 415
+        isCached: true
 
 secured: "hFUAtfGGbbayqgC/137HKV/fEfD8NQiCKcbNCGhkdenx3Xiyr8UyIcuOlYaDRdKdH7LabTRCbE7HtxJz6ja0HPwd3C8aKA9bNxW7kryrUFXc4qGeXwxrTl86o3l+weVS6l1S9mS1SGFOm/ZvryVTrBty7afF8VoUxIPvIiech3fgePy1bs7aPxqQdakMlPatAInixbDe/cAng8nFNmlyV7ajKLICUzPt9sB/wtVhbfIgbpIMiprFsut95gMsjfLcIemsKkkcvpZQrIRxhKIzOPxAYF5wFODNJ166Ie3AnvtKM4vg6fqCxwap36JpClcZcsfwJz+QZwKbDvpfWG6GVhoefNu7qdmlyJGr/xOLTyEeUNvC0WqkTjwm0RIdcskX3Bh+ujpWitobidYtAXd6ndy8+cJgnNcd+1vbAwBDiok56n2U5kDi2ZYS2RhdMN0nqNi3Iu8w968Ct8K8UBjdWHtSVoAYD8joIXrT1ZJRefsRawOcEty8nShFkjxzgJWXCkN11tlj+cmbXpZJGL2rkA==;35y3p3AIoIKmStzdQ5XYlA=="
 ---

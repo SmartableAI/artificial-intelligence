@@ -37,6 +37,22 @@ related:
         width: 3000
         height: 1966
         isCached: true
+  - title: "Chinese Search Giant Baidu Looks to Launch AI Chip Company"
+    excerpt: "In that regard, Kunlun was a general-purpose chip that gave Baidu versatility and flexibility in the AI field. But the creation of its own chip business allows it to go further into new technologies, like self-driving cars, while also insulating itself ..."
+    publishedDateTime: 2021-02-10T16:02:00Z
+    webUrl: "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 106
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612596%2Fartificial-intelligence-ai-neural-network-machine-learning-getty.jpg&w=1200&op=resize"
+        width: 1200
+        height: 773
+        isCached: true
   - title: "Chinese tech giant Baidu reportedly plans to launch an AI chip company"
     excerpt: "Baidu is reportedly planning to launch a subsidiary AI chip firm, which could boost China‘s efforts to develop a domestic semiconductor industry. CNBC reports that the search giant is in talks with venture capital firms GGV and IDG Capital about investing in the venture."
     publishedDateTime: 2021-02-10T21:01:00Z
@@ -53,17 +69,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Chinese Search Giant Baidu Looks to Launch AI Chip Company"
-    excerpt: "China's search engine giant Baidu (NASDAQ: BIDU) is reportedly in talks to raise cash for the creation of a stand-alone artificial intelligence (AI) semiconductor company. CNBC reports GGV and IDG Capital,"
-    publishedDateTime: 2021-02-10T16:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10"
-    ampWebUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
   - title: "Baidu in negotiations to raise funds to start AI chip company"
     excerpt: "Chinese tech giant Baidu is in talks to raise money to start its own standalone artificial intelligence semiconductor chip company."
     publishedDateTime: 2021-02-10T12:05:00Z

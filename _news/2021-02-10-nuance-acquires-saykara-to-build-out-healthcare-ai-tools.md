@@ -69,6 +69,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Nuance Acquires Digital Health Startup Saykara to Boost AI Products"
+    excerpt: "Nuance Communications on Wednesday announced the acquisition of Saykara, a like-minded startup focused on developing a mobile AI assistant to automate clinical documentation for physicians. The acquisition underscores Nuance's ongoing expansion of market and technical leadership in conversational artificial intelligence (AI) and ambient clinical intelligence (ACI) solutions that reduce clinician burnout,"
+    publishedDateTime: 2021-02-11T01:02:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/19032-nuance-acquires-digital-health-startup-saykara-to-boost-ai-products"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/15d38b92750c7edf8cf639c5ba6826a5.jpg?t=20210211_010037"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Healthcare Ventures Has Launched a Venture Capital Fund, Dedicated to Digital Health"
     excerpt: "As a specialist digital health fund, Sydney based Healthcare Ventures will invest in early stage and growth companies transforming healthcare via digital health technologies. The investment strategy focuses primarily on Australian companies going global,"
     publishedDateTime: 2021-02-07T20:36:00Z

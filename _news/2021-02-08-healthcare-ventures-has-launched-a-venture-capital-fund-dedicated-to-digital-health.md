@@ -84,6 +84,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Nuance Acquires Digital Health Startup Saykara to Boost AI Products"
+    excerpt: "Nuance Communications on Wednesday announced the acquisition of Saykara, a like-minded startup focused on developing a mobile AI assistant to automate clinical documentation for physicians. The acquisition underscores Nuance's ongoing expansion of market and technical leadership in conversational artificial intelligence (AI) and ambient clinical intelligence (ACI) solutions that reduce clinician burnout,"
+    publishedDateTime: 2021-02-11T01:02:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/19032-nuance-acquires-digital-health-startup-saykara-to-boost-ai-products"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/15d38b92750c7edf8cf639c5ba6826a5.jpg?t=20210211_010037"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "tpZ+2Ob31IzBiyS7V9T9jtiqgsYTO61tUNH7RuPlnfGSJMPL3tBABYuzoGyhJqUqMHUuyJnEBUPbDmrf1/QhfiKx6Xzm81G+Djh00YkGVnPkpX6ln35T5CCGw1Mpd5Vh/7JWlZfbYlzzDni/jtRII/vhKLor9u8aCXckyFG4WUSp0G4SgjcGPG+wzTtUi6jeeT+xn/b/pu4hRAG1IeolKwRjKkErd3QMqNE0kLcjtf1RgrDeiN7397PRPHBR3X4BvH4kGnq8C97+TbGRYzQ102SfoTU6B8xDHaH624L+cNn3HaGEzDakU+jPqmf010VnZF2Ku50jZGE6frsGcfuKMrQnuP/lYQ+HO+mKV5MiaY8=;LfbVzYf7nSXd2Edx3ev4Hw=="
 ---

@@ -27,6 +27,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "IoT Chip Market Market Size, High Demand, Recent Trends, Future Growth, Business Scenario, Product, Technology, Share and Forecasts 2020 – 2027"
+    excerpt: "The global Internet of Things (IoT) chip market reached a valuation of USD 11.37 Billion in 2020 and is expected to reach a market size of USD 34.74 Billion by 2028, registering a CAGR of 14.9% in terms of revenue growth during the forecast period,"
+    publishedDateTime: 2021-02-11T01:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/iot-chip-market-market-size-high-demand-recent-trends-future-growth-business-scenario-product-technology-share-and-forecasts-2020-2027-2021-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "WKJkP64gWiHX6wmEoRmHXSpVjwDTAlVj3X7N4QaivXT+u3wxC0uVGp/mynuZlP96uZWwKUNMM0gd2lwTrkeheTEtfZAGJBgAbEm5tqOv3C3Olfa8KNi900NKpWY61tPKAKGqycaiVfxkc9jUDM5b/GTzzZ1zefimR+icE1guS/it1O8vyQ/doDCrqBA+X/BcysloDrPBrRymSB0IyxcsCFWZlcUIr7FiF5tlsSmLE14C/gmJJBw9c9i0f6sj87TjOspBAQw8ciwDTojZKPH4h6oYLW0EtZ3rI9chETNMQbXwEC4cPhwLnX/uRIDXao73rQeMmoNhMY8MYbjcrKS5GmsvaR0dBflHRMa6rUw/EpM=;0rLRRHune03fthJdk8Wbsw=="
 ---
 

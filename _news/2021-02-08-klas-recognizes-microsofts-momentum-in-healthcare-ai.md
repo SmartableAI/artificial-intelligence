@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/klas-recognizes-microsofts-moment
 webUrl: "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/"
 type: article
 quality: 121
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -144,6 +144,20 @@ related:
       - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
         width: 1920
         height: 1152
+        isCached: true
+  - title: "Artificial Intelligence as a Service Market to See Massive Growth by 2026 | Ibm, Google, Amazon Web Services, Microsoft"
+    excerpt: "Global Artificial Intelligence as a Service Market Report 2021 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
+    publishedDateTime: 2021-02-11T01:13:00Z
+    webUrl: "https://menafn.com/1101580983/Artificial-Intelligence-as-a-Service-Market-to-See-Massive-Growth-by-2026-Ibm-Google-Amazon-Web-Services-Microsoft"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?760531"
+        width: 333
+        height: 250
         isCached: true
   - title: "Why Microsoft’s self-driving car strategy will work"
     excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"
