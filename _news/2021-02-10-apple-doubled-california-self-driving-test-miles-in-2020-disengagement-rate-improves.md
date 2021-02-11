@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving car companies reveal 2020 test data: Cruise and Waymo improve, Apple quits"
+    excerpt: "Self-driving car companies reveal 2020 test data: Cruise and Waymo improve, Apple quits Cruise fared much better last year, but we are"
+    publishedDateTime: 2021-02-11T17:49:00Z
+    webUrl: "https://www.compsmag.com/news/apple/self-driving-car-companies-reveal-2020-test-data-cruise-and-waymo-improve-apple-quits/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/self-driving-car-companies-reveal-2020-test-data-cruise-and-waymo-improve-apple-quits/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/self-driving-car-companies-reveal-2020-test-data-cruise-and-waymo-improve-apple-quits/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 51
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-companies-reveal-2020-test-data-Cruise-and-Waymo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4gTQ3yUsTv9fmjypaPZOFPHFlBM+CEOF0tceqa5oO38Ny697mKTWJXE+5MWr1bzd4jvEO47+5ve3H6lAaOmu7Q9+F71P6+zNxlSFmNFOlhBrEJUVHZ6AFHAu8PuxQN0c/ssyOBe/Fysw/O/dbm9sX1GlZnLReYcls4yGxHVSmDkFD1sarGuyM+2QJGzArtZIs9OOmzqz5PIQki0uhmhGsfw4UB2QoXSuJDkRz55mUjLFInYytB23P6rfuNsBKLB6FpVcyHK3lUZA+itOkbTWYSB5wdroi53RwV0L8H6AwjJTurKC8Lud+uQQuXUYxEM6STXWRtI1qK0Qsqt3lAETTz1YQgumPxxoz2DTNkrznlA=;ZRykOrDoRh7ShCwJkNeNrw=="
 ---

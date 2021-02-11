@@ -88,6 +88,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Immunai raises $60 million to analyze the immune system with AI"
+    excerpt: "Immunai, a startup developing an AI platform for biomarker discovery, has raised $60 million in venture funding."
+    publishedDateTime: 2021-02-11T17:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/11/immunai-raises-60-million-to-analyze-the-immune-system-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/02/11/immunai-raises-60-million-to-analyze-the-immune-system-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/immunai-raises-60-million-to-analyze-the-immune-system-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Autonomous Vehicle Tech Pony.ai Raises $100 Million"
     excerpt: "Pony.ai, a California developer of self-driving car technology that has landed big investments from Toyota and other major automobile players, has raised $100M."
     publishedDateTime: 2021-02-08T13:52:00Z

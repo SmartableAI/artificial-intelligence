@@ -144,18 +144,18 @@ related:
         height: 450
         isCached: true
   - title: "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision"
-    excerpt: "Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation Intelligence (DAI) platform that enables organizations to automate the testing of high-speed applications which optimizes the delivery and quality of digital products."
-    publishedDateTime: 2021-02-11T16:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-santa-rosa-products-and-services-57addd018cd94b4abc26a4111dae2cdc"
+    excerpt: "Keysight Technologies, Inc. , a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation"
+    publishedDateTime: 2021-02-11T16:10:00Z
+    webUrl: "https://www.lelezard.com/en/news-19647483.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 20
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Corsight AI receives top rankings in 2020 Biometric Technology rally conducted by DHS"
     excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that the company received top rankings in the 2020 Biometric Technology Rally, conducted by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T)."

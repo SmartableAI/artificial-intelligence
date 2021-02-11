@@ -33,6 +33,22 @@ related:
         width: 1024
         height: 524
         isCached: true
+  - title: "Microsoft and HPE collaborate to connect Azure to space"
+    excerpt: "The team-up with Hewlett Packard Enterprise will be centered around delivering Azure capabilities to space through HPE's Spaceborne Computer-2, which is set to be launched this month."
+    publishedDateTime: 2021-02-11T12:14:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-hpe-collaborate-to-connect-azure-to-space"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-hpe-collaborate-to-connect-azure-to-space/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-hpe-collaborate-to-connect-azure-to-space/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 104
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/02/1613063261_azure_space_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
     excerpt: "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station."
     publishedDateTime: 2021-02-11T13:00:00Z
@@ -208,6 +224,38 @@ related:
       - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_1248578830.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "VW uses Microsoft’s cloud to develop self-driving software"
+    excerpt: "VW uses Microsoft's cloud to develop self-driving software Volkswagen AG said Thursday that it will use Microsoft Corp's cloud computing"
+    publishedDateTime: 2021-02-11T16:59:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/vw-uses-microsofts-cloud-to-develop-self-driving-software/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/vw-uses-microsofts-cloud-to-develop-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/vw-uses-microsofts-cloud-to-develop-self-driving-software/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 61
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
+        isCached: true
+  - title: "Volkswagen To Use Microsoft’s Cloud To Help Develop Autonomous Driving Tech"
+    excerpt: "By using Microsoft's cloud technology, Volkswagen hopes to speed up the development of its autonomous vehicles."
+    publishedDateTime: 2021-02-11T17:36:00Z
+    webUrl: "https://www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/"
+    ampWebUrl: "https://www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 57
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/02/2021-Volkswagen-ID-Range-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"

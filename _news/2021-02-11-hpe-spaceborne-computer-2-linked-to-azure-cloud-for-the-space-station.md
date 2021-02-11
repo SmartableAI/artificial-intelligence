@@ -7,7 +7,7 @@ originalUrl: "https://spacenews.com/spaceborne-computer-2/"
 webUrl: "https://spacenews.com/spaceborne-computer-2/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 900
     height: 505
     isCached: true
+
+related:
+  - title: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station"
+    excerpt: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station . Among the cargo to be launched into"
+    publishedDateTime: 2021-02-11T16:27:00Z
+    webUrl: "https://www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 45
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/A-cloud-connected-AI-enabled-commercial-computer-is-on-its-way-to.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
+    excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
+    publishedDateTime: 2021-02-11T13:01:00Z
+    webUrl: "https://www.fltimes.com/business/national/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space-commercial-edge-computing-and/article_9282cae1-be6c-5b5e-8489-3f1747bafeab.html"
+    type: article
+    provider:
+      name: Finger Lakes Times
+      domain: fltimes.com
+    quality: 0
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
+    excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-"
+    publishedDateTime: 2021-02-11T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210211005201/en/Hewlett-Packard-Enterprise-Accelerates-Space-Exploration-with-First-Ever-In-Space-Commercial-Edge-Computing-and-Artificial-Intelligence-Capabilities"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "+Vm3nmQrsFGcAs2NSdaqVu2gbVuagPOGH/YPtt1lRMEmt58fpdAzixPp1xSbAI28ZfMMyhYMUJcCVJGBLWoXNZ9MYHd7pY8VYN2XlCHwr0QH/mzw4FUg05GYFJMDB2o2c6LD0wJ6ipn+moaCDVnvtfSBLMSWXuHNpQmCQoCkcS1sl/9dICzeccyupUgvBA504mnCaHHVe41/4qgoZ2zBIqoI3n/9qwWZUmwzeNwb8Xp1pXY1FhLEeWZ2K1Z3tnNvwBOh9aPyhYsUhn5zX0igRUBqlfFjz9nNOoBG85+br2E7xjWGOrOvVHVImVXLpxhtcgH0hZVQa8Pl56vlON6fl/xdBwezRc4OcJhCCGqvmtJLLsyXlHuR5kXatRbjTakeuZMWdATK++9by6ntDs8/JZ/ZqqsMHI5nlp/Ie+CDjNjsjefVPYs6OcKXBHVasVRJiwiTl+O1Xpu6z9ybazURTyVGDk3Sia/YFb0LkicrkkpbZjh/mII2ECx+BpvtR0Ip/PPDQOs1ANVi4Xhx7XufHA==;FJATYhmYIORl+N18Z26e2Q=="
 ---

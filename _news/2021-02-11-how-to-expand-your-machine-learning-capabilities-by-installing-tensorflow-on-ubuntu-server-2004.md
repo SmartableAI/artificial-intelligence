@@ -3,10 +3,10 @@ category: news
 title: "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04"
 excerpt: "If you're looking to add Machine Learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04."
 publishedDateTime: 2021-02-10T16:07:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
-webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+originalUrl: "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+webUrl: "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/"
 type: article
 quality: 110
 heat: -1
@@ -21,10 +21,10 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
-  - AI
-  - Google AI
   - TensorFlow
+  - Google AI
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2019/04/15/c4cd780e-d300-42ff-bed2-b5a9f568dc3f/resize/1200x/93ee1e53acaf6f50c163d1dc759fc216/tensorflowgoogle.jpg"
@@ -76,6 +76,6 @@ related:
         height: 413
         isCached: true
 
-secured: "u/mOx6YFQYYVvN1saeta59yOssF/4xnUiGA81HCT3ne09z2dW5ExINsaYAsVk/eFHXAcvOLv+SF+VhfQ4izl5zX5lhcq/TFVEF/eTP9/teMyWvaQ/SwaM371lVuV6zhUSEvSGRblT4kyNA3BisFy2F17TwTrZgsOO/2dWh5166WFCYorrevoW89eLT26NKc6CMRwkW1eFAcP0J/itOO2uRVLfnNozltNrNdRwVFWkjWaFEbcaZJ6tBG9dghUHfspM8Ye0+66MMKdRP12rQye9SZrzCJMmANEy19p5eyy5XwDLsRZMtI97zUHB/ms0SrXi4H8+yXe5P+OpUVyDwj3Wk85d+szr9AchTETfMy00Hk=;WKR0sFeB3FJKmnvGPztpYA=="
+secured: "ObevhvMe8YaYc67wjK1gZUkG36GGvAm+oRxYcELxohcN+WJpYieQEG8TYFkJAkXRQ1Gziu2ek1i+RBf6IT48ixrV30Ka2ZCDk+H1nsIZrcf7D2cxRr1nec14EknnLWZSXYLIWAbCNX29/WA/b0/UAwNOK7NK98HZ4vVmp8lgm4ZPUYgRkQiPWdvd/f88SwW08PLiwQLU6X6FtYpLxSlHLby1Zxl0pM0tCZiZfFSmufN2I5tdGI0H2Tas6dL3Lo/gkTeK4xYCv8302/IAUhu4rqxgMNCysAkPsRY0e98R6he7ec61oB5jFuMXT5a0+D0szAWu0pGgKX/F0dwxUdIWkrUM+XHPr9obkVVOjnbgCe8=;yDW4yoMSE0dVPfUHqcxI9Q=="
 ---
 
