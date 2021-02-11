@@ -1,31 +1,33 @@
 ---
 category: news
 title: "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season"
-excerpt: "AWS machine learning and analytics services continue to bring deeper insights to the game of football and enhance the fan experience with new advanced statistics including Most Pressed Player, Attacking Zones,"
-publishedDateTime: 2021-02-11T13:27:00Z
-originalUrl: "https://digitalproducer.com/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season/"
-webUrl: "https://digitalproducer.com/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season/"
-ampWebUrl: "https://digitalproducer.com/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season/amp/"
-cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season/amp/"
+excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league,"
+publishedDateTime: 2021-02-11T09:18:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season-2021-02-11"
+webUrl: "https://www.marketwatch.com/press-release/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season-2021-02-11"
 type: article
-quality: 48
-heat: 48
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: digitalproducer.com
-  domain: digitalproducer.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "http://www.m.digitalproducer.com/wp-content/uploads/2019/07/dp_fb2.jpg"
-    width: 428
-    height: 428
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "MnDD3/J49au5DoHj2puDHan7WfEzzTpFNAV/DfhtdMIAO8S2fFt+ZLtQ5N1oCDwD5U3RxuwrifMrcQCZ7jvGDVvi859eiMc6+myqH43V64RNcGfd1eR99MR2H2oBDSH3KYOLRgLqLztLCZn94aIJbe7TJJ6DKNFTM3bnfAMnxEBitkaF0CytDqhbCB1UulMrspcWIoovY62S6nTegkwMaLWAlVvfJMCbAOwWOlW6agqWNiJJvDrMMyNX39OUctO84ZKVYwyX4gEzFYQwz519xNvXAykkRTFRA/0G30iDRtRbvWrrBkS0fYyySEajB60XdsF+/1UR7EDBV9ffIeMe9evbgd40BD0OsUlfrf0tdMk=;c/48mUr6wvRReT1ed26Osg=="
+secured: "bidXqsZc4EPCskIsX/zFYzuE85XW/kMehgpV/JghvY3LQ9cFVcEp5nSyEBbTk6x+S1CYpbOLn+7NW7FPKYeGdSsPaaOYCRduQiQe4D+czx8WGnfoIye7rJyI0msst5/D1IR/tBOrNTNuGR0DejWKUtzjAxiZBndr1W6fmWQoxgXVKPAOVBzHjHJ9r3adJRM2/XlzvIDnjYZL74I5KNwN36XYwh29huUHEde6zPly3zXTpIWFf9Quf4Kil+1gKCL4X+thwRzjDFc/ZBHSMCuO5jfVQ5KAqHqas+zKpFQlthGbSxUnyPOmcmX73cxpyfV6FqChnIxU/aMAdZBStokjSJXfFhoZU3q/7eXtHR4KxnU=;6CSMfdnqb3GenRQkESLeuw=="
 ---
 

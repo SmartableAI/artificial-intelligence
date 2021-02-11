@@ -26,22 +26,6 @@ images:
     height: 442
     isCached: true
 
-related:
-  - title: "Alice camera draws on AI to reimagine photography"
-    excerpt: "Camera technology has advanced at a staggering rate in the last two decades, with first digital, and then the smartphones transforming the way we take photos.  Check out The Alice Camera indiegogo campaign here."
-    publishedDateTime: 2021-02-09T00:01:00Z
-    webUrl: "https://camerajabber.com/alice-camera-draws-on-ai-to-reimagine-photography/"
-    type: article
-    provider:
-      name: camerajabber.com
-      domain: camerajabber.com
-    quality: 39
-    images:
-      - url: "https://mk0camerajabberhe53n.kinstacdn.com/wp-content/uploads/2021/02/Lifestyle-Landscape-16.jpg"
-        width: 1440
-        height: 811
-        isCached: true
-
 secured: "d4GdQwSvAB6JGBOpxiOJn7N+mbGcYacKmmQjCThPjUokxy8j2jbDq5ly9UhAGIwE1s+2skV8e0bkgK3mlCqPKRSzJPPOp0exqTs3riwa9h2WNKdCLJdtLb3bTJ3F77ByrCmyRszvlqHJDC8KMiHYO4fXge3Ys6TrR04BPCEzm3AnlX2Bwg51DIo0lz1cknHg/e+78zf1CMAtOqHFWZe4EnFhZ+yRvn9SiGWbxqEJQI70i8NO97Qde9yAW6xKckRcfomYE9pYyu+ZMlDGkfISPgp6UGnYG6bqI1lVj2O3k1fILSQwiVom1dck2bDMJao4jw6m9I5NdNXukkQ2pnoCncx1vjSUmPH0xhEUX6AXluS+OBVM94XR1iF/Z/g7+9ISFyj408OHmK/ZtDZHKOkIFhjJB2VBQei2MFSV3KLNRWN03A44MazqZ7GKHBhYB7vGdW4I4WqNyzWxJQRcApJV5C2hCA3lOkODm4w5SH8AZ4UB0AW0RUAQBVz0KAt7nnPxOxpVuItul8ObMBbzIS1iew==;yl77Ur1qDgafSA7N8KHmcA=="
 ---
 

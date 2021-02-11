@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - IBM AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/4b528d48-8cbf-42b2-a230-c0e346adb88b/resize/1200x/bb75306246cac19a621353e0b787d81c/doctor-computer.jpg"
@@ -85,6 +85,6 @@ related:
         height: 2045
         isCached: true
 
-secured: "5kkVEyOI11O7KVk9Sc2feopbIqrMreUt18by6MwX1dHkmYlEmP4kZi+8TW7D9pm7FSk+FbKET9xvCxOVyruN/PjPqmgsH5b7zWOvOEyrALyA2cHRI1Iuj4Y/avpt0PmCDQFdmq4fE2QVAExYI81bNG8NNguzytpeb/Cf3ocQjwK4h0M38qDG5M6Z7mWbrdKeTB92/9WhjK83rxfUDV80fyhHatNAdlReGcG7Gj+8gI0+nQb7KHehN1KxaxGYry1L2li0TttCMLTrXE7efN36VnP7gI1rWrGIH76uFGirpO412Yoy4nZvwEvYZimsej4St7bmI2XVZjUmCg079ctnTZgXP6cc/N6U2EFP38dxR+0=;zm1NTi4/aEgdWuzpsMaY4w=="
+secured: "rFotS2ENRKUO9nfXhuKTGurfV2aWSVZ04EXi0cCZlmEeetopFRFobux3qyfNG/LSFcxDFGAjWb3YcH0jErmg2DOt0ibh5xdVb50MAGrliD3HOdYQoa5/qK24Kv8ypSrw0iuYnFltm9JPHBF6N5gz78YpWdJ1x/z88MUQuXzvfpeOQx+zoprpLhV3YPaWQiFNmtfpSO9MBmqeP2CpXDXOLv7ZtCYf9/d0/Pe9TmKIZ9VUCUDl4bvCx36W0knmt6x7y+lR0qimpLWDmNkwyeBsg3nzADQdy7e7XoeQTy3ed0IFyZqCh9mHNV85eKxApcjj9k8HFs2jQ6oLqMn9dyvH41bNz//ekIzr+L+PkUoD1No=;CztBFn+jJMH0DzVTVO72dQ=="
 ---
 

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Using Artificial Intelligence to prevent harm caused by immunotherapy"
-excerpt: "Until recently, researchers and oncologists had placed these lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not."
-publishedDateTime: 2021-02-05T16:04:00Z
-originalUrl: "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735.html"
-webUrl: "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735.html"
-ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735-amp.html"
-cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735-amp.html"
+excerpt: "Until recently, researchers and oncologists had placed lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not. Now, researchers, using artificial intelligence (AI) to analyze simple tissue scans,"
+publishedDateTime: 2021-02-05T18:11:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/02/210204192459.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/02/210204192459.htm"
 type: article
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://images.hindustantimes.com/img/2021/02/05/550x309/pexels-photo-2599244_1612540955952_1612540965595.jpeg"
-    width: 549
-    height: 309
-    isCached: true
-
-secured: "LcqyrTblNEP6LR541LeiH98bCLmC/oshCA0LjqoWUGeX3d5qU7OGugBcocRndy8N+737dFQKQaH6wO1mv/xP5R4vh9dPDczXx4jG4G1KTfUeHCKtfhqXi8YzD6loD/330Eg5tgTx6+2SUASK8OHTgFq8zHSyFizJZ+uTWE0TyzH8zjiUYjWbMD2StVU2MJkexj151MYomsGzPMDkbzX75/+SSUfcaocQRhcKvS2vSQXs7yKiRgdaFFkbUIShZtQnUz97mOwSKl/0hAd048U3u39ZqLi6jtiyDY0Kqth4xQtBGi5sd3z4F+vt6O3ZxhQnJlR7AxnzfTTbK1gWjylEzfYOLOIjIbFeujwbn5/6aS0=;jr5rh/0wxWz2w9oebyn3zg=="
+secured: "bqKwjn71sZ++Ykje2LgzmBg9n1/BmYrECFVpXnsZS999ey0KJsRnYaRcanuubHwGbQsNhfktfXdoB4q6OO31/kMh6ZqSTIEW7D0G7MHV0eHKx2TYgjDNCIGYdFRFQz8Kk7hKWoXAw9rNkXCQQS3oSPJ7pmjLdRpdFkXIUUDI2nhZibGxUJK8f5YdgKojSX4ntP/Bcy9Cl8ZPIFA3AVl9q+4u4Zn6wG05+e+6PBWSFC5VW3gz8tE3nm3B0hT+bo7w43WOrbu5E+WthF44l+tyetrkEgzCGd6NVVDpdreljU7hTP0c7gvMyN5PbNWpisoCgnjQDxgtMYZ2VI2Qdf688n1LYJNfgiOp5+P30jAXEXU=;U2JUp7Q0MP7QYpiFxq0NWA=="
 ---
 

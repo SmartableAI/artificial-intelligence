@@ -96,6 +96,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Dahua faces scrutiny over its facial recognition software"
+    excerpt: "Just three months after being placed on a government blacklist that bans U.S. companies and individuals from investing in the company, Chinese surveillance giant Dahua has once again drawn the ire of federal officials following a report that it has developed intentionally discriminatory analytics software."
+    publishedDateTime: 2021-02-11T22:37:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21209985/dahua-faces-scrutiny-over-its-facial-recognition-software"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/bigstock_Bordeaux__Aquitaine_France__401403332.6025b0eb8870a.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tech Can Flag Distracted Jurors. But Will Courtrooms Allow Facial Recognition?"
     excerpt: "Maintaining jurors' undivided attention during in-person trials can be tricky in a virtual environment. But where legal tech companies see an opportunity, judges may see an unneeded solution."
     publishedDateTime: 2021-02-08T17:11:00Z

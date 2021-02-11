@@ -48,9 +48,9 @@ related:
   - title: "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester"
     excerpt: "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile."
     publishedDateTime: 2021-02-11T19:40:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
     type: article
     provider:
       name: TechRepublic
@@ -227,6 +227,31 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
         width: 800
         height: 496
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare"
+    excerpt: "The AI healthcare market is more visible to the public than ever before. More and more people are becoming aware of the benefits of AI technology throughout the healthcare industry. To many, it’s solid proof that Artificial Intelligence has had a successful impact on the overall quality of our healthcare system."
+    publishedDateTime: 2021-02-11T22:03:00Z
+    webUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/"
+    ampWebUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 69
+  - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
+    excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
+    publishedDateTime: 2021-02-11T21:51:00Z
+    webUrl: "https://hothardware.com/news/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 69
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54251/content/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
@@ -459,6 +484,6 @@ related:
       domain: businesswire.com
     quality: 18
 
-secured: "IYZWklezNedpd5E2VYlHNK9jJQ3tep928xXaITnFSKljdVasVvkHFTQT26W2IScoL2cH3pYuXnb+wRAF2byQPi8q+zIYvyMTHPkDAz3LLc1owCumCKMGjv01KDrLuCqYI0cNC1oXJ6HZ85qfoBPlW7uaW243Vq3xA0RBs+ZavCGF2NJt6gLhq9gemeMI1CeXjpNnHJUhPT6PCVQC5AjPA+rYzFyDwAnge++aSQPV7yEX8CQnp2CIN3Y+SniOeNscWQciyiaDV0qBxeRSyhHDZOaZcWexbSlxTzZjXyevpU37sHK6q14re1R/DzU/C3XEAOOYhKFLEeZJLHpqtkMFcqkoQ8yhcY7WHuj6MWw0M1A=;pVgNiCrGFAI8G4p5ImvoVA=="
+secured: "F6ZsyMJgwP5QTRH1gAOUNBlaqQxIH7/z66Nisu+6PvROTxvkb1QE/IYkCRb6Rs0mYs9FLoIgV3IfSfBVfGgPobA5empX4MXJmQkwLPJdtynK1ZnVNeYo5NHJOXtuxSL1RQy8+ba0PI0r9bXO3cnIBe8u3PCY/EU8r+cj6C8r7RX1eSyFgFDkXMMg4CXoT5Ich3JL7fFR1xkBRPuJ4k+IXLGOf9IMRfEwicuEb38i+1CzRxlWuTOS7PioQ7dekyck3DpJwG0hfPJ8KlCZLE9T2MVbF07AlEqSQjVzuOEhYxjv76EGudDYr07hSNjJwDCEiYTKi+PT5ls7WKT90FeuLxyGQP4+huaGvdAziCx0RZmVwIX6tXjA3KgdH49MoA3dqlPjXsM/ydwppJJXWjllN/LI9k9BaekOM9FmHoG5T9clP/eoQdU/CkA0WULS+tLkwgFS4O7j6amlY0H0a1YQOQMjbBYAclf/8NHPaj1byvIMhv2cipk4lRlvH3uMZGC8qImKV1FDGM4WmdkgMcxkuA==;Z3brffWAbqTzchKbJystRg=="
 ---
 

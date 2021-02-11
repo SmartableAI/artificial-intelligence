@@ -27,33 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "AWS to provide National Hockey League cloud, AI and machine learning services"
-    excerpt: "Amazon Web Services Inc. announced today it has signed a deal with the National Hockey League to become the official cloud, artificial intelligence and machine learning infrastructure provider of the largest ice hockey league in North America."
-    publishedDateTime: 2021-02-11T04:44:00Z
-    webUrl: "https://siliconangle.com/2021/02/10/aws-provide-national-hockey-league-cloud-ai-machine-learning-services/"
+  - title: "New machine learning system developed to identify deteriorating patients in hospital"
+    excerpt: "Researchers in Oxford have developed a machine learning algorithm that could significantly improve clinicians' ability to identify hospitalized patients whose condition is deteriorating to the extent that they need intensive care."
+    publishedDateTime: 2021-02-10T14:35:00Z
+    webUrl: "https://medicalxpress.com/news/2021-02-machine-deteriorating-patients-hospital.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-02-machine-deteriorating-patients-hospital.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-deteriorating-patients-hospital.amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 68
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 52
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/iehockey.png"
-        width: 869
-        height: 581
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/newmachinele.jpg"
+        width: 1200
+        height: 575
         isCached: true
-  - title: "Alice Camera Brings AI and Deep Learning to a Full-Size Camera"
-    excerpt: "In an attempt to bridge the gap between the power of computational photography that is backed by artificial intelligence and the physical benefits of larger sensors and optics, Alice Camera was born."
-    publishedDateTime: 2021-02-09T16:41:00Z
-    webUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-learning-to-a-full-size-camera/"
+  - title: "Using machine learning to identify patients with a mix of psychotic and depressive symptoms"
+    excerpt: "A way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms has been developed by researchers at the University of Birmingham."
+    publishedDateTime: 2021-02-08T17:50:00Z
+    webUrl: "https://www.news-medical.net/news/20210208/Using-machine-learning-to-identify-patients-with-a-mix-of-psychotic-and-depressive-symptoms.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210208/Using-machine-learning-to-identify-patients-with-a-mix-of-psychotic-and-depressive-symptoms.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/Using-machine-learning-to-identify-patients-with-a-mix-of-psychotic-and-depressive-symptoms.aspx"
     type: article
     provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 56
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
     images:
-      - url: "https://petapixel.com/assets/uploads/2021/02/Alice-Camera-Adds-AI-and-Deep-Learning-to-a-Full-Size-Camera.jpg"
-        width: 1600
-        height: 840
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Abstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "pvdartwEKbM/mHc5CRYgWGq8Lasd8TKU4qVT9zMrTZS8w41vjk/YDcCWqd/icSep6rMUN/AY4rcxEsCumSjltJPClwpSondoHNmF5FkZz7ljz6bR68hh7vAATMm8J71bI7ZV5xZU5uaGzyYGz1Qec5bSWejoz0TwM0pfYkH3KmaAGSrkh4YTsUoeW1v7J0jVGTKV3wKJbYXlg0LgFkjza0ot6W3j0tfy/DCrt8rsEte8sUFgj/sd3R5tyKnfjFrCivTmdj8z85m7dKucbJkZqiRKHEXzVabIO3hzAl5qW2tq9dg6puNVdYvR7a4KHbDtBJXb90vZj+2yC8ybP7OdXiLl1yVwpckYc67oLzjoZ7VbpZv68JzxyJg+MDjeVXLXl6tROCFRLDaQ//JoEFK281WDFHiYM5Zd4x1tWIn6X7imQuJJiiuAM50PEmojkce4tn429Rgc3ZS+BKjdIL36oIsFM/xlUyr58CU61AJycVg57e48RTp2WUXP2tN4mtF1kg8VAn0sRdPS4TAqRLa0wQ==;2kQlJVuZPaYiWhcVMgLODw=="

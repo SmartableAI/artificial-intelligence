@@ -49,6 +49,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AWS to be NHL's official cloud infrastructure provider"
+    excerpt: "Amazon Web Services (AWS) said it entered into an agreement with the National Hockey League (NHL) to become its official cloud, artificial intelligence, and machine learning infrastructure provider. By tapping into the AWS services,"
+    publishedDateTime: 2021-02-11T09:58:00Z
+    webUrl: "https://www.telecompaper.com/news/aws-to-be-nhls-official-cloud-infrastructure-provider--1372076"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "yUOFHKkRzFQHWm/hSg7qdGcP2EJR/rG78BpryS95lpyATziEDXJHeSgvTksTvqNByR7cEvfBdYwN3TtUozndydU+IZ7N9SDYqslP1rjldQgHBxaVeDA8nSDS/GxuM8jMIYeiVBEs7rNJwN9VMK85lnbChXEH8EfZItQ6c5ujpl8TkMGlf01Gv3BSQLIvhB8WKgDaU45foeJJUV8Y5S4uaR3Km1XEZdSTHah5umehm0qMNxo3Q7HQ58G0z9OpT3u5f+2xgmrNKbrpuA1Nr1iwwwbCvkSrPBX5E7e2v8SVbAjO4L9s215mNxnqwrMp8Wry+Sqzs4ovlnLhEKVox1aCH5OBwxYOSntlxnwU6mKMZW4=;3hMXlQh0ZpCU9edz6lyTSw=="
 ---

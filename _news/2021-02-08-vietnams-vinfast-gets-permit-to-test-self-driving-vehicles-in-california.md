@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: U.S. News & World Report
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.vietreader.com/uploads/posts/2021-02/business_vietnams-first-domestic-car-manufacturer-gets-permit-to-test-self-driving-vehicles-in-the-us-1.jpg"
         width: 900
         height: 533
+        isCached: true
+  - title: "California gets demand letter to stop using facial recognition technology with remote bar exam"
+    excerpt: "The use of facial recognition technology with the remote bar exam could have an unlawful disparate impact on test-takers who are women or people of color, the Lawyers’ Committee for Civil Rights Under Law wrote in a Feb."
+    publishedDateTime: 2021-02-11T20:41:00Z
+    webUrl: "https://www.abajournal.com/news/article/california-gets-demand-letter-to-stop-using-facial-recognition-technology-on-bar-exam"
+    type: article
+    provider:
+      name: ABA Journal
+      domain: abajournal.com
+    quality: 27
+    images:
+      - url: "https://www.abajournal.com/images/main_images/2.11.21_bar_exam_photo_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "TRaw6LKCuiLw2T0Fy/eOYBpEfQRW+DndJlLk1J+zuads8hLSWW7Tm44s1faQ60vfenFf8Em/OVHPDvvN0ffGMiSujffiAj+r3XyHXONWO157/k2TbHs5SNJhlMbGtUEWYJp0U1bwSYtwSINT1XxXE7zdf6u61R+NaTIACZS4H8+gYYzXcwzbB0B0k8XltB9o/rdN3kZdDJ7Y92ExNDw/uzSlJV7pJXXc+GdhzBYcVIzkLwWdOOP4h4bnq/nMhiuN6Yql+umRHkvIzx4Vbj15CHO6hLIQhsbADSsTjFTFxnX4j8gqZVr5CuHz0kF3jyEydHKWRIuiL4/qPPriZ//2DaQFRMJRcrxWJRb3N65gQr/zDRqWZtpSbqRQpqE5S1L2Mb5Vlf+rJKt0gt+7XbxzvxYWujqRZX9Hg26GInMvBd/dJnsDR4/XvFlZ+tvrdwWovt7IZpMamgnyQPXKWbgjw6Oew+IQ5tbHvmTQhJNPK5InzbCcRJkwk+vr3vWmhw2HJFBseKdIIr+m4EhY1/kp5A==;Z1ODYYjqSqH5i8h3LD6M3g=="

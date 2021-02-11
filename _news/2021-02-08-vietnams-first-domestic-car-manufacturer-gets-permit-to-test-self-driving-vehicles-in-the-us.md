@@ -38,6 +38,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 53
+  - title: "California gets demand letter to stop using facial recognition technology with remote bar exam"
+    excerpt: "The use of facial recognition technology with the remote bar exam could have an unlawful disparate impact on test-takers who are women or people of color, the Lawyers’ Committee for Civil Rights Under Law wrote in a Feb."
+    publishedDateTime: 2021-02-11T20:41:00Z
+    webUrl: "https://www.abajournal.com/news/article/california-gets-demand-letter-to-stop-using-facial-recognition-technology-on-bar-exam"
+    type: article
+    provider:
+      name: ABA Journal
+      domain: abajournal.com
+    quality: 27
+    images:
+      - url: "https://www.abajournal.com/images/main_images/2.11.21_bar_exam_photo_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "a0k2Z5lDLCx+/juJTo0PyZkyrxYKUTaLEDLSk0J6qGGCR8rq46P10sh29yVmwJ1x8A52eFqLkv8chlLM94K6VR9FZ+W+/7p+w8E70sFj11vL0EZm48zDpwAQ7R+rJ1Yj6lRR06S/VgK+21B4Wkpjxf17+zQLylCHGBJjQlsrpfig6QVq4LF12vXZTNtI1Q05prxmAN+sjnLEypmvhiCPtTV34bjPptQ/dtBmr+/tcc4rltfarw9H+jc7zPhAZ+CVE5No6Q+nTHYhbqmTGCp+btUeFk5zNeMjA6zlhBqozDtjoDsbDEavFZSPbsWbXHs5dvkFUigUxFiOEFrlaHbmXavErLv/klj4WlPmUWUmwusF9iy2rDkzmS/hguHZINtrlM5iUeP4PBMykAHwt4zX0iHQYJf5/bJUMBbD8FFExULM7KoklQubD9Qa3qWNtC455t6a03RYUzKWCBs30B6qAbI6X3BuZm+nx8V+DTrsNqQF5qfLosOxOayqcAoDjBqwKLh1zMnFCUuMj5kGlfZSdA==;pbufAwLTTVgSbbNnaEk+rA=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://fedtechmagazine.com/article/2021/02/how-computer-vision-helping
 ampWebUrl: "https://fedtechmagazine.com/article/2021/02/how-computer-vision-helping-agencies-see-their-mission-objectives-more-clearly?amp"
 cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2021/02/how-computer-vision-helping-agencies-see-their-mission-objectives-more-clearly?amp"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202102/GettyImages-1188293935.jpg?itok=h-9OrJIs"

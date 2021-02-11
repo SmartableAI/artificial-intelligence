@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://www.actuia.com/wp-content/uploads/2021/02/Conseil-de-leurope.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "Dahua faces scrutiny over its facial recognition software"
+    excerpt: "Just three months after being placed on a government blacklist that bans U.S. companies and individuals from investing in the company, Chinese surveillance giant Dahua has once again drawn the ire of federal officials following a report that it has developed intentionally discriminatory analytics software."
+    publishedDateTime: 2021-02-11T22:37:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21209985/dahua-faces-scrutiny-over-its-facial-recognition-software"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/bigstock_Bordeaux__Aquitaine_France__401403332.6025b0eb8870a.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Innovation in technology and vocational training gets financial recognition"
     excerpt: "The winners of the first inaugural Cambodia Skills Challenge Innovation Call have been announced. The Innovation Call is an initiative of the Ministry of Labour and Vocational Training and the United Nations in Cambodia,"

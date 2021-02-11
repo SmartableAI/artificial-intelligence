@@ -2,26 +2,28 @@
 category: news
 title: "NHL takes big stride on data and analytics with AWS deal"
 excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
-publishedDateTime: 2021-02-11T15:17:00Z
-originalUrl: "https://www.kiro7.com/news/technology/nhl-takes-big-stride/L36UFDLB7VCPD3JJKA4PSTDLFE/"
-webUrl: "https://www.kiro7.com/news/technology/nhl-takes-big-stride/L36UFDLB7VCPD3JJKA4PSTDLFE/"
+publishedDateTime: 2021-02-11T09:18:00Z
+originalUrl: "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/"
+webUrl: "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/"
+ampWebUrl: "https://amp.usatoday.com/amp/115459788"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115459788"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KIRO-TV
-  domain: kiro7.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.kiro7.com/resizer/tXOZxvhXr_E7UBjJtZ7JluJx6lc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/UM6KZV2HS26I4XZ4HZTY7DMF6Y.jpg"
+  - url: "https://www.gannett-cdn.com/-mm-/740a207bbec9f89126631fd62b1d0320f2e9bc83/c=0-157-3000-1845/local/-/media/2021/02/10/USATODAY/usatsports/ead979f8cbf645d5951e429adda246c4.jpg?auto=webp&format=pjpg&width=1200"
     width: 1200
-    height: 628
+    height: 675
     isCached: true
 
 related:
@@ -173,6 +175,6 @@ related:
         height: 450
         isCached: true
 
-secured: "fI7Jdmrs93pfeV4w5VLp+zuc50vf6fvxa8FGCFkF1cLAsOMCIRMpNWc/V59vK5lnj4hgBbywtUR2ybp6pPVvdDmP8tbtzqhe6pb/F3qCqCpb5g08IvvwQPlIPvX5/sXd4RLsdrlHZS76wbBx+MV1asorrAKTnlTrFXN5maBxycCYHwzjqzMGw6FdIXTHPP0RHDMbFdrMvr9olvT3Xr6GwgACgxEdHvS0lcVQgSIb/6//Fdgvq2YI8pxh9cN3LLpgi1TnjKqL5T0tqdNu9LbxOv/kctwCWNNHG0MUXpXUEN0ZsynutWgS6ikQTb5lHNspjvr/2p4fzqKs1aTxrtBC9cCo1y3TzBzvS2XYoQJej/k=;4601FXYrSgXdat/vU33AEQ=="
+secured: "dW0fJteWXGf2nKbpPIzlSSsoWcQH941wXW99MZU5iyrDpmMWM1TUeV4TyvlQtWyHu8W91dgJOgA0NqQtTagW4GL3VyAMZAxllQtkrHEkn3uJE/BwnDRC5icJssIsTCtlFw7Hi1Rw1kAX5LOVxuOh/Te6thBIYfj2V+Fxa3h9vCjiglQL+St8vZ2ZMKBW4sKOS/UKPjm0lRF0Rv/84NmO9MEyLcXIx9sf1tSjhtX+x+SEQgj6MYLNj9MTQ4rlRK3NIjZbpYegRZA8Q9OhGtN4NOP41I6KwX7GHC60FYloRg/iOsk817T02oIN/Ynl7WfcVgHHonaetJBCYx/buJ7WiIIyVRQnmaoE0f8An/qf+5c=;3VLIfWN/Bn55PM6BNpRLzg=="
 ---
 

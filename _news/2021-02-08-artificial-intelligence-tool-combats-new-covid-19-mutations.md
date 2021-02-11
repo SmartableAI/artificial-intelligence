@@ -98,17 +98,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 39
-  - title: "Artificial Intelligence can predict whether you will die from COVID-19"
-    excerpt: "Copenhagen: Using patient data, artificial intelligence can make a 90 per cent accurate assessment of whether a person will die from COVID-19 or not, according to new research at the University of Copenhagen."
-    publishedDateTime: 2021-02-07T06:22:00Z
-    webUrl: "https://www.freepressjournal.in/health/artificial-intelligence-can-predict-whether-you-will-die-from-covid-19"
-    ampWebUrl: "https://m.freepressjournal.in/article/health/artificial-intelligence-can-predict-whether-you-will-die-from-covid-19/d3559d80-e9df-47ef-a628-16eaef76be95"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/health/artificial-intelligence-can-predict-whether-you-will-die-from-covid-19/d3559d80-e9df-47ef-a628-16eaef76be95"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 37
   - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
     excerpt: "BRAVE Innovations LLC rallies community, faith groups, healthcare workers, colleges, and civic organizations to spur participation in urgent voiceprint research"
     publishedDateTime: 2021-02-11T01:09:00Z

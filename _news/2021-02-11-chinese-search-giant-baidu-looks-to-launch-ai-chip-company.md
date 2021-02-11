@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Chinese Search Giant Baidu Looks to Launch AI Chip Company"
-excerpt: "China's search engine giant Baidu (NASDAQ: BIDU) is reportedly in talks to raise cash for the creation of a stand-alone artificial intelligence"
-publishedDateTime: 2021-02-11T06:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-9797738"
-webUrl: "https://markets.businessinsider.com/news/stocks/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-9797738"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-9797738"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-9797738"
+excerpt: "China's search engine giant Baidu (NASDAQ: BIDU) is reportedly in talks to raise cash for the creation of a stand-alone artificial intelligence (AI) semiconductor company. CNBC reports GGV and IDG Capital,"
+publishedDateTime: 2021-02-10T16:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10"
+webUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10"
+ampWebUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
@@ -115,6 +111,6 @@ related:
         height: 800
         isCached: true
 
-secured: "xutl5NRWbl8PG1sXVp6RZATi+rPbiL7Lw9+8YIknKWoxEzEUQaFDlr92q7CHtHFteLwkiEoKceWJJ2lx7CdP43XkV1cvJilr2qs7/SOAfkrEq2UItY9YLobTODbGXJV+mtc71DUzXJB95dAusfKU8V1GcknUnKreCblLteBKftqa27Lwe5LA59rUqlagSPY1RXJ0LfD0Eq9CLMDNYv7URb9Su/Y7p7XbF2HKN62mIBuQYlewPOzH1dWxfFlfssAJTPLMNphWMgYAttlBwF8VWHIwmMAFxLsrxcqW9D4utD9GDfVh2sqKVW3faBgy4hGZ6XKW6CmXZgfU8XoTFlDHJOgAIGBuHhHKRTHOirg6ZlI=;gsy8Dbu7TP8gbELps1boww=="
+secured: "qlkqtC9IY7wmyBzgeIfC7fKMEdYS1fCJmYOAN4AbPB2YELMMsxWimlz8Hap3aMFe/FnmuFC3Xc/hZ0D6ClX67+0+dfxledBK/WT9n+yM+54KhcxILSpMRD7qaPCr297iRGMQ0A+QhmuMjfv5b9JQKCv6lu8gLqtqw2xfFsyJE/KD89mnf78U8Qb0q7IQDT+oshZhhKTQnW6cO6rdznvxEmSeNBnm5AoNU6L4svGst506sUKl4woMEB50gcq7XIRCuPBdsWHmoct56ze9okokhpT0s4QYEogJZsA+M/T5g4Tbal7Kz60DeQWLPhTQBFk30vBE9kNWLmdQ+AlnDl0Cjkr8jQTce+fhh3UJEuZH5h8=;KCtDrGaEdaTVrTjpwvXlIw=="
 ---
 
