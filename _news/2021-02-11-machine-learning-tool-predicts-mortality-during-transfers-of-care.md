@@ -64,6 +64,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "RNA secondary structure prediction using deep learning with thermodynamic integration"
+    excerpt: "Accurately predicting the secondary structure of non-coding RNAs can help unravel their function. Here the authors propose a method integrating thermodynamic information and deep learning to improve the robustness of RNA secondary structure prediction compared to several existing algorithms."
+    publishedDateTime: 2021-02-11T10:53:00Z
+    webUrl: "https://www.nature.com/articles/s41467-021-21194-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 32
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-21194-4/MediaObjects/41467_2021_21194_Fig1_HTML.png"
+        width: 685
+        height: 417
+        isCached: true
   - title: "Artificial Intelligence Predicts Death: Echocardiogram Medical Imaging, Computer Models Detect Mortality of COVID-19 Patients"
     excerpt: "Geisinger Health System researchers created a computer algorithm that uses echocardiogram videos of the heart, which it can use to predict the probability of death within a year. Developers claimed it outperforms other medical predictors."
     publishedDateTime: 2021-02-10T21:57:00Z

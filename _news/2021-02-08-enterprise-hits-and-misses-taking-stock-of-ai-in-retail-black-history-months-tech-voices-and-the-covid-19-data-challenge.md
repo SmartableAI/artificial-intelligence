@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market 2021 Regional Study, COVID - 19 Outbreak, Emerging Technologies, Global Segments, Business Trends, Landscape and Demand"
+    excerpt: "The intensifying call for equipping computers with vision similar to humans has generated considerable traction for the computer vision market globally. The concept of computer vision as a scientific stream encompasses the technology and theory for creating artificial systems that acquire information from images or multi-dimensional data."
+    publishedDateTime: 2021-02-11T08:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-regional-study-covid---19-outbreak-emerging-technologies-global-segments-business-trends-landscape-and-demand-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biodesix Publishes Data on New COVID-19 Artificial Intelligence (AI)-Based Algorithm for Use in Clinical Decision Support Systems"
     excerpt: "Biodesix, Inc. (Nasdaq: BDSX), a leading data-driven diagnostic solutions company with a focus in lung disease, today announced a publication describing the development of a new AI-based COVID-19 algorithm and the important data from a related study."
     publishedDateTime: 2021-02-10T05:28:00Z

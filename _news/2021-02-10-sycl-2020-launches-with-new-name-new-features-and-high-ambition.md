@@ -3,8 +3,8 @@ category: news
 title: "SYCL 2020 Launches with New Name, New Features, and High Ambition"
 excerpt: "The Khronos Group today formally launched SYCL 2020, the parallel programming framework based on IS0 standard C++ that has been gaining traction in HPC"
 publishedDateTime: 2021-02-09T17:35:00Z
-originalUrl: "https://www.hpcwire.com/2021/02/09/__trashed-2/"
-webUrl: "https://www.hpcwire.com/2021/02/09/__trashed-2/"
+originalUrl: "https://www.hpcwire.com/2021/02/09/sycl-2020-launches-new-name-new-features/"
+webUrl: "https://www.hpcwire.com/2021/02/09/sycl-2020-launches-new-name-new-features/"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 750
     isCached: true
 
-secured: "KG9G2cQV30RN1m9/DWLWwfwPhAXdS1pPpAJtATrbQQTzSpYDKutFSAm1btuT7eMgdbfc1tdqFYtpxzzXb0aYl2jpK/nvuaMtSCIKhJavQMd/4U/Begr7uEAxJUxaIhxidqHfxfBi678K60NXZfU838I9/6VPCiI6dIfX5Mz+aNj5U1g1F+NMc1iIdPGprIPxZZxP8vnYQUiFRzP/QeQiYjV3mJV944/7ZrJHJPka9UiSx+0aLsaKAFF8qSGxYA/4+G7Vschiot0Ee93DSNuGhL4zJc0/sJ2cmmiCj3BzK6c93UMLpdgVhEAx0yEyA/q7jKFX0A6Jd4tEWRxIRoF2hyNjysFK+16vKw1BHwScMU0zbcrtR2CO3RwjPl8Af0al5zhxA3ZF1cJ1xYrm5ZemQtvQdCD3bqe9z/z/iKRdn2J1OsN3a0drjZEvU45tiSau67O2KCMbRYhDVEex3HlBQMoEELLv5mP8eZk9dazs80mwIwuSEE6Rylho/2mSa0C3dKn5wbDI44MokVUeX2XFCg==;v0y3p3W6/sTQt7FPXOxVpA=="
+secured: "HpL56uH/es+383mlhXQAUTlU0uVQV2A9iEZ/6f8w3PvBMkZ9aJJyFe8Sx1zw/5R13HU1ShWK1Ucfv/K2NsX2RIWEih+ivEY6whFbmrhFmYqRvBG6JdCnsT24oREG+ZEJS305zTGBHpLs9qJlxBExNTzKYX/NJ8ng+ehJrk8VRrylxWgX/WiLOj2QP60ceKCIIZCPNI8ktadSa10BNmk9CzYjBv75fB6NdGuSAN7ycul1O6gH5k4EIwDIUNLlTvFv4HVyd4IragQx1+fZ4IamLREzL4Ldnu6dcp9LIxl6Y27Ej9+j6r79oIuG+OybAZME6EiAfJ0o1ugyT/xitTAsYX2pQ9XVP8aSFne6bDpDTy8=;/l2oejBDtxVTTA/FAfhT8Q=="
 ---
 

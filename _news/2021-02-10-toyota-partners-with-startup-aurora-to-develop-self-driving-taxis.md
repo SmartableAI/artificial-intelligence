@@ -93,6 +93,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Toyota in self-driving partnership with Aurora"
+    excerpt: "Toyota Motor, Denso Corporation and US autonomous driving startup Aurora Innovation have agreed to establish a long-term partnership to develop and produce self-driving vehicles, according to reports in Japan."
+    publishedDateTime: 2021-02-11T10:40:00Z
+    webUrl: "https://www.just-auto.com/news/toyota-in-self-driving-partnership-with-aurora_id200163.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "AoIdpni7G38xH+2xth/O1+tbAumm8/6g0CC8mljjGte76N10yz7J+nFNRqOfdoGsiNLiefihKYe4kXYaImpTqLr/mWHQiBnzi1teWoI6AuIJDYVUjiYQbLmzejCEDwMaLsSgKgV/D3qZjCDfnCf3pBDFxxnplxl0SThInhpbICnIhwQY3tVUXFfjnCmycmSddFk73UjFwOa05bw5jbMZEa2wUBl9WJ+Cy7CEwYLbvCcCGx1j3nTbA0ICd52GcCvPHpKinaOwDXTyqCtcNRp5Uhk7kgZkv7/YmjshgyqYerYkzkCyPet2PIOYLCvvKdPDpgxnuZZ3ZwjU9BNILc+9tVR9z5sS3OG5Hkhwb0Xr8H6OchassXK+l8SLc0bAzt87oV1oMuj6yhz+yBjTB9h9wqymBoh1ZmMbBjVaAq8YNDYwVpC4fFYhLtYK7IMwxO5YZrQ6oP4b+BK3jlDBASVq5tD22MRBvPqW62tTJC+N+c7HHHFCFT/wMJhtGQs//x958Ds3Ijsr2sTrsT1UfDGKEA==;JU4A0WQJQ7atV2jPe4xiYw=="
 ---

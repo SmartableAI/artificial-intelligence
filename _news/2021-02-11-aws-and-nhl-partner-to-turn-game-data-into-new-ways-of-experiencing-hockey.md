@@ -32,20 +32,20 @@ images:
 
 related:
   - title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
-    excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure Provider of the NHL."
-    publishedDateTime: 2021-02-11T00:01:00Z
-    webUrl: "https://www.oaoa.com/news/business/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of/article_5d669df9-e4ae-591e-804c-ec535bb36dc3.html"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National"
+    publishedDateTime: 2021-02-11T08:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of-the-nhl-2021-02-10"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/f/21/f21472c2-ae4d-52c2-854f-66e743c5bf49/602477d7c89d5.image.jpg?resize=1113%2C630"
-        width: 1113
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
         height: 630
         isCached: true
 
-secured: "yR8q0o8f2Ov5nH2G+6wbaMqCvOsexQvVUxffMerr5BW5MKX34650hcF9xLtzm6gmmVeBnYIwwJXxvZy166QjEWvYAhv/oNZzu8yPfd9P8We/ltzZiOxUfEbRrVlKU5IrQUMC3Upk3aYSwF9apzFkpxxkxNFUc62fFOYBWyqL3Ky15YJjaFPLvnZVS2kAY3w6VTyngajr8rW32dNc/mlD20u8JNue9jc1w7J6rrH1hTrbOjhnKV+oToItUojI9fhOaobUdBXaO7zLolJYn199rllj9150QjVyDZEeA6EHTeHEDvpmp3lu1l/3nrHoDh0BOKiodEUBoUqepKyPb5l+OS2PD52n7ewm6AxviKuuU+k=;WkLxxwlBkHXA2SQahu6pZA=="
+secured: "ecU8yGAdxDNXs0/ldycajvEPTKxh95s+XHLCoUmoc0uLxeTGCdBMKP/EboPfHSy6VgzFBfxYFr/I+QTcPy3NuzxPXdErmb/pZ3dsG+JXQ7qJgmjd9ss9nlU7AYhtWlaJhRKMKBYKRRQX948hv/ePAMrrRnMrfY/GyYyKSuM9e5P/G6sioBwCf29N7/fqlSezhunibm485xqGw0xzwNPnOxEOdXNOE4SU3OY0j587f6u8Tuo8anzQ9iKaZRaLSJGWmxTBQbQKK3SLcQFro0vnCRjIGtd/vG0zQEmmxGhLSiO/9GKK0QCavRZ8C94OYnyJkE4UBi2EVQKATOg9vwdk0n5mvcW6ICQRh+oUDwMfAyQUwqWk4gBKFxihEnT1IiCXZXAWaXYRXzECXmslG/AV0cgNoitp6WbZyFxCSXJxekkfXtOfU3y8f3pZ7R4dAaSKCoxdc0NnOBZmwZZ8xLwENwSzCVk11oNQ3U7UM5ERX4tSJ0q4l+FPqLXJFYDoaTjQoZmd/upLe7xWgwImOJqI/g==;m/03wekCp6dUAPvUjRSDxA=="
 ---
 

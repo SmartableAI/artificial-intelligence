@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Volkswagen taps Microsoft’s cloud to develop self-driving software"
+title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
 excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-publishedDateTime: 2021-02-11T08:29:00Z
-originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/"
-webUrl: "https://indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/"
-ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/lite/"
+publishedDateTime: 2021-02-11T10:40:00Z
+originalUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2"
+webUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2"
+ampWebUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
 type: article
-quality: 61
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://images.indianexpress.com/2021/02/c3a29490-8965-49b9-a784-03c088b29b9b.jpg"
-    width: 1200
-    height: 667
-    isCached: true
 
 related:
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
@@ -58,21 +56,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "3 Reasons Microsoft Is Still a Growth Stock"
-    excerpt: "Microsoft (NASDAQ:MSFT) became only the third publicly traded U.S. company ever to reach a trillion-dollar valuation. Just two years later, its market cap has grown to $1.7 trillion. From productivity software to cloud computing and gaming,"
-    publishedDateTime: 2021-02-06T18:30:00Z
-    webUrl: "https://www.fool.com/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
+  - title: "Volkswagen partners with Microsoft on automated cars"
+    excerpt: "Volkswagen Group is enlisting Microsoft’s help to speed up the development of autonomous driving systems, the company announced. It has already worked for several years with Microsoft on cloud computing for connected cars,"
+    publishedDateTime: 2021-02-11T10:55:00Z
+    webUrl: "https://www.engadget.com/volkswagen-group-teams-up-with-microsoft-on-automated-cars-105154799.html"
+    ampWebUrl: "https://www.engadget.com/amp/volkswagen-group-teams-up-with-microsoft-on-automated-cars-105154799.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/volkswagen-group-teams-up-with-microsoft-on-automated-cars-105154799.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
+      name: Engadget
+      domain: engadget.com
+    quality: 91
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611269%2Fsatya_nadella_02.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2Fbdcbc8b0-6c4e-11eb-bf97-bff40b7d3a02&client=amp-blogside-v2&signature=93b983d1e835e4b1cb32538773b259ecba171802"
+        width: 600
+        height: 350
         isCached: true
   - title: "Machine Learning as a Service Market is Booming Worldwide |AWS, Microsoft, IBM"
     excerpt: "Latest released the research study on Global Machine Learning as a Service Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning as a Service Market research report shows the latest market insights ..."
@@ -145,6 +143,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Microsoft Teams AI could tell you who is most enjoying your video call"
+    excerpt: "Researchers at Microsoft have developed an AI for the firm's Teams videoconferencing software that highlights positive audience reactions during a virtual presentation"
+    publishedDateTime: 2021-02-11T10:02:00Z
+    webUrl: "https://www.newscientist.com/article/2267147-microsoft-teams-ai-could-tell-you-who-is-most-enjoying-your-video-call/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/02/10103555/10-feb_teams-bot.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
     excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
     publishedDateTime: 2021-02-10T15:48:00Z
@@ -187,6 +199,20 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "VW, Microsoft partner to develop self-driving car software"
+    excerpt: "Volkswagen Group and Microsoft are expanding their cooperation involving the U.S. software giant's cloud technology to include speeding up development of automated driving. VW's new software division will build a cloud-based platform with Microsoft that will help simplify development processes and allow faster integration into its vehicle fleet,"
+    publishedDateTime: 2021-02-11T09:46:00Z
+    webUrl: "https://europe.autonews.com/automakers/vw-microsoft-partner-develop-self-driving-car-software"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 41
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/VW%20Automotive%20Cloud%20Seattle.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Why Microsoft’s self-driving car strategy will work"
     excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"
     publishedDateTime: 2021-02-07T08:37:00Z
@@ -220,6 +246,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "kCbwWQzyCUUnaL0fsQaeh9oRHGaGGHGROXH1RqK0R5Aw0S6ZcQQ2StYqmo4PlcOss1ofz4BLVjkrmO/+aexVqn6Zp/smqkMdH0xHzRG07HhfKtuEU+KFzdH6k6kdgxlvnzSvZMJXJOY6g3+5c1g8HbY0VcKUwOyySzQvNNdyDQDNyvPVVTUHre15N5BfWQXnIYZ5jingDpRCSUsXZrpCHVrpHbkzLj+wHFV1rBsSUfYM5s6iKNY5EF0QjfT5x7JEklPMWZJHKsAsUL+AZHXxNrVm26NU4P7GAt1cl4vbhn+1S/2BQMG3mndepDsGqnKVQw/CRgTx0iEzQnC/vrOP3TmsM6eBNJ3+uRhvHuQzh9Y=;UAAh+lqrP7aXJ9W9Ettl/w=="
+secured: "5RlFGN3OjZ6PgwHanjroaTEYARfKsOEvKyAHCRgu/uZNyn6Uh3TLQf5pVwknObOTtAObT8/vyjSfn7jbOv/JYadg+mbsrBZ9Tjw8NuZft4LsD6mq7y5xWxFrb2SNCo8LwMh+5zhttmkoyIYRa53wTbKM8k3T7BbEHoJcHaYOWwagpzgbgS+NIU94Y4kOBA3aYgHdMuxJNtfT3We4UulD763lAwki1zl6S8cA91FjBN+6LelwAeIaSjIpX+KdGL7qAT74Tnp6zHLgu/6eZCG6Ew0/dlLsQyAdjHr6aGWxueTKizV4QK9rVikhfb9SI2hyoZq6xdpD3iaglhPn1AjRa/zzjBumJhqQeVlhcxZh46U=;BtC+Bvl0DEYs8tAFhaqllQ=="
 ---
 

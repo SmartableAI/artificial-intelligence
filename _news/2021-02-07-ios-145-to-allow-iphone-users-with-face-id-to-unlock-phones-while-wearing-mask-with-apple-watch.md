@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-w
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/ios-14-5-to-allow-iphone-users-with-face-id-to-unlock-phones-while-wearing-mask-with-apple-watch/amp/"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "iOS update introduces facial recognition with masks for iPhones, but only through Apple Watch"
-    excerpt: "News Highlights: iOS update introduces facial recognition with masks for iPhones, but only through Apple Watch Apple released a new iOS developer beta"
-    publishedDateTime: 2021-02-06T18:26:00Z
-    webUrl: "https://www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/"
-    ampWebUrl: "https://www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 28
 
 secured: "zYFFT0El1yt8tJ5tbDG+9yN51q1SXOKAjHBDs5DawO1WeZ6Xeyi+5qkJv6lTQ2gJk4/U8fcWWv7Qs0+ce36RUgCueK5FS8t7XhYHVzTn1q4CyFOFQ38cYaPmfHECKWOKVg/NVG9LnbHW6uWVGEJ/UQ1FwbIn/W7WyOZhGo0Y3/MmgBtPDuunSUE/RkzlUf+08hmtSr5y6YylgV972iA9BVsWgTnX8rI97SF6p31zx3YEHy8yIli4vBGuzvunSxDnJ8+EL0AsyyNckmu/6OniaD1ktrC1gpYPyJZQRLidoFQaHAVZJ7RSqjpExwOtGyhBXa4FBRsEoNq29taDUcGuzngQATaA1t06rlgsz1AHlw4=;887l3hClSyTtNWsD/JBa+A=="
 ---

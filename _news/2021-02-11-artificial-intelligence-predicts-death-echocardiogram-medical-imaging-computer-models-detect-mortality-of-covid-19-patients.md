@@ -79,6 +79,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "RNA secondary structure prediction using deep learning with thermodynamic integration"
+    excerpt: "Accurately predicting the secondary structure of non-coding RNAs can help unravel their function. Here the authors propose a method integrating thermodynamic information and deep learning to improve the robustness of RNA secondary structure prediction compared to several existing algorithms."
+    publishedDateTime: 2021-02-11T10:53:00Z
+    webUrl: "https://www.nature.com/articles/s41467-021-21194-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 32
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-21194-4/MediaObjects/41467_2021_21194_Fig1_HTML.png"
+        width: 685
+        height: 417
+        isCached: true
   - title: "Ensemble machine learning prediction and variable importance analysis of 5-year mortality after cardiac valve and CABG operations"
     excerpt: "Despite having a similar post-operative complication profile, cardiac valve operations are associated with a higher mortality rate compared to coronary artery bypass grafting (CABG) operations. For long-term mortality,"
     publishedDateTime: 2021-02-10T14:41:00Z

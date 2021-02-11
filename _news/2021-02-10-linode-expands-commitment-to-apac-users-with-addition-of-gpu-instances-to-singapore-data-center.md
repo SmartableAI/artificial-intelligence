@@ -24,6 +24,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Linode Expands Commitment To APAC Users With Addition Of GPU Instances To Singapore Data Center"
+    excerpt: "Alternative cloud provider Linode is expanding services to its fast-growing APAC customer base by adding GPU instances to its Singapore data center. T"
+    publishedDateTime: 2021-02-11T09:47:00Z
+    webUrl: "https://www.hostreview.com/news/210211-linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 27
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "z1WjbTpDpjvHfgW6BFk7SLIha0NGNmFJD2B05n+Ee3rnV+m5hl3pd1kw6rFopppIh1ch9U5Ybc6x5WfA5GFt6efM7L7eyZgqnsKcxETFPqPfgcWw1uj5LvuYt8M0cyFmJQqBOQlqvcpj937lfxT0Qvc3V45MFEWRNC6Od2tie5LH4Y/s2JvO6EKPpTDxIxRmJpZJf+V0zS4cLUwA7qkJBEuze7i9XwjpTx1+Is/hNKLIoR3sQB9xhwYEmGWRb481JlXP9GERmaAi5YVuVqBvDYHaZobFYtShYSIR1Z3Avrwrvf5KgYyAWZrEX1ootY2r/6n3K4PLNoY59314kaMl8OmKhcKkDXgLVvp7oEknHF4=;f8fmBUddnw4eHtsUnafGzQ=="
 ---
 

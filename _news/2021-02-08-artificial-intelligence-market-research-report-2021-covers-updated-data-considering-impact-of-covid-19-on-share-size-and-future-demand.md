@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Computer Vision Market 2021 Regional Study, COVID - 19 Outbreak, Emerging Technologies, Global Segments, Business Trends, Landscape and Demand"
+    excerpt: "The intensifying call for equipping computers with vision similar to humans has generated considerable traction for the computer vision market globally. The concept of computer vision as a scientific stream encompasses the technology and theory for creating artificial systems that acquire information from images or multi-dimensional data."
+    publishedDateTime: 2021-02-11T08:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-regional-study-covid---19-outbreak-emerging-technologies-global-segments-business-trends-landscape-and-demand-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Enterprise hits and misses - taking stock of AI in retail, Black History Month's tech voices, and the COVID-19 data challenge"
     excerpt: "AI in retail gets realistic; Black History Month brings needed scrutiny to diversity in tech. COVID-19's data challenges get a tech boost, and Google makes enterprise moves. Your whiffs include Amazon's (lack of) employee experience,"
     publishedDateTime: 2021-02-08T12:49:00Z

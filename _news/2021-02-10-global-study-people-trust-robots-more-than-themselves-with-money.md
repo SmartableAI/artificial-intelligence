@@ -28,9 +28,9 @@ related:
   - title: "Study: \"Robots\" are trusted more than people when it comes to money management"
     excerpt: "COVID-19 has accelerated digital transformation across industries. A new study takes a look at the sentiments regarding \"robots\" in the financial services sector."
     publishedDateTime: 2021-02-10T08:24:00Z
-    webUrl: "https://www.techrepublic.com/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
+    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/"
     type: article
     provider:
       name: TechRepublic

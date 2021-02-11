@@ -29,61 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2020 Segmentation Analysis, Key Players, Industry Share and Forecast by 2025"
-    excerpt: "The latest study on Global Natural Language Processing (NLP) in Healthcare Market 2020 by Company, Type and Application, Forecast to 2025 covers segment outlook, business assessment, competition scenario,"
-    publishedDateTime: 2021-02-08T06:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-segmentation-analysis-key-players-industry-share-and-forecast-by-2025-2021-02-08"
+  - title: "Chatbot market in 2021: Stats, trends, and companies in the growing AI chatbot industry"
+    excerpt: "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from ou Report."
+    publishedDateTime: 2021-02-08T22:27:00Z
+    webUrl: "https://www.businessinsider.com/chatbot-market-stats-trends"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://i.insider.com/6011cef11d2df20018b71349?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Global Wearable Healthcare Devices Market - Forecasts to 2026"
-    excerpt: "The findings reviewed by GME stated that the Global Wearable Healthcare Devices Market will expand with a CAGR value of 30 8 percent from 2021 to 2026 Factors like advanced sensors rising adoption of artificial intelligence growing mobile platforms precise"
-    publishedDateTime: 2021-02-10T08:31:00Z
-    webUrl: "https://www.openpr.com/news/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/2/U210206214_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Commercial Robotics Market Size, Share, Growth, Trends Analysis & Industry Forecast Report, 2020-2027"
-    excerpt: "The GMI Research expects the commercial robotics market to expand at a significant rate. From a regional perspective, the Asia-Pacific is expected to increase at a higher CAGR due to the strong demand"
-    publishedDateTime: 2021-02-08T20:37:00Z
-    webUrl: "https://menafn.com/1101563643/Commercial-Robotics-Market-Size-Share-Growth-Trends-Analysis-Industry-Forecast-Report-2020-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?180835"
-        width: 475
-        height: 250
-        isCached: true
-  - title: "Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Smart Robots Market By Component, By Mobility, By"
-    publishedDateTime: 2021-02-10T11:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19581256/global-smart-robots-market-by-component-by-mobility-by-operating-environment-by-end-user-by-region"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19581256"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581256"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "nSNPvxIEO03faJWrPofoE3/kqmmfC0Cy/9FbDkG/Svoi6rjc7R9/7AxlukDhlHaycdjT7M6Agz1bF/VsnLGAkds7Ysnoc8P19ngg3QxxzWp832TqEyxplmV0z1BmguXrkIGAJtJrBb+WxFnYZDTvX6B0+9GQGHRwI8ujF5CYZ55k1X6tU2s33IqWyqktH6wbgHNf2uEPKoB5QHE4KIE6C7U9ZP7sqReRlizUDJ5kZgmBcL2zljb6gwETac6wo91OY1fHNFw7no5z+/1yokFzNYOJSQfzauAk7Nk/B3VlWHUctEtRXJavVzn7iIIfkCfWTOVuyc9rUaXTN4KN1TaIRRyg5sE5fgBmQkTxxACR7Qs=;hKpihaobpbcUU+FsUsPGLg=="
 ---

@@ -1,29 +1,25 @@
 ---
 category: news
 title: "2B0 is Selected to Compete in the Silicon Valley Unicorn Startup Battle"
-excerpt: "B0 (To Be Zero) is selected among thousands of entries to compete in the Silicon Valley Unicorn Startup Battle, the world's largest startup pitch competition. -The 2B0 patented recycling robot uses artificial intelligence (AI) to"
-publishedDateTime: 2021-02-11T08:36:00Z
-originalUrl: "https://www.lelezard.com/en/news-19645843.html"
-webUrl: "https://www.lelezard.com/en/news-19645843.html"
+excerpt: "Startup Company Simplifies Home and Office Recycling using IOT Robotics and Artificial Intelligence SAN FRANCISCO (PRWEB) -2B0 (To Be Zero) is selected"
+publishedDateTime: 2021-02-11T08:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/p19607079/2b0-is-selected-to-compete-in-the-silicon-valley-unicorn-startup-battle"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/p19607079/2b0-is-selected-to-compete-in-the-silicon-valley-unicorn-startup-battle"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19607079"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19607079"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/environment.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "c4Z3eJLl1PAO6EyplpZNA9wxtwSqOvLLL9LY/Rz20JftuCmw4C8kdo09gPprE0M9++3BfdPmxTj5fgNsnv0+BD7ArBNW00ykivQcm5JR8XsfcHLZ05kl0Vw65vD4wH3+PT7YrVsHu5QX0vGI6SKxbnOgq6LMYltJpnVcdAJIjW250zwBC9o/NwthhSwKLWAikofZmuXFO6h05pN9kbrnxf9VdRWGZUN28AHsS+VGUdo4GJSqQCjJ7zVCrQClPfOXJENYfKGUEg7qE6RgfzcQsZRbm3npltvxN0zaBJb3F51QIXfs7L2HfudiAZjngxvVEv58itKGy9uyiUMaD0xffHbJL3iUYJ26TyQQ/DLnpcw=;pHbYGKtSbQHcv+7YGGyyAw=="
+secured: "wgU1NFjytuGooAKX2SAiVXY4zKankjL17jwkXV7Ae/ZaGETyeOwr8/fTFsEmqsY//ph8K9j3KyohQtk62ypVyXWZNC5VKkcuAtuuJAFgIOkAcUSjXE0HU8KiUUIZRYF+xOLn50JT3U+SN6kApS+K6X7YsE7k/Sb+a9mYu5uJiur3v9wlSS6tZz0LLzAZ4kzq7PbdHElKkkHVlxyeGnCdWKb6FNtH1VmsSqsF+OfXiinSCL5vm/3ebT/QrmenMjoGQxFAm7SCPKMzH0ug7ncrNWh7bX4POUU4SH14tP2K2/gMC+V/eZ6KbWSytcHpZv2XA3N0EJeFo+NH6h1IyHz5x8bJtbRYw8Ic3kPjfK2nQz0=;ocMRnUZt6M2CEdw92SOgDg=="
 ---
 

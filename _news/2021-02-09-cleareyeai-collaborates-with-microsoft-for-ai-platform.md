@@ -52,21 +52,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "3 Reasons Microsoft Is Still a Growth Stock"
-    excerpt: "Microsoft (NASDAQ:MSFT) became only the third publicly traded U.S. company ever to reach a trillion-dollar valuation. Just two years later, its market cap has grown to $1.7 trillion. From productivity software to cloud computing and gaming,"
-    publishedDateTime: 2021-02-06T18:30:00Z
-    webUrl: "https://www.fool.com/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/06/3-reasons-microsoft-is-still-a-growth-stock/"
+  - title: "Volkswagen partners with Microsoft on automated cars"
+    excerpt: "Volkswagen Group is enlisting Microsoft’s help to speed up the development of autonomous driving systems, the company announced. It has already worked for several years with Microsoft on cloud computing for connected cars,"
+    publishedDateTime: 2021-02-11T10:55:00Z
+    webUrl: "https://www.engadget.com/volkswagen-group-teams-up-with-microsoft-on-automated-cars-105154799.html"
+    ampWebUrl: "https://www.engadget.com/amp/volkswagen-group-teams-up-with-microsoft-on-automated-cars-105154799.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/volkswagen-group-teams-up-with-microsoft-on-automated-cars-105154799.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
+      name: Engadget
+      domain: engadget.com
+    quality: 91
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611269%2Fsatya_nadella_02.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2Fbdcbc8b0-6c4e-11eb-bf97-bff40b7d3a02&client=amp-blogside-v2&signature=93b983d1e835e4b1cb32538773b259ecba171802"
+        width: 600
+        height: 350
         isCached: true
   - title: "Machine Learning as a Service Market is Booming Worldwide |AWS, Microsoft, IBM"
     excerpt: "Latest released the research study on Global Machine Learning as a Service Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning as a Service Market research report shows the latest market insights ..."
@@ -100,22 +100,17 @@ related:
         width: 600
         height: 440
         isCached: true
-  - title: "Volkswagen taps Microsoft’s cloud to develop self-driving software"
+  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
     excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T08:29:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/lite/"
+    publishedDateTime: 2021-02-11T10:40:00Z
+    webUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 61
-    images:
-      - url: "https://images.indianexpress.com/2021/02/c3a29490-8965-49b9-a784-03c088b29b9b.jpg"
-        width: 1200
-        height: 667
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
   - title: "DB Schenker advances IT infrastructure with Microsoft Azure"
     excerpt: "In a collaborative partnership with Microsoft, DB Schenker has established plans that will advance its IT infrastructure transformation with the help of Microsoft Azure. As part of the collaboration,"
     publishedDateTime: 2021-02-10T13:35:00Z
@@ -143,6 +138,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Microsoft Teams AI could tell you who is most enjoying your video call"
+    excerpt: "Researchers at Microsoft have developed an AI for the firm's Teams videoconferencing software that highlights positive audience reactions during a virtual presentation"
+    publishedDateTime: 2021-02-11T10:02:00Z
+    webUrl: "https://www.newscientist.com/article/2267147-microsoft-teams-ai-could-tell-you-who-is-most-enjoying-your-video-call/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/02/10103555/10-feb_teams-bot.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
     excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
@@ -185,6 +194,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?760531"
         width: 333
         height: 250
+        isCached: true
+  - title: "VW, Microsoft partner to develop self-driving car software"
+    excerpt: "Volkswagen Group and Microsoft are expanding their cooperation involving the U.S. software giant's cloud technology to include speeding up development of automated driving. VW's new software division will build a cloud-based platform with Microsoft that will help simplify development processes and allow faster integration into its vehicle fleet,"
+    publishedDateTime: 2021-02-11T09:46:00Z
+    webUrl: "https://europe.autonews.com/automakers/vw-microsoft-partner-develop-self-driving-car-software"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 41
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/VW%20Automotive%20Cloud%20Seattle.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Why Microsoft’s self-driving car strategy will work"
     excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"

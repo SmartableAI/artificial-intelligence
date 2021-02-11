@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Organizational learning: Your key to AI success"
+    excerpt: "Instituting formal processes to embrace the learnings of small-scale AI efforts and promulgate them throughout the enterprise is essential to business transformation."
+    publishedDateTime: 2021-02-11T10:02:00Z
+    webUrl: "https://www.cio.com/article/3606709/organizational-learning-your-key-to-ai-success.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/08/artificial-intelligence-concept-picture-id1160995648-100855293-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "VUnC7c6bjBQz3pbSKsvYQlLIrVFoSj0OY0ZIoLpAhX+rH24KEVYp3PzhStDUqYTpTty5TGK1pvngBXLJL8z9SJjgyWHDroc5cUiPXr59nXUIL4p3T7dnZyd9qOMoEv0xEKWNdp7HY5m8yTgPuoIVZbPjYO/TupdKc4DkoqPCHsLFTUytco/ofuKRDvWIWJf+XOz7jOaqKDuxLGNCms+8/b7DyaQNZwDHYsFQ3APnFl2ghx0zxYJL+DWvf79ZAyzVtUllqvyFBfqLaHt/BO6h4QVvUj0/b+Ha2Hh2KuU2XsVcWGacyxGKKstNLUPtzDTAQtL6jpLt92kB4emrS/Ub9jQ04LHvfmox11mZHq6VBXo=;a+DNqdL2TKk3+2gVXRiLkA=="
 ---

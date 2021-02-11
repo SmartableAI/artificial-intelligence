@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/5210x2931+1389+560/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/10/24193816/2021_Sienna_Platinum_Predawn-Gray-Mica_010.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Toyota in self-driving partnership with Aurora"
+    excerpt: "Toyota Motor, Denso Corporation and US autonomous driving startup Aurora Innovation have agreed to establish a long-term partnership to develop and produce self-driving vehicles, according to reports in Japan."
+    publishedDateTime: 2021-02-11T10:40:00Z
+    webUrl: "https://www.just-auto.com/news/toyota-in-self-driving-partnership-with-aurora_id200163.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "J4PaNoXBosLeTSTad5a78OkmOQhYGb4PxubWJkwa4WZR1mWqf72UelA8+PatkxCrShItxuIf7FaZc4uI8yT/SfRC0I44g7Fzu/a8Lo2Efdes6wcWucLY1EJu3V5mIB1/3DQoeNCP0PhkByD4LrCO92K/mYlbt6xnGxUtHSm7HUQ2sVOPlgViflRf6iUhc4Ln3FbTUgMRK4CNo+/NQhmWnsWNkOlRKMlVT8Roo7o32e1x4CeuO6z/ydszFp+2izF8TOJh2AV+3CSfiOGgpGhE/ZBmAKeueM2ExtrxxigbPSDoJi9/gEHoHZbZN5IRXDMDFYwjz5xHZErJg2zaAdpr2oDShQZgsWkKv4YKjPsROvYjGHlYymGOVmo7ZvOOHA3uV/pPcygkIDCYJst+TJVvBaiK0poZ28n/0icnkESVWFXvESG3CxoPUwZEqRsAu0GMGRzovLf50ABBuxT73MLQQj9616PSIbS7uy1WfmPXIIHzm+qlh6CZGG5LAoihCs0t1vAlkh/pSFKvuI8YxLLaGg==;atVu2NJpOADavDauHEMJ/A=="

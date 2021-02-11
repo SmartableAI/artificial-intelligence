@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chipset Market New Innovations Trends, Research, Global Share and Growth Factor"
-    excerpt: "Deep Learning Chipset Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis \"The report on Deep Learning Chipset Market was recently published by SDKI,"
-    publishedDateTime: 2021-02-11T07:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-new-innovations-trends-research-global-share-and-growth-factor-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "UDt0zPL1Akfxt2dwzu8/clWI9Q/FJmGaL99/SNGoHSC5PD6yB1m+5s3ohSanIBL49EGW7XLbVKsVU0JCewXbkmJ4EXp/cx45SZx3hO1cg24+IWooH02BrbbWzptVFFkc62mbibn66D0C8+YBcEuz5OwmptWMQmVStXqD/sZp7XoxuTOLUHOGc5b4S+ACa4Yro5ZgKGA5iUlitG8vCXRkqlyNvnxFnA1NFxxco1a88PgcInNtsgIHDoy2sR0HMPzRKzG+yBCPEzXxJ6rsTIk2H5IDu60b1CSL+jQnVnd/RQL8MTbyUlx2SwunuL5zQU2wGAlqBPjWwrN0ByXzjjcl83fg9Pk7IzFJpDuDdemIYvU=;7MUmShJq0qN0yOQyKuUYEA=="
 ---

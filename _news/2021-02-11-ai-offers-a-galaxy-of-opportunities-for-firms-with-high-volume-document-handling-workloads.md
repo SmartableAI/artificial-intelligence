@@ -8,8 +8,8 @@ webUrl: "https://www.globalbankingandfinance.com/ai-offers-a-galaxy-of-opportuni
 ampWebUrl: "https://www.globalbankingandfinance.com/ai-offers-a-galaxy-of-opportunities-for-firms-with-high-volume-document-handling-workloads/"
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-offers-a-galaxy-of-opportunities-for-firms-with-high-volume-document-handling-workloads/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2018/09/gb120918-52.jpg"
@@ -26,6 +27,6 @@ images:
     height: 677
     isCached: true
 
-secured: "jkMAS/yZE5sUYhswsIA4u+UMhcBfU8PajUwI9bkgYtnscuXL2FeKFw8lzsw+n8/FP0OBMwH/Zx3tmjwIDqpsthjQRvzrzZuQTv6cAXV+lTGg5ZPOjLnbfzQh2+RRjk5fq18kPEJw9M6FNo5E4Tx6XkdtSR49YUpJpVHLE/qhe49BH2ixHVkKjdYWfiz1ZUzaIkye5MU3t2DEPsbgH126QKexaX1jszYRHjo3zUrgv1wKaoiqaY7rZ8iAJatfcUpufMTdbtzNV2S1myeo4RxSUsoizsX7RO4ZK7AUrVWm/hF4k95cRIwPwTdNnmDyDYpjlHOt+jyYdPvmxVxztm2X1WFLxoGkN00y4A3zMkBiTS0=;eZ9yF33R77g5X6204FrenA=="
+secured: "1FNtO/OCVyDbk8rtjmJpDeFXXZ9WX9CQRORJiXbpN8U4NZpRrtOXxV9DXuCafgK1jcx/pWXwWzdvajKeHKLSDRwL6L2LQarI+jtzoF0b32uGKz/bTUxVeMi8ZeslZOaoxpt0C+sYhnsNiVx+kp9qIq7P0phokDaJUSM1P8LWJWGGgI38aZ4Bx4KD7lpGAmr3z65lYWAEkIxBQiqUhPWyYmNDMoNApmvYkwSsJaDQLeN52edB5SzlJnyzlOK45MPKk7ACXmAWF8F84DgIjaSnejlkRStIQ/aVUSuhnKN8njEHG6G/NwAM4JwFfm/Gmur0SWqn4Z7zecuJv5fOH377LDI5m51tspVQJOG06QJFCXSLfGo7xYVbqaspWr1oCozLCAO9cG9O0ihB5usF5jrhf8KXl+wdrN4bHXxT9+tqalRiBpIgVlfK+ruEEgRsZsLD8i1FZ6sxUVTf0U/2OUqC0GXvB+2WldmdokBjzHTZ6+f+P1aJpuO/P7PGapmErri1AAKYjAN2qTyNLCf4nlSSYA==;OruJbr0tGA8FMVFqmYKu/g=="
 ---
 

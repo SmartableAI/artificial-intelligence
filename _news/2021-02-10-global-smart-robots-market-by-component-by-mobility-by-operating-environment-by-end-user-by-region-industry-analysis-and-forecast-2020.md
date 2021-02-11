@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Global Machine Learning as a Service (MLaaS) Market 2020 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2025"
+    excerpt: "MarketsandResearch.biz proclaims the addition of a new report titled Global Machine Learning as a Service (MLaaS) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers broad insights extracted by thoroughly analyzing historical and current developments in the market."
+    publishedDateTime: 2021-02-11T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025-2021-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Natural Language Processing (NLP) in Healthcare Market 2020 Segmentation Analysis, Key Players, Industry Share and Forecast by 2025"
     excerpt: "The latest study on Global Natural Language Processing (NLP) in Healthcare Market 2020 by Company, Type and Application, Forecast to 2025 covers segment outlook, business assessment, competition scenario,"
     publishedDateTime: 2021-02-08T06:59:00Z
@@ -35,49 +49,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Wearable Healthcare Devices Market - Forecasts to 2026"
-    excerpt: "The findings reviewed by GME stated that the Global Wearable Healthcare Devices Market will expand with a CAGR value of 30 8 percent from 2021 to 2026 Factors like advanced sensors rising adoption of artificial intelligence growing mobile platforms precise"
-    publishedDateTime: 2021-02-10T08:31:00Z
-    webUrl: "https://www.openpr.com/news/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/2/U210206214_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Natural Language Processing Market Latest Industry Trends, Statistics, Competition Strategies and Latest Industry Share by 2026"
-    excerpt: "The global “Natural Language Processing Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-02-11T08:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-industry-trends-statistics-competition-strategies-and-latest-industry-share-by-2026-2021-02-11"
+  - title: "Deep Learning Chipset Market New Innovations Trends, Research, Global Share and Growth Factor"
+    excerpt: "Deep Learning Chipset Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis \"The report on Deep Learning Chipset Market was recently published by SDKI,"
+    publishedDateTime: 2021-02-11T07:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-new-innovations-trends-research-global-share-and-growth-factor-2021-02-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Commercial Robotics Market Size, Share, Growth, Trends Analysis & Industry Forecast Report, 2020-2027"
-    excerpt: "The GMI Research expects the commercial robotics market to expand at a significant rate. From a regional perspective, the Asia-Pacific is expected to increase at a higher CAGR due to the strong demand"
-    publishedDateTime: 2021-02-08T20:37:00Z
-    webUrl: "https://menafn.com/1101563643/Commercial-Robotics-Market-Size-Share-Growth-Trends-Analysis-Industry-Forecast-Report-2020-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?180835"
-        width: 475
-        height: 250
         isCached: true
 
 secured: "RVm12UDcfQlwFy18bfoEKJ1B8/nPDGJ8NBrV2SV8h5ikGDbZQgIi7KF2m/sJANkFBFTnwAHXf7+BWeMHGp2FEyk7ZtOlUkcjuOIRkL+W6bvnvxwfL/RWSFZ6uBOEoMIawgdQU66zvLnjVkDRUHuVaBrRzCw8iM/bzu3+95v2e8cR+bbquCMljaKSfYi/FghgHHleFTk0JCbRIeIRA2n2G55rtQtiCF3bMqPQraKL7beRHssfooUDdETCNPQQfWEhlM8s4NFgZr9ORoza1WDoPwjE4aHjLqpsKvyQyT4ynGXOY/p2AynRb7Kf0wtKcsMEzj50V3Faq577M7/jUg59l+B5XeQtwpnILrrM8e2axuY=;8X8oBIBDvj1FJYoja4+lCw=="

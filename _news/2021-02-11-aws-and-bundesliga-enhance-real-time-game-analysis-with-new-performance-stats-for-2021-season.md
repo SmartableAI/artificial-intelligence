@@ -1,29 +1,33 @@
 ---
 category: news
 title: "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season"
-excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company , and the German Bundesliga, Germany's top national football league, announced three new Bundesliga Match Facts powered by AWS to give fans deeper insights into action on the pitch."
-publishedDateTime: 2021-02-11T08:50:00Z
-originalUrl: "https://www.lelezard.com/en/news-19645858.html"
-webUrl: "https://www.lelezard.com/en/news-19645858.html"
+excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league,"
+publishedDateTime: 2021-02-11T09:18:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season-2021-02-11"
+webUrl: "https://www.marketwatch.com/press-release/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season-2021-02-11"
 type: article
-quality: 28
-heat: 28
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/sports-recreation.jpg"
-    width: 640
-    height: 480
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "vUZk89Ub009tIUDe14fkmgqDXz2Bu0Zfb1sFVdBm2az2YBUJtEMUaUCQTQSYu32gYny6VLtdzlyg3oCvctyxC9j+ZnvTwjr4XfQ7rzZtSZYGpnnJtkVNLqfbVWTIXe/pdAOkLbQ8kIzCW2In2YGiZXFcsOuAiShEzU7tP5k2x+KbxjrimfdlxPmjcerwG2vD6nq0GvthMIE/r8JQiMbMvd5+ar5fHWrZBniMO/LiZj6qQn3HwDf1ctPmhRAp9EsDajxNNIi9K8BLJmglhj+j4twKMdo2F88ZLb5vEVE+bGSdcNPoCNieihZZ413O+CIOwrQ0giD09/GXiNbeKecJeZLqTCrC/vg/oMFrq+YabNE=;QDbhX6sOSeX3a8GYfJOh0w=="
+secured: "LzKb3wRp7aAX861db7K8QHnXmyuU6bCwKOo06ujW+p+/oAnYQtzHg46TKZYzdLHbaSiTrDsCnZPzr6imAdyPSPgledkATDIMcsfLdygAMH9kBC8lbU6CXIoBhaXjnd2CrwsaaTArU6baLalj9J8pFpPkFqwFgXnxtu1PR8h9B5BdwhElceC1fLHFwQWXZBOaCHFzfEAvkQqLHPfBJtDHDwlORu/daVbjEvhFCwIy1IXJraqDhVLkOiXI1rjMoqGz7axkcq12A9oOnYn1kKsizYW13LQqnLroQlRaKRMHtLKASSwb8mxZMOqaYCzlT0ZxnmvpwpptI9YXKZ9c6Q+vIzlXEhQX4yvoJfYiAz4e3TA=;kIea5+kJQFy1y2O4OqLspQ=="
 ---
 

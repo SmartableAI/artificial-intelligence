@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -58,17 +58,6 @@ related:
         width: 870
         height: 485
         isCached: true
-  - title: "Will it be self-driving car, “electric car?"
-    excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"
-    publishedDateTime: 2021-02-06T17:14:00Z
-    webUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/"
-    ampWebUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 24
   - title: "Self-driving car to be tested on Technology Parkway"
     excerpt: "Peachtree Corners could become the birthplace of new self-driving technology used in cars sold to the public in the near future."
     publishedDateTime: 2021-02-08T18:05:00Z

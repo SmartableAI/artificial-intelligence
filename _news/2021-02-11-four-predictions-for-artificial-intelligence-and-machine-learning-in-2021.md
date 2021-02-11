@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/"
 type: article
 quality: 105
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Organizational learning: Your key to AI success"
+    excerpt: "Instituting formal processes to embrace the learnings of small-scale AI efforts and promulgate them throughout the enterprise is essential to business transformation."
+    publishedDateTime: 2021-02-11T10:02:00Z
+    webUrl: "https://www.cio.com/article/3606709/organizational-learning-your-key-to-ai-success.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/08/artificial-intelligence-concept-picture-id1160995648-100855293-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "/U8XhWabnJxuVOjB0HJNMT4FICRz/sIzySjHsXvNh0NX2oGdo+Ni2xConWfkPBcqZ+rkoi+5dYnS+pAQ30AkxBcrMdSs2eqbcqIqJLCdg9/T30uTyIsJIX2Gv5C+4EEdd4rRBXFjZ8coBzDlVUJRGn/v/2vBDLZ7PvweHo+IUu3TmIvcrRHEUh0CxsqkRuRF8AiY8xRNQ1Ihkm/cHEeIOB7fGuybr52GYicvOUk82IUqKsAwdVCHnWAq1N1FelX6BU3r+YypuSita1M/VYLkAegmEFJVVXXXdSDW5IXvJTi1IOp4NRDSYrynlTzzQHZtTdxmeOoqx2fXrpYq1gLMMBlFIzfvqrvpw6lbP4ZLNgrUNIY00pZNZxqYz6vaK770+RIOSz1IrptJfRdSus+F4IPZguxVXQZ4HVKHrHkkc901SIvcs8OCUGW/Mu2guBh6ZT1JBDIctGcjlyxKHi/b7AVujm4dIhBqpoRHnG9SGTwZvepkZK3i2qWsmhuUommosifPV9MgJRo6b83MS24sWg==;fEJwypKRdxQjvMcP9oA4EA=="

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "While Kamala Gives Women Hope, TechMae Gives Women A Voice"
-excerpt: "TechMae, an exclusive new app built for women, creates an outlet for women to seek support and community as COVID-19 forces many into impossible situations"
-publishedDateTime: 2021-02-11T04:33:00Z
-originalUrl: "https://www.wboc.com/story/43329230/while-kamala-gives-women-hope-techmae-gives-women-a-voice"
-webUrl: "https://www.wboc.com/story/43329230/while-kamala-gives-women-hope-techmae-gives-women-a-voice"
+excerpt: "TechMae is an app exclusively for women. TechMae is building a digital community based on positivity. TechMae, an exclusive new app built for women, creat"
+publishedDateTime: 2021-02-11T10:28:00Z
+originalUrl: "https://menafn.com/1101580774/While-Kamala-Gives-Women-Hope-TechMae-Gives-Women-A-Voice"
+webUrl: "https://menafn.com/1101580774/While-Kamala-Gives-Women-Hope-TechMae-Gives-Women-A-Voice"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://EINPRESSWIRE.images.worldnow.com/images/20362355_G.png?lastEditedDate=1612971374000"
-    width: 900
-    height: 505
+  - url: "https://menafn.com/updates/pr/2021-02/10/EP_188c8965-0_Image_In_Body.png"
+    width: 300
+    height: 246
     isCached: true
 
-secured: "ROWuW8Tmiwt7UTbLtTVa83IiiQPj1n4LcTr5NDE8kRBWjLhbTptp4WYoKCQYT6Yrdt0ATaxhh5wp6sjYV79GRTJ4ejTeO8SWV2oWrtiaGMs6nlKwhd5B9QB5/2InC5b5uwd/xaYQIAY5nnjEzCP/E1A5XKew4JySDJB+RjaxurDt76oYjS9bWKP+DIb6POrZVCcX15bVrPUqpTPORSoGKoLqotJEoTdYaTgxPxzpPWSteSCbFM83GY9SscVMEV59Mz05Q43RIpEu3X093LGB6QlhOFYT7tgynhpsysm4BywIvesXkrzwjzgqMWdfOYuGOcPqDkUwE4T2JlwIqx9REc63yWjK7N+qcMI3ugieg3k=;QF1oH3KI+BQwQTc9+djnSw=="
+secured: "GKyQI3Z9MsBRDpLXxhdz5cfn5hGhxdRK86Xeb2FZb8h6QFmSpz3vFdcH6WH0+q2dEJw0ZCJ3N17Bw6WNIshML2+X1xoqm2yxb2E4rJPt10bf4dvX8ouDQVasxSNc/zeUF+ZAs8IiRkEO0HnSFE5HOKpmKC8fUuG6OqHn1RuD8YdpVXkt1K22vlarLIi67mq4jb+yuStFqV4z8rQK9LgKchcaW4dRkulD24Wp4qCMI2m9uhpRCbLJSCajk/lA9GTha/kG5KCmZVetNEmCIgZxnHOjyNLrUDpKM+hKztTftQ3k7tkfi04pIvQQE8sJ4p8pMl0fFhYHvdNiEtrJHdYjytZ10q/Il5smWwypA08CfTs=;DGpKy2AOVAc4XZLh1eN22A=="
 ---
 

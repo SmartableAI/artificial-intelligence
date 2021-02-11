@@ -2,26 +2,28 @@
 category: news
 title: "NHL takes big stride on data and analytics with AWS deal"
 excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
-publishedDateTime: 2021-02-11T08:09:00Z
-originalUrl: "https://www.actionnewsjax.com/news/technology/nhl-takes-big-stride/L36UFDLB7VCPD3JJKA4PSTDLFE/"
-webUrl: "https://www.actionnewsjax.com/news/technology/nhl-takes-big-stride/L36UFDLB7VCPD3JJKA4PSTDLFE/"
+publishedDateTime: 2021-02-11T09:18:00Z
+originalUrl: "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/"
+webUrl: "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/"
+ampWebUrl: "https://amp.usatoday.com/amp/115459788"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115459788"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 59
+heat: 109
+published: true
 
 provider:
-  name: Action News Jax
-  domain: actionnewsjax.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.actionnewsjax.com/resizer/tXOZxvhXr_E7UBjJtZ7JluJx6lc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/UM6KZV2HS26I4XZ4HZTY7DMF6Y.jpg"
+  - url: "https://www.gannett-cdn.com/-mm-/740a207bbec9f89126631fd62b1d0320f2e9bc83/c=0-157-3000-1845/local/-/media/2021/02/10/USATODAY/usatsports/ead979f8cbf645d5951e429adda246c4.jpg?auto=webp&format=pjpg&width=1200"
     width: 1200
-    height: 628
+    height: 675
     isCached: true
 
 related:
@@ -90,6 +92,6 @@ related:
         height: 450
         isCached: true
 
-secured: "dyD6PmxYoNDHcM5sbTcWO+Kd2BCAZmbpAI/dypTr4LVBVzgfmPqooCDb8sk4QZWkuG9Tg5niNPQsPwGGinRcLXt1RqNbOLbubyUKUqYsZLqaCP0FX7kjWTpWSDXRzmvvoGuM/fkusGfj/nSmhiOIR1BYXFKCRIDcu0pScMsLlpLDQkvaa1HXFeBYagoIn/8EQfk6c6a2eI/L+MbLV8GH/C41v1lHQai6U99x1NCMUOfYsIgGdom1RQHqHdA+zzWiD+03sMVWtaiEoxyR8DTvDIJIRl3AGKAJ1yuaAyX89gtCCUGVLPaOZ2+lgy7IiZ0lSwDrTO5BI+za7F7gVTxSdMyORHvH48KSgvYLKXqsFks=;PY8w7j0irghzW2IkYO82nw=="
+secured: "yPpblyn25emmaWBhq1DhmsFt0/+DabRCLEyQYi9IXkYWlZvYmeq2z40T5Ymmnwb9xqm0BfS+tzsnLLFi4/pxfH/6j1w1EZgsUTXF+EcxqIg5S6r6+wnMJGh1czQfTkhrqK1Z0yQ7lkesrIZ/jb+v0n1ZIXiULMWsFq5w1hbr2Exxa/B6xeuWGESvC/xmBd9b8tbKu/0LaKh3QR1IFVIA+56FYgBTO6ksibLZx/+SG+gbALwSZQs6yaFK9hFMOY5lgl8FlB7pEl2mzLvG2BZu+X9/cH/Tx76wxujZQIyRCVLXrlNRRCeE+XNyD03oaIorAzUDss0vpr+HT8jXB7p90Xv6RxCTajbCvXv+8sQiUWE=;+65hU6Fe/xTN6XEohckUQg=="
 ---
 

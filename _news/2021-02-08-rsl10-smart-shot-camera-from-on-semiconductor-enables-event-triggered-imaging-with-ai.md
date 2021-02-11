@@ -1,31 +1,27 @@
 ---
 category: news
 title: "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI"
-excerpt: "ON Semiconductor (Nasdaq:ON), driving energy efficient innovations, is pleased to introduce the RSL10 Smart Shot Camera, combining cloud-based AI"
-publishedDateTime: 2021-02-08T09:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai-2021-02-08"
-webUrl: "https://www.marketwatch.com/press-release/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai-2021-02-08"
+excerpt: "ON Semiconductor (Nasdaq:ON), driving energy efficient innovations, is pleased to introduce the RSL10 Smart Shot Camera, combining cloud-based AI with ultra-low-power image capture and recognition, to enable a new generation of IoT endpoints."
+publishedDateTime: 2021-02-08T06:00:00Z
+originalUrl: "https://tucson.com/business/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai/article_6066fb0a-e643-569d-829c-51284f9ad514.html"
+webUrl: "https://tucson.com/business/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai/article_6066fb0a-e643-569d-829c-51284f9ad514.html"
 type: article
-quality: 62
-heat: 72
-published: true
+quality: 32
+heat: 32
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+    width: 620
+    height: 290
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "1MfwbWdy5NcwmvHuKyPtpbDOuSZmWqLsyrfHTS390ZCC+qC1Uj3jB7qT3v3feIsagXaWMUNVp06Xzk4qwo8q16f16KV5ax5uJy3qcLr2jUuRW+P7unRWZl7EVOZxdgAveOPI8WtWqs+U1eoDUEIIIH03WrdJ4H0oMRSDDm0QK9wCW4hBfIJ6eLIz1Mq9KNxp2yevz9+461To9GYS0SjjO1vAInjpAw39d5a7ozdT2IkPWXDqiCdd7NcAg5RgOQN/JPoYZLM5ip1dU9C2/nWSniy4ZZu/PiJDgz9uVIbyf9XByncQhVNjEPBFpdINlWzAKx0nonGk4H+JuwYekt2wsybVCsyw8NSB1gncG0mZxEc=;AgUChsWV8JGgFZaVwVVt6A=="
+secured: "q9FZiv9+hX4vuSEX8/X+i/MAJ90a48JE6xi/rxJNzuC043gFf8NhVdLzmTUC5efzhf4mGkZv68VsbRg/Pahzp3Qf80JthW81KGd17ItQV6uHO2EPGlpHCG0Zkgd0STJ1qJL2trokP7O+5PVos67v5H2Qoh2B5BxIIJPssHD5AW1URiNvLJSP7FjGRJT3qNqxiTr0uCXsE19+UPT57OueVU27lUQhnXqUyyzrYNKbt+lVIvkShTJZHXueXmg0AHkpqX9SumzdnkAVXl9qtwE07wFLLCezb/bYS99rNFsMbAUy6U65L7O8vecoCMH2AYWD257t4Bm0bUyTNOeJ6n9aSOJJomJN5qBeXyWracdaNvQ=;/4KBSaHP29qaKZ8KRvRwkg=="
 ---
 
