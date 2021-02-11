@@ -68,6 +68,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Machine Learning as a Service Market is Booming Worldwide |AWS, Microsoft, IBM"
+    excerpt: "Latest released the research study on Global Machine Learning as a Service Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning as a Service Market research report shows the latest market insights ..."
+    publishedDateTime: 2021-02-11T04:48:00Z
+    webUrl: "https://www.openpr.com/news/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
+    ampWebUrl: "https://www.openpr.com/amp/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 89
+    images:
+      - url: "https://cdn.openpr.com/U/2/U211657553_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-09T15:25:00Z

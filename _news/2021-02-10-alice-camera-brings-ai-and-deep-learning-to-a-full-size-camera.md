@@ -7,7 +7,7 @@ originalUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-l
 webUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-learning-to-a-full-size-camera/"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "Alice camera draws on AI to reimagine photography"
-    excerpt: "Camera technology has advanced at a staggering rate in the last two decades, with first digital, and then the smartphones transforming the way we take photos.  Check out The Alice Camera indiegogo campaign here."
-    publishedDateTime: 2021-02-09T00:01:00Z
-    webUrl: "https://camerajabber.com/alice-camera-draws-on-ai-to-reimagine-photography/"
+  - title: "AWS to provide National Hockey League cloud, AI and machine learning services"
+    excerpt: "Amazon Web Services Inc. announced today it has signed a deal with the National Hockey League to become the official cloud, artificial intelligence and machine learning infrastructure provider of the largest ice hockey league in North America."
+    publishedDateTime: 2021-02-11T04:44:00Z
+    webUrl: "https://siliconangle.com/2021/02/10/aws-provide-national-hockey-league-cloud-ai-machine-learning-services/"
     type: article
     provider:
-      name: camerajabber.com
-      domain: camerajabber.com
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 68
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/iehockey.png"
+        width: 869
+        height: 581
+        isCached: true
+  - title: "How AI Is Learning to Identify Toxic Online Content"
+    excerpt: "One solution might be AI: developing algorithms to detect and alert us to toxic and inflammatory comments and flag them for removal. But such systems face big challenges. The prevalence of hateful or offensive language online has been growing rapidly in recent years,"
+    publishedDateTime: 2021-02-09T06:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/can-ai-identify-toxic-online-content/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 43
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/C9A31747-FBED-41A5-8820ED507C404BB0.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "NHL takes big stride on data and analytics with AWS deal"
+    excerpt: "The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches, executives and players to fans an integrated look at the game with the aid of new camera angles,"
+    publishedDateTime: 2021-02-11T00:20:00Z
+    webUrl: "https://www.startribune.com/nhl-takes-big-stride-on-data-and-analytics-with-aws-deal/600021570/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
     quality: 39
     images:
-      - url: "https://mk0camerajabberhe53n.kinstacdn.com/wp-content/uploads/2021/02/Lifestyle-Landscape-16.jpg"
-        width: 1440
-        height: 811
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1612975920"
+        width: 1680
+        height: 876
         isCached: true
 
 secured: "yfOK6IZjizY26leEOerQDJkwJ0e3lljfua4Zook9pIh+YLeUpHM+aIm5ydcn9X9ME1vkJnlOK0lBPrKZpMjAlSaR48AFCQWXVb28N3sHA+/NHDU25q2uFZR/wr6QxnLB7y/Fx0vOb7ca/d1OrRCCwpvYvtvU4bYyj7DYYIAfFQUwVKRz/QNOEiHrulcp7c9mM9AyKcwEXUs0nTBAurenPY2TqdkboOE0m1bJOB49xABvFy6KQzOWxHmKaTxy7gDVz/aeVDWuSCHeNLVwo1EHi2k1agwl9gLgSUobtyFO7x70TYOvth2suQAQnOE2GiG9Od09siAeAnVPtbPJCnldICTUd2ZQn2g9GOYdpj4AjdmUpKU/jy7OaJyd1z8LSR8h4qMshSFX5cCYOfTOv7rNiPTx9rj8lMMlNW5WoAJgumXoV0u7449rD5xxzjC+t2IJVL3fEK8o2d2VM6VGvnK3H8PrlH6fUlrpO6QU7S8CYnb2VbxXv/L9emRMrBtEBD2xqIwaBGr7VnMOEcY54j7oNQ==;u1OubYywl5Q6Hwoip1cd2A=="

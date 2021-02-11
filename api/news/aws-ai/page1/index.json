@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-11-nhl-takes-big-stride-on-data-and-analytics-with-aws-deal.md",
-      "title": "NHL takes big stride on data and analytics with AWS deal",
-      "excerpt": "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,",
+      "path": "_news/2021-02-11-aws-to-provide-national-hockey-league-cloud-ai-and-machine-learning-services.md",
+      "title": "AWS to provide National Hockey League cloud, AI and machine learning services",
+      "excerpt": "Amazon Web Services Inc. announced today it has signed a deal with the National Hockey League to become the official cloud, artificial intelligence and machine learning infrastructure provider of the largest ice hockey league in North America.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/technology/nhl-takes-big-stride-on-data-and-analytics-with-aws-deal/2021/02/10/742c8952-6c07-11eb-a66e-e27046e9e898_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/technology/nhl-takes-big-stride-on-data-and-analytics-with-aws-deal/2021/02/10/742c8952-6c07-11eb-a66e-e27046e9e898_story.html",
+      "webUrl": "https://siliconangle.com/2021/02/10/aws-provide-national-hockey-league-cloud-ai-machine-learning-services/",
+      "originalUrl": "https://siliconangle.com/2021/02/10/aws-provide-national-hockey-league-cloud-ai-machine-learning-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/iehockey.png",
+          "width": 869,
+          "height": 581,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/technology/nhl-takes-big-stride-on-data-and-analytics-with-aws-deal/2021/02/10/742c8952-6c07-11eb-a66e-e27046e9e898_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/nhl-takes-big-stride-on-data-and-analytics-with-aws-deal/2021/02/10/742c8952-6c07-11eb-a66e-e27046e9e898_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-10T17:29:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T20:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -451,19 +451,19 @@
     {
       "path": "_news/2021-02-05-as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud.md",
       "title": "As Jeff Bezos steps down, Amazon stakes its future on the cloud",
-      "excerpt": "Among them, Jassy has championed one of Amazon’s most controversial products: the facial recognition software, Rekognition. Amazon generally doesn’t identify its Rekognition customers ...",
+      "excerpt": "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ...",
       "sourceUrl": null,
-      "webUrl": "https://keyt.com/news/money-and-business/2021/02/04/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/",
-      "originalUrl": "https://keyt.com/news/money-and-business/2021/02/04/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/",
+      "webUrl": "https://siouxcityjournal.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_b71abcf6-edb9-5d48-9d98-5c4d0707d71c.html",
+      "originalUrl": "https://siouxcityjournal.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_b71abcf6-edb9-5d48-9d98-5c4d0707d71c.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://keyt.b-cdn.net/2021/02/hypatia-h_43624b0189f1932ba527dd65ff9612d8-h_9f307540e6dfc63b6fea0336e9e759e5_preview.jpg",
-          "width": 500,
-          "height": 281,
+          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/b/f0/bf0e618a-18d8-5192-abfc-91bb3fc37976/601c56edf1a1a.image.jpg?resize=576%2C324",
+          "width": 576,
+          "height": 324,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -473,11 +473,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T10:21:00-08:00",
+      "publishedDateTime": "2021-02-04T12:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KEYT",
-        "domain": "keyt.com",
+        "name": "Sioux City Journal",
+        "domain": "siouxcityjournal.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -138,20 +138,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 39
-  - title: "Artificial intelligence could predict whether you’ll die from COVID-19"
-    excerpt: "Artificial intelligence could predict who is most likely to die from the coronavirus. In doing so, it can also help decide who should be at the front of the line for the precious vaccines now being administered across Denmark."
-    publishedDateTime: 2021-02-06T11:16:00Z
-    webUrl: "https://knowridge.com/2021/02/artificial-intelligence-could-predict-whether-youll-die-from-covid-19/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 37
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/02/Artificial-intelligence-could-predict-whether-youll-die-from-COVID-19.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Artificial Intelligence can predict whether you will die from COVID-19"
     excerpt: "Copenhagen: Using patient data, artificial intelligence can make a 90 per cent accurate assessment of whether a person will die from COVID-19 or not, according to new research at the University of Copenhagen."
     publishedDateTime: 2021-02-07T06:22:00Z

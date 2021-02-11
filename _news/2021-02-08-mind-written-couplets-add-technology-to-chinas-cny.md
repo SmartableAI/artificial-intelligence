@@ -2,26 +2,26 @@
 category: news
 title: "'Mind-written' couplets add technology to China's CNY"
 excerpt: "Then, the system can decode the operator's intent and control the robot to write the character,\" Prof Xu said. The mind-controlled writing system allows two people to work on a character ..."
-publishedDateTime: 2021-02-08T03:28:00Z
-originalUrl: "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-technology-to-chinas-spring-festival-celebrations"
-webUrl: "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-technology-to-chinas-spring-festival-celebrations"
+publishedDateTime: 2021-02-08T04:37:00Z
+originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny"
+webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_mindwritten_080221.jpg?itok=C-QLeXjs"
-    width: 763
-    height: 509
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/02/08/1037355.jpg"
+    width: 860
+    height: 573
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 509
         isCached: true
 
-secured: "2ScRcbv4qdbuArJrO4KzhCXXqQVzqz25RW5PPO+zC5XG0fco8GKwrjaMbhgIlJwBLN+8agE9KVcIKH4K/7cH17CWJbwwSv1ntq+XMQkI3qh3sALdMnIIieXpogBWDyxI3ISBoabEqq2cLsqnmEGHbP0bkhZR9AjHaZ5m0uSSwYASOTVCftMdhQL2oqubgu7CZyrSnrCrqEMrOfjDQVOVhpt97l2pIp7UD1HficFQFLAYepEnOHcNJmTQQcLo9CJQKbE5XLo000uCZTcJ47XYqUNpcfDDPVXDMDoAIc20odyzwlYEkklBAn4exx9k2UF4Pn0f/g3txbWQ62+8Qy/pKWI70YvC6E7Q6EA8LE18TDE=;qfHMQ3g6cUhSr7mUtmf8sw=="
+secured: "5aclecVWgq7AX3p98Sa630eu4LyhCfi8u36tlcaExVXS5z3qJnnyMCjO1apZJUz5LifdjGcvhmWCz86URvH+5ecgHt+aKMJkaCIIG9NnnKrj+WWpQmDn3enB6MUjfSnjgPwWjhcqDq5gBs1FErqKJRmPyJgiFn/RXC1q37nemGY3Rbte3QvGUXF8TQzN/ihF5WVO4wMFMn23L6KZ9aGbP3s6FplfWZei2ez43dbbjBV+czzbwvVVDStFCryFt5G2oujPqIDrsfsG1HHeKCN6CnYPo5804nnlS5IOB6ukGu+QYG1pgDPzggAYsgLArSRRBFpUl3fvj8t/gTpvI8fxqUrUWopugMKV23k6BSYJvtU=;GQGRZZqJEi8CO9RH+1V7Xw=="
 ---
 

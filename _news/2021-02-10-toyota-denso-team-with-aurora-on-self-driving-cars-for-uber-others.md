@@ -3,8 +3,8 @@ category: news
 title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
 excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
 publishedDateTime: 2021-02-09T22:05:00Z
-originalUrl: "https://www.reuters.com/article/autos-autonomous-toyota/toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others-idUSL1N2KF1ZL"
-webUrl: "https://www.reuters.com/article/autos-autonomous-toyota/toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others-idUSL1N2KF1ZL"
+originalUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
+webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92G0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0"
 type: article
@@ -94,6 +94,6 @@ related:
         height: 450
         isCached: true
 
-secured: "GUH52YZ7e571PUhI7kFcw0zMlf7Rubn2HEAOsj1LfvCFLM9ETgxaNE0KYhUaHURb8LzId1BE6Am50/f7tiZnbxsJDOUvMBsIDMrpjZ8zGq+/SxXT/iYmIS3u1yFbSsghCRYivIQQTiBvGOsZB6IWvuSd89RPLZY/IR9TmU6U77P9SOpveqE2peXh6JbEP1npSx/+4R4JnYDuwpqavUzoX6RTWqfgV+1joioyJu4tz5YTl2wBinGKCp+H0kxz3g9Y4Ywo9+nmHVmwZo2TX9R+AOmts+r0Rh1zDUfoDplFdSZNmQyjj0UEBdVAQQmC8WcCYIid1T/m0+aBLJqd1ey+M25JIIk0S1tQ9Q4Hv3L1buw=;I+imPb9WeIgSuDyyLnLV0g=="
+secured: "bxG767Cc3fFVpi218dMaz1Lay8ytjq/xg7TEnNIC28HoCYgrW6gnZxTBD4n38u0aMA16IwQppJ6/12EjDb0tR/GFKCNVnel1N+uVWzimfZ7Zv9kg9f2JbAY86srl1/9uvlA+zv4kmIz7cl7+xWT8LBEgWdfNVnYGH001mpjfT2IvdhESFCqUXxm5fyFxvHHPEzxWjdZGg7m9mOlIUYvnnEJLa7zidy3ffvmhDXqZPecrHQe2lpgdyNCCzRvim4xq5WR/ChWeilKGYNnCnpe/98HjYXnFegsdzI+LvEzHHla/xvTitWWLo1wP9h+mH8+AJKsg3nm6TpjRkYUeThxTmeffA8A3f8nMY45uhhzT+Uk=;LKv91L865qwc94ZsfFdkCw=="
 ---
 

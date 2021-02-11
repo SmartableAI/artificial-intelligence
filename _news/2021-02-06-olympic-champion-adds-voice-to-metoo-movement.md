@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wkbn.com/news/national-world/olympic-champion-adds-voice
 cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/olympic-champion-adds-voice-to-metoo-movement/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AP Interview: Olympic champion adds voice to #MeToo movement"
-    excerpt: "The most successful female athlete in Greek sporting history recently alleged that a senior national sailing federation official sexually assaulted her almost 23 years ago"
-    publishedDateTime: 2021-02-06T12:53:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 44
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "The POWER Interview: AI, Big Data, and Efficiency"
-    excerpt: "The increased use of artificial intelligence (AI) and machine learning (ML) in the power generation sector has a goal of making electricity production"
-    publishedDateTime: 2021-02-07T19:05:00Z
-    webUrl: "https://www.powermag.com/the-power-interview-ai-big-data-and-efficiency/"
-    type: article
-    provider:
-      name: POWER Magazine
-      domain: powermag.com
-    quality: 37
-    images:
-      - url: "https://www.powermag.com/wp-content/uploads/2020/02/fig-2-light-bulb-ai-artificial-intelligence.jpg"
-        width: 600
-        height: 800
-        isCached: true
   - title: "Olympic champion adds voice to #MeToo movement"
     excerpt: "The most successful female athlete in Greek sporting history says a senior national sailing federation official sexually assaulted her almost 23 years ago."
     publishedDateTime: 2021-02-06T21:30:00Z

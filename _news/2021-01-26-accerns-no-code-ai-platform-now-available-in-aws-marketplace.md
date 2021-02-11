@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Accern's No-Code AI Platform Now Available in AWS Marketplace"
-excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available"
-publishedDateTime: 2021-01-26T15:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/accerns-no-code-ai-platform-now-available-in-aws-marketplace-301215278.html"
-webUrl: "https://www.prnewswire.com/news-releases/accerns-no-code-ai-platform-now-available-in-aws-marketplace-301215278.html"
+excerpt: "artificial intelligence (AI) company today announced that its no-code AI platform will now be available for subscription in AWS Marketplace. Amazon Web Services (AWS) customers can subscribe to ..."
+publishedDateTime: 2021-01-26T15:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
+webUrl: "https://markets.businessinsider.com/news/stocks/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
-
-secured: "SqP/jDmRtiSfTsardyOX0RTaqsgfyOeNRP9QnhNghvkwgVLNeJmjFeeAsLdhzoeF3O5Azsf0UdQFanfVNJRIisI89+gHwsnIfn8MNq820qiseNdW4keMChjvGsfcQkMOe2kPydK7bd3WvacQC+rGXz37PDzSd8DkwxwRpaRZSrTC9BoP/cc1P6Qm6zlNmGXRnjvfKUJodDMuSulK+GblgT06xiva0e79uP3RnBw0XcolyeHkT0RMzgwVIBgq60aZvNMlMa6GcCirWbuuTrcE5WS6f3Hvw2iS45twvt5cunj+KYLvBd/lzxDLu7HU2oURgpw24LM4SXVLjR2W7l5Mc9+4t3frn2lCIF+3mGnbUjg=;DyS9KWx6OmVAZeSlaX7hSA=="
+secured: "whP2589yaDAZKt1dff9M6nMc+pChcRcRfjUSFtTtKqC358lVmaDrpIvsxnnWMEFWhOW1RIZX/ItyXYK6OWjGwZkqDK0jqxxPcTqAo5RujMXlKplic1LPPOkZLyTW/vSKAJs/SEegLdFHdufCvELyNXgtw5NBWki0jh4fvDPIeQwjC/9OfhlOFJO52fnJMCYYos+touydwWzjPcFt4i5K5662e37rS+BO9nTh+ad2PxE7Zn9vT/7587bNCB63MRegYY/Z9AVhg+VxeSIlQJH2zMG8G6cH+yHgUgLto1yLMDCdrxLpQbfq6Lsm6QcX8TRs7A+xsWg8r6r9Glvq17pvhzwKRvVWHl92RxEkpHQQrjo=;FATv8erj4ci5y/edp0q/Iw=="
 ---
 

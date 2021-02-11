@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AP Interview: Olympic champion adds voice to #MeToo movement"
-    excerpt: "The most successful female athlete in Greek sporting history recently alleged that a senior national sailing federation official sexually assaulted her almost 23 years ago"
-    publishedDateTime: 2021-02-06T12:53:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/ap-interview-olympic-champion-adds-voice-to-metoo-movement/2021/02/06/7531b72e-6850-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 44
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Olympic champion adds voice to #MeToo movement"
     excerpt: "Sailing champion Sofia Bekatorou recently alleged that a senior national sailing federation official sexually assaulted her almost 23 years ago."
     publishedDateTime: 2021-02-06T14:47:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2021/02/Olympic-champion-MeToo.jpg?w=1280"
         width: 864
         height: 486
-        isCached: true
-  - title: "The POWER Interview: AI, Big Data, and Efficiency"
-    excerpt: "The increased use of artificial intelligence (AI) and machine learning (ML) in the power generation sector has a goal of making electricity production"
-    publishedDateTime: 2021-02-07T19:05:00Z
-    webUrl: "https://www.powermag.com/the-power-interview-ai-big-data-and-efficiency/"
-    type: article
-    provider:
-      name: POWER Magazine
-      domain: powermag.com
-    quality: 37
-    images:
-      - url: "https://www.powermag.com/wp-content/uploads/2020/02/fig-2-light-bulb-ai-artificial-intelligence.jpg"
-        width: 600
-        height: 800
         isCached: true
 
 secured: "Vt9YsIe0z5NmgTwCaaRfugVNxB29s6eSVObuJcqgh9y1RJMc4DYkVgCiYdiCOYSNH25b4lEet9DSl84jTnhB0o50AZ+sdGDQVjrbvlYxCTpXKnc7UyLxXg3qJdFd2kJL7Sj+BjHZJCRemkfBEOq38cRRZyZfY7WMuk0yagHhsRDfK6NargQrTbQNisACA1Rp/MGU7LvVWa+HxDIF9OhdB+PtF55+jVpRGd5bDnPJffrFOLuV3JR7Hx8h20EDxffbJwKAFnO9lWnx+iO9boFBBK1P12Rspr2bLOhjPqEacuIz52+9zKCPkkhCMWfsEFVRxXwq5McKBn+SPeYEUAjhFkpK03B/K78s0Sa5MESl4pjOaAtQtguREVuswUjbjDzf0PBEBOGrKBV60RjZU7iCunDjrbGEINMQ2ttO1f9JADcIhE4R4PZnvyWDy6rqoAiSED2VwdSHBoVy2JAYb0OrGoIx3nyp9HEuDNfkuvz/xaq6S5IK5O7u6hlwYM6Ov1oekre5n6ej/6xwWww+QDXJWA==;31lXW7xbBBEjJjkFe3n3BQ=="

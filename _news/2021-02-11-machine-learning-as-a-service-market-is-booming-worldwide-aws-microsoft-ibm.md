@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
-excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
-publishedDateTime: 2021-02-10T15:48:00Z
-originalUrl: "https://www.dbta.com/Columns/SQL-Server-Drill-Down/Introducing-Azure-Purview-Microsofts-Next-Generation-of-Data-Governance-145167.aspx"
-webUrl: "https://www.dbta.com/Columns/SQL-Server-Drill-Down/Introducing-Azure-Purview-Microsofts-Next-Generation-of-Data-Governance-145167.aspx"
+title: "Machine Learning as a Service Market is Booming Worldwide |AWS, Microsoft, IBM"
+excerpt: "Latest released the research study on Global Machine Learning as a Service Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning as a Service Market research report shows the latest market insights ..."
+publishedDateTime: 2021-02-11T04:48:00Z
+originalUrl: "https://www.openpr.com/news/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
+webUrl: "https://www.openpr.com/news/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
+ampWebUrl: "https://www.openpr.com/amp/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
 type: article
-quality: 53
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: dbta.com
-  domain: dbta.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
-  - Microsoft AI
+  - Machine Learning
   - AI
+  - AWS AI
+  - Microsoft AI
 
 images:
-  - url: "https://www.dbta.com/images/social-logo-2019.png"
-    width: 1200
-    height: 630
+  - url: "https://cdn.openpr.com/U/2/U211657553_g.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -70,22 +74,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611269%2Fsatya_nadella_02.jpg&w=1200&op=resize"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Machine Learning as a Service Market is Booming Worldwide |AWS, Microsoft, IBM"
-    excerpt: "Latest released the research study on Global Machine Learning as a Service Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning as a Service Market research report shows the latest market insights ..."
-    publishedDateTime: 2021-02-11T04:48:00Z
-    webUrl: "https://www.openpr.com/news/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
-    ampWebUrl: "https://www.openpr.com/amp/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 89
-    images:
-      - url: "https://cdn.openpr.com/U/2/U211657553_g.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
@@ -141,6 +129,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
+    excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
+    publishedDateTime: 2021-02-10T15:48:00Z
+    webUrl: "https://www.dbta.com/Columns/SQL-Server-Drill-Down/Introducing-Azure-Purview-Microsofts-Next-Generation-of-Data-Governance-145167.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 53
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
     excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
@@ -203,6 +205,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "q6f8GE6kR5pI14Ov0lvLEKWszvyq7XXN00nbFgxh/7L/VhPGyE75esiPzEZFcJ12EHYTgJKqG5wamTPPBkdEiuh8u4jIuCpi41aXRGOB6wk25I6ku19qSGGiliwB+uSDAqNXxN6EzO1TiJFBSukT8JL1ggrvj9753nyEhCk2/sjie+eB4rB/SigKiOVqsGRmY97g971myr6OyF5+dwDuVN/fMyeCxixSKKyDVW+G60wEXHvhMQ0ijf+X3ibKdc4wBBdySnRVEPiTiS82GPyXU+r4tYrQ7bn0+01/apwzyzAnN0jQziMZYXnxkoYxdmikcIVBzI2ZdyhmqNa6PXXo6QtwMylMEX/uWZJ5ffMWDBE=;J6hscqU6Oe+r4ZvfPENJfA=="
+secured: "3lUcHkQoxa1OV28UviqZNH59UDdU57Kf072Ks+XgCs6X70ALw4v0WIG3UEjQqOJh8hx2O9MIZEuUPqNq8vZDToRiyW+QVchC9CQ0H8jyvu1fmkUvvqJyPHKEkJWa3EAWTKAJieJQfHiGm1PxjHgBwsra0QJkYIvLmS/zKRmkmo8kyYYFNl3dg+BekKilnCTRY0CbpMvdELgdk+MEcQCCpu2u3YEy2tG+IfdhXW3UfHG5ZH3t7t86p/SPYwENgNqBKEKQaY0NVaOxd1U7Sg/owNdTFpEH1BIOxJi6/OBHfwxQbIHH7Rk/uFqU5/x9CyaNgc0SXM+UiwCn9fuVtzJa4vXSdbOCfRkUDAks4brPGZ8=;9b/urTk4KWqGDpYJwTMSkg=="
 ---
 

@@ -25,19 +25,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Artificial intelligence yields new ways to combat the coronavirus"
-    excerpt: "USC researchers have developed a new method to counter emergent mutations of the coronavirus and hasten vaccine development to stop the pathogen responsible for killing thousands of people and"
-    publishedDateTime: 2021-02-06T11:10:00Z
-    webUrl: "https://indiaeducationdiary.in/artificial-intelligence-yields-new-ways-to-combat-the-coronavirus/"
-    ampWebUrl: "https://indiaeducationdiary.in/artificial-intelligence-yields-new-ways-to-combat-the-coronavirus/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-yields-new-ways-to-combat-the-coronavirus/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 39
-
 secured: "22sB5pvK2kJepR0FSfC0PsM6xLKkYKIS02yhuFM7b6MIp9k7UMCSgQPU94wcce2KCquaDlUOBLQzBJXQD5Pe+XmHe8mFijbgWvO6Xovzkwfx1ThI9C1mtGcjW5X/jX6syBfyL4lsJ9mcpEI4XxVqhkFc70S+bYKLQSo3gho9dgYW4G744p2EdX0BfA3qKFTmhqlQIRkGbCDiXiYuz+TyCWO7H6cQRFbABIOGzDu7SX6XDQwmIB4ZOTnmZRyXN+O4q2LC0XdzSqsVEypc2emWhi8jFTO9KxfT3mpvYFuZKQL2qdSG/pH13m/GGE0j2ap/Elwjg/xCQx0vaBj9WEQPLSzx6UOmunNKgXeKeDzy5BM=;r10qHM9rdKu4Yxx51RE7Fg=="
 ---
 

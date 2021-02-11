@@ -134,20 +134,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 39
-  - title: "Artificial intelligence could predict whether you’ll die from COVID-19"
-    excerpt: "Artificial intelligence could predict who is most likely to die from the coronavirus. In doing so, it can also help decide who should be at the front of the line for the precious vaccines now being administered across Denmark."
-    publishedDateTime: 2021-02-06T11:16:00Z
-    webUrl: "https://knowridge.com/2021/02/artificial-intelligence-could-predict-whether-youll-die-from-covid-19/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 37
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/02/Artificial-intelligence-could-predict-whether-youll-die-from-COVID-19.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
     excerpt: "BRAVE Innovations LLC rallies community, faith groups, healthcare workers, colleges, and civic organizations to spur participation in urgent voiceprint research"
     publishedDateTime: 2021-02-11T01:09:00Z
