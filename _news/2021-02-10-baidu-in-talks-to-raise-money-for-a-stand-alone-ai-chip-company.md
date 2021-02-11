@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-sta
 ampWebUrl: "https://www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
 type: article
-quality: 106
-heat: 166
+quality: 206
+heat: 266
 published: true
 
 provider:
@@ -117,6 +117,6 @@ related:
         height: 800
         isCached: true
 
-secured: "qC9b2HNST8J4UNJY3vTIq5rxx3qwZvuTcPDL8q6T1NSOxitbTnoCQojJsW5e+6Z03sWT6mUr/XA3kDfERh/NGKiCkiy4oBD11glJwAkRn//GF09VLTUBnsJRLEB5UqJBumYeXS2mJtoqCZHw0aKS2xCmaV0arSxywVnLex6j+G92v1D6vrqVyfrL8vYkTtb+tddLfCcgcaKTYp0NQEnkgIuHFqArolAak6Id69bqZZW9F8Tj0jVkEq1mrl7wC5MdmSsMuWD4iFd6pki3RXOMAIXk4sWa6a6Lm+zA75DFKFoQ/IuJjUaippzpa8bvSBoKneDwRwsmX0bPZgQsH15r9hDcsgDb58NiQM7sNKJTanPuDuTAtT0c0HgtNccR0zZU3shbwuKz4jLiqS3S7zAGI5lnHi/iTQVtV0jfKuNHztymqy8dFpRbPro+huZr7GvX5vATrxtItPOmbpO8bSFqCryu48Bpw6XoEiBCGfv9y50z+BlYriLutJjblcwXefFxwdIaLuN7DzuZ7LYvIbqlSA==;Xl9+NJIvYsV9yjsT6+kNhQ=="
+secured: "B0k04gTAU/CbY/fGYfPQUnLdI9TigkewIUOUs8A0Nn9o7pFR5qf1saQrbQIQqDHqgUG0vvWNcSKYjU6EsD9kcHC605jAja+geXf3p9sFbAwpZ92oIzD1U1Sc55WI5/ChFW2bVtAtBBDBwB9uj7hQ9vsd9xPF8pQUO5+J4QRSIWjHfAs5gyR3jTHIexEyOIumUz443rIjTuDksVB3s3zHhNJjbxYDbrUeBabeRZ7Y83LXp929H3WdaJ3dC+GCuEaVc28iLQAeixWYaprIYMEOX33ZM2qFMrz2Eze+3gFSvUHlvs6iAofgoXq0Zs+iDL4Ta+dMXQT/K3+lu/Plx/EBNLhxwfC6v6IX6YOGTu2Dk7MttDidN1x2Zwqs9lEFdVZpaGlR5qmQrCm9i9lxbG/8BReKX9u4JmDimLk8O5xsQoi2svEW/6VJmwbs9byroMGL5vzwTnHPmAzisPQmkM1EmiifphDq8Oq9uBVBU3vTvruoqdi5hQsPbDK14GfKT70Cej5+4qvty/L7ntJpZQD+Rb4G0lYHj5LwzkDc2IlkEis=;FB4PVuPNfz3WpvI1RtfYsA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members.md",
+      "title": "Humana now using IBM Watson's AI-enabled virtual assistant for health insurance members",
+      "excerpt": "Humana announced today that it's teaming up with IBM Watson Health to deploy IBM Watson Assistant for Health Benefits for Humana Employer Group members. Conversational AI (artificial intelligence) through the IBM Watson assistant will be used when agents,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/",
+      "originalUrl": "https://www.techrepublic.com/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/4b528d48-8cbf-42b2-a230-c0e346adb88b/resize/1200x/bb75306246cac19a621353e0b787d81c/doctor-computer.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/",
+      "publishedDateTime": "2021-02-11T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space.md",
       "title": "IBM, Palantir forge partnership in low-code AI data processing space",
       "excerpt": "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -298,6 +350,49 @@
         "Microsoft AI",
         "IBM AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning.md",
+      "title": "New IBM TRIRIGA Capabilities to Help Support Organizations’ Return to Work with AI-Driven Space Planning",
+      "excerpt": "IBM TRIRIGA’s new indoor mapping, powered by Esri, reduces both congestion and time spent looking for a conference room or a co-worker. ARMONK, N.Y., Jan. 28, 2021 /PRNewswire/ -- IBM, (NYSE: IBM ) today introduced capabilities in its IBM TRIRIGA integrated workplace management system that is designed to use artificial intelligence and near real-time insights to help organizations create a safe,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f/gallery/11f9d2470d630f0a5cf35c627edc0a65",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f/gallery/11f9d2470d630f0a5cf35c627edc0a65",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {

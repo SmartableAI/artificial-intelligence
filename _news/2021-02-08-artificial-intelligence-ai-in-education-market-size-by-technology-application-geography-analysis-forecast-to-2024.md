@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08"
 type: article
 quality: 73
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
+    publishedDateTime: 2021-02-11T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-forecast-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Technology Market Size 2020: Industry Growth, Competitive Analysis, Future Prospects and Forecast 2025"
     excerpt: "Selbyville, Delaware The Face Recognition Technology Market report offers detailed competitive landscape of the global market. It includes company, market share analysis, product portfolio of the major industry participants."
     publishedDateTime: 2021-02-10T10:21:00Z
@@ -85,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
+    publishedDateTime: 2021-02-11T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/11-2-billion-artificial-intelligence-in-agriculture-markets---global-industry-analysis-and-growth-forecast-to-2030--301226811.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "fFFOh6MOtQb0U8QOeU8+LXXSwbbvDHR4HmfGtiPi+f/KlH6U2Zu399LXla+u+JahXf613prZhS3yDxSLU5hD9i3rwYWF5EFm2IhmwWdeG7uUYRs7nTKeB1roVd+4UaRnTwrPfZ2o1t36JWSZwldCnx/ehgMcuEhL3EAV+N+YNyae9L3I+Tm6/fk+Esunt538lDJw36bdCd5VwfEVdEFo+V1rNLgYUVGkGQ3YmnDxYCh7MQSlBcWgFcicBKjR4EiRZdK+YsDhsLdQU9fi/oZKZwabPogfQxDNHRUVTJV3PMsJxBioICadTtULQvMICRDeppYgeiEtG2C8nh1AOwr2aJjTr+7Mwy6fa88qbyirOko=;8SewoABrh3GC9ldntAgLcQ=="
 ---

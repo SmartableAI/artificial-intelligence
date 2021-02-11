@@ -28,16 +28,19 @@ images:
 
 related:
   - title: "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular Applications"
-    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications. This is the first phase of the research to evaluate an autonomous arterial clog cleaning mini-probe."
-    publishedDateTime: 2021-02-11T11:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-1030071793"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/GBT-Researching-a-Development-of-a-Radio-Based-Computer-Vision-System-For-Cardiovascular-Applications-1030071793"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Researching-a-Development-of-a-Radio-Based-Computer-Vision-System-For-Cardiovascular-Applications-1030071793"
+    excerpt: "SAN DIEGO, (GLOBE NEWSWIRE) -- GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\"), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications."
+    publishedDateTime: 2021-02-11T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-2021-02-11"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ..."
     excerpt: "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications."
     publishedDateTime: 2021-02-11T11:20:00Z
@@ -53,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "8k/tsNkD9mBKJ2KFBLHPcVvI36sFBx8iOPBWaihk2Cti0MmjCXjMz7IIXb/jFvmiaDvXfsyZ/S3I6w9QyDrkQBD0hMLnPZGAqNJfI5aQ2Z/Tz2t1HZB3Zg413Jf2zcLHHmK2TXYb04Qz34RacSIgo2Bax9o1i3d5shSiLV3MOkBW8XYX5E1F4wcYxRIZpOzAMBXDPMu2hYx5DOq9UmPJ69KTEe94twO9g4t2m02taI4VAPP9s3/hPYj1P0Otb1uf54GM5MtgzF5QoJ1ppveD6AZnLAHQ6qtGYeMY/G7kFxm1GBbBL2GnbR8sRc1EbcqY2P3GDtGmzJBwC8cWvpQ/WHryT9YFK+dkogMlbi5DxxA=;7DhtOR/jgri3+obJMp6czQ=="
+secured: "RWLyvJ3nl1drjfX99q5vDRUxAH8Qg2YMJqp5UvMKphaU6lMNixho0j7QkmYg8s0CKITRpRNu8dzT+CZhEkofxuZQ95wKr9QlhOzwLULolWrvd5/AehNOjGoQu0wCN+bp43pq8pftu25PgBs6rOmyBHNOZb1+snBETBm53jNHYmdfkCtGVlPP5T/tV1XncwXuE3qvg/nCeTCC/ImvzFHgDHRrjfKzybFSBNJkRB23WrCtI2uSsApwkdMMzWnX6SY5iFmcCBiHrjq07qZDR3tE7eTo9O4mqlaIi03f9SUU8KCcdhjtB/D2CxGtdMUWYNEwcw2kPpndUqP8pGraU3JYYAHUXCnZSi4c+qySe5VjxAxGBW84fx0XSnPqc/IwnMHOGIxo5jAFNYZiXkYaA05PlngVucTZtc19YauF97fbJgt383NlWiynM7lkTsmWo5z8/DgYuQ+QdNdMVByfjrB1CFCynjqfOhxsJ9dt0c/BL2BzUZ8gbRiP5X0I5r5q4ML9hWYp9nqAav0uTWVEnTWd7A==;85EE47farSO3KGTw3L2t2w=="
 ---
 

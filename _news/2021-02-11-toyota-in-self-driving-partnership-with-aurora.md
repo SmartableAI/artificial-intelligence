@@ -87,6 +87,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Aurora Partners With Toyota on Self-Driving Sienna Taxis"
+    excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
+    publishedDateTime: 2021-02-11T14:03:00Z
+    webUrl: "https://www.wired.com/story/aurora-partnership-toyota-self-driving-taxis/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 54
+    images:
+      - url: "https://media.wired.com/photos/60246fd36c104aea63dc519f/191:100/w_1280,c_limit/business_aurora.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Joining with Toyota and Uber gives Amazon-backed Aurora the tools it needs to take on self-driving leader Waymo"
     excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
     publishedDateTime: 2021-02-11T12:12:00Z

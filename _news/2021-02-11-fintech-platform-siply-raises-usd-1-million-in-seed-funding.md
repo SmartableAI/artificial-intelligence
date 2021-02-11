@@ -105,6 +105,17 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
+    excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
+    publishedDateTime: 2021-02-11T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "Finch Capital raises €150m for fintech fund targeting later stage start-ups"
     excerpt: "Finch Capital, a UK and Netherlands based VC firm, is looking to deploy €150m into 15-20 fintech companies in Europe. The new portfolio is Finch’s third fund since launching in 2013. Its current portfolio includes the likes of Trussle,"
     publishedDateTime: 2021-02-10T05:31:00Z
@@ -176,6 +187,6 @@ related:
         height: 300
         isCached: true
 
-secured: "07gZMmc1jNvVoHfjCb3myKat6WhDLek/lR1yNcc/GJNNMfG5SoZwEgum6IbVqWXQqewSPyIkiPqfLncBlDZrxHZDCIirRci3JJ2IT26qyH689Og27/MewrhXfCJzXNjGOr20/+ggWFZiwqGYXWB/b1pabDlPi8nlRzbsc1870MEmEF5Mb5onEHEEVtnbFWwLfmgmNe/zMnfcAwC5Wr1kHEKJNvgll7rNOQtRhvSTMb5UdRKriWMsYK5M60DGjVmJY1KtKYUIXbeTcj8JWcATLEGqfObapXNGVKyAoMGi2FKljth8Apn5FNQCx0WKgoGZb0jWs3wS9nAOIyom3t6Iv5JgcdxvWcPnyLqcGvzRICs=;kFW/66JuyiUNtM6SXInHVw=="
+secured: "bMAvOZmt8gCz06fAuj32hHysJQk6n1SBxpsaIGFV8iwfPTS0cNzcR3kyB0HHb42CjES9C6JdcbjkRsiN0wq5uNdpHPgw0nULeIYWKq7sS4cuCqR865xlhrsPxALBa6b9UpTrRQvxGfYoLJNTT0AMy7F+dcl0SEwSDz6nNtYeaaNFlZzP02GEG7lHdn4Z9WfFlRCAM/tul994VOMkaJSnLpm1uEqoBPbhqUN+qyTvrvceImF92jjERj1uhTdHwEzAeamtzaLBNh9gfp/F9+9piYPKuj0bLi7QZX25M/1KWhi4PMSx9FeMVXCL0bvu7/4y60gE2NlQfDPvk2+dlQh0DidCdWa/sYkeUgDLNNt1N7/jjlg6keoiJuxCW40VIuHbzIR79GLGCRN7rmzd3ZDnF096l1W48eJM8fSZ/k5ILYswM9kC2LgscxcPzpjNexqTfUH5HS5guGlhZoaNMifoAlUz0nubHyKOBiZ2wfVGQ1FIOJ0OZRbbiui7WiBc0bv0u3+S0wYg8T9Ja1SnIy1e5A==;aXj2Fr27FN/gtOqGcPrnrw=="
 ---
 

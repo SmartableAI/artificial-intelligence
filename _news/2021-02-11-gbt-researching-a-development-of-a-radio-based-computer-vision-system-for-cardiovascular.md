@@ -26,16 +26,19 @@ images:
 
 related:
   - title: "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular Applications"
-    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications. This is the first phase of the research to evaluate an autonomous arterial clog cleaning mini-probe."
-    publishedDateTime: 2021-02-11T11:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-1030071793"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/GBT-Researching-a-Development-of-a-Radio-Based-Computer-Vision-System-For-Cardiovascular-Applications-1030071793"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Researching-a-Development-of-a-Radio-Based-Computer-Vision-System-For-Cardiovascular-Applications-1030071793"
+    excerpt: "SAN DIEGO, (GLOBE NEWSWIRE) -- GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\"), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications."
+    publishedDateTime: 2021-02-11T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-2021-02-11"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GBT is exploring the development of a radio-based computer vision system for cardiovascular applications. Other OTC: GTCH"
     excerpt: "GBT is exploring the development of a radio-based computer vision system for cardiovascular applications. Other OTC: GTCH . SAN DIEGO,"
     publishedDateTime: 2021-02-11T11:18:00Z

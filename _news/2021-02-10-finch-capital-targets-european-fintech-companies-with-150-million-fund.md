@@ -91,6 +91,17 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
+    excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
+    publishedDateTime: 2021-02-11T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "FinTech platform Siply raises USD 1 million in seed funding"
     excerpt: "Bengaluru-based Siply announced the raise of USD 1 million in seed funding from investors such as JITO Angel Network and"
     publishedDateTime: 2021-02-11T12:33:00Z

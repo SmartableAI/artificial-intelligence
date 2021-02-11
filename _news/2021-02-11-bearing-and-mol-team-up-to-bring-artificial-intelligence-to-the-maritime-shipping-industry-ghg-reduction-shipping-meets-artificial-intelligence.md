@@ -30,7 +30,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://images.techhive.com/images/article/2014/08/care_nurture_support_people_human_resources_thinkstock_176436790-100409939-large.jpg"
         width: 1200

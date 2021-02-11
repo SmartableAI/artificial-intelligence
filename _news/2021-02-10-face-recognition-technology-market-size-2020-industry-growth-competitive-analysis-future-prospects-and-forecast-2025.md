@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
+    publishedDateTime: 2021-02-11T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-forecast-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Gesture Recognition Market Size, Share and Trend to Record Momentous Growth Through 2026"
     excerpt: "The report Automotive Gesture Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Automotive Gesture Recognition Market Growth and information corresponding to market segments such as geographies,"
     publishedDateTime: 2021-02-08T14:06:00Z
@@ -85,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
+    publishedDateTime: 2021-02-11T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/11-2-billion-artificial-intelligence-in-agriculture-markets---global-industry-analysis-and-growth-forecast-to-2030--301226811.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "YCY4HJTUu1Ll/WUkH4G8F3wLYMFd3/Mh1UYU94paltHEnI2G9qRcRQIELMwHXauZMEztB7AOrGmcz3yr25I/+ExkOMEFgmEaTxDPgr5EJwyA+bIuKlgQdxjIIuWaqYuppj6tJ0ZfDhgJ2lg+BapkkaMkJzoiBEydTtRe9aWveG4xEH9MORqQq9Xm/+fKxgBXOli8MHIoOL6DhL9PbnbY95D/dbXVMiHp8d5ojbqnvflh5kou1khJuvJra+btCmx+QdOv1ibljC+sFCdcf0Kr1BaPW5HdnU3uZdbVC00LkuK5HiNErUpwNmp5bcKUX+Jm6LmKFBRBPaz6s/XPnPXb27cx2kEtANQ1SKuU9c23MYM=;vloFh19rVWAUJFO/EygBZQ=="
 ---

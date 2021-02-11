@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications.md",
+      "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular Applications",
+      "excerpt": "SAN DIEGO, (GLOBE NEWSWIRE) -- GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\"), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-2021-02-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-2021-02-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.md",
       "title": "How to use facial recognition from your Photos library with Apple HomeKit Secure Video",
       "excerpt": "Apple lets you know who is at the door or another camera when used in conjunction with its secure video system.",
@@ -34,49 +86,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications.md",
-      "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular Applications",
-      "excerpt": "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications. This is the first phase of the research to evaluate an autonomous arterial clog cleaning mini-probe.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-1030071793",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-1030071793",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/GBT-Researching-a-Development-of-a-Radio-Based-Computer-Vision-System-For-Cardiovascular-Applications-1030071793",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Researching-a-Development-of-a-Radio-Based-Computer-Vision-System-For-Cardiovascular-Applications-1030071793",
-      "publishedDateTime": "2021-02-11T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-sec
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Securing Artificial Intelligence Before It Secures Us!"
+    excerpt: "Since I spend an inordinate and unfortunate amount of time worrying about the possibility of a forthcoming artificial intelligence (AI) apocalypse, I was delighted to hear that the folks at ETSI"
+    publishedDateTime: 2021-02-11T14:31:00Z
+    webUrl: "https://www.eejournal.com/article/securing-artificial-intelligence-before-it-secures-us/"
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 37
+    images:
+      - url: "https://www.eejournal.com/wp-content/uploads/2021/02/max-0071-image-for-home-page-ai.jpg"
+        width: 720
+        height: 720
+        isCached: true
 
 secured: "hAIkfAhDUD61Q8R3NlUZePJedkE+hq5IlgwjrZPrTOgtKgfswHu51J+u1WJZczpsUkgnc86hbaDrjn5gBPk3kvrt1ODwJoFaF/LIjh/8cNK6CTio6XvAjohLgqAACY/lX+GZZB+2SDTgDYWgdwcm2f834JCUPJwUcweaNqXgaqdmUk/6qV9orr7Wj8LPwcBXMUyJn1QRpDRn1Xffu7lCgDP65I0Lr2owGgPYyuy6UaoKsqt5hRNCYRVxuYQ33gGTXhLDAERamszxX/+TQRuD0BDrAlS5bPFex+157ds9GmCn0CTshqXgUtrpABJhStuVuCGKObSdNY6aiP3yXz/Gzp0AcwHqADyZCFh7pamOhrgeUG63thrGdFerXNA+g87U2WbFRunJdyYPPRnNAxNvHsfgddYqWrl/Psfyzgejx2gHGVHhg+wSluWmULe/OhQUHRxpdH2lCjykNnvKAQq290gHGZPhXcm3XNjFXLwWnUqSOXf3NDeIjr752dO67XBTPLacMcS+/pw7M88Z+yYxEg==;DXq4zZAxXPP+sb4eYt++tA=="
 ---

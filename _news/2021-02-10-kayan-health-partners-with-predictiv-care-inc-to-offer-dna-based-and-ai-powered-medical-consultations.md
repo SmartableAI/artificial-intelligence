@@ -38,7 +38,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 105
+    quality: 107
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837"
         width: 1200
@@ -84,6 +84,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/iehockey.png"
         width: 869
         height: 581
+        isCached: true
+  - title: "Using AI and Machine Learning will increase in horti industry"
+    excerpt: "The expectation is that in 2021, artificial intelligence and machine learning technologies will continue to become more mainstream. Businesses that haven’t traditionally viewed themselves"
+    publishedDateTime: 2021-02-11T13:18:00Z
+    webUrl: "https://www.freshplaza.com/article/9292973/using-ai-and-machine-learning-will-increase-in-horti-industry/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 56
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/02/11/Ai.jpg?preset=OgImage"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ultra Low Energy Computer Memory for AI Learning in Medical and Other Applications"
     excerpt: "Leti-based team's uses machine learning on RRAM to get 100,000 times less energy usage. They use randomness instead of trying to prevent it. This allows in-situ learning to be realized in"

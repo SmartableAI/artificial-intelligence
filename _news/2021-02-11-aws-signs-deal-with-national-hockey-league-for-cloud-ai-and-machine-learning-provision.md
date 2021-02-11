@@ -36,7 +36,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 105
+    quality: 107
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837"
         width: 1200
@@ -68,6 +68,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020c96074cb8469b584b7e3%2F0x0.jpg%3FcropX1%3D551%26cropX2%3D2028%26cropY1%3D0%26cropY2%3D1108"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Using AI and Machine Learning will increase in horti industry"
+    excerpt: "The expectation is that in 2021, artificial intelligence and machine learning technologies will continue to become more mainstream. Businesses that haven’t traditionally viewed themselves"
+    publishedDateTime: 2021-02-11T13:18:00Z
+    webUrl: "https://www.freshplaza.com/article/9292973/using-ai-and-machine-learning-will-increase-in-horti-industry/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 56
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/02/11/Ai.jpg?preset=OgImage"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ultra Low Energy Computer Memory for AI Learning in Medical and Other Applications"
     excerpt: "Leti-based team's uses machine learning on RRAM to get 100,000 times less energy usage. They use randomness instead of trying to prevent it. This allows in-situ learning to be realized in"
@@ -114,6 +128,6 @@ related:
         height: 800
         isCached: true
 
-secured: "FtF5oU2lEdCTg3T6nvpZhKzZ0G0z2fKH68qY1bLlfuLDjX30kcF/Cmaa1RxxUMlj84ezrujipKIMcOCJ2PskH/AUjA5zYgIOuLnBYCtDtomtEq1fQGQT473sANRAq+c1Owk/rXA2mDq4Dn2RTpaxq3+hueLyrRt8jLCElu6pU4YBB/moc62O3XkHOUyAYq2xEALTVPwNbdO7R8QDyfpubfXRz20sk2A23ig+cxZfOxmjMyZkystC/Ge47IPLdLHgYtnz7oyifC4dRS12uFA2GGraopARyecQrfUFSn5cLBjVLsjz91+4q1vnJtZ62ayxO9gXyBsWXoXeEBUdWu8hoLBu4uV+kOYLEWWOaKUJwuo=;MTHwstu4LF3CibA6Dcvsig=="
+secured: "nXzYzAwP1/UsUI+g14FzT5Kpp8M3y8XbJS64DKpNJkFvnmFn+UT2IkDXnP/ljR+RiebKHcCjwYrmt9A7UxYOt2O7hZOYFr67lZZ1Bo8gq2Lgxxd2KrG4Uz0p3DA1RZJwiDaOc174VYIFwgBfiFxHt14kIB7Bcos+UNhRBKLhhbRgE1M0drXkadlGJ/+O2KIod+Ml+v/5ZzhnRytFIrmr0+yAOdZBSqIYVMdwQQEvInR2W7cifNgjZubfX0XyH1+bPMUFqx6yXEUKhP/Hw21PhBorSnJ6/EvDTkjVBwrZ8Vfu95rWWS97DyWWkuHJVWjYmmD7BXHIQ6jZZI1kyFlJs+9HMJQBlSH75ELpPbOmJ1oQOodkBjYSBrBsyWcSDjCjG1WejhSTzOLAGQHvl6zr4XVAG01OcJHl5CJDQUXQ+pHflYtCmtwRagQsxr7+F1hSto5LMiiGQVGJYv48WOH0vsQy1bc4XcN06nSsUb9yVp+Kmdv9LSnbpp50o5zZqZ1BfwThFJ6ooBj1r6gTTTOumg==;VBDRzOsAqfMBIKOIN09x2Q=="
 ---
 

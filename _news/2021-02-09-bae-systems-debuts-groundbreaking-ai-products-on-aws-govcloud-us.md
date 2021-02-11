@@ -1,28 +1,22 @@
 ---
 category: news
 title: "BAE Systems Debuts Groundbreaking AI Products on AWS GovCloud (US)"
-excerpt: "BAE Systems is making available to U.S. government agencies a suite of AI tools to help analysts sift through large quantities of data, signals, and imagery. Photo credit: Getty BAE Systems announced today it is offering a suite of groundbreaking artificial intelligence capabilities and a new data labeling service offering on the Amazon Web Services (AWS) Marketplace for GovCloud (US) to support critical national security missions."
-publishedDateTime: 2021-02-08T17:12:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-north-america-b38acd7542c8411f875caf3d07580021"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-north-america-b38acd7542c8411f875caf3d07580021"
+excerpt: "BAE Systems is offering groundbreaking AI capabilities and a new data labeling service on the Amazon Web Services Marketplace for GovCloud (US)."
+publishedDateTime: 2021-02-08T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210208005050/en/BAE-Systems-Debuts-Groundbreaking-AI-Products-on-AWS-GovCloud-US"
+webUrl: "https://www.businesswire.com/news/home/20210208005050/en/BAE-Systems-Debuts-Groundbreaking-AI-Products-on-AWS-GovCloud-US"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "BAE Systems Launches Innovative AI Solutions on AWS GovCloud (US)"
@@ -40,6 +34,6 @@ related:
         height: 401
         isCached: true
 
-secured: "unFyyGpbRswG6J0Xr019bWXKs3qwR6ZMhoaxZLrBs5imdA9osvtVKvoiCpg0eS5hHCuU4iWQRKyLmIsadRSV+FqChULLpUErod4peqGkd7/QdKdtrdXity0tZST+vbjQDEefaAmqOMekz4PkoY/XBQ/dTtwP3E1dUuar9hCTbek0GmJk35+RGh7mNWspSFoQKoDYIbF4/WFQgL3U04XSh+rE13aZY3zcDMLrdZRtymY8bcsIOctI2cP08UzAPEPIB2iYIHpKb+f+m/pkwNrUJ3Q2uzNt6R1ingOTEkqwl0vdeIU+phaSVV6iXTfMmvnLWtTkvFFptSmc2KCajEdG8D0xZx/hitDJk1f3Pv+Zf1s=;YGF+FIRD73UDzA15jPSWXQ=="
+secured: "LtcJFHl69EtjUDv054fapa95iXS2X33ZRx5ElV2i9ak5NUyxlvQMNIHfNm4hSBthk3XH5yMtJ7AFdsqd/gdsRwKbTRKMFcfKMaWp3bf77TMQqHve5Br/HjZ3ydQKyU8q7IFlJQ5mFv/43ANiV2WJmsCLcdq2rIkXqRdM87Rlv79bY/H76Tz+iaoTfrTnptVG3FygIk5RbE6zWnaUjQelXdARLO6V79mQVuACVWN0Xvd9tYluXN9/2nA1DRcATYBtzNSLRwVvoJDvGsb+rexy7M894pMgLgCivEY8Aqzxw6SZv4i+66XCAb+rJfYtOZySH5QXvn/6YpfnlOJBtrQUcI5yeUBLTwgQAMYrvPf3r55xxqvxI7tR64epJ0AzJHTpSWfNceO4kGHQFqDOs8cjvQ2wDygPnz31nG2m+4D/B0ombmqxz2ALXxLHxkO7lFdi2/DemCJaTGO7kDRRxgGIZGHJnb3ajUSdi3BrGzAHoRt2b3EziJ7GOWqF4LJnON5RLlPr6jtTiaZBrfnUAlFMHg==;PHtd7jtG186AhopOSbZxEw=="
 ---
 

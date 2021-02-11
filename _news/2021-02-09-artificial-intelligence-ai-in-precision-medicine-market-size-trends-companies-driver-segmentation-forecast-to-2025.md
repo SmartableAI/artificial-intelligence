@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
+    publishedDateTime: 2021-02-11T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-forecast-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Technology Market Size 2020: Industry Growth, Competitive Analysis, Future Prospects and Forecast 2025"
     excerpt: "Selbyville, Delaware The Face Recognition Technology Market report offers detailed competitive landscape of the global market. It includes company, market share analysis, product portfolio of the major industry participants."
     publishedDateTime: 2021-02-10T10:21:00Z
@@ -85,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
+    publishedDateTime: 2021-02-11T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/11-2-billion-artificial-intelligence-in-agriculture-markets---global-industry-analysis-and-growth-forecast-to-2030--301226811.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "5+oDntVYBQlXZZldo+PGlwxUn2oimgOub28Bdlli6lgix1jxRclFqoN40dQMRY8xXrjOO8KLpxdut2eX6oo/i6jae+sc+cR9mLpvuaPkssAE5tG5+IR6cz5NL+jk8vIDW3dERAVI9ydlDGG8/Djeby40fKNEF+JGd7WYUHtAnCN58SQQt4OUy0VHBW7FcqRMbqOvVYuNMJ/bwfX1rCDB4xBEkKKzxOTzzjYCDOg16B07dCdYCIpsPuYk5/oOLa+1+Az+sf5PCR5QQJIxNebow8KqevvdMJbw5v1oFsujTF1eGn5E1y5RGg48NCfjaBI7DRcETRypkhzSpiQxWrihKxJyUeIgiyBlERViEPuj8SE=;ekk5PoYMjOm8YG+k7pSotQ=="
 ---

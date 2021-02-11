@@ -47,6 +47,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "A Cloud-Connected, AI-Enabling Commercial Computer is Heading to the International Space Station"
+    excerpt: "SBC-2 will also tap Microsoft’s Azure Space service to connect users on the space station to the Earth, and vice versa, through the cloud. The computer will be installed for the next 2 to 3 years, and is backed by a sponsorship from the ISS U."
+    publishedDateTime: 2021-02-11T13:16:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/cloud-connected-ai-enabling-commercial-computer-heading-international-space-station/172001/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 26
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/11/shutterstock_1453899434/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "TVGAkMy68BkPGaYO75fCfrd3UpL72G4ica2tcL3QleZR6oCeUIvA4azVSwolKLvyTNC3J/47pPL9cVt2gK9YMqNTs0L+bGlDJzp122oNqc0LIxk+fk4/kNXtma6PLR8+NQ6eMEDTSOCL5A1uSNSSRuCxmN5S/jGc1rp1Da3WeLjD9MV4W8wEIuu2C5pvTwNneR3W3jjtPvRpwL/ybDPojewmPXUCPK05Yw8R3lK1Vlab3lqvAbNXoFyHibM5gwQ/mTrg8e54o4CN+mjroc+U6w0A/ULZ3Qmb6lbSwjF5TG7Yqt++K6pJVVPuOSKvuh4uEyKv2dkBsdkITaF5pxGf64Kbn9z5MAoRoFRKA1lItKb/a1KkhSF7nSJO7qVN+94diyxmuWxahiLtsx9zgUK8SCMcyRTEsW0qDVaRWTVicAXLCwIzqCwz4BhIJqbLgjEA5HAUVX0Cheo4CWH60TTNbLPyiEwgfswHyljnsTCIRKr3vSUA2m4WZTAG9KWihbUFvLk7kpBVO4PhJyvupNFijA==;d60B6wg/82Ip+x0IQbqtFA=="
 ---

@@ -91,6 +91,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Aurora Partners With Toyota on Self-Driving Sienna Taxis"
+    excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
+    publishedDateTime: 2021-02-11T14:03:00Z
+    webUrl: "https://www.wired.com/story/aurora-partnership-toyota-self-driving-taxis/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 54
+    images:
+      - url: "https://media.wired.com/photos/60246fd36c104aea63dc519f/191:100/w_1280,c_limit/business_aurora.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Toyota and Denso team with Aurora on self-driving minivans"
     excerpt: "Toyota and longtime supplier partner Denso will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks"
     publishedDateTime: 2021-02-09T17:28:00Z
@@ -122,6 +136,6 @@ related:
         height: 799
         isCached: true
 
-secured: "3HMzT41CSunhXYgf4Bs5ostlmLhokauHgIejOFiLENO8FWR0yUSeqG3RUxkwV3ykJYf4g23KOB4cm8milr3V4KCrJKIVt9b0wgx1G4rMzB6attKANHlMYTD/uRKRRjozPnnRRazBveTrfzTxVUD86f93mDXsrAOgV143nlCoYgBSFsxuNh0WT7uQ1iiPRtEVp/B++w3mNpvcErP67kih5Zcb9v8tU3rqDot+rHMJ4lFlDvThkp1U2DNJ1s8gu+Mxlk5F1JcM4Gssjko7jLXRmaw5AcXr+it8ZtsiGmLMKdsyIVZULcL6AJtEUhoZUMszpQNvRsPtGlaHzBWy4xV3rAkNlqb3jXwzCYDa7S+kzXM=;OCmONuv8SuxaXXY/FvTQQQ=="
+secured: "uh6koItwW0W/TS5Aq2kdzJjTjoaxixBv/ufgNQQyofANCD5Pfdkkmfe03Ojh6+koBSSEkzR0+e/r6Vjemye5eJhbQAt5SbmnR9AOmfK9FEEIuhdWvwI0Ds95+dw4NvmhLKc/+23V1xTn+lLcb+ONq3d8JtgozBaHvc8WNxNuP5YV0vJZIg2j6tKufkKWMsQfkqz5aoXwrcxiX/SU/sCaOVh2L4K/ip6WAmYY1iJZR0mF4ggHSd7vAJY6692CxOWNm0j3qvrj3K/zu5bofBmPdprx7okfKssqUJG+hT9B2sq6H7g/RKttjCHbruq5frn26Ef58flmxksmM3SCRxunq18Z5Vk1TXxD0J43hHsTeD3I9EgoiQuXYKjC0+CbcmsvHm42zPduaPxq+Z2SZSnsS8TUCZJi1Rw+V6rlcxVsXXc28nysLaodAjqIbvV3u4hACxm4/paUKKsvlXNB7AZ4OBCnmZdh+G4V3UhGVMF/0F3mrJ9GVLxgrj/ATESA5yAKzeK2OXYICYgtvyalATM/2Q==;GRW54IaaVGofxUxvuwdYrg=="
 ---
 

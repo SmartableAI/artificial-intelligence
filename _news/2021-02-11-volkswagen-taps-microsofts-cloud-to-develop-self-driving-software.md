@@ -2,11 +2,13 @@
 category: news
 title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
 excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-publishedDateTime: 2021-02-11T11:00:00Z
-originalUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
-webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+publishedDateTime: 2021-02-11T13:58:00Z
+originalUrl: "https://www.reuters.com/article/microsoft-volkswagen/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-idUSL1N2KH04Z"
+webUrl: "https://www.reuters.com/article/microsoft-volkswagen/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-idUSL1N2KH04Z"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KH04Z"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KH04Z"
 type: article
-quality: 71
+quality: 91
 heat: -1
 published: false
 
@@ -24,9 +26,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
-    width: 800
-    height: 496
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
+    width: 877
+    height: 545
     isCached: true
 
 related:
@@ -43,6 +45,38 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg"
         width: 1024
         height: 524
+        isCached: true
+  - title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
+    excerpt: "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station."
+    publishedDateTime: 2021-02-11T13:00:00Z
+    webUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/"
+    ampWebUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 100
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg"
+        width: 630
+        height: 464
+        isCached: true
+  - title: "VW and Microsoft are building an autonomous car platform with Azure at its heart"
+    excerpt: "Volkswagen and Microsoft are collaborating on autonomous vehicles, with the two behemoths planning to work on an Automated Driving Platform. Announced today, the deal will see the VW Group and"
+    publishedDateTime: 2021-02-11T14:25:00Z
+    webUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/"
+    ampWebUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 99
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/02/vw-id-space-vizzion-concept-25.jpg"
+        width: 1680
+        height: 946
         isCached: true
   - title: "Microsoft details Speller100, an AI system that checks spelling in over 100 languages"
     excerpt: "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing."
@@ -214,6 +248,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure"
+    publishedDateTime: 2021-02-11T13:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
     excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-09T12:27:00Z
@@ -256,20 +304,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
-    excerpt: "Change Healthcare today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company's Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
-    publishedDateTime: 2021-02-11T12:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19646206.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 40
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Why Microsoft’s self-driving car strategy will work"
     excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"
     publishedDateTime: 2021-02-07T08:37:00Z
@@ -302,7 +336,16 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 34
+  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
+    excerpt: "Change Healthcare (Nasdaq: CHNG) today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company’s Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
+    publishedDateTime: 2021-02-11T12:01:00Z
+    webUrl: "https://www.oaoa.com/news/business/multiple-change-healthcare-services-earn-klas-recognition-for-excellence/article_c928e484-f2e6-5cb1-afca-95837afde0f3.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 20
 
-secured: "xFcSDg8dPYxH0svEWlE3UmtS9woqey1MgRRPjWNseLZ7KbFH8gPc9GF3V1ef/zFPwGTw8PrQXYNoBbhx42U0J7MnQRg+wkEdje3ffnFl1WuRonKtCEQimxC6zzSkH/qE/VbZo0pG9jWw3FnqYcSXZIlv8zalx3Ol545xHIIWdOkLBXx4qj/RX0MS8GRMR3L+TeCiU40glZbPX/LB+OkaNL3Uvzyboamw+HtEbZ/w072tJds7ITl1uFw/NpQb1DL9SmsTE7KVDdBhkC6XRQJG9rsMOD5do6IAAZHZjh9lb1LbW7+r1n/V4cC7CL7yPoklq08rO+mZ3s0SiozqFuFH2TB3pBnMqWISJm2mGV8RaP8=;+qGvlDMyWcg0tLmK+BdqKA=="
+secured: "fgwgSu/38/kUGFBjNHownOzQy/2mE9E4vKAY1TuZH8Jvp8cGxi3X8Zq3o30+wlGRiI7OM9OdCzDCV205ytXh9q12Sp+r6hri2MSZh3+MBhB42W9MXPjH2vxQKMlvrSJKfCNvDsM7kb46BmvK1duw1As7xWHY9adbAcJ4lSqebRfTRrg95Gca2FF09Ut3ZMJyfAZCO6mgKeE2BuVZhP4q+XEVnRsYeiZA2LqBhwbMAY7KrHR+gPf0InWwrkvKNIa1lnbI3e/khNKWrqg9ihDyMbLWopIA1Zp2m9I1x5bRIV4PX1m/CVK+JdgCkk4eGtoQ5tGzlVydmxKfyYXMENrt2gGmylGJMYWuODTkP+iJpK4=;PNWqRlEcq6gOK0XM0aL7Ww=="
 ---
 

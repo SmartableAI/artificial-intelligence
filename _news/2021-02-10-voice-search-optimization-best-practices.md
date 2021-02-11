@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-marketing/voice-search-optimization-
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/voice-search-optimization-best-practices/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,33 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "TA Digital Launches SearchBoost.ai to Drive Relevancy and Personalization Through Cognitive Search"
+    excerpt: "TA Digital announced today its foray into the cognitive search space with its maiden intelligent search solution, SearchBoost.ai. This is the first SaaS product offering by the company. Website and ecommerce search tools that exist today tend to solve for relevancy by optimizing indexing or results ranking."
+    publishedDateTime: 2021-02-11T13:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ta-digital-launches-searchboost-ai-to-drive-relevancy-and-personalization-through-cognitive-search-1030072872"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ta-digital-launches-searchboost-ai-to-drive-relevancy-and-personalization-through-cognitive-search-1030072872"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ta-digital-launches-searchboost-ai-to-drive-relevancy-and-personalization-through-cognitive-search-1030072872"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+  - title: "How businesses can use AI to get personalisation right"
+    excerpt: "James Squires, lead consultant, tech strategy at Wunderman Thompson Technology, discusses how businesses can use AI for personalisation"
+    publishedDateTime: 2021-02-10T10:43:00Z
+    webUrl: "https://www.information-age.com/how-businesses-can-use-ai-get-personalisation-right-123493775/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/how-businesses-can-use-ai-get-personalisation-right.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
 
 secured: "Qi6O4MlkcbGfVcE5hhsh2a+m5kXG3MH09w3yRctrxFePivgM6Sux9YVcv+CCCyPw22lHwcEbHJ0LERODd9bpEF91158aTiQ/G13wgOHslLUrHPuT5xmuT9TA1thRip2/LmtIF8Q66SZMK/g20+71aAwp2W8usqRWdQddD1EaT7BxPSxglgChUnLR5EzLi6+sZR/lfRjj7Dk9//O5hjf99iHG2kmlZLU3FYS0BkNQMjKCpADk9IO1kycu1vs1WXsuFsmz3M9HKFNRKfvv9+bf+1dBQGwl/iulI1wLcid0R1FmWaG/zSskK3fVwBkXNnii/ha14+vfACIg0FO3xf5SyA0ZBJ7P1ciMV3v9DVz0M/dmdl2OUdHnvQIt9F4YEx4C/CU/Bk44mSNqcb16eSn/MjfiEDbcqJCaLV95ql/PyP2PRIfKz9zb0oeBWCr08plUDqFzzPqy3l8KH5PnmadvTbRlRCM2W/z8V1G7oYE5lS13zpTWvp+gAczgF3VsyeajOCpt8AhDtHCXjRV34594og==;eneDtyWStoKRoI6Vc8J4Tg=="
 ---

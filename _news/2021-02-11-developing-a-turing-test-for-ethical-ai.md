@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-
 ampWebUrl: "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html"
 type: article
-quality: 104
-heat: 134
+quality: 106
+heat: 136
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.techhive.com/images/article/2014/08/care_nurture_support_people_human_resources_thinkstock_176436790-100409939-large.jpg"
@@ -68,6 +69,6 @@ related:
       domain: hellenicshippingnews.com
     quality: 0
 
-secured: "7u7pRSTZNucTLDgoCH4L+Gju6SQRz0Fp4hWTQ/enX4Byz+26UnyUysxEPvvFMLP+UujQfpYZzc8RcC826gnHuU9CyZvxcxYnLzhJgtmtlnd7wtjhhSjHbyyH0qJb9XSSsSSqDcOdLwdSZ95GgaIy5ITDX/zJhrVMimd9uPbgNtJP/KZFdVkyGCqsjFPC8bBy0DnD86qAIqjOiBOC/m/D0MrEcl7+twSIC0RyY/yP5yUJwrWoMJVkKfkdPcC2WYkFN37FX+3GYhUedKPuO2a3OdO/nbfvN9pApMNotUBebBaMQuwUUWr5R4gF0JjuSFAiid6NDO3aVu9fEhdNqvQdrj3zeVfNHU6SJUsShF+/Slo=;DIF3pi8ANJiqlup+QEk/xg=="
+secured: "r8+xCFPnYrzDxLyJlg3HZgRabFTPnH+4J4r7kp6kCkrrDaCofFb6Xh33iSgLLLqeg59lsGR6FbEbYlbrQKL+iJmJt97u6ZawfeXkwd01uMBbLae5Qw9Gu7UW8ievjhyUWqhSbELSDjKzfyYsig7qzMfV9f866QfsA8+jdOr7dxZ1tdX5nLwdF6ooUCZwayq+ktTELOQs7v2q5ANg4I9rj2F9/B0r/gkvbNSEyk1xXVYvxY7oSakS4cFCkVTOCmMBJ1OawScuM8WfNB6D9QpA1qidbjHvm0yJhLfqB0a7m3XbNsJ91oNVQtMgWvwU6+8Ce9rYkieTSFd5dIP8yXoLnRIAzkA9uPxfl1+qaS6ohy8o8R34/0G9vJv9X6QYBrli1dxz+dezcR+vJDczVHZ9G7zsGIFUmg0wCRosKj8iuilrg7wH/AUQNiDHqfRizt6vu4ryNTkPqfQKHTfxocpLO8TNSZ2lWUNq28Kh9klUcxoinaiy7v3p6mvtbDZRHWH+wZrKLzjQZV+NAKDK9+T5og==;GMkYbB9+NDmPhrKLuIvS1Q=="
 ---
 

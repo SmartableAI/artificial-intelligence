@@ -40,7 +40,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://images.techhive.com/images/article/2014/08/care_nurture_support_people_human_resources_thinkstock_176436790-100409939-large.jpg"
         width: 1200
@@ -67,6 +67,6 @@ related:
       domain: hellenicshippingnews.com
     quality: 0
 
-secured: "XpO6jPWSzD6XT06fh5v8Xf/XNhkSy78L2rfiFYcdN46E7RiAiQss77+ymHnceN/CxDcLfYxgaf9Bct6nTpVE0BKzK5LCD/cu4of5PzxC9P9tU4tkf92vIeBVkOtpxBWU0Bf27ZvfHyQhQ8cbXdJPjbQrzd9F/TIfYFbXEKu7C79xA9jafKKy4s0Fg9pKnUALFUZ4DqFO7Jkr5IpEZbsI273zQNbvLCaacp8y6kz+UEjGvLqbNmcnfWB2e37Ibm1iMg6TkmM3qUcPNvspIs6HMdXah3u6Vi9xBTi5kQ3DvuoBGQn0S4rKSi0JcDix5CC/qZRFQLOSHV002egN2H9CzPtdIa7wZ9dO7HCdm3JHJNk=;sEHXNoKWz/jtAf6SOdjcfg=="
+secured: "JuElo7q+55b9wHq8NWHu0x4lxjO93xyxwE1xQ+pkjPQVWEuZ+Nc2HbhMU0qp7nLJPVBajk/GWbEU3mgMXEyBFCgNwW+O7ZETL0ZhRmimzwYPSHFiJL22Sste6V8oCTCgMhyE6+IByYTEuLCxeQSrPrbD+l7Uf4jnmveeJBcc6M7Tao/PDpB97TQ0bm3Tmp4tJiaKIrYyumGu5uFbgsRupZgDx9TRlaqjzxdljmeQ0h72v+ERWeT6PQ6iKDInY60naIn5RFDdUyaRhaix5lU0PgcWJ/chR5ECOrz90TEIrzv4pt/V7sd43lDB59jBfahk3mBjB8XsSaYj3YWKTuoDRZdvMaSqbmPGxZk6/vIhFPw+vVRunqKiIzj9I3IFmATkaD3l4DM0UduCdUBfhiXuJDtBo130k8ZLqAJctEY8S2lqF8rwbmCVQKN7WAqBawRrT4SET5BJzWXeGnimPgGRbPjPbVzofsuraxPBIxqqdcZszK5BscfjcpFvNr4gy8IurnYjbjwWdeSjUYxGcBJRog==;TErknUlAGBOVrBy+nLvADw=="
 ---
 

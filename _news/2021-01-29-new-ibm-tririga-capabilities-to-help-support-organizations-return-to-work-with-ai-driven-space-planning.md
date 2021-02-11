@@ -1,29 +1,26 @@
 ---
 category: news
-title: "New IBM TRIRIGA Capabilities to Help Support Organizations' Return to Work with AI-Driven Space Planning"
-excerpt: "\"IBM and Esri have had a long-standing, successful partnership integrating IBM's analytics and AI solutions with ... also an important component of IBM Watson Works, a set of solutions designed ..."
-publishedDateTime: 2021-01-29T11:43:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-301216821.html"
-webUrl: "https://www.prnewswire.com/news-releases/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-301216821.html"
+title: "New IBM TRIRIGA Capabilities to Help Support Organizations’ Return to Work with AI-Driven Space Planning"
+excerpt: "IBM TRIRIGA’s new indoor mapping, powered by Esri, reduces both congestion and time spent looking for a conference room or a co-worker. ARMONK, N.Y., Jan. 28, 2021 /PRNewswire/ -- IBM, (NYSE: IBM ) today introduced capabilities in its IBM TRIRIGA integrated workplace management system that is designed to use artificial intelligence and near real-time insights to help organizations create a safe,"
+publishedDateTime: 2021-01-29T08:06:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f/gallery/11f9d2470d630f0a5cf35c627edc0a65"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f/gallery/11f9d2470d630f0a5cf35c627edc0a65"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1428401/Indoor_Maps.jpg?p=facebook"
-    width: 1513
-    height: 792
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "1T/yaK4aKLKxvOjZ0HtMOXX+hl1lNgJA1uoYIhw4bnGIGRisL6Uhg1AlTQzU16Ole+eQrTqJkEQJ6xXWu1PR4n9XbzMgtiKjY+gX46Mg4/ENAQGJS9U9pK3Qwuynhlwf994EaY9wuauwR/WYFrepzD9WnbAGxmjF2RgdFEgQ5UuOiIj5+xhVmSI/DouWQK/4Zij9lVL2yvzHs4PzMTeFRmZpuOxxlXGMNUj66qVFzfJgyeNXVurrc+k8a1QnQNIIAsvwgKDwDw0zrCSai0+hzv1NGmoHulcEwdKeKzk/HJaOOLLS5jF/hBDRKOsomi7wt9AwIyJfu6A9AojhxY2P9nHpIYlXRLNBaxM6pbqFGQk=;HhCWkgkXdG6XaftbpyTyNg=="
+secured: "+JkHzODswspPYvUgZbE932OiAa969VCMIOch57OPzanhLKZerI4v0JQyA8hM3mQcPbhCjyzp2k8Ol7qBTfi8ID9xzWJP6xp5UFei9YKBWvbWqTw1RISPNxyAgfcgUssQ1XA4ornvvToAf8N5stQJVCTbR3FjIgAEnQMvMcVEkYHWKga1WpnAcBDalyZq10Lcs4FunTAkJtx4RevT25AHtNSp8Mv3g+BRqct5/qjMbTq+hAe6+n6n2qa6mTP9fDRFyNP6IzHsOn8f4eIKsBQTa19qKguAOest6H9ukwjtlrlw52AEyzBbpXb5q4Sj4sU+5i7ke/x7VYjW0uRZLHj3zvY99XpMjotF83UHv4QFhCU=;NCpMM0NcIgz+ryHywm4GcA=="
 ---
 

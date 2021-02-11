@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/volkswagen-group-teams-up-wit
 webUrl: "https://www.nasdaq.com/press-release/volkswagen-group-teams-up-with-microsoft-to-accelerate-the-development-of-automated"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft Teams with Volkswagen for Azure Cloud Automated Driving Solutions"
+    excerpt: "Volkswagen will tap into Microsoft Azure tools and data to create new and efficient automated driving solutions for developers."
+    publishedDateTime: 2021-02-11T14:02:00Z
+    webUrl: "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 72
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/09/microsoft-connected-vehicle-platform.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "Microsofts expands partnership with Volkswagen on cloud-based Automated Driving Platform"
     excerpt: "Microsoft said it has expanded its partnership with German carmaker Volkswagen. The company will cooperate with Volkswagen's software firm, Car.Software Organisation, to build a cloud-based Automated Driving Platform (ADP) on Microsoft Azure."
     publishedDateTime: 2021-02-11T08:30:00Z

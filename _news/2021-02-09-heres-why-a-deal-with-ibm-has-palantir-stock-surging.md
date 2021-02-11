@@ -194,7 +194,7 @@ related:
   - title: "IBM partners with Palantir on low-code AI applications"
     excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
     publishedDateTime: 2021-02-09T01:02:00Z
-    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
     type: article
     provider:
       name: SiliconANGLE
@@ -218,20 +218,6 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
         width: 577
         height: 324
-        isCached: true
-  - title: "Big Data Analytics Firm Palantir Adopts IBM's Red Hat OpenShift"
-    excerpt: "IBM and Palantir Technologies announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business"
-    publishedDateTime: 2021-02-09T02:23:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/19015-big-data-analytics-firm-palantir-adopts-ibms-red-hat-openshift"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 24
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/c1db8e9f04d2c2814c42aa9343f822b6.jpg?t=20210209_022156"
-        width: 752
-        height: 408
         isCached: true
   - title: "Palantir for IBM Cloud Pak for Data Announced"
     excerpt: "IBM is partnering with Palantir Technologies to bring AI-infused applications to businesses with Palantir for IBM Cloud Pak for Data."
@@ -273,18 +259,18 @@ related:
       domain: telecompaper.com
     quality: 19
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-    excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
+    excerpt: "IBM (NYSE: IBM) and (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform designed to"
     publishedDateTime: 2021-02-08T11:59:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock/article_a596a384-6945-50fb-bb5b-ee15ccb0f52f.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 1
     images:
-      - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
-        width: 2251
-        height: 1179
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/b9/0b95e751-9808-5551-9563-4755982ca8c3/602292ca96197.image.jpg?resize=887%2C630"
+        width: 887
+        height: 630
         isCached: true
 
 secured: "g59BMukERYx7t+9n6yFYVUou23kPoxMn8Z9KDPBI9bBwCF8990dU7pSbXliCuekznKLjSYUT3fK0dLCHYLKmrPqPjo9zVjJWPgsWESCw1mTuHy8flnzz0SseOK2YLdit9tEzZm0B9oDLM15n2KalLCduUHoJK7cUm5LhpPUThhw4VUMbU4Qg/Z2KFz9G5r2suzO0XPSxQ6jT1M8j5SV4rkn7fD7O2YuoCehC/PfPUNuqtPlPJGrMQGzoaVGHqdoikTbIbA9PWKw0G6UNASH/67EQRladXgs91AhYd6IY7X+BvjpD8u8fNweaUPbPgHhyxPse5sUviFYWgRrEHKBJFznXuI3dFLcsg3Wg2cJnywfifzTzCQAILsnbGgjpUYCKlo8+YHQmzmVI/Prnrmo8ZAWHeX7fsxRUKg0WT0LWqcoCQkKuZi5FslDRgpS23JxIEMmaL2THjmoNiyyvn60eLiWf2vMe3CW79TzcoLEibkkl+NqXdr/5zGO1rEs0fO8RGNTTF27fBfoe2Hq/1WNYvw==;xncvHjoN+KvnhOODOR5vgA=="

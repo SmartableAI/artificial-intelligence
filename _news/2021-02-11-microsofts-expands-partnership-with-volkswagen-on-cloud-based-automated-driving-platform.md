@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft Teams with Volkswagen for Azure Cloud Automated Driving Solutions"
+    excerpt: "Volkswagen will tap into Microsoft Azure tools and data to create new and efficient automated driving solutions for developers."
+    publishedDateTime: 2021-02-11T14:02:00Z
+    webUrl: "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 72
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/09/microsoft-connected-vehicle-platform.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "Volkswagen Group teams up with Microsoft to accelerate the development of automated driving"
     excerpt: "WOLFSBURG, Germany and REDMOND, Wash., Feb. 11, 2021/ PRNewswire/-- Volkswagen Group further strengthens its capabilities in the development of automated driving solutions. Software Organisation will collaborate with Microsoft to build a cloud-based Automated Driving Platform on Microsoft Azure and leverage its compute and data capabilities to"
     publishedDateTime: 2021-02-11T06:00:00Z

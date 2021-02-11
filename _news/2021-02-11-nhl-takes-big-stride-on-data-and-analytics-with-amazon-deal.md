@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "How Big Data, Predictive Analytics And Machine Learning Changed The Railway Industry"
+    excerpt: "Learn how KTZ leveraged SAP Innovative Business Solutions to create a single platform capable of processing vast volumes of cargo and freight data."
+    publishedDateTime: 2021-02-11T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2021/02/11/how-big-data-predictive-analytics-and-machine-learning-changed-the-railway-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2021/02/11/how-big-data-predictive-analytics-and-machine-learning-changed-the-railway-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/02/11/how-big-data-predictive-analytics-and-machine-learning-changed-the-railway-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60252945a44ed3426d09be00%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Predictive And Prescriptive Analytics Represent The Future Of AI -- It’s Up To Us To Use Them Wisely"
+    excerpt: "To ensure that both forms of AI are used for the good, providing the greatest benefit to individuals, businesses and communities alike, humans must remain in the loop."
+    publishedDateTime: 2021-02-11T14:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/predictive-and-prescriptive-analytics-represent-the-future-of-aiits-up-to-us-to-use-them-wisely/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/predictive-and-prescriptive-analytics-represent-the-future-of-aiits-up-to-us-to-use-them-wisely/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/11/predictive-and-prescriptive-analytics-represent-the-future-of-aiits-up-to-us-to-use-them-wisely/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2aec63ba9506e3de5bcf27%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "NHL takes big stride on data and analytics with AWS deal"
     excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
     publishedDateTime: 2021-02-11T09:18:00Z
@@ -41,6 +73,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-02-10T11:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-analytics-livestock-monitoring-2021-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
+    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,"
+    publishedDateTime: 2021-02-11T14:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-christine-odonnell-computing-and-information-technology-data-management-f85ff704762c47cda869625396ef3236"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
     excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
     publishedDateTime: 2021-02-07T13:56:00Z
@@ -52,6 +112,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 28
+  - title: "Big Data Analytics Firm Palantir Adopts IBM's Red Hat OpenShift"
+    excerpt: "IBM and Palantir Technologies announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business"
+    publishedDateTime: 2021-02-09T02:23:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19015-big-data-analytics-firm-palantir-adopts-ibms-red-hat-openshift"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/c1db8e9f04d2c2814c42aa9343f822b6.jpg?t=20210209_022156"
+        width: 752
+        height: 408
+        isCached: true
   - title: "RS21 to acquire Albuquerque health care data analytics firm"
     excerpt: "The two companies have worked together in the past, previously linking up to develop a platform that would use AI and machine learning to identify trends in health care data."
     publishedDateTime: 2021-02-09T12:00:00Z

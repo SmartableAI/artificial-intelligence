@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
-excerpt: "Change Healthcare today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company's Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
-publishedDateTime: 2021-02-11T12:22:00Z
-originalUrl: "https://www.lelezard.com/en/news-19646206.html"
-webUrl: "https://www.lelezard.com/en/news-19646206.html"
+excerpt: "Change Healthcare (Nasdaq: CHNG) today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company’s Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
+publishedDateTime: 2021-02-11T12:01:00Z
+originalUrl: "https://www.oaoa.com/news/business/multiple-change-healthcare-services-earn-klas-recognition-for-excellence/article_c928e484-f2e6-5cb1-afca-95837afde0f3.html"
+webUrl: "https://www.oaoa.com/news/business/multiple-change-healthcare-services-earn-klas-recognition-for-excellence/article_c928e484-f2e6-5cb1-afca-95837afde0f3.html"
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
@@ -39,6 +33,38 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg"
         width: 1024
         height: 524
+        isCached: true
+  - title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
+    excerpt: "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station."
+    publishedDateTime: 2021-02-11T13:00:00Z
+    webUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/"
+    ampWebUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 100
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg"
+        width: 630
+        height: 464
+        isCached: true
+  - title: "VW and Microsoft are building an autonomous car platform with Azure at its heart"
+    excerpt: "Volkswagen and Microsoft are collaborating on autonomous vehicles, with the two behemoths planning to work on an Automated Driving Platform. Announced today, the deal will see the VW Group and"
+    publishedDateTime: 2021-02-11T14:25:00Z
+    webUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/"
+    ampWebUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 99
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/02/vw-id-space-vizzion-concept-25.jpg"
+        width: 1680
+        height: 946
         isCached: true
   - title: "Microsoft details Speller100, an AI system that checks spelling in over 100 languages"
     excerpt: "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing."
@@ -71,6 +97,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2Fbdcbc8b0-6c4e-11eb-bf97-bff40b7d3a02&client=amp-blogside-v2&signature=93b983d1e835e4b1cb32538773b259ecba171802"
         width: 600
         height: 350
+        isCached: true
+  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
+    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
+    publishedDateTime: 2021-02-11T13:58:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-volkswagen/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-idUSL1N2KH04Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KH04Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KH04Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 91
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
+        width: 877
+        height: 545
         isCached: true
   - title: "Machine Learning as a Service Market is Booming Worldwide |AWS, Microsoft, IBM"
     excerpt: "Latest released the research study on Global Machine Learning as a Service Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning as a Service Market research report shows the latest market insights ..."
@@ -117,20 +159,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg"
         width: 600
         height: 440
-        isCached: true
-  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
-    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T11:00:00Z
-    webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
-        width: 800
-        height: 496
         isCached: true
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
@@ -224,6 +252,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure"
+    publishedDateTime: 2021-02-11T13:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
     excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-09T12:27:00Z
@@ -299,6 +341,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "4UUaPR5naSChIp0rOqpl0ekTEM4LUgPz9TiV+zgYLPORtpw83Yl3/g4Pi8fq1V1o2HxnYMTrAc6s1JCjmEDgpHgs8/6583FN/GHQRvKom5QHVRQnLxAFK0SNhxgV+bs/WJrEzxAV0dUYs9YXdyfV2t2WMXo2XSKhnWEdpXeKdcPP324BIgWU86Rvham4SGu+TM4cME3T9zRrPxtgxx3tF9Je0f/VqThL+T4ZP2HIe86RyhX4txaNA6RHtu6ztW++PHy0v633jPzKIfaKTy0/JTX7aP4g0DtSf0H1kvPRa0/UHsVfiVmM4Vms8Vqgxt4ce7hlcX2g8aL3jDuJ7uZy88/3g1XgPi1MWWXew+xjVUw=;IOPT8hd6Xzsk8YYSQLCI4g=="
+secured: "gXDWhz51jDjocslrHM4KAwLVqHQsA7fI3bV5Tcm2h7zbkyL/91EFCL+cTRE+W+szNVIduhP3YJVApkziqV6mcnBQZw6rC77K9l4ZAuDKmjVqvIwiMP8kgLsEn1sDVomahWjMsRRvieTGbAgDm71J+TlPZ45ObBy2dXsezU2pB4Cdv8sVA/VBukn6RA+IcJyn1N1aTlHKSxnUReAneaiClIlwKABJ2JEAh6fTJzQUCrSbdQIB712Ht9Q4s85OPoNgKNtmUuuHa6atgsPiyVraDbiBhyeq8q1chXjIl4QQ3v890InGKY0i+QFKGJAVW9rL6ayIVEYKORaoBhA1HrhPkspM6BDINpWW5Vqm2A7DHMI=;W7p5G+6julOZu692v8fi0w=="
 ---
 
