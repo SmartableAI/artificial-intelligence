@@ -2,21 +2,19 @@
 category: news
 title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
 excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-publishedDateTime: 2021-02-11T10:40:00Z
-originalUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2"
-webUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2"
-ampWebUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
+publishedDateTime: 2021-02-11T11:00:00Z
+originalUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,6 +22,12 @@ topics:
   - AI in Autos
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
+    width: 800
+    height: 496
+    isCached: true
 
 related:
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
@@ -88,6 +92,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
+    excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
+    publishedDateTime: 2021-02-11T12:00:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/131690/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-09T15:25:00Z
@@ -103,6 +121,31 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg"
         width: 600
         height: 440
+        isCached: true
+  - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
+    excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
+    publishedDateTime: 2021-02-11T12:08:00Z
+    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 64
+  - title: "Volkswagen, Microsoft Ink Self-Driving Software Partnership"
+    excerpt: "Volkswagen’s software arm Car.Software announced a collaboration with Microsoft to build a cloud-based automated driving platform (ADP) using the tech"
+    publishedDateTime: 2021-02-11T11:58:00Z
+    webUrl: "https://www.smarteranalyst.com/stock-news/volkswagen-microsoft-ink-self-driving-software-partnership/"
+    ampWebUrl: "https://www.smarteranalyst.com/stock-news/volkswagen-microsoft-ink-self-driving-software-partnership/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/volkswagen-microsoft-ink-self-driving-software-partnership/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 61
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_1248578830.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
@@ -213,6 +256,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
+    excerpt: "Change Healthcare today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company's Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
+    publishedDateTime: 2021-02-11T12:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-19646206.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Why Microsoft’s self-driving car strategy will work"
     excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"
     publishedDateTime: 2021-02-07T08:37:00Z
@@ -246,6 +303,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "5RlFGN3OjZ6PgwHanjroaTEYARfKsOEvKyAHCRgu/uZNyn6Uh3TLQf5pVwknObOTtAObT8/vyjSfn7jbOv/JYadg+mbsrBZ9Tjw8NuZft4LsD6mq7y5xWxFrb2SNCo8LwMh+5zhttmkoyIYRa53wTbKM8k3T7BbEHoJcHaYOWwagpzgbgS+NIU94Y4kOBA3aYgHdMuxJNtfT3We4UulD763lAwki1zl6S8cA91FjBN+6LelwAeIaSjIpX+KdGL7qAT74Tnp6zHLgu/6eZCG6Ew0/dlLsQyAdjHr6aGWxueTKizV4QK9rVikhfb9SI2hyoZq6xdpD3iaglhPn1AjRa/zzjBumJhqQeVlhcxZh46U=;BtC+Bvl0DEYs8tAFhaqllQ=="
+secured: "xFcSDg8dPYxH0svEWlE3UmtS9woqey1MgRRPjWNseLZ7KbFH8gPc9GF3V1ef/zFPwGTw8PrQXYNoBbhx42U0J7MnQRg+wkEdje3ffnFl1WuRonKtCEQimxC6zzSkH/qE/VbZo0pG9jWw3FnqYcSXZIlv8zalx3Ol545xHIIWdOkLBXx4qj/RX0MS8GRMR3L+TeCiU40glZbPX/LB+OkaNL3Uvzyboamw+HtEbZ/w072tJds7ITl1uFw/NpQb1DL9SmsTE7KVDdBhkC6XRQJG9rsMOD5do6IAAZHZjh9lb1LbW7+r1n/V4cC7CL7yPoklq08rO+mZ3s0SiozqFuFH2TB3pBnMqWISJm2mGV8RaP8=;+qGvlDMyWcg0tLmK+BdqKA=="
 ---
 

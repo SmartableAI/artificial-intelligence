@@ -105,6 +105,20 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "FinTech platform Siply raises USD 1 million in seed funding"
+    excerpt: "Bengaluru-based Siply announced the raise of USD 1 million in seed funding from investors such as JITO Angel Network and"
+    publishedDateTime: 2021-02-11T12:33:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-platform-siply-raises-usd-1-million-in-seed-funding/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/02/fiserv.jpeg.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Fintech Start-up Bytemine launches AI trading signals application for Day Traders"
     excerpt: "Transforming data into better trading outcomes LONDON, UNITED KINGDOM, February 7, 2021 /EINPresswire.com / -- Bytemine , a market prediction and analysis platform that provides trading signals for day-traders,"
     publishedDateTime: 2021-02-07T08:25:00Z

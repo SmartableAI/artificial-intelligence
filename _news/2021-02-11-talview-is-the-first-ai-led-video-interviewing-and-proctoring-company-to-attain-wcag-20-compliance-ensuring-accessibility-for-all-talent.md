@@ -63,26 +63,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 37
-  - title: "Bringing AI to the edge"
-    excerpt: "It seems that much of my work these days is concerned with bringing AI to the embedded-systems domain, understanding what the implications are and how companies should deal with it. In the discussions with technical experts and business leaders,"
-    publishedDateTime: 2021-02-08T07:51:00Z
-    webUrl: "https://bits-chips.nl/artikel/bringing-ai-to-the-edge/"
-    type: article
-    provider:
-      name: Bits&Chips
-      domain: bits-chips.nl
-    quality: 19
-  - title: "Bearing and MOL team up to bring Artificial Intelligence to the maritime shipping industry -GHG Reduction, Shipping meets Artificial Intelligence"
-    excerpt: "The relationship was originally established with the goal of improving shipping efficiencies within the maritime industry. Through various trials and intensive discussions concerning ship modeling, a range of products including a newly announced AI-powered Smart Routing Engine,"
-    publishedDateTime: 2021-02-10T22:13:00Z
-    webUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 0
 
 secured: "megDcS83lDIi9+l3d//RTE4M68fdm2rxAecXE0n1bEZJN6PGesK2tYim60yyvUej1N/c/iYvS0hq+UqVDrMbjWqImu2It11DOe4xIUrSB3Zjd7nirM5Snf8lkAVyQDVaCars80hNf5WBDxr3Eh1nkruqpBlO10yRuNQ8hxuvbveYzayClJK1GlJE/XahephmRHfZQ/TKlNF5fik2pMMhi6HQ1FWKIn/UEhz+wgSVOkDz3+AghGDd+HCccNd3yHhAob+JK5WkWcXDy/cqKHb4BB5ye8vEJNoVCsPXGhOrOjAfTqDMnLW1oQ8M7La6DtUfJ9sAjN5Oy+xK+53XLNlQr1+vdkLuTBlg93qbSeJ9yRA=;OJPQPOuzN6/9cxT9nib3yQ=="
 ---

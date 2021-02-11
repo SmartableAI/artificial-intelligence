@@ -105,6 +105,20 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "FinTech platform Siply raises USD 1 million in seed funding"
+    excerpt: "Bengaluru-based Siply announced the raise of USD 1 million in seed funding from investors such as JITO Angel Network and"
+    publishedDateTime: 2021-02-11T12:33:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-platform-siply-raises-usd-1-million-in-seed-funding/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/02/fiserv.jpeg.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Finch Capital raises €150m for fintech fund targeting later stage start-ups"
     excerpt: "Finch Capital, a UK and Netherlands based VC firm, is looking to deploy €150m into 15-20 fintech companies in Europe. The new portfolio is Finch’s third fund since launching in 2013. Its current portfolio includes the likes of Trussle,"
     publishedDateTime: 2021-02-10T05:31:00Z

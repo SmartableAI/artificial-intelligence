@@ -49,15 +49,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 37
-  - title: "Bringing AI to the edge"
-    excerpt: "It seems that much of my work these days is concerned with bringing AI to the embedded-systems domain, understanding what the implications are and how companies should deal with it. In the discussions with technical experts and business leaders,"
-    publishedDateTime: 2021-02-08T07:51:00Z
-    webUrl: "https://bits-chips.nl/artikel/bringing-ai-to-the-edge/"
-    type: article
-    provider:
-      name: Bits&Chips
-      domain: bits-chips.nl
-    quality: 19
   - title: "Talview is the First AI-led Video Interviewing and Proctoring Company to Attain WCAG 2.0 Compliance, Ensuring Accessibility for All Talent"
     excerpt: "Award-winning recruitment and proctoring software leader, Talview, recognizes that organizations, candidates, and students rely on the company to level the playing field for talent applying for openings or taking tests using Talview,"
     publishedDateTime: 2021-02-11T05:32:00Z
@@ -72,17 +63,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Bearing and MOL team up to bring Artificial Intelligence to the maritime shipping industry -GHG Reduction, Shipping meets Artificial Intelligence"
-    excerpt: "The relationship was originally established with the goal of improving shipping efficiencies within the maritime industry. Through various trials and intensive discussions concerning ship modeling, a range of products including a newly announced AI-powered Smart Routing Engine,"
-    publishedDateTime: 2021-02-10T22:13:00Z
-    webUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 0
 
 secured: "xTP4zjGrSUeQkZZhrGkvru4N/WC9bkbD45PTBpzauXPWcxD2wo7pmqHxL/ysgVeEBu81FZAWIXGGt+lWUsBfLTS0QLhCc3/FP418DRMdRuyULlVuwcV5m2dbVVtKkCF5khHWcOWCozTBulg17mZYjbu6eWYr4ySziBqbDdlW5pNhunCpqT8W9NYcFMnx8FQHD4ujFvM1iz7PniKf6hVWwIvmNmoXTAOBi762HG71YybsA5tsbND8GmLL/2SESXPWyZKJIZXmnwzYBntDG1OdHQPpEC7Ah/ojqj3CieUaLfwugJz07Q1kOcz9zUie4TWhI01rfe24oKDwa0Go9mKiBUMmMB3dXImvvCuFnF35AiiGKf4l8D1u33XtL8rRorI/+zKZdezDQGZbliJ8HTkMKzw1WoiLMl6ZCgcdGh6gpmSlD+CNigq0vk+AOAvc5AzCLhwaORhd0YIu5PxjDzdCAWjehCRIOeAux7tm89zV+N5faxSvN3vEQRn6T1Gjflk4RmYhfWk+1Jg50Yibvp/E8g==;r/MpgLnIUGebEhNzuV1tLw=="
 ---

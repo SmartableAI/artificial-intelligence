@@ -88,6 +88,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
+    excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
+    publishedDateTime: 2021-02-11T12:00:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/131690/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-09T15:25:00Z
@@ -106,15 +120,43 @@ related:
         isCached: true
   - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
     excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T10:40:00Z
-    webUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
+    publishedDateTime: 2021-02-11T11:00:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 71
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
+        width: 800
+        height: 496
+        isCached: true
+  - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
+    excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
+    publishedDateTime: 2021-02-11T12:08:00Z
+    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 64
+  - title: "Volkswagen, Microsoft Ink Self-Driving Software Partnership"
+    excerpt: "Volkswagen’s software arm Car.Software announced a collaboration with Microsoft to build a cloud-based automated driving platform (ADP) using the tech"
+    publishedDateTime: 2021-02-11T11:58:00Z
+    webUrl: "https://www.smarteranalyst.com/stock-news/volkswagen-microsoft-ink-self-driving-software-partnership/"
+    ampWebUrl: "https://www.smarteranalyst.com/stock-news/volkswagen-microsoft-ink-self-driving-software-partnership/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/volkswagen-microsoft-ink-self-driving-software-partnership/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 61
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_1248578830.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
     publishedDateTime: 2021-02-09T13:01:00Z
@@ -210,6 +252,20 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
+    excerpt: "Change Healthcare today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company's Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
+    publishedDateTime: 2021-02-11T12:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-19646206.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Why Microsoft’s self-driving car strategy will work"
     excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"
     publishedDateTime: 2021-02-07T08:37:00Z
@@ -243,6 +299,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "m4enjKYrhp+hwi+/42hgCglW6swp8nPkLHstc6RVAf2IwuT5OOCFvs8NJxgN26Q+u1x8nARQehGIk5mwWGW1VK4PEGLyqzq7tFYpoeWKn5/8ULbZJoZ+hni8mqXoi1ayQYLybRknkgvVTpQC6Sq+12d5PE5D91QlPn1J+pO38SI2RTmGibzaVZj8U6oA4QWMtDII3QHPITkL7NlAei7yrIS9yMfbWFZYKAiDQ2nBPYs9oe7XQ+lamNLIF9rKq5D4SqSXau2EedhsUCzhvDHITBbNU67D0KWqYSGW8oqiZ7RxTOpA4MAQRCrNroWMz4hRsviau6AszUv9Z1pknA9ePZDjcUzbKGZhU4oNKc7J4wI=;GBVd/SvnFBIkmwqReivkqg=="
+secured: "3cFlw9OwWJ6Z0QViLbeKVfWMDLcNTxmnRzU1MhFOsmrmcsIv08XWL5vM6G7f86IU3vTmp1QOgL5bqkYvNvzmUro3glzX3D4lF8RoVyl6nK1WtNGX9/83lZQiYy7tX8KGfup3IjzNZ51WUoKYqIfZU71Pl9EOAPSNDllouZ0k8RNP8+nJD4X+/8GFPDDzmIRXOUCANWNOVzp+G9FEDE/bgy/E6BaUKX1wPAAIuDYtyLxYy5+fI0nHl9LVBFXuoEiGEgvRM1ASZ/exHonlnOUOB8a1BQc8TEJf1BFYdb5eeWvY6yaUD1Xm0Of9A/UdNiQmmMbhw+TwgVJTrjp9dyzfX0H8ZPXg3HOHf00gjkkuu/ryXiGFsCtR7yEU9O+Qs5A+uWfKqxylGpZTxborXatB9dPlVAgKku63tGA4/DFSU/Hd7X3F4U867TwSs7KTtgqCLw6z88DzSAbRhAJ+pW2AGJrWrvommz8qNpvMi19Q2oWPBOfRhVgs7zcUs678bKfYzsERxhCGICD3HSLZdx423w==;XEjaiY4QNpycAJAt7yFfEA=="
 ---
 

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National"
-publishedDateTime: 2021-02-11T08:53:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of-the-nhl-2021-02-10"
-webUrl: "https://www.marketwatch.com/press-release/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of-the-nhl-2021-02-10"
+excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure Provider of the NHL."
+publishedDateTime: 2021-02-11T00:37:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/entertainment-business-sports-technology-amazoncom-inc-5715fb8726f54720aacf08d2e6840bd2"
+webUrl: "https://apnews.com/press-release/business-wire/entertainment-business-sports-technology-amazoncom-inc-5715fb8726f54720aacf08d2e6840bd2"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -46,6 +42,6 @@ related:
         height: 1183
         isCached: true
 
-secured: "t3VGUxSYSQP4v88TFEA+IwXat9q1R4I9vVTNaOC1Abs53oJB59uQM9pEydCSF8z81eDk7DLxPtQjMOyWYF21faX/sp9+cthPxN5nYukUhqyZ9MKEx7SBVCQod9ymOduXfNxXHK6MCPfOmFzkryJUe9WOfwbztH+6ZdnJENUerfRorvlvSIPZ4Bf0B+S3bbV9LMPrvrMNwwGtfa0GstJ88bug/mvIv+iojG6PlY0GQdNYjHU/F65eyE1BKA2ECrIMl0wyqP2b1kXhlVZUtxTWR1cA7PIwvQOrQun4f5qYQoubmi8oFm1/RSq5bCmdByhUY6kHS8SGM1nnmMd4osCTKHoDduaKMiA1dNMXG7xlGDg=;OBfazjeIT5k0eqiPa7V9+A=="
+secured: "XCRC+mveRMEoFsysyoYHNWjxFnAzJOzoCYCHiDdWVR9M6NOtaPrV59w/FQK+hzns7eoEIGzAf/Wc14cT7scd/9B2Ofgszt3MPw2dLhJ5x1CuwhhMWUNF3n7zLdLYQoAa0smcLY8czeKH+K12yMSdX03IQKveVhWlq/X3W8I6WCK7+zqRaf3R7Peq6GFdAbFmIio5I4Eup0ollZvvDL2JtaUkmn2CIciw0EQCwGa6v8lYNwYvF/SMRZrvyQlUAm28vmx34w5jKV0k8qkIYj/rgXa4n4rVRNNrGH37IlsFMoS/KXZWiQG4PInVvJpgP/4tHAaqabkgdSYJNVfcbex/+HQeNB6ZIsAe9PnZBitXy9M=;bESII8lYpRbKcQmtEPlJVA=="
 ---
 

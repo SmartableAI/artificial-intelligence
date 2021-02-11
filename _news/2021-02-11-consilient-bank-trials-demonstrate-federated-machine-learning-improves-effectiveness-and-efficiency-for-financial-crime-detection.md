@@ -2,29 +2,29 @@
 category: news
 title: "Consilient Bank Trials Demonstrate Federated Machine Learning Improves Effectiveness and Efficiency for Financial Crime Detection"
 excerpt: "In recent bank trials, fintech innovator Consilient demonstrated successful federated machine learning for the detection of financial crime. Traditionally, financial institutions silo their efforts to combat financial crime due to regulatory,"
-publishedDateTime: 2021-02-10T19:58:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-war-and-unrest-terrorism-funding-kevin-jonas-47e2ff52d48c0c9cad7584738fcdf94f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-war-and-unrest-terrorism-funding-kevin-jonas-47e2ff52d48c0c9cad7584738fcdf94f"
+publishedDateTime: 2021-02-10T19:57:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/consilient-bank-trials-demonstrate-federated-machine-learning-improves-effectiveness-and-efficiency-for-financial-crime-detection-1030068532"
+webUrl: "https://markets.businessinsider.com/news/stocks/consilient-bank-trials-demonstrate-federated-machine-learning-improves-effectiveness-and-efficiency-for-financial-crime-detection-1030068532"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/consilient-bank-trials-demonstrate-federated-machine-learning-improves-effectiveness-and-efficiency-for-financial-crime-detection-1030068532"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/consilient-bank-trials-demonstrate-federated-machine-learning-improves-effectiveness-and-efficiency-for-financial-crime-detection-1030068532"
 type: article
-quality: 27
-heat: 27
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
+  - AI
+  - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "4J5r+dt1asvuMkCdw/Kz4a7EaxXEvHqsQTpyHogYMOmOc5A1mCzbcnliLwtidGVUi3CBR42y+k7u7QbsVcjrQoK8sDcs2pKpDJsJ+BywsXtZb9xlu1p8lnSyl+S/qVjzgrvJLl0OeE9jFCsS0xD5IJOu72RzTypqoXTYGbJQNoPx2X6T1jM6Kp00LY3eqWw1gYMKgSwP67yi7S+b8Ds4Don3gxNfwjP2SWuTKDD5i28S0YeoLhnFggn5m3tSqkUr0PVDKB0pWvuLtcC6MHJ3g6JydAmkrqjPMFb4rSnTfzD0IXTu1ovkNiXIFtAXFGpneW06SaghVZa2bikDfTOrVTLCuJLH2X63dbBpWRogRBY=;AU70285rriWbKUkXeHIQeg=="
+secured: "ZozawLqnt+4mw1qED3tT6uLcXJO49XOv064Qau6QOZy7e/JA4Ys4J4U9L4BJoXPOtmqWBXqlCNKZoLGzQa4IYUXZq4QJ6W+L3X8cnJBb5CtUCE2X2/8Vk3DKdECLudDfpoFX+7FwdPqr4tqwnada/YSGDw0BwfSBUpnVqvf4LB2MFRZDpFdDzCm/gicjC9IdeMq5kLLG2ASnV1b+fjM7PSg7n10ItLbITv84ku0MSVyGcBHAvnGLhjKSosgM4YRLIdgiQupqavEToLna2NNMmEqWVFlp8VSgoCdoeR/MwRzGhzqkU6Warr//zkbHFbzF1YxRc3us/VdDp3Ty1Q6uslHP0BmQO6r7/VmGikt3fUU=;S0pxs/wjLAa+vrPO1VJ5ag=="
 ---
 

@@ -58,6 +58,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
+  - title: "AWS signs deal with National Hockey League for cloud, AI and machine learning provision"
+    excerpt: "National Hockey League to become the official cloud, artificial intelligence and machine learning infrastructure provider of the largest ice hockey league in North America. Under the deal, AWS will allow the NHL to automate video processing and content delivery in the cloud and leverage its Puck and Player Tracking System to better capture the details of gameplay for its fans,"
+    publishedDateTime: 2021-02-11T11:09:00Z
+    webUrl: "https://siliconangle.com/2021/02/10/aws-signs-deal-national-hockey-league-cloud-ai-machine-learning-provision/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 63
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/iehockey.png"
+        width: 869
+        height: 581
+        isCached: true
   - title: "Ultra Low Energy Computer Memory for AI Learning in Medical and Other Applications"
     excerpt: "Leti-based team's uses machine learning on RRAM to get 100,000 times less energy usage. They use randomness instead of trying to prevent it. This allows in-situ learning to be realized in"
     publishedDateTime: 2021-02-09T15:24:00Z

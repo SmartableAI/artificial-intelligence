@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Worldwide Digital Assistants in Healthcare Industry to 2026 - North America is Expected to Hold Significant Market Share - ResearchAndMarkets.com"
+    excerpt: "The “Digital Assistants in Healthcare Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The digital assistants in healthcare market is projected to register a CAGR of almost 33."
+    publishedDateTime: 2021-02-11T11:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-coronavirus-pandemic-consumer-products-and-services-f0f4e2dbb086444dbbee9538d303d12d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 2
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "RVm12UDcfQlwFy18bfoEKJ1B8/nPDGJ8NBrV2SV8h5ikGDbZQgIi7KF2m/sJANkFBFTnwAHXf7+BWeMHGp2FEyk7ZtOlUkcjuOIRkL+W6bvnvxwfL/RWSFZ6uBOEoMIawgdQU66zvLnjVkDRUHuVaBrRzCw8iM/bzu3+95v2e8cR+bbquCMljaKSfYi/FghgHHleFTk0JCbRIeIRA2n2G55rtQtiCF3bMqPQraKL7beRHssfooUDdETCNPQQfWEhlM8s4NFgZr9ORoza1WDoPwjE4aHjLqpsKvyQyT4ynGXOY/p2AynRb7Kf0wtKcsMEzj50V3Faq577M7/jUg59l+B5XeQtwpnILrrM8e2axuY=;8X8oBIBDvj1FJYoja4+lCw=="
 ---

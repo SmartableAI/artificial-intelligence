@@ -259,6 +259,15 @@ related:
         width: 1000
         height: 710
         isCached: true
+  - title: "IBM, Palantir partner on AI applications"
+    excerpt: "IBM and Palantir Technologies entered a new partnership to combine hybrid cloud, artificial intelligence (AI), data processing, and operational technology in a new enterprise offering called Palantir for IBM Cloud Pak for Data."
+    publishedDateTime: 2021-02-11T11:00:00Z
+    webUrl: "https://www.telecompaper.com/news/ibm-palantir-partner-on-ai-applications--1372114"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
     excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
     publishedDateTime: 2021-02-08T11:59:00Z
@@ -274,6 +283,6 @@ related:
         height: 1179
         isCached: true
 
-secured: "UWv9gG2DX8WRSh7uyYUaKzy4APFmwxPPC+UpGfW6C7SlAn1ZR15eD48YXv8jwRLV5qsH1LfamOv5kQBJOWYJMghTMACItenatKzvtdZ//LvOSJFZXvcFhOQOU2gesOCEWnUaSli+GOAtTJM7O+tt3AFxpu7AyifLT4CPpJ3W4+ZMHTjovXEB1DFLbgdmPXDcMQYgYWwBrj2sCAiMrdxMsXFzTcUiqIHCppejO3QlNthKwXUjqAwulpbaLG4wvhmIXKTXUu8QdYb0+BExEx/5p4r2yz29AsjqyT/5Zboyuysr7ViFtWfA1bAtJPnGpU31D3N/qUgAAVYtDAXugnNQAkQXpOrghRik9PNiA6KQ8Fc=;K8V6htor6N4QYef7xCpBcA=="
+secured: "U7vRC56V9aGrr9EuT5gCTqVE3AkvQs5YuZMhJHfYzUBz8UCoFVJD3eNbqbCdnuNRffTLbM4tn58ZYRCs58rgF/gTsZNiqeoQrvxKfHSw32e/nt5stCGecjOv5izZj0pR2H9c70NOhcvlbQrYv483apjvSFFWdEEM89awwDR5ivb8jwuesSgrisa7hFhoC26CTOSvaB9DyVxBvibsGVrVPfOGo+ifDAxAHVdDV1zNoKrY0Cq1F+EqGl2X5NikITywm01fATwiJvLPYeW6iO+0qgfFv4pp2dzieNeVelReRpsFC/Vek6/ilMlhMjNoRxvBcRxsZEEdlVf9A09zmYBrLa/ZM9c/HAi0zvXhkuditGw=;Yzrzku3kSBnlkOoZNBJnqA=="
 ---
 

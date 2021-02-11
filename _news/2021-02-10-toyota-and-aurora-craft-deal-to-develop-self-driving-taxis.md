@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/02/aurora_car-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Joining with Toyota and Uber gives Amazon-backed Aurora the tools it needs to take on self-driving leader Waymo"
+    excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
+    publishedDateTime: 2021-02-11T12:12:00Z
+    webUrl: "https://www.businessinsider.com/aurora-toyota-waymo-cruise-uber-paccar-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Toyota and Denso team with Aurora on self-driving minivans"
     excerpt: "Toyota and longtime supplier partner Denso will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks"

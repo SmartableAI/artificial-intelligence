@@ -89,6 +89,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Joining with Toyota and Uber gives Amazon-backed Aurora the tools it needs to take on self-driving leader Waymo"
+    excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
+    publishedDateTime: 2021-02-11T12:12:00Z
+    webUrl: "https://www.businessinsider.com/aurora-toyota-waymo-cruise-uber-paccar-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Toyota in self-driving partnership with Aurora"
     excerpt: "Toyota Motor, Denso Corporation and US autonomous driving startup Aurora Innovation have agreed to establish a long-term partnership to develop and produce self-driving vehicles, according to reports in Japan."
     publishedDateTime: 2021-02-11T10:40:00Z
