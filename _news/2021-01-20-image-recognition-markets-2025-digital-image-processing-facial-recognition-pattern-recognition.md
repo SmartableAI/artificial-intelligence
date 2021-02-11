@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Image Recognition Markets, 2025 - Digital Image Processing, Facial Recognition, Pattern Recognition"
-excerpt: "DUBLIN, Jan. 20, 2021 /PRNewswire/ -- The \"Image Recognition Market by Technology (Digital Image Processing, Facial Recognition, Pattern Recognition), Component (Hardware, Software, and Services ..."
-publishedDateTime: 2021-01-20T15:22:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/image-recognition-markets-2025---digital-image-processing-facial-recognition-pattern-recognition-301211658.html"
-webUrl: "https://www.prnewswire.com/news-releases/image-recognition-markets-2025---digital-image-processing-facial-recognition-pattern-recognition-301211658.html"
+excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, Jan. 20, 2021 /PRNewswire/ -- The \"Image Recognition Market by Technology (Digital Image Processing, Facial ..."
+publishedDateTime: 2021-01-20T14:51:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744"
+webUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
-
-secured: "dHhjBo91Msvsv2LWNRhH3VON3XhUFXMBZbPRiYMtOkdqCxmXtJo44eG2YSPvoAgZYgKnlnZJcohXWTpPz9I4n5oAdSWBguhbaRFTtVHd5oT5kdVA9V3ZwrxXbz664Q7BJivoL6Nt0g4lmiLB9SzU5+LLM+tSsDnBtmiF3rp/K/TjwNOZIr1JhsADEaTlqy5jKoIzs4xEJw6eebUXrq3lDfz/lL9+6y59LNUW5IgHWFFZ4N1i3+wX8N/AHJT1SNBeJq/Y2f68wL4kfIDNe1FJNcd5/vc9k3LKGHvqfCKbhoLpMsyqLC9k+KgRX/tNXlf4XnzjgXZgUf5QSFESh/d1+EIf5+3Fw3gbvXiyCMlM0yk=;zmhBEKSKsClhYUVFb4RKzw=="
+secured: "gVmH9FOSfZb2tPF/xozhGD11MIUUJ4PM3+4/BoJOePcTP1dX3r8EsRtK0ZVqDBXV9pHJs4DjWWgVEMJnWDO3oa8da+IRYB0NV5d9LRTlB2DVRqFjPROyAwq+Ei/Kp0ByndFql6ThKsEAgVI9n2vB6UJX4J+OUioqL3KsGPE7ZN8bPTElVKvIuAI9c8a55lZZyL76xP4hSW5jQn6PfEyMcOa2wDO8yehPRxX2xOejISa4AC/VIKFPw4Z7AHwm4IT8UNBbg86htTr6rBgukFOezikhIDoksYEzYA4e5Y6jRBjHTJ0iRHX9p7LOy7/lP5inJ/z3K4M0vBslbL0ixQqDPMx3AswpbWa+pwuQpm4pXw4=;7w0V3jrSMzoJi264RLbBBA=="
 ---
 

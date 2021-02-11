@@ -100,6 +100,20 @@ related:
         width: 600
         height: 440
         isCached: true
+  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
+    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
+    publishedDateTime: 2021-02-11T06:20:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 71
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "DB Schenker advances IT infrastructure with Microsoft Azure"
     excerpt: "In a collaborative partnership with Microsoft, DB Schenker has established plans that will advance its IT infrastructure transformation with the help of Microsoft Azure. As part of the collaboration,"
     publishedDateTime: 2021-02-10T13:35:00Z

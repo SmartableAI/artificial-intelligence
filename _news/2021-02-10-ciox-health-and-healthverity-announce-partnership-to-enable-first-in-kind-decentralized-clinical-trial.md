@@ -35,6 +35,20 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Ciox Health and HealthVerity Announce Partnership to Enable First-in-Kind Decentralized Clinical Trial"
+    excerpt: "Ciox Health, a leading health technology company, today announced a strategic collaboration between its Real World Data (RWD) Division and HealthVerity, the leader in privacy-protected data exchange."
+    publishedDateTime: 2021-02-11T05:37:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-public-health-technology-issues-data-privacy-d5910e002a016f9f5a94c6858b005105"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Ytxg0beHZtVfKiXyqrylVERRDQbXuKmwIQ1rVg0UtwNsCY3MHMM1yuoqF3Bar61NZg97dvfgViLxAUYUItdINUub9LFDd+BGOi6xp+3t7EOw4Xf1TF233oIFmCcGoBN612m+pAh44efYTI/x+ue1G39veIlUdaGyhez0QCfOoEzz7MiW2HMGcXShghuGu60Q75B8uMJu+kEgPZUgrO+xvvaRVifgce776Xl6M170NJg5ViOpP4flgHW9ZY8GnJ4OMeLW9Ebw3vN67BpYINWVEQMvl5JvzfFF8SkqSkG5kI2XqDKzTL+QeJUtIUalMlMuXmt9QExn9vP3m7jM3QqxURQPZOARYKjT8+4Wr3wfh/c=;gkBQgYUIMbzWmI6IvYh1Og=="
 ---

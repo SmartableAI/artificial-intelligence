@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Britain is supercharging the UAE's artificial intelligence ambitions"
+    excerpt: "Artificial intelligence (AI) partnerships and investments are likely to increase significantly between the UK and the UAE in the coming years, according to officials. Britain is set to ramp up its partnerships with Gulf nations on the use of AI in multiple sectors including education,"
+    publishedDateTime: 2021-02-11T06:33:00Z
+    webUrl: "https://www.arabianbusiness.com/technology/458487-how-britain-is-supercharging-the-uaes-artificial-intelligence-ambitions"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 33
   - title: "Bringing AI to the edge"
     excerpt: "It seems that much of my work these days is concerned with bringing AI to the embedded-systems domain, understanding what the implications are and how companies should deal with it. In the discussions with technical experts and business leaders,"
     publishedDateTime: 2021-02-08T07:51:00Z
@@ -49,6 +58,20 @@ related:
       name: Bits&Chips
       domain: bits-chips.nl
     quality: 19
+  - title: "Talview is the First AI-led Video Interviewing and Proctoring Company to Attain WCAG 2.0 Compliance, Ensuring Accessibility for All Talent"
+    excerpt: "Award-winning recruitment and proctoring software leader, Talview, recognizes that organizations, candidates, and students rely on the company to level the playing field for talent applying for openings or taking tests using Talview,"
+    publishedDateTime: 2021-02-11T05:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-51341a1893acab3a090876ebebb0513e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Bearing and MOL team up to bring Artificial Intelligence to the maritime shipping industry -GHG Reduction, Shipping meets Artificial Intelligence"
     excerpt: "The relationship was originally established with the goal of improving shipping efficiencies within the maritime industry. Through various trials and intensive discussions concerning ship modeling, a range of products including a newly announced AI-powered Smart Routing Engine,"
     publishedDateTime: 2021-02-10T22:13:00Z

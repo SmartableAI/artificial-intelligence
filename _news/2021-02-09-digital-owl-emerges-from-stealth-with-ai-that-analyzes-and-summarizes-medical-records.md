@@ -88,6 +88,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "NeuReality emerges from stealth to accelerate AI workloads at scale"
+    excerpt: "NeuReality, a startup developing compute infrastructure for large-scale AI workloads, emerged from stealth with $8 million.Read MoreRead more on"
+    publishedDateTime: 2021-02-11T06:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale-9796412"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale-9796412"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale-9796412"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Chip startup NeuReality launches from stealth to make AI inference more efficient"
     excerpt: "NeuReality Ltd., a startup working to develop more efficient artificial intelligence chips, today exited stealth mode and disclosed on the occasion that it has raised $8 million in seed funding. Tel Aviv-based NeuReality was founded in 2019 by former executives from Intel Corp."
     publishedDateTime: 2021-02-10T19:07:00Z

@@ -91,6 +91,20 @@ related:
         width: 600
         height: 440
         isCached: true
+  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
+    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
+    publishedDateTime: 2021-02-11T06:20:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 71
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
     publishedDateTime: 2021-02-09T13:01:00Z
@@ -205,6 +219,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "3lUcHkQoxa1OV28UviqZNH59UDdU57Kf072Ks+XgCs6X70ALw4v0WIG3UEjQqOJh8hx2O9MIZEuUPqNq8vZDToRiyW+QVchC9CQ0H8jyvu1fmkUvvqJyPHKEkJWa3EAWTKAJieJQfHiGm1PxjHgBwsra0QJkYIvLmS/zKRmkmo8kyYYFNl3dg+BekKilnCTRY0CbpMvdELgdk+MEcQCCpu2u3YEy2tG+IfdhXW3UfHG5ZH3t7t86p/SPYwENgNqBKEKQaY0NVaOxd1U7Sg/owNdTFpEH1BIOxJi6/OBHfwxQbIHH7Rk/uFqU5/x9CyaNgc0SXM+UiwCn9fuVtzJa4vXSdbOCfRkUDAks4brPGZ8=;9b/urTk4KWqGDpYJwTMSkg=="
+secured: "RRfYlbpVfwYI3+Eu+Maum60ZQeRq3StUQb3TD+Qz6fF7dj6znOnfKdSvgp17vGTSM2T3WYWUTZ9MiIS0b7YUQYgEYyb/K6sQRJiHtApZR2XquEkJ3bPAJsRIK5beeyM0bPTBHdfdRO+ZijDF6qMByUvPHyD2AL/83F+7CoCaaz6SYO+Wun+lLyn9zMphvFkH15a956GyaTAerV/lozK5DynmEomDYNC6UFoATrREIQ8fp3ohUZwuRLmdkXgQZIbHp6eVSrRbLU8AmgUAA5HUx9EMyrvX7x9PbR7x6ffWaiuRrTgzRz3HI+6K8eVCRG79QmdXMLua5B5qCE0sQAZwqv/wbkM5TwfyNQit+ml4H4rD8XZafDb1U31xN370gfgZmqpY8RH5e/keBwV7C7vpggY8xDjALfP0qwG5ea+8P+F2q5NmkAFL32ypQrC9pARWeBRO+sguLpB/AL6N86aYM6rYEH35csbzh4XWQ3CzDkY1Q/O+wqmyBmDTsJ/+d0OEbtHXWE2Q4qRL+qNKdnlAIA==;lLIKMKgvIbHtooq0Nk2P3Q=="
 ---
 

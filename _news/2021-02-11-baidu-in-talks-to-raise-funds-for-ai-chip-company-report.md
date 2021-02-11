@@ -57,23 +57,23 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Baidu in talks to raise funds for AI chip company - CNBC"
-    excerpt: "China's search engine giant Baidu Inc BIDU.O is in talks to raise cash for an artificial intelligence semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter. Venture capital firms GGV and IDG Capital are in discussions with Baidu,"
-    publishedDateTime: 2021-02-10T10:23:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Chinese Search Giant Baidu Looks to Launch AI Chip Company"
     excerpt: "China's search engine giant Baidu (NASDAQ: BIDU) is reportedly in talks to raise cash for the creation of a stand-alone artificial intelligence (AI) semiconductor company. CNBC reports GGV and IDG Capital,"
     publishedDateTime: 2021-02-10T16:00:00Z
     webUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10"
     ampWebUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
+  - title: "Baidu in talks to raise funds for AI chip company - CNBC"
+    excerpt: "China's search engine giant Baidu Inc BIDU.O is in talks to raise cash for an artificial intelligence semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter. Venture capital firms GGV and IDG Capital are in discussions with Baidu,"
+    publishedDateTime: 2021-02-10T10:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
     type: article
     provider:
       name: Nasdaq
@@ -94,6 +94,22 @@ related:
       - url: "https://img1.s3wfg.com/web/img/images_uploaded/e/8/baidu-poursuit-son-declin.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Chinese tech giant Baidu is reportedly planning to launch an AI chip company"
+    excerpt: "Chinese tech giant Baidu is reportedly planning to launch an AI chip company Baidu is reportedly planning to launch a subsidiary AI chip"
+    publishedDateTime: 2021-02-11T05:25:00Z
+    webUrl: "https://www.compsmag.com/news/technology/chinese-tech-giant-baidu-is-reportedly-planning-to-launch-an-ai-chip-company/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/chinese-tech-giant-baidu-is-reportedly-planning-to-launch-an-ai-chip-company/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/chinese-tech-giant-baidu-is-reportedly-planning-to-launch-an-ai-chip-company/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 71
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Chinese-tech-giant-Baidu-is-reportedly-planning-to-launch-an.png"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Sc+qal3d39xbH29MtBqpmF9T5LgWJA9Zb7N/VQLgubj7Ukb+r6XsAgviP86gRQuVyqWzf7v4f0Nhb+eaKykYX+hT8w/xrnnGqCpXPgG6sS9kYbI4P0ZE5iTt/L1MmqNSwIiZ2N00dDDphdhhLxAF0CkAxolJ4nPonzNoviZeLn3UeLXXLgRUFZSzjX/BsR7alOaj1Rsl7+f52kwEern9hJFW//i3Y2e8mOy021H8JcjIFHO29v4TBGK0S1isQrveN8KK6Wjxb9QDwqXjHPnUJWR2FS5b1mZku4+sAiJU42JhZ7qo2//oEBxmrHLO1jr4xbwAp5tzP20l9cF+1WIM3Mr+PdFcnsBFZX697Xox2aHLW6QDu1gxN/Kk1ms7jkMRnz5bbZdzEcrtVtpQT57bzO4uXltqRnKp/1aOjdxHFmzhtRN7TpiBtIGAizZuF/JTUQvdtDoTSm55IQx0XfIQXrivSez12H4u/qDDjr4dbf1qRQskrn7CjRwKf6+85H+Smt4K651Ifke3KfXeeob4BA==;UmShv1SDXEJCqAI11RmNIA=="

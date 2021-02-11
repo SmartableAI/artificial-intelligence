@@ -42,17 +42,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Georgia Startup Races to Complete AI-powered Voice Screening Tool to Crush COVID-19"
-    excerpt: "With innovative AI methods and algorithms, BRAVE Innovations is working tirelessly to increase the number of confidential voice samples recorded at COVIDvoice.net to launch a voice-based COVID-19 screening tool."
-    publishedDateTime: 2021-02-10T16:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/georgia-startup-races-to-complete-ai-powered-voice-screening-tool-to-crush-covid-19-1030067798"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/georgia-startup-races-to-complete-ai-powered-voice-screening-tool-to-crush-covid-19-1030067798"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/georgia-startup-races-to-complete-ai-powered-voice-screening-tool-to-crush-covid-19-1030067798"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
   - title: "One Minn. health care provider using AI to prioritize patients for COVID-19 shots"
     excerpt: "How should health care providers decide who gets to the front of the line for a coronavirus vaccine? The state Health Department has mostly left that decision up to individual providers, most of whom are prioritizing their patients based on age."
     publishedDateTime: 2021-02-10T15:00:00Z
@@ -148,6 +137,20 @@ related:
       - url: "https://EINPRESSWIRE.images.worldnow.com/images/20362691_G.jpg?lastEditedDate=1612981275000"
         width: 716
         height: 415
+        isCached: true
+  - title: "Georgia Startup Races to Complete AI-powered Voice Screening Tool to Crush COVID-19"
+    excerpt: "With innovative AI methods and algorithms, BRAVE Innovations is working tirelessly to increase the number of confidential voice samples recorded at COVIDvoice.net to launch a voice-based COVID-19 screening tool."
+    publishedDateTime: 2021-02-11T05:33:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-informatics-georgia-covid-19-pandemic-lung-disease-06c8c84dddb0feb632823aa8e8575fbf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "vQlVnYiGvHb3WKNSaV3NP5WJzN3smhqMsOZ5uZlbUE9xqcvN/KG2XpSeT84gGL78pWn2u3t2nrh4Eota5FQ9Qydde8sLuh9wj1y8ME72If3Ub3y048bXXDNZBQ6tZMNDFaI5m/srhPNKiGap1AYCC/Nsj0F4RuEUYGppqWaUezJmyaq/YkPmegyqaFxhZKQm19zRJ6CY0aBeVDMloutSdEuzPfQXKOjrclnJ64Ych+4sncGZTGyDMSSB9oyGrqxy9ql+Sz0Stbzy1Tjs7eQ8Pfc1OEhVW8ZsyS3gLY4DpZ+YHUWLdJ4vk0ccB5Vf6N+HS4LLJA8n47EmW9JBiM8Zod2nlWXQeRwdE5LgI5U2lsM=;dQBhnsAeOiQyQOPWy7huvg=="

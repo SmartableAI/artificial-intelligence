@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-lau
 ampWebUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 related:
   - title: "Baidu in talks to raise money for a stand-alone A.I. chip company"
@@ -79,6 +80,22 @@ related:
       - url: "https://img1.s3wfg.com/web/img/images_uploaded/e/8/baidu-poursuit-son-declin.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Chinese tech giant Baidu is reportedly planning to launch an AI chip company"
+    excerpt: "Chinese tech giant Baidu is reportedly planning to launch an AI chip company Baidu is reportedly planning to launch a subsidiary AI chip"
+    publishedDateTime: 2021-02-11T05:25:00Z
+    webUrl: "https://www.compsmag.com/news/technology/chinese-tech-giant-baidu-is-reportedly-planning-to-launch-an-ai-chip-company/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/chinese-tech-giant-baidu-is-reportedly-planning-to-launch-an-ai-chip-company/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/chinese-tech-giant-baidu-is-reportedly-planning-to-launch-an-ai-chip-company/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 71
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Chinese-tech-giant-Baidu-is-reportedly-planning-to-launch-an.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Baidu in talks to raise funds for AI chip company — report"
     excerpt: "China's search engine giant Baidu Inc is in talks to raise cash for an artificial intelligence (AI) semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter.Venture capital firms GGV and IDG Capital are in discussions with Baidu,"

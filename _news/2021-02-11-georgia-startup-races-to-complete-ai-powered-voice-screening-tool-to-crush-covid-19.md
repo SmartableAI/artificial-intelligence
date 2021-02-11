@@ -2,26 +2,26 @@
 category: news
 title: "Georgia Startup Races to Complete AI-powered Voice Screening Tool to Crush COVID-19"
 excerpt: "With innovative AI methods and algorithms, BRAVE Innovations is working tirelessly to increase the number of confidential voice samples recorded at COVIDvoice.net to launch a voice-based COVID-19 screening tool."
-publishedDateTime: 2021-02-10T16:31:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/georgia-startup-races-to-complete-ai-powered-voice-screening-tool-to-crush-covid-19-1030067798"
-webUrl: "https://markets.businessinsider.com/news/stocks/georgia-startup-races-to-complete-ai-powered-voice-screening-tool-to-crush-covid-19-1030067798"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/georgia-startup-races-to-complete-ai-powered-voice-screening-tool-to-crush-covid-19-1030067798"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/georgia-startup-races-to-complete-ai-powered-voice-screening-tool-to-crush-covid-19-1030067798"
+publishedDateTime: 2021-02-11T05:33:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-informatics-georgia-covid-19-pandemic-lung-disease-06c8c84dddb0feb632823aa8e8575fbf"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-informatics-georgia-covid-19-pandemic-lung-disease-06c8c84dddb0feb632823aa8e8575fbf"
 type: article
-quality: 61
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "New AI tool predicts who’ll die from COVID-19 with 90% accuracy"
@@ -153,6 +153,6 @@ related:
         height: 415
         isCached: true
 
-secured: "Wkje5QAap3RL9W2pWauWZHD47ieaysAYIci7akc+wnIEJmjds5BxK2tsDdYMS5/yTcrgNCAZf7W48ojzjDQc0wbD9esgedjJJp5X7E57AbuEJBnOi/lRCmNNsX7+Ar7oq0A4sfHcUnObFmSVBHHq6EcOjHDzQp5YD3a/HJ0FKccVuOthXsLK4q0rehT0SCXWtCshpr3kRyjDrhihu9c6gcDjRAy6vMvZg0plhBr9sZCXTAVKFeTx6w2iKguH1sHcmxZ428WvNhKCMdSoJGC2iAiE0Cf3GVnN76F9JkcM/pjMQBsL+fzplGEfJSmsFc06Yz49FAc4SNhtbKv8jME8XdpbKLcZtqeedKQGwyXJxAM=;024PErl5ev4vtIBRqtDEhQ=="
+secured: "PcJJqAC/t/gLhyTSrXnrzR4kOaX9iTKg9jiyfjN8i5KEmmv0oHq21fOpzCeGOS1B+cVrLbydzGKBTJhymCk7YJesfMPFkW1KY13Rh5FSohZo7obiUGoOwI0u4SJl+vJV1wUJxx4gGG7EUC8rcAEXfG8rNVAeA4PnHEX8iveZDzs034YUr76iVY5Ai3kvbDFHB14yL2beYv31BqbmHJO4xumL0WOAtSnd+N/4bgTu/2m8inyh+wKrOsbMfx2EiFxxa6qg5Em+wlsMuDyNjCqbaZL8gpUR83jCzTdtqDtJXk1ZjbpwUFOC3keyCjXByCI3oL+D2r77cFr29IM+h4A2nzHwDIE9N41NTEIVkYR+QDI=;T8U/jEzij62M4trPKVwlfA=="
 ---
 
