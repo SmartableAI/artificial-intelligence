@@ -2,7 +2,7 @@
 name: "Clarifai"
 overview: "Clarifai is headquartered in New York City and was founded in 2013 by Matthew Zeiler to bring the world’s best image recognition technology to market. Our first image recognition systems held the top 5 spots for classifying objects in images in the ImageNet 2013 competition. Since then Clarifai’s deep learning systems have improved orders of magnitude in speed, vocabulary size, memory footprint and have expanded beyond images to extract knowledge from all forms of data."
 type: "profile"
-heat: 0
+heat: 71
 
 website: https://www.clarifai.com/
 
@@ -42,6 +42,6 @@ images:
     isCached: true
     title: "Clarifai"
 
-secured: "FjeuEYtO5y9S9IbVHc/YW+U/nCpnLs8siCfgDhm2BkSA6pWTHLn4MgtSt1uO3m2SCS6Aj5BI7PPDTA8ZBgJqjJqRx8yuQGH84WPVtWNa32yhaKMtase5E7OCb/be6SxEQbfsKrpPwk2ueCinnKbpjW1K7hOnGkTjRqAeQfxx+8QlPFiKcuznp0p1juYfFbr50YyYcaZcCeoF7T4koRvbBZmfPnCrnwHgWFYC/wKE9POATZdcvx0VPl1UalQukcg6x7WvtSJpfzUCHJkvvNlGimyTx1CPEI1286awQQj2eWwQvonXENy5BRMZhE/MRnmW4TMLwqBmpu5/blTNpbM4PGskPXb6lAMOXwG0v60pV6M0N0SasLZxHfkaktcWBI/UjmtAGiz1XvCLLuGv2kwV+do3RD08gSmUUVMS0CEemaI=;MlfA7XDQY9hMDU5TtdqVPA=="
+secured: "HR6SSs6YnXx2WaD/CnGBbmS7WYZyIN2Txzmi5UghorEbEQ9J3X+0L0NnHJGx6LHBIC46wVAaYDHp/3WzKmX46p5ydlFWbzQGv6NBK0b+HBuDazveSsOGHHmH2OUGgWCr8n62mektuijxy8yvdfKB4qOaCph56Hu6sD2csaNPdN36Wx9S8VLr6JVjRT3zK03ivfmpdW53W3qzWxpdsGhzc+fbHTCELkfowxCqfIucBlVmw0L9JGJks0k4tfKNnDgkd6D2zN5Oc8WHdCqU62z+UXi4wa8z4RoYYsK4pmi/TLfm0c3wlW0OYw1HyHR630E75CXae4gjNqB+hhA6/1GqYfq6SK4YokN8PCpDBliIh73vmHySQHqqajjfM20+ysEEndOOCNRWlIOdkM5qgofLVv1F0Lp0GKtktQlOV4jKbuo=;z9Oev4Dn+NgJx2YVgrElUQ=="
 ---
 
