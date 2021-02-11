@@ -3,10 +3,10 @@ category: news
 title: "AWS and NHL partner to turn game data into new ways of experiencing hockey"
 excerpt: "Soon-to-be Amazon CEO Andy Jassy has touted the partnership will bring an entirely new perspective and layer of fan involvement to the game of hockey."
 publishedDateTime: 2021-02-11T00:57:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/"
-webUrl: "https://www.zdnet.com/index.php/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/"
+originalUrl: "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/"
+webUrl: "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/"
 type: article
 quality: 87
 heat: 97
@@ -33,19 +33,19 @@ images:
 related:
   - title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
     excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure Provider of the NHL."
-    publishedDateTime: 2021-02-11T00:37:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/entertainment-business-sports-technology-amazoncom-inc-5715fb8726f54720aacf08d2e6840bd2"
+    publishedDateTime: 2021-02-11T00:01:00Z
+    webUrl: "https://www.oaoa.com/news/business/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of/article_5d669df9-e4ae-591e-804c-ec535bb36dc3.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/f/21/f21472c2-ae4d-52c2-854f-66e743c5bf49/602477d7c89d5.image.jpg?resize=1113%2C630"
+        width: 1113
+        height: 630
         isCached: true
 
-secured: "Gve9ztFKvjAjtP2Q2VnzwPgq/45j/LC7C7mSoVH+MR+KVKXYl0uOZp7gW328HtiEXusDU9UVXjvtt1g4Y6xbFl0RoTsukgGZw1QykuwKWZEG3+i3US7VimCvOTrvGitHooKZPZltr7nGUSw/dYKszKw3W0Y2S5pQ38Jn0fogjIe8zdrkJgx8TOFK7TCxiGZnctR5CfSwOsgZ+XfQKNgCgJ38a1cstEdyoC6IrHwlVGnTu0DW2VcRlIG1TjXMNWMXcCnX9/5LGS89ASiD6xBE3iQqLUyT0MGy3eS0cRSDEep1QpAjJ0vlHlW1dwV990xbr25WJRHPlKNLl9USA/32s0h35sdeefS8J2gc8IBcYco=;b8okvrii6LCG1nAWFgif0w=="
+secured: "KMSVFu9doexFuK6Jw6KTFi9ouNtXoW4MBvTAkLnh6GGO9smdq3fCL9KMnEzKyc2PQscD/KbHP7O/3g546lEJjqRTPVA+36VdZ42U1oANLCMKMZLGC2ZvBGhF6C/8CoHUd/EcogxOKLQ5bM3nnab8kOy1Ijgr07ES1+LALGWESVC5fLGwqHQxLoWR1u61HmBa2eB5FqYRrDvVhiguzDPwrF2E6XfnMsFWX3t+7rzOA98C2XrtJ6g3QO5c4NxJxmk+FYB7J21mtBiMRhp65p5gA4VN6otXR2eAKNk7i2Fz9g49wxPU2l5U6Wq/y7oxZ2M69Z7gqwu47b7DFMRC9Ie/ic+LDnktdrKlREcsR5LOSI0=;AMI6oULdQtA3lzIRtxeBiA=="
 ---
 

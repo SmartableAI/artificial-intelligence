@@ -55,6 +55,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Natural Language Processing Market Latest Industry Trends, Statistics, Competition Strategies and Latest Industry Share by 2026"
+    excerpt: "The global “Natural Language Processing Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-02-11T08:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-industry-trends-statistics-competition-strategies-and-latest-industry-share-by-2026-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026"
     excerpt: "Reportlinker.com announces the release of the report \"Global Smart Robots Market By Component, By Mobility, By"
     publishedDateTime: 2021-02-10T11:49:00Z

@@ -48,7 +48,7 @@ related:
     provider:
       name: Arabian Business
       domain: arabianbusiness.com
-    quality: 33
+    quality: 37
   - title: "Bringing AI to the edge"
     excerpt: "It seems that much of my work these days is concerned with bringing AI to the embedded-systems domain, understanding what the implications are and how companies should deal with it. In the discussions with technical experts and business leaders,"
     publishedDateTime: 2021-02-08T07:51:00Z

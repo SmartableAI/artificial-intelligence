@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Microsofts expands partnership with Volkswagen on cloud-based Automated Driving Platform"
+    excerpt: "Microsoft said it has expanded its partnership with German carmaker Volkswagen. The company will cooperate with Volkswagen's software firm, Car.Software Organisation, to build a cloud-based Automated Driving Platform (ADP) on Microsoft Azure."
+    publishedDateTime: 2021-02-11T08:30:00Z
+    webUrl: "https://www.telecompaper.com/news/microsofts-expands-partnership-with-volkswagen-on-cloud-based-automated-driving-platform--1372064"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 10
+
 secured: "DAlxXf5JLrxvhxi5dWyYYdFCnR16x8GYlrZikLSt+29/DVBo06v2MQlnBRzcnkFRGWRmFfe+yqzKc8p9mdR7E2jAqrk8Uzx+mVzwZlGe4ratDEWLmO8qiz1C0j9NyzPKIaYBdRAX7Yss3SV8cz2UYOkNkoN0l2k034IQ3xU/gARKF4ZJ3FDYwL07itecw+BzNmBcz+EF3lCpi7/dkwH4ZQnqfXm6Zthc05iimSyBpL2TIQnCnBEmmShwBx/fFNvWOb3rsFV1SPgaulOF6RNBUX7XBM4rGGXhU8cKwDItGz+1gq9IRPqU13OsbAXqLXbJV+0ZSb52s6LjksY4axI+e4tuH/NEcVDPAWryLBrxinY=;NsIgcjzB0BWfStEQwTh11Q=="
 ---
 

@@ -15,6 +15,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://assets.cmcmarkets.com/images/AI0402_medium.jpg"

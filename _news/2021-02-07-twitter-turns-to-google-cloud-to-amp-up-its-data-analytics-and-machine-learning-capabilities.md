@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-goog
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "NHL takes big stride on data and analytics with AWS deal"
+    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
+    publishedDateTime: 2021-02-11T08:09:00Z
+    webUrl: "https://www.actionnewsjax.com/news/technology/nhl-takes-big-stride/L36UFDLB7VCPD3JJKA4PSTDLFE/"
+    type: article
+    provider:
+      name: Action News Jax
+      domain: actionnewsjax.com
+    quality: 39
+    images:
+      - url: "https://www.actionnewsjax.com/resizer/tXOZxvhXr_E7UBjJtZ7JluJx6lc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/UM6KZV2HS26I4XZ4HZTY7DMF6Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "RS21 to acquire Albuquerque health care data analytics firm"
     excerpt: "The two companies have worked together in the past, previously linking up to develop a platform that would use AI and machine learning to identify trends in health care data."
     publishedDateTime: 2021-02-09T12:00:00Z
@@ -45,6 +59,20 @@ related:
       - url: "https://www.wsoctv.com/resizer/tXOZxvhXr_E7UBjJtZ7JluJx6lc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/UM6KZV2HS26I4XZ4HZTY7DMF6Y.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
+    excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
+    publishedDateTime: 2021-02-08T10:21:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/kellton-tech-launches-kelive-a-building-management-solution-underpinned-with-ai-and-smart-analytics-888095974.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1276309/Kellton_Tech_Solutions_Logo.jpg?p=facebook"
+        width: 698
+        height: 366
         isCached: true
   - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
     excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"

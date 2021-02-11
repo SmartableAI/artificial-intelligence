@@ -51,6 +51,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Natural Language Processing Market Latest Industry Trends, Statistics, Competition Strategies and Latest Industry Share by 2026"
+    excerpt: "The global “Natural Language Processing Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-02-11T08:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-industry-trends-statistics-competition-strategies-and-latest-industry-share-by-2026-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Commercial Robotics Market Size, Share, Growth, Trends Analysis & Industry Forecast Report, 2020-2027"
     excerpt: "The GMI Research expects the commercial robotics market to expand at a significant rate. From a regional perspective, the Asia-Pacific is expected to increase at a higher CAGR due to the strong demand"
     publishedDateTime: 2021-02-08T20:37:00Z

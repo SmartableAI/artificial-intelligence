@@ -100,19 +100,21 @@ related:
         width: 600
         height: 440
         isCached: true
-  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
+  - title: "Volkswagen taps Microsoft’s cloud to develop self-driving software"
     excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T06:20:00Z
-    webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+    publishedDateTime: 2021-02-11T08:29:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/lite/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 61
     images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+      - url: "https://images.indianexpress.com/2021/02/c3a29490-8965-49b9-a784-03c088b29b9b.jpg"
         width: 1200
-        height: 630
+        height: 667
         isCached: true
   - title: "DB Schenker advances IT infrastructure with Microsoft Azure"
     excerpt: "In a collaborative partnership with Microsoft, DB Schenker has established plans that will advance its IT infrastructure transformation with the help of Microsoft Azure. As part of the collaboration,"

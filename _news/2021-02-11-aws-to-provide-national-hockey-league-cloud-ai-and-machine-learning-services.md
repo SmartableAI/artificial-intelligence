@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/02/10/aws-provide-national-hockey-le
 webUrl: "https://siliconangle.com/2021/02/10/aws-provide-national-hockey-league-cloud-ai-machine-learning-services/"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/C9A31747-FBED-41A5-8820ED507C404BB0.jpg"
         width: 790
         height: 496
-        isCached: true
-  - title: "NHL takes big stride on data and analytics with AWS deal"
-    excerpt: "The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches, executives and players to fans an integrated look at the game with the aid of new camera angles,"
-    publishedDateTime: 2021-02-11T00:20:00Z
-    webUrl: "https://www.startribune.com/nhl-takes-big-stride-on-data-and-analytics-with-aws-deal/600021570/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1612975920"
-        width: 1680
-        height: 876
         isCached: true
 
 secured: "s1ZXk7eATobZkALNhPIiTn1GP7yYQxYvY/DlJlgCVqrRZHzg/IE/U+T+EGS0uYGkkR6gOsiutVj2en7Jc0kKuJ86nX10DgwHwGU0j6iSIFM1aWYp0sQFvccIbylb8YgBdBcrtk4Y8JL6AQZYQgNDseutNiv5H5k+wMzIGJXrHQ+GV/1G8OEjiu6YNWiIEwEYZEwQAwpW4gbKxD6Ns6mYIW8u4Ba7eZtEQN92BlLtv+u1e2xTO4ioKgdz8ZIatNgiCKWBQtaTVn8GU2kXFGTfcZC545ZOkiELVQ/x233hFxv3zTozQe5RfCvSLMTN+XdhKndoKrbwf3SqGAO0j6kbQP3GlFWVrAIsWeUBHj4md1TvRMfCTX4FU+y7cC4s6VQvoLk3RefG4jbgbNH9/QXBuLNWyU3XRdBivxOMSJCB+ZK/nlr5V22XZGylT4n5ZIrsbArl+fPQQoeon30dhu+yJrDPbsY1R+dAvhhFSO30jcgixx7rN16PH+DEMc/ugkhVGCVuMKfr0BR7rWMPSed87Q==;/ZGhxWLnfHQsHvuxc5Pxyg=="

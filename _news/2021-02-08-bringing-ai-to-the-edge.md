@@ -57,7 +57,7 @@ related:
     provider:
       name: Arabian Business
       domain: arabianbusiness.com
-    quality: 33
+    quality: 37
   - title: "Talview is the First AI-led Video Interviewing and Proctoring Company to Attain WCAG 2.0 Compliance, Ensuring Accessibility for All Talent"
     excerpt: "Award-winning recruitment and proctoring software leader, Talview, recognizes that organizations, candidates, and students rely on the company to level the playing field for talent applying for openings or taking tests using Talview,"
     publishedDateTime: 2021-02-11T05:32:00Z

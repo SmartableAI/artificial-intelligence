@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-11T06:33:00Z
 originalUrl: "https://www.arabianbusiness.com/technology/458487-how-britain-is-supercharging-the-uaes-artificial-intelligence-ambitions"
 webUrl: "https://www.arabianbusiness.com/technology/458487-how-britain-is-supercharging-the-uaes-artificial-intelligence-ambitions"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+  - AI in Robotics
 
 related:
   - title: "Using AI And Machine Learning To Break Past The Constraints Of The 'New Normal'"
@@ -84,6 +86,6 @@ related:
       domain: hellenicshippingnews.com
     quality: 0
 
-secured: "k02nA0xLm5Mj9QhKYDly2FyUlHVqBsGOZKg7qLMEF2PdydeV1IAsW4UGk9sSh8ZUNqQnvixHuDdiCEitsRObsKmqeIM4isyHTgPTbbGh5K6MnSUlzMSoVahwbOfZXKShha1SWLE3i5g9CuIuU84F+0jIrVVk2oUz/1rJDb47CzYT8VIyQueg21WrW3QRbrKsDHzEc51RDvlROTDuOD4FS920/QgWBqKVbfiy3sFZZ7MhXsgd9Eu4Og5odLkLIxsNg03PDyjyHAYmyoVMJq4GaY0GiTYiR/np0OAvctaDeYgp5s22qTaS6tXBE7eZH0aSen3qQ5wnMPjQJ/r8f0NBncXgYLokH0Qb8iFmfzzK/Pk=;4WJEfiezD2bKBS3gsI+O8w=="
+secured: "s0v+YPbXYjh1U0R2DvpzZIPy9vy7c5oM880oDYsSpQmbHL81NhJFx6ghk4N86Ee6ckTIXKA3WOIuA1JNpA33xSdiAMtVBOFU6Xn9k60mnDi7qZsfbdZiL4zxMvNWjrKxoQLGR4Cv4U37zeF8Vmskf/5S+wF8FznT31L+zA2faxSssInG12egIc1X/euCehyngKDiRo3L6m+b1NtjfENGZP3J44OEapIbsGNfFhh2ZZQXA1pNP9PmvYOpx8HnNKHZA2fO6w65pBAyZtkFULZazKnTQKQbyICE09A1DM4YiIqXsV1YjxnHncTONZJImMGcQbRcj/C+jr2dBOnQ2uJs8TzkZNKI4sfdiVKwQKRaFOGnzlRckcfasyhSn6WhThDt5cgi5/GFM4KGqhyb3sShWuXgfJFPc5+270SeWZHocvBXL98zhfWtKUcZU/LumNvmvsYID0Q1kf4xCTlw4tioh2GoQDcM3lu90WVhfzEE5rfySXuY7BFPyRz8takAkdJndGcsv8xBq0yOdIrFVfPH4g==;p4p0q4WX5qRV+jJY0ssVCA=="
 ---
 

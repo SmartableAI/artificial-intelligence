@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -35,6 +35,6 @@ related:
       domain: morningstar.com
     quality: 20
 
-secured: "jhQ7x7+mDiPjP7P/UquDL2UzmxrTZzmh4g38zU8pyRwCiRZ/iO89qrm+QReM3vqPx3tmEzmjzbjG2urWLGh44FXKa7CahTreU5wAgv3EkH43nJlBs/5NACLlFveyXFsG0Ttt+Gs6Q9mpUqD1atiqdriZdr0B/OtEQKzNOviru8XGysJ7w45ttharULCXckJYwXrKupU9xDHKpBwIOFhMIWz1bL2S9Aq9UcMEgjZUxZzqZRWIA+2FgeKtY7PzEGWnhGMhiIjunnCG7GmK/xRz2cG+fTgZMxasQPiXeoYtgGZYi7u1303AFX0lermFGOnmnSIWlIU+aRPfS0Qu5CMCzZzsLrNwJTAQiVvNvDcEB+k=;b6CfxA68XZixxlWOBQHK4g=="
+secured: "iKQo1VRKbovS8YXNeK0HpaJm7iRiCsD26a0ZMsGtRAqSbcK1jGFN32rcZR1h/KabsMtgof2SVmTmuk4wEbzUNfXO5mrgg0xvyTacIvLRHL8LqwczM0yeE4CCJgTM4D9lTWZJq6713+SWRjDN9H78NBATQ8jURN60fzsAyDKBoONERq5lwL5HdEF/2vpUUUvJQFs+p1E1AoPT20p8oBVADxNLay6bR1BXtWWEiWKjSIZXJhC77zXxXny7+2qJjcp0rWvWfvMA2rJR4L0c9TC4PjqnZRO4fkHPl9RO9oNPlggFZlkxe6VQEmXYwzOF1e7b46defNHJJ6QDZBCmh1ewj7qWnAhGx3XNA26SzTiXnAA=;6bFSxn9wR8f8sWra70Dnjg=="
 ---
 

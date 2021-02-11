@@ -427,7 +427,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -615,7 +615,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI in Robotics"
       ]
     },
     {
@@ -754,7 +755,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

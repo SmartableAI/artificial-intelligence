@@ -54,20 +54,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "NHL takes big stride on data and analytics with AWS deal"
-    excerpt: "The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches, executives and players to fans an integrated look at the game with the aid of new camera angles,"
-    publishedDateTime: 2021-02-11T00:20:00Z
-    webUrl: "https://www.startribune.com/nhl-takes-big-stride-on-data-and-analytics-with-aws-deal/600021570/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1612975920"
-        width: 1680
-        height: 876
-        isCached: true
 
 secured: "yfOK6IZjizY26leEOerQDJkwJ0e3lljfua4Zook9pIh+YLeUpHM+aIm5ydcn9X9ME1vkJnlOK0lBPrKZpMjAlSaR48AFCQWXVb28N3sHA+/NHDU25q2uFZR/wr6QxnLB7y/Fx0vOb7ca/d1OrRCCwpvYvtvU4bYyj7DYYIAfFQUwVKRz/QNOEiHrulcp7c9mM9AyKcwEXUs0nTBAurenPY2TqdkboOE0m1bJOB49xABvFy6KQzOWxHmKaTxy7gDVz/aeVDWuSCHeNLVwo1EHi2k1agwl9gLgSUobtyFO7x70TYOvth2suQAQnOE2GiG9Od09siAeAnVPtbPJCnldICTUd2ZQn2g9GOYdpj4AjdmUpKU/jy7OaJyd1z8LSR8h4qMshSFX5cCYOfTOv7rNiPTx9rj8lMMlNW5WoAJgumXoV0u7449rD5xxzjC+t2IJVL3fEK8o2d2VM6VGvnK3H8PrlH6fUlrpO6QU7S8CYnb2VbxXv/L9emRMrBtEBD2xqIwaBGr7VnMOEcY54j7oNQ==;u1OubYywl5Q6Hwoip1cd2A=="
 ---

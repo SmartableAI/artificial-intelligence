@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
+title: "Volkswagen taps Microsoft’s cloud to develop self-driving software"
 excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-publishedDateTime: 2021-02-11T06:20:00Z
-originalUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
-webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+publishedDateTime: 2021-02-11T08:29:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-7184054/lite/"
 type: article
-quality: 71
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - AI in Autos
@@ -24,9 +22,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+  - url: "https://images.indianexpress.com/2021/02/c3a29490-8965-49b9-a784-03c088b29b9b.jpg"
     width: 1200
-    height: 630
+    height: 667
     isCached: true
 
 related:
@@ -222,6 +220,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "FwfysTVDl6hLhkdaWdYvUe/15C4SqvDWfM3Q7No+J9RgxRJSg2yB9nO/c6p8xgYrZe4NHQTPJnRxWGrzz/lqEAKFYoSoGXfsGV4mnK6kLbX9AGTZFNdw45Au7x61U8413zssj4/n7kwJK0H+GKgz+Ut6gZehcs51KfgGelY3uKraY2Zu5oslJUHxrz7AwwjFj9ycOoT0310xt/l5os84rXaCIEN92OIrLvZmre+NoEvXveV1CET0FOMWr22e0BxKtyZ0LU3wZQyc0s0PkxakhcEbto3LcEeOTATtt9J86SRnBWdT8miUMK4eG7Vaa0DaWhsR04ToRDRcrsUmfNLqiK+4dbqjr6Hs+GdFWHL7p4M=;TC1tCNjBq9KKT51hHnlwyQ=="
+secured: "kCbwWQzyCUUnaL0fsQaeh9oRHGaGGHGROXH1RqK0R5Aw0S6ZcQQ2StYqmo4PlcOss1ofz4BLVjkrmO/+aexVqn6Zp/smqkMdH0xHzRG07HhfKtuEU+KFzdH6k6kdgxlvnzSvZMJXJOY6g3+5c1g8HbY0VcKUwOyySzQvNNdyDQDNyvPVVTUHre15N5BfWQXnIYZ5jingDpRCSUsXZrpCHVrpHbkzLj+wHFV1rBsSUfYM5s6iKNY5EF0QjfT5x7JEklPMWZJHKsAsUL+AZHXxNrVm26NU4P7GAt1cl4vbhn+1S/2BQMG3mndepDsGqnKVQw/CRgTx0iEzQnC/vrOP3TmsM6eBNJ3+uRhvHuQzh9Y=;UAAh+lqrP7aXJ9W9Ettl/w=="
 ---
 
