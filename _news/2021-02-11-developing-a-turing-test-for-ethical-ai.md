@@ -68,6 +68,6 @@ related:
       domain: hellenicshippingnews.com
     quality: 0
 
-secured: "eCin2MEIrJBRXBvHqA4ymyvDEUlzCss6ksvk9qf9RbpRUZUVqA4TSGoVCZSnR4Dj8waFWR1uSg8hauXW9iLxaEjA1o7R4vYo7YfheT+GYc2Cobww3eGvFGmq4/Kh+EqZRN+7I+6GYDzgPCJvLbCiJL0a/9nc8NE8GSZdMw0Dpd6PcZ3MGra3nNJGoIDNEqknqpMcmi/d+JiTTUXvzSPd+Uun12jMxOtgZ/aXE1wN5UXr5guPYvgvPlzPzOUR5bW9UWGyzK90mXcY5KzzJlg3VXU/h5swUNhkhKT9nX9Cz3A6KHH4cEKd+nUqjf8LREpmLve2bVTeF4eeG2NhDH8XYPNQV8DdbrN3TFoGDH4jSvg=;ojquecGJcjemQDBpj9G8yA=="
+secured: "7u7pRSTZNucTLDgoCH4L+Gju6SQRz0Fp4hWTQ/enX4Byz+26UnyUysxEPvvFMLP+UujQfpYZzc8RcC826gnHuU9CyZvxcxYnLzhJgtmtlnd7wtjhhSjHbyyH0qJb9XSSsSSqDcOdLwdSZ95GgaIy5ITDX/zJhrVMimd9uPbgNtJP/KZFdVkyGCqsjFPC8bBy0DnD86qAIqjOiBOC/m/D0MrEcl7+twSIC0RyY/yP5yUJwrWoMJVkKfkdPcC2WYkFN37FX+3GYhUedKPuO2a3OdO/nbfvN9pApMNotUBebBaMQuwUUWr5R4gF0JjuSFAiid6NDO3aVu9fEhdNqvQdrj3zeVfNHU6SJUsShF+/Slo=;DIF3pi8ANJiqlup+QEk/xg=="
 ---
 
