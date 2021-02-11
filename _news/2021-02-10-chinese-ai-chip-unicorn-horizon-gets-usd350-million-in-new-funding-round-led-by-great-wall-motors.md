@@ -29,7 +29,7 @@ related:
   - title: "Self-Driving Trucking Startup Taps U.S., Chinese Investors"
     excerpt: "Self-driving trucking startup PlusAI raised $200 million in fresh capital from investors including several top-tier Silicon Valley venture-capital firms as well as a Chinese investment firm and automotive companies."
     publishedDateTime: 2021-02-10T17:26:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800?mod=newsviewer_click"
+    webUrl: "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
     ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
     type: article

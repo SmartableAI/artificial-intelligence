@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-10T20:22:00Z
 originalUrl: "https://www.enr.com/articles/51190-ai-advisors-suggest-better-ways-to-build"
 webUrl: "https://www.enr.com/articles/51190-ai-advisors-suggest-better-ways-to-build"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.enr.com/ext/resources/Issues/National_Issues/2021/02-Feb/15-Feb/cs-default-1170px.jpg?height=635&t=1612986452&width=1200"

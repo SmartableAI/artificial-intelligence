@@ -1,0 +1,67 @@
+---
+category: news
+title: "NHL takes big stride on data and analytics with Amazon deal"
+excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
+publishedDateTime: 2021-02-11T00:10:00Z
+originalUrl: "https://www.wsoctv.com/news/technology/nhl-takes-big-stride/L36UFDLB7VCPD3JJKA4PSTDLFE/"
+webUrl: "https://www.wsoctv.com/news/technology/nhl-takes-big-stride/L36UFDLB7VCPD3JJKA4PSTDLFE/"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: WSOC-TV
+  domain: wsoctv.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://www.wsoctv.com/resizer/tXOZxvhXr_E7UBjJtZ7JluJx6lc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/UM6KZV2HS26I4XZ4HZTY7DMF6Y.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+related:
+  - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
+    excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
+    publishedDateTime: 2021-02-07T13:56:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 28
+  - title: "RS21 to acquire Albuquerque health care data analytics firm"
+    excerpt: "The two companies have worked together in the past, previously linking up to develop a platform that would use AI and machine learning to identify trends in health care data."
+    publishedDateTime: 2021-02-09T12:00:00Z
+    webUrl: "https://www.bizjournals.com/albuquerque/news/2021/02/09/rs21-to-acquire-albuquerque-data-analytics-firm.html"
+    ampWebUrl: "https://www.bizjournals.com/albuquerque/news/2021/02/09/rs21-to-acquire-albuquerque-data-analytics-firm.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/albuquerque/news/2021/02/09/rs21-to-acquire-albuquerque-data-analytics-firm.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+  - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
+    excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
+    publishedDateTime: 2021-02-09T14:09:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-data-management-11649778f5b74007b565f1e184a749bf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "VH5fjlnHHPrSGi6LIAhalHjMn6LFmblqgoueA4oq0NbTLDZw5liGeX4qkAlD4GlJqXY2IbIePh3VRnJhxjSHeNXnCOAa7hHcJZx35Ug+2ZoHkbblusfphTF46Ha2+5wd6Mn9/+UZneslsh6vjDTvGz+w0DhzrIdRWSdD6C4trSCgWJH4gJ2wWvXX201IZupX008nVACRQayajf95Kv4t/LgIJY/j3aBA+CJ2OZG60r1G2S/qeUUgbjRDnDleoEFxKscVIsxIO1HC3Dq5vynzapU9rExYb2JIGNvRlxaCyaCyXzYQpK/8vG4GV1BIjLl329rM4Of6Ts8sXtk/hAw5xwk1PEFkif0kUDJ0vkzJrhc=;uSUi8AOeg3NOiID3gfaAFw=="
+---
+

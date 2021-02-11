@@ -1,42 +1,26 @@
 ---
 category: news
 title: "Leading HR Technology Company launches AI Ethics Advisory Board"
-excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12,"
-publishedDateTime: 2021-01-26T19:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
-webUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
+excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BALTIMORE, Jan. 26, 2021 /PRNewswire/ -- Arena Analytics launched its external AI Ethics Advisory Board - the first human ..."
+publishedDateTime: 2021-01-26T19:36:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
+webUrl: "https://markets.businessinsider.com/news/stocks/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1427165/arena_ethics_advisors.jpg?p=facebook"
-    width: 1920
-    height: 1005
-    isCached: true
-
-related:
-  - title: "Lead HR Technology Company Launches AI Ethics Advisory Board"
-    excerpt: "Lead HR Technology Company Launches AI Ethics Advisory Board As an industry leader in the application of artificial intelligence to"
-    publishedDateTime: 2021-01-26T19:15:00Z
-    webUrl: "https://www.compsmag.com/news/technology/lead-hr-technology-company-launches-ai-ethics-advisory-board/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/lead-hr-technology-company-launches-ai-ethics-advisory-board/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/lead-hr-technology-company-launches-ai-ethics-advisory-board/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 54
-
-secured: "dyqSn2MGpelrzjdCWcG+3ObrSIwpAIW+QdH/Sutvwxg1m+H8cpwcEFjei9+Ky5U4iamAP1GewPjDr15r6GDmKJqtReTAG7AP3+qDzGD0aZ/iJX+1O3U8GaYX+mvY3Qxa6ztBJZIAvjO7E3eLYgzn+YA5+XQydH01EFxj3+IXjMwbxlrMXvj9IKAVESMftYTUthTtjNWCNE/S7Z5XTvZGz16WuHphxLl1/0AMx3h1jsr1TxamyRZsvwdgDV417JZNfE0YgGS3k4DmGSP1M4fQHI1Kvyhq6/IYZSkYXCbgENaIPsvYNYgM/apf6JQqzG3tDIFyXYciAzZRI5XXBa3/QPWJx4DQiVwkd9eopi+Q5Is=;VXSwb0juPzl8/xDUNhaLhg=="
+secured: "YAPOXOlEMlXkqUvHhZ5rITDjlIMrdgKiETI8BtKzb5wa24GS6ZQWCEskKwbNkVcidMKP5SFT10NTbb+QyYGZbhMncOHERwxotKcFGsji+PA4UQeX7rWB/It7BALE+/r8zZdM0iYqUQ9yO6bmwbYLJIf1TDFmWzOGg2wQnytRnvW9GcUtwvqaGkI1fnR0GalWk7qWn+10/dSCO6IYoo9oFHc6AuAAz/3gY8504mTzvTYUksefcK0xLQUjUpxxiGQdO3NzZVAQ5GmV2OqX734IuEcPMW2TY92p89dxHKVx40KanYsT3F17Kgx0RwJBi/boUBESgJMhfKE/N1xkjgYxexHXgXGNyYtIQgeP972T4Ws=;OX3xo9Lslm4aNutW+3zdcg=="
 ---
 

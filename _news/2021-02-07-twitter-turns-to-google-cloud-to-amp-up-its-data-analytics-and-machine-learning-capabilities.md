@@ -32,6 +32,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "NHL takes big stride on data and analytics with Amazon deal"
+    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
+    publishedDateTime: 2021-02-11T00:10:00Z
+    webUrl: "https://www.wsoctv.com/news/technology/nhl-takes-big-stride/L36UFDLB7VCPD3JJKA4PSTDLFE/"
+    type: article
+    provider:
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 24
+    images:
+      - url: "https://www.wsoctv.com/resizer/tXOZxvhXr_E7UBjJtZ7JluJx6lc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/UM6KZV2HS26I4XZ4HZTY7DMF6Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
     excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
     publishedDateTime: 2021-02-09T14:09:00Z

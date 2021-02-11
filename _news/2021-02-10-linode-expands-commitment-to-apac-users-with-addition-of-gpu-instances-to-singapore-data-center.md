@@ -3,8 +3,8 @@ category: news
 title: "Linode Expands Commitment to APAC Users With Addition of GPU Instances to Singapore Data Center"
 excerpt: "Alternative cloud provider Linode is expanding services to its fast-growing APAC customer base by adding GPU instances to its Singapore data center. The new"
 publishedDateTime: 2021-02-10T12:15:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center/article_f7e51ade-d631-52fe-9c9e-4f167148e1ba.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center/article_f7e51ade-d631-52fe-9c9e-4f167148e1ba.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center/article_f7e51ade-d631-52fe-9c9e-4f167148e1ba.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center/article_f7e51ade-d631-52fe-9c9e-4f167148e1ba.html"
 type: article
 quality: 27
 heat: 27
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Cu2DwunGa+uNyuEkN8wBQib2FidMKB2ynGqIOd8mFz7xQf9SuSCc1STZgouOypJ9lroTW9oG7ZzND8zgu1qtAJ84+PdSUmR3GVEpi/Fe8sEUqUOWWyHBnlBiLuZbeI+p9pBURl7Oo1+k7peDnTOmVNrimJ/JD/naBx8i6jONVU3iZL2WixBTmrgB9qyUQtZ7xurjFU3Q/3/njVLzpwteGx2EX6EMwUxfiMcDyZz4XOQLwzEFYgS6Xjzqp410/WIXfarVeqxIxOTG0xDuFDEduAvdI2D+im9pOnFdgsj5hEP07v2YpoM+tbJq8SCTBICi6yKh0dkhD+Pzu4SRbQ6fLxKDDkBk1PbqaydU/Dlq9Lw=;ysKdGjAsNbAqlxZdFp5JeQ=="
+secured: "z1WjbTpDpjvHfgW6BFk7SLIha0NGNmFJD2B05n+Ee3rnV+m5hl3pd1kw6rFopppIh1ch9U5Ybc6x5WfA5GFt6efM7L7eyZgqnsKcxETFPqPfgcWw1uj5LvuYt8M0cyFmJQqBOQlqvcpj937lfxT0Qvc3V45MFEWRNC6Od2tie5LH4Y/s2JvO6EKPpTDxIxRmJpZJf+V0zS4cLUwA7qkJBEuze7i9XwjpTx1+Is/hNKLIoR3sQB9xhwYEmGWRb481JlXP9GERmaAi5YVuVqBvDYHaZobFYtShYSIR1Z3Avrwrvf5KgYyAWZrEX1ootY2r/6n3K4PLNoY59314kaMl8OmKhcKkDXgLVvp7oEknHF4=;f8fmBUddnw4eHtsUnafGzQ=="
 ---
 

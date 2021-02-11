@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-
 ampWebUrl: "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/"
 type: article
-quality: 106
+quality: 108
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Facebook AI
   - AI
   - AI in Security
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/02/OKN_1440_websize-e1612959250260.jpg?w=1200&strip=all"

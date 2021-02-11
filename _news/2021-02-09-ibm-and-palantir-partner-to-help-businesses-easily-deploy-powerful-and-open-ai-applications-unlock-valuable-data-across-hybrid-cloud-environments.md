@@ -1,18 +1,20 @@
 ---
 category: news
 title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is scattered across hybrid cloud environments – without the need ..."
-publishedDateTime: 2021-02-08T16:06:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/02/08/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai"
-webUrl: "https://stockhouse.com/news/press-releases/2021/02/08/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai"
+excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is ..."
+publishedDateTime: 2021-02-09T04:34:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19532238/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/n19532238/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19532238"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19532238"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
@@ -56,6 +58,22 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
         width: 1170
         height: 792
+        isCached: true
+  - title: "IBM and Palantir debut no-code platform for open AI applications"
+    excerpt: "IBM and Palantir have announced a jointly developed product for AI applications called Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications."
+    publishedDateTime: 2021-02-11T00:16:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1612799848/itpro/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg"
+        width: 2252
+        height: 1600
         isCached: true
   - title: "Use predictive data insights to make more informed decisions with Palantir for IBM Cloud Pak for Data"
     excerpt: "Every year, the average enterprise makes thousands of critical operational decisions. With rapid digitization, this decision-making is becoming more siloed, distributed and complex. This can have staggering cost implications on the business. Are you confident that you are leveraging all your data to"
@@ -118,6 +136,22 @@ related:
       - url: "https://i.insider.com/60214a4bcca90200129b6f35?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "IBM and Palantir introduce new hybrid cloud and low-code AI solution"
+    excerpt: "IBM and Palantir announced their new partnership. The two companies jointly start Palantir for IBM Cloud Pak for Data. A new hybrid cloud solution that enables organizations to develop artificial intelligence with little code (with minimal coding)."
+    publishedDateTime: 2021-02-10T23:41:00Z
+    webUrl: "https://galusaustralis.com/2021/02/1048896/ibm-and-palantir-introduce-new-hybrid-cloud-and-low-code-ai-solution/"
+    ampWebUrl: "https://galusaustralis.com/2021/02/1048896/ibm-and-palantir-introduce-new-hybrid-cloud-and-low-code-ai-solution/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1048896/ibm-and-palantir-introduce-new-hybrid-cloud-and-low-code-ai-solution/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 59
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2021/02/palantir-proactive-maintenance-1024x538.jpg"
+        width: 1024
+        height: 538
         isCached: true
   - title: "IBM, Palantir Technologies Announce New Partnership - Quick Facts"
     excerpt: "IBM (IBM) and Palantir Technologies (PLTR) announced Monday a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next generation operations platform for building applications."
@@ -240,6 +274,6 @@ related:
         height: 1179
         isCached: true
 
-secured: "serLtcIhzdZV++jHOqp519yKuFF5Oq1tF6+p5Q2B7CipHRy4K3YvYIXEwj4NhQZoNQgxJ1DaVh/wTYkpCV0y3MyTJzK+xNXz4lpvKTpmdyQU6c0TPUrizzFjfIEVwo932Fv8m6PHYN3dyH910W3dQdUhALIRtEUfoiaoewN0eC6sz53114wa6gzy20fQ5MXuVg959BInVdiXOXtQNSd4YF+nQpS9eC8MxcIO5c0LuedwgHxMSqAH6BD50YLdMH9WJ+ckNcn8Gj6uzQd+k2szN73r8Ys22TRoKs/RByf61nRO454GZf7GgEQ7yBxQSkoJHz119qvxetlu6og6C5UIz82/f9G5n+g4gD96Kck7fOg=;2ChOG1Rb5cRe0Yj9XUfEmA=="
+secured: "uiQh2xSshPfS52HDQqMOZvANbrahsrCPFsW2pr/xUc5Cal2AmFJN8Ik0G/K5ieIoL24lBPS4wlW2/jBUz/mDcCgO50+vb+SEpVpznv8oD3F/yPUppU3hWdz1uHQ5Vg9yCv5yXduc64An8MZzmpdFFg09sIvEarIXApV8/oloQWMFtFK9GzHe1sJv7Hk6xk2Ovlz333JFmEyZZNoaKHRH8zGNpvQGGlopxmjGV4r9Gc/FSOfboTwwMUa27fY5PmWP1QxGGd8QXxKQ1la3nDe1DBIP3k635Pa2F4i9fQsR+A2eIp1E4ry1Zgnp9WNlbyiWTK5RLvyWmbyoHY1/OyGwTFNgF8pTFWAnSfwop/yhB+s=;A6wyRsc3X+d3+awcVI2bpQ=="
 ---
 

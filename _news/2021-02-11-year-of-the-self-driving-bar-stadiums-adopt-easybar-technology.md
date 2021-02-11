@@ -3,8 +3,8 @@ category: news
 title: "Year of the Self-Driving Bar: Stadiums Adopt Easybar Technology"
 excerpt: "Easybar Automated Cocktail Station Is Being Installed In Top Casinos, Resorts and Stadiums Across the Country. PORTLAND, Ore. — February 8, 2021 — Easybar, a"
 publishedDateTime: 2021-02-10T17:32:00Z
-originalUrl: "https://www.athleticbusiness.com/industry-press-room/year-of-the-self-driving-bar-stadiums-adopt-easybar-technology.html?_escaped_fragment_=/ccomment"
-webUrl: "https://www.athleticbusiness.com/industry-press-room/year-of-the-self-driving-bar-stadiums-adopt-easybar-technology.html?_escaped_fragment_=/ccomment"
+originalUrl: "https://www.athleticbusiness.com/industry-press-room/year-of-the-self-driving-bar-stadiums-adopt-easybar-technology.html"
+webUrl: "https://www.athleticbusiness.com/industry-press-room/year-of-the-self-driving-bar-stadiums-adopt-easybar-technology.html"
 type: article
 quality: 4
 heat: 4
@@ -18,6 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "Pbv0kCNdz+ChkB91GgmKKGZQ1FhVac1TaniwoHFddxBneX0a+ydvDQPehs2AghhmLDK7ZUz1o8S2Uvl1hfIONUGwOklFjKL7npuooM0oGeLeIftNOcMjBxMybJ9rcl8XcQcWuI0p/wqkeb7lUrP7BLpAabFz8CWcMayNKWH/neCMarBlFEnRbkTgiYmUdHZBwhfoAG7ZQ4C1F4tg9VXQe5+Rdgj05Ndnhk15CDxw9N2hQYkeXhs0rUVWO38BQJcxx6/Vv5cOzLYP0hK8gg9Nw7OAu1W4Roxfq65GejjCSKxQXWtmE12F0ob5AgN6/W3SiICcoqa1ywy5iLmO7gvwrqJhY9kFecy4syMwpl08//U=;AaxfYfkJDwBqVd/wIrL2pQ=="
+secured: "qIaol6dMzZpv+jGjx1yDAfStxEp45FoPX3cRnyBzdMWQCNDb+qGGPSNQj10VUxGgAh81gCYcixvDd/sOOv9yBLn+3612KtYq/V5IsF4Y+EWhC+fKna0hX4jnr1kaPZOT+aiKSeJSp5gjYm83I/rGWsFwKlUggccoz76kwEKom3YWaTtiSLihKNmNYgB3Rt2/go/JVJzl41ryv+0uvNxP+OM2szrPhWOSS+XrP7WlEKs/M+yPPlPHoBEo5w19tPyrj23WWs9xPJw/Wwblnhpsw5OrLMwb/WC1KDCvy4WsLRaUgdJ6TyyCWVREheX1zB1gV72EPyE5gZOIwcetJu9PMUUQxTrfbr90fGFkWhsF5j0=;2iCQu1dhGE3CvCVJWRpvrg=="
 ---
 

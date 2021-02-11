@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Trucking Startup Taps U.S., Chinese Investors"
 excerpt: "Self-driving trucking startup PlusAI raised $200 million in fresh capital from investors including several top-tier Silicon Valley venture-capital firms as well as a Chinese investment firm and automotive companies."
 publishedDateTime: 2021-02-10T17:26:00Z
-originalUrl: "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
+webUrl: "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
 ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
 type: article
@@ -57,6 +57,6 @@ related:
       domain: bizjournals.com
     quality: 39
 
-secured: "YtuIr++cMqkn4KZEhwN9Iasx47YsRTZwBskkKrHN3zO5aJz2HUQ6ExazyucFXaMrpb9bYWwhgXvxBcVSx4e508gOWAwpkQqY3yFJ/tG5d42Zz6eJdh8MAuNsgimkwhColzzZYe6EjYePQTUd4+sqWWLPzLovqmS2Q/6gZia07W2WUd5f37Y4RufdmCvbgveaa/RTv926KKlsQ5XvIvnb7B93p6UcEc8N/Ddz5LM61bpxSOVMEUxoElcduDqoo7aZwcB6pI7JZBEjDyqNkKyp1cn32fS+qK/KKiFKkj/bpaaLrRvDhXajX1td2Pgo5osiC+6Guj4NRO6tq136McAYMNM3f+EvPyL+cga4+ZtDwmc4LsmZoHSh9WCC9nFvwpqtkderU9dZT4IvGdJXfzwxKswiQSpbxDvNxo8FRyEb4yH7wnC34p/x/JDIpveu2RRKE+2GeflE1ItZdQrGMWriHq5mwncGeuksNrs9u1rJhKXo0RQUleFM+chkKPSjh7zYEJi5boXpRAkx84IpO/vuxw==;eJ42KMDgALtRX/Db2glxWA=="
+secured: "d5NB7nyTEaj48C3SZ0EAGHwN9P5f8dXDIsKotQ3RG4Uq+yy9CXd4e+K9tCDu5UY/puU1YsycZyfNAlOKWJgOoxEIl5AIJO1krnhQDY3A76gaToy+mAtKz2GCY4/OwrQ+42vrrgk23qt8GjrKBHZq7485E33JVn1IXK3No6SmCee9lXoGpGcreP2JwfHoG2hKWKCsdr85fMcKuepO2ex5MaH0IkFD3Z5//DRCu2uiMByOfULO/rW3igPd0YMOrwvpe94gvPbiAQhOI5W7yTvr91b6mS1cKgINspKObVkEndCSeJpRCigHcTRd0HenNLcfWeS9OEAReKL4RXwlHbAkxmVIGCuzvXa1R4qFzYAqb0Q=;WnPWsSLmS4cW6kDNq41Mxw=="
 ---
 

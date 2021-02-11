@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/5dp4ek/new-jersey-transit-wont-e
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:
