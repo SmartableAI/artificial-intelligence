@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -34,7 +34,7 @@ related:
   - title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
     excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
     publishedDateTime: 2021-02-09T22:05:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota/toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others-idUSKBN2A92G0?edition-redirect=ca"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92G0"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0"
     type: article
@@ -134,6 +134,20 @@ related:
       - url: "https://www.just-auto.com/images/just-auto-share.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Toyota and Aurora partner on self-driving cars"
+    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
+        width: 1920
+        height: 1143
         isCached: true
 
 secured: "J4PaNoXBosLeTSTad5a78OkmOQhYGb4PxubWJkwa4WZR1mWqf72UelA8+PatkxCrShItxuIf7FaZc4uI8yT/SfRC0I44g7Fzu/a8Lo2Efdes6wcWucLY1EJu3V5mIB1/3DQoeNCP0PhkByD4LrCO92K/mYlbt6xnGxUtHSm7HUQ2sVOPlgViflRf6iUhc4Ln3FbTUgMRK4CNo+/NQhmWnsWNkOlRKMlVT8Roo7o32e1x4CeuO6z/ydszFp+2izF8TOJh2AV+3CSfiOGgpGhE/ZBmAKeueM2ExtrxxigbPSDoJi9/gEHoHZbZN5IRXDMDFYwjz5xHZErJg2zaAdpr2oDShQZgsWkKv4YKjPsROvYjGHlYymGOVmo7ZvOOHA3uV/pPcygkIDCYJst+TJVvBaiK0poZ28n/0icnkESVWFXvESG3CxoPUwZEqRsAu0GMGRzovLf50ABBuxT73MLQQj9616PSIbS7uy1WfmPXIIHzm+qlh6CZGG5LAoihCs0t1vAlkh/pSFKvuI8YxLLaGg==;atVu2NJpOADavDauHEMJ/A=="

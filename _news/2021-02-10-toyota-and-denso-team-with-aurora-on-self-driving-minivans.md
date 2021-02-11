@@ -46,7 +46,7 @@ related:
   - title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
     excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
     publishedDateTime: 2021-02-09T22:05:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota/toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others-idUSKBN2A92G0?edition-redirect=ca"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92G0"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0"
     type: article
@@ -130,6 +130,20 @@ related:
       - url: "https://www.just-auto.com/images/just-auto-share.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Toyota and Aurora partner on self-driving cars"
+    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
+        width: 1920
+        height: 1143
         isCached: true
 
 secured: "GkHvqltNjWtfecAO0G/dbRShKaU9pxIOq619PpVtXc+3kb6DfcL7GM/If9qHdv28uoB7DMhbnifL/Zv0miWUSaD0d3SO80RUXr37DWvFbjN9HFDrrj2OJa85mdGDA7F7SfgB2SWrc26/tGQEC3j73fQsSVVZ88ZSOi3WImCiz+l7t2EzKqjBLHgqPeL0ymiK9OsLqtgmMCz14qYOvYzJ8KEKXvs/yTZuorvnC+dApEuz7aoZ+YQ9kLcFj9+bT14LnqRF56CtIqAfFdrj1adBWAfelx60q3EL2WscMWvmiY9u7qjF8GmDbO+XGXGkqNTY4JMP40pvbCBAzve0v1JHdliFwwcBKi4+wISUqaS7ENo=;I7IQHS8r4lhnNlTfIoGo+A=="

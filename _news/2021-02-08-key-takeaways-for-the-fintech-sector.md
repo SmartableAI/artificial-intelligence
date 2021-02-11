@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/364949"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364949"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -175,6 +175,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/charging.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Lufax: Best Chinese Fintech Stock To Buy"
+    excerpt: "Lufax is a leading online Internet finance marketplace in China offering retail credit and wealth management services to Chinese borrowers and investors."
+    publishedDateTime: 2021-02-08T17:31:00Z
+    webUrl: "https://seekingalpha.com/article/4404316-lufax-best-chinese-fintech-stock-to-buy"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/2/4/49636850-16124388856199486.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "PEAK6 Names Michelle Williams Executive Director of Fintech in Action"
     excerpt: "PEAK6, a financial technology business, announced today that Michelle Williams will serve as Executive Director of its Fintech in Action initiative to encourage the hiring, promotion and retention of Black employees in the fintech industry."

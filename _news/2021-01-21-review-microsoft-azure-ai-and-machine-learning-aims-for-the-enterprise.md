@@ -1,21 +1,15 @@
 ---
 category: news
 title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-excerpt: "Microsoft has a presence in most enterprise development and IT shops, so it’s not a surprise that the Azure AI and Machine Learning platform has a presence in most enterprise development ..."
-publishedDateTime: 2021-01-21T10:43:00Z
-originalUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html"
-webUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html"
-ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
+excerpt: "Rather than force companies to run all Azure services on the Azure platform, Microsoft also offers several Docker containers that allow companies to use AI on premises. These support a subset of Azure Cognitive Services, and allow companies to run the ..."
+publishedDateTime: 2021-01-21T04:57:00Z
+originalUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
 type: article
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - Microsoft AI
@@ -23,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/08/itil-tips-for-implementation_lightbulb_innovation_process_strategy_iot_by-ipopba-getty-100808462-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+    width: 740
+    height: 493
     isCached: true
 
-secured: "hJmCjVOFmRokRJQKC4E6P+OGQy0CMEYgIbQh8OIJIzqPY47VcK4h9E9LF83sov7WDSvhA4eHnB9XLe09e6l+6TnN39XSxtc71Vz/cg/a3dwjKERkhic3shXHhvpGpvog1t1fjcusPlZtxofNO+StIHA9Alou7l3C2dYK36ZaASBWYou0Fd/gXve4jSrr4fPyH4DR2JdvcOx5PwZya4hgH9ar1qGvzN6JvxpYlr+1Xis3t6pZoHqmgKluooazVmH4PfHQ+yhKVd7BaTa/T1ZOLm5kf/hbCQ06c45+/q8pD0gdQmRwjaKZpaJ/aVmvMMkOib8boTiN5U1MBSKmMHGBj81k78HcUyPvnGhsUoZrqBk=;9EPRDjjcRJAS0vNKm//yKA=="
+secured: "jDrUJcaGguV5FAJPvOwuTBhjQrozUsOTPmcPv1Qfg94ulUKmXcIYWbC9mN8nTNRg/O3YlzY1v00eST7kLoN8c2mVOlVNOvbG7wt4Lmw7VkKhuT24FazBAs/lU7A01MvXss3PB+15GTR3tzof9wGmSi7NvrsDdJy3KkOIyEMwBxU3l5XPZquYOcPBcZ7GVoEHD+hmxODxOWxUvIYOUMNQjRomsKJ+mWLhUZ7uX3KDNKml3KyLrkkp9aJ+IN5G3OoUoyBtypUULkahsnu/gCS6+xD7aD1UVRYV/JMlItm35JC4aam7lDwKtreAyYv3JSoNdO+bb9AXXEgWkmyaHZmTNz/qmK+I5zdnOEkS5jcd8a0=;qt43V5MoHjFGasLW0CriWg=="
 ---
 

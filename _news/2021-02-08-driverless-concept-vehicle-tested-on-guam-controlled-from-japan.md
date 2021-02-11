@@ -41,6 +41,36 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Now that the driverless car hype is over, the long road to reality can begin"
+    excerpt: "Expectations surrounding driverless cars peaked around the ... Breakthroughs in artificial intelligence seemed to happen by the week. That hype has deflated in the last couple of years."
+    publishedDateTime: 2021-02-09T16:58:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/02/08/now-driverless-car-hype-long-road-reality-can-begin/amp/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/02/08/now-driverless-car-hype-long-road-reality-can-begin/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/02/08/now-driverless-car-hype-long-road-reality-can-begin/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 56
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/02/11/Capture_trans_NvBQzQNjv4Bq5eUtQIhwNPvhnSjcQF0SK68DyAxJ4MLDUQTzIbLjyXI.PNG"
+        width: 655
+        height: 410
+        isCached: true
+  - title: "Tesla Will Make Their Driverless Cars in Buffalo"
+    excerpt: "Add 'driverless cars' to the list of things 'Made in Buffalo.' Cheerios, Oxford Pennants, Sahlen's hot dogs -- and artificial intelligence."
+    publishedDateTime: 2021-02-11T19:21:00Z
+    webUrl: "https://wyrk.com/tesla-will-make-their-driverless-cars-in-buffalo/"
+    type: article
+    provider:
+      name: WYRK
+      domain: wyrk.com
+    quality: 54
+    images:
+      - url: "https://townsquare.media/site/10/files/2021/02/GettyImages-1150569888.jpg?w=1200"
+        width: 1200
+        height: 810
+        isCached: true
   - title: "Self-driving car for testing Technology Parkway"
     excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
     publishedDateTime: 2021-02-08T20:18:00Z

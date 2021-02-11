@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/klas-recognizes-microsofts-moment
 webUrl: "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/"
 type: article
 quality: 121
-heat: 401
+heat: 431
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester"
+    excerpt: "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile."
+    publishedDateTime: 2021-02-11T19:40:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 114
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/a2618a6b-a205-4004-ab8d-b706d8ab359d/resize/1200x/0b71a3953d86fcf6ce37b4af796e8aed/forrester-ai-chart.jpg"
+        width: 1200
+        height: 1195
+        isCached: true
   - title: "Microsoft and HPE collaborate to connect Azure to space"
     excerpt: "The team-up with Hewlett Packard Enterprise will be centered around delivering Azure capabilities to space through HPE's Spaceborne Computer-2, which is set to be launched this month."
     publishedDateTime: 2021-02-11T12:14:00Z
@@ -141,6 +157,22 @@ related:
       - url: "https://cdn.openpr.com/U/2/U211657553_g.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Why Microsoft is Pinterested"
+    excerpt: "The Financial Times reported Wednesday that Microsoft has held talks in recent months to acquire Pinterest. The talks, which are \"currently not active,\" could have led to Microsoft'"
+    publishedDateTime: 2021-02-11T20:46:00Z
+    webUrl: "https://www.geekwire.com/2021/why-microsoft-is-pinterested/"
+    ampWebUrl: "https://www.geekwire.com/2021/why-microsoft-is-pinterested/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/why-microsoft-is-pinterested/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 89
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/iPad-home-feed-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
     excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
@@ -418,6 +450,15 @@ related:
       name: Odessa American
       domain: oaoa.com
     quality: 20
+  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
+    excerpt: "Change Healthcare awarded “Best in KLAS” for Provider Eligibility Enrollment Services and for Payer IT Consulting Services."
+    publishedDateTime: 2021-02-11T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210211005122/en/Multiple-Change-Healthcare-Services-Earn-KLAS-Recognition-for-Excellence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 18
 
 secured: "9g5GqPewzym1mP6bvfyHhyJx5hy6a04Ou/o/jfm1PUQZlcZuEQcWYL3ZfiLcH4prnZSw5W+jzCA/Z+xBC0lxzSZumcb32PiswV/4bVPmwDZbXsy9BSseO3CacyN+RslFbIiQLyTgZVc51OMeNOc4Ox3JPBADBPdB9tbjQhbN+KpUt41yyPHPBZgabVnMxOVsiTK0/+au+C3fwOKnEHggES7ceWNAKEstR/islOJQowWaabssXdOlig2B/UiYcEKJOwxTpsgdTBAr/2WSe1DSX0e21zL4IBZacZMfz9r9CuQoxwclRt3kXAl1hq4je5WCwhJd681pYf4dv3eXJxncKNI7Y176ifSPgkbYHVDXfEw=;OVm5nc1C0bcIQ5l9CqzMjQ=="
 ---

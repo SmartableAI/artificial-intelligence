@@ -3,8 +3,8 @@ category: news
 title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
 excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
 publishedDateTime: 2021-02-09T22:05:00Z
-originalUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
-webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
+originalUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota/toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others-idUSKBN2A92G0?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota/toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others-idUSKBN2A92G0?edition-redirect=ca"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92G0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0"
 type: article
@@ -135,7 +135,21 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Toyota and Aurora partner on self-driving cars"
+    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
+        width: 1920
+        height: 1143
+        isCached: true
 
-secured: "emUXwM4noepoJ3NHSwpxo0sAHxyfv+qHLFYhtAl2vuJZXsaK6NSdIzN2sxoTi4PvVdB3TzjGehErGR1bbb/q/V901U7+1bwLhBjcVvVg90THAVJybTOGpzjpzzItbl72V8gh+BsLDZwQaswSHinZQyTZY0uAAobszCzpI5+JnfJpxj/LyWnR1woJIrjQBq3RjpQkGac8pfvzlWZU+XssONmHSDDnH//3NVwV/xqK1Nu+RBscyfhPATJiwYFHSWBw4qW2CpEAhkTeI7p3ql3cIUj2F72vgnOxb4PAmdLsGoOMSJZbFFXcq68L9oVwfoWaLNqscgVjoQf7iukNVDPTAL0XnOQTZzD36iC6oZPkmQw+EE9dJmduBC4YjAinXi/KlBPlNnvFHtdkoeQ7Ugf0PbA+uAz8tbOAhuQ43g7ney4zW5e/puTVXDNo116e2JsaPW1544J7+sQ3GsbQqo1YL4HcZo73/5sljyq9rpUFtzzJNZ1mC9H6Cq+u99XcpsHeGXPEJ/xokynNrs7E9dnPaw==;BUFqvGEnA7IpmlUUuKlAqQ=="
+secured: "u9yPl/eaOCppINFIOTOoK3+GKIC+kkSCt7DtNs4+LQfHVZy+ESG9BgX9VJFUpJc/RBT7HamoV9yw0q8NpSTJQVClOpmeYw2UUdnDA9G0KXus3gFmu/C9ipm6Nl4foJdyjeDkveHYjfHw1ulRv7EgyIeoX8sF1lNVNcWQmB249Q0r9599ig8Dr/21nxLE4yu+1lI7nTgRv4cfIopxGPDpkXD/MFuzdyGJuLsXXqFsLJHeK3CW91vggmd3JkIVv7yvrU2vltD+tfjTPq+/2YNy71eXf9HzarKNwxygiCcENdAF2Pj2ynVDSK6izhd0qC3/Xp0/2tCBzV/WmuesrvQKQEZZsfjHHorGjCVPEHrH3sE=;MIZpJgYNvlOGOJImEoxQIg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/terra-the-google-and-micros
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2021/02/09/fe1c2228-aa05-4e10-84f1-3a64d1d5e0d1/istock-1214075704.jpg"
         width: 1254
         height: 836
+        isCached: true
+  - title: "NASA sends AI to space with first commercial edge computing system"
+    excerpt: "AI is going to space with a new high-performance commercial computer from HPE that will be used on by astronauts on the International Space Station."
+    publishedDateTime: 2021-02-11T20:20:00Z
+    webUrl: "https://www.fedscoop.com/nasa-ai-space-commercial-edge-computing-microsoft-azure-hpe/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/11/space-walk-991_1920.jpg"
+        width: 1920
+        height: 1270
         isCached: true
   - title: "A Cloud-Connected, AI-Enabling Commercial Computer is Heading to the International Space Station"
     excerpt: "SBC-2 will also tap Microsoft’s Azure Space service to connect users on the space station to the Earth, and vice versa, through the cloud. The computer will be installed for the next 2 to 3 years, and is backed by a sponsorship from the ISS U."

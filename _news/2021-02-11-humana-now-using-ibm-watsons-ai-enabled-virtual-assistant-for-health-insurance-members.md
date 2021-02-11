@@ -3,10 +3,10 @@ category: news
 title: "Humana now using IBM Watson's AI-enabled virtual assistant for health insurance members"
 excerpt: "Humana announced today that it's teaming up with IBM Watson Health to deploy IBM Watson Assistant for Health Benefits for Humana Employer Group members. Conversational AI (artificial intelligence) through the IBM Watson assistant will be used when agents,"
 publishedDateTime: 2021-02-11T14:45:00Z
-originalUrl: "https://www.techrepublic.com/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
-webUrl: "https://www.techrepublic.com/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
 type: article
 quality: 96
 heat: 136
@@ -85,6 +85,6 @@ related:
         height: 2045
         isCached: true
 
-secured: "PI5k3uf9hz1pJ/5n1AX+wPPzjPgMJcYjtXJNWV3tpo92F3QNdHUoCGRKSKN2Y4PzKwnwfH3soBRO/QxNEOkAYoUwIkQDTIrGnKxx4U067SB0Plk5ReUJVQOs/5vcxr+m2G+h9MKroYdhqnphuAmXYx9T+ySXCFa6N68I6EOS6/4XJRFcTe3WBf6xO9Go9oGRxsVCPvuKWzm0t7QcPV6rv7TMLYZ67uc5Xw2fPLL+7GT+xlXAe2JAe9lmCY2mLz/9FbxksS2m4nSqUVTY3IqdLK6zLa6gqXVBc54IV4cazH5jc3v3AuN9w7GSzmCz2QzFkkcHVkU/3N2SHBHuLDyQYBdgdGisBvdu7B3JBcaeVBPkqh7FqtYVx6YKe1ZO/qow5JMi4HQLEpXHktZ+0X3Y9Al98AFgLKM/XFXo/FjbCtY0oPV7aF+2pbg+iQCS/KFoy8woLoi7Sv8dfQ2cN5HZnRNOc1lwRnur6JYnszQj6acdd7qMOG12qCmw1qwwlSgBY57CpQMT+rhJKaUncke2gw==;d8bmSs9tOAr/dXHqigNB+g=="
+secured: "5kkVEyOI11O7KVk9Sc2feopbIqrMreUt18by6MwX1dHkmYlEmP4kZi+8TW7D9pm7FSk+FbKET9xvCxOVyruN/PjPqmgsH5b7zWOvOEyrALyA2cHRI1Iuj4Y/avpt0PmCDQFdmq4fE2QVAExYI81bNG8NNguzytpeb/Cf3ocQjwK4h0M38qDG5M6Z7mWbrdKeTB92/9WhjK83rxfUDV80fyhHatNAdlReGcG7Gj+8gI0+nQb7KHehN1KxaxGYry1L2li0TttCMLTrXE7efN36VnP7gI1rWrGIH76uFGirpO412Yoy4nZvwEvYZimsej4St7bmI2XVZjUmCg079ctnTZgXP6cc/N6U2EFP38dxR+0=;zm1NTi4/aEgdWuzpsMaY4w=="
 ---
 

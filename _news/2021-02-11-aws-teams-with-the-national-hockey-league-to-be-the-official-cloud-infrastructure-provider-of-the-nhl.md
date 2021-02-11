@@ -41,6 +41,15 @@ related:
         width: 2089
         height: 1183
         isCached: true
+  - title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National"
+    publishedDateTime: 2021-02-11T19:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210210005858/en/AWS-Teams-with-the-National-Hockey-League-to-be-the-Official-Cloud-Infrastructure-Provider-of-the-NHL"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
 secured: "XCRC+mveRMEoFsysyoYHNWjxFnAzJOzoCYCHiDdWVR9M6NOtaPrV59w/FQK+hzns7eoEIGzAf/Wc14cT7scd/9B2Ofgszt3MPw2dLhJ5x1CuwhhMWUNF3n7zLdLYQoAa0smcLY8czeKH+K12yMSdX03IQKveVhWlq/X3W8I6WCK7+zqRaf3R7Peq6GFdAbFmIio5I4Eup0ollZvvDL2JtaUkmn2CIciw0EQCwGa6v8lYNwYvF/SMRZrvyQlUAm28vmx34w5jKV0k8qkIYj/rgXa4n4rVRNNrGH37IlsFMoS/KXZWiQG4PInVvJpgP/4tHAaqabkgdSYJNVfcbex/+HQeNB6ZIsAe9PnZBitXy9M=;bESII8lYpRbKcQmtEPlJVA=="
 ---

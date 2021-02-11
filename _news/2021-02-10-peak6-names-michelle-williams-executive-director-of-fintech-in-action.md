@@ -186,6 +186,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Lufax: Best Chinese Fintech Stock To Buy"
+    excerpt: "Lufax is a leading online Internet finance marketplace in China offering retail credit and wealth management services to Chinese borrowers and investors."
+    publishedDateTime: 2021-02-08T17:31:00Z
+    webUrl: "https://seekingalpha.com/article/4404316-lufax-best-chinese-fintech-stock-to-buy"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/2/4/49636850-16124388856199486.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Top 3 FinTech companies transforming the financial space in Iceland"
     excerpt: "FinTech solutions are provided by the three largest commercial banks in the country, namely Landsbankinn, Íslandsbanki, and Arion Bank."
     publishedDateTime: 2021-02-10T13:12:00Z

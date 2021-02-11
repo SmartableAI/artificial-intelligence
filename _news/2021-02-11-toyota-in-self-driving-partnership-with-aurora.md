@@ -44,7 +44,7 @@ related:
   - title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
     excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
     publishedDateTime: 2021-02-09T22:05:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota/toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others-idUSKBN2A92G0?edition-redirect=ca"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92G0"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0"
     type: article
@@ -130,6 +130,20 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/5210x2931+1389+560/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/10/24193816/2021_Sienna_Platinum_Predawn-Gray-Mica_010.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Toyota and Aurora partner on self-driving cars"
+    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
+        width: 1920
+        height: 1143
         isCached: true
 
 secured: "60UfP7cmkRL8sdbrgWB56orDgmD1nk1iuN5m05DUAWqaMhqyTV2/axGLmvcIuMRlutVAsNBNr/tp7nfBoU9HB002LPc+BoAh0vuSPvav7ByYSG9wExun6ZZgVqVyUH4Yi4HkHtRpnHHoia68Tmk3+dwvIjVTNeM+Ajw+en+rQVniIIn6Pgk/KuaLjl3NTfHgmepJEZBZwNJh3Ue//bo3orV9e9vqY7nabP/UFMSsz7cTVV2sTzBkTPY8rkr/+Ugn3UdQw6sPoJDCCuL7h4E0BuEb1KEorOxg408LAEh338Mz/H7r1NCDT1xFNbcWI+B5l/ZYHxcuOsd08b6+fB59qxnHOi7XXbB/VqW0I2KQUmA=;hyMxGTfqQqmmrrRY1s5w3A=="

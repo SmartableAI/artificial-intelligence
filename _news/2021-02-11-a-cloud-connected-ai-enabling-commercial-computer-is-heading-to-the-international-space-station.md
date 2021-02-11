@@ -57,6 +57,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "NASA sends AI to space with first commercial edge computing system"
+    excerpt: "AI is going to space with a new high-performance commercial computer from HPE that will be used on by astronauts on the International Space Station."
+    publishedDateTime: 2021-02-11T20:20:00Z
+    webUrl: "https://www.fedscoop.com/nasa-ai-space-commercial-edge-computing-microsoft-azure-hpe/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/11/space-walk-991_1920.jpg"
+        width: 1920
+        height: 1270
+        isCached: true
 
 secured: "nKrmCMtd+e1H0j83S1pthVr1RKmXrcimjHemqihUCcxD3JJGVUy59HrY42vRqmDRS73spY5C8lKpgE7SO8k5uJDnH9udMi95c1SvsnZSpWn0HzeqJkzTuD33dNXEu4rxtS+3Gkz7lBx8HE5cmY3OrIU/jsHJCODOYu4hbXPEVTm4i1p2R6VWu8Vt1dnFOR2dvBpJpswFzyVmWFFZnVnsotBzKYMSiBqKNnDkhtKloTMWAxYP3CuYcCUqkoJUJlzln9QeKaZxQLYOfBM2ibBMLNqh04+exGFjuUpmeINNPbfDTxvd7BGrkak9yIL7uRKf3CpfcKxksnVofM1sjE9BYAh2K0qLGkBSmBb9KEaK5RYOfTTMfWslx9PAASF8dLlipn9Jd3Y2kqfK5OpYHDM6hHO/STWhXJPeIwkjJ66GV/Dfvfqk2DwVN6hrPdaX5rlzWzB83pm6jaf+jxL5sOtWi6Ac/Jl5vAsldKXxxQWJxRbwWdleiyxSw5WRmtHpb1q1IdBm5FajmbhrRByFYJYbjQ==;XxtJJXFVYe5yaUT/olotdg=="
 ---
