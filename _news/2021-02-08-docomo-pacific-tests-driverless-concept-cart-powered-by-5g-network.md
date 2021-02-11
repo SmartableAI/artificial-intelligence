@@ -19,6 +19,38 @@ topics:
   - AI
 
 related:
+  - title: "The Nine Ground Rules For A Driving Robot That Can Drive A Non-Driverless Car"
+    excerpt: "These are the nine key ground rules for devising a driving robot that will turn any car into essentially a self-driving car."
+    publishedDateTime: 2021-02-11T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 103
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6024c713431d57f28c582277%2F0x0.jpg%3FcropX1%3D438%26cropX2%3D3976%26cropY1%3D71%26cropY2%3D2062"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "Self-driving car for testing Technology Parkway"
+    excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
+    publishedDateTime: 2021-02-08T20:18:00Z
+    webUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 44
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Driverless concept vehicle tested on Guam, controlled from Japan"
     excerpt: "A driverless concept vehicle had a test drive Friday on Guam that also showcased DOCOMO PACIFIC's 5G technology."
     publishedDateTime: 2021-02-08T14:15:00Z

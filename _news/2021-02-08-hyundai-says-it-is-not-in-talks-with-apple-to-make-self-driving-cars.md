@@ -93,22 +93,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Hyundai, Kia deny reports they’re working with Apple on self-driving EV"
-    excerpt: "Hyundai and Kia have been discussing with multiple companies on self-driving electric car development, but no decision has been made, they said"
-    publishedDateTime: 2021-02-07T00:00:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/foreign/2021/02/07/hyundai-kia-deny-reports-working-apple-self-driving-ev/115449536/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/115449536"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/115449536"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/05/PDTN/03943d0f-044c-491f-b0b3-8f6984103dca-Apple_Hyundai_Kia.jpg?auto=webp&crop=760,427,x136,y274&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Hyundai, Kia Backslide After Apple Self-Driving Car Talks Die"
     excerpt: "Hyundai Motor is not in talks with Apple on autonomous vehicle development,” the automaker said in a regulatory filing."
     publishedDateTime: 2021-02-08T16:39:00Z

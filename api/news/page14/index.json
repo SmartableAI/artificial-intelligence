@@ -2,6 +2,239 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-31-ai-needs-an-open-labeling-platform.md",
+      "title": "AI needs an open labeling platform",
+      "excerpt": "Training data platforms are emerging as the best way to handle the collection, labeling, and feeding of data into supervised learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/",
+      "originalUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/labeling.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/",
+      "publishedDateTime": "2021-01-30T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-scott-hollifield-larry-king-will-miss-the-robot-apocalypse.md",
+      "title": "Scott Hollifield: Larry King will miss the Robot Apocalypse",
+      "excerpt": "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots.",
+      "sourceUrl": null,
+      "webUrl": "https://hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.html",
+      "originalUrl": "https://hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/hickoryrecord.com/content/tncms/assets/v3/editorial/4/5e/45eb0942-61a8-11eb-b0c4-7b12bc0878ae/60131fec0930e.image.jpg",
+          "width": 504,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.amp.html",
+      "cdnAmpWebUrl": "https://hickoryrecord-com.cdn.ampproject.org/c/s/hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.amp.html",
+      "publishedDateTime": "2021-01-30T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hickory Daily Record",
+        "domain": "hickoryrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-2-years.md",
+      "title": "SoftBank's Son expects mass production of driverless cars in 2 years",
+      "excerpt": "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years.",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/davos-meeting-son-autonomous-idCNL1N2K41Y9",
+      "originalUrl": "https://cn.reuters.com/article/davos-meeting-son-autonomous-idCNL1N2K41Y9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194",
+          "width": 829,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2K41Y9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2K41Y9",
+      "publishedDateTime": "2021-01-30T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-why-data-driven-language-operations-is-the-key-to-customer-success.md",
+      "title": "Why Data-Driven Language Operations is the Key to Customer Success",
+      "excerpt": "That’s despite the fact that 70% of people would feel more loyal with native language support – 35% of them even said they’d switch products altogether to get native support. So why is native language support still such a challenge?",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/why-data-driven-language-operations-is-the-key-to-customer-success/",
+      "originalUrl": "https://customerthink.com/why-data-driven-language-operations-is-the-key-to-customer-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/chatbot-3589528_1280-pixabay-service-ai.jpg",
+          "width": 1280,
+          "height": 1106,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-33.md",
+      "title": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares (NYSEARCA:UBOT) Stock Price Down 3.3%",
+      "excerpt": "Robotics, Artificial Intelligence & Automation Index Bull 2X Shares (NYSEARCA:UBOT)’s share price dropped 3.3% during trading on Wednesday . The company traded as low as $44.30 and last traded at $44.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html/amp",
+      "publishedDateTime": "2021-01-29T18:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture.md",
       "title": "Microsoft Corp. (NASDAQ: MSFT) Acquires Stake in Self-Driving EV Venture",
       "excerpt": "Microsoft Corp. (NASDAQ: MSFT), a company primarily known for developing, manufacturing, licensing and selling computer software, electronics and personal computers, has announced that it has strategically teamed up with General Motors Co.",
@@ -967,239 +1200,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-huami-to-launch-third-generation-self-developed-wearable-chip-soon.md",
-      "title": "Huami to launch third-generation self-developed wearable chip soon",
-      "excerpt": "Huami Technology is a company that excels in smart wearable technology. Headquartered in Hefei, China, the company also makes its own AI-powered wearable chips. Today, the company’s founder has announced that the third-generation wearable chip is coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/01/29/huami-to-launch-third-generation-self-developed-wearable-chip-soon/",
-      "originalUrl": "https://www.gizmochina.com/2021/01/29/huami-to-launch-third-generation-self-developed-wearable-chip-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2018/09/Huangshan-No.1-MHS001.jpg",
-          "width": 1225,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
-      "title": "SoftBank's Son expects mass production of driverless cars in two years",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1",
-      "originalUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp",
-      "publishedDateTime": "2021-01-29T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform.md",
-      "title": "End-to-End Deep Learning Inference with the NVIDIA Data Center Platform",
-      "excerpt": "The AI revolution is surging forward, igniting opportunities for businesses to reimagine how they solve customer challenges. It’s a",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/",
-      "publishedDateTime": "2021-01-29T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-towards-a-framework-for-face-recognition-in-europe.md",
-      "title": "Towards a framework for face recognition in Europe",
-      "excerpt": "The Advisory Committee of the Council of Europe Convention on the Protection of Individuals with regard to Automatic Processing of Personal Data, known as Convention 108, is celebrating its 40th anniversary.",
-      "sourceUrl": null,
-      "webUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/",
-      "originalUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galusaustralis.com/wp-content/uploads/2021/01/reconnaissance-faciale-facebook-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/",
-      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/",
-      "publishedDateTime": "2021-01-29T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "galusaustralis.com",
-        "domain": "galusaustralis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-softbanks-son-expects-mass-production-of-driverless-cars-in-2-years.md",
-      "title": "SoftBank's Son expects mass production of driverless cars in 2 years",
-      "excerpt": "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/davos-meeting-son-autonomous-idUSL1N2K41Y9",
-      "originalUrl": "https://www.reuters.com/article/davos-meeting-son-autonomous-idUSL1N2K41Y9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194",
-          "width": 829,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9",
-      "publishedDateTime": "2021-01-29T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

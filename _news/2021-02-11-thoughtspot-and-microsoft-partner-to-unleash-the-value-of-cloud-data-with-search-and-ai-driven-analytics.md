@@ -1,28 +1,22 @@
 ---
 category: news
 title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
-excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,"
-publishedDateTime: 2021-02-11T14:19:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-christine-odonnell-computing-and-information-technology-data-management-f85ff704762c47cda869625396ef3236"
-webUrl: "https://apnews.com/press-release/business-wire/technology-christine-odonnell-computing-and-information-technology-data-management-f85ff704762c47cda869625396ef3236"
+excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
+publishedDateTime: 2021-02-11T14:39:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
+webUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI
   - Microsoft AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - AI
 
 related:
   - title: "How Big Data, Predictive Analytics And Machine Learning Changed The Railway Industry"
@@ -137,6 +131,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Big Data Analytics Firm Palantir Adopts IBM’s Red Hat OpenShift"
+    excerpt: "IBM and Palantir Technologies on Monday announced a new partnership consisting of IBM’s hybrid cloud data platform designed to deliver AI for business, with Palantir’s next-generation operations platform for building"
+    publishedDateTime: 2021-02-11T16:40:00Z
+    webUrl: "https://ctovision.com/big-data-analytics-firm-palantir-adopts-ibms-red-hat-openshift/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 24
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
+        isCached: true
   - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
     excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
     publishedDateTime: 2021-02-08T10:21:00Z
@@ -166,6 +174,6 @@ related:
         height: 450
         isCached: true
 
-secured: "uJaNHQrr5eeS6ZqN5e6/qGMj+MemjOvpPd29nOGi6s9ZD7Lie9HXKcvJymkEjqSkxRjW7MwRpfe3d+AMnyjZ7scJwjrZ6NilAjzNDGXdik2yCPfLT7NWBebfX57mviSVoX19iaVC3/5nX8L1JIQOJvtTesevRihyXvWfDWQADXH6VWoF94VDQL91cQUIjiiTTBiYCHoAmxWtdoUkHEJq3O2w1MsQtVo6pdWi+F2q2A0/GZBWOz0k/pBl5svi6AccWfIf4wi+xdjrN7MAk0gF8KuplCv/UiPmDHRM4cPE+mrT+KeMmmuqSkt0mQbnbfbduc9jAn+GGG7bM9xDAG9BJUoWQWbGR94t0TDbgPX0Rp8=;CmYI7mnkToA5v2LH5CvvQw=="
+secured: "HU/HyC46b+LriAUA4mr4r6L5AKUu4YjdRh5hEi/cmMTJdmYhIENXbHBY113f+ax3VwuVF3h4b8CxnYjgyREvYx8uASJszC8vo56Py0qgxwCnfPJd/fP0PXhxR2zFsrCT0McfKcUgknFDLd6091gXU+oRkqyfsHPNxIoLgd464YMGWMnNp4htfx67Ti/rGfVaYAYpDcnheuBbRaYsVGrP/NzqAhKburgJYN8xxFfxJqfHD2168KQxZxfDEGaFiq73YZVOWVt4zMeUBc+7Sw4EOu8eVdpFTTwHGACbRRN1hdv4sXuMmGnmmYwj6KyzXfx9hDeHII84e6WYtOqLK3ODkgI4omeF9eKHBqhyiJPuaZg=;H+/uXcaMFJfPdwfkSDkY/w=="
 ---
 

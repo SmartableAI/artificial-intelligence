@@ -23,6 +23,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "ManagedMethods Launches Industry-leading Student Cyber Safety Monitoring Powered by Artificial Intelligence"
+    excerpt: "ManagedMethods, the leading Google Workspace and Microsoft 365 cybersecurity, student safety, and compliance platform for K-12 school districts, today announced the launch of its Signals student"
+    publishedDateTime: 2021-02-11T16:56:00Z
+    webUrl: "https://www.eschoolnews.com/2021/02/11/managedmethods-launches-industry-leading-student-cyber-safety-monitoring-powered-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 0
+
 secured: "E9wGyy/qDm/Qobnt5Fi/brzUN0G9eCClwMLUWNLuf7MIbukMpEJs1GSUJl6gN/8SdkGaZPslETap6ZbLyA5yTFr/B8TCiwHvj5F5WsKljSxpOJhcJh0H6kzZkN9cVGMTxPu+kpIh8mZwwslpCNoNvq0crVc0xQbvB1SW41NjTXaZd7Ws6Ko8wmrZlnr9thqDqVm5y6gpztXCtbKOSGYIzjY3LX/9Wx2Zb8SGorA6vqOzYPR01TPThfZqHuaLFQlvQKgSR9ujvXc46pkY8GjnR9zxZ90GWHK2ly7CKpL9G+W6Azo6FSW2JZ4n35J8ImO1RRVjmjr1EdaS4a6ih1ux9e/TyYroYk7EBvvZE84ZImY=;+72zyrewLnOZrNd8iL0GpA=="
 ---
 

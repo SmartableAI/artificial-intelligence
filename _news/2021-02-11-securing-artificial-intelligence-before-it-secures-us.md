@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-11T14:31:00Z
 originalUrl: "https://www.eejournal.com/article/securing-artificial-intelligence-before-it-secures-us/"
 webUrl: "https://www.eejournal.com/article/securing-artificial-intelligence-before-it-secures-us/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.eejournal.com/wp-content/uploads/2021/02/max-0071-image-for-home-page-ai.jpg"
@@ -41,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "yaC/ImQfRJM11yOUdcVyX+vwVjvPg9Lntho5lab9A1pzwPMgC4PLIKicxroFoXKf7MuoNto57f01q3sN5aNkvN7P6LWnnE43Mwfoxt2G3zAZ4MtX815W6zhPw2Tu7KR/WiCJY6ssnFHAhVGvqqj+LXUX4IZNnLWpKsyVfBNX/hOSwaCcyRgMd3Nrg7tjON2/RGMo5yagMWrT/vgs5Dn15U/e3yFOZy+P0fPluNLRICSn/7OSXXU6OgQRhFVi0yL13xYMXnfQHODfDJatsoNO3Z+qRTxLFKWYuc/O5lyeWs2aQ3fcXFVTF7N7CfBW1KedA4MCtWfICC2Y9d16wALZqfLVMN7nNjhvH7s6eyhAM5c=;Vzt0oKslSWVwqR0eepgFtg=="
+secured: "7Gwb1cce0RizUfyCtZNLLZjy2hs8ox544Y3AFKvoLrYuoiSnARA27O9SD98LVjjGttlpYReVxGTuwyqUctS7un9UTO+0i6MSKbXOUfAYPSC5TNPO3yT7s0W7fANsnh5jWCK33J+E+9wR7Kt2JLE4ez1sz3WuUGeTWvtwkhIvsxDgK00k5DLwMOtt4Ylo8ytXNmZ6B4l+QkV3oAyISj1JtltiHkV+cfahDPbVD73/8i7GjsZTJDMXHpPr2iT7PpK2Bcs4gCYVDg01BQft+mNMChKnOzsuXeH/wibJmb2A1McuV8OwMwTJ+a/yWAYqejTPQe52bhiRhScILB1ssisRlJwxJ3ruqTXIDJtMAN3TiWjGZpsiBrfroJ0rVPMF5jFCVa4q6AYP3E3Oap/npRxw5wBdYNS6XPJVELhgUXUmeCGLUJOAZWAJSDM3wV4kW2BhGjuQlGlAcvT6/siFGQiNsrr3i9iqdutXnT4mL6whsdHqMnYQ0o6uL8WR1JVKbgce9Z5ZxG1jR3OhIznF4udlaw==;MV6j/I6m52GNraOtqRGrfQ=="
 ---
 

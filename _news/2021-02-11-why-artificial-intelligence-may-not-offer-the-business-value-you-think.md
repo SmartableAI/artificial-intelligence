@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/information-management/why-artificial-intell
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/why-artificial-intelligence-may-not-offer-the-business-value-you-think/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 480
     isCached: true
 
-secured: "Eo/DUvRak2KglQlIJ9V7AjBQsta1b1/8nZb+ABWzaqPKtBZbCy/Ai+MIyzHjWZgQjAbz4QiPISrXzgbqkJ4j8eZ14mfgWhDzdz7dHeauFMYCkuqPohANEYBHef5hOmqNYe3ZYDuX0kMXJI572v9GhgcAxy2mBCE4tocbM8mCIjt9IJV9xlo17gdBYRby5yUvE7ceT7NDY58WOS+Z25zFUVgu3FNLGxeJgYNn35zJt4T1VcgTeMYjB7duoR14zwas2JmwrPwfq7Ze8Br7PFdgQFKfeADnHhzkRbxm4Mdlq2qZqgsN42DaKHHGVpCfuqajcKrzQ1X89amzXNakPYYwJzC30NJjJhoM4RVf+EXxszE=;qvg+pxwCTU1cJH+uTNFOHA=="
+related:
+  - title: "Why Artificial Intelligence May Not Deliver the Business Value You Think"
+    excerpt: "Why Artificial Intelligence May Not Deliver the Business Value You Think PHOTO: Adobe Last September Gartner published his Hype Cycle for"
+    publishedDateTime: 2021-02-11T15:56:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/why-artificial-intelligence-may-not-deliver-the-business-value-you-think/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/why-artificial-intelligence-may-not-deliver-the-business-value-you-think/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/why-artificial-intelligence-may-not-deliver-the-business-value-you-think/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 56
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Why-Artificial-Intelligence-May-Not-Deliver-the-Business-Value-You.jpeg"
+        width: 640
+        height: 480
+        isCached: true
+
+secured: "OkzrKPhzx2WRZQnZwZcfVJT/a1MUEGmrmVtV1rQysiZzc5ynoojg8qaVMQL9OxapGp63F/3Nv+wkeo7G5nWmmHZPu3pR8x086ogeHHUQEzmhTlA40kG5Jca4kn+d9iFpyh6wK3V9nKKtfHsirC11RUYA4p+OWISv9PzJXY2J1axF/antzVA82C0a0403VWLaz8j4fgKecabH0yn6vBRyb58f1clHMppPyJY7nJ28ywgajyJ4Dlu78RHR35Q03eRtoIDSMfGqiJLdacO3j6zhmMvJlFkVf/LnK750+v3mFpGsESuJORfkKz0y+LHRcdg95s7LJNvRiAgrUpdkOEL1GxQ/185TEOjr7olhvU09BEOZb0AxWRvBZ/tCQJVhJPD2X9XW+IJLWVQRs4W2+5ZEAH+T1UT82j2NEvXa6JgiWpmqsp3yZOJPAvt2A9Dr2A9WgoFV111E66VVdu6kMMGYahWXP8eX5ASGvLVqsRxeZYBZW1IMtQSRLCGbWJusaabrvy2M/08maSu9LRrhMwli+A==;9h13i5wU8Suee1Jd7ivmCA=="
 ---
 

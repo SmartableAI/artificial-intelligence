@@ -27,38 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car firms reveal 2020 testing data: Cruise and Waymo improve, Apple stalls"
-    excerpt: "The California Department of Motor Vehicles reveals how companies operating autonomous cars in the state are progressing."
-    publishedDateTime: 2021-02-10T14:55:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
+  - title: "The Nine Ground Rules For A Driving Robot That Can Drive A Non-Driverless Car"
+    excerpt: "These are the nine key ground rules for devising a driving robot that will turn any car into essentially a self-driving car."
+    publishedDateTime: 2021-02-11T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 81
+      name: Forbes
+      domain: forbes.com
+    quality: 103
     images:
-      - url: "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg"
-        width: 1200
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6024c713431d57f28c582277%2F0x0.jpg%3FcropX1%3D438%26cropX2%3D3976%26cropY1%3D71%26cropY2%3D2062"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "Driverless concept vehicle tested on Guam, controlled from Japan"
+    excerpt: "A driverless concept vehicle had a test drive Friday on Guam that also showcased DOCOMO PACIFIC's 5G technology."
+    publishedDateTime: 2021-02-08T14:15:00Z
+    webUrl: "https://www.postguam.com/business/local/driverless-concept-vehicle-tested-on-guam-controlled-from-japan/article_ff513a68-69dd-11eb-8ead-a39467feb72f.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/2/1b/21bfc9f2-69e3-11eb-a366-0b1a61c8ca3c/6020ef8c82988.image.jpg?resize=945%2C630"
+        width: 945
         height: 630
         isCached: true
-  - title: "Apple doubled California self-driving test miles in 2020, disengagement rate improves"
-    excerpt: "Each year, the California Department of Motor Vehicles publishes detailed information from the companies testing self-driving cars in the state. This year’s data has just been made public, and it reveals that Apple completed 18,"
-    publishedDateTime: 2021-02-09T20:47:00Z
-    webUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/"
-    ampWebUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
+  - title: "Docomo Pacific tests driverless concept cart powered by 5G network"
+    excerpt: "NTT Docomo's Guam subsidiary Docomo Pacific said it tested the new driverless concept cart SC-1, manufactured by Sony and powered by Docomo Pacific 5G. The SC-1 leverages 5G mobile technologies for various remotely controlled functions."
+    publishedDateTime: 2021-02-08T09:55:00Z
+    webUrl: "https://www.telecompaper.com/news/docomo-pacific-tests-driverless-concept-cart-powered-by-5g-network--1371525"
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 37
-    images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "sEkZ1vNVfgxBhhpBXPm3LSUa51voC556aysoNaWebHnZ6nnAWwfyleMe//o4nRB2T1/I4KWoKY22Ku5Wiif+831aJzDoJ+WxFnE1a04Pu6nF+h6FIRSu44VTALKeMkdyqMmgDoluu4+5+AZgv9dA2tBr+Hi4BShqmZcizOdODtkZPS9xvkeSkEXTWa2pQzUoSVPr5+hgJr+EjrqNjr1dV8KLIpUGmqzyAUkqSO4Rc6yt8zvXh1dB3YXXDuB+NLY8sdDJpZCp5I/6qB+FJq0HOtvnyPzKx6XD2LbwTzkYHWfn6GhLtLQqSSn4gm5FK4xIBNO6VUxyPdGiUJJ02/m3yn/d13FR7hxuBFV6zNDFRid5Xr4Cllg26LJjrDfaGHYUyhSbLvewG0JuLi24rC+n6IRJAWI9QLX2irDBlyTlvnDzsy3g0LXSptpb2YV8El4Biq4+SQ3+Tgo8dDomEh8YSxr7D3BijiQJivnT6ZEAJnxq/HGAbw37WurhHnDPSsZw8BsIxgxD0LVKtI344izO7Q==;sXFUSV0DRQ46/UxACu7csw=="
 ---

@@ -74,22 +74,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Artificial intelligence can determine whether you'll die from Covid, finds study"
-    excerpt: "Using patient data, artificial intelligence can make a 90 per cent accurate assessment of whether a person will die from Covid-19 or not, according to new research at the University of . Body mass index (BMI),"
-    publishedDateTime: 2021-02-06T23:15:00Z
-    webUrl: "https://www.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
-    ampWebUrl: "https://amp.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/coronavirus-pandemic/artificial-intelligence-can-determine-whether-youll-die-from-covid-finds-study"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 52
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20210206/ARTICLE/210209333/AR/0/AR-210209333.jpg&NCS_modified=20210206200205&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Artificial Intelligence Tool Combats New COVID-19 Mutations"
     excerpt: "A new artificial intelligence framework could speed the development of vaccines to treat new COVID-19 mutations."
     publishedDateTime: 2021-02-08T14:31:00Z

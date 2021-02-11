@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-12-the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car.md",
+      "title": "The Nine Ground Rules For A Driving Robot That Can Drive A Non-Driverless Car",
+      "excerpt": "These are the nine key ground rules for devising a driving robot that will turn any car into essentially a self-driving car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6024c713431d57f28c582277%2F0x0.jpg%3FcropX1%3D438%26cropX2%3D3976%26cropY1%3D71%26cropY2%3D2062",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/",
+      "publishedDateTime": "2021-02-11T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands.md",
+      "title": "Nvidia: Researchers train AI to reward dogs for responding to commands",
+      "excerpt": "Researchers Jason Stock and Tom Cavey have published a paper on an AI system that rewards dogs for doing tricks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/",
+      "originalUrl": "https://venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/dog.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/amp/",
+      "publishedDateTime": "2021-02-11T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming.md",
+      "title": "Bowery CTO Injong Rhee on the grand challenge of AI for indoor farming",
+      "excerpt": "Bowery has opened what it calls ones of the largest indoor farming R&D operations in the world to tackle challenges using machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/",
+      "originalUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Bowery-Farming_LEDS_Photo-Cred-Courtesy-of-Bowery-Farming.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/amp/",
+      "publishedDateTime": "2021-02-11T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision.md",
+      "title": "Intenseye raises $4M to boost workplace safety through computer vision",
+      "excerpt": "Workplace injuries and illnesses cost the U.S. upwards of $250 billion each year, according to the Economic Policy Institute. ERA-backed startup Intenseye, a machine learning platform, has raised a $4 million seed round to try to bring that number way down in an economic and efficient way.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/",
+      "originalUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/founders-1.jpg?w=1024",
+          "width": 1024,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/amp/",
+      "publishedDateTime": "2021-02-11T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members.md",
       "title": "Humana now using IBM Watson's AI-enabled virtual assistant for health insurance members",
       "excerpt": "Humana announced today that it's teaming up with IBM Watson Health to deploy IBM Watson Assistant for Health Benefits for Humana Employer Group members. Conversational AI (artificial intelligence) through the IBM Watson assistant will be used when agents,",
@@ -200,6 +408,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-11-brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth.md",
+      "title": "Brain Corp Extends Leadership Position in Autonomous Mobile Robots with Record 2020 Growth",
+      "excerpt": "an artificial intelligence (AI) software company creating transformative core technology in robotics, today announced record growth in 2020 as global retailers ramped up their adoption of robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "publishedDateTime": "2021-02-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-ta-digital-launches-searchboostai-to-drive-relevancy-and-personalization-through-cognitive-search.md",
       "title": "TA Digital Launches SearchBoost.ai to Drive Relevancy and Personalization Through Cognitive Search",
       "excerpt": "TA Digital announced today its foray into the cognitive search space with its maiden intelligent search solution, SearchBoost.ai. This is the first SaaS product offering by the company. Website and ecommerce search tools that exist today tend to solve for relevancy by optimizing indexing or results ranking.",
@@ -294,7 +545,7 @@
       "originalUrl": "https://www.forbes.com/sites/sap/2021/02/11/how-big-data-predictive-analytics-and-machine-learning-changed-the-railway-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -982,252 +1233,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-cye-raises-120-million-for-security-using-hackers-and-ai.md",
-      "title": "CYE raises $ 120 million for security using hackers and AI",
-      "excerpt": "CYE raises $ 120 million for security using hackers and AI The rising number of cyber attacks in recent years has led to a massive",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/",
-      "originalUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/CYE-raises-120-million-for-security-using-hackers-and.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/amp/",
-      "publishedDateTime": "2021-02-10T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-self-driving-trucking-startup-taps-us-chinese-investors.md",
-      "title": "Self-Driving Trucking Startup Taps U.S., Chinese Investors",
-      "excerpt": "Self-driving trucking startup PlusAI raised $200 million in fresh capital from investors including several top-tier Silicon Valley venture-capital firms as well as a Chinese investment firm and automotive companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-297255/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "publishedDateTime": "2021-02-10T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.md",
-      "title": "Salesforce taps AWS machine learning tool for document automation in health cloud",
-      "excerpt": "Salesforce launched a new machine learning tool, powered by Amazon Web Services, on Feb. 10 that aims to help healthcare organizations digitize their document management processes on a single platform. Salesforce's Intelligent Document Automation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-four-predictions-for-artificial-intelligence-and-machine-learning-in-2021.md",
-      "title": "Four Predictions For Artificial Intelligence And Machine Learning In 2021",
-      "excerpt": "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
-      "publishedDateTime": "2021-02-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-langai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses.md",
-      "title": "Lang.ai snags $2M to remove technical burden of implementing AI for businesses",
-      "excerpt": "Lang.ai, which has developed a no-code platform for businesses, closed on a $2 million seed funding round. The company’s SaaS platform aims to allow business users to structure any free-text data with custom categories built through a drag & drop interface,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
-      "originalUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Lang.ai_.jpg?w=1024",
-          "width": 1024,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
-      "publishedDateTime": "2021-02-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -15,6 +15,10 @@ published: true
 provider:
   name: theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv
   domain: theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -219,6 +223,6 @@ related:
         height: 300
         isCached: true
 
-secured: "guS6YQ6B+JLzxAFnhjhzyeta506c54NvIBo2GcxitOG0KSTQKXv7OvHCGoUKl38CzI1A0ChreCRKsZdxn3nQYvv5spikrVfgkqxLMGAzBRaYLceKG96MNIvi7par+h8kQjfXmovK6vvwB7f/AT2wFGnGoqc4UZPnR2f5A/AjewUD8GDbCdc6hMmQ69WWgVQltUi1WAjpXGv+WSi/ESNFN7qWTnMi0gC3INXsa3EzmvK+kVuXtEM0dxVUp0qHlJx2yWDnIUYGt/JGJNlci+Nr6Ap0LM445xbdPJ8z1x65U6+4tCQZJWgJr9OL7Qq1RcH7QvvKATeBwxfDEre+sXFAEjOKdy0+kQywtSBrJp9xAt3VIA8TsFsrurKpr0N0wiOhcg9MNp038HJN7xt9pHTA5YWx7dNH+xevOFcOmXKlNAMz9QigMoENr0LYfCElef26ujY0VNTXxrdka6MUzDM7XJhxEiTonVSq0qDKFZkyAYpX8GGlXopwIVoYsrx+sk4G9Qu+4DRNtIprh5ge0kLF85beJkwTzZSUXxUCItSUb4E=;2ceFnYsJnuGxt/nv2hkAhw=="
+secured: "IYS36IrCaU8apWMyK9KdJjCoNfzdLBsgU4/oAKcBqgpQ6FskP4Y2ILYQLH0IYjgGR+Kr+3YXtfFiS3M7sti5cfuBweVS18FZL+OxXbQrGmjDil1BDyJk4K6cgELV1tMmp5ZkmNqyPa3fU+K0xP9gfVAg8j0GISvHbg/Flu7bVm9JOYfe5EoObXkWgjx7dGXjzj+CiPbaPyjo4JSIwSsFGV/JAk6oj35zmkngBooMWBP8ckPznX1Sr43NWwmxwk3dYXQH/xQYd2NKTpbGodMxKkAebsLze81G3zw+4I7k4dUsmTA1ElxuZs+lhykPA85gE2m+HVzCDfUnz+u9dDZzwRh3/kBxJyNY3BKPJANjR0XpsBHUpJgDSshb4Wh7Z+JWXJElzlD/MHA6V1nvYvAFSnjR+NZ6uesEqC5EYJ0WZP4CljQdg6d85lX1fSDJ1u4tSW+UD2vGzKP252e2SVYgIfCcd5EUQ0DC3DKbPPNhfAB3NI2gBDmK4u1fsdIjfeItxnIa4cgwidumsoCWJvxKPt4KYi/om9n7WUKYmJX/prk=;T0VHSuuDQw0at3hIdxjFQw=="
 ---
 

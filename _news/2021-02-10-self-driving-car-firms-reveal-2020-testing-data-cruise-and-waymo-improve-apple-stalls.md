@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-c
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car for testing Technology Parkway"
-    excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
-    publishedDateTime: 2021-02-08T20:18:00Z
-    webUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 44
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Apple doubled California self-driving test miles in 2020, disengagement rate improves"
     excerpt: "Each year, the California Department of Motor Vehicles publishes detailed information from the companies testing self-driving cars in the state. This year’s data has just been made public, and it reveals that Apple completed 18,"
     publishedDateTime: 2021-02-09T20:47:00Z

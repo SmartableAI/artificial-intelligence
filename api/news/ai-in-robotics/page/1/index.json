@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-12-the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car.md",
+      "title": "The Nine Ground Rules For A Driving Robot That Can Drive A Non-Driverless Car",
+      "excerpt": "These are the nine key ground rules for devising a driving robot that will turn any car into essentially a self-driving car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6024c713431d57f28c582277%2F0x0.jpg%3FcropX1%3D438%26cropX2%3D3976%26cropY1%3D71%26cropY2%3D2062",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/",
+      "publishedDateTime": "2021-02-11T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming.md",
+      "title": "Bowery CTO Injong Rhee on the grand challenge of AI for indoor farming",
+      "excerpt": "Bowery has opened what it calls ones of the largest indoor farming R&D operations in the world to tackle challenges using machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/",
+      "originalUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Bowery-Farming_LEDS_Photo-Cred-Courtesy-of-Bowery-Farming.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/amp/",
+      "publishedDateTime": "2021-02-11T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth.md",
+      "title": "Brain Corp Extends Leadership Position in Autonomous Mobile Robots with Record 2020 Growth",
+      "excerpt": "an artificial intelligence (AI) software company creating transformative core technology in robotics, today announced record growth in 2020 as global retailers ramped up their adoption of robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "publishedDateTime": "2021-02-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026.md",
       "title": "Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026",
       "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
@@ -1139,6 +1287,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-02-sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence.md",
+      "title": "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
+      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T17:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-rpa-startup-uipath-raises-750-million.md",
       "title": "RPA startup UiPath raises $750 million",
       "excerpt": "Robotic process automation startup UiPath has raised $750 million in a series F round valuing the company at $35 billion.",
@@ -1188,188 +1379,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023.md",
-      "title": "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023",
-      "excerpt": "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control.md",
-      "title": "AI: MIT scientists develop a new ‘liquid’ neural network – ‘future of robot control’",
-      "excerpt": "MIT scientists have developed a type of neural network that learns on the job, not just during its training phase. These flexible algorithms, dubbed “liquid” networks, change their underlying equations to continuously adapt to new data inputs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/",
-      "originalUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tunisiesoir.com/wp-content/uploads/2021/02/AI-MIT-scientists-develop-a-new-‘liquid-neural-network-‘future-of-robot-control.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp",
-      "cdnAmpWebUrl": "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp",
-      "publishedDateTime": "2021-02-01T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tunisie Soir",
-        "domain": "tunisiesoir.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-ingen-dynamics-to-continue-to-diversify-application-of-ai-and-robotics-technologies.md",
-      "title": "InGen Dynamics to Continue to Diversify Application of A.I and Robotics Technologies",
-      "excerpt": "Press Release InGen Dynamics, a Palo Alto, based Robotics and A.I firm, raised a recent round of funding bringing the total funding commitment to $4 Million at the most recent valuation of $45 Million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/",
-      "originalUrl": "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/amp/",
-      "publishedDateTime": "2021-01-31T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
-      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "originalUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-31T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

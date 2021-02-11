@@ -71,19 +71,16 @@ related:
         isCached: true
   - title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
     excerpt: "Watson Health today announced a collaboration leveraging IBM’s conversational artificial intelligence (AI) solution – to help provide a better member experience while providing greater clarity and transparency on benefits and other related matters for Humana Employer Group members."
-    publishedDateTime: 2021-02-11T13:09:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-managed-health-care-providers-personal-health-insurance-access-to-health-care-adfa89aa5d5d4315aeb0e0eb5e9e00e7"
+    publishedDateTime: 2021-02-11T13:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
 
-secured: "//cBUV24J+A7/02Z8krUIMSQrNYaD73ObOszmEJclcgSHj04+bmCCnwWi+GID7Rf/qTPBeC3yGLc/+dRpZtvPth6w6kTDMTQ8NnP3uhbfok1NfTtHTtakW/YAO2hl0It0Bn1Tf0ihrCAhWqN1wxdntUpzsda7kGXosDuvsQ7CnskKebmqrN+kA/fBg94LPXJ6wDNDKSLfutytzRFtwW1tRGJwkd23h9pCCN3bYRc6/DH3m0KjKyyr2hz5hHBfzT1V8mGrwH49XieAYVWQqWpfzqPIiu53wHNWhlftFpi68m1HSqpFVE7h2do2BF3Y4kRbGm/SazZCu/xsCn705GqXtpivsLqp3YPnpiW5jIuZCQ=;1KClTt3FeUxeXXTJ2v613A=="
+secured: "XEKbJandXP/7I1nK68Q17AJAjbKc0Z/5WUYmvUvt1ORtp/GLzpSGdWjwE+ARRB2OT1XbC+AUFiUXk9egK0TDC7/l2M+iwNE4ZHBm1l63LDkOLrehj280BYVUKCPhPnovo7yM1RJut5LhjVHBmUaB5DCkpYW7v3nrNbBbN809alR/2vKfgbJ55a9ajGag89MbvW5//LD8qDZJl+COZ1fQ/H13CJycqDX+fsYXsDoa8BTMxjWD8v/AFGFKaJrxKfSAGYaqWkPHv2pykJq6lBggWKRJnODjbZp7fkPwdMvdo1RrSICpPQCKdgnQ6Ag8DgA0oCdFIH1rvavG4fOjQPXPBN9pVOvwat4XRGo3HYGZOK1nY60Tu2kS8PcXAq8ApR0rtL/brvaC3ZgbmsLKZf2LJMsGvKLeEBSV1QkQcXQwCwuZaml9z29HnjXrIDtg7wPHt64h7/sKScMLXSP/WoRHEhQa+TsP187wAGHWRcwUfu9Vq8HPsy/GyzIiqsIGBIwTK8f3GflWAVtNk14a6iTQGA==;0GDXk4nz1AeebHxQGu8Irg=="
 ---
 

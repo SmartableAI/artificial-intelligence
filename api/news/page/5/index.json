@@ -2,6 +2,265 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-07-qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere.md",
+      "title": "Qualcomm research could lower the barriers to visual AI everywhere",
+      "excerpt": "Qualcomm is working to reduce the compute power needed for visual AI to enable chips that are smaller, cheaper, and less power hungry.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/",
+      "originalUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Qualcomm.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/amp/",
+      "publishedDateTime": "2021-02-06T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-delta-expanding-facial-recognition-technology-to-domestic-flights-in-detroit.md",
+      "title": "Delta expanding facial recognition technology to domestic flights in Detroit",
+      "excerpt": "Delta Air Lines is bringing facial recognition technology to domestic flights. Last week, the airline announced that it is launching its digital ID technology for domestic flights out of Detroit Metropolitan Wayne County Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
+      "originalUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Delta_iStock-1263361477.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
+      "publishedDateTime": "2021-02-05T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-aiops-and-the-quest-for-the-grail.md",
+      "title": "AIOps And The Quest For The Grail",
+      "excerpt": "For those unfamiliar with the term, AIOps simply means applying machine learning to IT operations functions. But implementing AIOps into a complex environment requires patience and a carefully planned strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dd5597ee5beaac0f4d34d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/amp/",
+      "publishedDateTime": "2021-02-05T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-former-cios-discuss-what-it-takes-to-be-a-startup-ceo.md",
+      "title": "Former CIOs Discuss What It Takes to Be a Startup CEO",
+      "excerpt": "A new generation of business software startups is taking shape, in some cases with former CIOs serving as founders and chief executives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
+      "originalUrl": "https://www.wsj.com/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-295677/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
+      "publishedDateTime": "2021-02-05T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions.md",
+      "title": "Serbia And Key International Sovereigns Lead With Data And AI To Become Vaccination Champions",
+      "excerpt": "By leveraging the power of advanced technologies and artificial intelligence, nations like Serbia, Greece, the UAE and Israel have been able to set up an optimized and effective vaccine distribution framework.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dbde7581359319aa2b051%2F0x0.jpg",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/amp/",
+      "publishedDateTime": "2021-02-05T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-puppy-training-a-robotic-dog-points-to-the-future.md",
       "title": "Puppy training a robotic dog points to the future",
       "excerpt": "But don't rush to call the animal welfare authorities - it's a robotic dog undergoing training at Edinburgh University. Alex Li is the Head of the Advanced Robotics Lab at the university and is among those leading the way in applying artificial intelligence (AI) to robotics.",
@@ -978,238 +1237,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-computer-vision-in-the-fight-against-the-covid-19-pandemic.md",
-      "title": "Computer vision in the fight against the COVID-19 pandemic",
-      "excerpt": "Computer vision technology helped Taiwan nip COVID-19 dissemination in the bud. The technology proved efficient for virus spread prevention.",
-      "sourceUrl": null,
-      "webUrl": "https://jaxenter.com/computer-vision-covid-173692.html",
-      "originalUrl": "https://jaxenter.com/computer-vision-covid-173692.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2021/01/shutterstock_1713989494-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-strategic-eyes-brain-inspired-hardware-for-robotics.md",
-      "title": "Strategic eyes brain-inspired hardware for robotics",
-      "excerpt": "Strategic Elements appears to be boldly going where no one has gone before in the artificial intelligence sphere as it looks to utilise its",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/strategic-eyes-brain-inspired-hardware-for-robotics-9773130",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/strategic-eyes-brain-inspired-hardware-for-robotics-9773130",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/strategic-eyes-brain-inspired-hardware-for-robotics-9773130",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/strategic-eyes-brain-inspired-hardware-for-robotics-9773130",
-      "publishedDateTime": "2021-02-05T00:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-artificial-intelligence-will-change-the-way-we-work-once-we-get-back-to-the-office.md",
-      "title": "Artificial Intelligence Will Change The Way We Work Once We Get Back To The Office",
-      "excerpt": "AI is set to change the way we use video conferencing in the office. Logitech and Zoom have been working to bring the home experience of webcams into the boardroom and make video meetings more dynamic and productive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/02/05/artificial-intelligence-will-change-the-way-we-work-once-we-get-back-to-the-office/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/02/05/artificial-intelligence-will-change-the-way-we-work-once-we-get-back-to-the-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6017c5cb22288c6dc4172fef%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/02/05/artificial-intelligence-will-change-the-way-we-work-once-we-get-back-to-the-office/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/02/05/artificial-intelligence-will-change-the-way-we-work-once-we-get-back-to-the-office/amp/",
-      "publishedDateTime": "2021-02-05T00:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026.md",
-      "title": "Healthcare Artificial Intelligence Market Analysis, Industry Outlook, Current Trends and Forecast by 2026",
-      "excerpt": "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-etihad-airways-transforms-operations-with-microsoft-ai-capabilities.md",
-      "title": "Etihad Airways transforms operations with Microsoft AI capabilities",
-      "excerpt": "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/",
-      "originalUrl": "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/201122084121FMQX.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_199629494/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_199629494/",
-      "publishedDateTime": "2021-02-04T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

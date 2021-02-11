@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-02-machine-stellar-tess.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-stellar-tess.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 1440
     isCached: true
 
-secured: "F+cCigZ5Y588zB8Eg4riTM+YjgK37tAXkoTQ7sBXaeRFYWww/G4eSj3HN0CEuAC9ABH98hkQHo9OncJsw6lSXBB1C2Ht7aAkztuySXyf8SgIuvYJALym6vFnyqIsEpHe/HNPLB7m8y8lZwGRFQRTypEaXPOpc5TOWP1QArVJ+IB72JeBPfY8p0aL6jaGwX6VggUUMHocPe3IcUtBAx9odPVD9fXbxkP71mGb3g4HthdopmjC9hcnkHfaPqJwp2HB0gOhxiELgsKiwi5/eLbkjuRq2FcW8clvdFmTOe61xEo4K0AciO8aRnw3i9jIHUW/vSxJt0OURUvpLKgNmUz8z9lS5/dx0oP4d2ACr+YdGf4=;jvaomYN5FtLxNjreIlX4Fg=="
+related:
+  - title: "Researcher Uses Machine Learning to Classify Stellar Objects from Satellite Data"
+    excerpt: "A game of chess has 20 possible opening moves. Imagine being asked to start a game with tens of millions of openings instead. That was"
+    publishedDateTime: 2021-02-11T15:54:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/researcher-uses-machine-learning-to-classify-stellar-objects-from-satellite-data/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 34
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/us-air-force-hpe-cray-2021_800x-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
+
+secured: "bsSqoJ+CIZMrl21SlfiqAxE+qWcg+Y4+j4TzEaIyscQhhiTcsNCT5LcY2rAk5M/fMJsIiVumT9VmHm0xH8v8Ur+A0ojPigGNXjiNfTAyS59clfpCaX5I7550a5PE/FOK8vY4qAIqN9VtT+1SbekqzTjPvbUaTZ7JWl1kRzOgdv1a/3kII1yBWBVPA61wwA6ZYb9MhRm0QYUIKhY4foblddVZjaDLyPIEWWDMBXko5dS5Tyt8tuXxJOWTeacvcPjw98OXPW3v0YOcj9xAfSzSJRhSaygUa7bdtmqp0zY3GLvMUJuhhdzHboplHfqtkkELNFUZSpit38p7+fmKVmBEeyuqB/nj8TXBZ5rY66DXvMEkce0Ui2V8TbiNvX+LmQwG2ovfmA+c4+5vwuuNuWupuVa9zJcwFNW0P16TtrpPU1NG+jsXP+VwbOMf6d4yMnWL3GiWxgJ5XoYoiSsybyP8Hvudz8sH+qmlVMnUtDcovjgid9ZcN/n2dQuqxNnirGNfhz3vkMLQFWAFhNdJkF64rw==;Sjk4KgMkgNDVr/9Cqcc+nQ=="
 ---
 

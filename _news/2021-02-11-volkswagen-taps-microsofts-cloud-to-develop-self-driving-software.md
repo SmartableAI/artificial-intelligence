@@ -3,12 +3,10 @@ category: news
 title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
 excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
 publishedDateTime: 2021-02-11T13:58:00Z
-originalUrl: "https://www.reuters.com/article/microsoft-volkswagen/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-idUSL1N2KH04Z"
-webUrl: "https://www.reuters.com/article/microsoft-volkswagen/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-idUSL1N2KH04Z"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KH04Z"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KH04Z"
+originalUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
 type: article
-quality: 91
+quality: 71
 heat: -1
 published: false
 
@@ -26,9 +24,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
-    width: 877
-    height: 545
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
+    width: 800
+    height: 496
     isCached: true
 
 related:
@@ -94,6 +92,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft and Volkswagen will collaborate on self-driving car software"
+    excerpt: "VW plans to use Microsoft's expertise to build a cloud-based platform for future autonomous technologies and driver-assist systems."
+    publishedDateTime: 2021-02-11T15:22:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/microsoft-volkswagen-self-driving-car-software/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 91
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/Uxb-ku5Ohm5TlkF7oBGUQ-AjDd4=/2021/02/11/08b48d05-cd96-4e30-bf94-9a371a41ae28/ogi-vw.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Volkswagen partners with Microsoft on automated cars"
     excerpt: "Volkswagen Group is enlisting Microsoft’s help to speed up the development of autonomous driving systems, the company announced. It has already worked for several years with Microsoft on cloud computing for connected cars,"
     publishedDateTime: 2021-02-11T10:55:00Z
@@ -126,6 +140,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
+    excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
+    publishedDateTime: 2021-02-11T16:17:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
   - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
     excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
     publishedDateTime: 2021-02-11T12:00:00Z
@@ -346,6 +371,6 @@ related:
       domain: oaoa.com
     quality: 20
 
-secured: "fgwgSu/38/kUGFBjNHownOzQy/2mE9E4vKAY1TuZH8Jvp8cGxi3X8Zq3o30+wlGRiI7OM9OdCzDCV205ytXh9q12Sp+r6hri2MSZh3+MBhB42W9MXPjH2vxQKMlvrSJKfCNvDsM7kb46BmvK1duw1As7xWHY9adbAcJ4lSqebRfTRrg95Gca2FF09Ut3ZMJyfAZCO6mgKeE2BuVZhP4q+XEVnRsYeiZA2LqBhwbMAY7KrHR+gPf0InWwrkvKNIa1lnbI3e/khNKWrqg9ihDyMbLWopIA1Zp2m9I1x5bRIV4PX1m/CVK+JdgCkk4eGtoQ5tGzlVydmxKfyYXMENrt2gGmylGJMYWuODTkP+iJpK4=;PNWqRlEcq6gOK0XM0aL7Ww=="
+secured: "A1Tg9pM9WMlJ3HDTZlyOsx0+AFDKpCLV7rOqSGcRhnYKUxYDO/nZ4u93vWJ6MpPqHBDI8GZFe2mIurPGGdXLTZbHHL2lX6ii483txtfda3OxPi/Wcrf9CU7VnBOG1vd7TpAKU1MJ/rvac4ytEr3wLc0VDULTLFL9Y/sN2CkD7mXS86co9K4xinfGZEJshyBojXAeOuTzHcMFGbcMNE0YHBi7mYAy1YZ2ux5fJ+y6l+lMbzLexTY/HMRke4Bf1LA2TBEj8xSRoIsRspUgd2OjJeVuL6mS/eLzqcY8c0pIbulTa/4tZEeOp/aQtQKrhO0Wv6IEOwL4bdgwnJOnQK3oUiYG3Zd0/+Afj6QzypCvcFI=;8jQUgYa7UgcS/9bhVBhIEA=="
 ---
 

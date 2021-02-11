@@ -55,6 +55,17 @@ related:
         width: 1360
         height: 907
         isCached: true
+  - title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
+    excerpt: "Watson Health today announced a collaboration leveraging IBM’s conversational artificial intelligence (AI) solution – to help provide a better member experience while providing greater clarity and transparency on benefits and other related matters for Humana Employer Group members."
+    publishedDateTime: 2021-02-11T13:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "Humana, IBM Watson Health Collaborate to Improve Health Benefit Transparency"
     excerpt: "Humana and IBM Watson Health collaboration to streamline access to accurate information on benefits and health care costs for Humana employer group members, agents, and employers."
     publishedDateTime: 2021-02-11T13:04:00Z
@@ -68,20 +79,6 @@ related:
       - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/6335051b45c870d35067e0bdc9258aecc299f735-3600x2045.jpg?auto=format"
         width: 3600
         height: 2045
-        isCached: true
-  - title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
-    excerpt: "Watson Health today announced a collaboration leveraging IBM’s conversational artificial intelligence (AI) solution – to help provide a better member experience while providing greater clarity and transparency on benefits and other related matters for Humana Employer Group members."
-    publishedDateTime: 2021-02-11T13:09:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-managed-health-care-providers-personal-health-insurance-access-to-health-care-adfa89aa5d5d4315aeb0e0eb5e9e00e7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "6MVpATPY4TtIn+wB0W4K4aCIeTk+7aK92z5JCXOEji8LIhhlBiWLMx9+ZTfOx/eDTVz16mmX6NqG4adE7+Ov/zvm53jE7dlu+C3HFAsbN8MswcLFwvMSp4gxTp93g3f0DwuUzihI/8fUU4/vXvCMgEIrpesDBSp/wgr8YIbzRYVTRfZIP5RMB7v/kv37ovw9Dz13dtsMkWMB8tv0AMu7sLYIAURFUMqj/xHk8Wth9VDngFUEGpuG5bg3BFEvMJfK9A59Cqx0tTvu4u6br8cSa9Q5/4Ln3AaniYEck87INIKUktkuuSPJncQugWGcNGNd4YbkZkisTCsHuIHF7CTNYNcxN1MsgPr2sPieT3H3Ixc=;1hGecnuUBRTs8l9rmhADZA=="

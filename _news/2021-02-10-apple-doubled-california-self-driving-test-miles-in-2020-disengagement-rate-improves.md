@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving car for testing Technology Parkway"
-    excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
-    publishedDateTime: 2021-02-08T20:18:00Z
-    webUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 44
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4gTQ3yUsTv9fmjypaPZOFPHFlBM+CEOF0tceqa5oO38Ny697mKTWJXE+5MWr1bzd4jvEO47+5ve3H6lAaOmu7Q9+F71P6+zNxlSFmNFOlhBrEJUVHZ6AFHAu8PuxQN0c/ssyOBe/Fysw/O/dbm9sX1GlZnLReYcls4yGxHVSmDkFD1sarGuyM+2QJGzArtZIs9OOmzqz5PIQki0uhmhGsfw4UB2QoXSuJDkRz55mUjLFInYytB23P6rfuNsBKLB6FpVcyHK3lUZA+itOkbTWYSB5wdroi53RwV0L8H6AwjJTurKC8Lud+uQQuXUYxEM6STXWRtI1qK0Qsqt3lAETTz1YQgumPxxoz2DTNkrznlA=;ZRykOrDoRh7ShCwJkNeNrw=="
 ---

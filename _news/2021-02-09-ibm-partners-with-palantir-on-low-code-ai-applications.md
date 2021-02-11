@@ -3,8 +3,8 @@ category: news
 title: "IBM partners with Palantir on low-code AI applications"
 excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
 publishedDateTime: 2021-02-09T01:02:00Z
-originalUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
-webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
+originalUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
 type: article
 quality: 39
 heat: -1
@@ -255,20 +255,20 @@ related:
       domain: telecompaper.com
     quality: 19
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-    excerpt: "IBM (NYSE: IBM) and (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform designed to"
+    excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
     publishedDateTime: 2021-02-08T11:59:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock/article_a596a384-6945-50fb-bb5b-ee15ccb0f52f.html"
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 1
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/b9/0b95e751-9808-5551-9563-4755982ca8c3/602292ca96197.image.jpg?resize=887%2C630"
-        width: 887
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
+        width: 2251
+        height: 1179
         isCached: true
 
-secured: "XKL708V4c8X/tSsPklY9izprIHRpKup5CEWKUJGZOjN+Tk3nv6NqRb+7WTK6siK2gJAC2aaY1Xkw7B4M+xjNX3qJE9JIpEVx5eJTWS0/94D0MJYqTqSwB8WHjEHJRwaEMvjdkTQrpF1KdbEHvMcArqUlzmUTWrT2RE8XTH1MOl4zlLYBOwhQf421ez4Pu6vs3pD7tmsmd3idN0VG4ifvDJet54YDp5uBmDh+2x0aDTErluyQaANmyXJW9rnnFjbaVMRDUQrLTpQ1N4QCpHCmwpJD4l0gL5EHP7rAOI1yoasjfo9iGYondlvLalO5g8KtRIS6OyKMn2huK4xrqbI6+73IwonUdSfnksy4VGPadaM=;y1+tnm0xZcta55UXlvAUQQ=="
+secured: "Lt56uXo0Rqd7wMhSY0Ui3E41K6qgoKD0DWvqyp579nvYz3GgYyG8e8ag5txi0Um9Ufz19qdvh4uo4f2ZvRieIhZtaw3lb6xK1iTxeyDdiX0jt/DaLcK7UsihVyNafsb/PuPQ94jalg/DWlXNyAGadnLXRnM8gTXVb4iOEWuLkEYur/iaoPEEQekjmHvvNygcqn/xguJZTASO6UVqCXavH4BKFb9jX4JQtJsuSjxc1AcrvpjaFHJljqL8gy5hVP4duxMsjQpbis4FgIErjQ5La86pIpZeyWizjlDY/O5ysKbKTCfUzY/443LIVTQny3O6uZXXErrDHaz3FlJSrjEmyc8Ad0bB1lJ0XYIkZutgRrI=;+X7iLBAyPrSur9JaoMAEJA=="
 ---
 

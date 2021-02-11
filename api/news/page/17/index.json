@@ -2,21 +2,211 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
-      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
-      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the forecast period 2020 to 2027. Graphics Processing Unit (GPU) also referred as visual processing unit is mainly a computer chip that performs rapid mathematical calculations,",
+      "path": "_news/2021-01-29-scientists-develop-ai-powered-puff-technology-to-help-smokers-quit.md",
+      "title": "Scientists develop AI-powered ‘puff technology’ to help smokers quit",
+      "excerpt": "The onboard computer for e-cigs is designed to help people quit by predicting when they'll next crave a nicotine hit.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
+      "webUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-28T130539.375-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/",
+      "publishedDateTime": "2021-01-28T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-baidu-gets-california-nod-for-testing-driverless-vehicles-on-sunnyvale-streets.md",
+      "title": "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets",
+      "excerpt": "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
+      "originalUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/Baidu.jpg?w=1024&h=640",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
+      "publishedDateTime": "2021-01-28T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap.md",
+      "title": "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap",
+      "excerpt": "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221",
+      "publishedDateTime": "2021-01-28T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-microsoft-playfab-grows-ninefold-in-3-years.md",
+      "title": "Microsoft’ PlayFab grows ninefold in 3 years",
+      "excerpt": "Microsoft's PlayFab division said today that its monthly active users grew nearly nine times since the software giant acquired it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/playfab-main.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 630,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
+      "publishedDateTime": "2021-01-28T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
+      "title": "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
+      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook",
+          "width": 648,
+          "height": 339,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,21 +216,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T07:38:00-08:00",
+      "publishedDateTime": "2021-01-28T07:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -252,6 +433,40 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-cyberlink-faceme-tops-facial-recognition-vendor-test.md",
+      "title": "CyberLink FaceMe® Tops Facial Recognition Vendor Test",
+      "excerpt": "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, and developer of the FaceMe® AI facial recognition algorithm, achieved a top six ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210128005032/en/CyberLink-FaceMe®-Tops-Facial-Recognition-Vendor-Test/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210128005032/en/CyberLink-FaceMe®-Tops-Facial-Recognition-Vendor-Test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-how-communities-can-become-smarter-about-artificial-intelligence.md",
       "title": "How Communities Can Become Smarter About Artificial Intelligence",
       "excerpt": "The growing use of artificial intelligence for smart cities is changing the rules for everyone, including government agencies, elected officials, constituents and AI vendors.",
@@ -300,6 +515,40 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
+      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
+      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19366126/graphic-processing-unit-gpu-market-size-to-hit-usd-198-77-billion-by-2027",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19366126/graphic-processing-unit-gpu-market-size-to-hit-usd-198-77-billion-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19366126",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19366126",
+      "publishedDateTime": "2021-01-28T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -905,300 +1154,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-levity-is-a-no-code-ai-tool-to-let-anyone-create-workflow-automations.md",
-      "title": "Levity is a ‘no-code’ AI tool to let anyone create workflow automations",
-      "excerpt": "Levity, which has been operating in stealth (until now), is the latest no-code company to throw its wares into the ring, having picked up $1.7M in pre-seed funding led by Gil Dibner’s Angular Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/28/levity/",
-      "originalUrl": "https://techcrunch.com/2021/01/28/levity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Levity-Founders-Landscape.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/28/levity/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/28/levity/amp/",
-      "publishedDateTime": "2021-01-28T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-update-1-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
-      "title": "UPDATE 1-Baidu gets California nod for testing empty self-driving cars",
-      "excerpt": "OAKLAND, Calif, Jan 27 (Reuters) - Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state’s Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are ...",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/baidu-autonomous-idCNL4N2K24B6",
-      "originalUrl": "https://cn.reuters.com/article/baidu-autonomous-idCNL4N2K24B6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL4N2K24B6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2K24B6",
-      "publishedDateTime": "2021-01-27T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-artificial-intelligence-takes-center-stage-early-in-2021.md",
-      "title": "Artificial Intelligence Takes Center Stage Early in 2021",
-      "excerpt": "AI is the most significant technology of the last 30 years and its innovation is accelerating in the early part of 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/web/index.php/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
-      "originalUrl": "https://www.eweek.com/web/index.php/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/02/IBM.Watson2.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T21:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-why-is-ibm-a-good-company-to-work-for.md",
-      "title": "why is ibm a good company to work for",
-      "excerpt": "Conway says the apology and decades-delayed acknowledgment of her work was freeing, and that it provided her with a long-sought sense of closure. ... “We are very proud of Lynn for fighting … See how our work is truly life changing—from helping to cure diseases,",
-      "sourceUrl": null,
-      "webUrl": "https://portal.comunique-se.com.br/wp-content/are-dog-nzherc/archive.php?37455f=why-is-ibm-a-good-company-to-work-for",
-      "originalUrl": "https://portal.comunique-se.com.br/wp-content/are-dog-nzherc/archive.php?37455f=why-is-ibm-a-good-company-to-work-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://portal.comunique-se.com.br/wp-content/uploads/2017/01/logo-Portal-Cse-Facebook.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "comunique-se.com.br",
-        "domain": "comunique-se.com.br",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-neural-network-software-market-is-booming-worldwide-neurala-ibm-microsoft.md",
-      "title": "Neural Network Software Market is Booming Worldwide | Neurala, IBM, Microsoft",
-      "excerpt": "Latest released the research study on Global Neural Network Software Market offers a detailed overview of the factors influencing the global business scope Neural Network Software Market research report shows the latest market insights current situation analysis with upcoming trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "originalUrl": "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/1/U128436343_g.jpg",
-          "width": 512,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "publishedDateTime": "2021-01-27T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-elon-musk-explains-how-self-driving-robotaxis-will-justify-teslas-massive-valuation.md",
-      "title": "Elon Musk explains how self-driving robotaxis will justify Tesla's massive valuation",
-      "excerpt": "As Tesla's self-driving technology continues to improve, those vehicles will become self-driving robotaxis, allowing usage to go from 12 hours a week to 60 hours a week. Tesla could charge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106806365-1607089814899-gettyimages-1229901940-GERMANY_MUSK.jpeg?v=1607089873",
-          "width": 4000,
-          "height": 2840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "publishedDateTime": "2021-01-27T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

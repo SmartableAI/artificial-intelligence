@@ -198,7 +198,7 @@ related:
   - title: "IBM partners with Palantir on low-code AI applications"
     excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
     publishedDateTime: 2021-02-09T01:02:00Z
-    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
     type: article
     provider:
       name: SiliconANGLE
@@ -254,18 +254,18 @@ related:
         height: 284
         isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-    excerpt: "IBM (NYSE: IBM) and (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform designed to"
+    excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
     publishedDateTime: 2021-02-08T11:59:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock/article_a596a384-6945-50fb-bb5b-ee15ccb0f52f.html"
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 1
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/b9/0b95e751-9808-5551-9563-4755982ca8c3/602292ca96197.image.jpg?resize=887%2C630"
-        width: 887
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
+        width: 2251
+        height: 1179
         isCached: true
 
 secured: "LeWYp+AGPzM6afAFkeeWQGLG2A6Y3t4v6Q+2tBVQdzWsxM83U8gKha9xw5w4ZybSqgooYkeKn1u9J8GJihbeKyrl2QC+AT/blRTaWVxv1VQVS6T9S1s402VXnI0W5YdUUmb+tmLySUk/tdRpOKyC56Zz3LbGy+bgVWwiWrlv/b1Fo/f0bP8u30T44ytojFetjrEi2dPKWr29sq3UnLp4y65Lyp3J8u1RMLVYvU/eqZHxuOC/9P6TifCbvMWANObEz6D7T1itJB825WRwUNSnenV4ydGy+ft6rw/dALwFFCXBpvobipmaSwmWs4xxkDebl/gUXX9b8GiqEb57XThR6V19vdHpwgupggvMFKrwSd8=;j7944S9Ixdi/mEeYJjPdPQ=="

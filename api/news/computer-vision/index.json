@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-11-intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision.md",
+      "title": "Intenseye raises $4M to boost workplace safety through computer vision",
+      "excerpt": "Workplace injuries and illnesses cost the U.S. upwards of $250 billion each year, according to the Economic Policy Institute. ERA-backed startup Intenseye, a machine learning platform, has raised a $4 million seed round to try to bring that number way down in an economic and efficient way.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/",
+      "originalUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/founders-1.jpg?w=1024",
+          "width": 1024,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/amp/",
+      "publishedDateTime": "2021-02-11T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications.md",
       "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular Applications",
       "excerpt": "SAN DIEGO, (GLOBE NEWSWIRE) -- GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\"), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications.",
@@ -453,7 +505,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1414,59 +1466,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time.md",
-      "title": "Self-Driving Cars Are Faced With Too Many Moving Objects And Too Little Time",
-      "excerpt": "A surprising difficulty for self-driving cars involves having a multitude of objects in-motion nearby and being short on time to computationally analyze the frenzy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e8ecc36de110ecd54a5fc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2501%26cropY1%3D176%26cropY2%3D1583",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/",
-      "publishedDateTime": "2021-02-01T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

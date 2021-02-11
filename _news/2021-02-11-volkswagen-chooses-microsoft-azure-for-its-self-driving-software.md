@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft and Volkswagen will collaborate on self-driving car software"
+    excerpt: "VW plans to use Microsoft's expertise to build a cloud-based platform for future autonomous technologies and driver-assist systems."
+    publishedDateTime: 2021-02-11T15:22:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/microsoft-volkswagen-self-driving-car-software/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 91
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/Uxb-ku5Ohm5TlkF7oBGUQ-AjDd4=/2021/02/11/08b48d05-cd96-4e30-bf94-9a371a41ae28/ogi-vw.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Volkswagen partners with Microsoft on automated cars"
     excerpt: "Volkswagen Group is enlisting Microsoft’s help to speed up the development of autonomous driving systems, the company announced. It has already worked for several years with Microsoft on cloud computing for connected cars,"
     publishedDateTime: 2021-02-11T10:55:00Z
@@ -106,22 +122,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2Fbdcbc8b0-6c4e-11eb-bf97-bff40b7d3a02&client=amp-blogside-v2&signature=93b983d1e835e4b1cb32538773b259ecba171802"
         width: 600
         height: 350
-        isCached: true
-  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
-    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/microsoft-volkswagen/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-idUSL1N2KH04Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KH04Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KH04Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 91
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
-        width: 877
-        height: 545
         isCached: true
   - title: "Machine Learning as a Service Market is Booming Worldwide |AWS, Microsoft, IBM"
     excerpt: "Latest released the research study on Global Machine Learning as a Service Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning as a Service Market research report shows the latest market insights ..."
@@ -139,6 +139,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
+    excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
+    publishedDateTime: 2021-02-11T16:17:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
   - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-09T15:25:00Z
@@ -154,6 +165,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg"
         width: 600
         height: 440
+        isCached: true
+  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
+    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
+    publishedDateTime: 2021-02-11T13:58:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 71
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
+        width: 800
+        height: 496
         isCached: true
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."

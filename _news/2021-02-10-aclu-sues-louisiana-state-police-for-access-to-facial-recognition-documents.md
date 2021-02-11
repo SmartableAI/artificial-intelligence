@@ -45,17 +45,17 @@ related:
         isCached: true
   - title: "ACLU seeks Louisiana State Police facial recognition records"
     excerpt: "The American Civil Liberties Union of Louisiana said Tuesday it is suing state police for records regarding the use of facial recognition technology."
-    publishedDateTime: 2021-02-10T11:35:00Z
-    webUrl: "https://www.wbrz.com/news/aclu-seeks-louisiana-state-police-facial-recognition-records"
+    publishedDateTime: 2021-02-09T22:39:00Z
+    webUrl: "https://apnews.com/d87e9a09c835f3facdda8cdfc4b158e1"
     type: article
     provider:
-      name: WBRZ
-      domain: wbrz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://dcer237tfveol.cloudfront.net/v2/beUiUf8mf51JOSE_GdFeSQedrVZy30xb9xqIbNWT6evxUeLJLu7Ti4Rtq6R9hWhPxiYaT08W5VK2cetk3vZ7KeKi7HEUIAzUeftls6OuAwZBLAPP2_69dxCaHRGy-4bN0aSthKIXAykKJ6BKu1U9mAv_wKYo2wQInR95docqypeg"
-        width: 854
-        height: 480
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "DSUHCyI7c7U8n5Hp5z0LOyMFiT2AffVhvmoWEe9CxaEMx8IhFTWzVgFX0Dxj3i8afXHbUSdgYCQCi9AYibRnMT+wE0gPTsLQmHhnln8vE8tSjk6FiLbKxtSULVbSDroTAiMx6qod3EZbGLbwylZ0h2LLR4VqxeHI7HMW2Q0wLxzXa3H8NnVELmDrkwc7pfyYzJCNSnH5hl6bziUaxIJZD79JESl2pYFWierMgeHla6uBVGXQO6yYZFbWd3KbQkLj7q9qfszkoLi6gaRxQCHt9JJNVyfAJVoWn1GbwRFznEIsfhlhFFcjJfXn8oGIvFDfuAto1UIxk0MeGhCpSz+CHkWbbpIuE+4mckv+ehnlwZUj+ZykBGEOxCGb7FEdpv93yykIMtUuearhxZuAU0J9q64afg7ObbrYy1C+KTWjqWmMU3bZZKxGILg2+YRpO4ZQqSdmJXHdm4YPIIpdgg0kIFvRWwHxzf+OcTqJprRQFK8i3QYLT4uTPdnaOdd+YyeIrBJsdOhn8o8CrQwMK98mrA==;bI1tw8NEC3ZfdVrodVNqCg=="

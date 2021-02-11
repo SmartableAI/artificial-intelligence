@@ -2,26 +2,26 @@
 category: news
 title: "ACLU seeks Louisiana State Police facial recognition records"
 excerpt: "The American Civil Liberties Union of Louisiana said Tuesday it is suing state police for records regarding the use of facial recognition technology."
-publishedDateTime: 2021-02-10T11:35:00Z
-originalUrl: "https://www.wbrz.com/news/aclu-seeks-louisiana-state-police-facial-recognition-records"
-webUrl: "https://www.wbrz.com/news/aclu-seeks-louisiana-state-police-facial-recognition-records"
+publishedDateTime: 2021-02-09T22:39:00Z
+originalUrl: "https://apnews.com/d87e9a09c835f3facdda8cdfc4b158e1"
+webUrl: "https://apnews.com/d87e9a09c835f3facdda8cdfc4b158e1"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WBRZ
-  domain: wbrz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://dcer237tfveol.cloudfront.net/v2/beUiUf8mf51JOSE_GdFeSQedrVZy30xb9xqIbNWT6evxUeLJLu7Ti4Rtq6R9hWhPxiYaT08W5VK2cetk3vZ7KeKi7HEUIAzUeftls6OuAwZBLAPP2_69dxCaHRGy-4bN0aSthKIXAykKJ6BKu1U9mAv_wKYo2wQInR95docqypeg"
-    width: 854
-    height: 480
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 855
         isCached: true
 
-secured: "zKKDVdgDZHihQB25d1D8MNBFFEfRBnSWxLvQjt9D141DNPE7KQ42wUsfb1KzncSWwWO5p4zXEiJNAwYavI+vmqa1qJRtJsCWmeADl19K9uhYqXOgDePM/AiOOKio26U6Py0edCJ1+GEXJz1mWIK59gqFXesS/cYev3UWRQLv1o9ogWOUzv18wUllMiR89oDUPzZe0NBfoVhgFGgO2tygpOW4dzMLjLKgVw67KO4DFITF6PtubiIRwnIslLfKn5T/DJuYqif27adwx+etyHTrS6kRA1GH2fhm1Q8h/AU8JlDHVQcrHmbt+A5Og0Oigq3VakuRafbvinWbRShxiaOPczEsXYoxrxpB6DbtK3GkJEYSdbn+MYMh8hUVXiwhpB+STFXHuL4o3CmrzaFGeL1ZZIybVEaCkAts4gtaP/gAvvIkMIn+qSQxOmQNCmj27IkfFRW89DS9fF2VbfuBcg80p/aVkxMGJP8R476poRPMMCMzTXtPt86IG3kFoqY40U95g1Vl+mmeSn0vNQehjtD2xg==;FBG23PiKjjKb4KD/3sY4Gw=="
+secured: "/mCI1kKBQw0DwAJ/2U04nDjMJlgpFhoGGWTDVhTou2JClwSaXQ0rXgiK1k2wkK2n1JWi86c3MqB2H0xue2qe9ZBjwonadmTrHsoLsOfPKdY0fIfh2SYcBvGOIzxzJfMUhr9DtaGegqQzdXgSwS97gBZF46wvilD16XipisxMD1hq/uKV52Ckaw0ZTTRpPcYbQImI2u1zx6VN52yjB0SMhzltm30lbaa+1EbRMSG3YiD/B1kDhubTZ7ZJjHXcj78amlAAA7+GAk5tElEkThnP8HRmNzc5OoURjLD34s0Yn3PocbPe/YdMcgpW0WZfv6NhX6wo5fx+j7/q32DQWB3s/vtoIgvtxBQYDkumqAnH9wA=;cALAkfe8YEt9SLY2Zp10yw=="
 ---
 

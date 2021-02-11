@@ -107,49 +107,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-07-intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows.md",
-      "title": "Intel comes up with benchmarks as the threat from Apple M1 Chips grows",
-      "excerpt": "In a slideshow shared by PCWorld this week, Intel highlighted what PCWorld described as \"carefully crafted\" benchmarks in an effort to prove that laptops",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/",
-      "originalUrl": "https://www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/5.jpg",
-          "width": 1292,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intel-comes-up-with-benchmarks-as-the-threat-from-apple-m1-chips-grows/amp/",
-      "publishedDateTime": "2021-02-07T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-07-qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere.md",
       "title": "Qualcomm research could lower the barriers to visual AI everywhere",
       "excerpt": "Qualcomm is working to reduce the compute power needed for visual AI to enable chips that are smaller, cheaper, and less power hungry.",
@@ -886,43 +843,25 @@
     {
       "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
       "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
-      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the forecast period 2020 to 2027. Graphics Processing Unit (GPU) also referred as visual processing unit is mainly a computer chip that performs rapid mathematical calculations,",
+      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19366126/graphic-processing-unit-gpu-market-size-to-hit-usd-198-77-billion-by-2027",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19366126/graphic-processing-unit-gpu-market-size-to-hit-usd-198-77-billion-by-2027",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T07:38:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19366126",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19366126",
+      "publishedDateTime": "2021-01-28T05:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1465,6 +1404,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale.md",
+      "title": "Graphcore debuts its 'Graphcloud' AI cloud service in association with Cirrascale",
+      "excerpt": "Graphcore has teamed up with Cirrascale to launch its new AI Cloud Service dubbed 'Graphcloud'. It will combine Graphcore's own IPU-POD systems with Cirrascale's cloud service infrastruture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale",
+      "originalUrl": "https://www.neowin.net/news/graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/01/1611647448_introducing_graphcloud_ai_cloud_service_(1)_cropped_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale/",
+      "publishedDateTime": "2021-01-25T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

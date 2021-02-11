@@ -76,20 +76,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
-    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,"
-    publishedDateTime: 2021-02-11T14:19:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-christine-odonnell-computing-and-information-technology-data-management-f85ff704762c47cda869625396ef3236"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
     excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
     publishedDateTime: 2021-02-07T13:56:00Z
@@ -140,6 +126,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Big Data Analytics Firm Palantir Adopts IBM’s Red Hat OpenShift"
+    excerpt: "IBM and Palantir Technologies on Monday announced a new partnership consisting of IBM’s hybrid cloud data platform designed to deliver AI for business, with Palantir’s next-generation operations platform for building"
+    publishedDateTime: 2021-02-11T16:40:00Z
+    webUrl: "https://ctovision.com/big-data-analytics-firm-palantir-adopts-ibms-red-hat-openshift/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 24
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
+        isCached: true
   - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
     excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
     publishedDateTime: 2021-02-08T10:21:00Z
@@ -154,6 +154,15 @@ related:
         width: 698
         height: 366
         isCached: true
+  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
+    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
+    publishedDateTime: 2021-02-11T14:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
     excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
     publishedDateTime: 2021-02-09T14:09:00Z
@@ -169,6 +178,6 @@ related:
         height: 450
         isCached: true
 
-secured: "PRP6hYDWKPEoFnHInt4sEw4EJqyjF70oucbMnOaMu6oaJW33ie+S+NHhu2raWN1OLgaBLVwdBPB5JGuktWAm0VdoeWXRWCTJt1jB+h4kMWD3mcSTQg9uuDIBQ7kKBnwmmn9/RDEb7QBfiReBzDt8U5VrnOnqfF+GhgxcasgsOt9ASkWSZugS5v3sdofwex7Dl7iIDqlifzr2+G25In+Ye48phvxFyZqAzGN/9QPF0/6mC8M8MdKYZ8CyCECwVSJ0KFPYdK8S6d6RUVP1Lk/MyxCH8CIIKrcyKh4Bhsu8SzR7ijVD9Op+T9UuxfijM6eknQUXYatNRGN6ydeaj2gpTBXPjYhOs7UncAm5cfGM/M0=;l7yxLp3YQ7PEs/uOUg4VWw=="
+secured: "Wxl9Wao/CW6UW/S1vJH2mkoZOe19BmlzO04Uk/j2dq7rx6iH2T+caeJ/F6kNKctvfXnz+p/pk63DqZ9bnwYzgE1x0WHL1yXyisgl/+78iCJhpaEcu/tLzCTORMbv9do+V3ujdkb25fVkCEMZ9wAasTwxlz/NAtK7XlAo0027y2NblPJn4+v4sm+3zyUDhJs4c8HPuX7amGyGLKrhWns+57NCceO8FsL1ZEh8PYwGcbThDWfYwsOv2frDByehfMNEVhzQ88ojH0q6wiHNvUJRNLwS9fopLB6Vinku1ZZgDJLwEeKttmtosI0CkhRKTdQIB6kG7gnzM9UpzMxwBUajZ8c19lpnPmJ4hDiUMAClGccbzntg0wlaIIk76SOyoEwyUstKnr/42O1sCz3kpBRGDOGNs7a394iE1mCxeRjKvCF19KzR6IMX4jqR0Fmd1V3tzbDux2kHJZOMtFvJ44JTNLhHobMD5QtlpEcgHAD3PYBGzK07mY18K4DbCfghHaQvr/mon/e6zdDjX1zyg4hotg==;1/8B5ES+O/SJMgo7w3fTWA=="
 ---
 

@@ -2,27 +2,27 @@
 category: news
 title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
 excerpt: "Watson Health today announced a collaboration leveraging IBM’s conversational artificial intelligence (AI) solution – to help provide a better member experience while providing greater clarity and transparency on benefits and other related matters for Humana Employer Group members."
-publishedDateTime: 2021-02-11T13:09:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-managed-health-care-providers-personal-health-insurance-access-to-health-care-adfa89aa5d5d4315aeb0e0eb5e9e00e7"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-managed-health-care-providers-personal-health-insurance-access-to-health-care-adfa89aa5d5d4315aeb0e0eb5e9e00e7"
+publishedDateTime: 2021-02-11T13:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
+webUrl: "https://markets.businessinsider.com/news/stocks/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
 type: article
-quality: 13
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Humana now using IBM Watson's AI-enabled virtual assistant for health insurance members"
@@ -84,6 +84,6 @@ related:
         height: 2045
         isCached: true
 
-secured: "/vXtBSwzjYzPGzWHEA7PyQ7KIXR9iNncR/NMbbWL5vtHAiFranh6YdYapIP47GOHUD3ASYYj+PgLQp4MWEpAu6oWn//wUkoMuDPfM6IbWHOLxP9Rs6xy3GFhsSiqf0SiDmVALAMHPPe7H3oZTM2hGOPpJEeOapZy5cveiemksLjNBZVtUmeQ2nayH7HDVGHhGbJDORw0GnVA5yVyxqKDUckvh+ApGZh6Wp/NCPMRTiO2D11aIyTsPGsNMv5GJGcG4c1JlDks4jdsTg22czdl7SyTfAQh+ryKWZyYLn9WMhPoCW9dBNFxsLZBLHjjWWqWq6Hy67I1Db9k+GFJfnwmLMy/uk16Mit262hdCwi5MR4=;66bGtQNFE7UADyDkAJ1few=="
+secured: "eKnnPCBwJ2zh8EoldI37QOT/Mkg3kjXFyTq27ONiXJdNYhIKgBKLtqFGhydSCXwJymWL0WKYCEUqlWiHih0tKWeOFLI6T8Ky2ZTheJw9Mrdb4inpDL6mrI1LRnlEwRgc2hXUlLp92JBRTGzrShpLm/A+wUIAhz1EMzsVZJ4843vaFAFXf8RvgJMYGUxVgwcB1GkC84VARgQePOX9Qob9dzP7lGJd/Uwba6qgzCrGvbAosdVOLSBC/NRrQhANj7O+N/td+XqX4kznVDJQ3IzYp6er2R3v+Oi7FYbrnRKmLD3w7rkpgyKTba9BcmYP0UVlmQj5ZfSqMn9wrrBh9AnioRXNH8A01NQXGn4maWRQGYE=;hBcxsIkhsPzzCc6JHSPIWg=="
 ---
 

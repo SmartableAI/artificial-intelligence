@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
-    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,"
-    publishedDateTime: 2021-02-11T14:19:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-christine-odonnell-computing-and-information-technology-data-management-f85ff704762c47cda869625396ef3236"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
     excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
     publishedDateTime: 2021-02-07T13:56:00Z
@@ -137,6 +123,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Big Data Analytics Firm Palantir Adopts IBM’s Red Hat OpenShift"
+    excerpt: "IBM and Palantir Technologies on Monday announced a new partnership consisting of IBM’s hybrid cloud data platform designed to deliver AI for business, with Palantir’s next-generation operations platform for building"
+    publishedDateTime: 2021-02-11T16:40:00Z
+    webUrl: "https://ctovision.com/big-data-analytics-firm-palantir-adopts-ibms-red-hat-openshift/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 24
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
+        isCached: true
   - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
     excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
     publishedDateTime: 2021-02-08T10:21:00Z
@@ -151,6 +151,15 @@ related:
         width: 698
         height: 366
         isCached: true
+  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
+    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
+    publishedDateTime: 2021-02-11T14:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
     excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
     publishedDateTime: 2021-02-09T14:09:00Z

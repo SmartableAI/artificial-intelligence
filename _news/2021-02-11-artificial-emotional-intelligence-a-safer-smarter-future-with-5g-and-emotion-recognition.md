@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-11T14:16:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/inu-aei021021.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-02/inu-aei021021.php"
 type: article
-quality: 14
-heat: 14
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/256098_web.jpg"
@@ -24,6 +25,22 @@ images:
     height: 1200
     isCached: true
 
-secured: "aKoHsllJfGABQZTgXr6WzWTwrC62FwlWL2ckidkcXc/dsCb8F4kv9+st3wxSsykyzJklqPh8s+LfZ2ExcOTvMnQ/buwo8J0qV2nJf33ejCiYGTwZgPnnOAMLW2/+AmYLZ+kUTkKr8QgsdqlElQoIxlZ8J22rdzwGtQWoQYoCCN4gCtrGFSfTRsjfWtJ67l20ZDGz08lc4gxlK6azPJlnn0zSBLhLt8iJeXceydwmMk+/A0YgX6p4K8SwvgqxWFBagbWOS0wh6cGRoURPSDA9i/7AAO3im6G1SkajsxskNcc+ibh7tN+wfbaMfwtqsK9NW740WRXRHC6hDo6BZ3y+Er4X7MEPpkQvlzZfKhSGUdg=;VbKBhN1YuY3DZcu/PxLeTA=="
+related:
+  - title: "Anexinet Launches Conversational AI Solution, Enabling Natural Language Interactions via Highly Intelligent Virtual Agents"
+    excerpt: "New Partnership With Industry Leader Amelia Provides AI Foundation for Company’s Latest Offering PHILADELPHIA, Feb. 11, 2021 (GLOBE NEWSWIRE) -- Anexinet Corporation, a leading provider"
+    publishedDateTime: 2021-02-11T13:27:00Z
+    webUrl: "https://www.wboc.com/story/43333493/anexinet-launches-conversational-ai-solution-enabling-natural-language-interactions-via-highly-intelligent-virtual-agents"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 13
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
+
+secured: "uzIixSxgfdZw7CNieAk769AsMfuwzg637RfTxjLA+Y29BEzeu3hY2y/Oteb9W1ZCjZGpUvGUdjfgCjOHjyL9KbCMpMjkN9xVvjJaCK/Zh2z7q+qNq63a660HvTBIz995NbHKUF1YBhrD0aGPOLOiMqlzrqB2GCX03fLX3AZF4JAq90eyxF3JthyVVq60dJp1xRL3XGsgfr8a5AxKT9i+kdVYjyAc2sM/f1fpWdSGtbPBQxJoqWig6H7Bh7CZwCR9IeRnMkCDMdSQiwGqHje9FiCEbRO8RKuzuEDSfvv5ehGfXxHkZaec8lq7zUozyVDWEWg1zsA6fwFZFBBpuyA/wKCeMEgrApG+brK9y4hcFb/7RJX/paV1a1MDblDoAQsWyok+taY9ohNqW4LhouCAvsrI6TU50MrcafNBY9SqTAMa53FzEZLT1afJSkJg6Wrv2OQec+SaOQwKVrEkSdHoDSGlOEkbiPiK7WcaP+A+jcR5/BKmobUj4llAGtd+tr8zUe2mHFn5gDIdvB57KVi02Q==;UELHDKz5DTArlMVYq1wLag=="
 ---
 
