@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html"
 type: article
 quality: 59
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Biometric Privacy in the Era of COVID-19: Facial Recognition Compliance for Airports and Airlines"
+    excerpt: "The commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries. This technology has had an especially transformative impact on the commercial aviation industry,"
+    publishedDateTime: 2021-02-08T22:37:00Z
+    webUrl: "https://www.aviationtoday.com/2021/02/08/biometric-privacy-era-covid-19-facial-recognition-compliance-airports-airlines/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 41
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/02/markus-spiske-ijv7mzpmyum-unsplash.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Indy Airport Receives Global Recognition"
     excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International. The recognition is given to airports f"

@@ -129,6 +129,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI in Fintech Market Share, Size, Industry Growth, Trend, Business Opportunities, Challenges, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The AI in Fintech market intelligence study is a collection of authentic"
+    publishedDateTime: 2021-02-12T22:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-share-size-industry-growth-trend-business-opportunities-challenges-drivers-and-restraint-research-report-by-2027-2021-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Finch Capital closes €150m fintech fund"
     excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
     publishedDateTime: 2021-02-09T11:07:00Z

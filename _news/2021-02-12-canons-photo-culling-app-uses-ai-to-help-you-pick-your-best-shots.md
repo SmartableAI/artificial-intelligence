@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "New AI Detects Your Emotions by Scanning You With Radio Signals"
+    excerpt: "If new research is to believed, you may find yourself coming home from work one day in a rotten mood — just to have your smart speaker automatically scan your emotions and start to play soothing music."
+    publishedDateTime: 2021-02-12T21:06:00Z
+    webUrl: "https://futurism.com/the-byte/ai-emotions-radio-signals"
+    ampWebUrl: "https://futurism.com/ai-emotions-radio-signals/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-emotions-radio-signals/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2021/02/neural-net-bombards-radio-waves-guess-feeling-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "2 AI Stocks To Buy As The Market Recovers"
     excerpt: "Alpha Investor Report editor, Charles Mizrahi shares 2 AI stocks that will continue to outperform in 2021. “Keep in mind, we’re only in the early innings. The best is yet to come.”"
     publishedDateTime: 2021-02-10T19:49:00Z

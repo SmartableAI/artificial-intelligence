@@ -49,17 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare"
-    excerpt: "The AI healthcare market is more visible to the public than ever before. More and more people are becoming aware of the benefits of AI technology throughout the healthcare industry. To many, it’s solid proof that Artificial Intelligence has had a successful impact on the overall quality of our healthcare system."
-    publishedDateTime: 2021-02-11T22:03:00Z
-    webUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/"
-    ampWebUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 69
   - title: "Healthcare Artificial Intelligence (AI) Market 2021: By manufacturers, Type & Applications, Global status and Industry Forecast by 2026"
     excerpt: "Healthcare Artificial Intelligence (AI) Industry Description Wiseguyreports.Com Adds \"Healthcare Artificial Intelligence"
     publishedDateTime: 2021-02-12T15:38:00Z

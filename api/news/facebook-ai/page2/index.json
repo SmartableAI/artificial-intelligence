@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-19-researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data.md",
+      "title": "Researchers develop AI framework that predicts object motion from image and tactile data",
+      "excerpt": "Recent AI research has pointed out the synergies between touch and vision. One enables the measurement of 3D surface and inertial properties while the other provides a holistic view of objects’ projected appearance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/18/researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data/",
+      "originalUrl": "https://venturebeat.com/2021/01/18/researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/c3319780-aeca-45e7-ba4f-663ff5ba6b90-e1611007515708.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/18/researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/18/researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data/amp/",
+      "publishedDateTime": "2021-01-18T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how.md",
       "title": "Facebook Will Use AI To Predict If COVID-19 Patients Need Better Healthcare: Here’s How",
       "excerpt": "Facebook's artificial intelligence researchers developed models that use x-rays to anticipate the progression of the disease in a patient and help hospitals prepare.",

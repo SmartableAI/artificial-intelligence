@@ -9,7 +9,7 @@ ampWebUrl: "https://www.macworld.com/article/3602210/how-to-use-facial-recogniti
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.amp.html"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 300
     height: 420
     isCached: true
+
+related:
+  - title: "How Your Business Can Benefit from Facial Recognition Technology"
+    excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
+    publishedDateTime: 2021-02-08T14:25:00Z
+    webUrl: "https://pctechmag.com/2021/02/business-benefitting-from-facial-recognition-technology/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 39
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2021/02/Facial-Recognition-Technology.jpg"
+        width: 940
+        height: 705
+        isCached: true
 
 secured: "NgPb8/9vvBPqlhD3X87rkZNUxoHqzRRrnmI3h9KUPgoW7EBv7MNMnsanx4EZW6zHq4xxbjQJcpcypAGA6pBAnShADkKhTUOaD1642qFusJX5HmosY6HZ+NML5obU2QsdkUDUh609wilp2UZ+jornJytKEvNNYDROaTRYxHJAvwYBNe7B5pjHP5/GF1sxBEIZ3voCT6ANkikJCniRWKpKMDxpXDLVxUqmpC6ljceeimDL2TAqiACn3FzkqGwX5i+d2Fsut6rhNMZLhXwg8CJTZnftuAwD2nE+rCAiSvZeDUQG3DDQ49vxWcvJvJWSG7ImC2yaDq4drwM8tbpdjZo7pWviKCqQj/R7IO69ZeasTNo=;qUkDpD8HatWSYYYkWqji9Q=="
 ---

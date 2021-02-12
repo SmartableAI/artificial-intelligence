@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-18-still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used.md",
+      "title": "Still talking to Cortana? Microsoft gives you more control over how your voice recordings are used",
+      "excerpt": "\"This new meaningful consent release is about making sure that we're transparent with users about how we are using this audio data to improve our speech recognition technology,\" said Saran.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
+      "originalUrl": "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2018/01/15/37af3c7b-8de3-4016-b11a-f6c6ff0044eb/thumbnail/1200x675/0694bbed8403720a906252aaf7f4a583/5a578ebc69340d506caef07c-1280x7201jan152018133314poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
+      "publishedDateTime": "2021-01-18T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-natural-language-processing-market-share-industry-size-leading-companies-outlook-upcoming-challenges-and-opportunities-till-2026.md",
       "title": "Natural Language Processing Market Share, Industry Size, Leading Companies Outlook, Upcoming Challenges and Opportunities till 2026",
       "excerpt": "\"Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel ...",

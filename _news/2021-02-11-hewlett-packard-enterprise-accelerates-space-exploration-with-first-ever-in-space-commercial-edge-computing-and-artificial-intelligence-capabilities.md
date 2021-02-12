@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Anexinet Launches Conversational AI Solution, Enabling Natural Language Interactions via Highly ..."
+    excerpt: "Anexinet Corporation, a leading provider of digital business solutions, today announced its partnership with Amelia, an IPsoft Company, the largest independent leader in enterprise Artificial Intelligence (AI)."
+    publishedDateTime: 2021-02-12T05:37:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-9a3cfdf35da5d286e92c2585c4433ad3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
     excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
     publishedDateTime: 2021-02-12T05:30:00Z

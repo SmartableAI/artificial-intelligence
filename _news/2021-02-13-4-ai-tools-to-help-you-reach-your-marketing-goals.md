@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-y
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2F7cfa7470-6cae-11eb-b53d-dea2dbd7fe69&client=amp-blogside-v2&signature=715022ff0bcb607e63238a1e081be351e38a930d"
         width: 600
         height: 350
+        isCached: true
+  - title: "New AI Detects Your Emotions by Scanning You With Radio Signals"
+    excerpt: "If new research is to believed, you may find yourself coming home from work one day in a rotten mood — just to have your smart speaker automatically scan your emotions and start to play soothing music."
+    publishedDateTime: 2021-02-12T21:06:00Z
+    webUrl: "https://futurism.com/the-byte/ai-emotions-radio-signals"
+    ampWebUrl: "https://futurism.com/ai-emotions-radio-signals/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-emotions-radio-signals/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2021/02/neural-net-bombards-radio-waves-guess-feeling-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "2 AI Stocks To Buy As The Market Recovers"
     excerpt: "Alpha Investor Report editor, Charles Mizrahi shares 2 AI stocks that will continue to outperform in 2021. “Keep in mind, we’re only in the early innings. The best is yet to come.”"

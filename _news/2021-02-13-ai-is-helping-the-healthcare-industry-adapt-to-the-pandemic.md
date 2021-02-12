@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-12T19:45:00Z
 originalUrl: "https://www.techrepublic.com/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
 webUrl: "https://www.techrepublic.com/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/770x578/143c161e6d1f8b6e09a331048f272527/20210211-healthcareai-karen.jpg"
@@ -46,21 +47,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "4 recent studies exploring AI in healthcare"
-    excerpt: "In the past decade, medical researchers have become increasingly interested in artificial intelligence's potential to improve healthcare by reducing workflow inefficiencies, predicting health outcomes and speeding up diagnoses."
-    publishedDateTime: 2021-02-10T19:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
-secured: "TFB/NqJVVo27Jgu2Tz0MKD4G3fbyy+ow7U1LlFLOJuSNFhlEecz11AA1Vwl6isaJoi24x6LQ4dfPonTy15TaqXVYzNHm9ikz1UCmqpYzAyrk38iZulHvVhX7mYAX8HK5UrsoQn7kPavX04hpyZ2t9vU6zfwfaDa/JRYEk9SbLeon0KkJW3TZvD/NJuFV5sc3Rx/mvJezL8IvT2RowYFFIUOIdbGcp+jXUsYe9WHB1g3Jlru+97M/oju9hLYPkTffoDuIMEWVV8zAPTN4SVbnkFqaCsEX3J1OpZcpQwLAJ8JB/NA9huTgF9tlSEZ6ic8a6/pf6DbaRwBFMRdUMGl7k9cyu413cN8tLZ5jHyYvhzw=;hgYYbN/AUyl3Bo3HPpDBsA=="
+secured: "PLFHuJ1VilXe4ANOarlt5Gx3on7nq/Z1LTB3yjPTjGAX62mvuxN8hi4YyHiH9P5r2DmlZULiK2l1TeWwRP67tkPuIGvuPJHyZ3CYKM7ligVh99MGgp0cxH+r0w5YZTGWCDSM3ErvXZ7cWcKh6tlBEPN6vXr6VAMVfrTb7v6Uv/CaVesesg621B4imlVJ1ZRRv/mJT2cSJpEjDOxn41EsMqN2D06rAHdo6Hj3pxVAiSahelFhEtVX8RVYdK3by8s7OuFc7GaeNYzgpKsmJWJzAk8kf1GVb0xgD5mxSm0hDj6q7XPfl4YPZzjP5YaPDMrBbaz2QN+Flx5H1wRv+i0mnrJ1wU0LQpS97ulQxkrxpOfr3/P1iutBffJ6kME240dTWTM2Ao+yEu2dfPyWppThvekX1Ah8DVB4UzKBy/pUOYpSbxdkN5eLg4fiNVMLdnLSGqVhZwuhrXy6aBuLGEJcjyyGe7crr6chg2T2OITnUMCpXkNW1pUAUrUbowxkQm3MlCKxSfyr6Q3QYF5pEAWEQw==;DWdLhGQdry/toTnjtxK9Ag=="
 ---
 

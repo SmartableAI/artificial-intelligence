@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-13-bias-allegations-against-facial-recognition-prompt-legal-challenge-threat.md",
+      "title": "Bias allegations against facial recognition prompt legal challenge, threat",
+      "excerpt": "Allegations of poor performance for women and people of color by face biometrics systems have resulted in legal action and the threat of a lawsuit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202102/bias-allegations-against-facial-recognition-prompt-legal-challenge-threat",
+      "originalUrl": "https://www.biometricupdate.com/202102/bias-allegations-against-facial-recognition-prompt-legal-challenge-threat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg",
+          "width": 1600,
+          "height": 1035,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-using-container-images-to-run-pytorch-models-in-aws-lambda.md",
+      "title": "Using container images to run PyTorch models in AWS Lambda",
+      "excerpt": "PyTorch is an open-source machine learning (ML) library widely used to develop neural networks and ML models. Those models are usually trained on multiple GPU instances to speed up training, resulting in expensive training time and model sizes up to a few gigabytes. After they’re trained, these models",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/12/PyTorch-Lambda.jpg",
+          "width": 581,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T13:57:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-clearview-ai-thinks-the-solution-to-dating-is-facial-recognition.md",
+      "title": "Clearview AI Thinks The Solution to Dating Is Facial Recognition",
+      "excerpt": "Clearview AI, now the byword for unchecked surveillance, has filed a wide-ranging patent application that envisions handing over the most reviled uses of facial recognition technology to just about anyone.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
+      "originalUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wi4p4fthvs7j24g09anp.jpg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp",
+      "publishedDateTime": "2021-02-12T13:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation.md",
       "title": "AI Weekly: Techno-utopianism in the workplace and the threat of excessive automation",
       "excerpt": "Arguments in favor of shared prosperity and in opposition to excessive robots, AI, and automation in the workplace.",
@@ -10,7 +159,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -50,7 +199,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -105,58 +255,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-13-minneapolis-bans-its-police-department-from-using-facial-recognition-software.md",
-      "title": "Minneapolis bans its police department from using facial recognition software",
-      "excerpt": "Minneapolis voted Friday to ban the use of facial recognition software for its police department, growing the list of major cities that have implemented local restrictions on the controversial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/",
-      "originalUrl": "https://techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1220495008.jpg?w=1024",
-          "width": 1024,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/amp/",
-      "publishedDateTime": "2021-02-12T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-13-healthcare-is-adopting-ai-much-faster-since-the-pandemic-began.md",
       "title": "Healthcare is adopting AI much faster since the pandemic began",
       "excerpt": "While healthcare organizations are hesitant to adopt AI technology, the COVID-19 pandemic has increased their interest.",
@@ -165,7 +263,7 @@
       "originalUrl": "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -209,6 +307,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-13-minneapolis-bans-police-government-use-of-facial-recognition.md",
+      "title": "Minneapolis bans police, government use of facial recognition",
+      "excerpt": "The Minneapolis City Council voted to ban the use of facial recognition technology by the city's police and other government departments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
+      "originalUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2021/02/Minneapolis-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
+      "publishedDateTime": "2021-02-12T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-using-watson-nlu-to-help-address-bias-in-ai-sentiment-analysis.md",
       "title": "Using Watson NLU to help address bias in AI sentiment analysis",
       "excerpt": "Previously on the Watson blog’s NLP series, we introduced sentiment analysis, which detects favorable and unfavorable sentiment in natural language. We examined how business solutions use sentiment analysis and how IBM is optimizing data pipelines with Watson Natural Language Understanding (NLU). But",
@@ -217,7 +358,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -269,7 +410,7 @@
       "originalUrl": "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -374,7 +515,7 @@
       "originalUrl": "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -417,7 +558,7 @@
       "originalUrl": "https://phys.org/news/2021-02-machine-theory-nature-science.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -606,57 +747,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-12-swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai.md",
-      "title": "Sweden’s data watchdog slaps police for unlawful use of Clearview AI",
-      "excerpt": "Sweden’s data protection authority, the IMY, has fined the local police authority €250,000 ($300k+) for unlawful use of the controversial facial recognition software, Clearview AI, in breach of the country’s Criminal Data Act.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/",
-      "originalUrl": "https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/amp/",
-      "publishedDateTime": "2021-02-12T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-12-using-machine-learning-to-create-better-gene-therapies.md",
       "title": "Using Machine Learning To Create Better Gene Therapies",
       "excerpt": "Machine learning study initiated at the Wyss Institute in collaboration with Google Research enables unprecedented AAV capsid diversification with potential for improving gene therapies.",
@@ -708,7 +798,7 @@
       "originalUrl": "https://www.openpr.com/news/2241354/artificial-intelligence-ai-in-education-market-analysis",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -931,7 +1021,7 @@
       "originalUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1035,7 +1125,7 @@
       "originalUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1126,109 +1216,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows.md",
-      "title": "New AI technique allows robots to detect human touch by analyzing shadows",
-      "excerpt": "Scientists from Cornell University say the method provides a low-cost way for robots to identify physical interactions with humans.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-11T193414.793-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/amp/",
-      "publishedDateTime": "2021-02-11T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-face-control-russian-police-go-digital-against-protesters.md",
-      "title": "\"Face control\": Russian police go digital against protesters",
-      "excerpt": "Georgy Malets didn't make it to an anti-Kremlin rally last month. He was detained on his way there by police using facial recognition technology in the Moscow metro.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-russia-politics-navalny-tech-idUSKBN2AB1U2",
-      "originalUrl": "https://www.reuters.com/article/us-russia-politics-navalny-tech-idUSKBN2AB1U2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551197937&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A18V",
-          "width": 810,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AB1U2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB1U2",
-      "publishedDateTime": "2021-02-11T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

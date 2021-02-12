@@ -37,22 +37,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "US border patrol used facial recognition on 23 million travelers in 2020"
-    excerpt: "US Customs and Border Protection used facial recognition technology on more than 23 million travelers in 2020, according to a report published by the agency. That's up from the 19 million travelers CBP scanned with the tech in 2019."
-    publishedDateTime: 2021-02-11T23:23:00Z
-    webUrl: "https://www.cnet.com/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/3Ajc94GlUnkf1BGZdETmznPPAnM=/1200x630/2020/07/07/03dbe587-4aa1-4ebb-bf65-4c5a33a4f182/passport-american-flag-3723.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "cIjfw4yoNNZXnl39+c/mp3QIIOWgK09UCv/CfCivRxwPkkFMiEVmr4RnnGg4ANEsvkm4dhKkXl/eLKZftI3B49Af6R/iFISA5dNxuNzyjax02nWea5P+icKhXU4lVyZgJbE90K9/CbvDh1bVqYHpwK0jBlxd0ek0X/jzzvcRl4RPhjQhkLeIluaaU+/X3mI7nqJKAyzcjCzjQibFL+sxdxvJLqUcs6dkV0mdizzU24cGmy2eW1dfdAWzW+IwbBWgEGcf3s1IYEYyXOqpYkxaDh+SHjE8Q+ZYCPRR7qbwd89DQsMARGHqbczLE5rKNTP6sxGwipMcctCBQG+/dJg2sfK7G4tqm+RZDinN353NoVGm06cExI80YYi/rbHQwRyF3/AJEv9ScMx9/bS2by9/HpvXl8lNFmh4Jqk8GolDmK8EcRKqZtHAkx7hgPQKEUSYOlHnkJbxg4YEO4TaZx/puEsGiG59bf6PrCH6Re+aP07nPcVXcTb1V/1QMZOt5VTT07AmJ1RApyAk2ZLW4Sy+Kg==;Ymb3AbX0d5b9Qazi4xc8kw=="
 ---

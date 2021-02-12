@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-ai-not-automation-will-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI revolution is happening now"
-    excerpt: "The AI revolution is advancing faster than anyone anticipated. This year, the market for AI chips reached $5 billion and expected to be $10 billion by 2022. Among the most promising projects are driverless cars,"
-    publishedDateTime: 2021-02-09T21:37:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267789289/the-ai-revolution-is-happening-now"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1612694376629.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "WISeKey Combating Counterfeit and Extending AIoT with arago’s AI and Automation"
     excerpt: "WISeKey International Holding Ltd (“WISeKey”), (SIX: WIHN, NASDAQ: WKEY) a cybersecurity AI IoT platform company, today announced that its solution for brand protection is now able to minimize counterfeiting and fraud by adding AI to the trusted digital identities of goods and luxury products to track and protect any item in real-time."
     publishedDateTime: 2021-02-10T05:45:00Z

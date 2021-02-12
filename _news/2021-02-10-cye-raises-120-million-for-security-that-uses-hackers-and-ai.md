@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-securi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/"
 type: article
 quality: 108
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -129,17 +129,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Pony.ai raises $100 million more to advance its autonomous vehicle tech"
-    excerpt: "Autonomous vehicle startup Pony.ai has raised $100 million more, bringing its total raised to over $1 billion at a $5.3 billion valuation.Read"
-    publishedDateTime: 2021-02-08T05:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pony-ai-raises-$100-million-more-to-advance-its-autonomous-vehicle-tech-9783055"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/pony-ai-raises-$100-million-more-to-advance-its-autonomous-vehicle-tech-9783055"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pony-ai-raises-$100-million-more-to-advance-its-autonomous-vehicle-tech-9783055"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Autonomous Vehicle Tech Pony.ai Raises $100 Million"
     excerpt: "Pony.ai, a California developer of self-driving car technology that has landed big investments from Toyota and other major automobile players, has raised $100M."
     publishedDateTime: 2021-02-08T13:52:00Z

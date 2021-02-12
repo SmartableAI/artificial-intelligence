@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-12-using-container-images-to-run-pytorch-models-in-aws-lambda.md",
+      "title": "Using container images to run PyTorch models in AWS Lambda",
+      "excerpt": "PyTorch is an open-source machine learning (ML) library widely used to develop neural networks and ML models. Those models are usually trained on multiple GPU instances to speed up training, resulting in expensive training time and model sizes up to a few gigabytes. After they’re trained, these models",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/12/PyTorch-Lambda.jpg",
+          "width": 581,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T13:57:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation.md",
+      "title": "AI Weekly: Techno-utopianism in the workplace and the threat of excessive automation",
+      "excerpt": "Arguments in favor of shared prosperity and in opposition to excessive robots, AI, and automation in the workplace.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/",
+      "originalUrl": "https://venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/you-x-ventures-Oalh2MojUuk-unsplash-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/amp/",
+      "publishedDateTime": "2021-02-12T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-cye-raises-120-million-for-security-that-uses-hackers-and-ai.md",
       "title": "CYE raises $120 million for security that uses hackers and AI",
       "excerpt": "CYE has raised $120 million for a service that uses AI to probe defenses and human hackers to conduct attacks.",
@@ -10,7 +116,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -53,50 +159,6 @@
         "AI",
         "AI in Security",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-9-scary-revelations-from-40-years-of-facial-recognition-research.md",
-      "title": "9 Scary Revelations From 40 Years Of Facial Recognition Research",
-      "excerpt": "In science fiction, facial recognition technology is a hallmark of a dystopian society. The truth of how it was created, and how it's used today, is just as freaky. In a new study, researchers conduct a historical survey of over 100 data sets used to train facial recognition systems compiled over the last 43 years.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research",
-      "originalUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/feature/9/9-scary-re/9-scary-revelations-from-40-years-of-facial-recognition-rese_hhw8.620.jpg",
-          "width": 620,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1",
-      "publishedDateTime": "2021-02-08T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1458,58 +1520,6 @@
         "Facebook AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data.md",
-      "title": "Researchers develop AI framework that predicts object motion from image and tactile data",
-      "excerpt": "Recent AI research has pointed out the synergies between touch and vision. One enables the measurement of 3D surface and inertial properties while the other provides a holistic view of objects’ projected appearance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/18/researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data/",
-      "originalUrl": "https://venturebeat.com/2021/01/18/researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/c3319780-aeca-45e7-ba4f-663ff5ba6b90-e1611007515708.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/18/researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/18/researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data/amp/",
-      "publishedDateTime": "2021-01-18T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

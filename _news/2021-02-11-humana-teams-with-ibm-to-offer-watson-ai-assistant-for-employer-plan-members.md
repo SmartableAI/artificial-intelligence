@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Humana now using IBM Watson's AI-enabled virtual assistant for health insurance members"
+    excerpt: "A new AI virtual assistant will help Humana's members with information on costs, providers and benefits. Humana announced today that it's teaming up with IBM Watson Health to deploy IBM Watson ..."
+    publishedDateTime: 2021-02-11T19:12:00Z
+    webUrl: "https://www.techrepublic.com/index.php/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 96
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/4b528d48-8cbf-42b2-a230-c0e346adb88b/resize/1200x/bb75306246cac19a621353e0b787d81c/doctor-computer.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Humana, IBM Watson to partner on AI assistant for members"
     excerpt: "Humana will use IBM Watson Assistant for Health Benefits, a cloud-based virtual assistant that uses artificial intelligence. The assistant uses chat functions to help answer questions about benefits,"
     publishedDateTime: 2021-02-11T13:51:00Z

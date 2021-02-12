@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-02-gdit-announces-aws-availability-on-milcloud-20-contract-dave-levy-quoted.md",
+      "title": "GDIT Announces AWS Availability on milCloud 2.0 Contract; Dave Levy Quoted",
+      "excerpt": "General Dynamics Information Technology (GDIT) has announced the availability of Amazon Web Services (AWS) under the milCloud 2.0 contract, GDIT reported on Monday. AWS availability will provide the Department of Defense (DoD) access to an expanded portfolio of secure cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.executivegov.com/2021/02/gdit-announces-aws-availability-on-milcloud-2-0-contract-dave-levy-quoted/",
+      "originalUrl": "https://www.executivegov.com/2021/02/gdit-announces-aws-availability-on-milcloud-2-0-contract-dave-levy-quoted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://executivegov-media.s3.amazonaws.com/2021/02/01/56/77/7e/91/c4/a2/48/44/dave-levy-wash100.png",
+          "width": 272,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-5-ways-to-keep-ai-bias-out-of-online-identity-verification.md",
       "title": "5 Ways To Keep AI Bias Out Of Online Identity Verification",
       "excerpt": "In these types of surveillance, the quality and robustness of the underlying database is what can fuel bias in the AI models. Modern facial recognition software uses biometrics to map facial features from a photograph or video.",

@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Minneapolis bans its police department from using facial recognition software"
-    excerpt: "Minneapolis voted Friday to ban the use of facial recognition software for its police department, growing the list of major cities that have implemented local restrictions on the controversial technology."
-    publishedDateTime: 2021-02-12T19:32:00Z
-    webUrl: "https://techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/"
-    ampWebUrl: "https://techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1220495008.jpg?w=1024"
-        width: 1024
-        height: 718
-        isCached: true
-  - title: "Should Delhi govt schools be using the facial recognition technology?"
-    excerpt: "The use of the facial recognition technology in several Delhi government schools - in conjunction with the CCTV cameras installed - raises grave concerns, given the absence of data protection and privacy laws in India,"
-    publishedDateTime: 2021-02-12T12:01:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 61
-    images:
-      - url: "https://www.thehindubusinessline.com/migration_catalog/v2mul8/article18054655.ece/ALTERNATES/LANDSCAPE_615/editpage-blrasBL22RASHEEDA2EDITjpg"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Minneapolis bans police, government use of facial recognition"
     excerpt: "The Minneapolis City Council voted to ban the use of facial recognition technology by the city's police and other government departments."
     publishedDateTime: 2021-02-12T19:25:00Z
@@ -105,22 +73,6 @@ related:
         width: 984
         height: 738
         isCached: true
-  - title: "Minneapolis City Council votes to bar use of facial recognition technology"
-    excerpt: "On Friday, the Minneapolis City Council approved a new ordinance that prohibits the city from buying facial recognition technology or using data derived from it, with very narrow"
-    publishedDateTime: 2021-02-12T17:21:00Z
-    webUrl: "https://kstp.com/minnesota-news/minneapolis-city-council-votes-to-bar-use-of-facial-recognition-technology-with-narrow-exceptions/6010852/"
-    ampWebUrl: "https://amp.kstp.com/articles/minneapolis-city-council-votes-to-bar-use-of-facial-recognition-technology-with-narrow-exceptions-6010852.html"
-    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/minneapolis-city-council-votes-to-bar-use-of-facial-recognition-technology-with-narrow-exceptions-6010852.html"
-    type: article
-    provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 57
-    images:
-      - url: "https://kstp.com/kstpImages/repository/2021-02/minneapolis-sunny-alex-jokich.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "ACLU of Louisiana sues State Police seeking records of facial recognition software use"
     excerpt: "The American Civil Liberties Union of Louisiana sued the Louisiana State Police Department on Tuesday over a public records dispute related to facial recognition software used by the department."
     publishedDateTime: 2021-02-09T19:15:00Z
@@ -137,32 +89,23 @@ related:
         width: 1024
         height: 855
         isCached: true
-  - title: "ACLU seeks Louisiana State Police facial recognition records"
-    excerpt: "The American Civil Liberties Union of Louisiana said Tuesday it is suing state police for records regarding the use of facial recognition technology."
-    publishedDateTime: 2021-02-09T22:39:00Z
-    webUrl: "https://apnews.com/d87e9a09c835f3facdda8cdfc4b158e1"
+  - title: "Minneapolis City Council approves ordinance banning use of facial recognition technology"
+    excerpt: "An ordinance passed by the Minneapolis City Council will ban the use of facial recognition technology in the city."
+    publishedDateTime: 2021-02-12T21:28:00Z
+    webUrl: "https://www.fox9.com/news/minneapolis-city-council-approves-ordinance-banning-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.fox9.com/news/minneapolis-city-council-approves-ordinance-banning-use-of-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/minneapolis-city-council-approves-ordinance-banning-use-of-facial-recognition-technology.amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: Fox 9
+      domain: fox9.com
+    quality: 50
     images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
+      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2021/02/932/470/facial-recognition-camera.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
-  - title: "Minneapolis City Council Bans Use Of Facial Recognition Technology"
-    excerpt: "Minneapolis City Council has approved a new ordinance which bans the city from buying or using data derived from facial recognition technology."
-    publishedDateTime: 2021-02-12T18:26:00Z
-    webUrl: "https://minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-bans-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-bans-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-bans-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
 
-secured: "xXSmhNp3jtpxmcZ8DJHgLjA1txvqjHnUNqxZainOU+/aKEQJ2W/xtZqQtfXlRn1jy/xLOKGL65J+4IztaICnvsWcliK18ExnJ2CIVLfWZ17WVxob79+0R7u4K8G9991ZcZgP3TfMwDJv/2mBxDiH+ouMBneFVPYawjyn/e99C88ybJcFvk3kgfxKx2q1xTXHEP9+3DAxbi0ljIUr6sAgAVHEw46kyltWQdikNMFVoKJS9XiFrFp56XWdVHeq/5fTWHqwoWPhCxG3dKzsK7dIh7EQ7uOXb7HJ8OsYPhQ2FOECbQoFoWyyofR3rKiLk5BZw8wkLGtFU/zCnsUT1JJqMwq86A+OkA+UvkJKSUckRJ4=;F++WbZrn5UHqFDZl6eUdZA=="
+secured: "zrl7s+FC2gPULyWJqwRAGeFmAzPHbEkFd0Gy/GWA4XPbKfpNapqy4ed7yyvyk0Dgs2eaSbUMJMatdPiVbcWN5M4WsL3KbaUbnnyZodGI/eqmPKxZBckKIJvvezouayJ2e7qRCYThgl++zgjr8gbytp/5cybt17Irjoppadux1ActF5SEMFBnZQgQMWnWjwrCMtQIpDzazj8Qroig+c/aeNlfhUueQ+2ToyQhRfLMHBOKA8UxsNYQJISUS+VIMpHrEfMqJWMMjcC2/SM1HxQ5xnmckcq7ISanqj/s/xwidR/Z7BqazIJ54CO3IprJZZBh3byyUZ+oN2I4Xcr5uOexEayFOYsQLzEJi91oKiKfbRAlT8UWIXYFyzFwQzFhKksYc4Ld/LwZNd+YmiN54UorQr6NjRzFKN0Pv9ogUrReoEXH5E9ax4Mtji0Vivrnbnc4TjukNIY3eliB8i9MfnOP8UUOXXEDcGJ0PGJBbefEhP+Bjh7Au/oK1zT1NNpFbP8AEdXbXuHeHrzcSbXBGjLm8w==;GNWn5eqg2tVl7aGnTIUMXQ=="
 ---
 

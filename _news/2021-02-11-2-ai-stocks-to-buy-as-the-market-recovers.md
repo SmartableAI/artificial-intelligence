@@ -57,6 +57,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "New AI Detects Your Emotions by Scanning You With Radio Signals"
+    excerpt: "If new research is to believed, you may find yourself coming home from work one day in a rotten mood — just to have your smart speaker automatically scan your emotions and start to play soothing music."
+    publishedDateTime: 2021-02-12T21:06:00Z
+    webUrl: "https://futurism.com/the-byte/ai-emotions-radio-signals"
+    ampWebUrl: "https://futurism.com/ai-emotions-radio-signals/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-emotions-radio-signals/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2021/02/neural-net-bombards-radio-waves-guess-feeling-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "How to manage your power bill while adopting AI"
     excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
     publishedDateTime: 2021-02-11T07:31:00Z

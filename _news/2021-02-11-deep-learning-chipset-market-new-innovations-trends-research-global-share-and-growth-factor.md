@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2020 Segmentation Analysis, Key Players, Industry Share and Forecast by 2025"
-    excerpt: "The latest study on Global Natural Language Processing (NLP) in Healthcare Market 2020 by Company, Type and Application, Forecast to 2025 covers segment outlook, business assessment, competition scenario,"
-    publishedDateTime: 2021-02-08T06:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-segmentation-analysis-key-players-industry-share-and-forecast-by-2025-2021-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market Size 2021 Global Industry Trends, Share, Growth Insight, Size, Competitive Analysis, Statistics, Regional Forecast to 2025"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Voice Recognition Market”"
     publishedDateTime: 2021-02-12T07:17:00Z

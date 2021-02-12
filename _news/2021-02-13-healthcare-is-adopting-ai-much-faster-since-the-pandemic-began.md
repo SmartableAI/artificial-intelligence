@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/healthcare-is-adopti
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -39,27 +39,13 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/770x578/143c161e6d1f8b6e09a331048f272527/20210211-healthcareai-karen.jpg"
         width: 770
         height: 578
         isCached: true
-  - title: "4 recent studies exploring AI in healthcare"
-    excerpt: "In the past decade, medical researchers have become increasingly interested in artificial intelligence's potential to improve healthcare by reducing workflow inefficiencies, predicting health outcomes and speeding up diagnoses."
-    publishedDateTime: 2021-02-10T19:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
-secured: "QQhotc525kqe5aJx/ZFwhPgYYta5OdNlTGGln1rggW7ObEuu7g6fQ3Z0I+3cHgeAwcMfNmBGJSGZV4KL2LWG32FcK1IUvEDL5na/dK1tj8Gi3UZlClGWvJE7cYOw54Lmyx3/VV8AlURI3Jo1Fzzo+Kf8S6FVvUXZIRTPJ+x20jTjvjAyd2fYOXj91bXrGtTbj0xM9KYewyF++RNZPgagpp8jkBwj/yoC2ACwUSjTQ3IKDsoWi4uG1KuGUoEaA9Rf2yEfjyoezAwysotbfZTYwbrwYwA0v5sYUT8LP1wlhBv1dVjB6CtYBk2AE/7XQ0uOjhJXR85o6uieLerqaDsIfaqQzf/8iWmRuYZttg3lSQI=;/zHl9KvCOD7DKovZ/iTQMQ=="
+secured: "UNNsPHvAz6EwJ/J7Gwu6fJvc7ABJqpcvQf3/+btUy7YS3wZmZ0AMqnDsBOCBuh3dER7ZU2jTWIK/dtf77iQTEkoee83vslf8EeAtbsbqCTvppnlely/uKjEBk2Y0+I/USMCuZBWv6a7D1DHdrBO5cpbUS0wRAMjjbaV6gX/O9vJZaIj6NZilLeM64RNvgyHGilRtWnSK7hrDczEngxecy42tGGH5XcnHbEdh5lt8O/wT5vzygw9jSnkvfKkG/omnV9DWEzDbn2eHUR+eHuPycV7M21G4D7g2Qle4xkD4Eiwnjj3YBWo9sWR5z0Xo2GFEGcZN44OMl7Z0+xY9g14/Y7qpzLesD4IxLqPQi6ViTaOWifWDJ633f22RrxNnL1tpyxqR7aVkNrG6qNlrBhYDEeyA05PB0Mxu4nWYPHHiEs4xG9Y5zTesDR/yPdANI6iD3p0qJWI0DsGEXggGIIpYncWOITTM7ndeFRL/7uRQ/QcW8EI4WGNdU7kRQwij3v+pGNx4PAZ5q+e28uHXhDQC9Q==;5i0kaykJzacPWj1ea2YTxQ=="
 ---
 

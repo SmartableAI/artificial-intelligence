@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-02-09-nuance-acquires-seattle-digital-health-startup-saykara-to-boost-healthcare-ai-products.md",
-      "title": "Nuance acquires Seattle digital health startup Saykara to boost healthcare AI products",
-      "excerpt": "Nuance Communications has acquired Saykara, a Seattle health-tech startup that makes a voice assistant for clinicians. Nuance, based in Boston and publicly traded, will use the deal to boost its",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/",
-      "originalUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/10/20181003_GeekWire_Summit_813-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/",
-      "publishedDateTime": "2021-02-08T15:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-02-08-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge.md",
       "title": "Learn from the winner of the AWS DeepComposer Chartbusters Track or Treat challenge",
       "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters Track or Treat challenge, Greg Baker. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June 2020, we launched Chartbusters, a global competition in which developers use AWS DeepComposer",
@@ -306,49 +254,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region.md",
-      "title": "Leading facial recognition technology provider Corsight AI announces expansion into the Oceania region",
-      "excerpt": "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and has appointed Sean Borg to accelerate market growth and support the regional surge in demand for facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904",
-      "publishedDateTime": "2021-02-08T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-09-better-data-cheaper-tech-promise-to-unlock-natures-secrets.md",
       "title": "Better Data, Cheaper Tech Promise to Unlock Nature’s Secrets",
       "excerpt": "Conservationists hope newly launched open-source tools will lend more insight into endangered species and the effects of climate change.",
@@ -501,58 +406,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages.md",
-      "title": "Microsoft details Speller100, an AI system that checks spelling in over 100 languages",
-      "excerpt": "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/",
-      "originalUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/",
-      "publishedDateTime": "2021-02-08T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1048,6 +901,59 @@
       ]
     },
     {
+      "path": "_news/2021-02-08-klas-recognizes-microsofts-momentum-in-healthcare-ai.md",
+      "title": "KLAS recognizes Microsoft's momentum in healthcare AI",
+      "excerpt": "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
+      "originalUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 501,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg",
+          "width": 1024,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T00:00:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-making-ai-real-a-2019-report-into-ai-machine-learning.md",
       "title": "Making Ai Real: A 2019 Report Into Ai & Machine Learning",
       "excerpt": "Making AI Real report surveys global business about real world AI usage. This report reveals how technologies such as machine learning and AI are being used in 2019. To achieve this we surveyed a panel of 2,",
@@ -1218,6 +1124,83 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-kaggle-publishes-2020-state-of-machine-learning-and-data-science-report.md",
+      "title": "Kaggle Publishes 2020 State of Machine Learning and Data Science Report",
+      "excerpt": "Addison Wesley Professional The Kollected Kode Vicious by George V. Neville-Neil aims to provide thoughtful and pragmatic insight into programming to both experienced and younger software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kaggle.com/kaggle-survey-2020",
+      "originalUrl": "https://www.infoq.com/news/2021/02/kaggle-report-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-researchers-test-detection-methods-for-ai-generated-content.md",
+      "title": "Researchers test detection methods for AI-generated content",
+      "excerpt": "Artificial intelligence generators can craft text that mimics a human author, improving the user experience in platforms such as medical chatbots, online",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/",
+      "originalUrl": "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2021/02/news-trends_50.jpg",
+          "width": 400,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/amp/",
+      "publishedDateTime": "2021-02-07T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

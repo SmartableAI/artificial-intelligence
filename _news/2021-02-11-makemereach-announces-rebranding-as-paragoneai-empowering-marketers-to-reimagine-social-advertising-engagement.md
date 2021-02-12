@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-marketing-and-advertising-corporate-news-israel-baed3f5bd49940e3be200078d3b18ac1"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Making Ai Real: A 2019 Report Into Ai & Machine Learning"
-    excerpt: "Making AI Real report surveys global business about real world AI usage. This report reveals how technologies such as machine learning and AI are being used in 2019. To achieve this we surveyed a panel of 2,"
-    publishedDateTime: 2021-02-08T05:25:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 86
 
 secured: "17L1DlbbLsl5VMx9aWILuYAy1GkOfkh2QAUz5Vlgaa1kh66waLDjV01rPFI3Jj2hzZuqz1cP11VOYBaSsTRK7qswhYgvZ+AiScJ3tNisJTrQ6ld+k0EYbOVEqj03NMhmUcUb/9+8WVS2woq0lLL5P2qJTPsShmBhKNwH5X7F3mPODkMV+LPn+waFxSfiKLbah9T4mws6kMcFOrEJjzCth64NNXD6p/XaKmCP8LzLqOy3jt7Ylc+hKo/sEzxGWVEr/DlGFd3KYDYg6uF7pV9JINjQPwAgyHJ036HzCBs1OptgMW64hxguHAvSZCeMgHukJV3lnNj6keS4hswqx1avKbeltWsZ8Ss5o7OV+Ut+zRM=;eijE4XN9byyipD/0sJsnMw=="
 ---

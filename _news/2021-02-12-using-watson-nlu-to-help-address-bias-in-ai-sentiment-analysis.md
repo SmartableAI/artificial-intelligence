@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentim
 webUrl: "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/"
 type: article
 quality: 134
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -35,6 +35,22 @@ related:
     webUrl: "https://www.techrepublic.com/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
     ampWebUrl: "https://www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
     cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 96
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/4b528d48-8cbf-42b2-a230-c0e346adb88b/resize/1200x/bb75306246cac19a621353e0b787d81c/doctor-computer.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Humana now using IBM Watson's AI-enabled virtual assistant for health insurance members"
+    excerpt: "A new AI virtual assistant will help Humana's members with information on costs, providers and benefits. Humana announced today that it's teaming up with IBM Watson Health to deploy IBM Watson ..."
+    publishedDateTime: 2021-02-11T19:12:00Z
+    webUrl: "https://www.techrepublic.com/index.php/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
     type: article
     provider:
       name: TechRepublic

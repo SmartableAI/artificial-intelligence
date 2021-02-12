@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680/amp"
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "US border patrol used facial recognition on 23 million travelers in 2020"
-    excerpt: "US Customs and Border Protection used facial recognition technology on more than 23 million travelers in 2020, according to a report published by the agency. That's up from the 19 million travelers CBP scanned with the tech in 2019."
-    publishedDateTime: 2021-02-11T23:23:00Z
-    webUrl: "https://www.cnet.com/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/3Ajc94GlUnkf1BGZdETmznPPAnM=/1200x630/2020/07/07/03dbe587-4aa1-4ebb-bf65-4c5a33a4f182/passport-american-flag-3723.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "U.S. Used Facial Recognition on Millions of Air Travelers Last Year, Found No Imposters"
     excerpt: "Despite using facial recognition technology on millions of air travelers last year, U.S. Customs and Border Protection (CBP) caught not a single identity imposter at American airports. Since 2018, airport CBP officers have only \"intercepted seven impostors,"
     publishedDateTime: 2021-02-12T14:46:00Z

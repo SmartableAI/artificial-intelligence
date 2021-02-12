@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Sony's Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence"
-excerpt: "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for"
-publishedDateTime: 2021-02-02T01:10:00Z
-originalUrl: "https://www.lelezard.com/en/news-19628160.html"
-webUrl: "https://www.lelezard.com/en/news-19628160.html"
+title: "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence"
+excerpt: "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence."
+publishedDateTime: 2021-02-02T01:18:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Egohvu2eXSE35iwwcgL77jnNnuicH+q2Cko5oANGwkeBtsOjqFA1lNLeV7htU+QTxMErSXxjCRDp3RLCfE0san3ssPN44fqu3KgVN85Pb1/WBGemrlPQhnHBpVg/EKYrzI7YJkI/D3rE5JRmO2xfl6uDoY/dL3jgtXmFcYSisbehRJnNZ+EZVeHRPhDB3v+tuj3Tc//IlvWzI19FpsmUZsXIZJwe0IrmaPfkdRRRcAd/i8+v2nKbGdy9Uhy44PsAes3y4mVESODROcrvw/T1W4VxQBaWTVhAp23R/aWkEWhEJ8qjFVkdSl6uOm3jnB2pUqxnQj+fmMrd/OXfv5l3H8He1NBXaGvBsug9M9GU4Yw=;+qFXiuxsvST0KZjWG3GMbA=="
+secured: "jb5M52sNdAFQXQPFOh8zd9HZU9z0rc6vVCwVpw1qP17QH2EYwdJmXgaXHHC06tebpY+lPxbP/z0EOBv/od4i+iXUC9n1FdNWMfeVMKR9cVRTQc8/+AtgWaDylm4KYhpRRz1jlHLxU55TSG3kNL7Gvy/dAKu82uK8bVCMyb5TQX311/+5cFPE7vmTCI1+cWbkLvuRM2sxfE7/VF/JQmh9FJipr07LqKs0QFD+69GJAvQS0j/9Vib3zrE7p77w/vYgjNghh47e07BWnQSWH4CeluigSxjnBrt1Bgz8OUAkvOapwdmrEh19xdY8OnbcJZxWYXqKITposkhcGZNQ6FlPhxKqNC7Db76/wRjqY1Gtsq0=;F9ai6KER00mo0Yw1U2nMTQ=="
 ---
 

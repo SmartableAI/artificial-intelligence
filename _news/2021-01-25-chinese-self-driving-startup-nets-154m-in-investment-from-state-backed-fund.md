@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "ezn9pY4s3GKAmK9HcfuqXmA7sJc8aj+kpUVXvtS5H2cFETBxVZMX3vbuJQZ4N+KdedwGp9GWxYrtBJyA+Db8L4SerK1aI5zq6colBn2fe7a3xQoEoE6c4GaeGb2NKbgHzu4UC+9t89KqeSMJkSDD0kxWdUrW0b623iek/oHBvwCvnz/d+Ox4oJQBkiSrhykOC16JuT5FGPDeqcvqx+4cIBXBcXc1wwxwMwKA1g1MUIjD9pmNsJ0xC5tycneggic5shdSBuatjOz8s9QOMT28lZ7ZlVVYNsT1FClC95t+OirlLnUGiAantkkJBQ88Omq59YUj5x1bdjmmZ0Cp6kHCIMOVzYQQ31rwvB0S52Fdf9IFjZfZ6Bna27j1PJ/PWIovbDw25mXdlzS2mUwyp4u/5chwI0+kz+ipMM+VIJjP4Lga/ZYSPZGVt5EicGH1RtSXQ8ebhLARzrxlAdue6p8LIB65ZeJCDEFsp3YCP5e6QGZUJ78Z/xGY8gYGh1DuI4ZnK7fbvASiNXLWVewJeQWLlg==;/FODdko+u5x8eTgu11E60w=="
+secured: "OLcmmIU6XMydtI0EYVwUHbihuOCtWnRZS2gEtezcZ5ZkXrhw27Bu0oWX8MRCvkOQVCH7KGTx8K6H32J7Q5ZHeDPvC+HwgXCo0G3ZAnnL2RZtFb5fg1rZHuA5+70Ymi4N7YPQFq2hrZZRSseApAZmyOnOwB5MnsCvyb++EYI8WPLY2QrHKSJZLYgWyyiUhIreNpdKfLVfDfXl1N0C/cWdmMaI6Q704+s7zmpvBrrE8+a8qjyKs0peh+x5ZWjsl3zRkcG5M89d+4zrKs28OFDSLydbbyyO7ZjSSgBuLLM2d/b3Z0IqQym1L5UzIwZiBwjR3cHlCCHUgfpzmgRvgdQ4m96jxhsVg9Kkb1cR97cwMitCxeK/oT6PlVT/qrzzMXuiWqy3f5VpEVsc+KGVhW89zYq4UMTTTaN5SvbwNBpwn0kqvnLoxeLKn9wUVgE2fTJcbclixn2RCuooOk0KBbfCsCxMiqV8tYmBnBvqBW2Z4/y6qQMVCKWE0cjSKkAU0SVogpB5W3uK2qvMIVP3I1wW7w==;B43kx4oXKNbzoyH1ybzATw=="
 ---
 

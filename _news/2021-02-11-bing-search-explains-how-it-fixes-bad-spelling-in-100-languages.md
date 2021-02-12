@@ -9,7 +9,7 @@ ampWebUrl: "https://news.thewindowsclub.com/microsoft-explains-how-it-fixes-bad-
 cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-explains-how-it-fixes-bad-spelling-in-100-languages-105114/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft details Speller100, an AI system that checks spelling in over 100 languages"
-    excerpt: "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing."
-    publishedDateTime: 2021-02-08T17:07:00Z
-    webUrl: "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/"
-    ampWebUrl: "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Speller100: Zero-shot spelling correction at scale for 100-plus languages"
     excerpt: "Researchers in Microsoft Search and AI created Speller100 to expand spelling correction technology to 100-plus languages. Learn how it uses the concept of language families and zero-shot learning to make spelling correction more inclusive of languages worldwide."
     publishedDateTime: 2021-02-08T17:21:00Z

@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft details Speller100, an AI system that checks spelling in over 100 languages"
-    excerpt: "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing."
-    publishedDateTime: 2021-02-08T17:07:00Z
-    webUrl: "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/"
-    ampWebUrl: "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Bing Search explains how it fixes Bad Spelling in 100 Languages"
     excerpt: "Microsoft Bing says that it considers spelling correction an essential feature that enables a smooth search engine experience."
     publishedDateTime: 2021-02-10T20:02:00Z

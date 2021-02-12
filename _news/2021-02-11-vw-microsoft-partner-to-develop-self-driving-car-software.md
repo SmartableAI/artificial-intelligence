@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "VW, Microsoft Extend Collaboration to Self-Driving Car Software"
-    excerpt: "Volkswagen AG and Microsoft Corp. are expanding their cooperation involving the U.S. software giant’s cloud technology to include speeding up development of automated driving."
-    publishedDateTime: 2021-02-11T06:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-11/vw-microsoft-extend-collaboration-to-self-driving-car-software"
-    type: article
-    provider:
-      name: bloomberg.com/news/articles/2021-02-11/vw-microsoft-extend-collaboration-to-self-driving-car-software
-      domain: bloomberg.com/news/articles/2021-02-11/vw-microsoft-extend-collaboration-to-self-driving-car-software
-    quality: 139
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOSKTOipq79Q/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
     excerpt: "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create"
     publishedDateTime: 2021-02-08T08:00:05Z
@@ -118,6 +104,22 @@ related:
         width: 1680
         height: 946
         isCached: true
+  - title: "Microsoft details Speller100, an AI system that checks spelling in over 100 languages"
+    excerpt: "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing."
+    publishedDateTime: 2021-02-08T17:07:00Z
+    webUrl: "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/"
+    ampWebUrl: "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft and Volkswagen will collaborate on self-driving car software"
     excerpt: "VW plans to use Microsoft's expertise to build a cloud-based platform for future autonomous technologies and driver-assist systems."
     publishedDateTime: 2021-02-11T15:22:00Z
@@ -153,9 +155,9 @@ related:
   - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
     excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
     publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
     type: article
     provider:
       name: Reuters
@@ -234,21 +236,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
-  - title: "Microsoft Teams with Volkswagen for Azure Cloud Automated Driving Solutions"
-    excerpt: "Volkswagen will tap into Microsoft Azure tools and data to create new and efficient automated driving solutions for developers."
-    publishedDateTime: 2021-02-11T14:02:00Z
-    webUrl: "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp"
+  - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
+    excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
+    publishedDateTime: 2021-02-09T15:25:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 72
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 76
     images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2019/09/microsoft-connected-vehicle-platform.jpg"
-        width: 1279
-        height: 720
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg"
+        width: 600
+        height: 440
         isCached: true
   - title: "Cleareye.ai taps Microsoft Azure for PPP loan processing engine"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
@@ -264,6 +266,17 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare"
+    excerpt: "The AI healthcare market is more visible to the public than ever before. More and more people are becoming aware of the benefits of AI technology throughout the healthcare industry. To many, it’s solid proof that Artificial Intelligence has had a successful impact on the overall quality of our healthcare system."
+    publishedDateTime: 2021-02-11T22:03:00Z
+    webUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/"
+    ampWebUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 69
   - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
     excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
     publishedDateTime: 2021-02-11T21:51:00Z
@@ -406,6 +419,20 @@ related:
         width: 1000
         height: 387
         isCached: true
+  - title: "4 recent studies exploring AI in healthcare"
+    excerpt: "In the past decade, medical researchers have become increasingly interested in artificial intelligence's potential to improve healthcare by reducing workflow inefficiencies, predicting health outcomes and speeding up diagnoses."
+    publishedDateTime: 2021-02-10T19:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Microsoft Teams AI could tell you who is most enjoying your video call"
     excerpt: "Researchers at Microsoft have developed an AI for the firm's Teams videoconferencing software that highlights positive audience reactions during a virtual presentation"
     publishedDateTime: 2021-02-11T10:02:00Z
@@ -419,20 +446,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/02/10103555/10-feb_teams-bot.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "HPE plans second Spaceborne computer, will be linked to Microsoft Azure"
-    excerpt: "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later."
-    publishedDateTime: 2021-02-12T10:50:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
     excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
@@ -476,15 +489,34 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Volkswagen Group teams up with Microsoft to accelerate the development of automated driving"
-    excerpt: "WOLFSBURG, Germany and REDMOND, Wash., Feb. 11, 2021/ PRNewswire/-- Volkswagen Group further strengthens its capabilities in the development of automated driving solutions. Software Organisation will collaborate with Microsoft to build a cloud-based Automated Driving Platform on Microsoft Azure and leverage its compute and data capabilities to"
-    publishedDateTime: 2021-02-11T06:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/volkswagen-group-teams-up-with-microsoft-to-accelerate-the-development-of-automated"
+  - title: "Microsoft, HPE Bringing AI, Edge, Cloud to Earth Orbit in Preparation for Mars Missions"
+    excerpt: "The International Space Station will soon get a delivery of powerful AI, edge and cloud computing tools from HPE and Microsoft Azure to expand technology"
+    publishedDateTime: 2021-02-12T21:09:00Z
+    webUrl: "https://www.hpcwire.com/2021/02/12/microsoft-hpe-bringing-ai-edge-cloud-to-earth-orbit-in-preparation-for-mars-missions/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 39
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 46
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/ISS-Space-Station_shutterstock-1453899434_700x415.jpg"
+        width: 700
+        height: 415
+        isCached: true
+  - title: "VW, Microsoft Extend Collaboration to Self-Driving Car Software"
+    excerpt: "Volkswagen AG and Microsoft Corp. are expanding their cooperation involving the U.S. software giant’s cloud technology to include speeding up development of automated driving."
+    publishedDateTime: 2021-02-11T15:45:00Z
+    webUrl: "https://www.ttnews.com/articles/vw-microsoft-extend-collaboration-self-driving-car-software"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 41
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/vw-microsoft-1200.jpg?itok=10T2HGKf"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Cleareye.aiCollaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-10T08:48:00Z
@@ -503,43 +535,24 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 34
-  - title: "Volkswagen will use Microsoft’s cloud technologies to create new Automated Driving Platform"
-    excerpt: "Microsoft’s business inadvertently made headlines as Ford, a previous infotainment partner opted to Google’s Cloud services over that of Azure or even AWS. Most of the"
-    publishedDateTime: 2021-02-12T16:51:00Z
-    webUrl: "https://www.onmsft.com/news/volkswagen-will-use-microsofts-cloud-technologies-to-create-new-automated-driving-platform"
+  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
+    excerpt: "Change Healthcare (Nasdaq: CHNG) today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company’s Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
+    publishedDateTime: 2021-02-11T12:01:00Z
+    webUrl: "https://www.oaoa.com/news/business/multiple-change-healthcare-services-earn-klas-recognition-for-excellence/article_c928e484-f2e6-5cb1-afca-95837afde0f3.html"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 29
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/Volkswagen-Automated.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Self-driving cars are among us but drivers beware"
-    excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
-    publishedDateTime: 2021-02-12T01:37:00Z
-    webUrl: "https://theweeklydriver.com/2021/02/self-driving-cars-are-among-us-but-drivers-beware/"
+      name: Odessa American
+      domain: oaoa.com
+    quality: 20
+  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
+    excerpt: "Change Healthcare (Nasdaq: CHNG) today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company’s Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
+    publishedDateTime: 2021-02-12T11:08:00Z
+    webUrl: "https://www.financialbuzz.com/multiple-change-healthcare-services-earn-klas-recognition-for-excellence/"
     type: article
     provider:
-      name: The Weekly Driver
-      domain: theweeklydriver.com
-    quality: 24
-    images:
-      - url: "https://theweeklydriver.com/wp-content/uploads/2021/02/800px-Tesla_Model_S_digital_panels.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Microsofts expands partnership with Volkswagen on cloud-based Automated Driving Platform"
-    excerpt: "Microsoft said it has expanded its partnership with German carmaker Volkswagen. The company will cooperate with Volkswagen's software firm, Car.Software Organisation, to build a cloud-based Automated Driving Platform (ADP) on Microsoft Azure."
-    publishedDateTime: 2021-02-11T08:30:00Z
-    webUrl: "https://www.telecompaper.com/news/microsofts-expands-partnership-with-volkswagen-on-cloud-based-automated-driving-platform--1372064"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 10
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 18
 
 secured: "3cFlw9OwWJ6Z0QViLbeKVfWMDLcNTxmnRzU1MhFOsmrmcsIv08XWL5vM6G7f86IU3vTmp1QOgL5bqkYvNvzmUro3glzX3D4lF8RoVyl6nK1WtNGX9/83lZQiYy7tX8KGfup3IjzNZ51WUoKYqIfZU71Pl9EOAPSNDllouZ0k8RNP8+nJD4X+/8GFPDDzmIRXOUCANWNOVzp+G9FEDE/bgy/E6BaUKX1wPAAIuDYtyLxYy5+fI0nHl9LVBFXuoEiGEgvRM1ASZ/exHonlnOUOB8a1BQc8TEJf1BFYdb5eeWvY6yaUD1Xm0Of9A/UdNiQmmMbhw+TwgVJTrjp9dyzfX0H8ZPXg3HOHf00gjkkuu/ryXiGFsCtR7yEU9O+Qs5A+uWfKqxylGpZTxborXatB9dPlVAgKku63tGA4/DFSU/Hd7X3F4U867TwSs7KTtgqCLw6z88DzSAbRhAJ+pW2AGJrWrvommz8qNpvMi19Q2oWPBOfRhVgs7zcUs678bKfYzsERxhCGICD3HSLZdx423w==;XEjaiY4QNpycAJAt7yFfEA=="
 ---

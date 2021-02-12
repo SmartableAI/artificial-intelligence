@@ -138,17 +138,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Pony.ai raises $100 million more to advance its autonomous vehicle tech"
-    excerpt: "Autonomous vehicle startup Pony.ai has raised $100 million more, bringing its total raised to over $1 billion at a $5.3 billion valuation.Read"
-    publishedDateTime: 2021-02-08T05:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pony-ai-raises-$100-million-more-to-advance-its-autonomous-vehicle-tech-9783055"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/pony-ai-raises-$100-million-more-to-advance-its-autonomous-vehicle-tech-9783055"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pony-ai-raises-$100-million-more-to-advance-its-autonomous-vehicle-tech-9783055"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
 
 secured: "eMpVVSzr9EMZLv9zEXzI6jCyY3H4Lspu/DsH5jz92mhg5edJTrHAjikMOlp1O5k+26u6px0jlER7GFctSix0zqOwlnSVhPtHbqKOCHfzrCRVPZMHsoQGI10nkbxinPlshPpB55l2S88MBc87LK/4hY98vGkBnHsifeOyk5gE51U4MxoE2pmEbqEnWuiaDInzGl2sOn2lKCQFjQ9Jo9TbWXD4EDwx7YrxUbpt+c73SSoz0gGYbuoCgI31vE3O3YB2VYy+ODUaqE+3hOv5XffBAAvDK29e0c4avo+YMylNQTb0vVe/JXtoSayd69wCZmf8Cg4IZnbVZfhr0IxhiddQj4Q9tOg96w596KvBoW7ssHaJmZh4W8jKG8B63ywAz/SKMcnNdRIXyG3GXnHsJdFN7yqofVCk+UStlWGhteimY36aiVTUZHNCbqngWtWkZQzqqzdYsu8JXhCCyRTIhOiS93LEIWnmsXcGl+Pd6GjZ/PFCcXgW0GdI3JDTN/4bjytfSXnyJTsovo4M6yh/wfTZ3A==;UPgO1Qq2jCSGUcQx+y5e6A=="
 ---
