@@ -193,9 +193,9 @@ related:
   - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
     excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
     publishedDateTime: 2021-02-11T16:17:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    webUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
     type: article
     provider:
       name: ZDNet
@@ -491,6 +491,6 @@ related:
       domain: oaoa.com
     quality: 20
 
-secured: "8pGZEOostf1a4B7s9ctW92DI5+pG7nXtW7/CzjHjL0rwLW+agwMNNuBeJkLQ//t44bWPFMbhJn53BtbzhB795zND5FoavVMCI4Im2U2dIh7ZDf5e3Uhdbj3FetO3EzsREFX/rUGCYoBjGMPZ42ny8NGOpoUUxv73ENqQdSvcrCuyGELYXn7oCpblitRkZ/s2AUXoV2anrRMXhlpXaoWZB2HTBHjAaJKD5XmrWCHSW0enPL7AARUp1nZBD6fPos0rDHpDndUVjFBu9eJ+m+MlVmIT0v6uE0MIEbPMO7c5x7NVrNDSGaPje+HqDRUwc1ng4FJ0SeIX26XrclixFEjmHanpVf/cJzVL1+Y088Pg7dM=;TaeufNO7NK+1yNTcmT1+Jg=="
+secured: "LclCdHnRo7/f8OPdt8mj/3qcDt384PTOVC2vQk9hu1oSvuf5Oxe9mxEfIzj07IuRCa5VaBJp1rXRsMV4Atyp5IN0EoolFcfKBtomUNvkcDe5xR29mQoY4fb6C4oP7k1KdcQzXwzQCONK8d/yJIQ7wKyQH+36FeN0JZMuoinVbbsWfK3PzIYreQfHCYFX0UZy6XujL0bzKzGxpSL2BNgINWGl05H51vmkGNoF55tA4AWmWFo3GKgBOOc++Im61Yi4tcfgqAbHKJQbaHoN1jc0MmbmUKXD4yYPUZL8GjZ6C+G0pOprsaiOmwJqLubhkgPvMoDYE2aZ10+B2pDAt9cu08s4pB3CKPwSdMaF7IGCr+eioadm5hzIUBoJnkgESiyYN5mNVam0GAQP2v661kAPCaqeTEaZFRLdjZTOExfpLxFkhghK98CmD1zedvj9VQIlKl6o6fK+WrYiCZ1Ku7Mlu9uE6Os5P4LY2gcHAb5/kfRwMn/gQVbTdOGLPWGdB02+fELL9j7CZYSrkDl3Zh/3Mg==;uCV9z7++pScaOzsRmTH8Xw=="
 ---
 

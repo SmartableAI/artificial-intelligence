@@ -29,113 +29,73 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Size by Technology, Application & Geography - Analysis & Forecast to 2024"
-    excerpt: "Selbyville, Delaware, Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Education market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
-    publishedDateTime: 2021-02-08T12:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08"
+  - title: "Global Machine Learning as a Service (MLaaS) Market 2020 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2025"
+    excerpt: "MarketsandResearch.biz proclaims the addition of a new report titled Global Machine Learning as a Service (MLaaS) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers broad insights extracted by thoroughly analyzing historical and current developments in the market."
+    publishedDateTime: 2021-02-11T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025-2021-02-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market by Size, Growth, Opportunity and Forecast to 2027"
-    excerpt: "Selbyville, Delaware Global Computer Vision Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Computer Vision Market Report also covers top key players,"
-    publishedDateTime: 2021-02-10T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10"
+  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2020 Segmentation Analysis, Key Players, Industry Share and Forecast by 2025"
+    excerpt: "The latest study on Global Natural Language Processing (NLP) in Healthcare Market 2020 by Company, Type and Application, Forecast to 2025 covers segment outlook, business assessment, competition scenario,"
+    publishedDateTime: 2021-02-08T06:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-segmentation-analysis-key-players-industry-share-and-forecast-by-2025-2021-02-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Precision Medicine Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence (AI) in precision medicine market is expected to record 50% CAGR during 2020-2025."
-    publishedDateTime: 2021-02-09T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-trends-companies-driver-segmentation-forecast-to-2025-2021-02-09"
+  - title: "Deep Learning Chipset Market New Innovations Trends, Research, Global Share and Growth Factor"
+    excerpt: "Deep Learning Chipset Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis \"The report on Deep Learning Chipset Market was recently published by SDKI,"
+    publishedDateTime: 2021-02-11T07:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-new-innovations-trends-research-global-share-and-growth-factor-2021-02-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
-    excerpt: "The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc. (Google), General Electric Company, General Vision Inc."
-    publishedDateTime: 2021-02-12T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-manufacturing-market-size-share-growth-trends-opportunity-and-forecast-to-2027-2021-02-11"
+  - title: "Worldwide Digital Assistants in Healthcare Industry to 2026 - North America is Expected to Hold Significant Market Share - ResearchAndMarkets.com"
+    excerpt: "The “Digital Assistants in Healthcare Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The digital assistants in healthcare market is projected to register a CAGR of almost 33."
+    publishedDateTime: 2021-02-11T11:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-coronavirus-pandemic-consumer-products-and-services-f0f4e2dbb086444dbbee9538d303d12d"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: Associated Press
+      domain: apnews.com
+    quality: 2
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
-    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
-    publishedDateTime: 2021-02-11T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-forecast-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-11"
+  - title: "Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026"
+    excerpt: "Reportlinker.com announces the release of the report \"Global Smart Robots Market By Component, By Mobility, By"
+    publishedDateTime: 2021-02-10T11:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19581256/global-smart-robots-market-by-component-by-mobility-by-operating-environment-by-end-user-by-region"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19581256"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581256"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market Size 2020: Industry Growth, Competitive Analysis, Future Prospects and Forecast 2025"
-    excerpt: "Selbyville, Delaware The Face Recognition Technology Market report offers detailed competitive landscape of the global market. It includes company, market share analysis, product portfolio of the major industry participants."
-    publishedDateTime: 2021-02-10T10:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2020-industry-growth-competitive-analysis-future-prospects-and-forecast-2025-2021-02-10?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Gesture Recognition Market Size, Share and Trend to Record Momentous Growth Through 2026"
-    excerpt: "The report Automotive Gesture Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Automotive Gesture Recognition Market Growth and information corresponding to market segments such as geographies,"
-    publishedDateTime: 2021-02-08T14:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-size-share-and-trend-to-record-momentous-growth-through-2026-2021-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
-    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
-    publishedDateTime: 2021-02-11T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/11-2-billion-artificial-intelligence-in-agriculture-markets---global-industry-analysis-and-growth-forecast-to-2030--301226811.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "AiClQ81IY9G3766fyiqYQ83YilnY9Cv+0nvgP5vjNGds8gI0pD9k2MkeXWQFDRN2rGfxlNAcCRdlDWHhPI09EBtoqq6lGLvKVdsFT6vn4QCfz9wG/eSHiXap8C1HbBymdb/V5eXOIERDG8GpNA+FmhgkG6bU8s9ZHz4oEreYoK/oK02PIDPRfyGsQkdtnYp8ucHh6t0WrWQVkG1KVkfLY7HCTGxB5kmqyC8LNzpnT1qi0a0goklYIu//dAH0vuJw3bdTXHESfWt3k/i83HRcgXM+SHxYmbsQ8/S9uOwJTEvPc/kHc+EkPkHG5ynsCDdvEkm6SjRbgKxDVnFmlmhpTBcpHcC1nfkSNlbf6z48msY=;0uUCmveh42c58R6iFDRZWA=="
 ---

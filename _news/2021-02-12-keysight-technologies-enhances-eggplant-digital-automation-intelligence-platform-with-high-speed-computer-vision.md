@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision"
-excerpt: "Keysight Technologies, Inc. , a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation"
-publishedDateTime: 2021-02-11T16:10:00Z
-originalUrl: "https://www.lelezard.com/en/news-19647483.html"
-webUrl: "https://www.lelezard.com/en/news-19647483.html"
+excerpt: "Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises, service providers and governments accelerate"
+publishedDateTime: 2021-02-11T16:04:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision-1030073676"
+webUrl: "https://markets.businessinsider.com/news/stocks/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision-1030073676"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision-1030073676"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision-1030073676"
 type: article
-quality: 20
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
-  - AI
   - Computer Vision
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
+  - AI
 
 related:
   - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Oceania region"
@@ -153,6 +152,6 @@ related:
       domain: securityinfowatch.com
     quality: 12
 
-secured: "UQ7Sjg6V6SzYGOyPCAsba1ItQCvleKDmtr/mwFC44DSggebJh3iAKsnLCKWQ7Xo9Xt5qluPReejC3M0JHLUxxUTH1ZS956hTXtXpSL1q/QMugVV2FNCuVGPsok4oSVIP0Xx0pPAd5FHvFrIjTJgxLOuQ6eViTGT6tQylqPn9+e3bDzHJbr5zwF4vQqXqFixyKOGB9ykOC+P1NgPOSgN7l0d+wM7STJduGdWgjqPDecsZ3Ogld9JhuiZuxOkl3otf1f4Op2j+IDKhxiqRJsiyftQYjCr89DuulqdHFSPoRh9BFL5YukcMI8wEYSMwDfxM5023RsSaXEmkTdcPLaHhSEU0bHsIlx/Ix/dNWSkdhrs=;9kxQr0o/kn4etCtS3DHNug=="
+secured: "tyWp2AcR7+a26WLDzNlIIsC7wsa3QVo6lA9IYbeISrAheInvQQse24s3l3y2/z0ZtztHfFgqGgm/mxzrYsyM635skLeywW8mGVX50hcCbe5ePg5mP1s9u2yX4BnhuQaDAnz7+3jsAaEdcjN8uELGEVo0pE1gRsmWBm3Jgh5/lm4+TvSK04wsK5dqJiA1CICOHqQKTkF8eoU6UdhNae0+nquApEb61TVd3Geu5KMd99k5lwSUc+iao0VVUxLSle7eXT2QGadRlaxr4nqLrx/RTWbEWAmcAGsn0cjWY0a5EnJlxWpdBSKAYzsHIMx3SnhmrMyL+UdusyE84USakib73ZKub7ytw3JiFHey1GtM/ToOqt0zEnAJwWKKXTiue1GHFrNXCvomeRKvJbQ+KXdvseIIiVUz6zo/tZhtUH23hNjpnOcoBTqI9UywADlpgP+dkNcgtU4NkpqBHSbtDN76KxZdh0sgQMxSPOQiWQBo9d3SmSpn5DlDMrY6pdGNUB84iseV+0y2scucVV+KYmb+1w==;gPIkCakkdHCWLy0eMj5GYA=="
 ---
 

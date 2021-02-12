@@ -80,6 +80,15 @@ related:
         width: 3600
         height: 2045
         isCached: true
+  - title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
+    excerpt: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
+    publishedDateTime: 2021-02-11T20:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210211005257/en/Humana-and-IBM-Watson-Health-Collaborate-to-Simplify-and-Enhance-the-Member-Experience-for-Humana-Employer-Group-Customers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "/fPt3794eeBYqunsphOx7K5fR5y+20MrXqifZkgpTlIjewqO7g9UoiH5bnc/XkNAgK04bUSBmEoEnrFEE4tfwfvHhr9Cj8RfkxlIGJYx5SNCz4AQ4KbaFx3lUKiSl5K4WJMZCLcglcf/y6w+AKH/i3tyhTmS/cIl8RhWSocrLvGQlL/p97Wti6hb/vRP4SDX5AC4iAeUvMwzRlWdx5QaGsZ3LrYvCfvXJk1DUCDF074ys+HCnINYH7ydFnQ2UE9Bi2HFzooBgKtaldnz/c8KwgOWJUK/puQ03UM4ktOsfhgEihSLcKcU1+xI2PZQDxONsSeyv1b4pX4E3cxfld00yaNZa0Rqwc7eTWEl7mUiGjM=;gukxreamXfurUtuhVP3nsQ=="
 ---

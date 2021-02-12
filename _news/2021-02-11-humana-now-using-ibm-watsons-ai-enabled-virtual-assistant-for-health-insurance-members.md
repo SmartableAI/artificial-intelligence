@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/humana-now-using-ibm
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
 type: article
 quality: 96
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
         width: 3600
         height: 2045
         isCached: true
+  - title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
+    excerpt: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
+    publishedDateTime: 2021-02-11T20:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210211005257/en/Humana-and-IBM-Watson-Health-Collaborate-to-Simplify-and-Enhance-the-Member-Experience-for-Humana-Employer-Group-Customers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "0n7mz2Gzqc+vNreGjGT7Z1yAYEtomNN5dvlvZ4q79fJv8NtTC/OABd8+mrUSEZbyW1cwlPMGia6mDgbwl0gxJx617NfmSi6MOAHtYPFvmefwU1NgP6WD8M93A6dE5bU4BrcZVRxvZvVYyAzPNO8/Eec3c+kcFqhnG/wcQNFI9o/L10zK+JpogjukAFuD9AJd2Q1/RLwZvawfj6WnKAtvyVfxIR6ATnhwkZxfTdJwOSGyAjf2bxlJ1DYCIOIi9GqEHJy8WM2PLZOBDKgUAQqr3S49y+664+t8mosQswEpchDPfsBy+5gQd5fdtlcJvnQ93DOn6vg3/O4+vEWACW7HI9Xtfei50gr7Cg7wcoCmHk825+lALpIKCjDdmzq1QT5iEUAaWHpF/LiQB7qDK+RB3AH3x8esfSRf7abLmkQLQ1siUS3lLzjNAQKn1m9mOGDBwr8Ub0nw8yAWKGkQN89CDRacOH8A3oZK2zUIXEdtgGeqxECViiBr49pDJX9XVrLljv6RZ8GDiU1+VMckNKRJxA==;EyDKT/O1SL99kjEPtEYQiQ=="
 ---

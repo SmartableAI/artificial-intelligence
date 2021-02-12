@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Size by Technology, Application & Geography - Analysis & Forecast to 2024"
-    excerpt: "Selbyville, Delaware, Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Education market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
-    publishedDateTime: 2021-02-08T12:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision Market by Size, Growth, Opportunity and Forecast to 2027"
     excerpt: "Selbyville, Delaware Global Computer Vision Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Computer Vision Market Report also covers top key players,"
     publishedDateTime: 2021-02-10T06:30:00Z
@@ -56,29 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Precision Medicine Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence (AI) in precision medicine market is expected to record 50% CAGR during 2020-2025."
-    publishedDateTime: 2021-02-09T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-trends-companies-driver-segmentation-forecast-to-2025-2021-02-09"
+  - title: "Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
+    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2021-02-11T08:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2021-02-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
-    excerpt: "The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc. (Google), General Electric Company, General Vision Inc."
-    publishedDateTime: 2021-02-12T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-manufacturing-market-size-share-growth-trends-opportunity-and-forecast-to-2027-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -98,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market, Analyst To Witness A 10% CAGR By 2023 | Size, Share, Trend and Global Forecast"
+    excerpt: "Automotive Artificial Intelligence Market-Overview: The automotive technology and services reports are produced by"
+    publishedDateTime: 2021-02-09T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analyst-to-witness-a-10-cagr-by-2023-size-share-trend-and-global-forecast-2021-02-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Gesture Recognition Market Size, Share and Trend to Record Momentous Growth Through 2026"
     excerpt: "The report Automotive Gesture Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Automotive Gesture Recognition Market Growth and information corresponding to market segments such as geographies,"
     publishedDateTime: 2021-02-08T14:06:00Z
@@ -112,20 +98,71 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Size 2021 Global Industry Trends, Share, Growth Insight, Size, Competitive Analysis, Statistics, Regional Forecast to 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Voice Recognition Market”"
-    publishedDateTime: 2021-02-12T07:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-2021-global-industry-trends-share-growth-insight-size-competitive-analysis-statistics-regional-forecast-to-2025-2021-02-12"
+  - title: "Artificial Intelligence Market Review By Comprehensive Study, Development Status, Opportunities and Future Plans Forecast to 2026"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-02-09T13:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-review-by-comprehensive-study-development-status-opportunities-and-future-plans-forecast-to-2026-2021-02-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 16
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Commercial Robotics Market Size, Share, Growth, Trends Analysis & Industry Forecast Report, 2020-2027"
+    excerpt: "The GMI Research expects the commercial robotics market to expand at a significant rate. From a regional perspective, the Asia-Pacific is expected to increase at a higher CAGR due to the strong demand"
+    publishedDateTime: 2021-02-08T20:37:00Z
+    webUrl: "https://menafn.com/1101563643/Commercial-Robotics-Market-Size-Share-Growth-Trends-Analysis-Industry-Forecast-Report-2020-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?180835"
+        width: 475
+        height: 250
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
+    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-02-11T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IoT Chip Market Market Size, High Demand, Recent Trends, Future Growth, Business Scenario, Product, Technology, Share and Forecasts 2020 – 2027"
+    excerpt: "The global Internet of Things (IoT) chip market reached a valuation of USD 11.37 Billion in 2020 and is expected to reach a market size of USD 34.74 Billion by 2028, registering a CAGR of 14.9% in terms of revenue growth during the forecast period,"
+    publishedDateTime: 2021-02-11T01:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/iot-chip-market-market-size-high-demand-recent-trends-future-growth-business-scenario-product-technology-share-and-forecasts-2020-2027-2021-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Chip Market to Witness Huge Growth from 2020-2030 and Focusing on Top Key Players - Intel Corp, NVIDIA Corp"
+    excerpt: "Market Industry Reports (MIR) has published a new report titled “AI Chip Market- Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020–2030.” According to the report, the Global AI Chip Market accounted for over ~US$ 9."
+    publishedDateTime: 2021-02-09T09:49:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137575/ai-chip-market-to-witness-huge-growth-from-2020/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 14
   - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
     excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
     publishedDateTime: 2021-02-11T14:00:00Z

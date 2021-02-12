@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-670373"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-670373"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "GXBgPZFDQTYi6pIWjOw2rQpxLYPAtdiMJ4sONe0AWJzUcbr7WQSfBB0+t2goZUFERwNDiStm3XW5KF0CO5xDX4XxNJlht3KIHx4KaSo4OHG5oLiF2fdHFMyALxnBQMRKz//728IQdSDfqmPBxtbW7MNWE3X92SYsFI/zh2pGT9MgG3oFH6LwnyMJ6fDRL0n4gI8HFP7eL2D2USJrJtFM9jcEyhsM/pU7QC4zbp2o45nErfeMjZIV9tr/gu0xPoohusqtGZVS527+aD0idiu2fGiLL73oERXC10Cx9l75NoQrUfhF4y/nT+hgmdotJKwG8Rb8W7GYnnG1qMPQINaxrTcscPceVPHFkQHxwkJ1yZdqwbapDXsJOw53xuQYKYqMLJT3229hHIoQeVKHx6g7maUrybyvsMA4AlffFfvX8wTwV9TThEW9IlxEaClA09dXq52ma1tNH64TyEuaQX4am7gGNLWhExVHTOatlDWsNQ0jDcWnY2W9EKGlxcfP2BzHxLmMiVE+CJMBifXLzUOTLA==;bKz2W/2AGj4llYRmRr7Ihg=="
+secured: "ezn9pY4s3GKAmK9HcfuqXmA7sJc8aj+kpUVXvtS5H2cFETBxVZMX3vbuJQZ4N+KdedwGp9GWxYrtBJyA+Db8L4SerK1aI5zq6colBn2fe7a3xQoEoE6c4GaeGb2NKbgHzu4UC+9t89KqeSMJkSDD0kxWdUrW0b623iek/oHBvwCvnz/d+Ox4oJQBkiSrhykOC16JuT5FGPDeqcvqx+4cIBXBcXc1wwxwMwKA1g1MUIjD9pmNsJ0xC5tycneggic5shdSBuatjOz8s9QOMT28lZ7ZlVVYNsT1FClC95t+OirlLnUGiAantkkJBQ88Omq59YUj5x1bdjmmZ0Cp6kHCIMOVzYQQ31rwvB0S52Fdf9IFjZfZ6Bna27j1PJ/PWIovbDw25mXdlzS2mUwyp4u/5chwI0+kz+ipMM+VIJjP4Lga/ZYSPZGVt5EicGH1RtSXQ8ebhLARzrxlAdue6p8LIB65ZeJCDEFsp3YCP5e6QGZUJ78Z/xGY8gYGh1DuI4ZnK7fbvASiNXLWVewJeQWLlg==;/FODdko+u5x8eTgu11E60w=="
 ---
 

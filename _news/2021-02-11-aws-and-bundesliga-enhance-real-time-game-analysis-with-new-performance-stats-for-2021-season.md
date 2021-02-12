@@ -32,7 +32,7 @@ related:
   - title: "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season"
     excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced three new Bundesliga Match Facts powered by AWS to give fans deeper insights into action on the pitch. The new Match Facts – Most Pressed Player,"
     publishedDateTime: 2021-02-12T05:39:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-sports-amazoncom-inc-europe-mens-soccer-e588af88f1bb473a8f3d0e3d5c716d30/gallery/9ff6eace95b8957e8666acee4e654d30"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-sports-amazoncom-inc-europe-mens-soccer-e588af88f1bb473a8f3d0e3d5c716d30"
     type: article
     provider:
       name: Associated Press

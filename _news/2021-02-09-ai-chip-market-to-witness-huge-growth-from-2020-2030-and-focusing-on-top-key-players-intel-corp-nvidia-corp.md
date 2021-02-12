@@ -19,47 +19,99 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) In Healthcare Market will be growing at a CAGR of 42.0 % during the forecast 2020 to 2028"
-    excerpt: "According to a new market research report published by sheer analytics and insights The Global Artificial intelligence in healthcare market was 6 1 Bn in 2019 and it is expected to reach 170 5 Bn by 2028 It is eventually"
-    publishedDateTime: 2021-02-08T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
-    ampWebUrl: "https://www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 65
-    images:
-      - url: "https://cdn.openpr.com/U/2/U208132444_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Global Wearable Healthcare Devices Market - Forecasts to 2026"
-    excerpt: "The findings reviewed by GME stated that the Global Wearable Healthcare Devices Market will expand with a CAGR value of 30 8 percent from 2021 to 2026 Factors like advanced sensors rising adoption of artificial intelligence growing mobile platforms precise"
-    publishedDateTime: 2021-02-10T08:31:00Z
-    webUrl: "https://www.openpr.com/news/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/2/U210206214_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Artificial Intelligence in Security Market Research With Method, Top Companies, Global Development Factors,and Forecast 2026"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
-    publishedDateTime: 2021-02-08T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-with-method-top-companies-global-development-factorsand-forecast-2026-2021-02-08"
+  - title: "Computer Vision Market by Size, Growth, Opportunity and Forecast to 2027"
+    excerpt: "Selbyville, Delaware Global Computer Vision Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Computer Vision Market Report also covers top key players,"
+    publishedDateTime: 2021-02-10T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
+    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2021-02-11T08:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
+    publishedDateTime: 2021-02-11T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-forecast-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Technology Market Size 2020: Industry Growth, Competitive Analysis, Future Prospects and Forecast 2025"
+    excerpt: "Selbyville, Delaware The Face Recognition Technology Market report offers detailed competitive landscape of the global market. It includes company, market share analysis, product portfolio of the major industry participants."
+    publishedDateTime: 2021-02-10T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2020-industry-growth-competitive-analysis-future-prospects-and-forecast-2025-2021-02-10?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market, Analyst To Witness A 10% CAGR By 2023 | Size, Share, Trend and Global Forecast"
+    excerpt: "Automotive Artificial Intelligence Market-Overview: The automotive technology and services reports are produced by"
+    publishedDateTime: 2021-02-09T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analyst-to-witness-a-10-cagr-by-2023-size-share-trend-and-global-forecast-2021-02-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Gesture Recognition Market Size, Share and Trend to Record Momentous Growth Through 2026"
+    excerpt: "The report Automotive Gesture Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Automotive Gesture Recognition Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-02-08T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-size-share-and-trend-to-record-momentous-growth-through-2026-2021-02-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Review By Comprehensive Study, Development Status, Opportunities and Future Plans Forecast to 2026"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-02-09T13:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-review-by-comprehensive-study-development-status-opportunities-and-future-plans-forecast-to-2026-2021-02-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -79,20 +131,6 @@ related:
         width: 475
         height: 250
         isCached: true
-  - title: "The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%"
-    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in healthcare market."
-    publishedDateTime: 2021-02-09T15:38:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Speech and Voice Recognition Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
     excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-02-11T09:37:00Z
@@ -107,55 +145,28 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
-    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in manufacturing market."
-    publishedDateTime: 2021-02-09T16:19:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-industrial-equipment-repair-information-technology-5bc5bd87020e8288ad67c67be5202146"
+  - title: "IoT Chip Market Market Size, High Demand, Recent Trends, Future Growth, Business Scenario, Product, Technology, Share and Forecasts 2020 – 2027"
+    excerpt: "The global Internet of Things (IoT) chip market reached a valuation of USD 11.37 Billion in 2020 and is expected to reach a market size of USD 34.74 Billion by 2028, registering a CAGR of 14.9% in terms of revenue growth during the forecast period,"
+    publishedDateTime: 2021-02-11T01:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/iot-chip-market-market-size-high-demand-recent-trends-future-growth-business-scenario-product-technology-share-and-forecasts-2020-2027-2021-02-10"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) Market to Attain a Valuation of Highest CAGR 2022-2031| Google Inc. and IBM Corporation"
-    excerpt: "Market.us, one of the worlds leading by prominent market research firms has released a new recent work on \"Artificial intelligence (AI) Market 2022-2031\" based on business intelli"
-    publishedDateTime: 2021-02-08T08:24:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/137531/artificial-intelligence-ai-market-to-attain-a/"
+  - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
+    publishedDateTime: 2021-02-11T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/11-2-billion-artificial-intelligence-in-agriculture-markets---global-industry-analysis-and-growth-forecast-to-2030--301226811.html"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 11
-  - title: "Lucintel: The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%"
-    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in heal"
-    publishedDateTime: 2021-02-09T15:33:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51968415-lucintel-the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-dollar-36-1-billion-by-2025-with-cagr-of-50-2-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 9
-  - title: "Lucintel: The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
-    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in manu"
-    publishedDateTime: 2021-02-09T15:57:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51968721-lucintel-the-artificial-intelligence-in-manufacturing-market-is-expected-to-reach-dollar-15-273-7-million-in-2025-with-a-cagr-of-52-2-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-  - title: "The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
-    excerpt: "In terms of opportunities, the artificial intelligence in manufacturing market is expected to grow from $513.6 million in 2017 to $15,273.7 million in 2025; it is expected to grow at a CAGR of 52.2% during the forecast period."
-    publishedDateTime: 2021-02-09T09:50:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/628713msn/the-artificial-intelligence-in-manufacturing-market-is-expected-to-reach-152737-million-in-2025-with-a-cagr-of-522"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 0
 
 secured: "b1lXGulldW2L3vcqL7H9v19cLq0VVs/eqLAXRRrXIB/GQLm4l2yfK+gMYfFAaV9Rblx4WeSriM2DVy0I/HNIHGLiEQo9V1YJoBL512NfcudCwoqfFjbOnkXGhpuc9E+XYM8pbWZGzrFPohfvBJJ5Mo0VnYMqs9TYZKvjfbXychu30xuykgw/u3chte4yd3oZctbLLiPjZkVMt4GcMrNKuvhYJT2PneyjH860E940A5TmHcZxok1jFlGZjG86MsqW8MdPT05OGMfbpt7wuSzWiZv3ERWsCfkAcw0u25Zh6QLM8oFidJrw2vHGVidgD6vgmQAIcewEvgnA/QoyYjpbuN32ciNbhbRle+pKUn1tk2U=;BGKHCFJax2ufqWHVYbPgWA=="

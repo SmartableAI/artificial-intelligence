@@ -3,8 +3,8 @@ category: news
 title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
 excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
 publishedDateTime: 2021-02-09T22:05:00Z
-originalUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
-webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0"
+originalUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota/toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others-idUSKBN2A92G0?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-autos-autonomous-toyota/toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others-idUSKBN2A92G0?edition-redirect=ca"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92G0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0"
 type: article
@@ -150,6 +150,6 @@ related:
         height: 1143
         isCached: true
 
-secured: "qrhK6hMSgld7qXkfqau+U4V/AT91m/3RbKtIsfDBYxHUBZjpy6TfABzYQzntuYhL5mh7gtcVOzqbw9Y9/sVmZ0f/yP4l6TryZPpd+9eoc3iqXkvsaqp6yhnYe3tDbaZwNdFF0v/wtGyZFv6y5+h54tyTjRxeuL3d9WkvMnvABs77SKlvFWxdaAYnCR4lmLDYnYd8xEuGVa7ft1sTSx/SeGiH6TBn13kHwpoj5RXpt0j68MZzGShW9YkSE7rcMyG1dRLck8Y2Y2shEQ2BtYTTki5c6D5nFFBDVM2EjXPEg9z9lqIvETL7DEj/cKUM4qJqsLeErkJuGDWNjg+/c/obZebb4MFiKhq8ojYi/VPMvnE4CuObK32deUAI/Jj2MyB8/ufIHAZn4eXlK7nfrvUIRgNhSQeyAvTlzX//8ob5a1bqgubT9wUd6KcY+cEzHlhBq9jE+t3DYYwcupiPR7rip5GVYIzTbvSlcmc5v8ra5jXD0L0NhgEf/kOjNRsHMm9ehxcWqZqf0kkDKnOhUIcktA==;7mKBA5fi++PwRruL2VuCQg=="
+secured: "Hw7eFWJ7m5pvjpFkRbaA6qxXHgmtlhLeVnEb46UBzi11F5E+1CMwAms3R5DXlpWCqWXBUOfz5qEI3xi8oqykdMAwnDXnVaGW8+DE4kTDHBktgDQERkzByAiec6mW9EM5T4D1VaNCW6qp+FOBI55gXimTb3B4krfvLcGOSZ4SogVYL9sZTK4gHGSs3GKHcaNyI43tBu7rHiun5QT8vo6E/ZNYXl0gpScceNFmqTW8dL/Skb3LMJkQ+qRPw/tgt6oXBvukheRp+W8JJmffAbL9EBgB8XtqTLwUQlgCQaH3BvpMT5KN963J8g7tkekzet+bJv+Y44RdzxCoNzmgvCW1ukYnk7J9lALkwTj6ZJfqZD4=;mZri6N9gd8iLsmWaHeme9A=="
 ---
 

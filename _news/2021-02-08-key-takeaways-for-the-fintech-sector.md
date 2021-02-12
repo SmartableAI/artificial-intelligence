@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/364949"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364949"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/FIntech-UK-Cambridge-University-scaled-600x498.jpg"
         width: 600
         height: 498
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Size, Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Artificial Intelligence (AI) in Fintech Market Trends covers the companies' data including Growth potential analysis, Industry segmentation, Business trends, Growth drivers, Price trend analysis. The Report also Gives Detail Analysis on Market concern Like Artificial Intelligence (AI) in Fintech Market share,"
-    publishedDateTime: 2021-02-10T02:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-02-10?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Localizing FinTech To Tackle SMBs' Biggest Cash Headaches"
     excerpt: "SUMA discusses the value in offering localized FinTech solutions for small businesses across Latin America to promote growth."

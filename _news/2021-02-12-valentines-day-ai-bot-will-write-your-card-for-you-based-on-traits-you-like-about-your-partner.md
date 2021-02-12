@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9250423/amp/Valentin
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9250423/amp/Valentines-Day-AI-bot-write-card-based-traits-like-partner.html"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers"
+    excerpt: "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers Who Are Stuck For Words. ARTIFICIAL INTELLIGENCE ROBOTS are writing Valentines Day"
+    publishedDateTime: 2021-02-12T08:57:00Z
+    webUrl: "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/"
+    ampWebUrl: "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/"
+    cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/"
+    type: article
+    provider:
+      name: Euro Weekly News
+      domain: euroweeklynews.com
+    quality: 74
+    images:
+      - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2021/02/AMP-1_6026235b81806.jpg?x22228"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Not much of a writer? AI bot will write your Valentine's Day card FOR YOU based on the attributes you like about your partner"
     excerpt: "The Valentine's Day bot was trained to write letters based on examples of Valentine's Day Cards, according to Chris Lu, co-founder of US-based CopyAI."
     publishedDateTime: 2021-02-11T16:34:00Z
@@ -44,6 +60,6 @@ related:
         height: 382
         isCached: true
 
-secured: "E79fj3949QCi5VGBHUlfHOdqsdZVcVBa5l5gIf88le0/awT2oV1p7fUXI44MKi1U59ZjjrRMTXU+jGDdRgrej/Ndmz/GL1OAb1HS1mXNUz1F4ChkpygQZYZLAiWdlnKoDUIbSOU6Wxk7EUR0K8IvroVTgW2OkxTGQOlpaiXsVlZpiK6Y2ijTY+rSs+EODHObRH+eR1L4ytjaqRXIsCJk0+vasbBGSBKDkx+gAhx9SQ9qvHrax2/NGM/xgfWXuZLy++yVvdpCHuiOdlcNmu6piiTZT4CH5Ccvgk7y19eaXZ0rFijRZ0eoyq+Pks+W1r+0uGkoGe/t/153EAN/mo2NEzeXtsz71Xp7gUtixAEzwSk=;1jAb4nZoZn04xYiqDU+M3A=="
+secured: "1e7ivyh9zAXgBpWwQjjqQgG46MX0YbYb5tO+h/IQTHuDXQ+9zVTAIML9oX9dRSiDRLcYZfBq3ijz2Uv4zaFlrz5nCP5prNCxtCJQqkyZjnpUha16nRl3zUI+l5E7wNIx8weZN1OFskdcJTBEu+2RjQ0oe8bhYLsVgl1zU98VRNLqp/VP+0j9nHb4HeZXvnFgdkxtZdpV0MjCoC26nJHepKeb6QEX/1FI+siNtL1/AHBIb9Vt4dJlIzRpIdfzeiBOfKMHWOzo8Ib5orWZ2/uLXyN0B73ZzTWKMih6O5UOe+BR54cMv4UBAOXSU52b4p8IzzRrWafQdayfo+Vm2sWHvS3wolI9TLVVSX4dicYqhV3nspAy4YIMa3K+hm9Xd2iJX7M01NC7OOybOsIX1ZHPaZRirrRt/Zz514Saf+yPw4DdIPKSowobMsQj3DiGQ6984wqq7qAl8cvykDRP9+eMU+LnEU8ST/aH1P7/oAjzKdfqdi4CXMSX5V/T/GqY10Fhmwxa0yM7zlUMsHG6Trmdjg==;DkG3klUKrxmo72qcOBkabQ=="
 ---
 

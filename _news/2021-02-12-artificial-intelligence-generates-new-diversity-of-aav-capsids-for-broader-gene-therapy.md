@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/tyn-aig020821.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-02/tyn-aig020821.php"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Deep diversification of an AAV capsid protein by machine learning"
-    excerpt: "Modern experimental technologies can assay large numbers of biological sequences, but engineered protein libraries rarely exceed the sequence diversity of natural protein families. Machine learning (ML) models trained directly on experimental data without biophysical modeling provide one route to accessing the full potential diversity of engineered proteins."
-    publishedDateTime: 2021-02-11T17:12:00Z
-    webUrl: "https://www.nature.com/articles/s41587-020-00793-4"
+  - title: "Using Machine Learning To Create Better Gene Therapies"
+    excerpt: "Machine learning study initiated at the Wyss Institute in collaboration with Google Research enables unprecedented AAV capsid diversification with potential for improving gene therapies."
+    publishedDateTime: 2021-02-12T09:42:00Z
+    webUrl: "https://www.technologynetworks.com/biopharma/news/using-machine-learning-to-create-better-gene-therapies-345523"
+    ampWebUrl: "https://www.technologynetworks.com/biopharma/news/amp/using-machine-learning-to-create-better-gene-therapies-345523"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/biopharma/news/amp/using-machine-learning-to-create-better-gene-therapies-345523"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41587-020-00793-4/MediaObjects/41587_2020_793_Fig1_HTML.png"
-        width: 685
-        height: 458
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/using-machine-learning-to-create-better-gene-therapies-345523.jpg?v=11107287"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Dyno Therapeutics Announces Publication in Nature Biotechnology Demonstrating Use of Artificial Intelligence to Generate Unprecedented Diversity of AA"
-    excerpt: "Approach rapidly generates the functional diversity needed to evade neutralization by the immune system, allowing more patients to benefit from gene therapiesCAMBRIDGE, Mass.--(BUSINESS WIRE)--Dyno Therapeutics,"
-    publishedDateTime: 2021-02-11T16:15:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=421085"
+  - title: "Machine-learning how to create better AAV gene delivery vehicles"
+    excerpt: "Adeno-associated viruses (AAVs) have become promising vehicles for delivering gene therapies to defective tissues in the human body because they are non-pathogenic and can transfer therapeutic DNA into target cells."
+    publishedDateTime: 2021-02-11T16:07:00Z
+    webUrl: "https://phys.org/news/2021-02-machine-learning-aav-gene-delivery-vehicles.html"
+    ampWebUrl: "https://phys.org/news/2021-02-machine-learning-aav-gene-delivery-vehicles.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-learning-aav-gene-delivery-vehicles.amp"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: Phys.org
+      domain: phys.org
+    quality: 44
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/15-machinelearn.jpg"
+        width: 1851
+        height: 994
         isCached: true
 
 secured: "oHLuVNYfO6EIN4P6Zm7k7cE08e0DaSDqUXIRhE+d7hpTJXHgVieC61EzzQU/tJHn0HJdWKlcoeD1jW/8ibmPg6VJt/aRcz0QRq2xz/zzHVcHnaCV7U6fR7sWVDHNggbseDBF3P9wVEDWkBu5/Nkmiu5gBhx4wuBtXOpUQ82g13H02lHPTVWcDy6AKROOVXB1TYoIvKAUDNEFNkzu+CkI6tA45jtSWLaagYuZHypJOBdAdziNPw0fKxGEypUp8rMMSYK3+idnOAQAZBx7283G1au557tgypdS5zwtYoS0qccF1ZxHITGsNugyEUOVWMvMBF8SCrYm+QGx65EO2kcjM+vKgtJecp3X/Is5nFFUhr4=;KzSUNSHxss27mZn8j1CQ1w=="

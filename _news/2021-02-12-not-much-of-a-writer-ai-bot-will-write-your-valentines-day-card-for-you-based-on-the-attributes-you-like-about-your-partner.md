@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers"
+    excerpt: "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers Who Are Stuck For Words. ARTIFICIAL INTELLIGENCE ROBOTS are writing Valentines Day"
+    publishedDateTime: 2021-02-12T08:57:00Z
+    webUrl: "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/"
+    ampWebUrl: "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/"
+    cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/"
+    type: article
+    provider:
+      name: Euro Weekly News
+      domain: euroweeklynews.com
+    quality: 74
+    images:
+      - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2021/02/AMP-1_6026235b81806.jpg?x22228"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Valentine's Day: AI bot will write your card for you based on traits you like about your partner"
     excerpt: "The Valentine's Day bot was trained to write letters based on examples of Valentine's Day Cards, according to Chris Lu, co-founder of US-based CopyAI."
     publishedDateTime: 2021-02-11T16:34:00Z
