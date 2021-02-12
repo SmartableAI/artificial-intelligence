@@ -471,6 +471,20 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 38
+  - title: "Volkswagen will use Microsoft’s cloud technologies to create new Automated Driving Platform"
+    excerpt: "Microsoft’s business inadvertently made headlines as Ford, a previous infotainment partner opted to Google’s Cloud services over that of Azure or even AWS. Most of the"
+    publishedDateTime: 2021-02-12T16:51:00Z
+    webUrl: "https://www.onmsft.com/news/volkswagen-will-use-microsofts-cloud-technologies-to-create-new-automated-driving-platform"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 29
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/Volkswagen-Automated.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Self-driving cars are among us but drivers beware"
     excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
     publishedDateTime: 2021-02-12T01:37:00Z

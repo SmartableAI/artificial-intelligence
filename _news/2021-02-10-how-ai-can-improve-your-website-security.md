@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/d4ad6a1/be805ced-c6e2-4162-b710-d5be7c65b514/3/Delta-Web-AIS-vendors-title-image-370x229.png"
         width: 370
         height: 229
-        isCached: true
-  - title: "AI Can Improve Healthcare"
-    excerpt: "One area where AI has found some traction is in the healthcare industry, where is seems to be helping improve care."
-    publishedDateTime: 2021-02-08T00:23:00Z
-    webUrl: "https://www.sqlservercentral.com/editorials/ai-can-improve-healthcare"
-    type: article
-    provider:
-      name: SQL Server Central
-      domain: sqlservercentral.com
-    quality: 54
-    images:
-      - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
-        width: 320
-        height: 320
         isCached: true
 
 secured: "1IgJhYdHCM0ldVWhsvFPGxszSrPJiAoJEaE6zo6yNb3ew/5FI3gtsP/WhrNW3JElk5RbsB8ip0+PhOPO4bPPAzwx7xSTCmIqobjJy+HZoGNGRECKBGw1ikOBAxVSEkWpeytH+DG4K8EHU47HvWreJhUhsVK9bPwW7gvJklTsu8wIIGiSyYiGXA8u3yFplsjrmaqOQxFkjONr/KGxy1WlQPFBdXXdmH47Pr1T9ZAcN6FZVJHd14LqCB47HKDxGZhE82l0ER6bnOoW2w7wHbGONJqJ81fF8owmG/XTll92wKlOfWfsL8ELC9k31d6c2555xHjKaXSYyDwsqMkVlUyqBpkdQvo2r3aDU3An8Rk984qdpBMWitzAbGM1A5IgEv8cKXnX1ifpwmfvfHtpTbuNmSGVGtPJlkBtHNAPJ0Am9GKA1QOIl/rNU2+yeJGB+3UkYpEKz4xkmP4lMhmu5sst2AoVTSlqGoJn1SPKpkIll+FVFszVAbZDYV8TebAGi0FMc2wUgnFxdnFHOc2zKxl/eA==;iQPtdGtUHFYBevF+2fsQ0Q=="

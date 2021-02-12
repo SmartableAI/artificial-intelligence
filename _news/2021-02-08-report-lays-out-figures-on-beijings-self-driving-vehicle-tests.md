@@ -73,6 +73,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Help Arlington name it’s new self-driving vehicle service"
+    excerpt: "Arlington is calling for the community’s help to name the city’s new fleet of self-driving vehicles. In March, five autonomous shuttles will be"
+    publishedDateTime: 2021-02-12T15:25:00Z
+    webUrl: "https://www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/"
+    ampWebUrl: "https://www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 44
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UR710TyFSKSwr8XnpKKGe-40q1M=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AOELJWW3DVGNNKZEY5IZ3HZ26Q.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Apple has doubled self-driving test miles of California in 2020"
     excerpt: "Every year the California Department of Motor Vehicles posts detailed information about the companies testing self-driving cars in the state. This year's data"
     publishedDateTime: 2021-02-10T15:41:00Z

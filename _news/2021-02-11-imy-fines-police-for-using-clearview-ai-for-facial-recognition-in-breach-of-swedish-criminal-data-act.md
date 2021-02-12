@@ -35,6 +35,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Canada’s Privacy Commissioner Rules That Clearview AI Facial Recognition Software Violates Privacy Laws, Must Delete Biometrics From Its Database"
+    excerpt: "Already unwelcome in parts of the US, Clearview AI has been shown the door in Canada. The controversial facial recognition company's practices are in violation of the country's privacy laws."
+    publishedDateTime: 2021-02-12T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 39
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/02/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
 
 secured: "ESDPLyakqir4ZQbZGtrrLqqxjmOruHOwCU4wADLA7UX5xClXDb81sEc7r6DAiD4tU8jdDdUHLfEbj5jjbJH8+r+ZeNdit61qrieaXB3ozx0PtxY4NdgmSM4qXaDt6ROYrQ6bH/H49SHYw7r1sN6U6C+G5+0uVGt/pRZA0ZYSZRrKJml61X2EHS2Ygp4gyFDR9gTqmLMtLRC1ua9cmey/kWVnxHPCj6HNiZ5UCYCVKLDh8IX63xHCvmTFdqUFMm9pUz/XFNuqpbQH74lv6l59tn2rcBxw/jz7cNC5Gh9o2hQmda+CfrkdH5wQswub2FLOl4pCqZAtOFvmofsrMOwrtgfJbhNYGlvPQ9wcRI1ohzw=;1mlf6ORuX1AZ2N40vomSHA=="
 ---

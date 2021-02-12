@@ -474,6 +474,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 34
+  - title: "Volkswagen will use Microsoft’s cloud technologies to create new Automated Driving Platform"
+    excerpt: "Microsoft’s business inadvertently made headlines as Ford, a previous infotainment partner opted to Google’s Cloud services over that of Azure or even AWS. Most of the"
+    publishedDateTime: 2021-02-12T16:51:00Z
+    webUrl: "https://www.onmsft.com/news/volkswagen-will-use-microsofts-cloud-technologies-to-create-new-automated-driving-platform"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 29
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/Volkswagen-Automated.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Self-driving cars are among us but drivers beware"
     excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
     publishedDateTime: 2021-02-12T01:37:00Z
@@ -498,6 +512,6 @@ related:
       domain: telecompaper.com
     quality: 10
 
-secured: "L49K0CZjoBlpoEsT7ugeyshFpoQq4LrpXPlL6EjTcTHSgZvJynYQsfN6bSoAvr3kzyypei4UYP0fHeFLJ8ZxRRu7d03NN6K0WX03LhvT0/8VUPNXwA7M2d/YYhphil4LhQ8OIaHWap11rEUSB9SXlY12WwGjDM6k7HG72DLoRgB0gaiKa35yMDevrgh2tbwIv+ZWVN+oOnTkWZDj3xqbqkdsL9H6Nwbzz16QsGd5XWSQxWYgSZbxeScwy89VxWBtpBwct/ALvAKg1HE4WU/DORlzsgv5swtG65SQr8RSclqXJE78YTLR2eXyUlXQW1LubR0HmWNBk7AvG3PoBJidofjOb6mQa0nSp1nvutij/aU=;KnQwZhAKYUgVFsFQ1CNSsg=="
+secured: "aOLQnTWbQc/EHhOCIL5jZ78JQgXtt/EA59r8vOicVfZTZ9procgOGjbMbm3yA84+WHbWVLs9JCokkfN4X2EN/qBtqGhSpx0nPzlELL2o6C2Cd2QQ3R0FEpuHnkJGYo/mJMywxW4E9kzAvdi/VHSbu6IXZHlj6FGiBFayqf4aatvhCBPyavzignjyIs22ZKTvL/zJgfVnfrduczMrpX5xZj/RnexdY/+HmejXxmDH0YfM10t8tjSetDmQKc7PZ1ktRmchhI3aGKyDVy4RamNFJQUvkQMSgVafnApzFQjPGMke+bl7me+Odh4WxITCLV0G/YEZHvJ2HL83TlFywg2T0Fi5Zc/wWB2mp3SOi/WJHmhZMkVnaQPMHMVbQKOdGqJUVa27qep23eHpcTsBO5OfpwJ8wVzPGTBEZhq39dLPDAO2em1ol6Pim49E6ORwWihl34O3qDGn71jpy2gMVacYTV8X+Tk8h1XJdKFC1NVw2VS8OqGOo+QNnI3A+PujyTCkY85d15xqs0R+f9uKkDmr1A==;7I9NGHrGBKKyI8Xh7SUR6A=="
 ---
 

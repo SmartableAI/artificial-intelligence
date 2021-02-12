@@ -73,6 +73,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Help Arlington name it’s new self-driving vehicle service"
+    excerpt: "Arlington is calling for the community’s help to name the city’s new fleet of self-driving vehicles. In March, five autonomous shuttles will be"
+    publishedDateTime: 2021-02-12T15:25:00Z
+    webUrl: "https://www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/"
+    ampWebUrl: "https://www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 44
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UR710TyFSKSwr8XnpKKGe-40q1M=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AOELJWW3DVGNNKZEY5IZ3HZ26Q.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Report lays out figures on Beijing's self-driving vehicle tests"
     excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."
     publishedDateTime: 2021-02-08T04:47:00Z

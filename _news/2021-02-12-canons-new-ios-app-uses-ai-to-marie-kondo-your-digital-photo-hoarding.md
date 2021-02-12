@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-d
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canon's photo culling app uses AI to help you pick your best shots"
-    excerpt: "Canon has introduced an app that uses a computer vision algorithm to assist you with choosing the best image in a series of either unrelated or similar photos."
-    publishedDateTime: 2021-02-11T21:37:00Z
-    webUrl: "https://www.engadget.com/canon-photo-culling-app-213409056.html"
-    ampWebUrl: "https://www.engadget.com/amp/canon-photo-culling-app-213409056.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/canon-photo-culling-app-213409056.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2F7cfa7470-6cae-11eb-b53d-dea2dbd7fe69&client=amp-blogside-v2&signature=715022ff0bcb607e63238a1e081be351e38a930d"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Canon Photo Culling is a new iOS app that uses artificial intelligence to evaluate your photos"
     excerpt: "Canon has announced a new computer-vision artificial intelligence system, and it underpins a brand-new iOS app, Photo Culling. Canon's new app helps you organize the photos on your smartphone by grading them and recommending images for deletion."
     publishedDateTime: 2021-02-11T21:59:00Z
@@ -77,6 +61,6 @@ related:
         height: 840
         isCached: true
 
-secured: "Cwk+CdOdmOCcV0MErbjDn+0iaY8Ny6DNI4hp32cqQqhpbJBN7iwzfb6a4BQyUcqwt/gq7vyUEh72KIFgIBKd4qlC1wzlyU0pKXo54cqbT4QkAIebpPq6S0oMeCBKH0VWhZN7F/fmpA4wWiz55JrEl4nWBLSLRyog5nkF5bKBNI5U4SmHCb5veNYwL7clzDlQAI3rklIlUf9tlWZ4vJzdVjvsZfhEvtuzAV7APF0F8Hp6p5+B0l8+ENueLpOwdjBMmIeEp+q6NuQvfpOfstmrYVtUpnXfsuqI8aejnI7ub1s73zoP9cWxYzS3yz3iiwimDUGgilp549CxIOSTBXgywN0cGCpmA3A4+E39825n18k=;qwp57usuJZQWlnvdrn+u9w=="
+secured: "zpxVMg3iPnWwcEXyjhP9OPdQNCaN/sfSYDTrGimTTa3EpU7gPSOPz0LDaQYvnjVK/BUehWxImytPnkE73dKPO5x0M5zsV4wU2n4m+47Ad7SY/UiMKp33jlOxdeFGIp7EkdscJdZ+Dfd9nWNjej+R7HLq/K0cednh6RV79s8z15pAxPA0M7I+jrq/PueMtffKvGqA0+2wWaBkVkd6EAVri4q7HyAcP/MDLgQ/UZmpxGKHkIOoVmuflZPJEwJJVPLGk0+iHO9n1P9/npPYuI94G/NoC/vc3U2mzf4fUkey4slsU5zKyvvNhcobZiVInCHJCSWB87wUnnCITo4S8PTvnpSusXM4NlbD4H7+xbCXr0TxJrKXZ0zGxK0ptKo31kZNBd6Crsj/kth746ScNK4dnnloiD6X4nV+p6XtIHWtqIfYYfvx+ShO5YH7lY3xOsN6NvIxNibCOarjzvf0ljeJlgtYRH5EZOx4MMByfZxMC0ZDHfZ2YNjVKW0wNSrLvUniWnjvK8b6hu3BgYJp91T3Jw==;IcwrUYBGxGdbQAxO9zXIOw=="
 ---
 

@@ -25,15 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "How To Save 50% On Your Cloud Bill With CAST AI"
-    excerpt: "This article is sponsored by CAST AI A typical cloud bill goes 23% over budget (Flexera data). And no wonder it does when you have to control all these things: Dozens of resource types Resources you might not need Shadow IT projects And many more Cloud providers aren’t helping you unpack all these costs either"
-    publishedDateTime: 2021-02-10T03:04:00Z
-    webUrl: "https://www.digitaltrends.com/sponsored/how-to-save-50-on-your-cloud-bill-with-cast-ai/"
+  - title: "4 AI tools to help you reach your marketing goals"
+    excerpt: "Marketing isn't one-size-fits-all; depending on the industry, strategies, and tools, results differ. These AI marketing tools are helping marketers and small businesses increase their effectiveness."
+    publishedDateTime: 2021-02-12T16:47:00Z
+    webUrl: "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 47
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/11/d87fc0a6-07da-42da-905b-57926006c6f3/resize/1200x900/396b64a892a5fd7cac8938cf3055dd17/autoleadstar-new.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Canon's photo culling app uses AI to help you pick your best shots"
+    excerpt: "Canon has introduced an app that uses a computer vision algorithm to assist you with choosing the best image in a series of either unrelated or similar photos."
+    publishedDateTime: 2021-02-11T21:37:00Z
+    webUrl: "https://www.engadget.com/canon-photo-culling-app-213409056.html"
+    ampWebUrl: "https://www.engadget.com/amp/canon-photo-culling-app-213409056.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/canon-photo-culling-app-213409056.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2F7cfa7470-6cae-11eb-b53d-dea2dbd7fe69&client=amp-blogside-v2&signature=715022ff0bcb607e63238a1e081be351e38a930d"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "2 AI Stocks To Buy As The Market Recovers"
+    excerpt: "Alpha Investor Report editor, Charles Mizrahi shares 2 AI stocks that will continue to outperform in 2021. “Keep in mind, we’re only in the early innings. The best is yet to come.”"
+    publishedDateTime: 2021-02-10T19:49:00Z
+    webUrl: "https://www.wallstreetdaily.com/2021/02/10/2-ai-stocks-to-buy-as-the-market-recovers/"
+    type: article
+    provider:
+      name: Wall Street Daily
+      domain: wallstreetdaily.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/paradigmpress-uploads/wp-content/uploads/2021/02/NVdieo-Price-Chart.png"
+        width: 540
+        height: 394
+        isCached: true
 
 secured: "M+7AkzE6rsCavl9NyLkKSn5RA1lX+xBo0X3OAWzGzOXDAlnJCQhbhd3hS8225JTu+7Tso4t6igWPyzwuHQwe4vKzRS0SjdTlgBIfrWijs5JGx9u1LJkSIDkE8DdxXighi+a+RybXnRqqJ2Et3P+wd2H5MiiFmCMDNqhS3yxZcBPGOFGa/CSZcDPS4GZNzsTMAr0VnNTITV0z5WnnyZ0/CxmC4zYwLfE++N7wrlOjCBbRbjXKcAT0xw04iUqers1/d4GdocBzOmv7nUshIb8kL4IVrMuJiJasputQrcLKbIP8BLjQT60oFXJrK3TZKdpNGPqpVm1QOv+PzLaw1eybEyD1zMtiegxtY0rFKgPmxEhHk/41r9oNKCtx0At+W5JjgjhmUraGEOpVKa53hYlq6mjvlv2D7OpPYXF+MQDj6rrnByt0j721241Op8J6JUI/USqJGW6+7NmE3IRs3N4+EhX5ERcgTpeoOD9tIwtpRAShYUZ9wM7IAcNVrBcDmgg8tW0DxgBgF54RZ+Qgseg+Tw==;4WHjR1vbh7B7du1TeOLlXw=="
 ---

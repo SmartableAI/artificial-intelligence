@@ -25,17 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "3 Top Artificial Intelligence Stocks to Buy Now"
-    excerpt: "Artificial intelligence (AI) generally involves machines or software that demonstrates some level of humanlike judgment, and it's a technological"
-    publishedDateTime: 2021-02-08T07:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-top-artificial-intelligence-stocks-to-buy-now-9782973"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/3-top-artificial-intelligence-stocks-to-buy-now-9782973"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/3-top-artificial-intelligence-stocks-to-buy-now-9782973"
+  - title: "4 AI tools to help you reach your marketing goals"
+    excerpt: "Marketing isn't one-size-fits-all; depending on the industry, strategies, and tools, results differ. These AI marketing tools are helping marketers and small businesses increase their effectiveness."
+    publishedDateTime: 2021-02-12T16:47:00Z
+    webUrl: "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/11/d87fc0a6-07da-42da-905b-57926006c6f3/resize/1200x900/396b64a892a5fd7cac8938cf3055dd17/autoleadstar-new.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Canon's photo culling app uses AI to help you pick your best shots"
+    excerpt: "Canon has introduced an app that uses a computer vision algorithm to assist you with choosing the best image in a series of either unrelated or similar photos."
+    publishedDateTime: 2021-02-11T21:37:00Z
+    webUrl: "https://www.engadget.com/canon-photo-culling-app-213409056.html"
+    ampWebUrl: "https://www.engadget.com/amp/canon-photo-culling-app-213409056.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/canon-photo-culling-app-213409056.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2F7cfa7470-6cae-11eb-b53d-dea2dbd7fe69&client=amp-blogside-v2&signature=715022ff0bcb607e63238a1e081be351e38a930d"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "How to manage your power bill while adopting AI"
+    excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
+    publishedDateTime: 2021-02-11T07:31:00Z
+    webUrl: "https://www.reseller.co.nz/article/685701/how-manage-your-power-bill-while-adopting-ai/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/m.jpg"
+        width: 700
+        height: 500
+        isCached: true
 
 secured: "ahNha8iVOsrmNJqcb7+/WaOluoNJYUgsn8zwdBGLesT9jXz67g73XpMHFEPa1mg91gH+T7E00b/EjOqnkTylcYYTtAKESGqRulG5yCV/6snTFTCTv5vzgt3Y2Yx+jFSLxR2HD6UAjTh66QLCOoyth70eN4jalq5QkBcGcfomhJSdmkZpqhPYlm2Aoazs7f01U9iY4A2odxiI95G/2kikZ7QZN8ZvYvcF8YPcvhvM0uJsp5BZgUNaqOaanX5V3NiGGRqSAfmM/D3h8kOBIvsWefAuh5xyd5/ehfsVsdYoxxoV9aDhbYmels6hqrFLdeeJbikQzbmoodUFklrXQPMURCMfGdQviND6VmmUlvmwado=;0PPl9BtS7CW6eT/yd3GioQ=="
 ---

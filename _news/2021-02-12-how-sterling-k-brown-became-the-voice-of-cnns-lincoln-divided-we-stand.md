@@ -2,30 +2,30 @@
 category: news
 title: "How Sterling K. Brown became the voice of CNN's 'Lincoln: Divided We Stand'"
 excerpt: "Sterling K. Brown became involved with the CNN Original Series \"Lincoln: Divided We Stand,\" in part, to learn more about the man who served as America's 16th president. \"I was just trying to get more information."
-publishedDateTime: 2021-02-12T13:21:00Z
-originalUrl: "https://www.actionnewsnow.com/content/national/573781442.html"
-webUrl: "https://www.actionnewsnow.com/content/national/573781442.html"
-ampWebUrl: "http://www.actionnewsnow.com/templates/AMP?contentID=573781442"
-cdnAmpWebUrl: "https://www-actionnewsnow-com.cdn.ampproject.org/c/www.actionnewsnow.com/templates/AMP?contentID=573781442"
+publishedDateTime: 2021-02-12T11:00:00Z
+originalUrl: "https://www.waaytv.com/content/national/573781442.html"
+webUrl: "https://www.waaytv.com/content/national/573781442.html"
+ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=573781442"
+cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=573781442"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: Action News Now
-  domain: actionnewsnow.com
+  name: WAAY-TV
+  domain: waaytv.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/Story+Default.jpg"
+  - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
     width: 640
     height: 380
     isCached: true
 
-secured: "8/E/zUkZXnxGI290NPVS7Mmr0cfvgOEXqcuPYiNNpsI+3IQu/I7dmjVvVnpYWYzMBd4pLB3nVOZHRiufER3A27m9+IBdNEqQ2Q+oqfduZqv8n3E/v7rUo9zbmSPaxmAUvlhhmC2LXivWdlchzD50V4SmoiXpSceX2rMh+sq6LpB9vo4fdepKLEQpT0H9vGsPRHA2QRG/TT0NR9sYRXyWqgKziwyzcT4kDdXQX/9Mkd9iB1vpi2Fqostd1au1erRuQMu8N9dRp2eWzg3J0ocUAvFDrqXc8FQ429ZBNnhLD8FuiIRfm9wtu/che7N2/aAQFfy/qypH3UrOoPmcSE5eXEygOYhuI4pwBu3aqq44F5E=;CIj63qnAOs+mP+r8yH3fTA=="
+secured: "QrdEuiZ1hMhmWAt/CNT3ebWvp2Tojwkv8DVQZxN6p8bWZ5nLDkGIrFfil99LQ2DyxLEU0TG7KBqPVg+b9J6ydlthnbHfYtY+5zCA8HGEYR8ysiwAPuGM6aayLAM3mjwIA/v1pM5FhbZD7JKKFL1sl3ePMIwXhhdtdGXB3q4rpN3iPhX+UwR3jbzFzwco/vFcMvePgJf+SP9sEDikSHBx6RKcYEaelh2xzIBN5GHDPeZflXE1blKJSiCOYFpusTiYezgUfA4GJxhzgDFpd7ViZvkMbLgOYvMnv/qix+hEGUZprlO8J0fVZQ7lxt42P2a9jKG0CjF4fiMh53ylWqZO5pOYSL7BYu36qAGyc58gtX0=;csJGzJXYUy0/fJxo/VQeXg=="
 ---
 

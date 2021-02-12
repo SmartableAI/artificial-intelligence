@@ -486,6 +486,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 34
+  - title: "Volkswagen will use Microsoft’s cloud technologies to create new Automated Driving Platform"
+    excerpt: "Microsoft’s business inadvertently made headlines as Ford, a previous infotainment partner opted to Google’s Cloud services over that of Azure or even AWS. Most of the"
+    publishedDateTime: 2021-02-12T16:51:00Z
+    webUrl: "https://www.onmsft.com/news/volkswagen-will-use-microsofts-cloud-technologies-to-create-new-automated-driving-platform"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 29
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/Volkswagen-Automated.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsofts expands partnership with Volkswagen on cloud-based Automated Driving Platform"
     excerpt: "Microsoft said it has expanded its partnership with German carmaker Volkswagen. The company will cooperate with Volkswagen's software firm, Car.Software Organisation, to build a cloud-based Automated Driving Platform (ADP) on Microsoft Azure."
     publishedDateTime: 2021-02-11T08:30:00Z

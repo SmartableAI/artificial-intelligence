@@ -70,6 +70,20 @@ related:
       name: gisuser.com
       domain: gisuser.com
     quality: 69
+  - title: "Healthcare Artificial Intelligence (AI) Market 2021: By manufacturers, Type & Applications, Global status and Industry Forecast by 2026"
+    excerpt: "Healthcare Artificial Intelligence (AI) Industry Description Wiseguyreports.Com Adds \"Healthcare Artificial Intelligence"
+    publishedDateTime: 2021-02-12T15:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-2021-by-manufacturers-type-applications-global-status-and-industry-forecast-by-2026-2021-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) In Healthcare Market will be growing at a CAGR of 42.0 % during the forecast 2020 to 2028"
     excerpt: "According to a new market research report published by sheer analytics and insights The Global Artificial intelligence in healthcare market was 6 1 Bn in 2019 and it is expected to reach 170 5 Bn by 2028 It is eventually"
     publishedDateTime: 2021-02-08T12:51:00Z

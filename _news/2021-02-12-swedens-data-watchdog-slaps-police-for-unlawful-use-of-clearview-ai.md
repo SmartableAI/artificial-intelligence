@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Canada’s Privacy Commissioner Rules That Clearview AI Facial Recognition Software Violates Privacy Laws, Must Delete Biometrics From Its Database"
+    excerpt: "Already unwelcome in parts of the US, Clearview AI has been shown the door in Canada. The controversial facial recognition company's practices are in violation of the country's privacy laws."
+    publishedDateTime: 2021-02-12T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 39
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/02/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "IMY fines police for using Clearview AI for facial recognition in breach of Swedish Criminal Data Act"
     excerpt: "The Swedish Authority for Privacy Protection (IMY) said it is fining the Swedish Police Authority SEK 2.50 million for processing personal data in breach of the national Criminal Data Act when using Clearview AI to identify individuals."
     publishedDateTime: 2021-02-11T12:49:00Z

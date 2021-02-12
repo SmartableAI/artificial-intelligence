@@ -30,51 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "Canon's New iOS App Uses AI To Marie Kondo Your Digital Photo Hoarding"
-    excerpt: "Even without the limits of a 36-shot roll of film or memory cards that quickly max out, it doesn’t take long to fill an iPhone and cloud storage with photos. So Canon has released an iOS app that can make the hard decisions for you when it’s time to clear out some memories using AI to objectively decide which shots aren’t worth keeping."
-    publishedDateTime: 2021-02-12T14:42:00Z
-    webUrl: "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384"
-    ampWebUrl: "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp"
+  - title: "4 AI tools to help you reach your marketing goals"
+    excerpt: "Marketing isn't one-size-fits-all; depending on the industry, strategies, and tools, results differ. These AI marketing tools are helping marketers and small businesses increase their effectiveness."
+    publishedDateTime: 2021-02-12T16:47:00Z
+    webUrl: "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dtklqj3drv6rsxuv4jhs.jpg"
-        width: 800
-        height: 449
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/11/d87fc0a6-07da-42da-905b-57926006c6f3/resize/1200x900/396b64a892a5fd7cac8938cf3055dd17/autoleadstar-new.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Canon Photo Culling is a new iOS app that uses artificial intelligence to evaluate your photos"
-    excerpt: "Canon has announced a new computer-vision artificial intelligence system, and it underpins a brand-new iOS app, Photo Culling. Canon's new app helps you organize the photos on your smartphone by grading them and recommending images for deletion."
-    publishedDateTime: 2021-02-11T21:59:00Z
-    webUrl: "https://www.dpreview.com/news/0301330122/canon-photo-culling-is-a-new-ios-app-that-uses-artificial-intelligence-to-evaluate-your-photos"
-    ampWebUrl: "https://m.dpreview.com/news/0301330122/canon-photo-culling-is-a-new-ios-app-that-uses-artificial-intelligence-to-evaluate-your-photos.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/0301330122/canon-photo-culling-is-a-new-ios-app-that-uses-artificial-intelligence-to-evaluate-your-photos.amp"
+  - title: "2 AI Stocks To Buy As The Market Recovers"
+    excerpt: "Alpha Investor Report editor, Charles Mizrahi shares 2 AI stocks that will continue to outperform in 2021. “Keep in mind, we’re only in the early innings. The best is yet to come.”"
+    publishedDateTime: 2021-02-10T19:49:00Z
+    webUrl: "https://www.wallstreetdaily.com/2021/02/10/2-ai-stocks-to-buy-as-the-market-recovers/"
     type: article
     provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 45
+      name: Wall Street Daily
+      domain: wallstreetdaily.com
+    quality: 39
     images:
-      - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/0301330122/canon-photo-culling-app-banner-2.jpeg"
-        width: 590
-        height: 322
+      - url: "https://s3.amazonaws.com/paradigmpress-uploads/wp-content/uploads/2021/02/NVdieo-Price-Chart.png"
+        width: 540
+        height: 394
         isCached: true
-  - title: "Canon’s New App Culls Photos with Artificial Intelligence"
-    excerpt: "Canon has announced the Photo Culling app, the company’s new software for iOS that is built on a newly-announced proprietary artificial intelligence. Canon advertises its new app as a “digital photo assistant” to help select your best images based on four key parameters."
-    publishedDateTime: 2021-02-11T17:47:00Z
-    webUrl: "https://petapixel.com/2021/02/11/canons-new-app-culls-photos-with-artificial-intelligence/"
+  - title: "How to manage your power bill while adopting AI"
+    excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
+    publishedDateTime: 2021-02-11T07:31:00Z
+    webUrl: "https://www.reseller.co.nz/article/685701/how-manage-your-power-bill-while-adopting-ai/?fpid=1"
     type: article
     provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 37
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
     images:
-      - url: "https://petapixel.com/assets/uploads/2021/02/Canons-New-App-Culls-Photos-with-Artificial-Intelligence.jpg"
-        width: 1600
-        height: 840
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/m.jpg"
+        width: 700
+        height: 500
         isCached: true
 
 secured: "zoT112P6i06dxdlmHsTo2XXZFRs1BSK7oNpJGTGFFzZUzj0r7OTFvTBj9hUaxSTY8hPHMoprHDggi+OzHmp9rZkOkUCtoNIDwNcgAV03l4apkUgRnBCC79U83IT3qZssHl+LlUg/rqgH+vWYcwUb76pp0/rYZKQ6O7c61mtEeejURjgcNMyG5v8xQk1WY0LhYUkiMTIva+jkPBXtdzlEnin2nZk1Cz7WdajjarAZVwkiyxA/Owo6BxQt/Enh2HRy6yVpewqUcNVoL2AoX+kzTkg7Mr/P5ILpjkZDJBPFtSW/pL/Z85n1peGdgLFORFAKz4t3PC5eGPwabf075T2a2tP1jJuoE4F+5oyN+rK6qVxJh4hF8cVZOY0XSTQZ1mermdQ9D4+nwnpTZY0WD3x7dgepgXsyEv7yms4iVK0p4+7gYdvaICAyP/iEvJAU6x1m+5lpK2C6XvSel3uIJFUTZBUjUtVkWCjkYWSWUEFH/cdnapxwQfnzZglMoWe5UXnqO8HxnEpSFj2qufeGGfyzjA==;4DgemzXba/cowdoWBGbzlw=="

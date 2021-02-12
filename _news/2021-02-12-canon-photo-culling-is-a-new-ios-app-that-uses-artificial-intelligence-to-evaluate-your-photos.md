@@ -42,22 +42,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Canon's photo culling app uses AI to help you pick your best shots"
-    excerpt: "Canon has introduced an app that uses a computer vision algorithm to assist you with choosing the best image in a series of either unrelated or similar photos."
-    publishedDateTime: 2021-02-11T21:37:00Z
-    webUrl: "https://www.engadget.com/canon-photo-culling-app-213409056.html"
-    ampWebUrl: "https://www.engadget.com/amp/canon-photo-culling-app-213409056.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/canon-photo-culling-app-213409056.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2F7cfa7470-6cae-11eb-b53d-dea2dbd7fe69&client=amp-blogside-v2&signature=715022ff0bcb607e63238a1e081be351e38a930d"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Canon’s New App Culls Photos with Artificial Intelligence"
     excerpt: "Canon has announced the Photo Culling app, the company’s new software for iOS that is built on a newly-announced proprietary artificial intelligence. Canon advertises its new app as a “digital photo assistant” to help select your best images based on four key parameters."
     publishedDateTime: 2021-02-11T17:47:00Z
