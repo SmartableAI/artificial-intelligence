@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/02/11/researchers-propose-platform-for-eva
 ampWebUrl: "https://venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/amp/"
 type: article
-quality: 85
+quality: 87
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&strip=all"
@@ -83,6 +84,6 @@ related:
       domain: hellenicshippingnews.com
     quality: 0
 
-secured: "3Z6DkLl+AYgA4OJK2wuMPiVHhw6R0Qg1jAZHBjoac/umDYvrrwoYc9UJ5x/aCNU9iVo413dD0bt2xS2RRo59W+VwYvoEi6jfgQ8AW+ZjPProBm+ABgMgFqDM0TK/lY4z97wKBMjRsSQcUEaCLW4wqyQLcZbeJjh5SwF/qTR4Y6FsixJZDFCcGwABAU7V/wjSHBNeJ5GyviD9W8pDHswPil/Nn7Uv50Y4w+M/W72avWlBthnCyurQR1hJ5R5DEgYF11qIjtavMQ/GQwn/UGZBXZuVKrh1FiZ1dlFwqwvko52WdR4y2nU9Q+RUFPs/mZl0iwC003A+uPUmFcVwnUB/3T79NyTWo3yPoUqkpMOxJJ8=;fzWOrYYotlsQp4B9YDDFzQ=="
+secured: "YMz86IUL0UMO/uV75aBmT+jqn2EtFHUKnxx4hM/hrd1PCqoxwjtqjpNb9NOGd+F5d7w1Gqr165e9fXTMXB18AKdnIZuIIzKForkVCecn1ycz7G32KKAwPte8dJtvxwgyPsDGl6f0HcwossW5KZHiuRkI0AFZODTDQaq23I1kwiVmD4cARn29uZvWtptS/te9WQWCuj1CtOyiWRRAiQ+Z2PDIzDYBjto9CTTlw1hPsw8d8nWkdE/TQpXlUFvh7TYPUfbx/mfukseRwvZ2dubTE1PpuK8aDybB2UFEG87qJq17oNNd2nt8zh01tkF/Da171TrAKdel4vjs9JCRZnnAacspKuJ2oDQHhXXYzAHrfuyOliRL1b8Nl1SU+LMx6NXNr7MxzH1wtVz+y1+kiQrse7M3IL/qU6CrybLPN3dPJ9fWBC1jg6AJ/drj0KzEEmCss9amkj++nYXTaJLeaXRKXHDiTHYP2oTY4vlfGRNZMH+ohBeMedAXvc7tAxVQKPo2cER44AZLQgT2L4+eKg4UAQ==;vUX9T0rerth3gXLjI9Sdug=="
 ---
 

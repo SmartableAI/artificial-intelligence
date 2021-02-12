@@ -52,20 +52,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Does Deep Learning Fuel Loss of Privacy In Facial Recognition Technology?"
-    excerpt: "Although face data is biometric information as unique and identifiable as a fingerprint, it is also casually available in many forms and can thus be passively collected in ways likely to perpetuate severe privacy violations."
-    publishedDateTime: 2021-02-09T04:31:00Z
-    webUrl: "https://analyticsindiamag.com/does-deep-learning-fuel-loss-of-privacy-in-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 55
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Does-Deep-Learning-Fuel-Loss-of-Privacy-In-Facial-Recognition-Technology.jpg"
-        width: 626
-        height: 417
-        isCached: true
   - title: "Lawyers threaten to sue California State Bar over facial recognition technology"
     excerpt: "In a letter sent Wednesday, the nonprofit Lawyers Committee for Civil Rights Under the Law demanded the California State Bar, a government agency, stop using software that they say discriminates against women and people of color taking the test."
     publishedDateTime: 2021-02-10T14:45:00Z
@@ -166,6 +152,6 @@ related:
       domain: securityinfowatch.com
     quality: 12
 
-secured: "Gt1JaLg3GFmDCUBP0cBCJGX3lJzW5q972dvs8VtqAZ8ffpiCBhZ9CDHN6SFE4oVvIM9qymqJX3mpW+y31FzbmtYRaNvQ72Vp0idIH+hPRPvBuvsRzoga9tvFxl3bvrrnO3sN3HmFcsNtosRMrbddYsjKJE7+vFIlJNfbbV5aEKQxUTEDs/uh6K5favixP/SwBLPLjYhTc0kwtK28i00xmix7xNFKpF2mJ22eOoez80s57Zu4wcXZeCywNdp1hG+8ZJnHcGXmLk49OSirB3b4vA6K4t3DC7NMRNsp5SmLkLg4wxcCRLMLjvXl1GpWw2/j2W48hE7ySgUWrV8ShWsw+HZKS5XqvGUaVddprRdwnvLV2fx87H9fAlxnW3ZnS8QqvbSbo4Pvu3OMHWZtfu18YwZUFuQXIrlIz7A1wywUBeqvjHNx4I0X/4URpNKjrGF963W9TCrUwYWH3AbREZsedVUHXowUT6Z0jH5Bf+Bs0yHnih0naAdzCip4FeXx0ZGvz3zQVKrokHzr966dixSJiw==;adqpisa9t1En8MUEDXXpmQ=="
+secured: "drjcqa7hUDcykHMF+43q+lHUDBoGRRz/SJUgJkVC+Cg3/mr/4IgHLYSYTmHrkP9lwmafXmadcotV+D82Y/mn7WfhfnE4W7JvCjgF41Wdse6nC+TNOAUKqufHNjOg0WOqHeujebrO6KwIDk9aH9x0TB6Pj9l7+CV0xMSQl8dUGwubjzRcpMcxjpwIAuPnmuoLv7oMnZq5Iu8DtkXY26GXqvfHHWQtrU6RJ1e5RIvPt0UskwroH8YYunwZpFJMs+R02enBWdvgz+tK1/cTnCuvXRrcF8DXVyC7eD8d9Ypgq4wZCGfwavOkf/495EuUZIutuWOLTlaEf6nSeVHTSO6JRPXLBVywg4E6oTH9bmch4bz2Pg6u+am4P00r2cELbz+kUnqGzLiWvf8MglG2dRcBZYnW7VqxUzAmzeTnSDTnQR16DacMjP3WV0uOgGLqli+Sf9lpm4SAq2BmDoE8ApGuK3bC0l2kyA+3EI8KIfTk54WUJRkZMZu+ncElyAu8WepGKIgOK8nY2y46aUGV9Ttzlw==;Vhtd/BdXy/GPpbkxd8NtSQ=="
 ---
 

@@ -40,6 +40,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Penn State COVID-19 research uses artificial intelligence"
+    excerpt: "CENTRE COUNTY, Pa. (WTAJ) — 11 months ago today, the World Health Organization officially declared COVID-19 a global pandemic. Now, research out of Penn State University is shaping how"
+    publishedDateTime: 2021-02-11T23:27:00Z
+    webUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/"
+    ampWebUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: WEARECENTRALPA
+      domain: wearecentralpa.com
+    quality: 61
+    images:
+      - url: "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2021/01/b3b2ef8865ae4d82a998e7a873c4b268.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "One Minn. health care provider using AI to prioritize patients for COVID-19 shots"
     excerpt: "How should health care providers decide who gets to the front of the line for a coronavirus vaccine? The state Health Department has mostly left that decision up to individual providers, most of whom are prioritizing their patients based on age."
     publishedDateTime: 2021-02-10T15:00:00Z

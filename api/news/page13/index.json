@@ -2,6 +2,215 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-02-self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time.md",
+      "title": "Self-Driving Cars Are Faced With Too Many Moving Objects And Too Little Time",
+      "excerpt": "A surprising difficulty for self-driving cars involves having a multitude of objects in-motion nearby and being short on time to computationally analyze the frenzy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e8ecc36de110ecd54a5fc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2501%26cropY1%3D176%26cropY2%3D1583",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/",
+      "publishedDateTime": "2021-02-01T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-alzheimers-prediction-may-be-found-in-writing-tests.md",
+      "title": "Alzheimer’s Prediction May Be Found in Writing Tests",
+      "excerpt": "IBM researchers trained artificial intelligence to pick up hints of changes ... health care and life sciences research at IBM Thomas J. Watson Research Center in Yorktown Heights, N.Y., where ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/02/science/00SCI-SPEECH1/00SCI-SPEECH1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html",
+      "publishedDateTime": "2021-02-01T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-5-ways-to-keep-ai-bias-out-of-online-identity-verification.md",
+      "title": "5 Ways To Keep AI Bias Out Of Online Identity Verification",
+      "excerpt": "In these types of surveillance, the quality and robustness of the underlying database is what can fuel bias in the AI models. Modern facial recognition software uses biometrics to map facial features from a photograph or video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/",
+      "originalUrl": "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2a0812e0069c07567088%2F0x0.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/amp/",
+      "publishedDateTime": "2021-02-01T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors.md",
+      "title": "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors",
+      "excerpt": "\"According to the research study, the global Natural Language Processing (NLP) Market was estimated at USD 12,748 Million in 2018 and is expected to reach USD 47,147 Million by 2027. The global Natural Language Processing (NLP) Market is expected to grow at a compound annual growth rate (CAGR) of 15.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023.md",
       "title": "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023",
       "excerpt": "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\"",
@@ -975,204 +1184,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.md",
-      "title": "Next Tesla Full Self Driving Chip Will Use 5 Nanometer Lithography",
-      "excerpt": "Tesla will work with Samsung to develop a 5nm-class semiconductor for the HW4 version of the Tesla Full Self Driving Chip. Samsung is supplying 14nm chips to Tesla for the HW3 version of FSD. The in-v",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2019/12/fsdchip-1024x512.jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html?amp",
-      "publishedDateTime": "2021-01-31T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re.md",
-      "title": "‘Weird new things are happening in software,’ says Stanford AI professor Chris Re",
-      "excerpt": "The time has come, said Re, for AI scientists to focus on higher-level tasks such as bringing domain expertise to AI rather than twiddling hyper-parameter settings of neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/",
-      "originalUrl": "https://www.zdnet.com/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/01/31/20652a06-32b5-416e-8abc-c24e06b520cf/chris-re-2021-hai-lecture-on-software-2-0.png",
-          "width": 3334,
-          "height": 1423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/",
-      "publishedDateTime": "2021-01-31T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-avaya-expands-its-alliance-with-google-for-ai-for-contact-centers.md",
-      "title": "Avaya expands its alliance with Google for AI for contact centers",
-      "excerpt": "Avaya AI's alliance with Google leads to the creation of virtual agents that can verbally interact with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-google-for-ai-for-contact-centers/",
-      "originalUrl": "https://venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-google-for-ai-for-contact-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/google-dialogflow-cx.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-google-for-ai-for-contact-centers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-google-for-ai-for-contact-centers/amp/",
-      "publishedDateTime": "2021-01-31T12:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game.md",
-      "title": "Discovering The Next Generation Of Soccer Talent Through AI And The Amateur Game",
-      "excerpt": "Having watched my national team, Wales, all around the world (including in 2003 in San Jose), I must admit I was particularly excited to sit down recently with former Chelsea, Sunderland, Swindon and Wales defender Gareth Hall Head of Football Operations at AiSCOUT and Founder & CEO,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/",
-      "originalUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6016f7feb80f1ecb9673bf86%2F0x0.jpg%3FcropX1%3D255%26cropX2%3D4899%26cropY1%3D75%26cropY2%3D2687",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/amp/",
-      "publishedDateTime": "2021-01-31T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

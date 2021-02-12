@@ -54,20 +54,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Does Deep Learning Fuel Loss of Privacy In Facial Recognition Technology?"
-    excerpt: "Although face data is biometric information as unique and identifiable as a fingerprint, it is also casually available in many forms and can thus be passively collected in ways likely to perpetuate severe privacy violations."
-    publishedDateTime: 2021-02-09T04:31:00Z
-    webUrl: "https://analyticsindiamag.com/does-deep-learning-fuel-loss-of-privacy-in-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 55
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Does-Deep-Learning-Fuel-Loss-of-Privacy-In-Facial-Recognition-Technology.jpg"
-        width: 626
-        height: 417
-        isCached: true
   - title: "Meet in4m, An AI Tool That's Unlocking Access To Actionable Financial Market Insights"
     excerpt: "Benzinga held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10, 2020. In"
     publishedDateTime: 2021-02-08T12:27:00Z

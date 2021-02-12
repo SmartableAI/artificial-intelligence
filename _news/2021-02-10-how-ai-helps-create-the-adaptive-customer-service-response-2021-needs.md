@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-hel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.incimages.com/uploaded_files/image/1024x576/GettyImages-141948681_460422.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Artificial Intelligence is the Future of Customer Service - Miquido"
-    excerpt: "However, customer service departments have problems obtaining higher investments or are used as an extension of the sales areas, causing problems that in the long term mean the loss of relationships with captive customers."
-    publishedDateTime: 2021-02-07T07:54:00Z
-    webUrl: "https://apnews.com/press-release/prodigy-news/technology-business-corporate-news-products-and-services-information-technology-76d35e2fb115fc6f5465dee738e19658"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "‘The Voice of the Customer’: ACI recognises airports for consumer engagement during pandemic"
     excerpt: "The Voice of the Customer’ recognises airports that demonstrated best efforts to understand the changing needs of their customers during the crisis."

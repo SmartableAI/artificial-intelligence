@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Artificial Intelligence is the Future of Customer Service - Miquido"
-    excerpt: "However, customer service departments have problems obtaining higher investments or are used as an extension of the sales areas, causing problems that in the long term mean the loss of relationships with captive customers."
-    publishedDateTime: 2021-02-07T07:54:00Z
-    webUrl: "https://apnews.com/press-release/prodigy-news/technology-business-corporate-news-products-and-services-information-technology-76d35e2fb115fc6f5465dee738e19658"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Ywkc8VMlWcGv5E8VynAEmfoxhEVY1WKL6WnNuvyVK8WJNmRXys2LGjIiryvjURT54HtImYckC6kF6ludzSPGgarfEfohjXsqq0HIqtjHH+1LOhKzpWqDcAh3K1Z/cnz6kIoTMe0w7giucKFVijNtUpjRLc2mmgGkHwOKw9WdbdGIdFW4uMiWkcIdbf3eCl1a7sdOPdgzbxP683PmoiuIPPmyt1IgSxKSJg3a8py7ol8kf4BIgm3vQgzXXF9U9M+4EkGUGlGZYEKhDEdxiK04N4I4FrO5WnwI0EfL6W9aG5DRPoUFSlAOodwNtn2ORis9P0rWhVPZlRcR5/BaaVa7ijDNaaaCysapiP7zvEG1/t4=;cYQV6miXopn+z/V2qnsQ2g=="
 ---

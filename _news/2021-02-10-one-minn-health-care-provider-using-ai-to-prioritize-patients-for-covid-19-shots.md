@@ -43,6 +43,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Penn State COVID-19 research uses artificial intelligence"
+    excerpt: "CENTRE COUNTY, Pa. (WTAJ) — 11 months ago today, the World Health Organization officially declared COVID-19 a global pandemic. Now, research out of Penn State University is shaping how"
+    publishedDateTime: 2021-02-11T23:27:00Z
+    webUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/"
+    ampWebUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: WEARECENTRALPA
+      domain: wearecentralpa.com
+    quality: 61
+    images:
+      - url: "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2021/01/b3b2ef8865ae4d82a998e7a873c4b268.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "AI Can Predict Whether Someone Will Die From COVID-19 With 90 Percent Accuracy"
     excerpt: "Since the start of the pandemic, various research groups have been working on prediction models using patient history and public health data to assess how"
     publishedDateTime: 2021-02-08T13:01:00Z

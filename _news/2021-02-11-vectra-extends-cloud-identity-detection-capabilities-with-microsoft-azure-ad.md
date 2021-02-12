@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
 publishedDateTime: 2021-02-11T13:08:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
-webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
 type: article
-quality: 51
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
@@ -42,9 +42,9 @@ related:
   - title: "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester"
     excerpt: "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile."
     publishedDateTime: 2021-02-11T19:40:00Z
-    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    webUrl: "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
     type: article
     provider:
       name: TechRepublic
@@ -226,18 +226,15 @@ related:
         isCached: true
   - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
     excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+    publishedDateTime: 2021-02-11T10:40:00Z
+    webUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 71
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
-        width: 800
-        height: 496
-        isCached: true
   - title: "Artificial Intelligence (AI) in Healthcare"
     excerpt: "The AI healthcare market is more visible to the public than ever before. More and more people are becoming aware of the benefits of AI technology throughout the healthcare industry. To many, it’s solid proof that Artificial Intelligence has had a successful impact on the overall quality of our healthcare system."
     publishedDateTime: 2021-02-11T22:03:00Z
@@ -429,20 +426,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Why Microsoft’s self-driving car strategy will work"
-    excerpt: "Self-driving car startup Cruise has received more than $2 billion in a new round of investment from Microsoft, General Motors, Honda"
-    publishedDateTime: 2021-02-07T08:37:00Z
-    webUrl: "https://talkiot.co.za/2021/02/07/why-microsofts-self-driving-car-strategy-will-work/"
-    type: article
-    provider:
-      name: Talk IoT
-      domain: talkiot.co.za
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/01/Microsoft-cruise-gm.jpg?resize=696%2C348&ssl=1"
-        width: 696
-        height: 348
-        isCached: true
   - title: "Cleareye.aiCollaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-10T08:48:00Z
@@ -478,8 +461,8 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 18
+    quality: 20
 
-secured: "oXTRquLwpHh1M20RkJX8fE8B5rnSzBgS+jcryf/rJ4DLydxYPYG6wgdfp0dMQlbgahesmAXOeV7vXBPOnGnXdyJ3+Rb033wZa+Fbharu7CWTwwY+qFyBpA0uJqg9rc0VuS7XNG6gWFT0HEXX/x27a4O9NfVPyB9ktKbmzpz9XfwFOcbhjnODa+Y/HUcCixx5mMHEECYSf5IONldx8CaDeHjtapEAAGSJLngPzhLIbKuIe8K9Z6Qd2WfBDBz9hRpx7868DWqjEPFQ0WIcRJC8Ioz+mTcAvB07eq3V0jZM81pc79h4u68WrpTUfumZ3aAEgm9UrFCYf8hRFbhBZQf4r2MRRD20EgTLjGvt25itfq0=;8oQR2CXgaKoSjFYJBW8xCg=="
+secured: "7KhGqUdYADrKR4I3cAR/XqPnvI0B6MVujLq+lkbzoTf8lqeH2fXBrh//FKXHP5hYh9k2EQnYRfFIUOPFBhBGYuESR619HmwD6CRS9pVK6DEQSNvicR0A8hFMzzyZi1+idvL1QKjJaY7ZYy/2xfUAKANSi8IyfVcY7AopCTBsVmMIHjpIJwCWdHpdKZL3wjpZ77R+qxgmcjxLaSBSMllzT0tT1LNg3zSf3KzsYVbJjwSefK8Pw51khx82y6E0PWvjKGVikyCLH/tgMAHKheN7tQUZ0IKp6dJMLmkcWk2tNSh5arb1Weho5N4ykkNt6LT53C5+FoEyqp/CUhz2927D/EOlzdWFtSXoXY9H3LLaeRQ=;+VZQ+Okh6F3qorlDwj0mJw=="
 ---
 

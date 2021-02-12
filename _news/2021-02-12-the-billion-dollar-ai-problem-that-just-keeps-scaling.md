@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2021/02/11/the-billion-dollar-ai-problem-t
 ampWebUrl: "https://www.nextplatform.com/2021/02/11/the-billion-dollar-ai-problem-that-just-keeps-scaling/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/11/the-billion-dollar-ai-problem-that-just-keeps-scaling/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/ab_datacenter_that_doesnt_exist.jpg"
@@ -26,6 +27,6 @@ images:
     height: 500
     isCached: true
 
-secured: "kCGf1MYnASHrTT11o3SvD2KToeoiwWfYseJnnkEygjh1VztuZTwJbDD+G3Lc2HcGemSfOxqAF+C9B61Fx/8cOSjs1F4ZPrTBnjMQdfCN2XY95BOSZCBzdyzKishQ7JVikH0WxNzLkXon1GzfZUngFt34nP82TuZPzqpkxiVXlTXHxT70465oScUc6saTMWEXbUoNBEhY8Zf3xR1AsiX/vk6ZhZsV0qf8FiT29M1lilV1R7+gSg9JpA4mw6bLpTTyeYbMnw3eVODEMKy9+4gn1djCWOO61HCt5SeGh3pbM9GI5vC54CFKa69aXJdr8c3m15HUIisMJUN9s2C3lZ99i9sHl8uCYUh5Va6ifjaJCys=;wuVUKLA1Zlh6cruAM6WmVg=="
+secured: "VzzOisKRfUKX0/zbb4KOaSjcYIFgoLpwbGBg5L7deUO8EVODfeZJgeYWSXXV2YLjjNCL1cVPjkTO5DFCksO70utpJIJoZxWmZEN7S7kDteFLlIBpugc/J9ax7UAsbEvPiely7wCgddp0GTrCXaaYfbvvKR1/fnx/wUIYFMeL5rL/2IYZOgtJjTtasNRzxpHKZ4uIBy6nVxa1GnkM2sbJgdR9eDxSjLWgFB6QBH7y2MIjQ7cyAo3sHLLiqk2GfxSrKMbTEa/UJcsFLyUXngcqphO/AOfrGwoHkSZEyOVhWbcacQE54771nzL76zYQLyQWLFeuEjLTqFYcALlmUGtu7FwGOM7WZ2a9qo5oTUl2etlpn4XWZk/SPSJn7tv6g0/FgX7uIpOp8BaQgIq6bvTM789rkmMSx5UVVjNq4KteF/LBDTex5U7e661tAd2LrsT5nwtNS+HLOB9Y5Tq7AzNObL2bW7njqFBobabRbKuVmI4U06dh/gfq8+b1KBssHOGYPBqp54oHQcNrOs62LUx74Q==;2M5EOn1Y0y7VDXxuCz8Y/A=="
 ---
 

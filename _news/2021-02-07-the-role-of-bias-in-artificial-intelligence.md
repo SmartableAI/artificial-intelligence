@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQHEpxtTtpG3NA/article-cover_image-shrink_600_2000/0/1612672822951?e=1618444800&v=beta&t=1CBZWH-mWtlgx-KNGmrfJrTt4KfEDXTrct_xy1W68Ok"

@@ -63,7 +63,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 84
+    quality: 86
   - title: "Baidu in negotiations to raise funds to start AI chip company"
     excerpt: "Chinese tech giant Baidu is in talks to raise money to start its own standalone artificial intelligence semiconductor chip company."
     publishedDateTime: 2021-02-10T12:05:00Z

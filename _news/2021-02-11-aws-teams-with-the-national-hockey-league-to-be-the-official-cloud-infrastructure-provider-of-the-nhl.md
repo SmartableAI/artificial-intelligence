@@ -41,6 +41,20 @@ related:
         width: 2089
         height: 1183
         isCached: true
+  - title: "AWS cloud infrastructure for NHL"
+    excerpt: "Amazon Web Services (AWS), an Amazon company, has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intel"
+    publishedDateTime: 2021-02-12T00:03:00Z
+    webUrl: "https://advanced-television.com/2021/02/12/aws-cloud-infrastructure-for-nhl/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 39
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2020/11/NHL20.jpg"
+        width: 1200
+        height: 992
+        isCached: true
   - title: "AWS to be NHL's official cloud infrastructure provider"
     excerpt: "Amazon Web Services (AWS) said it entered into an agreement with the National Hockey League (NHL) to become its official cloud, artificial intelligence, and machine learning infrastructure provider. By tapping into the AWS services,"
     publishedDateTime: 2021-02-11T09:58:00Z

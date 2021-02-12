@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
-secured: "AFHhH7/mOyl6B74ljcBRtlVyqDNmXt0YyaThvBt4iukaiyMMgBgNHCFjdblmrh3MBz9FoFlwFzRiAv+xPyJRlLm6k0GWJ0R6/QAxDAJuEYSZpjCAnKZrvNyPMLH6bMxFvb4TiU0cATcdeuU7vPD3pFbz9mel4WLpenAAMPImIxQSu/ZWPAOoSZmM7kFCaxUWJINXOAzaorbwI9qrSjxME1RTQ5oZFLW6HTNFMNQswyaYv+BCfD/kHVHPK/WV+rSgYvsXvK36FVB5P1Ww9glvzLFusps8X2NC7z9GZsh123wQJTMO+Df1gIZJnvsnKN+6jGbOvdmb3/COB6wlBANW0iBcbzemRzkIwNGHFGAzpbM=;L0fm6baPzjKdjoim3F3Kaw=="
+related:
+  - title: "Bon Secours, Sentara join 12 health care organizations forming data company"
+    excerpt: "Bon Secours and Sentara Healthcare announced Thursday they have joined a group of 12 additional health care providers to form a new company, Truveta, which will offer data insights for patient care. Spurred by the rapid research needed to combat the COVID-19 pandemic,"
+    publishedDateTime: 2021-02-11T23:04:00Z
+    webUrl: "https://www.virginiabusiness.com/article/bon-secours-sentara-join-12-health-care-organizations-forming-data-company/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 22
+    images:
+      - url: "https://www.virginiabusiness.com/wp-content/uploads/2021/01/DownloadIssue_February2021.jpg"
+        width: 288
+        height: 360
+        isCached: true
+
+secured: "MUq8stBak+cStaf5zXWzTXMn4zDH5x2Hl9OLWGiuo6Gt7VwOtF99FmTUApddTP8eORpmfNnI56a5Yxyd6hTlcx/U+zKTHpmNwE6GuF7Gb9eMC/92ksF8aOT/BwfxkaNhBYO4lXwJqdE0JdG63Gg9ywBqKu6iEsyn62Zd+o94URNds6Tzw/MX+v5V6S1nI5L1l0y8KRsHwGwy/q0/nvIdAJY5TDWz/mjE8GtNYy2Uq2FvCAwfrFt5HJBQc7QdYbE23I7Ch42L7JbZQEIEr30Oopabl5l6vokEW66GjAwzL3bLEbCo5ji6YnHHZbb9vv3biS1Rzedsbq9q9IHZlVGOUAJd/kiRxJ3S1/MFX6aTMeiyMfbiit7sL9l7vjO0/N4R5zj7CSckIKlOuocwpftAyAm7BADFYCS8kY400dnC4ggt+lHCCh7ILalvbP000IMTRk2tM/V5Ikju/vWXdJ55t5pU7ziUBnnt3hH30yPmilL3e54at2Ao+GmPMDPqqWOxdVOu08M1YxQEs7VQJQN+Xg==;pIqTYGWqhrnd8BBCt3+VSw=="
 ---
 

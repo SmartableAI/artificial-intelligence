@@ -1,19 +1,19 @@
 ---
 category: news
-title: "SoftBank's Son expects mass production of driverless cars in two years"
-excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ..."
-publishedDateTime: 2021-01-29T16:38:00Z
-originalUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
-webUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
-ampWebUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
+title: "SoftBank's Son Expects Mass Production of Driverless Cars in Two Years"
+excerpt: "SoftBank's Son Expects Mass Production of Driverless Cars in Two Years While ... in public companies he thinks are frontrunners in the artificial intelligence (AI) race. \"I am investing in many ..."
+publishedDateTime: 2021-01-29T16:05:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-29/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years?context=amp"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,6 +21,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "87fwzQ6EFKm69ZhnHInHE+lWKrrowvvLH6R+nrggOwuviJdqi5AUf+/TOBT/nNnyTFkcUqwv84epjwayHJDKJSr2aVc68JUZDfaRJja6RbE1r4wfXl8Mr7JztgKyqOF78HueYIvH0vL+QQwgHmSWyBZ1sIYmdtBxC9eRZsq0ly/S0qEtFmbGrE4cKRspB5UKTYTwknTfXRGsNVZ0SVTBfGw4v22I1wC7p0UrxRv7HnYS2E4gdGT5XK68yEh+FN+hklyF9ttAa/KziOxlSbORRJ0/vpyo4KtvAi0tk02pR48EvLnD4xTowqqegC2Xsme+4IdsffPqTtsa3cfAY4HJx4S09SULihc/N1kV59Nvo7g=;8fklmrx8mzYuKcTfCC2Dtg=="
+secured: "7LeqP/454TGx02MFCkDyWzbF9G/P+0OnOTKR0y0p583wEIYCa0Nlo6CLokYm9b4dP+8Vz0z0lL3CejHLDNSqGUZs7WCpkpTXkLFf1QDH+Dot3Axl+X40w1WjbPn2Y2JcrRCFjOEbQgcdyaXtJQsGreZSnyIUK3PyIHXI1081TN3IrD3RIn6NnRlGFh+4HLORbTVrEmQg2TGNv8mJCGRGSneC5YOixFHPMhhmFUgRjsqpYkFMzcjis7HtA5ODQ55MHRQDqziEz9Ofer37VJg3trs4nfKNSCFfuFKjIGMhn/Eu/3acfD8kwVltTumQ//5bp+bMinsfH82hwnNxDPvAPIsl0GNKp96KED6mu54pJlQ=;CfZEV/u2DmOv1S7ybia/9Q=="
 ---
 

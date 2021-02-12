@@ -158,20 +158,15 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Fintech Start-up Bytemine launches AI trading signals application for Day Traders"
-    excerpt: "Transforming data into better trading outcomes LONDON, UNITED KINGDOM, February 7, 2021 /EINPresswire.com / -- Bytemine , a market prediction and analysis platform that provides trading signals for day-traders,"
-    publishedDateTime: 2021-02-07T08:25:00Z
-    webUrl: "https://menafn.com/1101560775/Fintech-Start-up-Bytemine-launches-AI-trading-signals-application-for-Day-Traders"
+  - title: "Fintech, AI & ML: What you need to know in 2021"
+    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
+    publishedDateTime: 2021-02-11T22:54:00Z
+    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-amp-ml-what-you-need-to-know-in-2021"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?91760"
-        width: 377
-        height: 250
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 36
   - title: "Lufax: Best Chinese Fintech Stock To Buy"
     excerpt: "Lufax is a leading online Internet finance marketplace in China offering retail credit and wealth management services to Chinese borrowers and investors."
     publishedDateTime: 2021-02-08T17:31:00Z

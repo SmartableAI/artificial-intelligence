@@ -3,10 +3,10 @@ category: news
 title: "Humana now using IBM Watson's AI-enabled virtual assistant for health insurance members"
 excerpt: "Humana announced today that it's teaming up with IBM Watson Health to deploy IBM Watson Assistant for Health Benefits for Humana Employer Group members. Conversational AI (artificial intelligence) through the IBM Watson assistant will be used when agents,"
 publishedDateTime: 2021-02-11T14:45:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+originalUrl: "https://www.techrepublic.com/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+webUrl: "https://www.techrepublic.com/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/"
 type: article
 quality: 96
 heat: 136
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - IBM AI
+  - AI
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/4b528d48-8cbf-42b2-a230-c0e346adb88b/resize/1200x/bb75306246cac19a621353e0b787d81c/doctor-computer.jpg"
@@ -85,6 +85,6 @@ related:
         height: 2045
         isCached: true
 
-secured: "rFotS2ENRKUO9nfXhuKTGurfV2aWSVZ04EXi0cCZlmEeetopFRFobux3qyfNG/LSFcxDFGAjWb3YcH0jErmg2DOt0ibh5xdVb50MAGrliD3HOdYQoa5/qK24Kv8ypSrw0iuYnFltm9JPHBF6N5gz78YpWdJ1x/z88MUQuXzvfpeOQx+zoprpLhV3YPaWQiFNmtfpSO9MBmqeP2CpXDXOLv7ZtCYf9/d0/Pe9TmKIZ9VUCUDl4bvCx36W0knmt6x7y+lR0qimpLWDmNkwyeBsg3nzADQdy7e7XoeQTy3ed0IFyZqCh9mHNV85eKxApcjj9k8HFs2jQ6oLqMn9dyvH41bNz//ekIzr+L+PkUoD1No=;CztBFn+jJMH0DzVTVO72dQ=="
+secured: "HxHMBhz5ABabmpyeKxtgsyWad3x7FkMrknapQOImZUbGOnwXiMUkHNgXJAaL+tEFsKbWi+bHmRk7uwvOPLvw1crlpVHSd3GXWZ0wbqwHXFWUuy9yWJUazX+48SEwsbd+DQdXHIUViw+E3/4dDfSi8yEsA9o8/G+7RC2RRKjZPwh2m5kn5eNItUbdKu7IQbnvLde6O8nutF1Kk4UHnME8hpHBEfBmlWMlTEfgAs3QamudH0f1Yg7tEFB+etfOtV/GjKhnVdGUPDACskpFsPrVgC5tmADJ0hzZ1YrZhOQ5USlH+qGopLVVY+isxUdrytR+wpUqxlmtQ0+q7Ql/RoRWC8AKN04DreRRY8VdXoPPuPw=;5jXQlkD/Hu+vYgVVFFMgGQ=="
 ---
 
