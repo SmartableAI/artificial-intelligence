@@ -1,25 +1,35 @@
 ---
 category: news
 title: "Chinese Search Giant Baidu Looks to Launch AI Chip Company"
-excerpt: "China's search engine giant Baidu (NASDAQ: BIDU) is reportedly in talks to raise cash for the creation of a stand-alone artificial intelligence (AI) semiconductor company. CNBC reports GGV and IDG Capital,"
-publishedDateTime: 2021-02-10T16:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10"
-webUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10"
-ampWebUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
+excerpt: "China's search engine giant Baidu (NASDAQ:BIDU) is reportedly in talks to raise cash for the creation of a stand-alone artificial intelligence (AI) semiconductor company. CNBC reports GGV and IDG Capital,"
+publishedDateTime: 2021-02-10T21:00:00Z
+originalUrl: "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/"
+webUrl: "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/"
 type: article
-quality: 86
+quality: 106
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
-  - AI
   - AI Hardware
+  - AI
+  - AI in Autos
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612596%2Fartificial-intelligence-ai-neural-network-machine-learning-getty.jpg&w=1200&op=resize"
+    width: 1200
+    height: 773
+    isCached: true
 
 related:
   - title: "Baidu in talks to raise money for a stand-alone A.I. chip company"
@@ -123,6 +133,6 @@ related:
         height: 800
         isCached: true
 
-secured: "CePqr7br3rEN97j8a7ZbTCn/mRwCjv4O1lPTzEh+MFCK/Oa6BX2J8McLodsD5bdV5M0KkNjZQjrbEdZDmXufxQys/ldvrm40BZKCkbL8QvdjyMrAqEqYT0YjjEaow2NCyM3Y7Q1J4loWeXbfljfF/llEqKxKukoTi8AXCLzlhYSp7TTFEwHTnBibmqy6VLAsfhugkycBbmKaM8QL+2OuQ6dtnWkIUynXqv7zxnok3Gp77N2US0BeLIquQ3W1lSeXdjfyrX6/i1Jd/2znqcWLESuFFJtPsA5KxCT8RtJmiDRw4A8hnGa5cqBgt7MYirHLDM/jw3tOUv42xO1Cv2FOZ+wOZkVXZc3TjU1gPvYYb1k=;8tUC04sjd3AeFEo1VjrAFQ=="
+secured: "xTy1NcHjBHE1QIX9gWnF3mPHMpvVCha9bjJMPrRGyPZWZ30kYhVQAeDfPtjZHIEtFt1xpiSToRZ5rq6oybPEeLuxDuNeeRps+9nwDfXl00SrMhdNFZQNRd/KC0T8WLVfnyv2bWCL8hzMkNNd3FhpocKFRHfCMWfQjOlUAoN2Dkg9U7raCFX58TvxQ/uG4uWwAB4BDglPZkRet6RTz5viJO6QQBh3ewOuPlJR8Ha/3Z862swzTujues8+IxvhUmgzrmuxLOYB0C2hUKyeJ/kJ7vX2IPTnCCXx3NH4DWbZXSZeDQKgGsU+n0B8VT7qlbgzztZ2sGPHQIUOQPY+4FQYSQ6/PR1FiPcb/UXBAaH97b8=;/P/4S12+2EMfBSdEQe+N6Q=="
 ---
 

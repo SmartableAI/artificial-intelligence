@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
 type: article
 quality: 103
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/2/1b/21bfc9f2-69e3-11eb-a366-0b1a61c8ca3c/6020ef8c82988.image.jpg?resize=945%2C630"
         width: 945
         height: 630
-        isCached: true
-  - title: "Self-driving cars are among us but drivers beware"
-    excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
-    publishedDateTime: 2021-02-12T01:37:00Z
-    webUrl: "https://theweeklydriver.com/2021/02/self-driving-cars-are-among-us-but-drivers-beware/"
-    type: article
-    provider:
-      name: The Weekly Driver
-      domain: theweeklydriver.com
-    quality: 24
-    images:
-      - url: "https://theweeklydriver.com/wp-content/uploads/2021/02/800px-Tesla_Model_S_digital_panels.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Docomo Pacific tests driverless concept cart powered by 5G network"
     excerpt: "NTT Docomo's Guam subsidiary Docomo Pacific said it tested the new driverless concept cart SC-1, manufactured by Sony and powered by Docomo Pacific 5G. The SC-1 leverages 5G mobile technologies for various remotely controlled functions."

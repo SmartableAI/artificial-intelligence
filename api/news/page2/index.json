@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-11-brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth.md",
-      "title": "Brain Corp Extends Leadership Position in Autonomous Mobile Robots with Record 2020 Growth",
-      "excerpt": "an artificial intelligence (AI) software company creating transformative core technology in robotics, today announced record growth in 2020 as global retailers ramped up their adoption of robotic ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
-      "publishedDateTime": "2021-02-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-ta-digital-launches-searchboostai-to-drive-relevancy-and-personalization-through-cognitive-search.md",
       "title": "TA Digital Launches SearchBoost.ai to Drive Relevancy and Personalization Through Cognitive Search",
       "excerpt": "TA Digital announced today its foray into the cognitive search space with its maiden intelligent search solution, SearchBoost.ai. This is the first SaaS product offering by the company. Website and ecommerce search tools that exist today tend to solve for relevancy by optimizing indexing or results ranking.",
@@ -380,7 +337,7 @@
       "originalUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -527,6 +484,49 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-vw-microsoft-extend-collaboration-to-self-driving-car-software.md",
+      "title": "VW, Microsoft Extend Collaboration to Self-Driving Car Software",
+      "excerpt": "Volkswagen AG and Microsoft Corp. are expanding their cooperation involving the U.S. software giant’s cloud technology to include speeding up development of automated driving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-11/vw-microsoft-extend-collaboration-to-self-driving-car-software",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/vw-microsoft-extend-collaboration-to-self-driving-car-software/ar-BB1dAjtC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 479,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOSKTOipq79Q/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bloomberg.com/news/articles/2021-02-11/vw-microsoft-extend-collaboration-to-self-driving-car-software",
+        "domain": "bloomberg.com/news/articles/2021-02-11/vw-microsoft-extend-collaboration-to-self-driving-car-software",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -726,6 +726,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-11-4-recent-studies-exploring-ai-in-healthcare.md",
+      "title": "4 recent studies exploring AI in healthcare",
+      "excerpt": "In the past decade, medical researchers have become increasingly interested in artificial intelligence's potential to improve healthcare by reducing workflow inefficiencies, predicting health outcomes and speeding up diagnoses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html",
+      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-how-one-startup-is-proving-that-ai-can-come-up-with-ethical-solutions.md",
       "title": "How one startup is proving that AI can come up with ethical solutions",
       "excerpt": "Though artificial intelligence has shown to improve efficiency in business and other aspects of our daily lives, there’s certainly no shortage of moral conundrums that arise from its use. Whether it be the fear that it will take away jobs at a large scale or stories of racial and gender bias — like a health",
@@ -828,7 +871,7 @@
       "originalUrl": "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1156,58 +1199,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles.md",
-      "title": "Volvo Aims to Ease the Queasiness of Riding in Self-Driving Vehicles",
-      "excerpt": "The car maker is testing audio cues to prevent motion sickness in autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "originalUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-297352/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "publishedDateTime": "2021-02-10T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

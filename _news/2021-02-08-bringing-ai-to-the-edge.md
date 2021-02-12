@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence for Marketing"
+    excerpt: "A Latest intelligence report published by AMA Research with title Artificial Intelligence for Marketing Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence for Marketing market This report provides"
+    publishedDateTime: 2021-02-12T14:23:00Z
+    webUrl: "https://www.openpr.com/news/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/2/U212535947_g.jpg"
+        width: 638
+        height: 359
+        isCached: true
   - title: "Closing the AI skills gap"
     excerpt: "A growing demand for AI technology but a shortage of work can be solved by infusing AI into a business Artificial intelligence (AI) is expected to change the world. AI can help automate decisions and processes,"
     publishedDateTime: 2021-02-12T04:34:00Z

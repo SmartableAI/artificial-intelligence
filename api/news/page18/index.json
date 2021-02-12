@@ -2,6 +2,146 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-29-4-ways-ai-and-ml-enhance-the-b2b-buyers-journey.md",
+      "title": "4 Ways AI And ML Enhance The B2B Buyers’ Journey",
+      "excerpt": "Just as consumer marketing teams have found AI-driven martech to help them reach their buyers where they are, B2B marketing teams are starting to realize that AI can do similar things to enhance their business customers’ journeys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012fb7404112e7aa8e50214%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
+      "publishedDateTime": "2021-01-28T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-decentralized-machine-learning-24-hour-volume-hits-440900-dml.md",
+      "title": "Decentralized Machine Learning 24 Hour Volume Hits $4,409.00 (DML)",
+      "excerpt": "Decentralized Machine Learning (CURRENCY:DML) traded 5% higher against the dollar during the 24-hour period ending at 12:00 PM Eastern on January 28th. Over the last week, Decentralized Machine Learning has traded 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp",
+      "publishedDateTime": "2021-01-28T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-saving-time-with-personalized-videos-using-aws-machine-learning.md",
+      "title": "Saving time with personalized videos using AWS machine learning",
+      "excerpt": "CLIPr aspires to help save 1 billion hours of people’s time. We organize video into a first-class, searchable data source that unlocks the content most relevant to your interests using AWS machine learning (ML) services. CLIPr simplifies the extraction of information in videos, saving you hours by eliminating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/saving-time-with-personalized-videos-using-aws-machine-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/saving-time-with-personalized-videos-using-aws-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/28/Clipr-Console.jpg",
+          "width": 800,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T09:28:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence.md",
       "title": "Digital Careers Ahead: Why Should Techies Have All The Fun With Artificial Intelligence?",
       "excerpt": "Every organization wants to build their future on digital technologies, but what does it take to make it all happen? To get a better sense of the skills and talents that will be in demand, I reached out to experts and entrepreneurs across the landscape to get their views on what it takes to build a career in this new world.",
@@ -1026,144 +1166,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-female-led-startups-dominate-catalyst-funds-inclusive-fintech-2021-cohort.md",
-      "title": "Female-led startups dominate Catalyst Fund’s inclusive fintech 2021 cohort",
-      "excerpt": "Catalyst Fund, a global accelerator managed by BFA Global, announced the 8th cohort for its Inclusive Fintech Program today. The accelerator runs the flagship program annually and with a focus on Kenya,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/28/female-led-startups-dominate-catalyst-funds-inclusive-fintech-2021-cohort/",
-      "originalUrl": "https://techcrunch.com/2021/01/28/female-led-startups-dominate-catalyst-funds-inclusive-fintech-2021-cohort/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Copy-of-263A1773-1280x854-1.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/28/female-led-startups-dominate-catalyst-funds-inclusive-fintech-2021-cohort/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/28/female-led-startups-dominate-catalyst-funds-inclusive-fintech-2021-cohort/amp/",
-      "publishedDateTime": "2021-01-28T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-machine-learning-technique-helps-predict-covid-19-outcomes.md",
-      "title": "Machine Learning Technique Helps Predict COVID-19 Outcomes",
-      "excerpt": "Mount Sinai researchers used a machine learning technique called 'federated learning' to predict outcomes of COVID-19 patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
-      "originalUrl": "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/pollen-allergy-women-cold.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
-      "publishedDateTime": "2021-01-28T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-systran-enhances-automated-professional-translation-by-launching-the-first-catalog-of-industry-specific-translation-models.md",
-      "title": "SYSTRAN Enhances Automated Professional Translation by Launching the First Catalog of Industry-Specific Translation Models",
-      "excerpt": "SYSTRAN, the leader in neural machine translation technology, announces the launch of its new multilingual catalog of industry-specific translation models. These unique models are designed by a community of experts called ‘trainers’—owners,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-industrial-technology-5017e6248e188d73d21d9d9e0aa5fb2f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-industrial-technology-5017e6248e188d73d21d9d9e0aa5fb2f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

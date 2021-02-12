@@ -2,21 +2,72 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-12-hpe-plans-second-spaceborne-computer-will-be-linked-to-microsoft-azure.md",
-      "title": "HPE plans second Spaceborne computer, will be linked to Microsoft Azure",
-      "excerpt": "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later.",
+      "path": "_news/2021-02-12-canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-photo-hoarding.md",
+      "title": "Canon's New iOS App Uses AI To Marie Kondo Your Digital Photo Hoarding",
+      "excerpt": "Even without the limits of a 36-shot roll of film or memory cards that quickly max out, it doesn’t take long to fill an iPhone and cloud storage with photos. So Canon has released an iOS app that can make the hard decisions for you when it’s time to clear out some memories using AI to objectively decide which shots aren’t worth keeping.",
       "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/",
+      "webUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384",
+      "originalUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg",
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dtklqj3drv6rsxuv4jhs.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp",
+      "publishedDateTime": "2021-02-12T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-deep-learning-sometimes-it-pays-to-go-shallow.md",
+      "title": "Deep Learning? Sometimes It Pays To Go Shallow",
+      "excerpt": "Deep learning is the current darling of AI. Used by behemoths such as Microsoft, Google and Amazon, it leverages artificial neural networks that “learn” through exposure to immense amounts of data. By immense we mean internet-scale amounts — or billions of documents at a minimum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-learning-sometimes-it-pays-to-go-shallow/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-learning-sometimes-it-pays-to-go-shallow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8c0a4bcc30e0006c1d9f4%2F0x0.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +77,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T02:50:00-08:00",
+      "publishedDateTime": "2021-02-12T05:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +100,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Machine Learning",
         "AI"
       ]
     },
@@ -147,7 +207,7 @@
       "originalUrl": "https://www.openpr.com/news/2241354/artificial-intelligence-ai-in-education-market-analysis",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -474,7 +534,7 @@
       "originalUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -514,57 +574,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-canons-photo-culling-app-uses-ai-to-help-you-pick-your-best-shots.md",
-      "title": "Canon's photo culling app uses AI to help you pick your best shots",
-      "excerpt": "Canon has introduced an app that uses a computer vision algorithm to assist you with choosing the best image in a series of either unrelated or similar photos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/canon-photo-culling-app-213409056.html",
-      "originalUrl": "https://www.engadget.com/canon-photo-culling-app-213409056.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2F7cfa7470-6cae-11eb-b53d-dea2dbd7fe69&client=amp-blogside-v2&signature=715022ff0bcb607e63238a1e081be351e38a930d",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/canon-photo-culling-app-213409056.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/canon-photo-culling-app-213409056.html",
-      "publishedDateTime": "2021-02-11T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -774,7 +783,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1181,36 +1190,36 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions.md",
-      "title": "Microsoft Teams with Volkswagen for Azure Cloud Automated Driving Solutions",
-      "excerpt": "Volkswagen will tap into Microsoft Azure tools and data to create new and efficient automated driving solutions for developers.",
+      "path": "_news/2021-02-11-brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth.md",
+      "title": "Brain Corp Extends Leadership Position in Autonomous Mobile Robots with Record 2020 Growth",
+      "excerpt": "an artificial intelligence (AI) software company creating transformative core technology in robotics, today announced record growth in 2020 as global retailers ramped up their adoption of robotic ...",
       "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 84,
       "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2019/09/microsoft-connected-vehicle-platform.jpg",
-          "width": 1279,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp",
-      "publishedDateTime": "2021-02-11T06:02:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "publishedDateTime": "2021-02-11T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1219,7 +1228,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Robotics",
         "AI"
       ]
     }

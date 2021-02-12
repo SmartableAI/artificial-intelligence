@@ -2,36 +2,36 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-02-09-foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool.md",
-      "title": "Foyer Insight Incorporates AI and Unsupervised Machine Learning Into Unprecedented Multi-Classification Tool",
-      "excerpt": "Foyer, Inc., a startup PropTech development company, is introducing Foyer Insight, the most advanced computer vision Artificial Intelligence (AI) suite focused solely on the real estate industry. Using multi-label image classification and unsupervised learning,",
+      "path": "_news/2021-02-09-the-queens-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.md",
+      "title": "The Queen's Gambit helped Square Off see huge uptake in robot chess sales",
+      "excerpt": "Square Off released its first robotic chess board a couple of years ago. It's now on the brink of introducing a new model. We speak to the co-founder.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-1030061343",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-1030061343",
+      "webUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales",
+      "originalUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales",
       "featuredContent": null,
       "highlight": null,
       "heat": 75,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155658-homepage-news-feature-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales-image1-hecqczp5xz.JPG",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-1030061343",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/foyer-insight-incorporates-ai-and-unsupervised-machine-learning-into-unprecedented-multi-classification-tool-1030061343",
-      "publishedDateTime": "2021-02-09T07:06:00-08:00",
+      "ampWebUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.amphtml",
+      "publishedDateTime": "2021-02-09T07:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Pocket-lint",
+        "domain": "pocket-lint.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -40,8 +40,53 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-us-fintech-cleareyeai-joins-forces-with-microsoft-for-ai-platform.md",
+      "title": "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform",
+      "excerpt": "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg",
+          "width": 600,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/",
+      "publishedDateTime": "2021-02-09T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -396,6 +441,59 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-finch-capital-launches-third-fund-to-invest-in-european-fintech-at-series-a-and-b.md",
+      "title": "Finch Capital launches third fund to invest in European fintech at Series A and B",
+      "excerpt": "Finch Capital, the early-stage fintech VC with a presence in London and Amsterdam, has raised a third fund. Targeting a final close of €150 million, the fund has already secured €85 million from LPs ready to deploy.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/",
+      "originalUrl": "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/IMG_6638.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/",
+      "publishedDateTime": "2021-02-09T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-bengaluru-airport-bags-voice-of-the-customer-global-recognition.md",
       "title": "Bengaluru airport bags 'Voice of the Customer' global recognition",
       "excerpt": "The 'Voice of the Customer' initiative by the Airports Council International World recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice",
@@ -551,7 +649,7 @@
       "originalUrl": "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1120,110 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-alphabet-and-dolby-lead-the-balance-sheet-powerhouses.md",
-      "title": "Alphabet And Dolby Lead The Balance Sheet Powerhouses",
-      "excerpt": "When choosing a stock to buy don't just look at earnings. Pay attention to a company’s balance sheet (assets versus liabilities). These companies pass six tests of strength.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/",
-      "originalUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020bb1d9bfddccf852d90d8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/amp/",
-      "publishedDateTime": "2021-02-08T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-when-self-driving-cars-get-embroiled-in-massive-car-pileups.md",
-      "title": "When Self-Driving Cars Get Embroiled In Massive Car Pileups",
-      "excerpt": "Exploring why self-driving cars will indeed be mired in massive car pileups and are not invincible for such tragedies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020d8f3a91e85b44784b7e1%2F0x0.jpg%3FcropX1%3D1144%26cropX2%3D3871%26cropY1%3D436%26cropY2%3D1970",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/",
-      "publishedDateTime": "2021-02-08T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2241354/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis"
 type: article
 quality: 76
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare"
+    excerpt: "The AI healthcare market is more visible to the public than ever before. More and more people are becoming aware of the benefits of AI technology throughout the healthcare industry. To many, it’s solid proof that Artificial Intelligence has had a successful impact on the overall quality of our healthcare system."
+    publishedDateTime: 2021-02-11T22:03:00Z
+    webUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/"
+    ampWebUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 69
   - title: "Artificial Intelligence (AI) In Healthcare Market will be growing at a CAGR of 42.0 % during the forecast 2020 to 2028"
     excerpt: "According to a new market research report published by sheer analytics and insights The Global Artificial intelligence in healthcare market was 6 1 Bn in 2019 and it is expected to reach 170 5 Bn by 2028 It is eventually"
     publishedDateTime: 2021-02-08T12:51:00Z

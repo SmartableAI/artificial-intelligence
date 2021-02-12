@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/5210x2931+1389+560/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/10/24193816/2021_Sienna_Platinum_Predawn-Gray-Mica_010.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Jeff Bezos-backed Aurora has struck deals with Uber and Toyota that could make it a self-driving powerhouse"
+    excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
+    publishedDateTime: 2021-02-12T14:50:00Z
+    webUrl: "https://www.businessinsider.com/aurora-toyota-waymo-cruise-uber-paccar-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Toyota in self-driving partnership with Aurora"
     excerpt: "Toyota Motor, Denso Corporation and US autonomous driving startup Aurora Innovation have agreed to establish a long-term partnership to develop and produce self-driving vehicles, according to reports in Japan."

@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "How to build better CX with human-intelligence-powered AI chatbots"
+    excerpt: "Whether your current experience with chatbots allows you to believe me or not, better customer experiences are possible with human-intelligence-powered AI"
+    publishedDateTime: 2021-02-12T13:47:00Z
+    webUrl: "https://dataconomy.com/2021/02/how-to-build-better-cx-human-intelligence-powered-ai-chatbots/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/02/how-to-build-better-cx-human-intelligence-powered-ai-chatbots.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+
 secured: "YzSl1AKjdNmYGp1z/eSAl8Mo8yGE4ucPrJoxWQJ1csZwJuc3V9Lg/Uv0VWq+VXrSa4NCZvPe1qsnVc8PQ1uDCb1yy8joJBLLH1zFtIrsVAPAEHLT5uEoJxOnh7rZx0Kyqs6Zu8OHg7mgHGL5jxfB4louDLIDSLpXFMSdhpLM5LNFCik1HvzJFckjBMq4y+wPENFEBW29D80+tEvGOKqfTpP8ocBRyVZid0mQoQopgqViaPiDlCcTg7fCg5CRPx81GAVc8tJ1BZCuXRTWpE1kW4Z6YtyRfHvqJT/yJibvopSmcPLlo/qb3duS34FCgSU2uY2i4UUtoP0eh1BXeV0zMo26soRXrHOIXwOx21Ljdd4=;FEvtmWJ7eLC3x5Y6Gv29IA=="
 ---
 

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Key Takeaways For the Fintech Sector"
-    excerpt: "Fintech was acknowledged for the first time and this indicates that the sector plays a major role in the entire banking ecosystem today"
-    publishedDateTime: 2021-02-08T06:53:00Z
-    webUrl: "https://www.entrepreneur.com/article/364949"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/364949"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364949"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1612767183-money-transfer-3588301-1920.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Finch Capital launches third fund to invest in European fintech at Series A and B"
     excerpt: "Finch Capital, the early-stage fintech VC with a presence in London and Amsterdam, has raised a third fund. Targeting a final close of €150 million, the fund has already secured €85 million from LPs ready to deploy."
     publishedDateTime: 2021-02-09T09:01:00Z
@@ -91,17 +75,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
-    excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
-    publishedDateTime: 2021-02-11T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
   - title: "FinTech platform Siply raises USD 1 million in seed funding"
     excerpt: "Bengaluru-based Siply announced the raise of USD 1 million in seed funding from investors such as JITO Angel Network and"
     publishedDateTime: 2021-02-11T12:33:00Z
@@ -116,10 +89,10 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Fintech, AI & ML: What you need to know in 2021"
+  - title: "Fintech, AI and ML: What you need to know in 2021"
     excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
-    publishedDateTime: 2021-02-11T22:54:00Z
-    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-amp-ml-what-you-need-to-know-in-2021"
+    publishedDateTime: 2021-02-12T14:21:00Z
+    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-and-ml-what-you-need-to-know-in-2021"
     type: article
     provider:
       name: Finextra
@@ -139,6 +112,38 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Kraken Announces Launch of Independent Investment Fund For Crypto & Fintech Companies"
+    excerpt: "Kraken, a U.S.-based digital asset exchange, announced on Thursday it is backing the newly launched Kraken Ventures, an independent investment fund targeting early stage companies and protocols across the crypto and fintech ecosystem."
+    publishedDateTime: 2021-02-12T13:03:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 37
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-4-600x450.jpeg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Taking Over UK’s Fintech Throne: Lithuania on the Shortlist to Become Europe’s Leading Fintech Hub"
+    excerpt: "Brexit has pushed quite a few UK fintechs to search for greener pastures. According to Marius Galdikas, CEO at ConnectPay, Lithuania’s favourable regulatory environment is making it one of the top destinations to relocate their business to."
+    publishedDateTime: 2021-02-08T05:01:00Z
+    webUrl: "https://www.globalbankingandfinance.com/taking-over-uks-fintech-throne-lithuania-on-the-shortlist-to-become-europes-leading-fintech-hub/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/taking-over-uks-fintech-throne-lithuania-on-the-shortlist-to-become-europes-leading-fintech-hub/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/taking-over-uks-fintech-throne-lithuania-on-the-shortlist-to-become-europes-leading-fintech-hub/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 30
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/04/top-story-11.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Finch Capital closes €150m fintech fund"
     excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
     publishedDateTime: 2021-02-09T11:07:00Z
@@ -152,34 +157,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/charging.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Lufax: Best Chinese Fintech Stock To Buy"
-    excerpt: "Lufax is a leading online Internet finance marketplace in China offering retail credit and wealth management services to Chinese borrowers and investors."
-    publishedDateTime: 2021-02-08T17:31:00Z
-    webUrl: "https://seekingalpha.com/article/4404316-lufax-best-chinese-fintech-stock-to-buy"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2021/2/4/49636850-16124388856199486.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "PEAK6 Names Michelle Williams Executive Director of Fintech in Action"
-    excerpt: "PEAK6, a financial technology business, announced today that Michelle Williams will serve as Executive Director of its Fintech in Action initiative to encourage the hiring, promotion and retention of Black employees in the fintech industry."
-    publishedDateTime: 2021-02-09T16:29:00Z
-    webUrl: "https://www.lelezard.com/en/news-19642084.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Top 3 FinTech companies transforming the financial space in Iceland"
     excerpt: "FinTech solutions are provided by the three largest commercial banks in the country, namely Landsbankinn, Íslandsbanki, and Arion Bank."
@@ -195,15 +172,15 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
-    excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
-    publishedDateTime: 2021-02-12T05:55:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-care-costs-financial-technology-medical-technology-18de882eef47f75ecbdbd648059fd2ff"
+  - title: "First Investments of AMTD ASEAN Solidarity Fund, Calvin Choi: proud to support the FinTech community in Singapore"
+    excerpt: "Recently AMTD Singapore Solidarity Fund Pte. Ltd., under AMTD ASEAN Solidarity Fund Group (“AMTD ASEAN Solidarity”), announced its first batch of investments in five innovative FinTech companies spanning across AI,"
+    publishedDateTime: 2021-02-10T08:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-investment-management-financial-services-4905ecea13c378fd2e6f897465b0280f"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 14
+    quality: 3
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

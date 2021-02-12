@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Canon's New iOS App Uses AI To Marie Kondo Your Digital Photo Hoarding"
+    excerpt: "Even without the limits of a 36-shot roll of film or memory cards that quickly max out, it doesn’t take long to fill an iPhone and cloud storage with photos. So Canon has released an iOS app that can make the hard decisions for you when it’s time to clear out some memories using AI to objectively decide which shots aren’t worth keeping."
+    publishedDateTime: 2021-02-12T14:42:00Z
+    webUrl: "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384"
+    ampWebUrl: "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dtklqj3drv6rsxuv4jhs.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Canon's photo culling app uses AI to help you pick your best shots"
     excerpt: "Canon has introduced an app that uses a computer vision algorithm to assist you with choosing the best image in a series of either unrelated or similar photos."
     publishedDateTime: 2021-02-11T21:37:00Z
@@ -41,20 +57,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2F7cfa7470-6cae-11eb-b53d-dea2dbd7fe69&client=amp-blogside-v2&signature=715022ff0bcb607e63238a1e081be351e38a930d"
         width: 600
         height: 350
-        isCached: true
-  - title: "AI can use the veins on your hand like fingerprints to identify you"
-    excerpt: "Veins in the back of your hand are as unique as fingerprints and can be used to identify you without specialist hardware"
-    publishedDateTime: 2021-02-12T07:06:00Z
-    webUrl: "https://www.newscientist.com/article/2267502-ai-can-use-the-veins-on-your-hand-like-fingerprints-to-identify-you/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/02/11153025/12-feb_hand-veins.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Canon’s New App Culls Photos with Artificial Intelligence"
     excerpt: "Canon has announced the Photo Culling app, the company’s new software for iOS that is built on a newly-announced proprietary artificial intelligence. Canon advertises its new app as a “digital photo assistant” to help select your best images based on four key parameters."

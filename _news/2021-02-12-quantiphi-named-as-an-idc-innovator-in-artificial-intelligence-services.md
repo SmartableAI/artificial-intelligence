@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-12T11:55:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-named-as-an-idc-innovator-in-artificial-intelligence-services/article_c228db75-a2a3-553e-93fb-fc8273fcec96.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-named-as-an-idc-innovator-in-artificial-intelligence-services/article_c228db75-a2a3-553e-93fb-fc8273fcec96.html"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: wfmz.com
 
 topics:
-  - AWS AI
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9yCWgN8J16tuSAYbl6YzsXLjdrbf5TAM0174B67GbwNGKpdoANQJJ6zrX33+V3o+tF3DJ8sK1qOOxhOtNWzHmA3qgWWCfJCkq+3dsgaCLjvGAsbuUkYLJZ+4aFIaWqiavdor9v3lImjD0Desb6oybbX/s//HkJdx2zu9Aj9VzzD5a2H/FeSkPF3BrZVmVg7fPYy2rCkcoNGVT3vlSfwegVOeUMZ/WKsWh95Yj2kOkSkhkuQrqcRx1ciI7bYmGMQgEmt5x6Gkc5WIJJRR3W1mZfvBbnvK/W4JQQ5fwa0LO60gjgoYAwbfT1hUzsHPqq1arb+m3R7zE4tPMCwQahs/o43I5xCFnkNeWprT5UsQgrI=;wBr36mIoJpgoKB+kTujIKw=="
+secured: "cmQzrIwZN9hMtXfOaNufyrcAxC9NcJsWrNmRXfNfsJHAcxzbnkA9j2Xtv6teW9eNDcvjBNJYjVYhK6Z0yrubSAPy917iDZNquqid74hzPvtjy42kN7x36n5fJBA0ls69dVkvt+pi5R1Nkkp47g+5bkUGUc7wWvnF6WC910OO+iCoOnlTz1YpIEmGN01mx1MTxm7ABXmH48/27fNIMMeg0PvgqWnRnzdxy4uRm8dTBlI3h993kJRTImzCvOzubFQxIYgnOeikVYrQk53um3m3iKW7iLys9d3Z0xohFY8Zr8y8LV811f9XNdx0XpRzXDSO/YQBlblF6xXeoXgOwlo8zge7a4uQuuZJsYQd99RZ0x4=;Q4PHbq42kglk+/OoPHNafg=="
 ---
 

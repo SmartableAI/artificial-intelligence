@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-11-4-recent-studies-exploring-ai-in-healthcare.md",
+      "title": "4 recent studies exploring AI in healthcare",
+      "excerpt": "In the past decade, medical researchers have become increasingly interested in artificial intelligence's potential to improve healthcare by reducing workflow inefficiencies, predicting health outcomes and speeding up diagnoses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html",
+      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-four-predictions-for-artificial-intelligence-and-machine-learning-in-2021.md",
       "title": "Four Predictions For Artificial Intelligence And Machine Learning In 2021",
       "excerpt": "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing.",
@@ -476,59 +519,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-klas-recognizes-microsofts-momentum-in-healthcare-ai.md",
-      "title": "KLAS recognizes Microsoft's momentum in healthcare AI",
-      "excerpt": "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
-      "originalUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 451,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg",
-          "width": 1024,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T00:00:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AI in Healthcare"
       ]

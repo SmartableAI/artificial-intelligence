@@ -53,6 +53,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "Lufax: Best Chinese Fintech Stock To Buy"
+    excerpt: "Lufax is a leading online Internet finance marketplace in China offering retail credit and wealth management services to Chinese borrowers and investors."
+    publishedDateTime: 2021-02-08T17:31:00Z
+    webUrl: "https://seekingalpha.com/article/4404316-lufax-best-chinese-fintech-stock-to-buy"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/2/4/49636850-16124388856199486.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "yWDtSejpDOXeyyKlg4LQ1UwdjBP8MCVVojd9WTDS5bDajKDt5A5iO6M87q0oxAKcCGZUipDd4LdC7B3x3kQf+Vg8sw2ioXHNVwZVIgV5AWbB13/NxRq8FBX+vYBZM7WhCYd2bndAZDCHg2qEAcsFNTtAb7B7/p6wuegFx049tP7Hl+4LyTFHCpGxkFNaIaAgK3kb0fa5/dfhKZvDVeAL7c6cd42qFqffYHr20dl4ogFh0kZwcB+XePPEQvvDcLIgM8y2NdVfSXkhQi481tyWDcHDVjzal+sL9Qnef37uDvTiuAqOwxyjQr+1ZX0KpJq+BRmk/k5yduapt5JGGh8o2hwgbNYQTAPj3BwAh3RmkAeaBX5PEJVA6nsK1WuKTZo8NVjUy5QTAEFnH3BUm6Ia2N3+EgbRvMsqnS8YaUx0sShuGdQouXT6/yhpSJFgDwUrq87QgwiNFldcxm2nEmXu7ucuE0/Itx5LYiG9hiTp3EAnMoGJsaai+UA94FXPQRolvrB/RnpE/8d2wotXaFHSrw==;cbZs/5F989sH/iU+UwngXQ=="
 ---

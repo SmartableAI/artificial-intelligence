@@ -2,17 +2,17 @@
 category: news
 title: "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace"
 excerpt: "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace."
-publishedDateTime: 2021-02-08T09:20:00Z
-originalUrl: "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace"
-webUrl: "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace"
+publishedDateTime: 2021-02-08T15:02:00Z
+originalUrl: "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace"
+webUrl: "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace"
 type: article
 quality: 52
 heat: 52
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - Microsoft AI
@@ -24,6 +24,6 @@ images:
     height: 505
     isCached: true
 
-secured: "KvsH7qvV7sF9MBqx5Xz7I6NDEfNOyeXWrv1Od6NGjfOYyKCRdNxJEWFdRp4XsSSdHuUBmLaYSO0bu4+1ey4/Ru9kvruDA4QFxpJS7LriughKdqeOWH6NCWnCer4OXf49hvO4Xf/7vmPnnLRsf3NyNTpi8cd1avni+mLLdW74ypOw8GX1Vltol/y2/fGNsJo0nr8HNAjavGDSi5S53i/G/6vasgm1/CybFDJ3/psh87fNzutcTxTqPYP9nhZ1aPJir4ib/cR2y8mYeTena2eZ3Xjy5cnN+DTgSSADa7Ss/oDlI24t/jB3w5dM3pmYvOfbn9QnlDxIcxZv3FYL4Ufou1kWklgvmZpq4Nu1dpNumy7FWObUk3UF2CYWkP1ovI3h9MsCglWRXArw2sD9f1rdPl4G9cOpjkdDVyTTX2chs2fgiO2tb2D66Ce7PFgVUJz4WDObeVKSN1rPanb/dfw4XtFsEqKgfrn9p5dlKzLfkl/4CNXEv/x5g/hK0geEDel4ikjp8Hpp2ZUtoMWR9gjGIA==;XuvgNWkpwaygz2k4hSX/aQ=="
+secured: "vgOWv5Wwz1jwmB+57IPr9JUiglH1/vE3ps7vx+T/stT1lsbVKMNw00AoITjWt/SOCl6lbc4Zq3L1KJfG4fQ0nk+l+M3uF6UuZs/rhzbFYCYRBgaCGcoIzJvqtiZW8e/pBMwiwoVphnL7WOHx1tc3vP0xsOdj3aNuo9ra+b9LM/HnHRo+lcUM3IFQgbstsUiHCeP3MY6gNGY4CQ2kDrfHx+JZkRl4amlg+tCEKqgsIVL/oBwuWurr3qkZ7aVb5yOsEGUYX2B2PTyza7woLxMzJm+PwVZcSOaqnu0k99vQyNhGfch6yYcS7oE6XIOXGYOaje9vzcVX0dXfGvH6Tuw0bOEG+uWAs4pG/rjzhooDXqo=;Txa0/9mahrp5BEVXceJe9Q=="
 ---
 

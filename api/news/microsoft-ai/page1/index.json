@@ -2,92 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-12-hpe-plans-second-spaceborne-computer-will-be-linked-to-microsoft-azure.md",
-      "title": "HPE plans second Spaceborne computer, will be linked to Microsoft Azure",
-      "excerpt": "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions.md",
-      "title": "Microsoft Teams with Volkswagen for Azure Cloud Automated Driving Solutions",
-      "excerpt": "Volkswagen will tap into Microsoft Azure tools and data to create new and efficient automated driving solutions for developers.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2019/09/microsoft-connected-vehicle-platform.jpg",
-          "width": 1279,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp",
-      "publishedDateTime": "2021-02-11T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-ta-digital-launches-searchboostai-to-drive-relevancy-and-personalization-through-cognitive-search.md",
       "title": "TA Digital Launches SearchBoost.ai to Drive Relevancy and Personalization Through Cognitive Search",
       "excerpt": "TA Digital announced today its foray into the cognitive search space with its maiden intelligent search solution, SearchBoost.ai. This is the first SaaS product offering by the company. Website and ecommerce search tools that exist today tend to solve for relevancy by optimizing indexing or results ranking.",
@@ -128,6 +42,49 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-vw-microsoft-extend-collaboration-to-self-driving-car-software.md",
+      "title": "VW, Microsoft Extend Collaboration to Self-Driving Car Software",
+      "excerpt": "Volkswagen AG and Microsoft Corp. are expanding their cooperation involving the U.S. software giant’s cloud technology to include speeding up development of automated driving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-11/vw-microsoft-extend-collaboration-to-self-driving-car-software",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/vw-microsoft-extend-collaboration-to-self-driving-car-software/ar-BB1dAjtC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 479,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOSKTOipq79Q/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bloomberg.com/news/articles/2021-02-11/vw-microsoft-extend-collaboration-to-self-driving-car-software",
+        "domain": "bloomberg.com/news/articles/2021-02-11/vw-microsoft-extend-collaboration-to-self-driving-car-software",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -183,6 +140,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-us-fintech-cleareyeai-joins-forces-with-microsoft-for-ai-platform.md",
+      "title": "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform",
+      "excerpt": "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg",
+          "width": 600,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/",
+      "publishedDateTime": "2021-02-09T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-c3ai-exec-says-lack-of-automation-is-holding-back-ai-progress.md",
       "title": "C3.ai exec says lack of automation is holding back AI progress",
       "excerpt": "Edward Abbo, president and CTO of C3.ai, said AI progress is being held up by too much reliance on manual processes.",
@@ -235,21 +236,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-08-klas-recognizes-microsofts-momentum-in-healthcare-ai.md",
-      "title": "KLAS recognizes Microsoft's momentum in healthcare AI",
-      "excerpt": "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create",
+      "path": "_news/2021-02-09-microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages.md",
+      "title": "Microsoft details Speller100, an AI system that checks spelling in over 100 languages",
+      "excerpt": "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
-      "originalUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
+      "webUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/",
+      "originalUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 451,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg",
-          "width": 1024,
-          "height": 524,
+          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -257,16 +258,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T00:00:05-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/",
+      "publishedDateTime": "2021-02-08T09:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -282,9 +283,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI",
-        "AI in Healthcare"
+        "Microsoft AI"
       ]
     },
     {
@@ -345,8 +345,8 @@
       "title": "Etihad Airways transforms operations with Microsoft AI capabilities",
       "excerpt": "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/",
-      "originalUrl": "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -363,8 +363,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_199629494/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_199629494/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_199629494/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/",
       "publishedDateTime": "2021-02-04T21:44:00-08:00",
       "updatedDateTime": null,
       "provider": {

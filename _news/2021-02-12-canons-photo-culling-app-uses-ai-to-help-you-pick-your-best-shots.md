@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/canon-photo-culling-app-213409056.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/canon-photo-culling-app-213409056.html"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Canon's New iOS App Uses AI To Marie Kondo Your Digital Photo Hoarding"
+    excerpt: "Even without the limits of a 36-shot roll of film or memory cards that quickly max out, it doesn’t take long to fill an iPhone and cloud storage with photos. So Canon has released an iOS app that can make the hard decisions for you when it’s time to clear out some memories using AI to objectively decide which shots aren’t worth keeping."
+    publishedDateTime: 2021-02-12T14:42:00Z
+    webUrl: "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384"
+    ampWebUrl: "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dtklqj3drv6rsxuv4jhs.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Canon Photo Culling is a new iOS app that uses artificial intelligence to evaluate your photos"
     excerpt: "Canon has announced a new computer-vision artificial intelligence system, and it underpins a brand-new iOS app, Photo Culling. Canon's new app helps you organize the photos on your smartphone by grading them and recommending images for deletion."
     publishedDateTime: 2021-02-11T21:59:00Z
@@ -45,20 +61,6 @@ related:
       - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/0301330122/canon-photo-culling-app-banner-2.jpeg"
         width: 590
         height: 322
-        isCached: true
-  - title: "AI can use the veins on your hand like fingerprints to identify you"
-    excerpt: "Veins in the back of your hand are as unique as fingerprints and can be used to identify you without specialist hardware"
-    publishedDateTime: 2021-02-12T07:06:00Z
-    webUrl: "https://www.newscientist.com/article/2267502-ai-can-use-the-veins-on-your-hand-like-fingerprints-to-identify-you/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/02/11153025/12-feb_hand-veins.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Canon’s New App Culls Photos with Artificial Intelligence"
     excerpt: "Canon has announced the Photo Culling app, the company’s new software for iOS that is built on a newly-announced proprietary artificial intelligence. Canon advertises its new app as a “digital photo assistant” to help select your best images based on four key parameters."

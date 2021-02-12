@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-trucking-startup-taps-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "Lufax: Best Chinese Fintech Stock To Buy"
+    excerpt: "Lufax is a leading online Internet finance marketplace in China offering retail credit and wealth management services to Chinese borrowers and investors."
+    publishedDateTime: 2021-02-08T17:31:00Z
+    webUrl: "https://seekingalpha.com/article/4404316-lufax-best-chinese-fintech-stock-to-buy"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/2/4/49636850-16124388856199486.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "cT4sqNcyfpDrL25y8mDXovChhyE9DZnfANqs2uPGwUSB1O9eoOXomlzuugAG1cwHmABsjJwP5SP8qMNyr+y6yA5qyoR4Tmh0LMbdq4IHSqXaKRgSY46MUxqfgpHa3Wzd1n+6LyCTV9PCgJ17U8oIh7yiOpr0SMTeHJbv+wL1dzJ7LQbbSUnM90z5bNZFcND+VvOiBFpYTW0pnqpVbD13vHB750EXDHkosw/97PnzLIhSxehYN3FzJ8O+MarCUH1UoeGOskFqCfj4Tp5HvWTgLa5f4HuPfrPr8/gOxFUPysqRY1ZGrzHMTckz1mAbtz/uu/qB+9vtNLP9HOw9gUqa+tWy5h0TyPcsQb7zP/XmvmmV0bo5FRocsUjPg7uU3Ot9ckb6s0OjLRekIMSk/1cqfedk7VIcO3ISBPXSYHwgctKCdaXYLJFPo40PtmAdvqFmGBVCqOL42m8ykmo/6u0xmi4Ja/jBR1De2uvWpQj/OkrV2+sbsRcCo7rDotxLgv0ARAJrD7HSqcXvYSRg7dnlzQ==;L/xJaHaVm0t90PCZqtzdCw=="
 ---

@@ -131,6 +131,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Jeff Bezos-backed Aurora has struck deals with Uber and Toyota that could make it a self-driving powerhouse"
+    excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
+    publishedDateTime: 2021-02-12T14:50:00Z
+    webUrl: "https://www.businessinsider.com/aurora-toyota-waymo-cruise-uber-paccar-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Toyota and Aurora partner on self-driving cars"
     excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
     publishedDateTime: 2021-02-11T19:00:00Z
