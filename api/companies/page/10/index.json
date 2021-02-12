@@ -4,55 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_companies/vicarious.md",
-      "title": "Vicarious",
-      "excerpt": "Vicarious is developing artificial general intelligence for robots. By combining insights from generative probabilistic models and systems neuroscience, our architecture trains faster, adapts more readily, and generalizes more broadly than AI approaches commonly used today.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vicarious/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/vicarious/",
-      "type": "profile",
-      "name": "Vicarious",
-      "overview": "Vicarious is developing artificial general intelligence for robots. By combining insights from generative probabilistic models and systems neuroscience, our architecture trains faster, adapts more readily, and generalizes more broadly than AI approaches commonly used today.",
-      "website": "https://www.vicarious.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/vicarious-fpc-inc/",
-        "followers": 4815
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vicarious-systems-inc"
-      },
-      "twitter": {
-        "username": "vicariousinc",
-        "url": "https://twitter.com/vicariousinc",
-        "followers": 46
-      },
-      "size": "51-200 employees",
-      "yearFounded": 0,
-      "locations": [
-        "Union City, CA",
-        "Union City, California"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=m6XVt9H2cDE"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1001574414494912514/qQUOEF9F_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Vicarious",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/visionlabs.ai.md",
       "title": "VisionLabs",
       "excerpt": "VisionLabs is one of the leading face recognition and analysis solutions vendors. VisionLabs products are based on state-of-the-art algorithms and technologies, developed by the company.",
@@ -530,7 +481,7 @@
       "twitter": {
         "username": "Aera_Technology",
         "url": "https://twitter.com/Aera_Technology",
-        "followers": 2422
+        "followers": 2423
       },
       "size": "201-500 employees",
       "yearFounded": 2017,
@@ -1134,7 +1085,7 @@
       "twitter": {
         "username": "Lumiata",
         "url": "https://twitter.com/Lumiata",
-        "followers": 1079
+        "followers": 1078
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -1460,7 +1411,7 @@
       "twitter": {
         "username": "trinthq",
         "url": "https://twitter.com/trinthq",
-        "followers": 1869
+        "followers": 1868
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1546,6 +1497,44 @@
           "width": 400,
           "height": 400,
           "title": "Trueface.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tubularlabs.md",
+      "title": "Tubular Labs",
+      "excerpt": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tubularlabs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tubularlabs/",
+      "type": "profile",
+      "name": "Tubular Labs",
+      "overview": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tubular-labs"
+      },
+      "twitter": {
+        "username": "TubularLabs",
+        "url": "https://twitter.com/TubularLabs",
+        "followers": 3875
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tubular Labs",
           "isCached": true
         }
       ],

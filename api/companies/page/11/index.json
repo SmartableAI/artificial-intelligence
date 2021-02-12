@@ -4,6 +4,44 @@
   "page": 11,
   "value": [
     {
+      "path": "_companies/vectra.ai.md",
+      "title": "Vectra",
+      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
+      "type": "profile",
+      "name": "Vectra",
+      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "website": "https://vectra.ai",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/vectra-networks"
+      },
+      "twitter": {
+        "username": "Vectra_AI",
+        "url": "https://twitter.com/Vectra_AI",
+        "followers": 2521
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Vectra",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/wasterobotic.md",
       "title": "Waste Robotics",
       "excerpt": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
@@ -74,7 +112,7 @@
       "twitter": {
         "username": "zendrive",
         "url": "https://twitter.com/zendrive",
-        "followers": 2107
+        "followers": 2106
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -109,76 +147,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/metabiota.md",
-      "title": "Metabiota",
-      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/metabiota/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/metabiota/",
+      "path": "_companies/aviso.md",
+      "title": "Aviso",
+      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
       "type": "profile",
-      "name": "Metabiota",
-      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "website": "https://www.metabiota.com/",
+      "name": "Aviso",
+      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "website": "https://www.aviso.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/metabiota"
+        "url": "https://www.crunchbase.com/organization/aviso-inc"
       },
       "twitter": {
-        "username": "metabiota",
-        "url": "https://twitter.com/metabiota",
-        "followers": 1346
+        "username": "AvisoInc",
+        "url": "https://twitter.com/AvisoInc",
+        "followers": 865
       },
       "yearFounded": 0,
       "locations": [
-        "San Francisco, CA"
+        "Redwood City, CA"
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Sales"
       ],
-      "heat": 41,
+      "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1233442221384355840/VenlZMBb_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Metabiota",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/squirrelai.md",
-      "title": "Squirrel AI Learning",
-      "excerpt": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/squirrelai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/squirrelai/",
-      "type": "profile",
-      "name": "Squirrel AI Learning",
-      "overview": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
-      "website": "https://www.squirrelai.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/yixue-squirrel-ai"
-      },
-      "twitter": {
-        "username": "SquirrelAI_Edu",
-        "url": "https://twitter.com/SquirrelAI_Edu",
-        "followers": 467
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Shanghai"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Squirrel AI Learning",
+          "title": "Aviso",
           "isCached": true
         }
       ],
@@ -204,7 +204,7 @@
       "twitter": {
         "username": "casetext",
         "url": "https://twitter.com/casetext",
-        "followers": 5623
+        "followers": 5622
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -257,7 +257,7 @@
       "twitter": {
         "username": "driveai_",
         "url": "https://twitter.com/driveai_",
-        "followers": 9077
+        "followers": 9078
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -742,7 +742,7 @@
       "twitter": {
         "username": "textio",
         "url": "https://twitter.com/textio",
-        "followers": 7705
+        "followers": 7706
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -896,7 +896,7 @@
       "twitter": {
         "username": "enlitic",
         "url": "https://twitter.com/enlitic",
-        "followers": 4754
+        "followers": 4755
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1058,7 +1058,7 @@
       "twitter": {
         "username": "uptake",
         "url": "https://twitter.com/uptake",
-        "followers": 5265
+        "followers": 5264
       },
       "yearFounded": 0,
       "locations": [
@@ -1167,7 +1167,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 49761
+        "followers": 49756
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
