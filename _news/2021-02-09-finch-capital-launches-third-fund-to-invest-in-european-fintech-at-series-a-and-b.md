@@ -135,6 +135,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Fintech, AI & ML: What you need to know in 2021"
+    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
+    publishedDateTime: 2021-02-11T22:54:00Z
+    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-amp-ml-what-you-need-to-know-in-2021"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
   - title: "Finch Capital raises €150m for fintech fund targeting later stage start-ups"
     excerpt: "Finch Capital, a UK and Netherlands based VC firm, is looking to deploy €150m into 15-20 fintech companies in Europe. The new portfolio is Finch’s third fund since launching in 2013. Its current portfolio includes the likes of Trussle,"
     publishedDateTime: 2021-02-10T05:31:00Z
@@ -149,15 +158,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Fintech, AI & ML: What you need to know in 2021"
-    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
-    publishedDateTime: 2021-02-11T22:54:00Z
-    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-amp-ml-what-you-need-to-know-in-2021"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
   - title: "Finch Capital closes €150m fintech fund"
     excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
     publishedDateTime: 2021-02-09T11:07:00Z

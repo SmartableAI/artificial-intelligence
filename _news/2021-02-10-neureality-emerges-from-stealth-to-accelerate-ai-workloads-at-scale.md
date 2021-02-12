@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Neureality-founders.-From-left-to-right-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli.-Credit-Neureality.jpg"
         width: 3247
         height: 2124
+        isCached: true
+  - title: "NeuReality Emerges from Stealth with $8M Seed for AI Compute Infrastructure"
+    excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges"
+    publishedDateTime: 2021-02-12T02:23:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/neureality-emerges-from-stealth-with-8m-seed-for-ai-compute-infrastructure/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Neureality-founders-from-l-to-r-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli_Credit-Neureality.jpg"
+        width: 900
+        height: 589
         isCached: true
   - title: "NeuReality Out of Stealth with $8M Seed for AI Compute Infrastructure"
     excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges from stealth today with $8M seed from Cardumen Capital, OurCrowd and Varana Capital to fuel the growth of real-life AI applications running at scale."

@@ -3,8 +3,8 @@ category: news
 title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
 excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
 publishedDateTime: 2021-02-11T12:08:00Z
-originalUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai"
-webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai"
+originalUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673282"
+webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673282"
 type: article
 quality: 64
 heat: -1
@@ -47,7 +47,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 114
+    quality: 116
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/a2618a6b-a205-4004-ab8d-b706d8ab359d/resize/1200x/0b71a3953d86fcf6ce37b4af796e8aed/forrester-ai-chart.jpg"
         width: 1200
@@ -463,6 +463,6 @@ related:
       domain: businesswire.com
     quality: 20
 
-secured: "IrXmEoCjR45nv8AC45zjWyoZPo5bH1CpLp99v08BGbUzLSpYRiNrp1Ts1RTYBWHwM7Mn/j0lWoTD/zklbjqfm0cSySCvxRNQgAeEhH9g2FaHYIhqYLcecVDwTV2KQ7HG6umSAE21OK4nyrXpSz+U7ESRIwnCb/MLRl05xxJaVJd9WnkvnVXkt2cWPMxJfd6WoHO3bBiT9JcR+3ZkksM+tdyidcE0pg4gTmGPUmfL0UKGHWHViU93fc3iA4dYTh89+wmVN+AbQ2uIwMDEEGprLxQJFrUPhvsVJqYKd4mkSDKvFu3EsnDBf3G6w1tvleyvFujAZad6pml41v0q35cIofvy4GIVX13r2UdBA165zIwsQVjaaiC3uwt2UZxUBm4XIxct/PJgxwd2/1+iGKOgP80U7we+dSRne0juMpcn+JnXpD5hreAikijH4TcGML6qx4eYrkPkmM8uZUz1aiFnN34TNVHkODYJi94LAYx8lvVwuUjPB+TyQbNsFt65BaXJvmGR1FLo/FSVDPF4lP8c3g==;8MJVTgPZW/YjzHhefDNQfQ=="
+secured: "U6jeM6lAFjgV1wLl/0UF5+yPL00OLihQHlCdzRw6JdwKbW9CFlpyOFqMLHW2WW0/OnOGewj5Z9RDv4ptMOiRKEbPr+FrDs9j0FX3BlMD5bU8yROx28mWRWGyDIKRTi5n5e17/dwMyvw+tTLSlf+h4d7h45pwZJPe+lOnQ4jbDlcnSCzzyWdC0D6s4Ug2lueVWH/U5HGTFaVrjN1vwT+Pq1AigL1k83mUec9LeIMgROFskRLI5+5jO49ZjNbkm5bSUPiUhjg0DmOGhZUMbGs4lM1LncekBXdEKXe+sJD6q5YlUt41oD/NbGb2Tjt2AXtGvZRo7wOsJGoAFAWq99nCyDPnkWLEoGlZo/Nkufw8jZQkcqO15YqBKpxqNUzteOwqVG9r28E4HA7fh1AWw0zaJses8XcpTjDz8F8zZ/Galog9+e4DL85rRfcDFc0twJ0+c95QlAPpcOr/sbRnqZSQMnqkxZfNY2R0mDNaOHWAY1FIVC6BvushIPnhRkgPkH7B3RKk6+MFerEIofMOZlulDQ==;kEsklfxfGqsqjr1ZftRzRQ=="
 ---
 

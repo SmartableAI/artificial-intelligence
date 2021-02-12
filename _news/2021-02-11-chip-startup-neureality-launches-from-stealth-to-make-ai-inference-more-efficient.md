@@ -111,6 +111,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "NeuReality Emerges from Stealth with $8M Seed for AI Compute Infrastructure"
+    excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges"
+    publishedDateTime: 2021-02-12T02:23:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/neureality-emerges-from-stealth-with-8m-seed-for-ai-compute-infrastructure/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Neureality-founders-from-l-to-r-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli_Credit-Neureality.jpg"
+        width: 900
+        height: 589
+        isCached: true
   - title: "NeuReality Out of Stealth with $8M Seed for AI Compute Infrastructure"
     excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges from stealth today with $8M seed from Cardumen Capital, OurCrowd and Varana Capital to fuel the growth of real-life AI applications running at scale."
     publishedDateTime: 2021-02-10T17:18:00Z

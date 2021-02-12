@@ -107,6 +107,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Self-driving cars are among us but drivers beware"
+    excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
+    publishedDateTime: 2021-02-12T01:37:00Z
+    webUrl: "https://theweeklydriver.com/2021/02/self-driving-cars-are-among-us-but-drivers-beware/"
+    type: article
+    provider:
+      name: The Weekly Driver
+      domain: theweeklydriver.com
+    quality: 24
+    images:
+      - url: "https://theweeklydriver.com/wp-content/uploads/2021/02/800px-Tesla_Model_S_digital_panels.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Docomo Pacific tests driverless concept cart powered by 5G network"
     excerpt: "NTT Docomo's Guam subsidiary Docomo Pacific said it tested the new driverless concept cart SC-1, manufactured by Sony and powered by Docomo Pacific 5G. The SC-1 leverages 5G mobile technologies for various remotely controlled functions."
     publishedDateTime: 2021-02-08T09:55:00Z

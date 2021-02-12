@@ -3,8 +3,8 @@ category: news
 title: "IBM partners with Palantir on low-code AI applications"
 excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
 publishedDateTime: 2021-02-09T01:02:00Z
-originalUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
-webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
+originalUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
 type: article
 quality: 39
 heat: -1
@@ -269,6 +269,6 @@ related:
         height: 1179
         isCached: true
 
-secured: "Z2TOTI3iB+ZA6DJhGVvQTBTm+FVvGMVvpDVFDUX+Qn69rEpZ6VmdKXMnbiyiyhQHwYD4K9IGDW6T0JXVnyxykqLOtWtMajzJWVsYbt9rLaW8KCBi6gA7/jmoHSuG3hS9metQ+FA/j+ADdT9/6VzgcfjoohYXscZig/v2eokRFY48jUgKFaQfAeh5S5sl+/aNOGaar7JRrv3t5YokDfsREoY2MSOdLcx+DP7tlNa4xBIkma/qgF0LZVVULyWV6DNjGqvU0/kKayl0EZtLIB44XtAOAQ0JYirogLM2Y4PjSOpRTQeHQNDrWNPZQuOzkZ87XFrfQlKD0yHFPFAzlfnA9xvU6pzU0jxh01dOvN0ul9Y=;bSnH0B6ZPLhcNjcJYSb0wA=="
+secured: "jzTOqC+4CW8alRp2PvgX1XAPErpxR21khKFLbFodZBwYYlCDzUceO0Cc8YiHOBdLVyKzos0CcRU5QcSiuhabd4Q16TOqN4XBaAwOUx45p0tZAndUmKijCux+Hn7nL4q3hWtRCgXy/Is9a9J5eKu6Ph2Y4t0696SjG+l9ZyL1uv1BL9CJ7AnOoqvbKJLx5LK8Sc22A8sVlU0AurNNXz6Iz4SFNg6aBu3BlmpH1Cx2jOshd0MtXbNVLJocz3soASJTcG4nKIkmnvG7puLtiin0TLPJvb2J8DSWOlPPAk8WbkobtYiUtgd5xpK0tbWn5t4P7uOzJ4DYWu2F+qnfUPwh54+nFsFwvc/tbAjmiFQqIOo=;X9OehLfruNvBZaAc5kzMSQ=="
 ---
 

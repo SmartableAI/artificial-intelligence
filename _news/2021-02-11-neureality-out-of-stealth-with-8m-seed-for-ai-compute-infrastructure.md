@@ -119,6 +119,20 @@ related:
         width: 3247
         height: 2124
         isCached: true
+  - title: "NeuReality Emerges from Stealth with $8M Seed for AI Compute Infrastructure"
+    excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges"
+    publishedDateTime: 2021-02-12T02:23:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/neureality-emerges-from-stealth-with-8m-seed-for-ai-compute-infrastructure/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Neureality-founders-from-l-to-r-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli_Credit-Neureality.jpg"
+        width: 900
+        height: 589
+        isCached: true
   - title: "Israeli Startup NeuReality Raises $8M For AI-As-A-Service Infrastructure"
     excerpt: "Israeli startup NeuReality, the developer of high-performance AI compute for cloud data centers and edge nodes, emerged from stealth mode on Wednesday, announcing a $8 million seed round. Investors include Cardumen Capital,"
     publishedDateTime: 2021-02-10T13:36:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-11T22:54:00Z
 originalUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-amp-ml-what-you-need-to-know-in-2021"
 webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-amp-ml-what-you-need-to-know-in-2021"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - Machine Learning
+  - AI in Finance
 
 related:
   - title: "Key Takeaways For the Fintech Sector"

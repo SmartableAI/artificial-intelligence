@@ -8,7 +8,7 @@ webUrl: "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-t
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
 type: article
-quality: 114
+quality: 116
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/a2618a6b-a205-4004-ab8d-b706d8ab359d/resize/1200x/0b71a3953d86fcf6ce37b4af796e8aed/forrester-ai-chart.jpg"
@@ -265,7 +266,7 @@ related:
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
     publishedDateTime: 2021-02-11T12:08:00Z
-    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai"
+    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673282"
     type: article
     provider:
       name: Techinasia
@@ -465,6 +466,6 @@ related:
       domain: businesswire.com
     quality: 20
 
-secured: "29gMY590J9PDtnlRUqy2bNdVU/7OvIvH/5I5P0xWRWCKKKLsPSaoYmLjJntqmgsYsiN8k8XAErQsqSNKBcK8+E2gvuwAw5j7PKfGIK+P4YXz7LmU129D0Vl5tZW3JDmpsiuj1ESJ3ND69SDrB1qjnv8jSjorahFE82DcqIZ6MQf4JyT6ohdSawwIX28supYNtfdN7+gyyVboaGfh0NORnYk+q03cKEXqOl1so8wYXfAuVQ3MECGRognw/8xQGiw7Mp2ch4db1e4PdGAxZs8JDZO0K+GJpVUASl9hM68EU7L/wSRS/h3nxZkx6EueV/M0aETnr/cp4dc2+oNMDN6VvRTxv2teWw7cEVy86p0Tpj4=;tGniOwh96Q/MxOx/+3fxtw=="
+secured: "wkyPW7WXbXMj/Tg7ewD8cWp0+ykykTIOX+Z64uxieAsWxr8aWxOfpMpUDecX23Cbm3qys+xVIe+wXVRXLCs4/4OxNnYUbhzqUQUtw9EdJ/sXq28/ZjnkcLTzfcJxtUl6VN+zoc9/PB54uGz50zECUIlpYxTWgeH/Pzjxa2AYIFRm+REC65/Zi8jiij4rjBLpN9JaZh7LBkOAqBMMJ5HC4/is0eRP0I/R2yThooPvV9Nc9MF7FWT9ySLT1ExUAxRxCSO5A9/V2HRF7sZBx3pH6vhF59jUaboiYD6UsUkBb/BIxUWj/6D7llwGVbwj47z8k8i72jlA8R7UniTHAVDixuDCzyj22vPmbUnOKIHClouReVjvorxQFbcj/TEVz5sT8P2/krGLaIDLjBgz/DWYesSHmLdEIe81zdr6J/76XxpV4NF7/A4dTotn8WpdhWKX2JtVqN9lBCkcBdBuAedvlDNgTtiB52TFAlm0wwYqOZY308cfFC21xJYlVr6Q5EIXd+wspn3zCcOV6Y9gf4tCXg==;Zi/DvXnI6coRFlc52OofQg=="
 ---
 

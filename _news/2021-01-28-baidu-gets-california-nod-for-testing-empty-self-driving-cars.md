@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Baidu gets California nod for testing empty self-driving cars"
-excerpt: "Click here to subscribe for free.) Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor ..."
-publishedDateTime: 2021-01-28T11:12:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/"
+title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
+excerpt: "Baidu Gets California Nod for Testing Empty Self-Driving Cars OAKLAND, Calif (Reuters) - Baidu Inc has received a permit from the state of California to test self ..."
+publishedDateTime: 2021-01-27T20:38:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
 type: article
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.thehindu.com/sci-tech/technology/6dgq1r/article33526855.ece/ALTERNATES/LANDSCAPE_615/baidu-reutersjpg"
-    width: 615
-    height: 384
-    isCached: true
-
-secured: "1VL8dY+uchGC4br3ybD3lMcoIR8ULarO8Z2fDM+OHsTazC+sQ60Xh5POvJUebHAkfFcbjk8iJDwM0/0QLL5fDgMbs52ykDpDkKaAsS6HFMgAeYhahY7kUbbtTj/iHxeVZL8xuVa2OtfbaGY1d1STlGqK8YTsa5ddhylns6EJCQhKvq+iQawgbJDEbGEiDlC4+/Iisfoysz6tsTGPQypwtjGN3DW58vBbebJQuWOnM/1LPgoXjfjU6PibKGA8S3HiZhivZl93UREM4Twgh+BHdg0iNXoBXMG+vZXuNnetD6YQn6NW0KByH06DoJ0Nu0uuTGOOx6m2MDTwVr2iaFGuS+lCJRPhAoLQpC7ayJ1CxUo=;GGSTRBFpJkHpEWTpKhT+kw=="
+secured: "kj0ZBZ29n2h+8il+c3NHor4OKGmeKsXtPnGqlneXrtJBnRNeHQD/eVAmN6aLeWSp29b+Fhq3066nVg/OaQq/vG0n6qaRQGX1qT2Dd2AKC18V54jS+JwV9+5TB160DL3AcLsICiXPJZ2sbPD6yAl/V+xb7EhGUIN8aY4AmDVOEn+eCvnc5ZVu+8/0X2seIXwVPN3CVQ2Z6osVIJEHGZM13ofVTFFM5zeIKoOrWrDFwRiOusZg3YyjENUdqiguc9YMWQFCjy2end3WJ8gOo3W5A1Oy/FUtm7YxJIYtUUDvhsFAW0uPZTFihFOBZ2NecQN9pq40leJwN82Levg2IFQUUJq4ijT1fg8sjzowEQoIYgE=;aSjqC9ipg0JPylLg76cBRA=="
 ---
 
