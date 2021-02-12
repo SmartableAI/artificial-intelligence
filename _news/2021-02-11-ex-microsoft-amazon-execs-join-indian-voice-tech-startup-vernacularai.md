@@ -3,8 +3,8 @@ category: news
 title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
 excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
 publishedDateTime: 2021-02-11T12:08:00Z
-originalUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673282"
-webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673282"
+originalUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673553"
+webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673553"
 type: article
 quality: 64
 heat: -1
@@ -463,6 +463,6 @@ related:
       domain: businesswire.com
     quality: 20
 
-secured: "U6jeM6lAFjgV1wLl/0UF5+yPL00OLihQHlCdzRw6JdwKbW9CFlpyOFqMLHW2WW0/OnOGewj5Z9RDv4ptMOiRKEbPr+FrDs9j0FX3BlMD5bU8yROx28mWRWGyDIKRTi5n5e17/dwMyvw+tTLSlf+h4d7h45pwZJPe+lOnQ4jbDlcnSCzzyWdC0D6s4Ug2lueVWH/U5HGTFaVrjN1vwT+Pq1AigL1k83mUec9LeIMgROFskRLI5+5jO49ZjNbkm5bSUPiUhjg0DmOGhZUMbGs4lM1LncekBXdEKXe+sJD6q5YlUt41oD/NbGb2Tjt2AXtGvZRo7wOsJGoAFAWq99nCyDPnkWLEoGlZo/Nkufw8jZQkcqO15YqBKpxqNUzteOwqVG9r28E4HA7fh1AWw0zaJses8XcpTjDz8F8zZ/Galog9+e4DL85rRfcDFc0twJ0+c95QlAPpcOr/sbRnqZSQMnqkxZfNY2R0mDNaOHWAY1FIVC6BvushIPnhRkgPkH7B3RKk6+MFerEIofMOZlulDQ==;kEsklfxfGqsqjr1ZftRzRQ=="
+secured: "bJ0fZWV6GHCYb8oiWLSdkh7PYrstgW2YftxcRHgwmRYfFJnUnmefyF624ppbi6kIQ3UMhreQA+99FSXvVfCoJUlWcyTZyAIXjHEiV0jzwxO8+n7iJ2GcXH+muu+9t1ern/9aXg2aqPB/BSJJPV3OvdzdF8J05hbfV7d+f60MjJlYtUXK8i96vvr7dnV4JcACUON/6Hnj3HaIGDKv1eugacueMvpSpSW26I4IWC17asNf5FyNLgvoiW68ysgyWLgeLhT7tjgd5PociOCxRuSy2l9d5U+wxQ/mUpmkfgvcOv1svZ+SS4lK9YmNxIbeM7Y8NDCIyvwVuP+YxpbIgngO1rvX2hMPdFT7OWuka0kS3rxBZpQUVZ2XngIGh4NjnpBJwUe5pbxF/sJnhxtn5Mb3pMguic6ItmsvPWENUPAXZJqDpA0b6l8POtku3xNpC04FO/yW0uMSj3338CJ7KA/d4qXJtlxGsiYB/dAjOwNxpb0KCm8RiXTHOGjT1B4r8JfpLJ5Y3nvq5SnbpUdtI4swiw==;r8Ac4h6zlE3T6sVai6gijA=="
 ---
 

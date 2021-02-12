@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-12T02:23:00Z
 originalUrl: "https://www.hpcwire.com/off-the-wire/neureality-emerges-from-stealth-with-8m-seed-for-ai-compute-infrastructure/"
 webUrl: "https://www.hpcwire.com/off-the-wire/neureality-emerges-from-stealth-with-8m-seed-for-ai-compute-infrastructure/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Neureality-founders-from-l-to-r-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli_Credit-Neureality.jpg"
@@ -144,6 +145,6 @@ related:
       domain: nocamels.com
     quality: 16
 
-secured: "V3wBgyjlsiKfEEXmr3dRAsClL+c1LSfOMKiw1YiWICUsvmg9IR1jLl5woyjZlMs5Ex+WY55ILLSAr1wJ+9zuFqDDbQHmWJvZkcAdSmAZnw+PAdiiJw/sLOgh1gjI15y5gEFKsln44oKtoLpoNOGwPffblivGqZfDKJLO0UCizddqW8US3T4RjogAf3pt8ak/+5QeLFWX7DCCnGzqdhsvXfM0+15D5khEA7YxsOsoEPoelHB9kSS3VqJE6Fj8VXlesdIbfYpJoEPHfSGPYbQ1fQfnWMOkK1fFaxHMMsL4cPt9lwjIg8KrKEErQkPlWb2B6hZn77OOgcPBLcnHOjOjKgDhV730EnI/qUkvtFq4hkQ=;cT73DVjVTbYHDEk+T/jb8Q=="
+secured: "MdVVFXlGqq+8HLf4PsQEZb/RJfaloot/8aRvxnmYGp2+0hb9v5THbyWtFMCYiARwpif38JNMxMZBgzc/foQy6OEw7S1ete5DSqLHPNPBG2HKt5fZiNSp9EPeOX8yzbJoxieHpTCo5RXEqvUG50M8OgKsuXPEPgf+EVWdqS4EqsYfqSiyb7QWwEIQ9rLTbpn40B8mWx58buqeoH2UIDKHbMiVw6YafFN/zYZgcGfOIJY9u1eiVga7p+k0JAQEJtTfds9zu+fiBpZFNWqcq2SW83xEHToxYZJItelEBSrPoyPOXaq0lkkmHAGAVZ7epr8+CcgekdDoHVLAc5VbIve0ajLGWWubNWxrTwVgcsK645z/QvfAsYZV17FGsRu8Z5YeI/L+x2pHZj+Xh8hEw5vAFvbGaT89FfwrenVsW5FJjNKij7J0M44yhyXCIIR3AvCvXjd2wvt68mqni4PO3wLELTnVFc5CxxVKT6S72+gg1A5wxpiXQ7qMxo0Zg1mMM5egAGaVlQ90H2k58DAfQyU8UA==;Ihff1RghAKR2UupW2bPiZw=="
 ---
 

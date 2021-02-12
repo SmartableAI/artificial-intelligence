@@ -3,8 +3,8 @@ category: news
 title: "In restaurant kitchens, robots replacing chefs"
 excerpt: "\"The Korean market has been relatively unenthusiastic in introducing automated kitchens, compared to the Western market, partly because Koreans value cooking skills and knowhow. They think that developing recipes for Korean food is particularly difficult because chefs just know it and it is hard to quantify each ingredient's amount."
 publishedDateTime: 2021-02-12T00:34:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/02/135_303932.html"
-webUrl: "https://www.koreatimes.co.kr/www/culture/2021/02/135_303932.html"
+originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/02/703_303932.html"
+webUrl: "https://www.koreatimes.co.kr/www/culture/2021/02/703_303932.html"
 ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303932"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303932"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 476
     isCached: true
 
-secured: "pH0qa/qGwSq5WYD5w6O5Hq2ZOaHaBnkI+mFuIoPXjFSFAdYOdmm9MtoMY0iZV3cPMnSHLw5rI5RiqhwiJUjlrPHqIgMRWY0WTYAsjThI/ppfJTgELb/k06KH+YVYcHQ9ondevKUgLTMFCuMkiQ2U9h51u2n8QKr3xY2vqW+G2pmu6f9w6dSoFxF9I7ostKfzqLWLwxHsQqJx+9dwWDMfPkbblUjJli6vzAOsXgtFR+1XRzjz6XbWNuXAMOSRLcHfu8xG+pGMzTHTpUwRc3nKsr2f+LyjC9K2s143W3I/B4XQSViPmuzgIVDUODlHHCYmpR2IKoVtHchhdAZGLrbYR7j6Ue2R/TtdpDDbUu/ScQvak1eoLceZoxRDsRib7mHW7yY6PaE320p/Ir+POPE6IHAWHKq0T0DrdcFQDQOVPdqP3ilaZXqNR/O1kmy7mWyrNN/WzlTTD8uTmcZhg5fIKhgI9CGjLhrcw6T1sncl90dtq1AUOiaTJPJesE2ELYnOyA8H7S9+JutnDbSqRJbsCQ==;wdf1Trf7/XQRH4RLSE4qng=="
+secured: "5WEVS+L9aXlEzh+SrWhTt6FXOrrgRwBtd4bZGlgiUrCYV1ZB0XqzV4QcOR2CC++Zm43kmvSdTM3ECxcfJvROD/B6usljC8nn4NCdXWPrhVC6zEJSbglFth5S5w/IsMyTjS8OxVfDMq51tXoqlJzrACajvGRlZs/u5e0FZCGdA/+UzompyUKBwyx3r4lr4l7jn5TjEwO5TzgV3lY09NpgNrC3ObyDRiRGrYbh4CbJoO+IFHPI7VvaMJ8xAZsrkmVgL2HBEsPwh3btb0MMdaH8mKlN8amiyKjBaV2YsveRTihgnfU7CtC1bcyb9oJYb7LHbpMyFSTrO2lHX+f3tkEyAcHb3gLvKl/ATSLLZSNtPgs=;aANUTXfFcufpWwyjPoMqJQ=="
 ---
 

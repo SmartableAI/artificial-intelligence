@@ -34,6 +34,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Connect Azure to the International Space Station with Hewlett Packard Enterprise | Azure blog and updates"
+    excerpt: "Connect Azure to the International Space Station with Hewlett Packard Enterprise | Azure blog and updates Today we announce our"
+    publishedDateTime: 2021-02-12T03:17:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 42
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Connect-Azure-to-the-International-Space-Station-with-Hewlett-Packard-1024x1024.png"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "HPE Spaceborne Computer-2 linked to Azure cloud for the Space Station"
     excerpt: "Hewlett Packard Enterprise is preparing to send a second-generation Spaceborne Computer to the International Space Station later this month."
     publishedDateTime: 2021-02-11T13:12:00Z

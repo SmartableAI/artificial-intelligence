@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3606472/developing-a-turing-test-f
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Closing the AI skills gap"
+    excerpt: "A growing demand for AI technology but a shortage of work can be solved by infusing AI into a business Artificial intelligence (AI) is expected to change the world. AI can help automate decisions and processes,"
+    publishedDateTime: 2021-02-12T04:34:00Z
+    webUrl: "https://www.ft.com/partnercontent/ibm/closing-the-ai-skills-gap.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://ft.com/partnercontent/images/ibm/hero-2.jpg"
+        width: 1920
+        height: 958
         isCached: true
   - title: "Bringing AI to the edge"
     excerpt: "It seems that much of my work these days is concerned with bringing AI to the embedded-systems domain, understanding what the implications are and how companies should deal with it. In the discussions with technical experts and business leaders,"

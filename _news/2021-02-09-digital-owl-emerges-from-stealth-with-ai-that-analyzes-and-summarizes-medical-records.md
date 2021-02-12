@@ -121,7 +121,7 @@ related:
     provider:
       name: HPCwire
       domain: hpcwire.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Neureality-founders-from-l-to-r-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli_Credit-Neureality.jpg"
         width: 900

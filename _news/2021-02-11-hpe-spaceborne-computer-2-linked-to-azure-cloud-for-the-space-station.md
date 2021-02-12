@@ -41,6 +41,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Connect Azure to the International Space Station with Hewlett Packard Enterprise | Azure blog and updates"
+    excerpt: "Connect Azure to the International Space Station with Hewlett Packard Enterprise | Azure blog and updates Today we announce our"
+    publishedDateTime: 2021-02-12T03:17:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 42
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Connect-Azure-to-the-International-Space-Station-with-Hewlett-Packard-1024x1024.png"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
     excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
     publishedDateTime: 2021-02-11T13:01:00Z

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-26-sophiathe-humanoid-robotwill-be-rolled-out-this-year-potentially-replacing-workers.md",
+      "title": "Sophia—The Humanoid Robot—Will Be Rolled Out This Year Potentially Replacing Workers",
+      "excerpt": "Hanson Robotics, the company behind Sophia, plans to mass produce robots this year to help people during the pandemic. The Hong Kong-based company contends that the human-like robots can “replace workers across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010260bc7ace6371462f7ef%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/",
+      "publishedDateTime": "2021-01-26T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-abi-research-identifies-the-innovative-start-ups-forging-the-next-gen-supply-chain.md",
       "title": "ABI Research Identifies the Innovative Start-Ups Forging the Next-Gen Supply Chain",
       "excerpt": "The varied applications that constitute supply chain technologies range from sourcing to operations, fulfillment, transport and services. Demand has increased materially for solutions that best address visibility,",

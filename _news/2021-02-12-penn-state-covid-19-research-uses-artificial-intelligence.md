@@ -115,6 +115,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 39
+  - title: "How AI and data models help governments fight Covid-19"
+    excerpt: "A not-for-profit business group including IBM and Rolls-Royce is using AI and data models to help Europe fight Covid-19 and help prepare an economic recovery As Covid-19 vaccines roll out, getting economies and societies back to normal after the worst of the pandemic has passed will depend on collaboration between industry and the public sector – and harnessing the power of data and technologies,"
+    publishedDateTime: 2021-02-12T04:34:00Z
+    webUrl: "https://www.ft.com/partnercontent/ibm/how-ai-and-data-models-help-governments-fight-covid-19.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://ft.com/partnercontent/images/ibm/hero-4.jpg"
+        width: 1920
+        height: 963
+        isCached: true
   - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
     excerpt: "BRAVE Innovations LLC rallies community, faith groups, healthcare workers, colleges, and civic organizations to spur participation in urgent voiceprint research"
     publishedDateTime: 2021-02-11T01:09:00Z
