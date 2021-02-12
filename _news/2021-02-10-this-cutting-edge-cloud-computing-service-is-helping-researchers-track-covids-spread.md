@@ -75,6 +75,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Now that’s edge computing"
+    excerpt: "Astronauts at the International Space Station will soon be getting a high-performance computer that will connect them to Microsoft’s Azure cloud."
+    publishedDateTime: 2021-02-12T20:40:00Z
+    webUrl: "https://gcn.com/articles/2021/02/12/iss-hpe-computer-azure.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/Nov-2012/spacestation.png"
+        width: 620
+        height: 300
+        isCached: true
 
 secured: "TVGAkMy68BkPGaYO75fCfrd3UpL72G4ica2tcL3QleZR6oCeUIvA4azVSwolKLvyTNC3J/47pPL9cVt2gK9YMqNTs0L+bGlDJzp122oNqc0LIxk+fk4/kNXtma6PLR8+NQ6eMEDTSOCL5A1uSNSSRuCxmN5S/jGc1rp1Da3WeLjD9MV4W8wEIuu2C5pvTwNneR3W3jjtPvRpwL/ybDPojewmPXUCPK05Yw8R3lK1Vlab3lqvAbNXoFyHibM5gwQ/mTrg8e54o4CN+mjroc+U6w0A/ULZ3Qmb6lbSwjF5TG7Yqt++K6pJVVPuOSKvuh4uEyKv2dkBsdkITaF5pxGf64Kbn9z5MAoRoFRKA1lItKb/a1KkhSF7nSJO7qVN+94diyxmuWxahiLtsx9zgUK8SCMcyRTEsW0qDVaRWTVicAXLCwIzqCwz4BhIJqbLgjEA5HAUVX0Cheo4CWH60TTNbLPyiEwgfswHyljnsTCIRKr3vSUA2m4WZTAG9KWihbUFvLk7kpBVO4PhJyvupNFijA==;d60B6wg/82Ip+x0IQbqtFA=="
 ---

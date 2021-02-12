@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-o
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UR710TyFSKSwr8XnpKKGe-40q1M=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AOELJWW3DVGNNKZEY5IZ3HZ26Q.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Report lays out figures on Beijing's self-driving vehicle tests"
-    excerpt: "Beijing has authorized 87 self-driving cars from 14 companies to test on roads in designated areas, and the cumulative mileage of autonomous vehicle road tests hit 2.21 million kilometers, according to a report released on Feb 5."
-    publishedDateTime: 2021-02-08T04:47:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202102/08/WS6020b097a31024ad0baa80b9.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202102/08/6020c6cda31024adbdb390cc.jpeg"
-        width: 720
-        height: 480
         isCached: true
   - title: "Apple has doubled self-driving test miles of California in 2020"
     excerpt: "Every year the California Department of Motor Vehicles posts detailed information about the companies testing self-driving cars in the state. This year's data"

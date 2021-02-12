@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/"
 type: article
 quality: 71
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -132,22 +132,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-4-600x450.jpeg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Taking Over UK’s Fintech Throne: Lithuania on the Shortlist to Become Europe’s Leading Fintech Hub"
-    excerpt: "Brexit has pushed quite a few UK fintechs to search for greener pastures. According to Marius Galdikas, CEO at ConnectPay, Lithuania’s favourable regulatory environment is making it one of the top destinations to relocate their business to."
-    publishedDateTime: 2021-02-08T05:01:00Z
-    webUrl: "https://www.globalbankingandfinance.com/taking-over-uks-fintech-throne-lithuania-on-the-shortlist-to-become-europes-leading-fintech-hub/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/taking-over-uks-fintech-throne-lithuania-on-the-shortlist-to-become-europes-leading-fintech-hub/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/taking-over-uks-fintech-throne-lithuania-on-the-shortlist-to-become-europes-leading-fintech-hub/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 30
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/04/top-story-11.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Finch Capital closes €150m fintech fund"
     excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."

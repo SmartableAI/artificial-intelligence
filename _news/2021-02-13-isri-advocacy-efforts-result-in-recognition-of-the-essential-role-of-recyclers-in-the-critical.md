@@ -1,27 +1,27 @@
 ---
 category: news
 title: "ISRI Advocacy Efforts Result in Recognition of the Essential Role of Recyclers in the Critical ..."
-excerpt: "Across the nation, state legislators are officially recognizing the importance of the recycling industry in their communities. Most recently, following the advocacy"
-publishedDateTime: 2021-02-12T17:01:00Z
-originalUrl: "https://omaha.com/business/consumer/isri-advocacy-efforts-result-in-recognition-of-the-essential-role-of-recyclers-in-the-critical/article_3033cb0b-ff2f-5353-b114-abd71c867a8c.html"
-webUrl: "https://omaha.com/business/consumer/isri-advocacy-efforts-result-in-recognition-of-the-essential-role-of-recyclers-in-the-critical/article_3033cb0b-ff2f-5353-b114-abd71c867a8c.html"
+excerpt: "Most recently, following the advocacy efforts of the Institute of Scrap Recycling Industries (ISRI) and its chapters, the states of Massachusetts, Alabama, Indiana, Georgia, and Tennessee acknowledged the essential benefits of the recycling industry through the passage of essential economic contribution resolutions."
+publishedDateTime: 2021-02-12T19:17:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-alabama-north-america-waste-management-services-environmental-equipment-and-services-26de6859c5d9cd78e96c7594a0cbce8a"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-alabama-north-america-waste-management-services-environmental-equipment-and-services-26de6859c5d9cd78e96c7594a0cbce8a"
 type: article
 quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -114,6 +114,6 @@ related:
         height: 334
         isCached: true
 
-secured: "CtenzHwOOwtr99dRQdUIRhWQ78kenIidaF06g6kuVVjlgHPDX4kbI5wwrSfbDHT5evoxwnbF4iO8sMxEv/4BnsMjCwapcxkagrglYIlbdybFCdiUmecoRhYN1uMBg5iqUPu8MTcxtYcu4lV6UbkJGietIL/zctkEv2B9l6oXAfW4O/PkLOf4LsDLJEKU73XwoR5gxUssOqYOxl2wPZeJAA7XPBMxvIRzgYxPFVlJr+ceMK325o71J/VipE8KIX7s05Gw2Vy6Nnqo35GiQmDGKYo9zD7sJdEUfWFU6SJL3oWeFcgIPTNbiGW8a0kFyGsHgIJKleIa4RO/FqBSHMfhJ7sSRjzBPVD983m/swgJrPU=;QCQUEpRl9fWqZdvVDRhANg=="
+secured: "vIk30RgDdUv658Zmcbpk6xonXYm789U8hXI4BYhJvHJblkskOjBL7RlzY4WlBwf7qg67NAe4cytW+5bCpu2N5rgOcbf7W65/CeyUciPwkELjkCfu/a/dAIYgMlK+c/kHOTD1E1fm/HIh9N9lZ0NH17FbPfALs4bPw3yr+FuswoMRmJZDJu/1edTglzrvoB0wvR9O616F6rPogGDnQHz3nQL9mOxF2wWCHC1El7rMTt9Nr+oq0y280/CQ06Mc1Om7BPGkJImc/wDPfq70H5Fgru0qHCBTWarfU5dbqSl8fCDrXKUrEdP524y15sZylWa6RQSkOQMYJdMxXypG/KgUodN0i9CXPBFSFsz2g8nkIno=;UXYsV5EM9cPGLAEFoBgEVw=="
 ---
 

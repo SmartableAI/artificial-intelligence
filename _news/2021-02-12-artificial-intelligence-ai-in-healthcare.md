@@ -151,6 +151,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chips Market to Eyewitness Massive Growth by 2025 | AMD, Google, Intel Corporation, NVIDIA"
+    excerpt: "Latest released the research study on Global Artificial Intelligence Chips Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Chips Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-02-12T20:02:00Z
+    webUrl: "https://www.openpr.com/news/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
+    ampWebUrl: "https://www.openpr.com/amp/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
   - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
     excerpt: "The Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027 report has been added to ReportOcean.com offering. The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc."
     publishedDateTime: 2021-02-12T17:31:00Z

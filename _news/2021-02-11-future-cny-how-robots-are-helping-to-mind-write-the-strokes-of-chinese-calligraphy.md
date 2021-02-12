@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Mind-written' couplets add technology to China's CNY"
-    excerpt: "Then, the system can decode the operator's intent and control the robot to write the character,\" Prof Xu said. The mind-controlled writing system allows two people to work on a character ..."
-    publishedDateTime: 2021-02-08T04:37:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/08/1037355.jpg"
-        width: 860
-        height: 573
-        isCached: true
   - title: "'Mind-written' couplets add to CNY celebrations"
     excerpt: "But now, a robot arm has taken over the job at the Academy of Medical Engineering and Translational Medicine under Tianjin University. The year 2021 is the Year of the Ox, according to the Chinese ..."
     publishedDateTime: 2021-02-08T23:14:00Z

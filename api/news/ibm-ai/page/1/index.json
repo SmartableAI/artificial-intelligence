@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-11-humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members.md",
-      "title": "Humana now using IBM Watson's AI-enabled virtual assistant for health insurance members",
-      "excerpt": "Humana announced today that it's teaming up with IBM Watson Health to deploy IBM Watson Assistant for Health Benefits for Humana Employer Group members. Conversational AI (artificial intelligence) through the IBM Watson assistant will be used when agents,",
+      "path": "_news/2021-02-12-using-watson-nlu-to-help-address-bias-in-ai-sentiment-analysis.md",
+      "title": "Using Watson NLU to help address bias in AI sentiment analysis",
+      "excerpt": "Previously on the Watson blog’s NLP series, we introduced sentiment analysis, which detects favorable and unfavorable sentiment in natural language. We examined how business solutions use sentiment analysis and how IBM is optimizing data pipelines with Watson Natural Language Understanding (NLU). But",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/",
-      "originalUrl": "https://www.techrepublic.com/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/",
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/4b528d48-8cbf-42b2-a230-c0e346adb88b/resize/1200x/bb75306246cac19a621353e0b787d81c/doctor-computer.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/Screen-Shot-2021-02-12-at-2.14.04-PM.png",
+          "width": 1688,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/humana-now-using-ibm-watsons-ai-enabled-virtual-assistant-for-health-insurance-members/",
-      "publishedDateTime": "2021-02-11T06:45:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T11:19:47-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "IBM",
+        "domain": "ibm.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

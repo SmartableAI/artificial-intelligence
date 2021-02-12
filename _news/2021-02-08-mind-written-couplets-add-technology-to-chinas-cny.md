@@ -6,9 +6,6 @@ publishedDateTime: 2021-02-08T04:37:00Z
 originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny"
 webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
   name: The Star
@@ -24,36 +21,6 @@ images:
     height: 573
     isCached: true
 
-related:
-  - title: "Future CNY: how robots are helping to 'mind-write' the strokes of Chinese calligraphy"
-    excerpt: "A robot arm, controlled by researchers' minds, writing the Chinese character for ox at the Academy of Medical Engineering and Translational Medicine under Tianjin University in China. Photo: Xinhua/Asia News Network Hanging the Chinese character \"fu\" (\"happiness\" in English) on doors and walls is the most common and an important custom of Chinese New Year,"
-    publishedDateTime: 2021-02-11T07:17:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/culture/2021/02/11/future-cny-how-robots-are-helping-to-039mind-write039-the-strokes-of-chinese-calligraphy"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 32
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/11/1041346.jpg"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "'Mind-written' couplets add to CNY celebrations"
-    excerpt: "But now, a robot arm has taken over the job at the Academy of Medical Engineering and Translational Medicine under Tianjin University. The year 2021 is the Year of the Ox, according to the Chinese ..."
-    publishedDateTime: 2021-02-08T23:14:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-to-cny-celebrations"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/09/ST_20210209_FDROBOT09_6320174.jpg?itok=kaC3z-6B"
-        width: 763
-        height: 509
-        isCached: true
-
-secured: "3YG0WuJR5EUxqBj5UErfGRV6rN7P8Lwg2R3UTh9xSSxNf7cH9pL02TfnE6EoSV5hTSN3ipWajylbEB9ZDr/fy0pXTQXCbvbdCUTd3ddLmJrK19axYTzlSbWpQjgAmW9edbnyLSRFgK1NsNHIc9G6Do9rXz9+i3s0naQMb3joKD35fWFEYsw/GdwCaTSYZqpnAXkJ3tacVdHWr9MRPOUZeitgLssoWHOgybTC/TN1HMA0SI2Q65tu96OFvZ+33R73g9m1O+X+0j/g0/K6iSDGMIt5O2wXLlrANMnQjERSfO1hoFSORSma6oplnrUcZY5VLlP/k02BEhUZXv64FwPzYn2JaocEOGr7N9eQNhc1/F8=;DF69HWWBMbM9P96HmEczzQ=="
+secured: "QOhtHyDZ/bFr5HB1liRvR9yIUtN1kHNKX6171s9TVghLNiJJn5KUdAuhFMlyunYqSKNwhoOvPA3dOiV2PWOWtUwl9o1DhVAk4SpPylhvgLW7/HGVbnkdGrwqHORgfc/0FI+Xa/GMYzFeOTwU98xwdArdwhgh++paVNxzYPPlucKYWRQc8mCac9puu0w9EsVNToGlmbrfsvVnY0h/Q04N5vL7KH0frSYJTdtqSWkm9tE4EJH3J8i5V96GJtm/ib8X4szyVwLtmyxCy3T/gxQoGtIuFw1xNEe0Uws7cKaL0UbNZsKaBSYZ60pi7YsnKThNlAfHRPt7BaQX3zLsnIWyljIFqU9Rb4ugWmw2p72RKms=;uOlYXdbfcc4cFRhA8sc1zw=="
 ---
 

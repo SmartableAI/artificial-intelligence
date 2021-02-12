@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/terra-the-google-and-micros
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2021/02/11/shutterstock_1453899434/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Now that’s edge computing"
+    excerpt: "Astronauts at the International Space Station will soon be getting a high-performance computer that will connect them to Microsoft’s Azure cloud."
+    publishedDateTime: 2021-02-12T20:40:00Z
+    webUrl: "https://gcn.com/articles/2021/02/12/iss-hpe-computer-azure.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/Nov-2012/spacestation.png"
+        width: 620
+        height: 300
         isCached: true
 
 secured: "lzzNqbRK1nRHdgpuPVGx//xStgcg78kgXWXpHHuH5KVDiiQsY09tlHtyOwARvjNmTHJ1WgU4HzEKgusNvwI8C6cIk2jP+qeM6zo60R3IshdxLBzIuK6ssFTTVV0ukTv9h/3jEm5tZ6ofU31yCvJpju3uycucSVhMts7ZI9wwn2yEhOyk9DHpobegzZw1weVIMPBE6zLZHfox/TEC1k2jfkWRm6ldfgsrF22bVEgiExT8cpZN6F0JJmWK93tYUlQAzKRm5TPUp5xCLSaBRfwFEuOCjgFqLgg49T/9cGjrhSSqY7ETZuS+pZdrQRa+lARuW6N/A5kp/Pdg5fSPdtQ+1IVeKISiy96OVLfHZA0sW/o=;XcKWBCft8YE4T28bsfD3Uw=="

@@ -38,22 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "Minneapolis City Council approves ban on facial recognition technology"
-    excerpt: "The City of Minneapolis has banned the Minneapolis Police Department and other city departments from using facial recognition technology.  The City Council on Friday voted unanimously to approve an ordinance that prohibits the City of Minneapolis from buying facial recognition technology or using data from it."
-    publishedDateTime: 2021-02-12T18:47:00Z
-    webUrl: "https://bringmethenews.com/minnesota-news/minneapolis-city-council-approves-ban-on-facial-recognition-technology"
-    ampWebUrl: "https://bringmethenews.com/.amp/minnesota-news/minneapolis-city-council-approves-ban-on-facial-recognition-technology"
-    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-news/minneapolis-city-council-approves-ban-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Bring Me The News
-      domain: bringmethenews.com
-    quality: 59
-    images:
-      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc0MDA5NDE5MTQ5ODc4NTc5/44232996_00e19bbe34_k.jpg"
-        width: 620
-        height: 324
-        isCached: true
   - title: "Lawyers threaten to sue California State Bar over facial recognition technology"
     excerpt: "In a letter sent Wednesday, the nonprofit Lawyers Committee for Civil Rights Under the Law demanded the California State Bar, a government agency, stop using software that they say discriminates against women and people of color taking the test."
     publishedDateTime: 2021-02-10T14:45:00Z

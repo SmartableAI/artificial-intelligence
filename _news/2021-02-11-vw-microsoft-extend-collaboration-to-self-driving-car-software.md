@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/finance/companies/vw-microsoft-extend-co
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-11/vw-microsoft-extend-collaboration-to-self-driving-car-software"
 type: article
 quality: 139
-heat: 489
+heat: 509
 published: true
 
 provider:
@@ -138,9 +138,9 @@ related:
   - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
     excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
     publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
+    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
     type: article
     provider:
       name: Reuters
@@ -235,6 +235,20 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "Cleareye.ai taps Microsoft Azure for PPP loan processing engine"
+    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
+    publishedDateTime: 2021-02-09T14:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86101/cleareyeai-taps-microsoft-azure-for-ppp-loan-processing-engine"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 71
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
     excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
     publishedDateTime: 2021-02-11T21:51:00Z
@@ -305,6 +319,22 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
         width: 960
         height: 675
+        isCached: true
+  - title: "VW and Microsoft Are Teaming up to Develop Autonomous Driving Tech"
+    excerpt: "Volkswagen is already developing its own autonomous driving technology, even having shown off a working Level 4 prototype a couple of years ago. Now it's teaming up with Microsoft"
+    publishedDateTime: 2021-02-12T19:36:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
+    type: article
+    provider:
+      name: Autoweek
+      domain: autoweek.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/db2019al00703-overfull-1613148012.jpg?crop=1.00xw:0.890xh;0,0.0838xh&resize=1200:*"
+        width: 1200
+        height: 602
         isCached: true
   - title: "Cleareye.ai and Microsoft partner on PPP loan forgiveness platform"
     excerpt: "Cleareye.ai, which makes fintech for banks, is working with Microsoft to power certain products, starting with the PPP Loan Forgiveness Processing Engine, driven by artificial intelligence and powered by Microsoft Azure."
@@ -510,6 +540,6 @@ related:
       domain: telecompaper.com
     quality: 10
 
-secured: "x6E29yuLYGgRVo8dS0QrmaGzRWBE/FuX+YxLkeViMvVP8PH7kHEkvw1fotGG+vSLUDVMB3UHcc2b6sy4g1UqDSrYHWh2tpDE2641nRenXu5G55ApnStOwx5fGm8UgFBzw8tSuAnDAbLmCcIh0I4bwYWkwd9ej7SHQDAORxASLiYX+/BrilaNc/bkem0UoPXkmAlNwriloLkDXLTOlyStRHsK/wT8bYQUoTPJdxNt8/ZBLEaF4fez3zyJp6fkGwjy9a+xse2FHEPGs8nmY8ITrkbam9d3WFe2EzCi3BMMzENNvsfgmVPdJi8C+j3L5lrCxhhYt0BOnzkPV7mE5O10+SK6h5JqokWWRSEce7TS1WE=;4BBynOUW37vMv84p3fWFOQ=="
+secured: "hhGu0q13XCeN0s1hNm8A9DMWUvfMOso5sf+W113hqKrqPeuxRhjkCFDWXf88DPLn6f2puPBowymTlU3aabmYV9Wcg9XlLrq67rWWMnlKaI2XQfLamwkWy0PKxMEMB6lwAecfdRhocxxKRCpIsW9lWMYT3L4U9c2KH4t9tLWdVs9E1KtR8faSjdS4QaXMIzI+hjDTNllLM0XP0W3d7WqK77ECDnAtVF3z+fO5SXKsQ/IvBUXURs7Waq8636MYoVZJBhnPR+MYQZIu4WTIKZX0Cjsi483ZL+KIm4mwbg7LHx4Pjq/+aXEG69AOaFBcFefqGQ8bJjGFg/M3xV1P43EJhaompEAQG34FKjpf4mJgIkxfzipfzKrWL/qW4gO2lsPDQNz4kSJ9cFAajjmZNNdvg+IgH85iTx+SzX9JR4aCN74hRx0hfsZq8g94uEUTe9Oy2lyGr9LDAHTj16Bh14m18fUxXn+m8CfU7YabhMCvQowGPFsejlJZgR7aKzcz1Nmf9UdFrNhwcU20yvstXrdCHG4h6Iezr2nn7A+7jQsR7Fw=;9ceGhVd17ezeUFpeICmXGw=="
 ---
 

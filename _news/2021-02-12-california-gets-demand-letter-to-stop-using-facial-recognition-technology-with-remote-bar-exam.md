@@ -7,7 +7,7 @@ originalUrl: "https://www.abajournal.com/news/article/california-gets-demand-let
 webUrl: "https://www.abajournal.com/news/article/california-gets-demand-letter-to-stop-using-facial-recognition-technology-on-bar-exam"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,35 +23,6 @@ images:
     width: 750
     height: 500
     isCached: true
-
-related:
-  - title: "Vietnam's Vinfast Gets Permit to Test Self-Driving Vehicles in California"
-    excerpt: "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California. Vinfast, a unit of Vietnam's largest conglomerate Vingroup JSC,"
-    publishedDateTime: 2021-02-08T03:15:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 53
-  - title: "Vietnam’s first domestic car manufacturer gets permit to test self-driving vehicles in the U.S"
-    excerpt: "Vietnam’s Vinfast gets permit to test self-driving vehicles in California, according to Reuters. Another Vietnam’s driver-less car got the green light but no further updates since 2018. Visit Vietnam Insider’s homepage for more stories."
-    publishedDateTime: 2021-02-08T03:35:00Z
-    webUrl: "https://vietreader.com/business/33068-vietnams-first-domestic-car-manufacturer-gets-permit-to-test-self-driving-vehicles-in-the-us.html"
-    ampWebUrl: "https://m.vietreader.com/business/33068-vietnams-first-domestic-car-manufacturer-gets-permit-to-test-self-driving-vehicles-in-the-us/amp.html"
-    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/33068-vietnams-first-domestic-car-manufacturer-gets-permit-to-test-self-driving-vehicles-in-the-us/amp.html"
-    type: article
-    provider:
-      name: vietreader.com
-      domain: vietreader.com
-    quality: 32
-    images:
-      - url: "https://cdn.vietreader.com/uploads/posts/2021-02/business_vietnams-first-domestic-car-manufacturer-gets-permit-to-test-self-driving-vehicles-in-the-us-1.jpg"
-        width: 900
-        height: 533
-        isCached: true
 
 secured: "ekfFJA/lF11yr9jFsJj+fi9TcmIW8wk2wlMUNL6KeAzCytZSr4Il4Grgyu8o6IWXabKB7TM4wcxe+dKV7Y4UwLVV4YsNuOnSItF3bRxo7nJ5pJ1e8BDffjAVao9XeQxD8y/u3+E8Sgnig5xZfgNSYH6iOqEwEknYy/KMl7nFLX46MxWoqu7BeaveySyyF9C9/lXjCQxnjsuupSK5os8msYllFBd1FmjEat7rtOyq8J74rRSGOyAqO73/pJc8Kc3FZA6lEz8SZqEayzsdyh6jxVqmvEDhTZWO0/uGS7kfkHDQTj0CqdDmVYWAlOoCyqr/4D/p1nSvRWaEXojL1A/qnxD4Rkn6Ypb47tHBIHuDd9tPx+T3GAiQfifCgI9cihsQO9eEKLQl3xMtmJMb3Iyf0vbflEh/qhejwInM53hYlRzuhcV6BSNNUPT/tKGyPpepvyDcqJPrWmi95RSPx7Qvdj1gSDnq1+HtbD/l8ZJr2FgoWipTmmpCj/04HRFNZQ/cBv42wBz8msrkMVM9Pkw/fA==;oYq4O9MNqZbOgqNtiCtgGg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say
 webUrl: "https://www.bloombergquint.com/technology/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
 type: article
 quality: 167
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Hyundai says it is not talking with Apple about self-driving cars"
-    excerpt: "Shares in South Korean carmaker and affiliate Kia fall as investors’ hopes of autonomous EV projects are dashedRead more on 'Financial Times"
-    publishedDateTime: 2021-02-08T04:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Hyundai and Kia Won't Build Apple's Self-Driving Car After All"
     excerpt: "Korean automakers Hyundai (OTC: HYMTF) and Kia say that a deal to build cars for tech giant Apple (NASDAQ: AAPL) -- which had been expected as"
     publishedDateTime: 2021-02-09T05:13:00Z

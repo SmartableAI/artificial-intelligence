@@ -142,22 +142,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Taking Over UK’s Fintech Throne: Lithuania on the Shortlist to Become Europe’s Leading Fintech Hub"
-    excerpt: "Brexit has pushed quite a few UK fintechs to search for greener pastures. According to Marius Galdikas, CEO at ConnectPay, Lithuania’s favourable regulatory environment is making it one of the top destinations to relocate their business to."
-    publishedDateTime: 2021-02-08T05:01:00Z
-    webUrl: "https://www.globalbankingandfinance.com/taking-over-uks-fintech-throne-lithuania-on-the-shortlist-to-become-europes-leading-fintech-hub/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/taking-over-uks-fintech-throne-lithuania-on-the-shortlist-to-become-europes-leading-fintech-hub/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/taking-over-uks-fintech-throne-lithuania-on-the-shortlist-to-become-europes-leading-fintech-hub/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 30
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/04/top-story-11.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Top 3 FinTech companies transforming the financial space in Iceland"
     excerpt: "FinTech solutions are provided by the three largest commercial banks in the country, namely Landsbankinn, Íslandsbanki, and Arion Bank."
     publishedDateTime: 2021-02-10T13:12:00Z

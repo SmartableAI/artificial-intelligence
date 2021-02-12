@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Vision-Box and Airside announce strategic partnership to accelerate adoption of seamless travel and digital health passport"
-    excerpt: "Vision-Box, a globally renowned company in biometric recognition, digital identity, and seamless travel management solutions, has announced a strategic partnership with U.S.-based digital"
-    publishedDateTime: 2021-02-08T04:56:00Z
-    webUrl: "https://www.sourcesecurity.com/news/vision-box-airside-strategic-partnership-seamless-travel-digital-health-passport-co-11875-ga-co-1612523986-ga.1612526410.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/vision-box-airside-strategic-partnership-seamless-travel-digital-health-passport-co-11875-ga-co-1612523986-ga.1612526410.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vision-box-airside-strategic-partnership-seamless-travel-digital-health-passport-co-11875-ga-co-1612523986-ga.1612526410.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 33
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/vision-box-announces-partnership-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "Ciox Health and HealthVerity Announce Partnership to Enable First-in-Kind Decentralized Clinical Trial"
     excerpt: "Ciox Health, a leading health technology company, today announced a strategic collaboration between its Real World Data (RWD) Division and HealthVerity, the leader in privacy-protected data exchange."
     publishedDateTime: 2021-02-11T05:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/5dp4nz/tech-companies-want-ai-to
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp4nz/tech-companies-want-ai-to-fix-the-disastrous-vaccine-rollout"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 5463
     height: 3068
     isCached: true
-
-related:
-  - title: "Next-Gen Artificial Intelligence Software Rollout"
-    excerpt: "DroneShield Ltd (ASX:DRO) (“DroneShield” or the “Company”) is pleased to announce the rollout of its first fully Machine Learning/AI based detection and classification software to all of its existing customer systems."
-    publishedDateTime: 2021-02-08T04:07:00Z
-    webUrl: "https://www.suasnews.com/2021/02/next-gen-artificial-intelligence-software-rollout/"
-    ampWebUrl: "https://www.suasnews.com/2021/02/next-gen-artificial-intelligence-software-rollout/amp/"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/02/next-gen-artificial-intelligence-software-rollout/amp/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 57
-    images:
-      - url: "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/02/drone-sentry-on-post-scaled.jpg?fit=2560%2C1707&ssl=1"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "0a1tz9wtG7776Sl/VmyA4pGOSNv1+wBaHm2bGABwUrrNt/p+u1NcDXKtAWdOwzC/yVIvxCkHuQjbnP3sMQKMKOIzgIeN1JXouxkrHXalfIjoSkfxLOP8xaHkWJbUyKlEy69nlcsi236cADAGH/rnW4EGjlx491KzmKDcIWx33BQgUoEdVcAMPCLjZGIv72SBEWh7G01tACR9+/3nQRq+5Q1UhGgmXpZmX3dXQarQ/TJEwrdV4Zxh/izRM7GAdOrjzKY2mU/SkWKHaPNK8a8YWL/j3tP/+45fyv4DhqttQoTe/x/ByUYLmzLiUjcTAJRVemv3qV1RmugiqfMsT8pERYslGZg8t6MpaRToeGQ4N1sbPfmr+GDsK5bOis8OP4+wDatXqW4NvrnTsBR8x2IantdFnLe+wrEtN0e9UwAYxjbybjOb0rv5ALuPnV23tpAjGaVhbw/MKPLzckQQ+jKvQr5+kZIF8BxYnAS1hoe0V2CFG/+qkzPbkaSn8iTqPHoG3CD0QevD4roPVq3CY59q4g==;/v4parM9JODPzhPoIbE8zQ=="
 ---

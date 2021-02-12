@@ -100,18 +100,18 @@ related:
         height: 334
         isCached: true
   - title: "ISRI Advocacy Efforts Result in Recognition of the Essential Role of Recyclers in the Critical ..."
-    excerpt: "Across the nation, state legislators are officially recognizing the importance of the recycling industry in their communities. Most recently, following the advocacy"
-    publishedDateTime: 2021-02-12T17:01:00Z
-    webUrl: "https://omaha.com/business/consumer/isri-advocacy-efforts-result-in-recognition-of-the-essential-role-of-recyclers-in-the-critical/article_3033cb0b-ff2f-5353-b114-abd71c867a8c.html"
+    excerpt: "Most recently, following the advocacy efforts of the Institute of Scrap Recycling Industries (ISRI) and its chapters, the states of Massachusetts, Alabama, Indiana, Georgia, and Tennessee acknowledged the essential benefits of the recycling industry through the passage of essential economic contribution resolutions."
+    publishedDateTime: 2021-02-12T19:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-alabama-north-america-waste-management-services-environmental-equipment-and-services-26de6859c5d9cd78e96c7594a0cbce8a"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Associated Press
+      domain: apnews.com
     quality: 10
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "H/OOgl1osTWTD92oT8qHgJOVZbbsVgBX2urMWUXmRhL7sUzAm7fQrmetXVVulHPGc7Y9VFg/WBPsAQCjcQn9VVfRJD0AvJ+ExUF5+5UwH9MbMRwYcGojqyMNhFAk7WaKEG4zC9AHsYSMFhXT7dOYJ1L4lNO7Rw5tX3lr2MF5z0sO8JFfODaeheCCMqnIClo/YzSZj4oFTNv05cV2awS91OtG+XyXKiOlQoZ+dAM1I3fQblxWttI3CVLGuc+WrMVgpWRr8L9tjpvmrLhgCUPFMrJqEN9/7Jf3gsdeRQo+3ExNP720HpAUEyF0OnOcw8WPOJmpyTMYXnVozYAFfTGb8/YqX7U29wHSPnNmThSqXAIx84uQ7yv9bGp2VOT2FcAPK4WSUOlmG0taV2Nqr7J6ZS56cPC6OEfhA6HcsSXoQhmdC/vx4iiTl9XwK1xQByUQeNkbZUFsDf04fShGMkw3EBQiRmC8Kf5zLid13UcmhwwoSNgDixGlIgbCf+Aj9icjWITmhh7sycdNoqUmg6pMNw==;L+kSp6pPnh034mmCGQ83sg=="

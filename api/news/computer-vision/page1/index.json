@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-13-minneapolis-bans-its-police-department-from-using-facial-recognition-software.md",
+      "title": "Minneapolis bans its police department from using facial recognition software",
+      "excerpt": "Minneapolis voted Friday to ban the use of facial recognition software for its police department, growing the list of major cities that have implemented local restrictions on the controversial technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/",
+      "originalUrl": "https://techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1220495008.jpg?w=1024",
+          "width": 1024,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/amp/",
+      "publishedDateTime": "2021-02-12T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge.md",
       "title": "IOTech edge software platform to support Computer Vision and AI at the IoT edge",
       "excerpt": "IOTech edge software platform to support Computer Vision and AI at the IoT edge . Edge software company IOTech has announced that the",
@@ -410,49 +462,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-10-aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents.md",
-      "title": "ACLU sues Louisiana State Police for access to facial recognition documents",
-      "excerpt": "According to suit, the State Police falsely claimed it did not have records on facial recognition. Emails released by the city of New Orleans prove that wasn't true, the ACLU says.",
-      "sourceUrl": null,
-      "webUrl": "https://thelensnola.org/2021/02/09/aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents/",
-      "originalUrl": "https://thelensnola.org/2021/02/09/aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/thelensnola.org/wp-content/uploads/2020/07/IMG_1306-scaled.jpg?fit=2560%2C1828&ssl=1",
-          "width": 2560,
-          "height": 1828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thelensnola.org/2021/02/09/aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents/",
-      "cdnAmpWebUrl": "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2021/02/09/aclu-sues-louisiana-state-police-for-access-to-facial-recognition-documents/",
-      "publishedDateTime": "2021-02-09T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lens",
-        "domain": "thelensnola.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-10-dahua-facial-recognition-praises-real-time-uyghur-warnings.md",
       "title": "Dahua facial recognition praises ‘real-time Uyghur warnings’",
       "excerpt": "Dahua facial recognition praises 'real-time Uyghur warnings' Facial recognition software developed by China-based Dahua, one of the",
@@ -704,7 +713,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": null,
       "content": "\r\n",

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Using Watson NLU to help address bias in AI sentiment analysis"
+    excerpt: "Previously on the Watson blog’s NLP series, we introduced sentiment analysis, which detects favorable and unfavorable sentiment in natural language. We examined how business solutions use sentiment analysis and how IBM is optimizing data pipelines with Watson Natural Language Understanding (NLU). But"
+    publishedDateTime: 2021-02-12T19:19:47Z
+    webUrl: "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 134
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/Screen-Shot-2021-02-12-at-2.14.04-PM.png"
+        width: 1688
+        height: 900
+        isCached: true
   - title: "Humana now using IBM Watson's AI-enabled virtual assistant for health insurance members"
     excerpt: "Humana announced today that it's teaming up with IBM Watson Health to deploy IBM Watson Assistant for Health Benefits for Humana Employer Group members. Conversational AI (artificial intelligence) through the IBM Watson assistant will be used when agents,"
     publishedDateTime: 2021-02-11T14:45:00Z
@@ -55,40 +69,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
-    excerpt: "Watson Health today announced a collaboration leveraging IBM’s conversational artificial intelligence (AI) solution – to help provide a better member experience while providing greater clarity and transparency on benefits and other related matters for Humana Employer Group members."
-    publishedDateTime: 2021-02-11T13:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-  - title: "Humana, IBM Watson Health Collaborate to Improve Health Benefit Transparency"
-    excerpt: "Humana and IBM Watson Health collaboration to streamline access to accurate information on benefits and health care costs for Humana employer group members, agents, and employers."
-    publishedDateTime: 2021-02-11T13:04:00Z
-    webUrl: "https://www.ajmc.com/view/humana-ibm-watson-health-collaborate-to-improve-health-benefit-transparency"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 36
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/6335051b45c870d35067e0bdc9258aecc299f735-3600x2045.jpg?auto=format"
-        width: 3600
-        height: 2045
-        isCached: true
-  - title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
-    excerpt: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
-    publishedDateTime: 2021-02-11T20:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210211005257/en/Humana-and-IBM-Watson-Health-Collaborate-to-Simplify-and-Enhance-the-Member-Experience-for-Humana-Employer-Group-Customers"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "kmDTcG7jRAw7ax52XdvnsgGvKX/kSAQV5UOAYWQ5LvZ/SI9PEZOsurSafUhvn2wyRcS5SG+Q6t4vMeBBptxmV6ZO/wXVQd57GU69VtA0PNlSxiKq6B9hVNvxuIxLCUZouI9iNkMTy8wVTSxM3todZcJXUTPTv4XDc2Sk89OgBckpDhb8vVkobfsyBGYmTFRh4ylQmRpBRFHGy14HjBejHoy3kxyoSetZdd86acShfgh5U5ZWB1TTWUIVv5at/W4v2VN5HelqC6+jrvr1YRHlEuRdMdTW7HL4CvW0JvlZhtI4nfwQHHnrJPkmChg/70/RxBcZ+n7dB6DzZluvBwqJriaw4/CssO5BuwmWiC2L4ofOaOjdxX8zt57LxjJHuYPb2Xm0UORwpZQRM5uaQeqttY3jx74yNxg67tLKEpfezkc2DBf6o2vFYDh8JQuXRGlHjjSUIUGb+EjHY1R3XvXPydrf1b9ygMxnAYH/3f/szxAswJoZD0DF8E9buul1XJSaASoqJQklYN/cerYlE9xDoQ==;qnppfgHJo1raR8xZdjBwlw=="
 ---

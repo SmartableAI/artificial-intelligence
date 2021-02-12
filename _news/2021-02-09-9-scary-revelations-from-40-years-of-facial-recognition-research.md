@@ -101,18 +101,18 @@ related:
         height: 334
         isCached: true
   - title: "ISRI Advocacy Efforts Result in Recognition of the Essential Role of Recyclers in the Critical ..."
-    excerpt: "Across the nation, state legislators are officially recognizing the importance of the recycling industry in their communities. Most recently, following the advocacy"
-    publishedDateTime: 2021-02-12T17:01:00Z
-    webUrl: "https://omaha.com/business/consumer/isri-advocacy-efforts-result-in-recognition-of-the-essential-role-of-recyclers-in-the-critical/article_3033cb0b-ff2f-5353-b114-abd71c867a8c.html"
+    excerpt: "Most recently, following the advocacy efforts of the Institute of Scrap Recycling Industries (ISRI) and its chapters, the states of Massachusetts, Alabama, Indiana, Georgia, and Tennessee acknowledged the essential benefits of the recycling industry through the passage of essential economic contribution resolutions."
+    publishedDateTime: 2021-02-12T19:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-alabama-north-america-waste-management-services-environmental-equipment-and-services-26de6859c5d9cd78e96c7594a0cbce8a"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Associated Press
+      domain: apnews.com
     quality: 10
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "gmIsbLO5CjwTiuwfORmj96NvJVYCeqQqxZCHkuEoJiiAflDvfBmGFW5VRhBMhZS8RSgi/FQ/kZj6eXcaRE28jYzW03AkYmfX1m32J5x1A5N+G6SSoabfKzKObquj0AGXzuJz22hS8OL1ql3+5nIdaqwAtTuVTOOzkEJqTypy6j8peru2wjWWsgQzQw+ZIZwylL4QVaS5AXLu7jbeORiodKLSGruOeB9gCYnRynHwaeKeHC8GCLWlBc8x5bH7g7RkgClhQH/twktMUvdM/VJER4oSatidIh0ctEm01PDn/YG4rp8+rGUO3JDfr/uo232yZpV3xLmgJBrt+EV8QLX7GNHTOCy+PU/TFv3NWgh8m6E=;icc0aLI///euwI59v00KRg=="

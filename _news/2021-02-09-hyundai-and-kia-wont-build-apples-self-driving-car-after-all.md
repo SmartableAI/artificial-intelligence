@@ -55,17 +55,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Hyundai says it is not talking with Apple about self-driving cars"
-    excerpt: "Shares in South Korean carmaker and affiliate Kia fall as investors’ hopes of autonomous EV projects are dashedRead more on 'Financial Times"
-    publishedDateTime: 2021-02-08T04:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-says-it-is-not-talking-with-apple-about-self-driving-cars-9783471"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Hyundai says it is not in talks with Apple to make self-driving cars"
     excerpt: "Hyundai Motor and its affiliate Kia said they are not in talks with Apple about developing autonomous vehicles, disappointing investors who sent shares in both South Korean carmakers lower. The pair said in a regulatory filing on Monday that they have been talking with multiple companies about co-operating to develop self-driving electric vehicles,"
     publishedDateTime: 2021-02-08T13:02:00Z
