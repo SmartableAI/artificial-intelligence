@@ -43,20 +43,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "HPE Spaceborne Computer-2 linked to Azure cloud for the Space Station"
-    excerpt: "Hewlett Packard Enterprise is preparing to send a second-generation Spaceborne Computer to the International Space Station later this month."
-    publishedDateTime: 2021-02-11T13:12:00Z
-    webUrl: "https://spacenews.com/spaceborne-computer-2/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 39
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2018/11/hewlett-packard.jpg"
-        width: 900
-        height: 505
-        isCached: true
   - title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
     excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
     publishedDateTime: 2021-02-11T13:01:00Z

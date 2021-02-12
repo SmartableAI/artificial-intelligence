@@ -2,27 +2,21 @@
 category: news
 title: "Appen Delivers High-Quality Training Data and Quality Assurance Services for Autonomous Vehicle Manufacturers"
 excerpt: "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today announced enhanced capabilities to ensure autonomous vehicle manufacturers have access to high-quality training data and can get the most value from their training data investment."
-publishedDateTime: 2021-02-12T05:35:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-automotive-services-driverless-cars-australia-04d448796fad45c1bf8cd0784699d8d8"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-automotive-services-driverless-cars-australia-04d448796fad45c1bf8cd0784699d8d8"
+publishedDateTime: 2021-02-12T11:13:00Z
+originalUrl: "https://www.financialbuzz.com/appen-delivers-high-quality-training-data-and-quality-assurance-services-for-autonomous-vehicle-manufacturers/"
+webUrl: "https://www.financialbuzz.com/appen-delivers-high-quality-training-data-and-quality-assurance-services-for-autonomous-vehicle-manufacturers/"
 type: article
-quality: 20
-heat: 20
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - AI in Autos
+  - AI in Finance
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Appen Delivers High-Quality Training Data and Quality Assurance Services for Autonomous Vehicle Manufacturers"
@@ -35,6 +29,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "yo4ZT4i7eTMgWUookXLimAk0gMlAwRcvmuXLXFOj5vyaJNML3OsgH2mtz1jo+GMA8YrOpeua2GTLeWkH7k3eVXr4iyVHegKs+X/EDHRGd4GJ7TBW2OtsThzrTVqdPuqSXQcmxzx2IobDCwqOy/YFuNUWKRtX5TJ7+cMlwOi2u+YXE2hJ0/neU2rqQOtbTOjxvHiJcu8T3TwEB+2td+MmAagkkNra1CMXt5hjqbJldeYsaY/TXpLKjoUA8woTpVtZs4LZT9EAKmsTUCMCbpAjG1mOjkRrQoAuX5Qh2aCFc6C0a5FT8a/FNAf06QvM+Iudoz8SrdmccD0ay8clEyI+xoyWuTdtT0huX5+f8NMHXI4=;oyGR2RUFoJk97Yh0zhk5sw=="
+secured: "EXUhbXmag2Wcd988jVgy4Dx3opFBJcJRm50uvYBQ3zi8wdWOw6cd9e0JuWoJLrzIm2yHIwsUaTWFkTWZ+3/bpxPs67/58zlAQF44qHHdFAovOj0Mno0+mBOUGun1SI789HcrSwjWkzlhbrceG+IuaPmZQaYT8JhRrqfCqeI7vpSE+6X0oyOr0LtdwYoVaADk3bbziFeEtJ0cR6XRL1PDwQG8Yo8/AmQLFQPSWVKf9p5t6ak92eUq3dJKmXHyV3zeiWom357+qA580tEm/+wvGnu5xwfxj1FuBkud1/W3akO4O8ixIkxWAhFfVYVtzLyFlNAe+JdP9LK6iFqFuK50PQqwBqFu2PRBVaP7a+8aTbM=;aiS/K3pq4RDfVIOQCpMQUQ=="
 ---
 

@@ -2,33 +2,23 @@
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
 excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T16:23:00Z
-originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+publishedDateTime: 2021-02-11T16:20:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?time=1613064601"
+webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?time=1613064601"
+ampWebUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize"
-    width: 1200
-    height: 785
-    isCached: true
 
 related:
   - title: "When Self-Driving Cars Get Embroiled In Massive Car Pileups"
@@ -46,6 +36,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020d8f3a91e85b44784b7e1%2F0x0.jpg%3FcropX1%3D1144%26cropX2%3D3871%26cropY1%3D436%26cropY2%3D1970"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Self-Driving Car Market Trend and Forecast"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
+    publishedDateTime: 2021-02-12T10:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "This is how self-driving cars are becoming blueprints for smarter surgeries"
     excerpt: "A startup is exploring how the artificial intelligence (AI) technologies used in self-driving cars could act as a \"blueprint\" for smarter surgeries. Theator, based in Palo Alto, Calif., is the developer of a \"surgical intelligence\" platform designed to improve the decision-making of surgeons and,"
@@ -103,6 +107,6 @@ related:
         height: 552
         isCached: true
 
-secured: "qX/gB6YRAixdlrLbYZ7HCEvylyxUYsiT67K1CT2iMYk8WDYu3Nkwej+RCOm5lU1V+B3AkQ+qe+t1tqk5KRQMEwDbHM0bcJ1YbECZuZG2646le5OOCOJyM83MwGgj3rwCsiHG81+zZB8n7QdIbtzozi1cNG7MBY9zSgkSA1z7Eq7EnT09pJOuT1dVLtA9eimwuLypR1NGWxmG1RArTlTYTDmz/Q5RurYpEOz9lk1aS57WyfJUXLa5tnilbPoXZwkgLlZ3ge847rZFk4i7aszKwcYsJOu5xd9T5TA/gKFNshZ+x1ubO4GV6m3Btw0XIMh/gOYwaE2G4HC4/CP316hisLSShH7U6UhpdjtIy5zUPF8=;sfvrZ+htEa3km+eZgXWlyA=="
+secured: "/tGmTeZNExxmWoDqwHTOfALggIqvMpaIbyvbkNXGaycHtQ2bSBQQ/lPeQiktP+mG0itzqWu00LVEMOFcXFyXk0a98wHHSCR/4jDMadxckdHasyoDK0XGNN1VS74CK/skUIpKubG2sjeGfvp5M0Uakadp5gxm2MbBGOeUEfI5M0cNn4rxbXc8IYSfEM3KUMrpptSlu21ZOQaKv+ZLsgj17cRtKq42T7Da32xREt62T4kPvejCt3IRo2nmq+qBW+4DuDs6gZIgq3qZHfFPomCPrgZmOwzl6yudj6porUKeuJgEafdB98WaHV9GJIGn8IRJuKF6MthCp5BL1Tek5Y8aDw/hp/GVMcK2iD3k3Uvz59I=;hkufE/4pZNuL70QEyOYSJA=="
 ---
 

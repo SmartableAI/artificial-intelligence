@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Waymo's top lawyer explains how the self-driving leader is expanding its reach — and defending its turf"
+    excerpt: "Kevin Vosen and his team tackle of range of issues for Alphabet's Waymo, from wrangling regulations to defending IP."
+    publishedDateTime: 2021-02-12T10:58:00Z
+    webUrl: "https://www.businessinsider.com/waymos-top-lawyer-explains-how-its-expanding-its-reach-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/60253a9acca90200129b7b18?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Self-driving car companies reveal 2020 test data: Cruise and Waymo improve, Apple quits"
     excerpt: "Self-driving car companies reveal 2020 test data: Cruise and Waymo improve, Apple quits Cruise fared much better last year, but we are"
     publishedDateTime: 2021-02-11T17:49:00Z

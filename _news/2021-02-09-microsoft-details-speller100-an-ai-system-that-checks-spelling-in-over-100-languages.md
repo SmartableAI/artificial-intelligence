@@ -48,9 +48,9 @@ related:
   - title: "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester"
     excerpt: "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile."
     publishedDateTime: 2021-02-11T19:40:00Z
-    webUrl: "https://www.techrepublic.com/index.php/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    webUrl: "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
     type: article
     provider:
       name: TechRepublic
@@ -448,20 +448,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
-    excerpt: "Change Healthcare (Nasdaq: CHNG) today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company’s Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
-    publishedDateTime: 2021-02-12T05:28:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-care-industry-medical-technology-information-technology-b96d856b4ed843a29c4a7f95b8598c0b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Cleareye.aiCollaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-10T08:48:00Z
@@ -489,6 +475,15 @@ related:
       name: Odessa American
       domain: oaoa.com
     quality: 20
+  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
+    excerpt: "Change Healthcare (Nasdaq: CHNG) today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company’s Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
+    publishedDateTime: 2021-02-12T11:08:00Z
+    webUrl: "https://www.financialbuzz.com/multiple-change-healthcare-services-earn-klas-recognition-for-excellence/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 18
 
 secured: "O9ybauHWd2lPADneBgK2ds9gG72NY94JA8Gom9izwG7HB0FMZ36xAZDjmr3CjcG5PPxr2qeLMnZ17+f/1cg20PX7B5QehmBCb1YbyF4oW7nRxEALv0UgbYKPfs3KHSWvqUSW5luwz3nA1raiQhtUM2jNtgV8CKxG0yQNt+Eqn2bQ3JpiDek9SrLt9VtFDLazd/U/iLWP+Hy2wXZEhC0UwJ1pazWbHC5iF8yoQS1HPzyNAKCSkwAJZ92rzy9mvk+fqT39hf/B4M3vCMJEKktIqOCkhWX5Dp1bSKJqgZe/50cgjpi8deOIQ4bUtNHHtUuXTYh6GwE4mw6V7RnZYqcEjZ8Q24uNDOVzk8a25xI20l5kgiekYlzWMSf5x4D0aIIi+IRP43doQk/zT8fkb8pycbD3yZxIv2Oj1WhE5h4QYZuuai24cpL5xPP3qfh6z84N/Y45odaJolDKlYOn3v47ZLMq2cIJR9561nO2JYvx6zwxhPcbBUrAwm3vh/x4y+QLS+40alUxBpxb/RyekiOiIA==;tzo4NFVzLw/OiY+kSvgxFw=="
 ---

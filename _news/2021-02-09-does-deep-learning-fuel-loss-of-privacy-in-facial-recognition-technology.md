@@ -42,6 +42,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Should Delhi govt schools be using the facial recognition technology?"
+    excerpt: "The use of the facial recognition technology in several Delhi government schools - in conjunction with the CCTV cameras installed - raises grave concerns, given the absence of data protection and privacy laws in India,"
+    publishedDateTime: 2021-02-12T12:01:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 61
+    images:
+      - url: "https://www.thehindubusinessline.com/migration_catalog/v2mul8/article18054655.ece/ALTERNATES/LANDSCAPE_615/editpage-blrasBL22RASHEEDA2EDITjpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Top 3 Technologies which are winning the Run in 2021"
     excerpt: "The top 3 technologies which are winning the run in 2021 are Al/Machine learning, IoT/Big data, and Cybersecurity."
     publishedDateTime: 2021-02-10T06:30:00Z

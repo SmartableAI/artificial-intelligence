@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png"
         width: 320
         height: 320
-        isCached: true
-  - title: "Use Artificial Intelligence to Improve Your Portraits in Luminar AI"
-    excerpt: "Artificial Intelligence is the next step in image editing, so find out how you'll edit your portraits of tomorrow with this tutorial on editing portrait images using Luminar AI. AI is set to ramp up image editing software like never before."
-    publishedDateTime: 2021-02-07T20:07:00Z
-    webUrl: "https://fstoppers.com/originals/use-artificial-intelligence-improve-your-portraits-luminar-ai-547916"
-    type: article
-    provider:
-      name: Fstoppers
-      domain: fstoppers.com
-    quality: 52
-    images:
-      - url: "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2021/02/1fe7dce4d1a7450d3b2a18734ba1b3e9.jpg"
-        width: 1185
-        height: 670
         isCached: true
 
 secured: "1IgJhYdHCM0ldVWhsvFPGxszSrPJiAoJEaE6zo6yNb3ew/5FI3gtsP/WhrNW3JElk5RbsB8ip0+PhOPO4bPPAzwx7xSTCmIqobjJy+HZoGNGRECKBGw1ikOBAxVSEkWpeytH+DG4K8EHU47HvWreJhUhsVK9bPwW7gvJklTsu8wIIGiSyYiGXA8u3yFplsjrmaqOQxFkjONr/KGxy1WlQPFBdXXdmH47Pr1T9ZAcN6FZVJHd14LqCB47HKDxGZhE82l0ER6bnOoW2w7wHbGONJqJ81fF8owmG/XTll92wKlOfWfsL8ELC9k31d6c2555xHjKaXSYyDwsqMkVlUyqBpkdQvo2r3aDU3An8Rk984qdpBMWitzAbGM1A5IgEv8cKXnX1ifpwmfvfHtpTbuNmSGVGtPJlkBtHNAPJ0Am9GKA1QOIl/rNU2+yeJGB+3UkYpEKz4xkmP4lMhmu5sst2AoVTSlqGoJn1SPKpkIll+FVFszVAbZDYV8TebAGi0FMc2wUgnFxdnFHOc2zKxl/eA==;iQPtdGtUHFYBevF+2fsQ0Q=="

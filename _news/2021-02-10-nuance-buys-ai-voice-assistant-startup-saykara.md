@@ -83,20 +83,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Healthcare Ventures Has Launched a Venture Capital Fund, Dedicated to Digital Health"
-    excerpt: "As a specialist digital health fund, Sydney based Healthcare Ventures will invest in early stage and growth companies transforming healthcare via digital health technologies. The investment strategy focuses primarily on Australian companies going global,"
-    publishedDateTime: 2021-02-07T20:36:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-south-wales-australia-medical-technology-b0ae6f493b6b464e91e034b187c1b6ed"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "/6dBlEM823m7Z2NFsQO6NTLT4z2D/w9r9CgkJVBxbl56st4etR9yePbMhAmD4/TpI7UZ1QGjmxbfHQThMGLg6iE6akGHYxN89ganRhmkydv6QYH401J9seySw9LwtBRetmHa2P4hV+MJsu8wbsggY1HKQ/u2aSYcgfAv+BFcc1f3cpLLUwFzEGshPishINDhMg/o+AM0Sy3bis0aQwjd9tnHy3DjJPxUUzJJYYxpS2K4IAWsKOsf/rCouEHo9TNn3YCUWlmGKWGOFRc6d+VCkOZQB61dwyfJ7dDO8OnVYDcYpD4we/A3W5KpAD8BHFbAZ2OQd/2whqeSdaKE6p4dSTNI4aDaRDkMdkI9PNKNBqg=;aGU4iKEHfsNpDU2Qow6rSQ=="
 ---

@@ -45,6 +45,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com"
+    excerpt: "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is drive"
+    publishedDateTime: 2021-02-12T12:15:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ex/ZRN1G2Gi9Dy2KPJ3KNBLoLYszdHV1cgms35nSDGdBnJ8PlH8K8qLv4m4QeGxxlAsrljE5bFAF3St4ygAHNNqD49BAWqm5KGF1YoZOClKrl0vlM9QblYErmmWfjCDwzLA8A2EhUz60RjBTlHDU43WM2KrnKWdNx5++iTwNFsMB8s/qkZ4/hX3L+z6wmNieyjPeF9ZfJY+e7MemRy+xH/JTNQQwPs0NAG+HYNV6XBHlwbrL0k1uEmWqfx8D0l+F6qGgShtzLEoEJgxWLkBwekv1NauA+IXcjuM41sh0hcoBK04SKEVOw5YX8mUv651GaZkSLnSZE3ISWk4Bk2Qb8JYZ3qX8ZrdPIWbMh3sQkxo=;sTgt8RPBETQ90pMFatGstQ=="
 ---

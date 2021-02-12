@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-26-computer-vision-technology-and-education-sector.md",
+      "title": "Computer Vision Technology and Education Sector",
+      "excerpt": "Computer vision technology could help with this problem as it allows educators to customize how students learn. It gives them a way to observe students and measure their engagement so as to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eteknix.com/computer-vision-technology-and-education-sector/",
+      "originalUrl": "https://www.eteknix.com/computer-vision-technology-and-education-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.eteknix.com/wp-content/uploads/2021/01/Screenshot_3.jpg",
+          "width": 928,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTeknix",
+        "domain": "eteknix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-stradvision-achieves-iso-270012013-certification.md",
       "title": "StradVision Achieves ISO 27001:2013 Certification",
       "excerpt": "StradVision's AI-based object recognition software, SVNet, is currently used in mass production models of ADAS and autonomous driving vehicles that support SAE Levels 2 to 4, and will be deployed ...",
@@ -1318,49 +1362,6 @@
       "provider": {
         "name": "RepublicWorld",
         "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-technology-to-track-passengers-ceo.md",
-      "title": "Delhi Airport evaluating 'computer vision' technology to track passengers: CEO",
-      "excerpt": "Delhi Airport is evaluating computer vision technology to track passengers, reduce waiting time and ensure social distancing at terminals, a top official of the facility's operator informed | NewsByte",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story",
-      "originalUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cdn.newsbytesapp.com/images/l216_39071611046932.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story/amp",
-      "cdnAmpWebUrl": "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story/amp",
-      "publishedDateTime": "2021-01-19T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsbytesapp.com",
-        "domain": "newsbytesapp.com",
         "images": null,
         "publishers": null,
         "authors": null
