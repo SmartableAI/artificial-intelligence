@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-04-ai-in-retail-ocado-goes-bananas-for-robot-food-pickers.md",
+      "title": "AI in Retail - Ocado goes bananas for robot food pickers",
+      "excerpt": "Ocado Technology is training its robots to be more sensitive as pressures from the rise in online shopping grow, explains Isabel Richards, Head of UK Development Centers. (Isabel Richards) As I was chatting to Isabel Richards,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers",
+      "originalUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-02/OcadoRobots.jpg",
+          "width": 1702,
+          "height": 1328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers?amp",
+      "publishedDateTime": "2021-02-04T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-clearview-ai-surveillance-ruled-illegal-in-canada.md",
+      "title": "Clearview AI Surveillance Ruled Illegal In Canada",
+      "excerpt": "The Canadian privacy watchdog has ruled that the use of Clearview's AI surveillance technology is illegal, and is demanding that it stop offering its services in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601bcd83af0c1ecebb845422%2F0x0.jpg",
+          "width": 1200,
+          "height": 1074,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/amp/",
+      "publishedDateTime": "2021-02-04T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025.md",
       "title": "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025",
       "excerpt": "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market",
@@ -1090,109 +1184,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-scientists-invented-an-ai-to-detect-racist-people.md",
-      "title": "Scientists invented an AI to detect racist people",
-      "excerpt": "A team of researchers at the University of Virginia have developed an AI system that attempts to detect and quantify the physiological signs associated with racial bias. In other words, they’re building a wearable device that tries to identify when you’re having racist thoughts.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/07/spiderman-spot-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/amp/",
-      "publishedDateTime": "2021-02-03T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-researchers-claim-that-ai-translated-text-is-less-lexically-rich-than-human-translations.md",
-      "title": "Researchers claim that AI-translated text is less ‘lexically’ rich than human translations",
-      "excerpt": "Researchers at Tilburg University and the University of Maryland claim that AI-translated text is less 'rich' compared with human translations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/03/researchers-claim-that-ai-translated-text-is-less-lexically-rich-than-human-translations/",
-      "originalUrl": "https://venturebeat.com/2021/02/03/researchers-claim-that-ai-translated-text-is-less-lexically-rich-than-human-translations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/Google-Lens-translation.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/03/researchers-claim-that-ai-translated-text-is-less-lexically-rich-than-human-translations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/researchers-claim-that-ai-translated-text-is-less-lexically-rich-than-human-translations/amp/",
-      "publishedDateTime": "2021-02-03T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

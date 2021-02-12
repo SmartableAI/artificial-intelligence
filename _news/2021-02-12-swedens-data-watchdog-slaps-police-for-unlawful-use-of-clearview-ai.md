@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2021/02/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database_1500.jpg"
         width: 1500
         height: 860
+        isCached: true
+  - title: "Clearview AI face biometrics patent filing suggests consumer application"
+    excerpt: "The patent application proposes the use of its biometric facial recognition for the identification of individuals in a variety of private and public sectors."
+    publishedDateTime: 2021-02-12T18:51:00Z
+    webUrl: "https://www.biometricupdate.com/202102/clearview-ai-face-biometrics-patent-filing-suggests-consumer-application"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
   - title: "IMY fines police for using Clearview AI for facial recognition in breach of Swedish Criminal Data Act"
     excerpt: "The Swedish Authority for Privacy Protection (IMY) said it is fining the Swedish Police Authority SEK 2.50 million for processing personal data in breach of the national Criminal Data Act when using Clearview AI to identify individuals."

@@ -51,20 +51,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Hyundai, Kia Say Not in Car Development Talks With Apple"
-    excerpt: "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in discussions with Apple Inc. on cooperating to develop a self-driving electric vehicle, following reports and speculation that they were working with the tech giant."
-    publishedDateTime: 2021-02-08T01:39:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy_OJ8GUjbk4/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Hyundai says it is not talking with Apple about self-driving cars"
     excerpt: "Shares in South Korean carmaker and affiliate Kia fall as investors’ hopes of autonomous EV projects are dashedRead more on 'Financial Times"
     publishedDateTime: 2021-02-08T04:11:00Z
@@ -148,20 +134,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/South-Korean-Hyundai-and-Kia-say-they-dont-talk-iPhone.jpeg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Hyundai, Kia say not in talks with Apple on self-driving car development"
-    excerpt: "South Korea's Hyundai Motor and Kia said on Monday (Feb 8) they are not in talks with Apple on developing autonomous vehicles, sending their shares tumbling.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-08T01:08:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/hyundai-kia-say-not-in-talks-with-apple-on-self-driving-car-development"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 38
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_hyundai_080221.jpg?itok=WS_uo6SL"
-        width: 763
-        height: 509
         isCached: true
 
 secured: "UMIIx9tq7UC0PHxbx69OB7vzfd2SOoAbxGTiwN+V/Koh7RWsI/N+Pyo2srwCbXdPj3bz8VeEh3WctjbJ/b/7QN3mL2V4VMdFPY5TmHG9iikE/45Qiwzc6jHI8p9A+BymemsQl4vC1E3QWxU0d1kYv+I3OqxQKpf3gUmDAMdwWkyPHXfyrHcF1YzT5ua/ql5u0FMxvnFGRSwed+FV5LK/ciMZxSzccqzw77Hhny5blT5I0NsjUT1bYjiVamkBHSeZXCFeZISrtYNF6+42VThSbU447lUu1S5DKpcMADY9/fdsErQdjd0msQym+6klOpQbEMOIl+umi+JgEdhJVL0DjwiyoRzbNJQiaGHNAIPeJwgq/JKJ0okRX6IdeYNuGsEDsKRDonWbrugEU8Xe3e/IVZGekaC6/ctcY+QtIDTXTAoPb4vbtqkzG8I5PAUpPpLEcCx1BQolEKHXdgWcF4iW2MLZfvOIzmnYafdxZ0CotTiPO3mVcFiTdlEcxsBLomVK6Cpids6hjjQwzvgR/HwRkw==;4GJZ/QcvQNaUpML4ldm89A=="

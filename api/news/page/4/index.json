@@ -140,6 +140,48 @@
       ]
     },
     {
+      "path": "_news/2021-02-10-iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur.md",
+      "title": "Iron Pillar leads $5 million funding round in AI startup Ushur",
+      "excerpt": "Ushur is Iron Pillars second investment from its second fund, which is expected to announce its first close in a couple of months, co-founder Mohanjit Jolly says.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-85978,msid-80772644/startup-funding.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms",
+      "publishedDateTime": "2021-02-09T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-alpha-health-publishes-comprehensive-buyers-guide-to-healthcare-revenue-cycle-automation.md",
       "title": "Alpha Health Publishes Comprehensive \"Buyer's Guide to Healthcare Revenue Cycle Automation\"",
       "excerpt": "Today, Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, published its \"Buyer's Guide to Healthcare Revenue Cycle Automation.\" The free, 28-page booklet is meant to serve as a thoughtful guide to purchasing and deploying effective automation solutions within healthcare revenue cycle operations - from industry best practices to the variables that may be unique to individual organizations.",
@@ -718,6 +760,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020.md",
+      "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
+      "excerpt": "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "publishedDateTime": "2021-02-09T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-bengaluru-airport-bags-voice-of-the-customer-global-recognition.md",
       "title": "Bengaluru airport bags 'Voice of the Customer' global recognition",
       "excerpt": "The 'Voice of the Customer' initiative by the Airports Council International World recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice",
@@ -1097,110 +1182,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-c3ai-exec-says-lack-of-automation-is-holding-back-ai-progress.md",
-      "title": "C3.ai exec says lack of automation is holding back AI progress",
-      "excerpt": "Edward Abbo, president and CTO of C3.ai, said AI progress is being held up by too much reliance on manual processes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/",
-      "originalUrl": "https://venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/c3ai-feature.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/amp/",
-      "publishedDateTime": "2021-02-08T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-chatbot-market-in-2021-stats-trends-and-companies-in-the-growing-ai-chatbot-industry.md",
-      "title": "Chatbot market in 2021: Stats, trends, and companies in the growing AI chatbot industry",
-      "excerpt": "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from ou Report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
-      "originalUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6011cef11d2df20018b71349?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

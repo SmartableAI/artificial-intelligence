@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Innovation in technology and vocational training gets financial recognition"
-    excerpt: "The winners of the first inaugural Cambodia Skills Challenge Innovation Call have been announced. The Innovation Call is an initiative of the Ministry of Labour and Vocational Training and the United Nations in Cambodia,"
-    publishedDateTime: 2021-02-08T02:44:00Z
-    webUrl: "https://www.khmertimeskh.com/50811599/innovation-in-technology-and-vocational-training-gets-financial-recognition/"
-    type: article
-    provider:
-      name: Khmer Times
-      domain: khmertimeskh.com
-    quality: 37
-    images:
-      - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/02/16824.jpg"
-        width: 750
-        height: 440
-        isCached: true
   - title: "Facial Recognition Market Sets the Table for Continued Growth 2021-2027 | Gemalto NV, Ayonix Face Technologies, Cognitec Systems"
     excerpt: "MarketDigits has recently published the Global research Report Titled Facial Recognition Market The study provides an overview of current statistics and future predictions of the Facial Recognition Market The study highlights a detailed assessment of the Market and displays market"
     publishedDateTime: 2021-02-08T15:04:00Z
@@ -112,6 +98,20 @@ related:
       - url: "https://cdn.openpr.com/U/2/U208230480_g.jpg"
         width: 700
         height: 334
+        isCached: true
+  - title: "ISRI Advocacy Efforts Result in Recognition of the Essential Role of Recyclers in the Critical ..."
+    excerpt: "Across the nation, state legislators are officially recognizing the importance of the recycling industry in their communities. Most recently, following the advocacy"
+    publishedDateTime: 2021-02-12T17:01:00Z
+    webUrl: "https://omaha.com/business/consumer/isri-advocacy-efforts-result-in-recognition-of-the-essential-role-of-recyclers-in-the-critical/article_3033cb0b-ff2f-5353-b114-abd71c867a8c.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 10
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "z2C7EOCEPCAGTXltjzTF0+eLNSgDzYV9V9gFdqd8sGdjtp33RhtMY9p/JrlBZEUMS1IHEStGfmxs8Pc2Fx6UwP7Y7Eqf2sNRG0EHgBUEeuSOzBHsG2xMrBJ7/ytcofieF5h5P7K02krXMh3Wx6B7+eg6dL3Sgm9fMTSCac6vz4hIypvTanddzmAOUJInHFB+J0cZ/6dKrIKZPi748qMLo8ibw0A7CobtJrD/vSogABFPR9xSR5A671zSMZ5tj7uFSnzMYexjOABVOGokCAIgh44+a9Hdxkxf/GprTYItdgGHT7hxQ6SQRq6zs/yO13zFBkasXWHGle8o7btitxWEHUz8O/a3sNbHZGDMsM35+VK1SXb42Rp5/gt1x+qmpL5w3MAwHd7jpq+n7bZsCbgIk7D+lW8RQJ+HlEMw43mldsZO4wWOxpgZBj8lDsmdNsDj044gv01tg/szZhM3iUmidjO0Pg0pN7pKL9vLu+IBHtQe7HCP+lfdK4nj2ajmMf+JvVLh4sBMS3LhqEENHY2qbQ==;hhCGWH/cpT1JqoVsDF26uw=="

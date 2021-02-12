@@ -160,6 +160,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
+    excerpt: "The Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027 report has been added to ReportOcean.com offering. The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc."
+    publishedDateTime: 2021-02-12T17:31:00Z
+    webUrl: "https://menafn.com/1101588057/Global-Artificial-Intelligence-AI-in-Manufacturing-Market-Size-Share-Growth-Trends-Opportunity-and-Forecast-To-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/updates/pr/2021-02/11/G_d2718712-7image_story.png"
+        width: 2614
+        height: 2615
+        isCached: true
 
 secured: "987qliR3mUIzOza7Tlxl1kHYK6j3UVx861vGRML8u378i+URM0+8CostmCDTypRb/BTPwM+91v/xYSWcBxXYYVgUFoWdjvb88N0WOXvj7ZoYWwQLDPfWRmvRKLx12B3g/qwcgClPA4Ob3+eJjkYvIfSIwDJIGSGIzqhtB+MN90fZ+2vZGJz3u06RO4Qb1AdqAnrcuOvv6dufIu5elAGafIYbYTI+PtrXfhsGI6aOm+xjecbJe1R+Pnvly5jpemzMOkT6UzOFyegztyb8HoyF/UWPf4d2rvTx66X32Or7cUnhcDPFWMDI8C4ctzFoPS32DKFE5upKsTJEeep2RIEUngUwdn7aRJz2+ME8ZeRTaXM=;EHC6MQjl7Wn/5YHFyyo8LQ=="
 ---

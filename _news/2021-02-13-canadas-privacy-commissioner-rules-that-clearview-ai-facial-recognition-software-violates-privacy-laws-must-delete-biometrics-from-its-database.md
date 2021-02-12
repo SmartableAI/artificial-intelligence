@@ -44,6 +44,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Clearview AI face biometrics patent filing suggests consumer application"
+    excerpt: "The patent application proposes the use of its biometric facial recognition for the identification of individuals in a variety of private and public sectors."
+    publishedDateTime: 2021-02-12T18:51:00Z
+    webUrl: "https://www.biometricupdate.com/202102/clearview-ai-face-biometrics-patent-filing-suggests-consumer-application"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "IMY fines police for using Clearview AI for facial recognition in breach of Swedish Criminal Data Act"
     excerpt: "The Swedish Authority for Privacy Protection (IMY) said it is fining the Swedish Police Authority SEK 2.50 million for processing personal data in breach of the national Criminal Data Act when using Clearview AI to identify individuals."
     publishedDateTime: 2021-02-11T12:49:00Z
@@ -54,6 +68,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "rSVq1jXB/OG0G9bUS+TSF8zgAXRgK3Z+7kG9wvYztoquQR+nYon47JXRDA+c27jVq10AGVHiGXGBlMTLBebZE0i98qOlIJ1/zoVpE094VsFWhGibBTBdM2x1073xM6jOVRa7wrnvd/kyhQPbRmbldR13h+mkZPNKxVOHxqQ49DtIZcNuwMompwx0ofO7AE2OXlFMQEmoLYLjP31+VHh6j1BbX+1ca0NEIidWsP/kCz412ZC0yy6+PNlgvu7JOxFdQBNe4VuK9w5kbOZ8ZH6vdrB99vtf9IaklTE+vMCChJ/ZR72q5C9Z4WDbN3uHD4Hwe+w70BanBcOGj86L4EthW8TyEro+mqztdkNRRjJpyKs=;lsHsnYmK5hU8zYIHX+Cxmg=="
+secured: "iF0zY4H6hIVtUeQcTHn+yp4OWISzhn+xEato6rC18tsXMUorGZajEu8Rm9VCo7lM6Mfab0zHSm7ntbN0/IeN5kX+jbz38wj6KnN9Us8G9idOz1Dvol28efhUQe8CHK/Cp9S4SS9FkkbZQsvGMp2DonBAs9hpR9b0/fjNYIPz2azqrFf5LnfUdxaVBiy7zVTb7DM2YCb8M7PV/0y1ql1SGnYJer6me/7nwMAP5ohWBBXv8hfjX/oy0TLzxIzwy8D5Qr2bTu90DfmwuRCX9gYwXvbsH+bw7IyR7poDRzB4ROMSPj33ujlvEmr+wnS8haXv32qudB/tTsFxxZWNtKugf89JhfILoZKOaiSLIrJwTngThfG653Z5o2cIUrroX2G72MgJkfZHshNZCilqROO9xf3F7Z9oH8Fp+EM2jus1JneMercQBONvMR0fV/7ZgLy2B/bQZtwu/CWZ+APfjgvRLu3OVIgcaK6cHOTIG8nyOgLqMqjLt/k529wWat3TaZisidMV6nH2krKq6gN0LAHK7A==;hEQv1AFv9pvdAP5sGM8YrQ=="
 ---
 

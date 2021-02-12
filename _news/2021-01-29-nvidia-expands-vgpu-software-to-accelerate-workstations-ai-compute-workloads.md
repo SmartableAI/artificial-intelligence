@@ -1,29 +1,26 @@
 ---
 category: news
-title: "NVIDIA Expands vGPU Software to Accelerate Workstations, AI Compute Workloads"
-excerpt: "Designers, engineers, researchers, creative professionals all need the flexibility to run complex workflows – no matter where they’re"
-publishedDateTime: 2021-01-28T16:05:00Z
-originalUrl: "https://www.hpcwire.com/off-the-wire/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads/"
-webUrl: "https://www.hpcwire.com/off-the-wire/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads/"
+title: "NVIDIA Expands vGPU Software To Accelerate Workstations, AI Compute Workloads"
+excerpt: "Support for NVIDIA A40 gives remote users best-in-class RTX graphics performance; NVIDIA GPU Operator support streamlines management of containerised AI workloads. SINGAPORE—January 28, 2021—Designers,"
+publishedDateTime: 2021-01-28T18:17:00Z
+originalUrl: "https://www.scoop.co.nz/stories/WO2101/S00265/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.htm"
+webUrl: "https://www.scoop.co.nz/stories/WO2101/S00265/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.htm"
 type: article
-quality: 51
-heat: 51
-published: false
 
 provider:
-  name: HPCwire
-  domain: hpcwire.com
+  name: Scoop
+  domain: scoop.co.nz
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_ncar_hq-405x228.jpg"
-    width: 405
-    height: 228
+  - url: "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg"
+    width: 800
+    height: 800
     isCached: true
 
-secured: "nEu2KROJQWlyLiBpj+0+qS9c+T8uSNz0LaKcfW+gTJgUR4IFlez2jRGgJpjXHN0DKCZujVmq5wa/YtvcPiEfCK31XBVZNQPuUPC3+TxZCj6tQSfw5ydoHX6PYQ99/jsgRYQ+0m2jRLQKcviqE/yZcGgV5DO/cwPl68ehBFFk4aK4w5CQXGDYMx9lqMRmhMgUmLl5fSZKO2LXY8puseQ2VIk0OVQmRsAf/rYq8pDNrD+wvZCrMZFjEHNLyTdL00DEdZ7K64d/mNfJBhlqowapx4t1698l3CnNHOV21pdk/i1jH4bIjtEaNedgxwh09ofqgYw32GSQhsZQNlrfzKZkhJ9GCCzeF0GxsonIdg6PritaUDkBu8udFrEVO7ALLdp2pPW4yNucvGIQDaTzxZ7OrCGJ5EpMRpRZ9CERwxvJJs0s/gn5iL7Z0B3cqG3U18dhUdXzVeGHOOmsHbwbLRQVA/AsJjvKv83WmZkskdZmT0PB7kpD7Ks1ZFRUjhLbjm6tk3H4wkeyc3ILWt9SK3C/aQ==;I5XbliK9if5Y9jbCkyBC6g=="
+secured: "9wwXSbj2UXDO3Yje8OXozMVcnoWIFxSSlEngEjqrgWt9JJiN93BWv38uYuCp3vrT2tIZqaE3XM7uIsn1hY+zA2g/GS2YaxChyD7JoWQFsvwBcMXtXbm2rc4OB2rDxnT+CBbyO5D0j5VB0kICo0bbBCuXsKCU/re1GGZViQUA/UMMonhBJEQfNc4m1ChZ4qPUixMdhb941JW+OjFUx5SwN81JcxGhyj5ISEq7x4BXNn0AmhrP8MZgwOHyKXchBTGC5Qya7JPl42qTdTHETweV1M6UPy7DEAH0Q63si0i/aCxJyXOljXTYBrLz0PW/aqBtaMgufB5NlBA6q+b+FXmd3Y2ndFaiYjXJa4ufcKpT5yU=;FlnIVN9pBRuWsxXbrBRkJw=="
 ---
 

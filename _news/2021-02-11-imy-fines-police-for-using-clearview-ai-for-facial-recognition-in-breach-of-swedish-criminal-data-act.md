@@ -51,6 +51,20 @@ related:
         width: 1500
         height: 860
         isCached: true
+  - title: "Clearview AI face biometrics patent filing suggests consumer application"
+    excerpt: "The patent application proposes the use of its biometric facial recognition for the identification of individuals in a variety of private and public sectors."
+    publishedDateTime: 2021-02-12T18:51:00Z
+    webUrl: "https://www.biometricupdate.com/202102/clearview-ai-face-biometrics-patent-filing-suggests-consumer-application"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "ESDPLyakqir4ZQbZGtrrLqqxjmOruHOwCU4wADLA7UX5xClXDb81sEc7r6DAiD4tU8jdDdUHLfEbj5jjbJH8+r+ZeNdit61qrieaXB3ozx0PtxY4NdgmSM4qXaDt6ROYrQ6bH/H49SHYw7r1sN6U6C+G5+0uVGt/pRZA0ZYSZRrKJml61X2EHS2Ygp4gyFDR9gTqmLMtLRC1ua9cmey/kWVnxHPCj6HNiZ5UCYCVKLDh8IX63xHCvmTFdqUFMm9pUz/XFNuqpbQH74lv6l59tn2rcBxw/jz7cNC5Gh9o2hQmda+CfrkdH5wQswub2FLOl4pCqZAtOFvmofsrMOwrtgfJbhNYGlvPQ9wcRI1ohzw=;1mlf6ORuX1AZ2N40vomSHA=="
 ---

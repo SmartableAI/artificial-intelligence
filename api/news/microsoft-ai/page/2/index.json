@@ -317,6 +317,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-26-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
+      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
+      "excerpt": "Backed by Intel and Microsoft Azure, the OpenCV AI Competition consists of two phases: Phase 1 requires a team to identify a real-world AI problem that can be solved over a three-month period with ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
+      "publishedDateTime": "2021-01-26T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-24-talking-to-the-dead-microsofts-ai-chatbot-idea-feels-straight-out-of-black-mirror.md",
       "title": "Talking to the dead? Microsoft's AI chatbot idea feels straight out of Black Mirror",
       "excerpt": "The Rise of Skywalker probably didn’t have this in mind when its opening scroll proclaimed “The dead speak!” In a move that feels more Black Mirror than Star Wars, Microsoft is reportedly working on a",
@@ -1361,59 +1413,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-microsoft-joins-self-driving-race-in-new-deal-with-cruise-gm.md",
-      "title": "Microsoft Joins Self-Driving Race in New Deal With Cruise, GM",
-      "excerpt": "Microsoft (NASDAQ:MSFT) is making a bold bet on self-driving with Cruise and General Motors (NYSE:GM). GM and Cruise said on Tuesday that they have entered into a \"long-term strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/01/19/microsoft-joins-self-driving-race-in-new-deal-with/",
-      "originalUrl": "https://www.fool.com/investing/2021/01/19/microsoft-joins-self-driving-race-in-new-deal-with/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F608910%2Fcruise-track-3-in-seattle.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/19/microsoft-joins-self-driving-race-in-new-deal-with/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/19/microsoft-joins-self-driving-race-in-new-deal-with/",
-      "publishedDateTime": "2021-01-19T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

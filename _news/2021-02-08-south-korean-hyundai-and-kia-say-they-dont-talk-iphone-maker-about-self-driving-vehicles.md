@@ -57,20 +57,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Hyundai, Kia Say Not in Car Development Talks With Apple"
-    excerpt: "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in discussions with Apple Inc. on cooperating to develop a self-driving electric vehicle, following reports and speculation that they were working with the tech giant."
-    publishedDateTime: 2021-02-08T01:39:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy_OJ8GUjbk4/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Hyundai says it is not talking with Apple about self-driving cars"
     excerpt: "Shares in South Korean carmaker and affiliate Kia fall as investors’ hopes of autonomous EV projects are dashedRead more on 'Financial Times"
     publishedDateTime: 2021-02-08T04:11:00Z
@@ -150,20 +136,6 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 38
-  - title: "Hyundai, Kia say not in talks with Apple on self-driving car development"
-    excerpt: "South Korea's Hyundai Motor and Kia said on Monday (Feb 8) they are not in talks with Apple on developing autonomous vehicles, sending their shares tumbling.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-08T01:08:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/hyundai-kia-say-not-in-talks-with-apple-on-self-driving-car-development"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 38
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_hyundai_080221.jpg?itok=WS_uo6SL"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "zyYB9eQd2IVU5sS97c6foNx9jJnmV+OrjdJ7GrBjYWYXn6ZfV+iVMI1UyIqQRsgW12I8qYwCEF+BM0mGN+m58qm74ezdXSqcpVnUhpe39lIJjb+3sJx5e86ZJvugT1XoVvhlnmSOA/zbm/euwENdhuSBDwpRQtQrr5kO1XMb2O61EpWkOIcLRef+nsZeXJP3GLVVAptm6wlMuqfcLSqdHZQ5n/0MWXM9V9GOXbXu2bJjseq6pQX1gQyCoLVGK87csu3kYbnZVGPo9Wz7aTUD252QyCvECm18iIwkTaebLubVh4DbPJXLF+jtVFwWEqGyJGLY7B3P9PZKDTcwXJUegaDSh7rvo8NfFd7WknfcaUFvH2aJQrrmBeboOhX38QyrsEeAFXn0lwvpbVLqe8Ada1QSrYGGZ66bX+NYuiximLjvgfVUrUq0Wgu173Z05J7FYaxclOAZwdQX4yPDMlo0iQ3w7PBDpEdO2dBw6GZkKc5Po/xZ1CaSkODLQ2vKX32uEpuxe7guQfwqOhdQikBKyg==;aaxhEnzOpfF4BKJb0NlRsg=="
 ---

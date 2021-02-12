@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-09-c3ai-exec-says-lack-of-automation-is-holding-back-ai-progress.md",
+      "title": "C3.ai exec says lack of automation is holding back AI progress",
+      "excerpt": "Edward Abbo, president and CTO of C3.ai, said AI progress is being held up by too much reliance on manual processes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/",
+      "originalUrl": "https://venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/c3ai-feature.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/amp/",
+      "publishedDateTime": "2021-02-08T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-chatbot-market-in-2021-stats-trends-and-companies-in-the-growing-ai-chatbot-industry.md",
+      "title": "Chatbot market in 2021: Stats, trends, and companies in the growing AI chatbot industry",
+      "excerpt": "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from ou Report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
+      "originalUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6011cef11d2df20018b71349?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-researchers-find-that-labels-in-computer-vision-datasets-poorly-capture-racial-diversity.md",
       "title": "Researchers find that labels in computer vision datasets poorly capture racial diversity",
       "excerpt": "In a study, researchers at Northeastern University find evidence that lables in computer vision datasets poorly reflect racial diversity.",
@@ -106,7 +210,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -745,7 +849,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -1087,111 +1191,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-ponyai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech.md",
-      "title": "Pony.ai raises $100 million more to advance its autonomous vehicle tech",
-      "excerpt": "Autonomous vehicle startup Pony.ai has raised $100 million more, bringing its total raised to over $1 billion at a $5.3 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/",
-      "originalUrl": "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/",
-      "publishedDateTime": "2021-02-07T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere.md",
-      "title": "Qualcomm research could lower the barriers to visual AI everywhere",
-      "excerpt": "Qualcomm is working to reduce the compute power needed for visual AI to enable chips that are smaller, cheaper, and less power hungry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/",
-      "originalUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Qualcomm.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/amp/",
-      "publishedDateTime": "2021-02-06T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

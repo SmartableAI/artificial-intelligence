@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/leading-facial-recognit
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
 type: article
 quality: 68
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Minneapolis City Council approves ban on facial recognition technology"
+    excerpt: "The City of Minneapolis has banned the Minneapolis Police Department and other city departments from using facial recognition technology.  The City Council on Friday voted unanimously to approve an ordinance that prohibits the City of Minneapolis from buying facial recognition technology or using data from it."
+    publishedDateTime: 2021-02-12T18:47:00Z
+    webUrl: "https://bringmethenews.com/minnesota-news/minneapolis-city-council-approves-ban-on-facial-recognition-technology"
+    ampWebUrl: "https://bringmethenews.com/.amp/minnesota-news/minneapolis-city-council-approves-ban-on-facial-recognition-technology"
+    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-news/minneapolis-city-council-approves-ban-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: Bring Me The News
+      domain: bringmethenews.com
+    quality: 59
+    images:
+      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc0MDA5NDE5MTQ5ODc4NTc5/44232996_00e19bbe34_k.jpg"
+        width: 620
+        height: 324
+        isCached: true
   - title: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region"
     excerpt: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region SYDNEY, Feb. 9, 2021 /"
     publishedDateTime: 2021-02-09T11:19:00Z

@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Innovation in technology and vocational training gets financial recognition"
-    excerpt: "The winners of the first inaugural Cambodia Skills Challenge Innovation Call have been announced. The Innovation Call is an initiative of the Ministry of Labour and Vocational Training and the United Nations in Cambodia,"
-    publishedDateTime: 2021-02-08T02:44:00Z
-    webUrl: "https://www.khmertimeskh.com/50811599/innovation-in-technology-and-vocational-training-gets-financial-recognition/"
-    type: article
-    provider:
-      name: Khmer Times
-      domain: khmertimeskh.com
-    quality: 37
-    images:
-      - url: "https://www.khmertimeskh.com/wp-content/uploads/2021/02/16824.jpg"
-        width: 750
-        height: 440
-        isCached: true
   - title: "Tech Can Flag Distracted Jurors. But Will Courtrooms Allow Facial Recognition?"
     excerpt: "Maintaining jurors' undivided attention during in-person trials can be tricky in a virtual environment. But where legal tech companies see an opportunity, judges may see an unneeded solution."
     publishedDateTime: 2021-02-08T17:11:00Z
@@ -112,6 +98,20 @@ related:
       - url: "https://cdn.openpr.com/U/2/U208230480_g.jpg"
         width: 700
         height: 334
+        isCached: true
+  - title: "ISRI Advocacy Efforts Result in Recognition of the Essential Role of Recyclers in the Critical ..."
+    excerpt: "Across the nation, state legislators are officially recognizing the importance of the recycling industry in their communities. Most recently, following the advocacy"
+    publishedDateTime: 2021-02-12T17:01:00Z
+    webUrl: "https://omaha.com/business/consumer/isri-advocacy-efforts-result-in-recognition-of-the-essential-role-of-recyclers-in-the-critical/article_3033cb0b-ff2f-5353-b114-abd71c867a8c.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 10
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "H/OOgl1osTWTD92oT8qHgJOVZbbsVgBX2urMWUXmRhL7sUzAm7fQrmetXVVulHPGc7Y9VFg/WBPsAQCjcQn9VVfRJD0AvJ+ExUF5+5UwH9MbMRwYcGojqyMNhFAk7WaKEG4zC9AHsYSMFhXT7dOYJ1L4lNO7Rw5tX3lr2MF5z0sO8JFfODaeheCCMqnIClo/YzSZj4oFTNv05cV2awS91OtG+XyXKiOlQoZ+dAM1I3fQblxWttI3CVLGuc+WrMVgpWRr8L9tjpvmrLhgCUPFMrJqEN9/7Jf3gsdeRQo+3ExNP720HpAUEyF0OnOcw8WPOJmpyTMYXnVozYAFfTGb8/YqX7U29wHSPnNmThSqXAIx84uQ7yv9bGp2VOT2FcAPK4WSUOlmG0taV2Nqr7J6ZS56cPC6OEfhA6HcsSXoQhmdC/vx4iiTl9XwK1xQByUQeNkbZUFsDf04fShGMkw3EBQiRmC8Kf5zLid13UcmhwwoSNgDixGlIgbCf+Aj9icjWITmhh7sycdNoqUmg6pMNw==;L+kSp6pPnh034mmCGQ83sg=="

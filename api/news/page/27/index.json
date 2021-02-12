@@ -2,6 +2,205 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-01-23-yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform.md",
+      "title": "Yellow Messenger integrates Microsoft Azure cognitive services on its platform",
+      "excerpt": "Microsoft is working with Yellow Messenger to use AI services to make automated voice customer services with virtual assistants feel more natural and human to human during interactions",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
+      "originalUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/01/1611405390_yellow_messenger__story.jpg",
+          "width": 760,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/",
+      "publishedDateTime": "2021-01-23T00:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020.md",
+      "title": "How fintech and serial founders drove African pre-seed investing to new heights in 2020",
+      "excerpt": "When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
+      "originalUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/africa-preseed-investment.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
+      "publishedDateTime": "2021-01-22T23:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-technology-is-rapidly-changing-cancer-care.md",
+      "title": "Technology Is Rapidly Changing Cancer Care",
+      "excerpt": "The Watson platform was developed with ... to identify the best treatments for cancer patients. IBM Research has been exploring how AI systems could ingest raw data and support oncologists as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600cc1fc7c71e2869dea3b6f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/amp/",
+      "publishedDateTime": "2021-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-staten-island-da-draws-criticism-for-facial-recognition-use.md",
+      "title": "Staten Island DA Draws Criticism for Facial Recognition Use",
+      "excerpt": "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
+      "publishedDateTime": "2021-01-22T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win.md",
       "title": "TripAdvisor Beats Speech Recognition IP Suit After PTAB Win",
       "excerpt": "Mimzi LLC on Thursday agreed to permanently dismiss an infringement suit against TripAdvisor LLC over a speech recognition patent after the Patent Trial and Appeal Board found all the claims invalid.",
@@ -981,195 +1180,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities.md",
-      "title": "Computer Vision Market 2020 to 2025|Rising Demand, Share, Trends, Growth, Opportunities",
-      "excerpt": "The Final Report will cover the impact analysis of COVID-19 on this industry: Computer Vision can be best defined as a branch of computer science which deals with improving the digitization and processing of computer aided tasks for better understanding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T23:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game.md",
-      "title": "Call of Duty: How Much Translation, Localization Volumes Go Into a Popular Game?",
-      "excerpt": "Interview with audio team behind popular game franchise, Call of Duty, indicates why game localization continues to thrive through Covid-19.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/demand-drivers/call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game/",
-      "originalUrl": "https://slator.com/demand-drivers/call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/01/Translation-and-Localization-of-Call-of-Duty-Game-2020.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-ai-systems-to-get-an-ethics-code-dod.md",
-      "title": "AI Systems to get an Ethics Code: DoD",
-      "excerpt": "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
-      "originalUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T21:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon.md",
-      "title": "This Start-Up Founder Sees A Data Privacy Reckoning On The Horizon",
-      "excerpt": "Patricia Thaine is a young start-up founder of Private AI, creating a suite of privacy tools. She discusses the state of privacy, how we got here, whether privacy as a default becomes the norm and how Private AI will enable this new normal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a3e8f7f4f95414914aafb%2F0x0.jpg",
-          "width": 1200,
-          "height": 908,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
-      "publishedDateTime": "2021-01-21T19:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/funding/iron-pillar-leads-5-million
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Startup Labelbox Closes $40 Million in Series C Funding"
+    excerpt: "Labelbox, the leading training data platform for enterprise machine learning applications, today announced the close of a $40 million Series C funding led by B Capital Group. Previous investors Andreessen Horowitz,"
+    publishedDateTime: 2021-02-12T18:13:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Ushur Closes $5M Series B Extension from Aflac Ventures and Iron Pillar"
     excerpt: "Ushur, the no-code intelligent automation company, today announced a $5M addition to its over-subscribed $25M Series B funding in November 2020. Aflac Ventures and Iron Pillar participated in the round."
     publishedDateTime: 2021-02-09T15:44:00Z

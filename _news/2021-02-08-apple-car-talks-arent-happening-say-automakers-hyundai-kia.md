@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say
 webUrl: "https://www.bloombergquint.com/technology/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
 type: article
 quality: 167
-heat: 267
+heat: 247
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550671539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH17008"
         width: 817
         height: 545
-        isCached: true
-  - title: "Hyundai, Kia Say Not in Car Development Talks With Apple"
-    excerpt: "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in discussions with Apple Inc. on cooperating to develop a self-driving electric vehicle, following reports and speculation that they were working with the tech giant."
-    publishedDateTime: 2021-02-08T01:39:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy_OJ8GUjbk4/v0/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Hyundai says it is not talking with Apple about self-driving cars"
     excerpt: "Shares in South Korean carmaker and affiliate Kia fall as investors’ hopes of autonomous EV projects are dashedRead more on 'Financial Times"
@@ -153,20 +139,6 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 38
-  - title: "Hyundai, Kia say not in talks with Apple on self-driving car development"
-    excerpt: "South Korea's Hyundai Motor and Kia said on Monday (Feb 8) they are not in talks with Apple on developing autonomous vehicles, sending their shares tumbling.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-08T01:08:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/hyundai-kia-say-not-in-talks-with-apple-on-self-driving-car-development"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 38
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_hyundai_080221.jpg?itok=WS_uo6SL"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "7TrTTBhjWqrUGScKfTK6wjW1bc4zAoxEGVWSixIa2hmlm5cq6DYz+0414pzTIh+GQurfILFUT/h70Z+CcCygybK13pqtAfr9cf0hr5F5L1TbiPhxXJ0ijKVEqNR4FPqy+3VSFfkZAP+bQ2lu2wvAwKhfPtbcNkMIQm5bXvbrmDFydDyBPmgOsh4DHVp89m8gUCHWihH2MEqFZxdrqFpglW5yrC+UVD5ywr4uSMGekdBBxCneWi51rCJE68G87jo/rVuRUTXeSEyDEqAUxQzjYJBQBMGO+v7oeKFaOhenHyRntZBN34ls317FVvPzLV7f84FNzXUy87vWB+SoFnQEf8szeg4Msm6YFH9gBymrUzd+QTf6J1QRUCry7G2hv6W5QqhuOXcEdtSBJUpEKYdyLLzHEtPaF9I4mgIOPfEnwKdYUmj02OY0HOCibDaoW8BRFZSHVmGmfeG1633aeO/jLfppoi+GygdQd6d7xvgza3p4uoDHzaUUqSHc45pX72SB2Dm9xhCcyFaIRqXeGeuEQiIJ5fayaxmaOufd/K+yqMI=;WBdnsXNC7llKvyi/CmzW6Q=="
 ---

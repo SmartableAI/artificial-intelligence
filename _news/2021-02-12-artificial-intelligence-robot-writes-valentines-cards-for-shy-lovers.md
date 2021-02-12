@@ -9,7 +9,7 @@ ampWebUrl: "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-ro
 cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "This Valentine's Day, Don't Let Robots Write Your Love Letters"
+    excerpt: "Valentinesday.ai will use artificial intelligence to write your sweetheart a letter, but as I learned, it can't capture the essence of true love."
+    publishedDateTime: 2021-02-12T18:57:00Z
+    webUrl: "https://www.pcmag.com/opinions/this-valentines-day-dont-let-robots-write-your-love-letters"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02MnSbOEcDYlbVaWCq3jFe8-1.1613153177.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Valentine's Day: AI bot will write your card for you based on traits you like about your partner"
     excerpt: "The Valentine's Day bot was trained to write letters based on examples of Valentine's Day Cards, according to Chris Lu, co-founder of US-based CopyAI."
     publishedDateTime: 2021-02-11T16:34:00Z
