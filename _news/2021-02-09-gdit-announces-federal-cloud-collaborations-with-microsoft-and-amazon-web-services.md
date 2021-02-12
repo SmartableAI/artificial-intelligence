@@ -152,6 +152,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
+    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
+    publishedDateTime: 2021-02-11T13:58:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 91
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
+        width: 877
+        height: 545
+        isCached: true
   - title: "Machine Learning as a Service Market is Booming Worldwide |AWS, Microsoft, IBM"
     excerpt: "Latest released the research study on Global Machine Learning as a Service Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning as a Service Market research report shows the latest market insights ..."
     publishedDateTime: 2021-02-11T04:48:00Z
@@ -209,17 +225,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
-    publishedDateTime: 2021-02-11T13:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-09T15:25:00Z
@@ -236,17 +241,6 @@ related:
         width: 600
         height: 440
         isCached: true
-  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
-    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T10:40:00Z
-    webUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagen-taps-microsofts-cloud-to-develop-self-driving-software-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
   - title: "Artificial Intelligence (AI) in Healthcare"
     excerpt: "The AI healthcare market is more visible to the public than ever before. More and more people are becoming aware of the benefits of AI technology throughout the healthcare industry. To many, it’s solid proof that Artificial Intelligence has had a successful impact on the overall quality of our healthcare system."
     publishedDateTime: 2021-02-11T22:03:00Z
@@ -275,7 +269,7 @@ related:
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
     publishedDateTime: 2021-02-11T12:08:00Z
-    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673553"
+    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673842"
     type: article
     provider:
       name: Techinasia
@@ -296,6 +290,22 @@ related:
       - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_1248578830.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "VW will use Microsoft's cloud to develop self-driving software"
+    excerpt: "Volkswagen will use Microsoft's cloud computing services to help it streamline its software development efforts for self-driving cars."
+    publishedDateTime: 2021-02-11T13:26:00Z
+    webUrl: "https://www.autoblog.com/2021/02/11/volkswagen-microsoft-cloud-computing-software-self-driving-cars/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/02/11/volkswagen-microsoft-cloud-computing-software-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/02/11/volkswagen-microsoft-cloud-computing-software-self-driving-cars/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 61
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/4400x2475+0+110/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/bc9fbb10-6c6a-11eb-baf6-de25ca6e5fbd"
+        width: 800
+        height: 450
         isCached: true
   - title: "VW uses Microsoft’s cloud to develop self-driving software"
     excerpt: "VW uses Microsoft's cloud to develop self-driving software Volkswagen AG said Thursday that it will use Microsoft Corp's cloud computing"
@@ -396,6 +406,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
+    publishedDateTime: 2021-02-11T13:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Artificial Intelligence as a Service Market to See Massive Growth by 2026 | Ibm, Google, Amazon Web Services, Microsoft"
     excerpt: "Global Artificial Intelligence as a Service Market Report 2021 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
     publishedDateTime: 2021-02-11T01:13:00Z
@@ -424,6 +448,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
+    excerpt: "Change Healthcare (Nasdaq: CHNG) today announced that it has been recognized by KLAS in the 2021 Best in KLAS awards. The company’s Eligibility & Enrollment Services was named Best in KLAS in Financial/Revenue Cycle/HIM Eligibility Enrollment Services,"
+    publishedDateTime: 2021-02-12T05:28:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-care-industry-medical-technology-information-technology-b96d856b4ed843a29c4a7f95b8598c0b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cleareye.aiCollaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-10T08:48:00Z
@@ -450,15 +488,6 @@ related:
     provider:
       name: Odessa American
       domain: oaoa.com
-    quality: 20
-  - title: "Multiple Change Healthcare Services Earn KLAS Recognition for Excellence"
-    excerpt: "Change Healthcare awarded “Best in KLAS” for Provider Eligibility Enrollment Services and for Payer IT Consulting Services."
-    publishedDateTime: 2021-02-11T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210211005122/en/Multiple-Change-Healthcare-Services-Earn-KLAS-Recognition-for-Excellence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
     quality: 20
 
 secured: "B4vyTQA33EBP6riZftyM/cExlxbu0GyR7pQTTjMPVV5vIDkQyT4aLHq0XuZz2TaW01er5v49od8rrmxFWFqv0jGFvR9PoRJwvGRtujOLDSsztkDlnQT+J1q9H0mHbnP3Ot2bI5nvgJOJ6JmYgRB+JAmlybJ19e2TggzFP2IRQmZWpFPDQloqs65J4Pf/9mn9iAVwGbbX9mKEBohYD+q7aA2CM9/RiB+quMMh8DXPM/LE0vUTrnl619X/QaEccXaZb4dZL4ALjJIsrrcuvw266pMK3JfgC8e54GmWU+yGUfNXKqpqyhYCO3XiXMi9SNrBuY6YENbx9O2RyI0EIdy94EVJw5aMKePWa2YiKBuCDCm9VEVsWis+iYElHThIeLEzZFaSqlk7+l5dpkE6r9AVx4qf754IjMklnXqSAPomCimCGPRXBLzQ+azVBrYGNmXAj2bNFybm4gTvi8Lr0Y57GSnHL2URPz92x1Zo3WQO5TSu1SkX0iuhL0Q+2S1rrGnkq8850ZZidG5ofzhymJK/Tw==;az7GINXjrCaJ72wO9+LLWw=="

@@ -86,17 +86,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
-    excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
-    publishedDateTime: 2021-02-07T13:56:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+  - title: "NHL takes big stride on data and analytics with AWS deal"
+    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
+    publishedDateTime: 2021-02-12T06:20:00Z
+    webUrl: "https://apnews.com/article/nfl-business-nhl-football-web-services-5720b382cc681c7db9e7c871513456b8"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 28
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/047ba679d814498c92b53054b8eced0b/2480.jpeg"
+        width: 2480
+        height: 1653
+        isCached: true
+  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
+    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,"
+    publishedDateTime: 2021-02-11T14:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-christine-odonnell-computing-and-information-technology-data-management-f85ff704762c47cda869625396ef3236"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Big Data Analytics Firm Palantir Adopts IBM's Red Hat OpenShift"
     excerpt: "IBM and Palantir Technologies announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business"
     publishedDateTime: 2021-02-09T02:23:00Z
@@ -164,15 +181,6 @@ related:
         width: 698
         height: 366
         isCached: true
-  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
-    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
-    publishedDateTime: 2021-02-11T14:39:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
 
 secured: "W6aJRdL4A+WH+q8dHgAVYgOKa3aH5As+endVM3I1UxRx7OgU5FXh0HWe8Sa7eEnWc2mlxF5vK7N8PhjlmxEK4VxnVEeFSv90NtBrWljFFb35eC9YtV3dpUloVlV4YpwJ+YHp99miE7Y0swMLSDbroY/1I+scU6JAi+6N/A7eQe+z5yBtoGIGhG3uzSbyopGh0mQxGo00qLWBaBUSK0To2goRan7dC5MbMzVyzZ3nLrKr3dUmaKD3CEr5uWvY88cOqINQbAjh5nm7g1dF4gNOhUZ92QzW02FmWGM+XyZjGFDhoxc3W6CNtlso7JVVw+fF+6xKgLxEITNrrpOaxFUdiNTUZe9/1vDCA6S7/D1IRqM=;aF1h9wtytyb9HbBin9UytQ=="
 ---

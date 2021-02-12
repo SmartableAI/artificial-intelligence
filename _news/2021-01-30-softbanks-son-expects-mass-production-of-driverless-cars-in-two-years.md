@@ -1,19 +1,19 @@
 ---
 category: news
 title: "SoftBank's Son expects mass production of driverless cars in two years"
-excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ..."
-publishedDateTime: 2021-01-29T16:38:00Z
-originalUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
-webUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
-ampWebUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
+excerpt: "Automakers and tech companies, including Alphabet Inc’s Waymo and Tesla Inc ... in public companies he thinks are frontrunners in the artificial intelligence (AI) race."
+publishedDateTime: 2021-01-29T16:07:00Z
+originalUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,6 +21,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "oAv81zKW+/I7TKHneKn+EWioh0ndZMcVc8d7Zu512xuAqd4sPIuY0kl/cpnEfmECL38HBBfH1DQWC6QToYwJ1IoR79WkV2KR4NnAFSRjoYlqUTvOoYZQc8scFbZKKGScyM4w57P9xxSLpKiGq/6KWGZdDNt9fsoW+TV22V/Z60GX15y5K3JFLzK3YLKUtbLPc73Bb3ZCVtQJzF+HVZ7fDHeBYfvJh2z/UgSErA3MAWVt7mb+uWzEx4OdclIF9w6ZAs0r2YSfWjhf6SYAmaDVE0npBdQytVezr3o2B6KoSFzovxJNIUDfpnfF/YsiCeaQUy90SFRRTUPkMbs2VqDS5ddf7Jef6eswf50OeWCCxWI=;c1Eroi2Fn6oRDbG2Kd3crQ=="
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+    width: 829
+    height: 545
+    isCached: true
+
+secured: "l6CYk3MUBR74As0GDF3Xg5RuQUDKBVCbVN3FVkVPkhk0eWTBAagtRSt5GXz0sZWzS4+wo9LOe1wC9rAw6CLvaoAeG18+XV7XJRhaWXgcJrNw2ZemRWyrxSWODAUNqwRgU1DjSLKTrOf2CI8mJv98qM8scgkyPgdsNm82qIAJT5693ZjfMYf9OU/gbyg22W/Qqa3NKQMwKAdYtaWhRNB+CZAdrBNgP0albk9Gsi7mnBVyW29b9WiiVXL3ANlf9U32MPxaYCR3xSDwxGPN7+dzHMEEihlXJ0iUkI1lFts2OYvEI2X/NfZjkJNXU0SQvKNN+m7sKNlS4OREJjbBI5YTxY8Kg4VrfsBghi0IOtWmRwY=;srjVn+vhWVl0/zOGdtAf4g=="
 ---
 

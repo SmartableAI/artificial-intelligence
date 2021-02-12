@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Baidu seeks investments for AI chip company"
+    excerpt: "Baidu (BIDU)is talking with venture capital firms GGVand IDGCapital about funding a stand-alone AIsemiconductor company that would sell to a variety of industries, including automotive"
+    publishedDateTime: 2021-02-10T12:49:00Z
+    webUrl: "https://seekingalpha.com/news/3660475-baidu-seeks-investments-for-ai-chip-company"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3660475-baidu-seeks-investments-for-ai-chip-company"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3660475-baidu-seeks-investments-for-ai-chip-company"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
 
 secured: "Sc+qal3d39xbH29MtBqpmF9T5LgWJA9Zb7N/VQLgubj7Ukb+r6XsAgviP86gRQuVyqWzf7v4f0Nhb+eaKykYX+hT8w/xrnnGqCpXPgG6sS9kYbI4P0ZE5iTt/L1MmqNSwIiZ2N00dDDphdhhLxAF0CkAxolJ4nPonzNoviZeLn3UeLXXLgRUFZSzjX/BsR7alOaj1Rsl7+f52kwEern9hJFW//i3Y2e8mOy021H8JcjIFHO29v4TBGK0S1isQrveN8KK6Wjxb9QDwqXjHPnUJWR2FS5b1mZku4+sAiJU42JhZ7qo2//oEBxmrHLO1jr4xbwAp5tzP20l9cF+1WIM3Mr+PdFcnsBFZX697Xox2aHLW6QDu1gxN/Kk1ms7jkMRnz5bbZdzEcrtVtpQT57bzO4uXltqRnKp/1aOjdxHFmzhtRN7TpiBtIGAizZuF/JTUQvdtDoTSm55IQx0XfIQXrivSez12H4u/qDDjr4dbf1qRQskrn7CjRwKf6+85H+Smt4K651Ifke3KfXeeob4BA==;UmShv1SDXEJCqAI11RmNIA=="
 ---

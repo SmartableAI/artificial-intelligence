@@ -52,6 +52,20 @@ related:
         width: 1013
         height: 675
         isCached: true
+  - title: "Anexinet Launches Conversational AI Solution, Enabling Natural Language Interactions via Highly ..."
+    excerpt: "Anexinet Corporation, a leading provider of digital business solutions, today announced its partnership with Amelia, an IPsoft Company, the largest independent leader in enterprise Artificial Intelligence (AI)."
+    publishedDateTime: 2021-02-12T05:37:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-9a3cfdf35da5d286e92c2585c4433ad3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Qi6O4MlkcbGfVcE5hhsh2a+m5kXG3MH09w3yRctrxFePivgM6Sux9YVcv+CCCyPw22lHwcEbHJ0LERODd9bpEF91158aTiQ/G13wgOHslLUrHPuT5xmuT9TA1thRip2/LmtIF8Q66SZMK/g20+71aAwp2W8usqRWdQddD1EaT7BxPSxglgChUnLR5EzLi6+sZR/lfRjj7Dk9//O5hjf99iHG2kmlZLU3FYS0BkNQMjKCpADk9IO1kycu1vs1WXsuFsmz3M9HKFNRKfvv9+bf+1dBQGwl/iulI1wLcid0R1FmWaG/zSskK3fVwBkXNnii/ha14+vfACIg0FO3xf5SyA0ZBJ7P1ciMV3v9DVz0M/dmdl2OUdHnvQIt9F4YEx4C/CU/Bk44mSNqcb16eSn/MjfiEDbcqJCaLV95ql/PyP2PRIfKz9zb0oeBWCr08plUDqFzzPqy3l8KH5PnmadvTbRlRCM2W/z8V1G7oYE5lS13zpTWvp+gAczgF3VsyeajOCpt8AhDtHCXjRV34594og==;eneDtyWStoKRoI6Vc8J4Tg=="
 ---

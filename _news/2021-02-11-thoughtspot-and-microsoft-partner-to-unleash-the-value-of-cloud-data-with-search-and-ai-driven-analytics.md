@@ -1,22 +1,28 @@
 ---
 category: news
 title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
-excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
-publishedDateTime: 2021-02-11T14:39:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
-webUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
+excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,"
+publishedDateTime: 2021-02-11T14:19:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-christine-odonnell-computing-and-information-technology-data-management-f85ff704762c47cda869625396ef3236"
+webUrl: "https://apnews.com/press-release/business-wire/technology-christine-odonnell-computing-and-information-technology-data-management-f85ff704762c47cda869625396ef3236"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "How Big Data, Predictive Analytics And Machine Learning Changed The Railway Industry"
@@ -81,17 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Twitter turns to Google Cloud to amp up its data analytics and machine learning capabilities"
-    excerpt: "The new partnership will see Twitter unify more of its data processing and data analytics functions under a single cloud provider"
-    publishedDateTime: 2021-02-07T13:56:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/95931-twitter-turns-to-google-cloud-to-amp-up-its-data-analytics-and-machine-learning-capabilities?amp"
+  - title: "NHL takes big stride on data and analytics with AWS deal"
+    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
+    publishedDateTime: 2021-02-12T06:20:00Z
+    webUrl: "https://apnews.com/article/nfl-business-nhl-football-web-services-5720b382cc681c7db9e7c871513456b8"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 28
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/047ba679d814498c92b53054b8eced0b/2480.jpeg"
+        width: 2480
+        height: 1653
+        isCached: true
   - title: "Big Data Analytics Firm Palantir Adopts IBM's Red Hat OpenShift"
     excerpt: "IBM and Palantir Technologies announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business"
     publishedDateTime: 2021-02-09T02:23:00Z
@@ -174,6 +183,6 @@ related:
         height: 450
         isCached: true
 
-secured: "HU/HyC46b+LriAUA4mr4r6L5AKUu4YjdRh5hEi/cmMTJdmYhIENXbHBY113f+ax3VwuVF3h4b8CxnYjgyREvYx8uASJszC8vo56Py0qgxwCnfPJd/fP0PXhxR2zFsrCT0McfKcUgknFDLd6091gXU+oRkqyfsHPNxIoLgd464YMGWMnNp4htfx67Ti/rGfVaYAYpDcnheuBbRaYsVGrP/NzqAhKburgJYN8xxFfxJqfHD2168KQxZxfDEGaFiq73YZVOWVt4zMeUBc+7Sw4EOu8eVdpFTTwHGACbRRN1hdv4sXuMmGnmmYwj6KyzXfx9hDeHII84e6WYtOqLK3ODkgI4omeF9eKHBqhyiJPuaZg=;H+/uXcaMFJfPdwfkSDkY/w=="
+secured: "Q563AWxT29OeWhH+CGs8i+FM7P5oZHrQYVg3UsGsN46wHu/BRMY7loD4CEB6toBX0AigHVv8e/RRCNs4UhglJzsr/n2uGEpTVdVr/p59tYRYLK95M/F8+yI0r2mHk8B3EP5vG/9kqnfQmtSOgDAGruQT8I+ztkZZDHzjDqiO35LjzcCpoze1+vmgLW5TgOYDjMd/51Mix793ct+DVM4Rh+wLdq3uUTiVKO5Q2Cf3+Oq7c0Dk8oky+DHVRCFXSUmPfSy0L98m5AAzkCz2lOBo4Qajjlj5TOKE1GgF0Z/YtglQ1CVO+XI4gKgaRkXoPzmzXYt156AYr187abLo0VZXuhkZVM0MZWwEI2uIVx9/uIw=;6QTbtBE+8qL00k1k5XIGdQ=="
 ---
 

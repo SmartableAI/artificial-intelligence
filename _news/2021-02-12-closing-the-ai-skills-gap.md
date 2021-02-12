@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-12T04:34:00Z
 originalUrl: "https://www.ft.com/partnercontent/ibm/closing-the-ai-skills-gap.html"
 webUrl: "https://www.ft.com/partnercontent/ibm/closing-the-ai-skills-gap.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://ft.com/partnercontent/images/ibm/hero-2.jpg"

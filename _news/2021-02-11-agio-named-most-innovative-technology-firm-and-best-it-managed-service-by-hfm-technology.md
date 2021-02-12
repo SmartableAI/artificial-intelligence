@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Agio Named Most Innovative Technology Firm and Best IT Managed Service by HFM Technology"
+    excerpt: "Agio, a leading provider of cybersecurity and managed IT services for financial services has been named Most Innovative Technology Firm and Best IT Managed Service at the Hedge Fund Magazine (HFM) 2021 US Technology Awards."
+    publishedDateTime: 2021-02-12T05:34:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-covid-19-pandemic-lung-disease-trusts-and-fund-management-b24784d431649b47e11eee45cc2feea6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "lkw+fERlMJ7wQ5V18P8hEk9idEzONEEI69sbmA4vgHe+tyEyjFbdRMlNZZr/JmIcpWnicRzlC9Y262euQBxfb+PC1kI1GbX3sXjNMjjCSZp/NMmLcO1qHHZC/I9WcZLIKiQA+wVMKzw5D7zMhHMfUq48nE5vZ4qydNVc8zCwEK6S0FEfGrJoWQv56+r+jguE3pqj7HjWyCcl+WkE6NbKbqPgAfFsA2ZhYVYle4/zkYxxytMez6yTWLPeFtL+aKyNcUnlzIzIBuTFsCk789d+gfs18oe4CH2foX/OAZe1QkuispWviFwTWsTNZolLMri84otikn08W4hZbuxpi7xUAj9wg61tCV+EzHxtNhGF3L0=;WUO2CMfIvexSCj/ftRjR6Q=="
 ---
 

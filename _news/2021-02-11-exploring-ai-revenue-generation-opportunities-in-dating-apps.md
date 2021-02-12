@@ -70,7 +70,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://ft.com/partnercontent/images/ibm/hero-2.jpg"
         width: 1920

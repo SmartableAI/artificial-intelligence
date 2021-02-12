@@ -209,6 +209,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
+    excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
+    publishedDateTime: 2021-02-12T05:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-care-costs-financial-technology-medical-technology-18de882eef47f75ecbdbd648059fd2ff"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3MEoF6VCDNL4734o+odtwXY412yMALr1fGep8zVW5RMSkvjSAQ4hiqpiq+1hN9BizOwCSjP3atJe3/eyyOPpSK2dyZwy/CkyTsdjkIfbLTYCOONr9V70ccNuuCNnamsR2QGmwCmU0xl3G5FbRvTqJ/krFEtwfb/MGxxt5TISLDxeddKcRwYp/tnD668RWzgElfhY+HlEeQXp273QlNWSa8/sni3Q9abEZQgTIlQ2e4A8/QXBUiH+AEfziOnWTz2Eo6cIgm4kiC4htNPx0WPTeU0em+8NWX9ddLtjpWq9qbRhVkoMw5MZVJYKUBHJTtxvWVqZEWP89KjIVJM0rxIsY0r1iEN1+wIVR2pqKPF0rMztMtwPa05/SGVaUJ0Dtuk9AlvDkVDol8KjGEh5q79hlG8QVohi0YWrVLv7gp3QdryMA2OJA4W8hKWDlZxHvILKqR/9arpUOAHjsSn/PnWXFi/jpm4RDM1CuacId7gUiBLs3l+MHzdIOlhFwjDVUdxArl7Yh335KyAcJVEJMQYJhQ==;SPgJSs23E0kiMD7meDfPUQ=="
 ---

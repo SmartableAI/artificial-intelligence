@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-02-low-cost-ai-powered-device-optical-spe
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-low-cost-ai-powered-device-optical-spectra.amp"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 1029
     height: 524
     isCached: true
-
-related:
-  - title: "Researchers test detection methods for AI-generated content"
-    excerpt: "Artificial intelligence generators can craft text that mimics a human author, improving the user experience in platforms such as medical chatbots, online"
-    publishedDateTime: 2021-02-07T14:54:00Z
-    webUrl: "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/"
-    ampWebUrl: "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 59
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2021/02/news-trends_50.jpg"
-        width: 400
-        height: 279
-        isCached: true
-  - title: "Artificial intelligence generates new diversity of AAV capsids for broader gene therapy"
-    excerpt: "Research in Nature Biotechnology demonstrates the use of machine learning to generate unprecedented diversity of functional AAV capsids, towards evading immune system neutralization to allow more patients to benefit from gene therapies."
-    publishedDateTime: 2021-02-11T16:19:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/tyn-aig020821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 46
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "rUDISkWYLeFPMPZiJctfZSkgeaSjf4WTdvzGHxWENUEv2bEK/QADY56yvFw8UUcZME65BeiOBc63ggIQdsDYQ3RBdhwwuU5mZ3m+Kbwj4bWxd+9LiPQ6uin5YazVcWJ9bXxSUVnMsG4jIlOV2POcoH6gpYcB1PL2jl3Y8kvyF2lcRxja3m1JapxjoSBmFgnLlDjPgp9j+eRDdJMQVHaIOJ9XaAeSopX1usWp/NRZdLPhuSARJ0VbEiWaBIZfTw3LYorcjVAEP5xhiuFe/9eZEU4i/6URT9d70nOhFkUbJtMD4v/tY+vbgdu9o6ZTbGiV46jDdEtvkG6l08N+lehoggcPsiHxr1mrkgqMitT6z9sjLFRUnNZDMGE/Vc981G1Z71Jz7qEmWy03ag4KB+pZP4/+7mtQftXNbstDHdPQNuiZXRDQshgBPq1hcTe2AFY8QkBp+YnDsBjZxA6ERqP+NXHSKP2ODCUDitX7/Q2LtldzSMJLRfoiUjPnC1CM0NsSZb6EVdll1jCEyIdgSL7Agw==;Z5nscBx+pIDa5G6RZb8Grw=="
 ---

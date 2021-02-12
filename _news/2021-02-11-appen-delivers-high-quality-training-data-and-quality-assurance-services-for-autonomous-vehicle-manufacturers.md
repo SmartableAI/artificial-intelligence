@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210211005137/en/Appen-Del
 webUrl: "https://www.businesswire.com/news/home/20210211005137/en/Appen-Delivers-High-Quality-Training-Data-and-Quality-Assurance-Services-for-Autonomous-Vehicle-Manufacturers"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Appen Delivers High-Quality Training Data and Quality Assurance Services for Autonomous Vehicle Manufacturers"
+    excerpt: "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today announced enhanced capabilities to ensure autonomous vehicle manufacturers have access to high-quality training data and can get the most value from their training data investment."
+    publishedDateTime: 2021-02-12T05:35:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-automotive-services-driverless-cars-australia-04d448796fad45c1bf8cd0784699d8d8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "enfZv9mWJTNfHZ+nqCuoUNTsIUtqavCr89k3atF8owYFJgupBLU6Yrsbe4AdvBgYSomgQS1gYff02Aw7cT7Ybl8LE73j75AZU4qX7LyR299VLyppeVqSaXDMRRLwBN97+Q5eW0CapPrN+TLsa7lJDhA+LcuczBvP7224MEXIB65eEvcNHHXP5MP0UB69tJ6XEL/k2Aui2CbyzFv3o7oqYLffKs18UTZTfq7OOBF15QL2MvQVHfi9H3wEU9RcxRX+K4Lg7odFiDayfdDV1GCSXALV6RgsX+PXKDjZ/2vAbR9cKRYgiIWf/il49N+sHBUZZW6dH5/eN/pRq+om22r38cA8gID0UCazSsWlG1bqtfU=;b2c3eQGy37JCt/Z+eNxz/w=="
 ---

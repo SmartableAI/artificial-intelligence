@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Here’s a way to learn if facial recognition systems used your photos"
-    excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research -- including a data set created by UW professors -- fed on personal images."
-    publishedDateTime: 2021-02-07T14:01:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 41
   - title: "How Your Business Can Benefit from Facial Recognition Technology"
     excerpt: "Long gone are the days when facial recognition technology was limited to security and science purposes. In this modern world, this prominent technology has opened exciting potentialities and opportunities for individuals,"
     publishedDateTime: 2021-02-08T14:25:00Z

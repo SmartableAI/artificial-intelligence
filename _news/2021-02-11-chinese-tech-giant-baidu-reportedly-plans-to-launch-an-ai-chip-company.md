@@ -101,6 +101,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Baidu seeks investments for AI chip company"
+    excerpt: "Baidu (BIDU)is talking with venture capital firms GGVand IDGCapital about funding a stand-alone AIsemiconductor company that would sell to a variety of industries, including automotive"
+    publishedDateTime: 2021-02-10T12:49:00Z
+    webUrl: "https://seekingalpha.com/news/3660475-baidu-seeks-investments-for-ai-chip-company"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3660475-baidu-seeks-investments-for-ai-chip-company"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3660475-baidu-seeks-investments-for-ai-chip-company"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
   - title: "Baidu in talks to raise funds for AI chip company — report"
     excerpt: "China's search engine giant Baidu Inc is in talks to raise cash for an artificial intelligence (AI) semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter.Venture capital firms GGV and IDG Capital are in discussions with Baidu,"
     publishedDateTime: 2021-02-10T16:16:00Z

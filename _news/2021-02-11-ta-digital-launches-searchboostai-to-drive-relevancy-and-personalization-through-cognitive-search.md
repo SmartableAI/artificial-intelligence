@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ta-digital-launches-sea
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ta-digital-launches-searchboost-ai-to-drive-relevancy-and-personalization-through-cognitive-search-1030072872"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/how-businesses-can-use-ai-get-personalisation-right.jpeg"
         width: 1013
         height: 675
+        isCached: true
+  - title: "Anexinet Launches Conversational AI Solution, Enabling Natural Language Interactions via Highly ..."
+    excerpt: "Anexinet Corporation, a leading provider of digital business solutions, today announced its partnership with Amelia, an IPsoft Company, the largest independent leader in enterprise Artificial Intelligence (AI)."
+    publishedDateTime: 2021-02-12T05:37:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-9a3cfdf35da5d286e92c2585c4433ad3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "wSaXvEw9vbFMBunb7GqEa528mu77Sq/LAV0XZ+jQzO+3+cWKk+P1CvR0OeDzzrz3xScWev6lVjOVDUJtKZQfRrjQtKeLJPOdRKBfLwuw9CMGWAMZXIOc7ntAsqHwIq4EuY+m62WwLGsMikoqm/E98QiP/6KmwEwUsVswkAFDxbFROhdwBBu6MtROHOOzjV8b33UTXVrWZJ+sE9+hHhbIy+QcahpA8Dx6UQQHw/VCOxYf7CnPDCW6nykW+Np+nj6Vhr8c2v7DG4o3d6rRDvnUPYT9hQB+9aDUNOI3fztnkBQLBF+hpgbuDZkpT9gBjeheN8pcUr9JgrlJMRr4ve2uqTwcIHWb78J8YyPuf3Pw4yo=;KnfT7XT4syPlqf80pm6eMg=="

@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Computer vision researchers develop city-scale smart tracking platform"
-excerpt: "Computer vision researchers develop city-scale smart tracking platform. Surveillance cameras already spot or cover large cities, but it's"
-publishedDateTime: 2021-01-25T20:08:00Z
-originalUrl: "https://www.compsmag.com/news/pc/computer-vision-researchers-develop-city-scale-smart-tracking-platform/"
-webUrl: "https://www.compsmag.com/news/pc/computer-vision-researchers-develop-city-scale-smart-tracking-platform/"
-ampWebUrl: "https://www.compsmag.com/news/pc/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/"
+excerpt: "Unlike existing bespoke multi-camera analysis platforms, which are built solely for specific hardware and software, Anveshak allows users to employ custom tracking strategies, computer vision ..."
+publishedDateTime: 2021-01-25T19:44:00Z
+originalUrl: "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/"
+webUrl: "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/"
+ampWebUrl: "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/"
 type: article
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Computer-vision-researchers-develop-city-scale-smart-tracking-platform.jpg"
+  - url: "https://venturebeat.com/wp-content/uploads/2021/01/anveshak.jpg?w=1200&strip=all"
     width: 1200
     height: 600
     isCached: true
 
-secured: "jpf4zTufvB3RXHf3d4NH34oXD614rzqg3Rd0MU9m2wvRXEXhjRIjKAPThyKZJ9zUU3ce1LEsLJBkITyiX7zI9LuL2B+3n8tQotOKOMAHpLh0noIFm4J0+f0bmiyd5RPlw7i13MUsUIddW7lz+TRFjZbLD5ClCh/twDSGAgPCGnXOtrxygDUkO04WPZN+an1baJFCb/3m3nkN0vTNDDMM4777coQMz41qNpqzwEmSeaoqBQTXv9U/47NZEjPDMtWr6S5JaWPxHarRLHTJxIwdFSRz/ewzIW+c6CF43jQr4BIhhTrs7+9vGQ90n3CuILCW4kgDofu05YS+WkOYNkClUDUhI1TqCzVyIQbBb3GXit4ucip+8URcaeDPs2rzqpzjpQfP6oDwXYhwr3dsIui8XO83QdAVrXoLOlbiu3dezdpK8vTAUS+tYkHqmtgOlGtJbNm4elEtdkhkzVBdjUB+IGkiGAjO7yd45xonrY0isAIOynRP0YndSs1P1gEKdCd7apSditGDwvFmMgrwonPY+Q==;RBOoAZBGrjaem1J0wWEc5A=="
+secured: "0k+PT0BCFfIwriaNuNLyCzCZE+1EzcG+IjJQeZntz3t3+MGL1ck08N8wllyhjksiEM/nxO3iKgzLPUQ2uiKUgxSJxTtfEjQLK7mLWuqOkLyUth52RZtNlvi/JgmHLd3pZIzPzLiECcXEBZ0Ay6tPL6Xj9hspxLtze84ynE75WNsC9Jy/eBR38lG5SKfWV2suIy8TEmQ5yR3WDrhKLX1w0C0WNKHEQ94Zc1WzIQY5yJNFbHaVbauxWnxAruY9yvKZxWUCUVvZ7ddGAIwWvgqWBDGlMpkMfbJ27LGSo0dMn3DiLfwmRyh72ZDdTzrFEh6YbGu/loJ3/UsMk9AuZdIRPEjN0YOV7eZC4HyGJfNtTw4=;wyjCSjo4tx7VUy0dBVQevg=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IOTech edge software platform to support Computer Vision and AI at the IoT edge"
+    excerpt: "IOTech edge software platform to support Computer Vision and AI at the IoT edge . Edge software company IOTech has announced that the"
+    publishedDateTime: 2021-02-12T05:07:00Z
+    webUrl: "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 70
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IOTech-edge-software-platform-to-support-Computer-Vision-and-AI.jpg"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "IOTech edge software platform now supports Computer Vision and AI at the IoT edge"
     excerpt: "Latest release of IOTech's Edge Xpert delivers a range of new IoT edge capabilities to fast-track rollout of edge solutions into the market Feb. 8, 2021 / PRZen / EDINBURGH, Scotland"
     publishedDateTime: 2021-02-08T20:26:00Z

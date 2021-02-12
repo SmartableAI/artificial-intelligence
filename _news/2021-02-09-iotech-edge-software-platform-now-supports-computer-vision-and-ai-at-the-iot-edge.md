@@ -7,7 +7,7 @@ originalUrl: "https://www.wboc.com/story/43309289/iotech-edge-software-platform-
 webUrl: "https://www.wboc.com/story/43309289/iotech-edge-software-platform-now-supports-computer-vision-and-ai-at-the-iot-edge"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IOTech edge software platform to support Computer Vision and AI at the IoT edge"
+    excerpt: "IOTech edge software platform to support Computer Vision and AI at the IoT edge . Edge software company IOTech has announced that the"
+    publishedDateTime: 2021-02-12T05:07:00Z
+    webUrl: "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 70
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IOTech-edge-software-platform-to-support-Computer-Vision-and-AI.jpg"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "IOTech edge software platform now supports Computer Vision and AI at the IoT edge"
     excerpt: "IOTech, the edge software company, announced today that the latest release of Edge Xpert features new capabilities to support computer vision and AI at the IoT"
     publishedDateTime: 2021-02-11T14:29:00Z

@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
-excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-"
-publishedDateTime: 2021-02-11T18:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210211005201/en/Hewlett-Packard-Enterprise-Accelerates-Space-Exploration-with-First-Ever-In-Space-Commercial-Edge-Computing-and-Artificial-Intelligence-Capabilities"
-webUrl: "https://www.businesswire.com/news/home/20210211005201/en/Hewlett-Packard-Enterprise-Accelerates-Space-Exploration-with-First-Ever-In-Space-Commercial-Edge-Computing-and-Artificial-Intelligence-Capabilities"
+excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling"
+publishedDateTime: 2021-02-12T06:38:00Z
+originalUrl: "https://www.marketwatch.com/press-release/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space-commercial-edge-computing-and-artificial-intelligence-capabilities-2021-02-11"
+webUrl: "https://www.marketwatch.com/press-release/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space-commercial-edge-computing-and-artificial-intelligence-capabilities-2021-02-11"
 type: article
-quality: 0
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station"
@@ -79,6 +89,6 @@ related:
         height: 630
         isCached: true
 
-secured: "AmKZjqlLy25XPwaU4t/AYyf93ejmDa7B9eFUUyITLypSBCAB4U/jX9XG/enLqLlCmMRZ3Opk2fef4X5AFnNAT5m9+Xq/GxHNnz0mPF8niW4Z9cy0CF6HvWF1hUvsEXB5VdKfbv+VsmvtHUE8MzmgTXeHDx0doVxtsxPKV/sxA7yfEbWJc1FvVkJJknlvf9I1CTtCqNXyVnesxIrDVIgIVu0UJdbMfw+eA5f5UKxq6KEkbHjhFjgygqDvobYyePq3zIJJDuHO2R/yBV6pI3aWFIwNSGS4C99tQULAArmm8tZ7dodXwsgbQu3x0GZYyO+EIpXoNdNuojrxvdgqBJwF6TW7JW7SEBzUtKCeWSlyvX8=;B+MLXv76Gh5MSYUT8EbysA=="
+secured: "MNlS4yX/3uW/o2gRACwErdhEWAvbr/cbGnl1dEUEo8LyfuGHmRXK82anOQ4Y3ZLej7wilPfcQ+hPgwvNKdBBnjmg7VnYCmi2/Z9KayWHg25OkrAw/0rpXEfAo3a8BkxgkkNYCAAgBhj3k3sxMUaq4fJaWaoLg26SDHpo0cig/Tmkn6Iy6Qu7Q37O5x605G5p+6OlBxahOfQ9bxmZnqgO9s4Q8+WnpQmPxmwp/nwA9nNAP5YZz0q/kv4IZTl59b+UQKzJrTvQP5x4Jwjek/yyROG0fk3QH/+5m0gqeHKDjUudh4zMcApLEIKM/GBRryjp5dd5UPEEicVXpdljhrmma6jCJEOgSrmWlmHlDdH1rhM=;Y5v/dXGx9WiCvXk/nBmojg=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.cmswire.com/information-management/why-artificial-intellige
 ampWebUrl: "https://www.cmswire.com/information-management/why-artificial-intelligence-may-not-offer-the-business-value-you-think/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/why-artificial-intelligence-may-not-offer-the-business-value-you-think/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.cmswire.com/-/media/22f1d0783b1b4e50b2a528d124579b65.ashx?mw=1024"

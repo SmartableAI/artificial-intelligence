@@ -744,34 +744,34 @@
     {
       "path": "_news/2021-01-26-accerns-no-code-ai-platform-now-available-in-aws-marketplace.md",
       "title": "Accern's No-Code AI Platform Now Available in AWS Marketplace",
-      "excerpt": "NEW YORK, Jan. 26, 2021 /PRNewswire/ -- Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available for subscription in AWS ...",
+      "excerpt": "artificial intelligence (AI) company today announced that its no-code AI platform will now be available for subscription in AWS Marketplace. Amazon Web Services (AWS) customers can subscribe to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/accerns-no-code-ai-platform-now-available-in-aws-marketplace-301215278.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/accerns-no-code-ai-platform-now-available-in-aws-marketplace-301215278.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T07:35:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268",
+      "publishedDateTime": "2021-01-26T07:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
