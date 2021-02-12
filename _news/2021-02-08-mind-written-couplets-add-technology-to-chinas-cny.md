@@ -1,27 +1,27 @@
 ---
 category: news
 title: "'Mind-written' couplets add technology to China's CNY"
-excerpt: "Then, the system can decode the operator's intent and control the robot to write the character,\" Prof Xu said. The mind-controlled writing system allows two people to work on a character ..."
-publishedDateTime: 2021-02-08T04:37:00Z
-originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny"
-webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny"
+excerpt: "The auspicious characters are calligraphed by a robot arm controlled by the researchers' minds.. Read more at straitstimes.com."
+publishedDateTime: 2021-02-08T03:27:00Z
+originalUrl: "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-technology-to-chinas-spring-festival-celebrations"
+webUrl: "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-technology-to-chinas-spring-festival-celebrations"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/02/08/1037355.jpg"
-    width: 860
-    height: 573
+  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_mindwritten_080221.jpg?itok=C-QLeXjs"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 509
         isCached: true
 
-secured: "jHXTqMjmuYhFUX46dftEB8JIceOyrKgyCG9KOn5TFWkyspgpNpx4bi3DmWQUdg6IeomYMxw+u9wmb8rg76/V/cfG9XHU/B88uQi81xHQz2HxJW1n7Oya9fjQUmpCkAzt7B1mpF7IiDeXkHU3dtSzUX89VQirEqOKawJfW//mOmNBmy64ct/iwldpPW+vVAdkksyqxG3TrUr79sLczlban84PN63G6XonWY+CgZziCKhCL82kLpUQHFnz8SU5Rd5uu+w/1V96hcfNWmuQIhOHKyBjb7HdsbDj9W7JFWQs+oDeAtselxxbRDlkV+vW3hLBo9qsMR0G0WEIdeD1CMdtf+PBupI/TYVGt/mnCecuJGw=;QEIFRE2PQzLn+l670ArGxg=="
+secured: "i8PooyS2Q/cGHs5JioYHSNTswSrTlsfCPlEIUrbbXTI6Pag8pofCVgMYLOrd5Jfmco3qvCzYETmqjuMzEDxotwGwJ6zf6Aj8ei6rPUYShm/4l5R+QYkLOhj2KV3aOLOGcT2nitWYUPo3JzyR8JZloVbSm+HpGfM13bVPJltqSwOZdiOxKhCaSMy6a4VQhkpdQ7vxheu3Sh3F6QRf1WNgugSNjb0v19EGwfcKwWX9Y6zX/KbM+xEMx0SdoQ1cngNd0Ij6eNzt3GOqg5EKbg7USda3lQjq9b1pvVV/LqLDcK6DdkOYFC3WtSHlpUNg8wD5dkcB6Cm/d4zNR7mYoaiwpIAl3AXbUPIOAFn3c9F7J9I=;kCAUDgzpBhLH3GT1DRwKbg=="
 ---
 

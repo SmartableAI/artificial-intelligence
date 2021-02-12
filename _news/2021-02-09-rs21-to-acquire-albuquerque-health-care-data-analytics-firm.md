@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "NHL takes big stride on data and analytics with AWS deal"
-    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
-    publishedDateTime: 2021-02-11T09:18:00Z
-    webUrl: "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/"
-    ampWebUrl: "https://amp.usatoday.com/amp/115459788"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115459788"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/740a207bbec9f89126631fd62b1d0320f2e9bc83/c=0-157-3000-1845/local/-/media/2021/02/10/USATODAY/usatsports/ead979f8cbf645d5951e429adda246c4.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring"
     excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-02-10T11:29:00Z
@@ -82,6 +66,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "NHL takes big stride on data and analytics with AWS deal"
+    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
+    publishedDateTime: 2021-02-11T07:18:00Z
+    webUrl: "https://apnews.com/5720b382cc681c7db9e7c871513456b8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/047ba679d814498c92b53054b8eced0b/2480.jpeg"
+        width: 2480
+        height: 1653
         isCached: true
   - title: "NHL takes big stride on data and analytics with AWS deal"
     excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
@@ -167,6 +165,15 @@ related:
         width: 698
         height: 366
         isCached: true
+  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
+    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
     excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
     publishedDateTime: 2021-02-09T14:09:00Z

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
 publishedDateTime: 2021-02-11T13:08:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
 type: article
-quality: 51
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
@@ -42,14 +42,14 @@ related:
   - title: "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester"
     excerpt: "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile."
     publishedDateTime: 2021-02-11T19:40:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    webUrl: "https://www.techrepublic.com/index.php/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 116
+    quality: 114
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/a2618a6b-a205-4004-ab8d-b706d8ab359d/resize/1200x/0b71a3953d86fcf6ce37b4af796e8aed/forrester-ai-chart.jpg"
         width: 1200
@@ -202,9 +202,9 @@ related:
   - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
     excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
     publishedDateTime: 2021-02-11T16:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
     type: article
     provider:
       name: ZDNet
@@ -268,7 +268,7 @@ related:
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
     publishedDateTime: 2021-02-11T12:08:00Z
-    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673842"
+    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673960"
     type: article
     provider:
       name: Techinasia
@@ -489,6 +489,6 @@ related:
       domain: oaoa.com
     quality: 20
 
-secured: "QMw5N1S8Cd+BfSwIG8pMQTBhiHMABaZzwmY1+Wl4RodcDNvEOol5sMCTzjjxvygr1m6Plm922Zj2rbOtoTau84VZDqHCWbhroJZ85FWss0+d2N1JREeqiEU1LCT4OKwOhyzJSZgCroJsYV39ZU6+xsGejxcYVuUALuZr6hwhpYtGC/KczA8oe7V3MxeyrghynAlSh+resKfyonaovzeMB2dRqLGnQdz4whw1mWOE4jchakG/65znmztJk0QXJU8me4O1HEjVNbLciUHEq5L2Hej5vQCEetyfcxauw8IlepHuUQ6Dd+C9pHw0fu4iJv86OyBTcS5OPmTII+hrGk+7ttsj9DFXRoUNTwo/d7jQs+g=;pOqZ1BAR2r7KycRtdUJU4w=="
+secured: "8zObTwsGFAijIEZ36siO6YYgdp/1oEifzultJORqzruY9n0DAzV2sAM1qq72UeELBE0ysPshwDId6dKGMwJNydyIOK+mPVZU6faepOGBmrqWrLLq8pUCLJXvnj00BCtBQE0Zz0sZ+eWU3/zWcuZz+vkh2Nr/tUKOFid4Elu7GF6ACVrMmSGigdzY5m/TYNHIc9X0EHcDlfJJGcbZFuUPGmIZvqu2XGfw14rjGAVoLpyC5EQ3N6DEpu9XwS8qNed1/pQNcbUHIpqzF0yWwJm8TOXqsQe8S7e9g9jfPjgAfsRv+zZLjWOQ7Tur4rBFxNAu+h7m9iY2JSv/zSPD4XjhKjsX/eiKUOvD1rfk9AhsCsg=;0ee+cvKTKqQNx++gTH0Ksg=="
 ---
 

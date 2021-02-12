@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Accern's No-Code AI Platform Now Available in AWS Marketplace"
-excerpt: "artificial intelligence (AI) company today announced that its no-code AI platform will now be available for subscription in AWS Marketplace. Amazon Web Services (AWS) customers can subscribe to ..."
-publishedDateTime: 2021-01-26T15:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
-webUrl: "https://markets.businessinsider.com/news/stocks/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
+excerpt: "NEW YORK, Jan. 26, 2021 /PRNewswire/ -- Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available for subscription in AWS ..."
+publishedDateTime: 2021-01-26T15:35:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/accerns-no-code-ai-platform-now-available-in-aws-marketplace-301215278.html"
+webUrl: "https://www.prnewswire.com/news-releases/accerns-no-code-ai-platform-now-available-in-aws-marketplace-301215278.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "FqDePlFqEEX8XvoYYgRDd87PoM3dWcnIPSrubIImOD8Jr9lfjsTwRWmkKSoXGzrfBAwC+V8HEHUQHOwtUljvJ3S0P0LRJwtlK/1X4UkBBHfMsVqVMADjC/igdGERhul3Y8J1nwUawyHbcPp968d3H7ie7UdQ0qMtcC7+6XzH/QSh7mugx9TirxVMpAOFlDypfXxUzb+l1MH5Aa/0pgkcUgQlsyN+M8cP63Wdyxe4U3xeoNWACvisU+idi1Rjk2RkQlBNPTgM00aC2XjieeBJHl90F+sF64bnQhvogcPNL92XR/e+styB2HHS3qp8SG/jr/gJlxfcqyQR7QvpqIlHmrmAAySvNr0/+sZ2M3H2ooM=;JmqK4kt9Zjs5e0V2CLR7LQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+
+secured: "LpdPVTfB23+LYHEHjhMlhLVi7c59DjPaTHUXHM7Gz7Ahdufs9/Z+xdzPjlOUQHW8XS9v7RyxC8ptcePg6fMn8a1lbXn1um2FTe4iPoQsVY/9xz5lby/TYikNwmrRSpqNl8SbGbLAIUPcL+vFTozrDyMeb3u2mu6INFJn9I0ODkh56CgPn+YrHH0HBjFAEl6du0oaJbtfx6qJrrq96RwdWUIL9fvEfSRuc2sMcb9ixAeRk1elKTE8ahJ+7yJjEqSwJawh2zZjxrQIGoB/QC/VaLBeCGigZpmaW8e/VpAZAhOULRCau29vkcXeE3qEEQbz/Mmma4b0qqExFzAAFtzll8+wyXwIvbJgFnuDJun6dKU=;wAt4/9ZIBuGrMEup8jiqXA=="
 ---
 

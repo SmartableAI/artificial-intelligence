@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice data: Voice Lab and Datafunding launch data funding campaign"
+    excerpt: "Voice technologies have experienced a great boom in recent years with innovative solutions, research projects with numerous applications but also the issue of data protection. It is in this context that the Voice Lab and Datafunding have launched a data funding campaign with the main objective of collecting 2,"
+    publishedDateTime: 2021-02-12T07:16:00Z
+    webUrl: "https://www.actuia.com/english/voice-data-voice-lab-and-datafunding-launch-data-funding-campaign/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 39
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/02/Voice-lab-datafunding.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "4gTQ3yUsTv9fmjypaPZOFPHFlBM+CEOF0tceqa5oO38Ny697mKTWJXE+5MWr1bzd4jvEO47+5ve3H6lAaOmu7Q9+F71P6+zNxlSFmNFOlhBrEJUVHZ6AFHAu8PuxQN0c/ssyOBe/Fysw/O/dbm9sX1GlZnLReYcls4yGxHVSmDkFD1sarGuyM+2QJGzArtZIs9OOmzqz5PIQki0uhmhGsfw4UB2QoXSuJDkRz55mUjLFInYytB23P6rfuNsBKLB6FpVcyHK3lUZA+itOkbTWYSB5wdroi53RwV0L8H6AwjJTurKC8Lud+uQQuXUYxEM6STXWRtI1qK0Qsqt3lAETTz1YQgumPxxoz2DTNkrznlA=;ZRykOrDoRh7ShCwJkNeNrw=="
 ---

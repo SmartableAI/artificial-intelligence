@@ -1,30 +1,27 @@
 ---
 category: news
 title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
-excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling"
-publishedDateTime: 2021-02-12T06:38:00Z
-originalUrl: "https://www.marketwatch.com/press-release/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space-commercial-edge-computing-and-artificial-intelligence-capabilities-2021-02-11"
-webUrl: "https://www.marketwatch.com/press-release/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space-commercial-edge-computing-and-artificial-intelligence-capabilities-2021-02-11"
+excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
+publishedDateTime: 2021-02-12T05:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/science-business-technology-first-time-events-diagnosis-and-treatment-ecf651583d0e46b683467b5dda520726"
+webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-first-time-events-diagnosis-and-treatment-ecf651583d0e46b683467b5dda520726"
 type: article
-quality: 28
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -89,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "MNlS4yX/3uW/o2gRACwErdhEWAvbr/cbGnl1dEUEo8LyfuGHmRXK82anOQ4Y3ZLej7wilPfcQ+hPgwvNKdBBnjmg7VnYCmi2/Z9KayWHg25OkrAw/0rpXEfAo3a8BkxgkkNYCAAgBhj3k3sxMUaq4fJaWaoLg26SDHpo0cig/Tmkn6Iy6Qu7Q37O5x605G5p+6OlBxahOfQ9bxmZnqgO9s4Q8+WnpQmPxmwp/nwA9nNAP5YZz0q/kv4IZTl59b+UQKzJrTvQP5x4Jwjek/yyROG0fk3QH/+5m0gqeHKDjUudh4zMcApLEIKM/GBRryjp5dd5UPEEicVXpdljhrmma6jCJEOgSrmWlmHlDdH1rhM=;Y5v/dXGx9WiCvXk/nBmojg=="
+secured: "RYp6UlEfatPupPJBs/tzpmPDfHhEg2KQdhgW3mdX/JWuwI88WWml/2/b2qMQ5K0PxoUXxF7wCtbbZ/v+w8lzDJXJo7s3gjzJ7DybwT071OC8Lo7gg+sMcZ8wa/KQwPlrDVN3UXRZr3seL++mX53Zho7XR9BZRhoMh2lZtRb25HyfnDBjHehgQfPTsFgNYQp461a880K4INwwzfF99IwT4kKBSE0w/obsLzcs0QvFSQclQkfrmlsGsiIoMz/LdkecC5/I1pJ4hVJKQmqQSLtbYxYinIfXAx6oorWXcQUV0zzF7YF1PmsmYw7UQB6ciUK4BJkfQ+U6onMiiiR2gnJr753kyjpbQi1qNSx2WWjuxUg=;jYqcy9JRivjXMt4sKvAoZQ=="
 ---
 

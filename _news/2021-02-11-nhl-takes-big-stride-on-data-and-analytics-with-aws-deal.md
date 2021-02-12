@@ -1,29 +1,27 @@
 ---
 category: news
 title: "NHL takes big stride on data and analytics with AWS deal"
-excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
-publishedDateTime: 2021-02-11T09:18:00Z
-originalUrl: "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/"
-webUrl: "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/"
-ampWebUrl: "https://amp.usatoday.com/amp/115459788"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115459788"
+excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
+publishedDateTime: 2021-02-11T07:18:00Z
+originalUrl: "https://apnews.com/5720b382cc681c7db9e7c871513456b8"
+webUrl: "https://apnews.com/5720b382cc681c7db9e7c871513456b8"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/-mm-/740a207bbec9f89126631fd62b1d0320f2e9bc83/c=0-157-3000-1845/local/-/media/2021/02/10/USATODAY/usatsports/ead979f8cbf645d5951e429adda246c4.jpg?auto=webp&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://storage.googleapis.com/afs-prod/media/047ba679d814498c92b53054b8eced0b/2480.jpeg"
+    width: 2480
+    height: 1653
     isCached: true
 
 related:
@@ -168,6 +166,15 @@ related:
         width: 698
         height: 366
         isCached: true
+  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
+    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
     excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
     publishedDateTime: 2021-02-09T14:09:00Z
@@ -183,6 +190,6 @@ related:
         height: 450
         isCached: true
 
-secured: "TOerfetPOnRJuQ+SmAHkRvEbU6dJtr9I+FUD9EYpbrwFU+dSD5vKSu0cWc3EGPJtyY2hyoIWfPTfhMVkY2unPQEt3UDdOeVXfxzsiIhmgFcgQC1P4lynI9UrFUIEKDq1ai6w+zaFwGOsWuizdmhdNs3MZBP+z4HdPDNfD3Y3vNSxq1FZbKGrTaFvA35uNB+BBiIMTXRo/Ov2nA3m1acG8+0pzvJiGSGGh0F1XE5ZaUOntu/F0S+VCZyggcSoNVfGrPZh/3HWqFUZJnKjw89RpmKbEOtMkOya20dp8VNP4P9LIrSX+MfKjmX8pLWtIoOSKoNR1rJnz8mWqtReuhY8jPeNxlzqBQn++DI+iLvVC3OctjJ39vzjAHWclujsXAxoNbAHMVdRGx3/73RDKz8ILfa/y58lrof8gRelHUyLSDKDcWJohLJAWihFWUhsr3+FUFmi55KhbnrlDLIt/Ng+Z93eFTj0gU5+zUD96rEAqWVnZx8lx4P/j3Fda2Wgge9l8EXcT9p56cvC0IQl4fQVcQ==;TTqn1SL9YfllVmjCP6X/Ew=="
+secured: "sy0DWfSSDdGfNu+YeHBz2MSu6fHf92Q7M9MICL6lHvPDnk+vjRg0dtuj6bhgC8O2TTLnVg6jZ3XnRIxNK961Exn2Qz/fSQpHp7mk3UoweFi/AmGe0ufWr9G6S64+ZDKk4VkSDDugQiQrBdRP+FhcMunQGgeAIyfaJA/YP90ULwKQO7mBuPg+SNADw7sEIlUpP0Bx8oWM6deIWm8d4GR4kT6iPsDgYd3L+qrOk3lKYXWErt71E0dN+OhY8CCv6ROQ3CPx7vdvpcVOppCEisC8hfN1CfS/SBIvqZSSrCuePhx3oLSFk6RmNLXbLQcjmcDoFkxRU218dJQpeCbhB8wRUmG3mCNOojplLIaFQL/6nzo=;DA3Mcae+I16/2eEhKEOPuw=="
 ---
 

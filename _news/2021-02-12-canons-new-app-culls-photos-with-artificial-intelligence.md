@@ -56,6 +56,20 @@ related:
         width: 590
         height: 322
         isCached: true
+  - title: "AI can use the veins on your hand like fingerprints to identify you"
+    excerpt: "Veins in the back of your hand are as unique as fingerprints and can be used to identify you without specialist hardware"
+    publishedDateTime: 2021-02-12T07:06:00Z
+    webUrl: "https://www.newscientist.com/article/2267502-ai-can-use-the-veins-on-your-hand-like-fingerprints-to-identify-you/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/02/11153025/12-feb_hand-veins.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "uSfylXWM04p5Fi5SZfHvTSH8Drm5F5vuJUHQc08Zsi+RMbfLs/0G9T+wrU53PXJkndlgVM5sJz7uUn7GlHUveWNY2lrIE1u0tr8jqrYImzQd2jmkJfHWRBHNz5i5Ug7sqgOPSSjYd4/eDVB3aSPsbpfQU1Nwo4clD1queUcrztSlxCCR9ucfeWDlrQtjJ9mwHOO9Qt1TW0HotgRj5kmGEvbDnhLizF9bs+LRiEQJ9xK1wK+cUzBCw/Xptq3Rb08B9iP//hKuu6e6aQvga7Tg2qp3rigmfgD+w7dxiq3t/hc25pK2++acPVPAr22VID/y4pPvIvmY/6oSTJZONn7a+xCOhZYvclCIVcLPs7r6NWcWSBUh23p4qN8mxN2ui/cE3B3y8hkfIMzmDqgEcPS3qrXMcrv3ntHIfdIbjlsrWwPZlQZcPtt4mPoF2Wx8rNk4g/3gd0/XrLVTjPmdJkxKcDxuWKu4N/3wHRg0yMYEez9CwJDD2o8VbM494gw7P4T0Bkmm7mQTFOkU91MDalxtAQ==;4ilIe1cW6ZFEeeUJyfu2jQ=="
 ---

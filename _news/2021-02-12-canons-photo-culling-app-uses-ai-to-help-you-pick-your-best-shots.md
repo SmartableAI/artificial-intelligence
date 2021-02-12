@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/canon-photo-culling-app-213409056.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/canon-photo-culling-app-213409056.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/0301330122/canon-photo-culling-app-banner-2.jpeg"
         width: 590
         height: 322
+        isCached: true
+  - title: "AI can use the veins on your hand like fingerprints to identify you"
+    excerpt: "Veins in the back of your hand are as unique as fingerprints and can be used to identify you without specialist hardware"
+    publishedDateTime: 2021-02-12T07:06:00Z
+    webUrl: "https://www.newscientist.com/article/2267502-ai-can-use-the-veins-on-your-hand-like-fingerprints-to-identify-you/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/02/11153025/12-feb_hand-veins.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Canon’s New App Culls Photos with Artificial Intelligence"
     excerpt: "Canon has announced the Photo Culling app, the company’s new software for iOS that is built on a newly-announced proprietary artificial intelligence. Canon advertises its new app as a “digital photo assistant” to help select your best images based on four key parameters."

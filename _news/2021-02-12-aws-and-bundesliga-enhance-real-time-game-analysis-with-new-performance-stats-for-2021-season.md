@@ -3,8 +3,8 @@ category: news
 title: "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season"
 excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced three new Bundesliga Match Facts powered by AWS to give fans deeper insights into action on the pitch. The new Match Facts – Most Pressed Player,"
 publishedDateTime: 2021-02-12T05:39:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-sports-amazoncom-inc-europe-mens-soccer-e588af88f1bb473a8f3d0e3d5c716d30"
-webUrl: "https://apnews.com/press-release/business-wire/technology-sports-amazoncom-inc-europe-mens-soccer-e588af88f1bb473a8f3d0e3d5c716d30"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-sports-amazoncom-inc-europe-mens-soccer-e588af88f1bb473a8f3d0e3d5c716d30/gallery/9ff6eace95b8957e8666acee4e654d30"
+webUrl: "https://apnews.com/press-release/business-wire/technology-sports-amazoncom-inc-europe-mens-soccer-e588af88f1bb473a8f3d0e3d5c716d30/gallery/9ff6eace95b8957e8666acee4e654d30"
 type: article
 quality: 28
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "oBDwTAu/m8p3MLTwIuQnJP6h5UnMv2WdnOQ4fu1mAQV/EL6VkyDu2CCBBNeUV0hV8UCYyfgh8cqvLEJAJMkyxJsP7KHRpiwvL3KV/uApsgwQ2n9rPHgywZJKQV7tHAysOE7NTLSxxh+K1x230aB+CkW1HROO+y6HzRUP8m9w6aJQIdil9nyAVIHWpnBI4UewDwFOesIA2obh+4qReTzlosfKxsQDFbLn6OiL15cefnrC4dd6H4SYe31HPp6sFnad0rsFdfAaCws92U/tD8QdrEgCSqTuxT6QxuY2m4Nu6/Ry3yMD/kHs+WJtA20VvhTzbAIevn/Ag/T3r3j1cYz8lqS5RlSSxda1FR0/bWT1AI0=;Iaw/FcAgzWDOQl8ERJU6Qw=="
+secured: "E/6b9myq9uVSVSr3s2jjdWJqr+A+v9hzci3biT4OgISitoMYb3v8SpQo7BkeBPXWNXMiPfO4twupRbo3yPKOYzSmNYHwSFDKctM56U09OL5liqHzNm95IbyLDvcYZccX9ldVbA3uP65iyXIVNFm4gaxDmecYLdqZQY/2isxpWN4Y91sTAUNxVOV+JBJahJkxw1Yhr9vghTy+O/w94QZryn7n+nAR4HG5KJgECmy/m++S1DJvM9Cq+o/xTw75Cyj98v2CjE1Vg6Um5xXlZCjZ58p0I7AdS+wNSct2/5dolcbnF9L/iKGVKa0fh6+y+m9altc2ohr/mEmiJrZRKNwFYH9MMeI61ydjD0Fdl4EYr+M=;Ma12CYsONtYFB0swUDHVpA=="
 ---
 

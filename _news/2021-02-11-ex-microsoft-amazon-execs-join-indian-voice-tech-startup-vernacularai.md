@@ -3,8 +3,8 @@ category: news
 title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
 excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
 publishedDateTime: 2021-02-11T12:08:00Z
-originalUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673842"
-webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673842"
+originalUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673960"
+webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673960"
 type: article
 quality: 64
 heat: -1
@@ -40,14 +40,14 @@ related:
   - title: "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester"
     excerpt: "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile."
     publishedDateTime: 2021-02-11T19:40:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    webUrl: "https://www.techrepublic.com/index.php/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 116
+    quality: 114
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/a2618a6b-a205-4004-ab8d-b706d8ab359d/resize/1200x/0b71a3953d86fcf6ce37b4af796e8aed/forrester-ai-chart.jpg"
         width: 1200
@@ -200,9 +200,9 @@ related:
   - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
     excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
     publishedDateTime: 2021-02-11T16:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
     type: article
     provider:
       name: ZDNet
@@ -222,6 +222,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+    publishedDateTime: 2021-02-11T13:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-09T15:25:00Z
@@ -394,20 +405,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
-    publishedDateTime: 2021-02-11T13:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 51
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
     excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-09T12:27:00Z
@@ -492,6 +489,6 @@ related:
       domain: oaoa.com
     quality: 20
 
-secured: "/THAOj3trLCtO32fvpjCW0KL+nay3F6mzpSDOx8MrbHAYU0lzoOGBBMQd2LH6qmlTuZyqtQq8cCI/pvs702J0Sm5+884kDO1IIJ9FQ7Q+9y6MsD5x9XX3EM8+IcaryJ17dvLc9n8y3JR6+s3agQ9vmO99bd2Gg4RbHtLKPzWFs1QnkCuf3VGqFbGj5Ea5s4/p3OXqVZRyNRIWggv4xUKynvmmEZaHsz31KhNFCm4koLYDArSoafTF2ouPT14NFY10AXMi2FK/HPApPvLPJixAPf4Lyv7RnOWGCOrfMRrRHk9La5UkxcT5/dB7hLjJyeugab8Uw2EdfrNrj+6ZlS5dPN59lf2v5SjtuvFeUs+Y4CZfdSwwkgDNCOihZwTT2692o9IJxZQysuWWilcXZQkCQgIXjaUXx8j2CSjPNIxFkCDxIo8dRH/OyvuO3j6vT2XbGdJdMmY3pROwh06hU24A2QkYA9xBQxD2uxqosB45/SjLpAK4utSuwdzcJPTCdZA9vDj+t/lo7IDPBCrLMZpgA==;PDqThH5QafZNtST42uXSkQ=="
+secured: "jpWIqCuMu+QmrupBRij1viVIyb0Ok25Z29kjahZmzU09ugiUFZcYMI/vwjZCULxAmZmzS92F4EJJl5P6h3JqOmzQJmIqfU9N0QO/ITYP/Qg1rZmaYBMmYkMsu539BR4HOmOweABE8oyh1336gZ/vuDw3sjdKOETk1F/N+LOrOSVpg3xEqcw2ZmYUVtPr90YZO/HL7kZRzHbe+RVthDOVyahL3T59dkrACLw5Fduf1N+2MqNk0v0q3ezo730UUsW7JTXaiGPT9Wbg0zvYGbgh6X+MifDmxFzYCBZeewg+/b9WMW/3UfznYES7dZjF58QxJGBwW7we798q+oSloSWFp2F7CZfv152D6VFDtxrcx2LRZVyuQWZw1FemTV6miW43VFRPagTNogZYPZbI5S0Vugf4VfbN4T3Q6jJBvUDsQcaaFkmJA8eiDD/awci8xT7fkmc7nlI7dG1GnIUHcTjzTTmx+//LrcyHilD8DXAY2b3rsmdFHyxjhn5sh63HF+5eFEhHvWp2DolitnHgJ86qVQ==;gvAMc9pSO7zi3F0myOMm8Q=="
 ---
 

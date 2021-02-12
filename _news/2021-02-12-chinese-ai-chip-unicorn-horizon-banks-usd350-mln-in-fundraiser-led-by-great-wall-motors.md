@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-12T06:09:00Z
 originalUrl: "https://www.yicaiglobal.com/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors"
 webUrl: "https://www.yicaiglobal.com/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors/11286501867126784.jpg"
@@ -24,6 +25,6 @@ images:
     height: 480
     isCached: true
 
-secured: "l74Cy0Rsh/dshmf7uFUsus4btep3F3Jvo8HNqNBt13UcipIEkzdMsubqpcbpxDMkas38zQ9jo6vW0qGvm0dfHSH5mMYFQZeadibBzPl/yInv50irHvO1TXJBh8qA4Yt6fWQ8v4iJDRRRnF9eC2n406p2nHXwTZeq/zqOmMkEoJ938oSsMc8K5MjrfxC6u2OfBY43gZjhjc3EDUQd0XMDh/HIWBQthilmnUOAu/XsfAJ9cRC1p3150aZv6VojJoqyYihL2QrfambRENG1yFLUJyVL3/deVhwkAOZHYodNusjUV3VHABnc4IqfRofnwOBpllFmO/sfChaqfliu1HAw/U/TpT95bNEjz9Zzhi3KtFY=;ATGQz7ZRnaqp0t1Clkp3Tw=="
+secured: "kxTIL/DoRLhM4gNs78bYePx7nXDKja7VM0/PMK7mB2TDzIjyorMtlY/dqgnFAMfKnzs4r7U5W62fpvyMom0oJsY0t+JTAX+gRYe7Ev0kUaZtfQ7HRRLC4mfQQAC/Hrv52mgctEZi26NMndX9g7fsnxrKCTv2xanlbZli13gAvXMbRvqpsoO9/3q+0UdplBmlc8VDMt4zX5GB6xLx1m4TzNbFwQdTGXgko/qlA4Iike9KYBUsbj5jPEMSANUwpNkTSjlSSCTvCg+XMGF4/83hZ0RV6sb2LBT/ca0OSZ6UmOAWSR9v2g96Gv2SC8fvxD+qTf3H/3zIgsJLYhseqjIDNkHII0XSThYMUySDX0uPmz9LkL+o21qvy4lOrMxsf9dwZ2vIwvglMGRwRhTrcWdOOIRRo53yK0/N7SCSWMzQ9KQfxhex6pPfEPbrgIbvdpL4KoEVB1WF0yUq2Rr18Ht+zcBfh7OOOVunG2bpxZYfxwsx/GzwWupYlbPt8lGy+cJBDu9PgQwQGIcG3UxKwJF+Lg==;dKS60xODQ4DWy/CAsI+fqA=="
 ---
 

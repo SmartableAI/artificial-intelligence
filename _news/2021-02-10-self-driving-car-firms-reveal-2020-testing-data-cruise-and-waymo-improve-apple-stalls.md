@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-c
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-companies-reveal-2020-test-data-Cruise-and-Waymo.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Voice data: Voice Lab and Datafunding launch data funding campaign"
+    excerpt: "Voice technologies have experienced a great boom in recent years with innovative solutions, research projects with numerous applications but also the issue of data protection. It is in this context that the Voice Lab and Datafunding have launched a data funding campaign with the main objective of collecting 2,"
+    publishedDateTime: 2021-02-12T07:16:00Z
+    webUrl: "https://www.actuia.com/english/voice-data-voice-lab-and-datafunding-launch-data-funding-campaign/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 39
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/02/Voice-lab-datafunding.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Apple doubled California self-driving test miles in 2020, disengagement rate improves"
     excerpt: "Each year, the California Department of Motor Vehicles publishes detailed information from the companies testing self-driving cars in the state. This year’s data has just been made public, and it reveals that Apple completed 18,"
