@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-hel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.incimages.com/uploaded_files/image/1024x576/GettyImages-141948681_460422.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "‘The Voice of the Customer’: ACI recognises airports for consumer engagement during pandemic"
-    excerpt: "The Voice of the Customer’ recognises airports that demonstrated best efforts to understand the changing needs of their customers during the crisis."
-    publishedDateTime: 2021-02-08T09:56:00Z
-    webUrl: "https://www.moodiedavittreport.com/the-voice-of-the-customer-aci-recognises-airports-for-consumer-engagement-during-pandemic/"
-    type: article
-    provider:
-      name: Herve Bouillonnec
-      domain: moodiedavittreport.com
-    quality: 28
-    images:
-      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
-        width: 280
-        height: 280
         isCached: true
 
 secured: "3gMsxbC1MQ2mM9mWgVjnoGY0OllX4/EPiYwdLxP0NFZUamTG63bULaMFnSlyaCiOSajUnxFh5Gxo7r0p0C/wpoofi1mGGr7Yif9S6ZlcvMPN3ScmJfKS1Qsho18k7vRqPKdoWeu+XmFdFyAYEuUbPCj5LUD7G1RUb+XVgzerDAPw0fnB4fvzfW1crI40AWv27wv/tgl5zk4+nw0uWrvufgH8ZVzt/lOe7fK4V4J7e62srbFdbEuVlgu1+tFelmJIvfnhFEG3MdwruRc4KiZjxlMirJghJdEau1+che3FzoJKjbhNrcEFS8lyttcL57HBRBhBRK5TUVXFmON150leD2UVK0CHG4oJtZNyD8jFaJT90oszZXrIa5EUAL+cUxTfMfxH0lkULlUZ+IfBuN1oN8bjsG8deZSiZAlPkKgKZdCRu6PZ/5GL2szHk3nN+s+82SLiziavcNIr5ijixd9jfo6T3k5A3tJAMSCjIHrdDHhZ1h3NpQe/XiSrcrYkhfrh2DAgR/t/Nu5uXZ54djmkig==;Ob9oRjEXOf5H1H8Dcbt0Jw=="

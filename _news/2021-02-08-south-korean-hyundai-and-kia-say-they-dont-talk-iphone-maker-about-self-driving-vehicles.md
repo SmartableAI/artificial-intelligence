@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Car Talks Aren’t Happening, Say Automakers Hyundai, Kia"
-    excerpt: "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in talks with Apple Inc. to develop an autonomous vehicle, responding to intense speculation about the potential new product by the maker of the iPhone."
-    publishedDateTime: 2021-02-08T09:05:00Z
-    webUrl: "https://www.bloombergquint.com/technology/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 167
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-02%2F9e500661-4bf4-4ec3-bdf1-bb234b51a574%2F367503011.jpg?rect=86%2C0%2C3706%2C2668&auto=format%2Ccompress&w=1200"
-        width: 1200
-        height: 864
-        isCached: true
   - title: "Hyundai and Kia Won't Build Apple's Self-Driving Car After All"
     excerpt: "Korean automakers Hyundai (OTC: HYMTF) and Kia say that a deal to build cars for tech giant Apple (NASDAQ: AAPL) -- which had been expected as"
     publishedDateTime: 2021-02-09T05:13:00Z
@@ -52,22 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Hyundai says it is not in talks with Apple to make self-driving cars"
-    excerpt: "Hyundai Motor and its affiliate Kia said they are not in talks with Apple about developing autonomous vehicles, disappointing investors who sent shares in both South Korean carmakers lower. The pair said in a regulatory filing on Monday that they have been talking with multiple companies about co-operating to develop self-driving electric vehicles,"
-    publishedDateTime: 2021-02-08T13:02:00Z
-    webUrl: "https://www.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-    ampWebUrl: "https://amp.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cd8b4852-fd2a-4a8a-9407-f23349aecaf0"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F408b27d3-3f40-4616-bee4-25cd987c1ed9.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Hyundai, Kia Backslide After Apple Self-Driving Car Talks Die"
     excerpt: "Hyundai Motor is not in talks with Apple on autonomous vehicle development,” the automaker said in a regulatory filing."
     publishedDateTime: 2021-02-08T16:39:00Z
@@ -83,20 +53,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/09/19/hyundai-truck-engines-failed-to-meet-us-clean.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Hyundai, Kia Shares Drop After Firms Say They Are Not In Talks With Apple To Develop Self-Driving Car"
-    excerpt: "The Korean carmakers saw their shares tumble after issuing the statement which refuted previous reporting of talks between them and the iPhone-maker."
-    publishedDateTime: 2021-02-08T10:13:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2021/02/08/hyundai-kia-shares-drop-after-firms-say-they-are-not-in-talks-with-apple-to-develop-self-driving-car/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60210e84e9a3903f0e2d90d8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4916%26cropY1%3D258%26cropY2%3D3025"
-        width: 1199
-        height: 675
         isCached: true
   - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
     excerpt: "Shares of Hyundai and Kia plunged on Monday after the South Korean automakers said they were not in talks with Apple to develop self-driving"

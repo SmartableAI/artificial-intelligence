@@ -165,20 +165,6 @@ related:
         width: 632
         height: 422
         isCached: true
-  - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
-    excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
-    publishedDateTime: 2021-02-08T10:21:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/kellton-tech-launches-kelive-a-building-management-solution-underpinned-with-ai-and-smart-analytics-888095974.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1276309/Kellton_Tech_Solutions_Logo.jpg?p=facebook"
-        width: 698
-        height: 366
-        isCached: true
   - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
     excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
     publishedDateTime: 2021-02-11T19:00:00Z

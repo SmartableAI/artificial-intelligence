@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) Announces Adjournment of Special Meeting of Shareholders"
-excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) announced today that the special meeting of shareholders scheduled for February 12, 2021 was adjourned to a later date and time in order to permit the solicitation of additional shareholder votes."
-publishedDateTime: 2021-02-12T21:39:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-adjournment-of-special-meeting-of-shareholders-1030079163"
-webUrl: "https://markets.businessinsider.com/news/stocks/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-adjournment-of-special-meeting-of-shareholders-1030079163"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-adjournment-of-special-meeting-of-shareholders-1030079163"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-adjournment-of-special-meeting-of-shareholders-1030079163"
+excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund  announced today that the special meeting of shareholders scheduled for February 12, 2021 was adjourned to a later date and time in order to permit the solicitation"
+publishedDateTime: 2021-02-12T21:48:00Z
+originalUrl: "https://www.lelezard.com/en/news-19649586.html"
+webUrl: "https://www.lelezard.com/en/news-19649586.html"
 type: article
-quality: 47
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "AllianzGI Artificial Intelligence Opportunities Fund (NYSE:AIO) Announces $0.13 Monthly Dividend"
@@ -41,6 +42,6 @@ related:
         height: 323
         isCached: true
 
-secured: "HX3eEJQNyLpx68Z32E7m4/2PLrXgasDFGnLUMjHKuL3dObLUX6lps4j2mtKXVUQ/V77SjB41LLPBndeaAVcBhhJ/Pr+yZt/6TOM30VqaQLfG4LxkkHxrUR2B55s9tUChNdoWjzc0yIK+zs44X86bGFO5sEEwm2keLgmrsRxe+QUgyC7fCozd9AggygMmvR6OIa8X9c+EdEhznORmNyNbtrqDmlxJtXYCDbovaVdbb/Y9dQpgyjxPXJfbLxI89sTtMT+CBm7Dfj+xstaMDj/SLJCHM3L1irEafyZ1cIgKoreWFcFZBSWFjgtyZePvaiDnbsxcthNcgOM+bBtb287vw2pOV5S71ppC8a11nQTBkwI=;1agUxNyLUyHsFc1NkxFq3Q=="
+secured: "ej0VlZWOjm37kRm8C+OX/HX9FvH3e3S/Iu0qWjTYZfO4Vc2AM5eIwyroPDx5MGpGfBL4Au6g/AxUo24+P3QrxWgxbjTEjt0hRPKNt1Uo5QTznCxXQl3c/iD6l0NOeFLHVBEHeb4hHVcnPNoay2PqLPKC+IXXt1hRCSHLw0Xh69Olq/8HgNAOL3qh45dgSKo5rIyR+jXKfZ/ThGJaNiWxEMBgizWw0xzLZFGwlWHGUInGTju2F0YdY7vYb+AbLBTn23RWfHSU65zsRL6tWg3yBq/qhIJrYY2JWRmstGrcdcl/6DFXLDOaCHYnuESymC8Bxv9W3qzlPqamRG5QIMSrchMuVuGoaa26qeW9GWJ14g4=;FAkyuI/VNbwAyCi5jXyqfA=="
 ---
 

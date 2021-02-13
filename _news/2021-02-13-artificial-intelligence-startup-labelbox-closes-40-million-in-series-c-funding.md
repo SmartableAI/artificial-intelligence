@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -56,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "HXjm69VwjRgHmLU71J+3qUHxIWuzUt0izMAAKlSbzJ7D+5HEeb5P79P3unyUOMGEVFpj8dA/9//+1UeGV8HQcVxEGv8e54CGwgZUubN+4K9tqmbLVVIPNWuaErwN0UqhPLyllH9/Pzh0N5F2DUpcbvEdd+0VoFaQ6JW2xAtdS7KeDPMEKuxxxW+oGEYQp0kK2+uFSsf0laFquLbIQZU4QG+CkZZMhbodMDAn7OQEYZ9zRlmiw9h0axb2DtltJvXDtjVzSVVcxlSO+uOn0hbG8kkGR+SmzuF7c/bpC9hF2qjpHRHR79+5EqXZwFcqZRhsK3OMlr6JoNm/BEcACA/lNnwk95PtCcG1GdlqOOmKur0=;h78azmB3e2e6wHExmsOCRw=="
+secured: "zOkXGWpCwTozldYq76sUJIIOEONAdCjsClw5uD0eLGqruEcReBWwFz/ZTTdhBhv/zqO3Jb54lUmW1XIl+f80jdHFhUceAZBJWF7vLhb/zoRwdADLvOB5Zu/2mYqZ+veTAgwEDXSTHwNz1WetBeo1xlXAtA3UF7U56h0odApWrUCjaHuYQHGOYeruhkwkfScbswhSSbkSpSHTFoC/m0GLaV8WIrNI3pTat/croxAO4bldCgQr/94WssFjtySAYQiaq1Dw1egRxKZplXHCpMupBZHZn/oh10xI9zlOILddXqv7wsh1IHrYfF541rxxpIC8Cm0DRmz1QzSpIgAHSwbPIXQ18wMrKIeFZTNrxsgBCjs=;F5lJ/DhI8oZUcMvYaV+zRg=="
 ---
 

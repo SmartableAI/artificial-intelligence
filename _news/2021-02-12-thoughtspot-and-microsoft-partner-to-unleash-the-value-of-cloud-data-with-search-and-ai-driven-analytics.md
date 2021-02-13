@@ -160,20 +160,6 @@ related:
         width: 632
         height: 422
         isCached: true
-  - title: "Kellton Tech Launches KeLive -- a Building Management Solution Underpinned with AI and Smart Analytics"
-    excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in digital transformation, integration, and enterprise intelligence,"
-    publishedDateTime: 2021-02-08T10:21:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/kellton-tech-launches-kelive-a-building-management-solution-underpinned-with-ai-and-smart-analytics-888095974.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1276309/Kellton_Tech_Solutions_Logo.jpg?p=facebook"
-        width: 698
-        height: 366
-        isCached: true
   - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
     excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
     publishedDateTime: 2021-02-09T14:09:00Z

@@ -1,32 +1,22 @@
 ---
 category: news
 title: "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season"
-excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league,"
-publishedDateTime: 2021-02-11T09:18:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season-2021-02-11"
-webUrl: "https://www.marketwatch.com/press-release/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season-2021-02-11"
+excerpt: "AWS machine learning and analytics services continue to bring deeper insights to the game of football and enhance the fan experience with new advanced statistics including Most Pressed Player, Attacking Zones,"
+publishedDateTime: 2021-02-11T02:30:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210211005287/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season"
+webUrl: "https://www.morningstar.com/news/business-wire/20210211005287/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season"
 type: article
-quality: 58
-heat: 68
+quality: 8
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season"
@@ -44,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "bidXqsZc4EPCskIsX/zFYzuE85XW/kMehgpV/JghvY3LQ9cFVcEp5nSyEBbTk6x+S1CYpbOLn+7NW7FPKYeGdSsPaaOYCRduQiQe4D+czx8WGnfoIye7rJyI0msst5/D1IR/tBOrNTNuGR0DejWKUtzjAxiZBndr1W6fmWQoxgXVKPAOVBzHjHJ9r3adJRM2/XlzvIDnjYZL74I5KNwN36XYwh29huUHEde6zPly3zXTpIWFf9Quf4Kil+1gKCL4X+thwRzjDFc/ZBHSMCuO5jfVQ5KAqHqas+zKpFQlthGbSxUnyPOmcmX73cxpyfV6FqChnIxU/aMAdZBStokjSJXfFhoZU3q/7eXtHR4KxnU=;6CSMfdnqb3GenRQkESLeuw=="
+secured: "1aEkjN44Rzeos7Bc9cm0ThLCW6lGarS7u3mPvl8IJnfTlmYNLLNOsx7vpGTGYaah/ITpIB7jUsE51iXsKJX6oeBtwHipXjdOfNlannsk+fPrlQ112eXOT3qXdxkX6wzr/k4FmxhyLObqPfMM/puDFbTY7GDOSeJm7AQ738Wg8rw5vJIRJ3MQWkuUa8r+h944dsGeO3U6cYlPjrLA1rRFkT0RrNg6yAvSf0+OB4H6FjJOh3tWcUB4qtZYbRtm3lxuQ8pzIqJ8Vqnx/CW2q3KGSpr057fNCL6NMaJrHGko0ak39I/l59GrE+vOjo2nDhdwqnJuVuaRjzlivBZ91WjH7L6tRW1waIVXr1vQQGxN1ya3A5cUwLdQ/h1OvysxxdDYc9NMQ32X6gMfsZd/mHWb4ban6DLvg8fZ+uHUZ5qktTDFOI9beeCkA3PQEb7qTgKTICX8eyf+3omkb/ptwPjSfuRFgodP/AKI5AzClrgcLF+83Rp+h+jXFFSh3LCWSj9w2R6qTplYWOuU5Lq0QsuZfQ==;QVsorc7EgJaHtsZQ2BGFpg=="
 ---
 

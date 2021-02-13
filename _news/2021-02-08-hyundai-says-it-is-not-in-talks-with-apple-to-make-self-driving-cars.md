@@ -27,88 +27,82 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Car Talks Aren’t Happening, Say Automakers Hyundai, Kia"
-    excerpt: "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in talks with Apple Inc. to develop an autonomous vehicle, responding to intense speculation about the potential new product by the maker of the iPhone."
-    publishedDateTime: 2021-02-08T09:05:00Z
-    webUrl: "https://www.bloombergquint.com/technology/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple"
+  - title: "Self-driving car firms reveal 2020 testing data: Cruise and Waymo improve, Apple stalls"
+    excerpt: "The California Department of Motor Vehicles reveals how companies operating autonomous cars in the state are progressing."
+    publishedDateTime: 2021-02-10T14:55:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 167
+      name: CNET
+      domain: cnet.com
+    quality: 81
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-02%2F9e500661-4bf4-4ec3-bdf1-bb234b51a574%2F367503011.jpg?rect=86%2C0%2C3706%2C2668&auto=format%2Ccompress&w=1200"
+      - url: "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg"
         width: 1200
-        height: 864
+        height: 630
         isCached: true
-  - title: "Hyundai and Kia Won't Build Apple's Self-Driving Car After All"
-    excerpt: "Korean automakers Hyundai (OTC: HYMTF) and Kia say that a deal to build cars for tech giant Apple (NASDAQ: AAPL) -- which had been expected as"
-    publishedDateTime: 2021-02-09T05:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439"
+  - title: "Waymo's top lawyer explains how the self-driving leader is expanding its reach — and defending its turf"
+    excerpt: "Kevin Vosen and his team tackle of range of issues for Alphabet's Waymo, from wrangling regulations to defending IP."
+    publishedDateTime: 2021-02-12T10:58:00Z
+    webUrl: "https://www.businessinsider.com/waymos-top-lawyer-explains-how-its-expanding-its-reach-2021-2"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 69
-  - title: "Hyundai, Kia Backslide After Apple Self-Driving Car Talks Die"
-    excerpt: "Hyundai Motor is not in talks with Apple on autonomous vehicle development,” the automaker said in a regulatory filing."
-    publishedDateTime: 2021-02-08T16:39:00Z
-    webUrl: "https://www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465"
-    ampWebUrl: "https://www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hyundai-kia-backslide-after-apple-self-driving-car-talks-die-3140465?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
+    quality: 68
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/09/19/hyundai-truck-engines-failed-to-meet-us-clean.jpg"
-        width: 1024
-        height: 682
+      - url: "https://i.insider.com/60253a9acca90200129b7b18?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Hyundai, Kia Shares Drop After Firms Say They Are Not In Talks With Apple To Develop Self-Driving Car"
-    excerpt: "The Korean carmakers saw their shares tumble after issuing the statement which refuted previous reporting of talks between them and the iPhone-maker."
-    publishedDateTime: 2021-02-08T10:13:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2021/02/08/hyundai-kia-shares-drop-after-firms-say-they-are-not-in-talks-with-apple-to-develop-self-driving-car/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60210e84e9a3903f0e2d90d8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4916%26cropY1%3D258%26cropY2%3D3025"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "South Korean Hyundai and Kia say they don’t talk iPhone maker about self-driving vehicles"
-    excerpt: "South Korean Hyundai and Kia say they don't talk iPhone maker about self-driving vehicles Shares of Hyundai and Kia plummeted on Monday"
-    publishedDateTime: 2021-02-08T11:24:00Z
-    webUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/"
-    ampWebUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
+  - title: "Self-driving car companies reveal 2020 test data: Cruise and Waymo improve, Apple quits"
+    excerpt: "Self-driving car companies reveal 2020 test data: Cruise and Waymo improve, Apple quits Cruise fared much better last year, but we are"
+    publishedDateTime: 2021-02-11T17:49:00Z
+    webUrl: "https://www.compsmag.com/news/apple/self-driving-car-companies-reveal-2020-test-data-cruise-and-waymo-improve-apple-quits/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/self-driving-car-companies-reveal-2020-test-data-cruise-and-waymo-improve-apple-quits/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/self-driving-car-companies-reveal-2020-test-data-cruise-and-waymo-improve-apple-quits/amp/"
     type: article
     provider:
       name: Windows
       domain: compsmag.com
-    quality: 50
+    quality: 51
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/South-Korean-Hyundai-and-Kia-say-they-dont-talk-iPhone.jpeg"
-        width: 600
-        height: 315
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-companies-reveal-2020-test-data-Cruise-and-Waymo.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
-    excerpt: "Shares of Hyundai and Kia plunged on Monday after the South Korean automakers said they were not in talks with Apple to develop self-driving"
-    publishedDateTime: 2021-02-08T15:32:00Z
-    webUrl: "https://wsvn.com/news/us-world/hyundai-and-kia-say-they-are-not-talking-to-apple-about-self-driving-cars/"
-    ampWebUrl: "https://wsvn.com/news/us-world/hyundai-and-kia-say-they-are-not-talking-to-apple-about-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/hyundai-and-kia-say-they-are-not-talking-to-apple-about-self-driving-cars/amp/"
+  - title: "Voice data: Voice Lab and Datafunding launch data funding campaign"
+    excerpt: "Voice technologies have experienced a great boom in recent years with innovative solutions, research projects with numerous applications but also the issue of data protection. It is in this context that the Voice Lab and Datafunding have launched a data funding campaign with the main objective of collecting 2,"
+    publishedDateTime: 2021-02-12T07:16:00Z
+    webUrl: "https://www.actuia.com/english/voice-data-voice-lab-and-datafunding-launch-data-funding-campaign/"
     type: article
     provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 38
+      name: Actu IA
+      domain: actuia.com
+    quality: 39
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/02/Voice-lab-datafunding.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Apple doubled California self-driving test miles in 2020, disengagement rate improves"
+    excerpt: "Each year, the California Department of Motor Vehicles publishes detailed information from the companies testing self-driving cars in the state. This year’s data has just been made public, and it reveals that Apple completed 18,"
+    publishedDateTime: 2021-02-09T20:47:00Z
+    webUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/"
+    ampWebUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 37
+    images:
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "XYAnYhDJu/qYcVVtMwPznXQfiGt2AAiMYSyK6+GMbJZ+X9d5q2K6sM12dCXVXOBvA04M6VhXCa9aA7xzjTzxkUoxJZvzm9eHoNzBTuh9YrqXbFJBiEV7VXINoKOQJBIimDZjAEo9m24Y6Z1oa8A3+SxvDYnLh/Hkk9QUxM5Bf8R3rdH02OKCtGNb0+Ed9QU09Kx1u1TWOIDgDrSKNGYpI1ehEqvh3Q8SSF+JbF8mJi21+Y+a1rT53JqwVVZEBeo/W/bAWYC/gKgxuSikXoyO2YSoZQUFcK2UNnyCTrmp3sOYj82C/0p+ETC9zBPSZ594NqRA5LWx75m+L03eeKGrg9+SX4neJkSXWGS96DJMagc=;dFYsLRVG29Tu7xV3uxKkTQ=="
 ---

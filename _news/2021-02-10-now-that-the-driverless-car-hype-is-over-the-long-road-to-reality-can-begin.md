@@ -117,15 +117,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Docomo Pacific tests driverless concept cart powered by 5G network"
-    excerpt: "NTT Docomo's Guam subsidiary Docomo Pacific said it tested the new driverless concept cart SC-1, manufactured by Sony and powered by Docomo Pacific 5G. The SC-1 leverages 5G mobile technologies for various remotely controlled functions."
-    publishedDateTime: 2021-02-08T09:55:00Z
-    webUrl: "https://www.telecompaper.com/news/docomo-pacific-tests-driverless-concept-cart-powered-by-5g-network--1371525"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "xj0YKa2e4oe215c6b42LohwSVZ4DEoX6KJ65VNWcJ7ywmtF+YWSmdBjQTUKC+rVv90pWztzwYM6EP4LbSp4c+1Gz7HgpzC1QNP+zdSn23yVJY/Ap/60NkjcdfuV+AY3TKMnmzyUluStcW/qwsKfcZECRbqNRjgAQ32hXhmR2Yv48UtOLYA/JlACoDki9ssPbDJ3BVVQwBpAB7/BXrxIUPHT5HpfLfw9Rv/zX/oR09r78zWRDYuP5nYfs0fLZXV5QIEX+gHwIxqfnQQxiq+yMGXSFjpi73bgjZuPcV/aZKpMD1lMqDb8QrEx/ZydQBbB8m+thZ6tMq1cnWa2sMPlWAHZUYMSZ1L8YDkBd+YzGB4I=;PcrgsAtYVCZScSlNESeqwg=="
 ---

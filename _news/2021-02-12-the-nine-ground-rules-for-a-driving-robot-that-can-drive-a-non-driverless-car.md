@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
 type: article
 quality: 103
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -122,15 +122,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Docomo Pacific tests driverless concept cart powered by 5G network"
-    excerpt: "NTT Docomo's Guam subsidiary Docomo Pacific said it tested the new driverless concept cart SC-1, manufactured by Sony and powered by Docomo Pacific 5G. The SC-1 leverages 5G mobile technologies for various remotely controlled functions."
-    publishedDateTime: 2021-02-08T09:55:00Z
-    webUrl: "https://www.telecompaper.com/news/docomo-pacific-tests-driverless-concept-cart-powered-by-5g-network--1371525"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "A8Vw0atll/3xCbDK1ab8BDyfav2VLictfMHno9M7Sx2s9iyqTyN/+ZCbttTK6sSF8VLMm7W5EBWuPfauBQiZe4UEgY8c0W4mkcMD1hP11anB1hLbM62CkLDMLegOpfuHqdlaBwBOKI4Ce8mA+/inZAtZvMQ158eJGpNdevNIEEjALb1x+qQMBVYCFwek5t7LDC56RSzRq6Cgha6OZHrxniYH2SJrjixWCluLAilglIbigfkFaCwywO9h/QAZ1xS5DMGZxeqE19VSBJMmW/iGOMUNkSax86SJ1SYSg9dkq/7i+WbzcM/Tk/gZB11Cb1q/Tdbmik9fD+ur8WPLK/kkf4LvDodl6GO3IkyLGQCvkyko7LNG5qZ8zIBHLGVSPHQmBKiEMa90lmJyz+P7bwfi8BWXRada+AJ0njhQ7Wye1I7gstxs60I5nTuN/LXZ1mqkU4QBp61nkt32WEeBDc6bgUvOglSehFx2zJczv6ljHmTX9hdiVSOPXuYpv0f3yCKdg/aUjUpsK76rO3JzN/CvrA==;i1c6o/Wr0zFKuC2YzFmKeg=="
 ---

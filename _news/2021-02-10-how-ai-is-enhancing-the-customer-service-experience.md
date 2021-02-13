@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "‘The Voice of the Customer’: ACI recognises airports for consumer engagement during pandemic"
-    excerpt: "The Voice of the Customer’ recognises airports that demonstrated best efforts to understand the changing needs of their customers during the crisis."
-    publishedDateTime: 2021-02-08T09:56:00Z
-    webUrl: "https://www.moodiedavittreport.com/the-voice-of-the-customer-aci-recognises-airports-for-consumer-engagement-during-pandemic/"
-    type: article
-    provider:
-      name: Herve Bouillonnec
-      domain: moodiedavittreport.com
-    quality: 28
-    images:
-      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
-        width: 280
-        height: 280
-        isCached: true
 
 secured: "UsKYMclU4HdKoY2Dyjg7K2LoQrhNb+7hX9/oNQYyJ63uLc4H0xDQyL9cb3LppsGLScbPHoNkqkxi166+RHD0wN/APpNmfH3WKyr7WgPmlMv9To62ZyzMl6E+raVj7uqZf7RgvZewhgxCUMtWgq4oXNWm2xam8juzC4UlilyBsWRS4gdi0ws7chNAS6Bl5/cBwgT16UcYRtAW/6j9zKhTjDT4PyMNQrKkGs0+VYR5IEI6gmo10uO4nGMWLwRZ4/lSrKDt4CY2NEjvrmYvuZ1c52SJsSO16UrtEFLWcX141w/mEqvaYjhuYYgu9JPkQ0JyANMMbj1+AesidRr16NFYff/iqEn1LFsmgLTxMf2u4j9QPClPpftqhvDFcWYNe9ttDMUywxZOowBcOVmGuzXRV5Zbz9F4hYQGql6rXyt/Vie7You2z2KX8tRJRf5raEQzMhHBKgo9bg836eXxno64+m5Fthom10fboxn7clTkWELYgWGgmmZ3m1gb68OmbBB7IYAvBC4qXEAPpeUzxDbgXw==;+WqP0dcVw9FaO9ra5kJKSw=="
 ---

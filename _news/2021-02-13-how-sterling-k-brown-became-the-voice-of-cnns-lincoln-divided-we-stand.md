@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "How Sterling K. Brown became the voice of CNN's 'Lincoln: Divided We Stand'"
-    excerpt: "Sterling K. Brown became involved with the CNN Original Series \"Lincoln: Divided We Stand,\" in part, to learn more about the man who served as America's 16th president. \"I was just trying to get more information."
-    publishedDateTime: 2021-02-12T11:00:00Z
-    webUrl: "https://www.waaytv.com/content/national/573781442.html"
-    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=573781442"
-    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=573781442"
+    excerpt: "\"This Is Us\" star Sterling K. Brown became involved with the CNN Original Series \"Lincoln: Divided We Stand,\" in part, to learn more about the man who served as America's 16th president."
+    publishedDateTime: 2021-02-12T11:55:00Z
+    webUrl: "https://www.cnn.com/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html"
     type: article
     provider:
-      name: WAAY-TV
-      domain: waaytv.com
-    quality: 42
+      name: CNN
+      domain: cnn.com
+    quality: 72
     images:
-      - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
-        width: 640
-        height: 380
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160921115945-sterkling-k-brown-this-is-us-2-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "vLjpp5Lhzm5km/f28PArOqwFHANKDfv75xFhVCWzPWeu1FTfTQKusNFGaA1Q+VlxRpWG+714n9cRs5mdOsR/AsKTHJQm2WSHdd0p8EOqG+YY/SCtl075erEV7IIVi0vLHRfis3/FVaPJZrXYqXtoVF5tailW71cCWye1chC+5cy00yXc9AavAqBDyzQ/YB1NO0XAyvhhmjoZVij2Ywy2TOk7bPW+TQi7wOhxHrJL/bQCgwO8DsTjbziv6G6rkxRxpSLQN4kQq38vUTureUyQ7pGEPUHXZmHAZz//h7W1karhxdA8Q/k0s7DldGXqPTPJ6oU28PpDrxt6HCilckiaCRtBWL/QQDmA7KcJdIx9WvA=;5/6TyZAm0jfk6fc1nFkagQ=="
