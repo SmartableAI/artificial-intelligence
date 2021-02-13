@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41467-021-21194-4?error=cookies_n
 webUrl: "https://www.nature.com/articles/s41467-021-21194-4?error=cookies_not_supported&code=bdb35eb9-9fda-494c-a130-3313d1ef3803"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,74 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can help improve predictions of mortality risk"
-    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year."
-    publishedDateTime: 2021-02-09T00:11:00Z
-    webUrl: "https://www.news-medical.net/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx"
+  - title: "StressNet - Deep learning to predict stress with fracture propagation in brittle materials"
+    excerpt: "Catastrophic failure in brittle materials is often due to the rapid growth and coalescence of cracks aided by high internal stresses. Hence, accurate prediction of maximum internal stress is critical to predicting time to failure and improving the fracture resistance and reliability of materials."
+    publishedDateTime: 2021-02-10T17:54:00Z
+    webUrl: "https://www.nature.com/articles/s41529-021-00151-y"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
+      name: Nature
+      domain: nature.com
+    quality: 31
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41529-021-00151-y/MediaObjects/41529_2021_151_Fig1_HTML.png"
+        width: 685
+        height: 408
         isCached: true
-  - title: "AI can predict early death risk"
-    excerpt: "Researchers have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm -- an example of what is known as machine learning,"
-    publishedDateTime: 2021-02-10T03:09:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/02/210209113914.htm"
+  - title: "Predicting adverse outcomes due to diabetes complications with machine learning using administrative health data"
+    excerpt: "Across jurisdictions, government and health insurance providers hold a large amount of data from patient interactions with the healthcare system. We aimed to develop a machine learning-based model for predicting adverse outcomes due to diabetes complications using administrative health data from the single-payer health system in Ontario,"
+    publishedDateTime: 2021-02-12T10:59:00Z
+    webUrl: "https://www.nature.com/articles/s41746-021-00394-8"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-  - title: "Geisinger researchers find AI can predict death risk"
-    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm—an example of what is known as machine learning,"
-    publishedDateTime: 2021-02-09T15:48:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-medical-technology-health-medical-research-8dec9fab85f154247727ce3286f85014"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: Nature
+      domain: nature.com
+    quality: 18
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Machine Learning Tool Predicts Mortality During Transfers of Care"
-    excerpt: "A new web-based tool developed using machine learning predicts mortality rates based on hospital transfers, leading to better patient outcomes."
-    publishedDateTime: 2021-02-10T18:00:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-mortality-during-transfers-of-care"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Artificial Intelligence Predicts Death: Echocardiogram Medical Imaging, Computer Models Detect Mortality of COVID-19 Patients"
-    excerpt: "Geisinger Health System researchers created a computer algorithm that uses echocardiogram videos of the heart, which it can use to predict the probability of death within a year. Developers claimed it outperforms other medical predictors."
-    publishedDateTime: 2021-02-10T21:57:00Z
-    webUrl: "https://www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 30
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Artificial-Intelligence-Predicts-Death-Echocardiogram-Medical-Imaging-Computer-Models-Detect.jpg"
-        width: 594
-        height: 396
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00394-8/MediaObjects/41746_2021_394_Fig1_HTML.png"
+        width: 584
+        height: 685
         isCached: true
   - title: "Ensemble machine learning prediction and variable importance analysis of 5-year mortality after cardiac valve and CABG operations"
     excerpt: "Despite having a similar post-operative complication profile, cardiac valve operations are associated with a higher mortality rate compared to coronary artery bypass grafting (CABG) operations. For long-term mortality,"
@@ -107,6 +66,20 @@ related:
       - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-82403-0/MediaObjects/41598_2021_82403_Fig3_HTML.png"
         width: 685
         height: 551
+        isCached: true
+  - title: "Predicting intraocular pressure using systemic variables or fundus photography with deep learning in a health examination cohort"
+    excerpt: "The purpose of the current study was to predict intraocular pressure (IOP) using color fundus photography with a deep learning (DL) model, or, systemic variables with a multivariate linear regression model (MLM),"
+    publishedDateTime: 2021-02-11T18:59:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-80839-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 10
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-80839-4/MediaObjects/41598_2020_80839_Fig1_HTML.png"
+        width: 685
+        height: 575
         isCached: true
 
 secured: "0eY2CfNlDDb5Zuv8mb9XmLSSQA4+ojUtR7kM/lgjkhGUx6LF7HLomq/2tTZX7OI/52AhJEviFuAUoEQa3MPQXsoUd+E83tnfcKpckFCJCFb9TYXOETSjvAPpfah/HAQqz48SbkQi9Fpfmd08+Bgei+frl7LO4eJYH0VgWAud7g+XXr23pZZzjCmtQkaBV5/We/HQ9RHuFkehi7uE05GsXnsXQJ/ORXJxC6RwUIcI9wRM3vjmN/b2PFHWk2oqmMAae78Ho8cMV5jgS3lyg0u0mHFPom+A2RJLkpft2YCS/N+IgIzhW4RgSbnGb9ZK+0dmBslaG+QKMWEZjUTkYkCvMkGJP8UC68Mkw81tuqzYf1k=;KFGHNAxNoyZG2uGkUt7tLw=="

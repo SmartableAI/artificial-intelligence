@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-
 webUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-mortality-during-transfers-of-care"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,91 +23,6 @@ images:
     width: 690
     height: 400
     isCached: true
-
-related:
-  - title: "Machine learning can help improve predictions of mortality risk"
-    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year."
-    publishedDateTime: 2021-02-09T00:11:00Z
-    webUrl: "https://www.news-medical.net/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "AI can predict early death risk"
-    excerpt: "Researchers have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm -- an example of what is known as machine learning,"
-    publishedDateTime: 2021-02-10T03:09:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/02/210209113914.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-  - title: "Geisinger researchers find AI can predict death risk"
-    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm—an example of what is known as machine learning,"
-    publishedDateTime: 2021-02-09T15:48:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-medical-technology-health-medical-research-8dec9fab85f154247727ce3286f85014"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "RNA secondary structure prediction using deep learning with thermodynamic integration"
-    excerpt: "Accurately predicting the secondary structure of non-coding RNAs can help unravel their function. Here the authors propose a method integrating thermodynamic information and deep learning to improve the robustness of RNA secondary structure prediction compared to several existing algorithms."
-    publishedDateTime: 2021-02-11T00:00:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-21194-4?error=cookies_not_supported&code=bdb35eb9-9fda-494c-a130-3313d1ef3803"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 32
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-21194-4/MediaObjects/41467_2021_21194_Fig1_HTML.png"
-        width: 685
-        height: 417
-        isCached: true
-  - title: "Artificial Intelligence Predicts Death: Echocardiogram Medical Imaging, Computer Models Detect Mortality of COVID-19 Patients"
-    excerpt: "Geisinger Health System researchers created a computer algorithm that uses echocardiogram videos of the heart, which it can use to predict the probability of death within a year. Developers claimed it outperforms other medical predictors."
-    publishedDateTime: 2021-02-10T21:57:00Z
-    webUrl: "https://www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/artificial-intelligence-predicts-death-echocardiogram-medical-imaging-computer-models-detect-mortality-of-covid-19-patients/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 30
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Artificial-Intelligence-Predicts-Death-Echocardiogram-Medical-Imaging-Computer-Models-Detect.jpg"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "Ensemble machine learning prediction and variable importance analysis of 5-year mortality after cardiac valve and CABG operations"
-    excerpt: "Despite having a similar post-operative complication profile, cardiac valve operations are associated with a higher mortality rate compared to coronary artery bypass grafting (CABG) operations. For long-term mortality,"
-    publishedDateTime: 2021-02-10T14:41:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-82403-0"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 10
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-82403-0/MediaObjects/41598_2021_82403_Fig3_HTML.png"
-        width: 685
-        height: 551
-        isCached: true
 
 secured: "YBKqjPbUN1ZP06WDlgc7fWIXpwMpoenlCwLou/J07fYGliMuxSIlhMJvyhCw89gudBX+YjX/yb6IPcz2xDXSjPWWqcFNZgOUM0/JqIQLD1rauPUD/MUkeG5VihPaH1KX4eNj5EVxI7zSVMkGt5lRk7Fuq8c2WtsSR5ANIwhDUsFSr1QZPqCFv4gePMG1XQIwEyfumgJidfWS9aJVp8qLTWB3dyomw3wckIK4IOap6X0vy5W0Be1X99Do5MxUKTkWVfC2gg43WjrqpXTx7iINO6SOIbLFm+wm/n+49FS5jbn/+70tCHUeiMv3phB4NJ6Dq3IUv89mzD8M8WxhWtdfCaGVFw/g0kOh4lUk6kTz5U/zQJ5h4Q+hA+svohjX+FOcGC7X4Sj3Xvp4uTtb9lJpF+AfJNboDF/0VfDlEd0ayyz9EwlvZnLchKRFqmdvs4zLF1GhVnV/IZVzW0nzI2qCMZjLCeD19yfXar9ejIoSCTwt7xc2ZRSaMhYDCk+u2GbsktLAwCwKCytEU6empSU+Gg==;bc80LyzTI4sQD8lOCmtlIw=="
 ---

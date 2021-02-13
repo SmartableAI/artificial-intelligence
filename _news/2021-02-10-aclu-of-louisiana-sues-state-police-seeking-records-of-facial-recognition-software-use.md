@@ -75,6 +75,22 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "Minneapolis poised to ban facial recognition for police use"
+    excerpt: "Committee voted 12-0 in favor of ban, advancing it to city council, months after actions of city’s police sparked racial reckoning in US"
+    publishedDateTime: 2021-02-12T18:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/199d7f912263587d7beb198ff7c5dab0bc726f19/0_135_4645_2787/master/4645.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d7c38416f108916c5e4f131ce3875c59"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Minneapolis City Council approves ordinance banning use of facial recognition technology"
     excerpt: "An ordinance passed by the Minneapolis City Council will ban the use of facial recognition technology in the city."
     publishedDateTime: 2021-02-12T21:28:00Z

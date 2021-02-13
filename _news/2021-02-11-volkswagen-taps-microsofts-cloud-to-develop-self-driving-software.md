@@ -3,10 +3,12 @@ category: news
 title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
 excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
 publishedDateTime: 2021-02-11T13:58:00Z
-originalUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
-webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+originalUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
+webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
 type: article
-quality: 71
+quality: 91
 heat: -1
 published: false
 
@@ -24,9 +26,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
-    width: 800
-    height: 496
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
+    width: 877
+    height: 545
     isCached: true
 
 related:
@@ -276,6 +278,6 @@ related:
         height: 419
         isCached: true
 
-secured: "TCrmMJaseS8tZG2nJIVpCpeT1+i7V7LYF+WwIstpsMIObY7HETr2AjC9/7qYEPl/FkjUwYMan7kBtZ91uhNfNUw58uapIExAq/iXMcAvrfVBuXTSvL2jB2ji8YSSWPLl/+/vfokJqc974ZwgCTH0IH744CQDl7A5d11A3+lBQvGc00BOUTDoLjRf+9m/jboqNK1KNb3+zq8ekNN7c/4H8GxDsONyv+4yHbzWbq4daMw+9nMf7sCNywAUiXYrfVh6guyrfO/3y+VMx1vRLIEkZxkclxVYuRPb4gsZjxmMDqKDdOLzleeAhQ268W+irpYURMSd1cal5VfYWOsor0uAHtTkeJnD5tOYnxK8HCtaCZUaGGaiYVD8B79EhsK7QyLN/8iFo3J9wiAMW29bUPFqIVPw1CgdRO49AmFoYj7vHXE6qQiQbU9o33DUfACxgSwsvJbjo+c1HIVg8UwxpqtKNqCHLLVO3X5yChXtx+igP12JowbaYEUjvhmIcmEzVZY/3wA71hDBUOlJ3DmmAkOgJQ==;cOmmRI90Yp6uAq9qrVzNEA=="
+secured: "lkzL6PFzlGNVvu/MwdGP3PUuopWcBhivD/CBsVRAd0te0ctlGsX7WM7X/NU14gGgwt0UulFe58fqZbaqHsE3eNXxz9J9lkpKIL2qEWsrErIMyi67ikIRVVFG59tK8jTz2dIfTDujelrEcVaTb2LfaIbxFe7TaNxRKWUdGn8rhSHEwQiKqlCaj49KoAjcpFW+Lbv8uih5aPNp7lLZZt4gBEAscCOXAI8o2ZhVwY/UrqyPo+dSVziQ4sqEMCkLuhSGem3VE459D9XeYdMkEHaUJAwSAWHxx2/ZjVtQI4V+YMbgDruN+jQzH89xSXXXKdiR/Goin9DWq2usVobUPYLSfR86Aq492Xtdu+869iySVok=;b/p+Vypdm4eR/oo1H1gSyA=="
 ---
 

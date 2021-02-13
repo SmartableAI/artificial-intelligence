@@ -7,8 +7,8 @@ originalUrl: "https://www.fiercehealthcare.com/practices/nuance-acquires-saykara
 webUrl: "https://www.fiercehealthcare.com/practices/nuance-acquires-saykara-to-expand-healthcare-ai-products"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Fierce Healthcare
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nuance acquires Seattle digital health startup Saykara to boost healthcare AI products"
-    excerpt: "Nuance Communications has acquired Saykara, a Seattle health-tech startup that makes a voice assistant for clinicians. Nuance, based in Boston and publicly traded, will use the deal to boost its"
-    publishedDateTime: 2021-02-08T23:24:00Z
-    webUrl: "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/"
-    ampWebUrl: "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 96
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/10/20181003_GeekWire_Summit_813-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Nuance buys healthcare voice assistant startup Saykara"
     excerpt: "Nuance Communications acquired Saykara, a startup building a medical AI voice assistant to help with charting and other administrative tasks. The deal is expected to build on Nuance's speech recognition tools for physicians."
     publishedDateTime: 2021-02-10T02:44:00Z

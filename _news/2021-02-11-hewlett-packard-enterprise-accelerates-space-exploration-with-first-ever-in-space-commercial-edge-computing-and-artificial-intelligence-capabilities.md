@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
-excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
-publishedDateTime: 2021-02-11T13:01:00Z
-originalUrl: "https://www.fltimes.com/business/national/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space-commercial-edge-computing-and/article_9282cae1-be6c-5b5e-8489-3f1747bafeab.html"
-webUrl: "https://www.fltimes.com/business/national/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space-commercial-edge-computing-and/article_9282cae1-be6c-5b5e-8489-3f1747bafeab.html"
+excerpt: "Hewlett Packard Enterprise today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
+publishedDateTime: 2021-02-11T13:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space"
+webUrl: "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Finger Lakes Times
-  domain: fltimes.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "NASA, HPE to Test Edge Computing System to Deliver AI in Space"
@@ -54,6 +48,6 @@ related:
         height: 450
         isCached: true
 
-secured: "3BIj9lRp65VFh/jR5pXVod8TTb2/1kiNf0ZCKj4KMamVDQ2QdHidhqP1QszyfpwcUjXTdjsuxgjbRFbtH7hXKVombYJDQ20ITU+HZGP596Ud150oYJWvV+zcHC7aJdLkAa7W3KfZV1h7Oq+ziGB4x/r7oEPsJ93qEZosqpTeQ7PckgnlYhkKHO5hPMOztX8ODUZ5+HuFq/LwP3BLX/R0sm0KbojdkQSWWhG5pmUgd5ZUrPgv2rDugj6lZ7Hv8fmxhPKwIbXf7JJGf4mxbP6pDQK+UG1T4+nrefG3S1+0YHMzAGF7uz3xhWf5CqPeXO8oRGBOgFLz8GUiffEVNEzsTbA1X8wvoPsfk+HosEF6u+A=;ewYGTCn4YMK5FbDktbnysA=="
+secured: "brIfE3c+75jPOtE7Kb56S8aA2Ppfq071P4l5E6AbHg48GQw0QfpulhuVU5Ko65SfLbRMGseMML+ygNw7tBzH+uaKjGtBwkGwKhfgO0sh+IlkGYM3a/bUPqtrAu3eOo5crdZ8Kj16MVpKgpph/4v9T7QREdBr5Ejutt7blx3c8Ggeqzdqngwp4jyAs5g7NBUY8Ed8TcNX0kEBEdaiALqSsv2TX5Ama01qZQK75Crlw2jwC1QRdOERyMdJR9hQNwS8l297GMr6Di0NuwQFV7woEPCwcZKOyl78EivSeHoj5ssZS/cySf4iYgddbLuFpyKT8IaKkJ+aW2ZM3+40ztPDlPG4Hu9Gbv+ou2kf7wwH/Hk=;Ngh68ASdclmGScZTew/Zwg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
 type: article
 quality: 103
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://theweeklydriver.com/wp-content/uploads/2021/02/800px-Tesla_Model_S_digital_panels.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "The Wealthiest Self-Driving Car Add-On Options"
+    excerpt: "Consider that during the first era of self-driving cars there will be add-ons, and those will likely one day become standard fare."
+    publishedDateTime: 2021-02-13T16:50:00Z
+    webUrl: "https://www.newsoneplace.com/6956032012/wealthiest-car-options-self-driving"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 24
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/601dc225367d07fd58a05945/0x0.jpg?cropX1=0&cropX2=4595&cropY1=266&cropY2=3328"
+        width: 5616
+        height: 3728
         isCached: true
 
 secured: "A8Vw0atll/3xCbDK1ab8BDyfav2VLictfMHno9M7Sx2s9iyqTyN/+ZCbttTK6sSF8VLMm7W5EBWuPfauBQiZe4UEgY8c0W4mkcMD1hP11anB1hLbM62CkLDMLegOpfuHqdlaBwBOKI4Ce8mA+/inZAtZvMQ158eJGpNdevNIEEjALb1x+qQMBVYCFwek5t7LDC56RSzRq6Cgha6OZHrxniYH2SJrjixWCluLAilglIbigfkFaCwywO9h/QAZ1xS5DMGZxeqE19VSBJMmW/iGOMUNkSax86SJ1SYSg9dkq/7i+WbzcM/Tk/gZB11Cb1q/Tdbmik9fD+ur8WPLK/kkf4LvDodl6GO3IkyLGQCvkyko7LNG5qZ8zIBHLGVSPHQmBKiEMa90lmJyz+P7bwfi8BWXRada+AJ0njhQ7Wye1I7gstxs60I5nTuN/LXZ1mqkU4QBp61nkt32WEeBDc6bgUvOglSehFx2zJczv6ljHmTX9hdiVSOPXuYpv0f3yCKdg/aUjUpsK76rO3JzN/CvrA==;i1c6o/Wr0zFKuC2YzFmKeg=="

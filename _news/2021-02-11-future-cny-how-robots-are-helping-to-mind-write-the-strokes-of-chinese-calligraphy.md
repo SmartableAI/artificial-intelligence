@@ -24,22 +24,6 @@ images:
     height: 573
     isCached: true
 
-related:
-  - title: "'Mind-written' couplets add to CNY celebrations"
-    excerpt: "But now, a robot arm has taken over the job at the Academy of Medical Engineering and Translational Medicine under Tianjin University. The year 2021 is the Year of the Ox, according to the Chinese ..."
-    publishedDateTime: 2021-02-08T23:14:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-to-cny-celebrations"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/09/ST_20210209_FDROBOT09_6320174.jpg?itok=kaC3z-6B"
-        width: 763
-        height: 509
-        isCached: true
-
 secured: "s68lmWL29pdTOAo/flEehWm1mq+Uj9/pjwQ/9pqNz0IQ0M+rzPPVGYirV6UhOujg+6DGTkVtwgeEIhGs8veWZz0wcdjLO+3mGZFkgreGjNly74tSmy06hwwzHSLzdWB+90NK1KvcktGVSMGnprIuBUhJWRuEkYaEFy5kzRdjTbplogky6amoMBJKvb8kP84a4gp5wdWRjENazrE5aqJh12CkaeImUOl1ysmqm1vpmfnPq4FoRkkQyQ1/yOpUYuoOTGwtQcvFyLpUe/Uf2eB9wqIj7bPPyhIoSmVCmc6wKDwCjBnsMfqC2U7rDyDKj+hBN3+YwEcVSue3Ck1Vo45nkVejNMyY+f/gfTYc9OozbcHLqiegapNlHkfE0hVfY9T317sZ9J6hKzwjeonFxGax72KAXViuKMaUcK+aKkG8KTGpKM1HpovR5fQWh1r9Js6PktIDNWd68B8Q2JbM9ZwKaRa0cIuK/enWcWn0MWh8+6+GSO4LwkBIXSMqsEup1Witv1h+hcKyc5sDQzK945cL/Q==;Y4Ufnr7/7rCe5WguJBKYkQ=="
 ---
 

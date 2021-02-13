@@ -87,6 +87,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "The Wealthiest Self-Driving Car Add-On Options"
+    excerpt: "Consider that during the first era of self-driving cars there will be add-ons, and those will likely one day become standard fare."
+    publishedDateTime: 2021-02-13T16:50:00Z
+    webUrl: "https://www.newsoneplace.com/6956032012/wealthiest-car-options-self-driving"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 24
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/601dc225367d07fd58a05945/0x0.jpg?cropX1=0&cropX2=4595&cropY1=266&cropY2=3328"
+        width: 5616
+        height: 3728
+        isCached: true
 
 secured: "xj0YKa2e4oe215c6b42LohwSVZ4DEoX6KJ65VNWcJ7ywmtF+YWSmdBjQTUKC+rVv90pWztzwYM6EP4LbSp4c+1Gz7HgpzC1QNP+zdSn23yVJY/Ap/60NkjcdfuV+AY3TKMnmzyUluStcW/qwsKfcZECRbqNRjgAQ32hXhmR2Yv48UtOLYA/JlACoDki9ssPbDJ3BVVQwBpAB7/BXrxIUPHT5HpfLfw9Rv/zX/oR09r78zWRDYuP5nYfs0fLZXV5QIEX+gHwIxqfnQQxiq+yMGXSFjpi73bgjZuPcV/aZKpMD1lMqDb8QrEx/ZydQBbB8m+thZ6tMq1cnWa2sMPlWAHZUYMSZ1L8YDkBd+YzGB4I=;PcrgsAtYVCZScSlNESeqwg=="
 ---

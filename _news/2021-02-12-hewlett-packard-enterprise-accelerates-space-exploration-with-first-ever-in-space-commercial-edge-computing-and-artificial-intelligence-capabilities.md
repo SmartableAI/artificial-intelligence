@@ -40,19 +40,14 @@ related:
         height: 270
         isCached: true
   - title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
-    excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
-    publishedDateTime: 2021-02-11T13:01:00Z
-    webUrl: "https://www.fltimes.com/business/national/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space-commercial-edge-computing-and/article_9282cae1-be6c-5b5e-8489-3f1747bafeab.html"
+    excerpt: "Hewlett Packard Enterprise today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
+    publishedDateTime: 2021-02-11T13:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space"
     type: article
     provider:
-      name: Finger Lakes Times
-      domain: fltimes.com
-    quality: 0
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 10
 
 secured: "RYp6UlEfatPupPJBs/tzpmPDfHhEg2KQdhgW3mdX/JWuwI88WWml/2/b2qMQ5K0PxoUXxF7wCtbbZ/v+w8lzDJXJo7s3gjzJ7DybwT071OC8Lo7gg+sMcZ8wa/KQwPlrDVN3UXRZr3seL++mX53Zho7XR9BZRhoMh2lZtRb25HyfnDBjHehgQfPTsFgNYQp461a880K4INwwzfF99IwT4kKBSE0w/obsLzcs0QvFSQclQkfrmlsGsiIoMz/LdkecC5/I1pJ4hVJKQmqQSLtbYxYinIfXAx6oorWXcQUV0zzF7YF1PmsmYw7UQB6ciUK4BJkfQ+U6onMiiiR2gnJr753kyjpbQi1qNSx2WWjuxUg=;jYqcy9JRivjXMt4sKvAoZQ=="
 ---
