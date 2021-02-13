@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 653
         isCached: true
-  - title: "4 Stocks to Watch as Adoption of AI Looks Poised for Growth"
-    excerpt: "Notably, per a report by SG Analytics, the global market size of AI is estimated to witness a CAGR of 42.2% between 2020 and 2027. The report mentioned that certain trends will be important to look forward to in 2021."
-    publishedDateTime: 2021-02-08T12:09:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth-2021-02-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth-2021-02-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-watch-as-adoption-of-ai-looks-poised-for-growth-2021-02-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "More help for AI startups key to sector prospects"
     excerpt: "China has had the fastest growth of investment in startups in the artificial intelligence (AI) sector worldwide. Yet, more institutional efforts are needed to ensure more robust and high-quality development of the sector,"
     publishedDateTime: 2021-02-11T00:56:00Z

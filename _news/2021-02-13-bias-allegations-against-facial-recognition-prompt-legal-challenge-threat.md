@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202102/bias-allegations-against-fa
 webUrl: "https://www.biometricupdate.com/202102/bias-allegations-against-facial-recognition-prompt-legal-challenge-threat"
 type: article
 quality: 52
-heat: 72
+heat: 73
 published: true
 
 provider:

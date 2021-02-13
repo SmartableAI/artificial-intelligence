@@ -57,22 +57,6 @@ related:
         width: 1024
         height: 670
         isCached: true
-  - title: "Digital Owl emerges from stealth with AI that analyzes and summarizes medical records"
-    excerpt: "Digital Owl, a startup developing a platform to extract key information from electronic medical records, has emerged from stealth."
-    publishedDateTime: 2021-02-08T13:03:00Z
-    webUrl: "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/"
-    ampWebUrl: "https://venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400485394-e1518999817265.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Rhino Health emerges from stealth to bring hospital data to federated learning"
     excerpt: "Rhino Health, a startup developing a federated learning platform for exchanging health information, emerged from stealth with $5 million."
     publishedDateTime: 2021-02-10T11:17:00Z

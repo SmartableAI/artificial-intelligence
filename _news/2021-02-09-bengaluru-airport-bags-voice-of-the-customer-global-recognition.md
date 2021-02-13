@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html"
 type: article
 quality: 59
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -106,22 +106,6 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2020-03/dedb16f6-629a-4847-9cb2-8e6cdd8d7b29/AIRPORT_03.jpg"
         width: 600
         height: 356
-        isCached: true
-  - title: "KIA bags ‘Voice of the Customer’ global recognition"
-    excerpt: "(BIAL) has secured global recognition for being the ‘Voice of the Customer’, in an initiative by the Airports Council International World, by assessing passengers’ requirements and implementing various measures during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-08T12:47:00Z
-    webUrl: "https://www.thehindu.com/news/national/karnataka/kia-bags-voice-of-the-customer-global-recognition/article33783332.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/karnataka/kia-bags-voice-of-the-customer-global-recognition/article33783332.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/kia-bags-voice-of-the-customer-global-recognition/article33783332.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Biometric Privacy in the Era of COVID-19: Facial Recognition Compliance for Airports and Airlines"
     excerpt: "The commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries. This technology has had an especially transformative impact on the commercial aviation industry,"

@@ -38,20 +38,6 @@ related:
         width: 800
         height: 506
         isCached: true
-  - title: "Artificial Intelligence (AI) in Education Market Size by Technology, Application & Geography - Analysis & Forecast to 2024"
-    excerpt: "Selbyville, Delaware, Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Education market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
-    publishedDateTime: 2021-02-08T12:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-by-technology-application-geography---analysis-forecast-to-2024-2021-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Healthcare"
     excerpt: "The AI healthcare market is more visible to the public than ever before. More and more people are becoming aware of the benefits of AI technology throughout the healthcare industry. To many, it’s solid proof that Artificial Intelligence has had a successful impact on the overall quality of our healthcare system."
     publishedDateTime: 2021-02-11T22:03:00Z
@@ -76,22 +62,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) In Healthcare Market will be growing at a CAGR of 42.0 % during the forecast 2020 to 2028"
-    excerpt: "According to a new market research report published by sheer analytics and insights The Global Artificial intelligence in healthcare market was 6 1 Bn in 2019 and it is expected to reach 170 5 Bn by 2028 It is eventually"
-    publishedDateTime: 2021-02-08T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
-    ampWebUrl: "https://www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2237949/artificial-intelligence-ai-in-healthcare-market-will-be"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 65
-    images:
-      - url: "https://cdn.openpr.com/U/2/U208132444_g.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Artificial Intelligence (AI) in Medical Imaging Market New Innovations Trends, Research, Global Share and Growth Factor"
     excerpt: "Artificial Intelligence (AI) in Medical Imaging Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis \"The report on AI in Medical Imaging Market was recently published by SDKI,"

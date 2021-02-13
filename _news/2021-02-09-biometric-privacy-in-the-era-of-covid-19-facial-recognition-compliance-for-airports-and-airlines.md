@@ -121,22 +121,6 @@ related:
         width: 600
         height: 356
         isCached: true
-  - title: "KIA bags ‘Voice of the Customer’ global recognition"
-    excerpt: "(BIAL) has secured global recognition for being the ‘Voice of the Customer’, in an initiative by the Airports Council International World, by assessing passengers’ requirements and implementing various measures during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-08T12:47:00Z
-    webUrl: "https://www.thehindu.com/news/national/karnataka/kia-bags-voice-of-the-customer-global-recognition/article33783332.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/karnataka/kia-bags-voice-of-the-customer-global-recognition/article33783332.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/karnataka/kia-bags-voice-of-the-customer-global-recognition/article33783332.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Indy Airport Receives Global Recognition"
     excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International. The recognition is given to airports f"
     publishedDateTime: 2021-02-08T18:31:00Z

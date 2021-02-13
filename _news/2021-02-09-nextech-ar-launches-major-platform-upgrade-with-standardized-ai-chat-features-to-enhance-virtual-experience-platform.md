@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2021-02-08/nextech-ar-lau
 webUrl: "https://www.bloomberg.com/press-releases/2021-02-08/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
-    excerpt: "Standardizing embedded AI driven chat functionality can accommodate unlimited users, allowing for optimized, scalable events.Market leaders"
-    publishedDateTime: 2021-02-08T12:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform-1030054709"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Launches-Major-Platform-Upgrade-with-Standardized-AI-Chat-Features-to-Enhance-Virtual-Experience-Platform-1030054709"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Launches-Major-Platform-Upgrade-with-Standardized-AI-Chat-Features-to-Enhance-Virtual-Experience-Platform-1030054709"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance ..."
     excerpt: "Market leaders including Zoom have been shifting towards standardized chat features to accommodate large-scale events. AI driven Chat functionality will integrate directly with existing offerings including Nextech’s Virtual Experience Platform and ‘ARoom’ streaming solution."
     publishedDateTime: 2021-02-09T05:30:00Z

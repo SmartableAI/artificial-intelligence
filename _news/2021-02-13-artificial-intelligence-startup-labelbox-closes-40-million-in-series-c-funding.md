@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence Startup Labelbox Closes $40 Million in Series C Funding"
-excerpt: "Labelbox, the leading training data platform for enterprise machine learning applications, today announced the close of a $40 million Series C funding led by B Capital Group. Previous investors Andreessen Horowitz,"
-publishedDateTime: 2021-02-12T18:13:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
+excerpt: "Labelbox continues its trajectory as the leading training data platform for labeling data, addressing the most critical step in building artificial intelligence systemsSAN FRANCISCO, Feb."
+publishedDateTime: 2021-02-13T00:30:00Z
+originalUrl: "https://www.wicz.com/story/43343053/artificial-intelligence-startup-labelbox-closes-40-million-in-series-c-funding"
+webUrl: "https://www.wicz.com/story/43343053/artificial-intelligence-startup-labelbox-closes-40-million-in-series-c-funding"
 type: article
-quality: 35
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Iron Pillar leads $5 million funding round in AI startup Ushur"
@@ -56,6 +49,6 @@ related:
         height: 450
         isCached: true
 
-secured: "zOkXGWpCwTozldYq76sUJIIOEONAdCjsClw5uD0eLGqruEcReBWwFz/ZTTdhBhv/zqO3Jb54lUmW1XIl+f80jdHFhUceAZBJWF7vLhb/zoRwdADLvOB5Zu/2mYqZ+veTAgwEDXSTHwNz1WetBeo1xlXAtA3UF7U56h0odApWrUCjaHuYQHGOYeruhkwkfScbswhSSbkSpSHTFoC/m0GLaV8WIrNI3pTat/croxAO4bldCgQr/94WssFjtySAYQiaq1Dw1egRxKZplXHCpMupBZHZn/oh10xI9zlOILddXqv7wsh1IHrYfF541rxxpIC8Cm0DRmz1QzSpIgAHSwbPIXQ18wMrKIeFZTNrxsgBCjs=;F5lJ/DhI8oZUcMvYaV+zRg=="
+secured: "olVh1yKAMwJat22iFp7GECu0RtHYc6NcFI3V2ORdVtUFXl10IYuGiPZ02jtVeVjLUPROwuaHHwv7AJPs0DPUHJ62P+pz/ZOtOSGEXbmxK30zyj6XXovGE1Kly0pCgmcUsgHPfvvAZavFL2f+L4iOLZI42xCRRHJ4JYhK9oqp8/sE3yMy6ZQ16GP7R1dW9pg4kTpd8l9SMzIsAdbVVMZvratWxgaZhRhlqJ8eyxRrhTuMV55YGGTlxRpUMPLFc864Rwj6EUqw9fLWbWH/gf9TP0psV9GJalIKYKbEHITe/xkk8OdWgzTghasLV3bK6utj+0uHUB+zJA4mrLdwPapL5+/D0B+LvLt/VjBCuEBiHj4=;MBTuG9yKfta00nS/ncuTrA=="
 ---
 

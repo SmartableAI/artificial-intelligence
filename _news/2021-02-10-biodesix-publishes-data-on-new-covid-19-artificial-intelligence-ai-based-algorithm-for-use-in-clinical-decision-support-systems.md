@@ -52,22 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Enterprise hits and misses - taking stock of AI in retail, Black History Month's tech voices, and the COVID-19 data challenge"
-    excerpt: "AI in retail gets realistic; Black History Month brings needed scrutiny to diversity in tech. COVID-19's data challenges get a tech boost, and Google makes enterprise moves. Your whiffs include Amazon's (lack of) employee experience,"
-    publishedDateTime: 2021-02-08T12:49:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-taking-stock-ai-retail-black-history-months-tech-voices-and-covid-19"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-taking-stock-ai-retail-black-history-months-tech-voices-and-covid-19?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-taking-stock-ai-retail-black-history-months-tech-voices-and-covid-19?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 30
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess1.jpg"
-        width: 425
-        height: 283
-        isCached: true
 
 secured: "rTV7fScS4ZZb4NvEsMAKq89hSvrBcQK0fUV8aT7f5WDqCXsXvUU76WimgQCTxEEdVyo+BcURa1ZTmY/kMb22izSyE5NaoCvApGItZPLmay8VRkg9xSJuggIN95tFoLssCe4Eu1glJ3isE9PJsohAOkFiuvL5MPKi1P8DS0LDkE6XwVwNAnBooV/+nmEC69RY5M2Ps8zr+Q3jX3U5Kv0fuTW1ZLU2nkKwpMHcsrgv66tR8q5hWK9SW8azBcV1zHhAk/XVuEywDHWdeBsaghtThLxtmVALgGp+PqFbEm41PFAlVmMIcfxXsETDcbGQJB7Qd7vxeQvNmwOsxxKfcXrrXsLkXWLWygf91o1PJJitp04=;7pQRHYKPf9cTCbkucj28/A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/hyundai-and-kia-wont-bu
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/09/19/hyundai-truck-engines-failed-to-meet-us-clean.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "South Korean Hyundai and Kia say they don’t talk iPhone maker about self-driving vehicles"
-    excerpt: "South Korean Hyundai and Kia say they don't talk iPhone maker about self-driving vehicles Shares of Hyundai and Kia plummeted on Monday"
-    publishedDateTime: 2021-02-08T11:24:00Z
-    webUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/"
-    ampWebUrl: "https://www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/south-korean-hyundai-and-kia-say-they-dont-talk-iphone-maker-about-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 50
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/South-Korean-Hyundai-and-Kia-say-they-dont-talk-iPhone.jpeg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Hyundai and Kia say they are not talking to Apple about self-driving cars"
     excerpt: "Shares of Hyundai and Kia plunged on Monday after the South Korean automakers said they were not in talks with Apple to develop self-driving"

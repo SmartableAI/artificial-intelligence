@@ -60,22 +60,6 @@ related:
         width: 2000
         height: 1123
         isCached: true
-  - title: "AI Can Predict Whether Someone Will Die From COVID-19 With 90 Percent Accuracy"
-    excerpt: "Since the start of the pandemic, various research groups have been working on prediction models using patient history and public health data to assess how"
-    publishedDateTime: 2021-02-08T13:01:00Z
-    webUrl: "https://www.iflscience.com/health-and-medicine/ai-can-predict-whether-someone-will-die-from-covid19-with-90-percent-accuracy/"
-    ampWebUrl: "https://amp.iflscience.com/health-and-medicine/ai-can-predict-whether-someone-will-die-from-covid19-with-90-percent-accuracy/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/health-and-medicine/ai-can-predict-whether-someone-will-die-from-covid19-with-90-percent-accuracy/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 53
-    images:
-      - url: "https://cdn.iflscience.com/images/3845f41d-f105-5d4f-be31-7ef9183db9a2/default-1612782258-icu.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "The AI-driven initiative that's hastening the discovery of drugs to treat COVID-19"
     excerpt: "A novel pipeline of AI and simulation tools may make the process of screening drug candidates for COVID-19 50,000 times faster."
     publishedDateTime: 2021-02-10T13:44:00Z
