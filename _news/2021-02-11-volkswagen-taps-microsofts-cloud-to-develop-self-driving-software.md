@@ -151,7 +151,7 @@ related:
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
     publishedDateTime: 2021-02-11T12:08:00Z
-    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673952"
+    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai"
     type: article
     provider:
       name: Techinasia
@@ -276,6 +276,6 @@ related:
         height: 419
         isCached: true
 
-secured: "FKe9amYlNXfP7H1S784sVE+RFPUGC8p71oCi8U3IulNLGXonkAhY/fK4CcrjQxYQBSlyPAcQVyGz40OnaLHyDSmvplQbG3Z9znptS/8k2ZX0dpdTcZaTwBnrXi3RB/ESEN83IYD4teGtsoyYuysHmEhhjaw95uI4UdVTsK8QJ8T/hekeRkOUgffhnPQ+wVgpYCH16BtP4xD+gZ9i9P/2qKrQMPsJ5R7ZKampZsWv57y3Anpcagk47SYX1bFbgGpzAlY58mJYzURHbB3HVXTT6stsKZ5p0TYu2UH9wYtfn/9nVzfKygkv9U9nsbpDO5LPDmU/usTgUbtLTvLtJAEmhRdhPAxF0XHAXsR56pzCe90=;TrD0Vvkrl2VkR+eiPc8Rsw=="
+secured: "TCrmMJaseS8tZG2nJIVpCpeT1+i7V7LYF+WwIstpsMIObY7HETr2AjC9/7qYEPl/FkjUwYMan7kBtZ91uhNfNUw58uapIExAq/iXMcAvrfVBuXTSvL2jB2ji8YSSWPLl/+/vfokJqc974ZwgCTH0IH744CQDl7A5d11A3+lBQvGc00BOUTDoLjRf+9m/jboqNK1KNb3+zq8ekNN7c/4H8GxDsONyv+4yHbzWbq4daMw+9nMf7sCNywAUiXYrfVh6guyrfO/3y+VMx1vRLIEkZxkclxVYuRPb4gsZjxmMDqKDdOLzleeAhQ268W+irpYURMSd1cal5VfYWOsor0uAHtTkeJnD5tOYnxK8HCtaCZUaGGaiYVD8B79EhsK7QyLN/8iFo3J9wiAMW29bUPFqIVPw1CgdRO49AmFoYj7vHXE6qQiQbU9o33DUfACxgSwsvJbjo+c1HIVg8UwxpqtKNqCHLLVO3X5yChXtx+igP12JowbaYEUjvhmIcmEzVZY/3wA71hDBUOlJ3DmmAkOgJQ==;cOmmRI90Yp6uAq9qrVzNEA=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-11-developing-a-turing-test-for-ethical-ai.md",
+      "title": "Developing a Turing test for ethical AI",
+      "excerpt": "AI’s Turing test focused on the wizardry needed to trick us into thinking that scarecrows might be flesh-and-blood humans (if we ignore the stray straws bursting out of their britches). However, I agree with the argument recently expressed by Rohit Prasad,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/08/care_nurture_support_people_human_resources_thinkstock_176436790-100409939-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html",
+      "publishedDateTime": "2021-02-11T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-global-machine-learning-as-a-service-mlaas-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025.md",
       "title": "Global Machine Learning as a Service (MLaaS) Market 2020 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2025",
       "excerpt": "MarketsandResearch.biz proclaims the addition of a new report titled Global Machine Learning as a Service (MLaaS) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers broad insights extracted by thoroughly analyzing historical and current developments in the market.",
@@ -501,7 +554,7 @@
       "originalUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1204,58 +1257,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round.md",
-      "title": "With AI translation service that rivals professionals, Lengoo attracts new $20M round",
-      "excerpt": "Most people who use AI-powered translation tools do so for commonplace, relatively unimportant tasks like understanding a single phrase or quote. Those basic services won’t do for an enterprise offering technical documents in 15 languages — but Lengoo’s custom machine translation",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/",
-      "originalUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-482765551.jpg?w=1024",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/amp/",
-      "publishedDateTime": "2021-02-09T23:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

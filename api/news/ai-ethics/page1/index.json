@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-13-thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy.md",
+      "title": "Thought-detection: AI has infiltrated our last bastion of privacy",
+      "excerpt": "Research from the UK and an update from Elon Musk on human trials at his brain interface company show software is now eating the mind.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/",
+      "originalUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/crowd_electromagnetic.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/amp/",
+      "publishedDateTime": "2021-02-13T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation.md",
       "title": "AI Weekly: Techno-utopianism in the workplace and the threat of excessive automation",
       "excerpt": "Arguments in favor of shared prosperity and in opposition to excessive robots, AI, and automation in the workplace.",
@@ -1406,58 +1459,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-humans-wouldnt-be-able-to-control-a-superintelligent-ai-according-to-a-new-study.md",
-      "title": "Humans wouldn't be able to control a superintelligent AI, according to a new study",
-      "excerpt": "Not only does the research suggest humans wouldn't be able to control machines — we may not even know when superintelligent machines have arrived.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study",
-      "originalUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/601024131d2df20018b70d21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp",
-      "publishedDateTime": "2021-01-26T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

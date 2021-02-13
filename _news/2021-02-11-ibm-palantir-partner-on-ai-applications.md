@@ -51,22 +51,6 @@ related:
         width: 2252
         height: 1600
         isCached: true
-  - title: "Here's Why a Deal With IBM Has Palantir Stock Surging"
-    excerpt: "Palantir and IBM announced a major partnership today. The deal will see IBM offer Palantir's technologies as part of its cloud data services, and it could dramatically expand the"
-    publishedDateTime: 2021-02-08T22:34:00Z
-    webUrl: "https://www.fool.com/investing/2021/02/08/heres-why-a-deal-with-ibm-has-palantir-stock-surgi/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/08/heres-why-a-deal-with-ibm-has-palantir-stock-surgi/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/08/heres-why-a-deal-with-ibm-has-palantir-stock-surgi/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612223%2Fgettyimages-1254825733.jpg&w=1200&op=resize"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM and Palantir introduce new hybrid cloud and low-code AI solution"
     excerpt: "IBM and Palantir announced their new partnership. The two companies jointly start Palantir for IBM Cloud Pak for Data. A new hybrid cloud solution that enables organizations to develop artificial intelligence with little code (with minimal coding)."
     publishedDateTime: 2021-02-10T23:41:00Z

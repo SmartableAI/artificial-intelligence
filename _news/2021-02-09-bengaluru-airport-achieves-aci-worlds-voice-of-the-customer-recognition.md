@@ -91,20 +91,6 @@ related:
         width: 600
         height: 356
         isCached: true
-  - title: "Biometric Privacy in the Era of COVID-19: Facial Recognition Compliance for Airports and Airlines"
-    excerpt: "The commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries. This technology has had an especially transformative impact on the commercial aviation industry,"
-    publishedDateTime: 2021-02-08T22:37:00Z
-    webUrl: "https://www.aviationtoday.com/2021/02/08/biometric-privacy-era-covid-19-facial-recognition-compliance-airports-airlines/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 41
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/02/markus-spiske-ijv7mzpmyum-unsplash.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "San Francisco Airport recognised by ACI’s ‘Voice of the Customer’"
     excerpt: "San Francisco International Airport (SFO) has been recognised by Airports Council International (ACI) World for their ‘Voice of the Customer’ initiative, which honours airports that continued to prioritise customers and ensure that their voice was heard during the COVID-19 pandemic."
     publishedDateTime: 2021-02-09T10:53:00Z
@@ -204,15 +190,6 @@ related:
       name: Centreforaviation.com
       domain: centreforaviation.com
     quality: 7
-  - title: "ACI World Launches Voice of the Customer Recognition"
-    excerpt: "World revealed those airports that have continued to prioritize listening and engaging with customers during the COVID-19 pandemic. \"The Voice of the Customer\" recognition is for airports that demonstrated significant efforts in gathering passenger feedback through the Airport Service Quality (ASQ) program to help them better understand their customers during the pandemic."
-    publishedDateTime: 2021-02-08T21:16:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21209312/airports-council-international-aciworld-aci-world-launches-voice-of-the-customer-recognition"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 4
 
 secured: "gggTUSm5Oj7egEBvU94c8AvMxGvNcK8fC6nDL01YqFykQ8zzglKpkHPZXLwIitH1oa513AicEg1uSJPRs5X1kTHlMT42RYtPTLa2CJQZLRVm7BSC8qOoQkDjySqprN0Qtod1SS+b8Rqfhqsj7x9j5TvI04kdApkC0c+yu9CwNruftxf5lWhvREeTF4GLzvJtdBQATWjGXubNjbdMW401wL+j8zSLFPwf14Xo7yVyml/rBxYJti+j3VulSm+hYSWnBeh6F+HfJ9ZeRZudhVPJs8Rfrs5puUmQBh+o72xTnK/wJPRlMBGGGDnUqqyq7PivG/jxdGIIHIM/jFJIdN175qovz9iAxFp0Hl7YBpzy6g+A8R3hkbYZH7r7bQ/KY0qFwYuVzGOQDLeykbq7gnrCQuiFApa45RjcuLUI3kYE4w0xbJQSl9k/ZlyM4zH66SsIgFfMSmB8hX+VmSSV11anau03B2W7CwdGE3eGul7wagmLl46wt4co0nNMddLo08gJXc+kXB2dPEvr5OswRsKtKw==;LAvf3H59b6YbqgusIqUisA=="
 ---

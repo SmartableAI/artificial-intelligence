@@ -123,17 +123,6 @@ related:
         width: 1024
         height: 718
         isCached: true
-  - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Oceania region"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout the Oceania market, and has appointed Sean Borg to accelerate market growth and support the regional surge in demand for facial recognition technology."
-    publishedDateTime: 2021-02-08T21:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-oceania-region-1030056904"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
   - title: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region"
     excerpt: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region SYDNEY, Feb. 9, 2021 /"
     publishedDateTime: 2021-02-09T11:19:00Z

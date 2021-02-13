@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-10-with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round.md",
+      "title": "With AI translation service that rivals professionals, Lengoo attracts new $20M round",
+      "excerpt": "Most people who use AI-powered translation tools do so for commonplace, relatively unimportant tasks like understanding a single phrase or quote. Those basic services won’t do for an enterprise offering technical documents in 15 languages — but Lengoo’s custom machine translation",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/",
+      "originalUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-482765551.jpg?w=1024",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/amp/",
+      "publishedDateTime": "2021-02-09T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027.md",
       "title": "Computer Vision Market by Size, Growth, Opportunity and Forecast to 2027",
       "excerpt": "Selbyville, Delaware Global Computer Vision Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Computer Vision Market Report also covers top key players,",
@@ -730,58 +782,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works.md",
-      "title": "New Jersey Transit Won’t Explain How Its 'Face Mask Detection' AI Works",
-      "excerpt": "In 2016, the New Jersey Transit Corporation quietly ended its short-lived attempt to record and store passengers’ conversations on trains and buses after a backlash from riders and civil liberties groups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
-      "originalUrl": "https://www.vice.com/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/60219410d4a8ae0095a2040b/lede/1612817787377-gettyimages-1221537846.jpeg?crop=1xw:0.8425xh;0xw,0.084xh",
-          "width": 4000,
-          "height": 2246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp4ek/new-jersey-transit-wont-explain-how-its-face-mask-detection-ai-works",
-      "publishedDateTime": "2021-02-09T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-09-theator-raises-155-million-to-analyze-surgical-footage-with-computer-vision.md",
       "title": "Theator raises $15.5 million to analyze surgical footage with computer vision",
       "excerpt": "Theator, a startup developing a 'surgical intelligence' platform powered by computer vision, has raised $15.5 million.",
@@ -1142,7 +1142,7 @@
       "originalUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 179,
       "tags": null,
       "images": [
         {

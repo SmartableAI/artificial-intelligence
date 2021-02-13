@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Predictiv AI Partners With MCL Sustainable Cleaning Solutions To Sell Into Education, Government and Food Service Sectors Across"
+    excerpt: "Canada Canada NewsWire TORONTO, Feb. 12, 2021 MCL"
+    publishedDateTime: 2021-02-13T09:38:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 55
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ultra Low Energy Computer Memory for AI Learning in Medical and Other Applications"
     excerpt: "Leti-based team's uses machine learning on RRAM to get 100,000 times less energy usage. They use randomness instead of trying to prevent it. This allows in-situ learning to be realized in"
     publishedDateTime: 2021-02-09T15:24:00Z

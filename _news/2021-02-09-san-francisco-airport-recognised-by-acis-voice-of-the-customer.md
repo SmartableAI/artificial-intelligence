@@ -105,20 +105,6 @@ related:
         width: 600
         height: 356
         isCached: true
-  - title: "Biometric Privacy in the Era of COVID-19: Facial Recognition Compliance for Airports and Airlines"
-    excerpt: "The commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries. This technology has had an especially transformative impact on the commercial aviation industry,"
-    publishedDateTime: 2021-02-08T22:37:00Z
-    webUrl: "https://www.aviationtoday.com/2021/02/08/biometric-privacy-era-covid-19-facial-recognition-compliance-airports-airlines/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 41
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/02/markus-spiske-ijv7mzpmyum-unsplash.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Indianapolis International Airport recognized with Voice of the Customer honor"
     excerpt: "IND recognized for listening, responding to travelers during pandemic INDIANAPOLIS, IN, 2021-Feb-09 — /Travel PR News/ — The Indianapolis Internation"
     publishedDateTime: 2021-02-09T03:31:00Z
@@ -204,15 +190,6 @@ related:
       name: Centreforaviation.com
       domain: centreforaviation.com
     quality: 7
-  - title: "ACI World Launches Voice of the Customer Recognition"
-    excerpt: "World revealed those airports that have continued to prioritize listening and engaging with customers during the COVID-19 pandemic. \"The Voice of the Customer\" recognition is for airports that demonstrated significant efforts in gathering passenger feedback through the Airport Service Quality (ASQ) program to help them better understand their customers during the pandemic."
-    publishedDateTime: 2021-02-08T21:16:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21209312/airports-council-international-aciworld-aci-world-launches-voice-of-the-customer-recognition"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 4
 
 secured: "n47nHXQHeN0hSI66s24YZuFg2veHr5VwHo/CCug7lM85uQAMGjQmKv2ssclTQjJGuSZWbZxBFJI32CYqgFMCqgW2Dc71oTMvzvGfwPEK9omyco2BIkhTjgzQgmtM55hFIE8vhMlKdmlWK1ngYVi5Dl2pdcpULzuGpOHi+C01cLPU/VsIES2zkvZi8V4NqZcPzNZh6JAmRc4ijgVrf96V1s5cjElSAbM4IjcyHpSB48BPLZwENIDlbN+H/0O5lI7PDHxAa/bChNBB0xp/Cg+DqIhYgfWkoDle5colQeU2AHgUGi6EJz+ZuX9uXsDAslIcE3hVsA5mXE/g4cHYPz/gjWUea6TWmVGP0KyDAOzI1WIe8jif6MKSaouXZUX2xRn1ZlmRxs2QKv0mM0czM7f226rZPOAPzCjyKStnGmvnpAdZLptw2hMUnYfvpunVV4KNuLD7DGInaB9dZtFJREYNcrhzrvYGiqdL2pBmF4TlEono7zNJs0FirHvDo6/q5YhPcqzwDXyGcvARsV9+HfA6Zg==;HXlJ662VfN4m/AsgeIi5JA=="
 ---

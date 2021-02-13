@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html"
 type: article
 quality: 59
-heat: 199
+heat: 179
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2020-03/dedb16f6-629a-4847-9cb2-8e6cdd8d7b29/AIRPORT_03.jpg"
         width: 600
         height: 356
-        isCached: true
-  - title: "Biometric Privacy in the Era of COVID-19: Facial Recognition Compliance for Airports and Airlines"
-    excerpt: "The commercial use of facial recognition technology has advanced at an explosive rate, expanding into numerous industries. This technology has had an especially transformative impact on the commercial aviation industry,"
-    publishedDateTime: 2021-02-08T22:37:00Z
-    webUrl: "https://www.aviationtoday.com/2021/02/08/biometric-privacy-era-covid-19-facial-recognition-compliance-airports-airlines/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 41
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/02/markus-spiske-ijv7mzpmyum-unsplash.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "San Francisco Airport recognised by ACI’s ‘Voice of the Customer’"
     excerpt: "San Francisco International Airport (SFO) has been recognised by Airports Council International (ACI) World for their ‘Voice of the Customer’ initiative, which honours airports that continued to prioritise customers and ensure that their voice was heard during the COVID-19 pandemic."
@@ -204,15 +190,6 @@ related:
       name: Centreforaviation.com
       domain: centreforaviation.com
     quality: 7
-  - title: "ACI World Launches Voice of the Customer Recognition"
-    excerpt: "World revealed those airports that have continued to prioritize listening and engaging with customers during the COVID-19 pandemic. \"The Voice of the Customer\" recognition is for airports that demonstrated significant efforts in gathering passenger feedback through the Airport Service Quality (ASQ) program to help them better understand their customers during the pandemic."
-    publishedDateTime: 2021-02-08T21:16:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21209312/airports-council-international-aciworld-aci-world-launches-voice-of-the-customer-recognition"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 4
 
 secured: "VG20kZJIS9PaiMkKPNcRdhzrTIwkcOHSRL8oA5pm6ffRJujuHpdRQn+ZKJxVS9wFFkwqr/GqsvmGWmw1olCGvDl/AOfmgPaKt9CrE7Tqpg9lmFFcx5sarAIavT3f1D62X8sA+pZKStkvPVAyv3sxRCWxFJXlw5YsQPX53bQSzAoZ4jQiz3nc2WOqOU5zpipEnIYtfnaSyUxFh2yrbqdpV+nsLuwqBMn0L17YCbjE19IY1xqRHwnyEwdX5cDuHNtdQVanEAQr80v/aq8r3MSH5v8l+rXX6VtLgNUq7MZDpuuFERRKmT2kWDIrHV6FRSSC66ISNR/hu/P7Xj6IEpGHoPPDvSCGhjMW04mav+CVYzufF8NX3AlidDRFafNRSIkntYnvqrR4W351gL5Ya+mjM0nwPO43YOq3yuBhPxJiSJxZ6n4P8f/IMZkX2jfdeDT5e1/CjA0PGQO54ZaZntyi1LR1O2s5DZx4Nt+w/ex5Yg3nbhr7GUiJoQC6mUQloC2ILkGic85QSQ142PAcAkjeRA==;rIHFYCpfkaSnKPkY1kUiEw=="
 ---
