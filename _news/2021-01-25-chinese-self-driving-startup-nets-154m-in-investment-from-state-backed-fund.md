@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "pCvFYfv5nzVpRlV1USYb1O3Rn+UNKHoaodrVy2rIWItJGl5roowb+UbbqyF4y4AUBGfjtzz7h5iRHfKCyPFmgzvhB+GqTgWkn7zhT4F/yJlxfVnP+HOc+H9AwZmjAikVjBMaD3n34bUNWh9VkVAjZ4lxpeQylwR5tL2cZaBRHDlFD67yU06Fu78HCL2qh50MVqkQ0ZjyqdwPEmG8uSZn93QRyD3uuhokrN6FBlbUYfcRBAye5/RLmrPRZY+BOyxoVOLsJroXkiQW+ztGaS/PPEGjh0yHFpnc3H9HXL9vE0niCGASXJSkhkQKAVIeTmBNL5/GYpxerlDzZvERw/loXKiJ1MM6bZSuMkCiNbbiBGlXVqWa+MZVUffgqwFz6gt7PzN18lInI3ihSrHPchx4K/7DCeMe8mcAIN3kRdOUcyO+hoW5C88/kDkZCV1jnYPOW0SEUmhUXkT4H7/gVkLrw+iNvuDS3SLmcXMmRBpvb++h//COdd5jQ9Agy9hEFXrq7ATdiOeGlbDnu+twHtLBcA==;KX4YrvhzpNjSlOmGcLKovw=="
+secured: "ga9P3iYNOlfyGsIwGTSENIenIBTCKxUo2+/pFLjYsjSBcBaxs/9K6ssS2IrlBkUigkm64ywMIlQkRT/Kf98OLUXUA6nyagoDU+PZPBzbGA3AaCu02S++WpBj0v6DvSbdUPDnSzeJNoKDT/Y2nHCFQhuMdah8iEFSFwTf2ttDdniVEHDdFGjsX+NPCp3i+ybQejZ9UK/NEvrHb3bdv7Gf2MQJUPtziV0J7iTtgRJQDdrQIGY86G8Y7O3fVa0tY9sVu8OlfuXXws+jF6sB4WBh6AXfiJLm1AT/shcsahTm84NLGiZc2CbGI5P3RBofFZ9w2Ti3sFfkXI5bCTVE6OD9EaT1jLS5ubzdq69m3JQMsAhhAmqcYSHUi/Exh1OOHqWVtD+JUzTzX51AtjhUNjjjTxSwWWkiqDVwKqnradw8bL3+SCsc3LzCjNDPfDXEdsNH9sM8YjTKySi12ncNrWJjp1Aay5lyhItnzW7wTWt+pl8FgTE07jGXl270ISlPJJZ8uXEKTnZa2o4OprFS9CJd2Q==;2u7YNvLkG4NU8RbNIkeXuA=="
 ---
 

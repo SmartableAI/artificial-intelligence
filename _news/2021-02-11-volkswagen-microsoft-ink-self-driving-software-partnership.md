@@ -39,6 +39,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 86
+  - title: "Volkswagen Group And Microsoft Speed Automated Driving Development With Cloud Computing"
+    excerpt: "The quest for automated vehicles continues In fact, with the deluge of new vehicles in the market, there has been glimpse of automation in one way or another. At Volkswagen Group, automated driving remains one of its goals and the German auto group has partnered with Microsoft to accelerate the development of automated functions into its vehicle offerings."
+    publishedDateTime: 2021-02-13T20:15:00Z
+    webUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/"
+    ampWebUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
+    type: article
+    provider:
+      name: hotcars
+      domain: hotcars.com
+    quality: 51
+    images:
+      - url: "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2021/02/VW-ID.concept.jpg"
+        width: 1710
+        height: 900
+        isCached: true
   - title: "Volkswagen will use Microsoft’s cloud technologies to create new Automated Driving Platform"
     excerpt: "Microsoft’s business inadvertently made headlines as Ford, a previous infotainment partner opted to Google’s Cloud services over that of Azure or even AWS. Most of the"
     publishedDateTime: 2021-02-12T16:51:00Z

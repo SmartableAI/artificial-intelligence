@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/11/opinion/science-technology.amp.ht
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/opinion/science-technology.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.thehindubusinessline.com/migration_catalog/v2mul8/article18054655.ece/ALTERNATES/LANDSCAPE_615/editpage-blrasBL22RASHEEDA2EDITjpg"
         width: 615
         height: 384
-        isCached: true
-  - title: "Does Deep Learning Fuel Loss of Privacy In Facial Recognition Technology?"
-    excerpt: "Although face data is biometric information as unique and identifiable as a fingerprint, it is also casually available in many forms and can thus be passively collected in ways likely to perpetuate severe privacy violations."
-    publishedDateTime: 2021-02-09T04:31:00Z
-    webUrl: "https://analyticsindiamag.com/does-deep-learning-fuel-loss-of-privacy-in-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 55
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Does-Deep-Learning-Fuel-Loss-of-Privacy-In-Facial-Recognition-Technology.jpg"
-        width: 626
-        height: 417
         isCached: true
   - title: "Top 3 Technologies which are winning the Run in 2021"
     excerpt: "The top 3 technologies which are winning the run in 2021 are Al/Machine learning, IoT/Big data, and Cybersecurity."

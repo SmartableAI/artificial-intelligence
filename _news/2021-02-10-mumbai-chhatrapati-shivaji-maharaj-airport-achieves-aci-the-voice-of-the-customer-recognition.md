@@ -119,17 +119,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Indianapolis International Airport recognized with Voice of the Customer honor"
-    excerpt: "IND recognized for listening, responding to travelers during pandemic INDIANAPOLIS, IN, 2021-Feb-09 — /Travel PR News/ — The Indianapolis Internation"
-    publishedDateTime: 2021-02-09T03:31:00Z
-    webUrl: "https://travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/"
-    ampWebUrl: "https://travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/amp/"
-    cdnAmpWebUrl: "https://travelprnews-com.cdn.ampproject.org/c/s/travelprnews.com/indianapolis-international-airport-recognized-with-voice-of-the-customer-honor-658886/travel-press-release/2021/02/08/amp/"
-    type: article
-    provider:
-      name: Travel PR News
-      domain: travelprnews.com
-    quality: 35
   - title: "Karnataka: Bangalore International Airport Limited Bags ACI World’s ‘Voice Of The Customer’ Award"
     excerpt: "The Bengaluru International Airport Limited launched various campaigns #WeAreHereForYou umbrella for consumers"
     publishedDateTime: 2021-02-09T08:50:00Z

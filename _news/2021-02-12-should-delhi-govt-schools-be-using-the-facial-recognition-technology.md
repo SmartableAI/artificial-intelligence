@@ -44,20 +44,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Does Deep Learning Fuel Loss of Privacy In Facial Recognition Technology?"
-    excerpt: "Although face data is biometric information as unique and identifiable as a fingerprint, it is also casually available in many forms and can thus be passively collected in ways likely to perpetuate severe privacy violations."
-    publishedDateTime: 2021-02-09T04:31:00Z
-    webUrl: "https://analyticsindiamag.com/does-deep-learning-fuel-loss-of-privacy-in-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 55
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Does-Deep-Learning-Fuel-Loss-of-Privacy-In-Facial-Recognition-Technology.jpg"
-        width: 626
-        height: 417
-        isCached: true
   - title: "Top 3 Technologies which are winning the Run in 2021"
     excerpt: "The top 3 technologies which are winning the run in 2021 are Al/Machine learning, IoT/Big data, and Cybersecurity."
     publishedDateTime: 2021-02-10T06:30:00Z
