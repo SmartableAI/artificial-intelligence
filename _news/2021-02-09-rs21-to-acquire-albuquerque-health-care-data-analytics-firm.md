@@ -95,20 +95,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Big Data Analytics Firm Palantir Adopts IBM's Red Hat OpenShift"
-    excerpt: "IBM and Palantir Technologies announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business"
-    publishedDateTime: 2021-02-09T02:23:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/19015-big-data-analytics-firm-palantir-adopts-ibms-red-hat-openshift"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 24
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/c1db8e9f04d2c2814c42aa9343f822b6.jpg?t=20210209_022156"
-        width: 752
-        height: 408
-        isCached: true
   - title: "NHL takes big stride on data and analytics with Amazon deal"
     excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
     publishedDateTime: 2021-02-11T00:10:00Z

@@ -150,6 +150,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
+    excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"
+    publishedDateTime: 2021-02-13T17:00:00Z
+    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 71
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
+        isCached: true
   - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
     excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
     publishedDateTime: 2021-02-11T21:51:00Z

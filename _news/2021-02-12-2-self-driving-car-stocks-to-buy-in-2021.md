@@ -3,8 +3,8 @@ category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
 excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
 publishedDateTime: 2021-02-11T16:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?time=1613064601"
-webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?time=1613064601"
+originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
 ampWebUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
 type: article
@@ -70,6 +70,6 @@ related:
         height: 485
         isCached: true
 
-secured: "XIn6G/rdx3+DOhVf4eOUjYZAoTLnhbFex1s9I9a0xRFWOrQg513QpXAsug7nNEAkTH/ywyAIKGFjGqSBRt7nOjfme1BRJoDV5kSk7GKK2Ps2dU5ezJY0FRrBpHLv9gl5suubfypuIXPe0C4vc3b4Ot+PMXUuzWUjMlWzfDu2iJcd3TrZN/FeoNbnzi1efD+rQx+R78ibQ13QK4TfImGG7Ix7R6/+gynxTa4KpxlSIjGHM4eqhoP3kt3LnxSma+L7D7+HsOlt4eJI9Nf2y0NYPFdIs/UchN9fehJV9UpxBO7ALFib6N99Qph2TLCIamvBkd5UIIYCEJICH3Yy0Zr23vZqN2xDiY+QVuwZ0AG+WmA=;9XrqvrgnR4/+zdq2++3kOA=="
+secured: "T0MqHdF8nEr4m26imT0Re6XmuSQRWuP+YP8sawERNdFux3eBRA/K6MlcZuJ/FOIVFtdeSMFBN0SOd2AZzTUvD2pj3esFOTFAWat+3/rnsWzuvVQ07L6TorfcEwAGx6z1wD1upcCKoHysm+Nzd/h+Y/kwssfUoVQefbAPRFI657ccwzWaYPzl4b5C/6Yp1jh4W8hoisTwoJaHDfhK+VNzOTprZQ7TJhCFu08ocvaorH3mcChQh8/0pwE1wqlOVdyHn4DZYk7O2h5+yNue6+mP2eYo59kti2EvDfKqv92oyT0A5wf7JP7cu+VPq3d87/4+3KS8MHxwCH+0m5epwynb9mr+WzK8ItUn8UqmvcDHqgQ=;UzlkFRpkPrCc0SNBz07MtQ=="
 ---
 

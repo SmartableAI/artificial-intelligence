@@ -149,6 +149,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
+    excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"
+    publishedDateTime: 2021-02-13T17:00:00Z
+    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 71
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
+        isCached: true
   - title: "Forrester: 5 key advances driving AI 2.0"
     excerpt: "Analyst firm Forrester has released a new report detailing five areas of AI advancement leading to AI 2.0 that companies should be looking into adopting."
     publishedDateTime: 2021-02-11T17:35:00Z

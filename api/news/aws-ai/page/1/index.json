@@ -116,7 +116,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 354,
       "tags": null,
       "images": [
         {
@@ -244,50 +244,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.md",
-      "title": "Salesforce taps AWS machine learning tool for document automation in health cloud",
-      "excerpt": "Salesforce launched a new machine learning tool, powered by Amazon Web Services, on Feb. 10 that aims to help healthcare organizations digitize their document management processes on a single platform. Salesforce's Intelligent Document Automation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -1484,6 +1440,59 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open.md",
+      "title": "Get ready to roll! AWS DeepRacer pre-season racing is now open",
+      "excerpt": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. Pre-season qualifying",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2252-1-Thumbnail.jpg",
+          "width": 568,
+          "height": 329,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T14:39:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
       ]
     }
   ],

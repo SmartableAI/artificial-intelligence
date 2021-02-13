@@ -1,28 +1,30 @@
 ---
 category: news
-title: "VW, Microsoft partner to develop self-driving car software"
-excerpt: "Volkswagen Group and Microsoft are expanding their cooperation involving the U.S. software giant's cloud technology to include speeding up development of automated driving. VW's new software division will build a cloud-based platform with Microsoft that will help simplify development processes and allow faster integration into its vehicle fleet,"
-publishedDateTime: 2021-02-11T09:46:00Z
-originalUrl: "https://europe.autonews.com/automakers/vw-microsoft-partner-develop-self-driving-car-software"
-webUrl: "https://europe.autonews.com/automakers/vw-microsoft-partner-develop-self-driving-car-software"
+title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
+excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"
+publishedDateTime: 2021-02-13T17:00:00Z
+originalUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/"
+webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/"
+ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
 type: article
-quality: 41
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Windows
+  domain: compsmag.com
 
 topics:
-  - AI in Autos
   - AI
+  - AWS AI
   - Microsoft AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/VW%20Automotive%20Cloud%20Seattle.jpg"
-    width: 800
-    height: 600
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+    width: 960
+    height: 675
     isCached: true
 
 related:
@@ -149,22 +151,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
-    excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"
-    publishedDateTime: 2021-02-13T17:00:00Z
-    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 71
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-        width: 960
-        height: 675
         isCached: true
   - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
     excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
@@ -351,6 +337,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "VW, Microsoft partner to develop self-driving car software"
+    excerpt: "Volkswagen Group and Microsoft are expanding their cooperation involving the U.S. software giant's cloud technology to include speeding up development of automated driving. VW's new software division will build a cloud-based platform with Microsoft that will help simplify development processes and allow faster integration into its vehicle fleet,"
+    publishedDateTime: 2021-02-11T09:46:00Z
+    webUrl: "https://europe.autonews.com/automakers/vw-microsoft-partner-develop-self-driving-car-software"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 41
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/VW%20Automotive%20Cloud%20Seattle.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Cleareye.aiCollaborates with Microsoft for AI Platform"
     excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
     publishedDateTime: 2021-02-10T08:48:00Z
@@ -370,6 +370,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "3cFlw9OwWJ6Z0QViLbeKVfWMDLcNTxmnRzU1MhFOsmrmcsIv08XWL5vM6G7f86IU3vTmp1QOgL5bqkYvNvzmUro3glzX3D4lF8RoVyl6nK1WtNGX9/83lZQiYy7tX8KGfup3IjzNZ51WUoKYqIfZU71Pl9EOAPSNDllouZ0k8RNP8+nJD4X+/8GFPDDzmIRXOUCANWNOVzp+G9FEDE/bgy/E6BaUKX1wPAAIuDYtyLxYy5+fI0nHl9LVBFXuoEiGEgvRM1ASZ/exHonlnOUOB8a1BQc8TEJf1BFYdb5eeWvY6yaUD1Xm0Of9A/UdNiQmmMbhw+TwgVJTrjp9dyzfX0H8ZPXg3HOHf00gjkkuu/ryXiGFsCtR7yEU9O+Qs5A+uWfKqxylGpZTxborXatB9dPlVAgKku63tGA4/DFSU/Hd7X3F4U867TwSs7KTtgqCLw6z88DzSAbRhAJ+pW2AGJrWrvommz8qNpvMi19Q2oWPBOfRhVgs7zcUs678bKfYzsERxhCGICD3HSLZdx423w==;XEjaiY4QNpycAJAt7yFfEA=="
+secured: "E0BlxNpkVcbBmX7GlD0YMD0Df5zgUCwyiuY83lW/DF6wxg60BGjZlhom6VisgNtcYWKuD813VgdtHoEktPDT9ClEhh0MOYZPx4SUy8MXqpua9XCEyKdyfVYSfWt3heEb1z/hwBdUuH93KgFTgnkdMX0FT/KrJGtoNVyo9qZXWBFNZNJHuibh+jYRRq5ZFJHm7MaKevwEKwF8Gf9EXdbFvrDg9GZnwT2yO8NoafUd09+6e3K0uoYHCwW06vCXufXBv7EJrrKLF0IXTqAPNQfvbr5+U7KXAfINDoCw/uFaYqTfksmihmhAQsp643Luml1skXRU6tSrIqFNbosu6bYFvpa3XbU0vU3fqT5N4NNUpp8=;2N0voG3+p6ruy1mizCDISA=="
 ---
 

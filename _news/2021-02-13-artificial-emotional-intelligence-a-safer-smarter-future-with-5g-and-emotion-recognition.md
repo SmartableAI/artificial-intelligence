@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-13T15:37:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2021/02/210211113917.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/02/210211113917.htm"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "Artificial emotional intelligence: a safer, smarter future with 5G and emotion recognition"

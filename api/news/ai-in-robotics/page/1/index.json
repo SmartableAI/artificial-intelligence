@@ -482,6 +482,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020.md",
+      "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
+      "excerpt": "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "publishedDateTime": "2021-02-09T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics.md",
       "title": "4 Funds to Boom as Deep Learning Paves the Way for Robotics",
       "excerpt": "Artificial intelligence (AI) and machine learning are frequently used to improve robots and make them more capable in industrial use. Industrial robotics systems are now being consolidated with computer vision,",
@@ -1338,49 +1381,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-scientists-developing-quantum-brain-for-human-thinking-robots.md",
-      "title": "Scientists Developing \"Quantum Brain\" for Human-Thinking Robots",
-      "excerpt": "It was but a matter of time before robots roam the land with a processing unit similar to that of a human brain, and according to researchers from Radboud University, that time could be now. In a new journal entry in Nature Nanotechnology,",
-      "sourceUrl": null,
-      "webUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "originalUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "publishedDateTime": "2021-02-01T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

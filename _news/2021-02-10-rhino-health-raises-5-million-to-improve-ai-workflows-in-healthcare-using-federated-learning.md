@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bangladesh-based Maya, a startup focused on accessible healthcare, raises $2.2 million seed round"
-    excerpt: "Based in Bangladesh, Maya is dedicated to making it easier for women to get healthcare, especially for sensitive issues like reproductive and mental health. The startup announced today it has raised $2."
-    publishedDateTime: 2021-02-09T02:46:00Z
-    webUrl: "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/"
-    ampWebUrl: "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/amp/"
+  - title: "Lang.ai snags $2M to remove technical burden of implementing AI for businesses"
+    excerpt: "Lang.ai, which has developed a no-code platform for businesses, closed on a $2 million seed funding round. The company’s SaaS platform aims to allow business users to structure any free-text data with custom categories built through a drag & drop interface,"
+    publishedDateTime: 2021-02-10T15:15:00Z
+    webUrl: "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/"
+    ampWebUrl: "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 93
+    quality: 85
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/02/29.jpg?w=1024"
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/Lang.ai_.jpg?w=1024"
         width: 1024
-        height: 845
+        height: 509
         isCached: true
 
 secured: "7abUbnskjyUAogONCdorfrNmrE/toBPpb6alKvfBIJ57OzqQ+myQWaWUm+R0qpKZtrCXB+FGIwt3+zv/89p2H/b+mEH6/4do7xd31XqnXE3/3EfwwEgoBTzIvIgM7u7vPGKf1TEA049ED2TNlhmoX4PRUQj9sUnXw3Pt6JmO4y4Q9MVKMaTwP4Pi+rjIb4Q1iHO5c+14DTkLJHfUkiWRykTUc1oULe9DASW8gJCNJbjTkUl0qJOqk42EHxLyvX4ZK9AQuJki8QEYAmmtY3Hj/83Nfq9OrM4u6/uYYBuDgEPmj3cRLE86f/Qx6y2US5Duk8bh0+wLk7jKewV12JtWBkHZtPS8GMUzuskfVgLDMEw=;Zmnjug/R2EXv/POyZCaZ/g=="

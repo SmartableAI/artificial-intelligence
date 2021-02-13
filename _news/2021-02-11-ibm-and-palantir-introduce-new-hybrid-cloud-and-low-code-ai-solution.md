@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM, Palantir forge partnership in low-code AI data processing space"
-    excerpt: "will \"simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is scattered across hybrid ..."
-    publishedDateTime: 2021-02-09T01:44:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
-        width: 1170
-        height: 792
-        isCached: true
   - title: "IBM and Palantir debut no-code platform for open AI applications"
     excerpt: "IBM and Palantir have announced a jointly developed product for AI applications called Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications."
     publishedDateTime: 2021-02-11T00:16:00Z
@@ -107,20 +91,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-    excerpt: "the new product will leverage Palantir Foundry and will integrate with IBM Cloud Pak for Data services, such as Watson, providing an information architecture that includes data and AI with built ..."
-    publishedDateTime: 2021-02-09T02:27:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 1
-    images:
-      - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
-        width: 2251
-        height: 1179
-        isCached: true
 
 secured: "HVIOsKwkRsw2iU1UrYkpMh6mY1282Z3BPFuj7/DsFRaqTxDqtK5vgnifubsX66orUvolVXfvoWy2V7UgDkZ+OfHC0iDw8CfBSFOS8bRiz7UxBPO6gIrc48wlxZO4uPxV8Yp+IDhtv0byzZjXK/v2ufdrsgzdSAI+Ro44JxURldDZyr1HPGrMyBKHzg0Daf2w/29LofNlSNyFfpp36frxJaPtMcJTXmHKYjGHbqKabEgKdLQwSXEY+wKZguWhLE9PteJ2rXrM/Rs+eBA7Ab4vz3YSXuvprNul4Xcri0ItsBmAAmOKFx9jHoq1+/KfjI0/lbh+5B9nzsmJ7soNTggEPgWhy1odwecAcw85cLDwNoQY+HsWXWCoc6VxM4+qqq4viSWmsGTxluJpmy9zKjcLpCyIYRER7sKdgMMeW1USlHCebORekuwu5CC7uFzhqTNFlQLKkrsXqLy6NI4WUF1/XmUeiKxcsgGIN15wsWm6D8aG24BIMNCrQCxOd2K3eiI27MIxsCIt/9qpvTClBDyxAQ==;4upHi1EMv4ACa8bvZF0FHA=="
 ---

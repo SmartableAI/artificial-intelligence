@@ -34,7 +34,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 24
+    quality: 26
   - title: "Anexinet Launches Conversational AI Solution, Enabling Natural Language Interactions via Highly Intelligent Virtual Agents"
     excerpt: "New Partnership With Industry Leader Amelia Provides AI Foundation for Company’s Latest Offering PHILADELPHIA, Feb. 11, 2021 (GLOBE NEWSWIRE) -- Anexinet Corporation, a leading provider"
     publishedDateTime: 2021-02-11T13:27:00Z

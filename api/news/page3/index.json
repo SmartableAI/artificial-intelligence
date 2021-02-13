@@ -316,6 +316,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-11-ibm-and-palantir-debut-no-code-platform-for-open-ai-applications.md",
+      "title": "IBM and Palantir debut no-code platform for open AI applications",
+      "excerpt": "IBM and Palantir have announced a jointly developed product for AI applications called Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications",
+      "originalUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1612799848/itpro/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg",
+          "width": 2252,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp",
+      "publishedDateTime": "2021-02-10T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals.md",
       "title": "Artificial intelligence can influence human decision-making, new Data61 study reveals",
       "excerpt": "A new study by researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, in partnership with the Australian National University and researchers from Germany,",
@@ -606,50 +658,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.md",
-      "title": "Salesforce taps AWS machine learning tool for document automation in health cloud",
-      "excerpt": "Salesforce launched a new machine learning tool, powered by Amazon Web Services, on Feb. 10 that aims to help healthcare organizations digitize their document management processes on a single platform. Salesforce's Intelligent Document Automation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-four-predictions-for-artificial-intelligence-and-machine-learning-in-2021.md",
       "title": "Four Predictions For Artificial Intelligence And Machine Learning In 2021",
       "excerpt": "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing.",
@@ -712,7 +720,7 @@
       "originalUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {

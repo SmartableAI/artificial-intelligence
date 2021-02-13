@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-firm-tiktalk-brings-ai-to-spe
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-firm-tiktalk-brings-ai-to-speech-therapy-658629/amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli startup uses AI to revolutionize fertility treatments"
-    excerpt: "Zamir, founder and CEO of Embryonics, speaks with i24NEWS about use artificial intelligence in fertility treatments."
-    publishedDateTime: 2021-02-09T02:40:00Z
-    webUrl: "https://www.israelnationalnews.com/News/News.aspx/296458"
-    type: article
-    provider:
-      name: Arutz Sheva
-      domain: israelnationalnews.com
-    quality: 37
-    images:
-      - url: "https://u.a7.org/pictures/973/973576.jpg"
-        width: 667
-        height: 397
-        isCached: true
   - title: "Israeli AI Chip Startup Raises Seed Funding"
     excerpt: "Israeli AI chip startup NeuReality has raised seed funding of $8 million to work on its data center AI inference chip and system solution."
     publishedDateTime: 2021-02-11T14:22:00Z

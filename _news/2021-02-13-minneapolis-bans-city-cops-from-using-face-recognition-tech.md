@@ -47,22 +47,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "9 Scary Revelations From 40 Years Of Facial Recognition Research"
-    excerpt: "In science fiction, facial recognition technology is a hallmark of a dystopian society. The truth of how it was created, and how it's used today, is just as freaky. In a new study, researchers conduct a historical survey of over 100 data sets used to train facial recognition systems compiled over the last 43 years."
-    publishedDateTime: 2021-02-09T01:07:00Z
-    webUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research"
-    ampWebUrl: "https://in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/20091/9-scary-revelations-from-40-years-of-facial-recognition-research?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 91
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/feature/9/9-scary-re/9-scary-revelations-from-40-years-of-facial-recognition-rese_hhw8.620.jpg"
-        width: 620
-        height: 467
-        isCached: true
   - title: "US border patrol used facial recognition on 23 million travelers in 2020"
     excerpt: "US Customs and Border Protection used facial recognition technology on more than 23 million travelers in 2020, according to a report published by the agency. That's up from the 19 million travelers CBP scanned with the tech in 2019."
     publishedDateTime: 2021-02-11T23:23:00Z
