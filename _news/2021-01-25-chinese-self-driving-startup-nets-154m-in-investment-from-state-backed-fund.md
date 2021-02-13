@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "ga9P3iYNOlfyGsIwGTSENIenIBTCKxUo2+/pFLjYsjSBcBaxs/9K6ssS2IrlBkUigkm64ywMIlQkRT/Kf98OLUXUA6nyagoDU+PZPBzbGA3AaCu02S++WpBj0v6DvSbdUPDnSzeJNoKDT/Y2nHCFQhuMdah8iEFSFwTf2ttDdniVEHDdFGjsX+NPCp3i+ybQejZ9UK/NEvrHb3bdv7Gf2MQJUPtziV0J7iTtgRJQDdrQIGY86G8Y7O3fVa0tY9sVu8OlfuXXws+jF6sB4WBh6AXfiJLm1AT/shcsahTm84NLGiZc2CbGI5P3RBofFZ9w2Ti3sFfkXI5bCTVE6OD9EaT1jLS5ubzdq69m3JQMsAhhAmqcYSHUi/Exh1OOHqWVtD+JUzTzX51AtjhUNjjjTxSwWWkiqDVwKqnradw8bL3+SCsc3LzCjNDPfDXEdsNH9sM8YjTKySi12ncNrWJjp1Aay5lyhItnzW7wTWt+pl8FgTE07jGXl270ISlPJJZ8uXEKTnZa2o4OprFS9CJd2Q==;2u7YNvLkG4NU8RbNIkeXuA=="
+secured: "fNIl+iPE+dU8HMPz24cD1/rYZU9TNuh+z2X+gsIubnInPOABkQAtNMqfJ0LkyYMJl6uqfZY0BpWrf3sZ5epeo1pB2erd3JWBDn4y60x2cs8KdK10/tXdBCwwXK9aJjEUx8Vn5CgYmWrIrrZkqtfjNY2T+MJN8+JoAgHsJavHQ9sOa+vLGF6SbGEkOd6L7P9PcjKerulZkJuuQ2moUpuY6TWTvLq7hg/US7LxtsLVYkYHXIqsVa0AWrB/oxZ6am5htkNb3fYmz9YpV+kMZDcTtlsBpdr3tlqfy+OaoqVRwDqBLErPGQG1VW9sZGqcsAFeItvh5Qk/QF/Djs6L8/N7q2Aq2b02cj1IwkNQfKxNNb3zr80SCOrGIo6CIgl2om5ZTCwemTjhxMxr1Z7OKcplT1Jym0QQ/XZWf/BPbXpKizmaaZWvBuuVYRo9GOl3i2MsFY7onsyzqOGUCuaIX7/anP0YdY9vA7U+I3mur8YdtTyGVIAM5Mgm2RDDe3GOVuviuQtjb+nYdyrvlqwxm7mjDw==;g48gU28ba1yz/e0sL7kPAQ=="
 ---
 

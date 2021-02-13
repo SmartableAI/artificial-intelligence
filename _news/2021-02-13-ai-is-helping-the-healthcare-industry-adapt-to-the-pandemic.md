@@ -3,10 +3,10 @@ category: news
 title: "AI is helping the healthcare industry adapt to the pandemic"
 excerpt: "Despite hesitancy, organizations are adopting AI to help them optimize their workload and diagnostics. Technology can help the industry in many ways, expert says."
 publishedDateTime: 2021-02-12T19:45:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
-webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
+originalUrl: "https://www.techrepublic.com/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
+webUrl: "https://www.techrepublic.com/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
 type: article
-quality: 88
+quality: 84
 heat: -1
 published: false
 
@@ -21,8 +21,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-  - AI in Robotics
-  - AI Ethics
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/770x578/143c161e6d1f8b6e09a331048f272527/20210211-healthcareai-karen.jpg"
@@ -62,6 +60,6 @@ related:
         height: 300
         isCached: true
 
-secured: "Phb5UfPVDXKpL72EXSQ0pN378AZ8um2hibrTNOQ9qKmJUlIljPdmqDK//CT1sM+TrJK1W5e61X57WtpEM2egt3jpfijDCRgouz3+l+zedRlZlVx50450xiO0VT9+sDhJQrH4zkt4JfH3Kvmn5R1AWgRBUiT9k2dYikw13Bikk2xaDa+V5oAgyV+88zDc4/4Ag7Vtljp7fmkpVInh6SIxN5LjKRG3vJS1AWbAeBAxV38Th8+H0QVXQ1Gu1bIRgGx953Z+OWjdXGz2lqYt42LEOLZ8GhM/4mJbIznWCSNWTxcyIjeAxHzdq4Hlf5nWw/uytC+Cu9SbnfBNGLKF60ugcxorRfA7zepfj6DusxjiT+Gpi07AkhMisl+mc1jUzu++76B+KcY4egcQ2lGSzmo/tH+OYZ9AlDjViO5i1YKKK55CmSkklCKhHsmFjUfzkhNGjrjDUGq1bUXJcH+CTWAduS95Ty9abkI270IcTI25ptQOtILRaNcbd37+OjHsTvzG4TL7kRmnO5rDsbwp36cDCA==;o2iDuG1eMLZ0zPugGerPcw=="
+secured: "Xaae7+bODd5fZyd2ON+rGZzQxc8GX1rI2ka1NHL9QeR/Z/wtt/owVytyZQ2aMHt6zD9YOCsbQcNYHiwpnE2a+a6DMwShkg0nsFxCVulc6E4jJi6T1y5YT//VsvsMi2Xok/oYS+R2YTwS6BDEEAHQr8iuA9EcoPfDFMlgp2pEoYhsxVG8OYZlxdOTAf6UDN936Z3+x4qqHAfjkPSiKo2bz443qXjSUKrqVSxsitNa5zVO793muZmmmm6iioCjApwTkhwgu94pAxR6KIpb02OirRNhGlYCohqQkF/S5axIY9Fia7m3buaS6vqMLUvQGoVkY6OhilPGq3vKi72WTQcOThQ/AdlW49ICHnP6CPdpXbg=;1H8JeJUNmdLU70eH+E/oIw=="
 ---
 

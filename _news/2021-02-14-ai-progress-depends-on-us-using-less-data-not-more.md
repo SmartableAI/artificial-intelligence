@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less
 ampWebUrl: "https://venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/02/data_globe.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 727
     isCached: true
 
-secured: "WQ6g7BpqoQT7Iwo/IYhfQFGBYhOrkjnGH9jpneZZqAd8/asMSls6OrJomu9dS7MVfIU1y37Uc6F0+mPbBhQoOS/LZQv15gzFkBsWSa5UMXsXwOUNX1kuMTupHuoE4SUXU3fJWcE4qmn+1kDA+ERlSOAOzK5Rgaai3wItVf4TOghhVdtbtv4otCJ+7gu+/vYIZ7a01y0P8RSIgoAWZlGVwCJH7tPPlkPARO6zKnDWsnBHmmYaeFd92CIHZzHAHO5gKWe8al+HkYwfyMWFfu0/qtpzyInrVKlyO2SlYF4q3zmIPzsenwRYcQaOCipCHnHA3pXRQsoLbyLqMBLfQR3/UWj0tYKTA5DEhp6OozJNaZQ=;aCxJ5vx38qR0WoaTwIJ20g=="
+secured: "AK7AJXQuBlpD0+bymu9YIy3tblD1TJPigMnJ7V0kvZx8oFcniRcWnsbnu/gHpSDckvFmhzVeCYxJkHUpc6PpquRtFWqij6vaW1zCQsbOR6ihxqEi29QFZIsG3oobgPch4wUeF2ZlUgsXdm0O9B3Yey2ZUYqTJejgCgMmWaiQ5534PufFjYXcQ20hjReTJzyEtgmsEwM0j9fwI5sEkjIK1mJtjdr4mntptIrHafi6Gj4S3MsgmL+1HvajP9RPJoYdcnC/I1UFts7VnI+PbSTs2VRxKEInO7g9H2Mg+J6wSNAypVyWSPRRLwjWr62OZyVwpcsVgUTsabBk3z+QPzd2EfupzhgusFZ8hUgmYZ0ftFhmqBPI3hNxevPt1NEJdF5U1ywVxNfA7w2E0x1NqsLhSLEXUDyh81CweYq1QBDWXHkPut/QdGA+jbcz2IDWta8rDh3++CK2SbmqxaQdOu/Do67h7O07Bs0U3Tii04hAs7hM37H4/Ma76Cvv3MrMhyTKYsPXDj2vub2ZWdE0JtnpdA==;000KW6qXaae3RAJMts6OMw=="
 ---
 
