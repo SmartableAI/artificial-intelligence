@@ -98,15 +98,6 @@ related:
         width: 1920
         height: 958
         isCached: true
-  - title: "Bringing AI to the edge"
-    excerpt: "It seems that much of my work these days is concerned with bringing AI to the embedded-systems domain, understanding what the implications are and how companies should deal with it. In the discussions with technical experts and business leaders,"
-    publishedDateTime: 2021-02-08T07:51:00Z
-    webUrl: "https://bits-chips.nl/artikel/bringing-ai-to-the-edge/"
-    type: article
-    provider:
-      name: Bits&Chips
-      domain: bits-chips.nl
-    quality: 19
 
 secured: "TENp7BFUdT5o/kxmn7pC22uMsa++Mzl7wvdbZ3QiLzW7Od02gpz0ys1kcDj7jMhfnj6MFFTOTFwTAgDGF/k/DQbRtn291lVfs8phjYNcOfrYWGbyLv8/6zjS+nbo9PmgFQp9B8VgRLjzSW1ZBgYWPqaEx/3O+llGXJNWB24fjNmVJO0baMXAbr/FX9fm5h/jHztog+cSoP+Lm9shmtm5VZbtKi5f4dR3zbszOHKn+WWS/XK8cuCKIdn7W27vOXGZL87z48JUw0J5AK8I5AHdOzuX6aVCfHJRs2GYft40/Vhq/P6LGDgK3WMGDThYmQqHIBBN0fa8EgbnFMpYSyr5oVIfoAqwEp+/zd9zVkNzTqo=;Vg16vKD0VKPAUWTvdKA0mg=="
 ---

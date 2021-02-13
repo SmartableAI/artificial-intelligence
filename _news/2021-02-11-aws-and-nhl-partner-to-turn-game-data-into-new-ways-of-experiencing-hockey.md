@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://advanced-television.com/wp-content/uploads/2020/11/NHL20.jpg"
         width: 1200
         height: 992
+        isCached: true
+  - title: "NHL Selects AWS for Cloud Infrastructure"
+    excerpt: "AWS’ services are designed to help the NHL automate video processing and content delivery in the cloud, including leveraging its Puck and Player Tracking (PPT) system that is shared with media partners,"
+    publishedDateTime: 2021-02-12T19:04:00Z
+    webUrl: "https://www.tvtechnology.com/news/nhl-selects-aws-for-cloud-infrastructure"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8HthFLifn2zAgfGqWZLYmf-1200-80.jpg"
+        width: 404
+        height: 227
         isCached: true
   - title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
     excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure Provider of the NHL."

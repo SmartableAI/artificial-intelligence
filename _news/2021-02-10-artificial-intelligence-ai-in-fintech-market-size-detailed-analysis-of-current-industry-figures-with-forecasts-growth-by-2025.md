@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare"
+    excerpt: "The AI healthcare market is more visible to the public than ever before. More and more people are becoming aware of the benefits of AI technology throughout the healthcare industry. To many, it’s solid proof that Artificial Intelligence has had a successful impact on the overall quality of our healthcare system."
+    publishedDateTime: 2021-02-11T22:03:00Z
+    webUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/"
+    ampWebUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 69
   - title: "Healthcare Artificial Intelligence (AI) Market 2021: By manufacturers, Type & Applications, Global status and Industry Forecast by 2026"
     excerpt: "Healthcare Artificial Intelligence (AI) Industry Description Wiseguyreports.Com Adds \"Healthcare Artificial Intelligence"
     publishedDateTime: 2021-02-12T15:38:00Z
@@ -98,20 +109,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Development trends, key manufacturers and competitive analysis 2026"
-    excerpt: "The latest Artificial Intelligence (AI) in Automotive Market Analysis report is comparative coverage of key player's qualitative and quantitative information highlighting key market developments, challenges,"
-    publishedDateTime: 2021-02-08T07:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-development-trends-key-manufacturers-and-competitive-analysis-2026-2021-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -170,15 +167,6 @@ related:
         width: 2614
         height: 2615
         isCached: true
-  - title: "Artificial intelligence (AI) Market to Attain a Valuation of Highest CAGR 2022-2031| Google Inc. and IBM Corporation"
-    excerpt: "Market.us, one of the worlds leading by prominent market research firms has released a new recent work on \"Artificial intelligence (AI) Market 2022-2031\" based on business intelli"
-    publishedDateTime: 2021-02-08T08:24:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/137531/artificial-intelligence-ai-market-to-attain-a/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 11
 
 secured: "C/vvRK7GzzCm7IgZzC6+xMET++Yiddr6wFa+ao01My+OeiALDBXmO+hZRgUBKoKpbtFfoJ+PZ0UAF3TJVGzCyhsnqDj0+h+qXamwmrbW8K3Ybq/oPiHbm/11vUChbcN34Bae5/J13we0YOFYlhSljvGoDvg+SChypwD3VRkynbkabvMxaaKASu8vZRD5Ru37S89x4EO2nxPeyvMqxar0v6AJK8oBqgUWgj5RyNXdwx6mTZL4T6G0rHzZlpKacRJ5B7suIY9/20S93xWc2dtqkwKkvF3thez1+BGLXPErZ0jm21bB6IsZ9D6InqNLkFDUa/rVOFfwXjw+CFPhU07QX5uVxtknocJNOCYev9sM+Vw=;Hmkt/StrfofpAe8S3QqJoQ=="
 ---

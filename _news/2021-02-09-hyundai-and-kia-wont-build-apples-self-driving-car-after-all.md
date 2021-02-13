@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 864
         isCached: true
-  - title: "UPDATE 2-Hyundai, Kia say they're not in talks with Apple on autonomous cars"
-    excerpt: "South Korea's Hyundai Motor Co said on Monday it is not now in talks with Apple Inc on autonomous electric vehicles, sending the automaker's shares skidding a month after it said it was in early-stage talks on cars with the tech giant."
-    publishedDateTime: 2021-02-08T07:15:00Z
-    webUrl: "https://www.reuters.com/article/autos-tech-apple-hyundai-motor/update-2-hyundai-kia-say-theyre-not-in-talks-with-apple-on-autonomous-cars-idUSL1N2KE03C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A800T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A800T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550671539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH17008"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Hyundai says it is not in talks with Apple to make self-driving cars"
     excerpt: "Hyundai Motor and its affiliate Kia said they are not in talks with Apple about developing autonomous vehicles, disappointing investors who sent shares in both South Korean carmakers lower. The pair said in a regulatory filing on Monday that they have been talking with multiple companies about co-operating to develop self-driving electric vehicles,"
     publishedDateTime: 2021-02-08T13:02:00Z

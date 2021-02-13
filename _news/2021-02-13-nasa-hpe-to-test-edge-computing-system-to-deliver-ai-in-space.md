@@ -24,6 +24,36 @@ images:
     height: 270
     isCached: true
 
-secured: "i0jIbccjmXGFkQHta+4uoJyBiYApIQPR3b0U+yiOltfYiZ12W9Tn12GExhWG1NUqr5yZqJoLUpRa2PIgqS6G+Pkg+EDeRbrgb6Q82bQA79L7mxowNsD6qrg5W48tU+qy2RcAhETxy5GB8RrDgDD5pzgMtnysCRjw64k9pggCJMJH4acYkZfVcvB1wQm59zDMhgwyCWRok9MOxq7WBDN/XjnvnAQyymAHKeRoZyE/CqBU63F/YfcWlpCslk83Mgj3/NPBUwTPq/x0e3W55eqykCrD/L49b+XrUaTpZ7/ANAiRBGOQpZNXBPQcOkGL3KHk+ZVmyc5EeHDiyLJ+99LPdZOpgr0Cs7/o5fpjO6cUaWc=;2FKYYCGcLy3AGAeLO7tEIg=="
+related:
+  - title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
+    excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
+    publishedDateTime: 2021-02-11T13:01:00Z
+    webUrl: "https://www.fltimes.com/business/national/hewlett-packard-enterprise-accelerates-space-exploration-with-first-ever-in-space-commercial-edge-computing-and/article_9282cae1-be6c-5b5e-8489-3f1747bafeab.html"
+    type: article
+    provider:
+      name: Finger Lakes Times
+      domain: fltimes.com
+    quality: 0
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
+    excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
+    publishedDateTime: 2021-02-12T05:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-first-time-events-diagnosis-and-treatment-ecf651583d0e46b683467b5dda520726"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "peSc+aHUQB3yYEMLa1D7a9oJV7pVA2PZkaLZNt7ZdtfqZpOIXxB3bkBukSoO84oqXCBhWQk9PZwdvkpxKoyAg7lIXHthaDcA1etkoWE66Gk4mq1lITAfeVW1CvTi8BXbnxHK+sYBZXdG1DqcF/XVyebWhvDn49vtvTfVSIco5ZT0gLA8X57tiyTHD5ig4EgEC4lWMkiqrHOw/WUdLomP5/n3I73C8y3AH7OZ4D/tW3fT9V8lX2r1m1AsaHMoljJABNSKRNDo3JgKobeq48ucsK9rd1iszojTIaceVc7+J5Biegarf2LCRapIjsxQwxAfwfNRmEFhPYeJiIZEIif5VL4q5rY1VC1lFcsRkubW97blYCihgFMJ7uRllOVhfENJ6EFo0vfzuSjJTo8d4YX3nJX8JmDg/geSvLXkdazINayM4/B93ozp0XGC0W9eAnM43jYugdfE/KXv8MReZJ0N123JpPpJ0T7HKfCjW6aCPc5gpDO8d1K9IxyEbdJaMA+UWzvKC8ThVR5w2ITcFzb/0A==;e3dOZvbIroIOHVu7KNauqQ=="
 ---
 

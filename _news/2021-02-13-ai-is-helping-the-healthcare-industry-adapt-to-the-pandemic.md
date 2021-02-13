@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "4 recent studies exploring AI in healthcare"
+    excerpt: "In the past decade, medical researchers have become increasingly interested in artificial intelligence's potential to improve healthcare by reducing workflow inefficiencies, predicting health outcomes and speeding up diagnoses."
+    publishedDateTime: 2021-02-10T19:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "PLFHuJ1VilXe4ANOarlt5Gx3on7nq/Z1LTB3yjPTjGAX62mvuxN8hi4YyHiH9P5r2DmlZULiK2l1TeWwRP67tkPuIGvuPJHyZ3CYKM7ligVh99MGgp0cxH+r0w5YZTGWCDSM3ErvXZ7cWcKh6tlBEPN6vXr6VAMVfrTb7v6Uv/CaVesesg621B4imlVJ1ZRRv/mJT2cSJpEjDOxn41EsMqN2D06rAHdo6Hj3pxVAiSahelFhEtVX8RVYdK3by8s7OuFc7GaeNYzgpKsmJWJzAk8kf1GVb0xgD5mxSm0hDj6q7XPfl4YPZzjP5YaPDMrBbaz2QN+Flx5H1wRv+i0mnrJ1wU0LQpS97ulQxkrxpOfr3/P1iutBffJ6kME240dTWTM2Ao+yEu2dfPyWppThvekX1Ah8DVB4UzKBy/pUOYpSbxdkN5eLg4fiNVMLdnLSGqVhZwuhrXy6aBuLGEJcjyyGe7crr6chg2T2OITnUMCpXkNW1pUAUrUbowxkQm3MlCKxSfyr6Q3QYF5pEAWEQw==;DWdLhGQdry/toTnjtxK9Ag=="
 ---

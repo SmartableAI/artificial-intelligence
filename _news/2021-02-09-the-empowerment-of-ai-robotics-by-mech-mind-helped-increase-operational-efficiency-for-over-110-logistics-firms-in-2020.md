@@ -3,10 +3,10 @@ category: news
 title: "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020"
 excerpt: "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020."
 publishedDateTime: 2021-02-09T08:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019"
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
 type: article
 quality: 75
 heat: 85
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "q7SX09mndvPo+7BflRuCtZ7S1o+uri1wq3a+Kv0HnnhbGt5YuIhfOIHNeqQXwbSdIP0g0m0MVWlRt9hBs63M7w+/1zoklwqdRModOvAn5JgCeIqT2K+BF6kalDd6mqnKyNjx/PsDwhJZDCv3yVCXwub3dtZv8mie4hJRj86pvIwni+t/EhiTHukiEWNFxTLAVmD5WMvB9oJrqFhbj4U535dn1ldvTHmPDqtfmlNh1pLeEeBVSCN0a0gg1VRSAH32h+N6FdrIu8MurfJo1ikRuZTjwdHPy0PRL98uxZaFiHpoQ4pz86Gfl9GCywsTFk2qrnk3+EkBo1qMJP1bFzuUNLvzockspz17bldEFweahoU=;a8IwMOvKu+DLdbvPod22lA=="
+secured: "oCWgTpgpXjYFT27jXXYx2gc+a8HsZfJgnMyoAEeiEVMMGSjsq2S6Nt3OfI/8lnl2SVuylkx9iKFhXoK3dSZa8Cn1ETnFMUqJDg6p1LUNuebZ45cJQVpxirddTpeM7yGe7gFaK6SEx2StKzV9hLw5SvzWAOMEDk514AtLJ9TlYHxOkHAn8z7KP/8L+rreBi08aOtY0QkJ7H+MXltS0fDCh6PdpKvQNj+VkdU9gznU33c2IxUZsZRsQRZV7O2kBkTSw3GGTvj2AHomqJJwKvfr2rVdIJz9PVFRsK08uUG0nnM4hnVIP6Kqtbbhz4FAsG7kU1JMxHqkxOWn5vMek3sPuDkSEjKyyQXMNI5MZ2M0jGk=;tpbw5GgqWvXpS3CCBytZZw=="
 ---
 

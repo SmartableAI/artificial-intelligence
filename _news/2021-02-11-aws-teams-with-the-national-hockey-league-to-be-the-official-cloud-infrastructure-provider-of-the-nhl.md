@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 992
         isCached: true
+  - title: "NHL Selects AWS for Cloud Infrastructure"
+    excerpt: "AWS’ services are designed to help the NHL automate video processing and content delivery in the cloud, including leveraging its Puck and Player Tracking (PPT) system that is shared with media partners,"
+    publishedDateTime: 2021-02-12T19:04:00Z
+    webUrl: "https://www.tvtechnology.com/news/nhl-selects-aws-for-cloud-infrastructure"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8HthFLifn2zAgfGqWZLYmf-1200-80.jpg"
+        width: 404
+        height: 227
+        isCached: true
   - title: "AWS to be NHL's official cloud infrastructure provider"
     excerpt: "Amazon Web Services (AWS) said it entered into an agreement with the National Hockey League (NHL) to become its official cloud, artificial intelligence, and machine learning infrastructure provider. By tapping into the AWS services,"
     publishedDateTime: 2021-02-11T09:58:00Z

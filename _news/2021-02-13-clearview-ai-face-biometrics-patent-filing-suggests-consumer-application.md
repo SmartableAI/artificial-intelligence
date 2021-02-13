@@ -244,6 +244,31 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "Minneapolis City Council Votes To Ban Facial Recognition Technology"
+    excerpt: "Minneapolis City Council has approved a new ordinance which bans the city from buying or using data derived from facial recognition technology."
+    publishedDateTime: 2021-02-12T18:23:00Z
+    webUrl: "https://minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-votes-to-ban-facial-recognition-technology/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-votes-to-ban-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-votes-to-ban-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
+  - title: "Minneapolis passes restrictive ban on facial recognition use by police, others"
+    excerpt: "The new ordinance follows months of lobbying by the POSTME (Public Oversight of Surveillance Technology and Military Equipment) coalition, which gathered thousands of signatures on petitions asking the City Council to address the issue."
+    publishedDateTime: 2021-02-13T00:17:00Z
+    webUrl: "https://www.startribune.com/minneapolis-passes-restrictive-ban-on-facial-recognition-use-by-police-others/600022551/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 35
+    images:
+      - url: "https://chorus.stimg.co/21098138/ctyp_Minneapolis_City_Hall_large.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IMY fines police for using Clearview AI for facial recognition in breach of Swedish Criminal Data Act"
     excerpt: "The Swedish Authority for Privacy Protection (IMY) said it is fining the Swedish Police Authority SEK 2.50 million for processing personal data in breach of the national Criminal Data Act when using Clearview AI to identify individuals."
     publishedDateTime: 2021-02-11T12:49:00Z

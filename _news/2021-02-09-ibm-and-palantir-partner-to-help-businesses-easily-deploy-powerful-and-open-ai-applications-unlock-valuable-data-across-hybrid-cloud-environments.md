@@ -1,29 +1,27 @@
 ---
 category: news
 title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-excerpt: "The product is expected to simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is ..."
-publishedDateTime: 2021-02-09T04:34:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19532238/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/n19532238/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19532238"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19532238"
+excerpt: "the new product will leverage Palantir Foundry and will integrate with IBM Cloud Pak for Data services, such as Watson, providing an information architecture that includes data and AI with built ..."
+publishedDateTime: 2021-02-09T02:27:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg"
-    width: 400
-    height: 284
+  - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
+    width: 2251
+    height: 1179
     isCached: true
 
 related:
@@ -255,20 +253,20 @@ related:
       domain: telecompaper.com
     quality: 19
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
-    excerpt: "IBM (NYSE: IBM) and Palantir Technologies (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform"
+    excerpt: "IBM (NYSE: IBM) and (NYSE:PLTR) today announced a new partnership consisting of IBM's hybrid cloud data platform designed to"
     publishedDateTime: 2021-02-08T11:59:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock-valuable-data-across-hybrid-cloud-environments-301223657.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-palantir-partner-to-help-businesses-easily-deploy-powerful-and-open-ai-applications-unlock/article_a596a384-6945-50fb-bb5b-ee15ccb0f52f.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 1
     images:
-      - url: "https://mma.prnewswire.com/media/1434327/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg?p=facebook"
-        width: 2251
-        height: 1179
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/b9/0b95e751-9808-5551-9563-4755982ca8c3/602292ca96197.image.jpg?resize=887%2C630"
+        width: 887
+        height: 630
         isCached: true
 
-secured: "U7vRC56V9aGrr9EuT5gCTqVE3AkvQs5YuZMhJHfYzUBz8UCoFVJD3eNbqbCdnuNRffTLbM4tn58ZYRCs58rgF/gTsZNiqeoQrvxKfHSw32e/nt5stCGecjOv5izZj0pR2H9c70NOhcvlbQrYv483apjvSFFWdEEM89awwDR5ivb8jwuesSgrisa7hFhoC26CTOSvaB9DyVxBvibsGVrVPfOGo+ifDAxAHVdDV1zNoKrY0Cq1F+EqGl2X5NikITywm01fATwiJvLPYeW6iO+0qgfFv4pp2dzieNeVelReRpsFC/Vek6/ilMlhMjNoRxvBcRxsZEEdlVf9A09zmYBrLa/ZM9c/HAi0zvXhkuditGw=;Yzrzku3kSBnlkOoZNBJnqA=="
+secured: "vaLHxuUdOxkRx6vKCDH5AwbXXvK09R3ZAdC6hDuA8+tBdQDqcPuaO0W1LLjbJ7wZyUY0Z2XW9uKWYUarjKARPzWNB3PirZguxajQ+pYkBMqHiQPklMwkF+gTo0CN0aHkPlBZrUZN/M7w3mpjpbm/rhNyq3jezBSy2+wcNOfdosCkOcEYDmua5Jd4a0GcxxXj6l6NczUioyrKK0ETtqO6nWW0jWULCAkW3ia/u0yMradBBiHUupc2HmOA/v4p15ksxXO4SbwJ2BboJnzwt6IEmtwjqrm5cvygeXw9/esFTQeSJpaQQgi9/6fwXegKflRwPpYJeAsAe14THKnpGfQj5VF6tk7Dj0viMuN1vaCEWHM=;k0pZ2NlvaJesINxHzu/ddw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-l
 webUrl: "https://petapixel.com/2021/02/09/alice-camera-brings-ai-and-deep-learning-to-a-full-size-camera/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: PetaPixel
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Work on Artificial Intelligence and Machine Learning Standards Begins"
+    excerpt: "Hoping to clear the path for the development of AI and machine learning standards, the Securing Artificial Intelligence Industry Specification Group has released a report highlighting the field’s predominant challenges."
+    publishedDateTime: 2021-02-12T23:53:00Z
+    webUrl: "https://www.automationworld.com/cybersecurity/article/21282958/work-on-artificial-intelligence-and-machine-learning-standards-begins"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 56
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/02/GettyImages_1202271610.6027149b4debe.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Alice camera draws on AI to reimagine photography"
     excerpt: "Camera technology has advanced at a staggering rate in the last two decades, with first digital, and then the smartphones transforming the way we take photos.  Check out The Alice Camera indiegogo campaign here."
     publishedDateTime: 2021-02-09T00:01:00Z

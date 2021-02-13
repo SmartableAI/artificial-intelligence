@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/"
 type: article
 quality: 107
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -33,17 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "JALA.ai As a Solution For Property Business Sales in 2021"
-    excerpt: "The Minister of Finance, Sri Mulyani, projected that economic growth in 2021 would grow by 4 to 5% in this explanation in the 2021 Indonesian Economic Outlook. One of the sectors pushed to achieve this target is the property sector."
-    publishedDateTime: 2021-02-08T07:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
   - title: "AWS signs deal with National Hockey League for cloud, AI and machine learning provision"
     excerpt: "National Hockey League to become the official cloud, artificial intelligence and machine learning infrastructure provider of the largest ice hockey league in North America. Under the deal, AWS will allow the NHL to automate video processing and content delivery in the cloud and leverage its Puck and Player Tracking System to better capture the details of gameplay for its fans,"
     publishedDateTime: 2021-02-11T11:09:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentim
 webUrl: "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/"
 type: article
 quality: 134
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Humana, IBM Watson Health team up to provide access to AI chatbot"
+    excerpt: "Through a new collaboration, Humana's Employer Group members will gain access to IBM Watson Health's AI-powered digital assistant. The chatbot will provide information on member benefits, claims, referrals and cost estimates for medical services."
+    publishedDateTime: 2021-02-12T23:45:00Z
+    webUrl: "https://medcitynews.com/2021/02/humana-ibm-watson-health-team-up-to-provide-access-to-ai-chatbot/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2020/01/GettyImages-1161976315.jpg"
+        width: 788
+        height: 443
         isCached: true
   - title: "Humana teams with IBM to offer Watson AI assistant for employer plan members"
     excerpt: "Humana is joining forces with IBM to deploy its Watson technology to assist members in better understanding their health benefits."

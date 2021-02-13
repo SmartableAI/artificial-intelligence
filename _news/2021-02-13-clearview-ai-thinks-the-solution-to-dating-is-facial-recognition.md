@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-fa
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp"
 type: article
 quality: 106
-heat: 266
+heat: 286
 published: true
 
 provider:
@@ -235,6 +235,17 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "Minneapolis City Council Votes To Ban Facial Recognition Technology"
+    excerpt: "Minneapolis City Council has approved a new ordinance which bans the city from buying or using data derived from facial recognition technology."
+    publishedDateTime: 2021-02-12T18:23:00Z
+    webUrl: "https://minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-votes-to-ban-facial-recognition-technology/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-votes-to-ban-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-votes-to-ban-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
   - title: "Clearview AI face biometrics patent filing suggests consumer application"
     excerpt: "The patent application proposes the use of its biometric facial recognition for the identification of individuals in a variety of private and public sectors."
     publishedDateTime: 2021-02-12T18:51:00Z
@@ -249,6 +260,20 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Minneapolis passes restrictive ban on facial recognition use by police, others"
+    excerpt: "The new ordinance follows months of lobbying by the POSTME (Public Oversight of Surveillance Technology and Military Equipment) coalition, which gathered thousands of signatures on petitions asking the City Council to address the issue."
+    publishedDateTime: 2021-02-13T00:17:00Z
+    webUrl: "https://www.startribune.com/minneapolis-passes-restrictive-ban-on-facial-recognition-use-by-police-others/600022551/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 35
+    images:
+      - url: "https://chorus.stimg.co/21098138/ctyp_Minneapolis_City_Hall_large.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IMY fines police for using Clearview AI for facial recognition in breach of Swedish Criminal Data Act"
     excerpt: "The Swedish Authority for Privacy Protection (IMY) said it is fining the Swedish Police Authority SEK 2.50 million for processing personal data in breach of the national Criminal Data Act when using Clearview AI to identify individuals."
     publishedDateTime: 2021-02-11T12:49:00Z
@@ -259,6 +284,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "2u9iC6GE3jY4gus3otBdfhPC0QVioLiZckcTRVdhIWtiIg5bX7aggKSDTYYeUOpBjI/zB0EO7eeyn/IBpC9BZEp9Myfx+I9B9Ve4qvMeAuY/hMzXhMhdruwX6hiKa8al16/ivNDiP50zV4FhgiBap0s7hkRJRCStzSCHVQEcnTpVA48yI4qQuo2WUOWUqlITmIKcboP/d1Fj2X+pRUcSn3igMNPGnNbIOcwpEvAax8Hg2wkxGfmV19t0t8u7OKNGAMilhvwOFCXLbQeVLv8jZ/WiSZ5VkMW+WbogByjapxoiZE50eJmMT/PBjtPqgahwWglalnixU2MXp+y3r0C3ilFJCiHxFuoSRf2VomTB9zo=;5jAzkJsZYqcOoHClY1XIfA=="
+secured: "S3czisW+VN+X9JlWOCC+YYexT4diAeCO1sqfKmKEuo/sbWQkI8B/1fKDzLAT08cUTvYJDEPWy4rywyC9mMmUmioLAJZZxzyj2VCPkZiLJ07iQ14c+rJLvVQ+DizlDiaxsKZAjYIjHmdVuyqt+mw45Xvb9D1X+staWBxuxndNgtOSQ7oNwsnB2/2/nSlEb9bbozHDAY+zzJEjn6yHHbN+j9zqamYstWG5P1GIfTus3Cel4U8czbebAR04rsyZpsJD/Itm4EuDfl+rGjzhdIqRLOPY6ESG+aUuileaWP44SGObjHEgjLgs0bfI4IMq3r4bTw1k1gh44ODzlLh179SgSUyaycs+BCEUFm7Y7pY2xx8hwo4IrTkTzJyqK7rwlErrPJMVMRZzUfnMB4CQyXLtx5cudoH867j7d35eMYSPZa7IpUHm4PnEGdSEX20lPHfD07Nb2bLY9KFUE198X97ZVD9ra2Oi/4+t+sDzw8b6ibeIuwaxZUwLBd+bIMsc8Bd+5yJ1FL2DAa8GkXVJEbeDMQ==;aw84d0A/e1U3GZQJcrTT9g=="
 ---
 

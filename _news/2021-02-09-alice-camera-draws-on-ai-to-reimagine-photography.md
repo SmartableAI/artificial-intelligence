@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Work on Artificial Intelligence and Machine Learning Standards Begins"
+    excerpt: "Hoping to clear the path for the development of AI and machine learning standards, the Securing Artificial Intelligence Industry Specification Group has released a report highlighting the field’s predominant challenges."
+    publishedDateTime: 2021-02-12T23:53:00Z
+    webUrl: "https://www.automationworld.com/cybersecurity/article/21282958/work-on-artificial-intelligence-and-machine-learning-standards-begins"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 56
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/02/GettyImages_1202271610.6027149b4debe.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "neeO81LP4xrr+Qxy9gLnq1WQBb5UaEDop8LjKMWmctBNLq5hV64PI3Ltb6Rl7zwBrPG3gTtHAFbGNVuogO9GzibaCcPZQYUlNUk3XQzLLDPRZrR7/ampS6AvsCjTXBReLwC9bWtsduag60AY5NlqwwIkFWBc9O6Dl2iJQifQRfPx/WU3pu1nflmvu4XaOOK2a3L3L2Hg6JwUMmQHbJR0GqDH64JAf38sqN8n7T7Y1J8eH4kEqBSvpUHluKnbRsu3CuCVNrLEIzvpKKZFEXGJeiZgra1YiUj+52AgpgU1gFuUpD/32GMiFJ6Qk116MJr6ad2sppK5Rn7ryno509Tyq9rgY7vKRXlqgU9k/xw6mQs=;RB6yJAMPXN3myX7tpmsYPg=="
 ---

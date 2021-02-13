@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "JALA.ai As a Solution For Property Business Sales in 2021"
-    excerpt: "The Minister of Finance, Sri Mulyani, projected that economic growth in 2021 would grow by 4 to 5% in this explanation in the 2021 Indonesian Economic Outlook. One of the sectors pushed to achieve this target is the property sector."
-    publishedDateTime: 2021-02-08T07:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/jala-ai-as-a-solution-for-property-business-sales-in-2021-1030053843"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
   - title: "Using AI and Machine Learning will increase in horti industry"
     excerpt: "The expectation is that in 2021, artificial intelligence and machine learning technologies will continue to become more mainstream. Businesses that haven’t traditionally viewed themselves"
     publishedDateTime: 2021-02-11T13:18:00Z
