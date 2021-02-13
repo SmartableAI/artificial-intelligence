@@ -203,29 +203,6 @@ related:
       name: Centreforaviation.com
       domain: centreforaviation.com
     quality: 19
-  - title: "Indy Airport Selected for Voice of Customer Honor"
-    excerpt: "The Indianapolis International Airport (IND) is among a select group of airports worldwide to be recently recognized with a Voice of the Customer honor, citing the Indy airport’s continued commitment and diligence in actively listening and responding to travelers’ needs during the global pandemic."
-    publishedDateTime: 2021-02-08T20:17:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21209308/indianapolis-airport-authority-indy-airport-selected-for-voice-of-customer-honor"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 19
-  - title: "Bangalore Kempegowda International achieves ACI ‘The Voice of the Customer’ recognition"
-    excerpt: "The airport has received global recognition for ensuring passengers’ requirements were assessed and implemented during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-08T20:39:00Z
-    webUrl: "https://www.moodiedavittreport.com/bangalore-kempegowda-international-achieves-aci-the-voice-of-the-customer-recognition/"
-    type: article
-    provider:
-      name: Herve Bouillonnec
-      domain: moodiedavittreport.com
-    quality: 16
-    images:
-      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
-        width: 280
-        height: 280
-        isCached: true
   - title: "ACI World Launches Voice of the Customer Recognition"
     excerpt: "World revealed those airports that have continued to prioritize listening and engaging with customers during the COVID-19 pandemic. \"The Voice of the Customer\" recognition is for airports that demonstrated significant efforts in gathering passenger feedback through the Airport Service Quality (ASQ) program to help them better understand their customers during the pandemic."
     publishedDateTime: 2021-02-08T21:16:00Z

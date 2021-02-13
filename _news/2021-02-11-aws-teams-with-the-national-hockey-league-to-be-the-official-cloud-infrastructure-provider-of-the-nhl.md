@@ -41,6 +41,22 @@ related:
         width: 2089
         height: 1183
         isCached: true
+  - title: "NHL reaches deal with AWS to put all video and data on the cloud"
+    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
+    publishedDateTime: 2021-02-11T19:44:00Z
+    webUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021"
+    ampWebUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true"
+    cdnAmpWebUrl: "https://www-foxsports-com.cdn.ampproject.org/c/s/www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true"
+    type: article
+    provider:
+      name: Fox Sports
+      domain: foxsports.com
+    quality: 59
+    images:
+      - url: "https://b.fssta.com/uploads/2021/02/pi-nhl-blues-justin-faulk-jake-walman-021021.jpg"
+        width: 2480
+        height: 1395
+        isCached: true
   - title: "AWS cloud infrastructure for NHL"
     excerpt: "Amazon Web Services (AWS), an Amazon company, has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intel"
     publishedDateTime: 2021-02-12T00:03:00Z

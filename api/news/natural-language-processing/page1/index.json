@@ -272,7 +272,7 @@
       "originalUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -509,19 +509,19 @@
     {
       "path": "_news/2021-02-05-rev-announces-new-languages-in-automated-speech-recognition.md",
       "title": "Rev Announces New Languages in Automated Speech Recognition",
-      "excerpt": "The world’s most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four new languages: French, German, Portuguese,",
+      "excerpt": "The world's most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/12/712f0cfb-9316-516f-8c16-14cee40223d6/602276e64b273.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -531,11 +531,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T06:32:00-08:00",
+      "publishedDateTime": "2021-02-05T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

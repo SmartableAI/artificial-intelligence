@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
-    excerpt: "Standardizing embedded AI driven chat functionality can acco"
-    publishedDateTime: 2021-02-08T19:48:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-08/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 44
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance ..."
     excerpt: "Market leaders including Zoom have been shifting towards standardized chat features to accommodate large-scale events. AI driven Chat functionality will integrate directly with existing offerings including Nextech’s Virtual Experience Platform and ‘ARoom’ streaming solution."
     publishedDateTime: 2021-02-09T05:30:00Z

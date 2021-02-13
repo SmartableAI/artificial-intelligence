@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-01-23-center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy.md",
+      "title": "Center for Applied Data Ethics suggests treating AI like a bureaucracy",
+      "excerpt": "A new research paper suggests AI practitioners adopt anthropology terms to assess large machine learning models that harm people.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/",
+      "originalUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ian-hutchinson-U8WfiRpsQ7Y-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/amp/",
+      "publishedDateTime": "2021-01-22T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-ban-on-facial-recognition-technology-by-minneapolis-police-advances.md",
       "title": "Ban on facial recognition technology by Minneapolis police advances",
       "excerpt": "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. A council committee advanced the measure Thursday which will go to the full council Feb.",
@@ -1112,49 +1164,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-new-google-union-condemns-investigation-of-ai-ethics-researcher.md",
-      "title": "New Google union condemns investigation of AI ethics researcher",
-      "excerpt": "A union of workers at Google and its parent company Alphabet is condemning Google's investigation of an AI ethics researcher.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
-      "originalUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202012/226/854081161001_6218250239001_6218243109001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
-      "publishedDateTime": "2021-01-21T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

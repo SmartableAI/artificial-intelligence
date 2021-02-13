@@ -34,7 +34,7 @@ related:
   - title: "AI is helping the healthcare industry adapt to the pandemic"
     excerpt: "Despite hesitancy, organizations are adopting AI to help them optimize their workload and diagnostics. Technology can help the industry in many ways, expert says."
     publishedDateTime: 2021-02-12T19:45:00Z
-    webUrl: "https://www.techrepublic.com/index.php/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
+    webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
     type: article
     provider:
       name: TechRepublic

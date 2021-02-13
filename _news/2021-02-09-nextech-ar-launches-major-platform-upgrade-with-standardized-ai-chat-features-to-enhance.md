@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-tec
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-coronavirus-pandemic-asia-0cbf0db2092498a17643fa93b1a0b91e"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nextech AR Launches Major Platform Upgrade with Standardized AI Chat Features to Enhance Virtual Experience Platform"
-    excerpt: "Standardizing embedded AI driven chat functionality can acco"
-    publishedDateTime: 2021-02-08T19:48:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-08/nextech-ar-launches-major-platform-upgrade-with-standardized-ai-chat-features-to-enhance-virtual-experience-platform"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 44
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Climate tech startup lands grant funding to launch AI platform"
     excerpt: "Dallas climate tech startup Skyven Technologies lands grant funding to launch industrial AI emissions-reduction platform"
     publishedDateTime: 2021-02-09T16:29:00Z

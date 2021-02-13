@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/forget-self-driving-carsthe-pentago
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 640
     isCached: true
 
-secured: "GloHORJpB/MvBbk8C0+ecHQ78MxLO+pnzyilkxXM1lCNcjxJXAQNYNNm2fsiTmAkhatKCSoD1bHlOFr8NK/BF2uWfZ50Yk3Rd+CQUnOs14URJh6FDD/Z2ZyUIesTDfIa6KMtZcs2KtYIQ6kX8yVK0hwtvoTaK5+uw4a0MG0+jQwA4hKI8d8OMe91vkuyTA0BIoFaYjH2FoU2QwxoonZeINbSGHgHb7R5zRRXErUEikc9Lekg0nipxg5SRiVZKV4uv5l1+IeKu1SQeH4XgCmcLP6Sp6keiuRIDoKqGRpCwmaKMykpuAg23x6iIVcWW/JucEH2Y+fcfQTjPdR3ZzRZEn9aRdg/K5AWq838zamaiII=;Na0Dv/lmZdBALLZPzE8J3w=="
+related:
+  - title: "Forget self-driving cars — the Pentagon wants autonomous ships, choppers and jets"
+    excerpt: "Defense moves are outpacing commercial automation efforts in the air, on the ground and beneath the waves as officials seek to counter American adversaries' technological advances."
+    publishedDateTime: 2021-02-13T11:54:00Z
+    webUrl: "https://www.foxbusiness.com/technology/forget-self-driving-cars-the-pentagon-wants-autonomous-ships-choppers-and-jets"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 19
+    images:
+      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/16BFT000038_005_KC46_AV8_MedRes.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "mfe6YyAsJjQOO91nOsyH5DIb4ndmK1Zi2tUItALSPdimbNvF2y4luzHzwoE9iNd+PLSJTdkwdsLYiJBS6viZFUw/1/AtMH7t7qJiDT+RonfI7nAGkxJKuYitKG0i5zP2dhsXD50FJOMAhsLF6q8LhwXNVZgAY4cloyXihrWumzJnV7y0he1YpHJTpYd/r+ChPBBauihqIbOEVkXSuGyWlfNZGHZmz95GuTiA+9j8PvJoHkHBzEvBJEZteFXnyJuCohL0pp8XayN3dR5L8a5NQ878QuwEkjQuxC4pvusJAuRRUlRYXcG4CeRY5DNOemjET09AHt6q4qAnSwD44ZvAivkzeaf80VZIlY/BjU1DMgxCnfL0O1KJ2wqBNHv1i9ENBG90zZTdyHQ200guZYMEmXo6hj1ItGcDB7O9NXIBz9RBCTkUjhDZm088ON/LQCOFBbJQth6li4+gtSDyyN0xGkCdY6oOqXoYGaOph2reY7TkVwlodST/Pm/N+h7DUbJC/1dK+zYsRpkxCJidb7mQNg==;MP1vOGPmkT0JKOBfO1tDhg=="
 ---
 

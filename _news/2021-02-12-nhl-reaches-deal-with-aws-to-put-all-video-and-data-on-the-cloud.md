@@ -1,22 +1,30 @@
 ---
 category: news
-title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National"
-publishedDateTime: 2021-02-11T19:09:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210210005858/en/AWS-Teams-with-the-National-Hockey-League-to-be-the-Official-Cloud-Infrastructure-Provider-of-the-NHL"
-webUrl: "https://www.businesswire.com/news/home/20210210005858/en/AWS-Teams-with-the-National-Hockey-League-to-be-the-Official-Cloud-Infrastructure-Provider-of-the-NHL"
+title: "NHL reaches deal with AWS to put all video and data on the cloud"
+excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
+publishedDateTime: 2021-02-11T19:44:00Z
+originalUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021"
+webUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021"
+ampWebUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true"
+cdnAmpWebUrl: "https://www-foxsports-com.cdn.ampproject.org/c/s/www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true"
 type: article
-quality: 4
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Fox Sports
+  domain: foxsports.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://b.fssta.com/uploads/2021/02/pi-nhl-blues-justin-faulk-jake-walman-021021.jpg"
+    width: 2480
+    height: 1395
+    isCached: true
 
 related:
   - title: "AWS and NHL partner to turn game data into new ways of experiencing hockey"
@@ -34,22 +42,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2021/02/11/e12be20c-fc14-4f39-a5c7-2b6bd2de23c1/nhl-aws.jpg"
         width: 2089
         height: 1183
-        isCached: true
-  - title: "NHL reaches deal with AWS to put all video and data on the cloud"
-    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
-    publishedDateTime: 2021-02-11T19:44:00Z
-    webUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021"
-    ampWebUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true"
-    cdnAmpWebUrl: "https://www-foxsports-com.cdn.ampproject.org/c/s/www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true"
-    type: article
-    provider:
-      name: Fox Sports
-      domain: foxsports.com
-    quality: 59
-    images:
-      - url: "https://b.fssta.com/uploads/2021/02/pi-nhl-blues-justin-faulk-jake-walman-021021.jpg"
-        width: 2480
-        height: 1395
         isCached: true
   - title: "AWS cloud infrastructure for NHL"
     excerpt: "Amazon Web Services (AWS), an Amazon company, has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intel"
@@ -102,7 +94,16 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National"
+    publishedDateTime: 2021-02-11T19:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210210005858/en/AWS-Teams-with-the-National-Hockey-League-to-be-the-Official-Cloud-Infrastructure-Provider-of-the-NHL"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
-secured: "yUOFHKkRzFQHWm/hSg7qdGcP2EJR/rG78BpryS95lpyATziEDXJHeSgvTksTvqNByR7cEvfBdYwN3TtUozndydU+IZ7N9SDYqslP1rjldQgHBxaVeDA8nSDS/GxuM8jMIYeiVBEs7rNJwN9VMK85lnbChXEH8EfZItQ6c5ujpl8TkMGlf01Gv3BSQLIvhB8WKgDaU45foeJJUV8Y5S4uaR3Km1XEZdSTHah5umehm0qMNxo3Q7HQ58G0z9OpT3u5f+2xgmrNKbrpuA1Nr1iwwwbCvkSrPBX5E7e2v8SVbAjO4L9s215mNxnqwrMp8Wry+Sqzs4ovlnLhEKVox1aCH5OBwxYOSntlxnwU6mKMZW4=;3hMXlQh0ZpCU9edz6lyTSw=="
+secured: "Nf0CXlcqKGkcYkjDsLltk+enOpV2Pad9xO8GJZWBxkZUmuj19iMqxwi2i/PXW4V3l0W3AoraCtgNWd+BTW7lXsrIMNl2/m2WHwPuYmDwdYo92z6P/j0hyJvzWwm5omFVvjdPq8YoPi8z1efT2CnTWNQi6HxaQA8Oq+NJIWwvnH4V/ituSE8EZT5FJ5v85lHIovQsIb+6rdedsS5Uef3xV9RrcCd3JDM8MQlCjseSHjI/aHRGtci9+m3SdUF4dHP1cKlwHD2AdTE1G4ojmfk46o0rSLlXxSwOP9oae7onvF/OZkeQLG4qu5OcRXlOxqEv3zFDEzW/t04auZ2u9u54S01fMGsWJthNvQFiliU1HDc=;R4H2zeBTTv/2cTeg426j2A=="
 ---
 

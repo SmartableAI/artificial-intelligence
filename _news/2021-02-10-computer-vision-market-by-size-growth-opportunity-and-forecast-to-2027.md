@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-b
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10"
 type: article
 quality: 68
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -98,20 +98,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Commercial Robotics Market Size, Share, Growth, Trends Analysis & Industry Forecast Report, 2020-2027"
-    excerpt: "The GMI Research expects the commercial robotics market to expand at a significant rate. From a regional perspective, the Asia-Pacific is expected to increase at a higher CAGR due to the strong demand"
-    publishedDateTime: 2021-02-08T20:37:00Z
-    webUrl: "https://menafn.com/1101563643/Commercial-Robotics-Market-Size-Share-Growth-Trends-Analysis-Industry-Forecast-Report-2020-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?180835"
-        width: 475
-        height: 250
         isCached: true
   - title: "Speech and Voice Recognition Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
     excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."

@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-11-global-machine-learning-as-a-service-mlaas-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025.md",
+      "title": "Global Machine Learning as a Service (MLaaS) Market 2020 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2025",
+      "excerpt": "MarketsandResearch.biz proclaims the addition of a new report titled Global Machine Learning as a Service (MLaaS) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers broad insights extracted by thoroughly analyzing historical and current developments in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025-2021-02-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025-2021-02-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml.md",
+      "title": "SuperAnnotate, a computer vision platform, partners with with open-source to spread visual ML",
+      "excerpt": "SuperAnnotate, a NoCode computer vision platform, is partnering with OpenCV, a non-profit organization that has built a large collection of open-source computer vision algorithms. The move means startups and entrepreneurs will be able to build their own AI models and allow cameras to detect",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/11/superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml/",
+      "originalUrl": "https://techcrunch.com/2021/02/11/superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Editor.png?w=958",
+          "width": 958,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/11/superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/11/superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml/amp/",
+      "publishedDateTime": "2021-02-11T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey.md",
       "title": "AWS and NHL partner to turn game data into new ways of experiencing hockey",
       "excerpt": "Soon-to-be Amazon CEO Andy Jassy has touted the partnership will bring an entirely new perspective and layer of fan involvement to the game of hockey.",
@@ -10,7 +115,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1151,110 +1256,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027.md",
-      "title": "Computer Vision Market by Size, Growth, Opportunity and Forecast to 2027",
-      "excerpt": "Selbyville, Delaware Global Computer Vision Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Computer Vision Market Report also covers top key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-mizuho-predicts-how-much-self-driving-cars-should-add-to-baidus-share-price.md",
-      "title": "Mizuho predicts how much self-driving cars should add to Baidu's share price",
-      "excerpt": "Shares of Chinese technology company Baidu are at an all-time high and could climb further ... The country has ambitious plans to build transportation systems that support self-driving vehicles in 30 domestic markets, Lee told CNBC's \"Squawk Box Asia ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/02/10/mizuho-predicts-how-much-self-driving-cars-could-boost-baidu-stock.html",
-      "originalUrl": "https://www.cnbc.com/2021/02/10/mizuho-predicts-how-much-self-driving-cars-could-boost-baidu-stock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106838180-1612928153790-gettyimages-1229059158-The_Baidu_robo-taxis_invite_citizens_to_take_for_free_in_BeijingChina_on_13th_October_2020.jpeg?v=1612927909",
-          "width": 3100,
-          "height": 1884,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T21:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

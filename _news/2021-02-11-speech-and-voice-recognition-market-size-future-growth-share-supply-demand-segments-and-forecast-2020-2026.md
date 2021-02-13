@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Commercial Robotics Market Size, Share, Growth, Trends Analysis & Industry Forecast Report, 2020-2027"
-    excerpt: "The GMI Research expects the commercial robotics market to expand at a significant rate. From a regional perspective, the Asia-Pacific is expected to increase at a higher CAGR due to the strong demand"
-    publishedDateTime: 2021-02-08T20:37:00Z
-    webUrl: "https://menafn.com/1101563643/Commercial-Robotics-Market-Size-Share-Growth-Trends-Analysis-Industry-Forecast-Report-2020-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?180835"
-        width: 475
-        height: 250
-        isCached: true
   - title: "IoT Chip Market Market Size, High Demand, Recent Trends, Future Growth, Business Scenario, Product, Technology, Share and Forecasts 2020 – 2027"
     excerpt: "The global Internet of Things (IoT) chip market reached a valuation of USD 11.37 Billion in 2020 and is expected to reach a market size of USD 34.74 Billion by 2028, registering a CAGR of 14.9% in terms of revenue growth during the forecast period,"
     publishedDateTime: 2021-02-11T01:23:00Z

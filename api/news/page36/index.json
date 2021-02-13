@@ -2,6 +2,50 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-01-19-machine-learning-101-part-3.md",
+      "title": "Machine Learning 101: Part 3",
+      "excerpt": "“ML.NET has been designed as an extensible platform. Therefore you can consume other popular ML frameworks (TensorFlow, ONNX, Infer.NET, and more)”, the documentation says and this is how ML.NET is stepping into the Deep Learning world. ML.NET is not ...",
+      "sourceUrl": null,
+      "webUrl": "https://jaxenter.com/machine-learning-101-part-3-173524.html",
+      "originalUrl": "https://jaxenter.com/machine-learning-101-part-3-173524.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/11/shutterstock_1740253916.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-tensorflow-24-release-includes-cuda-11-support-and-api-updates.md",
       "title": "TensorFlow 2.4 Release Includes CUDA 11 Support and API Updates",
       "excerpt": "The TensorFlow project announced the release of version 2.4.0 of the deep-learning framework, featuring support for CUDA 11 and NVIDIA's Ampere GPU architecture, as well as new strategies and ...",
@@ -1075,58 +1119,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025.md",
-      "title": "Global Edge Artificial Intelligence (AI) Chip Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2025",
-      "excerpt": "Jan 18, 2021 (CDN Newswire via Comtex) -- Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Type and Application, Forecast to 2025 offers end to end industry from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18?dist=bigcharts&tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18?dist=bigcharts&tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

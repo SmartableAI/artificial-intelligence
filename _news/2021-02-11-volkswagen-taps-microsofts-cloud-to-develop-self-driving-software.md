@@ -3,12 +3,10 @@ category: news
 title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
 excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
 publishedDateTime: 2021-02-11T13:58:00Z
-originalUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
-webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+originalUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
 type: article
-quality: 91
+quality: 71
 heat: -1
 published: false
 
@@ -26,9 +24,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
-    width: 877
-    height: 545
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
+    width: 800
+    height: 496
     isCached: true
 
 related:
@@ -278,6 +276,6 @@ related:
         height: 419
         isCached: true
 
-secured: "21za+oURqIcmqH8UUmpUz7luoSFN/tqyNw1HUPqq5MulGJMlZ3GE0M5WFMGW/4YMmmovOMmSQCPPw2/+QD8/og7Mr/kYSz1L3PFdpUZBgPoA/jQLsXFhLYQ9MXI4uLQFPlpRfuOgds9Qb3BZuPLexXRuSOCvQ/vKuxDTlNW/J6RB0yG0HKeRBtLINZ5NcSFo7he23LDvwhTH5bKBecqbeN0sp6nGQfoRRObQedtOwM0y/txI9f/Gfs4z0PPy6YGNa6+ALbj3HtkWHI8qDCuH5EF0sB5ighPHHQ7PZM1TOOx8Qz+tqjFsYI/yW7NqEb3a+xsa83+WHjnjC2cOO5WTcUnCB2oxhmQGM7r/WR+RHV4=;Fp5d1lymxxBQ0df716O2zw=="
+secured: "FKe9amYlNXfP7H1S784sVE+RFPUGC8p71oCi8U3IulNLGXonkAhY/fK4CcrjQxYQBSlyPAcQVyGz40OnaLHyDSmvplQbG3Z9znptS/8k2ZX0dpdTcZaTwBnrXi3RB/ESEN83IYD4teGtsoyYuysHmEhhjaw95uI4UdVTsK8QJ8T/hekeRkOUgffhnPQ+wVgpYCH16BtP4xD+gZ9i9P/2qKrQMPsJ5R7ZKampZsWv57y3Anpcagk47SYX1bFbgGpzAlY58mJYzURHbB3HVXTT6stsKZ5p0TYu2UH9wYtfn/9nVzfKygkv9U9nsbpDO5LPDmU/usTgUbtLTvLtJAEmhRdhPAxF0XHAXsR56pzCe90=;TrD0Vvkrl2VkR+eiPc8Rsw=="
 ---
 

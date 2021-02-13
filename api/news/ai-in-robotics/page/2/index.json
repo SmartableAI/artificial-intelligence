@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-02-sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence.md",
-      "title": "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
-      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence.",
+      "path": "_news/2021-02-02-women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek.md",
+      "title": "Women in Robotics Update: Andra Keay, Nguyen Sao Mai and Selin Alara Örnek",
+      "excerpt": "Here’s a Women in Robotics Spotlight, where we share stories from women who are working on all sorts of interesting projects who haven’t yet been featured in our Annual Showcase. We hope these stories provide inspiration to everyone to join us working in the field of robotics.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
+      "webUrl": "https://robohub.org/women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek/",
+      "originalUrl": "https://robohub.org/women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://robohub.org/wp-content/uploads/2021/02/WIR-Update-15_10-for-Robohub-2-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T17:18:00-08:00",
+      "publishedDateTime": "2021-02-01T18:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Robohub",
+        "domain": "robohub.org",
         "images": null,
         "publishers": null,
         "authors": null

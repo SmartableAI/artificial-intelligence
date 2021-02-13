@@ -203,29 +203,6 @@ related:
       name: Centreforaviation.com
       domain: centreforaviation.com
     quality: 19
-  - title: "Indy Airport Selected for Voice of Customer Honor"
-    excerpt: "The Indianapolis International Airport (IND) is among a select group of airports worldwide to be recently recognized with a Voice of the Customer honor, citing the Indy airport’s continued commitment and diligence in actively listening and responding to travelers’ needs during the global pandemic."
-    publishedDateTime: 2021-02-08T20:17:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21209308/indianapolis-airport-authority-indy-airport-selected-for-voice-of-customer-honor"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 19
-  - title: "Bangalore Kempegowda International achieves ACI ‘The Voice of the Customer’ recognition"
-    excerpt: "The airport has received global recognition for ensuring passengers’ requirements were assessed and implemented during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-08T20:39:00Z
-    webUrl: "https://www.moodiedavittreport.com/bangalore-kempegowda-international-achieves-aci-the-voice-of-the-customer-recognition/"
-    type: article
-    provider:
-      name: Herve Bouillonnec
-      domain: moodiedavittreport.com
-    quality: 16
-    images:
-      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
-        width: 280
-        height: 280
-        isCached: true
   - title: "Mumbai, Delhi and Hyderabad airports receive 'Voice of the Customer' Recognition from ACI World"
     excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."
     publishedDateTime: 2021-02-10T05:48:00Z

@@ -75,22 +75,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
-    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 91
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
-        width: 877
-        height: 545
-        isCached: true
   - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
     excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
     publishedDateTime: 2021-02-11T16:17:00Z
@@ -144,6 +128,20 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/09/microsoft-connected-vehicle-platform.jpg"
         width: 1279
         height: 720
+        isCached: true
+  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
+    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
+    publishedDateTime: 2021-02-11T13:58:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 71
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
+        width: 800
+        height: 496
         isCached: true
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
@@ -273,6 +271,6 @@ related:
         height: 419
         isCached: true
 
-secured: "XxZ1O9PLXLczjSm/67WQtA/1gqQzlBaUXtOFC3X5IJxIh76JYiYPLlTl9BciGRKXpfOkomypEEWHudhHv+Z6phVTF1l/+nral23vx1X4IdCewnMfneK86x/hj7sX4KPJMDEvIoyv1HvziZ8JLMAK1i9EK+ScCMdTDbpfDUe2h/BQ31ostOHSrk9GorzFWvQ2fdTt8y4PaLgCTpAC2/oOxfAgkZclRPhnm5jIFYue4tcE8eoGcWXcm1yze+lMiQ8eTAITMOjz0VpCPcWq0KelmUtB+wZ6cm1jbkeoq7VjhAD6HVF5mDjSmWr+82S4zYMxGPpiTtq5aFOz4CmFHmQVMpTVEXDsZ1U/zRRyos5AwP0=;AO1jdZ773bV7YyJCiKphVg=="
+secured: "q2/hEWsGX3ILkuPr4z/B4iIaP9rSnZSJ15gQPlIZ0ltCx+u5AwsJ5ylNHw6o+Ue59FkKV6vhLScxEx1ULbDbL9GuS+SyXcBLD1nxXgOTqtqRgI0oAD6cmsVkA+rka1MpOS2FfD5dTyjBWyrkWlHRsQjy607wkQMxtjbSR129UiuxMOmDGYXKo2Tw+GiMXoGd5ajsaZE3mAldhNsYuanq5jrI3enGnYVqs0mGeiD7FDgJC5LSKjPJHW2Wk8YyEvwL/txsS4DbuWNhfS1Tfw8osjnIbzZQocKI1fnjDyYn92Yv1CGtAFmJbcO/xOSLb7NhznJkLTepbdB8sdtF64FnE5CMiqiUUP/omU+txJZuRCr/SbOum8X8zGmlYyZQdNcxIq+MD1N1izuVDyFtoykOtfoAtLc93yJBUxw7Pv/u2SCfUVYZ+DSCG6Zm1wZWHPFgEaTDZ9MwaGVUGtlxLXZxOV6Gn1ijQVQAuk4WEkwuf4dHLlxon275rXo6bB4eBpm6j69rYxXUfFqZHwbtQe7KsQ==;6nuueDepfGpRI/3RdVDu+Q=="
 ---
 

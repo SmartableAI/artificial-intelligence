@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-08-mind-written-couplets-add-technology-to-chinas-cny.md",
+      "title": "'Mind-written' couplets add technology to China's CNY",
+      "excerpt": "The auspicious characters are calligraphed by a robot arm controlled by the researchers' minds.. Read more at straitstimes.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-technology-to-chinas-spring-festival-celebrations",
+      "originalUrl": "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-technology-to-chinas-spring-festival-celebrations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_mindwritten_080221.jpg?itok=C-QLeXjs",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T19:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california.md",
       "title": "Vietnam's Vinfast Gets Permit to Test Self-Driving Vehicles in California",
       "excerpt": "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California. Vinfast, a unit of Vietnam's largest conglomerate Vingroup JSC,",
@@ -1065,49 +1108,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-rev-announces-new-languages-in-automated-speech-recognition.md",
-      "title": "Rev Announces New Languages in Automated Speech Recognition",
-      "excerpt": "The world’s most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four new languages: French, German, Portuguese,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-05-first-trusts-robt-etf-a-hidden-gem-for-the-rise-of-robotics.md",
       "title": "First Trust’s ROBT ETF: A Hidden Gem for the Rise of Robotics",
       "excerpt": "Enter exchange traded funds like the First Trust Nasdaq Artificial Intelligence and Robotics ETF (NasdaqGM: ROBT). ROBT follows the Nasdaq CTA Artificial Intelligence and Robotics Index. ROBT provides exposure to target companies engaged in the artificial intelligence and robotics segments of the technology,",
@@ -1142,21 +1142,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space.md",
-      "title": "Robot Motherships To Launch Drone Swarms From Sea, Underwater, Air And Near-Space",
-      "excerpt": "Metal Shark's unmanned vessel is just one of a series of new launch platforms able to deliver swarms of attack drones -- swarm-equipped boats, unmanned submarines, unmanned jets and stratospheric balloons are all on the way.",
+      "path": "_news/2021-02-05-rev-announces-new-languages-in-automated-speech-recognition.md",
+      "title": "Rev Announces New Languages in Automated Speech Recognition",
+      "excerpt": "The world's most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d471a948dfd8ec26c348b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/12/712f0cfb-9316-516f-8c16-14cee40223d6/602276e64b273.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1164,23 +1164,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
-      "publishedDateTime": "2021-02-05T05:36:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1189,7 +1180,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Natural Language Processing",
         "AI"
       ]
     }

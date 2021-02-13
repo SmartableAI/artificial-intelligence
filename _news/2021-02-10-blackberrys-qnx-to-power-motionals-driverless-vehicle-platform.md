@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 810
         isCached: true
-  - title: "Self-driving car for testing Technology Parkway"
-    excerpt: "Self-driving car for testing Technology Parkway Any technology tested in the vehicle still requires a driver behind the wheel, said"
-    publishedDateTime: 2021-02-08T20:18:00Z
-    webUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/self-driving-car-for-testing-technology-parkway/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 44
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving cars are among us but drivers beware"
     excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
     publishedDateTime: 2021-02-12T01:37:00Z
