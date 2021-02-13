@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Palantir Soars on Artificial Intelligence Partnership With IBM"
-    excerpt: "IBM was up nearly 1% to $122.95. The product is intended to make it easier for businesses to build and deploy AI-infused applications with IBM Watson. It also aims to help users access, analyze, and take action on the large amounts of data in hybrid cloud environments without the need for deep technical skills,"
-    publishedDateTime: 2021-02-08T18:41:00Z
-    webUrl: "https://www.thestreet.com/investing/palantir-pltr-ibm-artificial-intelligence-partnership"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/palantir-pltr-ibm-artificial-intelligence-partnership"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/palantir-pltr-ibm-artificial-intelligence-partnership"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 61
-    images:
-      - url: "https://content.jwplatform.com/thumbs/iyF3evbu-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "IBM and Palantir introduce new hybrid cloud and low-code AI solution"
     excerpt: "IBM and Palantir announced their new partnership. The two companies jointly start Palantir for IBM Cloud Pak for Data. A new hybrid cloud solution that enables organizations to develop artificial intelligence with little code (with minimal coding)."
     publishedDateTime: 2021-02-10T23:41:00Z
@@ -123,7 +107,7 @@ related:
   - title: "IBM partners with Palantir on low-code AI applications"
     excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
     publishedDateTime: 2021-02-09T01:02:00Z
-    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+    webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
     type: article
     provider:
       name: SiliconANGLE

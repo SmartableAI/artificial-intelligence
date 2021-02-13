@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210208/Machine-learning-can-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-82403-0/MediaObjects/41598_2021_82403_Fig3_HTML.png"
         width: 685
         height: 551
-        isCached: true
-  - title: "Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality"
-    excerpt: "A deep learning model trained on raw pixel data in hundreds of thousands of echocardiographic videos for the prediction of one-year all-cause mortality outperforms clinical scores and improves predictions by cardiologists."
-    publishedDateTime: 2021-02-08T17:38:00Z
-    webUrl: "https://www.nature.com/articles/s41551-020-00667-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 8
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-020-00667-9/MediaObjects/41551_2020_667_Fig1_HTML.png"
-        width: 505
-        height: 685
         isCached: true
 
 secured: "Hz43gGbXYT0gHEk+vx3swgA3DqebcSd3CX8cppkJoW8pGRNLz7z8VZSHw08mh8JyOdG32XM64lion8UHrcBavbL4gYEZsPhV0/0jEJe6u3YeXM9pL3LgiAnkfZel8bkKoqCUCocdLwB8Ozko8hTWmq1YGuAbvL9cOJCZw7wG5O8EAeMAsur011m64Cng6+IwGFgIyv6/vmHY0wXIsZIOM0oqq2qevOCNDuadXmtf3oPtR0uU4/novT5Ufv3Ur1lyg8GIMd6hw0VL1q9dqu/7jVCvTB03NP0xgAUG0ocZZR+mr08AAuBmhd4iiDkQrc0KmZ987Dre2mpUcdisMSBPLYXPDLJA1MCpRA4grKrV+Os=;avz0/CgXygIwMDZ8ESOAZg=="

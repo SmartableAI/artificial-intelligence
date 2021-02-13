@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202102/bias-allegations-against-fa
 webUrl: "https://www.biometricupdate.com/202102/bias-allegations-against-facial-recognition-prompt-legal-challenge-threat"
 type: article
 quality: 52
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Biometric Companies
@@ -38,20 +38,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
         width: 730
         height: 499
-        isCached: true
-  - title: "Tech Can Flag Distracted Jurors. But Will Courtrooms Allow Facial Recognition?"
-    excerpt: "Maintaining jurors' undivided attention during in-person trials can be tricky in a virtual environment. But where legal tech companies see an opportunity, judges may see an unneeded solution."
-    publishedDateTime: 2021-02-08T17:11:00Z
-    webUrl: "https://www.law.com/legaltechnews/2021/02/08/tech-can-flag-distracted-jurors-but-will-courtrooms-allow-facial-recognition/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 35
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/02/Virtual-Trial-Article-202102051607.jpg"
-        width: 620
-        height: 372
         isCached: true
 
 secured: "nQghFS17LVtWvdV30LQ2kt708a2CgeZG8VXCIBh5QVSQnHWt4Emqc0KFVP+rYWm0qmf7GSBhPqq2JUmvxCiVHl+E5HlxQny/jfP6XcE1pJ0S51RKACjbUZqAJ4fYuxk2VFc20ohKZfQ7rJZuvpspl+ST055c0mu1FF4I8aHBXpGbUqVAAQnoSsdG7iH+Xt9cLA7YtHNIFT+ZtUajjYT0QtEieQk+d5AHMGJOgvelS5gL6ZUBVuntUBepp1hC4I5o0FlesSN7Arry8Ytman/49LOo9b/sDK+5+4M6tSedhLrVrhZjdP+Y/vHckhYffhJhU0PNn073mQZna+8XzhIvIJETiTU5frMsQ6YpaUZM6ffIYzFFQshiTn2danJJwiJnoBCPPrc+7ANPUK8PnP7/zEW0uqhh/CFy4gkSJE4bjN7VJMcW/NJEyyTReLFaHeYOfUffeWrT5N7vc1SGVEM1nQdyDCXbb9clFYicA95er65TXDQfIKEm85muWm2pfekEC5bk9+hni0pT6wjK5CxKFw==;bmlwFKHSxg8LhpUyTUVEHA=="

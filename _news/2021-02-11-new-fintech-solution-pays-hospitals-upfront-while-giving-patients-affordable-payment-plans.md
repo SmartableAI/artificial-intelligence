@@ -2,27 +2,27 @@
 category: news
 title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
 excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
-publishedDateTime: 2021-02-11T13:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
+publishedDateTime: 2021-02-11T07:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210211dc76695/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210211dc76695/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans"
 type: article
-quality: 44
-heat: 44
+quality: 14
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1436806/payzen_Logo.jpg"
+    width: 400
+    height: 300
+    isCached: true
 
 related:
   - title: "FinTech PayZen Nets $5 Million For Hospital Payment Platform"
@@ -56,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "8eN3ZAazxD7mr11WUxSg4IYrMxeEa9LoQ/Lwoz/+bpQ/PD21mFB4hhfnmlUwEWdU7ilKm3CizeDZ/kwYAtdLlvRlAFuyCs/9oaMZ61+sjAxEeGYEGVt0tSByIyncrklcGCkhTdTLU5JdyUx0WFAq0SBYzN3yVZ2VwCBvNvp4zVylXuvEdcptczM1WK2iHh+L0YLpofWaDJ7B+5V4K5a+r6McirW8IU9m8JnzgmRcBsWHSL+HL/257ZMUdVnBVtlg+LAsgTHJWma18hpiBYxTavmYN2VIOUP6G7swEf0W1GN4s2zD0a5k4auLPkrRCsVMMnR+CXV/tQnEJmEWsuKkFXrETzj3lTZ5zoDK0R1Zvr4=;mSTrTiAX0qgCK58DhXr2Xw=="
+secured: "NTYx28sQtvZsjtFxaX5uuGRbwCmB4Z2tp60Tbba+eSpDUfo4SZ7FSAMDgRJPdFcSIjNipmA0/nnCZgOe+6y3ctiTNicr0unF2OrC8mPxg2O/QvyTPZyn37uJ9d2bLzO3V8KxyBE1HFeN5GyYI4DhzI7ltk+6h3FpaJJF6HsG+hEFkRzHA1dyqjgi2Hm4PeGG8l7lNxsXdmFzVdz83+WtMUgalAmM10rOf4WKvBs2eZZpe0+UiinB3279jq+I7YYA34RYePbHUxmpRpUUnC7xRGaUQH7oFe7k+48gfXisUeWsu90YbMhX4gf8+D4JEQInGKBbQ1ytknpoJtrqsihztXHhj4NtLuF0RKc2w/uHT5A=;yVv3k99GHp37/vG2v3KBHA=="
 ---
 

@@ -78,9 +78,9 @@ related:
   - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
     excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
     publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
+    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
     type: article
     provider:
       name: Reuters
@@ -144,6 +144,22 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/09/microsoft-connected-vehicle-platform.jpg"
         width: 1279
         height: 720
+        isCached: true
+  - title: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2"
+    excerpt: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2 . Cloud computing and artificial intelligence"
+    publishedDateTime: 2021-02-13T09:48:00Z
+    webUrl: "https://www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 65
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/HPE-and-Microsoft-launch-AI-capabilities-to-the-space-station.jpg"
+        width: 799
+        height: 533
         isCached: true
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."

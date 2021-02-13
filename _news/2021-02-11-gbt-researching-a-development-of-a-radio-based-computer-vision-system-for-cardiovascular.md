@@ -3,8 +3,8 @@ category: news
 title: "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ..."
 excerpt: "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications."
 publishedDateTime: 2021-02-11T11:20:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9"
 type: article
 quality: 28
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 792
         isCached: true
 
-secured: "5fij/2jnTkQFFdV30waAjqrEJ2j/QI1BqstZ/d3S4l4DdEERjh2rNKyt+A3TY4o11+BfDwnFXtn2KlAqSgWcK9caaaFOYSqly77/Eu0cz6kkPwJ2EuIRZcAKjMrNJJdL2MKSTQ0lwcU5uimy72EkBIZyZZJSdcBEb2gAYQQjwFYKkTIllY1XVgkisedRR5kFQICPACoeG6djkNNzM4GpixVllfeze4+ZUtyROrdjAfZAn3n9tG49WfLt6duS6eOeTseaCKzBa0pyLeur2roo6rnPgJjSJURs5Vv+KIaHhcSid8vn3awDkuk8g1xOAZ1AWseVixEd+NixlboYU/n/ohefBXB3GwvimAcrP7K7phI=;yS0k2dDw7BWVErOsc/DI7A=="
+secured: "BSUavFT11aRQzA8zJe3BdUw/Ebb/jKx/Hlk3uBPdK4mH9iIvIPz6lvQnNSh2GWK3AhvIvSrMZ+/JraitVT5p5o5aCzdQr3/oZbG3OVh0IpRDVNPKb9roYuMaOug6FWWnD3G2x/ItoqewABArF58rSDuzn0lHhc2+WdH7u8tuox/bVJj8nhNZOrESSdFO1mHsjHiQA716RnzF/7ytQN97zUiE+0VHbvMFa6UiwB7owiEsK7P1u/PAXUWzmgsEGzNIlzlqZZmvcvfzhpeTsn+7dVD3cpVAfiPW0QHG3X2QBiN/6tCqV2AW9+u3xcwFrcQoYNH4AsUsbbKRfWaTFSsuKljNpB99pUGsqLF2cUEN1+Y=;qX5VwFcSCw0Mrm2DDfGQAA=="
 ---
 

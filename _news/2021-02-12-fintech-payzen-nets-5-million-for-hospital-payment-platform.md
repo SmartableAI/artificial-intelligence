@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/healthcare/2021/payzen-nets-5m-funding-for-ho
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/payzen-nets-5m-funding-for-hospital-payment-platform/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -29,15 +29,18 @@ images:
 related:
   - title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
     excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
-    publishedDateTime: 2021-02-11T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans-1030072502"
+    publishedDateTime: 2021-02-11T07:00:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210211dc76695/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 14
+    images:
+      - url: "https://mma.prnewswire.com/media/1436806/payzen_Logo.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
     excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
     publishedDateTime: 2021-02-12T05:55:00Z

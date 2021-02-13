@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-12-these-2-stock-market-ev-and-self-driving-favorites-soared-today.md",
+      "title": "These 2 Stock Market EV and Self-Driving Favorites Soared Today",
+      "excerpt": "Wall Street had another topsy-turvy day on Thursday, with major market benchmarks staying relatively close to the unchanged mark. The Dow Jones Industrial Average ( DJINDICES:^DJI) wasn't able to poke its way back into positive territory after a midday swoon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
+      "originalUrl": "https://www.fool.com/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F613003%2Fcar-dashboard-gettyimages-638880710.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
+      "publishedDateTime": "2021-02-11T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-cbp-facial-recognition-scanners-failed-to-find-a-single-imposter-at-airports-in-2020.md",
       "title": "CBP Facial Recognition Scanners Failed to Find a Single Imposter At Airports in 2020",
       "excerpt": "Customs and Border Protection used facial recognition tools to scan over 23 million travelers’ faces at 30-plus points of entry in 2020, and failed to turn up a single example of an individual impersonating someone else at an airport,",
@@ -950,7 +1002,7 @@
       "originalUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 270,
       "tags": null,
       "images": [
         {
@@ -1201,58 +1253,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey.md",
-      "title": "AWS and NHL partner to turn game data into new ways of experiencing hockey",
-      "excerpt": "Soon-to-be Amazon CEO Andy Jassy has touted the partnership will bring an entirely new perspective and layer of fan involvement to the game of hockey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
-      "originalUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/11/e12be20c-fc14-4f39-a5c7-2b6bd2de23c1/nhl-aws.jpg",
-          "width": 2089,
-          "height": 1183,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
-      "publishedDateTime": "2021-02-10T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

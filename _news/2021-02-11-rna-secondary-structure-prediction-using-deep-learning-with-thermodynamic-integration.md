@@ -108,20 +108,6 @@ related:
         width: 685
         height: 551
         isCached: true
-  - title: "Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality"
-    excerpt: "A deep learning model trained on raw pixel data in hundreds of thousands of echocardiographic videos for the prediction of one-year all-cause mortality outperforms clinical scores and improves predictions by cardiologists."
-    publishedDateTime: 2021-02-08T17:38:00Z
-    webUrl: "https://www.nature.com/articles/s41551-020-00667-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 8
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-020-00667-9/MediaObjects/41551_2020_667_Fig1_HTML.png"
-        width: 505
-        height: 685
-        isCached: true
 
 secured: "0eY2CfNlDDb5Zuv8mb9XmLSSQA4+ojUtR7kM/lgjkhGUx6LF7HLomq/2tTZX7OI/52AhJEviFuAUoEQa3MPQXsoUd+E83tnfcKpckFCJCFb9TYXOETSjvAPpfah/HAQqz48SbkQi9Fpfmd08+Bgei+frl7LO4eJYH0VgWAud7g+XXr23pZZzjCmtQkaBV5/We/HQ9RHuFkehi7uE05GsXnsXQJ/ORXJxC6RwUIcI9wRM3vjmN/b2PFHWk2oqmMAae78Ho8cMV5jgS3lyg0u0mHFPom+A2RJLkpft2YCS/N+IgIzhW4RgSbnGb9ZK+0dmBslaG+QKMWEZjUTkYkCvMkGJP8UC68Mkw81tuqzYf1k=;KFGHNAxNoyZG2uGkUt7tLw=="
 ---

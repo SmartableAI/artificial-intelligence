@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-01-23-ban-on-facial-recognition-technology-by-minneapolis-police-advances.md",
+      "title": "Ban on facial recognition technology by Minneapolis police advances",
+      "excerpt": "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. A council committee advanced the measure Thursday which will go to the full council Feb.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
+      "originalUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wdio.com/wdioimages/repository/2021-01/minneapolis-police.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html",
+      "cdnAmpWebUrl": "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html",
+      "publishedDateTime": "2021-01-22T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WDIO",
+        "domain": "wdio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley.md",
       "title": "Sen. Sherrod Brown files ethics complaint against Ted Cruz, Josh Hawley",
       "excerpt": "Sen. Sherrod Brown of Ohio has joined several Democrats in filing a Senate Ethics Committee complaint against Republican Senators Ted Cruz and Josh Hawley.",
@@ -1111,58 +1154,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-cisco-uses-ai-to-add-hand-gestures-to-webex.md",
-      "title": "Cisco uses AI to add hand gestures to Webex",
-      "excerpt": "Cisco is bringing hand gestures to its Webex video conferencing software to make it easier for participants to express themselves even while on mute. Gestures and non-verbal cues have long been an important part of face-to-face meetings as they allow a speaker to emphasize or support their ideas and give the audience a chance to provide real-time feedback.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
-      "originalUrl": "https://www.techradar.com/sg/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4WKi6coauTPjCXCiWYscdW-1200-80.jpg",
-          "width": 721,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
-      "publishedDateTime": "2021-01-21T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

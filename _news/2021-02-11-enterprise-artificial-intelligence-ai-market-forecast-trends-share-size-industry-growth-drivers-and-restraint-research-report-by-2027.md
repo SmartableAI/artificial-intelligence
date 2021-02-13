@@ -149,6 +149,17 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 14
+  - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
+    excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
+    publishedDateTime: 2021-02-13T10:14:00Z
+    webUrl: "https://www.openpr.com/news/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
   - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
     excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
     publishedDateTime: 2021-02-11T14:00:00Z

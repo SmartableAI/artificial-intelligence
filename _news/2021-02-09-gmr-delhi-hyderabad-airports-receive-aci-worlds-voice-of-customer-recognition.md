@@ -75,22 +75,6 @@ related:
         width: 549
         height: 309
         isCached: true
-  - title: "Bangaluru airport receives ACI's first-ever 'Voice of the Customer' recognition"
-    excerpt: "Bangalore International Airport Limited’s (BIAL) earned global recognition from the Airports Council International World’s ‘Voice of the Customer’ initiative"
-    publishedDateTime: 2021-02-08T17:12:00Z
-    webUrl: "https://www.thehansindia.com/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
-    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/bangaluru-airport-receives-acis-first-ever-voice-of-the-customer-recognition-670992"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 55
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/02/08/1029780-airport.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Mumbai: CSMIA bags ‘Voice of the Customer’ recognition by Airports Council International"
     excerpt: "Mumbai's Chhatrapati Shivaji Maharaj International Airport (CSMIA) has earned yet another laurel for its initiatives over the last year in the face of the COVID-19 pandemic. It has been awarded the Voice of the Customer recognition by the Airports Council International (ACI),"
     publishedDateTime: 2021-02-10T18:42:00Z
@@ -120,20 +104,6 @@ related:
       - url: "https://www.aviationtoday.com/wp-content/uploads/2021/02/markus-spiske-ijv7mzpmyum-unsplash.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Indy Airport Receives Global Recognition"
-    excerpt: "Indianapolis International Airport is one of a group of airports around the world to receive the Voice of the Customer award from Airports Council International. The recognition is given to airports f"
-    publishedDateTime: 2021-02-08T18:31:00Z
-    webUrl: "https://www.insideindianabusiness.com/story/43309128/indy-airport-receives-global-recognition"
-    type: article
-    provider:
-      name: INside INdiana Business
-      domain: insideindianabusiness.com
-    quality: 39
-    images:
-      - url: "https://INSIDEINDIANA.images.worldnow.com/images/19069708_G.jpg?lastEditedDate=1577978543000"
-        width: 960
-        height: 540
         isCached: true
   - title: "San Francisco Airport recognised by ACI’s ‘Voice of the Customer’"
     excerpt: "San Francisco International Airport (SFO) has been recognised by Airports Council International (ACI) World for their ‘Voice of the Customer’ initiative, which honours airports that continued to prioritise customers and ensure that their voice was heard during the COVID-19 pandemic."
