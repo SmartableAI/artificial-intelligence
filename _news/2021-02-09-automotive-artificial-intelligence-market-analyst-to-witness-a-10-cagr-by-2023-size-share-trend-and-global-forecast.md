@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Gesture Recognition Market Size, Share and Trend to Record Momentous Growth Through 2026"
-    excerpt: "The report Automotive Gesture Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Automotive Gesture Recognition Market Growth and information corresponding to market segments such as geographies,"
-    publishedDateTime: 2021-02-08T14:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-size-share-and-trend-to-record-momentous-growth-through-2026-2021-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Review By Comprehensive Study, Development Status, Opportunities and Future Plans Forecast to 2026"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-02-09T13:30:00Z

@@ -75,20 +75,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial Intelligence Tool Combats New COVID-19 Mutations"
-    excerpt: "A new artificial intelligence framework could speed the development of vaccines to treat new COVID-19 mutations."
-    publishedDateTime: 2021-02-08T14:31:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-tool-combats-new-covid-19-mutations"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "AI can make accurate assessment of whether a person will die from COVID-19, study finds"
     excerpt: "Using patient data, artificial intelligence can make a 90 percent accurate assessment of whether a person will die from COVID-19 or not, according to new research. The research can be used to predict the number of patients in hospitals,"
     publishedDateTime: 2021-02-10T00:20:00Z

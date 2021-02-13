@@ -24,34 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Research Report 2021 Covers Updated Data Considering Impact of Covid 19 on Share Size and Future Demand"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
-    publishedDateTime: 2021-02-08T14:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-08"
+  - title: "Biodesix Publishes Data on New COVID-19 Artificial Intelligence (AI)-Based Algorithm for Use in Clinical Decision Support Systems"
+    excerpt: "New Data Show AI-Based Algorithm Rapidly Predicts Risk of Severe Outcomes for Patients Hospitalized for COVID-19 Infection Biodesix, Inc. (NASDAQ:BDSX), a leading"
+    publishedDateTime: 2021-02-09T11:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/b19557395/biodesix-publishes-data-on-new-covid-19-artificial-intelligence-ai-based-algorithm-for-use-in-clin"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19557395"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19557395"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market 2021 Regional Study, COVID - 19 Outbreak, Emerging Technologies, Global Segments, Business Trends, Landscape and Demand"
-    excerpt: "The intensifying call for equipping computers with vision similar to humans has generated considerable traction for the computer vision market globally. The concept of computer vision as a scientific stream encompasses the technology and theory for creating artificial systems that acquire information from images or multi-dimensional data."
-    publishedDateTime: 2021-02-11T08:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-regional-study-covid---19-outbreak-emerging-technologies-global-segments-business-trends-landscape-and-demand-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "rTV7fScS4ZZb4NvEsMAKq89hSvrBcQK0fUV8aT7f5WDqCXsXvUU76WimgQCTxEEdVyo+BcURa1ZTmY/kMb22izSyE5NaoCvApGItZPLmay8VRkg9xSJuggIN95tFoLssCe4Eu1glJ3isE9PJsohAOkFiuvL5MPKi1P8DS0LDkE6XwVwNAnBooV/+nmEC69RY5M2Ps8zr+Q3jX3U5Kv0fuTW1ZLU2nkKwpMHcsrgv66tR8q5hWK9SW8azBcV1zHhAk/XVuEywDHWdeBsaghtThLxtmVALgGp+PqFbEm41PFAlVmMIcfxXsETDcbGQJB7Qd7vxeQvNmwOsxxKfcXrrXsLkXWLWygf91o1PJJitp04=;7pQRHYKPf9cTCbkucj28/A=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020"
-excerpt: "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020."
-publishedDateTime: 2021-02-09T08:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
+excerpt: "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the"
+publishedDateTime: 2021-02-09T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-301224536.html"
+webUrl: "https://www.prnewswire.com/news-releases/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-301224536.html"
 type: article
-quality: 75
-heat: 85
-published: true
+quality: 45
+heat: 45
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1434535/Mech_Mind_Product_Map.jpg?p=facebook"
+    width: 1264
+    height: 662
+    isCached: true
 
 related:
   - title: "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020"
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "oCWgTpgpXjYFT27jXXYx2gc+a8HsZfJgnMyoAEeiEVMMGSjsq2S6Nt3OfI/8lnl2SVuylkx9iKFhXoK3dSZa8Cn1ETnFMUqJDg6p1LUNuebZ45cJQVpxirddTpeM7yGe7gFaK6SEx2StKzV9hLw5SvzWAOMEDk514AtLJ9TlYHxOkHAn8z7KP/8L+rreBi08aOtY0QkJ7H+MXltS0fDCh6PdpKvQNj+VkdU9gznU33c2IxUZsZRsQRZV7O2kBkTSw3GGTvj2AHomqJJwKvfr2rVdIJz9PVFRsK08uUG0nnM4hnVIP6Kqtbbhz4FAsG7kU1JMxHqkxOWn5vMek3sPuDkSEjKyyQXMNI5MZ2M0jGk=;tpbw5GgqWvXpS3CCBytZZw=="
+secured: "AQCznn5AilKGvbOljejhDVfyRCfFrDCBV9CFQQ3am2wNkGQt0fUsMp43Ix/ohnnR+RZ+qc18mYl7y1LXhkv53GLxnDXDQPtM2Ycs/WqlkiROjI/euR3uImFpepLFF3IZ+oYWd7sR/Cc4dW/aHO2BOOC+P0p2iaIFcsF/z6j4vd9SXYq2koO9og5hJfRtXMeiT4QtwAOqhhmrRaePSIOAtQJfNixNLkz2KxMX9GzxLsCHYQC28Fh4LPEujX0PIX2GkEKBrcizA88hRWmEowfzEtZGsfuX2RakwERX5O+rwEzJF7F81ttcAiglVUnKIWRcQnZJoqnKfyR9vFcXfXnF6lIdUHUAFyIgKjpfavb/H+0=;H/R57rKm1/TNTLiKs9IfVA=="
 ---
 

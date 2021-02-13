@@ -90,6 +90,22 @@ related:
         width: 638
         height: 359
         isCached: true
+  - title: "How AI Technology Makes Manufacturing Smarter"
+    excerpt: "Advances in the Industrial Internet of Things (IIoT), artificial intelligence (AI), machine learning, and advanced analytics are turbocharging the move to Industry 4.0. To stay competitive, companies are using AI-powered IoT tools to alert manufacturers to failures in equipment,"
+    publishedDateTime: 2021-02-12T19:48:00Z
+    webUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/"
+    ampWebUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/02/Manufacturing.png"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Bearing and MOL team up to bring Artificial Intelligence to the maritime shipping industry -GHG Reduction, Shipping meets Artificial Intelligence"
     excerpt: "The relationship was originally established with the goal of improving shipping efficiencies within the maritime industry. Through various trials and intensive discussions concerning ship modeling, a range of products including a newly announced AI-powered Smart Routing Engine,"
     publishedDateTime: 2021-02-10T22:13:00Z

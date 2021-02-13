@@ -2,24 +2,24 @@
 category: news
 title: "How to manage your power bill while adopting AI"
 excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
-publishedDateTime: 2021-02-11T07:31:00Z
-originalUrl: "https://www.reseller.co.nz/article/685701/how-manage-your-power-bill-while-adopting-ai/?fpid=1"
-webUrl: "https://www.reseller.co.nz/article/685701/how-manage-your-power-bill-while-adopting-ai/?fpid=1"
+publishedDateTime: 2021-02-12T01:43:00Z
+originalUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/"
+webUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/m.jpg"
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg"
     width: 700
     height: 500
     isCached: true
@@ -89,19 +89,19 @@ related:
         isCached: true
   - title: "How to manage your power bill while adopting AI"
     excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
-    publishedDateTime: 2021-02-12T01:43:00Z
-    webUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/"
+    publishedDateTime: 2021-02-11T07:31:00Z
+    webUrl: "https://www.reseller.co.nz/article/685701/how-manage-your-power-bill-while-adopting-ai/?fpid=1"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Reseller News
+      domain: reseller.co.nz
     quality: 39
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg"
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/m.jpg"
         width: 700
         height: 500
         isCached: true
 
-secured: "M+7AkzE6rsCavl9NyLkKSn5RA1lX+xBo0X3OAWzGzOXDAlnJCQhbhd3hS8225JTu+7Tso4t6igWPyzwuHQwe4vKzRS0SjdTlgBIfrWijs5JGx9u1LJkSIDkE8DdxXighi+a+RybXnRqqJ2Et3P+wd2H5MiiFmCMDNqhS3yxZcBPGOFGa/CSZcDPS4GZNzsTMAr0VnNTITV0z5WnnyZ0/CxmC4zYwLfE++N7wrlOjCBbRbjXKcAT0xw04iUqers1/d4GdocBzOmv7nUshIb8kL4IVrMuJiJasputQrcLKbIP8BLjQT60oFXJrK3TZKdpNGPqpVm1QOv+PzLaw1eybEyD1zMtiegxtY0rFKgPmxEhHk/41r9oNKCtx0At+W5JjgjhmUraGEOpVKa53hYlq6mjvlv2D7OpPYXF+MQDj6rrnByt0j721241Op8J6JUI/USqJGW6+7NmE3IRs3N4+EhX5ERcgTpeoOD9tIwtpRAShYUZ9wM7IAcNVrBcDmgg8tW0DxgBgF54RZ+Qgseg+Tw==;4WHjR1vbh7B7du1TeOLlXw=="
+secured: "L3rmjir0BEjT98/nETUg19umyVENf0wGNEsrglBZODWloDStuK2mKCuxxY3x+J+3UuJA8V6IEVC3QUW7aC2rj7+F7aNm9K2PrXzlp9d66tMTQuaKl5TRXX00HQXToGKUDhmFa+Aa5idgVujq7Go4GcNLNrOF0I1SU4jsqdV18Z5IT+x/zjGNnkbV5jLBiQ94zBMV3eieValdxFy3VBno0K9mpKxgIeXsmIAH7otpxsS+lyDTzhg8er81SwTv5HhlJPUxymUdOA9JjbMpi3SkjYszchqsnvv3DLzst1q87MIDJGdwWandC21EFGNWBilEKWhr4LMGwtLsGC806Uhu6EveqiYr4Tt2zo614R9FLdI=;Ret6lpIGm0knVm+Z88IvDg=="
 ---
 

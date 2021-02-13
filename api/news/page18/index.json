@@ -2,49 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2021-01-29-prosthetic-arm-can-sense-touch-move-with-wearers-thoughts.md",
-      "title": "Prosthetic Arm Can Sense Touch, Move with Wearer's Thoughts",
-      "excerpt": "The team published a paper on its work in the journal Science Robotics. Researchers tested the technology they developed for the LUKE Arm on Keven Walgamott, who lost his hand and part of his arm in an accident 17 years ago. Walgamott said he could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
-      "originalUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/prostheticarm_0.jpg",
-          "width": 973,
-          "height": 1028,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-29-self-driving-cars-and-trucks-2021-global-market-innovation-technologies-applications-verticals-strategies-forecasts.md",
       "title": "Self-driving Cars and Trucks 2021 Global Market - Innovation, Technologies, Applications, Verticals, Strategies & Forecasts",
       "excerpt": "Jan 29, 2021 (Heraldkeepers) -- WiseGuyReports.Com Publish a New Market Research Report On -\"Self-driving Cars and Trucks 2021 Global Market - Innovation, Technologies, Applications, Verticals ...",
@@ -1166,6 +1123,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025.md",
+      "title": "At 36.2% CAGR, Artificial Intelligence (AI) in Retail Market Size to Surpass USD 5723.0 Million by 2025",
+      "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD 5723.0",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025-2021-01-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025-2021-01-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

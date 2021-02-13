@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-securi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/"
 type: article
 quality: 108
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -112,22 +112,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/CYE-raises-120-million-for-security-using-hackers-and.jpg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Autonomous Vehicle Tech Pony.ai Raises $100 Million"
-    excerpt: "Pony.ai, a California developer of self-driving car technology that has landed big investments from Toyota and other major automobile players, has raised $100M."
-    publishedDateTime: 2021-02-08T13:52:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/autonomous-vehicle-tech-pony-ai-raises-100-million/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/autonomous-vehicle-tech-pony-ai-raises-100-million/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/autonomous-vehicle-tech-pony-ai-raises-100-million/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ponyai-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
 
 secured: "wlc7Baux3PhB4kHZxCEsI604bGP6C9OSyvAI6Cmjw2OHUR3d2/8M9YQbzsQTB/2LspUFztpZsjBztf9A+FLo8+BOaMWaVfpf2o5tIAZbzKTtGluiyNCYvrhadiUgwls6ZjTQKY47C/9pFyyyHIpGVYAFvt6qX0Bh5RyvMTBRV7OLEKndo9jx2Lt0FDE4Pm4YEoe0qp1Mylxuw7GhYLPaE0g5hY9KqmQh+RArw2bHxRxjR5WiQxu+2sITtZJUjgKvCBXztkTxbAqj6nHmtIGWdLVYmo1c/SN+iOfxgmar/nbUYVbyX5S9h+7Gs1S/ohTciST2QABUwN/9KZfXxgol2kCl46cCQidgXxk5JTqpXR1WxBLQ7ivEbYwqffzDTOsyCQJM9QlaULyh4rx82NM8JbDlDcny0AJZIdPHfVyCnd+WPt1LrIPwJA6YkDIxheykZUFkq2Y6SV/mayTmrDc4uL/ICVXoHsbgRmcNpBB8stxwmtRrgyruIdvjv/zaF5IJeWBBlLMGAwFWU3QKDy9i2A==;m7slQ0sLKTaNQY9FLR9KpQ=="

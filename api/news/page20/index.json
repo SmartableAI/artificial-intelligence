@@ -2,58 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2021-01-28-elon-musk-explains-how-self-driving-robotaxis-will-justify-teslas-massive-valuation.md",
-      "title": "Elon Musk explains how self-driving robotaxis will justify Tesla's massive valuation",
-      "excerpt": "As Tesla's self-driving technology continues to improve, those vehicles will become self-driving robotaxis, allowing usage to go from 12 hours a week to 60 hours a week. Tesla could charge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106806365-1607089814899-gettyimages-1229901940-GERMANY_MUSK.jpeg?v=1607089873",
-          "width": 4000,
-          "height": 2840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "publishedDateTime": "2021-01-27T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-tesla-had-talks-with-other-automakers-about-licensing-its-self-driving-software-elon-musk-says.md",
       "title": "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says",
       "excerpt": "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,",
@@ -1204,6 +1152,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-we-helped-greece-build-an-ai-system-to-make-covid-19-testing-more-efficient-heres-what-we-learned.md",
+      "title": "We Helped Greece Build an AI System to Make Covid-19 Testing More Efficient. Here's What We Learned.",
+      "excerpt": "In addition to travel and tourism, we believe AI-driven systems like Eva can help schools, workplaces, local governments, and other institutions with limited resources better manage their Covid-19 restrictions and testing policies. If a university ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/363706",
+      "originalUrl": "https://www.entrepreneur.com/article/363706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611603565-GettyImages-148740649.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/363706",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706",
+      "publishedDateTime": "2021-01-27T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

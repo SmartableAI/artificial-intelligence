@@ -2,49 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2021-01-20-speech-zadarma-is-offering-free-access-to-their-widely-recommended-speech-recognition-analytics-tool-until-march-2021.md",
-      "title": "Speech Zadarma is offering free access to their widely recommended speech recognition analytics tool until March 2021",
-      "excerpt": "Speech analytics is transforming many aspects of business, and is especially beneficial to any sales driven organisation. Zadarma, most well known as a leading global VoIP provider, also offers an industry leading smart speech recognition and analytics feature as part of their incredibly easy to use and highly affordable telecommunications offering.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-voice-recognition-computing-and-information-technology-933e88f3ccee3d1896bd7108774e370d",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-voice-recognition-computing-and-information-technology-933e88f3ccee3d1896bd7108774e370d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-how-ai-is-modernizing-the-collections-process.md",
       "title": "How AI Is Modernizing The Collections Process",
       "excerpt": "The traditional model's inability to predict which debts will go into collections puts lenders behind the curve. Even worse, when accounts fall behind, this approach applies one-size-fits-all responses that let too many borrowers slip into default.",
@@ -1177,6 +1134,49 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-rsip-vision-announces-versatile-medical-image-segmentation-tool-delivering-efficient-anatomical-measurements-and-better-treatment-options.md",
+      "title": "RSIP Vision Announces Versatile Medical Image Segmentation Tool, Delivering Efficient Anatomical Measurements and Better Treatment Options",
+      "excerpt": "Jan 19, 2021-- RSIP Vision, a leading innovator in medical imaging through advanced AI and computer vision solutions, today announces a general purpose, AI-based segmentation and measurement tool for detecting objects of interest and their boundaries quickly and automatically,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-diagnosis-and-treatment-1d5c5f5c3dfb449a9a6125ce5e87091b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-diagnosis-and-treatment-1d5c5f5c3dfb449a9a6125ce5e87091b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

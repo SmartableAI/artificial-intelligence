@@ -1,23 +1,30 @@
 ---
 category: news
-title: "Bearing and MOL team up to bring Artificial Intelligence to the maritime shipping industry -GHG Reduction, Shipping meets Artificial Intelligence"
-excerpt: "The relationship was originally established with the goal of improving shipping efficiencies within the maritime industry. Through various trials and intensive discussions concerning ship modeling, a range of products including a newly announced AI-powered Smart Routing Engine,"
-publishedDateTime: 2021-02-10T22:13:00Z
-originalUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/"
-webUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/"
-ampWebUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
+title: "How AI Technology Makes Manufacturing Smarter"
+excerpt: "Advances in the Industrial Internet of Things (IIoT), artificial intelligence (AI), machine learning, and advanced analytics are turbocharging the move to Industry 4.0. To stay competitive, companies are using AI-powered IoT tools to alert manufacturers to failures in equipment,"
+publishedDateTime: 2021-02-12T19:48:00Z
+originalUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/"
+webUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/"
+ampWebUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
+cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
 type: article
-quality: 0
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Hellenic Shipping News Worldwide
-  domain: hellenicshippingnews.com
+  name: Impacts
+  domain: techbullion.com
 
 topics:
+  - Machine Learning
   - AI
+
+images:
+  - url: "https://techbullion.com/wp-content/uploads/2021/02/Manufacturing.png"
+    width: 700
+    height: 400
+    isCached: true
 
 related:
   - title: "Developing a Turing test for ethical AI"
@@ -84,22 +91,6 @@ related:
         width: 638
         height: 359
         isCached: true
-  - title: "How AI Technology Makes Manufacturing Smarter"
-    excerpt: "Advances in the Industrial Internet of Things (IIoT), artificial intelligence (AI), machine learning, and advanced analytics are turbocharging the move to Industry 4.0. To stay competitive, companies are using AI-powered IoT tools to alert manufacturers to failures in equipment,"
-    publishedDateTime: 2021-02-12T19:48:00Z
-    webUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/"
-    ampWebUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/02/Manufacturing.png"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Closing the AI skills gap"
     excerpt: "A growing demand for AI technology but a shortage of work can be solved by infusing AI into a business Artificial intelligence (AI) is expected to change the world. AI can help automate decisions and processes,"
     publishedDateTime: 2021-02-12T04:34:00Z
@@ -114,7 +105,18 @@ related:
         width: 1920
         height: 958
         isCached: true
+  - title: "Bearing and MOL team up to bring Artificial Intelligence to the maritime shipping industry -GHG Reduction, Shipping meets Artificial Intelligence"
+    excerpt: "The relationship was originally established with the goal of improving shipping efficiencies within the maritime industry. Through various trials and intensive discussions concerning ship modeling, a range of products including a newly announced AI-powered Smart Routing Engine,"
+    publishedDateTime: 2021-02-10T22:13:00Z
+    webUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 0
 
-secured: "TENp7BFUdT5o/kxmn7pC22uMsa++Mzl7wvdbZ3QiLzW7Od02gpz0ys1kcDj7jMhfnj6MFFTOTFwTAgDGF/k/DQbRtn291lVfs8phjYNcOfrYWGbyLv8/6zjS+nbo9PmgFQp9B8VgRLjzSW1ZBgYWPqaEx/3O+llGXJNWB24fjNmVJO0baMXAbr/FX9fm5h/jHztog+cSoP+Lm9shmtm5VZbtKi5f4dR3zbszOHKn+WWS/XK8cuCKIdn7W27vOXGZL87z48JUw0J5AK8I5AHdOzuX6aVCfHJRs2GYft40/Vhq/P6LGDgK3WMGDThYmQqHIBBN0fa8EgbnFMpYSyr5oVIfoAqwEp+/zd9zVkNzTqo=;Vg16vKD0VKPAUWTvdKA0mg=="
+secured: "FzVADbCw033btfmp6lSdKYzHGfLw48FUbMHyXfVoIrhJr+9hToF7LIXk3X7r2Tr4kRyXh/W76EC2et6fS4GZ4xtd2HiTZ/t3MFcOByTVi9/XuIGJf94dQIIjEP3fDnVOAbfMwCWdB5KDqBtXfyLgXGAGsZQ/eYjBb/ih6NiWwxgkcJifi0xaNuZyKBVW55hEi+VV1nV0db79DS6+uxKNKEfERu8gb8d2tFdb0QtR9/cSZCqNU9EiUT/B0uMUgWTmrXzuc/xkP0Qgr6azhOrL/BARERgcRIBJzsZE4KzdqsTh0rl+Bz+TXPnz0/9NTo3E0TbBHdb29Znsqc+zAeaNNEQVlk46xXO7d1q9IafAuGc=;V4NRE5naqIWeLixYuJh7dQ=="
 ---
 

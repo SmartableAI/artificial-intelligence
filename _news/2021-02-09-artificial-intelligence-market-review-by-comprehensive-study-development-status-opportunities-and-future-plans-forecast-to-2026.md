@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Gesture Recognition Market Size, Share and Trend to Record Momentous Growth Through 2026"
-    excerpt: "The report Automotive Gesture Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Automotive Gesture Recognition Market Growth and information corresponding to market segments such as geographies,"
-    publishedDateTime: 2021-02-08T14:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-size-share-and-trend-to-record-momentous-growth-through-2026-2021-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Commercial Robotics Market Size, Share, Growth, Trends Analysis & Industry Forecast Report, 2020-2027"
     excerpt: "The GMI Research expects the commercial robotics market to expand at a significant rate. From a regional perspective, the Asia-Pacific is expected to increase at a higher CAGR due to the strong demand"
     publishedDateTime: 2021-02-08T20:37:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Quantiphi Named as an IDC Innovator in Artificial Intelligence Services"
-excerpt: "Quantiphi, an applied AI and data science software and services company, today announced that it has been named an IDC Innovator in the IDC Innovators: Artificial Intelligence Services, 2020 ( Doc # US45733220,"
-publishedDateTime: 2021-02-12T12:05:00Z
-originalUrl: "https://www.lelezard.com/en/news-19648625.html"
-webUrl: "https://www.lelezard.com/en/news-19648625.html"
+excerpt: "Quantiphi, an applied AI and data science software and services company, today announced that it has been named an IDC Innovator in the"
+publishedDateTime: 2021-02-12T11:55:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-named-as-an-idc-innovator-in-artificial-intelligence-services/article_c228db75-a2a3-553e-93fb-fc8273fcec96.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-named-as-an-idc-innovator-in-artificial-intelligence-services/article_c228db75-a2a3-553e-93fb-fc8273fcec96.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "qo+cwpKkt9zf21mdDLFfU9O6aqQ9EtSfE/agh4HwhuUBfzKWVgNzYkg5wsdFcLWMSzCokmBMOXzoz7AjYzic/Z89aWQsxGmbf18yPQu9Wr6wJe7s/PkhVGbm/loDQqvDDNhHRn5JrWhb/466rRXG0kXhYZ3/sX9+/xRTvUtB9Z4uPq3tuEcSld3gnuVK5Gbjj3C0/qoGoQ44rCo0yyNoXyus2TvoATASCbzeZ7Vj18oT9oaupPoVB75e6HRFiH0yh/SzA7VyHu+HIX7+BWqVnRhsUev29anN9+agyQPMiXictnmwR2rg3uvoV9bC5Cri9WGeyFlStG8ll4+bbtkqT3I6iBY4H/oKyNNDnwQP3K0=;Vcjw7ayWS0QH3Fq5SRgNFw=="
+secured: "xdxBzclXM1oF9pjt2GySctQTGH9cQEiH8yjr8zgoXZUQBug5DswGcuRBl0Jg/OVbAlkOa7qjgfDOF39mOlPLM79LLaennSSF3Y9hGeaRvRh1o3k9salmDyheB/MI2xot3xgpyMm8g7QCuVWheMToUVOMQPCztFteaAhoMR6zUuKfAzKl+5S09bndlQpa7QAnwkh63WKwplUGgH5lSuAFMP8uIJWGRxf5wK6NvUbajb20+MwenGrzS4x016tBjDcNg/2oh8VTd3AXrNZIAfTkYB0sxqZkjjc/vcTShubWa7Si22s7gXUsWrTcIbW5PGyi1DSCBBZo44WCzhgLFC3d/wNwXiCrOA2qQHF0iS8B1PI=;aBXJUJ7XrHtV45EHMwFUdg=="
 ---
 

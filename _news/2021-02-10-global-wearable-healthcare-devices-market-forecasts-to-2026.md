@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2239486/global-wearable-healthcare-device
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: openpr.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market Research With Method, Top Companies, Global Development Factors,and Forecast 2026"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
-    publishedDateTime: 2021-02-08T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-with-method-top-companies-global-development-factorsand-forecast-2026-2021-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com"
     excerpt: "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is drive"
     publishedDateTime: 2021-02-12T12:15:00Z

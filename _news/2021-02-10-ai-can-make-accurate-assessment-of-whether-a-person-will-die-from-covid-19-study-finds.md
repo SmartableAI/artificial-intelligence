@@ -86,20 +86,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial Intelligence Tool Combats New COVID-19 Mutations"
-    excerpt: "A new artificial intelligence framework could speed the development of vaccines to treat new COVID-19 mutations."
-    publishedDateTime: 2021-02-08T14:31:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-tool-combats-new-covid-19-mutations"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "How AI and data models help governments fight Covid-19"
     excerpt: "A not-for-profit business group including IBM and Rolls-Royce is using AI and data models to help Europe fight Covid-19 and help prepare an economic recovery As Covid-19 vaccines roll out, getting economies and societies back to normal after the worst of the pandemic has passed will depend on collaboration between industry and the public sector – and harnessing the power of data and technologies,"
     publishedDateTime: 2021-02-12T04:34:00Z

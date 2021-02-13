@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3606472/developing-a-turing-test-f
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://cdn.openpr.com/U/2/U212535947_g.jpg"
         width: 638
         height: 359
+        isCached: true
+  - title: "How AI Technology Makes Manufacturing Smarter"
+    excerpt: "Advances in the Industrial Internet of Things (IIoT), artificial intelligence (AI), machine learning, and advanced analytics are turbocharging the move to Industry 4.0. To stay competitive, companies are using AI-powered IoT tools to alert manufacturers to failures in equipment,"
+    publishedDateTime: 2021-02-12T19:48:00Z
+    webUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/"
+    ampWebUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/02/Manufacturing.png"
+        width: 700
+        height: 400
         isCached: true
   - title: "Closing the AI skills gap"
     excerpt: "A growing demand for AI technology but a shortage of work can be solved by infusing AI into a business Artificial intelligence (AI) is expected to change the world. AI can help automate decisions and processes,"

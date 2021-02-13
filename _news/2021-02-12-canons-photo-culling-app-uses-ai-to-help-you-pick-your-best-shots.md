@@ -90,6 +90,20 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "How to manage your power bill while adopting AI"
+    excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
+    publishedDateTime: 2021-02-12T01:43:00Z
+    webUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg"
+        width: 700
+        height: 500
+        isCached: true
 
 secured: "zoT112P6i06dxdlmHsTo2XXZFRs1BSK7oNpJGTGFFzZUzj0r7OTFvTBj9hUaxSTY8hPHMoprHDggi+OzHmp9rZkOkUCtoNIDwNcgAV03l4apkUgRnBCC79U83IT3qZssHl+LlUg/rqgH+vWYcwUb76pp0/rYZKQ6O7c61mtEeejURjgcNMyG5v8xQk1WY0LhYUkiMTIva+jkPBXtdzlEnin2nZk1Cz7WdajjarAZVwkiyxA/Owo6BxQt/Enh2HRy6yVpewqUcNVoL2AoX+kzTkg7Mr/P5ILpjkZDJBPFtSW/pL/Z85n1peGdgLFORFAKz4t3PC5eGPwabf075T2a2tP1jJuoE4F+5oyN+rK6qVxJh4hF8cVZOY0XSTQZ1mermdQ9D4+nwnpTZY0WD3x7dgepgXsyEv7yms4iVK0p4+7gYdvaICAyP/iEvJAU6x1m+5lpK2C6XvSel3uIJFUTZBUjUtVkWCjkYWSWUEFH/cdnapxwQfnzZglMoWe5UXnqO8HxnEpSFj2qufeGGfyzjA==;4DgemzXba/cowdoWBGbzlw=="
 ---

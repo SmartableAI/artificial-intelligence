@@ -3,8 +3,8 @@ category: news
 title: "IBM partners with Palantir on low-code AI applications"
 excerpt: "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,"
 publishedDateTime: 2021-02-09T01:02:00Z
-originalUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
-webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/"
+originalUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
+webUrl: "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/?via=indexdotco"
 type: article
 quality: 39
 heat: -1
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM, Palantir forge partnership in low-code AI data processing space"
-    excerpt: "Palantir for IBM Cloud Pak for Data is a new hybrid cloud solution designed for low-code AI deployment. IBM and Palantir have announced a partnership to merge hybrid cloud, artificial intelligence (AI),"
-    publishedDateTime: 2021-02-08T13:53:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png"
-        width: 1170
-        height: 792
-        isCached: true
   - title: "IBM, Palantir forge partnership in low-code AI data processing space"
     excerpt: "will \"simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is scattered across hybrid ..."
     publishedDateTime: 2021-02-09T01:44:00Z
@@ -214,6 +198,6 @@ related:
         height: 1179
         isCached: true
 
-secured: "PE36PnGAU8lqmKvpmqFr/KbebM5xUtZcyRr+ccjU7z4QoNfrrf2cSxyOPdx8NCX7yVQccIt4Yh5zLS+iokoAzCv/yoh2rkwYfOeGOoPEKwfYcv999STNTvhV7fcr47S3Pfffo/usViDYUQ61VUDXCP5UcCyZMiPlhUj+hOqSh36LqC4+HvMBc5hd0opFWrJsQLlTsUzdmpQiI8r1uf386qeD9R+yR7O9F2OdsXGHPh2q0EdzzWq5ln7NG1xLhdR9Rdpe9En5vcI30MfbINzudffCqNTXgCjHemLFtvLS4zgcnYIAmd1YHNoMuTEUfi7thmGu30QbnpmrmSmeC0JmN9YL9C7gqK4mp8UyGNWTDaI=;NmakZkOsx+zH9OhqdJVhqg=="
+secured: "Wl2BuTvMcswe9no9szc6F110qyuyXpUucEGD4ZO7OzIZNkkJgELwz6eZ78ZAX//rvEUFofUoqe+4tqU/Ije9rUaxIU8XptpKAGBJvQha1a6+2Mw66k7/T2WamAs5uOeBh6WL0MrWOZt60zU8S69ynaJBXT8q02JmgyJ2QX+C/wpi+14aOSkdnkltfECo830wI634jQqT6u2N0p7b48Bq6L5tkIeDehh9zOs9RL0EjjybQROqVv/prWgSM0GKBr1YvNifDk8g2k6+KpNkc4o8UwyuUJpfKIcmAnrwOakyg7V4z4Wy3v+8N3Ky6kK2LYsHte9EZgwC10Jg+NOvEoEW6c3aTQjhjVe3ls85CZiiMrg=;FRQPkh+BcW4xFVOd+tx/dw=="
 ---
 

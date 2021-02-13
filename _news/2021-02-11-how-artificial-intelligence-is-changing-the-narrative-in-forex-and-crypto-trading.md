@@ -7,7 +7,7 @@ originalUrl: "https://nairametrics.com/2021/02/11/how-artificial-intelligence-is
 webUrl: "https://nairametrics.com/2021/02/11/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 900
     height: 472
     isCached: true
-
-related:
-  - title: "Young investors endorse Provista Trading's AI approach to forex"
-    excerpt: "Provista saw a surge in inquiries about its AI-empowered EA trading system, particularly from the younger generations from the millennial and Gen Z age group."
-    publishedDateTime: 2021-02-08T14:53:00Z
-    webUrl: "https://www.wicz.com/story/43306499/young-investors-endorse-provista-tradings-ai-approach-to-forex"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 37
-    images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20346395_G.jpg?lastEditedDate=1612759798000"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "4RktSJ9jGR0KnqseWet7gT9OKOQuwQoAuNkCUZaIbOf3qxG0emuOsQCed2yBqUbdY/qIWAIDFFiwBw4jR7q4BlXGOpymErFqqs2b+pKF/98oW81M9mhrbMMjqkteVpShsq8AO7eLbTMHQyRq6nQRSMt+64Bz2wwhmiEmz/RlGXHARkt9ktczJzVZfnjWj5lMo6PFVsu2ppCedIG4uZ0ob1cwMYqSupALdIyQZqbPkymaYH2q8rvFBadMz+bI42QnkHkEKrakv42bv2WZIaQkUAWRQwcEiUF0kQIQrOrmtSwuiXXexgnzi3DH6Yt+X/b0WJjaP4JeX0o+Rx+mom7wBaoJynoJSsG/tjtQ4Cs3nIOkBPAsfpLw9UmwCU1+cBGm8rVN8SjrZPTzeUm2j9OrHFEg/piFEh3l+P05dTkO7Ma1y9grJl/hpfsCOKQeRXYO2/MD/IGQfe8bkTf7eNtwfYEVMa8EyTFwdQ7iAu7KOJrGKBHgkqmsLAp/GbUW3pee+1hqkqpX5zgHZjo0p86mdg==;lVXXfabk9A5ZapdeLgXZgA=="
 ---

@@ -598,7 +598,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -1000,49 +1000,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-10-global-wearable-healthcare-devices-market-forecasts-to-2026.md",
-      "title": "Global Wearable Healthcare Devices Market - Forecasts to 2026",
-      "excerpt": "The findings reviewed by GME stated that the Global Wearable Healthcare Devices Market will expand with a CAGR value of 30 8 percent from 2021 to 2026 Factors like advanced sensors rising adoption of artificial intelligence growing mobile platforms precise",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026",
-      "originalUrl": "https://www.openpr.com/news/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U210206214_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026",
-      "publishedDateTime": "2021-02-10T00:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-10-study-robots-are-trusted-more-than-people-when-it-comes-to-money-management.md",
       "title": "Study: \"Robots\" are trusted more than people when it comes to money management",
       "excerpt": "COVID-19 has accelerated digital transformation across industries. A new study takes a look at the sentiments regarding \"robots\" in the financial services sector.",
@@ -1155,7 +1112,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1247,6 +1204,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-startup-that-taps-ai-to-boost-crop-yields-seeks-canadian-ipo.md",
+      "title": "Startup that Taps AI to Boost Crop Yields Seeks Canadian IPO",
+      "excerpt": "Farmers Edge Inc., a firm that uses artificial intelligence to help growers boost crop yields, is seeking to raise about C$100 million ($79 million) in an initial public offering to strengthen its finances and repay debt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idVPLA9Vtm80/v1/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "publishedDateTime": "2021-02-09T15:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

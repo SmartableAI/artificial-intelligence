@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/using-container-imag
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/"
 type: article
 quality: 121
-heat: 121
+heat: 122
 published: true
 
 provider:

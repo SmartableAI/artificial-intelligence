@@ -110,22 +110,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Autonomous Vehicle Tech Pony.ai Raises $100 Million"
-    excerpt: "Pony.ai, a California developer of self-driving car technology that has landed big investments from Toyota and other major automobile players, has raised $100M."
-    publishedDateTime: 2021-02-08T13:52:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/autonomous-vehicle-tech-pony-ai-raises-100-million/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/autonomous-vehicle-tech-pony-ai-raises-100-million/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/autonomous-vehicle-tech-pony-ai-raises-100-million/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ponyai-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "ATaRbmeKvbY9wOJxd9rtIR5H2tv8oXoWh9N69OHMLBZYWThaeV8XqscYCY9wrVOzcYa6IalahFhNlGNX+CqtuyGHvfmrkdPXUtFuTjFKYlwphBTfO5O8HrbR0ZRzjwXL3jZHUGyynwZIj1ksQegYlJpzzlDIUkFzf13OPmpxXHClIjEMDNaXip0cIHVln1SL+Uh95+iSXPk/x2CTcZKcjyush9NxzLUdSTZ9cO7IqM37VSt8eYSPUHD5o1UO/vpPrNJ1JChKefUd+1BiTS8Ep8mRUvg2m5ZMBq70DaNceFHH14H5R+Be3JtWYoRY3MWvyVLxzIpVXweaunuANIeUpQ9JtmLzIxv7paKEgl5AVbdeLvYbTYYRMBhzE3MQVRZOwOJBZ+PYOTCcUg8A1twtzqWD2ZxlXtgdKTc+gqeFA1MItMGRwhYSplGOusIxxf9ypYSVwyy/ztklOlwUvrXSyjadJUNRhMimo49a+Akrk9kkSHum6pc3lfUNsJ43HaDYQGq+gU7jpxlq94iaOiVbRw==;GiObpptXMcw8cE1zi4u1Qw=="
 ---

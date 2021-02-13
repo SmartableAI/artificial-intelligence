@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Toyota partners with startup Aurora to develop self-driving taxis"
-excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
-publishedDateTime: 2021-02-09T16:02:00Z
-originalUrl: "https://arstechnica.com/cars/2021/02/toyota-partners-with-startup-aurora-to-develop-self-driving-taxis/"
-webUrl: "https://arstechnica.com/cars/2021/02/toyota-partners-with-startup-aurora-to-develop-self-driving-taxis/"
+title: "The self-driving Toyota is coming"
+excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+publishedDateTime: 2021-02-13T06:19:00Z
+originalUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
+webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Ars Technica
-  domain: arstechnica.com
+  name: LinkedIn
+  domain: linkedin.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/02/aurora_car-760x380.jpg"
-    width: 760
-    height: 380
+  - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+    width: 400
+    height: 266
     isCached: true
 
 related:
@@ -76,6 +76,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/02/aurora-toyota.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Toyota partners with startup Aurora to develop self-driving taxis"
+    excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
+    publishedDateTime: 2021-02-09T16:02:00Z
+    webUrl: "https://arstechnica.com/cars/2021/02/toyota-partners-with-startup-aurora-to-develop-self-driving-taxis/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/02/aurora_car-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Aurora Partners With Toyota on Self-Driving Sienna Taxis"
     excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
@@ -163,21 +177,7 @@ related:
         width: 1920
         height: 1143
         isCached: true
-  - title: "The self-driving Toyota is coming"
-    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
-    publishedDateTime: 2021-02-13T06:19:00Z
-    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
-        width: 400
-        height: 266
-        isCached: true
 
-secured: "AoIdpni7G38xH+2xth/O1+tbAumm8/6g0CC8mljjGte76N10yz7J+nFNRqOfdoGsiNLiefihKYe4kXYaImpTqLr/mWHQiBnzi1teWoI6AuIJDYVUjiYQbLmzejCEDwMaLsSgKgV/D3qZjCDfnCf3pBDFxxnplxl0SThInhpbICnIhwQY3tVUXFfjnCmycmSddFk73UjFwOa05bw5jbMZEa2wUBl9WJ+Cy7CEwYLbvCcCGx1j3nTbA0ICd52GcCvPHpKinaOwDXTyqCtcNRp5Uhk7kgZkv7/YmjshgyqYerYkzkCyPet2PIOYLCvvKdPDpgxnuZZ3ZwjU9BNILc+9tVR9z5sS3OG5Hkhwb0Xr8H6OchassXK+l8SLc0bAzt87oV1oMuj6yhz+yBjTB9h9wqymBoh1ZmMbBjVaAq8YNDYwVpC4fFYhLtYK7IMwxO5YZrQ6oP4b+BK3jlDBASVq5tD22MRBvPqW62tTJC+N+c7HHHFCFT/wMJhtGQs//x958Ds3Ijsr2sTrsT1UfDGKEA==;JU4A0WQJQ7atV2jPe4xiYw=="
+secured: "mGhWEb+kuWlPm44ar5xMB1lvwe1ARAyMqj6pRUL7uj1N7KgesELmBRlDxcVAnWyuymiCo0O4TlmNAGAHuzfmDiiDkoNbAkGE1zE+0evMvg8eck3f/9YHqABdcl+lULTiNP7yB5IFgyLCiqnpVtfFwI3GPeXGDREKsKzWCj4VUgtIoXx4X3PJSbImMJ9devPlCqfC0odP5xHuuaumRF1zX50s+opXJ64HKBeby1E4wuDV+LayhYiVU+b5r1mSIxEOPWXP+M5DZ8oawBiLFDF0w+FyCVLctcZLBPF9Gp1F1LpJg97wcxTSDErLZY220XyengHa3rcrvsFO/kEl2jdIEasGzSPV34yuJVATfabekRw=;F8N8lR3kxejVV4E77rKocA=="
 ---
 

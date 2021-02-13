@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -162,6 +162,20 @@ related:
       - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
         width: 1920
         height: 1143
+        isCached: true
+  - title: "The self-driving Toyota is coming"
+    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+    publishedDateTime: 2021-02-13T06:19:00Z
+    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+        width: 400
+        height: 266
         isCached: true
 
 secured: "J4PaNoXBosLeTSTad5a78OkmOQhYGb4PxubWJkwa4WZR1mWqf72UelA8+PatkxCrShItxuIf7FaZc4uI8yT/SfRC0I44g7Fzu/a8Lo2Efdes6wcWucLY1EJu3V5mIB1/3DQoeNCP0PhkByD4LrCO92K/mYlbt6xnGxUtHSm7HUQ2sVOPlgViflRf6iUhc4Ln3FbTUgMRK4CNo+/NQhmWnsWNkOlRKMlVT8Roo7o32e1x4CeuO6z/ydszFp+2izF8TOJh2AV+3CSfiOGgpGhE/ZBmAKeueM2ExtrxxigbPSDoJi9/gEHoHZbZN5IRXDMDFYwjz5xHZErJg2zaAdpr2oDShQZgsWkKv4YKjPsROvYjGHlYymGOVmo7ZvOOHA3uV/pPcygkIDCYJst+TJVvBaiK0poZ28n/0icnkESVWFXvESG3CxoPUwZEqRsAu0GMGRzovLf50ABBuxT73MLQQj9616PSIbS7uy1WfmPXIIHzm+qlh6CZGG5LAoihCs0t1vAlkh/pSFKvuI8YxLLaGg==;atVu2NJpOADavDauHEMJ/A=="

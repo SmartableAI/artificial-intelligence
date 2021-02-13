@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
 type: article
 quality: 103
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
     images:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Self-driving-car-for-testing-Technology-Parkway.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Driverless concept vehicle tested on Guam, controlled from Japan"
-    excerpt: "A driverless concept vehicle had a test drive Friday on Guam that also showcased DOCOMO PACIFIC's 5G technology."
-    publishedDateTime: 2021-02-08T14:15:00Z
-    webUrl: "https://www.postguam.com/business/local/driverless-concept-vehicle-tested-on-guam-controlled-from-japan/article_ff513a68-69dd-11eb-8ead-a39467feb72f.html"
-    type: article
-    provider:
-      name: The Guam Daily Post
-      domain: postguam.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/2/1b/21bfc9f2-69e3-11eb-a366-0b1a61c8ca3c/6020ef8c82988.image.jpg?resize=945%2C630"
-        width: 945
         height: 630
         isCached: true
   - title: "Self-driving cars are among us but drivers beware"
