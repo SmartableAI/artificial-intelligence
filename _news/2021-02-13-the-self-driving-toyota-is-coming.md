@@ -105,6 +105,17 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "This is how self-driving cars are becoming blueprints for smarter surgeries"
+    excerpt: "A startup is exploring how the artificial intelligence (AI) technologies used in self-driving cars could act as a \"blueprint\" for smarter surgeries. Theator, based in Palo Alto, Calif., is the developer of a \"surgical intelligence\" platform designed to improve the decision-making of surgeons and,"
+    publishedDateTime: 2021-02-09T12:01:00Z
+    webUrl: "https://www.zdnet.com/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
   - title: "Joining with Toyota and Uber gives Amazon-backed Aurora the tools it needs to take on self-driving leader Waymo"
     excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
     publishedDateTime: 2021-02-11T12:12:00Z
@@ -178,6 +189,6 @@ related:
         height: 1143
         isCached: true
 
-secured: "mGhWEb+kuWlPm44ar5xMB1lvwe1ARAyMqj6pRUL7uj1N7KgesELmBRlDxcVAnWyuymiCo0O4TlmNAGAHuzfmDiiDkoNbAkGE1zE+0evMvg8eck3f/9YHqABdcl+lULTiNP7yB5IFgyLCiqnpVtfFwI3GPeXGDREKsKzWCj4VUgtIoXx4X3PJSbImMJ9devPlCqfC0odP5xHuuaumRF1zX50s+opXJ64HKBeby1E4wuDV+LayhYiVU+b5r1mSIxEOPWXP+M5DZ8oawBiLFDF0w+FyCVLctcZLBPF9Gp1F1LpJg97wcxTSDErLZY220XyengHa3rcrvsFO/kEl2jdIEasGzSPV34yuJVATfabekRw=;F8N8lR3kxejVV4E77rKocA=="
+secured: "b+Auwj/hv5KHQgZJj53zxF+U6dc8Ps6vUAwtuuVHQp1dnDOQSOF1eA9wif9sNKVblKYjBUNDAIC4uEKn0QCcjieErK2WUe/FsMIW6I0BneJ7lytgwdeWCDnqcdVYu6AMCUqRVDctLlb+zBa35m0ZhzHMhGgMSUDW8Qs+tCBkf5t5ZiVvnXKXIsqLiBIdcuxM8MsacSXHI3x0lcrtIoIrQdjv0XDducjjoBDCnJnPbYfEz+UM1sTfyKcX/aykr5UYWaUvOrOq7Jm+0ARW7nQc7uXWH/nZEurWKerj/fY6qZm6YIuCakwkJSFQ5NDudCIRZzy82brfo3LiafA8Bx+Fldo2xf3pB9rGw6day/n+VjoyGI4Er/aLXMlINA4Us6PlQehuSTxvKgcLBb+3qLHwb4z25NrT/7ZIl67yRI3NVajaqwGUp2sX0o2lDD1yFB19WhFBZ7L69hLOY3KcLQ6bDdKcDcyDDzOpoJ/91GWug3ahMUkJw0qtCRKQXcG4bBhhG85Y+pGutDwUOvmT4Mx/xQ==;KuVFP36Uy/WkyWM1twu+bQ=="
 ---
 

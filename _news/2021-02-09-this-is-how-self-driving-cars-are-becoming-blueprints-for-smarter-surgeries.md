@@ -25,95 +25,167 @@ topics:
   - AI
 
 related:
-  - title: "When Self-Driving Cars Get Embroiled In Massive Car Pileups"
-    excerpt: "Exploring why self-driving cars will indeed be mired in massive car pileups and are not invincible for such tragedies."
-    publishedDateTime: 2021-02-08T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/"
+  - title: "Toyota And Aurora Craft Deal To Develop Self-Driving Taxis"
+    excerpt: "A deal between Toyota and a fast-growing self-driving technology company shows how the autonomous vehicle market is developing. Car buyers look to be the last option for this kind of self-driving.  Toyota and its auto parts subsidiary,"
+    publishedDateTime: 2021-02-09T23:15:00Z
+    webUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/"
+    ampWebUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020d8f3a91e85b44784b7e1%2F0x0.jpg%3FcropX1%3D1144%26cropX2%3D3871%26cropY1%3D436%26cropY2%3D1970"
+      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/02/Aurora-Sienna-1200px.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "2 Self-Driving Car Stocks to Buy in 2021"
-    excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-    publishedDateTime: 2021-02-11T16:23:00Z
-    webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+  - title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
+    excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
+    publishedDateTime: 2021-02-09T22:05:00Z
+    webUrl: "https://www.reuters.com/article/ctech-us-autos-autonomous-toyota-idCAKBN2A92G0-OCATC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2A92G0-OCATC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2A92G0-OCATC"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Reuters
+      domain: reuters.com
     quality: 74
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize"
-        width: 1200
-        height: 785
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550913326&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181IR"
+        width: 781
+        height: 545
         isCached: true
-  - title: "Self-Driving Car Market Trend and Forecast"
-    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
-    publishedDateTime: 2021-02-12T10:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12"
+  - title: "Aurora to strikes deal with Toyota, Denso to develop, test self-driving Sienna minivans"
+    excerpt: "Aurora has reached a deal with Toyota and auto-parts supplier Denso to develop and test vehicles equipped with the self-driving startup’s technology, beginning with a fleet of Toyota Sienna minivans."
+    publishedDateTime: 2021-02-09T17:21:00Z
+    webUrl: "https://techcrunch.com/2021/02/09/aurora-to-strikes-deal-with-toyota-denso-to-develop-test-self-driving-sienna-minivans/"
+    ampWebUrl: "https://techcrunch.com/2021/02/09/aurora-to-strikes-deal-with-toyota-denso-to-develop-test-self-driving-sienna-minivans/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/aurora-to-strikes-deal-with-toyota-denso-to-develop-test-self-driving-sienna-minivans/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/aurora-toyota.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Toyota partners with startup Aurora to develop self-driving taxis"
+    excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
+    publishedDateTime: 2021-02-09T16:02:00Z
+    webUrl: "https://arstechnica.com/cars/2021/02/toyota-partners-with-startup-aurora-to-develop-self-driving-taxis/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/02/aurora_car-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "Apple’s self-driving cars will have doubled the number of test kilometers on the road by 2020"
-    excerpt: "Apple's self-driving cars will have doubled the number of test kilometers on the road by 2020 Apple has more than doubled the number of"
-    publishedDateTime: 2021-02-10T15:26:00Z
-    webUrl: "https://www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/"
-    ampWebUrl: "https://www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/amp/"
+  - title: "Aurora Partners With Toyota on Self-Driving Sienna Taxis"
+    excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
+    publishedDateTime: 2021-02-11T14:03:00Z
+    webUrl: "https://www.wired.com/story/aurora-partnership-toyota-self-driving-taxis/"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 33
+      name: Wired
+      domain: wired.com
+    quality: 54
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Apples-self-driving-cars-will-have-doubled-the-number-of-test.jpg"
-        width: 870
-        height: 485
+      - url: "https://media.wired.com/photos/60246fd36c104aea63dc519f/191:100/w_1280,c_limit/business_aurora.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Self-driving car to be tested on Technology Parkway"
-    excerpt: "Peachtree Corners could become the birthplace of new self-driving technology used in cars sold to the public in the near future."
-    publishedDateTime: 2021-02-08T18:05:00Z
-    webUrl: "https://www.ajc.com/news/atlanta-news/self-driving-car-to-be-tested-on-technology-parkway/55UVNUZZR5EV7JQX7GSRA4ZKQM/"
+  - title: "Joining with Toyota and Uber gives Amazon-backed Aurora the tools it needs to take on self-driving leader Waymo"
+    excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
+    publishedDateTime: 2021-02-11T12:12:00Z
+    webUrl: "https://www.businessinsider.com/aurora-toyota-waymo-cruise-uber-paccar-2021-2"
     type: article
     provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Toyota and Denso team with Aurora on self-driving minivans"
+    excerpt: "Toyota and longtime supplier partner Denso will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks"
+    publishedDateTime: 2021-02-09T17:28:00Z
+    webUrl: "https://www.autoblog.com/2021/02/09/toyota-denso-aurora-self-driving-autonomous-minivan/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/02/09/toyota-denso-aurora-self-driving-autonomous-minivan/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/02/09/toyota-denso-aurora-self-driving-autonomous-minivan/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/5210x2931+1389+560/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/10/24193816/2021_Sienna_Platinum_Predawn-Gray-Mica_010.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Jeff Bezos-backed Aurora has struck deals with Uber and Toyota that could make it a self-driving powerhouse"
+    excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
+    publishedDateTime: 2021-02-12T14:50:00Z
+    webUrl: "https://www.businessinsider.com/aurora-toyota-waymo-cruise-uber-paccar-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Toyota in self-driving partnership with Aurora"
+    excerpt: "Toyota Motor, Denso Corporation and US autonomous driving startup Aurora Innovation have agreed to establish a long-term partnership to develop and produce self-driving vehicles, according to reports in Japan."
+    publishedDateTime: 2021-02-11T10:40:00Z
+    webUrl: "https://www.just-auto.com/news/toyota-in-self-driving-partnership-with-aurora_id200163.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
     quality: 24
     images:
-      - url: "https://www.ajc.com/resizer/F0CHpZfoF1h0Rl_PukCMJPsMovo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/OE4ZL2NCWREDXLMILF7EOEQPOA.jpg"
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
         width: 1200
-        height: 630
+        height: 799
         isCached: true
-  - title: "Will Vermonters support self-driving car testing in their communities?"
-    excerpt: "Will your local leaders support the testing of self-driving cars in your community? That's what state leaders are trying to find out."
-    publishedDateTime: 2021-02-08T21:08:00Z
-    webUrl: "https://www.wcax.com/2021/02/08/will-vermonters-support-self-driving-car-testing-in-their-communities/"
+  - title: "Toyota and Aurora partner on self-driving cars"
+    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 24
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
-        width: 980
-        height: 552
+      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
+        width: 1920
+        height: 1143
+        isCached: true
+  - title: "The self-driving Toyota is coming"
+    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+    publishedDateTime: 2021-02-13T06:19:00Z
+    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+        width: 400
+        height: 266
         isCached: true
 
 secured: "zDRWp+0omWDgH1dDRtkrG0Ot1Hwn3T8gXi6baKKlugxkomAAsD7W7p7IClASKaKDsL7Dpp4B6TsrkwUzCIeu07E4hMiKFN0ekC7A2ivnTNbN2ruOQpDSwNzevHkcj0wmFkywlo55FP0wiYoBC0pqYmB9jGPc/ItrLZaxDNKjOqnEgkXJ1rxqs/eC9g5ECb4D7yHWx1x2tSGCjlWXi/AlWel7wB1fQWiTCACucv8od1pRDsxxIIIyy4QG2Tni4+7s25w4g+05OetRKoq9oFVlYfzW+ZId9zKbFf9micVPw7zBlYNBtjV1IatfXS6lGXT+K5OSAeZeoNHM3MY5hcyvSIwR5RiNBfZy4MMzkWGi/Gx/OoZCrhVgjEfDGvMkTSc59RiF3Ewwoio4wsmMmTLziKBOJRiywdH00MQv419mn5XikxLnRG/8rVAeF0rPFj0LSnxUBplYpnR2M6cnuSipi3Er68p75CftUPaHH9nclEs5UDDV2tIYSxCqHMg8k/hFY4QXAvihSOw97BdAnu2nqA==;Gxi31gea9kkfeqRAnhTiaQ=="

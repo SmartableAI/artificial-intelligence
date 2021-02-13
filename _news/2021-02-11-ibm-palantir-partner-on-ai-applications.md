@@ -83,22 +83,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Palantir leaps 15% after revealing partnership with IBM on artificial-intelligence applications"
-    excerpt: "The artificial intelligence offering aims to help businesses leverage large and complex data sets without the need for deep technical knowledge."
-    publishedDateTime: 2021-02-08T16:00:00Z
-    webUrl: "https://www.businessinsider.com/palantir-stock-price-ibm-partnership-artificial-intelligence-product-announcement-pltr-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/palantir-stock-price-ibm-partnership-artificial-intelligence-product-announcement-pltr-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/palantir-stock-price-ibm-partnership-artificial-intelligence-product-announcement-pltr-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/60214a4bcca90200129b6f35?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "IBM and Palantir introduce new hybrid cloud and low-code AI solution"
     excerpt: "IBM and Palantir announced their new partnership. The two companies jointly start Palantir for IBM Cloud Pak for Data. A new hybrid cloud solution that enables organizations to develop artificial intelligence with little code (with minimal coding)."
     publishedDateTime: 2021-02-10T23:41:00Z
@@ -167,20 +151,6 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
         width: 577
         height: 324
-        isCached: true
-  - title: "Palantir for IBM Cloud Pak for Data Announced"
-    excerpt: "IBM is partnering with Palantir Technologies to bring AI-infused applications to businesses with Palantir for IBM Cloud Pak for Data."
-    publishedDateTime: 2021-02-08T16:47:00Z
-    webUrl: "https://www.storagereview.com/news/palantir-for-ibm-cloud-pak-for-data-announced"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 24
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2021/02/StorageReview-Palantir-for-IBM-Cloud-Pak.jpg"
-        width: 1000
-        height: 710
         isCached: true
   - title: "IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications; Unlock Valuable Data Across Hybrid Cloud Environments"
     excerpt: "the new product will leverage Palantir Foundry and will integrate with IBM Cloud Pak for Data services, such as Watson, providing an information architecture that includes data and AI with built ..."

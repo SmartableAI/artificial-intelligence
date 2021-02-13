@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-13-artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace.md",
+      "title": "Artificial Intelligence in Security Market Next Big Thing | Major Giants Amazon, IBM, Darktrace",
+      "excerpt": "COVID-19 Outbreak-Global Artificial Intelligence in Security Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace-2021-02-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace-2021-02-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-bias-allegations-against-facial-recognition-prompt-legal-challenge-threat.md",
       "title": "Bias allegations against facial recognition prompt legal challenge, threat",
       "excerpt": "Allegations of poor performance for women and people of color by face biometrics systems have resulted in legal action and the threat of a lawsuit.",
@@ -885,6 +937,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-12-news24com-watch-vw-taps-microsoft-cloud-for-self-driving-cars.md",
+      "title": "News24.com | WATCH | VW taps Microsoft cloud for self driving cars",
+      "excerpt": "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "publishedDateTime": "2021-02-11T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock.md",
       "title": "Valentine’s Day Your Hotel Might Have This AI Bed Funded By Adobe Founder John Warnock",
       "excerpt": "As Elon Musk, Larry Ellison and Peter Thiel flee California in the tech exodus, Adobe co-founder John Warnock remains unfazed. He shares how his legendary deal with Apple co-founder Steve Jobs prompted him to fund the Bryte AI bed and why Silicon Valley will always be home to tech innovation.",
@@ -1030,7 +1126,7 @@
       "originalUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1082,7 +1178,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1122,109 +1218,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-cbp-facial-recognition-scanners-failed-to-find-a-single-imposter-at-airports-in-2020.md",
-      "title": "CBP Facial Recognition Scanners Failed to Find a Single Imposter At Airports in 2020",
-      "excerpt": "Customs and Border Protection used facial recognition tools to scan over 23 million travelers’ faces at 30-plus points of entry in 2020, and failed to turn up a single example of an individual impersonating someone else at an airport,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680",
-      "originalUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ptk8qwz2lidkcnm3uwul.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680/amp",
-      "publishedDateTime": "2021-02-11T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-5-ways-for-startups-to-take-advantage-of-ai.md",
-      "title": "5 Ways For Startups To Take Advantage Of AI",
-      "excerpt": "Others use AI to improve everything from customer service operations to digital marketing. Up until recently though, the best AI solutions were only accessible to big, well-funded corporations. Now, that's no longer the case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nealtaparia/2021/02/11/5-ways-for-startups-to-take-advantage-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/nealtaparia/2021/02/11/5-ways-for-startups-to-take-advantage-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602302cec96ba60ff6f609d0%2F0x0.jpg",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nealtaparia/2021/02/11/5-ways-for-startups-to-take-advantage-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nealtaparia/2021/02/11/5-ways-for-startups-to-take-advantage-of-ai/amp/",
-      "publishedDateTime": "2021-02-11T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

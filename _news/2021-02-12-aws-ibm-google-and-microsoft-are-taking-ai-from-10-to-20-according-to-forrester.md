@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
 type: article
 quality: 114
-heat: 354
+heat: 344
 published: true
 
 provider:
@@ -254,20 +254,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/02/10103555/10-feb_teams-bot.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "SD Times news digest: JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
-    excerpt: "JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
-    publishedDateTime: 2021-02-08T15:56:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-jetbrains-2020-annual-report-microsofts-autofill-solution-for-passwords-ibm-and-palantir-team-up-on-cloud-and-ai/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 53
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/02/G58mtNnU.png"
-        width: 680
-        height: 425
         isCached: true
   - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
     excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"

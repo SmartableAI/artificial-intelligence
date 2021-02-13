@@ -252,20 +252,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "SD Times news digest: JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
-    excerpt: "JetBrains 2020 annual report, Microsoft’s autofill solution for passwords, IBM and Palantir team up on cloud and AI"
-    publishedDateTime: 2021-02-08T15:56:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-jetbrains-2020-annual-report-microsofts-autofill-solution-for-passwords-ibm-and-palantir-team-up-on-cloud-and-ai/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 53
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/02/G58mtNnU.png"
-        width: 680
-        height: 425
-        isCached: true
   - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
     excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
     publishedDateTime: 2021-02-10T15:48:00Z

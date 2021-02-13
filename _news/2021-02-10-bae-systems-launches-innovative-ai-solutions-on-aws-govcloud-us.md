@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/bae-systems-launches-innovative-ai-solutions-
 webUrl: "https://www.unite.ai/bae-systems-launches-innovative-ai-solutions-on-aws-govcloud-us/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 713
     height: 401
     isCached: true
-
-related:
-  - title: "BAE Systems Debuts Groundbreaking AI Products on AWS GovCloud (US)"
-    excerpt: "BAE Systems is offering groundbreaking AI capabilities and a new data labeling service on the Amazon Web Services Marketplace for GovCloud (US)."
-    publishedDateTime: 2021-02-08T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210208005050/en/BAE-Systems-Debuts-Groundbreaking-AI-Products-on-AWS-GovCloud-US"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
 
 secured: "E4BI/d15w+i9iqueMgNzH1iTTcwlZ7o8nGW81N1/G0xRSYd05fxdGv2XrwJE6635y8ZLqw6u27GKNRIFe1VE8cZLIJcF73CPRUwUXZd1IuR+RLJCs0nv99PRDQJw9X+JSnqMc1PLgOAVTmVmUzCcQWzdk4Ii+peuwtWaUfRBVHHRKTwtmqja2LIlDlp+sKM0D9+X8ioWPg9hqV7IyT/o6e9Jbm9uwsAXGchswbpz1fZovA0tn6eypxvMQO5rt4yZJzhf+3R/NVNNLYtGRB3EyTAaxks6CE9mB/JqROAb2TbCdG6CjixaTP3TbHBGqbj6kGQIQh9a4SEgzvlEIo6Os6F4zZqDdZ2baNvNK683PpelmAZIJXi2UEp2TWYsWR/07VgVI1lH8eKDKgcS92HwBLm/u9QvVkYN6q26mesNkqN8Vk4fA1wJULvyshK3YLDTp/P9X4GpJmAI0RhDtvNMPqakwdkagYiXW4hS1CGqPE34corkoRUKFFafSFgAaclC25nI6WsrKswMdq6/1QnVyQ==;epWiAORfcI8BLd1OpwuN2Q=="
 ---

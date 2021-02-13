@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "News24.com | WATCH | VW taps Microsoft cloud for self driving cars"
+    excerpt: "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'"
+    publishedDateTime: 2021-02-12T07:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
   - title: "Volkswagen, Microsoft Ink Self-Driving Software Partnership"
     excerpt: "Volkswagen’s software arm Car.Software announced a collaboration with Microsoft to build a cloud-based automated driving platform (ADP) using the tech"
     publishedDateTime: 2021-02-11T11:58:00Z
@@ -41,15 +52,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Volkswagen Group teams up with Microsoft to accelerate the development of automated driving"
-    excerpt: "WOLFSBURG, Germany and REDMOND, Wash., Feb. 11, 2021/ PRNewswire/-- Volkswagen Group further strengthens its capabilities in the development of automated driving solutions. Software Organisation will collaborate with Microsoft to build a cloud-based Automated Driving Platform on Microsoft Azure and leverage its compute and data capabilities to"
-    publishedDateTime: 2021-02-11T06:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/volkswagen-group-teams-up-with-microsoft-to-accelerate-the-development-of-automated"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 39
   - title: "Microsofts expands partnership with Volkswagen on cloud-based Automated Driving Platform"
     excerpt: "Microsoft said it has expanded its partnership with German carmaker Volkswagen. The company will cooperate with Volkswagen's software firm, Car.Software Organisation, to build a cloud-based Automated Driving Platform (ADP) on Microsoft Azure."
     publishedDateTime: 2021-02-11T08:30:00Z

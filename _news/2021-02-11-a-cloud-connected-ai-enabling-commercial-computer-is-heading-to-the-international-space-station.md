@@ -100,6 +100,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 86
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+    publishedDateTime: 2021-02-11T13:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch"
     excerpt: "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer."
     publishedDateTime: 2021-02-12T16:26:00Z
@@ -231,15 +242,6 @@ related:
         width: 900
         height: 505
         isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
-    publishedDateTime: 2021-02-11T07:08:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 31
   - title: "HPE goes to space with NASA partnership to launch edge computer into orbit"
     excerpt: "Hewlett Packard Enterprise Co. will send a specialized edge computing system to the International Space Station this month to give astronauts access to more processing power for research projects. The initiative,"
     publishedDateTime: 2021-02-11T18:40:00Z

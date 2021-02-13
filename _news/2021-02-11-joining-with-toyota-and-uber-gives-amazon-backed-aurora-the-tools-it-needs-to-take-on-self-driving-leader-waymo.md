@@ -105,6 +105,17 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "This is how self-driving cars are becoming blueprints for smarter surgeries"
+    excerpt: "A startup is exploring how the artificial intelligence (AI) technologies used in self-driving cars could act as a \"blueprint\" for smarter surgeries. Theator, based in Palo Alto, Calif., is the developer of a \"surgical intelligence\" platform designed to improve the decision-making of surgeons and,"
+    publishedDateTime: 2021-02-09T12:01:00Z
+    webUrl: "https://www.zdnet.com/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
   - title: "Toyota and Denso team with Aurora on self-driving minivans"
     excerpt: "Toyota and longtime supplier partner Denso will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks"
     publishedDateTime: 2021-02-09T17:28:00Z

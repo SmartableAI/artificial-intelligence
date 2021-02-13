@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-10-startup-that-taps-ai-to-boost-crop-yields-seeks-canadian-ipo.md",
+      "title": "Startup that Taps AI to Boost Crop Yields Seeks Canadian IPO",
+      "excerpt": "Farmers Edge Inc., a firm that uses artificial intelligence to help growers boost crop yields, is seeking to raise about C$100 million ($79 million) in an initial public offering to strengthen its finances and repay debt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idVPLA9Vtm80/v1/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "publishedDateTime": "2021-02-09T15:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-toyota-and-aurora-craft-deal-to-develop-self-driving-taxis.md",
       "title": "Toyota And Aurora Craft Deal To Develop Self-Driving Taxis",
       "excerpt": "A deal between Toyota and a fast-growing self-driving technology company shows how the autonomous vehicle market is developing. Car buyers look to be the last option for this kind of self-driving.  Toyota and its auto parts subsidiary,",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -168,7 +219,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1073,49 +1124,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-hyundai-and-kia-wont-build-apples-self-driving-car-after-all.md",
-      "title": "Hyundai and Kia Won't Build Apple's Self-Driving Car After All",
-      "excerpt": "Korean automakers Hyundai (OTC: HYMTF) and Kia say that a deal to build cars for tech giant Apple (NASDAQ: AAPL) -- which had been expected as",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyundai-and-kia-wont-build-apples-self-driving-car-after-all-9787439",
-      "publishedDateTime": "2021-02-08T21:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-09-bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-22-million-seed-round.md",
       "title": "Bangladesh-based Maya, a startup focused on accessible healthcare, raises $2.2 million seed round",
       "excerpt": "Based in Bangladesh, Maya is dedicated to making it easier for women to get healthcare, especially for sensitive issues like reproductive and mental health. The startup announced today it has raised $2.",
@@ -1177,7 +1185,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 189,
       "tags": null,
       "images": [
         {

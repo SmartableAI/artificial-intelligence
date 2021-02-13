@@ -2,17 +2,23 @@
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
 excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
-publishedDateTime: 2021-02-11T07:08:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+publishedDateTime: 2021-02-11T13:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
 type: article
-quality: 31
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -254,6 +260,6 @@ related:
         height: 419
         isCached: true
 
-secured: "9x+JUNb/4x80gRiQWwNqiPm+8z0NaWvV84XUvHq8lABbUQv3cxLIIRu9I3ksik7InO0mqqxi9MxPQsCqedIkwyCrp3FS+mlhW/LyPVYx7O/KBNZgoGBjFgO9eyDE98IUT6eK8A7YbVdMD6LW/CDazuVbEdSbRxcoDQIaxi1yvWCdCjz/BBqscX7krto6yB2XPyAnx+7haXUO+j/4VUy2mw2vkwmDzfrHP5gMmjV8xSWAoktm5tMyN/9ACmJ5jh2ksTcufA24vuwtEL8/Zu8NG8DCcb6jpd6XNCd3uXUO8Vbn5EZEDNCG7CySHHJCUHLFxnYU3fwkQcGiD/B+eiiIcBtE3AEx23vrSsjbCQltG0I=;wD4rXIy0CqHWJlLKCrpKaQ=="
+secured: "c0Vgb3ABFaPvPrY+JrsYALkm81o2uZyhXCPjjzze5nU7ernlEYHacplzqPovJ+tS/zB4xlHka9/5eNAe+1fHz4XjojRlj/h+gRJjYngpdtpbHuRr2jXU6dvK/c6GtCTayDAOZjFqbCgrjLJCbSapezgVlvbZT9kxmPrviB6SurrW1DA+19EW4FmvW4Rso64Msx/Qv634qV6rZhx0PT5IHfVCBGEGhhfVHq0wJntoVp5QwaNwf/R67QqEyHwqaslPznpJyYbjUYq1OEjp3wSv01rWhElH3/+U6bw9nM0mcq4ywZppM6Cusfb3N7rkuZEe57j+R8vlM+VfGxRYUATBtP32kgw+bBPbal6pBh1pbhY=;xMVebNsIoUgx9j1oUX6jbA=="
 ---
 

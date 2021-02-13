@@ -55,6 +55,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-12-news24com-watch-vw-taps-microsoft-cloud-for-self-driving-cars.md",
+      "title": "News24.com | WATCH | VW taps Microsoft cloud for self driving cars",
+      "excerpt": "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "publishedDateTime": "2021-02-11T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-aws-ibm-google-and-microsoft-are-taking-ai-from-10-to-20-according-to-forrester.md",
       "title": "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester",
       "excerpt": "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile.",
@@ -63,7 +107,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -157,50 +201,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-volkswagen-microsoft-ink-self-driving-software-partnership.md",
-      "title": "Volkswagen, Microsoft Ink Self-Driving Software Partnership",
-      "excerpt": "Volkswagen’s software arm Car.Software announced a collaboration with Microsoft to build a cloud-based automated driving platform (ADP) using the tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.smarteranalyst.com/stock-news/volkswagen-microsoft-ink-self-driving-software-partnership/",
-      "originalUrl": "https://www.smarteranalyst.com/stock-news/volkswagen-microsoft-ink-self-driving-software-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_1248578830.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smarteranalyst.com/stock-news/volkswagen-microsoft-ink-self-driving-software-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/volkswagen-microsoft-ink-self-driving-software-partnership/amp/",
-      "publishedDateTime": "2021-02-11T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smarter Analyst",
-        "domain": "smarteranalyst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
