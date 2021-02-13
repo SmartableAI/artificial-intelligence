@@ -4,49 +4,267 @@
   "page": 8,
   "value": [
     {
-      "path": "_companies/dominodatalab.md",
-      "title": "Domino Data Lab",
-      "excerpt": "We’re building the platform that enables thousands of data scientists to develop better medicines, grow more productive crops, build better cars, or simply recommend the best song to play next.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/dominodatalab/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/dominodatalab/",
+      "path": "_companies/deeplens.ai.md",
+      "title": "Deep Lens",
+      "excerpt": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deeplens.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/deeplens.ai/",
       "type": "profile",
-      "name": "Domino Data Lab",
-      "overview": "We’re building the platform that enables thousands of data scientists to develop better medicines, grow more productive crops, build better cars, or simply recommend the best song to play next.",
-      "website": "https://www.dominodatalab.com/",
+      "name": "Deep Lens",
+      "overview": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
+      "website": "https://www.deeplens.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/domino-data-lab",
-        "followers": 5793
+        "url": "https://www.linkedin.com/company/deep-lens/",
+        "followers": 853
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/domino-data-lab"
+        "url": "https://www.crunchbase.com/organization/deep-lens"
       },
       "twitter": {
-        "username": "dominodatalab",
-        "url": "https://twitter.com/dominodatalab",
-        "followers": 8471
+        "username": "deeplens_ai",
+        "url": "https://twitter.com/deeplens_ai",
+        "followers": 523
       },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
+      "size": "11-50 employees",
+      "yearFounded": 2017,
       "locations": [
-        "San Francisco, CA"
+        "Columbus, OH",
+        "Columbus, Ohio"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 50,
+      "tags": [
+        "Cancer"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Deep Lens",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHGtbVAOcvZaQ/company-logo_200_200/0?e=1594857600&v=beta&t=b8v2Fneb0bMouSAv-SuBaRm-zVivHKqHZbOmORGfNks",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/deepmind.md",
+      "title": "DeepMind",
+      "excerpt": "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deepmind/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/deepmind/",
+      "type": "profile",
+      "name": "DeepMind",
+      "overview": "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems.",
+      "website": "https://deepmind.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/deepmind/",
+        "followers": 93905
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/deepmind"
+      },
+      "twitter": {
+        "username": "deepmindai",
+        "url": "https://twitter.com/deepmindai",
+        "followers": 0
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "London, UK",
+        "London, London"
+      ],
+      "funding": {
+        "status": "M&A"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=SUbqykXVx0A"
+        }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1281250386658103296/L3MBzlFZ_400x400.jpg",
+          "url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Domino Data Lab",
+          "title": "DeepMind",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGEcVhweiL2g/company-logo_200_200/0?e=1594857600&v=beta&t=Ap6sV08X_M6m1o0w3Pw7u3GrChibAf3mqehIiI2wNsY",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGprhpCEQGNjQ/company-logo_200_200/0?e=1594857600&v=beta&t=tmwM0qvvVgR_Mnwv_tVijP5gQ4u-_7pic-UGMuhbQxo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/deepzen.io.md",
+      "title": "Deepzen",
+      "excerpt": "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deepzen.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/deepzen.io/",
+      "type": "profile",
+      "name": "Deepzen",
+      "overview": "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals.",
+      "website": "http://deepzen.io",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/deepzen.io/",
+        "followers": 298
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/deep-zen"
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "London, England"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=kaNKxfTjpzQ"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFGxMuC_cMpXw/company-logo_200_200/0?e=1594857600&v=beta&t=LjusR1qYQN4IoyQ-Kzs3Pi3MYwd0ucgVi2Ca-CbeVnI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/diagnocat.md",
+      "title": "Diagnocat",
+      "excerpt": "Diagnocat AI analyzes dental 3D x-rays, recognizes anatomical areas and detects various pathologies of maxillo-facial area.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/diagnocat/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/diagnocat/",
+      "type": "profile",
+      "name": "Diagnocat",
+      "overview": "Diagnocat AI analyzes dental 3D x-rays, recognizes anatomical areas and detects various pathologies of maxillo-facial area.",
+      "website": "http://diagnocat.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/diagnocat",
+        "followers": 42
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/diagnocat"
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Moscow, Moscow City",
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=bCv1_PbU_Ow"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHu9yjeG42QzQ/company-logo_200_200/0?e=1594857600&v=beta&t=0jm63TMeGeTyK_DYbh9K6Yb_ROFncAOJ4OC5vwHfCMY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/diligentrobots.md",
+      "title": "Diligent Robotics",
+      "excerpt": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/diligentrobots/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/diligentrobots/",
+      "type": "profile",
+      "name": "Diligent Robotics",
+      "overview": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
+      "website": "http://diligentrobots.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/diligent-robotics/",
+        "followers": 975
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/diligent-robotics"
+      },
+      "twitter": {
+        "username": "DiligentRobots",
+        "url": "https://twitter.com/DiligentRobots",
+        "followers": 751
+      },
+      "size": "2-10 employees",
+      "yearFounded": 0,
+      "locations": [
+        "Austin, TX",
+        "Austin, Texas"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=vniKNpy5SFs"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1301980739710390272/NBgvcoeG_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Diligent Robotics",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGTWyHAHJM5tA/company-logo_200_200/0?e=1594857600&v=beta&t=CXGkczmGKv3dTT23-w5QK9hKC4r45P-WAfXQnEx8GO4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -229,56 +447,52 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/fraugster.md",
-      "title": "Fraugster",
-      "excerpt": "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fraugster/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/fraugster/",
+      "path": "_companies/foodvisor.io.md",
+      "title": "Foodvisor",
+      "excerpt": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/foodvisor.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/foodvisor.io/",
       "type": "profile",
-      "name": "Fraugster",
-      "otherNames": [
-        "Fraugster Limited"
-      ],
-      "overview": "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce",
-      "website": "https://fraugster.com/",
+      "name": "Foodvisor",
+      "overview": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
+      "website": "http://www.foodvisor.io/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/fraugster/",
-        "followers": 1304
+        "url": "https://www.linkedin.com/company/foodvisor/",
+        "followers": 1553
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fraugster"
+        "url": "https://www.crunchbase.com/organization/foodvisor"
       },
       "twitter": {
-        "username": "fraugster",
-        "url": "https://twitter.com/fraugster",
-        "followers": 763
+        "username": "foodvisor_app",
+        "url": "https://twitter.com/foodvisor_app",
+        "followers": 1200
       },
       "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2015,
       "locations": [
-        "San Francisco, CA"
+        "Paris, Ile de France"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
-        "AI in Finance"
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=H77GQBirQkM"
+        }
       ],
       "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1296745102828810240/FNWtlUGI_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/805813676926205953/s_f8nCWI_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Fraugster",
+          "title": "Foodvisor",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGisd_IWmCCTQ/company-logo_200_200/0?e=1594857600&v=beta&t=MHYu6ciWY5i5ih3ke6nKjZWo_gXA79HJTVvsPWN8aLA",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE50pGtmP_m4w/company-logo_200_200/0?e=1594857600&v=beta&t=E5Q9aENJAMmjFQNvwyYhVq2fVhLG3-n-jTdZU7S--iA",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -343,48 +557,45 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/gnshealthcare.md",
-      "title": "GNS Healthcare",
-      "excerpt": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gnshealthcare/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/gnshealthcare/",
+      "path": "_companies/grok.md",
+      "title": "Grok",
+      "excerpt": "The Leading AIOPS Platform For Intelligent Incident Prediction And Self-Healing Operations In IT Service Assurance",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/grok/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/grok/",
       "type": "profile",
-      "name": "GNS Healthcare",
-      "overview": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "website": "http://www.gnshealthcare.com/",
+      "name": "Grok",
+      "overview": "The Leading AIOPS Platform For Intelligent Incident Prediction And Self-Healing Operations In IT Service Assurance",
+      "website": "https://grokstream.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/gns-healthcare/",
-        "followers": 3017
+        "url": "https://www.linkedin.com/company/grok-llc/",
+        "followers": 225
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gns-healthcare"
+        "url": "https://www.crunchbase.com/organization/grok"
       },
       "twitter": {
-        "username": "gnshealthcare",
-        "url": "https://twitter.com/gnshealthcare",
-        "followers": 2615
+        "username": "grokstream",
+        "url": "https://twitter.com/grokstream",
+        "followers": 556
       },
-      "size": "51-200 employees",
-      "yearFounded": 2000,
+      "size": "11-50 employees",
+      "yearFounded": 2015,
       "locations": [
-        "Cambridge, MA"
+        "San Clemente, CA"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=1063wrnhLHE"
-        }
+        "AI"
       ],
       "heat": 50,
+      "tags": [
+        "AIOPS"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1338527130251104262/28GIGXM6_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "GNS Healthcare",
+          "title": "Grok",
           "isCached": true
         }
       ],
@@ -474,6 +685,110 @@
           "height": 400,
           "title": "HiBrainy",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/infermedica.md",
+      "title": "Infermedica",
+      "excerpt": "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/infermedica/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/infermedica/",
+      "type": "profile",
+      "name": "Infermedica",
+      "overview": "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care.",
+      "website": "https://infermedica.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/infermedica",
+        "followers": 1399
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/infermedica"
+      },
+      "twitter": {
+        "username": "infermedica",
+        "url": "https://twitter.com/infermedica",
+        "followers": 2652
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Wrocław, Lower Silesia"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=p8YcZnbiB2U"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1143811617425186816/xjFXIamj_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Infermedica",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFSZao-2Qp3Qg/company-logo_200_200/0?e=1594857600&v=beta&t=mAsp0thYED-zbD9zjMYxf7v7J24YGU9PTIh4UQ6dVno",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/insightengines.md",
+      "title": "Insight Engines",
+      "excerpt": "Research discovery with artificial intelligence - for academia and chemical research.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/insightengines/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/insightengines/",
+      "type": "profile",
+      "name": "Insight Engines",
+      "overview": "Research discovery with artificial intelligence - for academia and chemical research.",
+      "website": "https://insightengines.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/insight-engines-inc"
+      },
+      "twitter": {
+        "username": "insightengines",
+        "url": "https://twitter.com/insightengines",
+        "followers": 235
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Norway"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=iD4tlJ-ECZo"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/778092205093322752/BNor8pkI_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Insight Engines",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -876,95 +1191,164 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/leapmind.io.md",
-      "title": "LeapMind",
-      "excerpt": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/leapmind.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/leapmind.io/",
+      "path": "_companies/lifebit.ai.md",
+      "title": "Lifebit",
+      "excerpt": "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lifebit.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/lifebit.ai/",
       "type": "profile",
-      "name": "LeapMind",
-      "overview": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
-      "website": "http://leapmind.io/",
+      "name": "Lifebit",
+      "overview": "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it.",
+      "website": "https://lifebit.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/leapmind-inc/",
-        "followers": 1026
+        "url": "https://www.linkedin.com/company/lifebit-ai/",
+        "followers": 900
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/leap-mind"
+        "url": "https://www.crunchbase.com/organization/lifebit-ai"
       },
       "twitter": {
-        "username": "leapmind_inc",
-        "url": "https://twitter.com/leapmind_inc",
-        "followers": 895
+        "username": "lifebitAI",
+        "url": "https://twitter.com/lifebitAI",
+        "followers": 4103
       },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
+      "size": "2-10 employees",
+      "yearFounded": 2017,
       "locations": [
-        "Tokyo, Japan",
-        "Shibuya-ku, Tokyo"
+        "London, UK",
+        "London, London"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=aycHy_axa_Q"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/972120873456095233/2a1jM0Km_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lifebit",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQG6jiqJ2o5gmg/company-logo_200_200/0?e=1594857600&v=beta&t=oQdN7yi0p9muTqdn256inMB-A-4Y-Cbq2UnB0kwW5d0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lilt.md",
+      "title": "Lilt",
+      "excerpt": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lilt/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/lilt/",
+      "type": "profile",
+      "name": "Lilt",
+      "overview": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
+      "website": "https://lilt.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/lilthq/",
+        "followers": 2681
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lilt"
+      },
+      "twitter": {
+        "username": "lilthq",
+        "url": "https://twitter.com/lilthq",
+        "followers": 5768
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=IsTf6hB0bGo"
-        }
+        "Natural Language Processing"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1240580034902908931/E1foW3iy_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1047884762436788224/Qw9V6EjW_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "LeapMind",
+          "title": "Lilt",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGCR2u9hpuFNQ/company-logo_200_200/0?e=1594857600&v=beta&t=nS4hm-ccE5SHhkOzP7HZ5deOv04vGZON7lH6nno0j4c",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/lighttag.io.md",
-      "title": "LightTag",
-      "excerpt": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lighttag.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/lighttag.io/",
+      "path": "_companies/mapegy.md",
+      "title": "Mapegy",
+      "excerpt": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mapegy/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/mapegy/",
       "type": "profile",
-      "name": "LightTag",
-      "overview": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
-      "website": "https://www.lighttag.io/",
+      "name": "Mapegy",
+      "overview": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
+      "website": "https://www.mapegy.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mapegy",
+        "followers": 302
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lighttag"
+        "url": "https://www.crunchbase.com/organization/mapegy"
       },
       "twitter": {
-        "username": "LabeledData",
-        "url": "https://twitter.com/LabeledData",
-        "followers": 137
+        "username": "mapegy",
+        "url": "https://twitter.com/mapegy",
+        "followers": 279
       },
-      "yearFounded": 0,
+      "size": "11-50 employees",
+      "yearFounded": 2012,
       "locations": [
-        "San Francisco, CA"
+        "Berlin"
       ],
+      "funding": {
+        "status": "Seed"
+      },
       "topics": [
         "AI",
         "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=dA2uo9sGIj8"
+          "url": "https://www.youtube.com/watch?v=FM_2nxVEIOs"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1306917715408543750/b4hTeZ27_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1294236247985184768/RR6qxQRZ_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "LightTag",
+          "title": "Mapegy",
           "isCached": true
         }
       ],
@@ -993,425 +1377,54 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/mojo.md",
-      "title": "mojo",
-      "excerpt": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mojo/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mojo/",
+      "path": "_companies/mighty.ai.md",
+      "title": "Mighty AI",
+      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mighty.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/mighty.ai/",
       "type": "profile",
-      "name": "mojo",
-      "overview": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
-      "website": "https://www.mojofertility.co/",
+      "name": "Mighty AI",
+      "otherNames": [
+        "Spare5"
+      ],
+      "overview": "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written.",
+      "website": "https://mighty.ai",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/mojofertility/",
-        "followers": 154
+        "url": "https://www.linkedin.com/company/mightyai/",
+        "followers": 2029
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/mojofertility"
+        "url": "https://www.crunchbase.com/organization/spare5"
       },
       "twitter": {
-        "username": "mojofertility",
-        "url": "https://twitter.com/mojofertility",
-        "followers": 387
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Lyon, Rhône-Alpes"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1359866223434076163/bUKoxr7o_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "mojo",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=1594857600&v=beta&t=jFRlt8PrCUhmt-vwq9eVRKeZ2geX62897tvRK5j0Tk0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/mov.ai.md",
-      "title": "MOV.AI",
-      "excerpt": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mov.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mov.ai/",
-      "type": "profile",
-      "name": "MOV.AI",
-      "overview": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
-      "website": "http://mov.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/movai/",
-        "followers": 567
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ground-drone-ltd"
-      },
-      "twitter": {
-        "username": "movairobots",
-        "url": "https://twitter.com/movairobots",
-        "followers": 126
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Cascais"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=KF0y_gPMnGI"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/961191390997774336/KxVaJhnX_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "MOV.AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS7cPoXEKZLw/company-logo_200_200/0?e=1594857600&v=beta&t=wqA8W5HJQ9WiWeS1xvkHFslIZdwQ-JgmTJEXpfNOtY0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/movidius.md",
-      "title": "Movidius",
-      "excerpt": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/movidius/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/movidius/",
-      "type": "profile",
-      "name": "Movidius",
-      "overview": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
-      "website": "http://www.movidius.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/movidius",
-        "followers": 20091
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/movidius"
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2005,
-      "locations": [
-        "Santa Clara, CA",
-        "Santa Clara, California"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=hD3RYGJgH4A"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Movidius",
-          "isCached": false
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHMBK9DktdgOg/company-logo_200_200/0?e=1594857600&v=beta&t=J53cwyA96-njplV5LC0dIsGYTIxT-3S1GU5SFLHhTj0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/mythic-ai.md",
-      "title": "Mythic",
-      "excerpt": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mythic-ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mythic-ai/",
-      "type": "profile",
-      "name": "Mythic",
-      "overview": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
-      "website": "https://www.mythic-ai.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/isocline",
-        "followers": 214
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/isocline"
-      },
-      "twitter": {
-        "username": "mythicinc",
-        "url": "https://twitter.com/mythicinc",
-        "followers": 704
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Austin, TX",
-        "Austin, TX"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=q59k-4c-hbk"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mythic",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/nauto.md",
-      "title": "Nauto",
-      "excerpt": "NautoⓇ is the only AI-powered, driver behavior learning platform to predict and reduce high-risk events in the mobility ecosystem. By analyzing billions of data points from over 400 million AI-processed video miles, Nauto’s machine learning algorithms continuously improve and impact driver behavior before events happen, not after. Nauto has enabled the largest commercial fleets in the world to avoid more than 250,000 collisions, resulting in nearly $1 billion in savings and over 5,000 lives saved.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/nauto/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/nauto/",
-      "type": "profile",
-      "name": "Nauto",
-      "overview": "NautoⓇ is the only AI-powered, driver behavior learning platform to predict and reduce high-risk events in the mobility ecosystem. By analyzing billions of data points from over 400 million AI-processed video miles, Nauto’s machine learning algorithms continuously improve and impact driver behavior before events happen, not after. Nauto has enabled the largest commercial fleets in the world to avoid more than 250,000 collisions, resulting in nearly $1 billion in savings and over 5,000 lives saved.",
-      "website": "https://www.nauto.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/nauto/",
-        "followers": 6785
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nauto-inc"
-      },
-      "twitter": {
-        "username": "NautoInc",
-        "url": "https://twitter.com/NautoInc",
-        "followers": 3509
+        "username": "mighty_ai",
+        "url": "https://twitter.com/mighty_ai",
+        "followers": 1777
       },
       "size": "51-200 employees",
-      "yearFounded": 2015,
+      "yearFounded": 2014,
       "locations": [
-        "Palo Alto, CA",
-        "Palo Alto, California"
+        "Seattle, WA",
+        "Seattle, Washington"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "M&A"
       },
       "topics": [
         "AI",
         "AI in Autos"
       ],
       "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1288578079690903552/Os2VKD7G_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1029849217693405184/RWvJ3wHK_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Nauto",
+          "title": "Mighty AI",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGkusLVnmhocA/company-logo_200_200/0?e=1594857600&v=beta&t=QJ_2CuOCH0MD-dcZDjaZGOtr7vwIpeSoVxgIOq-3ZPM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/netguardians.ch.md",
-      "title": "NetGuardians",
-      "excerpt": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/netguardians.ch/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/netguardians.ch/",
-      "type": "profile",
-      "name": "NetGuardians",
-      "overview": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
-      "website": "https://netguardians.ch/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/netguardians/",
-        "followers": 3764
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/netguardians"
-      },
-      "twitter": {
-        "username": "netguardians",
-        "url": "https://twitter.com/netguardians",
-        "followers": 1506
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2007,
-      "locations": [
-        "Yverdon, Vaud"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/998935117614608385/FWOiFezQ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "NetGuardians",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_200_200/0?e=1594857600&v=beta&t=Rbmg26H88Yy5LTjE_R-GDY2tykYTwtwUGZILkdLpwVA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/nutrino.md",
-      "title": "Nutrino",
-      "excerpt": "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/nutrino/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/nutrino/",
-      "type": "profile",
-      "name": "Nutrino",
-      "overview": "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier.",
-      "website": "https://www.nutrinohealth.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/nutrino",
-        "followers": 1309
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nutrino"
-      },
-      "twitter": {
-        "username": "NutrinoCo",
-        "url": "https://twitter.com/NutrinoCo",
-        "followers": 7
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Tel-Aviv, ."
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ynhELhRZO1s"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/647537901971095552/Y083_A7n_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nutrino",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHfQMuGfVS0Qg/company-logo_200_200/0?e=1594857600&v=beta&t=qqSHyIcWry498ipimTh7vDWuHL91JalI05MndO4-Ofg",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/nuviainc.md",
-      "title": "NUVIA",
-      "excerpt": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/nuviainc/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/nuviainc/",
-      "type": "profile",
-      "name": "NUVIA",
-      "overview": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
-      "website": "https://nuviainc.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/nuviainc/",
-        "followers": 1673
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nuvia-ed93"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2019,
-      "locations": [
-        "Santa Clara , CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=J6ciNns9pxk"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH_AhIXI9JVnA/company-logo_200_200/0?e=1594857600&v=beta&t=dKNMNCBXLzYmywhm0DxDHcVDhVYnAKR3mqciYu5zfNM",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH121p9MTqZzg/company-logo_200_200/0?e=1594857600&v=beta&t=9Yc5quyJcAQ8vkvPIXlhOD1hIs3qUHyXygadAO8rC9E",
           "width": 400,
           "height": 400,
           "title": "logo",

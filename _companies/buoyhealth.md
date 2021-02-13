@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "buoyhealth"
   url: "https://twitter.com/buoyhealth"
-  followers: 1280
+  followers: 1281
 
 size: 11-50 employees
 yearFounded: 2014
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "hYPw3zSOYOQTpXvLdS8loUVdQm1/8TsBnW8yu984zeL71+/TbbmMNNLAyDz5mA1UV9Z6GKMfgnJQ0Uw8paZvZPKPM402K+M1+Yib6PEPUrtCtp2k3cUrbAJJO7HCERsFzA61HIgwwgcnEA6RKpk6jhmgyVMDa/M9W07MfebUzCwD8Oj1iaHqBDrm79UDiQiqdaBTxiuYiizf9na4Ld+9stCqueB5Wly7/YlJ/zaBLpcFiaP5JXbjEl5wwxQEBCzgOfRGDShouYVzxML6VRHwyHT2AeUGCj9dbrwEExuRxR8s8csDE2bmvl0FRs+kC/48kwgb6sBN1TgPt+wIoiD9dodXD40XgRcaLiETkW49QzdRiGI0DJk+VGmGBP3Cb2mdbiqXVaX3TEQpHdaZfXG0W+n1KarCEAHreTjixpUKoPI=;sm55v4NnNk7ARrzz+7eNOw=="
+secured: "JFdi5I9rv231c40lEX1sznU1DMNYx/tJuVJMcRrD4xbI5YCuf4AcSUXHgP9kWHOs6U4aL8JJINF/zAaZ4Nn9ARd0mZd45N1SCMYxEz2+o9PZmDqBhX4jHzrXG9YktdF6B/2Q/zubkuqxp0sv8uye1TmmJN5HAkzR0D1MnQYSK3M7hwOC1JKL1dZZETNj5e1nyRRV5rHaPKuleVFxujLihMwENWFAV89CPf2gb9LvwwNXwxE2DyHyTvKA68ZOmCEV6Vi/JuB5bbhkd8Kh6yWbzH5EywKTY1iPTDIPAA6zEI3B0szzjrj8QaJly4Jm0qWImVit7Q1vKC9gAusqcp5pfcWcni2O2SiyrYDQLEB89De6svc2oFXKAAG2HJ1bVjGIScROH2tKJSDnbvfXz8rTppnmA4SkyXxJy0naO88RU68=;dlBgT7ximGrj0mA1V09geA=="
 ---
 
