@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/press-release/2021-02-12/artificial-inte
 webUrl: "https://www.pharmiweb.com/press-release/2021-02-12/artificial-intelligence-ai-in-healthcare-market-size-is-to-expected-to-reach-us-99491-billion-a"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,14 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
-    excerpt: "In terms of opportunities, the artificial intelligence in manufacturing market is expected to grow from $513.6 million in 2017 to $15,273.7 million in 2025; it is expected to grow at a CAGR of 52.2% during the forecast period."
-    publishedDateTime: 2021-02-09T09:50:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/628713msn/the-artificial-intelligence-in-manufacturing-market-is-expected-to-reach-152737-million-in-2025-with-a-cagr-of-522"
+  - title: "The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%"
+    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in healthcare market."
+    publishedDateTime: 2021-02-09T15:38:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
+    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in manufacturing market."
+    publishedDateTime: 2021-02-09T16:19:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-industrial-equipment-repair-information-technology-5bc5bd87020e8288ad67c67be5202146"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Lucintel: The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%"
+    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in heal"
+    publishedDateTime: 2021-02-09T15:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51968415-lucintel-the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-dollar-36-1-billion-by-2025-with-cagr-of-50-2-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 9
+  - title: "Lucintel: The Artificial Intelligence in Manufacturing Market is Expected to Reach $15,273.7 Million in 2025 with a CAGR of 52.2%"
+    excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in manu"
+    publishedDateTime: 2021-02-09T15:57:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51968721-lucintel-the-artificial-intelligence-in-manufacturing-market-is-expected-to-reach-dollar-15-273-7-million-in-2025-with-a-cagr-of-52-2-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 0
 
 secured: "L7KDqcf+M7RubdML0Ou3IiWOUJph3+74kYtFmy0vn9lhxlxYf2vbSD4cn7+XLLgCwRliKMqdUqVzBgJXmtZEgDmKpQepe8CktWDAUyfqppi6FYf9oIQAkFgFC0cRDtFnKelupan9hKSXIDjdZrR3l3v+AOUpjhiVNx45CZOxQkrm1DE8HlvjaUMzBhQ4Pblq37fX0P/KEXSdpAePIKRlTjqXkZaZQI5R5Vd/MmgXHB2dv1PBRMDNuJcaksYftEVxZWVkHBBKbDhZ2PMcHNpPY5WmIY5UG+VuLkNjKNHBOCrl5/xNBhJU2dHuGzwzBlUNnOTaeg4/sdvG0CVmDZIN/GOEicSNBJQW4p0RCGGoY9M=;cTQS5eAYhhtiewaPYPmkvg=="

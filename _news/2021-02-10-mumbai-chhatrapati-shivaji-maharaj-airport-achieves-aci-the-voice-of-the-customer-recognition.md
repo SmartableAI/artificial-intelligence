@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ACI World unveils ‘Voice of the Customer’ recognition"
-    excerpt: "The recognition rewards airports that have worked hard to better understand their customers during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-09T10:37:00Z
-    webUrl: "https://www.internationalairportreview.com/news/152286/aci-world-voice-customer-recognition/"
-    type: article
-    provider:
-      name: internationalairportreview.com
-      domain: internationalairportreview.com
-    quality: 24
-    images:
-      - url: "https://www.internationalairportreview.com/wp-content/uploads/Customer-1.jpg"
-        width: 750
-        height: 450
-        isCached: true
   - title: "CSMIA Bags ‘Voice of the Customer’ Recognition by ACI"
     excerpt: "CSMIA has been awarded \"The Voice of the Customer\" recognition by Airports Council International (ACI), demonstrating the efforts of the airport in gathering passenger feedback to better understand their needs and preferences during the pandemic."
     publishedDateTime: 2021-02-10T19:48:00Z

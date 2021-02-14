@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
-publishedDateTime: 2021-01-27T22:00:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
+excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."
+publishedDateTime: 2021-01-28T04:50:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
+webUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 315
     isCached: true
 
-secured: "6OdGg5i+kJEAHlhdwHlMmE1d06myvJ+cpa/CSG6NVTixmvmBghRYK5gaiuNTpKL6SXiKPHvWgpxTSInRsnMI2UuXD77Y5VcncxXkuTvTd4tRnvprb9HPEAM7qksRQv4NaS1KNhjZCEqcB66nIyFZhBeqAV4br8LGxowYyG7dJ76CNSXxCrfKYfufBYl8LOmYYzqk1yAbIMJXg/Fv8aCMfuXoOPGFgK8MLyeFtPUo3z6GTYkRb/USAwbbx7YBmcubIdpKmcX8c4YrP8OG7M0OcOb0ig8GZEIN/qqhi5OfqszxmmSmkXPdnCjvUVeZUSv4UWrBaqozrMMPgbEydf3dLjvEPmPc678175TNbxBJ8+A=;L6MXq/mNDcVygNg/A7jDNA=="
+secured: "DUpgN0EaUSvJeC057RvI+EgiWDQF+uWHYg/YeyAeZECLnNvtG+zyr2ab7YBK62dEXSjJMXpfyNeBnDCLNBLONBV7DqUgZGEadOwBxpRr+awqyY82IgLgWb3Vf395EWnYKZUu495HOcAJavzYaczVbvN/MEJqiGN618o4jxhmoLe1dT8iOSuwwqRtndR4CUQHjbUE6nmL2q7CQgrMsAUYVXldFJFs0UcpK14gNz7d7AO9DP179eELhSvyH6m3qAceFaePAyoesqZhzgpEfxlmmYoXYlEabyc7I5fPSIBjynuEnRW77nLW8U2Oa4A00FfiTKtaOQy8EPZK5BqDMlj4tDnwb6taaR/7mCUf3nxXxAA=;ATfPeFLrEi2u2RNk0w4sAg=="
 ---
 

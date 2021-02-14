@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market, Analyst To Witness A 10% CAGR By 2023 | Size, Share, Trend and Global Forecast"
-    excerpt: "Automotive Artificial Intelligence Market-Overview: The automotive technology and services reports are produced by"
-    publishedDateTime: 2021-02-09T10:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analyst-to-witness-a-10-cagr-by-2023-size-share-trend-and-global-forecast-2021-02-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Review By Comprehensive Study, Development Status, Opportunities and Future Plans Forecast to 2026"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-02-09T13:30:00Z
@@ -97,6 +83,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Share, Size, Industry Growth, Trend, Business Opportunities, Challenges, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The AI in Fintech market intelligence study is a collection of authentic"
+    publishedDateTime: 2021-02-12T22:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-share-size-industry-growth-trend-business-opportunities-challenges-drivers-and-restraint-research-report-by-2027-2021-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -130,15 +130,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Chip Market to Witness Huge Growth from 2020-2030 and Focusing on Top Key Players - Intel Corp, NVIDIA Corp"
-    excerpt: "Market Industry Reports (MIR) has published a new report titled “AI Chip Market- Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020–2030.” According to the report, the Global AI Chip Market accounted for over ~US$ 9."
-    publishedDateTime: 2021-02-09T09:49:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/137575/ai-chip-market-to-witness-huge-growth-from-2020/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 14
   - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
     excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
     publishedDateTime: 2021-02-13T10:14:00Z

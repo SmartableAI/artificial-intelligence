@@ -356,10 +356,10 @@
     {
       "path": "_news/2021-01-28-pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning.md",
       "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
-      "excerpt": "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment",
+      "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
-      "originalUrl": "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -378,7 +378,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T14:00:00-08:00",
+      "publishedDateTime": "2021-01-27T20:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",

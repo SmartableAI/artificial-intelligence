@@ -2,6 +2,92 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-01-20-supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro.md",
+      "title": "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers",
+      "excerpt": "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "publishedDateTime": "2021-01-20T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-fintech-expands-data-services-through-acquisition-of-aperity.md",
+      "title": "Fintech Expands Data Services Through Acquisition of Aperity",
+      "excerpt": "Our partnership with Fintech brings a wide network of distributors and suppliers to Aperity’s Beverage Data Exchange, allowing us to leverage Fintech’s vast industry resources to scale our best-of-breed data management and analytic solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-technology-corporate-news-products-and-services-ffd59653030c88ca75aa587b28f1a7c3",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-technology-corporate-news-products-and-services-ffd59653030c88ca75aa587b28f1a7c3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-nucleus-research-releases-q1-2021-equity-snapshot-for-ibm.md",
       "title": "Nucleus Research Releases Q1 2021 Equity Snapshot for IBM",
       "excerpt": "Nucleus Research, a global provider of ROI-focused technology research and advisory services, today released its Q1 2021 Equity Snapshot for IBM. The snapshot provides an analysis of IBM’s market growth and performance over the last quarter and a competitive outlook for the months ahead.",
@@ -1099,92 +1185,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-2021-technology-trend-review-part-two-ai-knowledge-graphs-and-the-covid-19-effect.md",
-      "title": "2021 technology trend review, part two: AI, knowledge graphs, and the COVID-19 effect",
-      "excerpt": "AI chips, MLOps, and ethics. Knowledge, and Graphs. COVID-19 as a mixed bag for technological progress and adoption",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/05/04/c838f755-7efa-4ab2-ad10-b322acbf5234/istock-692654376.jpg",
-          "width": 770,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/",
-      "publishedDateTime": "2021-01-20T00:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland.md",
-      "title": "Reliq Health Technologies, Inc. Announces Launch of Multilingual Interactive Voice Recognition and New Contract in Maryland",
-      "excerpt": "HAMILTON, Ontario, Jan. 20, 2021 (GLOBE NEWSWIRE) -- Reliq Health Technologies Inc. (TSXV:RHT, OTC:RQHTF) (\"Reliq\" or the \"Company\"), a rapidly growing global",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19229634/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-n",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19229634/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-n",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19229634",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19229634",
-      "publishedDateTime": "2021-01-20T00:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

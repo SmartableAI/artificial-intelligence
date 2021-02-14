@@ -57,20 +57,6 @@ related:
         width: 600
         height: 356
         isCached: true
-  - title: "San Francisco Airport recognised by ACI’s ‘Voice of the Customer’"
-    excerpt: "San Francisco International Airport (SFO) has been recognised by Airports Council International (ACI) World for their ‘Voice of the Customer’ initiative, which honours airports that continued to prioritise customers and ensure that their voice was heard during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-09T10:53:00Z
-    webUrl: "https://www.internationalairportreview.com/news/152308/san-francisco-airport-aci-voice-customer/"
-    type: article
-    provider:
-      name: internationalairportreview.com
-      domain: internationalairportreview.com
-    quality: 39
-    images:
-      - url: "https://www.internationalairportreview.com/wp-content/uploads/SFO-1.jpg"
-        width: 750
-        height: 450
-        isCached: true
 
 secured: "jwuL/ySv9O6pijsxVQ8nObehRNfmzpuIF+7XepUzqhUPBIK6frLMjXNepnQF7L0cidDZAUvMK6TO0zyOPwRU3rTBI5DW7iKYGjB2JzfLXWzM7svO6gxHJBVbKZWPv5TFYBYJXDo/zlTFdhNdecUm/T9snFdsWqbvKjsk0lKN4c1MCOMLwzw+bP+tJs+mP8aaLauXU3/wEI64OlNZAkC58Weag0AHxlsgx8LQYJ/ty1gcxrzNsQLt4XbOTiuE8h4h8kymE+R0DZvmNTnSF80O2iz+aKe0HqG5FPQT09errsVd4BYB6hUKroQy/gZWi4CuK4QM6xU0lpG+MJdmuTVoNu6UXHulHZnAqZ14kQps/8c=;gtmH0y8rmJ0CrhnATBitvQ=="
 ---

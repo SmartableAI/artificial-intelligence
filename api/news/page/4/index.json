@@ -105,7 +105,7 @@
       "originalUrl": "https://www.kenyans.co.ke/news/62057-kenyan-airports-get-international-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -252,7 +252,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -502,7 +502,7 @@
       "originalUrl": "https://gizmodo.com/artificial-human-genomes-could-help-overcome-research-p-1846225366",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -971,6 +971,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe.md",
+      "title": "Finch Capital’s New Fund to Target Fintech, AI Startups in Europe",
+      "excerpt": "Finch Capital, a UK and Netherlands based VC firm, has closed on a new fund - Europe III - raising €150 million to invest in Fintechs and artificial intelligence (AI) startups in the financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/FIntech-UK-Cambridge-University-scaled-600x498.jpg",
+          "width": 600,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/",
+      "publishedDateTime": "2021-02-09T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-theator-raises-155-million-to-analyze-surgical-footage-with-computer-vision.md",
       "title": "Theator raises $15.5 million to analyze surgical footage with computer vision",
       "excerpt": "Theator, a startup developing a 'surgical intelligence' platform powered by computer vision, has raised $15.5 million.",
@@ -1163,49 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-gmrs-delhi-and-hyderabad-airports-receive-aci-recognition.md",
-      "title": "GMR's Delhi and Hyderabad airports receive ACI recognition",
-      "excerpt": "Both airports have been recognized for their continuous efforts to listen to their passengers, engage and gather feedback.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874.html",
-      "originalUrl": "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/02/09/550x309/delhi-airport_d7e0ef0c-d241-11ea-8924-6a92a23725cb_1612871976965.jpg",
-          "width": 549,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874-amp.html",
-      "publishedDateTime": "2021-02-09T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

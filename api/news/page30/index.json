@@ -2,6 +2,99 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-01-21-springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app.md",
+      "title": "Springbox AI Bolsters Your Trades With Its Affordable Financial Insights App",
+      "excerpt": "Springbox AI's beta application, launching today on iOS and Android, is a financial insights tool backed by its founders’ decades of experience within the financial and banking markets, paired with de",
+      "sourceUrl": null,
+      "webUrl": "https://apps.apple.com/us/app/springbox-ai/id1533228624",
+      "originalUrl": "https://www.forbes.com/sites/curtissilver/2021/01/21/springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/b3/cc/0e/b3cc0e11-cc56-8a01-65b5-7fb0acbfcd39/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/1200x630wa.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-transforming-the-energy-industry-with-ai.md",
+      "title": "Transforming the energy industry with AI",
+      "excerpt": "In the oil and gas industry, digitalization is improving project economics and streamlining operations, with AI as the key for sustainable growth and security against cyberthreats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/MITTR-Seimens-webart-Cover.png",
+          "width": 1500,
+          "height": 1129,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/",
+      "publishedDateTime": "2021-01-21T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-the-real-self-driving-revolution-remains-years-away.md",
       "title": "The real self-driving revolution remains years away",
       "excerpt": "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future.",
@@ -1134,91 +1227,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-google-to-shut-down-loon.md",
-      "title": "Google to shut down Loon",
-      "excerpt": "Google announced Jan. 21 it is shutting down Loon, a venture to provide wireless connectivity by balloon that some considered a competitor to satellites.",
-      "sourceUrl": null,
-      "webUrl": "https://spacenews.com/google-to-shut-down-loon/",
-      "originalUrl": "https://spacenews.com/google-to-shut-down-loon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://spacenews.com/wp-content/uploads/2018/10/rsz_loon_in_nz2_1.jpg",
-          "width": 879,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SpaceNews",
-        "domain": "spacenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-microsoft-introduces-azure-health-bot.md",
-      "title": "Microsoft Introduces Azure Health Bot",
-      "excerpt": "Microsoft recently introduced Azure Health Bot, an evolution of Microsoft Healthcare Bot that is becoming an Azure service with added functionalities. Built for developing virtual health care ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/01/azure-health-bot/",
-      "originalUrl": "https://www.infoq.com/news/2021/01/azure-health-bot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/01/azure-health-bot/en/headerimage/header%281%29-1611176663022.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -29,165 +29,124 @@ images:
     isCached: true
 
 related:
-  - title: "Finch Capital launches third fund to invest in European fintech at Series A and B"
-    excerpt: "Finch Capital, the early-stage fintech VC with a presence in London and Amsterdam, has raised a third fund. Targeting a final close of €150 million, the fund has already secured €85 million from LPs ready to deploy."
-    publishedDateTime: 2021-02-09T09:01:00Z
-    webUrl: "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/"
-    ampWebUrl: "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/"
+  - title: "Computer Vision Market by Size, Growth, Opportunity and Forecast to 2027"
+    excerpt: "Selbyville, Delaware Global Computer Vision Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Computer Vision Market Report also covers top key players,"
+    publishedDateTime: 2021-02-10T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 71
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/02/IMG_6638.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Finch Capital’s New Fund to Target Fintech, AI Startups in Europe"
-    excerpt: "Finch Capital, a UK and Netherlands based VC firm, has closed on a new fund - Europe III - raising €150 million to invest in Fintechs and artificial intelligence (AI) startups in the financial services sector."
-    publishedDateTime: 2021-02-09T15:18:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/FIntech-UK-Cambridge-University-scaled-600x498.jpg"
-        width: 600
-        height: 498
-        isCached: true
-  - title: "Localizing FinTech To Tackle SMBs' Biggest Cash Headaches"
-    excerpt: "SUMA discusses the value in offering localized FinTech solutions for small businesses across Latin America to promote growth."
-    publishedDateTime: 2021-02-09T13:58:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/localizing-fintech-to-tackle-smb-cash-headaches/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/localizing-fintech-to-tackle-smb-cash-headaches/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/localizing-fintech-to-tackle-smb-cash-headaches/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/suma-smb-local-fintech-latam-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Finch Capital Targets European Fintech Companies with €150 million Fund"
-    excerpt: "Finch Capital announced the first close of Europe III, its €150 million investment fund, to invest in the European fintech companies."
-    publishedDateTime: 2021-02-10T10:16:00Z
-    webUrl: "https://www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
-        isCached: true
-  - title: "FinTech platform Siply raises USD 1 million in seed funding"
-    excerpt: "Bengaluru-based Siply announced the raise of USD 1 million in seed funding from investors such as JITO Angel Network and"
-    publishedDateTime: 2021-02-11T12:33:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-platform-siply-raises-usd-1-million-in-seed-funding/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/02/fiserv.jpeg.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Fintech, AI and ML: What you need to know in 2021"
-    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
-    publishedDateTime: 2021-02-12T14:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-and-ml-what-you-need-to-know-in-2021"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-  - title: "Finch Capital raises €150m for fintech fund targeting later stage start-ups"
-    excerpt: "Finch Capital, a UK and Netherlands based VC firm, is looking to deploy €150m into 15-20 fintech companies in Europe. The new portfolio is Finch’s third fund since launching in 2013. Its current portfolio includes the likes of Trussle,"
-    publishedDateTime: 2021-02-10T05:31:00Z
-    webUrl: "https://www.altfi.com/article/7561_finch-capital-raises-eur150m-for-fintech-fund-targeting-later-stage-start-ups"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 37
-    images:
-      - url: "https://www.altfi.com/images/featured/finch-capital-raises-eur150m-for-fintech-fund-targeting-later-stage-start-ups.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 720
+        height: 630
         isCached: true
-  - title: "Kraken Announces Launch of Independent Investment Fund For Crypto & Fintech Companies"
-    excerpt: "Kraken, a U.S.-based digital asset exchange, announced on Thursday it is backing the newly launched Kraken Ventures, an independent investment fund targeting early stage companies and protocols across the crypto and fintech ecosystem."
-    publishedDateTime: 2021-02-12T13:03:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/amp/"
+  - title: "Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
+    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2021-02-11T08:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2021-02-11"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-4-600x450.jpeg"
-        width: 600
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Finch Capital closes €150m fintech fund"
-    excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
-    publishedDateTime: 2021-02-09T11:07:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37441/finch-capital-closes-150m-fintech-fund"
+  - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
+    publishedDateTime: 2021-02-11T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-forecast-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-11"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/charging.jpg"
-        width: 480
-        height: 270
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Top 3 FinTech companies transforming the financial space in Iceland"
-    excerpt: "FinTech solutions are provided by the three largest commercial banks in the country, namely Landsbankinn, Íslandsbanki, and Arion Bank."
-    publishedDateTime: 2021-02-10T13:12:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-3-fintech-companies-transforming-the-financial-space-in-iceland/"
+  - title: "Face Recognition Technology Market Size 2020: Industry Growth, Competitive Analysis, Future Prospects and Forecast 2025"
+    excerpt: "Selbyville, Delaware The Face Recognition Technology Market report offers detailed competitive landscape of the global market. It includes company, market share analysis, product portfolio of the major industry participants."
+    publishedDateTime: 2021-02-10T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2020-industry-growth-competitive-analysis-future-prospects-and-forecast-2025-2021-02-10?tesla=y"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "First Investments of AMTD ASEAN Solidarity Fund, Calvin Choi: proud to support the FinTech community in Singapore"
-    excerpt: "Recently AMTD Singapore Solidarity Fund Pte. Ltd., under AMTD ASEAN Solidarity Fund Group (“AMTD ASEAN Solidarity”), announced its first batch of investments in five innovative FinTech companies spanning across AI,"
-    publishedDateTime: 2021-02-10T08:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-investment-management-financial-services-4905ecea13c378fd2e6f897465b0280f"
+  - title: "Artificial Intelligence Market Review By Comprehensive Study, Development Status, Opportunities and Future Plans Forecast to 2026"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-02-09T13:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-review-by-comprehensive-study-development-status-opportunities-and-future-plans-forecast-to-2026-2021-02-09"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
+    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-02-11T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IoT Chip Market Market Size, High Demand, Recent Trends, Future Growth, Business Scenario, Product, Technology, Share and Forecasts 2020 – 2027"
+    excerpt: "The global Internet of Things (IoT) chip market reached a valuation of USD 11.37 Billion in 2020 and is expected to reach a market size of USD 34.74 Billion by 2028, registering a CAGR of 14.9% in terms of revenue growth during the forecast period,"
+    publishedDateTime: 2021-02-11T01:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/iot-chip-market-market-size-high-demand-recent-trends-future-growth-business-scenario-product-technology-share-and-forecasts-2020-2027-2021-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
+    excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
+    publishedDateTime: 2021-02-13T10:14:00Z
+    webUrl: "https://www.openpr.com/news/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
+  - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
+    publishedDateTime: 2021-02-11T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/11-2-billion-artificial-intelligence-in-agriculture-markets---global-industry-analysis-and-growth-forecast-to-2030--301226811.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "TWiodLkc1mj1unEFK9rX5EJoxULx3765oL5Od8s47rw3TToKQNW0LxrB0wpyBBuxS/nzJ1drTUNSmS+a/J76CKp80upCcgED1u1Dzbeln1t/GbP3aP/3b5v47Numcy2/gk4ZE9oIxpCeXwlhaaUbtYXDh98t/KulwAchsqBM7gA8oGKbFGM+GNl3oUT40IApHaXs1XfhlIysoekijogXm9yVX2uj4ilUEUxQBvBfAcNxAoxvXn3YoyROc68NZuEQOLc0K4k8gv2qsCtfzQFatMZOULkTSgBdraFgq19dQcoKobt9mroRXZP56qunUNqynsug1Dc9mkC9S2BYrvWSbaWrho7ETOEqfir+NNeL+YY=;oF6BFoe+L7Uyi4DSjm5iIw=="
 ---

@@ -92,8 +92,8 @@ related:
         isCached: true
   - title: "How to manage your power bill while adopting AI"
     excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
-    publishedDateTime: 2021-02-12T01:43:00Z
-    webUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/"
+    publishedDateTime: 2021-02-12T01:57:00Z
+    webUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/?fp=2&fpid=1"
     type: article
     provider:
       name: ARN

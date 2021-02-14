@@ -37,6 +37,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Met Police's arrested one person after scanning 13,000 people with facial recognition cameras"
+    excerpt: "Deployments of facial recognition technology in London last year saw thousands of innocent faces scanned by Met Police - for only woman to be arrested."
+    publishedDateTime: 2021-02-12T10:37:00Z
+    webUrl: "https://www.newsoneplace.com/6811692012/met-police-arrested-person-scanning-people-facial"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 28
+    images:
+      - url: "https://images.weserv.nl/?url=https://i.dailymail.co.uk/1s/2021/02/12/09/39204942-0-image-a-29_1613123941554.jpg&h=250"
+        width: 335
+        height: 250
+        isCached: true
 
 secured: "cIjfw4yoNNZXnl39+c/mp3QIIOWgK09UCv/CfCivRxwPkkFMiEVmr4RnnGg4ANEsvkm4dhKkXl/eLKZftI3B49Af6R/iFISA5dNxuNzyjax02nWea5P+icKhXU4lVyZgJbE90K9/CbvDh1bVqYHpwK0jBlxd0ek0X/jzzvcRl4RPhjQhkLeIluaaU+/X3mI7nqJKAyzcjCzjQibFL+sxdxvJLqUcs6dkV0mdizzU24cGmy2eW1dfdAWzW+IwbBWgEGcf3s1IYEYyXOqpYkxaDh+SHjE8Q+ZYCPRR7qbwd89DQsMARGHqbczLE5rKNTP6sxGwipMcctCBQG+/dJg2sfK7G4tqm+RZDinN353NoVGm06cExI80YYi/rbHQwRyF3/AJEv9ScMx9/bS2by9/HpvXl8lNFmh4Jqk8GolDmK8EcRKqZtHAkx7hgPQKEUSYOlHnkJbxg4YEO4TaZx/puEsGiG59bf6PrCH6Re+aP07nPcVXcTb1V/1QMZOt5VTT07AmJ1RApyAk2ZLW4Sy+Kg==;Ymb3AbX0d5b9Qazi4xc8kw=="
 ---

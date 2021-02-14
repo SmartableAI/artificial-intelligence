@@ -54,20 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IBM and Palantir debut no-code platform for OpenAI applications"
-    excerpt: "IBM and Palantir have announced a jointly developed product for AI applications called Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications."
-    publishedDateTime: 2021-02-09T09:59:00Z
-    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/hybrid-cloud/8933/ibm-and-palantir-debut-no-code-platform-for-openai-applications"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 39
-    images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2018/12/ibmmulticloudmanager_shutterstock_1093687415.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "IBM’s latest cloud move: Linking with big data’s Palantir for hybrid using AI, Red Hat"
     excerpt: "IBM is hooking up with hot big data firm Palantir Technologies for a new partnership focusing on hybrid cloud utilizing artificial intelligence and Red Hat Open Shift."
     publishedDateTime: 2021-02-09T13:07:00Z

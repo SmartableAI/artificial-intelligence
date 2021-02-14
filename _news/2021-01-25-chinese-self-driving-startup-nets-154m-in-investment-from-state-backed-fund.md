@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "fNIl+iPE+dU8HMPz24cD1/rYZU9TNuh+z2X+gsIubnInPOABkQAtNMqfJ0LkyYMJl6uqfZY0BpWrf3sZ5epeo1pB2erd3JWBDn4y60x2cs8KdK10/tXdBCwwXK9aJjEUx8Vn5CgYmWrIrrZkqtfjNY2T+MJN8+JoAgHsJavHQ9sOa+vLGF6SbGEkOd6L7P9PcjKerulZkJuuQ2moUpuY6TWTvLq7hg/US7LxtsLVYkYHXIqsVa0AWrB/oxZ6am5htkNb3fYmz9YpV+kMZDcTtlsBpdr3tlqfy+OaoqVRwDqBLErPGQG1VW9sZGqcsAFeItvh5Qk/QF/Djs6L8/N7q2Aq2b02cj1IwkNQfKxNNb3zr80SCOrGIo6CIgl2om5ZTCwemTjhxMxr1Z7OKcplT1Jym0QQ/XZWf/BPbXpKizmaaZWvBuuVYRo9GOl3i2MsFY7onsyzqOGUCuaIX7/anP0YdY9vA7U+I3mur8YdtTyGVIAM5Mgm2RDDe3GOVuviuQtjb+nYdyrvlqwxm7mjDw==;g48gU28ba1yz/e0sL7kPAQ=="
+secured: "2aKF0Zu/reUjfTxzZVI5zWjHn79/MsHaZyAjqR9tqYYkjJuI+DJRy26cxyiOeSOPw2OXYynwUC9drv8UhRiHNJy+GMWc/7rFm12zih+UFc+kmB9om616GnVpLBiTCtrBauNR6tW9YO//Bl36EetxqQNj7LmsvyJNAGxqZq+uMu3OA7JN87NL1gvlrUISrks1c0TgRMYz64Uw57SwZ/Cl8np1bbbAmBrboJG6ujBb2/mef/ElmnLrYJ3b/O7LbgXfQDtMHE3nr6Fa2R3ne1XfKES4fVGcCtb79Fx2y2rYNaQFV/bxDT2nYavidpeyan75pQ4MELY7IaoE+kJcti13CTRQ8BfMrK0qQJ3nyZ94ZAf4ifewFeFAWlSbSg90R3I43h8bitpsGFSdwH3dV39VBb+B0zt8I//ajJ6z77+C0Brfn2CSUIEJfNvmodNA3OgAFlmhn6VTay1sqt15tZpIl6nsg+nBDfWGljz1+21nt7+fhSykXp+Vo29HOyX0axtNxa7WCovvXLydXe5DUp1HWA==;HkR/OuDI79PM2/KWiPxqKA=="
 ---
 

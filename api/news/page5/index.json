@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-09-gmrs-delhi-and-hyderabad-airports-receive-aci-recognition.md",
+      "title": "GMR's Delhi and Hyderabad airports receive ACI recognition",
+      "excerpt": "Both airports have been recognized for their continuous efforts to listen to their passengers, engage and gather feedback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874.html",
+      "originalUrl": "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/02/09/550x309/delhi-airport_d7e0ef0c-d241-11ea-8924-6a92a23725cb_1612871976965.jpg",
+          "width": 549,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874-amp.html",
+      "publishedDateTime": "2021-02-09T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-artificial-intelligence-for-good-how-ai-is-helping-humanity.md",
       "title": "Artificial Intelligence For Good: How AI Is Helping Humanity",
       "excerpt": "AI empowers organizations, governments and communities to build a high-performing ecosystem, and its profound impact on human lives is solving some of the most critical challenges faced by society.",
@@ -155,6 +198,49 @@
         "Google AI",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020.md",
+      "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
+      "excerpt": "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "publishedDateTime": "2021-02-09T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1159,93 +1245,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-artificial-intelligence-in-the-corporate-boardroom.md",
-      "title": "Artificial Intelligence In The Corporate Boardroom",
-      "excerpt": "We live in a new technological era, one where board members have to be prepared for situations where artificial i (AI) affects and maybe even disrupts their deliberations, with regards to both shareholders and stakeholder groups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
-      "originalUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60213a6694af6361fcb98437%2F0x0.jpg%3FcropX1%3D153%26cropX2%3D9341%26cropY1%3D0%26cropY2%3D5168",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/amp/",
-      "publishedDateTime": "2021-02-08T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics.md",
-      "title": "4 Funds to Boom as Deep Learning Paves the Way for Robotics",
-      "excerpt": "Artificial intelligence (AI) and machine learning are frequently used to improve robots and make them more capable in industrial use. Industrial robotics systems are now being consolidated with computer vision,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
-      "originalUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

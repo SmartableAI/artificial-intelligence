@@ -39,20 +39,6 @@ related:
         width: 280
         height: 280
         isCached: true
-  - title: "ACI World unveils ‘Voice of the Customer’ recognition"
-    excerpt: "The recognition rewards airports that have worked hard to better understand their customers during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-09T10:37:00Z
-    webUrl: "https://www.internationalairportreview.com/news/152286/aci-world-voice-customer-recognition/"
-    type: article
-    provider:
-      name: internationalairportreview.com
-      domain: internationalairportreview.com
-    quality: 24
-    images:
-      - url: "https://www.internationalairportreview.com/wp-content/uploads/Customer-1.jpg"
-        width: 750
-        height: 450
-        isCached: true
 
 secured: "Gh56826o1MzwnCL+jJM9grmNHLKf8Rpp2q8eylKqk5vDbwFQ7mfIeAls8n+W5VQPbUjMVUPoQrX2vIRMMXN7yJgxBsFF38x6dCXwelLfHPQjzNCLzOA0Lev7g450L1Udtk6EiPIPGrc3Vanpba44TVrWt57Ssi4XqmcE9Q6sFJrPdvbsKZ4Sv/aGpxzvG8OGXAlEJ4LTel9QJH+Kns0oTQuwLSWXhKx45Wovmrf00qyUtlFjgOckhp8sKihM+DPVSmAgC1U2tuKo3QfN+86hQdxbmZR+hexH0XX+jg9GNBqde2OfQInes2xKvzpy87FgQsMa0b3LdapRcyUg+Jzz1YEy/eixtcnfMaxi74UyIo0=;F83k5FB2vmgbWzCwpUyEuQ=="
 ---

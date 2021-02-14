@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kenyans.co.ke/news/62057-kenyan-airports-get-internation
 cdnAmpWebUrl: "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/62057-kenyan-airports-get-international-recognition?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2020-03/dedb16f6-629a-4847-9cb2-8e6cdd8d7b29/AIRPORT_03.jpg"
         width: 600
         height: 356
-        isCached: true
-  - title: "San Francisco Airport recognised by ACI’s ‘Voice of the Customer’"
-    excerpt: "San Francisco International Airport (SFO) has been recognised by Airports Council International (ACI) World for their ‘Voice of the Customer’ initiative, which honours airports that continued to prioritise customers and ensure that their voice was heard during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-09T10:53:00Z
-    webUrl: "https://www.internationalairportreview.com/news/152308/san-francisco-airport-aci-voice-customer/"
-    type: article
-    provider:
-      name: internationalairportreview.com
-      domain: internationalairportreview.com
-    quality: 39
-    images:
-      - url: "https://www.internationalairportreview.com/wp-content/uploads/SFO-1.jpg"
-        width: 750
-        height: 450
         isCached: true
   - title: "Kenya: KAA Receives International Recognition From Airports Council International"
     excerpt: "Airports Council International (ACI) has recognized Kenya Airports Authority (KAA) in its World's Voice of the Customer Initiative."

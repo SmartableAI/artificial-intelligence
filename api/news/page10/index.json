@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-04-wafer-scale-chip-to-power-ai-supercomputers.md",
+      "title": "Wafer-Scale Chip to Power AI Supercomputers",
+      "excerpt": "Wafer-scale AI chip startup Cerebras will supply its technology to EPCC, the supercomputing center at the University of Edinburgh, UK. The new hardware, designed specifically to accelerate huge AI workloads,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/",
+      "originalUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/02/Cerebras_WLC.jpg",
+          "width": 1024,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/",
+      "publishedDateTime": "2021-02-03T18:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eetindia.co.in",
+        "domain": "eetindia.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-is-the-ai-ethics-issue-hindering-innovation.md",
+      "title": "Is the AI ethics issue hindering innovation?",
+      "excerpt": "There are too many cases of discrimination in AI and, in some cases, organizations are even shelving plans to adopt it altogether Beneath the exciting",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
+      "originalUrl": "https://techwireasia.com/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2017/05/brain.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
+      "publishedDateTime": "2021-02-03T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish.md",
       "title": "Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish",
       "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 Console and APIs make it easier to build, deploy, and manage bots. In this post, you will learn about about the 3 main benefits of Amazon Lex V2 Console and API, basic bot building concepts, and",
@@ -1127,100 +1213,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform.md",
-      "title": "Reverie Labs raises $25 million for its AI drug discovery platform",
-      "excerpt": "Reverie Labs, a startup using AI to develop new medicines, today announced the closure of its $25 million series A round. The company says the capital will be used to advance its internal and partnered drug discovery program,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/",
-      "originalUrl": "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/amp/",
-      "publishedDateTime": "2021-02-03T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-how-to-safeguard-students-mental-health-while-learning-from-home.md",
-      "title": "How To Safeguard Students’ Mental Health While Learning From Home",
-      "excerpt": "It’s no secret that students do their best work when they can fully concentrate on their education. But, thanks to the various lockdowns and learning from home, this tends to be a lot easier said than done, creating a huge number of other home-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.elearninginside.com/how-to-safeguard-students-mental-health-while-learning-from-home/",
-      "originalUrl": "https://news.elearninginside.com/how-to-safeguard-students-mental-health-while-learning-from-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.elearninginside.com/wp-content/uploads/2021/02/josefa-ndiaz-IzmdWT2lW5Q-unsplash-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eLearningInside News",
-        "domain": "elearninginside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

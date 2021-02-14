@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-a
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874-amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GMR Delhi, Hyderabad airports receive ACI World’s ‘Voice of Customer Recognition’"
-    excerpt: "Lauded for efforts to listen to passengers, engage and gather feedback to understand their needs, and ensure customers’ voice was heard during the Covid-19 pandemic"
-    publishedDateTime: 2021-02-09T10:08:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/gmr-delhi-hyderabad-airports-receive-aci-worlds-voice-of-customer-recognition/article33791119.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 54
-    images:
-      - url: "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Delhi and Hyderabad airports receive ACI recognition"
     excerpt: "GMR-run Indira Gandhi International Airport IGIA in New Delhi and Rajiv Gandhi International Airport RGIA in Hyderabad have received the ACI Airports Counc"
     publishedDateTime: 2021-02-09T12:31:00Z

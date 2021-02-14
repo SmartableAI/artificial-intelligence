@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finch Capital launches third fund to invest in European fintech at Series A and B"
-    excerpt: "Finch Capital, the early-stage fintech VC with a presence in London and Amsterdam, has raised a third fund. Targeting a final close of €150 million, the fund has already secured €85 million from LPs ready to deploy."
-    publishedDateTime: 2021-02-09T09:01:00Z
-    webUrl: "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/"
-    ampWebUrl: "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 71
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/02/IMG_6638.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Finch Capital’s New Fund to Target Fintech, AI Startups in Europe"
     excerpt: "Finch Capital, a UK and Netherlands based VC firm, has closed on a new fund - Europe III - raising €150 million to invest in Fintechs and artificial intelligence (AI) startups in the financial services sector."
     publishedDateTime: 2021-02-09T15:18:00Z
@@ -98,6 +82,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 38
+  - title: "Fintech, AI & ML: What you need to know in 2021"
+    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
+    publishedDateTime: 2021-02-11T22:54:00Z
+    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-amp-ml-what-you-need-to-know-in-2021"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
   - title: "Finch Capital raises €150m for fintech fund targeting later stage start-ups"
     excerpt: "Finch Capital, a UK and Netherlands based VC firm, is looking to deploy €150m into 15-20 fintech companies in Europe. The new portfolio is Finch’s third fund since launching in 2013. Its current portfolio includes the likes of Trussle,"
     publishedDateTime: 2021-02-10T05:31:00Z
@@ -111,36 +104,6 @@ related:
       - url: "https://www.altfi.com/images/featured/finch-capital-raises-eur150m-for-fintech-fund-targeting-later-stage-start-ups.jpg"
         width: 1200
         height: 720
-        isCached: true
-  - title: "Kraken Announces Launch of Independent Investment Fund For Crypto & Fintech Companies"
-    excerpt: "Kraken, a U.S.-based digital asset exchange, announced on Thursday it is backing the newly launched Kraken Ventures, an independent investment fund targeting early stage companies and protocols across the crypto and fintech ecosystem."
-    publishedDateTime: 2021-02-12T13:03:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 37
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-4-600x450.jpeg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "AI in Fintech Market Share, Size, Industry Growth, Trend, Business Opportunities, Challenges, Drivers and Restraint Research Report by 2027"
-    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The AI in Fintech market intelligence study is a collection of authentic"
-    publishedDateTime: 2021-02-12T22:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-share-size-industry-growth-trend-business-opportunities-challenges-drivers-and-restraint-research-report-by-2027-2021-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Finch Capital closes €150m fintech fund"
     excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
@@ -170,20 +133,15 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "First Investments of AMTD ASEAN Solidarity Fund, Calvin Choi: proud to support the FinTech community in Singapore"
-    excerpt: "Recently AMTD Singapore Solidarity Fund Pte. Ltd., under AMTD ASEAN Solidarity Fund Group (“AMTD ASEAN Solidarity”), announced its first batch of investments in five innovative FinTech companies spanning across AI,"
-    publishedDateTime: 2021-02-10T08:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-investment-management-financial-services-4905ecea13c378fd2e6f897465b0280f"
+  - title: "Climate tech startup lands grant funding to launch AI platform"
+    excerpt: "Dallas climate tech startup Skyven Technologies lands grant funding to launch industrial AI emissions-reduction platform"
+    publishedDateTime: 2021-02-09T16:29:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/fundings/2021/02/09/skyven-technologies-lands-grant-for-ai-platform.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "3MEoF6VCDNL4734o+odtwXY412yMALr1fGep8zVW5RMSkvjSAQ4hiqpiq+1hN9BizOwCSjP3atJe3/eyyOPpSK2dyZwy/CkyTsdjkIfbLTYCOONr9V70ccNuuCNnamsR2QGmwCmU0xl3G5FbRvTqJ/krFEtwfb/MGxxt5TISLDxeddKcRwYp/tnD668RWzgElfhY+HlEeQXp273QlNWSa8/sni3Q9abEZQgTIlQ2e4A8/QXBUiH+AEfziOnWTz2Eo6cIgm4kiC4htNPx0WPTeU0em+8NWX9ddLtjpWq9qbRhVkoMw5MZVJYKUBHJTtxvWVqZEWP89KjIVJM0rxIsY0r1iEN1+wIVR2pqKPF0rMztMtwPa05/SGVaUJ0Dtuk9AlvDkVDol8KjGEh5q79hlG8QVohi0YWrVLv7gp3QdryMA2OJA4W8hKWDlZxHvILKqR/9arpUOAHjsSn/PnWXFi/jpm4RDM1CuacId7gUiBLs3l+MHzdIOlhFwjDVUdxArl7Yh335KyAcJVEJMQYJhQ==;SPgJSs23E0kiMD7meDfPUQ=="
 ---

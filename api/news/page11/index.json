@@ -2,6 +2,100 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-03-reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform.md",
+      "title": "Reverie Labs raises $25 million for its AI drug discovery platform",
+      "excerpt": "Reverie Labs, a startup using AI to develop new medicines, today announced the closure of its $25 million series A round. The company says the capital will be used to advance its internal and partnered drug discovery program,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/",
+      "originalUrl": "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/amp/",
+      "publishedDateTime": "2021-02-03T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-how-to-safeguard-students-mental-health-while-learning-from-home.md",
+      "title": "How To Safeguard Students’ Mental Health While Learning From Home",
+      "excerpt": "It’s no secret that students do their best work when they can fully concentrate on their education. But, thanks to the various lockdowns and learning from home, this tends to be a lot easier said than done, creating a huge number of other home-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.elearninginside.com/how-to-safeguard-students-mental-health-while-learning-from-home/",
+      "originalUrl": "https://news.elearninginside.com/how-to-safeguard-students-mental-health-while-learning-from-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.elearninginside.com/wp-content/uploads/2021/02/josefa-ndiaz-IzmdWT2lW5Q-unsplash-scaled.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eLearningInside News",
+        "domain": "elearninginside.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-court-denies-motion-for-class-certification-in-employee-w-2-data-breach-litigation.md",
       "title": "Court Denies Motion for Class Certification in Employee W-2 Data Breach Litigation",
       "excerpt": "asserting several torts and state consumer protection violations. The plaintiff claimed as a result of the data breach the class suffered damages due to: unauthorized use and misuse of their PII ...",
@@ -1114,102 +1208,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-sas-teams-with-microsoft-to-offer-viya-analytics-on-azure.md",
-      "title": "SAS Teams With Microsoft To Offer Viya Analytics On Azure",
-      "excerpt": "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure",
-      "originalUrl": "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg",
-          "width": 1500,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T17:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions.md",
-      "title": "Automating complex deep learning model training using Amazon SageMaker Debugger and AWS Step Functions",
-      "excerpt": "Amazon SageMaker Debugger can monitor ML model parameters, metrics, and computation resources as the model optimization is in progress. You can use it to identify issues during training, gain insights, and take actions like stopping the training or sending notifications through built-in or custom actions.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T17:10:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
