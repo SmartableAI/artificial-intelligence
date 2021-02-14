@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Now that the driverless car hype is over, the long road to reality can begin"
-    excerpt: "Expectations surrounding driverless cars peaked around the ... Breakthroughs in artificial intelligence seemed to happen by the week. That hype has deflated in the last couple of years."
-    publishedDateTime: 2021-02-09T16:58:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/02/08/now-driverless-car-hype-long-road-reality-can-begin/amp/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/02/08/now-driverless-car-hype-long-road-reality-can-begin/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/02/08/now-driverless-car-hype-long-road-reality-can-begin/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 56
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/02/11/Capture_trans_NvBQzQNjv4Bq5eUtQIhwNPvhnSjcQF0SK68DyAxJ4MLDUQTzIbLjyXI.PNG"
-        width: 655
-        height: 410
-        isCached: true
   - title: "Self-driving cars are among us but drivers beware"
     excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
     publishedDateTime: 2021-02-12T01:37:00Z

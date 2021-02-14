@@ -9,7 +9,7 @@ ampWebUrl: "https://theenterpriseleader.com/2021/02/11/first-trust-nasdaq-artifi
 cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/02/11/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.html/amp"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 450
     height: 323
     isCached: true
-
-related:
-  - title: "13,583 Shares in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Bought by Flaharty Asset Management LLC"
-    excerpt: "Flaharty Asset Management LLC purchased a new stake in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) in the 4th quarter, according to its most recent filing with the SEC. The institutional investor purchased 13,"
-    publishedDateTime: 2021-02-09T16:47:00Z
-    webUrl: "https://www.modernreaders.com/news/2021/02/09/13583-shares-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-bought-by-flaharty-asset-management-llc.html"
-    type: article
-    provider:
-      name: modernreaders.com
-      domain: modernreaders.com
-    quality: 19
 
 secured: "MfWgWPGHh6fHKTaI2ZxNv51kH0p9CW9A+VEqbYWlsWLIQ3ozqsHdG55u8I+kYCxlWbvtSIP28P8lSuuUzVHatNUgkwxDJsxdLEPNe8lsOKJQ8giBlEuR0oFNXcT8+SQ6Uo6qu50KK1pZITcD+kAyOTa1ZrPvDjIDEBxtPGKQ5gAgKPi2Vu57HOdbdMn+RF0E4sJ2cY+2Q8neMgcEmjmjRLWWu+MRglmpjTZlMBgpfAIs/xnQs97hCnX8yqf/bHwFTVALvHUiJM88nGLbLBDm6IeIRB1A79+yv+c8RkMO8D8SZ0HmpDQfoSoTvEv4PAMlslQHIQJpa8mpMMJAfJLDqAPxiqgoqJ2+gLY5ZXb8epQ=;APoERBlq7pjRHdhgNzPQSg=="
 ---

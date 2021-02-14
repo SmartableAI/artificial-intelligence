@@ -107,7 +107,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -357,6 +357,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace.md",
+      "title": "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace",
+      "excerpt": "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "originalUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20347810_G.png?lastEditedDate=1612776009000",
+          "width": 900,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1413,58 +1456,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-microsoft-playfab-grows-ninefold-in-3-years.md",
-      "title": "Microsoft’ PlayFab grows ninefold in 3 years",
-      "excerpt": "Microsoft's PlayFab division said today that its monthly active users grew nearly nine times since the software giant acquired it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/playfab-main.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
-      "publishedDateTime": "2021-01-28T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

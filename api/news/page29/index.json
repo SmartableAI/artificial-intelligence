@@ -2,6 +2,100 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-01-22-ai-systems-to-get-an-ethics-code-dod.md",
+      "title": "AI Systems to get an Ethics Code: DoD",
+      "excerpt": "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
+      "originalUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T21:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon.md",
+      "title": "This Start-Up Founder Sees A Data Privacy Reckoning On The Horizon",
+      "excerpt": "Patricia Thaine is a young start-up founder of Private AI, creating a suite of privacy tools. She discusses the state of privacy, how we got here, whether privacy as a default becomes the norm and how Private AI will enable this new normal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a3e8f7f4f95414914aafb%2F0x0.jpg",
+          "width": 1200,
+          "height": 908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
+      "publishedDateTime": "2021-01-21T19:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond.md",
       "title": "The Impact of Advanced Machine Learning in Anti-Money Laundering and Beyond",
       "excerpt": "As part of @Nasdaq’s Singapore Fintech Festival coverage, Darren Innes, Head of AML Technology at Nasdaq, spoke about why advanced machine ... across many financial services functions, but ...",
@@ -1060,101 +1154,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-google-union-slams-companys-treatment-of-ai-ethics-researchers.md",
-      "title": "Google union slams company’s treatment of AI ethics researchers",
-      "excerpt": "The Alphabet Workers Union said the actions against Margaret Mitchell and Timnit Gebru \"call into question Google’s commitment to ethics.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-21T145619.798-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/",
-      "publishedDateTime": "2021-01-21T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-designing-customized-robot-brains-for-critical-applications.md",
-      "title": "Designing customized robot brains for critical applications",
-      "excerpt": "While robots are stronger and moving faster than ever before, they still struggle with complex situations and their movements grind to a halt. “The hang up is",
-      "sourceUrl": null,
-      "webUrl": "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/",
-      "originalUrl": "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2021/01/CTL2101_WEB_IMG_MIT_Robot_Brains.jpg",
-          "width": 645,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Engineering",
-        "domain": "controleng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

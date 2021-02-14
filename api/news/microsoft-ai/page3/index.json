@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-19-health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots.md",
+      "title": "Health tech company uses Azure and AI to create priority list for COVID vaccination shots",
+      "excerpt": "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "originalUrl": "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "publishedDateTime": "2021-01-19T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-microsoft-joins-self-driving-race-in-new-deal-with-cruise-gm.md",
       "title": "Microsoft Joins Self-Driving Race in New Deal With Cruise, GM",
       "excerpt": "Microsoft (NASDAQ:MSFT) is making a bold bet on self-driving with Cruise and General Motors (NYSE:GM). GM and Cruise said on Tuesday that they have entered into a \"long-term strategic ...",

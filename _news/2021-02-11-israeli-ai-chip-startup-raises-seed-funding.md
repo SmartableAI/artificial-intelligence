@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Theator raises $ 15.5 million to analyze surgical images with computer vision"
-    excerpt: "Theator raises $ 15.5 million to analyze surgical images with computer vision . Surgical platform developer Theator today closed a $ 15.5"
-    publishedDateTime: 2021-02-09T16:22:00Z
-    webUrl: "https://www.compsmag.com/news/pc/theator-raises-15-5-million-to-analyze-surgical-images-with-computer-vision/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/theator-raises-15-5-million-to-analyze-surgical-images-with-computer-vision/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/theator-raises-15-5-million-to-analyze-surgical-images-with-computer-vision/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 71
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Theator-raises-155-million-to-analyze-surgical-images-with.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "pOdM+mQ04VI5giQP+ELCI96XlVa4C86eFEoZZ5+N1d6ysJzNaqxkzYoWdem1Tw6qGTTLrnEMmJzabFON2Z2vTkoctetbUl38VaxIFr3OAZrbuYmll61Vsrf38gReGjm4ZWCdcr1fJPeh2i1cil3448zzB//5BQcwjBHQR5GDaqTPGrQky8GZ1xM80woUbnyOQikfhVM4Uk3oLYfZ9p8sxjQ1gRUcsRLSUYUUld7AEdINLNTRszsuigSIFP7FsbPRsthMMk1a5Nc7v6VomqNCiQJk02g8tJ7fV3fdXwmdwWjxZJScU17pzFfV1JXBlOpeWu9oiGIYL3u6mAhT2kzSFyO2QPVfKkFjJEO7Z9mPvEY=;63rgL80s2r3l2RQOjHyjlA=="
 ---

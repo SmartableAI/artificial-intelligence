@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech PayZen Nets $5 Million For Hospital Payment Platform"
-    excerpt: "FinTech startup PayZen has raised more than $5 million in seed financing. The company offers a service that pays hospitals upfront for patient invoices."
-    publishedDateTime: 2021-02-11T18:50:00Z
-    webUrl: "https://www.pymnts.com/healthcare/2021/payzen-nets-5m-funding-for-hospital-payment-platform/"
-    ampWebUrl: "https://www.pymnts.com/healthcare/2021/payzen-nets-5m-funding-for-hospital-payment-platform/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/payzen-nets-5m-funding-for-hospital-payment-platform/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/hospital-billing-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
     excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
     publishedDateTime: 2021-02-11T07:00:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Artificial intelligence can influence human decision-making, new Data61 study reveals"
 excerpt: "A new study by researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, in partnership with the Australian National University and researchers from Germany,"
 publishedDateTime: 2021-02-10T23:17:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
+originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
+webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
+ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
 type: article
 quality: 60
 heat: 70
@@ -36,6 +36,6 @@ related:
       domain: theconversation.com
     quality: 39
 
-secured: "vdkaLJ8lihRf3clRN8CJ8noQiQWXad3eE+7Ml2nXwCAQvkEcUjcluJDCy/CyG5CngNcpv37iCiIxaFCCZqy9d6VP9krdxyqWgC5xgrH8jepUh32Ptxcz3bRBH2xVwWkBjOhwMKTXdMXkrHDlCsLCQnBu+f86pAPs+fnud8r4h7cSidGWCOJfiAuh2BXH1aK8rMii39QbdDax1gx0h+AbQGF7AQ5gkEqsL7Afke8hHlb3yTLYlV1xaC71lhtmaiIOaE+800k/upmDBIlA7J+ZwGvkEWYOFSezuAhkXn+xlc6KhSUZ6AVHkMfyxYGqkCNJ4lTjbsrGexqthNaSYE38bAjPduqZfQoMG4uAsnOTAc5AD5wNCaf8cheXyoZxJPZcX69A+68R0q49uAZYXpXt0tAMvaW7voxm9fjiuX1MYs5+sUlbtzEXZILWYSeNj5uocQO6Dohly7Nb8IK7yTl4AVLrNbfJL4BsQxjbcHOYAnY+w8E8t9A6LW9tUoZ6Gwyax2aYeIhT09af44kLXMV7Yg==;onswpgyorUxjytd1vp4RCg=="
+secured: "/Bq2d+O4QrQ3Ksp7SpRKUfdIZruMuTpPi4xkhU1yElbsauqq6uMNlHeSmW8crHFYrfwtB0NkWYE3RZ1bzVIVnTStIpbn+YHpzFRFbvhwL0BbT0hqAMxQaCXBr2hnaVlWDUbecI3g4ItxZqpLiQSvDX0IAzHnaLdkrA0h/Y+IOI5ZP/bY3naExL3km7s+yarXz+YcFMIqAYaWlP6Qs2CNvAtEeCUXbq5tfoBJbROFh6Dqw+fj0FzvHg+3st24TkelvIvCq2Pc/OlJl9ZW4y0K9XYXJEomfhNrYdBhuCuVj+Q/d3+wbnCsKUApvdH9PWKTthXRp1NSAUFC7YTuVTuSTcrbC8Wk1ox8oBgV2UOf2475pLTJAsijDhnW5PoqKlByfk0BxsfgabOvDiPOJWW2HRIbuFl/d6X2NMiBc+gvHYvBDgz5YjAwUlAvP4pz+EvO4sgfFRF/rfv3YX4OvcS/z5/3o/XDdQZRv1wmfuXiWJI2s/HUyfXEQ1TB9ulTbm+1JwaDC+9p3P3EnWQizUaj/w==;JWTIC8Mq8BGrAi2VQN8JSA=="
 ---
 

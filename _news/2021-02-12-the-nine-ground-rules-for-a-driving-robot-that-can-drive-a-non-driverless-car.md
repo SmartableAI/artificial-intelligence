@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
 type: article
 quality: 103
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/08/096d3968-839a-48fd-950f-944803aa0fed/resize/1200x/ac6bd6b6768faefd0986dacbf590c522/gjp311.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Now that the driverless car hype is over, the long road to reality can begin"
-    excerpt: "Expectations surrounding driverless cars peaked around the ... Breakthroughs in artificial intelligence seemed to happen by the week. That hype has deflated in the last couple of years."
-    publishedDateTime: 2021-02-09T16:58:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/02/08/now-driverless-car-hype-long-road-reality-can-begin/amp/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/02/08/now-driverless-car-hype-long-road-reality-can-begin/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/02/08/now-driverless-car-hype-long-road-reality-can-begin/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 56
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/02/11/Capture_trans_NvBQzQNjv4Bq5eUtQIhwNPvhnSjcQF0SK68DyAxJ4MLDUQTzIbLjyXI.PNG"
-        width: 655
-        height: 410
         isCached: true
   - title: "Tesla Will Make Their Driverless Cars in Buffalo"
     excerpt: "Add 'driverless cars' to the list of things 'Made in Buffalo.' Cheerios, Oxford Pennants, Sahlen's hot dogs -- and artificial intelligence."

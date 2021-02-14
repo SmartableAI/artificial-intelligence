@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Iron Pillar leads $5 million funding round in AI startup Ushur"
-    excerpt: "Ushur is Iron Pillars second investment from its second fund, which is expected to announce its first close in a couple of months, co-founder Mohanjit Jolly says."
-    publishedDateTime: 2021-02-09T16:22:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms"
+  - title: "Data training startup Labelbox raised a $40 million Series C after getting emails from investors 'every day'"
+    excerpt: "Labelbox announced a $40 million Series C round of funding led by B Capital Group — bringing the total funding to $79 million."
+    publishedDateTime: 2021-02-11T12:13:00Z
+    webUrl: "https://www.businessinsider.com/labelbox-40m-seriesc-funding-data-labeling-machine-learning-2021-2"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-85978,msid-80772644/startup-funding.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Ushur Closes $5M Series B Extension from Aflac Ventures and Iron Pillar"
-    excerpt: "Ushur, the no-code intelligent automation company, today announced a $5M addition to its over-subscribed $25M Series B funding in November 2020. Aflac Ventures and Iron Pillar participated in the round."
-    publishedDateTime: 2021-02-09T15:44:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-financial-services-insurance-industry-ac58b4371aeaeb9ac7e599f42c3a4340"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://i.insider.com/602463f367d1e300113c56d2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "9SBb0B+BK+dVuf0+/p5P2joZWyyXF4NXiV5GRS/sKRLYkvsUQnKjOHqmr3ndXhWFBVribRcEQwhyb7MZqbQH0ZPgo5gRT2d1sTWLH+br6VucV7D52myscrTcf6wIGhVQovHP52F+DeMP3BC0TzRtXcAx7bE3JzBZ5n47QYq8iqugaBTb0oF7nD1ouMGZuw0/fGWDSy8ZKmd6Nfdph2D1lOLkbx/pphKrXSWv9VFUmYyhcqab+vwvpvtFSShiqjlZOmU+Vjsxjwj4DMcO2mpJ5SPC+tXg5JSK1nvshC+APhUdCJyH9Kl4KT6+yINPR6qAW3u4sn+6SSsMzLCSefVMxoPQ3Ov8P6oONDQ/9hJs2Mk=;8pAYZ+e/STwPj0wBG6k31A=="

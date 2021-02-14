@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
-    excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
-    publishedDateTime: 2021-02-09T15:25:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 76
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg"
-        width: 600
-        height: 440
-        isCached: true
   - title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
     excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"
     publishedDateTime: 2021-02-13T17:00:00Z
@@ -322,15 +306,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 38
-  - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-    excerpt: "Cleareye.ai Collaborates with Microsoft for AI Platform. Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collab"
-    publishedDateTime: 2021-02-09T16:45:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210209005295/cleareyeai-collaborates-with-microsoft-for-ai-platform"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
 
 secured: "aOLQnTWbQc/EHhOCIL5jZ78JQgXtt/EA59r8vOicVfZTZ9procgOGjbMbm3yA84+WHbWVLs9JCokkfN4X2EN/qBtqGhSpx0nPzlELL2o6C2Cd2QQ3R0FEpuHnkJGYo/mJMywxW4E9kzAvdi/VHSbu6IXZHlj6FGiBFayqf4aatvhCBPyavzignjyIs22ZKTvL/zJgfVnfrduczMrpX5xZj/RnexdY/+HmejXxmDH0YfM10t8tjSetDmQKc7PZ1ktRmchhI3aGKyDVy4RamNFJQUvkQMSgVafnApzFQjPGMke+bl7me+Odh4WxITCLV0G/YEZHvJ2HL83TlFywg2T0Fi5Zc/wWB2mp3SOi/WJHmhZMkVnaQPMHMVbQKOdGqJUVa27qep23eHpcTsBO5OfpwJ8wVzPGTBEZhq39dLPDAO2em1ol6Pim49E6ORwWihl34O3qDGn71jpy2gMVacYTV8X+Tk8h1XJdKFC1NVw2VS8OqGOo+QNnI3A+PujyTCkY85d15xqs0R+f9uKkDmr1A==;7I9NGHrGBKKyI8Xh7SUR6A=="
 ---

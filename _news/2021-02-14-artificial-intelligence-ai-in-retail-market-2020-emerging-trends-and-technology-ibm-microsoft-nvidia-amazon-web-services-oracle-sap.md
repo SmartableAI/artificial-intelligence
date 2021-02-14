@@ -122,22 +122,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
-    excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
-    publishedDateTime: 2021-02-09T15:25:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 76
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg"
-        width: 600
-        height: 440
-        isCached: true
   - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
     excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
     publishedDateTime: 2021-02-11T21:51:00Z
@@ -321,15 +305,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 38
-  - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-    excerpt: "Cleareye.ai Collaborates with Microsoft for AI Platform. Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collab"
-    publishedDateTime: 2021-02-09T16:45:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210209005295/cleareyeai-collaborates-with-microsoft-for-ai-platform"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
 
 secured: "E0BlxNpkVcbBmX7GlD0YMD0Df5zgUCwyiuY83lW/DF6wxg60BGjZlhom6VisgNtcYWKuD813VgdtHoEktPDT9ClEhh0MOYZPx4SUy8MXqpua9XCEyKdyfVYSfWt3heEb1z/hwBdUuH93KgFTgnkdMX0FT/KrJGtoNVyo9qZXWBFNZNJHuibh+jYRRq5ZFJHm7MaKevwEKwF8Gf9EXdbFvrDg9GZnwT2yO8NoafUd09+6e3K0uoYHCwW06vCXufXBv7EJrrKLF0IXTqAPNQfvbr5+U7KXAfINDoCw/uFaYqTfksmihmhAQsp643Luml1skXRU6tSrIqFNbosu6bYFvpa3XbU0vU3fqT5N4NNUpp8=;2N0voG3+p6ruy1mizCDISA=="
 ---

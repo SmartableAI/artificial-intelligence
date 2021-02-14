@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
 type: article
 quality: 114
-heat: 324
+heat: 304
 published: true
 
 provider:
@@ -109,22 +109,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "U.S. Fintech Cleareye.ai Joins Forces With Microsoft for AI Platform"
-    excerpt: "Cleareye.ai, a U.S.-based fintech that operates a artificial intelligence (AI) machine learning platform, announced on Tuesday it has joined forces with tech giant Microsoft. Cleareye.ai reported that through the partnership it will use Microsoft technology to power its products,"
-    publishedDateTime: 2021-02-09T15:25:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172064-u-s-fintech-cleareye-ai-joins-forces-with-microsoft-for-ai-platform/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 76
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/12/Microsoft-Headquarters-Redmond-Washington-600x440.jpg"
-        width: 600
-        height: 440
         isCached: true
   - title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
     excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"
@@ -325,15 +309,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 38
-  - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-    excerpt: "Cleareye.ai Collaborates with Microsoft for AI Platform. Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collab"
-    publishedDateTime: 2021-02-09T16:45:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210209005295/cleareyeai-collaborates-with-microsoft-for-ai-platform"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
 
 secured: "I+mXX+bnSCoirId2CIQsd9mTOYn8XG3ZrdhYDSgfjgsapNVcBzIHJOmHtbbVCSIKEUGGmIHN8FMG+eKfsCeJ0DYmgcWTcKTPNcZa4AfYi7gmsAhj3fMYx4qfVlvkE3R6+U+8oAHWk7CtPM2HhECQUOsPilZlQ3a2GyL4kVgzjNQq0fjYj+LTEq0D4ujYkeLoz9PKPC0EdtKZtlFTYB7604ICPJ+LdtDIP6fkGx//UvaDXIy1J1AXGwsv9mLP6d0aPs6TWmSvJlpu3E9+O2nGEkdsgy6cZVBkQEw2MmwaSYYG/tREifujHZLT0LmSn8XwzijoGebQNzIeemvoe3YjGfLoogq8JqXZ1KPgteFvaTgkJAnm5so9i0EtMFDD/BZZTzHKyTdi3zdZrEOwbFTMewi1/9JeRHCJlKe5n7mMGAZni+NDea7tt2LT+R7TMHmXy8YPwGxYH94QOkSyEr/7m9JNVnS3wrTzB1xzxJNbf14DkxKxQTkF/aDTMpAJ4In/+5L4xy+vhVcx0WTxR+MjJg==;AzZETTZYFDZv4MEs5+iUVA=="
 ---

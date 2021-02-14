@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Geisinger researchers find AI can predict death risk"
-    excerpt: "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year. The algorithm—an example of what is known as machine learning,"
-    publishedDateTime: 2021-02-09T15:48:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-medical-technology-health-medical-research-8dec9fab85f154247727ce3286f85014"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence Predicts Death: Echocardiogram Medical Imaging, Computer Models Detect Mortality of COVID-19 Patients"
     excerpt: "Geisinger Health System researchers created a computer algorithm that uses echocardiogram videos of the heart, which it can use to predict the probability of death within a year. Developers claimed it outperforms other medical predictors."
     publishedDateTime: 2021-02-10T21:57:00Z

@@ -86,22 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ultra Low Energy Computer Memory for AI Learning in Medical and Other Applications"
-    excerpt: "Leti-based team's uses machine learning on RRAM to get 100,000 times less energy usage. They use randomness instead of trying to prevent it. This allows in-situ learning to be realized in"
-    publishedDateTime: 2021-02-09T15:24:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/02/ultra-low-energy-computer-memory-for-ai-learning-in-medical-and-other-applications.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 53
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2021/02/AIrram.jpg"
-        width: 714
-        height: 738
-        isCached: true
   - title: "Organizational learning: Your key to AI success"
     excerpt: "Instituting formal processes to embrace the learnings of small-scale AI efforts and promulgate them throughout the enterprise is essential to business transformation."
     publishedDateTime: 2021-02-11T10:02:00Z

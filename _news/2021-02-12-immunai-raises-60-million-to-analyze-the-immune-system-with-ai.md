@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/11/immunai-raises-60-million-to-anal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/immunai-raises-60-million-to-analyze-the-immune-system-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Theator raises $ 15.5 million to analyze surgical images with computer vision"
-    excerpt: "Theator raises $ 15.5 million to analyze surgical images with computer vision . Surgical platform developer Theator today closed a $ 15.5"
-    publishedDateTime: 2021-02-09T16:22:00Z
-    webUrl: "https://www.compsmag.com/news/pc/theator-raises-15-5-million-to-analyze-surgical-images-with-computer-vision/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/theator-raises-15-5-million-to-analyze-surgical-images-with-computer-vision/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/theator-raises-15-5-million-to-analyze-surgical-images-with-computer-vision/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 71
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Theator-raises-155-million-to-analyze-surgical-images-with.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Israeli AI Chip Startup Raises Seed Funding"
     excerpt: "Israeli AI chip startup NeuReality has raised seed funding of $8 million to work on its data center AI inference chip and system solution."
     publishedDateTime: 2021-02-11T14:22:00Z

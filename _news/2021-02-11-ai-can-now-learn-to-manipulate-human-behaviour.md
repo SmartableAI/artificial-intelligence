@@ -24,9 +24,9 @@ related:
   - title: "Artificial intelligence can influence human decision-making, new Data61 study reveals"
     excerpt: "A new study by researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, in partnership with the Australian National University and researchers from Germany,"
     publishedDateTime: 2021-02-10T23:17:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/"
     type: article
     provider:
       name: ZDNet

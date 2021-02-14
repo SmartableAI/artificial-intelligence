@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/02/aurora-toyota.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Toyota partners with startup Aurora to develop self-driving taxis"
-    excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
-    publishedDateTime: 2021-02-09T16:02:00Z
-    webUrl: "https://arstechnica.com/cars/2021/02/toyota-partners-with-startup-aurora-to-develop-self-driving-taxis/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 54
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/02/aurora_car-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "Aurora Partners With Toyota on Self-Driving Sienna Taxis"
     excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
