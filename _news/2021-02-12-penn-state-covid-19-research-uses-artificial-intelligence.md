@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-1
 cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
 type: article
 quality: 61
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AI can make accurate assessment of whether a person will die from COVID-19, study finds"
-    excerpt: "Using patient data, artificial intelligence can make a 90 percent accurate assessment of whether a person will die from COVID-19 or not, according to new research. The research can be used to predict the number of patients in hospitals,"
-    publishedDateTime: 2021-02-10T00:20:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/02/210205104219.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 39
   - title: "How AI and data models help governments fight Covid-19"
     excerpt: "A not-for-profit business group including IBM and Rolls-Royce is using AI and data models to help Europe fight Covid-19 and help prepare an economic recovery As Covid-19 vaccines roll out, getting economies and societies back to normal after the worst of the pandemic has passed will depend on collaboration between industry and the public sector – and harnessing the power of data and technologies,"
     publishedDateTime: 2021-02-12T04:34:00Z

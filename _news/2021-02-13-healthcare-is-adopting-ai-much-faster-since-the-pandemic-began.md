@@ -3,10 +3,10 @@ category: news
 title: "Healthcare is adopting AI much faster since the pandemic began"
 excerpt: "While healthcare organizations are hesitant to adopt AI technology, the COVID-19 pandemic has increased their interest."
 publishedDateTime: 2021-02-12T19:29:00Z
-originalUrl: "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-webUrl: "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
 type: article
 quality: 104
 heat: 124
@@ -39,7 +39,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 84
+    quality: 88
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/770x578/143c161e6d1f8b6e09a331048f272527/20210211-healthcareai-karen.jpg"
         width: 770
@@ -60,6 +60,6 @@ related:
         height: 300
         isCached: true
 
-secured: "BZ+axxfQm3t2/dWjhj0JhQ7zQ1BVf3SGHHdiQYElgi1MA3gjc61zHhphGgNNz8yDueaVumMPOtenNmC0jqB69qqehVjfva84LXhSswbaQ5AZmCZkMjLzjCG3szA6/j5jTmgTrVwxvOLzhxD68h4QygQnT8YRhzkdRVvQZb7t+FxS6uGHjei24QvAfKSh6Fw+2x3mCVhnGMROARMGbpfpoZNSRchSzF5n4tDsn+zUsESygNFp4C1rxW5UUHo6lBDKK6V2b8rBA9Mh3GCuMG3629fj5B02dvGaPOL6mt0B0e5Q2lvSBoiUA09YoqnLWQ2aGEWcclWJK1pdHqQ8jzlEwLz5lFai7LPnpa5oWCKcf3TMFGUBVf7V/F7huekNLVYa6WgLP65CBfxvR0c93yGJR179B+N7mBizhvvRUk8Fb2PpmcDja2LNXggpmvpkSahvrUJiS9I5Zk+sfdiZFAtM38O93z88fBGAewrgJ7j7adutCufNMBF9vgLWCk/xxIKhat9ET9M5Af70tlYhkOSZWw==;vUZtY/7mjplXpCEMNym69w=="
+secured: "O0PFFc5IZNUNr0Sl1SJQE9HsgTelc3up7bXRF6pxD//2nd0Cd4cee7apmBXWmOqBTfvuOnAhpq8QN9TlPN70fdFckrSjyO2e9809OmmNnZ3seAE7Gl9L/zOggtJJd5DWVWUYsO1AX5qyrHmri0bJA4/VbCLv646aN+J1XhvVXHG+KHXqHdgthSc/ZxawvCae3HGNNJgntZV+cWnEH3qqK65cAoWyEUSjgvOc0QdM9oyJBKIu8uo6GLJHgfDJX5YXL05hmoAuptjBVn3l9k5YTFufA9n6itkkfpS9AXABWNAW0YrNanvkW02ZkRyqIpttWDEkTbAjM/G8SzaFUHknjGBSbUe+sOUlvzOfzvfR8sY=;BcGaTbrE48c5YhXBGJZP5w=="
 ---
 

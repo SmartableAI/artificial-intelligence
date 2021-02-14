@@ -239,6 +239,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
+    excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
+    publishedDateTime: 2021-02-14T15:12:00Z
+    webUrl: "https://www.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/en/headerimage/header-1612887474252.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence as a Service Market to See Massive Growth by 2026 | Ibm, Google, Amazon Web Services, Microsoft"
     excerpt: "Global Artificial Intelligence as a Service Market Report 2021 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
     publishedDateTime: 2021-02-11T01:13:00Z

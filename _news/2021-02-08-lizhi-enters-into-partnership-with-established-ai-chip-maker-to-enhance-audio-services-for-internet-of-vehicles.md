@@ -1,26 +1,20 @@
 ---
 category: news
 title: "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles"
-excerpt: "LIZHI INC. (\"LIZHI\" or the \"Company\") (NASDAQ: LIZI), a leading online UGC audio community and interactive audio entertainment platform in China, today announced"
+excerpt: "LIZHI INC., a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics, an established chip maker for smart mobility in China,"
 publishedDateTime: 2021-02-08T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet/article_af7a6581-d414-5956-847e-13befe071302.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet/article_af7a6581-d414-5956-847e-13befe071302.html"
+originalUrl: "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio"
+webUrl: "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "tOoAPs8CF2zYW/DEA8g+mV3v0tFQejlWRmzkFzc1EVHA6YLA57MMT3hMrxr2jbYcE2gEDVtM3oLCJbNyeVQ4EEt6qgGzyYJygYlap113p0ikjT+ecK12a/ImmcTDXFaOZVsd715sEC5+uV7N+RgCnbzYSMqDJzsXM+4xev4IBBRu0tGnVYHbZwiER8u65yamRVB1oNRyYqC9DZbjgH0LnKb4JlCEeixvnGawvCOYr2Cbvo5QcmijufmjjQORw6dNAiniCLL6Uz0rg7swhIo2wYanJMo38YydE6q0DCF1DGEaT+e6+PfRzoj6SccJ9MerHdyr8k2V5CFT2nQlEvK0SRxaj/lJn+OXj1EekHAJ4uE=;04t5250qxnvsa5y/1JMcTQ=="
+secured: "7k6RpvXZSAIGs4be5toXoFJSIsTNYx8p48eM/UMxZ9WLQpcW3sqykbrQfJoO6Rno75WddAyPt9wcV+2n46sZpcbefdmoYSBVugYYRLNMz7iO0WUPTu0tH74A0ZBJSNGjAKUsOhkVeT7hCUnCVvjmh2h7+V6qgAJ8Se1/RwS3RNxnY6k3SSNRiF0ozKg0LWV5BPiyaIH5DLcClSc3A4Y/EMR3L/gH/x46RtVKoKYra7+tNh0hxak4lp/vvBm9XYeUw9i3noL3JXKQ80hnQJI8WR139h5QYf1Vzr8TGGLME0xgcRbTii2LdJubEnuURdIC9vYsUPS0Jsu0jaXo5Cx2gdxWgdk/AYKrKhZBVMZxEvg=;IhsuOol4X7i6FEV+6UPDzA=="
 ---
 

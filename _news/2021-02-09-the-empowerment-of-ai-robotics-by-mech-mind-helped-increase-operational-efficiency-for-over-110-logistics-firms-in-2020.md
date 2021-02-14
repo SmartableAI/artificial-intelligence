@@ -3,10 +3,10 @@ category: news
 title: "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020"
 excerpt: "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020."
 publishedDateTime: 2021-02-09T08:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019"
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "cWNe5sRIJ+AklUG78RBeTu6dCwqG82EGhjqaikTP5U1Qc9r8HDMJxxTR5c8/5HbBoxes+SUn3ABGC8HLVFkGxqRUyGQYDaHJA8ex0HSN++7Jg6/54DYvivNeOzSQNpkaryFs+vBDW+Z20dmbqRqT2gfhvEuXPEduR1jIMIdPz9HG5yFlWgVBYHL91opcouhA7Gtty+mL5+fS/2iVOGXCkK+usgJJRItWWsBGilU8G+4i3XJU+XEpLzlkrqDMwqIkvjJFxFAhYY7wIE8uiwgM1qFyfeBZTwP9np6scPctieLW2L+q7hmHBrg9RcP35vcjMzBypbCDCpP9YotlfJzsyo+HkK0JoBJr6KXDM+8TMUA=;mOizEFz4Kixqb60f9TrQmw=="
+secured: "E2rx5+xpQEmMKTpKJgA0XKzn5i7TL0zQ1VU+/OBBCS6Y+lfFqje/wf8t1IZi+JKPUNf+XCvmMDoX2IHsofpF8OmPVcRLSTgN0gw05kXtGqSXCW7xzdTZRe4OUaHb/vowk5i58Il9BlHx9AdR9gK3zdIUnJridjXhl9ffY0O48n1XBIADZhOUWlWeYj1WLMpNVl8IxPU40+2NLmMZumcFGNDCRiGGbdhe1nn455zltHyEmPpkhDueUcUQyReSJ6P/60Mx5J4J/Q7dYmIHlBwLs5F56q76ZxD3hBT867QNBPIqzW4jIpsIYun6+oeGmRWV7gztVP0f1BswEUHjyBkHM9+9rhECwJRuZEX1sXGXLOU=;g5h5+tWRG4L2Poq32vOP3w=="
 ---
 

@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
-excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"
-publishedDateTime: 2021-02-13T17:00:00Z
-originalUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/"
-webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/"
-ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
+title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
+excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
+publishedDateTime: 2021-02-14T15:12:00Z
+originalUrl: "https://www.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/"
+webUrl: "https://www.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/"
 type: article
-quality: 71
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: InfoQ
+  domain: infoq.com
 
 topics:
-  - AI
-  - AWS AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-    width: 960
-    height: 675
+  - url: "https://res.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/en/headerimage/header-1612887474252.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -120,6 +117,22 @@ related:
     images:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
         width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
+    excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"
+    publishedDateTime: 2021-02-13T17:00:00Z
+    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 71
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
         height: 675
         isCached: true
   - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
@@ -226,20 +239,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
-    excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
-    publishedDateTime: 2021-02-14T15:12:00Z
-    webUrl: "https://www.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/en/headerimage/header-1612887474252.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
     excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
     publishedDateTime: 2021-02-10T15:48:00Z
@@ -320,6 +319,6 @@ related:
       domain: financialbuzz.com
     quality: 38
 
-secured: "E0BlxNpkVcbBmX7GlD0YMD0Df5zgUCwyiuY83lW/DF6wxg60BGjZlhom6VisgNtcYWKuD813VgdtHoEktPDT9ClEhh0MOYZPx4SUy8MXqpua9XCEyKdyfVYSfWt3heEb1z/hwBdUuH93KgFTgnkdMX0FT/KrJGtoNVyo9qZXWBFNZNJHuibh+jYRRq5ZFJHm7MaKevwEKwF8Gf9EXdbFvrDg9GZnwT2yO8NoafUd09+6e3K0uoYHCwW06vCXufXBv7EJrrKLF0IXTqAPNQfvbr5+U7KXAfINDoCw/uFaYqTfksmihmhAQsp643Luml1skXRU6tSrIqFNbosu6bYFvpa3XbU0vU3fqT5N4NNUpp8=;2N0voG3+p6ruy1mizCDISA=="
+secured: "sSR7XTx5kF2sIZOrv/DbT5doyhs9ommX845xCPkRqtKHz6WcIHCl/3Db3vWOCbTkxm1YBmTnfoA30YmHijp+RlsABNq0D8KTnWy0so1F5Eyjx2EtcXwzLal3mck6B4bchPkqSZ4E+RipKOaQIbJEtoxDCvyUUlwVdhVffmXQAZ/pvcMrtjmb4LPXWj8TECfRoLK/tZh/6fawVK0Cup//aKPw5Ek5/GUUT0us6j+276XyjSHzW1YKdZysvRES/X3SAEKbjyAfggbNcdb8YdLwiKqg6rtBVYuUQUBbhlhye+9AQ6Ul+RRKGWeHiF8vb62+Erm1FXGUdczMkjw+mQnHaIB3FIe6EJMjnfgvyTcCSdg=;v5AmqKDoWzPdh8Mg0kyLPg=="
 ---
 

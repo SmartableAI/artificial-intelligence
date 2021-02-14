@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-12T18:13:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
 type: article
-quality: 35
+quality: 33
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -40,6 +39,6 @@ related:
         height: 600
         isCached: true
 
-secured: "pV7FjkdNitZYoay55X9COQZ+ABL3+hcJaH+TNdeEHhTvNZTaShsSBjSEY6Ushtxo7Luy2oLitdJtpAfQUggFM71TDZDOj6qlMpW2Q/p5n25aL1rTABSAxY3Hk13uZQpIuZm7kaeh5DieBeiM8AjjfVt70jgZf10MTGhimzwH/zI71yTte4FyKHQA6dyfrAv3ZJKZsDVhJ6HqGj824vwyp2QSuBzJ7ZjZc2wCl3/EOCmirssgRfWG0p2f/v0wwfi2MibNIAJgDX7+EwiIaTxkCSNihLtBO/MvQ4bDCM4j/Ajc4X/Ml6I8LUde+AwTnqXn1D3ZXlZB6P9dpSaVjuPKkHOdVGdx0dufq2o8r5rmcKE=;F5BptEbjRZFh5v56JxW3IA=="
+secured: "AG+8V0B2dj6aGzxuGEV7lrPJI5zs3O30KYfw802AZwAt+TPlqpXyIToaH5rpo8TGgpv8zfuLcyVfwyyY3JFzHtglIKlggB7X6oIg8pS95A8h/X9tX4/8DXaqh2wYfUksnYXz7pVjQQfRgE1KtLgel6cuFB8+S2QW2QpvLVJflhBjAwXWRhWDsoxzS7dYcLRu23+2xL60qEy0wJNGuQIdgfdzkcU+NpH5O26XqpKrFHplmC96JAzxO0CzqVMyY5uLo9kLzeIuvaRLvHLgZBtTofGjf4O+fD1endmq5rAQ+fQE1kh6nc5VbdJfbSCQywwCBgnu2wVmbZr5FbbS1KvXZUaOqSkeDchZg43Uq/z3FUA=;vbWMcbe5UeO9NRkk68EpRA=="
 ---
 
