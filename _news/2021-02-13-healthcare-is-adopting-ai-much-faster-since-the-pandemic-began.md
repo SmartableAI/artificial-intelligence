@@ -39,7 +39,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 84
+    quality: 88
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/770x578/143c161e6d1f8b6e09a331048f272527/20210211-healthcareai-karen.jpg"
         width: 770
@@ -60,6 +60,6 @@ related:
         height: 300
         isCached: true
 
-secured: "O0PFFc5IZNUNr0Sl1SJQE9HsgTelc3up7bXRF6pxD//2nd0Cd4cee7apmBXWmOqBTfvuOnAhpq8QN9TlPN70fdFckrSjyO2e9809OmmNnZ3seAE7Gl9L/zOggtJJd5DWVWUYsO1AX5qyrHmri0bJA4/VbCLv646aN+J1XhvVXHG+KHXqHdgthSc/ZxawvCae3HGNNJgntZV+cWnEH3qqK65cAoWyEUSjgvOc0QdM9oyJBKIu8uo6GLJHgfDJX5YXL05hmoAuptjBVn3l9k5YTFufA9n6itkkfpS9AXABWNAW0YrNanvkW02ZkRyqIpttWDEkTbAjM/G8SzaFUHknjGBSbUe+sOUlvzOfzvfR8sY=;BcGaTbrE48c5YhXBGJZP5w=="
+secured: "R5fuFxsY72yfn+6opqgaeVA7QhKW/Kb/VMu6Ohnxq2JCrb15SXj2CONPT7S1SCAG0v9r+73u39gb8NpJopLrgztmte8ykSUZGMPtPxKZ/UWzuGS2e8f0IXld9bUBX6gNlmIqW2wKxj0i81WC0/2RUlUWPhZ3J6kK7Jgs7ILI/QOlR0Jonj0R+XAKk85SxoM9CvLZBBfP83y3Ng5ZxoK7EIugxniSdvE+IaHwBol06RHXvk3+CxlL0d+U2coPyiuhkekq5hrCXhVCOrHpmEl8oJM17np3GwDosUrV3k9W3JRvboH2sobM7yOF6xsD1R6rUxVOizKPSJTjQK/cw1v4jkkZennswoinK+8tM31r3MqxWZ4sNaeQgS9K8doL+kx0Etxpd/sD6NCR2YInRyxKvlnIW9Cj+wi/P7TReGRKT7Ds+7Ze11Wbfnzsd4giRsq2GfVqVypKfoaQpmLksZKayBEwaZI9UNxsSRgoUG/1mNcSTWxQe45Yvb0Qa93slG6dN8/E1djcrEsvMfC+d7YRvw==;jT4Q7DRe4VnCYYXDr+wXSQ=="
 ---
 
