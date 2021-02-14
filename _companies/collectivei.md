@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "collectivei"
   url: "https://twitter.com/collectivei"
-  followers: 1137
+  followers: 1138
 
 locations:
   - New York, NY
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Collective[i]"
 
-secured: "t4XYv+uyf3usBvW+1vk7nZ8wsz20ujS0wvsDypy4idhQ0qhvvAlJiAg+CJxDKUh63M3LB9NdDxUdsFZgnbu5mAXz/zqMmJzDQU4oaadSRjaVsqP4wJttvvLiSiXFzNdXbMmL0/4Hl4EMKJBqCUfCVAL5a2ow+fVVMUGUE7fEFgJXQYVLfjPtYIA53xR7LVsgpD68Gx37Eu4g7lJEgi4FZK+TmyH5ifCNVyn9HngxLOlQfKaM1NPhf6wttge/EfRfya7Azxb4e0fir9h40V1tVll93BJcHaJ04QVsSupJiUydykRdmQUSCJpfS/GVPHFqXqANp5M0KGUHM7xRInkI87QGHCb8fQazb3geZGrA89q0PB2NvimPmW1ij3znzLMV34cOqLsEb06kxGfE/bQQebTBL2HcHZIo6Cimn01IXtk=;YZkbQERZoGMzuX2Xle29rQ=="
+secured: "dZvG3IkFavyy2p6NBxXWjPa1ln2d1o7Trp5tQ8IF45naP8QUHzgs2mMjiJSGXbM6y5AzlTlFTjtnpLenf/HdIsJ81I7H9X7cZJRa2bulG3mvlI4abfcEIzO9EZuyScKCWjvIeliUcG+uq+0NTmbmsAp8NlN1wgMNCJ9egPtzEu8s4JzitTb3IoucfO7ci3QyOPEHCrYL21Uwd3qlnusgpVfJ5SCARCRSH5ukp299y9Z/iMG4v9xojO5LKe+u0cQ1Fcndgur6jx/1El7tVjkXKzQQdFSMA5rCUwIAJqwTBdQXePrg9TJloCiTiCCcBnEMtVVYR9eEAkO7UfZ+DEF2tAfi/gXULfWJAczJ6S1ITem6NAVxkOuKPKSwB4TMZD9Nqn9H8JtjiydtmYSKu4qFv+DCdN+67Yde3k2QqVaT1M0=;kPQ9vNCMjRdp/HSpeJRDiw=="
 ---
 
