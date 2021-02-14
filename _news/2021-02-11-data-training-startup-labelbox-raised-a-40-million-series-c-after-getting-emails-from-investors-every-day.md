@@ -32,12 +32,12 @@ related:
   - title: "Artificial Intelligence Startup Labelbox Closes $40 Million in Series C Funding"
     excerpt: "Labelbox, the leading training data platform for enterprise machine learning applications, today announced the close of a $40 million Series C funding led by B Capital Group. Previous investors Andreessen Horowitz,"
     publishedDateTime: 2021-02-12T18:13:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

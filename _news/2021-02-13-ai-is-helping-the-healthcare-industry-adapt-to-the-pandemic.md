@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-12T19:45:00Z
 originalUrl: "https://www.techrepublic.com/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
 webUrl: "https://www.techrepublic.com/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
 type: article
-quality: 88
+quality: 84
 heat: -1
 published: false
 
@@ -21,8 +21,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-  - AI Ethics
-  - AI in Robotics
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/770x578/143c161e6d1f8b6e09a331048f272527/20210211-healthcareai-karen.jpg"
@@ -62,6 +60,6 @@ related:
         height: 300
         isCached: true
 
-secured: "61uIEwN4LpSBXfdjyT7Q0He+/StnFo4O3K01zcs+HHvI/nLI28pcWHhFiN95Ukm9qxCJihiZcZtyNefxa51PCt/hNDpdFQv4c7D9y048Dv+ksI1e/6SlSjdmeV0DZtwytyLprlUCbZkiyT/AmCyF3j20Ue62kuP83dqd689t5TlsrblKq5+D1/UCk7pI8KAysLpgC6WoWYM0YLQBRzD+HOO2apySMMIlQi+EBfu5mGym4NCL/b7n4iyphI8AZ/H6AtLtlYzBLyT3b7h/199ywYsqLAPYeK8an8UMs8YFY9JZCt6PUUZ95W/rA0jcLwR3Lrwg+pWRZh3DUN/MYZbtuP0OzwWcKkiZJfhXmEjtlmlHII03kLSduiqQZyMiwI0p7PQVYTxGbbl9Q7JuJC0PSQ+qshk6Gy7C3+rP4TeqUzQcXEKvUiQQafl+B/L41cRiAUKo7V4No1ZbvP5DhDbDiuLS4lfTdJknp8LoMpmo46zLf5NhJQQj5EjhDvwqNnf9SbjY0+lQ9ZOzFLVY3qY20A==;0oldOlkovuAHM6raLyVM5Q=="
+secured: "HiK3MHjqVwcK7JDmuneIKFXrsIiTApFdv2mVNn5184FmBdbGB/liOQS9Dqdo9cYkxKkHl2p0SBmZU7nl76pBaM+yoMK5HAyOKWQ7dJn/BKoZx9qtWHkr/tSgAPQHI/GWytsSHC3biBZ4GT6ru9I3zSY023sTPwBfTJ/Ko7fEz1iAjzdBslveVMwaIH9Vm7b+7sZWrLuyjbHrmeEWdt4Bbg4mNme5fFB/F9kWiVHpMFk6u0L9kGShz0dLx4Fz3RkZQwc0fKDeEdY01CYguyVa0xeSuxlIGnKzABFxxNrwBeZU7H/EN/WmpxFGkLG0FdcFrgBR25rSY55bEzwMkBzMgD4yUcQJ1k5tb6pYGWRZc80=;t0ejjfJs+rkBVVQq9UViqA=="
 ---
 

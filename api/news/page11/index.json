@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-02-04-dustin-diamond-was-working-on-screechs-robot-ad-campaign-before-his-death.md",
-      "title": "Dustin Diamond Was Working on Screech's Robot Ad Campaign Before His Death",
-      "excerpt": "The ‘Saved by the Bell’ actor sadly passed away earlier this week after a short battle with advanced lung cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://movieweb.com/dustin-diamond-dead-screech-robot-commercials/",
-      "originalUrl": "https://movieweb.com/dustin-diamond-dead-screech-robot-commercials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn3.movieweb.com/i/article/oz8EStU1MM2Zwnlo9gHSNdvz9LURWD/1200:100/Dustin-Diamond-Dead-Screech-Robot-Commercials.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://movieweb.com/amp/dustin-diamond-dead-screech-robot-commercials/",
-      "cdnAmpWebUrl": "https://movieweb-com.cdn.ampproject.org/c/s/movieweb.com/amp/dustin-diamond-dead-screech-robot-commercials/",
-      "publishedDateTime": "2021-02-03T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MovieWeb",
-        "domain": "movieweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-scientists-invented-an-ai-to-detect-racist-people.md",
       "title": "Scientists invented an AI to detect racist people",
       "excerpt": "A team of researchers at the University of Virginia have developed an AI system that attempts to detect and quantify the physiological signs associated with racial bias. In other words, they’re building a wearable device that tries to identify when you’re having racist thoughts.",
@@ -1216,6 +1173,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-healthtech-startup-remedico-raises-inr-4-cr-in-bridge-round-led-by-awe-funds.md",
+      "title": "Healthtech Startup Remedico Raises INR 4 Cr In Bridge Round Led By AWE Funds",
+      "excerpt": "The funding will help accelerate the company’s growth, in addition to further augmenting its technology capabilities",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/364666",
+      "originalUrl": "https://www.entrepreneur.com/article/364666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1612351346-ProductImagev1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364666",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364666",
+      "publishedDateTime": "2021-02-03T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

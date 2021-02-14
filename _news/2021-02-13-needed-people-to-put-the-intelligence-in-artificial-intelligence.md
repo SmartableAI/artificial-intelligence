@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/joemckendrick/2021/02/13/needed-peopl
 webUrl: "https://www.forbes.com/sites/joemckendrick/2021/02/13/needed-people-to-put-the-intelligence-in-artificial-intelligence/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Forbes
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Bright Apps LLC and #HumanIntelligence Use AI-Aided Bees to Teach Decision Makers How to Use AI"
-    excerpt: "Bright Apps and #HumanIntelligence are preparing to launch Bee Intelligence: AI Beyond the Buzzwords, a facilitated, game-based curriculum designed to teach business and governmen"
-    publishedDateTime: 2021-02-10T02:04:00Z
-    webUrl: "https://www.wboc.com/story/43323069/bright-apps-llc-and-humanintelligence-use-ai-aided-bees-to-teach-decision-makers-how-to-use-ai"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 7
 
 secured: "y0We3TrBzq8bOdXRnGVuQ2kwGhM7av1NAkn6e+5kl/tUjcWOzSzLJObbsGZEaukWF25EBvTwVtMj/bnZGlo94BjEP7kpgT/HacRVAP1rRsl4y4XWvc2NdLwMsphP+tDqNnHy4CXcw1bIni/l7SI3nhupvBCVg6+wkG+9GOC4qBH2WhxWtdfHJacDBQJKUsE3tpYgTFQIsbSUBL4r6WikTcfuzZvi8Dk+Mkg+WlSGjyLutAQ+EBoIb5EqoWDmGzvInbj6QOL+VZZRWIFnbRtWlses+wr1OV+pQ0P/cfKh+vEswQiyleh7bjs19b1IcjDQWxwyqTDsa0tffdjf6jN08zr++if35p3LO7K3IXsX1X6JaDpFMmxZ+3uLPUh9ECaS2bdRZeKvG+0lkBtuvOuVQK2ZBBlHYfGxZ4SNSkdPbE6k6vciHlvR5Z5Y5JVHuOKhAW9VterCcOdYRAm/EWTmvP89u+heBrpRsU14GU0TC426nWZvnP4Kw++ZGhayAkUOQj2flKKukaRNBR6NpOV7rg==;aDuB+5mnpD+UbWlLWKpcHw=="
 ---

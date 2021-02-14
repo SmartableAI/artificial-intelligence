@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Size, Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Artificial Intelligence (AI) in Fintech Market Trends covers the companies' data including Growth potential analysis, Industry segmentation, Business trends, Growth drivers, Price trend analysis. The Report also Gives Detail Analysis on Market concern Like Artificial Intelligence (AI) in Fintech Market share,"
-    publishedDateTime: 2021-02-10T02:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-02-10?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
     excerpt: "The Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027 report has been added to ReportOcean.com offering. The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc."
     publishedDateTime: 2021-02-12T17:31:00Z

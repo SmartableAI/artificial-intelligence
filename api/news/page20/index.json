@@ -2,58 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2021-01-28-the-next-target-for-a-facial-recognition-ban-new-york.md",
-      "title": "The Next Target for a Facial Recognition Ban? New York",
-      "excerpt": "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
-      "originalUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
-      "publishedDateTime": "2021-01-28T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-starship-raises-17-million-to-develop-driverless-delivery-robots.md",
       "title": "Starship Raises $17 Million To Develop Driverless Delivery Robots",
       "excerpt": "Starship has raised $17 million to keep working on autonomous deliveries, a post on Medium from the company says. The company has also added two new service campuses, UCLA and Bridgewater State ...",
@@ -1192,6 +1140,58 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads.md",
+      "title": "Nvidia shows off the first A100 GPU systems built to handle AI workloads",
+      "excerpt": "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
+      "originalUrl": "https://www.techradar.com/nz/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/vdaqQtQFfvSMJT6pxoTPrK-1200-80.jpg",
+          "width": 636,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
+      "publishedDateTime": "2021-01-27T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

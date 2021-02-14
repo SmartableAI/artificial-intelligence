@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Size, Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Artificial Intelligence (AI) in Fintech Market Trends covers the companies' data including Growth potential analysis, Industry segmentation, Business trends, Growth drivers, Price trend analysis. The Report also Gives Detail Analysis on Market concern Like Artificial Intelligence (AI) in Fintech Market share,"
-    publishedDateTime: 2021-02-10T02:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-02-10?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Chips Market to Eyewitness Massive Growth by 2025 | AMD, Google, Intel Corporation, NVIDIA"
     excerpt: "Latest released the research study on Global Artificial Intelligence Chips Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Chips Market research report shows the latest market insights current situation analysis with upcoming trends"
     publishedDateTime: 2021-02-12T20:02:00Z

@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-02-04-data-drought-slows-advance-of-ai-in-cybersecurity.md",
-      "title": "Data Drought Slows Advance of AI in Cybersecurity",
-      "excerpt": "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
-      "originalUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-294669/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-ai-in-retail-ocado-goes-bananas-for-robot-food-pickers.md",
       "title": "AI in Retail - Ocado goes bananas for robot food pickers",
       "excerpt": "Ocado Technology is training its robots to be more sensitive as pressures from the rise in online shopping grow, explains Isabel Richards, Head of UK Development Centers. (Isabel Richards) As I was chatting to Isabel Richards,",
@@ -1193,6 +1141,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-dustin-diamond-was-working-on-screechs-robot-ad-campaign-before-his-death.md",
+      "title": "Dustin Diamond Was Working on Screech's Robot Ad Campaign Before His Death",
+      "excerpt": "The ‘Saved by the Bell’ actor sadly passed away earlier this week after a short battle with advanced lung cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://movieweb.com/dustin-diamond-dead-screech-robot-commercials/",
+      "originalUrl": "https://movieweb.com/dustin-diamond-dead-screech-robot-commercials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn3.movieweb.com/i/article/oz8EStU1MM2Zwnlo9gHSNdvz9LURWD/1200:100/Dustin-Diamond-Dead-Screech-Robot-Commercials.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://movieweb.com/amp/dustin-diamond-dead-screech-robot-commercials/",
+      "cdnAmpWebUrl": "https://movieweb-com.cdn.ampproject.org/c/s/movieweb.com/amp/dustin-diamond-dead-screech-robot-commercials/",
+      "publishedDateTime": "2021-02-03T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MovieWeb",
+        "domain": "movieweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

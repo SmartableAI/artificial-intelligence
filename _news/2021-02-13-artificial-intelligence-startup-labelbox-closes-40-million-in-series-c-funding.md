@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence Startup Labelbox Closes $40 Million in Series C Funding"
 excerpt: "Labelbox, the leading training data platform for enterprise machine learning applications, today announced the close of a $40 million Series C funding led by B Capital Group. Previous investors Andreessen Horowitz,"
 publishedDateTime: 2021-02-12T18:13:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -39,6 +40,6 @@ related:
         height: 600
         isCached: true
 
-secured: "AG+8V0B2dj6aGzxuGEV7lrPJI5zs3O30KYfw802AZwAt+TPlqpXyIToaH5rpo8TGgpv8zfuLcyVfwyyY3JFzHtglIKlggB7X6oIg8pS95A8h/X9tX4/8DXaqh2wYfUksnYXz7pVjQQfRgE1KtLgel6cuFB8+S2QW2QpvLVJflhBjAwXWRhWDsoxzS7dYcLRu23+2xL60qEy0wJNGuQIdgfdzkcU+NpH5O26XqpKrFHplmC96JAzxO0CzqVMyY5uLo9kLzeIuvaRLvHLgZBtTofGjf4O+fD1endmq5rAQ+fQE1kh6nc5VbdJfbSCQywwCBgnu2wVmbZr5FbbS1KvXZUaOqSkeDchZg43Uq/z3FUA=;vbWMcbe5UeO9NRkk68EpRA=="
+secured: "EAPdry7Xi0iGI//+zivMmDaafvuiCMN383rrVly76LJHOhE/oAZiWtvyQeQiHh7Z/R51PJkD2OhBSRP3hB/0F3SivyG+xowWWQcEge65Jg1gAp3TV7uMJpF5td7XpcWqVvLlBXgEyuSsbInwOz7CyiOv4McY0Z3zBhtvGeevAk83Mhc8haq2f6IPTkOYjTKn2yttrGEk5wTSZsg3j0vnW2xSEXuvlXdpayVYkkzmW6aKQSu+vIM3BFxcW4vS69lzc0QJdqezPmdr4zPar2KS5k1uvXxiHMkmHccpKsyXBpe7vYZpkstpLmB5nqDFIjJVB1JEiZ7lZnV3UWnNljsLsQ6sUllAQ55NQwRryX1m3OQ=;pgvlE+wBJOxdaXAttfyOTw=="
 ---
 

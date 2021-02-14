@@ -2,58 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-01-28-nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads.md",
-      "title": "Nvidia shows off the first A100 GPU systems built to handle AI workloads",
-      "excerpt": "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
-      "originalUrl": "https://www.techradar.com/nz/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vdaqQtQFfvSMJT6pxoTPrK-1200-80.jpg",
-          "width": 636,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
-      "publishedDateTime": "2021-01-27T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-finesse-raises-45m-to-predict-fashion-trends-with-ai.md",
       "title": "Finesse raises $4.5M to predict fashion trends with AI",
       "excerpt": "Finesse, a startup promising to take the guesswork and waste out of fashion, is announcing that it has raised $4.5 million in seed and pre-seed funding. Founder and CEO Ramin Ahmari said the tremendous waste in the fashion industry has become a badly kept secret,",
@@ -1174,6 +1122,59 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding.md",
+      "title": "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding",
+      "excerpt": "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg",
+          "width": 426,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "publishedDateTime": "2021-01-27T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
