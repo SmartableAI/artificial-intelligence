@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kayan Health Partners with Predictiv Care, Inc. to Offer DNA-Based and AI Powered Medical Consultations"
-    excerpt: "Canada NewsWire VANCOUVER, BC, Feb. 9, 2021 VANCOUVER, BC, Feb. 9, 2021 /CN"
-    publishedDateTime: 2021-02-09T17:46:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-09/kayan-health-partners-with-predictiv-care-inc-to-offer-dna-based-and-ai-powered-medical-consultations"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 51
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "UFujH3TNZrhPdI9zt/wqWp4bj9fVTKMWXlLSdklyPDQAYmN923Plezcs9MTvmb/fyHbOuXlrOJjAT5150wsEDhiup3oHgAB5hDFW8mfyha6iV5yDBlrQJQ1L7vDYlMfIIi0jfcd9agdcyEcAW/BhNB/EsTL1uwpbFdD52kHHYkQNH7qdOR4aRfbhzhnv2cJQFe/RT/SheEfioSRRNhuaFiVItdXj4baK03nny66lhIBliP2mXnlop6MnoD4lP0oZW7xOc/X14mCR38HtexiAwt8CLvF18mdCXyJOkBUWYRHnsIKOxRnYgvIOi5xc2V9FiVWshMNI0UrgWo/gYtjLZngYx/VwXGJ0RE2dI+QTxz8=;cRtc4P0NHugGzdTUd0xIlg=="
 ---

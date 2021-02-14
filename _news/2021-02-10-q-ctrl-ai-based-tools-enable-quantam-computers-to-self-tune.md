@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Q-CTRL’s new AI-based tools allow Quantum Computers to tune themselves for unparalleled results"
+    excerpt: "CTRL's new AI-based tools allow Quantum Computers to tune themselves for unparalleled results . LOS ANGELES, February 10, 2021 - A new"
+    publishedDateTime: 2021-02-14T09:27:00Z
+    webUrl: "https://www.compsmag.com/news/pc/q-ctrls-new-ai-based-tools-allow-quantum-computers-to-tune-themselves-for-unparalleled-results/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/q-ctrls-new-ai-based-tools-allow-quantum-computers-to-tune-themselves-for-unparalleled-results/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/q-ctrls-new-ai-based-tools-allow-quantum-computers-to-tune-themselves-for-unparalleled-results/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 45
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Q-CTRLs-new-AI-based-tools-allow-Quantum-Computers-to-tune-themselves-1024x577.jpg"
+        width: 1024
+        height: 577
+        isCached: true
   - title: "New AI-based tools enable quantum computers to 'self-tune' for unparalleled results"
     excerpt: "A new AI-based toolset developed by scientists at Q-CTRL enables quantum computers to optimize their own performance autonomously without user intervention, resulting in a 2X reduction in errors in comparison to hardware defaults."
     publishedDateTime: 2021-02-10T12:07:00Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Face Recognition Technology Market Size 2020: Industry Growth, Competitive Analysis, Future Prospects and Forecast 2025"
-excerpt: "Selbyville, Delaware The Face Recognition Technology Market report offers detailed competitive landscape of the global market. It includes company, market share analysis, product portfolio of the major industry participants."
-publishedDateTime: 2021-02-10T10:21:00Z
-originalUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2020-industry-growth-competitive-analysis-future-prospects-and-forecast-2025-2021-02-10?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2020-industry-growth-competitive-analysis-future-prospects-and-forecast-2025-2021-02-10?tesla=y"
+title: "Artificial Intelligence for Edge Devices Market Size, Trends, Companies, Driver, Segmentation, Forecast by 2025"
+excerpt: "According to this study, over the next five years the Artificial Intelligence for Edge Devices market will register a 28.9% CAGR in terms of revenue, the global market size will reach $ 5021.4 million by 2025,"
+publishedDateTime: 2021-02-11T13:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-trends-companies-driver-segmentation-forecast-by-2025-2021-02-11"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-trends-companies-driver-segmentation-forecast-by-2025-2021-02-11"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
   - AI
 
 images:
@@ -57,10 +56,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Edge Devices Market Size, Trends, Companies, Driver, Segmentation, Forecast by 2025"
-    excerpt: "According to this study, over the next five years the Artificial Intelligence for Edge Devices market will register a 28.9% CAGR in terms of revenue, the global market size will reach $ 5021.4 million by 2025,"
-    publishedDateTime: 2021-02-11T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-trends-companies-driver-segmentation-forecast-by-2025-2021-02-11"
+  - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
+    publishedDateTime: 2021-02-11T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-forecast-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-11"
     type: article
     provider:
       name: MarketWatch
@@ -71,15 +70,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
-    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
-    publishedDateTime: 2021-02-11T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-forecast-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-11"
+  - title: "Face Recognition Technology Market Size 2020: Industry Growth, Competitive Analysis, Future Prospects and Forecast 2025"
+    excerpt: "Selbyville, Delaware The Face Recognition Technology Market report offers detailed competitive landscape of the global market. It includes company, market share analysis, product portfolio of the major industry participants."
+    publishedDateTime: 2021-02-10T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2020-industry-growth-competitive-analysis-future-prospects-and-forecast-2025-2021-02-10?tesla=y"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -148,6 +147,6 @@ related:
       domain: prnewswire.com
     quality: 0
 
-secured: "YCY4HJTUu1Ll/WUkH4G8F3wLYMFd3/Mh1UYU94paltHEnI2G9qRcRQIELMwHXauZMEztB7AOrGmcz3yr25I/+ExkOMEFgmEaTxDPgr5EJwyA+bIuKlgQdxjIIuWaqYuppj6tJ0ZfDhgJ2lg+BapkkaMkJzoiBEydTtRe9aWveG4xEH9MORqQq9Xm/+fKxgBXOli8MHIoOL6DhL9PbnbY95D/dbXVMiHp8d5ojbqnvflh5kou1khJuvJra+btCmx+QdOv1ibljC+sFCdcf0Kr1BaPW5HdnU3uZdbVC00LkuK5HiNErUpwNmp5bcKUX+Jm6LmKFBRBPaz6s/XPnPXb27cx2kEtANQ1SKuU9c23MYM=;vloFh19rVWAUJFO/EygBZQ=="
+secured: "MsqgWSWYC01HcLWLb3CjPbkgYuihkVfHqDh4QT1acZJ7Tfk3PaGjMRr3g+K+cyQpGDbBQbNYrWZjht16k8vPQDtLTrjOR8YZAQWOWlvbB8bHhxVQPv9tQWn8QzhlBIffltUoDxSqC4HDpKl5+xHPqBoE/OVrZEKdATkGA+5+96CQlNZNj8fvlbn+NkC7ADYdvCW1Xwahe8X8Q7G5JRHHwaaO8nW1WBei5ku/KWEbouAOv7lA6luXHAuA+r5Cgx9cFj1YojSfeA6TffSNZIJXKzLcybXlPANP3+rwEY9YJuz4NAk0zj7MI/IFcidmfzPzW4Mvm4rjO3QsRDr5irOYlby0PpbEVX9D0TacTcehLPY=;BJXpNIaHTA/0/jm6Q6gLOQ=="
 ---
 

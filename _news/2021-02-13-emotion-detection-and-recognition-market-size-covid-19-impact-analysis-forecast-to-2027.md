@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence for Edge Devices Market Size, Trends, Companies, Driver, Segmentation, Forecast by 2025"
+    excerpt: "According to this study, over the next five years the Artificial Intelligence for Edge Devices market will register a 28.9% CAGR in terms of revenue, the global market size will reach $ 5021.4 million by 2025,"
+    publishedDateTime: 2021-02-11T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-trends-companies-driver-segmentation-forecast-by-2025-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
     excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
     publishedDateTime: 2021-02-11T13:25:00Z

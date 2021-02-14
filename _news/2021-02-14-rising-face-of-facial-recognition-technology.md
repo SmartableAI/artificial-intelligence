@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Canada’s Privacy Commissioner Rules That Clearview AI Facial Recognition Software Violates Privacy Laws, Must Delete Biometrics From Its Database"
-excerpt: "Already unwelcome in parts of the US, Clearview AI has been shown the door in Canada. The controversial facial recognition company's practices are in violation of the country's privacy laws."
-publishedDateTime: 2021-02-12T16:00:00Z
-originalUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/"
-webUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/"
-ampWebUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/amp/"
-cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/amp/"
+title: "Rising face of facial recognition technology"
+excerpt: "Rising face of facial recognition technology Chennai: In the 1960s, Star Trek dazzled audiences by showcasing retina scans and facial"
+publishedDateTime: 2021-02-14T08:51:00Z
+originalUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/"
+webUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/"
+ampWebUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CPO Magazine
-  domain: cpomagazine.com
+  name: Windows
+  domain: compsmag.com
 
 topics:
-  - AI Ethics
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://www.cpomagazine.com/wp-content/uploads/2021/02/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database_1500.jpg"
-    width: 1500
-    height: 860
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Rising-face-of-facial-recognition-technology.gif"
+    width: 620
+    height: 414
     isCached: true
 
 related:
@@ -108,22 +107,6 @@ related:
         width: 1024
         height: 718
         isCached: true
-  - title: "Rising face of facial recognition technology"
-    excerpt: "Rising face of facial recognition technology Chennai: In the 1960s, Star Trek dazzled audiences by showcasing retina scans and facial"
-    publishedDateTime: 2021-02-14T08:51:00Z
-    webUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Rising-face-of-facial-recognition-technology.gif"
-        width: 620
-        height: 414
-        isCached: true
   - title: "Minneapolis City Council votes to bar use of facial recognition technology"
     excerpt: "On Friday, the Minneapolis City Council approved a new ordinance that prohibits the city from buying facial recognition technology or using data derived from it, with very narrow"
     publishedDateTime: 2021-02-12T17:21:00Z
@@ -178,6 +161,22 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/bigstock_Bordeaux__Aquitaine_France__401403332.6025b0eb8870a.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Canada’s Privacy Commissioner Rules That Clearview AI Facial Recognition Software Violates Privacy Laws, Must Delete Biometrics From Its Database"
+    excerpt: "Already unwelcome in parts of the US, Clearview AI has been shown the door in Canada. The controversial facial recognition company's practices are in violation of the country's privacy laws."
+    publishedDateTime: 2021-02-12T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 39
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/02/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database_1500.jpg"
+        width: 1500
+        height: 860
         isCached: true
   - title: "Minneapolis City Council Bans Use Of Facial Recognition Technology"
     excerpt: "Minneapolis City Council has approved a new ordinance which bans the city from buying or using data derived from facial recognition technology."
@@ -239,6 +238,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "iF0zY4H6hIVtUeQcTHn+yp4OWISzhn+xEato6rC18tsXMUorGZajEu8Rm9VCo7lM6Mfab0zHSm7ntbN0/IeN5kX+jbz38wj6KnN9Us8G9idOz1Dvol28efhUQe8CHK/Cp9S4SS9FkkbZQsvGMp2DonBAs9hpR9b0/fjNYIPz2azqrFf5LnfUdxaVBiy7zVTb7DM2YCb8M7PV/0y1ql1SGnYJer6me/7nwMAP5ohWBBXv8hfjX/oy0TLzxIzwy8D5Qr2bTu90DfmwuRCX9gYwXvbsH+bw7IyR7poDRzB4ROMSPj33ujlvEmr+wnS8haXv32qudB/tTsFxxZWNtKugf89JhfILoZKOaiSLIrJwTngThfG653Z5o2cIUrroX2G72MgJkfZHshNZCilqROO9xf3F7Z9oH8Fp+EM2jus1JneMercQBONvMR0fV/7ZgLy2B/bQZtwu/CWZ+APfjgvRLu3OVIgcaK6cHOTIG8nyOgLqMqjLt/k529wWat3TaZisidMV6nH2krKq6gN0LAHK7A==;hEQv1AFv9pvdAP5sGM8YrQ=="
+secured: "7KMqkkxsOJWWYy0OaKz26T/9uH1l+U5cFZBu9rFoSIZ5SVGl+e+vftmttMxsUrzRULJT0lH9UVNi00/Px7v2rG0B8Xs2Z1r4IubJwL3HAnQIAeRqQlBvh9EvFgQeTmBLC8G+gWEJGU2KjMGWouC2gz0vw1LcJBby8czeGaGZ+nJpe+z228TxVnXOK4DEWlnn7Xwn/4Pbkf8Eew4GXUNjqCzLqmFf/YZaqvCVjKHRvMXq+x80f2YpoUeo7PrVEW0oJUduP04Q957SwYOETIbsYZ00KaBDwf4ZzTCEKnQTwZ1YDA7K05cDo7WSVjh4cr+8L0rUQ7ip2dUxo4RGSOmKJtiVNM+46yQa5rt96pnxGjY=;SRoHFiQlZMsSBvZYlauKOQ=="
 ---
 

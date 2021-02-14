@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/hmc-nat020921.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-02/hmc-nat020921.php"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Q-CTRL’s new AI-based tools allow Quantum Computers to tune themselves for unparalleled results"
+    excerpt: "CTRL's new AI-based tools allow Quantum Computers to tune themselves for unparalleled results . LOS ANGELES, February 10, 2021 - A new"
+    publishedDateTime: 2021-02-14T09:27:00Z
+    webUrl: "https://www.compsmag.com/news/pc/q-ctrls-new-ai-based-tools-allow-quantum-computers-to-tune-themselves-for-unparalleled-results/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/q-ctrls-new-ai-based-tools-allow-quantum-computers-to-tune-themselves-for-unparalleled-results/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/q-ctrls-new-ai-based-tools-allow-quantum-computers-to-tune-themselves-for-unparalleled-results/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 45
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Q-CTRLs-new-AI-based-tools-allow-Quantum-Computers-to-tune-themselves-1024x577.jpg"
+        width: 1024
+        height: 577
+        isCached: true
   - title: "Q-CTRL AI-Based Tools Enable Quantam Computers to ‘Self-Tune’"
     excerpt: "CTRL enables quantum computers to optimize their own performance autonomously without user intervention, the company said. The building blocks of quantum algorithms are extremely susceptible to errors,"
     publishedDateTime: 2021-02-09T20:45:00Z

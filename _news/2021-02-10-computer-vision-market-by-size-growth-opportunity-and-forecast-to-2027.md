@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-b
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10"
 type: article
 quality: 68
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence for Edge Devices Market Size, Trends, Companies, Driver, Segmentation, Forecast by 2025"
+    excerpt: "According to this study, over the next five years the Artificial Intelligence for Edge Devices market will register a 28.9% CAGR in terms of revenue, the global market size will reach $ 5021.4 million by 2025,"
+    publishedDateTime: 2021-02-11T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-trends-companies-driver-segmentation-forecast-by-2025-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

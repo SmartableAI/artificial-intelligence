@@ -82,20 +82,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 39
-  - title: "Machine Learning Model Shows Higher COVID-19 Cases Than Reported"
-    excerpt: "A machine learning model estimated that the number of COVID-19 cases in the US is nearly three times greater than reported."
-    publishedDateTime: 2021-02-09T17:35:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-model-shows-higher-covid-19-cases-than-reported"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1132660268.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
     excerpt: "BRAVE Innovations LLC rallies community, faith groups, healthcare workers, colleges, and civic organizations to spur participation in urgent voiceprint research"
     publishedDateTime: 2021-02-11T01:09:00Z

@@ -94,6 +94,22 @@ related:
         width: 1024
         height: 718
         isCached: true
+  - title: "Rising face of facial recognition technology"
+    excerpt: "Rising face of facial recognition technology Chennai: In the 1960s, Star Trek dazzled audiences by showcasing retina scans and facial"
+    publishedDateTime: 2021-02-14T08:51:00Z
+    webUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Rising-face-of-facial-recognition-technology.gif"
+        width: 620
+        height: 414
+        isCached: true
   - title: "Minneapolis City Council votes to bar use of facial recognition technology"
     excerpt: "On Friday, the Minneapolis City Council approved a new ordinance that prohibits the city from buying facial recognition technology or using data derived from it, with very narrow"
     publishedDateTime: 2021-02-12T17:21:00Z
@@ -121,20 +137,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "Council of Europe calls for strict regulations on facial recognition"
-    excerpt: "At the end of January, the Council of Europe announced its recommendations on facial recognition, a central issue. Faced with the increasing use of facial recognition technologies, the European body recommended strict rules to avoid significant risks to privacy and data protection."
-    publishedDateTime: 2021-02-09T18:15:00Z
-    webUrl: "https://www.actuia.com/english/council-of-europe-calls-for-strict-regulations-on-facial-recognition/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 39
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/02/Conseil-de-leurope.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "The AI revolution is happening now"
     excerpt: "The AI revolution is advancing faster than anyone anticipated. This year, the market for AI chips reached $5 billion and expected to be $10 billion by 2022. Among the most promising projects are driverless cars,"
     publishedDateTime: 2021-02-09T21:37:00Z

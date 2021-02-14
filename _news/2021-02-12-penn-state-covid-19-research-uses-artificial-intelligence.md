@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-1
 cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
 type: article
 quality: 61
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 39
-  - title: "Machine Learning Model Shows Higher COVID-19 Cases Than Reported"
-    excerpt: "A machine learning model estimated that the number of COVID-19 cases in the US is nearly three times greater than reported."
-    publishedDateTime: 2021-02-09T17:35:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-model-shows-higher-covid-19-cases-than-reported"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1132660268.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "How AI and data models help governments fight Covid-19"
     excerpt: "A not-for-profit business group including IBM and Rolls-Royce is using AI and data models to help Europe fight Covid-19 and help prepare an economic recovery As Covid-19 vaccines roll out, getting economies and societies back to normal after the worst of the pandemic has passed will depend on collaboration between industry and the public sector – and harnessing the power of data and technologies,"
     publishedDateTime: 2021-02-12T04:34:00Z

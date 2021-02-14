@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/"
 type: article
 quality: 107
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 55
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Kayan Health Partners with Predictiv Care, Inc. to Offer DNA-Based and AI Powered Medical Consultations"
-    excerpt: "Canada NewsWire VANCOUVER, BC, Feb. 9, 2021 VANCOUVER, BC, Feb. 9, 2021 /CN"
-    publishedDateTime: 2021-02-09T17:46:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-09/kayan-health-partners-with-predictiv-care-inc-to-offer-dna-based-and-ai-powered-medical-consultations"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 51
     images:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
