@@ -2,6 +2,40 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-01-29-decentralized-machine-learning-24-hour-volume-hits-440900-dml.md",
+      "title": "Decentralized Machine Learning 24 Hour Volume Hits $4,409.00 (DML)",
+      "excerpt": "Decentralized Machine Learning (CURRENCY:DML) traded 5% higher against the dollar during the 24-hour period ending at 12:00 PM Eastern on January 28th. Over the last week, Decentralized Machine Learning has traded 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp",
+      "publishedDateTime": "2021-01-28T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-saving-time-with-personalized-videos-using-aws-machine-learning.md",
       "title": "Saving time with personalized videos using AWS machine learning",
       "excerpt": "CLIPr aspires to help save 1 billion hours of people’s time. We organize video into a first-class, searchable data source that unlocks the content most relevant to your interests using AWS machine learning (ML) services. CLIPr simplifies the extraction of information in videos, saving you hours by eliminating",
@@ -1131,49 +1165,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-machine-learning-technique-helps-predict-covid-19-outcomes.md",
-      "title": "Machine Learning Technique Helps Predict COVID-19 Outcomes",
-      "excerpt": "Mount Sinai researchers used a machine learning technique called 'federated learning' to predict outcomes of COVID-19 patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
-      "originalUrl": "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/pollen-allergy-women-cold.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
-      "publishedDateTime": "2021-01-28T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

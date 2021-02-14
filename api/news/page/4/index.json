@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-10-using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal.md",
+      "title": "Using AI And Machine Learning To Break Past The Constraints Of The 'New Normal'",
+      "excerpt": "Getting started with AI and machine learning is becoming increasingly accessible for organizations of all sizes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/",
+      "publishedDateTime": "2021-02-10T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-this-cutting-edge-cloud-computing-service-is-helping-doctors-track-covids-spread.md",
       "title": "This cutting-edge cloud-computing service is helping doctors track COVID's spread",
       "excerpt": "As computational science and data science are becoming closer than ever, a deal with Microsoft could see Verily and Broad Institute's open-source cloud platform hit new users.",
@@ -356,7 +409,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -407,7 +460,7 @@
       "originalUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -979,7 +1032,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1140,57 +1193,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-sentinelone-to-acquire-high-speed-logging-startup-scalyr-for-155m.md",
-      "title": "SentinelOne to acquire high-speed logging startup Scalyr for $155M",
-      "excerpt": "SentinelOne, a late-stage security startup that helps customers make sense of security data using AI and machine learning, announced today that it is acquiring Scalyr, the high-speed logging startup for $155 million in stock and cash.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/",
-      "originalUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-998110690.jpg?w=1024",
-          "width": 1024,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/amp/",
-      "publishedDateTime": "2021-02-09T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

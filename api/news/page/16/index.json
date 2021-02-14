@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-30-direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-33.md",
+      "title": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares (NYSEARCA:UBOT) Stock Price Down 3.3%",
+      "excerpt": "Robotics, Artificial Intelligence & Automation Index Bull 2X Shares (NYSEARCA:UBOT)’s share price dropped 3.3% during trading on Wednesday . The company traded as low as $44.30 and last traded at $44.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html/amp",
+      "publishedDateTime": "2021-01-29T18:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture.md",
       "title": "Microsoft Corp. (NASDAQ: MSFT) Acquires Stake in Self-Driving EV Venture",
       "excerpt": "Microsoft Corp. (NASDAQ: MSFT), a company primarily known for developing, manufacturing, licensing and selling computer software, electronics and personal computers, has announced that it has strategically teamed up with General Motors Co.",
@@ -1156,49 +1199,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-towards-a-framework-for-face-recognition-in-europe.md",
-      "title": "Towards a framework for face recognition in Europe",
-      "excerpt": "The Advisory Committee of the Council of Europe Convention on the Protection of Individuals with regard to Automatic Processing of Personal Data, known as Convention 108, is celebrating its 40th anniversary.",
-      "sourceUrl": null,
-      "webUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/",
-      "originalUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galusaustralis.com/wp-content/uploads/2021/01/reconnaissance-faciale-facebook-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/",
-      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/",
-      "publishedDateTime": "2021-01-29T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "galusaustralis.com",
-        "domain": "galusaustralis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

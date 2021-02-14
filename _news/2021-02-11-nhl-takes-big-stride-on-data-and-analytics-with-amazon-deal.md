@@ -99,17 +99,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "RS21 to acquire Albuquerque health care data analytics firm"
-    excerpt: "The two companies have worked together in the past, previously linking up to develop a platform that would use AI and machine learning to identify trends in health care data."
-    publishedDateTime: 2021-02-09T12:00:00Z
-    webUrl: "https://www.bizjournals.com/albuquerque/news/2021/02/09/rs21-to-acquire-albuquerque-data-analytics-firm.html"
-    ampWebUrl: "https://www.bizjournals.com/albuquerque/news/2021/02/09/rs21-to-acquire-albuquerque-data-analytics-firm.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/albuquerque/news/2021/02/09/rs21-to-acquire-albuquerque-data-analytics-firm.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "Big Data Analytics Firm Palantir Adopts IBM’s Red Hat OpenShift"
     excerpt: "IBM and Palantir Technologies on Monday announced a new partnership consisting of IBM’s hybrid cloud data platform designed to deliver AI for business, with Palantir’s next-generation operations platform for building"
     publishedDateTime: 2021-02-11T16:40:00Z

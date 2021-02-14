@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-pandemics-public-health-48f95cb859524dee900ce8c78100b218"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Biodesix Publishes Data on New COVID-19 Artificial Intelligence (AI)-Based Algorithm for Use in Clinical Decision Support Systems"
-    excerpt: "New Data Show AI-Based Algorithm Rapidly Predicts Risk of Severe Outcomes for Patients Hospitalized for COVID-19 Infection Biodesix, Inc. (NASDAQ:BDSX), a leading"
-    publishedDateTime: 2021-02-09T11:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/b19557395/biodesix-publishes-data-on-new-covid-19-artificial-intelligence-ai-based-algorithm-for-use-in-clin"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19557395"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19557395"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
 
 secured: "rTV7fScS4ZZb4NvEsMAKq89hSvrBcQK0fUV8aT7f5WDqCXsXvUU76WimgQCTxEEdVyo+BcURa1ZTmY/kMb22izSyE5NaoCvApGItZPLmay8VRkg9xSJuggIN95tFoLssCe4Eu1glJ3isE9PJsohAOkFiuvL5MPKi1P8DS0LDkE6XwVwNAnBooV/+nmEC69RY5M2Ps8zr+Q3jX3U5Kv0fuTW1ZLU2nkKwpMHcsrgv66tR8q5hWK9SW8azBcV1zHhAk/XVuEywDHWdeBsaghtThLxtmVALgGp+PqFbEm41PFAlVmMIcfxXsETDcbGQJB7Qd7vxeQvNmwOsxxKfcXrrXsLkXWLWygf91o1PJJitp04=;7pQRHYKPf9cTCbkucj28/A=="
 ---

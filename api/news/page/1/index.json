@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-14-how-a-chinese-scientist-in-the-us-is-helping-defend-ai-systems-from-cyberattacks.md",
+      "title": "How a Chinese scientist in the US is helping defend AI systems from cyberattacks",
+      "excerpt": "Li Bo, an award-winning scientist, helps major tech firms like IBM and various financial institutions defend themselves against cyber threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/14/e03680e0-69b8-11eb-8f06-a7293cc48ccd_image_hires_104100.png?itok=64dr_O8A&v=1613270469",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
+      "publishedDateTime": "2021-02-13T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-ai-progress-depends-on-us-using-less-data-not-more.md",
       "title": "AI progress depends on us using less data, not more",
       "excerpt": "Compute costs, spurious noise, and privacy problems all mean that we can't keep moving toward bigger and bigger datasets to fuel AI progress.",
@@ -531,7 +583,7 @@
       "originalUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
       "featuredContent": null,
       "highlight": null,
-      "heat": 266,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -1221,49 +1273,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-artificial-intelligence-ai-in-education-market-analysis-status-business-outlook-2020-to-2026.md",
-      "title": "Artificial Intelligence (AI) in Education Market Analysis, Status, Business Outlook 2020 to 2026",
-      "excerpt": "The up to date research report on Global Artificial Intelligence AI in Education Market illustrate a detailed fundamental market overview which is fueled by deep research to accustomed the users with latest Artificial Intelligence AI in Education market trends current",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2241354/artificial-intelligence-ai-in-education-market-analysis",
-      "originalUrl": "https://www.openpr.com/news/2241354/artificial-intelligence-ai-in-education-market-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U212881831_g.jpg",
-          "width": 800,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis",
-      "publishedDateTime": "2021-02-12T01:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

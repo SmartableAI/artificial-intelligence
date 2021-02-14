@@ -296,20 +296,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
-    excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
-    publishedDateTime: 2021-02-09T12:27:00Z
-    webUrl: "https://www.hstoday.us/industry/gdit-announces-federal-cloud-collaborations-with-microsoft-and-amazon-web-services/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 50
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
-        width: 1920
-        height: 1152
-        isCached: true
   - title: "Microsoft, HPE Bringing AI, Edge, Cloud to Earth Orbit in Preparation for Mars Missions"
     excerpt: "The International Space Station will soon get a delivery of powerful AI, edge and cloud computing tools from HPE and Microsoft Azure to expand technology"
     publishedDateTime: 2021-02-12T21:09:00Z

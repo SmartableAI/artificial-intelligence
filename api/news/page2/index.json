@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-12-artificial-intelligence-ai-in-education-market-analysis-status-business-outlook-2020-to-2026.md",
+      "title": "Artificial Intelligence (AI) in Education Market Analysis, Status, Business Outlook 2020 to 2026",
+      "excerpt": "The up to date research report on Global Artificial Intelligence AI in Education Market illustrate a detailed fundamental market overview which is fueled by deep research to accustomed the users with latest Artificial Intelligence AI in Education market trends current",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2241354/artificial-intelligence-ai-in-education-market-analysis",
+      "originalUrl": "https://www.openpr.com/news/2241354/artificial-intelligence-ai-in-education-market-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U212881831_g.jpg",
+          "width": 800,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis",
+      "publishedDateTime": "2021-02-12T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers.md",
       "title": "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers",
       "excerpt": "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers Who Are Stuck For Words. ARTIFICIAL INTELLIGENCE ROBOTS are writing Valentines Day",
@@ -587,7 +630,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -1089,7 +1132,7 @@
       "originalUrl": "https://www.forbes.com/sites/sap/2021/02/11/how-big-data-predictive-analytics-and-machine-learning-changed-the-railway-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1181,57 +1224,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-the-moneyball-evolution-artificial-intelligence-athlete-data-and-the-future-of-sports-betting.md",
-      "title": "The 'Moneyball' Evolution: Artificial Intelligence, Athlete Data And The Future Of Sports Betting",
-      "excerpt": "This evolution of data and using real-time athlete data to track and adjust predictions could fundamentally change the sports betting industry and the way games are bet on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/the-moneyball-evolution-artificial-intelligence-athlete-data-and-the-future-of-sports-betting/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/the-moneyball-evolution-artificial-intelligence-athlete-data-and-the-future-of-sports-betting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60240ec80ee29a93441ff50c%2F0x0.jpg",
-          "width": 1200,
-          "height": 911,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/the-moneyball-evolution-artificial-intelligence-athlete-data-and-the-future-of-sports-betting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/11/the-moneyball-evolution-artificial-intelligence-athlete-data-and-the-future-of-sports-betting/amp/",
-      "publishedDateTime": "2021-02-11T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

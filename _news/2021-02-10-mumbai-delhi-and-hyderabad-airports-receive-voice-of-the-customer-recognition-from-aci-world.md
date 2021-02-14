@@ -19,35 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "GMR's Delhi and Hyderabad airports receive ACI recognition"
-    excerpt: "Both airports have been recognized for their continuous efforts to listen to their passengers, engage and gather feedback."
-    publishedDateTime: 2021-02-09T12:45:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874.html"
-    ampWebUrl: "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874-amp.html"
+  - title: "Mumbai Chhatrapati Shivaji Maharaj Airport achieves ACI ‘The Voice of the Customer’ recognition"
+    excerpt: "The accolade demonstrates the efforts of the airport in gathering passenger feedback to better understand their needs and preferences during the COVID-19 pandemic."
+    publishedDateTime: 2021-02-10T12:07:00Z
+    webUrl: "https://www.moodiedavittreport.com/mumbai-chhatrapati-shivaji-maharaj-airport-achieves-aci-the-voice-of-the-customer-recognition/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
+      name: Herve Bouillonnec
+      domain: moodiedavittreport.com
+    quality: 27
     images:
-      - url: "https://images.hindustantimes.com/img/2021/02/09/550x309/delhi-airport_d7e0ef0c-d241-11ea-8924-6a92a23725cb_1612871976965.jpg"
-        width: 549
-        height: 309
+      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
+        width: 280
+        height: 280
         isCached: true
-  - title: "Delhi and Hyderabad airports receive ACI recognition"
-    excerpt: "GMR-run Indira Gandhi International Airport IGIA in New Delhi and Rajiv Gandhi International Airport RGIA in Hyderabad have received the ACI Airports Counc"
-    publishedDateTime: 2021-02-09T12:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267785919/delhi-and-hyderabad-airports-receive-aci-recognition"
+  - title: "CSMIA Bags ‘Voice of the Customer’ Recognition by ACI"
+    excerpt: "CSMIA has been awarded \"The Voice of the Customer\" recognition by Airports Council International (ACI), demonstrating the efforts of the airport in gathering passenger feedback to better understand their needs and preferences during the pandemic."
+    publishedDateTime: 2021-02-10T19:48:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21209736/chhatrapati-shivaji-maharaj-international-airport-csmia-bags-voice-of-the-customer-recognition-by-aci"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 24
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2021/02/Image_1___Chhatrapati_Shivaji_Maharaj_International_Airport.602438548eb48.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "4bSa1HJ69wZi9UOqpUwc4dXPcD6Or3y4iP6h7icILK6q7oa71z7lW3SoOY5reoESthScdge5QGDpQqFepacpvdt3ONlpgxw3ZIXoXTlIVd0GQEwfuVi9rLjQad4BXWxDBd/4oSU763mT4/BicJp3E64xPzyspIV7Uo3wXCJzRUoOPfeAwyK3MQfuV1aLOute+NJcN1IjV2mkgvxo8JDsLrqFG0ExvOPg5Aj8g/6Pe23RhsXNLa/HIafAbwfdsLKhZLp7GfIexBpckI2mLjWDt/WKx+FORN5btsftkoIYimmnmlGq74z5iAiyHizffyYkLzMOiJeCJR9zQUFLWDpEz17+Xf7LswaFxHRnID4cOaI=;aViidymJgNDUP1K2VNG13Q=="

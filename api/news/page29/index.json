@@ -2,6 +2,40 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-01-22-ethics-and-governance-of-ai.md",
+      "title": "Ethics and Governance of AI",
+      "excerpt": "The rapidly growing capabilities and increasing presence of AI-based systems in our lives raise pressing questions about the impact, governance, ethics, and accountability of these technologies around the world. How can we narrow the knowledge gap between ...",
+      "sourceUrl": null,
+      "webUrl": "https://cyber.harvard.edu/topics/ethics-and-governance-ai",
+      "originalUrl": "https://cyber.harvard.edu/topics/ethics-and-governance-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand.md",
       "title": "‘Hybrid roles, the new norm: IELTS, Azure, software testing in demand’",
       "excerpt": "The report is based on data from the global companies using the Udemy for Business platform and a survey of more than 500 learning and development professionals.",
@@ -1128,57 +1162,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-google-meet-gets-one-of-zooms-best-features-live-otterai-transcription.md",
-      "title": "Google Meet Gets One Of Zoom’s Best Features: Live Otter.ai Transcription",
-      "excerpt": "Otter.ai has released a plugin for Google Meet which allows participants ... “This is where the AI is in play, in real time, because when it hears more words it actually re-evaluates the ...",
-      "sourceUrl": null,
-      "webUrl": "https://play.google.com/store/apps/details?id=com.springbox",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2021/01/21/google-meet-gets-one-of-zooms-best-features-live-otterai-transcription/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://play-lh.googleusercontent.com/240Afv-qIN7aSDUQQn5IomZ96ljulnbr_sBz9j5hkCAsUWM8UQ2aQbb75ya7Mj6mikY",
-          "width": 512,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

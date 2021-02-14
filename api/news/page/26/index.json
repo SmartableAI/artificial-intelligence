@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-01-26-robots-take-up-the-fight-against-infection.md",
+      "title": "Robots take up the fight against infection",
+      "excerpt": "Rapid advances in AI and automation mean robots are now helping businesses in almost every sector to boost efficiency, enhance productivity and streamline costs. But in the age of Covid-19, attention has also focused on how AI-enabled robots can be used to clean offices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/business/topics/robots-take-fight-against-infection/article/3117490/robots-take-fight",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/robots-take-fight-against-infection/article/3117490/robots-take-fight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/01/13/softbank-1200x800-hero_image.jpg?itok=ebCILjb4",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai.md",
       "title": "Copy.ai Revolutionizes Digital Marketing By Augmenting Human Creativity With AI",
       "excerpt": "Chris Lu and Paul Yacoubian realize that artificial intelligence can augment human creativity, instead of replacing it as some may fear, creating Copy.ai to enhance digital marketers ad copy.",
@@ -299,34 +351,34 @@
     {
       "path": "_news/2021-01-25-stradvision-achieves-iso-270012013-certification.md",
       "title": "StradVision Achieves ISO 27001:2013 Certification",
-      "excerpt": "StradVision's AI-based object recognition software, SVNet, is currently used in mass production models of ADAS and autonomous driving vehicles that support SAE Levels 2 to 4, and will be deployed ...",
+      "excerpt": "StradVision achieves ISO 27001:2013 certification for its AI-based object recognition software 'SVNet' ISO 27001:2013 is one of the most widely recognized and internationally accepted information ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/stradvision-achieves-iso-270012013-certification-301213791.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/stradvision-achieves-iso-270012013-certification-301213791.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stradvision-achieves-iso-27001-2013-certification-1029999812",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stradvision-achieves-iso-27001-2013-certification-1029999812",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook",
-          "width": 1413,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T07:01:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/stradvision-achieves-iso-27001-2013-certification-1029999812",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradvision-achieves-iso-27001-2013-certification-1029999812",
+      "publishedDateTime": "2021-01-25T07:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1140,58 +1192,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-us-leads-world-on-artificial-intelligence-but-china-is-catching-up-study.md",
-      "title": "US leads world on artificial intelligence but China is catching up: study",
-      "excerpt": "China has more of the world’s 500 most powerful supercomputers than any other nation, researchers say, as countries vie for competitiveness in key industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/25/ae8a9ab0-5ed5-11eb-9099-aaa38b7b3943_image_hires_145105.jpeg?itok=edHse04w&v=1611557476",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study",
-      "publishedDateTime": "2021-01-24T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

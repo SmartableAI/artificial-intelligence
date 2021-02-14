@@ -105,22 +105,6 @@ related:
         width: 1024
         height: 718
         isCached: true
-  - title: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region"
-    excerpt: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region SYDNEY, Feb. 9, 2021 /"
-    publishedDateTime: 2021-02-09T11:19:00Z
-    webUrl: "https://www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 57
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Leading-provider-of-facial-recognition-technology-Corsight-AI-announces-expansion.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Minneapolis City Council votes to bar use of facial recognition technology"
     excerpt: "On Friday, the Minneapolis City Council approved a new ordinance that prohibits the city from buying facial recognition technology or using data derived from it, with very narrow"
     publishedDateTime: 2021-02-12T17:21:00Z

@@ -105,17 +105,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "This is how self-driving cars are becoming blueprints for smarter surgeries"
-    excerpt: "A startup is exploring how the artificial intelligence (AI) technologies used in self-driving cars could act as a \"blueprint\" for smarter surgeries. Theator, based in Palo Alto, Calif., is the developer of a \"surgical intelligence\" platform designed to improve the decision-making of surgeons and,"
-    publishedDateTime: 2021-02-09T12:01:00Z
-    webUrl: "https://www.zdnet.com/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-is-how-self-driving-cars-are-becoming-a-blueprint-for-surgeries/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 52
   - title: "Joining with Toyota and Uber gives Amazon-backed Aurora the tools it needs to take on self-driving leader Waymo"
     excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
     publishedDateTime: 2021-02-11T12:12:00Z

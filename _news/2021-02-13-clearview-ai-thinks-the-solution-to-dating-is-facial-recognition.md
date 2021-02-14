@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-fa
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp"
 type: article
 quality: 106
-heat: 266
+heat: 256
 published: true
 
 provider:
@@ -95,22 +95,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1220495008.jpg?w=1024"
         width: 1024
         height: 718
-        isCached: true
-  - title: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region"
-    excerpt: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region SYDNEY, Feb. 9, 2021 /"
-    publishedDateTime: 2021-02-09T11:19:00Z
-    webUrl: "https://www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 57
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Leading-provider-of-facial-recognition-technology-Corsight-AI-announces-expansion.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Minneapolis City Council votes to bar use of facial recognition technology"
     excerpt: "On Friday, the Minneapolis City Council approved a new ordinance that prohibits the city from buying facial recognition technology or using data derived from it, with very narrow"

@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.html"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Parascript and SFORCE Partner to Leverage Machine Learning Eliminating Barriers to Automation"
-    excerpt: "Parascript, which provides document analysis software processing for over 100 billion documents each year, announced today"
-    publishedDateTime: 2021-02-09T13:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19559564/parascript-and-sforce-partner-to-leverage-machine-learning-eliminating-barriers-to-automation"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19559564"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559564"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
 
 secured: "qJD6T1F0V/AqGfqTzECWjVFh6KfBAa4xxlLLpE/3aiJTveDDErweggogbcb11yotmOn4b7yEdJRMauf/TxaLKNuOIuFEETRJy6+EhH9rjDN9wQO+CjL0E+UgZmxW4ktLqQi4ElhJ9jOM1IpL+r4EcU/zb1wQuTU/fa+US03cuz5rCP5Zt79OopnOOahYIaLU6JtzStqtBJy+VwDfGQNTzgcNkNzBqbRhUlTOZpMmT6gK6IZ8oZ9PhQeF0akcEYz2dhCtrGO4CaY2I98BU5zdHUwZ/rF9HhIS0JidU0ya6qBbc+m580hU8e1Gtw3RCmwXA5vBbb4Q7IlbGhiH2KvVEa0ucvHBzf0LmnvR9LNQ/YQ=;X/+sMYzK70tldrEuj63BbQ=="
 ---

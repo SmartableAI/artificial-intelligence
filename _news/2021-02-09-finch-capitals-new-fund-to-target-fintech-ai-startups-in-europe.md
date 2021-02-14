@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-f
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://www.altfi.com/images/featured/finch-capital-raises-eur150m-for-fintech-fund-targeting-later-stage-start-ups.jpg"
         width: 1200
         height: 720
-        isCached: true
-  - title: "Finch Capital closes €150m fintech fund"
-    excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
-    publishedDateTime: 2021-02-09T11:07:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37441/finch-capital-closes-150m-fintech-fund"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/charging.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Top 3 FinTech companies transforming the financial space in Iceland"
     excerpt: "FinTech solutions are provided by the three largest commercial banks in the country, namely Landsbankinn, Íslandsbanki, and Arion Bank."

@@ -40,20 +40,6 @@ related:
         width: 360
         height: 239
         isCached: true
-  - title: "We got an exclusive look at the pitch deck Canadian AI startup Symend used to raise $48 million"
-    excerpt: "Canadian tech startup Symend has almost doubled the size of its Series B as it expands into new geographies."
-    publishedDateTime: 2021-02-09T13:00:00Z
-    webUrl: "https://www.businessinsider.com/symend-ai-tech-startup-raises-48-million-extension-from-vc-investors-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/5eb29ad8204ad356f7327ba6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Startup that Taps AI to Boost Crop Yields Files for Canadian IPO"
     excerpt: "(Bloomberg) --Farmers Edge Inc., a firm that uses artificial intelligence to help growers boost crop yields, filed documents with regulators to sell shares in an initial public offering in Canada. The Winnipeg, Manitoba-based company plans to sell shares ..."
     publishedDateTime: 2021-02-09T21:15:00Z

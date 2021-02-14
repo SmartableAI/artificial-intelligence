@@ -107,22 +107,6 @@ related:
         width: 1024
         height: 718
         isCached: true
-  - title: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region"
-    excerpt: "Leading provider of facial recognition technology Corsight AI announces expansion into the Oceania region SYDNEY, Feb. 9, 2021 /"
-    publishedDateTime: 2021-02-09T11:19:00Z
-    webUrl: "https://www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/leading-provider-of-facial-recognition-technology-corsight-ai-announces-expansion-into-the-oceania-region/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 57
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Leading-provider-of-facial-recognition-technology-Corsight-AI-announces-expansion.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "TA Digital Launches SearchBoost.ai to Drive Relevancy and Personalization Through Cognitive Search"
     excerpt: "TA Digital announced today its foray into the cognitive search space with its maiden intelligent search solution, SearchBoost.ai. This is the first SaaS product offering by the company. Website and ecommerce search tools that exist today tend to solve for relevancy by optimizing indexing or results ranking."
     publishedDateTime: 2021-02-11T13:44:00Z

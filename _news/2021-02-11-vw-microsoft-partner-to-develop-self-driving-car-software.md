@@ -295,20 +295,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GDIT Announces Federal Cloud Collaborations With Microsoft and Amazon Web Services"
-    excerpt: "General Dynamics Information Technology (GDIT), has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
-    publishedDateTime: 2021-02-09T12:27:00Z
-    webUrl: "https://www.hstoday.us/industry/gdit-announces-federal-cloud-collaborations-with-microsoft-and-amazon-web-services/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 50
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/cloud-computing-4246668_1920.jpg"
-        width: 1920
-        height: 1152
-        isCached: true
   - title: "Artificial Intelligence as a Service Market to See Massive Growth by 2026 | Ibm, Google, Amazon Web Services, Microsoft"
     excerpt: "Global Artificial Intelligence as a Service Market Report 2021 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
     publishedDateTime: 2021-02-11T01:13:00Z
