@@ -2,7 +2,7 @@
 name: "Capital.Com"
 overview: "We are on a mission to make the world of finance more accessible, engaging and useful."
 type: "profile"
-heat: 245
+heat: 238
 
 website: https://capital.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "capitalcom"
   url: "https://twitter.com/capitalcom"
-  followers: 12677
+  followers: 12682
 
 size: 51-200 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Mmc7wY9ObW8hM1KNQd/ejTF6vPisrJwiDc6vE6NcwrssILMId6UDCIJyL8lMPmT2pgfwsOrZT0E1Xyxk9g4TkIW5Es5iln9AxCoUW4TP6+2++lhGvSNZPJQIkwgTZXGKARQbS80968sMGng+vCV+9DrwpYrWC9dOIJYy6NTg4w87TL3z1JULWUPvpHCI8kLR8/O/LCHSxH+fHRXwPhtqdSLueIbgHrf8dWEtav6t4l1Av05MT7Nh8tQ3ROy+YE7GrWhMYdNRXm1wDpDu7XkNkdGamrSYU479KgZS1CNcBT/Y9ieXoG6eh3so9/9ejnj+u+xnNkGfUK26C/3/9Zq51jBiOOwb3U6V2PfOttYC+P53MUqR6FVmbD5Nwc4x21VHRDHquo1mTnrN2Z7OqgOHVJPgAeJawbplZyR6LBnX66Q=;72/n8xE6uixaE/vdY+j/fw=="
+secured: "haPZJcACafSmUiTvfmfvBYBk/94mzLM4dUr7SRpzJEofvB973oxoyBJc9Gbum4jjiylM0bmKBCg/teR5yxFCVCELpfRhDM3K5kgMga2U6qHJxJjrXmPWzXiFTHLGTj0JIqqr4rFJQR2Hz+51uySA2x3MvNJ6UU/y+Br1N/dnKt3bz25bNAe5szBwP5XPoVOEMW+6DBVVjIN9ln6KJxmVW1Zb7UMVquUguFfRsb2ACcdXCFOyqWaEUM22RLhyaq1ZL6ca/sCGhYeDb7w121rd04IazTz5ICFlx/82xHApffvmHRUwfEkR+s45BpD78ZVp4EzQFuqLF2G/nMf4FhCUFwb74ZS85/Ev48B2K0xkuYt8/IOMNq80Nbu1RbBAPTTK/N5jaBZqbmRpp73z3q8I/bXQm/vDnAa9NY6XVu/Gt00=;Ifx+ltv5TzZcYEu3NR04FQ=="
 ---
 

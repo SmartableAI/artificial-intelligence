@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "Waymo"
   url: "https://twitter.com/Waymo"
-  followers: 63222
+  followers: 63217
 
 size: 1,001-5,000 employees
 yearFounded: 2009
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "VOp23Jn3vaHp4VdjfggsTf4zumDufxTdJG0eyq1+SBKZascSrjJKvnX30BL6cfqJV4KqWB+ECqTL0ADK/9yvwmsdAP+eopWjDh5M/N2GOoXZ7FGl2bazQuE7swPVdty9DXdEmnIxv34XbUOZ5fmQWZCCzUUuhdw46ZE5Wmfct+t5N5W+S9MKE3J00m8x5TY8rDhcP9lk48gdITGJBdDGTBziSISDmQ3fH/h1vXHdxuZYWgDHYfuxzBgtIUN6E4Wo8O7CgHtO0O2NVmSxaSPsYXIemXhCI1HljfXooPkpDoPMrq1vpQUKYiqG3FwaEbcY9W2NwbmHKUvy8qLoN5aPJzFlxMSkMRgl8JPJvy+HmiypEip01/GFEeILm40rmxRNsR0HfjUuJdRzfTF+EfT2yGeoDafE3WjpEV7VIFsqF4g=;XUTz4B15BO7vHUrWzexagg=="
+secured: "qP5RZIVErJmEtmDES2ilXiAchBgV2rJ/69OvwP9gqBNyfhjXy3mNrcMux2Cer3jmGWU3A/4AK3yS4Tagjc6cajrSWV4fqx4sdXErWjBCbOPm+UVKgoTyvBCmy6qKOFpFbWVOPM1xGp0ULVsJCeFcgbfia06NjeCLmXe+eMcqwgtBMDuZn6kn8g56js1c0o93K01MRm4cRDinT+33hYNvlw8cSUUwcdSWeROYSSW9e0VFSQ/IXiH67mcYe1IrHcu43DsXrIiNFDxcs2PHnytm+yhzUjahYfZMlaWSKHyR2y8ss/RJ/iJOuv4JqFEl4M72YpERW33RYDuqIejfup1xpeFdDsyx0or/QhZvoublV8ETIqI7SvWm7NenwGp6Yj/FMDJwLxIR8mc0xChTgHmaLhFrinBDe4kLRk0pzOYmA5w=;jyJs7SJHrPnDwx8+tvG0uw=="
 ---
 
