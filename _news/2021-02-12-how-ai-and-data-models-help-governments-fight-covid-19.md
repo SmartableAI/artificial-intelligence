@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI tool predicts who’ll die from COVID-19 with 90% accuracy"
-    excerpt: "Scientists say the system could help identify who to prioritize for COVID-19 vaccines and predict respirator demand at hospitals."
-    publishedDateTime: 2021-02-09T13:06:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-09T125345.436-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Penn State COVID-19 research uses artificial intelligence"
     excerpt: "CENTRE COUNTY, Pa. (WTAJ) — 11 months ago today, the World Health Organization officially declared COVID-19 a global pandemic. Now, research out of Penn State University is shaping how"
     publishedDateTime: 2021-02-11T23:27:00Z
@@ -98,6 +82,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 39
+  - title: "Machine Learning Model Shows Higher COVID-19 Cases Than Reported"
+    excerpt: "A machine learning model estimated that the number of COVID-19 cases in the US is nearly three times greater than reported."
+    publishedDateTime: 2021-02-09T17:35:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-model-shows-higher-covid-19-cases-than-reported"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1132660268.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
     excerpt: "BRAVE Innovations LLC rallies community, faith groups, healthcare workers, colleges, and civic organizations to spur participation in urgent voiceprint research"
     publishedDateTime: 2021-02-11T01:09:00Z

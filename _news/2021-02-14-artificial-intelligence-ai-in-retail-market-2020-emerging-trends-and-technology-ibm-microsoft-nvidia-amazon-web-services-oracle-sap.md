@@ -138,20 +138,6 @@ related:
         width: 600
         height: 440
         isCached: true
-  - title: "Cleareye.ai taps Microsoft Azure for PPP loan processing engine"
-    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
-    publishedDateTime: 2021-02-09T14:19:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86101/cleareyeai-taps-microsoft-azure-for-ppp-loan-processing-engine"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 71
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
     excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
     publishedDateTime: 2021-02-11T21:51:00Z
@@ -242,17 +228,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
-    publishedDateTime: 2021-02-09T13:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
   - title: "Microsoft Teams AI could tell you who is most enjoying your video call"
     excerpt: "Researchers at Microsoft have developed an AI for the firm's Teams videoconferencing software that highlights positive audience reactions during a virtual presentation"
     publishedDateTime: 2021-02-11T10:02:00Z

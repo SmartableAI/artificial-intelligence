@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-02-10T11:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-analytics-livestock-monitoring-2021-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NHL takes big stride on data and analytics with AWS deal"
     excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
     publishedDateTime: 2021-02-11T07:18:00Z
@@ -120,31 +134,6 @@ related:
       - url: "https://ctovision.com/wp-content/uploads/space.jpg"
         width: 632
         height: 422
-        isCached: true
-  - title: "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring"
-    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry"
-    publishedDateTime: 2021-02-10T10:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19581042"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581042"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-  - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
-    excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
-    publishedDateTime: 2021-02-09T14:09:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-data-management-11649778f5b74007b565f1e184a749bf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "KZ6hcWW12SIla8lE/Va9KPeeU2K7nbR8RGs96/5pHHTCQD/ahf0Rms9kwxl50eg6m92j18DvcCCqovmLzgOKwt960M6LOGYHAsNnn1XuFf0rGAGjwsDoPdHa6ImuAYT6jiL3NfgJ7oZdpLBqUIk17CQTDgh3ZCOdVqWIs+Mep65LZiXbbYUQugYTKFFO2ldEVwiP/qTVFvHb38UT27sFrKZfEh2HtjrSzQKh+Fk1c9InKynRiQVdE+SfZtVKLHjPpLdWs9D19FPE2cEhESNgVoNJjXtuO71Mxb98OlhWDjCYvtVYpB3Nwl06nZ+VM8J/nLLW3lh8rK8CB1Zxr7SzFONCjNpEmlP7NtUrhawa8z4=;8KhqL3o6KBjAtZOVgOd+rg=="

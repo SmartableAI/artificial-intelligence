@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-1
 cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: WEARECENTRALPA
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI tool predicts who’ll die from COVID-19 with 90% accuracy"
-    excerpt: "Scientists say the system could help identify who to prioritize for COVID-19 vaccines and predict respirator demand at hospitals."
-    publishedDateTime: 2021-02-09T13:06:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-09T125345.436-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "One Minn. health care provider using AI to prioritize patients for COVID-19 shots"
     excerpt: "How should health care providers decide who gets to the front of the line for a coronavirus vaccine? The state Health Department has mostly left that decision up to individual providers, most of whom are prioritizing their patients based on age."
     publishedDateTime: 2021-02-10T15:00:00Z
@@ -85,6 +69,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 39
+  - title: "Machine Learning Model Shows Higher COVID-19 Cases Than Reported"
+    excerpt: "A machine learning model estimated that the number of COVID-19 cases in the US is nearly three times greater than reported."
+    publishedDateTime: 2021-02-09T17:35:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-model-shows-higher-covid-19-cases-than-reported"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1132660268.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "How AI and data models help governments fight Covid-19"
     excerpt: "A not-for-profit business group including IBM and Rolls-Royce is using AI and data models to help Europe fight Covid-19 and help prepare an economic recovery As Covid-19 vaccines roll out, getting economies and societies back to normal after the worst of the pandemic has passed will depend on collaboration between industry and the public sector – and harnessing the power of data and technologies,"
     publishedDateTime: 2021-02-12T04:34:00Z

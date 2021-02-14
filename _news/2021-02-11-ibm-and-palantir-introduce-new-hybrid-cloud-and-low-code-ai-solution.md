@@ -54,20 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IBM’s latest cloud move: Linking with big data’s Palantir for hybrid using AI, Red Hat"
-    excerpt: "IBM is hooking up with hot big data firm Palantir Technologies for a new partnership focusing on hybrid cloud utilizing artificial intelligence and Red Hat Open Shift."
-    publishedDateTime: 2021-02-09T13:07:00Z
-    webUrl: "https://www.wraltechwire.com/2021/02/09/ibms-latest-cloud-move-linking-with-big-datas-palantir-for-hybrid-using-ai-red-hat/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 31
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
-        width: 577
-        height: 324
-        isCached: true
   - title: "IBM, Palantir partner on AI applications"
     excerpt: "IBM and Palantir Technologies entered a new partnership to combine hybrid cloud, artificial intelligence (AI), data processing, and operational technology in a new enterprise offering called Palantir for IBM Cloud Pak for Data."
     publishedDateTime: 2021-02-11T11:00:00Z

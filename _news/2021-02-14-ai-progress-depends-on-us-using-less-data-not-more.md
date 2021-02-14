@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-l
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

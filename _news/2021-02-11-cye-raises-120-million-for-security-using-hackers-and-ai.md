@@ -76,22 +76,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Symend raises $43 million more for AI that helps customers resolve past-due bills"
-    excerpt: "Symend, a platform that taps AI to help customers resolve past-due bills, has raised $43 million in venture capital."
-    publishedDateTime: 2021-02-09T13:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/09/symend-raises-43-million-more-for-ai-that-helps-customers-resolve-past-due-bills/"
-    ampWebUrl: "https://venturebeat.com/2021/02/09/symend-raises-43-million-more-for-ai-that-helps-customers-resolve-past-due-bills/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/symend-raises-43-million-more-for-ai-that-helps-customers-resolve-past-due-bills/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/05/9cc469b8-554a-45ab-911b-57fb23b7e4c5-e1588710720507.png?w=1200&strip=all"
-        width: 1200
-        height: 743
-        isCached: true
   - title: "Insightin Health raises $9.7 million for AI that uses big data to guide patients’ decisions"
     excerpt: "Insightin Health, which leverages big data analytics and AI to help guide health plan members, has raised $9.7 million."
     publishedDateTime: 2021-02-10T15:02:00Z

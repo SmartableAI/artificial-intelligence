@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-firm-tiktalk-brings-ai-to-spe
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-firm-tiktalk-brings-ai-to-speech-therapy-658629/amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 640
     height: 428
     isCached: true
-
-related:
-  - title: "Israeli AI Chip Startup Raises Seed Funding"
-    excerpt: "Israeli AI chip startup NeuReality has raised seed funding of $8 million to work on its data center AI inference chip and system solution."
-    publishedDateTime: 2021-02-11T14:22:00Z
-    webUrl: "https://www.design-reuse.com/news/49466/neureality-israeli-ai-chip-startup-funding.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
 
 secured: "kan7+4sNozetwiyJgvooF8ORBQ9HZILVszH3KffOH8W0DZh47kdgm9YP975oa/bleClmBHmKL2PjbjLcUOiY/H3JHKi7vr6Pf5zkUkxthHqJF3//MxpsBZCNVArFZOxRoA8uofIVhU1/35zpvXZpGKpeg/XzvKwMqIwxHQJcahKD6p+4ZZ2Bd/Ov2/m6/QPbJrMIECbKw2lsMSyuuRjxml8Ti8imi3wWQkAVNmGQIAS/6K/2sPstBWx3iWBGwn5/q3MH57UUe2grjezQH27c1pwOlZmx6Hh7AM1THFNTIKZntczD5qlhY42YlMab2GHt5YiYY9p+KeyxCc9xqZggBp1Bl9LTvE91r9yXpduaQjmel5t0FpuRlI1AU4W+ZHUBKzDnxnYrJg0biv9qUdsv+WhAyPXlYr1f25khDrTHwZD0zhSPJz+3acWQ0H0zW85Khf2XZPsCQHhB/hPpbBRTamZUiZuiuzbTN6LWvAQ1Koa6rYw+kJOGmZoo/9zMOccnmxYvCbVvZuELHLlPuHcczQ==;hjkA95Bspak5oUo02f0DOA=="
 ---

@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring"
-excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry"
-publishedDateTime: 2021-02-10T10:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19581042"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581042"
+excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets."
+publishedDateTime: 2021-02-10T11:29:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-analytics-livestock-monitoring-2021-02-10"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-analytics-livestock-monitoring-2021-02-10"
 type: article
-quality: 23
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "How Big Data, Predictive Analytics And Machine Learning Changed The Railway Industry"
@@ -132,21 +140,7 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
-    excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
-    publishedDateTime: 2021-02-09T14:09:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-data-management-11649778f5b74007b565f1e184a749bf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "sp0cL++ZmGBCRygMIhKwpPOg4ui96wjwq2HxPkieaNfYTzNZ4RM3i88DA52EBM1vpURqCKPPcnZ0kccxgezmSKqCEaKb0nUriV8+R5USm6RWScc5epmeA8HgOjcL0lXSqo+J9vMFUyGmP94PxAn5KslXXhgkcFiI1/vQ03iG06JAVQpf0PpwIa2OFcdVef3F+YY7Y+zslph5QnfaFYtmQvKVKSbLYUrPSYHQlDohJubwbkvQjwevr8m9+TyQ6k+sXOO+co262lyr2yss1GT04yGT6iDE/CfU71bJPLsHJsiWjpQcKAN6OutlgT5y4FoQ993UjWkTVJ5PTlH8HnuCF4I5dj8jYdtz0wfaqBWfH0I=;GfViAKrIKyz4Bf1RFrLEaQ=="
+secured: "Dvd+KJMDh1jF6SoPb6eleGE3qHhCljK62EeFPPHbvBePShLg46L6Jrt5l1mrIxUG2aRwtwZ+gI7NVrZhAuDWHzoQRS8wduRbyYfwelzXFA6IH7/n/aiDjz6rOVXyh2mhQvwLrauvxEdd/6oyFV0sTvEuVrOY6Kfo1326J4C4HS6DoS8E/Ghd92anHir0Ohi5L/4OV4/uF+Q7qiYGr2IE5Bt6p2EiD1V2bOm1etTqAcVz2TLnfhBHMzFX5JyV9XZkIDVdeyqqv0/udnj5AOh4E1hDlMR7C9BbV33ZpaRtbFORgIXzS1oRA7yjd2hkffZRqWgta32h36Oic2U0zT2pellef4/kbVDaldKqlEopesw=;GDdF4ZDE0D/vpDUyw/hWWA=="
 ---
 

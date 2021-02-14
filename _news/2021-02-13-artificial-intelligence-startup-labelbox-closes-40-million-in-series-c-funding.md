@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Startup Labelbox Closes $40 Million in Series C Funding"
 excerpt: "Labelbox, the leading training data platform for enterprise machine learning applications, today announced the close of a $40 million Series C funding led by B Capital Group. Previous investors Andreessen Horowitz,"
 publishedDateTime: 2021-02-12T18:13:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
 type: article
 quality: 35
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "SjUTCEVQMjwU+5JtSY0Inmhj6o6lTb22g1tXqnLBHurhm5/NiJZWRZTVTjiIuTdzNsP3Y92IiGGyTE/kzNecc6IzWRmjswblOXogX9GBjYH7ICXOakHKmSw0sR4UUBjtKoMdl/IpsejjlVv1so+APhEu2rHZzinO6cZUOOFfKTM5YYv739IcO6i+Ddk11X+lsKY7l9INUmoy/FNNOsuZv7viviOjeUzXAe34OobbYqS2cMA/neBoi41uyLjEvswSrwwsSa1+p00c5VWQ9vAflSYsaA1Rntqk7xoPZYeH+LOQJNzXM9fm8GQ6ywYPNc/isQE+mYao0LK3Zsp/QQKArnWohftnJ3Vd1xcTCHC2Lkk=;YwsV1dwe2k3FIPWmWPmhbw=="
+secured: "9SBb0B+BK+dVuf0+/p5P2joZWyyXF4NXiV5GRS/sKRLYkvsUQnKjOHqmr3ndXhWFBVribRcEQwhyb7MZqbQH0ZPgo5gRT2d1sTWLH+br6VucV7D52myscrTcf6wIGhVQovHP52F+DeMP3BC0TzRtXcAx7bE3JzBZ5n47QYq8iqugaBTb0oF7nD1ouMGZuw0/fGWDSy8ZKmd6Nfdph2D1lOLkbx/pphKrXSWv9VFUmYyhcqab+vwvpvtFSShiqjlZOmU+Vjsxjwj4DMcO2mpJ5SPC+tXg5JSK1nvshC+APhUdCJyH9Kl4KT6+yINPR6qAW3u4sn+6SSsMzLCSefVMxoPQ3Ov8P6oONDQ/9hJs2Mk=;8pAYZ+e/STwPj0wBG6k31A=="
 ---
 

@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "New AI tool predicts who’ll die from COVID-19 with 90% accuracy"
-    excerpt: "Scientists say the system could help identify who to prioritize for COVID-19 vaccines and predict respirator demand at hospitals."
-    publishedDateTime: 2021-02-09T13:06:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-09T125345.436-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Penn State COVID-19 research uses artificial intelligence"
     excerpt: "CENTRE COUNTY, Pa. (WTAJ) — 11 months ago today, the World Health Organization officially declared COVID-19 a global pandemic. Now, research out of Penn State University is shaping how"
     publishedDateTime: 2021-02-11T23:27:00Z
@@ -85,6 +69,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/theaidriveni.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Machine Learning Model Shows Higher COVID-19 Cases Than Reported"
+    excerpt: "A machine learning model estimated that the number of COVID-19 cases in the US is nearly three times greater than reported."
+    publishedDateTime: 2021-02-09T17:35:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-model-shows-higher-covid-19-cases-than-reported"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1132660268.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "How AI and data models help governments fight Covid-19"
     excerpt: "A not-for-profit business group including IBM and Rolls-Royce is using AI and data models to help Europe fight Covid-19 and help prepare an economic recovery As Covid-19 vaccines roll out, getting economies and societies back to normal after the worst of the pandemic has passed will depend on collaboration between industry and the public sector – and harnessing the power of data and technologies,"

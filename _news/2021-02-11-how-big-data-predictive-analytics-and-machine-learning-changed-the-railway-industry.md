@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/02/11/how-big-data-predictive-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/02/11/how-big-data-predictive-analytics-and-machine-learning-changed-the-railway-industry/amp/"
 type: article
 quality: 97
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2aec63ba9506e3de5bcf27%2F0x0.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-02-10T11:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-analytics-livestock-monitoring-2021-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "NHL takes big stride on data and analytics with AWS deal"
     excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
@@ -117,17 +131,6 @@ related:
         width: 632
         height: 422
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring"
-    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry"
-    publishedDateTime: 2021-02-10T10:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19581042"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581042"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
   - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
     excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
     publishedDateTime: 2021-02-11T19:00:00Z
@@ -137,20 +140,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "Sisense Unveils Sisense Fusion, an AI-Driven Analytics Platform Designed to Make Data Analytics Simple, Scalable and Actionable"
-    excerpt: "Sisense, the leading AI-driven platform for infusing analytics everywhere, today announced Sisense Fusion. Optimized to bring actionable intelligence to employees and customers, Sisense Fusion helps organizations infuse analytics everywhere,"
-    publishedDateTime: 2021-02-09T14:09:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-data-management-11649778f5b74007b565f1e184a749bf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ah0jTmYrVm1gBsAlN57uy8m4Mm0GjfTP2wmIKnMh5+Byz9GdEzpjzvFfFyO0xXt6IFUM7eYnAAN9duzUlwt20Oq2Xg86/5inv0maxwkXVt+v+b27tr37YjIcFlxbx/nRLxDXXOXVvUHMKdgK5hsJDWP8UESGMvyAX5wng1/tVTlfv3fX8mEDiO6IPjWnz7rZiPgUAXG8TIuLnGmIrRRQJQgWv2iQVTDxMw8wXwdY8dQYBNBlQNORm7TGwzprGr0hILH2pUZ9vEJUwfqAOpVy0NDamFWtrbAszu3MMEragknPvpnFu9CHZ5+um377i0kact9VSLK4bhHMP8W/bJskH8OgeohOJIgTrtwhA0f0dq90haltqrKzRQM6Sc3VFJVp1mrhy8S5ej0VR88n8tQcAVGbWwHrqO/3rcY7/ymLYsC2p3xf3g/MQMrW3xs4c0NW8NvWwW96FJx5dY/ejxWXa8EKeW25UUYFlbzAVBhXrbyAodaGKbSGy8G6jUZZnTW7/UyJZnmHdqqVYwpmE5mmLw==;NuSOzdkvUqHHeaGwqTd6UQ=="
 ---

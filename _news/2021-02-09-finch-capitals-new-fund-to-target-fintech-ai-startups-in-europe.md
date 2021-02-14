@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-f
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Localizing FinTech To Tackle SMBs' Biggest Cash Headaches"
-    excerpt: "SUMA discusses the value in offering localized FinTech solutions for small businesses across Latin America to promote growth."
-    publishedDateTime: 2021-02-09T13:58:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/localizing-fintech-to-tackle-smb-cash-headaches/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/localizing-fintech-to-tackle-smb-cash-headaches/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/localizing-fintech-to-tackle-smb-cash-headaches/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/suma-smb-local-fintech-latam-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Finch Capital Targets European Fintech Companies with €150 million Fund"
     excerpt: "Finch Capital announced the first close of Europe III, its €150 million investment fund, to invest in the European fintech companies."
     publishedDateTime: 2021-02-10T10:16:00Z

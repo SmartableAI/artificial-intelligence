@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/02/11/immunai-raises-60-million-to-anal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/immunai-raises-60-million-to-analyze-the-immune-system-with-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Theator raises $15.5 million to analyze surgical footage with computer vision"
-    excerpt: "Theator, a startup developing a 'surgical intelligence' platform powered by computer vision, has raised $15.5 million."
-    publishedDateTime: 2021-02-09T14:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/"
-    ampWebUrl: "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Theator raises $ 15.5 million to analyze surgical images with computer vision"
     excerpt: "Theator raises $ 15.5 million to analyze surgical images with computer vision . Surgical platform developer Theator today closed a $ 15.5"
     publishedDateTime: 2021-02-09T16:22:00Z
@@ -62,6 +46,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Israeli AI Chip Startup Raises Seed Funding"
+    excerpt: "Israeli AI chip startup NeuReality has raised seed funding of $8 million to work on its data center AI inference chip and system solution."
+    publishedDateTime: 2021-02-11T14:22:00Z
+    webUrl: "https://www.design-reuse.com/news/49466/neureality-israeli-ai-chip-startup-funding.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "d9/DcFIHUd6O9UYr49Say1sx0dOGj/yiNnQqjum89tLLrJNp4iiED5OlHGUqcQxK0tmZ2eKKb6M2A6cSmm3VNSSYIQaZDxfSm/CLKrgHeYUtX9WpFd9qj4YE35lcMzR6vqJmy4jXADRjnNxM3b8l3GjLngrf6mw7PPGux9qA+TrHsCgITnVmqIWXq6u3Y8H5hFGUWp9py8/eF7ZcgSorj2Hr1ZpS4wNP9rzTsBfs9yGlNvSte9lSpB7Qq5BzlZEXEp+8mwX4E30MkLCJFi4TtRmRy+HBNnlepG7+7blBiXWvEOy//kJz6rcpfucdbbnMnKuGj5P+PcjhSJu1p0RDt6MOIpBSTgGci5wAy7EdbpUzjRlgJqsDrC5Q0FWYSz92d6fA9n+SmdpepGoDN5PTqdNfz+XeJWqzqDgijgJ47yMAwtVUvI6Vz5oT4wTiyKg2dO7GL62dZYtgL1uoRK43zmwQuBXNuwPUqtUBcWKFvyCajMtaMpI0WV7DDOEvqzg4PL8xq726XjvaKlyrYlBawA==;j7PcqP0KS5on3EvPY64i0g=="
 ---
