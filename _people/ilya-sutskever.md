@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: ilyasut
   url: https://twitter.com/ilyasut
-  followers: 63090
+  followers: 63093
 
 googleScholar:
   url: https://scholar.google.com/citations?user=x04W_mMAAAAJ
@@ -25,7 +25,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1287174032211603456/vL4_w__Q_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1361039655068663812/Ih0FuBdc_400x400.jpg
     width: 400
     height: 400
     isCached: true
