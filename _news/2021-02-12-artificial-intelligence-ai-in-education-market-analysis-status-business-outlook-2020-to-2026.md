@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2241354/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis"
 type: article
 quality: 76
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Imaging Market New Innovations Trends, Research, Global Share and Growth Factor"
-    excerpt: "Artificial Intelligence (AI) in Medical Imaging Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis \"The report on AI in Medical Imaging Market was recently published by SDKI,"
-    publishedDateTime: 2021-02-10T05:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-imaging-market-new-innovations-trends-research-global-share-and-growth-factor-2021-02-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

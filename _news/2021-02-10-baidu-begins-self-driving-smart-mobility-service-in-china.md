@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mizuho predicts how much self-driving cars should add to Baidu's share price"
-    excerpt: "Shares of Chinese technology company Baidu are at an all-time high and could climb further ... The country has ambitious plans to build transportation systems that support self-driving vehicles in 30 domestic markets, Lee told CNBC's \"Squawk Box Asia ..."
-    publishedDateTime: 2021-02-10T05:53:00Z
-    webUrl: "https://www.cnbc.com/2021/02/10/mizuho-predicts-how-much-self-driving-cars-could-boost-baidu-stock.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 66
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106838180-1612928153790-gettyimages-1229059158-The_Baidu_robo-taxis_invite_citizens_to_take_for_free_in_BeijingChina_on_13th_October_2020.jpeg?v=1612927909"
-        width: 3100
-        height: 1884
-        isCached: true
   - title: "Baidu Launches Self-Driving Cars, Shuttles, Buses, Vending, And Even Police Robots"
     excerpt: "The Mobility-as-a-Service program in Guangzhou steps beyond previous deployments, in that it pulls together different transportation modalities and use cases into a single service."
     publishedDateTime: 2021-02-12T18:15:00Z

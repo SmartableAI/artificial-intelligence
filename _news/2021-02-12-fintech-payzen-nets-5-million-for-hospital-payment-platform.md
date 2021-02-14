@@ -43,20 +43,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Finch Capital raises €150m for fintech fund targeting later stage start-ups"
-    excerpt: "Finch Capital, a UK and Netherlands based VC firm, is looking to deploy €150m into 15-20 fintech companies in Europe. The new portfolio is Finch’s third fund since launching in 2013. Its current portfolio includes the likes of Trussle,"
-    publishedDateTime: 2021-02-10T05:31:00Z
-    webUrl: "https://www.altfi.com/article/7561_finch-capital-raises-eur150m-for-fintech-fund-targeting-later-stage-start-ups"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 37
-    images:
-      - url: "https://www.altfi.com/images/featured/finch-capital-raises-eur150m-for-fintech-fund-targeting-later-stage-start-ups.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Kraken Announces Launch of Independent Investment Fund For Crypto & Fintech Companies"
     excerpt: "Kraken, a U.S.-based digital asset exchange, announced on Thursday it is backing the newly launched Kraken Ventures, an independent investment fund targeting early stage companies and protocols across the crypto and fintech ecosystem."
     publishedDateTime: 2021-02-12T13:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/11/opinion/science-technology.amp.ht
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/opinion/science-technology.amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.thehindubusinessline.com/migration_catalog/v2mul8/article18054655.ece/ALTERNATES/LANDSCAPE_615/editpage-blrasBL22RASHEEDA2EDITjpg"
         width: 615
         height: 384
-        isCached: true
-  - title: "Top 3 Technologies which are winning the Run in 2021"
-    excerpt: "The top 3 technologies which are winning the run in 2021 are Al/Machine learning, IoT/Big data, and Cybersecurity."
-    publishedDateTime: 2021-02-10T06:30:00Z
-    webUrl: "https://www.theworldbeast.com/top-3-technologies-trends-in-2021.html"
-    type: article
-    provider:
-      name: Emily Ratajkowski
-      domain: theworldbeast.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/www.theworldbeast.com/wp-content/uploads/2021/02/Top-3-Technologies-trends.jpg?fit=600%2C386&#038;ssl=1"
-        width: 600
-        height: 386
         isCached: true
 
 secured: "oTxhXyhayEpgr06nXU+Rq+7/1dfIih2vSS3CDfCH/8/0FtOcaSrXyt/TlLxm5arTjTwXSp016C6h/s46pxumGJ+uIQnViORIU+b5YoaNcgrvovVkA3FpITGcLNlW/5GHVdMaVA4bX1ysNg+JQCoeczhmQ10OpBV209OAy694Sdq+vsut8Xm2uLq44lHcn/KgYGIPRXKRDNbs5oGGrcIkdaCm56S+owdHMsM7m0nqxeDp17hSy663ILXDpVVDXi5XvmLiFo1CVLSRPzJCrg0lNfYkWOr7c4quLayuhlcEFg2HUY4khJJByvau+Ns5jFpb47qRXGYuyr8c38B9glhD2XffEYaEaiTEwKoLBGk5Rxg=;dojBfxyK0ImmucyWmW3GRw=="

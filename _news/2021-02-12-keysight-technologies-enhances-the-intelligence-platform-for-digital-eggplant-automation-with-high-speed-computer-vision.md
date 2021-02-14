@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/pc/keysight-technologies-enhances-the-
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/keysight-technologies-enhances-the-intelligence-platform-for-digital-eggplant-automation-with-high-speed-computer-vision/amp/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,16 @@ images:
 
 related:
   - title: "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision"
-    excerpt: "Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation Intelligence (DAI) platform that enables organizations to automate the testing of high-speed applications which optimizes the delivery and quality of digital products."
-    publishedDateTime: 2021-02-11T16:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-santa-rosa-products-and-services-57addd018cd94b4abc26a4111dae2cdc"
+    excerpt: "Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises, service providers and governments accelerate"
+    publishedDateTime: 2021-02-11T16:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision-1030073676"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision-1030073676"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision-1030073676"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision"
     excerpt: "Real-time testing of iOS applications emulating human behavior improves quality of the digital experience Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises,"
     publishedDateTime: 2021-02-11T10:00:00Z

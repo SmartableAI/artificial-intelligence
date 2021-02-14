@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-regional-study-covid---19-outbreak-emerging-technologies-global-segments-business-trends-landscape-and-demand-2021-02-11"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -29,20 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "NLP companies are growing and fueling technological advancements"
-    excerpt: "Since the need for chatbots is expanding, organizations that give natural language processing technology are most in demand. Here are the top 5 NLP companies of 2021."
-    publishedDateTime: 2021-02-10T06:46:00Z
-    webUrl: "https://www.analyticsinsight.net/top-5-nlp-companies-of-2021-offering-cutting-edge-solutions/"
+  - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
+    excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
+    publishedDateTime: 2021-02-13T10:14:00Z
+    webUrl: "https://www.openpr.com/news/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Top-5-NLP-Companies-of-2021-Offering-Cutting-edge-Solutions.jpg"
-        width: 900
-        height: 500
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
 
 secured: "nn+lx0H8OwLbfm9vM9G0vt/kIUJereuSuID5uKVEkTY5BR0dw3jueCbc0LvFSQdnI6ldAR0NWq+mflQk8ylsVnVi2H3w6jI97+J3Fg0MZYq6C1zLwJd8npTCWPQlKTYow00UYiXJWEqUelmmdU/X/26dIEvdL9+Plx5NBknW+pmuBWZ1gi5TkC54um2dM7/oGOwwDVk9NiU/AnN4JFX+h3Viv0UToHAM5mpO1ctaFh3lYcVSGnaxKyfR63WSXlA/GdIix86s5ZeRj5Gs9/K2z2wi4LPB5n/Dk7LLkG8a3LQTAZ5/x/rknRNZuhi2J1D7X735TVfGMPum0DFKivMDlRHIsd75Jj8w1GdLesR2HoA=;NNQGm2L+7NuePA0jD5H9dw=="
 ---

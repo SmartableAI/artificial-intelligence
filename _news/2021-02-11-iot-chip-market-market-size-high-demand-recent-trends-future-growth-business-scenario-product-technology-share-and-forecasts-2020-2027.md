@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market by Size, Growth, Opportunity and Forecast to 2027"
-    excerpt: "Selbyville, Delaware Global Computer Vision Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Computer Vision Market Report also covers top key players,"
-    publishedDateTime: 2021-02-10T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027-2021-02-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
     excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
     publishedDateTime: 2021-02-11T08:49:00Z
@@ -52,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence for Edge Devices Market Size, Trends, Companies, Driver, Segmentation, Forecast by 2025"
-    excerpt: "According to this study, over the next five years the Artificial Intelligence for Edge Devices market will register a 28.9% CAGR in terms of revenue, the global market size will reach $ 5021.4 million by 2025,"
-    publishedDateTime: 2021-02-11T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-trends-companies-driver-segmentation-forecast-by-2025-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Latest Industry Trends, Statistics, Competition Strategies and Latest Industry Share by 2026"
+    excerpt: "The global “Natural Language Processing Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-02-11T08:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-industry-trends-statistics-competition-strategies-and-latest-industry-share-by-2026-2021-02-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market Share, Size, Industry Growth, Trend, Business Opportunities, Challenges, Drivers and Restraint Research Report by 2027"
     excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The AI in Fintech market intelligence study is a collection of authentic"
     publishedDateTime: 2021-02-12T22:16:00Z
@@ -127,17 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
-    excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
-    publishedDateTime: 2021-02-13T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+  - title: "Automotive Voice Recognition System Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast | ARC"
+    excerpt: "Automotive voice recognition system market is expected to reach the market value of around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 - 2027."
+    publishedDateTime: 2021-02-12T09:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-arc-2021-02-12"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
     excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
     publishedDateTime: 2021-02-11T14:00:00Z

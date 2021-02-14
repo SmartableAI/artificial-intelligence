@@ -44,20 +44,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Top 3 Technologies which are winning the Run in 2021"
-    excerpt: "The top 3 technologies which are winning the run in 2021 are Al/Machine learning, IoT/Big data, and Cybersecurity."
-    publishedDateTime: 2021-02-10T06:30:00Z
-    webUrl: "https://www.theworldbeast.com/top-3-technologies-trends-in-2021.html"
-    type: article
-    provider:
-      name: Emily Ratajkowski
-      domain: theworldbeast.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/www.theworldbeast.com/wp-content/uploads/2021/02/Top-3-Technologies-trends.jpg?fit=600%2C386&#038;ssl=1"
-        width: 600
-        height: 386
-        isCached: true
 
 secured: "avoWBRMM7HpXMj4JHIgrZJ/lw7cVNf3MErQGUnQrQk28+KW/NLgQ8JToyN4e/DWjx+pwqcD6AaqeoNzvF49xfBQSDCJYCyWkiI7i1VRLAvuXNBgdPaSzKSdJSwlchOlx7bfothyoQV8q2kBAF8GN+SzXrRmBDOuytjwYiR7S16E29TQELsqryPhhoiZ7eZjW55VJ2JHQC0hGhwrFZFmVIYF3Ja6D0FJyOJM7nT68eYBGGFuODQz1mLXTupmUbyPbSocr8cUr4Rxj1iUT6JXxW+LgVwEqpHbrEg3UivoFMgaMfMyC662/xE6HY6XkbntDzENF4wFnQqsHaqx/0yVc7NC0P+ZJyQt7I8ShZ/VlkyY=;xmUz6LfAYQdb3z5XkU5SbA=="
 ---

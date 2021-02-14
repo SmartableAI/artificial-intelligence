@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Imaging Market New Innovations Trends, Research, Global Share and Growth Factor"
-    excerpt: "Artificial Intelligence (AI) in Medical Imaging Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis \"The report on AI in Medical Imaging Market was recently published by SDKI,"
-    publishedDateTime: 2021-02-10T05:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-imaging-market-new-innovations-trends-research-global-share-and-growth-factor-2021-02-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Chips Market to Eyewitness Massive Growth by 2025 | AMD, Google, Intel Corporation, NVIDIA"
     excerpt: "Latest released the research study on Global Artificial Intelligence Chips Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Chips Market research report shows the latest market insights current situation analysis with upcoming trends"
     publishedDateTime: 2021-02-12T20:02:00Z

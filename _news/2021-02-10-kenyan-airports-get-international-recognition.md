@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kenyans.co.ke/news/62057-kenyan-airports-get-internation
 cdnAmpWebUrl: "https://www-kenyans-co-ke.cdn.ampproject.org/c/s/www.kenyans.co.ke/news/62057-kenyan-airports-get-international-recognition?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Kenyans.co.ke
@@ -42,20 +42,6 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2020-03/dedb16f6-629a-4847-9cb2-8e6cdd8d7b29/AIRPORT_03.jpg"
         width: 600
         height: 356
-        isCached: true
-  - title: "Kenya: KAA Receives International Recognition From Airports Council International"
-    excerpt: "Airports Council International (ACI) has recognized Kenya Airports Authority (KAA) in its World's Voice of the Customer Initiative."
-    publishedDateTime: 2021-02-10T06:12:00Z
-    webUrl: "https://allafrica.com/stories/202102100070.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 34
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
         isCached: true
 
 secured: "ymUzXkWyjUMdxVfIUvwZ9H0oMcgEDO/NIHXDs6VICNj0CrTvyiIahOyH3OD9M/+7yA1muXZ0Hmhr3501oB/XEg9q5VaGumAqsfNFkyY1yoWOO+258cinvguFrzHt1b7o8C+ySEJ72BL87J75E6edl6aWOaqQTfu8H4Mn77KP7oUIqKgqShfoEf6Qix90DBj0ZFLr4hzTmvpH0/8xyM3joRwCEsTR45UE5OBxjuxdX6nFaTCbSY091BiLJJRNW0M8lPjWNXvTGVoCyOK2PQXgwWP1z93jgEx2AaUguu7ag7WGWBycJcVvsJ4RrCgF/eIu/QH4bjnILU+CBQ3Gc1bCwvNCx2qFyozWeyXgj//5S9qWz2RbyVPoCsPpoZxxSQAT3sr6LOsHBMsP7u5ZllhQY9XyzzLoDw0gU/mr4OFfW6RcBaXWy75yuLTGqOWDS7gIRFsi/3RBfJ6jUWdyzGTC+UUEXiqKLIv+1ZOReFXXoyYjnUlzjUJnRXPmd9Dp+K84/OYiyez2q8gDnfe2dUxWsQ==;JvrCeUl1rPASCFsbL8ZFew=="

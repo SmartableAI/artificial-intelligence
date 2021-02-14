@@ -43,20 +43,6 @@ related:
         width: 700
         height: 350
         isCached: true
-  - title: "Kenya: KAA Receives International Recognition From Airports Council International"
-    excerpt: "Airports Council International (ACI) has recognized Kenya Airports Authority (KAA) in its World's Voice of the Customer Initiative."
-    publishedDateTime: 2021-02-10T06:12:00Z
-    webUrl: "https://allafrica.com/stories/202102100070.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 34
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
 
 secured: "msDzPphYN860tJPewBtjTOPJ+lozQ8JuaKzOQLBDqhx8GnDDfDYtp2qtRWeQBH+lQJh4s22m3b+YR8ljLqI3CbF+ebFNVwJT+U6w6SjS0M9K1VV2+jDnlbQ2gKklS6mwZ8eAIHq3ZYwBA4ToKleXzxTIZWayPxLDpOgGoL4ghObAZkFwvDwwOYtToDBEOX6z2N8sWQ2uDmJ3rm3dC/Pu/FKqIVR5Q04BJaxdNqzfDkwX23tgHXqvn47NxQ7XiQSWNdRRI8iDS/35BySPv7E9mKPS05ynvNUSkYBtbWtPRilRGSiOwaEKzxPOkMn/B1rlCNGkW4PlDGT93aWDtqa48Oc3yYXV8YtKcYYtXPahN7UDk0t9l7iLdNPtPiNGs0VMQYwVWATYxbooOZOrErEQqiYrbfb7Hi9pC4tGR+KBFpYKY2VXPIhrfQzp+Mf+8+6RuWnwxUAhaEid73pRdz+AdWl4o28v1Ekvid16t+Hg/Aps0NTrQZBFEGqhbfZIWpeaUZ+xO4QR/+wwO+Z086Uqrw==;d4WFT5Q3zXTbDBwtd3K86Q=="
 ---

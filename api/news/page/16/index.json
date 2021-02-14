@@ -2,6 +2,108 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-01-avaya-expands-its-alliance-with-google-for-ai-for-contact-centers.md",
+      "title": "Avaya expands its alliance with Google for AI for contact centers",
+      "excerpt": "Avaya AI's alliance with Google leads to the creation of virtual agents that can verbally interact with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-google-for-ai-for-contact-centers/",
+      "originalUrl": "https://venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-google-for-ai-for-contact-centers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/google-dialogflow-cx.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-google-for-ai-for-contact-centers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-google-for-ai-for-contact-centers/amp/",
+      "publishedDateTime": "2021-01-31T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game.md",
+      "title": "Discovering The Next Generation Of Soccer Talent Through AI And The Amateur Game",
+      "excerpt": "Having watched my national team, Wales, all around the world (including in 2003 in San Jose), I must admit I was particularly excited to sit down recently with former Chelsea, Sunderland, Swindon and Wales defender Gareth Hall Head of Football Operations at AiSCOUT and Founder & CEO,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/",
+      "originalUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6016f7feb80f1ecb9673bf86%2F0x0.jpg%3FcropX1%3D255%26cropX2%3D4899%26cropY1%3D75%26cropY2%3D2687",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/amp/",
+      "publishedDateTime": "2021-01-31T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-forget-user-experience-ai-must-focus-on-citizen-experience.md",
       "title": "Forget user experience. AI must focus on ‘citizen experience’",
       "excerpt": "To ensure AI has a positive impact on society, we need to look beyond user experience to a new practice of 'citizen experience' design.",
@@ -1108,108 +1210,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-researchers-propose-ai-that-creates-controllable-videos.md",
-      "title": "Researchers propose AI that creates ‘controllable’ videos",
-      "excerpt": "Learn how fintechs and forward-thinking FIs are accelerating personalized financial products through data-rich APIs. In an effort to create an AI system that can develop some of these same reasoning skills,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/",
-      "originalUrl": "https://venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Untitled-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/amp/",
-      "publishedDateTime": "2021-01-29T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-the-youngest-ai-programmer-in-the-world-is-a-7-year-old-guinness-record-holder.md",
-      "title": "The youngest AI programmer in the world is a 7-year-old Guinness record holder",
-      "excerpt": "Kautilya Katariya, a computer whiz from the UK, became the youngest qualified computer programmer in the world last year at just six-years-old after taking a series of computer lessons including AI courses from IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/29/the-youngest-ai-programmer-in-the-world-is-a-7-year-old-guinness-record-holder/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/29/the-youngest-ai-programmer-in-the-world-is-a-7-year-old-guinness-record-holder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/ibm-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/29/the-youngest-ai-programmer-in-the-world-is-a-7-year-old-guinness-record-holder/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/29/the-youngest-ai-programmer-in-the-world-is-a-7-year-old-guinness-record-holder/amp/",
-      "publishedDateTime": "2021-01-29T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
