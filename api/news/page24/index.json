@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-01-26-urikar-the-most-advanced-powerful-percussion-massager-with-ai-chip-for-daily-stress-relief-and-workout-recovery.md",
+      "title": "URIKAR - the Most Advanced & Powerful Percussion Massager with AI Chip for Daily Stress Relief and Workout Recovery",
+      "excerpt": "Percussion massage guns have truly become more and more popular in the past year. As a home massage tool, it is a super useful innovation, especially in this difficult COVID-19 period. If you haven’t yet jumped in on the trend,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-com/lifestyle-diet-and-exercise-exercise-ace576e3331cb0fea0f5d7f6ba60c2cf",
+      "originalUrl": "https://apnews.com/press-release/pr-com/lifestyle-diet-and-exercise-exercise-ace576e3331cb0fea0f5d7f6ba60c2cf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-sales-startup-insentai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots.md",
       "title": "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots",
       "excerpt": "B2B enterprise sales platform Insent.ai has raised $2 million to expand its data visibility and automated chatbot integrations.",
@@ -1166,48 +1209,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-why-most-ai-projects-fail.md",
-      "title": "Why most AI projects fail",
-      "excerpt": "This is the case especially in AI, a relatively new field fueling business worldwide and shifting the attention of investors to more technologically powered, sustainable and cost-effective solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/why-most-ai-projects-fail/",
-      "originalUrl": "https://gulfbusiness.com/why-most-ai-projects-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2020/10/GettyImages-1157984833.jpg",
-          "width": 800,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T22:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

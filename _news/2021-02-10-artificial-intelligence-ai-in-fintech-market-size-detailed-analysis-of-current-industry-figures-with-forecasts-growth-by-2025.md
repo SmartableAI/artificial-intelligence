@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Precision Medicine Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence (AI) in precision medicine market is expected to record 50% CAGR during 2020-2025."
-    publishedDateTime: 2021-02-09T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-trends-companies-driver-segmentation-forecast-to-2025-2021-02-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
     excerpt: "The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc. (Google), General Electric Company, General Vision Inc."
     publishedDateTime: 2021-02-12T06:43:00Z

@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-08-jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily.md",
+      "title": "Jigsaw’s AI-powered toxic language detector is now processing 500 million requests daily",
+      "excerpt": "Perspective, a hate speech detection service built by Alphabet-backed company Jigsaw, now sees 500 million requests per day.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/",
+      "originalUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/jigsaw-e1574185322346.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/amp/",
+      "publishedDateTime": "2021-02-08T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-apple-car-talks-arent-happening-say-automakers-hyundai-kia.md",
       "title": "Apple Car Talks Aren’t Happening, Say Automakers Hyundai, Kia",
       "excerpt": "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in talks with Apple Inc. to develop an autonomous vehicle, responding to intense speculation about the potential new product by the maker of the iPhone.",
@@ -1149,58 +1200,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-anomaly-detection-with-amazon-lookout-for-metrics.md",
-      "title": "Anomaly detection with Amazon Lookout for Metrics",
-      "excerpt": "This is a guest blog post from Quantiphi, an AWS Advanced Consulting Partner that specializes in artificial intelligence, machine learning, and data and analytics solutions. We’ve all heard the saying “time is money,” and that’s especially true for the retail industry. In a highly competitive environment",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-lookout-for-metrics/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-lookout-for-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/LookoutforMetrics.jpg",
-          "width": 800,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

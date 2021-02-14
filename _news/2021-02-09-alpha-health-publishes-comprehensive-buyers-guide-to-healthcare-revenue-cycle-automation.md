@@ -42,7 +42,7 @@ related:
   - title: "Massachusetts-based Parlance Corporation partners with Hendrick Health to provide speech-recognition solutions"
     excerpt: "With the recent purchase of two hospitals, Texas-based Hendrick Health understands the importance of quickly connecting and unifying services throughout the organization. To create a consistent brand experience and superior service for the organization’s callers,"
     publishedDateTime: 2021-02-09T17:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458/gallery/2bf153af17e19fc3c4c5d5763b2bd791"
     type: article
     provider:
       name: Associated Press

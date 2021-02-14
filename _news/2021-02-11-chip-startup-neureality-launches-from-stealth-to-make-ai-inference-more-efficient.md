@@ -84,17 +84,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Digital Owl emerges from stealth with AI that analyzes and summarizes medical records"
-    excerpt: "Digital Owl, a startup developing a platform to extract key information from electronic medical records, has emerged from stealth.Read MoreRead"
-    publishedDateTime: 2021-02-09T08:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records-9785629"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records-9785629"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-owl-emerges-from-stealth-with-ai-that-analyzes-and-summarizes-medical-records-9785629"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
   - title: "NeuReality Emerges from Stealth with $8M Seed for AI Compute Infrastructure"
     excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges"
     publishedDateTime: 2021-02-12T02:23:00Z

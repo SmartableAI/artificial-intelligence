@@ -49,7 +49,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 84
+    quality: 88
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/770x578/143c161e6d1f8b6e09a331048f272527/20210211-healthcareai-karen.jpg"
         width: 770
