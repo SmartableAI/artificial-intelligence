@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?a
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/199d7f912263587d7beb198ff7c5dab0bc726f19/0_135_4645_2787/master/4645.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d7c38416f108916c5e4f131ce3875c59"
         width: 600
         height: 360
-        isCached: true
-  - title: "ACLU of Louisiana sues State Police seeking records of facial recognition software use"
-    excerpt: "The American Civil Liberties Union of Louisiana sued the Louisiana State Police Department on Tuesday over a public records dispute related to facial recognition software used by the department."
-    publishedDateTime: 2021-02-09T19:15:00Z
-    webUrl: "https://www.theadvocate.com/baton_rouge/news/courts/article_bed47306-6b09-11eb-ade3-db00aac8da6f.html"
-    ampWebUrl: "https://www.theadvocate.com/baton_rouge/news/courts/article_bed47306-6b09-11eb-ade3-db00aac8da6f.amp.html"
-    cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/courts/article_bed47306-6b09-11eb-ade3-db00aac8da6f.amp.html"
-    type: article
-    provider:
-      name: The Advocate
-      domain: theadvocate.com
-    quality: 51
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/41/641d68fa-755c-11e8-be39-bb2e09e0b42b/5b2bb11f7aa0c.image.jpg?resize=1024%2C855"
-        width: 1024
-        height: 855
         isCached: true
   - title: "Minneapolis City Council approves ordinance banning use of facial recognition technology"
     excerpt: "An ordinance passed by the Minneapolis City Council will ban the use of facial recognition technology in the city."

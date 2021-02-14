@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Startup Labelbox Closes $40 Million in Series C Funding"
 excerpt: "Labelbox, the leading training data platform for enterprise machine learning applications, today announced the close of a $40 million Series C funding led by B Capital Group. Previous investors Andreessen Horowitz,"
 publishedDateTime: 2021-02-12T18:13:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-professional-services-data-management-computing-and-information-technology-8736ad9333712b4f9eef0ca791fddcf0"
 type: article
 quality: 35
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 600
         isCached: true
 
-secured: "9SBb0B+BK+dVuf0+/p5P2joZWyyXF4NXiV5GRS/sKRLYkvsUQnKjOHqmr3ndXhWFBVribRcEQwhyb7MZqbQH0ZPgo5gRT2d1sTWLH+br6VucV7D52myscrTcf6wIGhVQovHP52F+DeMP3BC0TzRtXcAx7bE3JzBZ5n47QYq8iqugaBTb0oF7nD1ouMGZuw0/fGWDSy8ZKmd6Nfdph2D1lOLkbx/pphKrXSWv9VFUmYyhcqab+vwvpvtFSShiqjlZOmU+Vjsxjwj4DMcO2mpJ5SPC+tXg5JSK1nvshC+APhUdCJyH9Kl4KT6+yINPR6qAW3u4sn+6SSsMzLCSefVMxoPQ3Ov8P6oONDQ/9hJs2Mk=;8pAYZ+e/STwPj0wBG6k31A=="
+secured: "6L0e6SItJU3AqP1ynn+taliUjXDJP4R4cwqnrAc3GJrID/RCGu+pTFVknWPSVjub5o8NVbDTRjlOCwVqry9LHrpPMkbO3ctT6GbFDdjuOzpVxWI9+LcfeYTup9p3nx+JSVDrqKDorhBRrOH9T+JQzo1ftFMg3uCmMwm+PDcXwRP9uIV1w22ZFROhSzxyA7USOLI9wC0YrUtVzJKjKmpnR5l2nFIlpkt569DaXNPKz6l9pZyq4zFKxKTyo9X61DMJM9VOlRzt2Is3ip2e2VFccGRA5oyptcB70/fzK9hMuW3uhfZsMXXine/Dw2GxFKQeJVwGCPHIc2qzdHuxS6GXedWj2uIXzJVZSA6GaRppG2M=;T+YQbrnvX+LftQ8XpJ++tg=="
 ---
 

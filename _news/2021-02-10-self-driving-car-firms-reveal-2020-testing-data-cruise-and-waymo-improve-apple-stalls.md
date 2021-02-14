@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-c
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://www.actuia.com/wp-content/uploads/2021/02/Voice-lab-datafunding.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Apple doubled California self-driving test miles in 2020, disengagement rate improves"
-    excerpt: "Each year, the California Department of Motor Vehicles publishes detailed information from the companies testing self-driving cars in the state. This year’s data has just been made public, and it reveals that Apple completed 18,"
-    publishedDateTime: 2021-02-09T20:47:00Z
-    webUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/"
-    ampWebUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 37
-    images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "Dj0itwRD3eMzIWEs5bal6F5WZ8Mwm4LyCmaWKa4f6NhTpGqDeQeb8ZzY1Rryw4xjJ2cnOPzdLWVNciypVliIVHPH0+U6fVLWE6IsBxEEZIrWSeFf8w1KYLWWEdNVZV7Rs7pwCXJQcatRUnsZsvjILxSrSQXtX5W7qn4wFQxvrUh+TxNPzxJ0cEQTGtMcAqlueHhlNm6v7PWH5x6CfxRwNNa4MCNJJocNKMYUuMGnk1nu8h5/lFT5nlxuITUAN/ZScBuGcC2lSSnCKVWvM725mOUQjPVDsJvGu6OdQZtFTtDSM0DQD2Xy/vpU4POPN3IiBgJ8xp7KYAYOZbyEZZW6vrLx1zoVyN7LMCW2tpg9fnA=;jK56JQzNBjTvJuj9htxs9g=="

@@ -71,22 +71,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Apple doubled California self-driving test miles in 2020, disengagement rate improves"
-    excerpt: "Each year, the California Department of Motor Vehicles publishes detailed information from the companies testing self-driving cars in the state. This year’s data has just been made public, and it reveals that Apple completed 18,"
-    publishedDateTime: 2021-02-09T20:47:00Z
-    webUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/"
-    ampWebUrl: "https://9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/09/apple-doubled-california-self-driving-test-miles-in-2020-disengagement-rate-improves/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 37
-    images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "jsJrZzNKS03nIXzGKX+tFamFZmxAU4hJz3IQQXi23XJemrofxMdDY/IRKRF4sYkfUP5XgceYXy+RHnGNc+B0149gv9pwkSYQ8tNj0XAbYzN8b+sXtJoU1YaIB9Cf4htMWUfqa8nJ/Jmb6SUtqEmJrZkmO91SnFNUoHynZZffJNxYEufHjOTWzmzxzZWThXu0lJ6FvWvtES2+e+09GT9ifb0suP9h9MZx/NRSIepqr6+et2LO1f3+Vtv5uLU5FfzyQRhMtcadJ06GV9u5dUZordpN6IoBaMdl7S1fEaP6YfRDA+sNVxr4iRrUwHjgqbwRxDiplFQBskrXUMxULg6LZjO7PqedSQzjzgEsC3LL/sEQHHzSoJt018sUqTvLE+xpmz6NepkOXTnckjI4Y+lIlT2re9zRU/MrwoYNQ2PK2LN0osKvmZtJkrbyIqOyrYHgSE1yw/nIYH1lSclMgq88DxqwOBxTx2ekXHEcjMYCxBAVTTqqfG0zlfwa9MkuZ0SRZPMD8QZo6YyfC18JjBcHDQ==;hsyxl7Iqut4Xq/pLHQ9Sxw=="
 ---

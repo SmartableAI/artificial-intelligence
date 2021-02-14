@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
 type: article
 quality: 103
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "BlackBerry's QNX to power Motional's driverless vehicle platform"
-    excerpt: "Auto manufacturers and software companies are working hand-in-hand to develop driverless systems. BlackBerry's latest news focuses on safety and performance. Compared with the automobiles roving ..."
-    publishedDateTime: 2021-02-09T20:31:00Z
-    webUrl: "https://www.techrepublic.com/article/blackberrys-qnx-to-power-motionals-driverless-vehicle-platform/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/blackberrys-qnx-to-power-motionals-driverless-vehicle-platform/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/blackberrys-qnx-to-power-motionals-driverless-vehicle-platform/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/08/096d3968-839a-48fd-950f-944803aa0fed/resize/1200x/ac6bd6b6768faefd0986dacbf590c522/gjp311.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Tesla Will Make Their Driverless Cars in Buffalo"
     excerpt: "Add 'driverless cars' to the list of things 'Made in Buffalo.' Cheerios, Oxford Pennants, Sahlen's hot dogs -- and artificial intelligence."
     publishedDateTime: 2021-02-11T19:21:00Z

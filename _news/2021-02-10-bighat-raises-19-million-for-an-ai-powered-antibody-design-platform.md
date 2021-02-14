@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Monte Carlo raises $25 million for AI that monitors data reliability"
-    excerpt: "Data reliability startup Monte Carlo has raised $25 million in venture capital, bringing its total raised to over $40 million."
-    publishedDateTime: 2021-02-09T21:00:00Z
-    webUrl: "https://venturebeat.com/2021/02/09/monte-carlo-raises-25-million-for-ai-that-monitors-data-reliability/"
-    ampWebUrl: "https://venturebeat.com/2021/02/09/monte-carlo-raises-25-million-for-ai-that-monitors-data-reliability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/monte-carlo-raises-25-million-for-ai-that-monitors-data-reliability/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Insightin Health raises $9.7 million for AI that uses big data to guide patients’ decisions"
     excerpt: "Insightin Health, which leverages big data analytics and AI to help guide health plan members, has raised $9.7 million."
     publishedDateTime: 2021-02-10T15:02:00Z

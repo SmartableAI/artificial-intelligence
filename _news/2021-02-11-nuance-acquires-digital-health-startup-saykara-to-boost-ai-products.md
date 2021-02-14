@@ -52,20 +52,6 @@ related:
         width: 782
         height: 446
         isCached: true
-  - title: "Nuance buys AI voice assistant startup Saykara"
-    excerpt: "Nuance Communications has acquired artificial-intelligence startup Saykara, Nuance said Monday. Seattle-based Saykara offers a mobile app that uses so-called \"ambient listening\" to automate clinical documentation for physicians—meaning the AI voice assistant \"listens\" in the background during a patient's visit with a physician and automatically documents notes in the electronic health record system."
-    publishedDateTime: 2021-02-09T19:22:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/nuance-buys-ai-voice-assistant-startup-saykara"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/doctor_parent_child_tablet_getty_resized_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "M5+1I1rra8N34gy/rub3xJBZ+j5W2ydq4ZqSdf+JWwarFTCZ+KXIpt/z81fGY/KKFPuwYh8/WWUfgSnUC1qSc9IHUhc4qpebf1spPwPJvFiqMaC1QQNnt7ThcOdqLGwB+5FA3hWOecnHDJa84BRoVGCiN48uKugilvjJraNM+DZwnJ5WnD2m0KpwIZUmHzRgy3Uq3WK/3hhIli37fPx8+ZCK6bwTzdpb0L2/mVUEbZQl9LvuI/I85ZFSU1f2SCjBY4sl5GqTBY35JIC3eF2Y84veLpIfrh+h1Car8pLxGG1ry5NoiY0TGNKDWZAOwbnSd/2F7zHOhnPwtzdOebqxG18fiwXShsBqLb2ea1ZwJqwIbM5M4cDrWKaVeqRr1xicyzoSBqmx/OedJ3kEb/Z/MuTvVX/Sw+3wni68uuimu+hmsfwcqRnz9j9Tlg9C2YRVARjTCcTPfIc1azbdXNUUDndF5gpBnNU5A7G+ajLPH2DtrVik2sI5noXriciHaURvvFIVUqKfFmjAnwlSHDuavA==;GpD49nP6wraq69UKgfCSZw=="
 ---

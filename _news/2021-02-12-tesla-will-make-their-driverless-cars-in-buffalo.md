@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "BlackBerry's QNX to power Motional's driverless vehicle platform"
-    excerpt: "Auto manufacturers and software companies are working hand-in-hand to develop driverless systems. BlackBerry's latest news focuses on safety and performance. Compared with the automobiles roving ..."
-    publishedDateTime: 2021-02-09T20:31:00Z
-    webUrl: "https://www.techrepublic.com/article/blackberrys-qnx-to-power-motionals-driverless-vehicle-platform/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/blackberrys-qnx-to-power-motionals-driverless-vehicle-platform/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/blackberrys-qnx-to-power-motionals-driverless-vehicle-platform/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/08/096d3968-839a-48fd-950f-944803aa0fed/resize/1200x/ac6bd6b6768faefd0986dacbf590c522/gjp311.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Self-driving cars are among us but drivers beware"
     excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
     publishedDateTime: 2021-02-12T01:37:00Z
