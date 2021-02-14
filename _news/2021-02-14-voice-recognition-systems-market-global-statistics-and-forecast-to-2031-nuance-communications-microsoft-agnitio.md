@@ -1,36 +1,51 @@
 ---
 category: news
-title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
-excerpt: "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station."
-publishedDateTime: 2021-02-11T13:00:00Z
-originalUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/"
-webUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/"
-ampWebUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+title: "Voice Recognition Systems Market Global Statistics and Forecast to 2031| Nuance Communications, Microsoft, Agnitio"
+excerpt: "The global COVID-19 analysis on Voice Recognition Systems market has been driven by the range of its a wide area of sectors such as HealthCare, Military & Aerospace, Communications & Telephony, Automotive Industry,"
+publishedDateTime: 2021-02-14T13:46:00Z
+originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-global-statistics-and-forecast-to-2031-nuance-communications-microsoft-agnitio-2021-02-14"
+webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-global-statistics-and-forecast-to-2031-nuance-communications-microsoft-agnitio-2021-02-14"
 type: article
-quality: 100
-heat: 280
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg"
-    width: 630
-    height: 464
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
+    excerpt: "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station."
+    publishedDateTime: 2021-02-11T13:00:00Z
+    webUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/"
+    ampWebUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 100
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg"
+        width: 630
+        height: 464
+        isCached: true
   - title: "Microsoft and Volkswagen will collaborate on self-driving car software"
     excerpt: "VW plans to use Microsoft's expertise to build a cloud-based platform for future autonomous technologies and driver-assist systems."
     publishedDateTime: 2021-02-11T15:22:00Z
@@ -205,20 +220,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Voice Recognition Systems Market Global Statistics and Forecast to 2031| Nuance Communications, Microsoft, Agnitio"
-    excerpt: "The global COVID-19 analysis on Voice Recognition Systems market has been driven by the range of its a wide area of sectors such as HealthCare, Military & Aerospace, Communications & Telephony, Automotive Industry,"
-    publishedDateTime: 2021-02-14T13:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-global-statistics-and-forecast-to-2031-nuance-communications-microsoft-agnitio-2021-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station"
     excerpt: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station . Among the cargo to be launched into"
     publishedDateTime: 2021-02-11T16:27:00Z
@@ -294,6 +295,6 @@ related:
         height: 419
         isCached: true
 
-secured: "KRzhWf02pwynfoqA8jj7RcSEjItnARM5N7qQyBgu0Gj3cVrY86PEg479SGXtFWjVKA/QhltCmD+al+fZx2NjLyNbI8iiJ3SmODYUXFub18RxZjouwUqxvAa2YuwlEwhOz12jA9YN8mz6sAroa61gzgNoXts1/LYknGEXcve6OEa1YtZ6S6SqD+dx2EoyYxhKIKa5HAmfb05FirS2QWEOgukI8eE8T44ExAM1gFBlyyqLNkF0EKWI5ry6eSP+l/yOfMdWZrLFJ4+lM725sBRAZQGKDpM66QG6TOU89l0WWnOx+UUka0uOsh7GFFInbMsHkbbHnCFGPg/kvMpDad2+1oqaBRTf2KOF92Kxh2FlRRDkmpdOVxW7GTOVRjUWrgubQi+8Ljwt10YsQd70E4f8WIJXoK8LESxcUNO84DWavHaWDG2OXBSAP2KS4MQl18d1c3Wljazx68h15lO+6SqoCpAXHM8+xIgEi/mDZkBQMtLlpT+byaHZqUnmne/wa/zqxqe1/qHlS5bF49GmtSUe2g==;cXQGvKTZxBd0m6zJeusnxw=="
+secured: "/HMEi9s4Jc1nWepTW9QVSUvUOwbm5NJf+3Odxz1EaRnjHrIVG+qGwO8XmJtVAFcFHe5ts4NC5eQUMyHkzSaN7FfHknmX+xB/y3/0kLpDK3aeIPX9v10VF+oLbgoWPO87TU/7xSGfXAYaRwrdYuLeW7I4hO3yujoQgtZ8h7w7vPv0SPTGzO2GyC5PpzTnsahlCzCuEWGqaFFjQNqrjbt/pNv/5XVtJL59pqDEbHAjWxuqutf6DmsE0jdYzS3pApc0eBRICAr+4uJnoVc4lI7f0Ji077lzM0kULCuUiuOvB1Hos4YFJ5VzCsb/Gdc3M7CSzPAdUAs3ysfE/65lxghDsSuWND6reo9c8tanqWbSDnU=;yXrnrVKwtCxj7QlEM+2Tfw=="
 ---
 

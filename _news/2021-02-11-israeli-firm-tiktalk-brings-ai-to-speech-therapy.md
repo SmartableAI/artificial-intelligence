@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-firm-tiktalk-brings-ai-to-spe
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-firm-tiktalk-brings-ai-to-speech-therapy-658629/amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Investors plant Seed: 2 Israeli startups emerge with AI at their core"
+    excerpt: "NeaReality looks to introduce its AI compute at scale platform sometime this year; and DigitalOwl wants AI to analyze medical records to simplify the insurance claim"
+    publishedDateTime: 2021-02-14T14:17:00Z
+    webUrl: "https://www.geektime.com/investors-plant-seed-2-israeli-startups-emerge-to/"
+    ampWebUrl: "https://www.geektime.com/investors-plant-seed-2-israeli-startups-emerge-to/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/investors-plant-seed-2-israeli-startups-emerge-to/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 59
+    images:
+      - url: "https://www.geektime.com/content/images/2021/02/DigitalOwl-1613040399-768x553.jpg"
+        width: 768
+        height: 553
+        isCached: true
   - title: "Israeli start-up focusing on AI-based solutions secures $8m. in seed"
     excerpt: "\"Our mission is to deliver AI users best in class system performance while significantly reducing cost and power,” said Founder and CEO of NeuReality Moshe Tanach."
     publishedDateTime: 2021-02-14T07:20:00Z

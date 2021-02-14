@@ -3,10 +3,10 @@ category: news
 title: "New AI technique allows robots to detect human touch by analyzing shadows"
 excerpt: "Scientists from Cornell University say the method provides a low-cost way for robots to identify physical interactions with humans."
 publishedDateTime: 2021-02-11T20:13:00Z
-originalUrl: "https://thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/"
-webUrl: "https://thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/"
-ampWebUrl: "https://thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/amp/"
+originalUrl: "https://thenextweb.com/neural/2021/02/11/ai-robots-detect-human-touch-analyzing-shadows/"
+webUrl: "https://thenextweb.com/neural/2021/02/11/ai-robots-detect-human-touch-analyzing-shadows/"
+ampWebUrl: "https://thenextweb.com/neural/2021/02/11/ai-robots-detect-human-touch-analyzing-shadows/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/ai-robots-detect-human-touch-analyzing-shadows/amp/"
 type: article
 quality: 86
 heat: 96
@@ -45,6 +45,6 @@ related:
         height: 486
         isCached: true
 
-secured: "l5dphvPvfapza7ibetmTYlE1iv2hCCZtiZYylp4YU+QQDDOu4VnJo35k+I3duVBLy7H9GUifyySQvOELLCk1ltkmtJiVF/XBlChu6cKI9ncHDy7t/+u2HFE9egmq1K/e0+6emM7yoywQo/6NGw5Kj17GyMpN3kVDbasawqNvk3/3B9pb1LefFDHqv399qys7jo05aEYXw356TFxgrAvf8+PjU3Fz6eF7RQxn+efMEl9BPIUqvnwGpqeWyTBeGU5gnVOYWb8SG7WaMDP1TaOjqTb6Fyg9rXEihDjrQ4/OzYuYkPZpgLO7GPuH3sqQtCngozBw8ZrCOq/CAud1CYr1Biw5w4ZgmYGIvlUofDBbkheearwggVI6uGCMvkXVZj+tT7FaDBOs92JLzwa/b+DdHe+AkE/pgG5zlO3Ac2EX6UhHQSXb2arfcHoq7HJwZ9O72V2tKhh94wAF9GW0tq+4aSh2kxhFQevzFcEInNNW9XYAZjTyu4WNQ0wc32nXj44V2SIpHZsebr3MQsmeV1mgLg==;jgRl5SxwMWREPjJmZ+RuDQ=="
+secured: "ASYKX4fZ2P8aJq9XgLQdQk+Wg1HhvmEmgrZ65oc2ROjVm5cPOkaLBf/kqH1NXvRlPvfU88Z/e4t4N0YmH3LEVZqwp5m2PSdDuCsGXUxXzpldKB10VusFZzkZmwW0TZEBNeS0ULFiCs3Oy5lop9KXAbexR70eGfkPYO3KNrn7QD6aVv5gxL5SUfIEm5xd6KlTX2ClgSMWF50jVOW4Y1mhn9rJ0xvcpGi9myVrsWwB2Sj4Cvj+IQpXPIAs5SpGlHzJwmeQVhYGmVrlY6utZQ/fs8GsaNdFkCJXf9G6zE+EJt3kh0KDPOiEfup6HmnSEGSJH8RopP7LXk9jcGBQtvBugtyh6uTCb8l4Eo7O1dCYaXM=;7KW8AtuSKGm3DzeDTu0HCA=="
 ---
 

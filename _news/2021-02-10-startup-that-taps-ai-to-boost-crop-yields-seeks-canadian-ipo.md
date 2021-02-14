@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-02-09/farmers-edge-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup that Taps AI to Boost Crop Yields Files for Canadian IPO"
-    excerpt: "(Bloomberg) --Farmers Edge Inc., a firm that uses artificial intelligence to help growers boost crop yields, filed documents with regulators to sell shares in an initial public offering in Canada. The Winnipeg, Manitoba-based company plans to sell shares ..."
-    publishedDateTime: 2021-02-09T21:15:00Z
-    webUrl: "https://www.bloombergquint.com/onweb/farmers-edge-files-papers-for-initial-public-offering-in-canada"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Startup that Uses AI and Partners with Re/insurers, Now Is Seeking Canadian IPO"
     excerpt: "Farmers Edge Inc., a firm that uses artificial intelligence to help growers boost crop yields, is seeking to raise about C$100 million ($79 million) in an"
     publishedDateTime: 2021-02-10T14:09:00Z

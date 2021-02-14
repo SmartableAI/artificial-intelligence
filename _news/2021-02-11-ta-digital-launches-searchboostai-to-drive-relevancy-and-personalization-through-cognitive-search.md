@@ -137,20 +137,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The AI revolution is happening now"
-    excerpt: "The AI revolution is advancing faster than anyone anticipated. This year, the market for AI chips reached $5 billion and expected to be $10 billion by 2022. Among the most promising projects are driverless cars,"
-    publishedDateTime: 2021-02-09T21:37:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267789289/the-ai-revolution-is-happening-now"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1612694376629.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Dahua faces scrutiny over its facial recognition software"
     excerpt: "Just three months after being placed on a government blacklist that bans U.S. companies and individuals from investing in the company, Chinese surveillance giant Dahua has once again drawn the ire of federal officials following a report that it has developed intentionally discriminatory analytics software."
     publishedDateTime: 2021-02-11T22:37:00Z

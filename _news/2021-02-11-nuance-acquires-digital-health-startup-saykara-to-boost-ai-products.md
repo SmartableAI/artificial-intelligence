@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nuance acquires Saykara to build out healthcare AI tools"
-    excerpt: "Nuance Communications has acquired Saykara, a startup that developed an artificial intelligence-powered physician assistant tool. The deal will help Nuance boost its capabilities in healthcare AI."
-    publishedDateTime: 2021-02-09T21:42:00Z
-    webUrl: "https://www.fiercehealthcare.com/practices/nuance-acquires-saykara-to-expand-healthcare-ai-products"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 54
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1612903666/GettyImages-998453918.jpg/GettyImages-998453918.jpg?khEcoran3IgdXbq8BJU0P4MeH2sP.Nbd"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "Nuance buys healthcare voice assistant startup Saykara"
     excerpt: "Nuance Communications acquired Saykara, a startup building a medical AI voice assistant to help with charting and other administrative tasks. The deal is expected to build on Nuance's speech recognition tools for physicians."
     publishedDateTime: 2021-02-10T02:44:00Z

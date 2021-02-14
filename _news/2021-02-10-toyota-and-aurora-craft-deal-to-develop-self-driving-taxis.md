@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota, Denso team with Aurora on self-driving cars for Uber, others"
-    excerpt: "Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks, the companies said on Tuesday."
-    publishedDateTime: 2021-02-09T22:05:00Z
-    webUrl: "https://www.reuters.com/article/ctech-us-autos-autonomous-toyota-idCAKBN2A92G0-OCATC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2A92G0-OCATC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2A92G0-OCATC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550913326&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181IR"
-        width: 781
-        height: 545
-        isCached: true
   - title: "Aurora Partners With Toyota on Self-Driving Sienna Taxis"
     excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
     publishedDateTime: 2021-02-11T14:03:00Z

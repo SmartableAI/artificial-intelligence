@@ -148,20 +148,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "The AI revolution is happening now"
-    excerpt: "The AI revolution is advancing faster than anyone anticipated. This year, the market for AI chips reached $5 billion and expected to be $10 billion by 2022. Among the most promising projects are driverless cars,"
-    publishedDateTime: 2021-02-09T21:37:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267789289/the-ai-revolution-is-happening-now"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1612694376629.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Canada’s Privacy Commissioner Rules That Clearview AI Facial Recognition Software Violates Privacy Laws, Must Delete Biometrics From Its Database"
     excerpt: "Already unwelcome in parts of the US, Clearview AI has been shown the door in Canada. The controversial facial recognition company's practices are in violation of the country's privacy laws."
     publishedDateTime: 2021-02-12T16:00:00Z

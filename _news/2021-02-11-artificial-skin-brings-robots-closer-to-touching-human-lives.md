@@ -28,9 +28,9 @@ related:
   - title: "New AI technique allows robots to detect human touch by analyzing shadows"
     excerpt: "Scientists from Cornell University say the method provides a low-cost way for robots to identify physical interactions with humans."
     publishedDateTime: 2021-02-11T20:13:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows/amp/"
+    webUrl: "https://thenextweb.com/neural/2021/02/11/ai-robots-detect-human-touch-analyzing-shadows/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/11/ai-robots-detect-human-touch-analyzing-shadows/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/ai-robots-detect-human-touch-analyzing-shadows/amp/"
     type: article
     provider:
       name: The Next Web

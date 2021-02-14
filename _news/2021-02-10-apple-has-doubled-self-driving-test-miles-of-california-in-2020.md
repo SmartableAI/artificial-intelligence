@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Apple Doubles Mileage of Self-Driving Vehicles in 2020"
-    excerpt: "Apple over doubled the mileage of its self-driving vehicles last year, according to new data released by the California DMV. In 2019, Apple's autonomous vehicles drove 7,544 miles. This year that number has jumped to 18,"
-    publishedDateTime: 2021-02-09T21:55:00Z
-    webUrl: "https://www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020"
-    ampWebUrl: "https://www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020/amp"
-    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/79640/apple-doubles-mileage-of-selfdriving-vehicles-in-2020/amp"
-    type: article
-    provider:
-      name: iClarified
-      domain: iclarified.com
-    quality: 44
-    images:
-      - url: "https://www.iclarified.com/images/news/79640/79640/79640-640.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "Help Arlington name it’s new self-driving vehicle service"
     excerpt: "Arlington is calling for the community’s help to name the city’s new fleet of self-driving vehicles. In March, five autonomous shuttles will be"
     publishedDateTime: 2021-02-12T15:25:00Z
