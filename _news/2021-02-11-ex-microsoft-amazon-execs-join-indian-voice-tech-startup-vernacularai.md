@@ -3,8 +3,8 @@ category: news
 title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
 excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
 publishedDateTime: 2021-02-11T12:08:00Z
-originalUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673952"
-webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673952"
+originalUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai"
+webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai"
 type: article
 quality: 64
 heat: -1
@@ -74,9 +74,9 @@ related:
   - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
     excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
     publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
     type: article
     provider:
       name: Reuters
@@ -293,6 +293,6 @@ related:
         height: 419
         isCached: true
 
-secured: "Jcpvigq20k57TALuHrFPUYtmH2lig7CDysxPsD2mZHZeYzgwQU4wl6mKFfK/4qtwT7Z9o0PyIYHUPMTWC4OW2CTNfC815JMwAII4WsGYW9a8qhx6UqE0k/KtpGakRs4ntbV6LgG+j5G77D+l4XyL+fX3L4ufg+BJP8UAZcEs+8cPGBxExaJbXyHhj4sbwvbTJE2TGoaxgaSEqjV/KUJBnyZl3Ijlk2lbf3hwzI0ZnWB5Hiq0WVT6wEMrUj0i7QtyXtk6N/vNddUNzPs59VVwSjo8mk5gyhpJSnYWcZR2XqTOxQtWOjdofqVMn9xwEThTM1kaQJyJYy7MMEhrYNics87UtWsRumk+a0okO2hp3udf3Ozymik5cxFZ+VtbQhRz2+2oA0rvsQB6gtkihpFg7aXGI2W/CGvpMQh4h5a3dh6OBKvjYG2iW/6TpkjYz0Ii9yxfu7xLS3VkrhVE5T5LqY1Swb53IoRxrtWjQPx2FY2una5/cPowQx49OziK8RWReBFOzD89uvxvdgBgjMO6YA==;lNVKd1djGbvZCUKhIXXksA=="
+secured: "64JNXhE7FPy1qTjZzWfVG8Yzl0l5wcXP8/cyspCSmTdE2V+3j7TW5m/ynXUMlX+Ys3Wp/1Y3q6FcPUmMdKuLwVbe9wJubEZfMEdQi+GsQHBIQipijB7nmQi2GfdH1Moxw/RqiHdO/p+y1/s8UATpBzpZ2KusAx47NjXMj5jcRRr2nL2LobQxqVr8zGfZNLcoGkPq/OBakZswg9Ap82HmHaG8YwNnhsuUAJIQw1TUr/tN//rRrgI3pUQ0mU0Z8BFP3RGuT4PUdSnvzArdbupx0dMHcGupLNt7OOYavX/CCRxU+Hl+axELfNfFbHe3YV9y7/F/bUcfR2SNh+oOQH83L8Z2Gg7pXyT/iXKAAviPzPMm9adgR1oFDx2c6jqIoWHEDGwl1ayYn7AR3MQa7nezm87OrZvNLL8G2NdCgZGtcsI9ipHY5UaMTnzQS1Ye4qpmnDeMCqPoIKUjlYhkQGFfN4ZmNuxs7WKqR6heBwr+vielBzboPxygwRvR2nRUZbqO3cA6eoq/xX7ZtgviyWDQkg==;kNSfA40CQhroZVUOSoZkDA=="
 ---
 

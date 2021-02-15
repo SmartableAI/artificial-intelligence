@@ -28,7 +28,7 @@ related:
   - title: "RNA secondary structure prediction using deep learning with thermodynamic integration"
     excerpt: "Accurately predicting the secondary structure of non-coding RNAs can help unravel their function. Here the authors propose a method integrating thermodynamic information and deep learning to improve the robustness of RNA secondary structure prediction compared to several existing algorithms."
     publishedDateTime: 2021-02-11T00:00:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-21194-4?error=cookies_not_supported&code=bdb35eb9-9fda-494c-a130-3313d1ef3803"
+    webUrl: "https://www.nature.com/articles/s41467-021-21194-4?error=cookies_not_supported&code=5ad0b75f-6eaa-478a-b074-3bb1f41d58b2"
     type: article
     provider:
       name: Nature

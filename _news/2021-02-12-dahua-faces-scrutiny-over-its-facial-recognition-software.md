@@ -148,6 +148,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
+  - title: "CBP facial recognition technology fails to find anyone using false identities at airports"
+    excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
+    publishedDateTime: 2021-02-15T03:01:00Z
+    webUrl: "https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 45
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/cbpfacialrecognition.jpg"
+        width: 1097
+        height: 700
+        isCached: true
   - title: "Canada’s Privacy Commissioner Rules That Clearview AI Facial Recognition Software Violates Privacy Laws, Must Delete Biometrics From Its Database"
     excerpt: "Already unwelcome in parts of the US, Clearview AI has been shown the door in Canada. The controversial facial recognition company's practices are in violation of the country's privacy laws."
     publishedDateTime: 2021-02-12T16:00:00Z

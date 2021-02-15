@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "This cutting-edge cloud-computing service is helping doctors track COVID's spread"
-    excerpt: "As computational science and data science are becoming closer than ever, a deal with Microsoft could see Verily and Broad Institute's open-source cloud platform hit new users."
-    publishedDateTime: 2021-02-10T11:17:00Z
-    webUrl: "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/"
+  - title: "That is now edge computing – GCN"
+    excerpt: "That is now edge computing - GCN . That is now edge computing Astronauts on the International Space Station will soon receive an HPE"
+    publishedDateTime: 2021-02-13T02:07:00Z
+    webUrl: "https://www.compsmag.com/news/pc/that-is-now-edge-computing-gcn/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/that-is-now-edge-computing-gcn/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/that-is-now-edge-computing-gcn/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
+      name: Windows
+      domain: compsmag.com
+    quality: 44
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/02/09/fe1c2228-aa05-4e10-84f1-3a64d1d5e0d1/istock-1214075704.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "This cutting-edge cloud-computing service is helping researchers track COVID's spread"
-    excerpt: "As computational science and data science are becoming closer than ever, a deal with Microsoft could see Verily and Broad Institute's open-source cloud platform hit new users."
-    publishedDateTime: 2021-02-10T11:40:00Z
-    webUrl: "https://www.zdnet.com/article/this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-cutting-edge-cloud-computing-service-is-helping-researchers-track-covids-spread/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/02/09/fe1c2228-aa05-4e10-84f1-3a64d1d5e0d1/istock-1214075704.jpg"
-        width: 1254
-        height: 836
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/That-is-now-edge-computing-GCN.png"
+        width: 620
+        height: 300
         isCached: true
   - title: "Now that’s edge computing"
     excerpt: "Astronauts at the International Space Station will soon be getting a high-performance computer that will connect them to Microsoft’s Azure cloud."

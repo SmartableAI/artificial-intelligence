@@ -68,22 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "Baidu in negotiations to raise funds to start AI chip company"
-    excerpt: "Chinese tech giant Baidu is in talks to raise money to start its own standalone artificial intelligence semiconductor chip company."
-    publishedDateTime: 2021-02-10T12:05:00Z
-    webUrl: "https://www.sharecast.com/news/international-companies/baidu-negotiations-raise-funds-start-ai-chip-company--7809548.html"
-    ampWebUrl: "https://www.sharecast.com/amp/news/international-companies/baidu-negotiations-raise-funds-start-ai-chip-company--7809548.html"
-    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/international-companies/baidu-negotiations-raise-funds-start-ai-chip-company--7809548.html"
-    type: article
-    provider:
-      name: Sharecast
-      domain: sharecast.com
-    quality: 74
-    images:
-      - url: "https://img1.s3wfg.com/web/img/images_uploaded/e/8/baidu-poursuit-son-declin.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Chinese tech giant Baidu is reportedly planning to launch an AI chip company"
     excerpt: "Chinese tech giant Baidu is reportedly planning to launch an AI chip company Baidu is reportedly planning to launch a subsidiary AI chip"
     publishedDateTime: 2021-02-11T05:25:00Z
@@ -100,17 +84,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Baidu seeks investments for AI chip company"
-    excerpt: "Baidu (BIDU)is talking with venture capital firms GGVand IDGCapital about funding a stand-alone AIsemiconductor company that would sell to a variety of industries, including automotive"
-    publishedDateTime: 2021-02-10T12:49:00Z
-    webUrl: "https://seekingalpha.com/news/3660475-baidu-seeks-investments-for-ai-chip-company"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3660475-baidu-seeks-investments-for-ai-chip-company"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3660475-baidu-seeks-investments-for-ai-chip-company"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
 
 secured: "Sc+qal3d39xbH29MtBqpmF9T5LgWJA9Zb7N/VQLgubj7Ukb+r6XsAgviP86gRQuVyqWzf7v4f0Nhb+eaKykYX+hT8w/xrnnGqCpXPgG6sS9kYbI4P0ZE5iTt/L1MmqNSwIiZ2N00dDDphdhhLxAF0CkAxolJ4nPonzNoviZeLn3UeLXXLgRUFZSzjX/BsR7alOaj1Rsl7+f52kwEern9hJFW//i3Y2e8mOy021H8JcjIFHO29v4TBGK0S1isQrveN8KK6Wjxb9QDwqXjHPnUJWR2FS5b1mZku4+sAiJU42JhZ7qo2//oEBxmrHLO1jr4xbwAp5tzP20l9cF+1WIM3Mr+PdFcnsBFZX697Xox2aHLW6QDu1gxN/Kk1ms7jkMRnz5bbZdzEcrtVtpQT57bzO4uXltqRnKp/1aOjdxHFmzhtRN7TpiBtIGAizZuF/JTUQvdtDoTSm55IQx0XfIQXrivSez12H4u/qDDjr4dbf1qRQskrn7CjRwKf6+85H+Smt4K651Ifke3KfXeeob4BA==;UmShv1SDXEJCqAI11RmNIA=="
 ---

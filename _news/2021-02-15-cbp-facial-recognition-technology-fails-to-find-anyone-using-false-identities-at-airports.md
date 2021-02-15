@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Rising face of facial recognition technology"
-excerpt: "Rising face of facial recognition technology Chennai: In the 1960s, Star Trek dazzled audiences by showcasing retina scans and facial"
-publishedDateTime: 2021-02-14T08:51:00Z
-originalUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/"
-webUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/"
-ampWebUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
+title: "CBP facial recognition technology fails to find anyone using false identities at airports"
+excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
+publishedDateTime: 2021-02-15T03:01:00Z
+originalUrl: "https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/"
+webUrl: "https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/"
 type: article
-quality: 59
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Rising-face-of-facial-recognition-technology.gif"
-    width: 620
-    height: 414
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/cbpfacialrecognition.jpg"
+    width: 1097
+    height: 700
     isCached: true
 
 related:
@@ -107,6 +105,22 @@ related:
         width: 1024
         height: 718
         isCached: true
+  - title: "Rising face of facial recognition technology"
+    excerpt: "Rising face of facial recognition technology Chennai: In the 1960s, Star Trek dazzled audiences by showcasing retina scans and facial"
+    publishedDateTime: 2021-02-14T08:51:00Z
+    webUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Rising-face-of-facial-recognition-technology.gif"
+        width: 620
+        height: 414
+        isCached: true
   - title: "Minneapolis City Council votes to bar use of facial recognition technology"
     excerpt: "On Friday, the Minneapolis City Council approved a new ordinance that prohibits the city from buying facial recognition technology or using data derived from it, with very narrow"
     publishedDateTime: 2021-02-12T17:21:00Z
@@ -134,20 +148,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "CBP facial recognition technology fails to find anyone using false identities at airports"
-    excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
-    publishedDateTime: 2021-02-15T03:01:00Z
-    webUrl: "https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/cbpfacialrecognition.jpg"
-        width: 1097
-        height: 700
-        isCached: true
   - title: "Dahua faces scrutiny over its facial recognition software"
     excerpt: "Just three months after being placed on a government blacklist that bans U.S. companies and individuals from investing in the company, Chinese surveillance giant Dahua has once again drawn the ire of federal officials following a report that it has developed intentionally discriminatory analytics software."
     publishedDateTime: 2021-02-11T22:37:00Z
@@ -238,6 +238,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "6GqSpyNQa+Ev/FyT8N3QyyNa9s4URzHRrwiCrPd2gjaqxlzh51/6Ss823ykjqL7/dav9kDh8BEpEgzkuOreTQVFSdxl0XBMfwt4nc5s2JQIQ0/+pYhAp6WXlFMaA3lDPCKrPLm9tMBlTtxqdNyjRk4NuU5vS0yOSdmb47zyWSphbw4ivj12WuBUvQdDxU4cdcGIlWG9tXcgy99K5VUgo+sJAGBnbiNGHYWjykDv74XQUkfzNeucHeKDWB1JilECS2GKyr1dojJAt/BEH/PxeMlWw7Je7OjPWv1UFo31LnaHXqQ5kZbqmJLTCdF2vMecQ0VwPIqyNKJ29xJWKdm2ShO7dD5yaAvAkZcztVkWPDcNqebmghxwKlrHLBIFGmDqV4lciOkgbI7OXi7pmcgDazQ8WAPEb0mkmQOl2mnTKujRzNujMna/g6txRDVwFra0CJxezlLoyLlTq3nsxIhGlXDlKhjWpLGef9XPc6h7gF1g5TFjsgaD4U09YX4mjE3fyVqr3oZGj6c1GGwcYYT9Pkw==;s5r2AmrPCedplPGh3Xkxfw=="
+secured: "oRtAgAfvymRFjj87tSFvqDNzcPeQF1Ssl+WcgOz7nmD3H0uOO2r7wJqhOgLtBY0z3Y42EBQ7DpwOqspJY17B18+unpFLvGvCstbNq20q52SZAagy0c9O3U/4yZQtsCJQNQq9+DjzMnaBhS48MZjoUQieElQDvNQckpxLHk7x8NDDwm37RgPNg+uMlWQnuxv5sWp5t4cNYzSKAx/pcaCk86wZ/tv0vVA1EOwSKfambRDuUhaDzryZ8uUOiUTfOdUJQzC4CkXGN8ieEFVzxsB9X7A6uofaZSF6HevbSINRXBagQNlw2PV/wLvjWmRCr+n6RCJwgE92PpkNL6GbdJ9gLz202yBW3JcjzomSjytqlzE=;JjeE/N+kPNRw5M74Z9qE0w=="
 ---
 

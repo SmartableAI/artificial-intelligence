@@ -9,8 +9,8 @@ ampWebUrl: "https://m.freepressjournal.in/article/mumbai/mumbai-csmia-bags-voice
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/mumbai-csmia-bags-voice-of-the-customer-recognition-by-airports-council-international/9fade8f7-7100-4dc9-97df-a0620e229761"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: The Free Press Journal
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mumbai Chhatrapati Shivaji Maharaj Airport achieves ACI ‘The Voice of the Customer’ recognition"
-    excerpt: "The accolade demonstrates the efforts of the airport in gathering passenger feedback to better understand their needs and preferences during the COVID-19 pandemic."
-    publishedDateTime: 2021-02-10T12:07:00Z
-    webUrl: "https://www.moodiedavittreport.com/mumbai-chhatrapati-shivaji-maharaj-airport-achieves-aci-the-voice-of-the-customer-recognition/"
-    type: article
-    provider:
-      name: Herve Bouillonnec
-      domain: moodiedavittreport.com
-    quality: 27
-    images:
-      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
-        width: 280
-        height: 280
-        isCached: true
   - title: "CSMIA Bags ‘Voice of the Customer’ Recognition by ACI"
     excerpt: "CSMIA has been awarded \"The Voice of the Customer\" recognition by Airports Council International (ACI), demonstrating the efforts of the airport in gathering passenger feedback to better understand their needs and preferences during the pandemic."
     publishedDateTime: 2021-02-10T19:48:00Z

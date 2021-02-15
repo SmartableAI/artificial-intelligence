@@ -7,7 +7,7 @@ originalUrl: "https://www.thesundaily.my/business/thriving-in-the-new-normal-wit
 webUrl: "https://www.thesundaily.my/business/thriving-in-the-new-normal-with-cloud-and-artificial-intelligence-JA6705568"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,61 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Using AI And Machine Learning To Break Past The Constraints Of The 'New Normal'"
-    excerpt: "Getting started with AI and machine learning is becoming increasingly accessible for organizations of all sizes."
-    publishedDateTime: 2021-02-10T12:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 102
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial Intelligence to Improve the Shipping Industry’s Efficiency"
-    excerpt: "Efforts are progressing to harness emerging technologies to improve the efficiency of shipping operations. Japan’s K. Lines announced that it is expanding its efforts with artificial intelligence to achieve greater efficiency with routing which will also contribute to lower emissions from their ships."
-    publishedDateTime: 2021-02-10T22:41:00Z
-    webUrl: "https://maritime-executive.com/article/artificial-intelligence-to-improve-the-shipping-industry-s-efficiency"
-    type: article
-    provider:
-      name: Maritime Executive
-      domain: maritime-executive.com
-    quality: 37
-    images:
-      - url: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Brasil-Maru.dfa5aa.jpg"
-        width: 643
-        height: 361
-        isCached: true
-  - title: "How Britain is supercharging the UAE's artificial intelligence ambitions"
-    excerpt: "Artificial intelligence (AI) partnerships and investments are likely to increase significantly between the UK and the UAE in the coming years, according to officials. Britain is set to ramp up its partnerships with Gulf nations on the use of AI in multiple sectors including education,"
-    publishedDateTime: 2021-02-11T06:33:00Z
-    webUrl: "https://www.arabianbusiness.com/technology/458487-how-britain-is-supercharging-the-uaes-artificial-intelligence-ambitions"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 37
-  - title: "Talview is the First AI-led Video Interviewing and Proctoring Company to Attain WCAG 2.0 Compliance, Ensuring Accessibility for All Talent"
-    excerpt: "Award-winning recruitment and proctoring software leader, Talview, recognizes that organizations, candidates, and students rely on the company to level the playing field for talent applying for openings or taking tests using Talview,"
-    publishedDateTime: 2021-02-11T05:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-51341a1893acab3a090876ebebb0513e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "+kFu8ay3FnnTUq+z9Y+wq7fRKx17x9AQq+vNA/e0IoDZjtgKaJwgb9JGNn1Qr2iRxIQ9Sh580QxC95AYvnKTCDkHE4h/6VfdYsOH7ywUqAzaQE3p0vEAqjgFWtQVnEmVRyce9ob4MB5l82Mr/Sa1ow4c2O5gzjcH2cPqZp3Am+BALjVaYCl5GwVTRpwm3ae//Ep8V5bhqtB9eP2vmfnmpfSbfU+VBcIQvIS7/Ym4pO/7QnQVq2gaSZ/UIp9u+GMeDwhNWTZp9t3ntpeNgmB3glYjFVP1C0GCywlzf75MIa/GUiEJnTFjIujqK2LLY+7LGC30HAV/daNsDXkNJU4fC6tQwOYn/27jruQ0BH1p5AA=;fhJeM3wtviAYLqqoFCk+YQ=="
+secured: "69k9Uak2bmudNvSyzOMsAZV4yFRvWgOaP/Lzk+7sRlmoJBaJWQXHTF94zFVhxcKCF52SX8tGoN6c3SaNX9u44S1MThfkLQMl4/tMzg9BQOStgbOwgFA/0cgYs3sJ9pBuEyg4CFs0aYrzvK7B2dpxL0RFtq5cCV6tXGUIoPc7pf7HmstJtCA9t3qUGvmgBcmz4J1UzBtlnthig1vprxLHZZYm6+cbu2XY4BMQ6yhkTUcNsIWiFADBRwMn3OyAPbMgNnPAiQb3oMJqX8ZwGMivuOOkN5GiwVukCgUSEEHNpveglL26Pa6bK/x6sTaqW+B3grIUsZBjt8fUcOjYF4G8J2fNVf1hkMh4QXDEAZ5hENroDACg/WMcs0xpBEFgWEhHp0ilxNr5v2aAsPMaSLsCIBS8zyz6d5MU32vTWEKSZgwvF7iIHxBnJBfXdzTJlzOHLdwR46hziVYhqdbsPlqENqE+xJIQP0WRVIxSGAlKJveiuuOGEvtO2IOt7FxpNLuMKf5wEGvG7lGOcxCenzM8DQ==;MUXOnFjdGtYpJRwrdPUkWg=="
 ---
 

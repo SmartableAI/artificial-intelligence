@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-01-28-nerdio-launches-the-definitive-wvd-product-for-msps-offers-savings-of-up-to-75-of-azure-costs.md",
+      "title": "Nerdio Launches the Definitive WVD Product for MSPs – Offers Savings of Up to 75% of Azure Costs",
+      "excerpt": "Tenant Azure Virtual Desktop Deployment, Management, and Optimization to the Channel for MSPsCHICAGO--(BUSINESS WIRE)--Nerdio, the definitive Azure deployment, management and optimization solution for Managed Service Providers (MSPs) and enterprise IT professionals,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=412427",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=412427",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/29/mark/20210129882520.jpg",
+          "width": 580,
+          "height": 327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank.md",
       "title": "Stilt, a financial services provider for immigrants, raises $100 million debt facility from Silicon Valley Bank",
       "excerpt": "Stilt, a provider of financial services for immigrants in the United States, announced today it has raised a $100 million warehouse facility from Silicon Valley Bank for lending to its customers. This brings Stilt’s total debt facilities so far to $225 million,",
@@ -1165,49 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-the-role-artificial-intelligence-is-playing-in-the-healthcare-sector.md",
-      "title": "The Role Artificial Intelligence is Playing In the Healthcare Sector",
-      "excerpt": "With modern technology making business operations convenient, fraudsters are also banking on advanced technology for their illicit activities. Cybercriminals are now targeting the healthcare sector for their illegal gains.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
-      "originalUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/01/Healthcare-Sector.jpg",
-          "width": 1600,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/",
-      "publishedDateTime": "2021-01-27T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

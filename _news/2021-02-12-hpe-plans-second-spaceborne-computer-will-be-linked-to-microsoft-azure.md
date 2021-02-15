@@ -76,9 +76,9 @@ related:
   - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
     excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
     publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
     type: article
     provider:
       name: Reuters
@@ -151,7 +151,7 @@ related:
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
     publishedDateTime: 2021-02-11T12:08:00Z
-    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673952"
+    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai"
     type: article
     provider:
       name: Techinasia

@@ -138,6 +138,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
+  - title: "CBP facial recognition technology fails to find anyone using false identities at airports"
+    excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
+    publishedDateTime: 2021-02-15T03:01:00Z
+    webUrl: "https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 45
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/cbpfacialrecognition.jpg"
+        width: 1097
+        height: 700
+        isCached: true
   - title: "Dahua faces scrutiny over its facial recognition software"
     excerpt: "Just three months after being placed on a government blacklist that bans U.S. companies and individuals from investing in the company, Chinese surveillance giant Dahua has once again drawn the ire of federal officials following a report that it has developed intentionally discriminatory analytics software."
     publishedDateTime: 2021-02-11T22:37:00Z

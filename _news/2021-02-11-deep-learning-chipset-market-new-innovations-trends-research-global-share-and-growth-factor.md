@@ -71,17 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Smart Robots Market By Component, By Mobility, By"
-    publishedDateTime: 2021-02-10T11:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19581256/global-smart-robots-market-by-component-by-mobility-by-operating-environment-by-end-user-by-region"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19581256"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581256"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "WbYw530bGoSSuh3aUPq6AgR6esb3HAlYe/mZ9MbSBqTdEqru+TbXL/4ngGFmJ3DU4T1fOQE31oDfj3NHFOiPuCsj2xCYONsHwGKl8NBscFSDgiQhW8lDGe0OS270AeVfn9fJpvggRVsui23tkjYyXR+ntxDw+Id29nDLXpE7lWWBz9xAr/fSOFdD9TBNUKriGzM5lvn4krTW0g5tH2PzElIKRqfsI7AS0hmVAgOUuGBzXGIUqn6lbSc4LCJnM4D/UsPj57nWZgyv1/ZPBPHnd/5or7TPunWFv6cySShTK5FH5zCyaHHYYvdN5zNN9oIn6+PT/VX+BxNAwFjZ1pptwGBy+MEYc8/kD7P/W+W6Wdw=;ux9FEjwSC5Bi/qn6kR1Vbw=="
 ---

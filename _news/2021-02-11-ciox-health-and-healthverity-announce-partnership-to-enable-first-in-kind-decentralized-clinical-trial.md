@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Ciox Health and HealthVerity Announce Partnership to Enable First-in-Kind Decentralized Clinical Trial"
-    excerpt: "Ciox Health, a leading health technology company, today announced a strategic collaboration between its Real World Data (RWD) Division and HealthVerity, the leader"
-    publishedDateTime: 2021-02-10T12:22:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ciox-health-and-healthverity-announce-partnership-to-enable-first-in-kind-decentralized-clinical-trial/article_918c9ed4-6c09-52cf-9553-e8897ea3794d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-
 secured: "WyMDeQipB/uvSr6BdWqhc30UfZKrq3/WB06XTApJN3EZSNtBzBPr1NjK2QjmdwIdG1Z0ATDtPfj/HkzUKJ7shAwJvHZpxGGt4CInyx4Zaycg6EXr7tVnIfDFPLnkJnAl8r6FKvbAmmCXzb+hfEC7tlKpuxZrDfvUNR0KvVe0Raqo7HsUGDnc73uv2mVQIODsIJupe9ZvP9yU5GOrYPvhzuPy71n6x8ixGL7kg0nikLQUAP76SjhQfQM49GE5uwgirkEjU/7QrUhU57/2+jju1K7cUOZ4n/4msI5+bLmH7vcOJIXXndWUcV8PfYijzeFpOegHEucGOXUsXT4iCSbmL568GqWGgzelVXPOVDJ/7KI=;9iwSF9+Un8MB6jaEzAYsXg=="
 ---
 

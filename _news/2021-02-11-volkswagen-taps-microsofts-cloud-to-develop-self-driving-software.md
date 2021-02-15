@@ -3,10 +3,10 @@ category: news
 title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
 excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
 publishedDateTime: 2021-02-11T13:58:00Z
-originalUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
-webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+originalUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
+webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
 type: article
 quality: 91
 heat: -1
@@ -142,7 +142,7 @@ related:
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
     publishedDateTime: 2021-02-11T12:08:00Z
-    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673952"
+    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai"
     type: article
     provider:
       name: Techinasia
@@ -295,6 +295,6 @@ related:
         height: 419
         isCached: true
 
-secured: "Tek1KdjvLxMEVPLghufNaxFny6h2d5z92ZGwTv0xYXU1HFnh7x0Q2vgMXb1Nf+PJbIhQt1rxbIh8OqCkwU1vIFVE0D1A5zB/a0pmhAfODUppjWJq8k+xD1P3n23cp5lZuS95v4ADlLRONqfpRA5H1T9ky3R/mjgjBwV7duIBHKGKCh8AatCxl8qY9N0OqhkN5Y+JsSUQ2eT+r5BvmTXaWtOEywIAbuy94XM+c6vZQ+qemKySdLzEmmezdTXdmleZuIsgXiSw7N9foQ+j1+uVJyOnS7nVdZSBV87aqfljwKwBCsfmFrh8aPB78pIjrr/l92LHUqzSpkEn+24xKt8tgd9jPj9JaS2AGi5nmU4Vuqs=;l8GUS1YT7dsLnLFg1t9B7A=="
+secured: "WdgCQf3cxz5dMHrQlgVgyQ2ooUOU3gIlwjtJIhCudeCgrUpT1+pBEFuABlYu8hqq1Aea9+0SMAQqVRzsOgzoEiYzywn9kBtlRUGkfoejctNo8ir+WsDM/jzzEDrVsqfSy7oxTqj48sw8admPPZ1Z2rdXs0fAudouowqMQ8TRptSwYLp4NdrLQ3nA6+lGx8VBkjoHzWMGcvcL0QJUonptV/L7c+ynICPJB81mesYvQbUx/D9l+tlDm/tsjX6kSutedups9JAR/SskHn8z9M0O0HnaDmbdfJMHacmSsewa/3H8DfJFhupg3G2AOH16tdCkSPHtYr1CBcCpQH7Uh30XjEtlSluG7QDPTEiBEnzXF+I=;JL2+SH+W6YRNfKLE3WgAKA=="
 ---
 

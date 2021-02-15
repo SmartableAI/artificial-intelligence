@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-05-how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it.md",
+      "title": "How an AI-powered robot could upend wine storage (for those who can afford it)",
+      "excerpt": "A new tech company, WineCab, is using software to improve wine management, storing wine and offering tips on what kind of wine to try next. Here's how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "originalUrl": "https://www.techrepublic.com/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2021/02/04/4b7586e2-50ed-4c5d-8cd3-8a2a3208287b/crop/852x1026+181+80/resize/350x/41788adfae86b7f0ab4eb00870a29c18/mchaney-headshot-1.jpg",
+          "width": 350,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "publishedDateTime": "2021-02-04T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-clearview-ai-raises-disquiet-at-privacy-regulators.md",
       "title": "Clearview AI Raises Disquiet at Privacy Regulators",
       "excerpt": "In Europe, North America, the U.K. and Australia, the facial-recognition company is looking down investigations, lawsuits and reprimands, and adjusting accordingly.",
@@ -943,19 +995,19 @@
     {
       "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
       "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
+      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19635111.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19635111.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -965,11 +1017,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:45:00-08:00",
+      "publishedDateTime": "2021-02-04T06:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -979,10 +1031,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Google AI",
         "AI",
         "Machine Learning",
-        "Google AI",
         "TensorFlow"
       ]
     },
@@ -1173,58 +1224,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-how-censorship-can-influence-artificial-intelligence.md",
-      "title": "How Censorship Can Influence Artificial Intelligence",
-      "excerpt": "A study finds that algorithms learn to associate words with other words. “Democracy” can equal “stability”—or “chaos.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/how-censorship-can-influence-artificial-intelligence/",
-      "originalUrl": "https://www.wired.com/story/how-censorship-can-influence-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/601b432ad18be3330afe51f8/master/pass/business-china-ai-170618501.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/how-censorship-can-influence-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-censorship-can-influence-artificial-intelligence/amp",
-      "publishedDateTime": "2021-02-04T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/pc/keysight-technologies-enhances-the-
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/keysight-technologies-enhances-the-intelligence-platform-for-digital-eggplant-automation-with-high-speed-computer-vision/amp/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -28,16 +28,14 @@ images:
 
 related:
   - title: "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision"
-    excerpt: "Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises, service providers and governments accelerate"
-    publishedDateTime: 2021-02-11T16:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision-1030073676"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision-1030073676"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision-1030073676"
+    excerpt: "Keysight Technologies, Inc., a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation Intelligence platform that enables organizations to automate the testing of high-speed applications"
+    publishedDateTime: 2021-02-11T16:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 28
   - title: "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision"
     excerpt: "Real-time testing of iOS applications emulating human behavior improves quality of the digital experience Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises,"
     publishedDateTime: 2021-02-11T10:00:00Z

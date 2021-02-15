@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025-2021-02-10"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -71,17 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Smart Robots Market By Component, By Mobility, By"
-    publishedDateTime: 2021-02-10T11:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19581256/global-smart-robots-market-by-component-by-mobility-by-operating-environment-by-end-user-by-region"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19581256"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581256"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "/r1IfYuifnnNoAIrZlgz/ragYtCkM+09Tz/5rdWt/kzeQYPUgX+tYH/N+8yyVrKqUaj0RA7o5+FI9IqqGWD93ILVEzUdJPKmcMbAXxOpwFMDlfAI59+86/N34wlae0GOM9wlG01hPpFe3MXr8ueRwhXGT2xys4mzet4SmUcYpFOuT82b1m50Qnm1zoHJihtIRZhNSn5C0Z9b2TNyGHtUw3iPaQODnnNSKAhOJw9MeLgcbx4LC7F4u0rB7TKa+gra0H/ltzIqgVkIGOK+pS67ALgZandLzax3j2rsg2akgtel7Qv2jtEFM5qluxsI0xC64xuIgFdU5nBm1RLhDc9GKraEzvl/qiwh9GqKHn7/ot0=;TzWIW5r/qvq1u1fTQXI3Gg=="
 ---
