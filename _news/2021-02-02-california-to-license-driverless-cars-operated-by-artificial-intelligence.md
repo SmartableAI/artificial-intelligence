@@ -1,28 +1,28 @@
 ---
 category: news
-title: "California to license driverless cars operated by artificial intelligence"
-excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
-publishedDateTime: 2021-02-01T21:00:00Z
-originalUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
-webUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
-ampWebUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
-cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+title: "California to license driverless cars operated by Artificial Intelligence"
+excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),"
+publishedDateTime: 2021-02-02T14:24:00Z
+originalUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
+webUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
+ampWebUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
+cdnAmpWebUrl: "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
 type: article
 
 provider:
-  name: Washington Examiner
-  domain: washingtonexaminer.com
+  name: The Hayride
+  domain: thehayride.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mediadc.brightspotcdn.com/dims4/default/6e5a04a/2147483647/strip/true/crop/2100x1103+0+149/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fd9%2Ff7%2Fe529bb32b60c2c886b0d7fcdb544%2Fbdd85bcb540d61d104dc9a9f3054459e.jpg"
-    width: 1200
-    height: 630
+  - url: "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "iROdYB2nKljsOLvMOd7AQotfIu/9QBQjuKfF0V8F0VjLOhRsESYLfQD/B2h4ZulGTmxfhIS46d2Gu6Z+TsPmBCyDk3BlDyTUXMUUl4oOfRId8lBRFW8889uFLM8L/Rhaw4RRjxdrdChgLwlR9AE2cBs3wryUjLPtwyZClQiMBs7AR7aulxItau2Q2LqYzOST8YIJW7aOz0MnEAOw72iVFItcaijnyOF815AhiFqBMHBWRqQbLA6wUk4++nQHE2kH9V7dhNcgkAbDuiPID1UB6qY8Tlsju9sQ2M+dqL+1bWuI8TrCV9+vSn50ZPyAkAxJkVynxy7yMXn4rcpTuwmxufAa/RTCSuCkwktURuPLf25ZKVNo/gzbgPtSlmvWwUb0mAdVqPhXeBMRrLnccZ9RgFL8wI+Tz7lmYPUC1DyxyWr3Q1ERv7TVvuF/gTTI3XpcrCK5NHAR1Wb1ru3FI4+8NTIIRjWFwzuG+ZONni4EejE8u0u6GLISHtXHSGe7h+A9SZgQ4XtN75eDPLLNVN6DEA==;8IXQ9HX7i95jDtjq3ulmpA=="
+secured: "DfzBtWMEF3dOLdNd+Ld4fqa4i88EmFl+EcPAEGqZIfSpYmxWwF4g5kcrK+Em0AxtRkBIs7okkUd/xYPb9CE9LB/KTA7NzaaLOHFxeHD+gR/KJNM28l1luKJFKRpEv29N8GueU3JsLCpxGHqlW0/TmNhIdBy6ox1em53GLb2FIXrD3l78RHwr2f/pW47SDmMBRSDb2Ta6Tgz6ePZj6g4Vyh9XC5BEPr+b55ZDsN78xjTcjVYyhaLZcmk8rNR1MmbAdGgWA+JnW2BABJS+yXEkAj4SazzMQJU+VnYoG8oKOFkkgRWV+cN4VzZT5bsCAWoCyZ4MsrLsNWd8IuMTppYUb8+65ImGWymUjwp4Q/UYCx4=;tovoFqp9xpQZ//edDFE41g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-ga
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 1045
     isCached: true
 
-secured: "BHZ2IQ9gMG8YPhAcyS2XEjepSJk1DereQdpuDNhOC3J3/CxaNmzk9tE9qQoX1qP19t8nBY/War3xywh5qVZiCE0nwnuKxhrtYEaKwFpgLHgprRrvbnnR5m9pU0r5+hpKXOxaCb2FQ96P6wD70jF/kVjE4QBkamQGIhzobGG0UJOvlodNtlsKoYL4sEba3pZdRiv5hzEh5NgvABvcF1LG3seivcUvmcqpYeQRlyGOg6+KAZDC2oTcErH+rrxO7/kQuyDIS0FiSrDy4u2LnVB6AWlZCatU4OU6l9lODclzulmsq4llppFVCkLoV1HNEfp5Q9YbJZ6A68GelNx2u8ApJE/tKpjuaBJuY6OokJdV/+o=;8SAYYcGCbK2nGFyUOMQ+Og=="
+secured: "9iyNdKtBpGrEuepC6j7Q06NeYlMnUzN8UvUyPMuz2mQokXjdXnOyQfWrIxDu4vVNRJdzwQB+BAIqc26Gwrlkf+b7BTTxjYaP3WtnEo1Cf1MRNzb2b5KSxc2wkrp47oNTj9IMLka3FcCEZmV+dISYgSM5/w8ZKyYDvdEZQHfJfNgSXDPMIgI2lR3gaAKufocSBZZHkRdO2YqrgNMfVHLeMqXXi3Qtzs1115JE5AVejtLyH7KiNkC9DeHj4JOSg82kd0mvQfE/f10+D1RV6ipDeuEPknz+V8KMqx+rJXpndAXI7cDURmPu8/qMxV/xtdxz45akOSYRxdbOL1O+S95yQprpJ0gz3GnRDdEl7AZlPRQY245n5iZjXxjawhVdq3mwKbeYmKf5DPsN8TG9I6JxzmarcTXIZ9gdlFJ0dJiM7zFKFS5GGYi4gnuRHlXwE3nv6/ZNVqn3CxDyLMKRSNmMybWvAW+myVCVMTaF+Zcb8eLEmgZ9h/Sv+QwT0X26d8Uebqpq1BZchNwlu1qxxYGcJg==;IZUGT1KQGGknQ7ixTFNsWQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-p
 webUrl: "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "2021 Predictions: Memory and Storage Boost Innovation in 5G, AI, and More"
+    excerpt: "From AI to 5G IIoT to ADAS, Micron Technology’s industry experts weigh in on the trends that memory and storage will help advance in 2021."
+    publishedDateTime: 2021-02-15T17:09:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21155161/micron-2021-predictions-memory-and-storage-boost-innovation-in-5g-ai-and-more"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 36
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/02/Micron_promo_web.602aa7b3788f9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "iOOz9BcwodNweqRL+IioQ4uIn8NbyZZjZxyIh36si8OgzgoG4STsh0A9hg9PHYplyXf7OiVPf2ImTRmfU1oNtCCAvXJ23niTJfCRoqJb1XsxY9eIuZi3tj0tlfbUair6A+r+20cSuSpNOUh3y1IQArYp8Lc8yotCqdkdyFwsOitHEgchjL/Tcsr8dZdeR7/XKm/DTGqhBHS2iinoEGAEUdN9mqrEHH3gmWHa6ZyqJEHg7MJ5PdSVUt4FNfIf1KOxsqw20/zLfeNP+BCtqZaM/evt6D9d2Kh162OLflqD+958iDgFdl/xGu2xi6YXFhURE2HnqONW78qDTmWz+NNQQp9G76++pN8OFIujmYI1onU=;yaTIEkm8p5yfBvL8b/PzIg=="
 ---

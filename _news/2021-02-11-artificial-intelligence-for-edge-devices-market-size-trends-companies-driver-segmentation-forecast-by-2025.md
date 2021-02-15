@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Speech and Voice Recognition Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
-    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-02-11T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "MsqgWSWYC01HcLWLb3CjPbkgYuihkVfHqDh4QT1acZJ7Tfk3PaGjMRr3g+K+cyQpGDbBQbNYrWZjht16k8vPQDtLTrjOR8YZAQWOWlvbB8bHhxVQPv9tQWn8QzhlBIffltUoDxSqC4HDpKl5+xHPqBoE/OVrZEKdATkGA+5+96CQlNZNj8fvlbn+NkC7ADYdvCW1Xwahe8X8Q7G5JRHHwaaO8nW1WBei5ku/KWEbouAOv7lA6luXHAuA+r5Cgx9cFj1YojSfeA6TffSNZIJXKzLcybXlPANP3+rwEY9YJuz4NAk0zj7MI/IFcidmfzPzW4Mvm4rjO3QsRDr5irOYlby0PpbEVX9D0TacTcehLPY=;BJXpNIaHTA/0/jm6Q6gLOQ=="
 ---
 

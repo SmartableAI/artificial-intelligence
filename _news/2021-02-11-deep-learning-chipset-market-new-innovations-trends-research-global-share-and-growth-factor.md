@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Size 2021 Global Industry Trends, Share, Growth Insight, Size, Competitive Analysis, Statistics, Regional Forecast to 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Voice Recognition Market”"
-    publishedDateTime: 2021-02-12T07:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-2021-global-industry-trends-share-growth-insight-size-competitive-analysis-statistics-regional-forecast-to-2025-2021-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Worldwide Digital Assistants in Healthcare Industry to 2026 - North America is Expected to Hold Significant Market Share - ResearchAndMarkets.com"
-    excerpt: "The “Digital Assistants in Healthcare Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The digital assistants in healthcare market is projected to register a CAGR of almost 33."
-    publishedDateTime: 2021-02-11T11:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-coronavirus-pandemic-consumer-products-and-services-f0f4e2dbb086444dbbee9538d303d12d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 2
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "WbYw530bGoSSuh3aUPq6AgR6esb3HAlYe/mZ9MbSBqTdEqru+TbXL/4ngGFmJ3DU4T1fOQE31oDfj3NHFOiPuCsj2xCYONsHwGKl8NBscFSDgiQhW8lDGe0OS270AeVfn9fJpvggRVsui23tkjYyXR+ntxDw+Id29nDLXpE7lWWBz9xAr/fSOFdD9TBNUKriGzM5lvn4krTW0g5tH2PzElIKRqfsI7AS0hmVAgOUuGBzXGIUqn6lbSc4LCJnM4D/UsPj57nWZgyv1/ZPBPHnd/5or7TPunWFv6cySShTK5FH5zCyaHHYYvdN5zNN9oIn6+PT/VX+BxNAwFjZ1pptwGBy+MEYc8/kD7P/W+W6Wdw=;ux9FEjwSC5Bi/qn6kR1Vbw=="
 ---

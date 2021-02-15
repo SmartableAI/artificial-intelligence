@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210215/A-machine-learning-ap
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Metabolomics and machine learning used to identify possible COVID-19 biomarkers"
-    excerpt: "One of the many mysteries still surrounding COVID-19 is why some people experience only mild, flu-like symptoms, whereas others suffer life-threatening respiratory problems, vascular dysfunction and tissue damage."
-    publishedDateTime: 2021-02-11T01:55:00Z
-    webUrl: "https://www.news-medical.net/news/20210210/Metabolomics-and-machine-learning-used-to-identify-possible-COVID-19-biomarkers.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210210/Metabolomics-and-machine-learning-used-to-identify-possible-COVID-19-biomarkers.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210210/Metabolomics-and-machine-learning-used-to-identify-possible-COVID-19-biomarkers.aspx"
+  - title: "A machine-learning approach to finding treatment options for Covid-19"
+    excerpt: "MIT researchers have developed a machine-learning approach to identify drugs that could be repurposed to fight Covid-19. The advance could boost clinical trial efforts, and it could be adapted to a broader range of diseases."
+    publishedDateTime: 2021-02-15T10:03:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/miot-ama021221.php"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/7/Laboratory_Research_-_Scientific_Glassware_For_Chemical_Background_-_Romolo_Tavani_M1_c5c6e43443d24cab91db0c5950382163-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "deo71RVum3S9sfkYw2/f3fWpwmz7L2k5NidXWea2uGMGQ8VmSyWTisrCssX+z6WIriYU9Nsd3bZs+mUVDe+0vBMcZbMgYEeN0lmsVS4YxAV0TGxTbDcJplYaZcdvTB+Zym9FWrEjQRwt1YH5XkVwS5QE/zF9XxW9M3yGZsO3pLhwC3jPoRYBfWHvG1ZaRYvXCZJLLInQhq8CdjJKZZfzuclKvcINSjLGiUUZ7QJ+Oe5FfuIfnv4YQRM2JB8F8EVeyLhRQBpxgu9FBGr2b8mg23AiaOvSojqMwDPZ+vc5BHtW4LLSN5kf9MQ5tssxs9UAR4SRDqTY12kOWM+Ink9x58lmGZi2uVrkj1zFPuyQRi4=;RI3vi+uThID9md7/1nPt+g=="

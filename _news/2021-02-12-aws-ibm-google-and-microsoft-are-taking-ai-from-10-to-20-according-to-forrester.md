@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
 type: article
 quality: 114
-heat: 304
+heat: 294
 published: true
 
 provider:
@@ -259,20 +259,6 @@ related:
       - url: "https://res.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/en/headerimage/header-1612887474252.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence as a Service Market to See Massive Growth by 2026 | Ibm, Google, Amazon Web Services, Microsoft"
-    excerpt: "Global Artificial Intelligence as a Service Market Report 2021 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
-    publishedDateTime: 2021-02-11T01:13:00Z
-    webUrl: "https://menafn.com/1101580983/Artificial-Intelligence-as-a-Service-Market-to-See-Massive-Growth-by-2026-Ibm-Google-Amazon-Web-Services-Microsoft"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?760531"
-        width: 333
-        height: 250
         isCached: true
   - title: "Microsoft, HPE Bringing AI, Edge, Cloud to Earth Orbit in Preparation for Mars Missions"
     excerpt: "The International Space Station will soon get a delivery of powerful AI, edge and cloud computing tools from HPE and Microsoft Azure to expand technology"

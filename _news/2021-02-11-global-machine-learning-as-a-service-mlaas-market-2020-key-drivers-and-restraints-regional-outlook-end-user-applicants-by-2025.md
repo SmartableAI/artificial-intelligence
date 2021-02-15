@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025-2021-02-10"
 type: article
 quality: 69
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -42,34 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Voice Recognition Market Size 2021 Global Industry Trends, Share, Growth Insight, Size, Competitive Analysis, Statistics, Regional Forecast to 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Voice Recognition Market”"
-    publishedDateTime: 2021-02-12T07:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-2021-global-industry-trends-share-growth-insight-size-competitive-analysis-statistics-regional-forecast-to-2025-2021-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Worldwide Digital Assistants in Healthcare Industry to 2026 - North America is Expected to Hold Significant Market Share - ResearchAndMarkets.com"
-    excerpt: "The “Digital Assistants in Healthcare Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The digital assistants in healthcare market is projected to register a CAGR of almost 33."
-    publishedDateTime: 2021-02-11T11:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-coronavirus-pandemic-consumer-products-and-services-f0f4e2dbb086444dbbee9538d303d12d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 2
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "/r1IfYuifnnNoAIrZlgz/ragYtCkM+09Tz/5rdWt/kzeQYPUgX+tYH/N+8yyVrKqUaj0RA7o5+FI9IqqGWD93ILVEzUdJPKmcMbAXxOpwFMDlfAI59+86/N34wlae0GOM9wlG01hPpFe3MXr8ueRwhXGT2xys4mzet4SmUcYpFOuT82b1m50Qnm1zoHJihtIRZhNSn5C0Z9b2TNyGHtUw3iPaQODnnNSKAhOJw9MeLgcbx4LC7F4u0rB7TKa+gra0H/ltzIqgVkIGOK+pS67ALgZandLzax3j2rsg2akgtel7Qv2jtEFM5qluxsI0xC64xuIgFdU5nBm1RLhDc9GKraEzvl/qiwh9GqKHn7/ot0=;TzWIW5r/qvq1u1fTQXI3Gg=="

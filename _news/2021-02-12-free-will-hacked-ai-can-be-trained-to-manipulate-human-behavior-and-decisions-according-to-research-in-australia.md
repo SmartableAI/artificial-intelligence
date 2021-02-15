@@ -28,17 +28,6 @@ images:
 
 related:
   - title: "AI can now learn to manipulate human behaviour"
-    excerpt: "In a series of experiments, Australian researchers showed how machines can find vulnerabilities in human decision-making and exploit them to influence our behaviour."
-    publishedDateTime: 2021-02-11T01:29:00Z
-    webUrl: "https://theconversation.com/ai-can-now-learn-to-manipulate-human-behaviour-155031"
-    ampWebUrl: "https://theconversation.com/amp/ai-can-now-learn-to-manipulate-human-behaviour-155031"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-can-now-learn-to-manipulate-human-behaviour-155031"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 39
-  - title: "AI can now learn to manipulate human behaviour"
     excerpt: "Artificial intelligence (AI) is learning more about how to work with (and on) humans. A recent study has shown how AI can learn to identify vulnerabilities in human habits and behaviours and use them to influence"
     publishedDateTime: 2021-02-12T08:45:00Z
     webUrl: "https://www.econotimes.com/AI-can-now-learn-to-manipulate-human-behaviour-1602032"

@@ -42,19 +42,19 @@ related:
         width: 1920
         height: 963
         isCached: true
-  - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
-    excerpt: "BRAVE Innovations LLC rallies community, faith groups, healthcare workers, colleges, and civic organizations to spur participation in urgent voiceprint research"
-    publishedDateTime: 2021-02-11T01:09:00Z
-    webUrl: "https://www.wboc.com/story/43329903/georgia-startup-races-to-complete-ai-powered-voice-based-covid-19-screening-tool"
+  - title: "Self Driving Trucks Market Research Report 2021 Covers Updated Data Considering Impact of Covid 19 on Share Size and Future Demand"
+    excerpt: "The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in"
+    publishedDateTime: 2021-02-15T17:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20362691_G.jpg?lastEditedDate=1612981275000"
-        width: 716
-        height: 415
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
     excerpt: "Width='300' Height='173'/><br/>The COVIDvoice Project uses AI to turn voice samples into a COVID screening application. <a href ="
