@@ -7,7 +7,7 @@ originalUrl: "https://www.freshplaza.com/article/9292973/using-ai-and-machine-le
 webUrl: "https://www.freshplaza.com/article/9292973/using-ai-and-machine-learning-will-increase-in-horti-industry/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,63 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Four Predictions For Artificial Intelligence And Machine Learning In 2021"
-    excerpt: "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing."
-    publishedDateTime: 2021-02-10T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/"
+  - title: "Artificial Intelligence to Improve the Shipping Industry’s Efficiency"
+    excerpt: "Efforts are progressing to harness emerging technologies to improve the efficiency of shipping operations. Japan’s K. Lines announced that it is expanding its efforts with artificial intelligence to achieve greater efficiency with routing which will also contribute to lower emissions from their ships."
+    publishedDateTime: 2021-02-10T22:41:00Z
+    webUrl: "https://maritime-executive.com/article/artificial-intelligence-to-improve-the-shipping-industry-s-efficiency"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AWS signs deal with National Hockey League for cloud, AI and machine learning provision"
-    excerpt: "National Hockey League to become the official cloud, artificial intelligence and machine learning infrastructure provider of the largest ice hockey league in North America. Under the deal, AWS will allow the NHL to automate video processing and content delivery in the cloud and leverage its Puck and Player Tracking System to better capture the details of gameplay for its fans,"
-    publishedDateTime: 2021-02-11T11:09:00Z
-    webUrl: "https://siliconangle.com/2021/02/10/aws-signs-deal-national-hockey-league-cloud-ai-machine-learning-provision/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 63
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/iehockey.png"
-        width: 869
-        height: 581
-        isCached: true
-  - title: "Predictiv AI Partners With MCL Sustainable Cleaning Solutions To Sell Into Education, Government and Food Service Sectors Across"
-    excerpt: "Canada Canada NewsWire TORONTO, Feb. 12, 2021 MCL"
-    publishedDateTime: 2021-02-13T09:38:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 55
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Organizational learning: Your key to AI success"
-    excerpt: "Instituting formal processes to embrace the learnings of small-scale AI efforts and promulgate them throughout the enterprise is essential to business transformation."
-    publishedDateTime: 2021-02-11T10:02:00Z
-    webUrl: "https://www.cio.com/article/3606709/organizational-learning-your-key-to-ai-success.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
+      name: Maritime Executive
+      domain: maritime-executive.com
     quality: 37
     images:
-      - url: "https://images.idgesg.net/images/article/2020/08/artificial-intelligence-concept-picture-id1160995648-100855293-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Brasil-Maru.dfa5aa.jpg"
+        width: 643
+        height: 361
         isCached: true
 
 secured: "aAfnJP6lJRP+jUOTW8M3JgBexTuLZz1cYDdNXdJ8+TZm7GCzG56CorF1Ym8ZTych6YoblMqWKzO1g/2HRkZtgsR3epkNxP3D/Gf6wbqZNFvdCX3cQKjC1aE8lrlM+aVL6xkMJ90HavzfOLVBLxjgH1mm+lsUztZ1xoKT7yf680JAFefMD4lE0BbrKOpU089Sz7r/KlS3+EAMQMj81xMWctgaCMPNsF+56pqMHcBlv/XZMdcxTbX19OQF/SZt1qU3/u0Mv1bm2cDEFkFT8dPXCtbyKZZ6wPvU+sPsNGptoGEH35DlaAtAk9esLyenKcExTMgmPxD8IpDztmuffS5B7ZIg+hc0Jge9Sce0dN1cNTk=;HcTy7jsBZN5qrM85utYmSg=="

@@ -42,17 +42,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Chinese Search Giant Baidu Looks to Launch AI Chip Company"
-    excerpt: "China's search engine giant Baidu (NASDAQ: BIDU) is reportedly in talks to raise cash for the creation of a stand-alone artificial intelligence (AI) semiconductor company. CNBC reports GGV and IDG Capital,"
-    publishedDateTime: 2021-02-10T16:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10"
-    ampWebUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
   - title: "Chinese tech giant Baidu is reportedly planning to launch an AI chip company"
     excerpt: "Chinese tech giant Baidu is reportedly planning to launch an AI chip company Baidu is reportedly planning to launch a subsidiary AI chip"
     publishedDateTime: 2021-02-11T05:25:00Z
@@ -68,20 +57,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Chinese-tech-giant-Baidu-is-reportedly-planning-to-launch-an.png"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Baidu in talks to raise funds for AI chip company — report"
-    excerpt: "China's search engine giant Baidu Inc is in talks to raise cash for an artificial intelligence (AI) semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter.Venture capital firms GGV and IDG Capital are in discussions with Baidu,"
-    publishedDateTime: 2021-02-10T16:16:00Z
-    webUrl: "https://www.theedgemarkets.com/article/baidu-talks-raise-funds-ai-chip-company-—-report"
-    type: article
-    provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 54
-    images:
-      - url: "https://assets.theedgemarkets.com/Baidu-headquartes-beijing_reuters_3.jpg?6VE.pDYxphwMVWcR6kX6YDf.GpMFFSfx"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "kxTIL/DoRLhM4gNs78bYePx7nXDKja7VM0/PMK7mB2TDzIjyorMtlY/dqgnFAMfKnzs4r7U5W62fpvyMom0oJsY0t+JTAX+gRYe7Ev0kUaZtfQ7HRRLC4mfQQAC/Hrv52mgctEZi26NMndX9g7fsnxrKCTv2xanlbZli13gAvXMbRvqpsoO9/3q+0UdplBmlc8VDMt4zX5GB6xLx1m4TzNbFwQdTGXgko/qlA4Iike9KYBUsbj5jPEMSANUwpNkTSjlSSCTvCg+XMGF4/83hZ0RV6sb2LBT/ca0OSZ6UmOAWSR9v2g96Gv2SC8fvxD+qTf3H/3zIgsJLYhseqjIDNkHII0XSThYMUySDX0uPmz9LkL+o21qvy4lOrMxsf9dwZ2vIwvglMGRwRhTrcWdOOIRRo53yK0/N7SCSWMzQ9KQfxhex6pPfEPbrgIbvdpL4KoEVB1WF0yUq2Rr18Ht+zcBfh7OOOVunG2bpxZYfxwsx/GzwWupYlbPt8lGy+cJBDu9PgQwQGIcG3UxKwJF+Lg==;dKS60xODQ4DWy/CAsI+fqA=="

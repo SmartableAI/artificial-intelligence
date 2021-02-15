@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2241354/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis"
 type: article
 quality: 76
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -61,6 +61,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Size to Witness Huge Growth by 2026"
+    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Voice Recognition market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
+    publishedDateTime: 2021-02-15T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-to-witness-huge-growth-by-2026-2021-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
+    excerpt: "Selbyville, Delaware According to a recent study titled 'Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Analysis, 2020', available with global artificial intelligence (AI) enabled drug discovery and clinical trials market is slated to grow considerably over 2020-2025,"
+    publishedDateTime: 2021-02-15T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-drug-discovery-and-clinical-trials-market-size-trends-companies-driver-segmentation-forecast-to-2025-2021-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

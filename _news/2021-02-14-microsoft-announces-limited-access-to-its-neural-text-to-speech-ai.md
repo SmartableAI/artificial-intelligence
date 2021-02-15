@@ -239,20 +239,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
-    excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
-    publishedDateTime: 2021-02-10T15:48:00Z
-    webUrl: "https://www.dbta.com/Columns/SQL-Server-Drill-Down/Introducing-Azure-Purview-Microsofts-Next-Generation-of-Data-Governance-145167.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 53
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence as a Service Market to See Massive Growth by 2026 | Ibm, Google, Amazon Web Services, Microsoft"
     excerpt: "Global Artificial Intelligence as a Service Market Report 2021 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
     publishedDateTime: 2021-02-11T01:13:00Z

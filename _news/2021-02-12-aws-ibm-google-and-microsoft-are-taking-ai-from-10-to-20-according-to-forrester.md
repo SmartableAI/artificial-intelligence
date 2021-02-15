@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
 type: article
 quality: 114
-heat: 304
+heat: 294
 published: true
 
 provider:
@@ -241,20 +241,6 @@ related:
     quality: 54
     images:
       - url: "https://res.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/en/headerimage/header-1612887474252.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Introducing Azure Purview, Microsoft’s Next Generation of Data Governance"
-    excerpt: "DBAs and data management teams have long struggled with supporting data governance functions. Naturally, a well-managed organization wants to extract maximum value from their data assets. But that is incredibly difficult for companies whose data assets were created over a period of years or decades without an integrated,"
-    publishedDateTime: 2021-02-10T15:48:00Z
-    webUrl: "https://www.dbta.com/Columns/SQL-Server-Drill-Down/Introducing-Azure-Purview-Microsofts-Next-Generation-of-Data-Governance-145167.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 53
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
         isCached: true

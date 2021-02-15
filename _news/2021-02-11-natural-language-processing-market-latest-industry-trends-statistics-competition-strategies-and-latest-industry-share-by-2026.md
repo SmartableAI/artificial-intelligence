@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
-    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
-    publishedDateTime: 2021-02-11T08:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
     excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
     publishedDateTime: 2021-02-11T13:25:00Z
@@ -71,48 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
-    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-02-11T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "IoT Chip Market Market Size, High Demand, Recent Trends, Future Growth, Business Scenario, Product, Technology, Share and Forecasts 2020 – 2027"
-    excerpt: "The global Internet of Things (IoT) chip market reached a valuation of USD 11.37 Billion in 2020 and is expected to reach a market size of USD 34.74 Billion by 2028, registering a CAGR of 14.9% in terms of revenue growth during the forecast period,"
-    publishedDateTime: 2021-02-11T01:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iot-chip-market-market-size-high-demand-recent-trends-future-growth-business-scenario-product-technology-share-and-forecasts-2020-2027-2021-02-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Voice Recognition System Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast | ARC"
-    excerpt: "Automotive voice recognition system market is expected to reach the market value of around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 - 2027."
-    publishedDateTime: 2021-02-12T09:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-arc-2021-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
     excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
     publishedDateTime: 2021-02-11T14:00:00Z
@@ -121,6 +65,15 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
+    quality: 0
+  - title: "Worldwide Digital Assistants in Healthcare Industry to 2026 – North America is Expected to Hold Significant Market Share – ResearchAndMarkets.com"
+    excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The digital assistants in healthcare market is projected to register a CAGR of almost 33."
+    publishedDateTime: 2021-02-12T08:57:00Z
+    webUrl: "https://www.financialbuzz.com/worldwide-digital-assistants-in-healthcare-industry-to-2026-north-america-is-expected-to-hold-significant-market-share-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "nSNPvxIEO03faJWrPofoE3/kqmmfC0Cy/9FbDkG/Svoi6rjc7R9/7AxlukDhlHaycdjT7M6Agz1bF/VsnLGAkds7Ysnoc8P19ngg3QxxzWp832TqEyxplmV0z1BmguXrkIGAJtJrBb+WxFnYZDTvX6B0+9GQGHRwI8ujF5CYZ55k1X6tU2s33IqWyqktH6wbgHNf2uEPKoB5QHE4KIE6C7U9ZP7sqReRlizUDJ5kZgmBcL2zljb6gwETac6wo91OY1fHNFw7no5z+/1yokFzNYOJSQfzauAk7Nk/B3VlWHUctEtRXJavVzn7iIIfkCfWTOVuyc9rUaXTN4KN1TaIRRyg5sE5fgBmQkTxxACR7Qs=;hKpihaobpbcUU+FsUsPGLg=="

@@ -43,31 +43,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Chinese Search Giant Baidu Looks to Launch AI Chip Company"
-    excerpt: "China's search engine giant Baidu (NASDAQ: BIDU) is reportedly in talks to raise cash for the creation of a stand-alone artificial intelligence (AI) semiconductor company. CNBC reports GGV and IDG Capital,"
-    publishedDateTime: 2021-02-10T16:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10"
-    ampWebUrl: "https://www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-search-giant-baidu-looks-to-launch-ai-chip-company-2021-02-10?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
-  - title: "Baidu in talks to raise funds for AI chip company — report"
-    excerpt: "China's search engine giant Baidu Inc is in talks to raise cash for an artificial intelligence (AI) semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter.Venture capital firms GGV and IDG Capital are in discussions with Baidu,"
-    publishedDateTime: 2021-02-10T16:16:00Z
-    webUrl: "https://www.theedgemarkets.com/article/baidu-talks-raise-funds-ai-chip-company-—-report"
-    type: article
-    provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 54
-    images:
-      - url: "https://assets.theedgemarkets.com/Baidu-headquartes-beijing_reuters_3.jpg?6VE.pDYxphwMVWcR6kX6YDf.GpMFFSfx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Chinese AI Chip Unicorn Horizon Banks USD350 Mln in Fundraiser Led by Great Wall Motors"
     excerpt: "Horizon Robotics, a six-year-old startup that develops artificial intelligence chips with a focus on autonomous driving, has raised USD350 million in its latest fundraiser led by Chinese carmaker Great Wall Motors,"
     publishedDateTime: 2021-02-12T06:09:00Z

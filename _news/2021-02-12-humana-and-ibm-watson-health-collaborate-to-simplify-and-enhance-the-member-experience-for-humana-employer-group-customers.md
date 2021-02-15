@@ -20,7 +20,7 @@ topics:
 
 related:
   - title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
-    excerpt: "Watson Health today announced a collaboration leveraging IBM’s conversational artificial intelligence (AI) solution – to help provide a better member experience while providing greater clarity and transparency on benefits and other related matters for Humana Employer Group members."
+    excerpt: "As part of the agreement, Humana will deploy IBM Watson Assistant for Health Benefits, an AI-enabled virtual assistant built in the IBM Watson Health cloud. Initially, the service will be availabl ..."
     publishedDateTime: 2021-02-11T13:10:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
     ampWebUrl: "https://markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"

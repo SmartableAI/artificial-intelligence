@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
-excerpt: "Watson Health today announced a collaboration leveraging IBM’s conversational artificial intelligence (AI) solution – to help provide a better member experience while providing greater clarity and transparency on benefits and other related matters for Humana Employer Group members."
+excerpt: "As part of the agreement, Humana will deploy IBM Watson Assistant for Health Benefits, an AI-enabled virtual assistant built in the IBM Watson Health cloud. Initially, the service will be availabl ..."
 publishedDateTime: 2021-02-11T13:10:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
 webUrl: "https://markets.businessinsider.com/news/stocks/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
@@ -49,6 +49,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "eKnnPCBwJ2zh8EoldI37QOT/Mkg3kjXFyTq27ONiXJdNYhIKgBKLtqFGhydSCXwJymWL0WKYCEUqlWiHih0tKWeOFLI6T8Ky2ZTheJw9Mrdb4inpDL6mrI1LRnlEwRgc2hXUlLp92JBRTGzrShpLm/A+wUIAhz1EMzsVZJ4843vaFAFXf8RvgJMYGUxVgwcB1GkC84VARgQePOX9Qob9dzP7lGJd/Uwba6qgzCrGvbAosdVOLSBC/NRrQhANj7O+N/td+XqX4kznVDJQ3IzYp6er2R3v+Oi7FYbrnRKmLD3w7rkpgyKTba9BcmYP0UVlmQj5ZfSqMn9wrrBh9AnioRXNH8A01NQXGn4maWRQGYE=;hBcxsIkhsPzzCc6JHSPIWg=="
+secured: "56YXo1DQ9mS/AufgVPL8ka/gdyr8ewjr41do1SlAtcHRvV5HQMxlYs01vBTvXQPo/75gDGCO/dCwroHRzxyNU1mpALr5GZCegaDbcji88I51Q6dOYfLR9eDH3YRYD3Jlge7xjUHJlZx6T/q2CCb5NlpVbArLGzbCl4NVtiFzDzvl4QhvRuQje6gCiX1T8PAUO2QZfmmPaIV/wmh7ALol7ABskdvUqSKY0eJIN+lev0O2nwt8EPJRcmRZkrbC+NfXeUnX/fEC7j7Rk6LysH40Cm4zHXIEWoAsyGC4ciOApUHdGE29DNTfwGIMuGca2d/djIDD8u6jmPrpo90B9/Ysmh8dJxnsRUoqLr6miAH7Ix8=;qGL14elXKZ8mf1+JzLvm7A=="
 ---
 

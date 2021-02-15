@@ -31,9 +31,9 @@ related:
   - title: "Salesforce: Combining AI and automation can give us superpowers and make us more productive"
     excerpt: "Salesforce Einstein Automate is just the beginning. John Kucera, SVP of Product Management for Automation at Salesforce, believes the combination of AI and automation into voice-enabled digital assistants will give us \"superpowers\" that help people build relationships and make us more productive."
     publishedDateTime: 2021-02-14T23:04:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
+    webUrl: "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
     type: article
     provider:
       name: ZDNet
@@ -43,20 +43,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2021/02/12/4cb48ac5-f691-492f-944c-19f1e080e286/john-kucera-1.jpg"
         width: 600
         height: 600
-        isCached: true
-  - title: "Salesforce taps AWS machine learning tool for document automation in health cloud"
-    excerpt: "Salesforce launched a new machine learning tool, powered by Amazon Web Services, on Feb. 10 that aims to help healthcare organizations digitize their document management processes on a single platform. Salesforce's Intelligent Document Automation ..."
-    publishedDateTime: 2021-02-10T16:12:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/salesforce-taps-aws-machine-learning-tool-for-document-automation-in-health-cloud.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "qegOIAa32hVYVRtzv+J2gEgsVVX/b2pp8ZCrntACK8FJKJV9+rtsKkpvb3vLbPBKWqFZ5nqLZmIqFLMCqXFI/0lJVnH6uDQFyeoqJIIOGvXXlCGxhyv/mZqR2C4S0W9FIMBkAT9ih8RKswrWvpOvgYqiSU3dlOGSrOV6KZfEKAOjgEwuT8V75zt1I1FdAtNP/h1OmUmrBhS8bLXB/HukCkKlrT5Q9+7/6iO4VF34veNXIa/hhmH1/qpcoj82aF+cUwAAyN05w7UTO8dZybd0GXL18aa8cqmXk1ZJwjHUxItUrBK9/RI7XW29Hd1XDvncdyySezi9TmgdT94QjvuAjqLpBkaeY0ovO9FIiI0tDNKxvLPLaWOqN+10Z4vSL1byRaDKYhS+YSIgCZl7ftLSvyW/iWubq9bxomANUkIWB/bSf/5KCwU5LVJGLvQt7ZNt8+PgveuIF4odwWAiPY5MDX57Zs7GOtfEDdazvpZELeTo/cbcCBx2/GBDEyGksRrdbf1ei4ckYX/qXaVh1SkVnw==;W/g6ejexCmOaGS5jpO+z3Q=="
