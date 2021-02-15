@@ -20,6 +20,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2018/12/31/e6b87307-59d1-4f26-89cd-e0e38f2026b4/hybrid.jpg"
@@ -27,6 +28,6 @@ images:
     height: 341
     isCached: true
 
-secured: "nKgBOz3JgoNCYoVjCsEKDKelBeKlaT7Q8dD1yBkR8xxlyt3izpKFk3VGdsXOgT7rs2b1zJwNiDyLZk6SXw2/SZALfRAvkcSpOUNtddi4vvd0K65sr1x4b3+t8fwfRfnQOe3Sg+TGGUFuY3g2gjzNxwkek7dnzqlox7ELcD56pY2/94CTeyGpWLEZ5xxE6e4+SoO1dx2lsGCqULryNe5CHz/e76HCh75xJa2y7eWsdMWrWh5BCSMoui9HYLYpYmnmdW9uhgHKd7REacg4g2iejuyA/eAyyBsHELtv0GBzlq/hKjnrv3XCE5nagn6suVme30TRB2xXdJAHdqJE5YSZBSuQdLVk3+AgA1y0gFjK6Sw=;fgxXckqmVrT8tg3TauMrpA=="
+secured: "AN+X2Kt2gkARcNM4oAHu3UPEPD6IVOvVUwk6B4e9FkC0YhSAT99WSHtR+5sGY5S5pmFwGw2cRxAkzhU09ZTiDjukUYIRN2G1Ny02BVvaSH8SpRoOAys5e+MYjalAtKCmFSUnsRYhtibZ6Ujkyj3tpx+5TVRoIZxR9ICjm83/vR8Wd2YOy0mCrIu2GDt8nr/EMZGr+PiivUElcOHeu/Yj0JO2dXEQGcQ+5N52AXRdCLtrFPzF1vQQZnlp4T8IA0kTXXD+I2nRliuHRfKhh1izHKJO17ADWb2FT0mHkYPtW15Cv7hIkCqmID9qUcAVBJ15cIUeFHDWiyaxHDgkfenWewh24ae00f9oLyatJQ8S2cE6i9lnmPeHG9roNU5hPVEj8U3CZIICuwBEE83VXxu2eiUVeBmg6NEPQYjLtg7w1+JHX9a8Ka/vIUBFibJGutIi/AhIioxymPI5lJJ9oxmcLR2Fpk5kdW8BCnCy/iwPcF4G+/EpWxwKp+2oOGtSsVtw3xs+3y6yhAG84m9VGk4q1w==;XpE78LB3GCuU2+bx578i2g=="
 ---
 

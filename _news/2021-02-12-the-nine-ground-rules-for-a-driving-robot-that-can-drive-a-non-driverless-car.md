@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Future of Driverless Cars Is Now"
+    excerpt: "In a series of conversations between film director Martin Scorcese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series \"Pretend It's a City,\" somehow the subject of self-driving cars came up."
+    publishedDateTime: 2021-02-15T13:06:00Z
+    webUrl: "https://www.nextavenue.org/the-future-of-autonomous-vehicles-is-now/"
+    ampWebUrl: "https://www.nextavenue.org/the-future-of-autonomous-vehicles-is-now/amp/"
+    cdnAmpWebUrl: "https://www-nextavenue-org.cdn.ampproject.org/c/s/www.nextavenue.org/the-future-of-autonomous-vehicles-is-now/amp/"
+    type: article
+    provider:
+      name: Next Avenue
+      domain: nextavenue.org
+    quality: 59
+    images:
+      - url: "https://media.tpt.cloud/nextavenue/uploads/2021/02/driverless-cars.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla Will Make Their Driverless Cars in Buffalo"
     excerpt: "Add 'driverless cars' to the list of things 'Made in Buffalo.' Cheerios, Oxford Pennants, Sahlen's hot dogs -- and artificial intelligence."
     publishedDateTime: 2021-02-11T19:21:00Z

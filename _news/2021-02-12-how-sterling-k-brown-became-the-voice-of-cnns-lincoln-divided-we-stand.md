@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-div
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://kvia.b-cdn.net/2020/02/1024x576_AppVersion_Entertainment.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "How Sterling K. Brown became the voice of CNN's 'Lincoln: Divided We Stand'"
+    excerpt: "Sterling K. Brown became involved with the CNN Original Series \"Lincoln: Divided We Stand,\" in part, to learn more about the man who served as America's 16th president."
+    publishedDateTime: 2021-02-15T13:42:00Z
+    webUrl: "https://www.phillytrib.com/entertainment/television/how-sterling-k-brown-became-the-voice-of-cnns-lincoln-divided-we-stand/article_1aa069fe-d6fd-593c-8c68-3f9b144c0992.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 22
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/7/76/776fcd20-3245-589a-97c4-fdfd52f56cd0/602a7b5666035.image.jpg?crop=656%2C443%2C398%2C132&resize=656%2C443&order=crop%2Cresize"
+        width: 656
+        height: 443
         isCached: true
 
 secured: "JHaOPhzu/JPU7euXUAw1SzU8dq20GPFD47aDIJh2AnQC36qL8eRnkVg0i0C26WYU3R2dPC0i28vRcigSUL9D8V/xgQ6ZvEbZnCXV0hb9Tgr/ZEIaduXp64jkU9edGAN+j4nW9Re65CAPqn5UHbeMQmIAv3HOTHubRvxImQv4nwROqUlPE6Iwz+t25uCAozbPAusN1sRuvLv+DScXSCTAUmDYdK5h3DTr5Wqzl4Ere1+rQOOf19ao6W4Vrm6YrgSl9KTwu54UVc8Knjut4zfbFCTaOVjmZ2SUjC9rmbLOBF3FOPxo+AkqU+Rcl2CVHNR6HPdbpuNoCOKSpliFl8iO64K+HZ3lIhdu8p6oJ7+W4A2RSYpIpUexZ12YtQr0pe3QRlVO7oYyr5zyffoK7Ztt53R+wzXFB1zf+LLysSCFmPKDrix1oV//ns8RgVYPPEWKJivwrhWEHeTmlnGC/L4HOBYCLqLpr7qKfA51T+eNqcksDz9KQVU/Oc82uHNm7Ou8e17bYkmao1tWS9KQXXTM7g==;7ldcjJethAmfvO75p1Vs2Q=="

@@ -41,6 +41,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "The Future of Driverless Cars Is Now"
+    excerpt: "In a series of conversations between film director Martin Scorcese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series \"Pretend It's a City,\" somehow the subject of self-driving cars came up."
+    publishedDateTime: 2021-02-15T13:06:00Z
+    webUrl: "https://www.nextavenue.org/the-future-of-autonomous-vehicles-is-now/"
+    ampWebUrl: "https://www.nextavenue.org/the-future-of-autonomous-vehicles-is-now/amp/"
+    cdnAmpWebUrl: "https://www-nextavenue-org.cdn.ampproject.org/c/s/www.nextavenue.org/the-future-of-autonomous-vehicles-is-now/amp/"
+    type: article
+    provider:
+      name: Next Avenue
+      domain: nextavenue.org
+    quality: 59
+    images:
+      - url: "https://media.tpt.cloud/nextavenue/uploads/2021/02/driverless-cars.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Self-driving cars are among us but drivers beware"
     excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
     publishedDateTime: 2021-02-12T01:37:00Z

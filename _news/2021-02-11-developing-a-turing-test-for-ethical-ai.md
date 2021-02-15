@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3606472/developing-a-turing-test-f
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -110,17 +110,6 @@ related:
         width: 1920
         height: 958
         isCached: true
-  - title: "Bearing and MOL team up to bring Artificial Intelligence to the maritime shipping industry -GHG Reduction, Shipping meets Artificial Intelligence"
-    excerpt: "The relationship was originally established with the goal of improving shipping efficiencies within the maritime industry. Through various trials and intensive discussions concerning ship modeling, a range of products including a newly announced AI-powered Smart Routing Engine,"
-    publishedDateTime: 2021-02-10T22:13:00Z
-    webUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 0
 
 secured: "r8+xCFPnYrzDxLyJlg3HZgRabFTPnH+4J4r7kp6kCkrrDaCofFb6Xh33iSgLLLqeg59lsGR6FbEbYlbrQKL+iJmJt97u6ZawfeXkwd01uMBbLae5Qw9Gu7UW8ievjhyUWqhSbELSDjKzfyYsig7qzMfV9f866QfsA8+jdOr7dxZ1tdX5nLwdF6ooUCZwayq+ktTELOQs7v2q5ANg4I9rj2F9/B0r/gkvbNSEyk1xXVYvxY7oSakS4cFCkVTOCmMBJ1OawScuM8WfNB6D9QpA1qidbjHvm0yJhLfqB0a7m3XbNsJ91oNVQtMgWvwU6+8Ce9rYkieTSFd5dIP8yXoLnRIAzkA9uPxfl1+qaS6ohy8o8R34/0G9vJv9X6QYBrli1dxz+dezcR+vJDczVHZ9G7zsGIFUmg0wCRosKj8iuilrg7wH/AUQNiDHqfRizt6vu4ryNTkPqfQKHTfxocpLO8TNSZ2lWUNq28Kh9klUcxoinaiy7v3p6mvtbDZRHWH+wZrKLzjQZV+NAKDK9+T5og==;GMkYbB9+NDmPhrKLuIvS1Q=="
 ---

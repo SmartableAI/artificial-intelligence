@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210210/Metabolomics-and-mach
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210210/Metabolomics-and-machine-learning-used-to-identify-possible-COVID-19-biomarkers.aspx"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "A machine learning approach to identify drugs that could be repurposed to fight COVID-19"
+    excerpt: "When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare."
+    publishedDateTime: 2021-02-15T13:12:00Z
+    webUrl: "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "OOP7enux5SJBYa102MkoHzyOq2NGLaPMgfXFEoXadr+PiHQLJIqn9WTuVegwt8MNltDKb5ZLTNI+l6pZis/3NAC7uYHFBICG9ljk1zhZOlBZBNA0rLRl91nM+SHIZ2KI3VveCS/LLQB7tekpBA7Cl8EZpt2qcNUA8NNWJsr1ZeCgIvkyZW6pm/VS/znaaHhF7DhV1cV9c7eOXIKgPqiY/7II9dyhAfrtd4eS5zcyOk+XiHWGW0hUTVK7eo5MHc8HEJ0RqvrtNmvb/e0huSih/CZ03Xiqtev1/EStaQx135rFWFh2UcTMCoLez/bgTiXDa8K0JGiCCWwSjTK8c7WIy0FwxAT9V6GY3Sx3KSfBFwODNejM6iweGpVOTfHRmpa46oJQCYJWhNunCK2BpSRndhZDq+Dk2luGqvNHAKkLDtWXBRfFO0kIAyv/5YCwiZKoJKWm7opuzGmxy/Tg69bwi1tnwoufH+XHTJDWZRsBIeMnnno5un2d81lhMKeoSqlt8y4Nuo974rDwZD5aGoD4Jw==;lObOTG7+xzOLBEwHIK75wQ=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Rev Announces New Languages in Automated Speech Recognition"
-excerpt: "The world’s most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four new languages: French, German, Portuguese,"
-publishedDateTime: 2021-02-05T14:32:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9"
+excerpt: "The world's most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four"
+publishedDateTime: 2021-02-05T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/12/712f0cfb-9316-516f-8c16-14cee40223d6/602276e64b273.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
-secured: "IICiaqaPT7pPGRGy56z8uf8LEFob3D0PRQHqBYPFrT84L4iHf/zkwL4WEIVerJLUkjmG3DtZ5kNR+t41IIySZQRmb2inrE+937ZARIhb9QKrV8ZXjNL72cvrX31TmdbsDDvthkFe79D6oovmzXFJNCIB7I/Tc/E1mMmb30F+IkOmtpqX27q4Nm9FEIha2unWsZ7wRcCw4s7D7VifP368ZVdf271yS7QyA+NAnOC8jbS1ETiuvQTnuR+YpgpqhkGPMCMzfvmIYvTjkpaPpVWJOMcHO+ZelhJI5D4QUxOPHpYMUUasclgFtvZS1vaGvt3+7fnBUCZxj9ygcxk5HWNR12lG+YtBi9ZLmyaJCEoc1x8=;ZbgaqKAERcoQ+WbvipoHqg=="
+secured: "JNt/uAPQjlPucsQC/V/u9tF/G4lZk8/54bHjKIb8MxKd0lFD6omiuIp4DTVkz3t3vwd7IcI6dX04sSTyMn0khDe4+tv3huUhXuX9cjftO2oPrG2gTpo3r1wo2YaZD2ExWvCI7/qP2HMTanZDFRbtIj5x+QqiZOs86s8D81o3D4Q0IFfKSuUHGn4IVqyoOjIp1gEgflBtXNNtEAHC3m1EHnO31qbP2qEI5X21/I64d/rGNq4FC9NWCn+UJceDEj8zykF4RaICtO/UBYPOFAEwqQQ/UNCD3AnzYD9wEkQRa4TfGrJQJ4wtro06Rycqu2R9vUeO6a4LFMVFjC6cYpE5JpwVu7ItoIUouXX6q51qmQo=;lMOaVPdqMK7A9WLBs/AujQ=="
 ---
 

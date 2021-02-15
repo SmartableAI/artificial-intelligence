@@ -9,8 +9,8 @@ ampWebUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-f
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Windows
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Sheikh Mohammed approves use of facial recognition tech to enhance services in UAE"
+    excerpt: "The UAE seeks to leverage facial recognition technology to reduce paper-based transactions in private and government sectors"
+    publishedDateTime: 2021-02-15T14:06:00Z
+    webUrl: "https://www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae"
+    ampWebUrl: "https://www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 33
   - title: "California gets demand letter to stop using facial recognition technology with remote bar exam"
     excerpt: "The use of facial recognition technology with the remote bar exam could have an unlawful disparate impact on test-takers who are women or people of color, the Lawyers’ Committee for Civil Rights Under Law wrote in a Feb."
     publishedDateTime: 2021-02-11T20:41:00Z

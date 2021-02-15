@@ -15,9 +15,9 @@ provider:
   domain: wicz.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
-secured: "WeanQTuM18Ogi2QIQBKbR01rZHgIuYf85bO+PsG5qRac1m4rw852AeijKA/y6FIn2HeLKyeEYY9ZPseAJtq21XznZDzKh7aXSMxN8XF81h5kwmo5q5sL1vynfg/naD2XDSIQ95Mm1rVYvKp55ebzC2YdzPB7Yre3JX2XKN583teaCXlyS6wDEAv3KKdT6oyt86++/B3ftH3qXlAjynpcPK6n598rXkwNxQD6y2FxRmsQCSHB4yphB9M/9ERXgKGcEjdNWRIMzg8NJClyoXMOUZRrIhfqCqzMIMrc5G/5TEkSJyQtLcK9a4Zs9SSy3Ei+zsCko5idTM7W7LrV/lNj2oHrRcyjjidmAn2c5gUvBnk=;MSqPdP8B9Mmv+ouuGDAExw=="
+secured: "yJO3AZMyTWJc/FvINoxqsBTeWJF5h+d07cGHbanYI4RRTCZnxUKW+irDgyYvH1yiDYtdSNtpRabiSLi9lD3maTKwa9FqyN1rvLEfzPa9lz4YshosJO94ZnoXT29eHFNQV1UDCANr8xZuzOF8bK3kcy93Ca87XxXnL43ZupmO26teQuy8+2cg7aqFidgZv3nQPb9PYJRWgVL1AkIu3af/gVZqLK2OLGViF3rFf9sKvcMWopZAKiyKE+96/1ey+x9prhZjV+uI44bpBR/gWRihCfxY5JwgmuTxBl6mWtTbKirDAsi4cAI3wmrwRAonaS//cni52UzQOA0d3QEOCny5K9HJzseXZ81lyFJxmt/LmQg=;12x/+u9nVGtH2wBZk/bqtw=="
 ---
 

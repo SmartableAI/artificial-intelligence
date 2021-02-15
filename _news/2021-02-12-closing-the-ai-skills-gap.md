@@ -106,17 +106,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Bearing and MOL team up to bring Artificial Intelligence to the maritime shipping industry -GHG Reduction, Shipping meets Artificial Intelligence"
-    excerpt: "The relationship was originally established with the goal of improving shipping efficiencies within the maritime industry. Through various trials and intensive discussions concerning ship modeling, a range of products including a newly announced AI-powered Smart Routing Engine,"
-    publishedDateTime: 2021-02-10T22:13:00Z
-    webUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bearing-and-mol-team-up-to-bring-artificial-intelligence-to-the-maritime-shipping-industry-ghg-reduction-shipping-meets-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 0
 
 secured: "cvdb2+W4LaAWAL/TuEo2h7yBcBbPB+DxcjHy2dbLo4Rw9PC+SlAgGOsSEwPrs6kQoOz9/pXg57QmLcQOitxaAA+w/2GusIaNeXBaHj/ncIdUvL5f8usN6dUrBiVJsPHh+J395aI+cNn2OOc/tQiBZAusUEWUrAtO1JOuY9b7e/AUeUjUMaci+9u2BStvWHVqfZUQu44rw3ZXId0lBXQOEGcg5daH4EASAw0TImmWeAHT+jVDPlLrVaxpZ1l6hK1DM4ZsBWvIf8ceCXE/QZ6Ny3RafMDMmzFqP9mEK31vSn7UgpSDD3Oq1+i2K/YWEDydOdSfEAKM96q6hfAjjvajdjVjY3MJJTC3dXoXC7EWdHk=;iDCOnsifJwtC+9Fnhb1kRA=="
 ---
