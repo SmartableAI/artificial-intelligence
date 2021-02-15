@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Ai Market 2027 | Trends, Growth Overview, Development Size and Revenue Forecast | ARC"
+    excerpt: "The global artificial intelligence market is expected to reach the market value of around US$ 160 Bn by 2026 and is anticipated to grow at a CAGR of around 49% in terms of revenue during the estimated period 2019 - 2026."
+    publishedDateTime: 2021-02-15T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2027-trends-growth-overview-development-size-and-revenue-forecast-arc-2021-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IoT Chip Market Market Size, High Demand, Recent Trends, Future Growth, Business Scenario, Product, Technology, Share and Forecasts 2020 – 2027"
     excerpt: "The global Internet of Things (IoT) chip market reached a valuation of USD 11.37 Billion in 2020 and is expected to reach a market size of USD 34.74 Billion by 2028, registering a CAGR of 14.9% in terms of revenue growth during the forecast period,"
     publishedDateTime: 2021-02-11T01:23:00Z

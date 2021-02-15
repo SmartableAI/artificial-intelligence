@@ -3,14 +3,11 @@ category: news
 title: "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models"
 excerpt: "The answer to the question of how to make the best of AI hardware may not be solely, or even primarily, related to hardware"
 publishedDateTime: 2021-02-03T21:55:00Z
-originalUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
-webUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
+originalUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/?via=indexdotco"
+webUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/?via=indexdotco"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 type: article
-quality: 98
-heat: 108
-published: true
 
 provider:
   name: ZDNet
@@ -21,11 +18,8 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
-  - AI
-  - Google AI
   - Natural Language Processing
-  - AI Hardware
+  - AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2018/12/31/e6b87307-59d1-4f26-89cd-e0e38f2026b4/hybrid.jpg"
@@ -33,22 +27,6 @@ images:
     height: 341
     isCached: true
 
-related:
-  - title: "The POWER Interview: AI, Big Data, and Efficiency"
-    excerpt: "The increased use of artificial intelligence (AI) and machine learning (ML) in the power generation sector has a goal of making electricity production"
-    publishedDateTime: 2021-02-07T19:05:00Z
-    webUrl: "https://www.powermag.com/the-power-interview-ai-big-data-and-efficiency/"
-    type: article
-    provider:
-      name: POWER Magazine
-      domain: powermag.com
-    quality: 37
-    images:
-      - url: "https://www.powermag.com/wp-content/uploads/2020/02/fig-2-light-bulb-ai-artificial-intelligence.jpg"
-        width: 600
-        height: 800
-        isCached: true
-
-secured: "tvVLSxw3c3ViU1+i7W5U6EHLN6Byu1CGbUg/y/sJOVYYNfOz91ToOcmcODwBctMeEHXE2HpGZj+GSTGlof/xEG3eGhspqSi+/uYE3m0Sgtse4kXzurps0oqNyspmIY+8jC2VYK5tAGJG/jfHYNxgvW3JzWNhO71/N6F6e87gUf6L+O9iTcvSLkMuxZPafac7NMjf2LSWF45pm48wCTRf4/0i2rIrQT2+tdZLhKOjlhxaP0yvmMMH4JxnOMUonB0LE96IK+ctnHD9jI4Bq/+ucgn3WlRRMCBN/0Zbw8hKdHWItopTZCx9ib9daywZcUDEsNW7/E5kyTxw2uoET9CpfCWDTHxPuPqIyesIvPJqikyl+07wrAZp+KepAhHtEha4KXNxCzsX4No7PYa5VLFZGhZZWzfjJd/DRw7UUSmh/xlmaFer2ZWTuZd9SLlhqTZUGE4ElB9zbEB3syjfjp9T+adZtTJ78l4kyoewSjPhKWFsMTkc8ew/j90oxCWQ4TO3j3YnBPSvTMXmvX7n/AoW2w==;/EvXYnLs7Y6ciEKu/mfHsw=="
+secured: "3u63h9J4jLfkDmPAn1SPM8NlIVgrVTcu/f7lMb45oJ3PICh1PppbA7CCXQc5mah1cUgl8ExlzUUd321nOLB04J41vm4fShGfGtaAL/Ji4WQEfIWFacrGzHDzU6vfzyvH3TB9gW+e9UIVxHbR8qfqwJzWIVvBanPwQ7JB+TVnjcHTxXMlF/qZ6pTMyu5LVVrHZwkuIZq7sggy8s2Sqcj9WL01VQpyjK/nb9hoxfrwcIjvTDKi/SuCH9NjptROlRkNiU+i14HI0SHWZywVicZljjZ+SC8EBagGAgq/sp4YtmFNzNBtu834ewgZ3ZwzJfSH8pBjRFujgj48efqRd2vrlCFE+ioq8vMCbnkShUUNc1k=;BlfKwI1E7SzDXKyecU1SFA=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
 excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
 publishedDateTime: 2021-02-11T12:08:00Z
-originalUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-674040"
-webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-674040"
+originalUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-674076"
+webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-674076"
 type: article
 quality: 64
 heat: -1
@@ -146,6 +146,22 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "SPEEDCARGO, Microsoft team up to disrupt air cargo and logistics with advanced 3D vision technologies"
+    excerpt: "Singapore-based SPEEDCARGO Technologies announces collaboration with Microsoft’s Azure Depth Platform to disrupt the air cargo & logistics industry with 3D vision technologies"
+    publishedDateTime: 2021-02-15T09:22:00Z
+    webUrl: "https://www.stattimes.com/news/speedcargo-microsoft-team-up-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies/"
+    ampWebUrl: "https://www.stattimes.com/news/speedcargo-microsoft-team-up-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies/amp/"
+    cdnAmpWebUrl: "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/speedcargo-microsoft-team-up-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies/amp/"
+    type: article
+    provider:
+      name: air cargo
+      domain: stattimes.com
+    quality: 61
+    images:
+      - url: "https://www.stattimes.com/statbackend/assets/uploads/original/speedcargo-partners-with-microsoft-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Volkswagen To Use Microsoft’s Cloud To Help Develop Autonomous Driving Tech"
     excerpt: "By using Microsoft's cloud technology, Volkswagen hopes to speed up the development of its autonomous vehicles."
     publishedDateTime: 2021-02-11T17:36:00Z
@@ -190,6 +206,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
+    publishedDateTime: 2021-02-15T08:51:00Z
+    webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+    ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 51
   - title: "Voice Recognition Systems Market Global Statistics and Forecast to 2031| Nuance Communications, Microsoft, Agnitio"
     excerpt: "The global COVID-19 analysis on Voice Recognition Systems market has been driven by the range of its a wide area of sectors such as HealthCare, Military & Aerospace, Communications & Telephony, Automotive Industry,"
     publishedDateTime: 2021-02-14T13:46:00Z
@@ -279,6 +306,6 @@ related:
         height: 419
         isCached: true
 
-secured: "wuXL4iiha5hVdTjysuIQOmMXo/zcZWVYKF11JZ65LL4/vQWCz+gV4ks8BUDN6CvJ9psmjfR+MVpzkeau3doMuwps/jDpAvkvm30VKuwdwKQhPzhrcCno0hZnbEt/20aOKXXWDlNsJEFJuI+JUS3PCDmz97I1size4O5dogshyKv6sXpYDwf9i514qdxA9FqgoNm8GIBpFAR0DHGCrnjPn0BleWJXfD4PbTMM3GOkqSoOzMe1Dj1tMcz0O1+UU6syAvCgs0fokNB0azIdHYPPZ5tJ9sS7fnHvK62y1D2Nw53aJ15RDH2TsKgRgdqAj5eBZ+ZQcEyEGgiZFde5zl29Ccu05L+i26p176gPnZI1BCKOzeFQkkMDBkPePlmaaXR8s+nIGvlQEH/jHiSBPMkGmQL+aucGUvUy0BFcHgHvUreHACZm1Rywp0t/gs473rw/i+/JwuFtt/UBsmkgcKKb9uF9g16I6FpBhKevTXFzBwxF8gH5Dhn4dvwoHFbvf3YmbLNrCwrKaAzFnCuuVtmPKA==;otBHDMmWlzO8SrRfKuzXdw=="
+secured: "lFeXUq8HFICoH2ZFPGR9b7c6zLXT6s3mpqJgjaU4cazonk2+DBb8IMToiMvs8287Jizy/q2cb3HMLVZRLAPFxBKuNsztAunXeEAxFTpQzGPg2PIzNHM16cRb8mLsM0Sya0wTXRuqvKFFN+DbSFFFHVxHnU3C+fhzPnWXFm/u2MMv4P1Vwo7z5uuz+v9fmoGPP4TGAegUGS9/WuFg+9BOtoTs3sUWVDQjbPQfgtwFxbzC2Jp5vruZ8kf0MF5wKolfIeBkknZ7EtF+nUZeiCcKJTIOERK0G4NWfdIUO10/gjCuGh4rS5BWgKru2/19drBW9gK0QNG46L1Sl3wtQNwRDWLC481xzIuS4JZ/5o1kE26tDIYaugKqlyL8up7JR4W/aVI2gbjmLXgbGoxDGeSR32AzoN9ZhZSDFP0+7MSwC55samcMktp8lG1ZA3KjIkG+62zsEgFVTeB92t2qd518Q2sgKH723+VVhxiGn4vi8kIhOeMlpFxdr+F7Lz4jj6KxYWVHMTGyyg7mT3vggY3Uqg==;RQYg/o2j1KlYbWPZpontFA=="
 ---
 
