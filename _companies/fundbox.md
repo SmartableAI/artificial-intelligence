@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "fundbox"
   url: "https://twitter.com/fundbox"
-  followers: 7824
+  followers: 7825
 
 size: 51-200 employees
 yearFounded: 2013
