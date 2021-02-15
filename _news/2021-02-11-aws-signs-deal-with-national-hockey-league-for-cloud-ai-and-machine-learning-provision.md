@@ -51,6 +51,38 @@ related:
         width: 869
         height: 581
         isCached: true
+  - title: "AWS cloud infrastructure for NHL"
+    excerpt: "Amazon Web Services (AWS), an Amazon company, has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intel"
+    publishedDateTime: 2021-02-12T00:03:00Z
+    webUrl: "https://advanced-television.com/2021/02/12/aws-cloud-infrastructure-for-nhl/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 39
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2020/11/NHL20.jpg"
+        width: 1200
+        height: 992
+        isCached: true
+  - title: "AWS to be NHL's official cloud infrastructure provider"
+    excerpt: "Amazon Web Services (AWS) said it entered into an agreement with the National Hockey League (NHL) to become its official cloud, artificial intelligence, and machine learning infrastructure provider. By tapping into the AWS services,"
+    publishedDateTime: 2021-02-11T09:58:00Z
+    webUrl: "https://www.telecompaper.com/news/aws-to-be-nhls-official-cloud-infrastructure-provider--1372076"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National"
+    publishedDateTime: 2021-02-11T19:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210210005858/en/AWS-Teams-with-the-National-Hockey-League-to-be-the-Official-Cloud-Infrastructure-Provider-of-the-NHL"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
 secured: "nXzYzAwP1/UsUI+g14FzT5Kpp8M3y8XbJS64DKpNJkFvnmFn+UT2IkDXnP/ljR+RiebKHcCjwYrmt9A7UxYOt2O7hZOYFr67lZZ1Bo8gq2Lgxxd2KrG4Uz0p3DA1RZJwiDaOc174VYIFwgBfiFxHt14kIB7Bcos+UNhRBKLhhbRgE1M0drXkadlGJ/+O2KIod+Ml+v/5ZzhnRytFIrmr0+yAOdZBSqIYVMdwQQEvInR2W7cifNgjZubfX0XyH1+bPMUFqx6yXEUKhP/Hw21PhBorSnJ6/EvDTkjVBwrZ8Vfu95rWWS97DyWWkuHJVWjYmmD7BXHIQ6jZZI1kyFlJs+9HMJQBlSH75ELpPbOmJ1oQOodkBjYSBrBsyWcSDjCjG1WejhSTzOLAGQHvl6zr4XVAG01OcJHl5CJDQUXQ+pHflYtCmtwRagQsxr7+F1hSto5LMiiGQVGJYv48WOH0vsQy1bc4XcN06nSsUb9yVp+Kmdv9LSnbpp50o5zZqZ1BfwThFJ6ooBj1r6gTTTOumg==;VBDRzOsAqfMBIKOIN09x2Q=="
 ---

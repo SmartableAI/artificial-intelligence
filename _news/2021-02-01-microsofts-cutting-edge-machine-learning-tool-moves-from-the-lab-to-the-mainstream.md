@@ -3,10 +3,10 @@ category: news
 title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
 excerpt: "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use."
 publishedDateTime: 2021-02-01T12:37:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 465
     isCached: true
 
-secured: "kABnxXzdvz2oBtmPl6omzw/75veB+vC5fJ596fG2icAapK80Mrz29+6wcm5zbeEB+UoYueG1csCrxKQmELkRyChsQ5/ABiRFAlQvxlcDBcMOiY94DzCakmA/yDHwoaO3gPZ4LvF+I2xHBSK7vSOrbcjP0Ykd0A5VV+EPiuCT3mZPDyL4Sv6Yg9EPRYSQQTmxXxAh/XFabKz4oHnfXRYEJlfiQExRElTTHT5IIZjpQKzLk3aT1UQSAB8QFGNElaQQVi8TF5hxGsQG0OkiHa8zJN9iHv71SNHwJ/n0Gcec4mz9d4vAeKoVVUm49abHJ1krZuz/ZZMJOXrF5vzecuRIMsDx5MQFNoHa9tClJFt0grE=;0xnmqFjpVAFEuO70JRHKmA=="
+secured: "gTSemQ1nRfuyLPMRX4q5PmOmHO0UCXnODpOziRhd/cdOoiF4HLhUsyH/sBOt2v7RfObHWL9ihWmtbkC0kOAzeN15Iqh6s+g+Rn8bvNz/gdx4prRVk0l91Tqb2v5AVGi4UpZS4PTsXWJUnHqYvbrWrkOrzh61VUM30NWdIuMUiCS93xlSNCXljuC3W7VUhBbzl6ld/uQGG1Vj7NUvsovd9R2zOkVxnAi3PQGiwKVjcv81KvlrV6howaf95CxmLXl4rxqJtO5UJPr94QYZ15P3ll+VKmsnOXmG/C0Jg2MaHaO57nG5ywVsuFPWJg78h4LQc0dkElTVUxgYUPU4w61Xa4fiF0/wGRqmpktjZoSCBBM=;vHWHEOswdv/aGsH280x9rQ=="
 ---
 

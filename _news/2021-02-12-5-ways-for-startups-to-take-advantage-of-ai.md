@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nealtaparia/2021/02/11/5-ways-for-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nealtaparia/2021/02/11/5-ways-for-startups-to-take-advantage-of-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 653
     isCached: true
-
-related:
-  - title: "More help for AI startups key to sector prospects"
-    excerpt: "China has had the fastest growth of investment in startups in the artificial intelligence (AI) sector worldwide. Yet, more institutional efforts are needed to ensure more robust and high-quality development of the sector,"
-    publishedDateTime: 2021-02-11T00:56:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/02/11/more-help-for-ai-startups-key-to-sector-prospects"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "aQmoNPaFRD+mHMwy6vO1cOxp6w55yc188xKS6tx1ARUp34CN+QqqQekMFZ4fVubpfi/xkQ+VnDYK02gRQ82x+mEV33d4jOCmRu0h1kHlLnX2REenah90qeSQ1nMA+VvwzdJJ7wyxpAP1T5wAcqqQoYZf14S/gdpuen3unczuS+2EIk+09VnSweLM2aLaKllCXQ5VRcFPWCE4qJ7XIaWLkLcV9GaT1KElFs/pZ0wwgpFsTnIIPcFS4YCIbZVj3rSAf7p8pjvWM9XS5tA41JJA5MFlzwIbjEJD1djcszWQluN2PJQmpYtlI1U5o4osuY4UuA0lTu7/FfMWn2SNxxslf7pHBYsbxvy/GM3wTol1qjkh1RfELnvQVfDE9RRN+mJyqM60Ug2VMr4nqUvKmqTX4oyWd4X4Xrlnkz9iJ57omm0b0z22yTQIf8SPLdDi1IqEsO3W4l3Wcae58Ra5Z5WoR3ef0zzmAJIuKbVIxOQNEgLxlnQjVZRWEWBULLuEuF/lpblwR5Bf1sxbrRjQpCZsng==;/wGFsejCxoYwLy6rivWYgw=="
 ---

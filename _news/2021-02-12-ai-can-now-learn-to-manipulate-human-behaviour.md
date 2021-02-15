@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/AI-can-now-learn-to-manipulate-human-be
 webUrl: "https://www.econotimes.com/AI-can-now-learn-to-manipulate-human-behaviour-1602032"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI can now learn to manipulate human behaviour"
+    excerpt: "In a series of experiments, Australian researchers showed how machines can find vulnerabilities in human decision-making and exploit them to influence our behaviour."
+    publishedDateTime: 2021-02-11T01:29:00Z
+    webUrl: "https://theconversation.com/ai-can-now-learn-to-manipulate-human-behaviour-155031"
+    ampWebUrl: "https://theconversation.com/amp/ai-can-now-learn-to-manipulate-human-behaviour-155031"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-can-now-learn-to-manipulate-human-behaviour-155031"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 39
   - title: "Free will hacked: AI can be trained to manipulate human behavior and decisions, according to research in Australia"
     excerpt: "Artificial Intelligence (AI) researchers in Australia have demonstrated how it is possible to train a system to manipulate human behavior and decision-making, highlighting the double-edged sword that is modern high tech."
     publishedDateTime: 2021-02-12T10:29:00Z

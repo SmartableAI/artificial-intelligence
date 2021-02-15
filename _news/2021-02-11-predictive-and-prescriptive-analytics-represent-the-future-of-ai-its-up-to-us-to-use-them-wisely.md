@@ -88,20 +88,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "NHL takes big stride on data and analytics with Amazon deal"
-    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
-    publishedDateTime: 2021-02-11T00:10:00Z
-    webUrl: "https://www.wsoctv.com/news/technology/nhl-takes-big-stride/L36UFDLB7VCPD3JJKA4PSTDLFE/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 24
-    images:
-      - url: "https://www.wsoctv.com/resizer/tXOZxvhXr_E7UBjJtZ7JluJx6lc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/UM6KZV2HS26I4XZ4HZTY7DMF6Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Big Data Analytics Firm Palantir Adopts IBM’s Red Hat OpenShift"
     excerpt: "IBM and Palantir Technologies on Monday announced a new partnership consisting of IBM’s hybrid cloud data platform designed to deliver AI for business, with Palantir’s next-generation operations platform for building"
     publishedDateTime: 2021-02-11T16:40:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "RNA secondary structure prediction using deep learning with thermodynamic integration"
-    excerpt: "Accurately predicting the secondary structure of non-coding RNAs can help unravel their function. Here the authors propose a method integrating thermodynamic information and deep learning to improve the robustness of RNA secondary structure prediction compared to several existing algorithms."
-    publishedDateTime: 2021-02-11T00:00:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-21194-4?error=cookies_not_supported&code=5ad0b75f-6eaa-478a-b074-3bb1f41d58b2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 32
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-21194-4/MediaObjects/41467_2021_21194_Fig1_HTML.png"
-        width: 685
-        height: 417
-        isCached: true
   - title: "Predicting adverse outcomes due to diabetes complications with machine learning using administrative health data"
     excerpt: "Across jurisdictions, government and health insurance providers hold a large amount of data from patient interactions with the healthcare system. We aimed to develop a machine learning-based model for predicting adverse outcomes due to diabetes complications using administrative health data from the single-payer health system in Ontario,"
     publishedDateTime: 2021-02-12T10:59:00Z

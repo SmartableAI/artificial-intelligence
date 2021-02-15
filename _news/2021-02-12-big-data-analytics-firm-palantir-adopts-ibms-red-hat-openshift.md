@@ -99,20 +99,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "NHL takes big stride on data and analytics with Amazon deal"
-    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
-    publishedDateTime: 2021-02-11T00:10:00Z
-    webUrl: "https://www.wsoctv.com/news/technology/nhl-takes-big-stride/L36UFDLB7VCPD3JJKA4PSTDLFE/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 24
-    images:
-      - url: "https://www.wsoctv.com/resizer/tXOZxvhXr_E7UBjJtZ7JluJx6lc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/UM6KZV2HS26I4XZ4HZTY7DMF6Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
     excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
     publishedDateTime: 2021-02-11T19:00:00Z

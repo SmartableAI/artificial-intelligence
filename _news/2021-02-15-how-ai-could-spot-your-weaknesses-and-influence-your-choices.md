@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknes
 ampWebUrl: "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/AI-decision-making-hed-796x404.jpg"
@@ -30,6 +31,6 @@ images:
     height: 404
     isCached: true
 
-secured: "6TNo5N4xsXUvKlYXx68JGjPJphUcEsjOwiDctQpi7IxKFgh+f1q52fZfq2KSpMhlYdsbHzrHv4VQYp/7L0L84jZaIQM7Clu0+xBSparSYk0zGfRkWb4REcQeS0fln9KRlNmZLFens1k8rfkC6Wxg0eqI80c5HQhtmNCYRkBy5Scu3tPHAKKgW9hnEW4+svXwtFOrHvb2CjkHrYulweyxkRhdPCCPvSfnnnBDQRhKl54bLktuUvlM7bsBXX73/U/q8jYq2Kde5R3+T02d8Mwg08deYSO1NviMzp65pUs2MXEE4RPG+lomTvR1hphIE0UTet/bZmVDZSSC+SJWOuNhEwK+BQ0fIIK9dOW/sHPrl+E=;VgnoklJzB+DlcNk8kcAOlA=="
+secured: "sGcpw750DABaBHZfLrstmb3CuPJBvO+NF2CcJITpMLUbedT00loJSzj+EryMMt9gh3T/1HeKzgKnT2Jb2Db6+NcLmC34qeHi9UApar+wCcDJa2QUZPZkwWw8GrpjKf2gImf2tGA0xpiB2z+7zzS27YbZE5TP3qmdPM1397wpkNFc9s45JuHrFohVFcRrCH5HcK+gKWyTq2181Ye6XhZdX7cReLvjE4eK93UwWPTFQ/AVXMu5xyB8Z6k/bUx0Pxcyoa2UVg9dR8OVjszQ/a7wQSAe4rLPuhMOPPIZdR/DotPnp/I5J1iOdqlgoHoWW+Zx7jvZzrdZhsWIDtNBy2p13QiaBoqShX52JD6i8TMic1SdE/PkvRqrRd2avnwQwSZn+zQNacQCDJORKMZ0DqduYrYUn3yul4Af3LBEarFZ78wwblIspAvvkRu43ntPZdgWDxnBo2/kZojiARzhJRqAGAnn97CF73sH6897As1BucEnPvjOusMuBIp+WlJp/aoLfMW9Ff22asOpCCO715+e3g==;0wxLCmLeMebI97qulif0zQ=="
 ---
 

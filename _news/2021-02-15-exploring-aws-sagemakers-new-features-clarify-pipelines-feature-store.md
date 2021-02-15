@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Building secure machine learning environments with Amazon SageMaker"
-    excerpt: "As businesses and IT leaders look to accelerate the adoption of machine learning (ML) and artificial intelligence (AI), there is a growing need to understand how to build secure and compliant ML environments that meet enterprise requirements. One major challenge you may face is integrating ML workflows"
-    publishedDateTime: 2021-02-11T00:53:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-secure-machine-learning-environments-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/06/ML-1341-1.jpg"
-        width: 800
-        height: 527
-        isCached: true
   - title: "Exploring AWS SageMaker’s new features — Formation Stacks, Data Wrangler"
     excerpt: "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December."
     publishedDateTime: 2021-02-14T16:38:00Z
