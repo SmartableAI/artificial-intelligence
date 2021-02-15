@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu in talks to raise money for a stand-alone A.I. chip company"
-    excerpt: "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers."
-    publishedDateTime: 2021-02-10T13:39:00Z
-    webUrl: "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 206
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425"
-        width: 3000
-        height: 1966
-        isCached: true
   - title: "Chinese tech giant Baidu reportedly plans to launch an AI chip company"
     excerpt: "Baidu is reportedly planning to launch a subsidiary AI chip firm, which could boost China‘s efforts to develop a domestic semiconductor industry. CNBC reports that the search giant is in talks with venture capital firms GGV and IDG Capital about investing in the venture."
     publishedDateTime: 2021-02-10T21:01:00Z
@@ -83,6 +67,20 @@ related:
       - url: "https://assets.theedgemarkets.com/Baidu-headquartes-beijing_reuters_3.jpg?6VE.pDYxphwMVWcR6kX6YDf.GpMFFSfx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Chinese AI Chip Unicorn Horizon Banks USD350 Mln in Fundraiser Led by Great Wall Motors"
+    excerpt: "Horizon Robotics, a six-year-old startup that develops artificial intelligence chips with a focus on autonomous driving, has raised USD350 million in its latest fundraiser led by Chinese carmaker Great Wall Motors,"
+    publishedDateTime: 2021-02-12T06:09:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 48
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors/11286501867126784.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "DbkA5/W8WuILfVylraUkMoxSZArNUszLkVGV0Gybp5uNtMrxTthsZYS0qxQrrxj9maVcP3TcSEtpCX1rjRv5BfqyLlX4PzzaK1kShWPYZUIELXHayANK54makhoVVEpZYwteOMnpg1mBgpQ2BKcs2tmhEWauk5qsy71jHLZe6CgiESnABiBZcbo5sRY/woVGo+SbVEW827Ri4Q4d4j+rZm+kTHnfiaHOAHaVee0a5Ki5el1KkbVfwMg0z70OMrkW/Ogt1UTW8JROHNIFCGp0pwaGU4egWwVcVWkKTNLDHRre0wKbvmYJJewYLWT4v9kVsIXQ7xS3uuX4/FD0P0B62+oTk4M9LSQ4agXv7wDBL43gNo/FmkKgAlHeCPyYqdwB03b4YXAUv4kmQvK365sFYPe+Hb9tk53xkvfWRyZPVZy7A26DpDQVTSHUJo+pQqnKM08CMrrCHuMTHArjiSlTkMBaqwvhbaTLZJx4VosoAl9DvWU63Vkvg1r5Ogw5RG+aQXowbJ/wN7NMr/NFLx6OMQ==;5MhhZyCYASLo8J6ls3yRPw=="

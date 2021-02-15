@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-01-26-face-recognition-kiosks-let-you-leave-your-wallet-at-home.md",
+      "title": "Face-recognition kiosks let you leave your wallet at home",
+      "excerpt": "He came to the world of customer engagement platforms after having worked on facial recognition for access control in the security industry. “We were looking to do something that brings ROI [return on investment] to the customers who bought the system ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.israel21c.org/face-recognition-kiosks-let-you-leave-your-wallet-at-home/",
+      "originalUrl": "https://www.israel21c.org/face-recognition-kiosks-let-you-leave-your-wallet-at-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.israel21c.org/wp-content/uploads/2021/01/main-pic-5.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Israel21c",
+        "domain": "israel21c.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage-but-ethical-concerns-abound.md",
       "title": "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound",
       "excerpt": "National broadcaster SBS plans to use artificial intelligence (AI) to bring Kim's voice back to life on a new program, \"Competition of the Century: AI vs Human,\" to air later this week.",
@@ -1195,49 +1238,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-elon-musk-fires-back-at-waymos-ceo-after-he-said-tesla-was-no-competitor-at-all.md",
-      "title": "Elon Musk fires back at Waymo's CEO after he said Tesla was 'no competitor at all'",
-      "excerpt": "Earlier this year, Waymo dropped \"self-driving\" from its vocabulary, saying \"some automakers use the term in an inaccurate way.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
-      "originalUrl": "https://www.msn.com/en-in/autos/news/elon-musk-fires-back-at-waymo-s-ceo-after-he-said-tesla-was-no-competitor-at-all/ar-BB1d4YIx?;pfr=1%3fc&mkt=en-gb%2cen-us&c=11865511300118058293",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 263,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/600ee0f61958200011554bc1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp",
-      "publishedDateTime": "2021-01-25T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
-        "domain": "businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

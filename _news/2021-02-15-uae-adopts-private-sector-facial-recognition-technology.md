@@ -9,8 +9,8 @@ ampWebUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-f
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Windows
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lawyers threaten to sue California State Bar over facial recognition technology"
-    excerpt: "In a letter sent Wednesday, the nonprofit Lawyers Committee for Civil Rights Under the Law demanded the California State Bar, a government agency, stop using software that they say discriminates against women and people of color taking the test."
-    publishedDateTime: 2021-02-10T14:45:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/04/22/24/17900811/15/rawImage.jpg"
-        width: 2048
-        height: 1489
-        isCached: true
   - title: "California gets demand letter to stop using facial recognition technology with remote bar exam"
     excerpt: "The use of facial recognition technology with the remote bar exam could have an unlawful disparate impact on test-takers who are women or people of color, the Lawyers’ Committee for Civil Rights Under Law wrote in a Feb."
     publishedDateTime: 2021-02-11T20:41:00Z

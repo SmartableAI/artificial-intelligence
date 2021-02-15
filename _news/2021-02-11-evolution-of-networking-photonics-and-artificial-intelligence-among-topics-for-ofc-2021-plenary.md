@@ -23,22 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Evolution of Networking, Photonics and Artificial Intelligence and Deployment of Edge Cloud for Rural Among Topics for OFC 2021 Plenary"
-    excerpt: "Visionaries representing industry and government will describe the latest development in key optical technologies as plenary speakers for the 2021"
-    publishedDateTime: 2021-02-10T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/evolution-of-networking-photonics-and-artificial-intelligence-and-deployment-of-edge-cloud-for-rural-among/article_9d3340c9-04e8-555a-906e-f0a91f3e9a48.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/7d/b7d5e4a4-06bc-5b80-ad7d-c6b03e800db1/602448fecf912.image.jpg?resize=1100%2C628"
-        width: 1100
-        height: 628
-        isCached: true
-
 secured: "GEdBUyZpThvvc9RAQqJL+tW41I2XpxTrGgo6PS2rkhNcf6RS7kka1n/aZXlhN8QNktuWSsC+yYbYXkVqUTJ6EPWj21lB99lf2rSUx5kzlNTrdYbR0mg4hM3qiEMToCbcKtuYzwGM5yePWUp1kkugFsCDpfqUxNw65ztnXbTqsU9KZKAiIdtvq72KvxiMTwtEt+QKlFDkrkHgbN7rPTrfcgI60tcKcTdGR69fvN2G3o0e6r4JA+ii/R8Wn/QOqXxiOISKTOj9U5q3TqjbnmcJL8QVcdmOx7GCGV+tv5h62ixPAeB0AGZ9kzyTm1Gl8wrFzqMeSQtgDB3NzZ5tlTnYtK4eTALDpd96G66zqESqu5g=;//nHM+KMAA+KxyCQpV7zvQ=="
 ---
 

@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joining with Toyota and Uber gives Amazon-backed Aurora the tools it needs to take on self-driving leader Waymo"
-    excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
-    publishedDateTime: 2021-02-11T12:12:00Z
-    webUrl: "https://www.businessinsider.com/aurora-toyota-waymo-cruise-uber-paccar-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Jeff Bezos-backed Aurora has struck deals with Uber and Toyota that could make it a self-driving powerhouse"
     excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
     publishedDateTime: 2021-02-12T14:50:00Z
@@ -70,6 +56,20 @@ related:
       - url: "https://www.just-auto.com/images/just-auto-share.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "The self-driving Toyota is coming"
+    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+    publishedDateTime: 2021-02-13T06:19:00Z
+    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+        width: 400
+        height: 266
         isCached: true
 
 secured: "MLqKPQPof1q97I84j7b7wsTtbiTV430YJRk7qcbMjWe9kS6AHKg5ISbZahOJ31pG5muh0AtZFZsxOU8Lt9vXb5Ry1PiOjFb3gN4RqKsAoFggcBCVABx6JgJG8yKBX4V/GZoZ8GgIp/PZbRAkSaSelgo6oc6hWxv2ZhzOI6rYhfKZD8++lEloLd3rTKLghJcYIMFEyMXacDzSW61chuY2ZbD+glAPCTLdhu7fjdl/XW5LEb4SbPjv+uwkbqeF3OBUfRbldgnzre6aEH3rXg8vBkt699R3BbKC66C9tczVIBH2jouJKLAtRQ+hT8hIxoyUo3+Y1uBlZNwXmSIgTbRhky0EMmX1OkQ5umcKCR1xeZVc2CTl2n36rg2Nmoo8XKOSD6zD6CO6BTKwocU4EhepFOtQwOxyPAkYXRXHaF2ziGqYREbhhAmWrmRfUzFUAPxAkR3SL0C0yrMxplm/NNc1xU3Antcyf4F1f/2F7rtfteIS3v1hB1w2m7ldUL02ewNVqd2GYlag5YEtjozVNEatWA==;Xl4BHPAFl/y+F/sLBG1NTQ=="

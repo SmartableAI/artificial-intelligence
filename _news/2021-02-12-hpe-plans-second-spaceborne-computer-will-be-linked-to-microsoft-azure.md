@@ -173,20 +173,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "DB Schenker advances IT infrastructure with Microsoft Azure"
-    excerpt: "In a collaborative partnership with Microsoft, DB Schenker has established plans that will advance its IT infrastructure transformation with the help of Microsoft Azure. As part of the collaboration,"
-    publishedDateTime: 2021-02-10T13:35:00Z
-    webUrl: "https://www.supplychaindigital.com/supply-chain-2/db-schenker-advances-it-infrastructure-microsoft-azure"
-    type: article
-    provider:
-      name: Supply Chain Digital
-      domain: supplychaindigital.com
-    quality: 54
-    images:
-      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62akkzgv82a100220212615.jpeg"
-        width: 1000
-        height: 387
-        isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
     publishedDateTime: 2021-02-11T13:08:00Z

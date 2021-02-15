@@ -9,8 +9,8 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: The Next Web
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu in talks to raise money for a stand-alone A.I. chip company"
-    excerpt: "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers."
-    publishedDateTime: 2021-02-10T13:39:00Z
-    webUrl: "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 206
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425"
-        width: 3000
-        height: 1966
-        isCached: true
   - title: "Chinese Search Giant Baidu Looks to Launch AI Chip Company"
     excerpt: "China's search engine giant Baidu (NASDAQ: BIDU) is reportedly in talks to raise cash for the creation of a stand-alone artificial intelligence (AI) semiconductor company. CNBC reports GGV and IDG Capital,"
     publishedDateTime: 2021-02-10T16:00:00Z
@@ -87,6 +71,20 @@ related:
       - url: "https://assets.theedgemarkets.com/Baidu-headquartes-beijing_reuters_3.jpg?6VE.pDYxphwMVWcR6kX6YDf.GpMFFSfx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Chinese AI Chip Unicorn Horizon Banks USD350 Mln in Fundraiser Led by Great Wall Motors"
+    excerpt: "Horizon Robotics, a six-year-old startup that develops artificial intelligence chips with a focus on autonomous driving, has raised USD350 million in its latest fundraiser led by Chinese carmaker Great Wall Motors,"
+    publishedDateTime: 2021-02-12T06:09:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 48
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors/11286501867126784.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "zGWaTsl6O1d08vA4emRygygufX36uoe6ppwHy6LeeIQzc3pnEuc0sYDUEocpxzVYkF3tvi6TEfYH765Iq4efttX5x/vwTThEzc3vf8IWa9cCJeLF24GlIg1SC9dG9ZunhRVRihlC1FYdt1x8whEZOEimk9ui+hvG22myrh2yB7z4JZwfRy3dUupqBHLoU41q/bWtJaa0GaVqsRo894cZmb+UEkLUMAyXeNv1c/MPBNf41RkGFLRtSI2XcgEbYakMWiOABI2jkzfd53znY20dSIG2EnNBn8tnCGNyi/i9AGlWwP3bCYKEGGXZOGyIM2lqHLN44b6A1i2wZqHfFMWELa5h1DNQ7Btl84Ggojnrz5c=;aISd+xi6jT/RRcEllVexvQ=="

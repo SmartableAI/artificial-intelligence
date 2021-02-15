@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19595444"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19595444"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 685
     height: 375
     isCached: true
+
+related:
+  - title: "Toyota and Aurora partner on self-driving cars"
+    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
+        width: 1920
+        height: 1143
+        isCached: true
 
 secured: "CRL2u5FM5rnu9N83aIqmwLg8b/vWb1K/1H3wnwnRFaAc5aVmOwsvVExgpxC/oyPtG9wWxqDKmlo5ozVmqFZRqkBZ7zhoUFURnQIZmATfkot0Gkmjb9L6SZhddwQCbyWdWxZFTNa5AjaSXZM4X8w6K/BbLVgDEA4MEo93oXvIKXtY5Oje/kGNqC5hsO0ZZf4Jhn7o+IaOaimOlNeDtCgV3A3T8TRmHvlPMdgdFKkJWa81xmuo/g5tJPz28Zx1eEe+aPJ8ilWwAS1Yozb+IXcfUN2Pzbex4I4NK98MbHClc7wtbDfQO9egoh/n0MVWx9Y/37fV68b3JO2w3YSAKy9J/04s6GeIkRJkPXwFXr0Vemg81OLxCoVHrulj6PgAfBNTtqsCW+iBsH5NQ9l6VkMaHitMpp4E2Fp55TbVWU39r+rZthgCChErVuw+QBcOqxWhhauADTLEZtazfvKeO5+BtR8frDf1TqtwT5te0H0L+/IroiyWgXnKJx1Jwq9IGnMpG8UgBaDkmHgDJcSZgdnvzA==;bIs3Q372P/M3BU0u2a5Q9g=="
 ---

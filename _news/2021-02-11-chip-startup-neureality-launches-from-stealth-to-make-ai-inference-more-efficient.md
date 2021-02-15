@@ -59,15 +59,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 19
-  - title: "Israeli Startup NeuReality Raises $8M For AI-As-A-Service Infrastructure"
-    excerpt: "Israeli startup NeuReality, the developer of high-performance AI compute for cloud data centers and edge nodes, emerged from stealth mode on Wednesday, announcing a $8 million seed round. Investors include Cardumen Capital,"
-    publishedDateTime: 2021-02-10T13:36:00Z
-    webUrl: "https://nocamels.com/2021/02/neureality-8m-ai-as-a-service-infrastructure/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 16
 
 secured: "swfyrR9M2m+vXciejUNT9WM3RTU3O6B/d13PCRUfJEFesJI9Qg+8A8Gqli51iYfsS/iAm9WWT9VgOiikX9zXCEub3sJBKXw3pDKhJLFhPZH5ptqCZzW7C62j90h12rx54DhTOjpGt1LaTkrbfMblAy9eEsrm93+sTo/e+C9cj8qiDTMVrQ1JIs0BRPnktFZbZgl0Xw8XhmJZEKXxUbSdVFnMtvzRB03wRtsn+3mnkuC/jb/1JFS2ZccTCqSrhYkfjwmiuSGcOfImD4hGDIn3TJir9ylE63ALvzoxcNaNhMfEhF+BK45tWlZiVz1K9lRjWJnOelmO2QuK0llR/PLaLU8PdxrRWXleMAxusMhizNw=;ciDTHLzR39SMhD56/sbFuw=="
 ---

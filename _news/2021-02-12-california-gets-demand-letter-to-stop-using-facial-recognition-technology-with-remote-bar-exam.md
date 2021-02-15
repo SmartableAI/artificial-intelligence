@@ -41,22 +41,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Lawyers threaten to sue California State Bar over facial recognition technology"
-    excerpt: "In a letter sent Wednesday, the nonprofit Lawyers Committee for Civil Rights Under the Law demanded the California State Bar, a government agency, stop using software that they say discriminates against women and people of color taking the test."
-    publishedDateTime: 2021-02-10T14:45:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Lawyers-threaten-to-sue-California-State-Bar-over-15940865.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/04/22/24/17900811/15/rawImage.jpg"
-        width: 2048
-        height: 1489
-        isCached: true
 
 secured: "ekfFJA/lF11yr9jFsJj+fi9TcmIW8wk2wlMUNL6KeAzCytZSr4Il4Grgyu8o6IWXabKB7TM4wcxe+dKV7Y4UwLVV4YsNuOnSItF3bRxo7nJ5pJ1e8BDffjAVao9XeQxD8y/u3+E8Sgnig5xZfgNSYH6iOqEwEknYy/KMl7nFLX46MxWoqu7BeaveySyyF9C9/lXjCQxnjsuupSK5os8msYllFBd1FmjEat7rtOyq8J74rRSGOyAqO73/pJc8Kc3FZA6lEz8SZqEayzsdyh6jxVqmvEDhTZWO0/uGS7kfkHDQTj0CqdDmVYWAlOoCyqr/4D/p1nSvRWaEXojL1A/qnxD4Rkn6Ypb47tHBIHuDd9tPx+T3GAiQfifCgI9cihsQO9eEKLQl3xMtmJMb3Iyf0vbflEh/qhejwInM53hYlRzuhcV6BSNNUPT/tKGyPpepvyDcqJPrWmi95RSPx7Qvdj1gSDnq1+HtbD/l8ZJr2FgoWipTmmpCj/04HRFNZQ/cBv42wBz8msrkMVM9Pkw/fA==;oYq4O9MNqZbOgqNtiCtgGg=="
 ---

@@ -29,9 +29,9 @@ related:
   - title: "Salesforce: Combining AI and automation can give us superpowers and make us more productive"
     excerpt: "Salesforce Einstein Automate is just the beginning. John Kucera, SVP of Product Management for Automation at Salesforce, believes the combination of AI and automation into voice-enabled digital assistants will give us \"superpowers\" that help people build relationships and make us more productive."
     publishedDateTime: 2021-02-14T23:04:00Z
-    webUrl: "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
+    webUrl: "https://www.zdnet.com/index.php/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
     type: article
     provider:
       name: ZDNet

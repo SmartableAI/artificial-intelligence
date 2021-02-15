@@ -29,47 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Aurora Partners With Toyota on Self-Driving Sienna Taxis"
-    excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
-    publishedDateTime: 2021-02-11T14:03:00Z
-    webUrl: "https://www.wired.com/story/aurora-partnership-toyota-self-driving-taxis/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 54
-    images:
-      - url: "https://media.wired.com/photos/60246fd36c104aea63dc519f/191:100/w_1280,c_limit/business_aurora.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Jeff Bezos-backed Aurora has struck deals with Uber and Toyota that could make it a self-driving powerhouse"
-    excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
-    publishedDateTime: 2021-02-12T14:50:00Z
-    webUrl: "https://www.businessinsider.com/aurora-toyota-waymo-cruise-uber-paccar-2021-2"
+  - title: "Waymo's top lawyer explains how the self-driving leader is expanding its reach — and defending its turf"
+    excerpt: "Kevin Vosen and his team tackle of range of issues for Alphabet's Waymo, from wrangling regulations to defending IP."
+    publishedDateTime: 2021-02-12T10:58:00Z
+    webUrl: "https://www.businessinsider.com/waymos-top-lawyer-explains-how-its-expanding-its-reach-2021-2"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 36
+    quality: 68
     images:
-      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60253a9acca90200129b7b18?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Toyota in self-driving partnership with Aurora"
-    excerpt: "Toyota Motor, Denso Corporation and US autonomous driving startup Aurora Innovation have agreed to establish a long-term partnership to develop and produce self-driving vehicles, according to reports in Japan."
-    publishedDateTime: 2021-02-11T10:40:00Z
-    webUrl: "https://www.just-auto.com/news/toyota-in-self-driving-partnership-with-aurora_id200163.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
         isCached: true
 
 secured: "uh6koItwW0W/TS5Aq2kdzJjTjoaxixBv/ufgNQQyofANCD5Pfdkkmfe03Ojh6+koBSSEkzR0+e/r6Vjemye5eJhbQAt5SbmnR9AOmfK9FEEIuhdWvwI0Ds95+dw4NvmhLKc/+23V1xTn+lLcb+ONq3d8JtgozBaHvc8WNxNuP5YV0vJZIg2j6tKufkKWMsQfkqz5aoXwrcxiX/SU/sCaOVh2L4K/ip6WAmYY1iJZR0mF4ggHSd7vAJY6692CxOWNm0j3qvrj3K/zu5bofBmPdprx7okfKssqUJG+hT9B2sq6H7g/RKttjCHbruq5frn26Ef58flmxksmM3SCRxunq18Z5Vk1TXxD0J43hHsTeD3I9EgoiQuXYKjC0+CbcmsvHm42zPduaPxq+Z2SZSnsS8TUCZJi1Rw+V6rlcxVsXXc28nysLaodAjqIbvV3u4hACxm4/paUKKsvlXNB7AZ4OBCnmZdh+G4V3UhGVMF/0F3mrJ9GVLxgrj/ATESA5yAKzeK2OXYICYgtvyalATM/2Q==;GRW54IaaVGofxUxvuwdYrg=="

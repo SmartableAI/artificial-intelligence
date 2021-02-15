@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-trucking-startup-taps-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Cupertino self-driving truck unicorn PlusAI scores $200M funding"
-    excerpt: "Cupertino self-driving truck unicorn PlusAI scores $200 million funding. #siliconvalley #venturecapital #autonomous"
-    publishedDateTime: 2021-02-10T14:13:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/10/self-driving-truck-unicorn-plusai-scores-200m.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2021/02/10/self-driving-truck-unicorn-plusai-scores-200m.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2021/02/10/self-driving-truck-unicorn-plusai-scores-200m.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
 
 secured: "cT4sqNcyfpDrL25y8mDXovChhyE9DZnfANqs2uPGwUSB1O9eoOXomlzuugAG1cwHmABsjJwP5SP8qMNyr+y6yA5qyoR4Tmh0LMbdq4IHSqXaKRgSY46MUxqfgpHa3Wzd1n+6LyCTV9PCgJ17U8oIh7yiOpr0SMTeHJbv+wL1dzJ7LQbbSUnM90z5bNZFcND+VvOiBFpYTW0pnqpVbD13vHB750EXDHkosw/97PnzLIhSxehYN3FzJ8O+MarCUH1UoeGOskFqCfj4Tp5HvWTgLa5f4HuPfrPr8/gOxFUPysqRY1ZGrzHMTckz1mAbtz/uu/qB+9vtNLP9HOw9gUqa+tWy5h0TyPcsQb7zP/XmvmmV0bo5FRocsUjPg7uU3Ot9ckb6s0OjLRekIMSk/1cqfedk7VIcO3ISBPXSYHwgctKCdaXYLJFPo40PtmAdvqFmGBVCqOL42m8ykmo/6u0xmi4Ja/jBR1De2uvWpQj/OkrV2+sbsRcCo7rDotxLgv0ARAJrD7HSqcXvYSRg7dnlzQ==;L/xJaHaVm0t90PCZqtzdCw=="
 ---

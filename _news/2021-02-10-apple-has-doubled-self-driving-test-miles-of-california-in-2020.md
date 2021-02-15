@@ -25,37 +25,46 @@ images:
     isCached: true
 
 related:
-  - title: "Volvo Aims to Ease the Queasiness of Riding in Self-Driving Vehicles"
-    excerpt: "The car maker is testing audio cues to prevent motion sickness in autonomous vehicles."
-    publishedDateTime: 2021-02-10T14:29:00Z
-    webUrl: "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951"
-    ampWebUrl: "https://www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951"
+  - title: "2 Self-Driving Car Stocks to Buy in 2021"
+    excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
+    publishedDateTime: 2021-02-11T16:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Apple’s self-driving cars will have doubled the number of test kilometers on the road by 2020"
+    excerpt: "Apple's self-driving cars will have doubled the number of test kilometers on the road by 2020 Apple has more than doubled the number of"
+    publishedDateTime: 2021-02-10T15:26:00Z
+    webUrl: "https://www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/apples-self-driving-cars-will-have-doubled-the-number-of-test-kilometers-on-the-road-by-2020/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 33
     images:
-      - url: "https://images.wsj.net/im-297352/social"
-        width: 1280
-        height: 640
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Apples-self-driving-cars-will-have-doubled-the-number-of-test.jpg"
+        width: 870
+        height: 485
         isCached: true
-  - title: "Help Arlington name it’s new self-driving vehicle service"
-    excerpt: "Arlington is calling for the community’s help to name the city’s new fleet of self-driving vehicles. In March, five autonomous shuttles will be"
-    publishedDateTime: 2021-02-12T15:25:00Z
-    webUrl: "https://www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/"
-    ampWebUrl: "https://www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/?outputType=amp"
+  - title: "Nissan Says Not In Talks With Apple On Self-driving Cars"
+    excerpt: "Japanese auto maker Nissan said Monday it is not in talks with Apple to develop self-driving cars, a week after Hyundai also denied reports it was discussing the top-secret project with the US tech giant."
+    publishedDateTime: 2021-02-15T06:38:00Z
+    webUrl: "https://www.ibtimes.com/nissan-says-not-talks-apple-self-driving-cars-3145646"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 44
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UR710TyFSKSwr8XnpKKGe-40q1M=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AOELJWW3DVGNNKZEY5IZ3HZ26Q.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/15/japanese-auto-giant-nissan-has-denied-that-it.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "kbh4NbhuXVe6H148mC5Mwcv4gKmVPi5cxZNw8v7P4GUBSzQT9VMIFuu5Xy3YK6c85J84pd63MBMkLBp/BcPOlmtcgDbyJxg3w54Y0mfjSQlx03qc5nJBSOJVmEeySlbW9iOud1NBmaMWLy279VyPYOIAEr0uJtS1vsCQquwr4Po8fGLQInwhR5ZznDjKQCHE5pu8hmKUhq9wuliOxCVrFhvDjgXsybM9RC91SpNpxOpC6iMAHXkE8R2y58dNscQ4eQ79mlqwJaFOMzbfQTxX3KPgiIt0OcV/RIxb7kVskISnuCzuBAe2R26XiHsmgYTfXjSRnQq9eqWO32sDHZbVK+CR2r26sKHLt6b7sfvm9ofLtR+2TRGcaSG9Bg0sGHgUgE0IEecZGMs19jntSf/AnETJZXiA5hVQgfgOpKRNV2/0AYXBxp8cSG4BJN3CN8UCnh3XFsM2/JWlLY1OwHopY9GUMQrPwz9b0GCzsrBkurKzEJUHan7djaWyqtnc9Yqm8vX4eFvMgAvd4HJIrwDq1Q==;4fscIhWAyjgauTp/5y5yRg=="

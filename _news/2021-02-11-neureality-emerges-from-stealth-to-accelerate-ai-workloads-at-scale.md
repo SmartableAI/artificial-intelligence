@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/neureality-emerges-from
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale-9796412"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 19
-  - title: "Israeli Startup NeuReality Raises $8M For AI-As-A-Service Infrastructure"
-    excerpt: "Israeli startup NeuReality, the developer of high-performance AI compute for cloud data centers and edge nodes, emerged from stealth mode on Wednesday, announcing a $8 million seed round. Investors include Cardumen Capital,"
-    publishedDateTime: 2021-02-10T13:36:00Z
-    webUrl: "https://nocamels.com/2021/02/neureality-8m-ai-as-a-service-infrastructure/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 16
 
 secured: "LgyG27xDRDRvLg3G3lHjILYiUhXP6+SwniQ3vj0dQNT1yZDnncxlfo5T9vqiAVL4SutJSPZfXyE7T3Mp507//pE9YjN7bLeLAJkZdp8wRJWteJ7lTNM9ix4uGqGj2eJw1sJwkU61ufFT9XI0DDEzciiuCi6YEVBIHk3wBIxEQjrbk4JI+z9aZT1K6Sov4RqwRfvV290/7y6FMfTyP+cK7+aUvGl/BUJjxWd+w7pzGTWW9hbcetw7nrQksoYF1057swf349fCelJF+qg/oEgzmevYu/wA1eeCqDzRHBPcN2/KincYyBumgAuTk5w+KCyt0ELmsub6tR00Uysmrho8fk17EJ0eEbANWwyhaTeQHdg=;o1baxBPxU/lFKUfN4Mz20Q=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Joining with Toyota and Uber gives Amazon-backed Aurora the tools it needs to take on self-driving leader Waymo"
-    excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
-    publishedDateTime: 2021-02-11T12:12:00Z
-    webUrl: "https://www.businessinsider.com/aurora-toyota-waymo-cruise-uber-paccar-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Jeff Bezos-backed Aurora has struck deals with Uber and Toyota that could make it a self-driving powerhouse"
     excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
     publishedDateTime: 2021-02-12T14:50:00Z
@@ -66,6 +52,20 @@ related:
       - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The self-driving Toyota is coming"
+    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+    publishedDateTime: 2021-02-13T06:19:00Z
+    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+        width: 400
+        height: 266
         isCached: true
 
 secured: "60UfP7cmkRL8sdbrgWB56orDgmD1nk1iuN5m05DUAWqaMhqyTV2/axGLmvcIuMRlutVAsNBNr/tp7nfBoU9HB002LPc+BoAh0vuSPvav7ByYSG9wExun6ZZgVqVyUH4Yi4HkHtRpnHHoia68Tmk3+dwvIjVTNeM+Ajw+en+rQVniIIn6Pgk/KuaLjl3NTfHgmepJEZBZwNJh3Ue//bo3orV9e9vqY7nabP/UFMSsz7cTVV2sTzBkTPY8rkr/+Ugn3UdQw6sPoJDCCuL7h4E0BuEb1KEorOxg408LAEh338Mz/H7r1NCDT1xFNbcWI+B5l/ZYHxcuOsd08b6+fB59qxnHOi7XXbB/VqW0I2KQUmA=;hyMxGTfqQqmmrrRY1s5w3A=="

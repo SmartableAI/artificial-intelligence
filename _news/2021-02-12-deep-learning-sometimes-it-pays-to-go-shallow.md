@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-lea
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-learning-sometimes-it-pays-to-go-shallow/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Are Psychologists The Next Target For AI & Machine Learning?"
-    excerpt: "With the advancements of machine learning and artificial intelligence (AI) in psychology, mental health apps are entering the market to help people deal with psychological issues. Will these AI-powered apps be a threat to psychologists?"
-    publishedDateTime: 2021-02-10T13:52:00Z
-    webUrl: "https://www.analyticsinsight.net/are-psychologists-the-next-target-for-ai-machine-learning/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Machine-Learning.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Conservation machine learning: a case study of random forests"
     excerpt: "Conservation machine learning conserves models across runs, users, and experiments—and puts them to good use. We have previously shown the merit of this idea through a small-scale preliminary experiment,"
     publishedDateTime: 2021-02-11T18:19:00Z
