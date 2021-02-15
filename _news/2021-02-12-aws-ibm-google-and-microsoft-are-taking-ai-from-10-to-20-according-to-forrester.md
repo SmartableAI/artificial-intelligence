@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
 type: article
 quality: 114
-heat: 314
+heat: 304
 published: true
 
 provider:
@@ -314,15 +314,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Cleareye.aiCollaborates with Microsoft for AI Platform"
-    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
-    publishedDateTime: 2021-02-10T08:48:00Z
-    webUrl: "https://www.financialbuzz.com/cleareye-aicollaborates-with-microsoft-for-ai-platform/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 38
 
 secured: "I+mXX+bnSCoirId2CIQsd9mTOYn8XG3ZrdhYDSgfjgsapNVcBzIHJOmHtbbVCSIKEUGGmIHN8FMG+eKfsCeJ0DYmgcWTcKTPNcZa4AfYi7gmsAhj3fMYx4qfVlvkE3R6+U+8oAHWk7CtPM2HhECQUOsPilZlQ3a2GyL4kVgzjNQq0fjYj+LTEq0D4ujYkeLoz9PKPC0EdtKZtlFTYB7604ICPJ+LdtDIP6fkGx//UvaDXIy1J1AXGwsv9mLP6d0aPs6TWmSvJlpu3E9+O2nGEkdsgy6cZVBkQEw2MmwaSYYG/tREifujHZLT0LmSn8XwzijoGebQNzIeemvoe3YjGfLoogq8JqXZ1KPgteFvaTgkJAnm5so9i0EtMFDD/BZZTzHKyTdi3zdZrEOwbFTMewi1/9JeRHCJlKe5n7mMGAZni+NDea7tt2LT+R7TMHmXy8YPwGxYH94QOkSyEr/7m9JNVnS3wrTzB1xzxJNbf14DkxKxQTkF/aDTMpAJ4In/+5L4xy+vhVcx0WTxR+MjJg==;AzZETTZYFDZv4MEs5+iUVA=="
 ---

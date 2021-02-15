@@ -89,6 +89,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 86
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+    publishedDateTime: 2021-02-11T13:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch"
     excerpt: "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer."
     publishedDateTime: 2021-02-12T16:26:00Z
@@ -140,7 +151,7 @@ related:
   - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
     excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
     publishedDateTime: 2021-02-11T12:08:00Z
-    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-674069"
+    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673952"
     type: article
     provider:
       name: Techinasia
@@ -189,20 +200,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
-    publishedDateTime: 2021-02-11T13:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 51
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Voice Recognition Systems Market Global Statistics and Forecast to 2031| Nuance Communications, Microsoft, Agnitio"
     excerpt: "The global COVID-19 analysis on Voice Recognition Systems market has been driven by the range of its a wide area of sectors such as HealthCare, Military & Aerospace, Communications & Telephony, Automotive Industry,"
@@ -293,6 +290,6 @@ related:
         height: 419
         isCached: true
 
-secured: "Er4Fe/Hp1qX3fEW+NxOQJB6jLz8ZH+j31OSYEFU+gd0u3S56FOF8sOY7JxL8ZlV+HU6VF3Kmz7lFwBl1xEYkTjQFbk7XbZdhU0iMMPOXe3ljCvaj9lp++XYe7uQQ3bQHylpW5Y6iOGJgtLsxF8jEtrondpYGyqCwvcRINWKh6raB+pt3rgGo9huQJUNwo8xrR9XAEAI4jObMR2YWG07mclCe8IJBKv+usW987vUG9DLf4bV0ykRH0kgWX3axSbWKiXnqrej/AYuXdYtlUvSlIuN2+6GZJ7zlcLDJEPMTqgVBOOCwJJRo/Xc63xY/cbvFJO5R2zK3L5E9EnbPdRHlPfIEsiNe19mW8Lu2lBjrz5c=;fSD2zBwwn4dSdZ1vYeMA/g=="
+secured: "KibPS4dhLd24cfdlPbe+H9HjolReWYJX1cIw8mDhsP/sGsuGNj7xVeO0eBuu0+GeR5/zhnUhtIFdngI9+B5kRTb6ZJUShXqn+Qckhy3eb9VhbmJrM9Btgii1HG4FKO6GgUzrXzvSbCrsQungZ1ejAabmsZkl0UJWI+X+3okEmEOEgMuJqiiFU0CuLMqOIbko3Oji8og116ofcyoMCLf7sdVeaIT3DToilugmXyM/J4sBaW1PlRd2OJP2BL84rnpZhv+qq6b4FTowvKMdZcO4Vl436zxod6M6sdCiUbIddXb1cBI9hjNdXqOm5CtDPBCY2S+v3y3ViMEcr6TQgEUDiDbB+T/scsQJQquH1KswQnAnqSLaNyv+EAhp7TWMZBiJLsJOVPPydE03CvXja2qsApCwhRdEAUxu7HX9p7LCoWf6ABlOd1IV1zN7RP3VW4hsjG5L5Ge02cOJzvzlA/jyiLXJ5dqx9BRuq7UAi87fjG4HKjSGS+nH0qQIvfue3MN0tDfKsVrgInNNRe3dWZi/jA==;qfgzgPD7L/AIPdRCmx89rA=="
 ---
 

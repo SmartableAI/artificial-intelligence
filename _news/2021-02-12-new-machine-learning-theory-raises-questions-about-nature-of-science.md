@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-02-machine-theory-nature-science.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-theory-nature-science.amp"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

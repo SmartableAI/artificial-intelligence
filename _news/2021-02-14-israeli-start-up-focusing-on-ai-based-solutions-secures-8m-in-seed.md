@@ -58,6 +58,22 @@ related:
         width: 768
         height: 553
         isCached: true
+  - title: "Israeli stroke therapy granted FDA breakthrough device status"
+    excerpt: "Israeli BrainQ's artificial intelligence stroke therapy, that reduces disability following strokes, was given Breakthrough Device designation by the US Food and Drug Administration (FDA), the start up announced last week."
+    publishedDateTime: 2021-02-15T00:04:00Z
+    webUrl: "https://www.jpost.com/health-science/israeli-stroke-therapy-granted-fda-breakthrough-device-status-658988"
+    ampWebUrl: "https://m.jpost.com/health-science/israeli-stroke-therapy-granted-fda-breakthrough-device-status-658988/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/israeli-stroke-therapy-granted-fda-breakthrough-device-status-658988/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/471314"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "Iq8KajOMKOqNlLzX71fsdlA8oAsu9gLceF+HnFCsxtONhOA4q/8Z7zuH9owdFZ1jKhsi9JBlFyEIPU5+l7UECD9m9aeB/pymJSr9yaND3tk38Ar8QAtn99VaeU/cu5L/ZWQx8E3SrxhO6L/HGBKzqmZFp0Cs5cW7D0EOJqIZ41mFN4ZDQSkTGdITctIChHAPZauZDa570j3tp1Dpm8jbGKsOKOZth3x56ZnoDjA9FFp+jbHLi9ODHx/3L9wems5wCavkHmozPDxcfB0DR+ORvdC7iO6Yq5Z1VD42d3G8MEpknG2MUGDDbvQNrWhzGw3PbMLzyfTRMqoXD8Xx68dmL3d5gX6s4KwGAIimzAqEWY6V7AjD4peexm3ScQAhpmbPAlFWN7LtT10v1ICoBekfii1avkfQSuOix9L99pMw6syAq6hZgaMbYZx1SnI+mUJYcP4hEJqYlozkXo7phitf26QxoYOd+FlZ+KY+C+Y0WEYkBh4OrZFKkMVjRuTpDm8AFCEwN+ppO52iGf/q3KA65A==;sSl+s/tomOAI5oFkHyoX/A=="
 ---

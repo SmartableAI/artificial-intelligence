@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Forget Self-Driving Cars -- the Pentagon Wants Autonomous Ships, Choppers, Jets"
+    excerpt: "From pilotless jets engaging in dogfights to huge undersea vessels ferrying troops, the Pentagon is pushing to increase the U.S. military's use of automation."
+    publishedDateTime: 2021-02-15T00:11:00Z
+    webUrl: "https://www.bangkokpost.com/business/2068195/forget-self-driving-cars-the-pentagon-wants-autonomous-ships-choppers-jets"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 20
+    images:
+      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "bT3yTWglyCfeXBT0UX9GQ4ljJ7FQMBXioqA//XDEYcpRz45rAOt2iLF7Kke2wHkcu1ed0KY7CnpHAKRfoWCueBBrWsniGLYrKFSmhbrUqYLrgImX8NsLKLab3eWH+ey63UsqMkWVoQIGrkDOwUSnv2GeyEjp4L/1juA0lGhDO4Vyk/omvJyoUPs/Uyaj9s4G4BV/NqBUvUc+stpuli+4s+sn6qdabvvj27pCYho46DsJkKzZ7HNBP7c+D/Y2dQ5itJ5Y6zzLYgSK1VZ10Xqt04VVZwqR+WFEJjg7fMWZICj8enXtWqfg8WXs35DQt813s3+LzhOLUE2w41USZAeT1Eo6c/5D8FYamhWUDbx65LOUKrTsxD+xOfU7qJlKYRIm6Yf0OplfgI68sDGinHUe6KxRqjpNsJbsC9kmN3pO5B7ddjM7+mr/2dWOxj3Ehg0DKj8DspbdRYRJKcnVQ5cZA0WQUm94yjIExaRbvfQZDgs5Hp5zkZiScqYeJRNwovJiwj4BjvCD61ec1srW7rByog==;usi3GQxFgcDjn3icqvGcrg=="
 ---

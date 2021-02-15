@@ -313,15 +313,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Cleareye.aiCollaborates with Microsoft for AI Platform"
-    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
-    publishedDateTime: 2021-02-10T08:48:00Z
-    webUrl: "https://www.financialbuzz.com/cleareye-aicollaborates-with-microsoft-for-ai-platform/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 38
 
 secured: "rPQ6sjrMfagLZLR9sxSf+kaQKx/osPpMEIvT/scJJhB94ETSLowfILxgqMl4GrzdzAnDH3CL5qsrRiVbqv2lInBwKMz5OygQSCWTZiTIsmF2u7f0jKz68caWHyf+n0Hi1c0Tpj7yqnPRxnbKM19fxne1M6ClFs70ZXjTWp4RH4CmwIrV4e8BgKE8JgEiKLa5tdvI6VeG1XCCECsr7MhXa+eNOUAymCFVMxVwePhhX7P1Byj8T0MBC5NbeWxlC0aF74S6NiYj+e+anEv7iwvIBto/KScSXgGSvsMLSQ0kArliujDiRtm2GyxAbfq0rrpUczrtvoZPvNRPorgTtSWoGrLEkcUSPtWJhnedIgEQIAt0PRiOX5s68y2z6jqrdmAzRSwEmLXyKYE5iGkCxQPZ5XUiIt5aHNo7GmiqvBVs0z80tMYOU3KIO6JX2oW9CcIv370UQ++70C/4v7KCY2Lw1qMOVkjozPYQPm1bJ3Rn6Bp/LMOFZG/DjtyYHK0S8cC/Io8ETvmMNy4ao87Qil3MZg==;F4Ohimqv5RWzzmgYNDY0XQ=="
 ---

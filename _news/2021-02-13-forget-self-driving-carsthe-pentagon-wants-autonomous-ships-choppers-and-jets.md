@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/forget-self-driving-carsthe-pentago
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Forget Self-Driving Cars -- the Pentagon Wants Autonomous Ships, Choppers, Jets"
+    excerpt: "From pilotless jets engaging in dogfights to huge undersea vessels ferrying troops, the Pentagon is pushing to increase the U.S. military's use of automation."
+    publishedDateTime: 2021-02-15T00:11:00Z
+    webUrl: "https://www.bangkokpost.com/business/2068195/forget-self-driving-cars-the-pentagon-wants-autonomous-ships-choppers-jets"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 20
+    images:
+      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Forget self-driving cars — the Pentagon wants autonomous ships, choppers and jets"
     excerpt: "Defense moves are outpacing commercial automation efforts in the air, on the ground and beneath the waves as officials seek to counter American adversaries' technological advances."
     publishedDateTime: 2021-02-13T11:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-trucking-startup-taps-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Chip Unicorn Horizon Gets USD350 Million in New Funding Round Led by Great Wall Motors"
-    excerpt: "Horizon Robotics, a six-year-old startup that develops artificial intelligence chips was a focus on autonomous driving, has raised USD350 million in its latest fundraising led by Chinese carmaker Great Wall Motors,"
-    publishedDateTime: 2021-02-10T07:45:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 43
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors/11286501867126784.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Cupertino self-driving truck unicorn PlusAI scores $200M funding"
     excerpt: "Cupertino self-driving truck unicorn PlusAI scores $200 million funding. #siliconvalley #venturecapital #autonomous"
     publishedDateTime: 2021-02-10T14:13:00Z

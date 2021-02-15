@@ -73,20 +73,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "First Investments of AMTD ASEAN Solidarity Fund, Calvin Choi: proud to support the FinTech community in Singapore"
-    excerpt: "Recently AMTD Singapore Solidarity Fund Pte. Ltd., under AMTD ASEAN Solidarity Fund Group (“AMTD ASEAN Solidarity”), announced its first batch of investments in five innovative FinTech companies spanning across AI,"
-    publishedDateTime: 2021-02-10T08:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-investment-management-financial-services-4905ecea13c378fd2e6f897465b0280f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "w802F2ZdzQlNxfil5LqMC9CHRYPO4xQjepeALhWzcBVniCXy27rgmhB3FXKFpXFFMjkPZgJVYIdrx+tF0zCfKnOgLuJadG40JZ59UeTdZHLQeZ6VgV27L+Q76KmAyI2sE1vKbVaq7ngFOuRHKuWZKQ0xyBV1rf3Rockofe/lQZOSnhKQP7fEMCDYPtVSM62ShT+b10bTpNbO1BygublAYgWIE6w2kfr6uKY2UHIuBW5l61IV5ZhPn5F9TZpu75+0mCsdfpHlRr0PJrTv46kxx3KdyjWNNyquxKupGL4bD1o5bwQ0TSlQxaYpLxDbGY1JAWL2cLsbE67hkLIl9480hE1MQaeVJPjElk8+6JRtuuUkYR/YLEOwAqmY7sENWdnDwHHKszolU5uWJUwzdDWmUIZE7MKPHeldFtpci+Tlpui5wggFR1M7ykW0V0Juo9JGCo+TjIXRbSzqS3LMDpUOFOpOlutSgPt4HAyabvPa0AksXqobCTQfiO/riJI/ryeCrvFtx+2ESaI3qjah1oQURw==;PHSdIv30PnxvfFuonpW3tQ=="
 ---

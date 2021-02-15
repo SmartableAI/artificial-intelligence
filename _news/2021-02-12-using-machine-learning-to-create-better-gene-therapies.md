@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/biopharma/news/amp/using-machine-
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/biopharma/news/amp/using-machine-learning-to-create-better-gene-therapies-345523"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:
