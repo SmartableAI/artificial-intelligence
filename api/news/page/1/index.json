@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-16-ai-da-the-first-robot-artist-to-be-exhibiting-herself.md",
+      "title": "Ai-Da, the first robot artist to be exhibiting herself",
+      "excerpt": "The robot was named Ai-Da after the 19th century mathematician Ada Lovelace. According to its creators, it is capable of drawing real people using its camera eye and a pencil in hand. She 'looks' in the mirror that is integrated with her camera eyes and with the help of algorithm programs transforms it into coordinates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/365453",
+      "originalUrl": "https://www.entrepreneur.com/article/365453",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613421336-Ai-Da-Robot-Lucy-Seal.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365453",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365453",
+      "publishedDateTime": "2021-02-15T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-ibms-hybrid-cloud-strategy-is-gaining-steam.md",
+      "title": "IBM’s hybrid cloud strategy is gaining steam",
+      "excerpt": "IBM is quietly acquiring capabilities and establishing partnerships that may make it the number one provider of hybrid cloud solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/",
+      "originalUrl": "https://venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/amp/",
+      "publishedDateTime": "2021-02-15T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market.md",
+      "title": "This AI-powered gadget could completely disrupt the ridiculous hearing aid market",
+      "excerpt": "Hearing loss sucks. It’s exhausting. I’ve suffered from partial hearing loss in both ears since the mid 2000’s. In order to function in the real world, I’m forced to exist in a state of constant vigilance.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/whisper-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/",
+      "publishedDateTime": "2021-02-15T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2021.md",
       "title": "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2021",
       "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
@@ -10,7 +165,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2021-2021-02-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -62,7 +217,7 @@
       "originalUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -102,7 +257,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1119,163 +1275,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy.md",
-      "title": "Thought-detection: AI has infiltrated our last bastion of privacy",
-      "excerpt": "Research from the UK and an update from Elon Musk on human trials at his brain interface company show software is now eating the mind.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/",
-      "originalUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/crowd_electromagnetic.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/amp/",
-      "publishedDateTime": "2021-02-13T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-a-new-artificial-intelligence-makes-mistakeson-purpose.md",
-      "title": "A New Artificial Intelligence Makes Mistakes—on Purpose",
-      "excerpt": "But one artificial intelligence program is taking a few steps backward, to appreciate how average humans play—blunders and all. The AI chess program, known as Maia, uses the kind of cutting-edge AI behind the best superhuman chess-playing programs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/",
-      "originalUrl": "https://www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/602711ff6c104aea63dc51d9/master/pass/business_chess-ai_1294495770.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/amp",
-      "publishedDateTime": "2021-02-13T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets.md",
-      "title": "Forget Self-Driving Cars—the Pentagon Wants Autonomous Ships, Choppers and Jets",
-      "excerpt": "The U.S. military’s automation push is outpacing commercial efforts in the air, on land and underwater as officials seek to counter adversaries’ advances with technology that could later find civilian uses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "originalUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-297635/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "publishedDateTime": "2021-02-13T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

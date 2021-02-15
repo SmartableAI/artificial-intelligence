@@ -79,22 +79,6 @@ related:
         width: 1680
         height: 946
         isCached: true
-  - title: "Machine Learning as a Service Market is Booming Worldwide |AWS, Microsoft, IBM"
-    excerpt: "Latest released the research study on Global Machine Learning as a Service Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning as a Service Market research report shows the latest market insights ..."
-    publishedDateTime: 2021-02-11T04:48:00Z
-    webUrl: "https://www.openpr.com/news/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
-    ampWebUrl: "https://www.openpr.com/amp/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 89
-    images:
-      - url: "https://cdn.openpr.com/U/2/U211657553_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
     excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
     publishedDateTime: 2021-02-11T12:00:00Z

@@ -2,6 +2,196 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-05-coreldraw-graphics-suite-2020-review-ai-collaboration-tools-are-worth-a-look.md",
+      "title": "CorelDraw Graphics Suite 2020 review: AI, collaboration tools are worth a look",
+      "excerpt": "Break down creative barriers with CorelDraw Graphics Suite 2020—find all the professional vector illustration, layout, photo editing, and typography tools you need to create and complete important design projects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/3605017/coreldraw-graphics-suite-2020-review-ai-collaboration-tools-are-worth-a-look.html",
+      "originalUrl": "https://www.macworld.com/article/3605017/coreldraw-graphics-suite-2020-review-ai-collaboration-tools-are-worth-a-look.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/01/coreldraw-mac-icon-100875516-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/3605017/coreldraw-graphics-suite-2020-review-ai-collaboration-tools-are-worth-a-look.amp.html",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3605017/coreldraw-graphics-suite-2020-review-ai-collaboration-tools-are-worth-a-look.amp.html",
+      "publishedDateTime": "2021-02-05T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-youre-doing-cloud-based-ai-and-machine-learning-wrong.md",
+      "title": "You’re doing cloud-based AI and machine learning wrong",
+      "excerpt": "Artificial intelligence and machine learning are hard, and most building these systems don’t know what they are doing. Here’s how to avoid AI/ML failures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html",
+      "originalUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/success_roadmap_perserverance_determination_challenges_thinkstock_155099452-100749443-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html",
+      "publishedDateTime": "2021-02-05T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-fintech-ai-ml-what-you-need-to-know-in-2021.md",
+      "title": "Fintech, AI & ML: What you need to know in 2021",
+      "excerpt": "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
+      "originalUrl": "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mpr37pUgQUuEWNhxeEwmrK-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
+      "publishedDateTime": "2021-02-05T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-computer-vision-in-the-fight-against-the-covid-19-pandemic.md",
+      "title": "Computer vision in the fight against the COVID-19 pandemic",
+      "excerpt": "Computer vision technology helped Taiwan nip COVID-19 dissemination in the bud. The technology proved efficient for virus spread prevention.",
+      "sourceUrl": null,
+      "webUrl": "https://jaxenter.com/computer-vision-covid-173692.html",
+      "originalUrl": "https://jaxenter.com/computer-vision-covid-173692.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2021/01/shutterstock_1713989494-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-strategic-eyes-brain-inspired-hardware-for-robotics.md",
       "title": "Strategic eyes brain-inspired hardware for robotics",
       "excerpt": "Strategic Elements appears to be boldly going where no one has gone before in the artificial intelligence sphere as it looks to utilise its",
@@ -998,213 +1188,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-super-bowl-sunday-changes-face-masks-empty-seats-and-driveway-parties.md",
-      "title": "Super Bowl Sunday Changes: Face Masks, Empty Seats and Driveway Parties",
-      "excerpt": "The Super Bowl will once again feature the Chiefs, but almost every other part of the fan experience could be different.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/04/sports/04sb-fans1/04sb-fans1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.amp.html",
-      "publishedDateTime": "2021-02-04T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry.md",
-      "title": "Synthetic Biology Startup Acquires AI Platform To Disrupt The Drug Industry",
-      "excerpt": "Synthetic biology company AbSci’s recent acquisition of the artificial intelligence platform, Denovium, could help get novel therapeutics to patients more quickly",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/",
-      "originalUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c5138d6243b1002155f1f%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/amp/",
-      "publishedDateTime": "2021-02-04T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners.md",
-      "title": "IBM rolls out an all-new Elite Hybrid Cloud Build team for AI partners",
-      "excerpt": "IBM today announced the formation of its Elite Hybrid Cloud Build Team. According to Big Blue, this group of AI and cloud computing experts was assembled to help bring its partners into the cutting edge of hybrid solution systems.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/ibm-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/",
-      "publishedDateTime": "2021-02-04T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-two-google-engineers-quit-over-firing-of-ethical-ai-leader-timnit-gebru.md",
-      "title": "Two Google engineers quit over firing of ethical AI leader Timnit Gebru",
-      "excerpt": "Two Google engineers have quit over the treatment of Timnit Gebru, former co-lead of the ethical AI team. David Baker, an engineering director, said Gebru’s dismissal “extinguished” his desire to remain at the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing",
-      "originalUrl": "https://www.theverge.com/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/rIIhMta1h8Vp1UlVVbgtVJAp0nU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68770010/acastro_180130_1777_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing",
-      "publishedDateTime": "2021-02-04T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

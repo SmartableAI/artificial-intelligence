@@ -2,6 +2,205 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-09-arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform.md",
+      "title": "Arize AI Partners with Spell to Bring ML Observability to the Spell Platform",
+      "excerpt": "Observability company, and Spell, a powerful ML Ops platform, announce a partnership giving Spell customers access to Arize AI's model observability capabilities. Spell users will be able to monitor,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
+      "publishedDateTime": "2021-02-08T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-better-data-cheaper-tech-promise-to-unlock-natures-secrets.md",
+      "title": "Better Data, Cheaper Tech Promise to Unlock Nature’s Secrets",
+      "excerpt": "Conservationists hope newly launched open-source tools will lend more insight into endangered species and the effects of climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
+      "originalUrl": "https://www.wsj.com/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-294425/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
+      "publishedDateTime": "2021-02-08T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-softbank-turns-11-billion-profit-helped-by-doordash.md",
+      "title": "SoftBank Turns $11 Billion Profit, Helped by DoorDash",
+      "excerpt": "The Japanese technology investor rode red-hot stock markets to a big quarterly profit, largely on the back of investment gains at its $100 billion Vision Fund and its $10 billion successor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "originalUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-296084/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "publishedDateTime": "2021-02-08T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-alphabet-and-dolby-lead-the-balance-sheet-powerhouses.md",
+      "title": "Alphabet And Dolby Lead The Balance Sheet Powerhouses",
+      "excerpt": "When choosing a stock to buy don't just look at earnings. Pay attention to a company’s balance sheet (assets versus liabilities). These companies pass six tests of strength.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/",
+      "originalUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020bb1d9bfddccf852d90d8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/amp/",
+      "publishedDateTime": "2021-02-08T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages.md",
       "title": "Microsoft details Speller100, an AI system that checks spelling in over 100 languages",
       "excerpt": "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing.",
@@ -207,49 +406,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace.md",
-      "title": "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace",
-      "excerpt": "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
-      "originalUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20347810_G.png?lastEditedDate=1612776009000",
-          "width": 900,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -516,6 +672,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace.md",
+      "title": "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace",
+      "excerpt": "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "originalUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20347810_G.png?lastEditedDate=1612776009000",
+          "width": 900,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -966,206 +1165,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-diat-to-research-develop-robotics-platforms-for-armed-forces.md",
-      "title": "DIAT to research, develop robotics platforms for armed forces",
-      "excerpt": "The institute launched the School of Robotics last year, considering interdisciplinary requirements of research and development in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/",
-      "originalUrl": "https://indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/02/DIAT-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/lite/",
-      "publishedDateTime": "2021-02-07T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-ponyai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech.md",
-      "title": "Pony.ai raises $100 million more to advance its autonomous vehicle tech",
-      "excerpt": "Autonomous vehicle startup Pony.ai has raised $100 million more, bringing its total raised to over $1 billion at a $5.3 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/",
-      "originalUrl": "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/",
-      "publishedDateTime": "2021-02-07T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere.md",
-      "title": "Qualcomm research could lower the barriers to visual AI everywhere",
-      "excerpt": "Qualcomm is working to reduce the compute power needed for visual AI to enable chips that are smaller, cheaper, and less power hungry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/",
-      "originalUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Qualcomm.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/amp/",
-      "publishedDateTime": "2021-02-06T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-delta-expanding-facial-recognition-technology-to-domestic-flights-in-detroit.md",
-      "title": "Delta expanding facial recognition technology to domestic flights in Detroit",
-      "excerpt": "Delta Air Lines is bringing facial recognition technology to domestic flights. Last week, the airline announced that it is launching its digital ID technology for domestic flights out of Detroit Metropolitan Wayne County Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
-      "originalUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Delta_iStock-1263361477.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
-      "publishedDateTime": "2021-02-05T17:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

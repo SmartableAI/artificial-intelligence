@@ -74,22 +74,6 @@ related:
         width: 1680
         height: 946
         isCached: true
-  - title: "Machine Learning as a Service Market is Booming Worldwide |AWS, Microsoft, IBM"
-    excerpt: "Latest released the research study on Global Machine Learning as a Service Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning as a Service Market research report shows the latest market insights ..."
-    publishedDateTime: 2021-02-11T04:48:00Z
-    webUrl: "https://www.openpr.com/news/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
-    ampWebUrl: "https://www.openpr.com/amp/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2240320/machine-learning-as-a-service-market-is-booming-worldwide-aws"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 89
-    images:
-      - url: "https://cdn.openpr.com/U/2/U211657553_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Why Microsoft is Pinterested"
     excerpt: "The Financial Times reported Wednesday that Microsoft has held talks in recent months to acquire Pinterest. The talks, which are \"currently not active,\" could have led to Microsoft'"
     publishedDateTime: 2021-02-11T20:46:00Z

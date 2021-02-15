@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually
 ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
 type: article
-quality: 104
-heat: 105
+quality: 106
+heat: 107
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/15/28709f80-89eb-4c9d-8680-a943ce1b8691/isscc-2021-virtual-lounge.png"

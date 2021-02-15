@@ -55,6 +55,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Forget Self-Driving Cars -- the Pentagon Wants Autonomous Ships, Choppers, Jets"
+    excerpt: "From pilotless jets engaging in dogfights to huge undersea vessels ferrying troops, the Pentagon is pushing to increase the U.S. military's use of automation. Defense moves are outpacing commercial automation efforts in the air,"
+    publishedDateTime: 2021-02-15T20:35:00Z
+    webUrl: "https://www.aviationpros.com/aircraft/defense/news/21210170/forget-selfdriving-cars-the-pentagon-wants-autonomous-ships-choppers-jets"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 0
 
 secured: "C9SKJNwlGGYNJPAy6JYJ1cvNWTFFn9kRS52Wi1YuxRT68jL0RIgetdNfNDEjlr1OKP8bNLQ3BeB+KhgeH5ZbqtmJpcqOW4wUP4Q86f/RmVfOocmW1FycnJuQJWkqOA3fzSC53BU7R9Cp7mkbQi5uUfBiyGJ2H5LLvjFZdUlPX67DAjxaaFBwxSRzNrn/d44fTvk7pCky9Dlu93FOK8nKjXM0XwyWuNvdCNcAKKhd63Dh04drTxtxA87EWZzvI1cqxSuJ43XVHyjZYgh+xnjViGT2JFyeC8mr+icZGlYLoUa86qGvSEBdD1Z1d293XM8myzxY75SspHvPRS6XBufBzWLA7SRgQJqsfE15ODc1gWc=;Vd9uEZs6bqoql399hI0TPQ=="
 ---

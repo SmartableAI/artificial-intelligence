@@ -203,6 +203,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Azure is going above the clouds and all the way up to the International Space Station"
+    excerpt: "Later this month, a computer will be sent to the International Space Station that will be connected to Microsoft Azure. The connection will help teams on the station process data quicker."
+    publishedDateTime: 2021-02-15T19:12:00Z
+    webUrl: "https://www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station"
+    ampWebUrl: "https://www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 52
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
     publishedDateTime: 2021-02-15T08:51:00Z

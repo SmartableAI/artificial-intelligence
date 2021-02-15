@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The \"Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 -"
+    publishedDateTime: 2021-02-15T19:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/outlook-on-the-smart-robots-global-market-to-2026---industry-analysis-and-forecasts---researchandmarketscom-2021-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
     excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
     publishedDateTime: 2021-02-11T13:25:00Z
@@ -98,6 +112,20 @@ related:
       - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
         height: 448
+        isCached: true
+  - title: "Artificial Intelligence In Drug Discovery Market Size, Growth Drivers, Trends and Forecast to 2027"
+    excerpt: "Request a Sample of this report @  The global Artificial Intelligence In Drug Discovery market is expected to reach at a remarkable value and to grow at a considerable CAGR over the forecast period i."
+    publishedDateTime: 2021-02-15T20:12:00Z
+    webUrl: "https://ipsnews.net/business/2021/02/15/artificial-intelligence-in-drug-discovery-market-size-growth-drivers-trends-and-forecast-to-2027/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 23
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/02/4950-1613406149.png"
+        width: 300
+        height: 281
         isCached: true
   - title: "Voice Recognition Market Size 2021 Global Industry Trends, Share, Growth Insight, Size, Competitive Analysis, Statistics, Regional Forecast to 2025"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Voice Recognition Market”"

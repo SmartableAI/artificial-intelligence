@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/forget-self-driving-carsthe-pentago
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Forget Self-Driving Cars -- the Pentagon Wants Autonomous Ships, Choppers, Jets"
+    excerpt: "From pilotless jets engaging in dogfights to huge undersea vessels ferrying troops, the Pentagon is pushing to increase the U.S. military's use of automation. Defense moves are outpacing commercial automation efforts in the air,"
+    publishedDateTime: 2021-02-15T20:35:00Z
+    webUrl: "https://www.aviationpros.com/aircraft/defense/news/21210170/forget-selfdriving-cars-the-pentagon-wants-autonomous-ships-choppers-jets"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 0
 
 secured: "mfe6YyAsJjQOO91nOsyH5DIb4ndmK1Zi2tUItALSPdimbNvF2y4luzHzwoE9iNd+PLSJTdkwdsLYiJBS6viZFUw/1/AtMH7t7qJiDT+RonfI7nAGkxJKuYitKG0i5zP2dhsXD50FJOMAhsLF6q8LhwXNVZgAY4cloyXihrWumzJnV7y0he1YpHJTpYd/r+ChPBBauihqIbOEVkXSuGyWlfNZGHZmz95GuTiA+9j8PvJoHkHBzEvBJEZteFXnyJuCohL0pp8XayN3dR5L8a5NQ878QuwEkjQuxC4pvusJAuRRUlRYXcG4CeRY5DNOemjET09AHt6q4qAnSwD44ZvAivkzeaf80VZIlY/BjU1DMgxCnfL0O1KJ2wqBNHv1i9ENBG90zZTdyHQ200guZYMEmXo6hj1ItGcDB7O9NXIBz9RBCTkUjhDZm088ON/LQCOFBbJQth6li4+gtSDyyN0xGkCdY6oOqXoYGaOph2reY7TkVwlodST/Pm/N+h7DUbJC/1dK+zYsRpkxCJidb7mQNg==;MP1vOGPmkT0JKOBfO1tDhg=="
 ---

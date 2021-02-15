@@ -62,7 +62,7 @@
       "originalUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -358,6 +358,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
+      "title": "2 Self-Driving Car Stocks to Buy in 2021",
+      "excerpt": "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "originalUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "publishedDateTime": "2021-02-11T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car.md",
       "title": "The Nine Ground Rules For A Driving Robot That Can Drive A Non-Driverless Car",
       "excerpt": "These are the nine key ground rules for devising a driving robot that will turn any car into essentially a self-driving car.",
@@ -419,7 +471,7 @@
       "originalUrl": "https://www.wired.com/story/aurora-partnership-toyota-self-driving-taxis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1439,49 +1491,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-trump-left-a-massive-traffic-safety-mess-for-biden-item-one-teslas-self-driving-claims.md",
-      "title": "Trump left a ‘massive’ traffic-safety mess for Biden. Item one: Tesla’s self-driving claims",
-      "excerpt": "The Trump-era National Highway Safety Administration will be remembered for what it didn't do: offer clear rules for deploying autonomous driving technology. Tesla has been the beneficiary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden",
-      "originalUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/d5a6fb2/2147483647/strip/true/crop/1615x1055+130+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F38%2Fe9%2F3e30121d8a40765a7286512e564a%2Fla-1538770648-xotslzaqb8-snap-image",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden?_amp=true",
-      "publishedDateTime": "2021-02-04T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
