@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-1
 cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://menafn.com/updates/pr/2021-02/10/EP_7390e81c-7image_story.jpeg"
         width: 793
         height: 415
-        isCached: true
-  - title: "Georgia Startup Races to Complete AI-powered Voice Screening Tool to Crush COVID-19"
-    excerpt: "With innovative AI methods and algorithms, BRAVE Innovations is working tirelessly to increase the number of confidential voice samples recorded at COVIDvoice.net to launch a voice-based COVID-19 screening tool."
-    publishedDateTime: 2021-02-11T05:33:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-informatics-georgia-covid-19-pandemic-lung-disease-06c8c84dddb0feb632823aa8e8575fbf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "BNpEdkWejeYbyoijHc38AqHTW0nt0eshBP453BaPHl5Sn7wgLxuQl2yItkVLGm6G14ExwGKItRu1b7wHQeMBRSpKAF/OVx5yl4sDW/qm3AOh8qVWGi2oCr5BbimNDJMis4rz7z7hRAqZKCdnNdFEPZhcVZc2oeTnWPfo+5pRK1B+Qoa+DK5CI7p4jCXIoXAobgr4C5Vt3sKR9V2WmeAI7Axi2nwKNY3nR+XhwJjknas0Ug56fXmCgGW77Tre38J7av9P+Gu3TfQs6fGslnWXPr+N10mK+mNeMW8+CoJo1bphrrLusis1zQDfX4FED7BI8hNsArtXnM4yVcanMiaxExiOVyk7ygmNR0Oab75qN4c=;7Q3rDCmOAAR5tmhpEGPSTQ=="

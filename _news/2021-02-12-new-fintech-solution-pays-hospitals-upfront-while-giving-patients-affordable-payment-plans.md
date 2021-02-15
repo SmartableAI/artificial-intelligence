@@ -55,20 +55,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
-    excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
-    publishedDateTime: 2021-02-11T07:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210211dc76695/new-fintech-solution-pays-hospitals-upfront-while-giving-patients-affordable-payment-plans"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/1436806/payzen_Logo.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "B9R4y0j/wcl6OF0gFdaGJM3bjLORFgmvm9SOtUc6WNQIxymn1u/co/LaU/xB4kIXtiNcWQvOPo1U2dWzkx3ATxCedufetJODln9ne73THdp6vc6Z2edFrc6We4OY2v9QjRNbY0hUZPdQXNm8IrumW7u/db21Y0EuRaqdRJdKX02Zj5byIU/D29ZJHrHLVTHncHz2fYyTtBpDCe4nfo1D6owTAdYrunXDazGbE8t6ScV9BOC68FqegCQ3Kk8hGAHRnRGo/MfCfhtHtbQcX+FcCWHyqnE3IV1cY2fa/zf9W1U5XM8TjkLU4cWOZY87O9sw3h8ekTl/M67inTD2u7wyrp6mylzVmVe7fnsunlSp0rU=;z6n7gfThTq1A47/zG2Tplw=="
 ---

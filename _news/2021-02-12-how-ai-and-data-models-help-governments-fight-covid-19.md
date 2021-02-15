@@ -69,20 +69,6 @@ related:
         width: 793
         height: 415
         isCached: true
-  - title: "Georgia Startup Races to Complete AI-powered Voice Screening Tool to Crush COVID-19"
-    excerpt: "With innovative AI methods and algorithms, BRAVE Innovations is working tirelessly to increase the number of confidential voice samples recorded at COVIDvoice.net to launch a voice-based COVID-19 screening tool."
-    publishedDateTime: 2021-02-11T05:33:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-informatics-georgia-covid-19-pandemic-lung-disease-06c8c84dddb0feb632823aa8e8575fbf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "vEgeIY6G4iUfNSs/1Y88hbce7acIqqbRKlVxqfjHEg6PQN4GK2ENZtCh9J806bfwmVV18rWA3faltu7MvZUWbtHIstmvpxZd/Mt4Tuuv+r0v35d9K96F/G2Q1duwn/vPijxh0VM3qoy6Fy+f0gaKgb5D5rbFMlBbSNJz/udo1rnGWdRNoj7nMZooJfIi+XvAXbIdZWoz8wOXr4tXiJmtebNyq06yB9mqiyd0NVSFa3XdvOz2F4zVTQgxFoVftp8ZiEUL7bl0OeHPvhFh9Coma8yfonYY5AzHLE7TGe8P66bb3DAB7pcJZf0qVzk4pam9OljH85p/mrQOztxhZuUoZxhR9TywM261n14mhQ913oo=;llAFMeZkMvr3XHRqr+Gzlw=="
 ---

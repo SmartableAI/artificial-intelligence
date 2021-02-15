@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Unfortunately, Commercial AI is Failing. Here’s Why."
-excerpt: "While AI is a trending topic in the tech world, artificial intelligence products are failing to impress the commercial sector. The industry is facing AI fatigue due to a lack of scalable AI that is meeting the hype and performing as expected."
-publishedDateTime: 2021-02-13T12:11:00Z
-originalUrl: "https://www.analyticsinsight.net/unfortunately-commercial-ai-is-failing-heres-why/"
-webUrl: "https://www.analyticsinsight.net/unfortunately-commercial-ai-is-failing-heres-why/"
+title: "Investing in AI with a conscience"
+excerpt: "Local start-up BasisAI is preparing to go regional with \"responsible\" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA).. Read more at straitstimes."
+publishedDateTime: 2021-02-15T22:55:00Z
+originalUrl: "https://www.straitstimes.com/tech/investing-in-ai-with-a-conscience"
+webUrl: "https://www.straitstimes.com/tech/investing-in-ai-with-a-conscience"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Analytics Insight
-  domain: analyticsinsight.net
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Unfortunately-Commercial-AI-is-Failing.-Heres-Why..jpg"
-    width: 900
-    height: 500
+  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/16/ST_20210216_LWAI_6328626.jpg?itok=QRxL3typ"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -113,6 +112,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Unfortunately, Commercial AI is Failing. Here’s Why."
+    excerpt: "While AI is a trending topic in the tech world, artificial intelligence products are failing to impress the commercial sector. The industry is facing AI fatigue due to a lack of scalable AI that is meeting the hype and performing as expected."
+    publishedDateTime: 2021-02-13T12:11:00Z
+    webUrl: "https://www.analyticsinsight.net/unfortunately-commercial-ai-is-failing-heres-why/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Unfortunately-Commercial-AI-is-Failing.-Heres-Why..jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Thriving in the new normal with cloud and artificial intelligence"
     excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"
     publishedDateTime: 2021-02-15T02:06:00Z
@@ -126,20 +139,6 @@ related:
       - url: "https://www.thesundaily.my/binrepository/480x268/0c14/480d250/none/11808/QJLI/p12-afp_2118790_20210214191704.jpg"
         width: 480
         height: 250
-        isCached: true
-  - title: "Investing in AI with a conscience"
-    excerpt: "Local start-up BasisAI is preparing to go regional with \"responsible\" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA).. Read more at straitstimes."
-    publishedDateTime: 2021-02-15T22:55:00Z
-    webUrl: "https://www.straitstimes.com/tech/investing-in-ai-with-a-conscience"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/16/ST_20210216_LWAI_6328626.jpg?itok=QRxL3typ"
-        width: 763
-        height: 509
         isCached: true
   - title: "A Cloud-Connected, AI-Enabling Commercial Computer is Heading to the International Space Station"
     excerpt: "SBC-2 will also tap Microsoft’s Azure Space service to connect users on the space station to the Earth, and vice versa, through the cloud. The computer will be installed for the next 2 to 3 years, and is backed by a sponsorship from the ISS U."
@@ -156,6 +155,6 @@ related:
         height: 400
         isCached: true
 
-secured: "JHkJorNaZU7X1tkuc0JUaIjW5/j9EzrqN7+qlcoKKBqHj1OXro8jUyO+3TY+gNbjiKNbPshz5Gf2eifDp89nzb7ucHzFtRe6N/DEfZViiqmdQ6BiTmlE/AlAKZ9u1dWcNEklekZxJws5V1lALO82m8c9KtaGKuFQnJvOZ8mKPG70vQ11U0PNREVTqHuYi3wg7OR0xRAJcnExByvosUsHy7XyD6VJH6H+B55ANQqcWapF7AIsHQXbgdrHZo4QwFy8qZGT5VnzBB5lYdlC6pB/RlddOpKh+BuF/qqRRDaiz6Iew4ykYm+HCQ9ZwFT6PIyGlWKcb99cD5V2xpGf62EiEBUfAP1W1XWN8uTyX2Op3ZM=;XoXjRtS+VNwiLzIKNxZ3Ug=="
+secured: "l45Z7ClBNNl20bZmEZmSZBDzpsxc1fe9nNVvsNfxef4oD93G38RK01KnLtN+As1kIBUok9mLKIvX05DF5BR8O8x/86uzE+C05gt8Wx+H27Sxl8PebCFOQWKjZRBrJuti8vl0858hwe14AVBN7VvxFKtG0gLyIe/wGItnN6alR/FgAZWZhBBjIMRCfdlJ9KonidfrUjCl+tEFjLyc4zN3IZWeUE3JeE5nK18jZXJlwypFpBnvYhlnboX65dj+q0DvVnjyhGpRkDmGrrczviUO7XON5hOk1MJooEeX6+aRwYAqrJGRHH8NrOdayCrTgL/2xvxZM3YthjEUB69LHAwu7D1hU75y5ZILVCiEGJz5oTQ=;5WgBZK+sWdLoPRPjjge5Aw=="
 ---
 

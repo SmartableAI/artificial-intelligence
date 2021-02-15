@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
+    excerpt: "Humana Inc. HUM recently tied up with IBM Watson Health through which it can serve its members better through the latter’s conversational AI solution. The partnership is expected to provide more transparency on benefits to the Humana Employer Group members."
+    publishedDateTime: 2021-02-15T16:18:00Z
+    webUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
     excerpt: "As part of the agreement, Humana will deploy IBM Watson Assistant for Health Benefits, an AI-enabled virtual assistant built in the IBM Watson Health cloud. Initially, the service will be availabl ..."
     publishedDateTime: 2021-02-11T13:10:00Z

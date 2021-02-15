@@ -2,63 +2,25 @@
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
 excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T21:20:00Z
-originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+publishedDateTime: 2021-02-11T16:20:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+ampWebUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
 type: article
-quality: 74
-heat: 104
-published: true
+quality: 54
+heat: 64
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize"
-    width: 1200
-    height: 785
-    isCached: true
-
 related:
-  - title: "Toyota and Aurora partner on self-driving cars"
-    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
-    publishedDateTime: 2021-02-11T19:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
-        width: 1920
-        height: 1143
-        isCached: true
-  - title: "The self-driving Toyota is coming"
-    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
-    publishedDateTime: 2021-02-13T06:19:00Z
-    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
-        width: 400
-        height: 266
-        isCached: true
   - title: "Nissan Says Not In Talks With Apple On Self-driving Cars"
     excerpt: "Japanese auto maker Nissan said Monday it is not in talks with Apple to develop self-driving cars, a week after Hyundai also denied reports it was discussing the top-secret project with the US tech giant."
     publishedDateTime: 2021-02-15T06:38:00Z
@@ -74,6 +36,6 @@ related:
         height: 682
         isCached: true
 
-secured: "1ZO3EC/13Wrklqo5UAp/wnTHdwgyybhbaXDIyD5EjBJwHK6VfLH33xNjTrAAf8wrjUI1c3+x2Dn5vmJZ+Ov0BdT5Fd8o4U+UlcN7unB9Rg+QGXIJXefuW7NGw8hlhX3TBywP7qUx9VHwWpC45LRKTRbAEFctb3LjZvEwb0T+Qn8/gpi8Lqn9WUJoxxTBG6xgLIM97gt6Tv/KGZpte6QOBGxASl5hs5jiFwKFUrtO1VggB8aJgdHjp2FyicjMR7GFZ37z+NM+JVZ84VEoDgf1qfBmNqW0imPzxSsw+ZdefoJ0+I5agKP3OlJF7PQ/e4nYsNmlUW0u4GUW+3WfzWyiVslxSVKIjD2jd4IXYPelXNw=;u7QJ3ZE7HzVE/aTGOUH3Kw=="
+secured: "RKErHTbDD56M1xo9thJVvtpWwRsjq2qovHNcV3Vlo6QLKU30KD/m4z1KRgudl9NCGanSC5ejWHDNsomMzZdQWfJnFyh6N1I+0t48funiaxYtdQgHPfE+Pst5HNO68AHfTIZ29NduqfOcd82mBwa04GTRy/Rj9Pnekf4JiLWxzlGRinpzZgXTqkmpmllK+7vFPMjVbVyAqeiXK41kouNWGA/YdN+h0tV9lS5KNfxBFd3BCUqsnzJmoYWTaXFHkPxwldgX2fuvdFxSC/w9pP5Fu5rHsUW8BY1tuc0p/xLYWVcAonOujNp1lZZUosgn5jAZ2nPpn8emDRT8qh4Z0GQ8KqPm3TKnhuVHew6wlwZcxy0=;57jJdUVJVfW+S1rzjoblhw=="
 ---
 

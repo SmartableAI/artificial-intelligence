@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Minneapolis City Council votes to ban facial recognition for police use"
-excerpt: "On Friday, the Minneapolis City Council voted unanimously to ban facial recognition technology for police use."
-publishedDateTime: 2021-02-12T20:25:00Z
-originalUrl: "https://www.southernminn.com/around_the_web/news/article_a7a1942a-3546-5571-9c89-4ccc97cdc992.html"
-webUrl: "https://www.southernminn.com/around_the_web/news/article_a7a1942a-3546-5571-9c89-4ccc97cdc992.html"
+title: "Minneapolis passes restrictions on facial recognition use by local police"
+excerpt: "Minneapolis has passed legislation blocking the use of face biometrics by city police, the Star Tribune reports. The ordinance passed by Minneapolis City Council bars local police and other city agencies from acquiring facial recognition technology,"
+publishedDateTime: 2021-02-15T21:41:00Z
+originalUrl: "https://www.biometricupdate.com/202102/minneapolis-passes-restrictions-on-facial-recognition-use-by-local-police"
+webUrl: "https://www.biometricupdate.com/202102/minneapolis-passes-restrictions-on-facial-recognition-use-by-local-police"
 type: article
-quality: 39
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Southern Minn
-  domain: southernminn.com
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/7/df/7dfb1a0e-49f8-57b4-be3a-8652eee7877c/6026e228dca77.image.jpg?crop=1766%2C993%2C0%2C90&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+    width: 1600
+    height: 1035
     isCached: true
 
 related:
@@ -105,21 +105,21 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Minneapolis passes restrictions on facial recognition use by local police"
-    excerpt: "Minneapolis has passed legislation blocking the use of face biometrics by city police, the Star Tribune reports. The ordinance passed by Minneapolis City Council bars local police and other city agencies from acquiring facial recognition technology,"
-    publishedDateTime: 2021-02-15T21:41:00Z
-    webUrl: "https://www.biometricupdate.com/202102/minneapolis-passes-restrictions-on-facial-recognition-use-by-local-police"
+  - title: "Minneapolis City Council votes to ban facial recognition for police use"
+    excerpt: "On Friday, the Minneapolis City Council voted unanimously to ban facial recognition technology for police use."
+    publishedDateTime: 2021-02-12T20:25:00Z
+    webUrl: "https://www.southernminn.com/around_the_web/news/article_a7a1942a-3546-5571-9c89-4ccc97cdc992.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
+      name: Southern Minn
+      domain: southernminn.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/7/df/7dfb1a0e-49f8-57b4-be3a-8652eee7877c/6026e228dca77.image.jpg?crop=1766%2C993%2C0%2C90&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
 
-secured: "zrl7s+FC2gPULyWJqwRAGeFmAzPHbEkFd0Gy/GWA4XPbKfpNapqy4ed7yyvyk0Dgs2eaSbUMJMatdPiVbcWN5M4WsL3KbaUbnnyZodGI/eqmPKxZBckKIJvvezouayJ2e7qRCYThgl++zgjr8gbytp/5cybt17Irjoppadux1ActF5SEMFBnZQgQMWnWjwrCMtQIpDzazj8Qroig+c/aeNlfhUueQ+2ToyQhRfLMHBOKA8UxsNYQJISUS+VIMpHrEfMqJWMMjcC2/SM1HxQ5xnmckcq7ISanqj/s/xwidR/Z7BqazIJ54CO3IprJZZBh3byyUZ+oN2I4Xcr5uOexEayFOYsQLzEJi91oKiKfbRAlT8UWIXYFyzFwQzFhKksYc4Ld/LwZNd+YmiN54UorQr6NjRzFKN0Pv9ogUrReoEXH5E9ax4Mtji0Vivrnbnc4TjukNIY3eliB8i9MfnOP8UUOXXEDcGJ0PGJBbefEhP+Bjh7Au/oK1zT1NNpFbP8AEdXbXuHeHrzcSbXBGjLm8w==;GNWn5eqg2tVl7aGnTIUMXQ=="
+secured: "11wcrfJrvCFORQdYyDgGRkAwAgS2RkfkDUW785BfHuQQWPU0F3m1Wz1EfEe9thLFlxgzsKXdi0VAzEPDWzw9ct/+LyDa1enaPHzp/iZVaXqnxlZyLKdBxuvKxx8W9T3cH5SsFc/0+XAqfaQQjmwF1x3a3L+FQW+LQP3WgKTygK6fNYCw/qEDiLTrmrrQX+k7cA8PxcJKljbMyNtYz62/jknLwnz8BN94XhvXPnXHAXFhh+itfy7BKdCvidjMYotILC6kaZ8RuStKznLbY4SJT+mYbXHR/QoPeXQqs6wRig0TK5L6hstEzhR1nMk8CsoeqoZrrNbLkn6sZINmgCRc1w68HJKQBgxcIvPiLN2iax8=;X6rwulvSyUiNH6fhjM3lCA=="
 ---
 

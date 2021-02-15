@@ -3,13 +3,13 @@ category: news
 title: "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G"
 excerpt: "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event."
 publishedDateTime: 2021-02-15T16:21:00Z
-originalUrl: "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
-webUrl: "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
+originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
+webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
+ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
 type: article
 quality: 106
-heat: 107
+heat: 106
 published: true
 
 provider:
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
-  - AI
   - Facebook AI
+  - AI
+  - AI Hardware
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/15/28709f80-89eb-4c9d-8680-a943ce1b8691/isscc-2021-virtual-lounge.png"
@@ -31,6 +31,6 @@ images:
     height: 1045
     isCached: true
 
-secured: "9iyNdKtBpGrEuepC6j7Q06NeYlMnUzN8UvUyPMuz2mQokXjdXnOyQfWrIxDu4vVNRJdzwQB+BAIqc26Gwrlkf+b7BTTxjYaP3WtnEo1Cf1MRNzb2b5KSxc2wkrp47oNTj9IMLka3FcCEZmV+dISYgSM5/w8ZKyYDvdEZQHfJfNgSXDPMIgI2lR3gaAKufocSBZZHkRdO2YqrgNMfVHLeMqXXi3Qtzs1115JE5AVejtLyH7KiNkC9DeHj4JOSg82kd0mvQfE/f10+D1RV6ipDeuEPknz+V8KMqx+rJXpndAXI7cDURmPu8/qMxV/xtdxz45akOSYRxdbOL1O+S95yQprpJ0gz3GnRDdEl7AZlPRQY245n5iZjXxjawhVdq3mwKbeYmKf5DPsN8TG9I6JxzmarcTXIZ9gdlFJ0dJiM7zFKFS5GGYi4gnuRHlXwE3nv6/ZNVqn3CxDyLMKRSNmMybWvAW+myVCVMTaF+Zcb8eLEmgZ9h/Sv+QwT0X26d8Uebqpq1BZchNwlu1qxxYGcJg==;IZUGT1KQGGknQ7ixTFNsWQ=="
+secured: "Kb+ZNPNYcus0KsQ5kbQJlP2NAYPz5Go6sZSfii28dnkjEBtbmLB7QLZsivf1i9r6FURkmX9ap0P6rZ6+V/1rXU4P/CsKn+e5tzCNwqiu+ZrxWaF9P3IgHOiVFGlUQkIjH4O5DpnGPWk8SrLQzps3F7eX4b4oZFUpI1+2ko3PXQnfpcsel9JKwwi6dMEsc9HSEVF9L1Hr/BsxvdGs1Hrm6TijgxZhaqMy86Joq1gFHqDDPESFWU/J2c9DhaalqWI1WbpozNw2E0o98qCQmxe+LnJqjr3ANueAizvcOpOj4kMOQlrknzWEJijjGzyv4JXRHV/zNeebUOhCmK5xRh7Y/BGFaSh0A7Ro7chmH7aFCXk=;/H2rv30jf2RMnsyCRKnw0g=="
 ---
 

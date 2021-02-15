@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/02/n19662614/mental-health-st
 ampWebUrl: "https://amp.benzinga.com/amp/content/19662614"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19662614"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 secured: "QghAIoarDcacqEZPSdQ0kbBYg0VeUpYQTeDJ8nVf5Kz7hD3G1LyxCMxZqJuRIsDrQcs7ayjZGDDlZsXTprqqW4I/qfQPoBT10hiYE+mJW7iZpL6qRexCHcEyPGhUzpMJ1WpxjTFJ24YGg9oTnoBnvYCasMMPPq+WbymmgLoJczwcpz/DaIG5n1nqK7459XGwNAqbEVGlOTbBwTY+SojJE5cgT+muAwGlR/oSG3oY3b+9fxzbhNUS/lTKdIdzpTDmuqMcIknrBS9rKpoMwb66YKz6a5Nt32/RWz3yIoXuU1ppW8mlBZ+TavBbeKK2sU0hPpiZZFtvGQsW8pKqjVErFgouPCDdu1NUhBfZGSkumgI=;oGrZzwJccGxAbxcuO0W8pA=="
 ---

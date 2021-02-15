@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?a
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/7/df/7dfb1a0e-49f8-57b4-be3a-8652eee7877c/6026e228dca77.image.jpg?crop=1766%2C993%2C0%2C90&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Minneapolis passes restrictions on facial recognition use by local police"
+    excerpt: "Minneapolis has passed legislation blocking the use of face biometrics by city police, the Star Tribune reports. The ordinance passed by Minneapolis City Council bars local police and other city agencies from acquiring facial recognition technology,"
+    publishedDateTime: 2021-02-15T21:41:00Z
+    webUrl: "https://www.biometricupdate.com/202102/minneapolis-passes-restrictions-on-facial-recognition-use-by-local-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
 
 secured: "6qNCfZmCAvOFYGa53PxW5cNL5OPMNP7lBvbDnt4A9peQSj/Zi9KHxp+1ASNtVs05v0DgaqSyE23LgUkFkLuoqd7lW6+iJbm+JEpwyCn5XYwPfwomDAhqQW1O9ObymTgMlCi9tyqjryREMRimZ7AzfGEPgGaQqw+APBX8Xg+akcBYouCzmCBZZvEfTwuvyoH71wfRQNFa+RLYR2C3R63TAh5gPIXMoaUPzuSlxO2VOCOvkZzmYe6GF+knP25JNDlW6jQtQUfWk3+xvJvqBGwYRkxqGzX0f7FBwhooN10kDsmNxS66po/tYJGssW2NQKcVKPKGlMYDZbOAA8dGx3f+MAd9uIucydjqDH3XUcU9ib5Ws4VUqiWjB4VXHHaEqKiMnmBrKBn9M76I0wpR8Z/VaxD4KFU9xm+iSUQ7TedoYOQYTQL2J9uOlTHXd7tix/QyE5dVoLTGA3s+2HPqc1fYQsEPUhzJ45LoXSILtayX1+vxxQpGDuChEa8eFnHGg9h7rPphqyhk52OjeM5QN4C+Qw==;JspCuGcCLSSunOSvV4zlYw=="

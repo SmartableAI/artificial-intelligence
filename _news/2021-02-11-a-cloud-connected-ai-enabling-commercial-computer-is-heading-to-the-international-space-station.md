@@ -141,19 +141,19 @@ related:
         width: 480
         height: 250
         isCached: true
-  - title: "Talview is the First AI-led Video Interviewing and Proctoring Company to Attain WCAG 2.0 Compliance, Ensuring Accessibility for All Talent"
-    excerpt: "Award-winning recruitment and proctoring software leader, Talview, recognizes that organizations, candidates, and students rely on the company to level the playing field for talent applying for openings or taking tests using Talview,"
-    publishedDateTime: 2021-02-11T05:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-51341a1893acab3a090876ebebb0513e"
+  - title: "Investing in AI with a conscience"
+    excerpt: "Local start-up BasisAI is preparing to go regional with \"responsible\" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA).. Read more at straitstimes."
+    publishedDateTime: 2021-02-15T22:55:00Z
+    webUrl: "https://www.straitstimes.com/tech/investing-in-ai-with-a-conscience"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/16/ST_20210216_LWAI_6328626.jpg?itok=QRxL3typ"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "nKrmCMtd+e1H0j83S1pthVr1RKmXrcimjHemqihUCcxD3JJGVUy59HrY42vRqmDRS73spY5C8lKpgE7SO8k5uJDnH9udMi95c1SvsnZSpWn0HzeqJkzTuD33dNXEu4rxtS+3Gkz7lBx8HE5cmY3OrIU/jsHJCODOYu4hbXPEVTm4i1p2R6VWu8Vt1dnFOR2dvBpJpswFzyVmWFFZnVnsotBzKYMSiBqKNnDkhtKloTMWAxYP3CuYcCUqkoJUJlzln9QeKaZxQLYOfBM2ibBMLNqh04+exGFjuUpmeINNPbfDTxvd7BGrkak9yIL7uRKf3CpfcKxksnVofM1sjE9BYAh2K0qLGkBSmBb9KEaK5RYOfTTMfWslx9PAASF8dLlipn9Jd3Y2kqfK5OpYHDM6hHO/STWhXJPeIwkjJ66GV/Dfvfqk2DwVN6hrPdaX5rlzWzB83pm6jaf+jxL5sOtWi6Ac/Jl5vAsldKXxxQWJxRbwWdleiyxSw5WRmtHpb1q1IdBm5FajmbhrRByFYJYbjQ==;XxtJJXFVYe5yaUT/olotdg=="

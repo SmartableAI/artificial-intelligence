@@ -128,6 +128,20 @@ related:
         width: 480
         height: 250
         isCached: true
+  - title: "Investing in AI with a conscience"
+    excerpt: "Local start-up BasisAI is preparing to go regional with \"responsible\" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA).. Read more at straitstimes."
+    publishedDateTime: 2021-02-15T22:55:00Z
+    webUrl: "https://www.straitstimes.com/tech/investing-in-ai-with-a-conscience"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/16/ST_20210216_LWAI_6328626.jpg?itok=QRxL3typ"
+        width: 763
+        height: 509
+        isCached: true
   - title: "A Cloud-Connected, AI-Enabling Commercial Computer is Heading to the International Space Station"
     excerpt: "SBC-2 will also tap Microsoft’s Azure Space service to connect users on the space station to the Earth, and vice versa, through the cloud. The computer will be installed for the next 2 to 3 years, and is backed by a sponsorship from the ISS U."
     publishedDateTime: 2021-02-11T13:16:00Z
@@ -141,20 +155,6 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2021/02/11/shutterstock_1453899434/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Talview is the First AI-led Video Interviewing and Proctoring Company to Attain WCAG 2.0 Compliance, Ensuring Accessibility for All Talent"
-    excerpt: "Award-winning recruitment and proctoring software leader, Talview, recognizes that organizations, candidates, and students rely on the company to level the playing field for talent applying for openings or taking tests using Talview,"
-    publishedDateTime: 2021-02-11T05:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-51341a1893acab3a090876ebebb0513e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "KWVOJLGreuwxWyTrYSJoWoYAFuy2ADmimZpsT6fuLbjrBmkjXXJdou5pmhEmcVtfF7cpvOsjIhYEQQv/GzneJx4ytkyYolVtHlhG8ku74kOWqj4XShl7QTpQYAD06Q3HZ1Z7OF76LlQtASMh7aQZKbRulQYH1C1QFFN2TmrcMvU4uesWvvsSVJZi6VC5dTr+0M5Zh2grUx5w1KvoZ4CJKSNTla7sJKdkVHIux9dojNhYkNij6YpGLVy0tXhsTsGF0EY2M5jD5uvIHFDA9RYQ0YbktXvorVdOlav1mz+ClrDx+Gnofal0tH0l8lVgrzMi16FOCwwMfK07bWmVgTTPzZQvMdoCtjlv+6Rw9lKMJLM0vH4tI79NOpDOTejzhluSZ4ZoiHRNWONDUqy37/zuy508mICWcxzJnXdck7h6gDurwtLu9XNliHj+KrXDZVh9r1p8y/amWlNCRrdA8iMjoNYvwRndijNx3ahdSvxdSaRftQ9pXX2g9nY5jLZ7e5KuBc2gEH+NcTAigfSxCXuing==;u3wICGVyX+HeyhhrdtmoOw=="

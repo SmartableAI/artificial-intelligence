@@ -7,7 +7,7 @@ originalUrl: "https://www.yicaiglobal.com/news/chinese-ai-chip-unicorn-horizon-g
 webUrl: "https://www.yicaiglobal.com/news/chinese-ai-chip-unicorn-horizon-gets-usd350-million-in-new-funding-round-led-by-great-wall-motors"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 720
     height: 480
     isCached: true
-
-related:
-  - title: "Chinese tech giant Baidu is reportedly planning to launch an AI chip company"
-    excerpt: "Chinese tech giant Baidu is reportedly planning to launch an AI chip company Baidu is reportedly planning to launch a subsidiary AI chip"
-    publishedDateTime: 2021-02-11T05:25:00Z
-    webUrl: "https://www.compsmag.com/news/technology/chinese-tech-giant-baidu-is-reportedly-planning-to-launch-an-ai-chip-company/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/chinese-tech-giant-baidu-is-reportedly-planning-to-launch-an-ai-chip-company/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/chinese-tech-giant-baidu-is-reportedly-planning-to-launch-an-ai-chip-company/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 71
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Chinese-tech-giant-Baidu-is-reportedly-planning-to-launch-an.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "kxTIL/DoRLhM4gNs78bYePx7nXDKja7VM0/PMK7mB2TDzIjyorMtlY/dqgnFAMfKnzs4r7U5W62fpvyMom0oJsY0t+JTAX+gRYe7Ev0kUaZtfQ7HRRLC4mfQQAC/Hrv52mgctEZi26NMndX9g7fsnxrKCTv2xanlbZli13gAvXMbRvqpsoO9/3q+0UdplBmlc8VDMt4zX5GB6xLx1m4TzNbFwQdTGXgko/qlA4Iike9KYBUsbj5jPEMSANUwpNkTSjlSSCTvCg+XMGF4/83hZ0RV6sb2LBT/ca0OSZ6UmOAWSR9v2g96Gv2SC8fvxD+qTf3H/3zIgsJLYhseqjIDNkHII0XSThYMUySDX0uPmz9LkL+o21qvy4lOrMxsf9dwZ2vIwvglMGRwRhTrcWdOOIRRo53yK0/N7SCSWMzQ9KQfxhex6pPfEPbrgIbvdpL4KoEVB1WF0yUq2Rr18Ht+zcBfh7OOOVunG2bpxZYfxwsx/GzwWupYlbPt8lGy+cJBDu9PgQwQGIcG3UxKwJF+Lg==;dKS60xODQ4DWy/CAsI+fqA=="
 ---

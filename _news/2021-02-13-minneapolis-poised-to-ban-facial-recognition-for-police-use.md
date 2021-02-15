@@ -109,6 +109,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Minneapolis passes restrictions on facial recognition use by local police"
+    excerpt: "Minneapolis has passed legislation blocking the use of face biometrics by city police, the Star Tribune reports. The ordinance passed by Minneapolis City Council bars local police and other city agencies from acquiring facial recognition technology,"
+    publishedDateTime: 2021-02-15T21:41:00Z
+    webUrl: "https://www.biometricupdate.com/202102/minneapolis-passes-restrictions-on-facial-recognition-use-by-local-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
 
 secured: "UexqRSmJ8RkVuiRJtvkaBVfN1n7uzJo2EQqOg4HjW5tZC/vzi84LxR1jK29jIFWiZI++DKObQBnkCpte3UsyRXe/rzhynVbh9TJOXd6/m+L93HUmUbrJWgwyesVHUQIbbAmwVFxa0hz9MqBqr1JK/Ehl2j/fT6CsraNt3Re300uwmUFbIgT5obLf0pyQsa2ZGWx+Sm9o7KGcJPiUJJwMf4uXDpNXzDrsv/q9/bzlKaEcBJBfB1uw27IGE6/fow6KyyF7PtiLk5At9ry+PspLZj1vfWjkzDnR8smfBpwCMkyY63KywOpqjDAcjQXwhypcJljtCbA2/VA8oeboAk3mIEXAL+l9A9ABAnqRENgwNqqfDyOzF0QODVXYVMGi+W8BWdE//IiPhYOYRjpglzgFapcjO+FQfbNPdPUGpO2IGSrtSyevsckltKV3h227CpJ56g+kaPaGKd4o2R7VYpdtq3YS4I2zauo072F6WWCNSdPLRr5/jqa7uK8WnELjChOoO3O9WycCQOeOiMKlGaV2AA==;Z31/5KHsanDrmgv5SGisGA=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 800
         height: 535
         isCached: true
+  - title: "Data61 researchers prove AI can learn to manipulate human behaviour: What’s next?"
+    excerpt: "Last year, CSIRO developed an AI Ethics Framework for the Australian government as an early step in this journey. AI and machine learning are typically very hungry for data, which means it is crucial to ensure we have effective systems in place for data ..."
+    publishedDateTime: 2021-02-15T22:57:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence-ai-manipulate-human-behaviour/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 34
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/02/Computers.jpg"
+        width: 733
+        height: 358
+        isCached: true
 
 secured: "lDr8aZ3bVmNcA5Rbxhk/ngXzRLtoJ91IJ6y+T1Z/B5Uca+Vo6+bxQTONbAwAloQBPVGfwLMqhDAkpMf3v67EkH+f3zrGLKEDLH7R7hiUMjFcU1gfvb5X4bY4zNvwsV1VyrlC9sjGmFeVTPDusmPkWTIgSTKtbq2jxfK2tPvjx/7CRiRKfeBKkHMveS0iTHZEYlieg0EwFN/DXAixI3u//17Jrfahn9dJnA8oOFWlCK2XY9gSQjxcfvjFk/BFFHrLSce7qalOBS0vx1kaP6QBEFbV6fwwxRGzJFyy+4PSVRU+9S/UbYsH93Cy5AYX/e6ipo03Ym3WvkB2Lcax0EqYUzMSt6I8SLXRI3Ih/Kk1gemfUFrxf8KAAzEwccCBNEU/7fplsRlH2CnkOZai/E2h1fIvJSqISoneaqolFb63Ju/8sggJrPqdsUalU2pmbUp3XW8oFUsj0A1CmniY/lWMAOUhBOnAIGmT0i5Jsq8KHNRR4gcswxHRoScInX/kbHuq9gYk7JyNm7vFiGpxf8C6Yg==;b/Wi3H8GFwc/E2Zho/ZYhg=="
 ---

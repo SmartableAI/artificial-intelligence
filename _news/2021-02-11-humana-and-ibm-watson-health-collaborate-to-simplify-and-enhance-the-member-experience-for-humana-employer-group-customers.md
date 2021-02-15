@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/humana-and-ibm-watson-h
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ topics:
   - AI
 
 related:
+  - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
+    excerpt: "Humana Inc. HUM recently tied up with IBM Watson Health through which it can serve its members better through the latter’s conversational AI solution. The partnership is expected to provide more transparency on benefits to the Humana Employer Group members."
+    publishedDateTime: 2021-02-15T16:18:00Z
+    webUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Humana, IBM Watson Health Collaborate to Improve Health Benefit Transparency"
     excerpt: "Humana and IBM Watson Health collaboration to streamline access to accurate information on benefits and health care costs for Humana employer group members, agents, and employers."
     publishedDateTime: 2021-02-11T13:04:00Z
