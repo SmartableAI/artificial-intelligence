@@ -9,8 +9,8 @@ ampWebUrl: "https://www.compsmag.com/news/technology/chinese-tech-giant-baidu-is
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/chinese-tech-giant-baidu-is-reportedly-planning-to-launch-an-ai-chip-company/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Windows
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese tech giant Baidu reportedly plans to launch an AI chip company"
-    excerpt: "Baidu is reportedly planning to launch a subsidiary AI chip firm, which could boost China‘s efforts to develop a domestic semiconductor industry. CNBC reports that the search giant is in talks with venture capital firms GGV and IDG Capital about investing in the venture."
-    publishedDateTime: 2021-02-10T21:01:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 104
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-10T204402.317-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Chinese AI Chip Unicorn Horizon Banks USD350 Mln in Fundraiser Led by Great Wall Motors"
     excerpt: "Horizon Robotics, a six-year-old startup that develops artificial intelligence chips with a focus on autonomous driving, has raised USD350 million in its latest fundraiser led by Chinese carmaker Great Wall Motors,"
     publishedDateTime: 2021-02-12T06:09:00Z

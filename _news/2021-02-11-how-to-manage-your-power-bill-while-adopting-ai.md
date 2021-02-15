@@ -73,20 +73,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "2 AI Stocks To Buy As The Market Recovers"
-    excerpt: "Alpha Investor Report editor, Charles Mizrahi shares 2 AI stocks that will continue to outperform in 2021. “Keep in mind, we’re only in the early innings. The best is yet to come.”"
-    publishedDateTime: 2021-02-10T19:49:00Z
-    webUrl: "https://www.wallstreetdaily.com/2021/02/10/2-ai-stocks-to-buy-as-the-market-recovers/"
-    type: article
-    provider:
-      name: Wall Street Daily
-      domain: wallstreetdaily.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/paradigmpress-uploads/wp-content/uploads/2021/02/NVdieo-Price-Chart.png"
-        width: 540
-        height: 394
-        isCached: true
   - title: "How to manage your power bill while adopting AI"
     excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
     publishedDateTime: 2021-02-12T01:57:00Z

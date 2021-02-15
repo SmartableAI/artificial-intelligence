@@ -25,28 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial emotional intelligence: a safer, smarter future with 5G and emotion recognition"
-    excerpt: "The combination of new 5G communication technologies with AI-based systems are ushering in a 'smart generation' of vehicles, drones, and even entire cities. Now, researchers take things one step further by introducing a 5G-assisted emotion detection system that uses wireless signals and body movement."
-    publishedDateTime: 2021-02-13T15:37:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/02/210211113917.htm"
+  - title: "Tailent accelerates international expansion and exports its intelligent software robots in Central and..."
+    excerpt: "Intelligent software robots developed by Romanian technology startup Tailent reach Central & South America. The Robotic Process Automation (RPA)"
+    publishedDateTime: 2021-02-15T11:46:00Z
+    webUrl: "https://business-review.eu/tech/tailent-accelerates-international-expansion-and-exports-its-intelligent-software-robots-in-central-and-south-america-through-a-partnership-with-serviceaide-217274"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 26
-  - title: "Artificial emotional intelligence: a safer, smarter future with 5G and emotion recognition"
-    excerpt: "The combination of new 5G communication technologies with AI-based systems are ushering in a ''smart generation'' of vehicles, drones, and even entire cities. Now, researchers take things one step further by introducing a 5G-assisted emotion detection system that uses wireless signals and body movement."
-    publishedDateTime: 2021-02-11T14:16:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/inu-aei021021.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 16
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 37
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/256098_web.jpg"
-        width: 1440
-        height: 1200
+      - url: "https://business-review.eu/wp-content/uploads/2021/02/tailent2.jpg"
+        width: 1100
+        height: 628
         isCached: true
 
 secured: "5QgVlboHs8ivwZlvR8SFTLFCGFJt2qLqRRpbMsc8ZexIswKkJBRFLfmkBBIZQoXnx56b9Yj+Juk7OWeqJBNDwkrVgTabKCm3gto9IBtMexFynvSUTuTSyBYZR+WfLTjtF7Km1hsKqCeuuxqkCjES02ILujk9LCUBUOC208mkZ1IJEk8KCJBqBTO2wlBjuL/y0VoRP/WXhXjJ+dFyy7tmSTDm5wK31QlDFdGY1lZP0HW+NCixw+SUPSnHgCbbUbCtYekigUbAhaV0nv7ULGER8ZVUArjvbb04fZr2AT909QAFxTI1yys+v5fBcUSTT2SKlrWWa+/dzX1AQoS4EcEdS1LzXriWwX8b3C1Vvrb3B5Q=;dFRvcnPvSclb2ab3Msd1/w=="

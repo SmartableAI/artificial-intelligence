@@ -275,20 +275,6 @@ related:
         width: 900
         height: 505
         isCached: true
-  - title: "A Cloud-Connected, AI-Enabling Commercial Computer is Heading to the International Space Station"
-    excerpt: "SBC-2 will also tap Microsoft’s Azure Space service to connect users on the space station to the Earth, and vice versa, through the cloud. The computer will be installed for the next 2 to 3 years, and is backed by a sponsorship from the ISS U."
-    publishedDateTime: 2021-02-11T13:16:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/cloud-connected-ai-enabling-commercial-computer-heading-international-space-station/172001/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 26
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/11/shutterstock_1453899434/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "HPE goes to space with NASA partnership to launch edge computer into orbit"
     excerpt: "Hewlett Packard Enterprise Co. will send a specialized edge computing system to the International Space Station this month to give astronauts access to more processing power for research projects. The initiative,"
     publishedDateTime: 2021-02-11T18:40:00Z
@@ -304,6 +290,6 @@ related:
         height: 419
         isCached: true
 
-secured: "HJ1k8IOKXSFEtdgEvj1cAgSHdXhihBAdfrLs9/UtK+U4ctwMeO8v5aPpd9R5+xwUnQixXyiANoMy0FzE4LmZAz8J+EYiTCMxRqzBXo9aMIyb1EWlo6BCVnUusssSHWaPxj1VBZtmaJ103qGS2EdOGFjuC5rj9RaKUqnMQpchBVx9u97K9s8s508aucgV633jOaD7LtGbWNZX9DsjBOa+CkRKvsWsCcOX6rQE0FIAeJ/UPH+m9lCJgFL2AtakxI/vvJB34i/Kw2nE+N5+bNsTGd2kR+lo012cDknstGZe4iET06I+fJDYYbb8zQSrlojbGaEOcKkOAES1HS+nnYdkiSdbJCDvn6p4pnz9//w5nEg=;IfGj0O3gazAMNOzCUmwMaw=="
+secured: "Yxund9nw/QaTNIdbcMkLo+P3By+6/EiAh1zsfu6JlJtIrisJMZuPDGLV9rg3UeosajU0zntQ0znLb2heV+dfNpusHemircDYTtQPz4868ko2FWLo3WFFTPsJhLijFLkAr4GmcpcGzbPLGIfQ4Vke98jKKs+agfcjbYrFjhlBCeMfzvOZnnsV370h73seiicJHpQ/OzDEALLcgv3GFqf6Uwo21pm0i5Wmd3+iSclUK+LSmnHZn30bFUCBJxA6BHJr10TPvi24AMcZSxtGPaYwGn1qzPnxGrzi8DJPwxL13T8RTqhHhv6lt4434tmyYX49ffawyaPMrnj2X3vk4uuW7zqi0ufFGoolMF/W+yR+OhBcjZfFQxfz+W6/b+w6DpgwXjeJT40+Ok3yrH1EFy6DAnY1NzmB9T/nudXx0C8kQ507vanmDjXby9x5F0tP6IU886q2EIk0dotqq7Qn1Oh9IVjefiWmfLOVAVUEDjZNGKsDAvMusxkrO8tIOS4RWvBKiaHPNyKOnsPd9oeczXSEYw==;rJCKisPefJs5xx6fVjNXog=="
 ---
 

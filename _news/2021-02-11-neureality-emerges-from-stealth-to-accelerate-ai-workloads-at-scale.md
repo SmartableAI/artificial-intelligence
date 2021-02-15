@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/neureality-emerges-from
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale-9796412"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Chip startup NeuReality launches from stealth to make AI inference more efficient"
-    excerpt: "NeuReality Ltd., a startup working to develop more efficient artificial intelligence chips, today exited stealth mode and disclosed on the occasion that it has raised $8 million in seed funding. Tel Aviv-based NeuReality was founded in 2019 by former executives from Intel Corp."
-    publishedDateTime: 2021-02-10T19:07:00Z
-    webUrl: "https://siliconangle.com/2021/02/10/chip-startup-neureality-launches-stealth-make-ai-inference-efficient/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Neureality-founders.-From-left-to-right-VP-VLSI-Yossi-Kasus-CEO-Moshe-Tanach-VP-Operations-Tzvika-Shmueli.-Credit-Neureality.jpg"
-        width: 3247
-        height: 2124
-        isCached: true
   - title: "NeuReality Emerges from Stealth with $8M Seed for AI Compute Infrastructure"
     excerpt: "NeuReality, an Israeli startup developing high performance AI compute for cloud data centers and edge nodes, emerges"
     publishedDateTime: 2021-02-12T02:23:00Z

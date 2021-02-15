@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Trinity College launches AI accelerator programme"
-    excerpt: "An GIS inventory mapping tool for telecos and other utility providers, detection diagnostics platform for disease prevention, and a recommendation sizing tool for Fashion retailers are among three of the ideas being backed in the first round of Trinity College Dublin’s new artificial intelligence accelerator programme,"
-    publishedDateTime: 2021-02-10T19:20:00Z
-    webUrl: "https://www.techcentral.ie/trinity-college-launches-ai-accelerator-programme/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 39
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2019/07/AI_artifical_intelligence_abstract_brain_circuit_web.jpg"
-        width: 620
-        height: 350
-        isCached: true
-
 secured: "fBTCJvqpX+PRVUuny8dxXRlN6PNYxjeNLsp45rcGOVWN7nrgg02qaOW8qhn6GDJSHhQjG58zvg/qxtKSPqwS/O4gB93F0XsQ+RbKktQOC8bhkW+q8N1xKEWFbnhHAIAjI/mXWosrnxAXcLlLO9qYusECfYpifoseTnPWt3bxgniNXyOyYtzfQPuHJcHWm7/PsEBeJW6LyEY1YNq6/RNkyM+qyQnVznHIv5jEOZtVIY7NveDoZeOcjd5DcXV8JaK1tDT54TaFmZveXZPd4wfAoMa5eNoQUbnsaUH/wjBxHIlBXGQaIvO8iVnKEZDKf9JcOKVtLlliulsB6Uffd51F9FKDhRE005nLoe5OtmbSAPbG2ZukNVhhU9hxsgd4ypHp/13hRlqYmRtF9K8EyuF83rIELgXt+29Z8YAUr+zbfoLMIjg0OHmPtlC13+Y5/k3d/k6bHgidqw11VCZ4gRndQcWIW3Uhb30/6S37QNGS+Yidf/Y5V9X0W3qakYLciIK6SXWGxFxFPRzykdGgjsqZKA==;AFhhfFr3JgGqtAlpobWj6Q=="
 ---
 

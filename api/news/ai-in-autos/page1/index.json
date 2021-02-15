@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-15-the-self-driving-car-companies-going-the-distance-infographic.md",
+      "title": "The Self-Driving Car Companies Going The Distance [Infographic]",
+      "excerpt": "The California DMV has released its latest autonomous vehicle disengagement report which provides an objective look at the state of the technology's development across several dozen manufacturers",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/",
+      "originalUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a55b98a743748242cd9bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D34%26cropY2%3D709",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/",
+      "publishedDateTime": "2021-02-15T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets.md",
       "title": "Forget Self-Driving Cars—the Pentagon Wants Autonomous Ships, Choppers and Jets",
       "excerpt": "The U.S. military’s automation push is outpacing commercial efforts in the air, on land and underwater as officials seek to counter adversaries’ advances with technology that could later find civilian uses.",
@@ -262,7 +314,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -279,6 +331,58 @@
       "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
       "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
       "publishedDateTime": "2021-02-11T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
+      "title": "2 Self-Driving Car Stocks to Buy in 2021",
+      "excerpt": "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "originalUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "publishedDateTime": "2021-02-11T13:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -367,7 +471,7 @@
       "originalUrl": "https://www.wired.com/story/aurora-partnership-toyota-self-driving-taxis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1373,101 +1477,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/amp/",
       "publishedDateTime": "2021-02-04T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-trump-left-a-massive-traffic-safety-mess-for-biden-item-one-teslas-self-driving-claims.md",
-      "title": "Trump left a ‘massive’ traffic-safety mess for Biden. Item one: Tesla’s self-driving claims",
-      "excerpt": "The Trump-era National Highway Safety Administration will be remembered for what it didn't do: offer clear rules for deploying autonomous driving technology. Tesla has been the beneficiary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden",
-      "originalUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/d5a6fb2/2147483647/strip/true/crop/1615x1055+130+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F38%2Fe9%2F3e30121d8a40765a7286512e564a%2Fla-1538770648-xotslzaqb8-snap-image",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden?_amp=true",
-      "publishedDateTime": "2021-02-04T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-this-is-crazy-tesla-recalls-100k-cars-stock-goes-up.md",
-      "title": "This Is Crazy: Tesla Recalls 100K+ Cars, Stock Goes Up!",
-      "excerpt": "Tesla will recall about 135k Model S and Model Y luxury vehicles due to some touch-screen related issues, making it one of the electric vehicle bellwether’s largest recalls to date. However, despite the news Tesla stock actually jumped by about 4% in Tuesday’s trading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f193cce4da8f6e9a2215488%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/amp/",
-      "publishedDateTime": "2021-02-04T04:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

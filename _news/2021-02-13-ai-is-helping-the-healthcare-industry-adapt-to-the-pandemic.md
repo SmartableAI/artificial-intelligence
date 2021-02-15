@@ -34,9 +34,9 @@ related:
   - title: "Healthcare is adopting AI much faster since the pandemic began"
     excerpt: "While healthcare organizations are hesitant to adopt AI technology, the COVID-19 pandemic has increased their interest."
     publishedDateTime: 2021-02-12T19:29:00Z
-    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+    webUrl: "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
     type: article
     provider:
       name: TechRepublic
@@ -46,20 +46,6 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/1200x675/7150d226ed634629837143d254c00fa5/20210211-healthcareai-karen.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "4 recent studies exploring AI in healthcare"
-    excerpt: "In the past decade, medical researchers have become increasingly interested in artificial intelligence's potential to improve healthcare by reducing workflow inefficiencies, predicting health outcomes and speeding up diagnoses."
-    publishedDateTime: 2021-02-10T19:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "kvTwkokZg1AuROWSSI8X4tx7VUWHXII3oYjSe01fYZAVjPPtw8vlni80uPI5i5zt47RXwCbf+woGxqHmRMZwTzsyoVQl4dtgsodeuTmCWQM9ue7BqZmDANPq1nLKiUA7FJ8vNhLlFwLhfylHX9vQYKeowVCYp+sK8sRIrkk5/r9I2xFngRv6xcWbA9lb2nPwoZEpnVbWfuboQ43TWbsNoai3nbZRkwGTiY4zhvDW1tIUs8BfOFHNNNB1pEDGipkSfWP2FwVQ/BVMuTmuwJTtb/4U3ChJGqM+UiCtOZpRpREdrRRap383wgV0mQsNSKzAi3y1VUcRxO5K8sgwj6EKRHyDe3sEN7EE3vjEauYv7x2mWR8HZGLH3jiz9YFnxE1SvviF+4tz5MgF6wk+OjnuGxgO93iiMtmeq+TS0Dcd7SWC+Jh2afMoqe7d/OKQVfZFLZnwYL/5XV5gKDmXIzRAo6HUPTvPxiRutnnvSHygRUTIiTOJdSkBM6vlCZ+NYoAOp/RDXBZCpNFOX1ZZ4rmYvA==;lATpEq7CzpILgemZo1eogQ=="

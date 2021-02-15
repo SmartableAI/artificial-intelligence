@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltra
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:

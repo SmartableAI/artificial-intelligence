@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
 type: article
 quality: 100
-heat: 290
+heat: 280
 published: true
 
 provider:
@@ -277,20 +277,6 @@ related:
       - url: "https://spacenews.com/wp-content/uploads/2018/11/hewlett-packard.jpg"
         width: 900
         height: 505
-        isCached: true
-  - title: "A Cloud-Connected, AI-Enabling Commercial Computer is Heading to the International Space Station"
-    excerpt: "SBC-2 will also tap Microsoft’s Azure Space service to connect users on the space station to the Earth, and vice versa, through the cloud. The computer will be installed for the next 2 to 3 years, and is backed by a sponsorship from the ISS U."
-    publishedDateTime: 2021-02-11T13:16:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/cloud-connected-ai-enabling-commercial-computer-heading-international-space-station/172001/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 26
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/11/shutterstock_1453899434/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "HPE goes to space with NASA partnership to launch edge computer into orbit"
     excerpt: "Hewlett Packard Enterprise Co. will send a specialized edge computing system to the International Space Station this month to give astronauts access to more processing power for research projects. The initiative,"

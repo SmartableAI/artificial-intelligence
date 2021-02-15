@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 653
         isCached: true
-  - title: "AI Advisors Suggest Better Ways to Build"
-    excerpt: "Recent advancements in machine learning provide advice on bidding, scheduling and labor allocation, pointing the way to a more data-driven project life cycle"
-    publishedDateTime: 2021-02-10T20:22:00Z
-    webUrl: "https://www.enr.com/articles/51190-ai-advisors-suggest-better-ways-to-build"
-    type: article
-    provider:
-      name: Engineering News-Record
-      domain: enr.com
-    quality: 39
-    images:
-      - url: "https://www.enr.com/ext/resources/Issues/National_Issues/2021/02-Feb/15-Feb/cs-default-1170px.jpg?height=635&t=1612986452&width=1200"
-        width: 1170
-        height: 550
-        isCached: true
 
 secured: "et7q3z+C+u99Kc7SVSHVzw67sZsBWztYhTmFmnvX4Qnrgc4nV0a6mC+d7XMQZyFLwkO1aFyVsmEvcyjKMxzdYjtWFFhSfPypJ/ePYKCt8Wek6ChMw5HywMeR9yjNtmvLECuUh9tN2G4m3Ok+beBs2aFgOXGROtd0bDxiUM9ShCQhDoT5C57msxryG8qu1q4xZc8BYlJcEtLAqp2dOgES+pFtqY44jXy9RScYGZB/Z3Ze+q5PSOX3UejzKJg4xRtztWoXBfiocrIdND88oD9r2il42S+9ikqCLLwopSILj4kiCS1N7xL3RO1h9czIkMDzZGKee3xPy/NbTlBNlgIySTo0iEcMCcoV9HDBJy8N7CY=;D2JdQjTiAibRUkeDoMbDHQ=="
 ---

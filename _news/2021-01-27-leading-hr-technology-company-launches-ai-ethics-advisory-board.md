@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Leading HR Technology Company launches AI Ethics Advisory Board"
-excerpt: "BALTIMORE, Jan. 26, 2021 /PRNewswire/ -- Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12, 2021. Arena's ..."
-publishedDateTime: 2021-01-26T19:52:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
-webUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
+excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BALTIMORE, Jan. 26, 2021 /PRNewswire/ -- Arena Analytics launched its external AI Ethics Advisory Board - the first human ..."
+publishedDateTime: 2021-01-26T19:36:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
+webUrl: "https://markets.businessinsider.com/news/stocks/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/leading-hr-technology-company-launches-ai-ethics-advisory-board-1030006008"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1427165/arena_ethics_advisors.jpg?p=facebook"
-    width: 1920
-    height: 1005
-    isCached: true
-
-secured: "xUxeloGGcPwVzySX88iEoAKuZi70laXTg60ZPP2RQ7wXAH+N4ysZNVmdwmGRwd/JtwMP6WBEpwsEf78ejmdh1Ic+08yjYjLKm0zhPg84fPZVS5nwiF9iYqEKGIrmuFHvWL/sIXsshxTACMLHP9n2zFWVXc2ofm3bmWeWG7VE8pPGn3nUstIJFspwqitXWF39VBrx7YIuDnjvjd17hEl3WkVAGxgwqcXpeejKvRYXOtHL6XryrzrVTMTrXxs5l0qzOotvrSJk9oxvi2lsXaTjklru2BsDreNB0jlawGlAeD4lrCdsZlFREmCDjEs5vCOyTbk53UsLUfMl4Gg7/SYnW08s/LSQcmtQfDwZ3fxyZEQ=;sTC7YMk16H4Lp5cO4CXAWg=="
+secured: "dLshktvPd6gTE7nI1kiDBBjk2CAbuxeEoc4lMEkEnNGhqBtirIWwgo+APpSEJeBOM7ahV5fJv5iJUnwoz+rO8POgXf9SVnHn/cLkbdaNeGKyEdXouFdJjX9wclB/9VymDVPe9+sFO4pAYMCgHI7/BeFizQPgFps/iSe6SyvnFVb1jKkkTBmve1FbFDBS4otFA+4W5ChLpunCa3kPdrQpGgdmm9puNMwFWHtaIYC3e+35j6Jx5lD33Kchyp4XqtxiNzCwWO7z+RYewHHc8BFEE7TOzWQi6d6mm+L2NIOrR7MoxRFvq5HE0n2iMyoqADrelZrOfh1I8i2cAkT4pUmxM7XpjwmzoY2gRDQZ1qWcQp0=;0p2zQXTOjQYmhLgO/01LWA=="
 ---
 

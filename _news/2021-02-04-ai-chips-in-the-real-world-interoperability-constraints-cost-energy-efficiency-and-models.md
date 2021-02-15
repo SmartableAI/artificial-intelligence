@@ -3,8 +3,8 @@ category: news
 title: "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models"
 excerpt: "The answer to the question of how to make the best of AI hardware may not be solely, or even primarily, related to hardware"
 publishedDateTime: 2021-02-03T21:55:00Z
-originalUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/?via=indexdotco"
-webUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/?via=indexdotco"
+originalUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
+webUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 type: article
@@ -18,7 +18,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
 images:
@@ -27,6 +27,6 @@ images:
     height: 341
     isCached: true
 
-secured: "3u63h9J4jLfkDmPAn1SPM8NlIVgrVTcu/f7lMb45oJ3PICh1PppbA7CCXQc5mah1cUgl8ExlzUUd321nOLB04J41vm4fShGfGtaAL/Ji4WQEfIWFacrGzHDzU6vfzyvH3TB9gW+e9UIVxHbR8qfqwJzWIVvBanPwQ7JB+TVnjcHTxXMlF/qZ6pTMyu5LVVrHZwkuIZq7sggy8s2Sqcj9WL01VQpyjK/nb9hoxfrwcIjvTDKi/SuCH9NjptROlRkNiU+i14HI0SHWZywVicZljjZ+SC8EBagGAgq/sp4YtmFNzNBtu834ewgZ3ZwzJfSH8pBjRFujgj48efqRd2vrlCFE+ioq8vMCbnkShUUNc1k=;BlfKwI1E7SzDXKyecU1SFA=="
+secured: "nKgBOz3JgoNCYoVjCsEKDKelBeKlaT7Q8dD1yBkR8xxlyt3izpKFk3VGdsXOgT7rs2b1zJwNiDyLZk6SXw2/SZALfRAvkcSpOUNtddi4vvd0K65sr1x4b3+t8fwfRfnQOe3Sg+TGGUFuY3g2gjzNxwkek7dnzqlox7ELcD56pY2/94CTeyGpWLEZ5xxE6e4+SoO1dx2lsGCqULryNe5CHz/e76HCh75xJa2y7eWsdMWrWh5BCSMoui9HYLYpYmnmdW9uhgHKd7REacg4g2iejuyA/eAyyBsHELtv0GBzlq/hKjnrv3XCE5nagn6suVme30TRB2xXdJAHdqJE5YSZBSuQdLVk3+AgA1y0gFjK6Sw=;fgxXckqmVrT8tg3TauMrpA=="
 ---
 

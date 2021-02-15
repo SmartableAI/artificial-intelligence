@@ -38,20 +38,6 @@ related:
         width: 1440
         height: 1200
         isCached: true
-  - title: "Anexinet Launches Conversational AI Solution, Enabling Natural Language Interactions via Highly Intelligent Virtual Agents"
-    excerpt: "New Partnership With Industry Leader Amelia Provides AI Foundation for Company’s Latest Offering PHILADELPHIA, Feb. 11, 2021 (GLOBE NEWSWIRE) -- Anexinet Corporation, a leading provider"
-    publishedDateTime: 2021-02-11T13:27:00Z
-    webUrl: "https://www.wboc.com/story/43333493/anexinet-launches-conversational-ai-solution-enabling-natural-language-interactions-via-highly-intelligent-virtual-agents"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 13
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "9PkKKFC9/YTwPjqm/qcMon2ZtQnD9ICKg84ZYdtypkjOjLuCX9i400Qa3xfBCJRrjJ1Ai2eYubSgA3R9TwSVmBOiKocsqWmfr6226N9exDpVL4ohRlnH5KReRF+6kUZOrwTCpyKHtk2rpjVC/zO8jvTwA/j2l70DVsYRP8oYfX3rZSL5VtTuJX/phA9TNBfbK88S6CDh10NuusoUsrfNn08A+OntP8XZ2G/R14NbgW6mT1JoqV4EPZVHhzjPs9qTarypoAhVhMoa7ruK5iGjzOHvu5LGOI2NEl+JDpOPoTH+dKwUbgIwM1A+w4rdOfmj6ViODxKYCa1/+iVa3L89X9UYj35YsK4AzxaV3eGnX/o=;1iY6ZnNX7kgELi1V+/bhDw=="
 ---

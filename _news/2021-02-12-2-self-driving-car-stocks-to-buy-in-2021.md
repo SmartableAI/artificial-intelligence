@@ -2,25 +2,77 @@
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
 excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T16:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
-webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
-ampWebUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
+publishedDateTime: 2021-02-11T21:20:00Z
+originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 74
+heat: 114
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize"
+    width: 1200
+    height: 785
+    isCached: true
+
 related:
+  - title: "Self-Driving Car Market Trend and Forecast"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
+    publishedDateTime: 2021-02-12T10:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Toyota and Aurora partner on self-driving cars"
+    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
+        width: 1920
+        height: 1143
+        isCached: true
+  - title: "The self-driving Toyota is coming"
+    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+    publishedDateTime: 2021-02-13T06:19:00Z
+    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Nissan Says Not In Talks With Apple On Self-driving Cars"
     excerpt: "Japanese auto maker Nissan said Monday it is not in talks with Apple to develop self-driving cars, a week after Hyundai also denied reports it was discussing the top-secret project with the US tech giant."
     publishedDateTime: 2021-02-15T06:38:00Z
@@ -36,6 +88,6 @@ related:
         height: 682
         isCached: true
 
-secured: "SWsjIGu9LgHH8UA/YQmG0aY+MjSZjkrS10Ca93kj9vwumFq48cB05cijZNQl1rIyNRuy+CwpadIbC/UL6ZajdV2gVS3KEUdWeqcryBZXDnuS0R2IGXwSv2H0rcNU6Hud0szAGiGJynCCGJNX3WRzYqDoa3e6zQ7QXkxNSd8zsSBoJAfWB3DHKbzUgKhLy0pvas5WofqqHZFD/CwQw7uk3oPo+zl8DEdl26jsKc6qg4I1/+dWEPuSuARumU9ayhoUey06B1gJCujJy8Qlw0EPF10rSD0i3jMFfTTCFAN4B5adZm0BrN6e3Jy7l5Oyyr3oAKp00T83TqWu9x67vQ3LONQH3hszPbeio8Cxg9XRHXc=;1IyM6z6d0lz6rJ6x/+28Kg=="
+secured: "lCRydcHRrUJxY3gd+a04X9FaHhiDvDHNUFhg84588OYPzh+PqXKdIHOptX+hR9Hc3RTCs/rlkHMaY00LSAKihhPAFkZc92sY14de7xVEZsUA49nQDVddnVR0g9+YXN33vfiyF92vfpW75RzGAXD/1W7um/xy239Myru/DHB1Oq4kurcm5LkmtfN9ZkBhxKqAAzWMaw81hcrd5CD64lWvMqwa+LNyyHuXhaKygUQ5xF5+P5itXJyPHgaun1MmgbPZHb6w0P5ZehaFP0LBwRzILU24K02crdg4ADWA78ahlb5o+MEn5dbjUoZmlY+p6m/a1fMXQogDDn8LMQ/FoPpsuoBNkiAzEnd7EQJP+APVwtY=;gZo/w68ghtHYRYzYBqWMoQ=="
 ---
 

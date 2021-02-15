@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nealtaparia/2021/02/11/5-ways-for-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nealtaparia/2021/02/11/5-ways-for-startups-to-take-advantage-of-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Advisors Suggest Better Ways to Build"
-    excerpt: "Recent advancements in machine learning provide advice on bidding, scheduling and labor allocation, pointing the way to a more data-driven project life cycle"
-    publishedDateTime: 2021-02-10T20:22:00Z
-    webUrl: "https://www.enr.com/articles/51190-ai-advisors-suggest-better-ways-to-build"
-    type: article
-    provider:
-      name: Engineering News-Record
-      domain: enr.com
-    quality: 39
-    images:
-      - url: "https://www.enr.com/ext/resources/Issues/National_Issues/2021/02-Feb/15-Feb/cs-default-1170px.jpg?height=635&t=1612986452&width=1200"
-        width: 1170
-        height: 550
-        isCached: true
   - title: "More help for AI startups key to sector prospects"
     excerpt: "China has had the fastest growth of investment in startups in the artificial intelligence (AI) sector worldwide. Yet, more institutional efforts are needed to ensure more robust and high-quality development of the sector,"
     publishedDateTime: 2021-02-11T00:56:00Z

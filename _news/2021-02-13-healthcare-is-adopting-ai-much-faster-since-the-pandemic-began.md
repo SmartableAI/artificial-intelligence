@@ -3,13 +3,13 @@ category: news
 title: "Healthcare is adopting AI much faster since the pandemic began"
 excerpt: "While healthcare organizations are hesitant to adopt AI technology, the COVID-19 pandemic has increased their interest."
 publishedDateTime: 2021-02-12T19:29:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+originalUrl: "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+webUrl: "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,21 +45,7 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "4 recent studies exploring AI in healthcare"
-    excerpt: "In the past decade, medical researchers have become increasingly interested in artificial intelligence's potential to improve healthcare by reducing workflow inefficiencies, predicting health outcomes and speeding up diagnoses."
-    publishedDateTime: 2021-02-10T19:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/4-recent-studies-exploring-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
-secured: "WErOnm3N44d7zT7oulZyDLBZC3Q/dljAagxvO5iW4+JlgS2Mi40Q3WAEzUnHuGv3Lbcqtp+IRZIZTuG4QT1tRLtfNZbgCKdaewxA8Yot6P87HqAqcxpbeoAOqD1srfCW94qSNAHlQx36uYTINwGJccYTI24OE3T4loE1ABXpPiII++oKeNVv4p/oQZgCh46TUIr4IhwYf06dRvbMn/m3EdnYPao0VljG8kmQycvWzdpdI4IJnKAbCIrdTdRrxKCTP0yRPpDAicT+NgrbtWWjTQhufOUf0fBAaitcblnUllbw3+lKIGT1IWEmJEWipTDEMqR9ww7O/e6QtRpHPfOYpbV7ctDjA6oyx5mCbA+K0B7a92Wx9pqdbSDakq4JicNxCTECleHMaOyF36YPnghpMC5jLNwIQkbZbBCB48MNXLfYC8eqrx6ujitsbTYeFqBAcwMrzTr+qZwuo6inD06o1J8cqaoRXamiAMniHSyRtABfJRFMNtPTreEvgQMPjVQoUpBqfN8WSSJ7IX0+vMUoBw==;rNxjBp5QWr19CKjbYMGnfg=="
+secured: "AZbDtL6VB4jlp8BBHObP8nuQK69TG0hK6YThfQbAaio07kSdoBGuhxogQqrNEWCwyFYs26CxkjVWgPOd7IER2HRC32Kk/pORiFFR1TwfB3bZo02X7gGIcQRHUaVKQnYOVqSoxyX30wl1PTxhVmjalrbUozVSNif+G4F32ms8wR+m2jhBGyg/dWuPnegi9ZYtRq+zsoUcwUJ6rssp/oNpe9icyQAQYReNB1kt0fyy97eSAs0xR+MJmb6dBSddxUxMj5K+bXva+pRABjsv+h2ZoTNGb3nOX513IIOaYcRMd5NaoP8Q5uHypACafhCpx9yoTOYMol2ggJ+Q7kWC1sSKLSS+k8Tz+eP8pXk9fA9Rias=;82efPK+Z1fRdOOY07V65hw=="
 ---
 
