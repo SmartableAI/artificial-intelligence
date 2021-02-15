@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2021-02-11"
 type: article
 quality: 60
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market Size 2020: Industry Growth, Competitive Analysis, Future Prospects and Forecast 2025"
-    excerpt: "Selbyville, Delaware The Face Recognition Technology Market report offers detailed competitive landscape of the global market. It includes company, market share analysis, product portfolio of the major industry participants."
-    publishedDateTime: 2021-02-10T10:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2020-industry-growth-competitive-analysis-future-prospects-and-forecast-2025-2021-02-10?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Thriving in the new normal with cloud and artificial intelligence"
+    excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"
+    publishedDateTime: 2021-02-15T02:06:00Z
+    webUrl: "https://www.thesundaily.my/business/thriving-in-the-new-normal-with-cloud-and-artificial-intelligence-JA6705568"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
+    quality: 39
+    images:
+      - url: "https://www.thesundaily.my/binrepository/480x268/0c14/480d250/none/11808/QJLI/p12-afp_2118790_20210214191704.jpg"
+        width: 480
+        height: 250
+        isCached: true
   - title: "How Britain is supercharging the UAE's artificial intelligence ambitions"
     excerpt: "Artificial intelligence (AI) partnerships and investments are likely to increase significantly between the UK and the UAE in the coming years, according to officials. Britain is set to ramp up its partnerships with Gulf nations on the use of AI in multiple sectors including education,"
     publishedDateTime: 2021-02-11T06:33:00Z

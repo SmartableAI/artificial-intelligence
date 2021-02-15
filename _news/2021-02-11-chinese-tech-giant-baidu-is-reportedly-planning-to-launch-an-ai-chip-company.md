@@ -70,17 +70,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "Baidu in talks to raise funds for AI chip company - CNBC"
-    excerpt: "China's search engine giant Baidu Inc BIDU.O is in talks to raise cash for an artificial intelligence semiconductor company, CNBC reported on Wednesday, citing a person familiar with the matter. Venture capital firms GGV and IDG Capital are in discussions with Baidu,"
-    publishedDateTime: 2021-02-10T10:23:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-in-talks-to-raise-funds-for-ai-chip-company-cnbc-2021-02-10?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Baidu in negotiations to raise funds to start AI chip company"
     excerpt: "Chinese tech giant Baidu is in talks to raise money to start its own standalone artificial intelligence semiconductor chip company."
     publishedDateTime: 2021-02-10T12:05:00Z

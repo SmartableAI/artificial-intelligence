@@ -1,50 +1,45 @@
 ---
 category: news
-title: "Using AI And Machine Learning To Break Past The Constraints Of The 'New Normal'"
-excerpt: "Getting started with AI and machine learning is becoming increasingly accessible for organizations of all sizes."
-publishedDateTime: 2021-02-10T12:50:00Z
-originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/"
-webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/"
-ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/"
+title: "Thriving in the new normal with cloud and artificial intelligence"
+excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"
+publishedDateTime: 2021-02-15T02:06:00Z
+originalUrl: "https://www.thesundaily.my/business/thriving-in-the-new-normal-with-cloud-and-artificial-intelligence-JA6705568"
+webUrl: "https://www.thesundaily.my/business/thriving-in-the-new-normal-with-cloud-and-artificial-intelligence-JA6705568"
 type: article
-quality: 102
-heat: 142
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Sun
+  domain: thesundaily.my
 
 topics:
-  - Google AI
   - AI
-  - Machine Learning
+  - AI in Healthcare
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.thesundaily.my/binrepository/480x268/0c14/480d250/none/11808/QJLI/p12-afp_2118790_20210214191704.jpg"
+    width: 480
+    height: 250
     isCached: true
 
 related:
-  - title: "Thriving in the new normal with cloud and artificial intelligence"
-    excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"
-    publishedDateTime: 2021-02-15T02:06:00Z
-    webUrl: "https://www.thesundaily.my/business/thriving-in-the-new-normal-with-cloud-and-artificial-intelligence-JA6705568"
+  - title: "Using AI And Machine Learning To Break Past The Constraints Of The 'New Normal'"
+    excerpt: "Getting started with AI and machine learning is becoming increasingly accessible for organizations of all sizes."
+    publishedDateTime: 2021-02-10T12:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/"
     type: article
     provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 102
     images:
-      - url: "https://www.thesundaily.my/binrepository/480x268/0c14/480d250/none/11808/QJLI/p12-afp_2118790_20210214191704.jpg"
-        width: 480
-        height: 250
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Artificial Intelligence to Improve the Shipping Industry’s Efficiency"
     excerpt: "Efforts are progressing to harness emerging technologies to improve the efficiency of shipping operations. Japan’s K. Lines announced that it is expanding its efforts with artificial intelligence to achieve greater efficiency with routing which will also contribute to lower emissions from their ships."
@@ -84,6 +79,6 @@ related:
         height: 450
         isCached: true
 
-secured: "PVhM4/oy7z09UwxbVqIDtE0Gga7ln9w8tovQpNF2RPPjI5oF1M+H4ETSUBttsQiJSPqwPtn9mdmmJL/c+PMenF4m7ia0sTHOwC1Da8reIs3YhYeJa8zNhl/5ldFXA/T4oVxc8AGSzbtk5VEhcForsF8sbftfYBpLzGCcuLwUzcTrjigick4aU1xNT+kZT9hp1rhlmJF63HieTYghpfpqi+jn5yCvFcFQb7pLFMlSAETm5pWz6nR9a1APNrjq36suxeeWNVbk3NKsfuctiEQIln+8rb69oyJigIq6BotgPOrvNvVv1ESPd4XYpH9JxVoToANz9Tw8LM9A0N+hLJW7nzpdiZMJLLrs7OZgWUVFIUDi0HeRmd0rVWoHOlPeYK2hrduOMwHsbkg8NiKsqdb1MwPgojg+RGdxbHle0/2p9Zbx4eZLqYDGlNnmSVi0iw+tydn5QOeHho5ENB86DSU6Jb0/8X2Bz9sM44DYZ9baWZcaR5weWo8iqFEgMKD2jXxkyEjX30vv3B7wDCA375qT4Q==;TogenvUKKMTw0oVgg/X4eg=="
+secured: "+kFu8ay3FnnTUq+z9Y+wq7fRKx17x9AQq+vNA/e0IoDZjtgKaJwgb9JGNn1Qr2iRxIQ9Sh580QxC95AYvnKTCDkHE4h/6VfdYsOH7ywUqAzaQE3p0vEAqjgFWtQVnEmVRyce9ob4MB5l82Mr/Sa1ow4c2O5gzjcH2cPqZp3Am+BALjVaYCl5GwVTRpwm3ae//Ep8V5bhqtB9eP2vmfnmpfSbfU+VBcIQvIS7/Ym4pO/7QnQVq2gaSZ/UIp9u+GMeDwhNWTZp9t3ntpeNgmB3glYjFVP1C0GCywlzf75MIa/GUiEJnTFjIujqK2LLY+7LGC30HAV/daNsDXkNJU4fC6tQwOYn/27jruQ0BH1p5AA=;fhJeM3wtviAYLqqoFCk+YQ=="
 ---
 

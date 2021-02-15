@@ -2,101 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-31-artificial-intelligence-for-disparities-in-knee-pain-assessment.md",
-      "title": "Artificial intelligence for disparities in knee pain assessment",
-      "excerpt": "An algorithm developed through machine learning on existing radiological data from diverse people has the potential to improve the diagnosis and management of knee pain from osteoarthritis and reduce racial disparities in the assessment of knee pain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41591-020-01196-3",
-      "originalUrl": "https://www.nature.com/articles/s41591-020-01196-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-020-01196-3/MediaObjects/41591_2020_1196_Figa_HTML.png",
-          "width": 406,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-30T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities.md",
-      "title": "Artificial intelligence (AI) in manufacturing Market Analysis By Growth, Emerging Trends and Future Opportunities",
-      "excerpt": "Artificial intelligence (AI) in manufacturing Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence in Manufacturing Market is valued approximately USD 1 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 57.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-01-29-artificial-intelligence-in-cybersecurity-market.md",
       "title": "Artificial Intelligence in Cybersecurity Market...",
       "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence in Cybersecurity Market Research Report",
@@ -1396,6 +1301,74 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Size Worth $61.59 Billion By 2027 | CAGR of 43.6% By Reports and Data",
+      "excerpt": "Artificial intelligence helps medical professionals to retrieve information, interpret images, and plan therapy during medical procedures. It also eases the burden on healthcare workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19208601/artificial-intelligence-ai-in-healthcare-market-size-worth-61-59-billion-by-2027-cagr-of-43-6-by-r",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19208601/artificial-intelligence-ai-in-healthcare-market-size-worth-61-59-billion-by-2027-cagr-of-43-6-by-r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19208601",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19208601",
+      "publishedDateTime": "2021-01-19T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-for-next-generation-ophthalmic-gene-therapy.md",
+      "title": "Neurophth and AAVnerGene Enter Strategic AAV Capsids Partnership for Next-Generation Ophthalmic Gene Therapy",
+      "excerpt": "Neurophth Therapeutics, Inc., a subsidiary of Wuhan Neurophth Biotechnology Ltd. gene therapy company (hereafter Neurophth), and AAVnerGene Inc., a specializing AAV technology company, today announced a strategic partnership to provide Neurophth with worldwide rights to mutually select adeno-associated virus (AAV) capsids for the next generation ophthalmic gene therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/health-press-release/Neurophth-and-AAVnerGene-Enter-Strategic-AAV-Capsids-Partnership-for-Next-Generation-Ophthalmic-Gene-Therapy-506755-1.htm",
+      "originalUrl": "https://www.medindia.net/health-press-release/Neurophth-and-AAVnerGene-Enter-Strategic-AAV-Capsids-Partnership-for-Next-Generation-Ophthalmic-Gene-Therapy-506755-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-26-computer-vision-researchers-develop-city-scale-smart-tracking-platform.md",
+      "title": "Computer vision researchers develop city-scale smart tracking platform",
+      "excerpt": "Unlike existing bespoke multi-camera analysis platforms, which are built solely for specific hardware and software, Anveshak allows users to employ custom tracking strategies, computer vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
+      "originalUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/anveshak.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
+      "publishedDateTime": "2021-01-25T11:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-computer-vision-technology-and-education-sector.md",
       "title": "Computer Vision Technology and Education Sector",
       "excerpt": "Computer vision technology could help with this problem as it allows educators to customize how students learn. It gives them a way to observe students and measure their engagement so as to make ...",
@@ -48,34 +100,34 @@
     {
       "path": "_news/2021-01-25-stradvision-achieves-iso-270012013-certification.md",
       "title": "StradVision Achieves ISO 27001:2013 Certification",
-      "excerpt": "StradVision's AI-based object recognition software, SVNet, is currently used in mass production models of ADAS and autonomous driving vehicles that support SAE Levels 2 to 4, and will be deployed ...",
+      "excerpt": "StradVision achieves ISO 27001:2013 certification for its AI-based object recognition software 'SVNet' ISO 27001:2013 is one of the most widely recognized and internationally accepted information ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/stradvision-achieves-iso-270012013-certification-301213791.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/stradvision-achieves-iso-270012013-certification-301213791.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stradvision-achieves-iso-27001-2013-certification-1029999812",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stradvision-achieves-iso-27001-2013-certification-1029999812",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook",
-          "width": 1413,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T07:01:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/stradvision-achieves-iso-27001-2013-certification-1029999812",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradvision-achieves-iso-27001-2013-certification-1029999812",
+      "publishedDateTime": "2021-01-25T07:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1330,49 +1382,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
-      "title": "Delhi Airport Evaluating 'computer Vision' Tech To Track Flyers, Ensure Social Distancing: Official",
-      "excerpt": "Delhi airport is evaluating a computer vision technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a top official of the facility's operator said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/india-news/city-news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.html",
-      "originalUrl": "https://www.republicworld.com/india-news/city-news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/8aiou9s6bqizw6uw_1611054674.jpeg?tr=f-jpeg",
-          "width": 1242,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

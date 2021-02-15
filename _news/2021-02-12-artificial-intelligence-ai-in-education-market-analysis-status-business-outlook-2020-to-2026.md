@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2241354/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis"
 type: article
 quality: 76
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2025"
+    excerpt: "Newly added by MarketsandResearch.biz study on Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains a detailed analysis of data through industrial dynamics which has a major impact on the growth of the market."
+    publishedDateTime: 2021-02-15T01:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2025-2021-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

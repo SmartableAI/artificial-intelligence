@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
 publishedDateTime: 2021-02-11T13:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
 type: article
-quality: 81
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
@@ -73,6 +73,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
+    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
+    publishedDateTime: 2021-02-11T13:58:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 91
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
+        width: 877
+        height: 545
+        isCached: true
   - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
     excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
     publishedDateTime: 2021-02-11T16:17:00Z
@@ -115,20 +131,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/09/microsoft-connected-vehicle-platform.jpg"
         width: 1279
         height: 720
-        isCached: true
-  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
-    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
-        width: 800
-        height: 496
         isCached: true
   - title: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2"
     excerpt: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2 . Cloud computing and artificial intelligence"
@@ -288,6 +290,6 @@ related:
         height: 419
         isCached: true
 
-secured: "fd3kVMDaNwZAoe8O2OvjYAEJYMrx/hVgx0tzlXEtJ7Xx+EBcfOhpfbo1ltLRpLw0hLwh4ls8sC4VjTgn7uFm6jHCdzLx9M/0yMtOmxI/wqkt9iaeFL+TsCiwrw1W5AQmrqH5l9URzTbxZB4RT02aOL1jR6oUvUavdr39g9YMWQcIYAcpIhHx/YjughzoCteppsoREKQNycqWzP+0H1WWDZ46CfDbAv2jjMO0B3Mdbs/SID2mrBSQr1hN1xYX60SbA3rsZwwck9sGGRApTg3U3TsHXmmLLesWYLF89K8JIsreACyB+HpiHR2f/o/gLaFX2Akylj+5/mq+KTD7okZHYOnDnD029OLaUVExVgtRmrk=;DtTf/t8WMKfPYERyURcLaw=="
+secured: "NlhzSMmT3WNVbf4sWbrcn+mQU5zLqNc8E2Im031z9Uf0bXNJos0MmrlXfBzJNH/NMP5Gstn5/+jpr2MIoSdrWygyn4GnlhQqdGgoD2uGdae9QjqhalnUuDovfB8ZV0wolbXroFvGJoGN5m6npRBGuq7iwiq6rEIcfuCe/nyck/lE77MHxHrd8rI490Oz8lTHTP7/NvwwwdvsUUEHfU2KxELsSh7YlNTO62w65nWTCAzzBTFP7Ay4vU+0s9SlLbvX2QKuxgwjEl+0wx/NiOb1ks9u0iJ2jokh/JC4/6t/DdSehnyXCvHqyEXiiIPslGEUO/EQXPAqKzHVVFBRrlS4HXCHTSkJHfsX1DXMoOe4t+w=;9fJ16qo4C2pPPXCmToXtGQ=="
 ---
 

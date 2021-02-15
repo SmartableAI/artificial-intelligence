@@ -25,53 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Finch Capital Targets European Fintech Companies with €150 million Fund"
-    excerpt: "Finch Capital announced the first close of Europe III, its €150 million investment fund, to invest in the European fintech companies."
-    publishedDateTime: 2021-02-10T10:16:00Z
-    webUrl: "https://www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/finch-capital-targets-european-fintech-companies-with-e150-million-fund/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
-        isCached: true
-  - title: "FinTech PayZen Nets $5 Million For Hospital Payment Platform"
-    excerpt: "FinTech startup PayZen has raised more than $5 million in seed financing. The company offers a service that pays hospitals upfront for patient invoices."
-    publishedDateTime: 2021-02-11T18:50:00Z
-    webUrl: "https://www.pymnts.com/healthcare/2021/payzen-nets-5m-funding-for-hospital-payment-platform/"
-    ampWebUrl: "https://www.pymnts.com/healthcare/2021/payzen-nets-5m-funding-for-hospital-payment-platform/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/payzen-nets-5m-funding-for-hospital-payment-platform/amp/"
+  - title: "Everyday Credit FinTech OppFi Will Go Public Via SPAC"
+    excerpt: "Opportunity Financial (OppFi) has entered into an agreement with special purpose acquisition company FG New American Acquisition Corp. to become a public company."
+    publishedDateTime: 2021-02-12T03:16:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/everyday-credit-fintech-oppfi-will-go-public-via-spac/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/everyday-credit-fintech-oppfi-will-go-public-via-spac/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/everyday-credit-fintech-oppfi-will-go-public-via-spac/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
     quality: 44
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/hospital-billing-457x274.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/shutterstock_1500160340-1-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Kraken Announces Launch of Independent Investment Fund For Crypto & Fintech Companies"
-    excerpt: "Kraken, a U.S.-based digital asset exchange, announced on Thursday it is backing the newly launched Kraken Ventures, an independent investment fund targeting early stage companies and protocols across the crypto and fintech ecosystem."
-    publishedDateTime: 2021-02-12T13:03:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172180-kraken-announces-launch-of-independent-investment-fund-for-crypto-fintech-companies/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 37
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-4-600x450.jpeg"
-        width: 600
-        height: 450
         isCached: true
 
 secured: "o1+gVTMuhdTHx/Kheo9uCp4sfjPMBCmiFrf4RMi7qphb4i5Cef8x+d79+XpBCCVMKH76KAu5TFTud8In/duCL2K8KXkfIGQXsGOXUxc1IBWqtQBkjvF0U9OgQuJ5s3dA4Vap+FakGIViGfE/pybjC5gHR0K0WUpHABz93FlgSMG1nvZT2ehyCmGobHMzV7FwCVCdtVltlakbjmdixzCbC64mpfPtm34scBEiGfdPH3f3IjgwGKJa3Op77qQ+m+vo4EkVPCA1kcCa+PKiccGICiGvHJwLflvFW5mCqUTWH7x/fJn1G/EoK4qUqFWtHvjAyEfSDpYaxuoFyrNuyXlzMcSUfRuGwaLzE9HiM85gBPeExRqshA62pol0JoEJ/Z7KnhC/Z9b12RemydfrDXMVMVktT1J4oHv/dGWNuDWqAW0w+DTFTUw/EMxTNPUsgZnxUNg3Cr98caySq/aFfOIg/4DUMwxH+pMGT1UzhyK3eKNJuTT2wZN1TRBYRif1RYlzB3bbo5fYYMQ+3rVr2AR+0A==;7OYxDEN7DhkMDwAO/u3Fxg=="

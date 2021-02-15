@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Thriving in the new normal with cloud and artificial intelligence"
+    excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"
+    publishedDateTime: 2021-02-15T02:06:00Z
+    webUrl: "https://www.thesundaily.my/business/thriving-in-the-new-normal-with-cloud-and-artificial-intelligence-JA6705568"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
+    quality: 39
+    images:
+      - url: "https://www.thesundaily.my/binrepository/480x268/0c14/480d250/none/11808/QJLI/p12-afp_2118790_20210214191704.jpg"
+        width: 480
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence to Improve the Shipping Industry’s Efficiency"
     excerpt: "Efforts are progressing to harness emerging technologies to improve the efficiency of shipping operations. Japan’s K. Lines announced that it is expanding its efforts with artificial intelligence to achieve greater efficiency with routing which will also contribute to lower emissions from their ships."
     publishedDateTime: 2021-02-10T22:41:00Z

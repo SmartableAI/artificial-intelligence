@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/a-look-at-5-ai-startups-empowerin
 webUrl: "https://www.analyticsinsight.net/a-look-at-5-ai-startups-empowering-defence-and-security-industry/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 900
     height: 500
     isCached: true
-
-related:
-  - title: "The 3 AI startups revolutionising the defence sector"
-    excerpt: "This article explores three innovative AI startups that are helping to redefine the defence and security sector"
-    publishedDateTime: 2021-02-10T10:58:00Z
-    webUrl: "https://www.information-age.com/the-3-ai-startups-revolutionising-the-defence-sector-123493776/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/the-3-ai-startups-revolutionising-the-defence-sector.jpeg"
-        width: 900
-        height: 675
-        isCached: true
 
 secured: "U40ByiLd2bBQKYdfsCYlDMoxLt9+fAV/Zdc1+anuLXGra2CnBJFaZRPqM2mNgCGd4SVGN0+0z6MqxVjjJFzSr2PO6cU79XqoJunriRtCHCnfjlglOzHTUOrT0h1jz9qNvnT5DJH2foRjt0UecakoeZ7XlNxlJtsQVgcFm1lUCOSe0mb96N45+aNDrnsHnUkt/rt3tssUO115JN1+IshIU3PbgTOhPXQWorpwnz6rRGpYpTRZ7Z1ppThTEhCAKj7ZHPJeXGa52/b3uWdx0AaYNyGjoTU2ZC8a72xHKu48exPmgKU2utO7vMqFLkjIqMRPywpHPEAgIeR+smZfRo9KXWE5DPynk1KCpzkCSAzzOLE=;5dneofSYEhc8/kRRhlfIaQ=="
 ---

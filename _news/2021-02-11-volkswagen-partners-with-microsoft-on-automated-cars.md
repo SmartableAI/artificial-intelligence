@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
+    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
+    publishedDateTime: 2021-02-11T13:58:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 91
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
+        width: 877
+        height: 545
+        isCached: true
   - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
     excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
     publishedDateTime: 2021-02-11T16:17:00Z
@@ -75,17 +91,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 86
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
-    publishedDateTime: 2021-02-11T13:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch"
     excerpt: "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer."
     publishedDateTime: 2021-02-12T16:26:00Z
@@ -117,20 +122,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/09/microsoft-connected-vehicle-platform.jpg"
         width: 1279
         height: 720
-        isCached: true
-  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
-    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
-        width: 800
-        height: 496
         isCached: true
   - title: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2"
     excerpt: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2 . Cloud computing and artificial intelligence"
@@ -200,6 +191,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
+    publishedDateTime: 2021-02-11T13:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Voice Recognition Systems Market Global Statistics and Forecast to 2031| Nuance Communications, Microsoft, Agnitio"
     excerpt: "The global COVID-19 analysis on Voice Recognition Systems market has been driven by the range of its a wide area of sectors such as HealthCare, Military & Aerospace, Communications & Telephony, Automotive Industry,"

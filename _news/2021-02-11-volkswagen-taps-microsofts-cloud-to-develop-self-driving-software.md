@@ -3,10 +3,12 @@ category: news
 title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
 excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
 publishedDateTime: 2021-02-11T13:58:00Z
-originalUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
-webUrl: "https://www.reuters.com/article/microsoft-volkswagen-idUSL1N2KH04Z"
+originalUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
+webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idINKBN2AB0SZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AB0SZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AB0SZ"
 type: article
-quality: 71
+quality: 91
 heat: -1
 published: false
 
@@ -24,9 +26,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210211&t=2&i=1551155567&r=LYNXMPEH1A0IY&w=800"
-    width: 800
-    height: 496
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
+    width: 877
+    height: 545
     isCached: true
 
 related:
@@ -89,17 +91,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 86
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
-    publishedDateTime: 2021-02-11T13:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch"
     excerpt: "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer."
     publishedDateTime: 2021-02-12T16:26:00Z
@@ -201,6 +192,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
+    publishedDateTime: 2021-02-11T13:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Voice Recognition Systems Market Global Statistics and Forecast to 2031| Nuance Communications, Microsoft, Agnitio"
     excerpt: "The global COVID-19 analysis on Voice Recognition Systems market has been driven by the range of its a wide area of sectors such as HealthCare, Military & Aerospace, Communications & Telephony, Automotive Industry,"
     publishedDateTime: 2021-02-14T13:46:00Z
@@ -290,6 +295,6 @@ related:
         height: 419
         isCached: true
 
-secured: "KibPS4dhLd24cfdlPbe+H9HjolReWYJX1cIw8mDhsP/sGsuGNj7xVeO0eBuu0+GeR5/zhnUhtIFdngI9+B5kRTb6ZJUShXqn+Qckhy3eb9VhbmJrM9Btgii1HG4FKO6GgUzrXzvSbCrsQungZ1ejAabmsZkl0UJWI+X+3okEmEOEgMuJqiiFU0CuLMqOIbko3Oji8og116ofcyoMCLf7sdVeaIT3DToilugmXyM/J4sBaW1PlRd2OJP2BL84rnpZhv+qq6b4FTowvKMdZcO4Vl436zxod6M6sdCiUbIddXb1cBI9hjNdXqOm5CtDPBCY2S+v3y3ViMEcr6TQgEUDiDbB+T/scsQJQquH1KswQnAnqSLaNyv+EAhp7TWMZBiJLsJOVPPydE03CvXja2qsApCwhRdEAUxu7HX9p7LCoWf6ABlOd1IV1zN7RP3VW4hsjG5L5Ge02cOJzvzlA/jyiLXJ5dqx9BRuq7UAi87fjG4HKjSGS+nH0qQIvfue3MN0tDfKsVrgInNNRe3dWZi/jA==;qfgzgPD7L/AIPdRCmx89rA=="
+secured: "Tek1KdjvLxMEVPLghufNaxFny6h2d5z92ZGwTv0xYXU1HFnh7x0Q2vgMXb1Nf+PJbIhQt1rxbIh8OqCkwU1vIFVE0D1A5zB/a0pmhAfODUppjWJq8k+xD1P3n23cp5lZuS95v4ADlLRONqfpRA5H1T9ky3R/mjgjBwV7duIBHKGKCh8AatCxl8qY9N0OqhkN5Y+JsSUQ2eT+r5BvmTXaWtOEywIAbuy94XM+c6vZQ+qemKySdLzEmmezdTXdmleZuIsgXiSw7N9foQ+j1+uVJyOnS7nVdZSBV87aqfljwKwBCsfmFrh8aPB78pIjrr/l92LHUqzSpkEn+24xKt8tgd9jPj9JaS2AGi5nmU4Vuqs=;l8GUS1YT7dsLnLFg1t9B7A=="
 ---
 

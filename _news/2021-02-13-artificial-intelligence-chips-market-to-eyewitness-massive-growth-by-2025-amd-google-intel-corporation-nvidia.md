@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2025"
+    excerpt: "Newly added by MarketsandResearch.biz study on Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains a detailed analysis of data through industrial dynamics which has a major impact on the growth of the market."
+    publishedDateTime: 2021-02-15T01:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2025-2021-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
     excerpt: "The Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027 report has been added to ReportOcean.com offering. The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc."
     publishedDateTime: 2021-02-12T17:31:00Z
