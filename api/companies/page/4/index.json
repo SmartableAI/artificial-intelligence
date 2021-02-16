@@ -4,6 +4,230 @@
   "page": 4,
   "value": [
     {
+      "path": "_companies/cognitivescale.md",
+      "title": "CognitiveScale",
+      "excerpt": "CognitiveScale is an enterprise AI software company with solutions that help customers win with intelligent, transparent and trusted AI/ML powered digital systems.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/cognitivescale/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/cognitivescale/",
+      "type": "profile",
+      "name": "CognitiveScale",
+      "overview": "CognitiveScale is an enterprise AI software company with solutions that help customers win with intelligent, transparent and trusted AI/ML powered digital systems.",
+      "website": "https://cognitivescale.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/cognitivescale",
+        "followers": 7171
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cognitivescale"
+      },
+      "twitter": {
+        "username": "CognitiveScale",
+        "url": "https://twitter.com/CognitiveScale",
+        "followers": 4190
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Austin, TX",
+        "Austin, Texas"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/681884599027273729/aJmkTYTt_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "CognitiveScale",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQG_v-5Ww-04OQ/company-logo_200_200/0?e=1594857600&v=beta&t=hcGIpY_HmsPXPq2B0W7a9of72rYMt2XSnpJDbtf7iVA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/fraugster.md",
+      "title": "Fraugster",
+      "excerpt": "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fraugster/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/fraugster/",
+      "type": "profile",
+      "name": "Fraugster",
+      "otherNames": [
+        "Fraugster Limited"
+      ],
+      "overview": "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce",
+      "website": "https://fraugster.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/fraugster/",
+        "followers": 1304
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/fraugster"
+      },
+      "twitter": {
+        "username": "fraugster",
+        "url": "https://twitter.com/fraugster",
+        "followers": 764
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 64,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1296745102828810240/FNWtlUGI_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Fraugster",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGisd_IWmCCTQ/company-logo_200_200/0?e=1594857600&v=beta&t=MHYu6ciWY5i5ih3ke6nKjZWo_gXA79HJTVvsPWN8aLA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/h2o.ai.md",
+      "title": "H2O.ai",
+      "excerpt": "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/h2o.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/h2o.ai/",
+      "type": "profile",
+      "name": "H2O.ai",
+      "overview": "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai.",
+      "website": "https://www.h2o.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/0xdata",
+        "followers": 52786
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/h2o-2"
+      },
+      "twitter": {
+        "username": "h2oai",
+        "url": "https://twitter.com/h2oai",
+        "followers": 21256
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 64,
+      "tags": [
+        "Open Source"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1024818828809629699/m8X9zY2c_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "H2O.ai",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHwh1xsjx_5CQ/company-logo_200_200/0?e=1587600000&v=beta&t=aRwC2WzcJ0TEw7AQmmVQn-QUJIXDFDbbGxMsi05QDoo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/intel.md",
+      "title": "Intel",
+      "excerpt": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/intel/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/intel/",
+      "type": "profile",
+      "name": "Intel",
+      "overview": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
+      "website": "https://www.intel.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/intel-corporation/",
+        "followers": 1659869
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/intel"
+      },
+      "twitter": {
+        "username": "IntelAI",
+        "url": "https://twitter.com/IntelAI",
+        "followers": 25622
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1968,
+      "locations": [
+        "Santa Clara, CA",
+        "Santa Clara, California"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Computer Vision"
+      ],
+      "heat": 64,
+      "tags": [
+        "Autonomous Vehicles",
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1301225939049750528/sjI3AxEY_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Intel",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQxLTTAA1tTA/company-logo_200_200/0?e=1594857600&v=beta&t=U_52l9T9eym9XCO00umDVjcgsFMfJ8Gfde0exSv24rk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/leapmind.io.md",
       "title": "LeapMind",
       "excerpt": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
@@ -185,7 +409,7 @@
       "twitter": {
         "username": "RecursionPharma",
         "url": "https://twitter.com/RecursionPharma",
-        "followers": 3841
+        "followers": 3842
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -362,7 +586,7 @@
       "twitter": {
         "username": "sbreurope",
         "url": "https://twitter.com/sbreurope",
-        "followers": 16564
+        "followers": 16565
       },
       "yearFounded": 0,
       "locations": [
@@ -384,82 +608,6 @@
           "width": 400,
           "height": 400,
           "title": "SoftBank Robotics",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/tanium.md",
-      "title": "Tanium",
-      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
-      "type": "profile",
-      "name": "Tanium",
-      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "website": "https://www.tanium.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tanium"
-      },
-      "twitter": {
-        "username": "Tanium",
-        "url": "https://twitter.com/Tanium",
-        "followers": 6264
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Emeryville, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Tanium",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/vectra.ai.md",
-      "title": "Vectra",
-      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
-      "type": "profile",
-      "name": "Vectra",
-      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "website": "https://vectra.ai",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vectra-networks"
-      },
-      "twitter": {
-        "username": "Vectra_AI",
-        "url": "https://twitter.com/Vectra_AI",
-        "followers": 2522
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Vectra",
           "isCached": true
         }
       ],
@@ -1060,7 +1208,7 @@
         "AI",
         "AI in Marketing"
       ],
-      "heat": 57,
+      "heat": 58,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
@@ -1098,13 +1246,51 @@
         "AI",
         "AI in Marketing"
       ],
-      "heat": 57,
+      "heat": 58,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1148237111012843521/qZNppe_4_400x400.png",
           "width": 400,
           "height": 400,
           "title": "ActiveCampaign",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/chorus.ai.md",
+      "title": "Chorus.ai",
+      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
+      "type": "profile",
+      "name": "Chorus.ai",
+      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "website": "https://www.chorus.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/chorus-ai"
+      },
+      "twitter": {
+        "username": "chorus_ai",
+        "url": "https://twitter.com/chorus_ai",
+        "followers": 6793
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco and Tel Aviv"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Chorus.ai",
           "isCached": true
         }
       ],
@@ -1351,7 +1537,7 @@
       "twitter": {
         "username": "Algorithmia",
         "url": "https://twitter.com/Algorithmia",
-        "followers": 6379
+        "followers": 6380
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -1748,7 +1934,7 @@
       "twitter": {
         "username": "casetext",
         "url": "https://twitter.com/casetext",
-        "followers": 5625
+        "followers": 5626
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -1773,159 +1959,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQGqo7kE92p8lQ/company-logo_200_200/0?e=1594857600&v=beta&t=QAxbj2FiDekS3sJOM3nLO0YH-CVMPmTShIHKMXiZmPc",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/collectivei.md",
-      "title": "Collective[i]",
-      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collectivei/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/collectivei/",
-      "type": "profile",
-      "name": "Collective[i]",
-      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "website": "https://www.collectivei.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/collective-i"
-      },
-      "twitter": {
-        "username": "collectivei",
-        "url": "https://twitter.com/collectivei",
-        "followers": 1138
-      },
-      "yearFounded": 0,
-      "locations": [
-        "New York, NY"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1267559599135219715/dJd4U-j-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Collective[i]",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/deep6.ai.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Deep 6 AI disrupts the clinical trial enrollment process by transforming the way researchers identify eligible patients. Using artificial intelligence and natural language processing to mine structured and unstructured patient data, DEEP 6 AI finds more, better-matching patients for trials in minutes, not months.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deep6.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/deep6.ai/",
-      "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Deep 6 AI disrupts the clinical trial enrollment process by transforming the way researchers identify eligible patients. Using artificial intelligence and natural language processing to mine structured and unstructured patient data, DEEP 6 AI finds more, better-matching patients for trials in minutes, not months.",
-      "website": "https://deep6.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2680
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deep-6-ai"
-      },
-      "twitter": {
-        "username": "deep6ai",
-        "url": "https://twitter.com/deep6ai",
-        "followers": 1318
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Pasadena, CA"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Deep 6 AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_400_400/0?e=1582761600&v=beta&t=7SQXh5-24E09tHxEjlcGNBKHsBv6aKIbmHd6PjPllaU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        },
-        {
-          "url": "https://media.licdn.com/dms/image/C561BAQH5o_0GEDJTSA/company-background_10000/0?e=1574802000&v=beta&t=JWy2P1mLeF_41Z92MkYArHMXeYacHm0rFTeIATJVU-Q",
-          "width": 1400,
-          "height": 425,
-          "title": "banner",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/definedcrowd.md",
-      "title": "DefinedCrowd",
-      "excerpt": "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/definedcrowd/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/definedcrowd/",
-      "type": "profile",
-      "name": "DefinedCrowd",
-      "overview": "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one.",
-      "website": "https://www.definedcrowd.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/definedcrowd/",
-        "followers": 5560
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/definedcrowd"
-      },
-      "twitter": {
-        "username": "definedcrowd",
-        "url": "https://www.twitter.com/definedcrowd",
-        "followers": 1691
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Seattle, WA",
-        "Seattle, Washington"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1308151676537274373/5z4CP4P4_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "DefinedCrowd",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQFJWfl9KtlUTA/company-logo_200_200/0?e=1594857600&v=beta&t=ctokgOnNLdzzaX66yPSL2x3sQUVh5Wz-B7daU1pk_-Y",
           "width": 400,
           "height": 400,
           "title": "logo",

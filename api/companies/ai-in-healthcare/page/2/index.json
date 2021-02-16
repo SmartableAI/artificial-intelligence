@@ -4,6 +4,66 @@
   "page": 2,
   "value": [
     {
+      "path": "_companies/botmd.io.md",
+      "title": "Bot M.D.",
+      "excerpt": "Bot M.D. is an A.I assistant for Doctors.  Our A.I. instantly answers doctor questions on drugs, diseases, medical calculators as well as provides automatic voice to text transcriptions. Any doctor with a smartphone can download Bot M.D., making it a highly scalable platform to improve access to care in large markets.  We are always looking to hire awesome Android, React & iOS software developers as well as kickass, Data/ML and Backend engineers. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/botmd.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/botmd.io/",
+      "type": "profile",
+      "name": "Bot M.D.",
+      "otherNames": [
+        "Bot MD",
+        "5 Health",
+        "botmd"
+      ],
+      "overview": "Bot M.D. is an A.I assistant for Doctors.  Our A.I. instantly answers doctor questions on drugs, diseases, medical calculators as well as provides automatic voice to text transcriptions. Any doctor with a smartphone can download Bot M.D., making it a highly scalable platform to improve access to care in large markets.  We are always looking to hire awesome Android, React & iOS software developers as well as kickass, Data/ML and Backend engineers. ",
+      "website": "https://www.botmd.io",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/botmd/",
+        "followers": 173
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/botmd"
+      },
+      "twitter": {
+        "username": "botmdio",
+        "url": "https://twitter.com/botmdio",
+        "followers": 57
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=zQLP9b9WHjU"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/998220000413433856/yaAplVmf_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bot M.D.",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEsB0yDNMietw/company-logo_200_200/0?e=1594857600&v=beta&t=Ne9XHNds3TvWW75VxeSoWQfqC6ZsD0SP-kA5q-9VcJE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/brainomix.md",
       "title": "Brainomix",
       "excerpt": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
@@ -1210,7 +1270,7 @@
       "twitter": {
         "username": "cyclica",
         "url": "https://twitter.com/cyclica",
-        "followers": 1121
+        "followers": 1120
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -1266,7 +1326,7 @@
       "twitter": {
         "username": "enlitic",
         "url": "https://twitter.com/enlitic",
-        "followers": 4750
+        "followers": 4751
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1384,7 +1444,7 @@
       "twitter": {
         "username": "foodvisor_app",
         "url": "https://twitter.com/foodvisor_app",
-        "followers": 1201
+        "followers": 1200
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -1520,44 +1580,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/metabiota.md",
-      "title": "Metabiota",
-      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/metabiota/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/metabiota/",
-      "type": "profile",
-      "name": "Metabiota",
-      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "website": "https://www.metabiota.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/metabiota"
-      },
-      "twitter": {
-        "username": "metabiota",
-        "url": "https://twitter.com/metabiota",
-        "followers": 1348
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1233442221384355840/VenlZMBb_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Metabiota",
-          "isCached": true
         }
       ],
       "content": "\r\n"

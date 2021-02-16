@@ -23,7 +23,7 @@
       "twitter": {
         "username": "adahealth",
         "url": "https://twitter.com/adahealth",
-        "followers": 6151
+        "followers": 6161
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -81,7 +81,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 5857
+        "followers": 5862
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -199,7 +199,7 @@
       "twitter": {
         "username": "affectiva",
         "url": "https://twitter.com/affectiva",
-        "followers": 11294
+        "followers": 11293
       },
       "size": "51-200 employees",
       "yearFounded": 2009,
@@ -249,7 +249,7 @@
       "twitter": {
         "username": "solvemit",
         "url": "https://www.twitter.com/solvemit",
-        "followers": 14890
+        "followers": 14891
       },
       "yearFounded": 0,
       "locations": [
@@ -407,7 +407,7 @@
       "twitter": {
         "username": "tempuslabs",
         "url": "https://www.twitter.com/tempuslabs",
-        "followers": 3680
+        "followers": 3682
       },
       "size": "501-1,000 employees",
       "yearFounded": 2015,
@@ -508,6 +508,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/metabiota.md",
+      "title": "Metabiota",
+      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/metabiota/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/metabiota/",
+      "type": "profile",
+      "name": "Metabiota",
+      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
+      "website": "https://www.metabiota.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/metabiota"
+      },
+      "twitter": {
+        "username": "metabiota",
+        "url": "https://twitter.com/metabiota",
+        "followers": 1348
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1233442221384355840/VenlZMBb_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Metabiota",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/babylonhealth.md",
       "title": "Babylon Health",
       "excerpt": "babylon is the U.K’s leading digital healthcare service. Our purpose is to democratise healthcare by putting an accessible and affordable health service into the hands of every person on earth. In order to achieve this babylon has brought together one of the largest teams of scientists, clinicians, mathematicians and engineers to focus on combining the ever growing computing power of machines with the best medical expertise of humans to create a comprehensive, immediate and personalised health service and make it universally available.",
@@ -527,7 +565,7 @@
       "twitter": {
         "username": "babylonhealth",
         "url": "https://twitter.com/babylonhealth",
-        "followers": 12520
+        "followers": 12522
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -627,7 +665,7 @@
       "twitter": {
         "username": "RecursionPharma",
         "url": "https://twitter.com/RecursionPharma",
-        "followers": 3841
+        "followers": 3842
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1224,7 +1262,7 @@
       "twitter": {
         "username": "InsilicoMeds",
         "url": "https://twitter.com/InsilicoMeds",
-        "followers": 3514
+        "followers": 3513
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1695,66 +1733,6 @@
           "height": 400,
           "title": "BeaconCure",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/botmd.io.md",
-      "title": "Bot M.D.",
-      "excerpt": "Bot M.D. is an A.I assistant for Doctors.  Our A.I. instantly answers doctor questions on drugs, diseases, medical calculators as well as provides automatic voice to text transcriptions. Any doctor with a smartphone can download Bot M.D., making it a highly scalable platform to improve access to care in large markets.  We are always looking to hire awesome Android, React & iOS software developers as well as kickass, Data/ML and Backend engineers. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/botmd.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/botmd.io/",
-      "type": "profile",
-      "name": "Bot M.D.",
-      "otherNames": [
-        "Bot MD",
-        "5 Health",
-        "botmd"
-      ],
-      "overview": "Bot M.D. is an A.I assistant for Doctors.  Our A.I. instantly answers doctor questions on drugs, diseases, medical calculators as well as provides automatic voice to text transcriptions. Any doctor with a smartphone can download Bot M.D., making it a highly scalable platform to improve access to care in large markets.  We are always looking to hire awesome Android, React & iOS software developers as well as kickass, Data/ML and Backend engineers. ",
-      "website": "https://www.botmd.io",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/botmd/",
-        "followers": 173
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/botmd"
-      },
-      "twitter": {
-        "username": "botmdio",
-        "url": "https://twitter.com/botmdio",
-        "followers": 57
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=zQLP9b9WHjU"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/998220000413433856/yaAplVmf_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bot M.D.",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEsB0yDNMietw/company-logo_200_200/0?e=1594857600&v=beta&t=Ne9XHNds3TvWW75VxeSoWQfqC6ZsD0SP-kA5q-9VcJE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
