@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
-    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-02-11T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Drug Discovery Market Size, Growth Drivers, Trends and Forecast to 2027"
     excerpt: "Request a Sample of this report @  The global Artificial Intelligence In Drug Discovery market is expected to reach at a remarkable value and to grow at a considerable CAGR over the forecast period i."
     publishedDateTime: 2021-02-15T20:12:00Z
@@ -122,20 +108,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Worldwide Digital Assistants in Healthcare Industry to 2026 - North America is Expected to Hold Significant Market Share - ResearchAndMarkets.com"
-    excerpt: "The “Digital Assistants in Healthcare Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The digital assistants in healthcare market is projected to register a CAGR of almost 33."
-    publishedDateTime: 2021-02-11T11:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-coronavirus-pandemic-consumer-products-and-services-f0f4e2dbb086444dbbee9538d303d12d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 2
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
     excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"

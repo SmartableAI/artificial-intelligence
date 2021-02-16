@@ -43,19 +43,33 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Toyota in self-driving partnership with Aurora"
-    excerpt: "Toyota Motor, Denso Corporation and US autonomous driving startup Aurora Innovation have agreed to establish a long-term partnership to develop and produce self-driving vehicles, according to reports in Japan."
-    publishedDateTime: 2021-02-11T10:40:00Z
-    webUrl: "https://www.just-auto.com/news/toyota-in-self-driving-partnership-with-aurora_id200163.aspx"
+  - title: "Toyota and Aurora partner on self-driving cars"
+    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 24
     images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
+      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
+        width: 1920
+        height: 1143
+        isCached: true
+  - title: "The self-driving Toyota is coming"
+    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+    publishedDateTime: 2021-02-13T06:19:00Z
+    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+        width: 400
+        height: 266
         isCached: true
 
 secured: "PUR0VyRHNaRtTFRAEiXRTHtEhBoX+984sRCCfUwk7tLUJpeQ0nT2idl48zhNA/FyHcdua97ooYfKcEMyAWWzjdRfzUBsG9QvUzBIqnt51bMzzRA9S5+ZAu9LJuPxieKvEUimCJc3w19zAY3PqlhEq2eJXhotdSoEK6rmKPlfmnJu+Q1GaXxsTOwCinweJdY7ywgCiIXPCfHZTXn4HA3mJwpjZ81bB6ObvqlPhh1RmghoyEjiQQJbZ6uKuBSnB437wKvVHTpPPhYmp+oQapkW2t/yRoLkAYpbIb9wsRJioTsqfaH8q+tXbXZEg4eozXnN94UL+c3UfzQWZTQMyxSHyt1Y+ERrnXSqR61uz7Iwg1oCRDf1Wm0MKOVYAMfzw5te4VyZAnqzFl5kifZB0vffICZG6GivLR+IsA0EQs/NQGbOtL7hSO9n6BUkqU0qM0I26vJ+inaMi5ecOVtFaj1hvCoq0V3/jOks2/0uIzyTackQLNxjTozVfNXzDsvBShVa8nc8oemZu7BdmcG3zFQP+Q==;7HqIfatIn6hgPEbqkAF5+Q=="

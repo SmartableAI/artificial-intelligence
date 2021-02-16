@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-14-ai-progress-depends-on-us-using-less-data-not-more.md",
+      "title": "AI progress depends on us using less data, not more",
+      "excerpt": "Compute costs, spurious noise, and privacy problems all mean that we can't keep moving toward bigger and bigger datasets to fuel AI progress.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/",
+      "originalUrl": "https://venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/data_globe.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/amp/",
+      "publishedDateTime": "2021-02-13T11:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-washington-state-lawmakers-seek-to-ban-government-from-using-discriminatory-ai-tech.md",
       "title": "Washington state lawmakers seek to ban government from using discriminatory AI tech",
       "excerpt": "Washington state could become a national leader in regulating the technologies of the future, thanks in part to a bill up for debate that would establish new guardrails on government use of",
@@ -981,7 +1033,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-learning-sometimes-it-pays-to-go-shallow/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1212,49 +1264,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers.md",
-      "title": "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers",
-      "excerpt": "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers Who Are Stuck For Words. ARTIFICIAL INTELLIGENCE ROBOTS are writing Valentines Day",
-      "sourceUrl": null,
-      "webUrl": "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
-      "originalUrl": "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.euroweeklynews.com/wp-content/uploads/2021/02/AMP-1_6026235b81806.jpg?x22228",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
-      "cdnAmpWebUrl": "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
-      "publishedDateTime": "2021-02-12T00:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euro Weekly News",
-        "domain": "euroweeklynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

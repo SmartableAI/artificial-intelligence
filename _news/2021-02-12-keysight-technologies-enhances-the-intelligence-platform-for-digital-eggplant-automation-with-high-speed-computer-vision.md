@@ -36,15 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 28
-  - title: "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision"
-    excerpt: "Real-time testing of iOS applications emulating human behavior improves quality of the digital experience Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises,"
-    publishedDateTime: 2021-02-11T10:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210211005635/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "Cz0vT7kF92Ud6Cafku9LU0bbFtdP8gmJpjrsx/DoAyBIN/Z4LUWg7AjGZRas84nFThxhq2lp7Dxzzz5Ty1Es8sXuPQLj0GVX5Oou1urTPmVIJLzeNPMDt8v4aTZIsYDQnuN/QAjujn+BquI304z2QW33qOos1vqYJiUq9V0jMQiVlTBFr0ZUlt50c/rdg2bimrVFkWtOe0+DLvKnWFfJd4TowaVGK9j+2bxBE0DzlQAfz0ipO+pWup2Nx1Z0aGU5equbg9DYc2L/46zPWaaLxzEhFom8naQLS2VTKwO2el/u0yjbNqlKm0fympgSHpJqO4S7dig3moA1ZtOjQT621u9hY7SQFBbhAO1K6qjPFOBVQeaLRTjJjGZCoSUvjATIBNXq7yuxzE57I9Kla+oD0Il1f/rHyyF/pmWzupBEXCVXEA+ZSgcPaS1hz1KQqCxQl0pGkA8rF8G+o+YG8wPPS52zp3nOj4cksi60qSlM+AflMBFTt9WMbverqtSAylHIi2d3X05C8TcOFlIXt+GwqQ==;XOuSF1Bbsx8CaggtO8cpDA=="
 ---

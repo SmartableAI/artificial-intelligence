@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 103
 published: true
 
 provider:

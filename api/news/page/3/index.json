@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-12-artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers.md",
+      "title": "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers",
+      "excerpt": "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers Who Are Stuck For Words. ARTIFICIAL INTELLIGENCE ROBOTS are writing Valentines Day",
+      "sourceUrl": null,
+      "webUrl": "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
+      "originalUrl": "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.euroweeklynews.com/wp-content/uploads/2021/02/AMP-1_6026235b81806.jpg?x22228",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
+      "cdnAmpWebUrl": "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
+      "publishedDateTime": "2021-02-12T00:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euro Weekly News",
+        "domain": "euroweeklynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-news24com-watch-vw-taps-microsoft-cloud-for-self-driving-cars.md",
       "title": "News24.com | WATCH | VW taps Microsoft cloud for self driving cars",
       "excerpt": "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'",
@@ -383,58 +426,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
-      "title": "2 Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "publishedDateTime": "2021-02-11T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-12-5-ways-for-startups-to-take-advantage-of-ai.md",
       "title": "5 Ways For Startups To Take Advantage Of AI",
       "excerpt": "Others use AI to improve everything from customer service operations to digital marketing. Up until recently though, the best AI solutions were only accessible to big, well-funded corporations. Now, that's no longer the case.",
@@ -683,7 +674,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1150,7 +1141,7 @@
       "originalUrl": "https://www.wired.com/story/aurora-partnership-toyota-self-driving-taxis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {

@@ -6,11 +6,11 @@
       "title": "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G",
       "excerpt": "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "webUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "originalUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -24,8 +24,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
       "publishedDateTime": "2021-02-15T08:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -49,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {

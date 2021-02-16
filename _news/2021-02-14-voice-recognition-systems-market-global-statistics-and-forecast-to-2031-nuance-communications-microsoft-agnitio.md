@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Volkswagen partners with Microsoft on automated cars"
-    excerpt: "Volkswagen Group is enlisting Microsoft’s help to speed up the development of autonomous driving systems, the company announced. It has already worked for several years with Microsoft on cloud computing for connected cars,"
-    publishedDateTime: 2021-02-11T10:55:00Z
-    webUrl: "https://www.engadget.com/volkswagen-group-teams-up-with-microsoft-on-automated-cars-105154799.html"
-    ampWebUrl: "https://www.engadget.com/amp/volkswagen-group-teams-up-with-microsoft-on-automated-cars-105154799.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/volkswagen-group-teams-up-with-microsoft-on-automated-cars-105154799.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 91
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2Fbdcbc8b0-6c4e-11eb-bf97-bff40b7d3a02&client=amp-blogside-v2&signature=93b983d1e835e4b1cb32538773b259ecba171802"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
     excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
     publishedDateTime: 2021-02-11T13:58:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-lea
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-learning-sometimes-it-pays-to-go-shallow/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83247-4/MediaObjects/41598_2021_83247_Figa_HTML.png"
         width: 662
         height: 685
-        isCached: true
-  - title: "Organizational learning: Your key to AI success"
-    excerpt: "Instituting formal processes to embrace the learnings of small-scale AI efforts and promulgate them throughout the enterprise is essential to business transformation."
-    publishedDateTime: 2021-02-11T10:02:00Z
-    webUrl: "https://www.cio.com/article/3606709/organizational-learning-your-key-to-ai-success.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/08/artificial-intelligence-concept-picture-id1160995648-100855293-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "sokC/QuLGyj7eFd32f+O7r5L3TmHlRP86a6IE2AoWVLBCG6+YlxqJ8GWrOA1dYEdOU4TXnF8aVWH0piU4I03f7lQyupSuaqaDuAPexZREJi56mwVF3HMg6HPmEJ/UFnrz/tMS27bpXJt86PdOsa2hgWbWiMXGiXd3uYaHNz4JgWdJnYAA2lwjafvgJJT3dx5JJZxwRfNPUWbHxfmOwHPvQIJb4qmtDF//ge4Tt5qbIF31JD1XP1Hf2dt8jVrTvmARq1g300sWBtTeMsOwPtz5q2GNVpGIVFpJf0U27yz3bElBcSACK1PqknnmxYaDQHkx2pbdtiKHkhFq4Lx/5LZPykacRGw88cFBnaglC1eDnRaQuszpPweYIPzUFvxo+6DTJ4f1LRwTOo322kbsfEWyAz5MxPk4YrSrtKUoHIXcqJ0m6cfN02h1QMt+yot0xWMm+4An767ZdEyKh8cbZoMB7nbS6A51tdnp7YimaGJQAjbIupx4DYHO1ncFPOyr5lRGSuqSA58cPlf/dzBZZBL2A==;Gf6fIO3Na81b4lECnuJQSQ=="

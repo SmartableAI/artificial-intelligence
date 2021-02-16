@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -160,7 +160,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -213,7 +213,7 @@
       "originalUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 290,
+      "heat": 280,
       "tags": null,
       "images": [
         {
@@ -417,8 +417,8 @@
       "title": "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace",
       "excerpt": "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace.",
       "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
-      "originalUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "webUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "originalUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -437,11 +437,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T01:20:00-08:00",
+      "publishedDateTime": "2021-02-08T07:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
         "images": null,
         "publishers": null,
         "authors": null

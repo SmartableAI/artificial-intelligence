@@ -212,20 +212,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Teams AI could tell you who is most enjoying your video call"
-    excerpt: "Researchers at Microsoft have developed an AI for the firm's Teams videoconferencing software that highlights positive audience reactions during a virtual presentation"
-    publishedDateTime: 2021-02-11T10:02:00Z
-    webUrl: "https://www.newscientist.com/article/2267147-microsoft-teams-ai-could-tell-you-who-is-most-enjoying-your-video-call/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/02/10103555/10-feb_teams-bot.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
     excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
     publishedDateTime: 2021-02-14T15:12:00Z
@@ -267,20 +253,6 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/vw-microsoft-1200.jpg?itok=10T2HGKf"
         width: 470
         height: 246
-        isCached: true
-  - title: "VW, Microsoft partner to develop self-driving car software"
-    excerpt: "Volkswagen Group and Microsoft are expanding their cooperation involving the U.S. software giant's cloud technology to include speeding up development of automated driving. VW's new software division will build a cloud-based platform with Microsoft that will help simplify development processes and allow faster integration into its vehicle fleet,"
-    publishedDateTime: 2021-02-11T09:46:00Z
-    webUrl: "https://europe.autonews.com/automakers/vw-microsoft-partner-develop-self-driving-car-software"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 41
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/VW%20Automotive%20Cloud%20Seattle.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "5w+smqJ/jkTfcRPUj3VxWC7B37Crww1Aq4ZCfuLNgDXXH+SUf26ppMZ+Z6/iwwXd2cVIRmbK8fN+5YhptTIu3J/I3J3IMLHy5lb6+3rMSj9ca3mcXeEJPMVeN/vQXdkaKwOjqeB6cjHLuVd0p6mZTcIK8HECyuhrmw2mfRVYnGJP8+Gum9R9fGwg8XiDah8L3EGvnRDSduX4REm+oPzLn8pjRno0zUOnaCFLdyJgYcBKJi3lJxs1q/rfkOfeLdsWuGsXu1auerzvX25pJ/f1+vKLmE87ChIsTkAeeVAR2UFYd8wtK+x0jDwrNwSg+neKOoRiluqzBPDPILb2Zx00kVjZ6HKmWysy8ixuolm9K64=;So6f+/bZf9lwMJdMXXlj1g=="
