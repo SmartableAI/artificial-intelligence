@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tempuslabs"
   url: "https://www.twitter.com/tempuslabs"
-  followers: 3700
+  followers: 3703
 
 size: 501-1,000 employees
 yearFounded: 2015
