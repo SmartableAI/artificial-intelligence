@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Share to Record Stellar Growth Through 2025"
+    excerpt: "Selbyville, Delaware. The report Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market"
+    publishedDateTime: 2021-02-16T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-drug-discovery-and-clinical-trials-market-size-share-to-record-stellar-growth-through-2025-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) Market Share, 2021 Global Industry Trends, Demand, Top Players, Industry Size, Future Growth 2023"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2021 (The Expresswire) -- Global \"Artificial Intelligence (AI) Market\" (2021) thoroughly scrutinizes the effects of a wide range of factors impacting the market ..."
     publishedDateTime: 2021-02-16T05:14:00Z

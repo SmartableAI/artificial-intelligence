@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Incorporating artificial intelligence in Indian healthcare"
-excerpt: "AI does the hard work of compiling the complex identification trigger points and creating a pattern out of this data on an intensity level and speed beyond any human being's capability."
-publishedDateTime: 2021-02-16T09:04:00Z
-originalUrl: "https://www.thestatesman.com/lifestyle/incorporating-artificial-intelligence-indian-healthcare-1502952557.html"
-webUrl: "https://www.thestatesman.com/lifestyle/incorporating-artificial-intelligence-indian-healthcare-1502952557.html"
-ampWebUrl: "https://www.thestatesman.com/lifestyle/incorporating-artificial-intelligence-indian-healthcare-1502952557.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/lifestyle/incorporating-artificial-intelligence-indian-healthcare-1502952557.html/amp"
+excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."
+publishedDateTime: 2021-02-16T05:48:00Z
+originalUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+webUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+ampWebUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
-  - AI
   - AI in Healthcare
-
-images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2021/02/ef6b26571cf389e178e19eaa96221770.jpg"
-    width: 1200
-    height: 800
-    isCached: true
+  - AI
 
 related:
   - title: "Healthcare is adopting AI much faster since the pandemic began"
@@ -58,6 +52,6 @@ related:
         height: 578
         isCached: true
 
-secured: "XcgYHXCeVqrSNBMooCF8LM8sikFuABFOiUZO4JUxfoRkQYNJfuRICeVEMsidP4LUZk1Sj14jawWdbkkg89qZyuxJ7VlB6BIYEy3q38I1usrKdftsedYV/MADo+0RBE7eyL9LaN2FGyq/S8OdfUhEq+U5kN3beEkcin2VJW7ksEcoyba9O2Wfnu7NkrsK76VfC2EeZw6Su+cFyuNlKzLwHPZXy4QqeLMlFVonm1JI5mAeFmFoCdkAQa5QvL2CHMCE3L2JcPmMkMAjnC7XDS2JfZJdUKwuB4tUkHUdN19asFZgTov9HuUgk8ugE+tdbS04VXlTvAeIXOGVXh8dpewk9GaDskywIxuG7m9vdbKekBQ=;VSuUgTvxw5F6ku5nl8ul2w=="
+secured: "Gk60lxgqlqJUdABd1JoQ6PjWqlQggig8EAIoBjZj3ZcK9xNzfA3TnzXoH98Fyfm18m4VKj361szEGkLuNWiZ1mghJBEWRscB/9I4er8C+ch/4yTCmSoMOyTczt4OkSQs9ejHs5VIOGD9P2vrrRuVdNrdBpdcGWbLj5ub8bx2PnAVgMp0tt6iekyI1w9E10If83lRGmMkZa9xC0hdlcmlk8DUy+GTetoZG4DRKpLLJ8cOlRGUOTfQ9xoZrb3G2ER126p2dfeRzxUCm1E0W68jS3cBQm4lAWfdpHZce413B31coz2kK4hVTln+xWckia3BWJDjDoLaSBW2D2d5IStXmf1fEfREoIk9lvW9ZVcjx+M=;88/IYxWrfaBjInJpFSJMiA=="
 ---
 

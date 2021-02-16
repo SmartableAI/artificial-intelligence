@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210215/A-machine-learning-ap
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: News Medical
@@ -40,6 +40,20 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "MIT Develops Machine-Learning Approach to Finding New Treatment Options for COVID-19"
+    excerpt: "Researchers develop a system to identify drugs that might be repurposed to fight the coronavirus in elderly patients. When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments."
+    publishedDateTime: 2021-02-16T12:53:00Z
+    webUrl: "https://scitechdaily.com/mit-develops-machine-learning-approach-to-finding-new-treatment-options-for-covid-19/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 17
+    images:
+      - url: "https://scitechdaily.com/images/COVID-19-Drug-Repurposing.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "deo71RVum3S9sfkYw2/f3fWpwmz7L2k5NidXWea2uGMGQ8VmSyWTisrCssX+z6WIriYU9Nsd3bZs+mUVDe+0vBMcZbMgYEeN0lmsVS4YxAV0TGxTbDcJplYaZcdvTB+Zym9FWrEjQRwt1YH5XkVwS5QE/zF9XxW9M3yGZsO3pLhwC3jPoRYBfWHvG1ZaRYvXCZJLLInQhq8CdjJKZZfzuclKvcINSjLGiUUZ7QJ+Oe5FfuIfnv4YQRM2JB8F8EVeyLhRQBpxgu9FBGr2b8mg23AiaOvSojqMwDPZ+vc5BHtW4LLSN5kf9MQ5tssxs9UAR4SRDqTY12kOWM+Ink9x58lmGZi2uVrkj1zFPuyQRi4=;RI3vi+uThID9md7/1nPt+g=="

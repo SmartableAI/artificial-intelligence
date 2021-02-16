@@ -32,6 +32,20 @@ related:
         width: 420
         height: 250
         isCached: true
+  - title: "Artificial intelligence can boost disaster management"
+    excerpt: "The World Meteorological Organization is participating in a new interdisciplinary Focus Group to contend with the increasing prevalence and severity of natural hazards with the help of artificial intelligence (AI)."
+    publishedDateTime: 2021-02-16T12:52:00Z
+    webUrl: "https://finchannel.com/technology/80157-artificial-intelligence-can-boost-disaster-management"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 37
+    images:
+      - url: "https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/styles/featured_media_detail/public/news/featured_media/adobestock_256451016.jpg?yqbYiwBnTUEZEIraR3CkEpyuwgSYZkXy&itok=TGbRqSsy"
+        width: 610
+        height: 376
+        isCached: true
 
 secured: "PcvzRRTWX5Q3jrbhC8D2iEyV9p19S+pylJBmy39owriieZ6iZdfzrxaCQXhvwk6punO65gDKr2ctEIDOLj4VtASoYk3OvaFKptEa6Eu0/tR0lO5I4xf4mvmQASszBVjifVt/Xx8NP7Yqs7rS5BLRy/mqzOB3wzOFyci9pUFnkziavtS/tDDod34j8ktzITHi43o14RB0af92nWU8ZJ1pUxfTy9GkPR8ta70e7ShvqLF8aHoEwZCELOim1E0NaOGOeGc6d9OSP5Q/JxddOKMdC1rzwXylVHzMHc4h12easxYmnShHu0OjrXL3sWBqT23ip+DwlBFrR5v31kaBckhrMaGUmTOZTUqem3LPWnFxt7s=;OGhqjzWYi5JOnEXF55nASA=="
 ---

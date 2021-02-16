@@ -41,6 +41,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "MIT Develops Machine-Learning Approach to Finding New Treatment Options for COVID-19"
+    excerpt: "Researchers develop a system to identify drugs that might be repurposed to fight the coronavirus in elderly patients. When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments."
+    publishedDateTime: 2021-02-16T12:53:00Z
+    webUrl: "https://scitechdaily.com/mit-develops-machine-learning-approach-to-finding-new-treatment-options-for-covid-19/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 17
+    images:
+      - url: "https://scitechdaily.com/images/COVID-19-Drug-Repurposing.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "zG7d+uiBtMkmnoezyk01I1mAhsWzOW6NZVOK3mrNJT2zquDz5l4AOzyscrYpe/aJz7MHYPV+dMA8yCXhXgvmKRuOE+5Hh2frbVQuPs0pOovt5NohHECkVjM0DUwn4QJgJaMH2R+Pp1RQlTCtLUWLojniR2Yhh6t49kECR0dj5gA8MfuMp5cXrgzJIk/JKSomRYKEuSKSDD7stS10+jCB/y0FAWEiRKqFSXcaAkFzckRCeNvkgC3+7AHRFgkKF/9xphgfy6yDp7Dlbvw9f4jqdIuZ8aMRHZueeJX+hEDBPWoOClc9ChKNxmjQgqoI8Oynli3RuzN/zGrzycrylKdmqtNwZy8iPlgNqc5ebTMD/8M=;qvFml6V/eZqjgTP3S4lExw=="
 ---

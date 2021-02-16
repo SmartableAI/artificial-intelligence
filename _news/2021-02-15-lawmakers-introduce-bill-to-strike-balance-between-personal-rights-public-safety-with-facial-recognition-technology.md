@@ -52,20 +52,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
-  - title: "California gets demand letter to stop using facial recognition technology with remote bar exam"
-    excerpt: "The use of facial recognition technology with the remote bar exam could have an unlawful disparate impact on test-takers who are women or people of color, the Lawyers’ Committee for Civil Rights Under Law wrote in a Feb."
-    publishedDateTime: 2021-02-11T20:41:00Z
-    webUrl: "https://www.abajournal.com/news/article/california-gets-demand-letter-to-stop-using-facial-recognition-technology-on-bar-exam"
-    type: article
-    provider:
-      name: ABA Journal
-      domain: abajournal.com
-    quality: 27
-    images:
-      - url: "https://www.abajournal.com/images/main_images/2.11.21_bar_exam_photo_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "xtv13zWYyJhMsS8HcOuW20HglocCfiTfVa98eaZc/Jy1uzT3WoATcXP3qegmeqyZ5VJo2CYGhGXwbcawy2oke/QlT/xggaIFgtEjpvqJ0Mqyqh+OGAsmzeG1liGx8cnZJDHRa7P7o7jDjZtM3Y9g+84QwLjIUE8PDLOgYqJwVBNt91Q5fwMfC8kQBA4AzMsMX8iw6JZZUCoAXtE17uqxylrq4xrwHdfhG9ify3Pla5Y3ylFToF1Pvo/wkh0uTYHKLdNTsf6dF7JxQk3jTdmhXVczY9Nc2jQFkNBTmjkVfvyJN8VwrY9j/9NI6P9z9No9cO11aad9ij1AJQllJIiX1Oe+pPNT2houAh3ubwqDAUlm1Ic746/UQw+REvTZHeD4mZYZusxr4JPzD6bPu0FPTFVQ2PquRtXCcNZZsbviEN/MXUt6WrxjoOT6b1tj7K9ML/fn/sPQr5FRc3DsvndGy64Bipm4gJxEwCcy987DNPY2ur7Z4R0PWaEYb9npcRHd1WaokRvL4auiM4CHAQW10w==;6eQHoySAIZ3ScDqgc37rEQ=="
 ---

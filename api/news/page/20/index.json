@@ -2,6 +2,239 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-29-taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence.md",
+      "title": "Taylor’s Robotics programme prepares students for an era of artificial intelligence",
+      "excerpt": "C3-PO, RoboCop, Transformers, Baymax and the Terminator are characters that make the top lists in best movies of all time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/news/education/2021/01/29/taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence",
+      "originalUrl": "https://www.thestar.com.my/news/education/2021/01/29/taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/29/1025592.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-academic-city-university-college-launches-bsc-robotics-engineering-programme.md",
+      "title": "Academic City University College launches BSc Robotics Engineering Programme",
+      "excerpt": "He revealed that in the Robotics programme, emphasis is placed on design, analysis and modeling, programming, integration of Artificial Intelligence (AI) and manufacturing. \"Additionally, the need to industrialise has been effectively articulated by the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernghana.com/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "originalUrl": "https://www.modernghana.com/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.modernghana.com/content__/600/400/129202164730-h41o266fea-whatsapp-image-2021-01-28-at-11.04.26-pm.jpeg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "publishedDateTime": "2021-01-28T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modernghana.com",
+        "domain": "modernghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation.md",
+      "title": "The Amazing Ways Wild Me Uses Artificial Intelligence And Citizen Scientists To Help With Conservation",
+      "excerpt": "Wildlife conservation is an enormous challenge. Wild Me, a non-profit organization, is leveraging the photos and videos of citizen scientists and the cloud, artificial intelligence, and computer vision to help track individual animals and to inform wildlife conservation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60139ca26580dd95edd4bbc2%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/amp/",
+      "publishedDateTime": "2021-01-28T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-new-machine-learning-model-predicts-covid-19-severity.md",
+      "title": "New machine learning model predicts COVID-19 severity",
+      "excerpt": "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "publishedDateTime": "2021-01-28T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music.md",
+      "title": "Spotify is developing speech-recognition tech to detect your mood and suggest music",
+      "excerpt": "Global music-streaming giant Spotify has recently been granted a patent for a new technology which will allow it to analyze its users' voice data – including speech recognition and background noise – with an eye to suggesting music based on what it finds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music",
+      "originalUrl": "https://www.techradar.com/in/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/FSkiiycgcqqGc9sF8moAXN-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music",
+      "publishedDateTime": "2021-01-28T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-forecasting-aws-spend-using-the-aws-cost-and-usage-reports-aws-glue-databrew-and-amazon-forecast.md",
       "title": "Forecasting AWS spend using the AWS Cost and Usage Reports, AWS Glue DataBrew, and Amazon Forecast",
       "excerpt": "AWS Cost Explorer enables you to view and analyze your AWS Cost and Usage Reports (AWS CUR). You can also predict your overall cost associated with AWS services in the future by creating a forecast of AWS Cost Explorer, but you can’t view historical data beyond 12 months. Moreover, running custom machine",
@@ -929,250 +1162,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-4-ways-ai-and-ml-enhance-the-b2b-buyers-journey.md",
-      "title": "4 Ways AI And ML Enhance The B2B Buyers’ Journey",
-      "excerpt": "Just as consumer marketing teams have found AI-driven martech to help them reach their buyers where they are, B2B marketing teams are starting to realize that AI can do similar things to enhance their business customers’ journeys.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012fb7404112e7aa8e50214%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
-      "publishedDateTime": "2021-01-28T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-decentralized-machine-learning-24-hour-volume-hits-440900-dml.md",
-      "title": "Decentralized Machine Learning 24 Hour Volume Hits $4,409.00 (DML)",
-      "excerpt": "Decentralized Machine Learning (CURRENCY:DML) traded 5% higher against the dollar during the 24-hour period ending at 12:00 PM Eastern on January 28th. Over the last week, Decentralized Machine Learning has traded 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html",
-      "originalUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp",
-      "publishedDateTime": "2021-01-28T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-saving-time-with-personalized-videos-using-aws-machine-learning.md",
-      "title": "Saving time with personalized videos using AWS machine learning",
-      "excerpt": "CLIPr aspires to help save 1 billion hours of people’s time. We organize video into a first-class, searchable data source that unlocks the content most relevant to your interests using AWS machine learning (ML) services. CLIPr simplifies the extraction of information in videos, saving you hours by eliminating",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/saving-time-with-personalized-videos-using-aws-machine-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/saving-time-with-personalized-videos-using-aws-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/28/Clipr-Console.jpg",
-          "width": 800,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T09:28:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence.md",
-      "title": "Digital Careers Ahead: Why Should Techies Have All The Fun With Artificial Intelligence?",
-      "excerpt": "Every organization wants to build their future on digital technologies, but what does it take to make it all happen? To get a better sense of the skills and talents that will be in demand, I reached out to experts and entrepreneurs across the landscape to get their views on what it takes to build a career in this new world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/01/28/digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/01/28/digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012edfc63c56a43fc8d45ed%2F0x0.jpg",
-          "width": 1199,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/01/28/digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/01/28/digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-01-28T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-scientists-develop-ai-powered-puff-technology-to-help-smokers-quit.md",
-      "title": "Scientists develop AI-powered ‘puff technology’ to help smokers quit",
-      "excerpt": "The onboard computer for e-cigs is designed to help people quit by predicting when they'll next crave a nicotine hit.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-28T130539.375-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/",
-      "publishedDateTime": "2021-01-28T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

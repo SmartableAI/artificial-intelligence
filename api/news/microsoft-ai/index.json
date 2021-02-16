@@ -55,6 +55,93 @@
       ]
     },
     {
+      "path": "_news/2021-02-15-microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss.md",
+      "title": "Microsoft, HPE partner to deliver AI, edge computing on ISS",
+      "excerpt": "HPE’s Spaceborne Computer-2 will be connected to Azure via NASA and the HPE ground station. It is based on the HPE Edgeline Converged Edge system, designed for tough edge environments like space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/dd5ad1/article33843517.ece/ALTERNATES/LANDSCAPE_615/International-Space-Station",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/",
+      "publishedDateTime": "2021-02-15T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap.md",
+      "title": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,",
+      "excerpt": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/",
+      "originalUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png",
+          "width": 960,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/",
+      "publishedDateTime": "2021-02-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata.md",
       "title": "Graph Database Market Growing at a CAGR 22.2% | Key Player Microsoft, AWS, Orientdb, Tibco, Teradata",
       "excerpt": "MarketsandMarkets forecasts the Graph Database Market size to grow from USD 1.0 billion in 2019 to USD 2.9 billion",
@@ -108,49 +195,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-13-microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch.md",
-      "title": "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch",
-      "excerpt": "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2021/02/Azure-Space-Microsoft.jpg",
-          "width": 1024,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp",
-      "publishedDateTime": "2021-02-12T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-12-news24com-watch-vw-taps-microsoft-cloud-for-self-driving-cars.md",
       "title": "News24.com | WATCH | VW taps Microsoft cloud for self driving cars",
       "excerpt": "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'",
@@ -159,7 +203,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 156,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -344,6 +388,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-11-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad.md",
+      "title": "Vectra extends cloud identity detection capabilities with Microsoft Azure AD",
+      "excerpt": "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556",
+      "publishedDateTime": "2021-02-11T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-microsoft-and-hpe-team-up-to-connect-azure-cloud-to-international-space-station.md",
       "title": "Microsoft and HPE team up to connect Azure cloud to International Space Station",
       "excerpt": "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station.",
@@ -491,6 +578,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-cleareyeai-collaborates-with-microsoft-for-ai-platform.md",
+      "title": "Cleareye.ai Collaborates with Microsoft for AI Platform",
+      "excerpt": "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html",
+      "originalUrl": "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-c3ai-exec-says-lack-of-automation-is-holding-back-ai-progress.md",
       "title": "C3.ai exec says lack of automation is holding back AI progress",
       "excerpt": "Edward Abbo, president and CTO of C3.ai, said AI progress is being held up by too much reliance on manual processes.",
@@ -599,8 +720,8 @@
       "title": "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace",
       "excerpt": "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace.",
       "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
-      "originalUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "webUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "originalUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -619,11 +740,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T07:02:00-08:00",
+      "publishedDateTime": "2021-02-08T01:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
+        "name": "WBOC",
+        "domain": "wboc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1303,145 +1424,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues.md",
-      "title": "Microsoft and the workplace of the future: How AI can help you build more productive relationships with your colleagues",
-      "excerpt": "Microsoft wants to help organizations use their data to deliver experiences, insights and outcomes. But careful design, clear ethics and full transparency are required to keep the AI in check.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/0913614a-f6f7-4acd-ae1b-db7ac3fbdf31/resize/1200x/76e6ecdbcb386ba09f38fbb29f53d792/ms-365-mwt-building-blocks.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/",
-      "publishedDateTime": "2021-02-02T03:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-daily-crunch-google-shutters-internal-game-studios.md",
-      "title": "Daily Crunch: Google shutters internal game studios",
-      "excerpt": "Google rethinks its gaming strategy, Microsoft rolls out its quantum computing platform and UiPath is now valued at $35 billion. This is your Daily Crunch for. The big story: Google shutters internal game studios When Google announced its Stadia cloud platform,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/",
-      "originalUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/Google-GDC-Stadia-14.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/amp/",
-      "publishedDateTime": "2021-02-01T15:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry.md",
-      "title": "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry",
-      "excerpt": "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210201005936/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry",
-      "originalUrl": "https://www.businesswire.com/news/home/20210201005936/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

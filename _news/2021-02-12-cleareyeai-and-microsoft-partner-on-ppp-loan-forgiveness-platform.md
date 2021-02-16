@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester"
-    excerpt: "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile."
-    publishedDateTime: 2021-02-11T19:40:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 114
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/a2618a6b-a205-4004-ab8d-b706d8ab359d/resize/1200x/0b71a3953d86fcf6ce37b4af796e8aed/forrester-ai-chart.jpg"
-        width: 1200
-        height: 1195
-        isCached: true
-  - title: "Why Microsoft is Pinterested"
-    excerpt: "The Financial Times reported Wednesday that Microsoft has held talks in recent months to acquire Pinterest. The talks, which are \"currently not active,\" could have led to Microsoft'"
-    publishedDateTime: 2021-02-11T20:46:00Z
-    webUrl: "https://www.geekwire.com/2021/why-microsoft-is-pinterested/"
-    ampWebUrl: "https://www.geekwire.com/2021/why-microsoft-is-pinterested/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/why-microsoft-is-pinterested/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 89
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/iPad-home-feed-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Microsoft, HPE partner to deliver AI, edge computing on ISS"
     excerpt: "HPE’s Spaceborne Computer-2 will be connected to Azure via NASA and the HPE ground station. It is based on the HPE Edgeline Converged Edge system, designed for tough edge environments like space."
     publishedDateTime: 2021-02-15T14:11:00Z
@@ -75,67 +43,67 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
-    excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"
-    publishedDateTime: 2021-02-13T17:00:00Z
-    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
+  - title: "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch"
+    excerpt: "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer."
+    publishedDateTime: 2021-02-12T16:26:00Z
+    webUrl: "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 73
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/Azure-Space-Microsoft.jpg"
+        width: 1024
+        height: 578
+        isCached: true
+  - title: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2"
+    excerpt: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2 . Cloud computing and artificial intelligence"
+    publishedDateTime: 2021-02-13T09:48:00Z
+    webUrl: "https://www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/amp/"
     type: article
     provider:
       name: Windows
       domain: compsmag.com
-    quality: 71
+    quality: 65
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-        width: 960
-        height: 675
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/HPE-and-Microsoft-launch-AI-capabilities-to-the-space-station.jpg"
+        width: 799
+        height: 533
         isCached: true
-  - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
-    excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
-    publishedDateTime: 2021-02-11T21:51:00Z
-    webUrl: "https://hothardware.com/news/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space"
+  - title: "How Computers See Us: Microsoft Fellow Works to Fight Discrimination Through AI | CU Boulder today"
+    excerpt: "Morgan Klaus Scheuerman, a computer science PhD student, has been awarded the Microsoft Research Fellowship for 2021. He investigates how and why facial recognition technologies are wrong. Credit: Casey Cass / CU kei Growing up in a traditional working-class family in one of the most conservative counties in Maryland,"
+    publishedDateTime: 2021-02-16T06:18:00Z
+    webUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 69
+      name: Windows
+      domain: compsmag.com
+    quality: 62
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54251/content/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space.jpg"
-        width: 708
-        height: 398
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/How-Computers-See-Us-Microsoft-Fellow-Works-to-Fight-Discrimination.jpg"
+        width: 750
+        height: 539
         isCached: true
-  - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
-    excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
-    publishedDateTime: 2021-02-16T05:08:00Z
-    webUrl: "https://www.openpr.com/news/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
+  - title: "HPE plans second Spaceborne computer, will be linked to Microsoft Azure"
+    excerpt: "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later."
+    publishedDateTime: 2021-02-12T10:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 61
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/2/U216134822_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "VW and Microsoft Are Teaming up to Develop Autonomous Driving Tech"
-    excerpt: "Volkswagen is already developing its own autonomous driving technology, even having shown off a working Level 4 prototype a couple of years ago. Now it's teaming up with Microsoft"
-    publishedDateTime: 2021-02-12T19:36:00Z
-    webUrl: "https://www.autoweek.com/news/technology/a35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    ampWebUrl: "https://www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    type: article
-    provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/db2019al00703-overfull-1613148012.jpg?crop=1.00xw:0.890xh;0,0.0838xh&resize=1200:*"
+      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
         width: 1200
-        height: 602
+        height: 630
         isCached: true
   - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
     excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
@@ -151,19 +119,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft, HPE Bringing AI, Edge, Cloud to Earth Orbit in Preparation for Mars Missions"
-    excerpt: "The International Space Station will soon get a delivery of powerful AI, edge and cloud computing tools from HPE and Microsoft Azure to expand technology"
-    publishedDateTime: 2021-02-12T21:09:00Z
-    webUrl: "https://www.hpcwire.com/2021/02/12/microsoft-hpe-bringing-ai-edge-cloud-to-earth-orbit-in-preparation-for-mars-missions/"
+  - title: "NASA, HPE to Test Edge Computing System to Deliver AI in Space"
+    excerpt: "NASA and Hewlett Packard Enterprise (HPE) have announced a collaborative agreement to test edge computing with a new computer designed to deliver artificial intelligence (AI) in space. The new technology will increase space exploration and astronauts’ self-sufficiency by providing real-time data processing with advanced commercial edge computing in space."
+    publishedDateTime: 2021-02-12T21:25:00Z
+    webUrl: "https://www.executivegov.com/2021/02/nasa-hpe-to-test-edge-computing-system-to-deliver-ai-in-space/"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 46
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 39
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/ISS-Space-Station_shutterstock-1453899434_700x415.jpg"
-        width: 700
-        height: 415
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/08/cf/5f/35/37/54/cb/74/c4/space_20210108.png"
+        width: 272
+        height: 270
+        isCached: true
+  - title: "Now that’s edge computing"
+    excerpt: "Astronauts at the International Space Station will soon be getting a high-performance computer that will connect them to Microsoft’s Azure cloud."
+    publishedDateTime: 2021-02-12T20:40:00Z
+    webUrl: "https://gcn.com/articles/2021/02/12/iss-hpe-computer-azure.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/Nov-2012/spacestation.png"
+        width: 620
+        height: 300
         isCached: true
 
 secured: "aOLQnTWbQc/EHhOCIL5jZ78JQgXtt/EA59r8vOicVfZTZ9procgOGjbMbm3yA84+WHbWVLs9JCokkfN4X2EN/qBtqGhSpx0nPzlELL2o6C2Cd2QQ3R0FEpuHnkJGYo/mJMywxW4E9kzAvdi/VHSbu6IXZHlj6FGiBFayqf4aatvhCBPyavzignjyIs22ZKTvL/zJgfVnfrduczMrpX5xZj/RnexdY/+HmejXxmDH0YfM10t8tjSetDmQKc7PZ1ktRmchhI3aGKyDVy4RamNFJQUvkQMSgVafnApzFQjPGMke+bl7me+Odh4WxITCLV0G/YEZHvJ2HL83TlFywg2T0Fi5Zc/wWB2mp3SOi/WJHmhZMkVnaQPMHMVbQKOdGqJUVa27qep23eHpcTsBO5OfpwJ8wVzPGTBEZhq39dLPDAO2em1ol6Pim49E6ORwWihl34O3qDGn71jpy2gMVacYTV8X+Tk8h1XJdKFC1NVw2VS8OqGOo+QNnI3A+PujyTCkY85d15xqs0R+f9uKkDmr1A==;7I9NGHrGBKKyI8Xh7SUR6A=="

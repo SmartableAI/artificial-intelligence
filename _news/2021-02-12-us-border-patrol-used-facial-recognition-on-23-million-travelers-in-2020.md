@@ -127,6 +127,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "GBT Filed Patent Application for AI Based Facial Recognition Security System"
+    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a patent for AI facial recognition system,"
+    publishedDateTime: 2021-02-16T11:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8153122/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 48
   - title: "Facial recognition under scrutiny as Clearview AI’s practices ruled illegal in Canada"
     excerpt: "Canadian authorities have deemed Clearview AI's facial recognition practices a “clear violation of the privacy rights of Canadians”."
     publishedDateTime: 2021-02-16T08:05:00Z
@@ -207,6 +216,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "Canada Rules Clearview’s AI Scraping is Unlawful"
+    excerpt: "Technology company Clearview’s artificial intelligence (AI) scraping of billions of images of people from across the internet represented mass surveillance and was a clear violation of the privacy rights of Canadians,"
+    publishedDateTime: 2021-02-16T12:37:00Z
+    webUrl: "https://www.hstoday.us/industry/canada-rules-clearviews-ai-scraping-is-unlawful/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 39
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/03/face-detection-4760361_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Clearview AI face biometrics patent filing suggests consumer application"
     excerpt: "The patent application proposes the use of its biometric facial recognition for the identification of individuals in a variety of private and public sectors."
     publishedDateTime: 2021-02-12T18:51:00Z

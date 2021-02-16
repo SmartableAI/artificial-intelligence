@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Share to Record Stellar Growth Through 2025"
+    excerpt: "Selbyville, Delaware. The report Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market"
+    publishedDateTime: 2021-02-16T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-drug-discovery-and-clinical-trials-market-size-share-to-record-stellar-growth-through-2025-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) In Healthcare Market Size is to Expected to Reach US $ 99.491 Billion at a 48.7% CAGR by Forecast Period 2021 to 2027"
     excerpt: "Allied Analytics –:Advancements in AI systems for enhanced AI capabilities, dearth of skilled workforce, and increase in applications of innovative screening methods drive the growth of the market. However,"
     publishedDateTime: 2021-02-12T09:02:00Z

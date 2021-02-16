@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202102/bias-allegations-against-fa
 webUrl: "https://www.biometricupdate.com/202102/bias-allegations-against-facial-recognition-prompt-legal-challenge-threat"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1600
     height: 1035
     isCached: true
-
-related:
-  - title: "Facial recognition is not needed (yet) for virtual civil trials"
-    excerpt: "Offered the chance to employ biometrics as a kind of proctor in virtual civil trials, some in the legal profession are saying no, thank you."
-    publishedDateTime: 2021-02-11T20:00:00Z
-    webUrl: "https://www.biometricupdate.com/202102/facial-recognition-is-not-needed-yet-for-virtual-civil-trials"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
 
 secured: "nQghFS17LVtWvdV30LQ2kt708a2CgeZG8VXCIBh5QVSQnHWt4Emqc0KFVP+rYWm0qmf7GSBhPqq2JUmvxCiVHl+E5HlxQny/jfP6XcE1pJ0S51RKACjbUZqAJ4fYuxk2VFc20ohKZfQ7rJZuvpspl+ST055c0mu1FF4I8aHBXpGbUqVAAQnoSsdG7iH+Xt9cLA7YtHNIFT+ZtUajjYT0QtEieQk+d5AHMGJOgvelS5gL6ZUBVuntUBepp1hC4I5o0FlesSN7Arry8Ytman/49LOo9b/sDK+5+4M6tSedhLrVrhZjdP+Y/vHckhYffhJhU0PNn073mQZna+8XzhIvIJETiTU5frMsQ6YpaUZM6ffIYzFFQshiTn2danJJwiJnoBCPPrc+7ANPUK8PnP7/zEW0uqhh/CFy4gkSJE4bjN7VJMcW/NJEyyTReLFaHeYOfUffeWrT5N7vc1SGVEM1nQdyDCXbb9clFYicA95er65TXDQfIKEm85muWm2pfekEC5bk9+hni0pT6wjK5CxKFw==;bmlwFKHSxg8LhpUyTUVEHA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?a
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
     images:
       - url: "https://i.guim.co.uk/img/media/199d7f912263587d7beb198ff7c5dab0bc726f19/0_135_4645_2787/master/4645.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d7c38416f108916c5e4f131ce3875c59"
         width: 600
+        height: 360
+        isCached: true
+  - title: "Russian police use facial recognition or ‘face control’ against protesters"
+    excerpt: "He was detained on his way there by police using facial recognition technology in the Moscow metro. But reports from other protesters who have attend rallies in recent weeks in support of jailed opposition politician Alexei Navalny also indicate police are using facial recognition technology to make preventive arrests and detentions."
+    publishedDateTime: 2021-02-14T15:21:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/russian-police-use-facial-recognition-or-face-control-against-protesters.html/5476/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 52
+    images:
+      - url: "https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/2021-02-11T151833Z_1_LYNXMPEH1A19D_RTROPTP_4_RUSSIA-POLITICS-NAVALNY-TECH.jpg"
+        width: 530
         height: 360
         isCached: true
   - title: "Minneapolis City Council approves ordinance banning use of facial recognition technology"

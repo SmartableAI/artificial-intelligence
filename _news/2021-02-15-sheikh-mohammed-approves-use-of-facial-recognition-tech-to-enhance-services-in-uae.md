@@ -37,20 +37,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "California gets demand letter to stop using facial recognition technology with remote bar exam"
-    excerpt: "The use of facial recognition technology with the remote bar exam could have an unlawful disparate impact on test-takers who are women or people of color, the Lawyers’ Committee for Civil Rights Under Law wrote in a Feb."
-    publishedDateTime: 2021-02-11T20:41:00Z
-    webUrl: "https://www.abajournal.com/news/article/california-gets-demand-letter-to-stop-using-facial-recognition-technology-on-bar-exam"
-    type: article
-    provider:
-      name: ABA Journal
-      domain: abajournal.com
-    quality: 27
-    images:
-      - url: "https://www.abajournal.com/images/main_images/2.11.21_bar_exam_photo_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Lawmakers introduce bill to strike balance between personal rights, public safety with facial recognition technology"
     excerpt: "A bill introduced to the Legislature this year aims to strike a balance between the government’s use of facial recognition technology and personal privacy rights by regulating its use across Utah. Facial recognition technology is one of several biometric technologies employed by law enforcement agencies and can be instrumental in generating investigative"
     publishedDateTime: 2021-02-15T00:00:00Z

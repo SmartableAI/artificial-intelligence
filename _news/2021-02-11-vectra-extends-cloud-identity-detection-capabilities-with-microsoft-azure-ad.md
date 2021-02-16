@@ -1,42 +1,26 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
 publishedDateTime: 2021-02-11T13:08:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
 type: article
-quality: 51
-heat: 61
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-related:
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
-    publishedDateTime: 2021-02-15T08:51:00Z
-    webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-    ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 51
-
-secured: "NlhzSMmT3WNVbf4sWbrcn+mQU5zLqNc8E2Im031z9Uf0bXNJos0MmrlXfBzJNH/NMP5Gstn5/+jpr2MIoSdrWygyn4GnlhQqdGgoD2uGdae9QjqhalnUuDovfB8ZV0wolbXroFvGJoGN5m6npRBGuq7iwiq6rEIcfuCe/nyck/lE77MHxHrd8rI490Oz8lTHTP7/NvwwwdvsUUEHfU2KxELsSh7YlNTO62w65nWTCAzzBTFP7Ay4vU+0s9SlLbvX2QKuxgwjEl+0wx/NiOb1ks9u0iJ2jokh/JC4/6t/DdSehnyXCvHqyEXiiIPslGEUO/EQXPAqKzHVVFBRrlS4HXCHTSkJHfsX1DXMoOe4t+w=;9fJ16qo4C2pPPXCmToXtGQ=="
+secured: "ZJFi9Sl7JLo3Gga3m/7F3yFltA9K2rRdKcp5+yvbRmNqJWXs59ZRZQhsiUxUuS4fGxU2i3JfIlq8hAl2iTGB5TjMVJ3ZyaiQguYHeEczy6WO8RZ55N/RXozJQOiN9Jp2JU8fmvUDdJO6b5pxQnLmEXijml5Ji6bpa70hOrt6Z3BeVytKL1CYGVjMXXytT2+8m7pJLJKz2nJzDU5wXgD7DHAAN6upJrmqDThzIUeNm6edGWFaOTTH8V43Ca3glmZ2JoLSYJm5796ORdPvNr7xHygOLeqHmH85bNxdG4hcW6UBo1tXv1vmYwgptOWoyyaUbXBCqHSaVVpJqtkTp7O9fBQLPKluc+CGUaoHFuoJc9g=;DKICN8UT/IJ0Pu6iM0sn1Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365453"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365453"
 type: article
 quality: 104
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -29,6 +29,38 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Robot Artist Ai-Da Presents Her First Art Exhibition"
+    excerpt: "The world's first robot artist is set to have her first exhibition in London's Design Museum. The exhibition, Ai-Da Self Portraits is to open in May 2021 and will present three large scale self-portraits."
+    publishedDateTime: 2021-02-16T12:09:00Z
+    webUrl: "https://www.albawaba.com/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512"
+    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 74
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-02/ERF9_g_UcAARz1I.jpg?itok=ShJsHWV0"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI robot Ai-Da gets first major exhibition at London's Design Museum—but beware of the (pervy) critics"
+    excerpt: "Da, who has been billed as “the world’s first ultra-realistic AI robot artist”—a very wordy and specific “first”. Ai-Da was unveiled to the world in 2019 and is the brainchild of the gallery director Aidan Meller."
+    publishedDateTime: 2021-02-16T12:57:00Z
+    webUrl: "https://www.theartnewspaper.com/blog/ai-da-robot-design-museum-exhibition"
+    type: article
+    provider:
+      name: The Art Newspaper
+      domain: theartnewspaper.com
+    quality: 38
+    images:
+      - url: "https://dmdlnu87i51n1.cloudfront.net/v1/uk/ckl7zl97n00073h5p7czhbuo6/0x114:1600x840/1200x630/ai_da_20.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "pkAayGTxX6hg63XuBGBiz35cjnAmsuqPbtusizfw/Mqd+M8+m39tq6TitF/0fGamZXQ9DBzdP/2BIRSXvht2SFpOsY9pkXTeO2z5Eizx7yoUdeT1hXhoBvSuB1ZXfn3XXGFFlp2JJxtqapgMXJiH8a5m4ge2c1SQx1/JfU2V98qoBiSwx83vzBaMOxCIDU7/3uAQQUTCUO92DQyBz6LGqMocDYLExHMfl7PJz3kO4jTgHAIBPtvJ3pyDHTZFoG41k6G8rLbB2FAgyuv3NGV4RTcewHprAB3S+Viuyyzvts+tPOzLHJgZ/M76m92FSi6dtZPadK3mhUqFxel4UiWO91AY5KfX8SZbmFNdpImItgQ=;uJ+Py/VyKae6ug57Z1mleA=="
 ---

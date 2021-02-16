@@ -2,6 +2,220 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-08-4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics.md",
+      "title": "4 Funds to Boom as Deep Learning Paves the Way for Robotics",
+      "excerpt": "Artificial intelligence (AI) and machine learning are frequently used to improve robots and make them more capable in industrial use. Industrial robotics systems are now being consolidated with computer vision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
+      "originalUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily.md",
+      "title": "Jigsaw’s AI-powered toxic language detector is now processing 500 million requests daily",
+      "excerpt": "Perspective, a hate speech detection service built by Alphabet-backed company Jigsaw, now sees 500 million requests per day.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/",
+      "originalUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/jigsaw-e1574185322346.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/amp/",
+      "publishedDateTime": "2021-02-08T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet-of-vehicles.md",
+      "title": "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles",
+      "excerpt": "LIZHI INC., a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics, an established chip maker for smart mobility in China,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio",
+      "originalUrl": "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace.md",
+      "title": "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace",
+      "excerpt": "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "originalUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20347810_G.png?lastEditedDate=1612776009000",
+          "width": 900,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-apple-car-talks-arent-happening-say-automakers-hyundai-kia.md",
+      "title": "Apple Car Talks Aren’t Happening, Say Automakers Hyundai, Kia",
+      "excerpt": "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in talks with Apple Inc. to develop an autonomous vehicle, responding to intense speculation about the potential new product by the maker of the iPhone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloombergquint.com/technology/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2021-02%2F9e500661-4bf4-4ec3-bdf1-bb234b51a574%2F367503011.jpg?rect=86%2C0%2C3706%2C2668&auto=format%2Ccompress&w=1200",
+          "width": 1200,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T01:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai.md",
       "title": "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI",
       "excerpt": "ON Semiconductor (Nasdaq:ON), driving energy efficient innovations, is pleased to introduce the RSL10 Smart Shot Camera, combining cloud-based AI",
@@ -952,256 +1166,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-orwellian-ai-lie-detector-project-challenged-in-eu-court.md",
-      "title": "‘Orwellian’ AI lie detector project challenged in EU court",
-      "excerpt": "A legal challenge was heard today in Europe’s Court of Justice in relation to a controversial EU-funded research project using artificial intelligence for facial ‘lie detection’ with the aim of speeding up immigration checks.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/",
-      "originalUrl": "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/10860059976_9f2f8c8151_k.jpg?w=1024",
-          "width": 1024,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/amp/",
-      "publishedDateTime": "2021-02-05T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-ukuma-taai-newcastle-thunder-sign-ex-huddersfield-giants-back-rower.md",
-      "title": "Ukuma Ta'ai: Newcastle Thunder sign ex-Huddersfield Giants back-rower",
-      "excerpt": "Newcastle Thunder have signed former Huddersfield Giants back-rower Ukuma Ta'ai for the 2021 season. Ta'ai spent seven years at the Giants following his move from New Zealand Warriors in the National Rugby League,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/rugby-league/55956761",
-      "originalUrl": "https://www.bbc.com/sport/rugby-league/55956761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E469/production/_116837485_r045_0646.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/amp/rugby-league/55956761",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/rugby-league/55956761",
-      "publishedDateTime": "2021-02-05T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy.md",
-      "title": "Using Artificial Intelligence to prevent harm caused by immunotherapy",
-      "excerpt": "Until recently, researchers and oncologists had placed lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not. Now, researchers, using artificial intelligence (AI) to analyze simple tissue scans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/02/210204192459.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/02/210204192459.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-anomaly-detection-with-amazon-lookout-for-metrics.md",
-      "title": "Anomaly detection with Amazon Lookout for Metrics",
-      "excerpt": "This is a guest blog post from Quantiphi, an AWS Advanced Consulting Partner that specializes in artificial intelligence, machine learning, and data and analytics solutions. We’ve all heard the saying “time is money,” and that’s especially true for the retail industry. In a highly competitive environment",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-lookout-for-metrics/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-lookout-for-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/LookoutforMetrics.jpg",
-          "width": 800,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-3-no-brainer-stocks-to-buy-in-artificial-intelligence.md",
-      "title": "3 No-Brainer Stocks to Buy in Artificial Intelligence",
-      "excerpt": "In fiction, artificial intelligence is often associated with intelligent androids or dystopian futures. But in reality, the AI market mainly revolves around crunching large amounts of data to make quick decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611243%2Fgettyimages-664246660.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "publishedDateTime": "2021-02-05T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

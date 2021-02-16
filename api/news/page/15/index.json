@@ -2,6 +2,240 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-02-ai-stock-why-c3-ai-shares-are-surging-today.md",
+      "title": "AI Stock: Why C3 AI Shares Are Surging Today",
+      "excerpt": "C3 AI (NYSE:AI) stock is on the rise Tuesday after announcing a partnership with Shell (NYSE:RDS), Baker Hughes (NY",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02?amp",
+      "publishedDateTime": "2021-02-02T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-rescale-raises-50-million-in-series-c-funding.md",
+      "title": "Rescale Raises $50 Million in Series C Funding",
+      "excerpt": "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft's M12, Nautilus Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-california-to-license-driverless-cars-operated-by-artificial-intelligence.md",
+      "title": "California to license driverless cars operated by Artificial Intelligence",
+      "excerpt": "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),",
+      "sourceUrl": null,
+      "webUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/",
+      "originalUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1",
+      "cdnAmpWebUrl": "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1",
+      "publishedDateTime": "2021-02-02T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hayride",
+        "domain": "thehayride.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-artificial-intelligence-in-marketing-market-next-big-thing-major-giants-alphabet-baidu-oculus360.md",
+      "title": "Artificial Intelligence in Marketing Market Next Big Thing | Major Giants- Alphabet, Baidu, Oculus360",
+      "excerpt": "HTF MI presents an in-depth overview of the Global Artificial Intelligence in Marketing Market Study, detailing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-happyfox-applies-conversational-ai-to-support-requests-made-via-slack.md",
+      "title": "HappyFox applies conversational AI to support requests made via Slack",
+      "excerpt": "HappyFox today announced it is using conversational AI to automatically resolve requests made to help or service desk platforms it supports via a Slack communications channel. Assist AI from HappyFox analyzes each request made via Slack to determine if a way to solve that issue already exists within an IT organization’s knowledge base.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/",
+      "originalUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/HappyFox-why-assist-ai-image-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/",
+      "publishedDateTime": "2021-02-02T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare.md",
       "title": "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare",
       "excerpt": "COVID-19 put unbelievable strain on our health care system. With industry organizations facing sharper realities around managing costs and",
@@ -932,247 +1166,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-safari-turns-on-speech-recognition-by-default-tech-preview-of-release.md",
-      "title": "Safari turns on ‘Speech Recognition’ by default Tech Preview of release",
-      "excerpt": "Safari turns on 'Speech Recognition' by default Tech Preview of release on February 1, 2021 at 2.30 p.m. Apple's Safari browser is",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/",
-      "originalUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Safari-turns-on-Speech-Recognition-by-default-Tech-Preview-of.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/",
-      "publishedDateTime": "2021-02-01T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-researchers-can-tell-if-youre-going-to-break-up-just-by-the-language-you-use.md",
-      "title": "Researchers Can Tell If You’re Going To Break Up Just By The Language You Use",
-      "excerpt": "Evidence of an impending breakup may exist in the small words used in everyday conversations months before either partner realizes where their relationship is heading, according to new psychology research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/",
-      "originalUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60184d0049ba39787ef144b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3622%26cropY1%3D51%26cropY2%3D2089",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/amp/",
-      "publishedDateTime": "2021-02-01T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-artificial-intelligence-and-the-gamestonk-blowback.md",
-      "title": "Artificial intelligence and the Gamestonk blowback",
-      "excerpt": "Surrounded by rallies of “power to the people,” a rag-tag group of scrappy underdogs recently managed to bring Wall Street to its knees through a dazzling display of disobedient investing that saw Gamestop stocks rocket Moonward.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/1280px-GameStop_Globen-e1611550531323-796x420.jpg",
-          "width": 796,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/amp/",
-      "publishedDateTime": "2021-02-01T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-how-to-tell-if-your-partner-is-thinking-of-breaking-up-with-you-people-contemplating-the-end-of-a-relationship-change-their-language-and-start.md",
-      "title": "How to tell if your partner is thinking of breaking up with you: People contemplating the end of a relationship change their language and start saying 'I' and 'we' more",
-      "excerpt": "The study, by researchers from the University of Texas, suggests that the use of pronouns may indicate an impending breakup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/People-contemplating-end-relationship-start-saying-more.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/People-contemplating-end-relationship-start-saying-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/02/01/13/38735416-0-image-a-15_1612186949328.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/amp/People-contemplating-end-relationship-start-saying-more.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9210355/amp/People-contemplating-end-relationship-start-saying-more.html",
-      "publishedDateTime": "2021-02-01T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-rpa-startup-uipath-raises-750-million.md",
-      "title": "RPA startup UiPath raises $750 million",
-      "excerpt": "Robotic process automation startup UiPath has raised $750 million in a series F round valuing the company at $35 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/uipath.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/",
-      "publishedDateTime": "2021-02-01T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -1265,19 +1265,19 @@
     {
       "path": "_news/2021-01-28-the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
       "title": "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
-      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin",
+      "excerpt": "BELLEVUE, Wash., Jan. 28, 2021 /PRNewswire/ -- Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210128sf62769/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210128sf62769/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook",
-          "width": 648,
-          "height": 339,
+          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg",
+          "width": 400,
+          "height": 222,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1287,11 +1287,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T07:42:00-08:00",
+      "publishedDateTime": "2021-01-28T07:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

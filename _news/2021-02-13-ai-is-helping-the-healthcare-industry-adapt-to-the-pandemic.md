@@ -48,21 +48,16 @@ related:
         height: 675
         isCached: true
   - title: "Incorporating artificial intelligence in Indian healthcare"
-    excerpt: "AI does the hard work of compiling the complex identification trigger points and creating a pattern out of this data on an intensity level and speed beyond any human being's capability."
-    publishedDateTime: 2021-02-16T09:04:00Z
-    webUrl: "https://www.thestatesman.com/lifestyle/incorporating-artificial-intelligence-indian-healthcare-1502952557.html"
-    ampWebUrl: "https://www.thestatesman.com/lifestyle/incorporating-artificial-intelligence-indian-healthcare-1502952557.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/lifestyle/incorporating-artificial-intelligence-indian-healthcare-1502952557.html/amp"
+    excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."
+    publishedDateTime: 2021-02-16T05:48:00Z
+    webUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+    ampWebUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 74
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/02/ef6b26571cf389e178e19eaa96221770.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Sify.com
+      domain: sify.com
+    quality: 54
 
 secured: "kvTwkokZg1AuROWSSI8X4tx7VUWHXII3oYjSe01fYZAVjPPtw8vlni80uPI5i5zt47RXwCbf+woGxqHmRMZwTzsyoVQl4dtgsodeuTmCWQM9ue7BqZmDANPq1nLKiUA7FJ8vNhLlFwLhfylHX9vQYKeowVCYp+sK8sRIrkk5/r9I2xFngRv6xcWbA9lb2nPwoZEpnVbWfuboQ43TWbsNoai3nbZRkwGTiY4zhvDW1tIUs8BfOFHNNNB1pEDGipkSfWP2FwVQ/BVMuTmuwJTtb/4U3ChJGqM+UiCtOZpRpREdrRRap383wgV0mQsNSKzAi3y1VUcRxO5K8sgwj6EKRHyDe3sEN7EE3vjEauYv7x2mWR8HZGLH3jiz9YFnxE1SvviF+4tz5MgF6wk+OjnuGxgO93iiMtmeq+TS0Dcd7SWC+Jh2afMoqe7d/OKQVfZFLZnwYL/5XV5gKDmXIzRAo6HUPTvPxiRutnnvSHygRUTIiTOJdSkBM6vlCZ+NYoAOp/RDXBZCpNFOX1ZZ4rmYvA==;lATpEq7CzpILgemZo1eogQ=="
 ---

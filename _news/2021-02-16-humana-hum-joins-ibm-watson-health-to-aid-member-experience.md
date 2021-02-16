@@ -21,15 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
-    excerpt: "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers"
-    publishedDateTime: 2021-02-11T20:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210211005257/en/Humana-and-IBM-Watson-Health-Collaborate-to-Simplify-and-Enhance-the-Member-Experience-for-Humana-Employer-Group-Customers"
+  - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
+    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
+    publishedDateTime: 2021-02-16T12:35:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 53
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "V2k+XdQyO9GAhtgqXEG/ikP9FeVaJG3NL1KlYInaows/o8xFSypM7A1BHQ45LUrfbq6frzF1Qe4yQVaizU4fQoJWznxgN0A608+OPEaTCInAeQGnLKsL8ULdP7gSRksu3gy9LaVRCNmPGavST5EimzGIVu0ojX2iO+d4sbVrn4hKYxo/8taEbLr2g/Bce52ByQBiTMVhz7Pmh9cKh2SmYHKJVL2ubU2IgXgGaIgOy7TqaTB1OzDYB8fexgPyhGGJ8tkd59ftK7tKvH4OZHA8gqqS6A1dp6d5ITY2hLTrozZMsNpIcHzUamQfa2tvR9khsoaQ5O+6R6kvVU7rmuDPl9pVk/ap9QYx1KooMAI/L1M=;5DzlovyhFMns+HLJDtXSoA=="
 ---

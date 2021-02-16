@@ -25,70 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester"
-    excerpt: "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile."
-    publishedDateTime: 2021-02-11T19:40:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
+  - title: "News24.com | WATCH | VW taps Microsoft cloud for self driving cars"
+    excerpt: "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'"
+    publishedDateTime: 2021-02-12T07:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 114
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/a2618a6b-a205-4004-ab8d-b706d8ab359d/resize/1200x/0b71a3953d86fcf6ce37b4af796e8aed/forrester-ai-chart.jpg"
-        width: 1200
-        height: 1195
-        isCached: true
-  - title: "Why Microsoft is Pinterested"
-    excerpt: "The Financial Times reported Wednesday that Microsoft has held talks in recent months to acquire Pinterest. The talks, which are \"currently not active,\" could have led to Microsoft'"
-    publishedDateTime: 2021-02-11T20:46:00Z
-    webUrl: "https://www.geekwire.com/2021/why-microsoft-is-pinterested/"
-    ampWebUrl: "https://www.geekwire.com/2021/why-microsoft-is-pinterested/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/why-microsoft-is-pinterested/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 89
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/iPad-home-feed-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Microsoft, HPE partner to deliver AI, edge computing on ISS"
-    excerpt: "HPE’s Spaceborne Computer-2 will be connected to Azure via NASA and the HPE ground station. It is based on the HPE Edgeline Converged Edge system, designed for tough edge environments like space."
-    publishedDateTime: 2021-02-15T14:11:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/dd5ad1/article33843517.ece/ALTERNATES/LANDSCAPE_615/International-Space-Station"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
-    excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"
-    publishedDateTime: 2021-02-13T17:00:00Z
-    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 71
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-        width: 960
-        height: 675
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
   - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
     excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
     publishedDateTime: 2021-02-11T21:51:00Z
@@ -135,33 +82,46 @@ related:
         width: 1200
         height: 602
         isCached: true
-  - title: "Cleareye.ai and Microsoft partner on PPP loan forgiveness platform"
-    excerpt: "Cleareye.ai, which makes fintech for banks, is working with Microsoft to power certain products, starting with the PPP Loan Forgiveness Processing Engine, driven by artificial intelligence and powered by Microsoft Azure."
-    publishedDateTime: 2021-02-12T14:49:00Z
-    webUrl: "https://www.accountingtoday.com/news/cleareye-ai-and-microsoft-partner-on-ppp-loan-forgiveness-platform"
+  - title: "Volkswagen Group And Microsoft Speed Automated Driving Development With Cloud Computing"
+    excerpt: "The quest for automated vehicles continues In fact, with the deluge of new vehicles in the market, there has been glimpse of automation in one way or another. At Volkswagen Group, automated driving remains one of its goals and the German auto group has partnered with Microsoft to accelerate the development of automated functions into its vehicle offerings."
+    publishedDateTime: 2021-02-13T20:15:00Z
+    webUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/"
+    ampWebUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
     type: article
     provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 58
+      name: hotcars
+      domain: hotcars.com
+    quality: 51
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/f98b689/2147483647/strip/true/crop/5237x2749+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F68%2Fe1%2F54cd96f64344a70f3cbbc69d7c71%2Fmicrosoft-campus.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2021/02/VW-ID.concept.jpg"
+        width: 1710
+        height: 900
         isCached: true
-  - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
-    excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
-    publishedDateTime: 2021-02-14T15:12:00Z
-    webUrl: "https://www.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/"
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
+    publishedDateTime: 2021-02-15T08:51:00Z
+    webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+    ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
+      name: GDPR fines
+      domain: itp.net
+    quality: 51
+  - title: "Volkswagen will use Microsoft’s cloud technologies to create new Automated Driving Platform"
+    excerpt: "Microsoft’s business inadvertently made headlines as Ford, a previous infotainment partner opted to Google’s Cloud services over that of Azure or even AWS. Most of the"
+    publishedDateTime: 2021-02-12T16:51:00Z
+    webUrl: "https://www.onmsft.com/news/volkswagen-will-use-microsofts-cloud-technologies-to-create-new-automated-driving-platform"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 29
     images:
-      - url: "https://res.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/en/headerimage/header-1612887474252.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/Volkswagen-Automated.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "bWCqVLS+BDe5itUMGxiN4k+YNVcH3Q+J2ABGaemBQTl1WYS0k/olSEIgsQMjD4w+igT7j1cx9ZLczEjDjbGztICdiTb7kHyz4pA9O75ZgRbSUe7oH+twH2owT+rrtV0CuBn7lm0CzamIyi14pt8zrsn0yrD/6Z/A7ibbI1+Qpr38cFy4R79GT7AZcFa7P52SjzmenLPGg3F43/qGf9WSrWwVPAC56lI99pbUDqfmFfOK5Sj7YNZdYiZFPGcE9chWIEToquSSddn+pbf7Im7NjlS+bFfQPOAW87HJTWcRSX8mnvj1jZl6LTsxOdaIpeOSwaqXSO/h6VklKG7cRNvOi3piSVXG8lR8W0BTaVXnIeAvaiAX6E6dL+OJ0UmXhqhtYiNKs2Q3BMoxv+wfUHFs+bRUOOeXd5gLzlUMvm69qHZu1ZbFUyXIgtOMxx+lvEqBkL7L5tA4qEpZEfycqsx6IB7NFNKOzAOBIq37Ue14q4LmjFuDItNMseUIii/ZVDPSbCtFhzkDgOKTGBt0axLN/g==;90jrtMySYONcI3rc8qYAWQ=="

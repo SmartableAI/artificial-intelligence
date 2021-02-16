@@ -91,6 +91,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Russian police use facial recognition or ‘face control’ against protesters"
+    excerpt: "He was detained on his way there by police using facial recognition technology in the Moscow metro. But reports from other protesters who have attend rallies in recent weeks in support of jailed opposition politician Alexei Navalny also indicate police are using facial recognition technology to make preventive arrests and detentions."
+    publishedDateTime: 2021-02-14T15:21:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/russian-police-use-facial-recognition-or-face-control-against-protesters.html/5476/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 52
+    images:
+      - url: "https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/2021-02-11T151833Z_1_LYNXMPEH1A19D_RTROPTP_4_RUSSIA-POLITICS-NAVALNY-TECH.jpg"
+        width: 530
+        height: 360
+        isCached: true
   - title: "Minneapolis City Council approves ordinance banning use of facial recognition technology"
     excerpt: "An ordinance passed by the Minneapolis City Council will ban the use of facial recognition technology in the city."
     publishedDateTime: 2021-02-12T21:28:00Z
@@ -150,6 +164,6 @@ related:
         height: 1035
         isCached: true
 
-secured: "6PhutkemwCYi2lgG1VJVSR994w0dHzw6BiiYlY22gtM2khSGd5oEDZZ9355+0S9s3743GZa8ezzi73As89OOWNbzM6o4PBDOLQeqM9pogDn8geaTMlJHQ3cgcwL8IvCvzwaG46B7zGDtEGgxNBAJMF/dyJkDDvThAqnDxhyrrFu4r2RC+686VFsiga8hbrBHv4BZcBTaKFraqCe8mXPQ357XQkGdK0DK68vgl727+2YEGB3nbS6OX4J5sEmDdAAhM0y7yciOSp8qQR/oxIMp0vPtVPkyhQSPpCIDS2JRf4P2/4eIrRuSmM5B1sVuQXdjAuJpRAutdYd9JT4GqzQn1eBtCusEjrUTcy1YxJ8YLy0=;wsVTuFYJ4y0X26awEYjx2g=="
+secured: "KZu2h4USR6of4F57crmo0IvaJlU8m7nysNEUJlrfNnTrwIs4gRcbsga9TT+sH4NtCou90gJ+tDaoLERDV1aiVh+61k02vRLhAR8vzNFoa3c3JdBsmVuueblfvwrxuBJeDp82C68Kk5M7pF+S5UNhR0d/+aIXydF8xo2T294FDNgzWOfgBdbKJEu0RmYJ4o1O2PxD2agAFiqNvfmGNrA/PzYTos13r8UgzfYO7awJtuvJuTUgVIm1yWdK9/TsBmc8ZZcluyrFyoZTZZmB+S8fVcXSZtpuZjZOWt51PaM/P3CgWDaiKpB6WjfnN5RZxuNZ5qolfPdUSryB0pT2EsDIoq8iIbV32VO/6h0PdWW1dYrjIfVjriFLeCuH8NpYzPNRQRjP3/bL0zwXHOGH76oSLBHx6mowsOIHBhMTn4iIEimTdv8nY4TA9dJLyZJBuX8D/7dkVFPFwa1f70hAGpQB5UdhviVasi4n/pu1x/w+rN9Lxfq+LEbo2Rmnxmf3JZqXxFCGJWZyCqr5Kj24px7Pwg==;7q0unzq8dQ723gA+ueeVTw=="
 ---
 
