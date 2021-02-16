@@ -106,49 +106,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-15-uae-adopts-private-sector-facial-recognition-technology.md",
-      "title": "UAE adopts private sector facial recognition technology",
-      "excerpt": "UAE adopts private sector facial recognition technology Sheikh Mohammed Bin Rashid Al Maktoum will chair the cabinet meeting in Abu Dhabi",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/",
-      "originalUrl": "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/UAE-adopts-private-sector-facial-recognition-technology.jpeg",
-          "width": 750,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-02-14T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-14-how-a-chinese-scientist-in-the-us-is-helping-defend-ai-systems-from-cyberattacks.md",
       "title": "How a Chinese scientist in the US is helping defend AI systems from cyberattacks",
       "excerpt": "Li Bo, an award-winning scientist, helps major tech firms like IBM and various financial institutions defend themselves against cyber threats.",
@@ -210,7 +167,7 @@
       "originalUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -255,21 +212,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-13-minneapolis-bans-police-government-use-of-facial-recognition.md",
-      "title": "Minneapolis bans police, government use of facial recognition",
-      "excerpt": "The Minneapolis City Council voted to ban the use of facial recognition technology by the city's police and other government departments.",
+      "path": "_news/2021-02-13-minneapolis-poised-to-ban-facial-recognition-for-police-use.md",
+      "title": "Minneapolis poised to ban facial recognition for police use",
+      "excerpt": "Committee voted 12-0 in favor of ban, advancing it to city council, months after actions of city’s police sparked racial reckoning in US",
       "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
-      "originalUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://uploads.dailydot.com/2021/02/Minneapolis-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
+          "url": "https://i.guim.co.uk/img/media/199d7f912263587d7beb198ff7c5dab0bc726f19/0_135_4645_2787/master/4645.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d7c38416f108916c5e4f131ce3875c59",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -277,14 +234,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
-      "publishedDateTime": "2021-02-12T11:25:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software",
+      "publishedDateTime": "2021-02-12T10:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -295,6 +261,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-should-delhi-govt-schools-be-using-the-facial-recognition-technology.md",
+      "title": "Should Delhi govt schools be using the facial recognition technology?",
+      "excerpt": "The use of the facial recognition technology in several Delhi government schools - in conjunction with the CCTV cameras installed - raises grave concerns, given the absence of data protection and privacy laws in India,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/migration_catalog/v2mul8/article18054655.ece/ALTERNATES/LANDSCAPE_615/editpage-blrasBL22RASHEEDA2EDITjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/",
+      "publishedDateTime": "2021-02-12T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -484,6 +494,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular.md",
+      "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ...",
+      "excerpt": "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1420,49 +1473,6 @@
       "provider": {
         "name": "Becker's Hospital Review",
         "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-how-to-stop-your-computer-screen-from-hurting-your-vision-according-to-an-eye-doctor.md",
-      "title": "How To Stop Your Computer Screen From Hurting Your Vision, According to an Eye Doctor",
-      "excerpt": "L ooking at a computer screen all day forces sedentary behavior, strains your neck and shoulders, and—unsurprisingly—it’s incredibly hard on your eyes. Your computer screen is hurting your eyes because their ability to manage light diminishes over time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wellandgood.com/computer-screen-hurting-eyes/",
-      "originalUrl": "https://www.wellandgood.com/computer-screen-hurting-eyes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wellandgood.com/wp-content/uploads/2021/02/eye.jpg",
-          "width": 1170,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wellandgood.com/computer-screen-hurting-eyes/amp/",
-      "cdnAmpWebUrl": "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/computer-screen-hurting-eyes/amp/",
-      "publishedDateTime": "2021-02-03T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Well+Good",
-        "domain": "wellandgood.com",
         "images": null,
         "publishers": null,
         "authors": null

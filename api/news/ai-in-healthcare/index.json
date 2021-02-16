@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -723,6 +723,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502.md",
+      "title": "The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%",
+      "excerpt": "In terms of opportunities, the artificial intelligence in healthcare market is expected to grow from $2.1 billion in 2018 to $36.1 billion by 2025; it is expected to grow at a CAGR of 50.2% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/accesswire/628709msn/the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502",
+      "originalUrl": "https://www.morningstar.com/news/accesswire/628709msn/the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-22-million-seed-round.md",
       "title": "Bangladesh-based Maya, a startup focused on accessible healthcare, raises $2.2 million seed round",
       "excerpt": "Based in Bangladesh, Maya is dedicated to making it easier for women to get healthcare, especially for sensitive issues like reproductive and mental health. The startup announced today it has raised $2.",
@@ -1401,50 +1435,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-artificial-intelligence-ethics-under-spotlight-at-davos-2021.md",
-      "title": "Artificial intelligence ethics under spotlight at Davos 2021",
-      "excerpt": "The World Economic Forum announces two initiatives to accelerate the adoption of technology across the globe, at the annual Davos meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/xA9POvNZj4Pvo4J8",
-      "originalUrl": "https://www.itweb.co.za/content/xA9POvNZj4Pvo4J8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2021/02/AI-city-2021.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/xA9POvNZj4Pvo4J8",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/xA9POvNZj4Pvo4J8",
-      "publishedDateTime": "2021-02-01T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

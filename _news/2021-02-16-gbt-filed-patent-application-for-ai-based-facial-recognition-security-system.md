@@ -3,16 +3,22 @@ category: news
 title: "GBT Filed Patent Application for AI Based Facial Recognition Security System"
 excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a patent for AI facial recognition system,"
 publishedDateTime: 2021-02-16T11:00:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8153122/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8153122/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system"
+originalUrl: "https://markets.businessinsider.com/news/stocks/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system-1030085984"
+webUrl: "https://markets.businessinsider.com/news/stocks/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system-1030085984"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
 type: article
-quality: 48
+quality: 98
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -51,22 +57,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/jlb00xa6iofgf15z6ysa.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "US border patrol used facial recognition on 23 million travelers in 2020"
-    excerpt: "US Customs and Border Protection used facial recognition technology on more than 23 million travelers in 2020, according to a report published by the agency. That's up from the 19 million travelers CBP scanned with the tech in 2019."
-    publishedDateTime: 2021-02-11T23:23:00Z
-    webUrl: "https://www.cnet.com/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/3Ajc94GlUnkf1BGZdETmznPPAnM=/1200x630/2020/07/07/03dbe587-4aa1-4ebb-bf65-4c5a33a4f182/passport-american-flag-3723.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Sweden’s data watchdog slaps police for unlawful use of Clearview AI"
     excerpt: "Sweden’s data protection authority, the IMY, has fined the local police authority €250,000 ($300k+) for unlawful use of the controversial facial recognition software, Clearview AI, in breach of the country’s Criminal Data Act."
@@ -241,6 +231,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vidjHyONf4w45fKiIrOfuEexEBvMAc09Thbk30GHpVneXMQvJzi6we2qNW9Z0dvdEmRkU/s1vLqgDrtweD3KRMtRKNVxJgYkAayCeEe4K8gJ3U34G6z+dZuJyvLX6nvpB5TjCZ/coszZoLQfGba1nyazFDXDGRbCwnYpKWe0XZd7UuIdz7eJIIXVu0bxm8/X7JcbAYdwvCVVzlxUUpcnkc0tHZn98FMhvCIIwGpvILfxxc1wUWwQdaIaPspB4QfQXWkiERaVcStu2akygHdomhkDRxCuD81z3pjtQHJlzbWbB5ZY8Eh18bs8A6fsgRA/LUfG4wlh8HXO5HfF9w+8ZB5Zlf+lMKOsFA+/uB9uKfg=;6SsEKCMrPsc1JpcFyG5tkw=="
+secured: "btL46BEp2Us6v5IZNS4uxRHixdd5T1sY+zwSqhSAB5rIqiSVzREOwh2db5s3bQuKMdZ9aQhz6Ic8Pjmjys5Q7ekO+vSftgl1yVJz3AvfE41RNcxXNO2qqq12olfqtKAkvdUhcA/hIx6Tur/2Ai1LfgiludAOHI2n6LT5v1fmys5wsWvpKTKtgnnfrZ8J57pFe2v40U2DvgQnUYBE+fBpHXo12S+MclPQQm7PsPFbqZ88JLvrsiGKGq1fapT7PDs4eRGxg70A+7tHpNS571EHoKAzedq267S3RuaqUbqsgUTUPcSrRLPb5zrMbCbrWx/RyBz5fz13Qwvs92fuNjbH30QMbgL2KPrYNIKXkMs4i88=;BDH9q2oYK709SKsbkhhBsA=="
 ---
 

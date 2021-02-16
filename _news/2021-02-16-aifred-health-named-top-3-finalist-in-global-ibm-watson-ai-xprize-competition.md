@@ -37,6 +37,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Humana, IBM Partner To Streamline Member Engagement With AI"
+    excerpt: "Humana has announced a partnership with IBM Watson Health that seeks to improve member engagement through artificial intelligence. The solution will use an artificial intelligence-enabled virtual assistant to provide accurate benefits,"
+    publishedDateTime: 2021-02-16T15:01:00Z
+    webUrl: "https://healthpayerintelligence.com/news/humana-ibm-partner-to-streamline-member-engagement-with-ai"
+    ampWebUrl: "https://healthpayerintelligence.com/news/amp/humana-ibm-partner-to-streamline-member-engagement-with-ai"
+    cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/humana-ibm-partner-to-streamline-member-engagement-with-ai"
+    type: article
+    provider:
+      name: healthpayerintelligence.com
+      domain: healthpayerintelligence.com
+    quality: 59
+    images:
+      - url: "https://healthpayerintelligence.com/images/sized/GettyImages-1189484012-3f32efd853ffed8e5d8a1184abc2c18d.jpg"
+        width: 480
+        height: 278
+        isCached: true
 
 secured: "2d08MH347XGsbNlaUaVA71b8gX0oYwyNANksLPpySXZtf9uYjqqTQcgL3bqMsH7/HJXQ8KTDQEI7MxEsisvlbyj+5wtmnKJAOAkA8gBzjRbnFM3FpvjveUUKuZ67B7jisDXnZfvcVIgWZP8vkIbe5Uktx2gZ7Sn5LIgfXS3EoVYgobCytihCW3AbqCkK/aifB+ZabO1rlzUXayKjUDZojQhCwr2b+GTLeJnsHsgGsHqCSR/Y6jtb13EbaTFK9gUtMAyGdzWKQx8PhMmvFOhjF2P8VoAQMjKv4jFpLsvYHl98wZO9UrMCcHl9CjcXKkh2n+S1Nqbi+q2pRJJsQEo6zAMhXf2Ig0sbpq4aC2/vfx8=;h+vgnKbWKQG34JYOglIyiw=="
 ---

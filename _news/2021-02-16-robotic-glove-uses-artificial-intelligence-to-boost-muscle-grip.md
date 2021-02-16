@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.rte.ie/amp/1197385/ "
 cdnAmpWebUrl: "https://amp-rte-ie.cdn.ampproject.org/c/s/amp.rte.ie/amp/1197385/ "
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "This robotic glove uses AI to help people with hand weakness regain muscle grip"
+    excerpt: "A Scottish biotech startup has invented an AI-powered glove for people suffering from muscle mass loss due to age or illness."
+    publishedDateTime: 2021-02-16T16:31:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
   - title: "Robotic glove that uses artificial intelligence to improve muscle grip could help millions"
     excerpt: "A 24-year-old who watched as his aunt struggled to drink water or change the TV channel after multiple sclerosis limited her movement has created a robotic glove which he hopes will help those in similar situations."
     publishedDateTime: 2021-02-16T07:14:00Z

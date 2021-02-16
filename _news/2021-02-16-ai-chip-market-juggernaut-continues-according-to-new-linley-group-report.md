@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-16T14:01:00Z
 originalUrl: "https://www.oaoa.com/news/business/ai-chip-market-juggernaut-continues-according-to-new-linley-group-report/article_360e10c5-ae70-51c7-9905-446035eda051.html"
 webUrl: "https://www.oaoa.com/news/business/ai-chip-market-juggernaut-continues-according-to-new-linley-group-report/article_360e10c5-ae70-51c7-9905-446035eda051.html"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 secured: "V4EyOdBSICv5RDSTL2hT6ziZ7fTlpacXD1wXVml+l1GmD7C9ljs3eNfu9t8km432r6EcUo1q/+spfD2TULe+ShqKkNUPXq8e/lu0rAX6o9Iu3ArgmfcB8S7Zk5scEYfx7gPK9heFn21VGGWKW11a8ifei2k3419KhnpX00oXA27xaKeOsCWIc+yDUhEta9k4ObWZX0znfvSyECNV56+QNYZvWBc+QhzdxpA3tmjE7+UjKuFwSMkMg2OYzpq6GfY2QiuDJmTKnDhJ/3Csmbg0yAa2+C0Mxk1GT6sJjEO+P2bczmM6GlKfw7SiaRuqMESuP1FdKjNLkbJ6P54W8tI7vtkBuEtE6pdL2tNxgEv58Tw=;HZaA2s1dM36O9rw58iAAfQ=="
 ---

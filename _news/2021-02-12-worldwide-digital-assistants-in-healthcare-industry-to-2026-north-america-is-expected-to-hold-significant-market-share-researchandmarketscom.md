@@ -7,7 +7,7 @@ originalUrl: "https://www.financialbuzz.com/worldwide-digital-assistants-in-heal
 webUrl: "https://www.financialbuzz.com/worldwide-digital-assistants-in-healthcare-industry-to-2026-north-america-is-expected-to-hold-significant-market-share-researchandmarkets-com/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,36 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-02-16T05:34:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-robotics-9e905439ab7f41d191e830ab1499ec4e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com"
-    excerpt: "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is drive"
-    publishedDateTime: 2021-02-12T12:15:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "3FRvcwibJaDrA2PVbXMITt+eXl/NbFFUgR9rTkO1iuGU/2ey9FndIeXnmQbqn+McngYdEO0TFmwawxNGd/P+ku92Z7iflopWz8Tj0np/DDAWfSVAg9lHixIUBURn/yRuTkaFTnOv1hkEheLuWixscXJmeXU5SAfnA4FVuL/V2QYaPvCxeVDty0tZ19u2QkL5c0xSn1zP3/NhJZSE7kkCBPDPcLH7sGCugTI2Ap0AMxqpjz6YyejGMDqpWclG3vrXmLtHybfBjC5gBGbUEZuEXEX/BcL91tge6I5qJK8vbMnORM8yIiC5kWW5yrfyUrfr00x564mSjZewblIVPLvwx99EbmfF773VKVPPiXJTgis=;+RBG79rz+j+Ws4GhTzKeQA=="
 ---

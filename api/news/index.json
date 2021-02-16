@@ -2,6 +2,257 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-17-what-cios-need-to-know-about-adding-ai-to-their-processes.md",
+      "title": "What CIOs need to know about adding AI to their processes",
+      "excerpt": "AI can help many types of businesses get more from their data. In 2021, one expert believes adoption of AI will take leaps forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "originalUrl": "https://www.techrepublic.com/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/1200x675/84554d7fe79b29a1d4a50bd6fb608e03/20210211-alxcel-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "publishedDateTime": "2021-02-16T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-this-robotic-glove-uses-ai-to-help-people-with-hand-weakness-regain-muscle-grip.md",
+      "title": "This robotic glove uses AI to help people with hand weakness regain muscle grip",
+      "excerpt": "A Scottish biotech startup has invented an AI-powered glove for people suffering from muscle mass loss due to age or illness.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/",
+      "publishedDateTime": "2021-02-16T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles.md",
+      "title": "A Match Made In Heaven For The Cloud And Autonomous Vehicles",
+      "excerpt": "Here's why there is an ongoing clamor for AV entities to sign-up with cloud providers, ostensibly a mutually beneficial match-up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602b53749a59972aa0994920%2F0x0.jpg%3FcropX1%3D908%26cropX2%3D5284%26cropY1%3D48%26cropY2%3D2643",
+          "width": 1200,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/amp/",
+      "publishedDateTime": "2021-02-16T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row.md",
+      "title": "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row",
+      "excerpt": "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond.md",
+      "title": "Data meets science: Open access, code, datasets, and knowledge graphs for machine learning research and beyond",
+      "excerpt": "An new interconnected ecosystem for research is shaping up, and machine learning is just the tip of the iceberg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
+      "originalUrl": "https://www.zdnet.com/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/15/147ee85a-6053-45a1-baf8-385ec67125b0/annie-spratt-dank9gjvdy-unsplash.jpg",
+          "width": 3432,
+          "height": 5145,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
+      "publishedDateTime": "2021-02-16T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-admithub-raises-14-million-for-ai-powered-education-focused-chatbots.md",
       "title": "AdmitHub raises $14 million for AI-powered education-focused chatbots",
       "excerpt": "AdmitHub, a startup developing a chatbot platform for higher education, has raised $14 million in venture funding.",
@@ -51,6 +302,48 @@
       "topics": [
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-semeon-analytics-wins-major-artificial-intelligence-contract-with-us-military.md",
+      "title": "Semeon Analytics Wins Major Artificial Intelligence Contract with U.S. Military",
+      "excerpt": "Semeon Analytics, an ATW Tech Inc. company, is pleased to announce its most recent contract with a branch of the U.S. military to apply its technology to better understand how complex composite materials can fail and therefore facilitate the development of processes that safeguard components assembled with these new materials.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520",
+      "publishedDateTime": "2021-02-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -207,7 +500,7 @@
       "originalUrl": "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -718,7 +1011,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -937,300 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.md",
-      "title": "Pediatric brain tumors can be classified using diffusion weighted imaging and machine learning",
-      "excerpt": "Diffusion weighted imaging and machine learning can successfully classify the diagnosis and characteristics of common types of pediatric brain tumors a UK-based multi-center study, including WMG at the University of Warwick has found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210215/Pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210215/Pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210215/Pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/Pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.aspx",
-      "publishedDateTime": "2021-02-15T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-how-ai-could-spot-your-weaknesses-and-influence-your-choices.md",
-      "title": "How AI could spot your weaknesses and influence your choices",
-      "excerpt": "In experiments, an AI system successfully learned to influence human decisions. That could be useful in behavioral sciences, public policy, and welfare.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/AI-decision-making-hed-796x404.jpg",
-          "width": 796,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/",
-      "publishedDateTime": "2021-02-15T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-is-ai-just-a-fairy-tale-not-in-these-successful-use-cases.md",
-      "title": "Is AI just a fairy tale? Not in these successful use cases",
-      "excerpt": "Getting artificial intelligence past the fairy tale stage is a challenge for some organizations. Here are two examples of AI that's granted its users' wishes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "originalUrl": "https://www.techrepublic.com/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/09/84a95e88-ad1b-4afb-b847-24f13638789e/resize/1200x/38a9af191aba9d784eff432b4006b4a2/istock-1127391950.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "publishedDateTime": "2021-02-15T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-a-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-covid-19.md",
-      "title": "A machine learning approach to identify drugs that could be repurposed to fight COVID-19",
-      "excerpt": "When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "publishedDateTime": "2021-02-15T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-the-self-driving-car-companies-going-the-distance-infographic.md",
-      "title": "The Self-Driving Car Companies Going The Distance [Infographic]",
-      "excerpt": "The California DMV has released its latest autonomous vehicle disengagement report which provides an objective look at the state of the technology's development across several dozen manufacturers",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/",
-      "originalUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a55b98a743748242cd9bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D34%26cropY2%3D709",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/",
-      "publishedDateTime": "2021-02-15T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-gpu-market-growth-in-2024-top-companies-trends-and-future-prospects-details-for-business-development.md",
-      "title": "GPU Market growth in 2024| Top Companies, Trends and Future Prospects Details for Business Development",
-      "excerpt": "Selbyville, Delaware. The report GPU market begins from an outlook of the business chain structure and explains",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-growth-in-2024-top-companies-trends-and-future-prospects-details-for-business-development-2021-02-15?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-market-growth-in-2024-top-companies-trends-and-future-prospects-details-for-business-development-2021-02-15?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-14T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

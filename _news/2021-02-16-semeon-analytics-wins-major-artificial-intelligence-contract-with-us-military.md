@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Semeon Analytics Wins Major Artificial Intelligence Contract with U.S. Military"
-excerpt: "Semeon Analytics, an ATW Tech Inc. company, is pleased to announce its most recent contract with a branch of the U.S. military to apply its technology to better understand how complex composite materials can fail and therefore facilitate"
-publishedDateTime: 2021-02-16T14:32:00Z
-originalUrl: "https://www.lelezard.com/en/news-19651991.html"
-webUrl: "https://www.lelezard.com/en/news-19651991.html"
+excerpt: "Semeon Analytics, an ATW Tech Inc. company, is pleased to announce its most recent contract with a branch of the U.S. military to apply its technology to better understand how complex composite materials can fail and therefore facilitate the development of processes that safeguard components assembled with these new materials."
+publishedDateTime: 2021-02-16T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520"
+webUrl: "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 63
+heat: 73
+published: true
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "NHL takes big stride on data and analytics with AWS deal"
@@ -40,6 +39,6 @@ related:
         height: 1653
         isCached: true
 
-secured: "EmXks4bh/0CfIru3QdtAh96QPKoVwZ4GfMjWc4euLtrQa/b+nJxenhn09F62IDM+nOiEKgDXAW+3DqJk4rnY4AukA/++hexNUy2XZpADtLhsV19uBqES0QJlb9HNZa7lSsPdd52VwRNG7jhdI2kpn8e57I+939Y5wwYjTspdtlW/ls9slK5KFPFL7jIEmwzis+YZ3YKXnYMeotWbmeH1+YiWyU4AvLKkc/IW6yK3JyoKV2C7AtotpVJUGnPYEnyhVvGAUuT7ZuBWeziprK7KZ5z+/Jvfm7W1bTWJ0cJA9Ah8ACY9UhCUT7G8/s7kvi7LWbab4YxmY9CMvSDI7Yo0QZeUNEI7nqBT/7LIrqV4IwI=;9EEtQZHlBnwFe2xhe0Ghpg=="
+secured: "ZuIUJUrJNtpNqV5HWFBRL3RPAnjnxEs5iH6z397c4PpKsK2L7cPqa8VdCYOQpknGzW88Fuf/9PzBzKXs8brm8KhUL4x3/ItOmTcoRSIswxfSUmTR8ZjG5cJmeIH4tIHakzJd5QK5ZmiWStY2hX01gsjWkCPGMoyYiLmPsJNF/Y/1v/SJ+YezGdPVLe7Hou2OTrX8MDDppO7TKCGCdrmpAEjEfiFgtnGPROV3TF8/IydeDsaPYoXGH66oJWhPU7dUntnhVUZy+R1qklqYHdQ9uHg/nAekupxAiJ3CtPI303fldWGF/Bw8ahyeoUee3ttZ9wanQi4iVakyak3rBkDJrHFBWYVzQg6YsY7iPNvFzyo=;gIwO2TEyAzO7zZSCXUTZOg=="
 ---
 

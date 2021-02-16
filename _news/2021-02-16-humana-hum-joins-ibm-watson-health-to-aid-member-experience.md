@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-t
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Humana, IBM Partner To Streamline Member Engagement With AI"
+    excerpt: "Humana has announced a partnership with IBM Watson Health that seeks to improve member engagement through artificial intelligence. The solution will use an artificial intelligence-enabled virtual assistant to provide accurate benefits,"
+    publishedDateTime: 2021-02-16T15:01:00Z
+    webUrl: "https://healthpayerintelligence.com/news/humana-ibm-partner-to-streamline-member-engagement-with-ai"
+    ampWebUrl: "https://healthpayerintelligence.com/news/amp/humana-ibm-partner-to-streamline-member-engagement-with-ai"
+    cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/humana-ibm-partner-to-streamline-member-engagement-with-ai"
+    type: article
+    provider:
+      name: healthpayerintelligence.com
+      domain: healthpayerintelligence.com
+    quality: 59
+    images:
+      - url: "https://healthpayerintelligence.com/images/sized/GettyImages-1189484012-3f32efd853ffed8e5d8a1184abc2c18d.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
     excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
     publishedDateTime: 2021-02-16T12:35:00Z

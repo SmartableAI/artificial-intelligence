@@ -2,6 +2,481 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-02-how-machine-learning-can-improve-our-email-experience.md",
+      "title": "How Machine Learning Can Improve Our Email Experience",
+      "excerpt": "Around 2015 or 2016, Google began a strategic move, possibly one of the most important it has undertaken in its more than 20 years of existence, to incorporate machine learning and apply it to all its products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/",
+      "originalUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60192be6e789e0fa6557c369%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3935%26cropY1%3D82%26cropY2%3D1927",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/amp/",
+      "publishedDateTime": "2021-02-02T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-this-japanese-ai-journaling-app-helped-me-understand-my-feelings.md",
+      "title": "This Japanese AI Journaling App Helped Me Understand My Feelings",
+      "excerpt": "As a self-proclaimed serial journal collector, Muute, billed as Japan’s first AI journaling app, was all too enticing for me. Much like a writing prompts journal, the app asks questions that encourage self-reflection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
+      "originalUrl": "https://www.vice.com/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/601912fc060c7e009597478a/lede/1612260630822-befunky-collage-42.jpeg?crop=1xw:0.9106xh;0xw,0xh",
+          "width": 3264,
+          "height": 1833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
+      "publishedDateTime": "2021-02-02T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-advanceai-launches-advance-intelligence-group-parent-brand.md",
+      "title": "ADVANCE.AI Launches 'Advance Intelligence Group' Parent Brand",
+      "excerpt": "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079",
+      "publishedDateTime": "2021-02-01T22:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-canon-powershot-pick-robot-uses-ai-to-automatically-take-photos.md",
+      "title": "Canon PowerShot PICK robot uses AI to automatically take photos",
+      "excerpt": "AI and machine learning can be found in almost every consumer electronics product these days, whether directly or indirectly. Often, the goal is to make offload some of the decision-making duties",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/",
+      "originalUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/02/detail_14551_1611879493.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/amp/",
+      "publishedDateTime": "2021-02-01T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-scientists-developing-quantum-brain-for-human-thinking-robots.md",
+      "title": "Scientists Developing \"Quantum Brain\" for Human-Thinking Robots",
+      "excerpt": "It was but a matter of time before robots roam the land with a processing unit similar to that of a human brain, and according to researchers from Radboud University, that time could be now. In a new journal entry in Nature Nanotechnology,",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "originalUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "publishedDateTime": "2021-02-01T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek.md",
+      "title": "Women in Robotics Update: Andra Keay, Nguyen Sao Mai and Selin Alara Örnek",
+      "excerpt": "Here’s a Women in Robotics Spotlight, where we share stories from women who are working on all sorts of interesting projects who haven’t yet been featured in our Annual Showcase. We hope these stories provide inspiration to everyone to join us working in the field of robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://robohub.org/women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek/",
+      "originalUrl": "https://robohub.org/women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://robohub.org/wp-content/uploads/2021/02/WIR-Update-15_10-for-Robohub-2-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T18:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robohub",
+        "domain": "robohub.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence.md",
+      "title": "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
+      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T17:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
+      "title": "Artificial intelligence isn’t as smart as it thinks",
+      "excerpt": "Digital personal assistants, software that can trounce board game champions, algorithms serving up customized online advertising — wherever you turn, artificial intelligence appears to be taking over the world. But look past the self-driving cars and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/03/AIwebcrop-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "publishedDateTime": "2021-02-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-daily-crunch-google-shutters-internal-game-studios.md",
+      "title": "Daily Crunch: Google shutters internal game studios",
+      "excerpt": "Google rethinks its gaming strategy, Microsoft rolls out its quantum computing platform and UiPath is now valued at $35 billion. This is your Daily Crunch for. The big story: Google shutters internal game studios When Google announced its Stadia cloud platform,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/",
+      "originalUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/Google-GDC-Stadia-14.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/amp/",
+      "publishedDateTime": "2021-02-01T15:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-this-month-in-aws-machine-learning-january-edition.md",
+      "title": "This month in AWS Machine Learning: January edition",
+      "excerpt": "Hello and welcome to our first “This month in AWS Machine Learning” of 2021! Every day there is something new going on in the world of AWS Machine Learning—from launches to new to use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-january-edition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-january-edition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/January-Edition-01.jpg",
+          "width": 801,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T15:06:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry.md",
       "title": "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry",
       "excerpt": "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (",
@@ -468,49 +943,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-02-california-to-license-driverless-cars-operated-by-artificial-intelligence.md",
-      "title": "California to license driverless cars operated by artificial intelligence",
-      "excerpt": "Driverless cars operate through an artificial intelligence system designed to ... “Companies like Google’s Waymo have put AI inside virtual cars and have the vehicles 'drive' billions of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
-      "originalUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/6e5a04a/2147483647/strip/true/crop/2100x1103+0+149/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fd9%2Ff7%2Fe529bb32b60c2c886b0d7fcdb544%2Fbdd85bcb540d61d104dc9a9f3054459e.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
-      "publishedDateTime": "2021-02-01T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-02-the-two-companies-have-announced-a-significant-6-year-partnership.md",
       "title": "The two companies have announced a significant 6-year partnership",
       "excerpt": "Google and Ford have inked a six-year partnership that will see the automaker using the tech giant’s expertise and products to bolster their cars and services.",
@@ -758,436 +1190,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-5-ways-to-keep-ai-bias-out-of-online-identity-verification.md",
-      "title": "5 Ways To Keep AI Bias Out Of Online Identity Verification",
-      "excerpt": "In these types of surveillance, the quality and robustness of the underlying database is what can fuel bias in the AI models. Modern facial recognition software uses biometrics to map facial features from a photograph or video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/",
-      "originalUrl": "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2a0812e0069c07567088%2F0x0.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/amp/",
-      "publishedDateTime": "2021-02-01T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors.md",
-      "title": "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors",
-      "excerpt": "\"According to the research study, the global Natural Language Processing (NLP) Market was estimated at USD 12,748 Million in 2018 and is expected to reach USD 47,147 Million by 2027. The global Natural Language Processing (NLP) Market is expected to grow at a compound annual growth rate (CAGR) of 15.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023.md",
-      "title": "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023",
-      "excerpt": "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-gdit-announces-availability-of-aws-services-on-milcloud-20.md",
-      "title": "GDIT Announces Availability of AWS Services on milCloud 2.0",
-      "excerpt": "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the availability of Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/gdit-announces-availability-of-aws-services-on-milcloud-2-0--301219143.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/gdit-announces-availability-of-aws-services-on-milcloud-2-0--301219143.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1430423/GDIT_milCloud_2_0_AWS_availability.jpg?p=facebook",
-          "width": 2699,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions.md",
-      "title": "Confidence, uncertainty, and trust in AI affect how humans make decisions",
-      "excerpt": "Health care applications of AI are growing fast, but there are obstacles to building robust, trustworthy systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/How-confidence-uncertainty-and-trust-influence-human-decision-making-01.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/amp/",
-      "publishedDateTime": "2021-02-01T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-elder-care-wireless-ai-and-the-internet-of-medical-things.md",
-      "title": "Elder care, wireless AI, and the Internet of Medical Things",
-      "excerpt": "Senior citizens are accustomed to constant probes by doctors, but wireless AI tech is enabling massive-scale, nonintrusive data monitoring.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Elder-care-wireless-AI-and-the-Internet-of-Medical-Things-01.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/",
-      "publishedDateTime": "2021-02-01T07:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-how-the-responsible-use-of-ai-can-help-create-a-better-health-system.md",
-      "title": "How the responsible use of AI can help create a better health system",
-      "excerpt": "Used responsibly, AI can produce better health outcomes, better patient experiences, and better care provider experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can-help-create-a-better-health-system/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can-help-create-a-better-health-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-the-responsible-use-of-AI-can-create-a-better-health-system-01.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can-help-create-a-better-health-system/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can-help-create-a-better-health-system/amp/",
-      "publishedDateTime": "2021-02-01T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-guardforce-ai-announces-two-new-appointments-to-its-board-of-directors.md",
-      "title": "Guardforce AI Announces Two New Appointments to its Board of Directors",
-      "excerpt": "Guardforce AI Co., Ltd (OTC Pink: GRDAF) (\"Guardforce AI\"), an integrated security solutions provider in Asia, announced today the appointment of two independent board members, John Fletcher and David Ian Viccars,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
-      "publishedDateTime": "2021-02-01T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-nutrition-therapy-market-2021-new-business-experts-ideas-by-2028-texas-health-resources-upmc-pinnacle.md",
-      "title": "Nutrition Therapy Market 2021 New Business Experts Ideas By 2028 | Texas Health Resources, UPMC Pinnacle",
-      "excerpt": "The global nutrition therapy market is set to chart a high growth trajectory on the back of growth in the number of people living with various diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2021/02/nutrition-therapy-market-2021-new-business-experts-ideas-by-2028-texas-health-resources-upmc-pinnacle.html",
-      "originalUrl": "https://www.medgadget.com/2021/02/nutrition-therapy-market-2021-new-business-experts-ideas-by-2028-texas-health-resources-upmc-pinnacle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

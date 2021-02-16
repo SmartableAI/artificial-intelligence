@@ -29,49 +29,75 @@ images:
     isCached: true
 
 related:
-  - title: "Penn State COVID-19 research uses artificial intelligence"
-    excerpt: "CENTRE COUNTY, Pa. (WTAJ) — 11 months ago today, the World Health Organization officially declared COVID-19 a global pandemic. Now, research out of Penn State University is shaping how"
-    publishedDateTime: 2021-02-11T23:27:00Z
-    webUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/"
-    ampWebUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
+  - title: "Self-Driving Car Market Trend and Forecast"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
+    publishedDateTime: 2021-02-12T10:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12"
     type: article
     provider:
-      name: WEARECENTRALPA
-      domain: wearecentralpa.com
-    quality: 61
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2021/01/b3b2ef8865ae4d82a998e7a873c4b268.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "How AI and data models help governments fight Covid-19"
-    excerpt: "A not-for-profit business group including IBM and Rolls-Royce is using AI and data models to help Europe fight Covid-19 and help prepare an economic recovery As Covid-19 vaccines roll out, getting economies and societies back to normal after the worst of the pandemic has passed will depend on collaboration between industry and the public sector – and harnessing the power of data and technologies,"
-    publishedDateTime: 2021-02-12T04:34:00Z
-    webUrl: "https://www.ft.com/partnercontent/ibm/how-ai-and-data-models-help-governments-fight-covid-19.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://ft.com/partnercontent/images/ibm/hero-4.jpg"
-        width: 1920
-        height: 963
-        isCached: true
-  - title: "Artificial Intelligence for Drug Discovery and Development in the era of Covid-19"
-    excerpt: "It takes $2.6 billion for developing a new drug that gains market approval as per the research conducted by Tufts Center for the Study of Drug Development."
-    publishedDateTime: 2021-02-12T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-drug-discovery-development-mahalingam-ph-d"
+  - title: "The self-driving Toyota is coming"
+    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+    publishedDateTime: 2021-02-13T06:19:00Z
+    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 34
+    quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGfF6u9tSWD_g/article-cover_image-shrink_720_1280/0/1613107209374?e=1619049600&v=beta&t=KA1gmS8nC6_1xtICvlEyeyFFORlkKHFt0OoCNVxcTPU"
-        width: 1079
-        height: 720
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "The Wealthiest Self-Driving Car Add-On Options"
+    excerpt: "Consider that during the first era of self-driving cars there will be add-ons, and those will likely one day become standard fare."
+    publishedDateTime: 2021-02-13T16:50:00Z
+    webUrl: "https://www.newsoneplace.com/6956032012/wealthiest-car-options-self-driving"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 24
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/601dc225367d07fd58a05945/0x0.jpg?cropX1=0&cropX2=4595&cropY1=266&cropY2=3328"
+        width: 5616
+        height: 3728
+        isCached: true
+  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2021-02-16T05:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-robotics-9e905439ab7f41d191e830ab1499ec4e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com"
+    excerpt: "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is drive"
+    publishedDateTime: 2021-02-12T12:15:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "LfuFoY0crlGHMWwQOAUfnOkHcJ/pNgc/flb0twyfkYJwC4Y1+iQHjvdQc/OZ9b/yx/DBaqB09a7/w8f2/4akuVTJGahR0q3HlMSsjxAEhrqM6xaz4Viv4qmGa9VvjVSR/mmbOxnvRXhfEW3dfBUkDbYBYV+/6uWT96NOAzt6w28UaRrxQONowvn1TJdQb3+5pBZChAsiduVEDRT495ixpr8wRzcOVxU7qhhKkR4wwKX2FTiDkXLi7xUSvrF5mWtF0eWbkWS9y6JEXsySWZoxNYXR2uU9VUPtbaX/K/H2vCXpaH+FRDFZzKAD+XiJ1T/djmpzOEHBpZv2S3XVPa3QDR6NiguxB96EwLXTmii2Fqg=;FPDk2NDpUnwmU/v9RXwv/g=="

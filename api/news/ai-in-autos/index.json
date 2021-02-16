@@ -158,6 +158,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-12-self-driving-car-market-trend-and-forecast.md",
+      "title": "Self-Driving Car Market Trend and Forecast",
+      "excerpt": "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-news24com-watch-vw-taps-microsoft-cloud-for-self-driving-cars.md",
       "title": "News24.com | WATCH | VW taps Microsoft cloud for self driving cars",
       "excerpt": "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'",
@@ -1422,49 +1474,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-trump-left-a-massive-traffic-safety-mess-for-biden-item-one-teslas-self-driving-claims.md",
-      "title": "Trump left a ‘massive’ traffic-safety mess for Biden. Item one: Tesla’s self-driving claims",
-      "excerpt": "The Trump-era National Highway Safety Administration will be remembered for what it didn't do: offer clear rules for deploying autonomous driving technology. Tesla has been the beneficiary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden",
-      "originalUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/d5a6fb2/2147483647/strip/true/crop/1615x1055+130+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F38%2Fe9%2F3e30121d8a40765a7286512e564a%2Fla-1538770648-xotslzaqb8-snap-image",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden?_amp=true",
-      "publishedDateTime": "2021-02-04T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

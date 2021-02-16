@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-17-unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row.md",
+      "title": "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row",
+      "excerpt": "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-ibms-hybrid-cloud-strategy-is-gaining-steam.md",
       "title": "IBM’s hybrid cloud strategy is gaining steam",
       "excerpt": "IBM is quietly acquiring capabilities and establishing partnerships that may make it the number one provider of hybrid cloud solutions.",
@@ -580,10 +632,10 @@
     {
       "path": "_news/2021-02-09-cleareyeai-collaborates-with-microsoft-for-ai-platform.md",
       "title": "Cleareye.ai Collaborates with Microsoft for AI Platform",
-      "excerpt": "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's",
+      "excerpt": "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
+      "webUrl": "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html",
+      "originalUrl": "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -591,13 +643,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19559723",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-09T05:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Odessa American",
+        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1390,40 +1442,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-ai-stock-why-c3-ai-shares-are-surging-today.md",
-      "title": "AI Stock: Why C3 AI Shares Are Surging Today",
-      "excerpt": "C3 AI (NYSE:AI) stock is on the rise Tuesday after announcing a partnership with Shell (NYSE:RDS), Baker Hughes (NY",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02?amp",
-      "publishedDateTime": "2021-02-02T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

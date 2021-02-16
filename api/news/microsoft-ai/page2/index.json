@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-02-ai-stock-why-c3-ai-shares-are-surging-today.md",
+      "title": "AI Stock: Why C3 AI Shares Are Surging Today",
+      "excerpt": "C3 AI (NYSE:AI) stock is on the rise Tuesday after announcing a partnership with Shell (NYSE:RDS), Baker Hughes (NY",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02?amp",
+      "publishedDateTime": "2021-02-02T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues.md",
       "title": "Microsoft and the workplace of the future: How AI can help you build more productive relationships with your colleagues",
       "excerpt": "Microsoft wants to help organizations use their data to deliver experiences, insights and outcomes. But careful design, clear ethics and full transparency are required to keep the AI in check.",
@@ -1368,50 +1402,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-dunnhumby-extends-machine-learning-automation-tool-built-on-microsoft-azure.md",
-      "title": "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure",
-      "excerpt": "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T22:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

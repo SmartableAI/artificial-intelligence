@@ -2,6 +2,397 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-11-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad.md",
+      "title": "Vectra extends cloud identity detection capabilities with Microsoft Azure AD",
+      "excerpt": "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556",
+      "publishedDateTime": "2021-02-11T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-microsoft-and-hpe-team-up-to-connect-azure-cloud-to-international-space-station.md",
+      "title": "Microsoft and HPE team up to connect Azure cloud to International Space Station",
+      "excerpt": "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/",
+      "originalUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg",
+          "width": 630,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/",
+      "publishedDateTime": "2021-02-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-ex-microsoft-amazon-execs-join-indian-voice-tech-startup-vernacularai.md",
+      "title": "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai",
+      "excerpt": "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai",
+      "originalUrl": "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular.md",
+      "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ...",
+      "excerpt": "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.md",
+      "title": "How to use facial recognition from your Photos library with Apple HomeKit Secure Video",
+      "excerpt": "Apple lets you know who is at the door or another camera when used in conjunction with its secure video system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.html",
+      "originalUrl": "https://www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/12/mac911-homekit-face-rec-config-100872057-medium.jpg",
+          "width": 300,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.amp.html",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.amp.html",
+      "publishedDateTime": "2021-02-11T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-developing-a-turing-test-for-ethical-ai.md",
+      "title": "Developing a Turing test for ethical AI",
+      "excerpt": "AI’s Turing test focused on the wizardry needed to trick us into thinking that scarecrows might be flesh-and-blood humans (if we ignore the stray straws bursting out of their britches). However, I agree with the argument recently expressed by Rohit Prasad,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/08/care_nurture_support_people_human_resources_thinkstock_176436790-100409939-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html",
+      "publishedDateTime": "2021-02-11T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml.md",
+      "title": "SuperAnnotate, a computer vision platform, partners with with open-source to spread visual ML",
+      "excerpt": "SuperAnnotate, a NoCode computer vision platform, is partnering with OpenCV, a non-profit organization that has built a large collection of open-source computer vision algorithms. The move means startups and entrepreneurs will be able to build their own AI models and allow cameras to detect",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/11/superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml/",
+      "originalUrl": "https://techcrunch.com/2021/02/11/superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Editor.png?w=958",
+          "width": 958,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/11/superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/11/superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml/amp/",
+      "publishedDateTime": "2021-02-11T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season.md",
+      "title": "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season-2021-02-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season-2021-02-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale.md",
       "title": "NeuReality emerges from stealth to accelerate AI workloads at scale",
       "excerpt": "NeuReality, a startup developing compute infrastructure for large-scale AI workloads, emerged from stealth with $8 million.Read MoreRead more on",
@@ -810,415 +1201,6 @@
         "Machine Learning",
         "AI in Healthcare",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-langai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses.md",
-      "title": "Lang.ai snags $2M to remove technical burden of implementing AI for businesses",
-      "excerpt": "Lang.ai, which has developed a no-code platform for businesses, closed on a $2 million seed funding round. The company’s SaaS platform aims to allow business users to structure any free-text data with custom categories built through a drag & drop interface,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
-      "originalUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Lang.ai_.jpg?w=1024",
-          "width": 1024,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
-      "publishedDateTime": "2021-02-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-spider-legs-build-webs-without-the-brains-helpproviding-a-model-for-future-robot-limbs.md",
-      "title": "Spider legs build webs without the brain's help—providing a model for future robot limbs",
-      "excerpt": "Arachnophobes often cite spiders' unpredictable movement as the basis of their fear, pointing out how each spindly leg seems to lift, flex and probe with a menacing degree of autonomy.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.html",
-      "originalUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/spiderlegsbu.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.amp",
-      "publishedDateTime": "2021-02-10T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-self-driving-car-firms-reveal-2020-testing-data-cruise-and-waymo-improve-apple-stalls.md",
-      "title": "Self-driving car firms reveal 2020 testing data: Cruise and Waymo improve, Apple stalls",
-      "excerpt": "The California Department of Motor Vehicles reveals how companies operating autonomous cars in the state are progressing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
-      "publishedDateTime": "2021-02-10T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles.md",
-      "title": "Volvo Aims to Ease the Queasiness of Riding in Self-Driving Vehicles",
-      "excerpt": "The car maker is testing audio cues to prevent motion sickness in autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "originalUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-297352/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "publishedDateTime": "2021-02-10T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-cye-raises-120-million-for-security-that-uses-hackers-and-ai.md",
-      "title": "CYE raises $120 million for security that uses hackers and AI",
-      "excerpt": "CYE has raised $120 million for a service that uses AI to probe defenses and human hackers to conduct attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/OKN_1440_websize-e1612959250260.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/",
-      "publishedDateTime": "2021-02-10T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-how-ai-can-improve-your-website-security.md",
-      "title": "How AI Can Improve Your Website Security",
-      "excerpt": "Across all industries, artificial intelligence can help you stop hackers in their tracks, release bug-free updates and provide assistance if you’re experiencing a security breach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc8f61243ce8b03f3e11ea4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/amp/",
-      "publishedDateTime": "2021-02-10T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-baidu-in-talks-to-raise-money-for-a-stand-alone-ai-chip-company.md",
-      "title": "Baidu in talks to raise money for a stand-alone A.I. chip company",
-      "excerpt": "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "originalUrl": "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425",
-          "width": 3000,
-          "height": 1966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "publishedDateTime": "2021-02-10T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-how-ai-helps-create-the-adaptive-customer-service-response-2021-needs.md",
-      "title": "How AI Helps Create The Adaptive Customer Service Response 2021 Needs",
-      "excerpt": "Business in 2021 is challenging, particularly in a customer service sense, as customers are demanding more from brands than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6022c5d99a2c4cba93a64982%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/amp/",
-      "publishedDateTime": "2021-02-10T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

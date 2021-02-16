@@ -41,6 +41,17 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "GBT Filed Patent Application for AI Based Facial Recognition Security System"
+    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a patent for AI facial recognition system,"
+    publishedDateTime: 2021-02-16T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system-1030085984"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
   - title: "Minneapolis Bans City Cops From Using Face Recognition Tech"
     excerpt: "On Friday, the Minneapolis City Council approved a new ordinance that prevents the city from buying or using face recognition technology without specific permission. Local police immediately began whining about it."
     publishedDateTime: 2021-02-12T22:56:00Z
@@ -56,22 +67,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/jlb00xa6iofgf15z6ysa.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "US border patrol used facial recognition on 23 million travelers in 2020"
-    excerpt: "US Customs and Border Protection used facial recognition technology on more than 23 million travelers in 2020, according to a report published by the agency. That's up from the 19 million travelers CBP scanned with the tech in 2019."
-    publishedDateTime: 2021-02-11T23:23:00Z
-    webUrl: "https://www.cnet.com/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-border-patrol-used-facial-recognition-on-23-million-travelers-in-2020/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/3Ajc94GlUnkf1BGZdETmznPPAnM=/1200x630/2020/07/07/03dbe587-4aa1-4ebb-bf65-4c5a33a4f182/passport-american-flag-3723.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Sweden’s data watchdog slaps police for unlawful use of Clearview AI"
     excerpt: "Sweden’s data protection authority, the IMY, has fined the local police authority €250,000 ($300k+) for unlawful use of the controversial facial recognition software, Clearview AI, in breach of the country’s Criminal Data Act."
@@ -137,15 +132,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "GBT Filed Patent Application for AI Based Facial Recognition Security System"
-    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a patent for AI facial recognition system,"
-    publishedDateTime: 2021-02-16T11:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8153122/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 48
   - title: "CBP facial recognition technology fails to find anyone using false identities at airports"
     excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
     publishedDateTime: 2021-02-15T03:01:00Z

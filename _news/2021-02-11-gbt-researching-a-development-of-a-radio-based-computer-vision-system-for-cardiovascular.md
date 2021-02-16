@@ -3,12 +3,9 @@ category: news
 title: "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ..."
 excerpt: "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications."
 publishedDateTime: 2021-02-11T11:20:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9"
 type: article
-quality: 28
-heat: -1
-published: false
 
 provider:
   name: Associated Press
@@ -24,38 +21,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular Applications"
-    excerpt: "SAN DIEGO, (GLOBE NEWSWIRE) -- GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\"), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications."
-    publishedDateTime: 2021-02-11T14:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GBT is exploring the development of a radio-based computer vision system for cardiovascular applications. Other OTC: GTCH"
-    excerpt: "GBT is exploring the development of a radio-based computer vision system for cardiovascular applications. Other OTC: GTCH . SAN DIEGO,"
-    publishedDateTime: 2021-02-11T11:18:00Z
-    webUrl: "https://www.compsmag.com/news/pc/gbt-is-exploring-the-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-other-otc-gtch/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/gbt-is-exploring-the-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-other-otc-gtch/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/gbt-is-exploring-the-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications-other-otc-gtch/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 34
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/GBT-is-exploring-the-development-of-a-radio-based-computer-vision-1024x792.jpeg"
-        width: 1024
-        height: 792
-        isCached: true
-
-secured: "D9WxxdSrJ3gAeoNM9SbZiijfhHWASzQZn+FLTTSKVhSWhiC4fOXUxtkkHkH1ZZ2zrXmPF54pACf4GI2c+IIVa2dbbIeyaIux6/QFvZlG2xHpQZtLSSCY1oF2KUu6+4YODDMW5A4C0qFI6gJPPQ4PDfhulQRLDmjqyJntzhsvLe/jShWb/O3q71vzBb07qS2+sfF32KYr7+Dp8q9/8BMChCtLP+fLOzdHdEAdWp/CV2vBq1Lb+UXVy2E+u65oeTEderK87TEHOYY20aZwDrktfEMHNNZIOmikhUIocGUyNpQVVVQmOQonYR7JEVTjXUnjaDlEDD3fLizXOgIGVPu1iwqWmWgCtAcagotmBTKBL20=;jDXfzC7jVqQje5/bzOV9Bg=="
+secured: "gAGrJpxyyN8FMPqhrhUGWjMxJP/tiDkgLMYYeEPAygMm++JLwKOI+6XjnHgXBxGrXa+hBiI+Ol9RHAy4GWaYXFbzklHAy9GAzR9FyT3yr4xGU+qSDXHWWsh2nv80KPG6g/tSgEEQCwiYMJpiwlznHPeU3AzHjBRBRmYqFpEKiNorUxTW7ZO4KwewVOEb+kBzcQmfft0oCs11V7CWQi1gG0PttKResVQLEy49wU5fGiUuVneJ1ABHrX941Sxx2jE55BvlgOqgPRyEYS9HqZqXw5QCFOdI7kyafGjz+4V36aCwtI9iXJmKwUJ6ujQ0h/pqrXxdrmCICDNZ261MobK/AYRIR2eSKNwopXykM9Z/x/8=;KGMkODL679+F6Qy2E6xezw=="
 ---
 

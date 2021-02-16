@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "This robotic glove uses AI to help people with hand weakness regain muscle grip"
+    excerpt: "A Scottish biotech startup has invented an AI-powered glove for people suffering from muscle mass loss due to age or illness."
+    publishedDateTime: 2021-02-16T16:31:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
   - title: "Robotic glove uses artificial intelligence to boost muscle grip"
     excerpt: "An engineering graduate from Co Down hopes to aid millions of people after helping create a robotic glove which uses artificial intelligence to boost muscle grip."
     publishedDateTime: 2021-02-16T07:44:00Z

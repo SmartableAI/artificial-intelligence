@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Warburg Pincus invests $75m in fintech co Personetics"
+    excerpt: "Israeli fintech company Personetics has announced that it has raised $75m in growth funding from Warburg Pincus. Previous investors in Personetics include Viola Ventures, Lightspeed Ventures, Sequoia Capital and Nyca Partners."
+    publishedDateTime: 2021-02-16T15:00:00Z
+    webUrl: "https://en.globes.co.il/en/article-warburg-pincus-invests-75m-in-fintech-co-personetics-1001360930"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 24
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2016/finans-800.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "Warburg Pincus invests in Israeli fintech firm Personetics"
     excerpt: "The company offers a proprietary AI software platform to leading banks around the world, reaching more than 95 million personal banking customers"
     publishedDateTime: 2021-02-16T13:42:00Z

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-15-exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store.md",
-      "title": "Exploring AWS SageMaker’s new features — Clarify, Pipelines, Feature Store",
-      "excerpt": "Are you considering AWS SageMaker for your machine learning hub? Here's a hands-on look at some key, newly delivered, capabilities.",
+      "path": "_news/2021-02-15-exploring-amazon-sagemakers-new-features-cloudformation-data-wrangler.md",
+      "title": "Exploring Amazon SageMaker’s new features — CloudFormation, Data Wrangler",
+      "excerpt": "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/",
-      "originalUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/",
+      "webUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/",
+      "originalUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 108,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker-Pipelines.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 635,
+          "height": 617,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/",
-      "publishedDateTime": "2021-02-14T08:38:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/",
+      "publishedDateTime": "2021-02-14T16:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-16T14:25:00Z
 originalUrl: "https://www.infoq.com/news/2021/02/google-trillion-parameter-ai/"
 webUrl: "https://www.infoq.com/news/2021/02/google-trillion-parameter-ai/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 images:
   - url: "https://res.infoq.com/news/2021/02/google-trillion-parameter-ai/en/headerimage/google-trillion-parameter-ai-header-1612106705020.jpg"

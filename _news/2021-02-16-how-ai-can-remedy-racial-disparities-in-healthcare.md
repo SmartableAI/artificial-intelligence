@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI can help take companies to the next level in 2021"
+    excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
+    publishedDateTime: 2021-02-16T16:41:00Z
+    webUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/770x578/65123fb077ed2ed98120af5e09d0cc62/20210211-alxcel-karen.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "AI embracing the shift in healthcare, confirms a new report"
     excerpt: "BMU a Hero Group Initiative unveiled a report at its 2nd AI industry conclave on Embracing the shift in healthcare that was organized virtually on Wednesda"
     publishedDateTime: 2021-02-12T19:24:00Z
