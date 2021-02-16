@@ -3,10 +3,10 @@ category: news
 title: "Researchers used AI to determine which overlooked animals could host a new coronavirus"
 excerpt: "A new machine learning study has identified many more potential host species for novel coronaviruses than were previously known."
 publishedDateTime: 2021-02-16T19:07:00Z
-originalUrl: "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/"
-webUrl: "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/"
-ampWebUrl: "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/amp/"
+originalUrl: "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses/"
+webUrl: "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses/"
+ampWebUrl: "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses/amp/"
 type: article
 quality: 79
 heat: 89
@@ -45,6 +45,6 @@ related:
         height: 685
         isCached: true
 
-secured: "YrmfBePCAAK1Uf5l/wqVw+yh94qcKX+bfkWJH4tXNkf3sT3hMoD8F3kqJ3FiElSAoYjxqQMq93v+bBMtfbHHhnyJ9GMlj2FFCVq1j2v9j2Q746f/ffNiphYCznH3b8w9yhce/7aE9/Tp5qFl2G8M/gpc1EEuf3zoaXrQ1Uuc20AbDEd0E17czlKoX/6UPA1N8RheiPn1XntcugVcFJ7L/wWu2IRFjA0ey6SiA5wypfokuV2TKxkBQUEY4YUoaQDEp5FE89inHJfY14hzTVdIODVwxApc3UJkjXMIUFJdR26MehnrDxD2HP75EKphu1gTIL02sf2O1K0W/l7eHcEC7713W59vsqhvgzyMkqfR7X0=;CJKt2OUpwoADh6pzZ9KWlg=="
+secured: "TIfKunO1HSU+9US32Chi5c4lrZ5xudef/mH5T1wI6TDNOAXIfZLaTU3wBZGFHmYPr6XnalJB6KsNKlHWdUZt9CgPehMSR36ZIEIa4weKmsv7o/uwl2mHQMDUXDHNx0mh4zuFoC+nUroQkn9aUrahUkwGKm6T0enBadNVAL1+oERlzuDkCVbn2d6XZ3uHmO05wHsPMeGRQjn5r9i6XZpP4JRvMZRTMB68QhS9C1lhfBEvlyUPssOFBI9mF++YADGVJINDUbBkLDUeN3OGtbE9r7kBrDvy7PItEe4ltj6/ORtOPmTv2EG3PKSLBtGWgJS/7bAnEC3oGMDJg19VUOq4q8pfZnkFnVld+5BTFi+Pp2I=;Vg1cKesGgpSsoQA8ZWaHtQ=="
 ---
 

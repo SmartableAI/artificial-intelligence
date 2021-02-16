@@ -28,9 +28,9 @@ related:
   - title: "Researchers used AI to determine which overlooked animals could host a new coronavirus"
     excerpt: "A new machine learning study has identified many more potential host species for novel coronaviruses than were previously known."
     publishedDateTime: 2021-02-16T19:07:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/amp/"
+    webUrl: "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses/amp/"
     type: article
     provider:
       name: The Next Web

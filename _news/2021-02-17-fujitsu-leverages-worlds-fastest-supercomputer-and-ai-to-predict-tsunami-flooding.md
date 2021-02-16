@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fugaku Leverages AI for Tsunami Flood Prediction"
+    excerpt: "A new AI model that harnesses the power of the world’s fastest supercomputer, Fugaku, is targeting tsunami flooding prediction in coastal areas before the tsunami reaches land. The development of the new technology was announced as part of a joint project between the International Research Institute of Disaster Science (IREDeS) at"
+    publishedDateTime: 2021-02-16T22:18:00Z
+    webUrl: "https://insidehpc.com/2021/02/fugaku-leverages-ai-for-tsunami-flood-prediction/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
   - title: "Fujitsu Leverages World's Fastest Supercomputer 'Fugaku' and AI to Deliver Real-Time Tsunami Prediction in Joint Project"
     excerpt: "The International Research Institute of Disaster Science at Tohoku University, the Earthquake Research Institute at the University of"
     publishedDateTime: 2021-02-16T03:40:00Z

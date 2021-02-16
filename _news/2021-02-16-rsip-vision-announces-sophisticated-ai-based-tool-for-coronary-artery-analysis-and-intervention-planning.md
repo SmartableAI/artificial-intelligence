@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/business-technology
 webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-diagnosis-and-treatment-diagnostic-imaging-c3fb26263ba34b88b08acd491ccab37c"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Draganfly and Windfall Geotek Advance Testing of Drone-Based AI Solution for Landmine Detection"
-    excerpt: "Draganfly Inc. (OTCQB: DFLYF) (CSE: DFLY) (FSE: 3U8) (“Draganfly” or the “Company”), an award-winning, industry-leading drone solutions and systems developer, today announced that it has advanced field testing of the EagleEye™ land mine detection solution with Windfall Geotek (TSX-V: WIN) (OTCQB: WINKF)."
-    publishedDateTime: 2021-02-12T05:34:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-war-and-unrest-products-and-services-be236ffc53d29849bce8c6eba5a86605"
+  - title: "Fish ecotyping based on machine learning and inferred network analysis of chemical and physical properties | Scientific Reports"
+    excerpt: "This study aimed to develop novel integrated analytical strategies for the functional characterization of fish diversity based on the quantification, prediction and integration of the chemical and physical features in fish muscles."
+    publishedDateTime: 2021-02-12T11:04:39Z
+    webUrl: "https://www.nature.com/articles/s41598-021-83194-0"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
+      name: Nature
+      domain: nature.com
+    quality: 11
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83194-0/MediaObjects/41598_2021_83194_Fig1_HTML.png"
+        width: 685
+        height: 320
         isCached: true
 
 secured: "88szEGoKqv3tAw9qNHfufEkIrunpRVFoY3/Cd4jmremcmorWZjmstS4q9Qb7Cxid/Fior+8OGmgaQVJUNc7FYkKINtPqr89kWIay1xQ3Fq+V8sYeDnemvZfwsDJnlOATclro6FKuENAE3M7+n0D2SBMnTB9jjU0EK7itRehZmwALUIX3o3qwGuF5fuwsbNGEhB3VJBGa8CaAbHBU07D/oAXwPoRBuWI4q5xQOaIXnitZPI8LhDM+foy2SQ58uMJJeBbypAea8N1VFMW7njAbGBlfsfcTXLHENjTcuMwxuiZpoLMraw1UsY0yoRCx4OYHLX8K5Cy5ZPMwipxfEtN7Zjr0lHKABpPIm9cT+07j7tk=;rmvbW6S2rr7qlcmARH/vCQ=="

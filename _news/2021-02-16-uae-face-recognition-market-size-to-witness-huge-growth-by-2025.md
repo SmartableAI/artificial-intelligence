@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-mar
 webUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application – Global Forecast to 2025"
+    excerpt: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application - Global Forecast to 2025 . New"
+    publishedDateTime: 2021-02-16T18:10:00Z
+    webUrl: "https://www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 29
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Face-Recognition-Using-Edge-Computing-Market-Research-Report-by-Device-1024x1024.jpeg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Automotive Voice Recognition System Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast | ARC"
     excerpt: "Automotive voice recognition system market is expected to reach the market value of around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 - 2027."
     publishedDateTime: 2021-02-12T09:08:00Z

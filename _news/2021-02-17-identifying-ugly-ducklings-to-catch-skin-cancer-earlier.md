@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Identifying \"ugly ducklings\" to catch skin cancer earlier"
-excerpt: "Melanoma is by far the deadliest form of skin cancer, but very few people get a full skin exam by a dermatologist every year. Now, a new AI system designed by the Wyss Institute and MIT based on convolutional deep neural networks has successfully replicated dermatologists' ''ugly duckling'' process of evaluating multiple skin lesions with ~90% accuracy using smartphone images,"
-publishedDateTime: 2021-02-16T19:18:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/wifb-id021621.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-02/wifb-id021621.php"
+title: "Identifying 'ugly ducklings' to catch skin cancer earlier"
+excerpt: "Melanoma is by far the deadliest form of skin cancer, killing more than 7,000 people in the United States in 2019 alone. Early detection of the disease dramatically reduces the risk of death and the costs of treatment,"
+publishedDateTime: 2021-02-16T21:31:00Z
+originalUrl: "https://medicalxpress.com/news/2021-02-ugly-ducklings-skin-cancer-earlier.html"
+webUrl: "https://medicalxpress.com/news/2021-02-ugly-ducklings-skin-cancer-earlier.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-02-ugly-ducklings-skin-cancer-earlier.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-ugly-ducklings-skin-cancer-earlier.amp"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/602c391a63977.jpg"
+    width: 2048
+    height: 1254
     isCached: true
 
-secured: "DDgZQVdybV9MmIO1U6N9G/OlGqymYf4rQR/Y5HNcfIFjLY2de7b/32/qEaFl4JlV0TUXsJZqKpCyI6yWTyfKHX++7sSe1lsthSqA5k8Ik5wupt5crHJzoRF3W98fRwrtdEjSWUaqaUiniGJAZkVajABwvgL20bBNLtIR/OuYjY1BeEd2of1rYdacgT38NYBl4dkcFMwdux21aOlzfTzdBuz7598BMbM4OcLz+KYArNRFS+KuhfCr2spEhi+mPi8qUAso+3KZ7oOahXIZZQYevNd3+u2hNz/s2KGGSrFW04RZAoOSQizS/bsWP6LKLxUb5tB56itowTAvy40szJS3cMRpSM2mkxmPBhpY+m83zC8=;7NGSzMjid462PXzxZRx3xg=="
+secured: "jHjTQtxBSnIyBTJLcohpl2IN5VZFt7ykeaXuC5dOtIvoqSLQWKobqMakHq8Fd+ECo26AldbK5rOK1kp8ZFTUjvSvyqcxWq4m/xajaezrOQnNqI/TwzC4tIQkkRblOCHRdFYoUlpUKD+vIjTYmmyzhamCUmp9EekOyf4q/sMwWjntFYGDaOLwDPl3mUXGSUZ/f8Hp+pFFvM7YRoSD6OdK+4EGXTFz7pDeNyRz1WHNZJuAFTLT6Q//WB9KsrBX4DNtXifPCp7uCn79LRn/1+EbuHwiHf/71QGDAUSHMBAOFcaotuo2dR6/oqeKCJRrHYBGgJV/nG+u4PiH+NJuGmeIKaFMWvEM4rrpF74QPJk1rHw=;fy+DQIhr+UvEwpIy44RLlg=="
 ---
 

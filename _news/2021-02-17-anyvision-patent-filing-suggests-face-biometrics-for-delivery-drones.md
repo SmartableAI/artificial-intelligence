@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202102/anyvision-patent-filing-sug
 webUrl: "https://www.biometricupdate.com/202102/anyvision-patent-filing-suggests-face-biometrics-for-delivery-drones"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Edge AI partnerships boost face biometrics in retail and smart city solutions"
+    excerpt: "Vsblty Group and Ability partner to produce edge AI cameras and CyberLink brings edge AI face biometrics to Nx Meta clients."
+    publishedDateTime: 2021-02-16T20:20:00Z
+    webUrl: "https://www.biometricupdate.com/202102/edge-ai-partnerships-boost-face-biometrics-in-retail-and-smart-city-solutions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
   - title: "Yoti provides face biometrics and liveness detection to UK Post Office for on and offline services"
     excerpt: "Yoti’s facial recognition-based identity verification, age verification, and anti-spoofing technology will be combined with the Post Office network of branches"
     publishedDateTime: 2021-02-15T21:54:00Z

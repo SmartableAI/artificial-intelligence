@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-M
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Business Insider
@@ -22,22 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "NHL takes big stride on data and analytics with AWS deal"
-    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
-    publishedDateTime: 2021-02-12T06:20:00Z
-    webUrl: "https://apnews.com/article/nfl-business-nhl-football-web-services-5720b382cc681c7db9e7c871513456b8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/047ba679d814498c92b53054b8eced0b/2480.jpeg"
-        width: 2480
-        height: 1653
-        isCached: true
 
 secured: "8lQe4BLTsAqacxTvTFxxFC5Y0Zi5ldL+zBG03p8AqiN8fPiqFrWoKKRJaOdfpU8oLAs0P7N7FQza3P9R07h0pV6834O6O7BMfKYhx/bnLNL5txTAV6eLPLMw7jXUxOlKyQNBYXm/N2A1hYexqlu9vtevBDaGyYH8Bqroj+Tx850TL/x5Tze2slWu8sRhBSOZ7r4RHiLaOkYs2KMmuqmt0qDR/SkZaBwSMrl7nz1LEFe5u1uV7FZPtANpgPXEB3RZAMhhJEXDDY7gHWw1DY4t4L1aFy8FslHOwNM8xhOa+S7Asm8Syib1z5xKVYRC6pISo8n9uhJnHUHMpFSnbvgP/3FTzEiubFUpohBVK6BzXSM=;2aPAsEf3eov279qxUQyyGw=="
 ---

@@ -35,20 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Anexinet Launches Conversational AI Solution, Enabling Natural Language Interactions via Highly ..."
-    excerpt: "Anexinet Corporation, a leading provider of digital business solutions, today announced its partnership with Amelia, an IPsoft Company, the largest independent leader in enterprise Artificial Intelligence (AI)."
-    publishedDateTime: 2021-02-12T05:37:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-9a3cfdf35da5d286e92c2585c4433ad3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Qn70IQXRH3GtIGxG3OOWhorJ8u6UavYnw/FL/rJkpJNGU6wI9h6Yhc4QBpTHsC8Yb8HJQd7ze8aRX8jNFSwC95l486XaqJqM8akikmKhJNMVcA7Y3noJz5HmW4xVUiNV8Ft/aUrP1i7Rg8wRc229cG0SDOnSjbxggT6lTRoDS1BnL3MxU1bhQw/Sbfn1aWXdWHRyB6IhezptDbAyme8M8J6G/j1RlIRf1DZW3NP9brAMPqV62uoTElBiDWDJiIuEUjhy2N0+A+y6PXJAcV2Wi76oZvIULMYQ65UBtcS6lNENzQ1ikVVwrL46gASiAzssdGoEk5ksMRQHmpbf0ZfzSuHVpOQPzWBTZBXglJwUKYA=;2XoTmdrt7pKdGD/5vRbv1w=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models"
 excerpt: "The answer to the question of how to make the best of AI hardware may not be solely, or even primarily, related to hardware"
 publishedDateTime: 2021-02-03T21:55:00Z
-originalUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/?via=indexdotco"
-webUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/?via=indexdotco"
+originalUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
+webUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 341
     isCached: true
 
-secured: "TJ+JeGmSGYH+PIuLL5v9ZcA1AjFVudUvqH3m4NujrxQSj5z4qzL9YQ1XQVkIFEeuPkSA06woqiRbpWkC+VdIJ4UNCXpamkuoB26Bth37xEpk2+bvYNBKhqAX3sR7Dt3wcmWVHxh9vENqgY8onO9Cq+5q6Uni70PvJVxT/V/TakGbxX/QK6cAy/KFXDNiSrU9s6AHP3MiQYI97YsXlhm3aLn2Ye33Gk8MozgVGqyd8++DZSoFXN2DgOk7DrguM9wyjrB20l7oeYm1kiDwfgVTasDAyjFXmUDlxDsSB6a/L9+zMmqNA7Jc/i4eMZwn6pX+qLoRVZ7Bu3fpYo3ynR9UcFzlpSA2cS6EwNxqgB0RsfQ=;leQZu+KF215g8g198FULJQ=="
+secured: "etqbADtybV7MHG615pZz+8/EQXZQ+oxdboHgMHKGfpUaDqInHNiUc6OI+X4/O4tNwyLK12zpdhTcNzTm3gAe0psB1QKuTOVt4NRsb7Ub+7BkjtncOcSLgUmZAkYsFQUn/3s43av6ewjWrVQynP8R3Jn6t9Si2ua4zh9a80+eSjRE87b3TwMj3myk7npfbj1SuwQfBfibqR1o7DYXS0fDBIdmg06O9kbC4pRVB/TJfLMM6LxwkVn912JFNU613xBZgW73ruM3FoQd30oqNiQCiKSbVIVKEM6V01TiSGaEmRIe3APq77kAXa3rxIdu2fvJPgixhZOGQ0QhL207TEdwucIfx5Gh7vpNbQeApxx9poA=;1NRQUqSRhRup2YHcDjwRsg=="
 ---
 

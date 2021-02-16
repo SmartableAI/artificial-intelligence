@@ -25,17 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "News24.com | WATCH | VW taps Microsoft cloud for self driving cars"
-    excerpt: "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'"
-    publishedDateTime: 2021-02-12T07:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
+  - title: "Microsoft, HPE partner to deliver AI, edge computing on ISS"
+    excerpt: "HPE’s Spaceborne Computer-2 will be connected to Azure via NASA and the HPE ground station. It is based on the HPE Edgeline Converged Edge system, designed for tough edge environments like space."
+    publishedDateTime: 2021-02-15T14:11:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/dd5ad1/article33843517.ece/ALTERNATES/LANDSCAPE_615/International-Space-Station"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch"
+    excerpt: "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer."
+    publishedDateTime: 2021-02-12T16:26:00Z
+    webUrl: "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 73
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/Azure-Space-Microsoft.jpg"
+        width: 1024
+        height: 578
+        isCached: true
+  - title: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2"
+    excerpt: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2 . Cloud computing and artificial intelligence"
+    publishedDateTime: 2021-02-13T09:48:00Z
+    webUrl: "https://www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 65
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/HPE-and-Microsoft-launch-AI-capabilities-to-the-space-station.jpg"
+        width: 799
+        height: 533
+        isCached: true
+  - title: "How Computers See Us: Microsoft Fellow Works to Fight Discrimination Through AI | CU Boulder today"
+    excerpt: "Morgan Klaus Scheuerman, a computer science PhD student, has been awarded the Microsoft Research Fellowship for 2021. He investigates how and why facial recognition technologies are wrong. Credit: Casey Cass / CU kei Growing up in a traditional working-class family in one of the most conservative counties in Maryland,"
+    publishedDateTime: 2021-02-16T06:18:00Z
+    webUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 62
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/How-Computers-See-Us-Microsoft-Fellow-Works-to-Fight-Discrimination.jpg"
+        width: 750
+        height: 539
+        isCached: true
   - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
     excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
     publishedDateTime: 2021-02-16T05:08:00Z
@@ -68,6 +121,48 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Cleareye.ai and Microsoft partner on PPP loan forgiveness platform"
+    excerpt: "Cleareye.ai, which makes fintech for banks, is working with Microsoft to power certain products, starting with the PPP Loan Forgiveness Processing Engine, driven by artificial intelligence and powered by Microsoft Azure."
+    publishedDateTime: 2021-02-12T14:49:00Z
+    webUrl: "https://www.accountingtoday.com/news/cleareye-ai-and-microsoft-partner-on-ppp-loan-forgiveness-platform"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 58
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/f98b689/2147483647/strip/true/crop/5237x2749+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F68%2Fe1%2F54cd96f64344a70f3cbbc69d7c71%2Fmicrosoft-campus.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "HPE plans second Spaceborne computer, will be linked to Microsoft Azure"
+    excerpt: "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later."
+    publishedDateTime: 2021-02-12T10:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
+    excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
+    publishedDateTime: 2021-02-14T15:12:00Z
+    webUrl: "https://www.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/en/headerimage/header-1612887474252.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Azure Goes To Space via HPE Partnership"
     excerpt: "A partnership with Hewlett Packard Enterprise (HPE) will bring Microsoft Azure to the International Space Station (ISS) by way of HPE's Spaceborne Computer-2."
     publishedDateTime: 2021-02-16T19:12:00Z
@@ -98,30 +193,33 @@ related:
         width: 1710
         height: 900
         isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
-    publishedDateTime: 2021-02-15T08:51:00Z
-    webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-    ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+  - title: "NASA, HPE to Test Edge Computing System to Deliver AI in Space"
+    excerpt: "NASA and Hewlett Packard Enterprise (HPE) have announced a collaborative agreement to test edge computing with a new computer designed to deliver artificial intelligence (AI) in space. The new technology will increase space exploration and astronauts’ self-sufficiency by providing real-time data processing with advanced commercial edge computing in space."
+    publishedDateTime: 2021-02-12T21:25:00Z
+    webUrl: "https://www.executivegov.com/2021/02/nasa-hpe-to-test-edge-computing-system-to-deliver-ai-in-space/"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 51
-  - title: "Volkswagen will use Microsoft’s cloud technologies to create new Automated Driving Platform"
-    excerpt: "Microsoft’s business inadvertently made headlines as Ford, a previous infotainment partner opted to Google’s Cloud services over that of Azure or even AWS. Most of the"
-    publishedDateTime: 2021-02-12T16:51:00Z
-    webUrl: "https://www.onmsft.com/news/volkswagen-will-use-microsofts-cloud-technologies-to-create-new-automated-driving-platform"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 29
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 39
     images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/Volkswagen-Automated.jpg"
-        width: 1024
-        height: 768
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/08/cf/5f/35/37/54/cb/74/c4/space_20210108.png"
+        width: 272
+        height: 270
+        isCached: true
+  - title: "Now that’s edge computing"
+    excerpt: "Astronauts at the International Space Station will soon be getting a high-performance computer that will connect them to Microsoft’s Azure cloud."
+    publishedDateTime: 2021-02-12T20:40:00Z
+    webUrl: "https://gcn.com/articles/2021/02/12/iss-hpe-computer-azure.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/Nov-2012/spacestation.png"
+        width: 620
+        height: 300
         isCached: true
 
 secured: "bWCqVLS+BDe5itUMGxiN4k+YNVcH3Q+J2ABGaemBQTl1WYS0k/olSEIgsQMjD4w+igT7j1cx9ZLczEjDjbGztICdiTb7kHyz4pA9O75ZgRbSUe7oH+twH2owT+rrtV0CuBn7lm0CzamIyi14pt8zrsn0yrD/6Z/A7ibbI1+Qpr38cFy4R79GT7AZcFa7P52SjzmenLPGg3F43/qGf9WSrWwVPAC56lI99pbUDqfmFfOK5Sj7YNZdYiZFPGcE9chWIEToquSSddn+pbf7Im7NjlS+bFfQPOAW87HJTWcRSX8mnvj1jZl6LTsxOdaIpeOSwaqXSO/h6VklKG7cRNvOi3piSVXG8lR8W0BTaVXnIeAvaiAX6E6dL+OJ0UmXhqhtYiNKs2Q3BMoxv+wfUHFs+bRUOOeXd5gLzlUMvm69qHZu1ZbFUyXIgtOMxx+lvEqBkL7L5tA4qEpZEfycqsx6IB7NFNKOzAOBIq37Ue14q4LmjFuDItNMseUIii/ZVDPSbCtFhzkDgOKTGBt0axLN/g==;90jrtMySYONcI3rc8qYAWQ=="

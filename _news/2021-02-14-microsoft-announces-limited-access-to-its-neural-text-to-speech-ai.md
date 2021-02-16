@@ -89,6 +89,38 @@ related:
         width: 750
         height: 539
         isCached: true
+  - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
+    excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
+    publishedDateTime: 2021-02-16T05:08:00Z
+    webUrl: "https://www.openpr.com/news/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
+    ampWebUrl: "https://www.openpr.com/amp/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 61
+    images:
+      - url: "https://cdn.openpr.com/U/2/U216134822_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "VW and Microsoft Are Teaming up to Develop Autonomous Driving Tech"
+    excerpt: "Volkswagen is already developing its own autonomous driving technology, even having shown off a working Level 4 prototype a couple of years ago. Now it's teaming up with Microsoft"
+    publishedDateTime: 2021-02-12T19:36:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
+    type: article
+    provider:
+      name: Autoweek
+      domain: autoweek.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/db2019al00703-overfull-1613148012.jpg?crop=1.00xw:0.890xh;0,0.0838xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Cleareye.ai and Microsoft partner on PPP loan forgiveness platform"
     excerpt: "Cleareye.ai, which makes fintech for banks, is working with Microsoft to power certain products, starting with the PPP Loan Forgiveness Processing Engine, driven by artificial intelligence and powered by Microsoft Azure."
     publishedDateTime: 2021-02-12T14:49:00Z
@@ -116,6 +148,50 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Azure Goes To Space via HPE Partnership"
+    excerpt: "A partnership with Hewlett Packard Enterprise (HPE) will bring Microsoft Azure to the International Space Station (ISS) by way of HPE's Spaceborne Computer-2."
+    publishedDateTime: 2021-02-16T19:12:00Z
+    webUrl: "https://rcpmag.com/articles/2021/02/12/microsoft-azure-hpe-partnership.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1SilverGlobeCloud.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Volkswagen Group And Microsoft Speed Automated Driving Development With Cloud Computing"
+    excerpt: "The quest for automated vehicles continues In fact, with the deluge of new vehicles in the market, there has been glimpse of automation in one way or another. At Volkswagen Group, automated driving remains one of its goals and the German auto group has partnered with Microsoft to accelerate the development of automated functions into its vehicle offerings."
+    publishedDateTime: 2021-02-13T20:15:00Z
+    webUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/"
+    ampWebUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
+    type: article
+    provider:
+      name: hotcars
+      domain: hotcars.com
+    quality: 51
+    images:
+      - url: "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2021/02/VW-ID.concept.jpg"
+        width: 1710
+        height: 900
+        isCached: true
+  - title: "Microsoft, HPE Bringing AI, Edge, Cloud to Earth Orbit in Preparation for Mars Missions"
+    excerpt: "The International Space Station will soon get a delivery of powerful AI, edge and cloud computing tools from HPE and Microsoft Azure to expand technology"
+    publishedDateTime: 2021-02-12T21:09:00Z
+    webUrl: "https://www.hpcwire.com/2021/02/12/microsoft-hpe-bringing-ai-edge-cloud-to-earth-orbit-in-preparation-for-mars-missions/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 46
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/ISS-Space-Station_shutterstock-1453899434_700x415.jpg"
+        width: 700
+        height: 415
         isCached: true
   - title: "NASA, HPE to Test Edge Computing System to Deliver AI in Space"
     excerpt: "NASA and Hewlett Packard Enterprise (HPE) have announced a collaborative agreement to test edge computing with a new computer designed to deliver artificial intelligence (AI) in space. The new technology will increase space exploration and astronauts’ self-sufficiency by providing real-time data processing with advanced commercial edge computing in space."
