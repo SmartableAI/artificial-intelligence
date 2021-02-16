@@ -174,20 +174,6 @@ related:
         width: 1097
         height: 700
         isCached: true
-  - title: "Dahua faces scrutiny over its facial recognition software"
-    excerpt: "Just three months after being placed on a government blacklist that bans U.S. companies and individuals from investing in the company, Chinese surveillance giant Dahua has once again drawn the ire of federal officials following a report that it has developed intentionally discriminatory analytics software."
-    publishedDateTime: 2021-02-11T22:37:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21209985/dahua-faces-scrutiny-over-its-facial-recognition-software"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/bigstock_Bordeaux__Aquitaine_France__401403332.6025b0eb8870a.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Canada’s Privacy Commissioner Rules That Clearview AI Facial Recognition Software Violates Privacy Laws, Must Delete Biometrics From Its Database"
     excerpt: "Already unwelcome in parts of the US, Clearview AI has been shown the door in Canada. The controversial facial recognition company's practices are in violation of the country's privacy laws."
     publishedDateTime: 2021-02-12T16:00:00Z
@@ -255,6 +241,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uMxXZXz9hbLeQljuD5ldqViEuHv+92TQMNnAyQIMVe39qnq/hBeRL/79LeYGpFYdz0sT3ka3smbACSYudNWU5I1Em6QP8kxOu663dNb6bCxf4eop2kT6lmDcK09+yHMJOYYbM9u3mXk6XPYSSHWuHNx9FdNpinsxsG88B+KRR1dlS/rAMIp71UzMzlRWdZ3ikA2Kp2PdaWRpnUYu6k4Up55fAHWpyyga5hXUFU79LUBhp+xyI/9L5P1lVMv5cVDqGoeRGJ47Wu83IHOGPOixnetGGTaq3Y/SolwhQiJD4Cl6+Lu7gHe+GCAzwCjCxGaL2wRXtvS+UZmyWgtFHfBo10nyyyixFYHNH5zRLVTXjQA=;CpjWToU5ZKZUt65/oQbfHw=="
+secured: "D8k2nRiORHCKEqu4jy+WdtdlkvVk+yjVo6r6b8exPmHqlQVfvwICMJ9d3RUQK3Pekl1j7bv+3SZrM42KffLg01JS2j435tOriETEy4snN42VJEjItMUE4++IqB4h5G7aKGAXykj5CkTLANZL6XV7rotP7AjiilXJSG+Vprwt8KvuxpgZaB1uSs/POZzlMleD0rzeit7dCPiCQ+z1Gyb0rBiyVNhd0kitu7lpWf8pNwOLX1GmL05ZwaK0wYWTIcesKJUrpfJIEtjmrOgzc/HLNOb6//zJKmFDXB3giwOO12RdYFljEkYMHS3bbYTfrdRs2w2QbtDLssSZxz8q7BIYRb6yn8rBRovzciIm4Xh6V99bNoB56gG1Pfffh0+lPduijvtzbd4uJglFRGIoEahVCAYeq9z2Qadth0gqs/wOM69QDd7mD9eRcrgaxDVg5s7M42eaHJhWVVrN98BV8QX1f3x+XvYjwq6e1zWb1y3WeudlNjhf0oOIjyELQoIO0Vkh5jhaCVJn7ICMkLEKoo/0Sg==;QXNGdedHR5r4P4k9bFNYGw=="
 ---
 

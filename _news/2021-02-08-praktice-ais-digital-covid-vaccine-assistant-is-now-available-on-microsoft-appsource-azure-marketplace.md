@@ -2,14 +2,14 @@
 category: news
 title: "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace"
 excerpt: "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace."
-publishedDateTime: 2021-02-08T09:20:00Z
-originalUrl: "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace"
-webUrl: "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace"
+publishedDateTime: 2021-02-08T15:02:00Z
+originalUrl: "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace"
+webUrl: "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace"
 type: article
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - Microsoft AI
@@ -21,6 +21,6 @@ images:
     height: 505
     isCached: true
 
-secured: "TRnMyt0tk80gGyb9d0usAsFAWsiFzjumA8Y6KAcN04fmrr2YjzWc8JgNJWRezjvj5fJexp93lAR5HY5XZlaU9lLwwo9GjLOLjbmXodHBvxUBidPzNhwGMAb0ib7a2yDx4JqfxnextaFLnRY5YhvsDo5GICW00I6VI8lhvUP3fCZfkBITsuOu0rkRhsMbaGGivhqXyBxE68yQh/qpSvLrrLPtWpaqQZW/SvYhrZW0pBLwWyWdOCz1MkNC7fpt/fczKgJuHs2QgZuXakb6XVLOmx2L4UbVfJ5D2EhTd/eNs89YGkAGlYpb1S3h4l/Bv547vwub7Oqx/j/tWItekdUSao72bK3ZGJzd08lTYfyc5cA=;uc9+yjYYAZEoT9seQfegtA=="
+secured: "UaQW6Wqizzggra7ODIZ4rlCD+pG85rkuSmAzZwAgvQoRu3SVPUEL10hi4EYfMgkp77coI6NpwRA9zCFbZR+/AxKzCCV3wk1IkJeVnLCnsiXQ+89RxKvoC4jENB3R/vNPclMDsWHTo4EwIeI5ZC8C3agQbWxVY89uIm583PIEdI257X3KufQpuhcJWXDXeTSGrsLIBcbhiZynu93g3T9Bys9TMsxH//Zvk+IrpQB+M7o00fX1sAhP1jhCJggOS6u9vQ2csRksQjclIjc+3lu4nqbHtQnNTC6JRJbbCHkweLA7w7YbLTaJy84PmlEgG2eAe17f2TASnAPjs5nUnkc0kuT4kvfJZ5K8F8DoWSAv3+E=;EkRSX6UEMtAuCkiDXIcFkA=="
 ---
 

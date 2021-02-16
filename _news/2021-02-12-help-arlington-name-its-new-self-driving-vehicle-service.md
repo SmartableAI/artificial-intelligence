@@ -26,6 +26,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "The self-driving Toyota is coming"
+    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+    publishedDateTime: 2021-02-13T06:19:00Z
+    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+        width: 400
+        height: 266
+        isCached: true
+
 secured: "icLD+C2h7jnV386GTHbSWqtKxU9exHaX/bKMTiQosoR5Kod7+hyx0qVoB0V+HDZXPNMk/rQ0idGVMJg3CX1hWv5z6/pbJcTa7eoXehsVSHb2brkSiUSiYvPJUNOIgYTuno3lJ00MsWDm4j1y4udPTJH3ASkkxuNQ8UtFCFMFPB/y8QkzM9x8mhJjIyrozDxcgrjAEJP4lj7U1IckCUm/Cj5UYWglIfVbJZ0sSHJ5WdZLjRisAN470jBglB/xVxJjU0Posd5CarlKg13Zlhj9/SWqZcgm3RXRljq5/h9AfgkcIwDjnBIhI7g9xmCTsLFyvxuD7ugadwQ0Cn+Jy8Ga0P41XOpNV/UnQ+a74x5YIfinEotqonO6LjhjzP9FzWxmLF1dcWGaPb16ws26t2iER8QVE1mz3HSri4goRAObOm1uvLTvE3j2alRrj41tDZo5jKn9F4z9f+vTfcRIvXan1XfeYPyuP9MxyNknrqY2UnBrkGaLol4F8OX7o56zQFSWj99+2H3QbCEuLTk/I+493Q==;fn6DAK6yQpmYOJFiknSfJw=="
 ---
 

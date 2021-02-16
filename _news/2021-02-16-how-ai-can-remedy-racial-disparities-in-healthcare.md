@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare"
-    excerpt: "The AI healthcare market is more visible to the public than ever before. More and more people are becoming aware of the benefits of AI technology throughout the healthcare industry. To many, it’s solid proof that Artificial Intelligence has had a successful impact on the overall quality of our healthcare system."
-    publishedDateTime: 2021-02-11T22:03:00Z
-    webUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/"
-    ampWebUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 69
   - title: "AI embracing the shift in healthcare, confirms a new report"
     excerpt: "BMU a Hero Group Initiative unveiled a report at its 2nd AI industry conclave on Embracing the shift in healthcare that was organized virtually on Wednesda"
     publishedDateTime: 2021-02-12T19:24:00Z

@@ -24,6 +24,22 @@ images:
     height: 1653
     isCached: true
 
+related:
+  - title: "Semeon Analytics Wins Major Artificial Intelligence Contract with U.S. Military"
+    excerpt: "Semeon Analytics, an ATW Tech Inc. company, is pleased to announce its most recent contract with a branch of the U.S. military to apply its technology to better understand how complex composite materials can fail and therefore facilitate"
+    publishedDateTime: 2021-02-16T14:32:00Z
+    webUrl: "https://www.lelezard.com/en/news-19651991.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 35
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "LWkaVijf/p5M0ET+H2nVQYbMYqp7owBjyL1R5MGiVoxjNvzG0E9EzbHct565eEu3d8YbVxS6Gf6zDo0kk0v9T5vlPN3sHXrFATSfBE34Ml8Qsjn9bkC84I7YB8uEzBNDG+fWXih948wHqL15dZM4sxXuyxASTVDfrUBhhC/vEkVx7zllC6YTi4rpcexxrfBgB2GYX+dA7LNgPCN5e6AcUOus8uLsbfSJX/nov1LhlfOampqrseS+KjYgFgBzVw+TRP1czrs/zESmf/Bv4tNDnbef4+5KtdHQ1tRmQ8WN+botlDWOlcX+h7M6xtz7kqsgoi6dGy1/pJXMvO7VdjqH9pgmQTzNfj/sOmYAdu6Kvc4=;8FWtDxw+6DvgCkZqNANu8A=="
 ---
 

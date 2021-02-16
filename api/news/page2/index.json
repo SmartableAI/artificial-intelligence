@@ -2,6 +2,203 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-15-the-use-of-ai-in-advertising-commerce-and-marketing.md",
+      "title": "The Use Of AI In Advertising, Commerce And Marketing",
+      "excerpt": "AI is kind of the second coming of software, which has gained significant momentum in the last few years, acting as personal assistants for some, while processing business transactions and providing t",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/365391",
+      "originalUrl": "https://www.entrepreneur.com/article/365391",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613366535-pexels-startup-stock-photos-7063.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365391",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391",
+      "publishedDateTime": "2021-02-14T21:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-nissan-says-not-in-talks-with-apple-over-autonomous-car-project.md",
+      "title": "Nissan says 'not in talks with Apple' over autonomous car project",
+      "excerpt": "Nissan Motor Co Ltd said on Monday it is not in talks with Apple Inc, following a report that the iPhone maker approached the Japanese company in recent months about a tie-up for its autonomous car project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idUSL1N2KL01Y",
+      "originalUrl": "https://www.msn.com/en-gb/finance/other/nissan-says-not-in-talks-with-apple-over-autonomous-car-project/ar-BB1dGip1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551575165&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEH1E01L",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AF02N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF02N",
+      "publishedDateTime": "2021-02-14T16:59:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y",
+        "domain": "reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive.md",
+      "title": "Salesforce: Combining AI and automation can give us superpowers and make us more productive",
+      "excerpt": "Salesforce Einstein Automate is just the beginning. John Kucera, SVP of Product Management for Automation at Salesforce, believes the combination of AI and automation into voice-enabled digital assistants will give us \"superpowers\" that help people build relationships and make us more productive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "originalUrl": "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/02/12/4cb48ac5-f691-492f-944c-19f1e080e286/john-kucera-1.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "publishedDateTime": "2021-02-14T15:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-will-artificial-intelligence-produce-synthetic-sociopaths.md",
+      "title": "Will Artificial Intelligence Produce Synthetic Sociopaths?",
+      "excerpt": "Some day soon, computers may convincingly mimic human empathy. Will this lead to ethical artificial intelligence, or synthetic sociopathy?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/",
+      "originalUrl": "https://www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029a751dfccae5aa987e466%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5100%26cropY1%3D281%26cropY2%3D3151",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/amp/",
+      "publishedDateTime": "2021-02-14T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-uae-adopts-private-sector-facial-recognition-technology.md",
       "title": "UAE adopts private sector facial recognition technology",
       "excerpt": "UAE adopts private sector facial recognition technology Sheikh Mohammed Bin Rashid Al Maktoum will chair the cabinet meeting in Abu Dhabi",
@@ -825,7 +1022,7 @@
       "originalUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
       "featuredContent": null,
       "highlight": null,
-      "heat": 266,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -1066,206 +1263,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-minneapolis-bans-police-government-use-of-facial-recognition.md",
-      "title": "Minneapolis bans police, government use of facial recognition",
-      "excerpt": "The Minneapolis City Council voted to ban the use of facial recognition technology by the city's police and other government departments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
-      "originalUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/02/Minneapolis-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
-      "publishedDateTime": "2021-02-12T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-using-watson-nlu-to-help-address-bias-in-ai-sentiment-analysis.md",
-      "title": "Using Watson NLU to help address bias in AI sentiment analysis",
-      "excerpt": "Previously on the Watson blog’s NLP series, we introduced sentiment analysis, which detects favorable and unfavorable sentiment in natural language. We examined how business solutions use sentiment analysis and how IBM is optimizing data pipelines with Watson Natural Language Understanding (NLU). But",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/Screen-Shot-2021-02-12-at-2.14.04-PM.png",
-          "width": 1688,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T11:19:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-4-ai-tools-to-help-you-reach-your-marketing-goals.md",
-      "title": "4 AI tools to help you reach your marketing goals",
-      "excerpt": "Marketing isn't one-size-fits-all; depending on the industry, strategies, and tools, results differ. These AI marketing tools are helping marketers and small businesses increase their effectiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
-      "originalUrl": "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/02/11/d87fc0a6-07da-42da-905b-57926006c6f3/resize/1200x900/396b64a892a5fd7cac8938cf3055dd17/autoleadstar-new.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
-      "publishedDateTime": "2021-02-12T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata.md",
-      "title": "Graph Database Market Growing at a CAGR 22.2% | Key Player Microsoft, AWS, Orientdb, Tibco, Teradata",
-      "excerpt": "MarketsandMarkets forecasts the Graph Database Market size to grow from USD 1.0 billion in 2019 to USD 2.9 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata-2021-02-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata-2021-02-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

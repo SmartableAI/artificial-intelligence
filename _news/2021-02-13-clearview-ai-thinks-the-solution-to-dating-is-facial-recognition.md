@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-fa
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp"
 type: article
 quality: 106
-heat: 266
+heat: 256
 published: true
 
 provider:
@@ -164,20 +164,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/cbpfacialrecognition.jpg"
         width: 1097
         height: 700
-        isCached: true
-  - title: "Dahua faces scrutiny over its facial recognition software"
-    excerpt: "Just three months after being placed on a government blacklist that bans U.S. companies and individuals from investing in the company, Chinese surveillance giant Dahua has once again drawn the ire of federal officials following a report that it has developed intentionally discriminatory analytics software."
-    publishedDateTime: 2021-02-11T22:37:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21209985/dahua-faces-scrutiny-over-its-facial-recognition-software"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/bigstock_Bordeaux__Aquitaine_France__401403332.6025b0eb8870a.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Canada’s Privacy Commissioner Rules That Clearview AI Facial Recognition Software Violates Privacy Laws, Must Delete Biometrics From Its Database"
     excerpt: "Already unwelcome in parts of the US, Clearview AI has been shown the door in Canada. The controversial facial recognition company's practices are in violation of the country's privacy laws."

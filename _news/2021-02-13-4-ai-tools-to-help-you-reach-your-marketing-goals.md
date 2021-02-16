@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-y
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canon's photo culling app uses AI to help you pick your best shots"
-    excerpt: "Canon has introduced an app that uses a computer vision algorithm to assist you with choosing the best image in a series of either unrelated or similar photos."
-    publishedDateTime: 2021-02-11T21:37:00Z
-    webUrl: "https://www.engadget.com/canon-photo-culling-app-213409056.html"
-    ampWebUrl: "https://www.engadget.com/amp/canon-photo-culling-app-213409056.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/canon-photo-culling-app-213409056.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2F7cfa7470-6cae-11eb-b53d-dea2dbd7fe69&client=amp-blogside-v2&signature=715022ff0bcb607e63238a1e081be351e38a930d"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Artificial Intelligence for Marketing"
     excerpt: "A Latest intelligence report published by AMA Research with title Artificial Intelligence for Marketing Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence for Marketing market This report provides"
     publishedDateTime: 2021-02-12T14:23:00Z

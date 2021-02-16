@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-coul
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/"
 type: article
 quality: 82
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 796
     height: 448
     isCached: true
+
+related:
+  - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
+    excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable ins"
+    publishedDateTime: 2021-02-16T14:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210216005143/en/Bearing-Brings-AI-Powered-Operational-Efficiencies-to-the-Maritime-Shipping-Industry"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "sdEJqsJNRzkdydEPw8KLoWUINeg6yz56bFs/bpvhzpqg0YWZCPIdHBgh0M0PNUIIZYmBdMphnWc/IFCv3O2z8H19+6MJAblhzYbnk5EMxeoYokxUtLoZJJLHSv1N8875MnHaeAN+4TMD8lMkKdgEhSipWxHRV3vTfGAgeMTTbjYdOM8K0Q+wP5lnuoFofPssp2l4fPhrWh/O6kStoK4HwSp+7Oxu4H+AwTDRKgBSGwzuGVNEBp/tlnzIbER5itil03Ytm6Owz7U4UeBdoXfiL9KKHTHFZuSDFQcGN62KJ2mwD8dRl9rqW7HABQsMp5NgQDnVeAfVG6RRSmIJrHi2klCaxnO18cvTKWhjxkEoCT7zbeMgv0zW/yQjkVcSghxh5CE+VnUXnVOj8YalFG8aMULS4rIcVvfsmKdaIbqfBXiJ7d0ogPinvSa4gm0ZmsCJaBq3A/x6YYtR9W7+Ly1FFCQZfUitd6u0lT65IJcY28vaIa9+2kXy8YEZmy/COiYiEKjsH6/cUuco1uuSc4SuFg==;hvGGDA2lJnuDV7XkeqHaCg=="
 ---

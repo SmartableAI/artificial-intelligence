@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-9253037/amp/Met-Polices-arr
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9253037/amp/Met-Polices-arrested-one-person-scanning-13-000-people-facial-recognition-cameras.html"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 636
     height: 382
     isCached: true
+
+related:
+  - title: "Met Police's arrested one person after scanning 13,000 people with facial recognition cameras"
+    excerpt: "Deployments of facial recognition technology in London last year saw thousands of innocent faces scanned by Met Police - for only woman to be arrested."
+    publishedDateTime: 2021-02-12T10:37:00Z
+    webUrl: "https://www.newsoneplace.com/6811692012/met-police-arrested-person-scanning-people-facial"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 28
+    images:
+      - url: "https://images.weserv.nl/?url=https://i.dailymail.co.uk/1s/2021/02/12/09/39204942-0-image-a-29_1613123941554.jpg&h=250"
+        width: 335
+        height: 250
+        isCached: true
 
 secured: "ZAInkyhoEaYP9H/DV0ei1O7rcJI0a0MICo5FGPsY2/4VwIOfLJ/5Uxt+9UUkVsRza/KrHLGx9mrTAgdgESl/oUNiXq32mNmgx0WMnxkN84d/7cmF0dD0vRIK0HnJoEZzvmAwUbAXceys7xHVB0WgqCo2gNnUrwci3NT2JCmHUleF1xt9eGCMrtnF1fIQ8pQHvjl9+DxdfluSAKSlrHevAlKic63Q6cN/5XZdzbvo9AUx0VPYO8wxmTwjo84AvveOtwj7NZLhV/OgPNiQOTjRTGLlQuc3rXKro+SEhe/t4L9bMOQoysZRPBmgZzXYRgfWIj6749vnYFUTbvfJfidIdOwI1IriHCKgsZsySLjvRSE=;Iq63wGaDyPL8zOJZg6iypA=="
 ---

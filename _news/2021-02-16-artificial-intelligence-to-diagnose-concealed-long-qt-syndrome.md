@@ -8,8 +8,8 @@ webUrl: "https://medicaldialogues.in/cardiology-ctvs/news/artificial-intelligenc
 ampWebUrl: "https://medicaldialogues.in/amp/cardiology-ctvs/news/artificial-intelligence-to-diagnose-concealed-long-qt-syndrome-74545"
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/cardiology-ctvs/news/artificial-intelligence-to-diagnose-concealed-long-qt-syndrome-74545"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://medicaldialogues.in/h-upload/2021/02/13/147799-ai.jpg"
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XrV2mRm56Cd/EpMb3JS66r+iJ9p5caUG4uK6tQVV9SzFJiL0hXhsPCiKpWGq0kPS169WaYRV0YCBqURLWCno8haOIC/v5MNP23KEp+IBGMJtWHICaDgAwAVrkhy30P6aq1jZcTCHp5+p6YkPLMzXxcwPjf7aa/whc4YQnag6K7ndKB8hmzQMPdF2UAPr2XxZz6H2fnJEyu9/aYL/6w6/gV/bMq7djacYgCBZdL3m5JGjUTYXyZ0jdbXNTkgCSA72lhewbmVR/Sn3QAu4VPvaA3O+TM8/+/W7RXT4s6vQ3UNCceKTq9u6+9qPwZhFjxdadYhfPUBmbVu3gUXX7pgr5EdK/eo3JPILZNOnNePFB50=;dxJ6jhQAB7mxLZN58lPzTA=="
+secured: "xUq/MuX8ZT3eRYimOCDRburaH+RvHcmO7QFkgvtbXIRD5s5TS0bbFqfrFaoiWbRFWpfwjp3rDsJVPywZey24Udi8sWB8iD0LWol51zIwu7ombV1v4/GyhJ1ud83CaRSqoXjzpjZR6+VT8YcKiMbAAfjICN6FKxpyGRxVW6jWCh/fooOqh706ooUmmDJJUc05/aQZoy6JPbcO7ZfUSi+P9leHipEBGf2NiWLLE2Hxjuys4gYmowU0rUa7baL6yiVRw/HjCmx3mRIaJvys7cl1+rfc61HPhpve242SXCdsG5vBnE7U7e1MqS5KU5clUmsQD/s0twfzKBuRdV4lykKft5zZpRafFqyZ7onXZLNyFW8n2en9ccUduFcFMfcjPtnJvyhYjA+3pIJjkJ0HgjTvTwkFIkp5s38XaqlC8v6xiu4zlmqBpWNnMs+Jghf/myDaJHNdpSwc6FIewfwYs8H3sQzVVWeyZkucQHmyzcsW9U+cKqaI4MKEICoRsSZLV5EDiOUjBPD3Xb2ka86x8Aeucg==;gWgtFhhULdfoTtNHvO9/Cw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-t
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
 type: article
 quality: 86
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -26,20 +26,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
-    excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
-    publishedDateTime: 2021-02-11T21:51:00Z
-    webUrl: "https://hothardware.com/news/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 69
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54251/content/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
     excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
     publishedDateTime: 2021-02-16T05:08:00Z

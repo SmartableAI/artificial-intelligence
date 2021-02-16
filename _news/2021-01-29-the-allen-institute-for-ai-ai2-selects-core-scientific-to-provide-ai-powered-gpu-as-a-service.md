@@ -1,29 +1,26 @@
 ---
 category: news
 title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
-excerpt: "Core Scientific’s AI-as-a-service model will free AI2 from operational hassles, allowing them to focus on their mission of accelerating foundational research, developing standards and models, and cultivating new ideas to make a broad,"
-publishedDateTime: 2021-01-29T08:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-paul-allen-computing-and-information-technology-0929ba93484496dddb09159fffc14451"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-paul-allen-computing-and-information-technology-0929ba93484496dddb09159fffc14451"
+excerpt: "Founded by philanthropist and visionary Paul G. Allen, AI2 is a recognized leader in AI, that has undertaken several ambitious projects to drive fundamental advances in the field. Core Scientific ..."
+publishedDateTime: 2021-01-28T16:04:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html"
+webUrl: "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html"
 type: article
-quality: 42
-heat: 42
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook"
+    width: 648
+    height: 339
     isCached: true
 
-secured: "ocETwRyoYOEi6DZgYZuVO4syAyu/qxny/K44aCygcZupZR4HVJsentNpZm4ymiWCzJVCmGQ4qRxQMTH9n95MM0aBi7qmrrFOd1l2cfj2i+t5R0OgthaGpqpxekL5o3XX4NzaS4BB42qD9IcCRXHXTdcdSCVaw84DTux8zG+M7t9Wr0tRxctKbkgdUT/8GtzZEbZaoDQfK4ao1kCjMGio1wO7Ip951g9YrDxUlzJEyTnXVlH57VgmjmO7PMldM/gwkyr15ARu1US8TmZrD3GbYQnL9ftByGLLjSiev6XsBQMhYRz74jS0k8Qoj0A5emOLXmLMNMbu2aZQztSzQKdycts22NMF4YV9Qk+aD7zIEPg=;b6ktiuCNT1ZJGlWB/WeCBg=="
+secured: "ks2D8qZNFxJV1u5let3EvLkrcJWmqS3ljnLO4czwZQiZ3WO6/yTgkYRyZaoWaiQqJ6Frur099sxej1t0M0azk2faUaXORNAtUa1nIqA/8VWBLvHfH5T5QyPsOpis5VTS4pTRM5lCcrc9vS5PQLlroOYgLRZTSQ7iARnAtNYL8l4CAny1AjPz/DSO/YGFbpPgd7HatqJvobcGclpAgyLmhwNYcPBnG9wefJfVwAneZ3knwzW1LzJiQ4L//GW5+5Y6fx0n9b43ltA8M14YCN+YOLK3v56H1ca4sAAZexdv70P1koISVm+IKOCxt5Z30Ev4bQbWrK7k4EOLpcpEoyVvhU3J1ibeIKjXFz3kqclfwSk=;CLjq8MMLAX+zQUQ9r/E/DA=="
 ---
 
