@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=Q6pxNZYAAAAJ
-  citations: 29438
+  citations: 29446
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Lydia_Kavraki
