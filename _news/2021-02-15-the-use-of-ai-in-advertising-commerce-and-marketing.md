@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://i.insider.com/602692b72edd0f001a8d579e?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Closing the AI skills gap"
-    excerpt: "A growing demand for AI technology but a shortage of work can be solved by infusing AI into a business Artificial intelligence (AI) is expected to change the world. AI can help automate decisions and processes,"
-    publishedDateTime: 2021-02-12T04:34:00Z
-    webUrl: "https://www.ft.com/partnercontent/ibm/closing-the-ai-skills-gap.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 41
-    images:
-      - url: "https://ft.com/partnercontent/images/ibm/hero-2.jpg"
-        width: 1920
-        height: 958
         isCached: true
   - title: "Unfortunately, Commercial AI is Failing. Here’s Why."
     excerpt: "While AI is a trending topic in the tech world, artificial intelligence products are failing to impress the commercial sector. The industry is facing AI fatigue due to a lack of scalable AI that is meeting the hype and performing as expected."

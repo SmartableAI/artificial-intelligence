@@ -39,7 +39,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 71
+    quality: 67
     images:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/770x578/65123fb077ed2ed98120af5e09d0cc62/20210211-alxcel-karen.jpg"
         width: 770

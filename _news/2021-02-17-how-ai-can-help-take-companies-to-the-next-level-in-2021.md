@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-16T16:41:00Z
 originalUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
 webUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
 type: article
-quality: 71
+quality: 67
 heat: -1
 published: false
 
@@ -19,9 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
-  - AI in Robotics
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/770x578/65123fb077ed2ed98120af5e09d0cc62/20210211-alxcel-karen.jpg"
@@ -61,6 +59,6 @@ related:
         height: 420
         isCached: true
 
-secured: "duWJzZxBXJl81sXNzBsv+gXgtPZdgimYwPic50KjLNZQ6D+FcZ1oVCYNJRSQM9lC0jyNNEsZfBGhIJI3qvjVc3u2XN4Wgr4GFtgYWDL8RQxWiMJDfNQXmkfNnVWq1na2hBboIMed48BZnjAEEfL9bCcLF8sRZ07C7ZHBivufO45Q9CaQspNRcmka0oEUXtkNf0mzw/RlXBic8OloIulfKqrEsbyZIiJJyGLSomoW7dIWkjcaFW74o7otQ+Ir5vuSKrKaYET6UsDK7rHFYVqGaDsdnFIljGRbJWhrjSdv7Zw/DMidYgyOjyebbTniynOqki0UDWSFJAwk3kIOtJCCdGdnRVgO7KACRk414KAcpJRLmLcc9fXMSLecc3lFJCyrBiNueqAwDxOFoitSD0SrVcMPBoAwjAQ0U0QYCPW/4//qVGnZF5W5K8ljiVVmwg6QKGXqbTkKaBHO/9ex/K9+IJNwNFfWm8kQjKuZ2iiW8xZWiIUxQrNifzh82GkrSz3PeJ/qB6JmlQSKCrD3PDVDpQ==;Lnl1P7JiimXgbsBYD5SvlA=="
+secured: "iChm69TgB5PiWUvwGZHsn3rVcl+OE4XegtdGDpEO9FNFyBX0bWhavxS4sW/wVTpPERypryPEoDvpmoBG/pGEENyR9UBRTg7su5gaBWydYv15D0DzRaFxkgQHKm5zYlWzJMAJ0LfBkx/bDEgKIhAtMARMPXqmp+DfL2d9yE2GVrxOHI91tmkxZDi2ZwSg/iz2TP+v+P12kLYvjOCUOvsx6NR/EosKq2FtHt2WmUSbLekKXaSvvMScGVDynfGH4ap6P8tIg5yvHNPj4w7q0YUWNBaBW2issExa8b2enmTPAJX9e8RsGqdtqEVRXLf5azCrkXLTM7UDUkwzS0QlP23+9GMPCb6cJsifDqUiF3oQiBA=;wAOvOX8wFgVYHCIiCfmqsg=="
 ---
 

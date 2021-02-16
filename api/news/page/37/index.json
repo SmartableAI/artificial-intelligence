@@ -2,6 +2,103 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-01-20-cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles.md",
+      "title": "Cruise, GM partner with Microsoft to commercialize self-driving vehicles",
+      "excerpt": "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org",
+      "originalUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548348568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I0YQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29O1MO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O1MO",
+      "publishedDateTime": "2021-01-19T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-mission-healthcare-of-san-diego-adopts-muse-healthcares-machine-learning-tool.md",
+      "title": "Mission Healthcare of San Diego Adopts Muse Healthcare's Machine Learning Tool",
+      "excerpt": "ST. PAUL, Minn., Jan. 19, 2021 /PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "publishedDateTime": "2021-01-19T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-microsoft-joins-2b-investment-in-cruise-to-speed-commercialization-of-self-driving-vehicles.md",
       "title": "Microsoft joins $2B investment in Cruise to speed commercialization of self-driving vehicles",
       "excerpt": "The company had planned to launch a self-driving commercial taxi service in 2019, but missed that deadline. Microsoft previously partnered with Chinese tech giant Baidu as its cloud partner for ...",
@@ -1114,101 +1211,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-nasa-is-training-an-ai-to-detect-fresh-craters-on-mars.md",
-      "title": "NASA Is Training an AI to Detect Fresh Craters on Mars",
-      "excerpt": "An algorithm discovered dozens of Martian craters. It’s a promising remote method for exploring our solar system and understanding planetary history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/",
-      "originalUrl": "https://www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6001e176c94b3f9f2302d0c7/master/pass/Science_mars_pia21769.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/amp",
-      "publishedDateTime": "2021-01-19T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions.md",
-      "title": "ABBYY Emerged as the Clear Technology Leader in the SPARK Matrix: Intelligent Document Processing, 2020 by Quadrant Knowledge Solutions",
-      "excerpt": "ABBYY, a leading digital intelligence company, has been ranked by global advisory and consulting firm Quadrant Knowledge Solutions as",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions-839745268.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions-839745268.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/746706/Quadrant_Knowledge_Solutions_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

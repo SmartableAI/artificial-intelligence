@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-17-researchers-used-ai-to-determine-which-overlooked-animals-could-host-a-new-coronavirus.md",
+      "title": "Researchers used AI to determine which overlooked animals could host a new coronavirus",
+      "excerpt": "A new machine learning study has identified many more potential host species for novel coronaviruses than were previously known.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-16T190707.573-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/amp/",
+      "publishedDateTime": "2021-02-16T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-twitter-accounts-with-ai-generated-cat-avatars-at-center-of-turkish-porn-bot-ring.md",
+      "title": "Twitter Accounts With AI-Generated Cat Avatars at Center of Turkish Porn Bot Ring",
+      "excerpt": "Someone is using generative adversarial networks to make networks of bots to advertise porn and sports betting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/z3v579/twitter-accounts-with-ai-generated-cat-avatars-at-center-of-turkish-porn-bot-ring",
+      "originalUrl": "https://www.vice.com/en/article/z3v579/twitter-accounts-with-ai-generated-cat-avatars-at-center-of-turkish-porn-bot-ring",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/602c13a6535dc1009b68ba1a/lede/1613501651420-screen-shot-2021-02-16-at-15339-pm.png?crop=1xw:0.8373xh;0xw,0xh",
+          "width": 2364,
+          "height": 1327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/z3v579/twitter-accounts-with-ai-generated-cat-avatars-at-center-of-turkish-porn-bot-ring",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/z3v579/twitter-accounts-with-ai-generated-cat-avatars-at-center-of-turkish-porn-bot-ring",
+      "publishedDateTime": "2021-02-16T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise.md",
       "title": "IBM’s Arin Bhowmick explains why AI trust is hard to achieve in the enterprise",
       "excerpt": "IBM's Arin Bhowmick explains why in the absence of explainability, it remains difficult for enterprise organizations to trust AI models.",
@@ -164,8 +266,8 @@
       "title": "What CIOs need to know about adding AI to their processes",
       "excerpt": "AI can help many types of businesses get more from their data. In 2021, one expert believes adoption of AI will take leaps forward.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "webUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -182,8 +284,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
       "publishedDateTime": "2021-02-16T08:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1065,7 +1167,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1157,92 +1259,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-humana-hum-joins-ibm-watson-health-to-aid-member-experience.md",
-      "title": "Humana (HUM) Joins IBM Watson Health to Aid Member Experience",
-      "excerpt": "Humana Inc. HUM recently tied up with IBM Watson Health through which it can serve its members better through the latter’s conversational AI solution. The partnership is expected to provide more transparency on benefits to the Humana Employer Group members.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15",
-      "originalUrl": "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp",
-      "publishedDateTime": "2021-02-15T08:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-drones-with-facial-recognition-are-primed-to-flybut-the-world-isnt-ready-yet.md",
-      "title": "Drones With Facial Recognition Are Primed To Fly—But The World Isn’t Ready Yet",
-      "excerpt": "The patents are there, the tech is ready, but is the world going to accept drones that can recognise someone’s face? An Israeli startup talks about its plans to launch what’s likely to be a controversial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
-      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a96de9e8b7a8599dfafb4%2F0x0.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
-      "publishedDateTime": "2021-02-15T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

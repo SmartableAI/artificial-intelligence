@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
+excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
 publishedDateTime: 2021-02-09T13:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
+originalUrl: "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html"
+webUrl: "https://www.oaoa.com/news/business/cleareye-ai-collaborates-with-microsoft-for-ai-platform/article_ea747b2b-312c-5d41-aee2-d3b0b5a7ed45.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "FUGegLxktpBQ8d7WdwZy0AcmwtNGeM1kP6MxIMGsTEpOrhTheTqGAPKMo3p9sAF1qQmeS24D+i4u0RCzQRPawAdxMALipWBPOVjCWpjOl6Yq5im0WDzsnERYvlH25trAl7aR6MPmJsBbWAhAtrO345XKr2XfS1NXeNOhtVJoQQFOqtTWROCGYCh0SpjErJLuiqdIHn/glXajToN6gxYyE7QguySlmvDwfC/Dl9VWIUTa+k0FkbsLFv8lbv6yByuTl7URKLgvBFCe543U7hIbu2FRFhk/OTGrFojgd9l2p708oUoMRGjMkiEEuFIE5UX/vvE+aWBoPcGdmqnw5p84YlgQ8Y6eU28gQ545Rv04IYc=;s6oflb19JYChJQmxYafOOw=="
+secured: "UtutFFYIzPizcFKK4Z5LHEabjp3kVZ9Sg9DSeO7Lgd7pTk8SRyVfvRJ33Dyri1lPg4NkZPbg5axQ2i8dXaQ1DuPiTyz5k1LhccuOQAbB1xk9mckO/XpojqY54VGK7mizZB29CFRmk5dLsXTiBIwa5crK0FcLc0/+wNMSaLel5ROHFQT5zaIkaqjDeCcLQJnk1E4YTID8OU9lQz5pwRBFjTEfaoJLRnnVoDCYza98/O1sm2CO9AsvRItojd0feLOj1R8i7QSclV+ZyQfGHKfj86oJjujvl9BtGfavsLQu5D9I67Kh9bXXrtPybv2ILO3BD3o4P0ZaX8f8rHIxIklM5cM4SEGRLZkjppzcXcGwfo4=;RT5VxJ8u2yECoxlbOugv1Q=="
 ---
 

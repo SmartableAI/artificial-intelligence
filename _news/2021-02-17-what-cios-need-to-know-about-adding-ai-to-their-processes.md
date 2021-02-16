@@ -3,10 +3,10 @@ category: news
 title: "What CIOs need to know about adding AI to their processes"
 excerpt: "AI can help many types of businesses get more from their data. In 2021, one expert believes adoption of AI will take leaps forward."
 publishedDateTime: 2021-02-16T16:36:00Z
-originalUrl: "https://www.techrepublic.com/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
-webUrl: "https://www.techrepublic.com/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
-ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
+originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
+webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "6rZTFUpTOigh/1Jt+G5KMBvYit4tqoVbdzzbQWs2BJOreYrbR7o7ex0WcIRW1dpi2pp2O1PM1QjzfgfrTAEo5l+VbPk+7fRr9ZLr9G5LCZ2mc5oOUmQHrGNrtUU/dkZtcpD5mqXUE1ioRiP05NKGduMw2/bP9cjx/uulU/fioxMjQPKZxKoj2MSxFGtS6/nR+bQ+PqWtz5/FjhNNfvUzk7sDSel8EsZgT+9lHhb/qzEXl/PsRTpV7BvKhswzkoBf/eSSjxM9eAAyhqYsuqDK1rQlUUp7Va0at81OO2ynoTstDzY4k9olDFww2NRg+eWo2Gzh4EBikBUCSR/hBVkyKXR2XX2jDoP2wNnwr9HTlf8=;6tEdgvgKh1542VwWkzJWkw=="
+secured: "qOhygEGXtCNXvzL7/yBxqfa3VvjbmtenOgN0bgvA9Wtr4nYjWF9/vD9ELfAc/E0xsG+p8gUyyqP5GUo3jFiGmIayfNkzOI/wsYFXtM3wBmDTfPOWQwp4791eK230NhYZ00pUI0X9fhvRb29hT2H3pSZQsAQWUuM/Dl7GFFyKfoUczHjwN53ArXSgpaj5bn3eHUrnXW1s7QJY+Y2NNM/Snuc5WbLXIZt3vS35a6RpDGpOi3QSu5oP8dwUSM9qf5aPKCGGl8EYtpB8M14KsQyxT58RJD6C0vr1XXh2vgzfUw5vzMwtwjxSh8AmIwALOdyqq514/dHbPvEC/PRp60v1uv7+cgatjd8EFIjMbROISas=;hRxrWS7IZQBXnuHrK8Wwug=="
 ---
 

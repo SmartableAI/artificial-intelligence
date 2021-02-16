@@ -15,6 +15,10 @@ published: true
 provider:
   name: reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y
   domain: reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y
+  images:
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -71,6 +75,6 @@ related:
         height: 1188
         isCached: true
 
-secured: "QD4WtMRvS+kWZxUx1z9ID4r0fmqiEm86zaqjGIdmtkw+LWrsT7JDkxcLbo9btO+szdPoGDcbPeEvoZ/4SKS44zPniaAic0Yuj/eVVu8btmELNFEPDMJXUwhyL1sHg8Jel4v7sfSXz/puBQQDk8WBowMjGSCSdd17dLa79JZhnOKNDCOqq8WSoG52Midt6kmaddZxPTGbbwRWKQlbQ4NyqA74dfKkpjAus1QsiwEXp4PImrNHHMOmm5AbDcAmY2WBNRTtucUVvc5o9LRtXgXxLyzLBWsfq5WvdLwLCS7UK5YOzzlyXoumNkg9VaSo7mQu6VSP/uPXqighqQh/x3q5UE74X0oWrzK13fiImcIT0eU=;DZpjK+0BiAyLojB9BFlTHg=="
+secured: "H3+7JGd2pR8ImDQuC8+Oq1ZMrtbLZOXDwxY8gzMxs4MZ0do13Sy3u28FJzgw3ZQfMBFNSE/1QQsthxbieDos49Pq9Bo6ZYSuylwZHAN8GxNIajoIGvDU7JLKQC0p9xpI5HJH57fm6TCnTAZ03OgPqVIrGu5+yvnNZuhqjbro4J4z6Fs8svySfLPRU4rrjaL+1anWhcmotfRAMNCXulK+SG92fp0Xj99yB7tD1ajqZHGO8qlDypeXkSFGHDb7ZdOJr8WYjqbFg4vuiJ5jAqMBQUX/FK/bx5QWjF4vEYa5AX0abd9tD1lFZekJyGHAr2tg8FBZLsGpVKYHsNZaAiNXYdiuk9HBXSshSI4NMGCq63Nxl8NZsGT+Ioy95H10DPMpkC2S2CIXRYm3vst+qFAdTXi3vQ30i7WemkGzWNxEVqX6qVNmUmNXqJguOg7oFrIy+Mw4G4PWHRuFNBERi7IFAphBtOItAuus96qAEUcSDw++ey87NbV5WgLAfCPM8SXKfuGL8wMkgvsOvDiBEG1P1wQbftQO4eG9fZlUF1mlvR8=;pBlx2qWLn6+tDRhnQredzQ=="
 ---
 

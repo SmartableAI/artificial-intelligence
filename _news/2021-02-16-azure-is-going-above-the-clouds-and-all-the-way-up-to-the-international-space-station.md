@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowscentral.com/azure-going-above-clouds-all-way-inte
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station?amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Connect Azure to the International Space Station with Hewlett Packard Enterprise | Azure blog and updates"
-    excerpt: "Connect Azure to the International Space Station with Hewlett Packard Enterprise | Azure blog and updates Today we announce our"
-    publishedDateTime: 2021-02-12T03:17:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 42
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Connect-Azure-to-the-International-Space-Station-with-Hewlett-Packard-1024x1024.png"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "Nfc8Dylf1poYgntRn2jgDZsKLNrj50+Fvv/Mrpw+rcgu9B3Pg7BcIYLZjVNaM6sTLnvz6KoVl7PxMXs9XdI7d6RpaQYo8YdHaUC8gyJbFIc4zOtWXLL8TlU8hZ6M+sJfri+GtMNqGfoPf9GOmQjdaNMZHtTRe2diB4E4GViqwsW91piKXqFzS3ID7J7thh/+K8NN8k833/4WhcMPPPqs2Ak+mIrHEfYT0Q1R+NVR0KkwdLEjBNIWzA8/jjtI0MPOC99qdLyCbT6mEg9eA+uiJs6V+wanZeBIkaC17Ay0riCBVqvkE168URbDte5KaLo90MpGejXXdjrsnt+hpe3xwJB8jHgESqNPpJyWbJHYzT6zjeklMZ9jFSXN/y1hGnWIz94wYIZ4yj9TSE+b8IKLw33zh7jMo2s55WwAb7hQVs6duGRW2sT9h5JEbKeo4Nb0n5Jy/z7EUO0fG9ic3IeZTaP3PUFmg69i1Ouxox4LaXFz4GR+UF9uGwNpC3TKHomf2Su1G8cOq2/MhSt+9umRWA==;0YERiDzYCzJhK/V8H4rwgA=="
 ---

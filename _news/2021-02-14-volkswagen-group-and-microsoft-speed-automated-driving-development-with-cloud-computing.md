@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Microsoft Azure Goes To Space via HPE Partnership"
+    excerpt: "A partnership with Hewlett Packard Enterprise (HPE) will bring Microsoft Azure to the International Space Station (ISS) by way of HPE's Spaceborne Computer-2."
+    publishedDateTime: 2021-02-16T19:12:00Z
+    webUrl: "https://rcpmag.com/articles/2021/02/12/microsoft-azure-hpe-partnership.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1SilverGlobeCloud.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
     publishedDateTime: 2021-02-15T08:51:00Z
