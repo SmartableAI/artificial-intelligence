@@ -2,33 +2,23 @@
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
 excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T21:20:00Z
-originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+publishedDateTime: 2021-02-11T16:20:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+ampWebUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
 type: article
-quality: 74
-heat: 104
+quality: 54
+heat: 84
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize"
-    width: 1200
-    height: 785
-    isCached: true
 
 related:
   - title: "Toyota and Aurora partner on self-driving cars"
@@ -74,6 +64,6 @@ related:
         height: 682
         isCached: true
 
-secured: "0HEh6hkTuQykD9J6YftMrilsYjkru23uYtaRkmEw7lLF6szBUwzf2QCxdYS2Msf4ijQFsbsl0Lv6YctdmZbl3cV81s34IKyXlaHQE4MoOoVVFqQ7yfy35fZN9wBmH6XPGjVHSKi0CwXJ+dW1VFWDcEl8CWPz2zCmvh4TrobvcN/6yWRW/i9YCouMgcK7tqNVJgNgee4N3LAtQw6zoVQm/gEzwvNthd9H58Ti9i9E8elPVe/gI1MbojIrXAmLHwzME6G2htrrFJmiDjIdxLTeIOpIeyDLc5m+MYY/+72z4Kb/Xc82IPoBvqELn9uzYDaHU1f6mRecMpSOiwtKxVfJACtmLTvomhTr9bw4xVhy9fE=;ipb39AR7JZyRE3iZvNsTlQ=="
+secured: "t15dLMr85HjfGFQpA9VZTBw7+3xJYi42ashIY8bZBgAzLlT2QP6wF0Tja8Ewt9R66OfhOqqFZwrVxFadR4PNSK7HXw3Rhol9+0/8g+fK+WkDVHn6Yl7jxm7NjdZJe/v/UwN0RQOkqm69oSFcaf065Jgfd0P+Q08+v8t14X4bjsQQxDwyEvGIjYELNZBkMgOhchRRZeA96fbpVkx2BMHNX2t3cOI2Fy/MOLRPDrLg2yeyysIl1GickX8Ql6YaODbOtKxMVY0UtGOCjx0zvKDQ62dSrakwKFvrfL8PsReZdjlzIT2cTDr0pgrfAZ/pRV0VGQTawuYg0zgRSkgHFn+167gV0uS0BUJ29MqD0b950Jk=;Ly4evmOH9C4raMA65f6rAA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/11/immunai-raises-60-million-to-anal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/immunai-raises-60-million-to-analyze-the-immune-system-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Israeli AI Chip Startup Raises Seed Funding"
-    excerpt: "Israeli AI chip startup NeuReality has raised seed funding of $8 million to work on its data center AI inference chip and system solution."
-    publishedDateTime: 2021-02-11T14:22:00Z
-    webUrl: "https://www.design-reuse.com/news/49466/neureality-israeli-ai-chip-startup-funding.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
 
 secured: "d9/DcFIHUd6O9UYr49Say1sx0dOGj/yiNnQqjum89tLLrJNp4iiED5OlHGUqcQxK0tmZ2eKKb6M2A6cSmm3VNSSYIQaZDxfSm/CLKrgHeYUtX9WpFd9qj4YE35lcMzR6vqJmy4jXADRjnNxM3b8l3GjLngrf6mw7PPGux9qA+TrHsCgITnVmqIWXq6u3Y8H5hFGUWp9py8/eF7ZcgSorj2Hr1ZpS4wNP9rzTsBfs9yGlNvSte9lSpB7Qq5BzlZEXEp+8mwX4E30MkLCJFi4TtRmRy+HBNnlepG7+7blBiXWvEOy//kJz6rcpfucdbbnMnKuGj5P+PcjhSJu1p0RDt6MOIpBSTgGci5wAy7EdbpUzjRlgJqsDrC5Q0FWYSz92d6fA9n+SmdpepGoDN5PTqdNfz+XeJWqzqDgijgJ47yMAwtVUvI6Vz5oT4wTiyKg2dO7GL62dZYtgL1uoRK43zmwQuBXNuwPUqtUBcWKFvyCajMtaMpI0WV7DDOEvqzg4PL8xq726XjvaKlyrYlBawA==;j7PcqP0KS5on3EvPY64i0g=="
 ---

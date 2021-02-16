@@ -70,19 +70,21 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "HPE Spaceborne Computer-2 linked to Azure cloud for the Space Station"
-    excerpt: "Hewlett Packard Enterprise is preparing to send a second-generation Spaceborne Computer to the International Space Station later this month."
-    publishedDateTime: 2021-02-11T13:12:00Z
-    webUrl: "https://spacenews.com/spaceborne-computer-2/"
+  - title: "How Computers See Us: Microsoft Fellow Works to Fight Discrimination Through AI | CU Boulder today"
+    excerpt: "Morgan Klaus Scheuerman, a computer science PhD student, has been awarded the Microsoft Research Fellowship for 2021. He investigates how and why facial recognition technologies are wrong. Credit: Casey Cass / CU kei Growing up in a traditional working-class family in one of the most conservative counties in Maryland,"
+    publishedDateTime: 2021-02-16T06:18:00Z
+    webUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
     type: article
     provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 39
+      name: Windows
+      domain: compsmag.com
+    quality: 62
     images:
-      - url: "https://spacenews.com/wp-content/uploads/2018/11/hewlett-packard.jpg"
-        width: 900
-        height: 505
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/How-Computers-See-Us-Microsoft-Fellow-Works-to-Fight-Discrimination.jpg"
+        width: 750
+        height: 539
         isCached: true
   - title: "NASA sends AI to space with first commercial edge computing system"
     excerpt: "AI is going to space with a new high-performance commercial computer from HPE that will be used on by astronauts on the International Space Station."

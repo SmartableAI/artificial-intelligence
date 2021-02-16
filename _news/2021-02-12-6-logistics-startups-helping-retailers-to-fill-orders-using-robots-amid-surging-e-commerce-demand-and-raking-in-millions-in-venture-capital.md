@@ -75,20 +75,6 @@ related:
         width: 1363
         height: 794
         isCached: true
-  - title: "Using AI and Machine Learning will increase in horti industry"
-    excerpt: "The expectation is that in 2021, artificial intelligence and machine learning technologies will continue to become more mainstream. Businesses that haven’t traditionally viewed themselves"
-    publishedDateTime: 2021-02-11T13:18:00Z
-    webUrl: "https://www.freshplaza.com/article/9292973/using-ai-and-machine-learning-will-increase-in-horti-industry/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 56
-    images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/02/11/Ai.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Five ways to use machine learning in digital marketing"
     excerpt: "Intelligent machine learning applications can be used to increase the outcomes of digital marketing implementations. Five applications that will help."
     publishedDateTime: 2021-02-12T13:55:00Z
@@ -172,20 +158,6 @@ related:
       - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/16/ST_20210216_LWAI_6328626.jpg?itok=QRxL3typ"
         width: 763
         height: 509
-        isCached: true
-  - title: "A Cloud-Connected, AI-Enabling Commercial Computer is Heading to the International Space Station"
-    excerpt: "SBC-2 will also tap Microsoft’s Azure Space service to connect users on the space station to the Earth, and vice versa, through the cloud. The computer will be installed for the next 2 to 3 years, and is backed by a sponsorship from the ISS U."
-    publishedDateTime: 2021-02-11T13:16:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/cloud-connected-ai-enabling-commercial-computer-heading-international-space-station/172001/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 26
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/11/shutterstock_1453899434/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "2nqtTW+/7YH2lp0P0jZlTphJdR817BJeiMkaBPQYVNuAPvQoRcG93kglNyraAQyS6JWp677g13ID1ZJuguVi/x0ucZV+t0u3j4oLBgGPNzbPIi6rpSjIFq+b1LMpzSa8a0XuJBSRmmKxbp9E+fzdVzR94lWcqpwMqjQBp5pJLaYc8bVETzgnFdjBV/QorO1twFrNrrJJ7Zmcd5jNN48cJTmbvhv/1/0vXGgkNFNXObKdgLeFmMOB9ECgVfC6SQqljM1XH9E+ueB2E55hn2Mp+mRNNpShGs/OhiAgwwQuArEeBLQFF/fjw+1V8eHqUETsH2ZV4nQ4jGEYrTfFUSKxbpGJBcqTZ8/Se4HE13n6adJxKUWoSt6B1QboABXNp4kmbbjBRJEuTmL0KkLJAim9Cge3uVQYuwhKykdS/3n9onGE48ucfnpYrEzumhI+E/YtdA4RO7bnrM+movcRUy9KziHHsEMo8+oHD2ihZ9KLA0bTecE4RHjrnXHnL2o3eLU94ti7tgrmjiIpAa4TvbO8xA==;iCWikmtPkNtxHudY9gJN0A=="

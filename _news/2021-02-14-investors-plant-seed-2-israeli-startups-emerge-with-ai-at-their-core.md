@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/investors-plant-seed-2-israeli-startups-eme
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/investors-plant-seed-2-israeli-startups-emerge-to/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli firm TikTalk brings AI to speech therapy"
-    excerpt: "The global market for speech therapists is believed to be valued at more than $60 billion, with about 40% of that in the US."
-    publishedDateTime: 2021-02-11T13:36:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/israeli-firm-tiktalk-brings-ai-to-speech-therapy-658629"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-firm-tiktalk-brings-ai-to-speech-therapy-658629/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-firm-tiktalk-brings-ai-to-speech-therapy-658629/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 74
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/471173"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "Israeli stroke therapy granted FDA breakthrough device status"
-    excerpt: "Israeli BrainQ's artificial intelligence stroke therapy, that reduces disability following strokes, was given Breakthrough Device designation by the US Food and Drug Administration (FDA), the start up announced last week."
-    publishedDateTime: 2021-02-15T00:04:00Z
-    webUrl: "https://www.jpost.com/health-science/israeli-stroke-therapy-granted-fda-breakthrough-device-status-658988"
-    ampWebUrl: "https://m.jpost.com/health-science/israeli-stroke-therapy-granted-fda-breakthrough-device-status-658988/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/israeli-stroke-therapy-granted-fda-breakthrough-device-status-658988/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/471314"
-        width: 640
-        height: 428
-        isCached: true
   - title: "Israeli start-up focusing on AI-based solutions secures $8m. in seed"
     excerpt: "\"Our mission is to deliver AI users best in class system performance while significantly reducing cost and power,” said Founder and CEO of NeuReality Moshe Tanach."
     publishedDateTime: 2021-02-14T07:20:00Z

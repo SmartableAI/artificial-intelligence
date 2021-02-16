@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-03-jeff-bezos-steps-down-as-ceoand-shows-amazon-is-a-cloud-company-now.md",
+      "title": "Jeff Bezos Steps Down as CEO—and Shows Amazon Is a Cloud Company Now",
+      "excerpt": "It also launched a new cloud-based computer-vision service called Rekognition. These services are both a “powerful revenue generator and a key to Amazon’s AI flywheel, as customers as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
+      "originalUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
+      "publishedDateTime": "2021-02-02T11:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-this-month-in-aws-machine-learning-january-edition.md",
       "title": "This month in AWS Machine Learning: January edition",
       "excerpt": "Hello and welcome to our first “This month in AWS Machine Learning” of 2021! Every day there is something new going on in the world of AWS Machine Learning—from launches to new to use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy",
@@ -1409,49 +1461,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-want-to-dodge-ais-prying-eyes.md",
-      "title": "Want to dodge AI’s prying eyes?",
-      "excerpt": "Then we used a free version of Amazon Web Services’ facial recognition software, Rekognition, to compare the photos to a reference. The results provide striking insights into what today’s facial recognition technology is capable of: Different beards ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/",
-      "originalUrl": "https://www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2020/03/janoschpanel-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/amp/",
-      "publishedDateTime": "2021-01-18T20:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

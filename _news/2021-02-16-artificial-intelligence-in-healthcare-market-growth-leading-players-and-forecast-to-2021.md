@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2021-2021-02-15"
 type: article
 quality: 75
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -43,29 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The \"Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 -"
-    publishedDateTime: 2021-02-15T19:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/outlook-on-the-smart-robots-global-market-to-2026---industry-analysis-and-forecasts---researchandmarketscom-2021-02-15"
+  - title: "Global Artificial Intelligence (AI) Market Share, 2021 Global Industry Trends, Demand, Top Players, Industry Size, Future Growth 2023"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2021 (The Expresswire) -- Global \"Artificial Intelligence (AI) Market\" (2021) thoroughly scrutinizes the effects of a wide range of factors impacting the market ..."
+    publishedDateTime: 2021-02-16T05:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-market-share-2021-global-industry-trends-demand-top-players-industry-size-future-growth-2023-2021-02-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Forecast, Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
-    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Enterprise Artificial Intelligence (AI) market intelligence study is a"
-    publishedDateTime: 2021-02-11T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-forecast-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,6 +85,20 @@ related:
         width: 300
         height: 281
         isCached: true
+  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2021-02-16T05:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-robotics-9e905439ab7f41d191e830ab1499ec4e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Voice Recognition Market Size 2021 Global Industry Trends, Share, Growth Insight, Size, Competitive Analysis, Statistics, Regional Forecast to 2025"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Voice Recognition Market”"
     publishedDateTime: 2021-02-12T07:17:00Z
@@ -113,15 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "$11.2 Billion Artificial Intelligence in Agriculture Markets - Global Industry Analysis and Growth Forecast to 2030"
-    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and"
-    publishedDateTime: 2021-02-11T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/11-2-billion-artificial-intelligence-in-agriculture-markets---global-industry-analysis-and-growth-forecast-to-2030--301226811.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
   - title: "Worldwide Digital Assistants in Healthcare Industry to 2026 – North America is Expected to Hold Significant Market Share – ResearchAndMarkets.com"
     excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The digital assistants in healthcare market is projected to register a CAGR of almost 33."
     publishedDateTime: 2021-02-12T08:57:00Z

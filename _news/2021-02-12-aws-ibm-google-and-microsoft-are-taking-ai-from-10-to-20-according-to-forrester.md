@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
 type: article
 quality: 114
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "VW and Microsoft are building an autonomous car platform with Azure at its heart"
-    excerpt: "Volkswagen and Microsoft are collaborating on autonomous vehicles, with the two behemoths planning to work on an Automated Driving Platform. Announced today, the deal will see the VW Group and"
-    publishedDateTime: 2021-02-11T14:25:00Z
-    webUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/"
-    ampWebUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 99
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/02/vw-id-space-vizzion-concept-25.jpg"
-        width: 1680
-        height: 946
-        isCached: true
   - title: "Why Microsoft is Pinterested"
     excerpt: "The Financial Times reported Wednesday that Microsoft has held talks in recent months to acquire Pinterest. The talks, which are \"currently not active,\" could have led to Microsoft'"
     publishedDateTime: 2021-02-11T20:46:00Z
@@ -124,22 +108,6 @@ related:
         width: 847
         height: 720
         isCached: true
-  - title: "VW will use Microsoft's cloud to develop self-driving software"
-    excerpt: "Volkswagen will use Microsoft's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T13:26:00Z
-    webUrl: "https://www.autoblog.com/2021/02/11/volkswagen-microsoft-cloud-computing-software-self-driving-cars/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/02/11/volkswagen-microsoft-cloud-computing-software-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/02/11/volkswagen-microsoft-cloud-computing-software-self-driving-cars/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 61
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/4400x2475+0+110/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/bc9fbb10-6c6a-11eb-baf6-de25ca6e5fbd"
-        width: 800
-        height: 450
-        isCached: true
   - title: "VW uses Microsoft’s cloud to develop self-driving software"
     excerpt: "VW uses Microsoft's cloud to develop self-driving software Volkswagen AG said Thursday that it will use Microsoft Corp's cloud computing"
     publishedDateTime: 2021-02-11T16:59:00Z
@@ -155,6 +123,22 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
         width: 960
         height: 675
+        isCached: true
+  - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
+    excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
+    publishedDateTime: 2021-02-16T05:08:00Z
+    webUrl: "https://www.openpr.com/news/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
+    ampWebUrl: "https://www.openpr.com/amp/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 61
+    images:
+      - url: "https://cdn.openpr.com/U/2/U216134822_g.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "VW and Microsoft Are Teaming up to Develop Autonomous Driving Tech"
     excerpt: "Volkswagen is already developing its own autonomous driving technology, even having shown off a working Level 4 prototype a couple of years ago. Now it's teaming up with Microsoft"

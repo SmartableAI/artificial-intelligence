@@ -41,6 +41,43 @@ related:
         width: 2480
         height: 1395
         isCached: true
+  - title: "AWS cloud infrastructure for NHL"
+    excerpt: "Amazon Web Services (AWS), an Amazon company, has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intel"
+    publishedDateTime: 2021-02-12T00:03:00Z
+    webUrl: "https://advanced-television.com/2021/02/12/aws-cloud-infrastructure-for-nhl/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 39
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2020/11/NHL20.jpg"
+        width: 1200
+        height: 992
+        isCached: true
+  - title: "NHL takes big stride on data and analytics with AWS deal"
+    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
+    publishedDateTime: 2021-02-12T06:20:00Z
+    webUrl: "https://apnews.com/article/nfl-business-nhl-football-web-services-5720b382cc681c7db9e7c871513456b8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/047ba679d814498c92b53054b8eced0b/2480.jpeg"
+        width: 2480
+        height: 1653
+        isCached: true
+  - title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National"
+    publishedDateTime: 2021-02-11T19:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210210005858/en/AWS-Teams-with-the-National-Hockey-League-to-be-the-Official-Cloud-Infrastructure-Provider-of-the-NHL"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
 secured: "cZ0KLxWnh8rAlqPJaxYtrw0zL/yquP49fXQdRNuGI4FC6+pt6IY/NngykIDnD+EekbWLyBTNGlcEDrdYa59acSx8/6TRtPjFmlQAZ01Hm2WWjGN2F9WLI4sUKcb9v2n1lgbbSbjr6ro1C2Spd/wVMmBz8kwiZyUOi6Akx4njDZw+Wgr8pRySQ5C6nfsNilgZpjJqNYDNxZD76NqqHlRmGwRe6yrgSzAikzxwNcuX/XjVoVQZEib4mwsEHvKsLCDfglcXufr2SGseNnavb11WwWVCs9jYg2iXX3K5deZ1dexZo9+W7r8dXXVi1KLSh3fx5YWJ6h1cdG1Uos/2+/247q2phZ42X9vOLQmoNrpJ6Cw=;aqiZ74onRX+2e8SnP3ZoMA=="
 ---

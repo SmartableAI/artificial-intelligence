@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-16-supercomputer-developed-ai-predicts-tsunami-flooding-in-real-time-on-a-pc.md",
+      "title": "Supercomputer-developed AI predicts tsunami flooding in real-time on a PC",
+      "excerpt": "As a region that is subject to a high degree of seismic activity, tsunamis are a real and ever-present threat for the people of Japan. The teams tasked with managing and responding to these risks may soon have a powerful new tool at their disposal,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/environment/worlds-fastest-supercomputer-artificial-intelligence-predicts-tsunami-flooding/",
+      "originalUrl": "https://newatlas.com/environment/worlds-fastest-supercomputer-artificial-intelligence-predicts-tsunami-flooding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/3585d69/2147483647/strip/true/crop/1736x1157+132+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F90%2F98%2F012cb05a452eb76f12b7cf01ab5e%2Fdepositphotos-10120367-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/environment/worlds-fastest-supercomputer-artificial-intelligence-predicts-tsunami-flooding/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/worlds-fastest-supercomputer-artificial-intelligence-predicts-tsunami-flooding/?amp=true",
+      "publishedDateTime": "2021-02-15T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-uae-face-recognition-market-size-to-witness-huge-growth-by-2025.md",
+      "title": "UAE Face Recognition Market Size to Witness Huge Growth by 2025",
+      "excerpt": "Selbyville, Delaware According to the latest study on 'UAE Face Recognition Market Analysis, 2020', available with Market Study Report LLC, the United Arab Emirates face recognition market is projected to showcase tremendous growth trends through 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T22:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-how-ai-is-helping-companies-find-and-fix-gaps-in-their-strategy-from-software-to-diversity.md",
       "title": "How AI Is Helping Companies Find And Fix Gaps In Their Strategy, From Software To Diversity",
       "excerpt": "Why is AI an important tool for businesses to utilize for their strategies? Because it transfers decision making to systems that can do it faster, cheaper, and 24 hours a day, every day. It also automates activities so humans are not required to do menial,",
@@ -304,7 +407,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2021-2021-02-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -352,11 +455,11 @@
       "title": "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G",
       "excerpt": "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
-      "originalUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "webUrl": "https://www.zdnet.com/index.php/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -370,8 +473,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
       "publishedDateTime": "2021-02-15T08:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -395,9 +498,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI",
-        "Facebook AI"
+        "AI Hardware"
       ]
     },
     {
@@ -409,7 +511,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -848,7 +950,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/365391",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -896,8 +998,8 @@
       "title": "Salesforce: Combining AI and automation can give us superpowers and make us more productive",
       "excerpt": "Salesforce Einstein Automate is just the beginning. John Kucera, SVP of Product Management for Automation at Salesforce, believes the combination of AI and automation into voice-enabled digital assistants will give us \"superpowers\" that help people build relationships and make us more productive.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "webUrl": "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "originalUrl": "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -914,8 +1016,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
       "publishedDateTime": "2021-02-14T15:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1137,109 +1239,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-scaling-ai-the-4-challenges-youll-face.md",
-      "title": "Scaling AI: The 4 challenges you’ll face",
-      "excerpt": "I've worked in big data and AI with several organizations. Here's where I've seen them flounder after an enthusiastic start.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/",
-      "originalUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/scalability.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/amp/",
-      "publishedDateTime": "2021-02-14T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler.md",
-      "title": "Exploring AWS SageMaker’s new features — Formation Stacks, Data Wrangler",
-      "excerpt": "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/",
-      "originalUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/",
-      "publishedDateTime": "2021-02-14T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

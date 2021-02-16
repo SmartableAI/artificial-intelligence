@@ -127,17 +127,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "TA Digital Launches SearchBoost.ai to Drive Relevancy and Personalization Through Cognitive Search"
-    excerpt: "TA Digital announced today its foray into the cognitive search space with its maiden intelligent search solution, SearchBoost.ai. This is the first SaaS product offering by the company. Website and ecommerce search tools that exist today tend to solve for relevancy by optimizing indexing or results ranking."
-    publishedDateTime: 2021-02-11T13:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ta-digital-launches-searchboost-ai-to-drive-relevancy-and-personalization-through-cognitive-search-1030072872"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ta-digital-launches-searchboost-ai-to-drive-relevancy-and-personalization-through-cognitive-search-1030072872"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ta-digital-launches-searchboost-ai-to-drive-relevancy-and-personalization-through-cognitive-search-1030072872"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
   - title: "CBP facial recognition technology fails to find anyone using false identities at airports"
     excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
     publishedDateTime: 2021-02-15T03:01:00Z

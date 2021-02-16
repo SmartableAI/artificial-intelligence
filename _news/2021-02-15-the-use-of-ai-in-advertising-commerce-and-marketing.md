@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2021/02/tv-significance.jpeg?fit=682%2C397&zoom=2&quality=100&strip=all&ssl=1"
         width: 1363
         height: 794
-        isCached: true
-  - title: "Using AI and Machine Learning will increase in horti industry"
-    excerpt: "The expectation is that in 2021, artificial intelligence and machine learning technologies will continue to become more mainstream. Businesses that haven’t traditionally viewed themselves"
-    publishedDateTime: 2021-02-11T13:18:00Z
-    webUrl: "https://www.freshplaza.com/article/9292973/using-ai-and-machine-learning-will-increase-in-horti-industry/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 56
-    images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/02/11/Ai.jpg?preset=OgImage"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Five ways to use machine learning in digital marketing"
     excerpt: "Intelligent machine learning applications can be used to increase the outcomes of digital marketing implementations. Five applications that will help."
@@ -172,20 +158,6 @@ related:
       - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/16/ST_20210216_LWAI_6328626.jpg?itok=QRxL3typ"
         width: 763
         height: 509
-        isCached: true
-  - title: "A Cloud-Connected, AI-Enabling Commercial Computer is Heading to the International Space Station"
-    excerpt: "SBC-2 will also tap Microsoft’s Azure Space service to connect users on the space station to the Earth, and vice versa, through the cloud. The computer will be installed for the next 2 to 3 years, and is backed by a sponsorship from the ISS U."
-    publishedDateTime: 2021-02-11T13:16:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/cloud-connected-ai-enabling-commercial-computer-heading-international-space-station/172001/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 26
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/11/shutterstock_1453899434/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "/WhebRlOt7huScFEbChtNWblcbhLa/hn8SX0jm03z3x0y72FpfZ+MMTiwhnRsHmVr0bvRElQX5ubn15XQKWu77/PSIF+g25PRNu/pUFSKxu3cTWauu1ZsDpfhq66a2d8UP1aTtv0mU00soFm+8AW+CEcrgX/qkju8mh81gf0hnlsX+6g0BWUxTFDxQTLfVUB57y+nGMeynTdQVVTmAVKezym71seYsHOdRR0CUICQ55p3gTHqhFeIXExPC3s6zCAAv1adjlLoSbPcJSaCzjYUOYaHRWgsZoAotsuDhmlByicNc+4dVAs9ihf27JIzoenNAwBzcSvyp38nfirniYPGyC/kognsc+3D0rtpyTnPETDNNZv8z+o1vZU4dFByqvOnL8qrJJ6Px7CFeyiJFXSn+9vBVSi5tN1MgNuqVZoKd/ux715da3wBMOfVhbALJpqJWYCEpcf2QZByyFc6X1kZTIXtuKo8EvixSwpFlDvadhkquYkpRzOmfur63P2p/oCuSwAbz/tpRGzL08hg0mRFA==;3nJpnKes+sNtpfE7DILIIg=="

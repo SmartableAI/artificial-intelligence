@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Volkswagen taps Microsoft's cloud to develop self-driving software"
-    excerpt: "Volkswagen AG on Thursday said it will use Microsoft Corp's cloud computing services to help it streamline its software development efforts for self-driving cars."
-    publishedDateTime: 2021-02-11T13:58:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-volkswagen-idUSKBN2AB0SZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB0SZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 91
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551155567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A0IY"
-        width: 877
-        height: 545
-        isCached: true
   - title: "News24.com | WATCH | VW taps Microsoft cloud for self driving cars"
     excerpt: "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'"
     publishedDateTime: 2021-02-12T07:01:00Z
@@ -68,22 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 86
-  - title: "Microsoft Teams with Volkswagen for Azure Cloud Automated Driving Solutions"
-    excerpt: "Volkswagen will tap into Microsoft Azure tools and data to create new and efficient automated driving solutions for developers."
-    publishedDateTime: 2021-02-11T14:02:00Z
-    webUrl: "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/11/microsoft-teams-with-volkswagen-for-azure-cloud-automated-driving-solutions-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 72
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2019/09/microsoft-connected-vehicle-platform.jpg"
-        width: 1279
-        height: 720
-        isCached: true
   - title: "SPEEDCARGO, Microsoft team up to disrupt air cargo and logistics with advanced 3D vision technologies"
     excerpt: "Singapore-based SPEEDCARGO Technologies announces collaboration with Microsoft’s Azure Depth Platform to disrupt the air cargo & logistics industry with 3D vision technologies"
     publishedDateTime: 2021-02-15T09:22:00Z

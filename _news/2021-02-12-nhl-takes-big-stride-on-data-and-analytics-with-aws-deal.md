@@ -25,75 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "How Big Data, Predictive Analytics And Machine Learning Changed The Railway Industry"
-    excerpt: "Learn how KTZ leveraged SAP Innovative Business Solutions to create a single platform capable of processing vast volumes of cargo and freight data."
-    publishedDateTime: 2021-02-11T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2021/02/11/how-big-data-predictive-analytics-and-machine-learning-changed-the-railway-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2021/02/11/how-big-data-predictive-analytics-and-machine-learning-changed-the-railway-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/02/11/how-big-data-predictive-analytics-and-machine-learning-changed-the-railway-industry/amp/"
+  - title: "NHL reaches deal with AWS to put all video and data on the cloud"
+    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
+    publishedDateTime: 2021-02-11T19:44:00Z
+    webUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021"
+    ampWebUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true"
+    cdnAmpWebUrl: "https://www-foxsports-com.cdn.ampproject.org/c/s/www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: Fox Sports
+      domain: foxsports.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60252945a44ed3426d09be00%2F0x0.jpg"
+      - url: "https://b.fssta.com/uploads/2021/02/pi-nhl-blues-justin-faulk-jake-walman-021021.jpg"
+        width: 2480
+        height: 1395
+        isCached: true
+  - title: "AWS cloud infrastructure for NHL"
+    excerpt: "Amazon Web Services (AWS), an Amazon company, has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intel"
+    publishedDateTime: 2021-02-12T00:03:00Z
+    webUrl: "https://advanced-television.com/2021/02/12/aws-cloud-infrastructure-for-nhl/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 39
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2020/11/NHL20.jpg"
         width: 1200
-        height: 800
+        height: 992
         isCached: true
-  - title: "Predictive And Prescriptive Analytics Represent The Future Of AI -- It’s Up To Us To Use Them Wisely"
-    excerpt: "To ensure that both forms of AI are used for the good, providing the greatest benefit to individuals, businesses and communities alike, humans must remain in the loop."
-    publishedDateTime: 2021-02-11T14:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/predictive-and-prescriptive-analytics-represent-the-future-of-aiits-up-to-us-to-use-them-wisely/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/predictive-and-prescriptive-analytics-represent-the-future-of-aiits-up-to-us-to-use-them-wisely/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/11/predictive-and-prescriptive-analytics-represent-the-future-of-aiits-up-to-us-to-use-them-wisely/amp/"
+  - title: "NHL Selects AWS for Cloud Infrastructure"
+    excerpt: "AWS’ services are designed to help the NHL automate video processing and content delivery in the cloud, including leveraging its Puck and Player Tracking (PPT) system that is shared with media partners,"
+    publishedDateTime: 2021-02-12T19:04:00Z
+    webUrl: "https://www.tvtechnology.com/news/nhl-selects-aws-for-cloud-infrastructure"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2aec63ba9506e3de5bcf27%2F0x0.jpg"
-        width: 1200
-        height: 801
+      - url: "https://cdn.mos.cms.futurecdn.net/8HthFLifn2zAgfGqWZLYmf-1200-80.jpg"
+        width: 404
+        height: 227
         isCached: true
-  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
-    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,"
-    publishedDateTime: 2021-02-11T14:19:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-christine-odonnell-computing-and-information-technology-data-management-f85ff704762c47cda869625396ef3236"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Big Data Analytics Firm Palantir Adopts IBM’s Red Hat OpenShift"
-    excerpt: "IBM and Palantir Technologies on Monday announced a new partnership consisting of IBM’s hybrid cloud data platform designed to deliver AI for business, with Palantir’s next-generation operations platform for building"
-    publishedDateTime: 2021-02-11T16:40:00Z
-    webUrl: "https://ctovision.com/big-data-analytics-firm-palantir-adopts-ibms-red-hat-openshift/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 24
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
-  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
-    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
-    publishedDateTime: 2021-02-11T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
+  - title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National"
+    publishedDateTime: 2021-02-11T19:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210210005858/en/AWS-Teams-with-the-National-Hockey-League-to-be-the-Official-Cloud-Infrastructure-Provider-of-the-NHL"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 17
+    quality: 4
 
 secured: "LWkaVijf/p5M0ET+H2nVQYbMYqp7owBjyL1R5MGiVoxjNvzG0E9EzbHct565eEu3d8YbVxS6Gf6zDo0kk0v9T5vlPN3sHXrFATSfBE34Ml8Qsjn9bkC84I7YB8uEzBNDG+fWXih948wHqL15dZM4sxXuyxASTVDfrUBhhC/vEkVx7zllC6YTi4rpcexxrfBgB2GYX+dA7LNgPCN5e6AcUOus8uLsbfSJX/nov1LhlfOampqrseS+KjYgFgBzVw+TRP1czrs/zESmf/Bv4tNDnbef4+5KtdHQ1tRmQ8WN+botlDWOlcX+h7M6xtz7kqsgoi6dGy1/pJXMvO7VdjqH9pgmQTzNfj/sOmYAdu6Kvc4=;8FWtDxw+6DvgCkZqNANu8A=="
 ---

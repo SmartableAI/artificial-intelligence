@@ -21,15 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Voice Recognition Systems Market Global Statistics and Forecast to 2031| Nuance Communications, Microsoft, Agnitio"
-    excerpt: "The global COVID-19 analysis on Voice Recognition Systems market has been driven by the range of its a wide area of sectors such as HealthCare, Military & Aerospace, Communications & Telephony, Automotive Industry,"
-    publishedDateTime: 2021-02-14T13:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-global-statistics-and-forecast-to-2031-nuance-communications-microsoft-agnitio-2021-02-14"
+  - title: "UAE Face Recognition Market Size to Witness Huge Growth by 2025"
+    excerpt: "Selbyville, Delaware According to the latest study on 'UAE Face Recognition Market Analysis, 2020', available with Market Study Report LLC, the United Arab Emirates face recognition market is projected to showcase tremendous growth trends through 2025."
+    publishedDateTime: 2021-02-16T06:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

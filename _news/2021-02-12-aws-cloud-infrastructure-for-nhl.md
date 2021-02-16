@@ -25,17 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Web Services In Deal With National Hockey League"
-    excerpt: "Amazon Web Services or AWS, an Amazon.com, Inc. company, has inked a deal with the National Hockey League (NHL) to become the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure Provider of the professional ice hockey league."
-    publishedDateTime: 2021-02-11T13:16:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11?amp"
+  - title: "NHL reaches deal with AWS to put all video and data on the cloud"
+    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
+    publishedDateTime: 2021-02-11T19:44:00Z
+    webUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021"
+    ampWebUrl: "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true"
+    cdnAmpWebUrl: "https://www-foxsports-com.cdn.ampproject.org/c/s/www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: Fox Sports
+      domain: foxsports.com
+    quality: 59
+    images:
+      - url: "https://b.fssta.com/uploads/2021/02/pi-nhl-blues-justin-faulk-jake-walman-021021.jpg"
+        width: 2480
+        height: 1395
+        isCached: true
+  - title: "NHL takes big stride on data and analytics with AWS deal"
+    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
+    publishedDateTime: 2021-02-12T06:20:00Z
+    webUrl: "https://apnews.com/article/nfl-business-nhl-football-web-services-5720b382cc681c7db9e7c871513456b8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/047ba679d814498c92b53054b8eced0b/2480.jpeg"
+        width: 2480
+        height: 1653
+        isCached: true
+  - title: "NHL Selects AWS for Cloud Infrastructure"
+    excerpt: "AWS’ services are designed to help the NHL automate video processing and content delivery in the cloud, including leveraging its Puck and Player Tracking (PPT) system that is shared with media partners,"
+    publishedDateTime: 2021-02-12T19:04:00Z
+    webUrl: "https://www.tvtechnology.com/news/nhl-selects-aws-for-cloud-infrastructure"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8HthFLifn2zAgfGqWZLYmf-1200-80.jpg"
+        width: 404
+        height: 227
+        isCached: true
   - title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National"
     publishedDateTime: 2021-02-11T19:09:00Z

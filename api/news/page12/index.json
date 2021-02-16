@@ -2,6 +2,164 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-04-how-andy-jassy-amazons-next-ceo-was-a-brain-double-for-jeff-bezos.md",
+      "title": "How Andy Jassy, Amazon’s Next C.E.O., Was a ‘Brain Double’ for Jeff Bezos",
+      "excerpt": "Mr. Jassy, who will become Amazon’s chief this summer, has spent more than two decades absorbing lessons from Mr. Bezos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/03/business/03jassy/03jassy-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.amp.html",
+      "publishedDateTime": "2021-02-03T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces.md",
+      "title": "Using the AWS DeepRacer new Soft Actor Critic algorithm with continuous action spaces",
+      "excerpt": "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. We’re excited to bring you two",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/Thumbnail.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T14:03:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models.md",
+      "title": "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models",
+      "excerpt": "The answer to the question of how to make the best of AI hardware may not be solely, or even primarily, related to hardware",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2018/12/31/e6b87307-59d1-4f26-89cd-e0e38f2026b4/hybrid.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "publishedDateTime": "2021-02-03T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-looking-for-self-driving-cars-the-driv-etf-has-you-covered.md",
       "title": "Looking for Self-Driving Cars? The DRIV ETF Has You Covered",
       "excerpt": "I ncreasing demand for electric automobiles is opening up opportunities for ETF investors to focus on the sector with funds like the Global X Autonomous & Electric Vehicles ETF (DRIV). DRIV seeks to invest in companies involved in the development of autonomous vehicle technology,",
@@ -1057,155 +1215,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models.md",
-      "title": "Deepgram raises $25 million to build custom enterprise speech recognition models",
-      "excerpt": "Deepgram, a startup developing custom voice recognition models for enterprise customers, raised $25 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/",
-      "originalUrl": "https://venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Voice-recognition.NLP_.GettyImages-1199031078.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/amp/",
-      "publishedDateTime": "2021-02-03T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-granulate-raises-30-million-for-ai-that-optimizes-server-workloads.md",
-      "title": "Granulate raises $30 million for AI that optimizes server workloads",
-      "excerpt": "Granulate, a startup developing AI technologies to optimize server workloads, has raised $30 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/03/granulate-raises-30-million-for-ai-that-optimizes-server-workloads/",
-      "originalUrl": "https://venturebeat.com/2021/02/03/granulate-raises-30-million-for-ai-that-optimizes-server-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/03/granulate-raises-30-million-for-ai-that-optimizes-server-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/granulate-raises-30-million-for-ai-that-optimizes-server-workloads/amp/",
-      "publishedDateTime": "2021-02-03T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-391.md",
-      "title": "Short Interest in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Increases By 39.1%",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the recipient of a significant growth in short interest in January. As of January 15th, there was short interest totalling 295,500 shares,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html/amp",
-      "publishedDateTime": "2021-02-03T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
