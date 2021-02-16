@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?a
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2021/02/932/470/facial-recognition-camera.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "The face of hysteria: New York must preserve facial recognition as a tool for law enforcement"
+    excerpt: "The Minneapolis City Council, joining Boston, Los Angeles, Portland, Oakland and other localities, has banned its police department from using facial recognition technology — which would mean, when witnesses or security cameras there capture people red-handed,"
+    publishedDateTime: 2021-02-16T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-the-face-of-hysteria-20210216-ictefihqp5cgboz2xhrn7jmjbi-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-the-face-of-hysteria-20210216-ictefihqp5cgboz2xhrn7jmjbi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-the-face-of-hysteria-20210216-ictefihqp5cgboz2xhrn7jmjbi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 48
+    images:
+      - url: "https://www.nydailynews.com/resizer/-ZCQSS_phyLjWYiFmnZBFdMCfvg=/1200x0/left/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/VN6FTQ5LPFEDRO6Y234V7UXFOU.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Minneapolis City Council votes to ban facial recognition for police use"
     excerpt: "On Friday, the Minneapolis City Council voted unanimously to ban facial recognition technology for police use."

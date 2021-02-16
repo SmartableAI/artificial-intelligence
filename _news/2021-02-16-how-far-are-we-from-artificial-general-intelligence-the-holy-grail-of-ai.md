@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-16T07:17:00Z
 originalUrl: "https://talkiot.co.za/2021/02/16/how-far-are-we-from-artificial-general-intelligence-the-holy-grail-of-ai/"
 webUrl: "https://talkiot.co.za/2021/02/16/how-far-are-we-from-artificial-general-intelligence-the-holy-grail-of-ai/"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Google AI
   - AI
+  - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://talkiot.co.za/wp-content/uploads/2021/02/artificial-intelligence-2167835_640.jpg"
@@ -24,6 +26,6 @@ images:
     height: 428
     isCached: true
 
-secured: "O5r03TsGzSgoR3dajgBzHF32kvbvvhSjWfpScrBu3ucWccd12Pr5wvLPxYjloa3ErZt56ooUo+PACZNqgkWgFtI9/Ut2hv3wfjwBqibXknyKkEmdO6KzecQ4H0//u07Wwg12eyJxjTgUc7XERQlThkePtm30o22K/vskZ0czALPAhu77GgHP0PFTshnsavOSINJFxBK2VVAyPSQ4Bh6t9/3f6rd78JPW9Uw5VFYFDG0+FRtMcBliIf8P2IZPzhGBQ2n+N2vNfYpwICwM2Rup4wGqVhIV8J5slnY8KSW23QJTMaWTrp5Yu9ADy1QA3JH7suu6hdl9C6oR8JVByEB3qg5DbDDJhL8BDtdgZXNvSds=;daxVLuBbCLZlf78jZ8nudg=="
+secured: "X3iM0lJadcSluHEPUSTZpS63I5g8Ddl76tpoUg9nZoJMvUEq6+PT5mjFvGrpH8VYTZCEtOXZzNYDtdnz5gJoJm6KTCM3tybajQ1suoVs8xhuxKHcvmonr6H1DXVVVhtqrNVhY3yKEXz+oNfmkE3Q9g7HfozrNjoqTtd0wtZ4MAt3tGUb0s7u14GiPilTBTmuymwgX50Z/1qL/j3AmtP5ckDfaGC1NHmfIB6cxhaHXqFIswGQV3qgxvVU8egAL/dmwFYSjXlpfTXTPhuulEDuahm08WXUsDfVmZihlMSHVJBbAn91Js0FMdDrqiz8vKx+1BU7S08lEIV05ju1iwce0Ofktylrw7Y5DMdmw/4qB1THgjchGRcCRHgBlaMEYDv8LIC0LjzFEI+K7516WJubs9kemrub3c5p8EbWX60Ut+u0XosaivtH/alDwU4HTJr/nTCksZlqa43DUszMt86OSdtM0tFdgCfoatUQWZ1ohvPd7KoQPEiDsLSdVUjOos+5ODcEhJg1VDd7iTYDnlNumA==;NJwjGFGSqSFQop0zkSV7UA=="
 ---
 

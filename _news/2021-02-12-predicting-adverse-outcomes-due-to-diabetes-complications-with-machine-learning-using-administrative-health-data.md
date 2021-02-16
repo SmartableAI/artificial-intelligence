@@ -24,22 +24,6 @@ images:
     height: 685
     isCached: true
 
-related:
-  - title: "Predicting intraocular pressure using systemic variables or fundus photography with deep learning in a health examination cohort"
-    excerpt: "The purpose of the current study was to predict intraocular pressure (IOP) using color fundus photography with a deep learning (DL) model, or, systemic variables with a multivariate linear regression model (MLM),"
-    publishedDateTime: 2021-02-11T18:59:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-80839-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 10
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-80839-4/MediaObjects/41598_2020_80839_Fig1_HTML.png"
-        width: 685
-        height: 575
-        isCached: true
-
 secured: "bhlIkseyx/lvXbwB67NT5cmlGYfuAP6UgiQNdEZi7fa7h0ZnjBoRu3WF0LVEWl+iiNOu4a0vik5/EByb28tCAC867pftfeHy8MKuk1PsXsogKuquVpAmUxKpSDigfzzppbC5/0XVwLLh5dcUlKIdtBBPNUZgBax1jWR2RpOnwg9cSXW1HdtkzOrgmR8cxJJPJIMnok3jHR7bJgbKOObwC6z5/IIsKtGH0J56Mfmz6C7aou/be81cLYgXN1LLBjGDFI1D/PMZo9J0+jLpmOh9W3OU/jFFs3Wk9GNn1uD40hFgaklK0WMbOz2chD1tNR2Rrr24B8X2cpS4c7V26vQjYCwe2yn/+TlqtiSKq+UrKLU3j1hwqXKFRE28zsqWPa65h785sytpsr1dEbKFse1Q8o0PvV23lrXKRvDIbdkbUtDUW0oIxwALkcKtQyLtuAG35sz0ax2l4ujgzGxMhHPaCxraz13tqm5lAjZ96IW1ZEFSJBO41G99sGRFat9HV3R/eXq6+DOWzWAJZR+BGevAvA==;P6tD1MpjSxpC7okOnQSgZw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-01-ingen-dynamics-to-continue-to-diversify-application-of-ai-and-robotics-technologies.md",
+      "title": "InGen Dynamics to Continue to Diversify Application of A.I and Robotics Technologies",
+      "excerpt": "Press Release InGen Dynamics, a Palo Alto, based Robotics and A.I firm, raised a recent round of funding bringing the total funding commitment to $4 Million at the most recent valuation of $45 Million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/",
+      "originalUrl": "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/amp/",
+      "publishedDateTime": "2021-01-31T17:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-photonics-for-artificial-intelligence-and-neuromorphic-computing-sciencedaily.md",
       "title": "Photonics for artificial intelligence and neuromorphic computing — ScienceDaily",
       "excerpt": "Photonics for artificial intelligence and neuromorphic computing — ScienceDaily. Scientists have provided a fascinating new insight into",
@@ -1150,49 +1193,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-minneapolis-st-paul-airport-gets-facial-recognition-tech.md",
-      "title": "Minneapolis-St. Paul Airport gets facial recognition Tech",
-      "excerpt": "St. Paul Airport gets facial recognition Tech (TNS) - New facial recognition technology to speed international travelers",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
-      "originalUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Minneapolis-St-Paul-Airport-gets-facial-recognition-Tech.jpg",
-          "width": 940,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
-      "publishedDateTime": "2021-01-29T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

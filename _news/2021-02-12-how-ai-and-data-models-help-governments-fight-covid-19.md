@@ -69,20 +69,6 @@ related:
         width: 1079
         height: 720
         isCached: true
-  - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
-    excerpt: "Width='300' Height='173'/><br/>The COVIDvoice Project uses AI to turn voice samples into a COVID screening application. <a href ="
-    publishedDateTime: 2021-02-11T18:38:00Z
-    webUrl: "https://menafn.com/1101581410/Georgia-Startup-Races-to-Complete-AI-powered-Voice-based-COVID-19-Screening-Tool"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2021-02/10/EP_7390e81c-7image_story.jpeg"
-        width: 793
-        height: 415
-        isCached: true
 
 secured: "vEgeIY6G4iUfNSs/1Y88hbce7acIqqbRKlVxqfjHEg6PQN4GK2ENZtCh9J806bfwmVV18rWA3faltu7MvZUWbtHIstmvpxZd/Mt4Tuuv+r0v35d9K96F/G2Q1duwn/vPijxh0VM3qoy6Fy+f0gaKgb5D5rbFMlBbSNJz/udo1rnGWdRNoj7nMZooJfIi+XvAXbIdZWoz8wOXr4tXiJmtebNyq06yB9mqiyd0NVSFa3XdvOz2F4zVTQgxFoVftp8ZiEUL7bl0OeHPvhFh9Coma8yfonYY5AzHLE7TGe8P66bb3DAB7pcJZf0qVzk4pam9OljH85p/mrQOztxhZuUoZxhR9TywM261n14mhQ913oo=;llAFMeZkMvr3XHRqr+Gzlw=="
 ---

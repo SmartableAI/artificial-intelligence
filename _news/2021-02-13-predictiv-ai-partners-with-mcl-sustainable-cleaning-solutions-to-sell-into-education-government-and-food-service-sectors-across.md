@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-p
 webUrl: "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,31 @@ images:
     isCached: true
 
 related:
+  - title: "AI predictions and trends to watch in 2021"
+    excerpt: "AI is increasingly all around us, and we can expect to see more advances in the coming year in everything from vaccines to online shopping to farming"
+    publishedDateTime: 2021-02-16T10:00:00Z
+    webUrl: "https://www.itproportal.com/features/ai-predictions-and-trends-to-watch-in-2021/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/ai-predictions-and-trends-to-watch-in-2021/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-predictions-and-trends-to-watch-in-2021/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
+  - title: "Fintech, AI and ML: What you need to know in 2021"
+    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
+    publishedDateTime: 2021-02-12T14:21:00Z
+    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-and-ml-what-you-need-to-know-in-2021"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
   - title: "2021 Predictions: Memory and Storage Boost Innovation in 5G, AI, and More"
     excerpt: "From AI to 5G IIoT to ADAS, Micron Technology’s industry experts weigh in on the trends that memory and storage will help advance in 2021."
     publishedDateTime: 2021-02-15T17:09:00Z
@@ -42,6 +67,20 @@ related:
       - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/02/Micron_promo_web.602aa7b3788f9.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Artificial Intelligence In Drug Discovery Market Size, Growth Drivers, Trends and Forecast to 2027"
+    excerpt: "Request a Sample of this report @  The global Artificial Intelligence In Drug Discovery market is expected to reach at a remarkable value and to grow at a considerable CAGR over the forecast period i."
+    publishedDateTime: 2021-02-15T20:12:00Z
+    webUrl: "https://ipsnews.net/business/2021/02/15/artificial-intelligence-in-drug-discovery-market-size-growth-drivers-trends-and-forecast-to-2027/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 23
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/02/4950-1613406149.png"
+        width: 300
+        height: 281
         isCached: true
 
 secured: "iOOz9BcwodNweqRL+IioQ4uIn8NbyZZjZxyIh36si8OgzgoG4STsh0A9hg9PHYplyXf7OiVPf2ImTRmfU1oNtCCAvXJ23niTJfCRoqJb1XsxY9eIuZi3tj0tlfbUair6A+r+20cSuSpNOUh3y1IQArYp8Lc8yotCqdkdyFwsOitHEgchjL/Tcsr8dZdeR7/XKm/DTGqhBHS2iinoEGAEUdN9mqrEHH3gmWHa6ZyqJEHg7MJ5PdSVUt4FNfIf1KOxsqw20/zLfeNP+BCtqZaM/evt6D9d2Kh162OLflqD+958iDgFdl/xGu2xi6YXFhURE2HnqONW78qDTmWz+NNQQp9G76++pN8OFIujmYI1onU=;yaTIEkm8p5yfBvL8b/PzIg=="

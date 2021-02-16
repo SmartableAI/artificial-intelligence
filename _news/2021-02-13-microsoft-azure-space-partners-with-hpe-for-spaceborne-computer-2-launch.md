@@ -9,7 +9,7 @@ ampWebUrl: "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "HPE goes to space with NASA partnership to launch edge computer into orbit"
-    excerpt: "Hewlett Packard Enterprise Co. will send a specialized edge computing system to the International Space Station this month to give astronauts access to more processing power for research projects. The initiative,"
-    publishedDateTime: 2021-02-11T18:40:00Z
-    webUrl: "https://siliconangle.com/2021/02/11/hpe-goes-space-nasa-partnership-launch-edge-computer-orbit/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/hpe.png"
-        width: 749
-        height: 419
         isCached: true
 
 secured: "SCR4h3pFJc1iXzh7KdxIegY9RYuJU+kQ3G42efHSrQnQCtnTQr1WfuU3z1wOWOcopWKrIKnGo1iX78EpVVOkmYyb74yWhbayR+NiG+Iw/fNXBNa90NOliBkvbyLbjxK05UJethhIcjunk4r4znXYcTAy0vxwh/eM5zutmBsT/2Rnezk8cAEYPLU4lbm6okBU4YOuHoaLAqXFRxggRDV+Hbl6gsPBzYLfM51Vhvsvks0xszW/sHMI5B5b9KkXn1tH27TJGOZEbUp+MIMTBn10+mUZs8jNhstauN5chqHp1+AZ2cJPnHEVG+FL08zJkX2ffCe2FclPE3IrCenwwuZxV38atKeNIuDk/9JgdesDWnbF16FpdVgC+/tgL4RPjF/k2OUw9ffgQw9Kw6T4T41UBSmohCMd4FS0HkuM8CnNlWjyL99q1tyUSW3eOeVBAKll0hwgOfv7FUs7X7Mp4GlZO81A7rb55RFQvOMnMlIww7olb8yUsPDzWNuv8wo2qQT8S7TJ7XW0hBaUesnBr5ObWw==;WGYw3sFSo3P1l6J+vvbTTg=="

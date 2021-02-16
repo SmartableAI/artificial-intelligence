@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -292,25 +292,43 @@
     {
       "path": "_news/2021-02-11-aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season.md",
       "title": "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season",
-      "excerpt": "AWS machine learning and analytics services continue to bring deeper insights to the game of football and enhance the fan experience with new advanced statistics including Most Pressed Player, Attacking Zones,",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210211005287/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210211005287/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season",
+      "webUrl": "https://www.marketwatch.com/press-release/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season-2021-02-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season-2021-02-11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T18:30:00-08:00",
+      "publishedDateTime": "2021-02-11T01:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

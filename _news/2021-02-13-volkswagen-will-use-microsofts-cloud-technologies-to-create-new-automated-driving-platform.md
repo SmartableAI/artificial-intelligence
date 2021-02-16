@@ -36,22 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 86
-  - title: "Volkswagen To Use Microsoft’s Cloud To Help Develop Autonomous Driving Tech"
-    excerpt: "By using Microsoft's cloud technology, Volkswagen hopes to speed up the development of its autonomous vehicles."
-    publishedDateTime: 2021-02-11T17:36:00Z
-    webUrl: "https://www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/"
-    ampWebUrl: "https://www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/02/2021-Volkswagen-ID-Range-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "Volkswagen Group And Microsoft Speed Automated Driving Development With Cloud Computing"
     excerpt: "The quest for automated vehicles continues In fact, with the deluge of new vehicles in the market, there has been glimpse of automation in one way or another. At Volkswagen Group, automated driving remains one of its goals and the German auto group has partnered with Microsoft to accelerate the development of automated functions into its vehicle offerings."
     publishedDateTime: 2021-02-13T20:15:00Z

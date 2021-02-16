@@ -21,103 +21,35 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Healthcare Artificial Intelligence (AI) Market Insights, Growth, Share, Trends and Dynamics By 2023"
-    excerpt: "The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market. The healthcare IT industry reports are formed by Market Research Future,"
-    publishedDateTime: 2021-02-16T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16"
+  - title: "How AI Can Remedy Racial Disparities In Healthcare"
+    excerpt: "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine."
+    publishedDateTime: 2021-02-16T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ae497b1b787f71ff43a52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8114%26cropY1%3D248%26cropY2%3D4810"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2021"
-    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
-    publishedDateTime: 2021-02-15T18:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2021-2021-02-15"
+  - title: "AI embracing the shift in healthcare, confirms a new report"
+    excerpt: "BMU a Hero Group Initiative unveiled a report at its 2nd AI industry conclave on Embracing the shift in healthcare that was organized virtually on Wednesda"
+    publishedDateTime: 2021-02-12T19:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267810297/ai-embracing-the-shift-in-healthcare-confirms-a-new-report"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market 2021: By manufacturers, Type & Applications, Global status and Industry Forecast by 2026"
-    excerpt: "Healthcare Artificial Intelligence (AI) Industry Description Wiseguyreports.Com Adds \"Healthcare Artificial Intelligence"
-    publishedDateTime: 2021-02-12T15:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-2021-by-manufacturers-type-applications-global-status-and-industry-forecast-by-2026-2021-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
-    excerpt: "The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc. (Google), General Electric Company, General Vision Inc."
-    publishedDateTime: 2021-02-12T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-manufacturing-market-size-share-growth-trends-opportunity-and-forecast-to-2027-2021-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Market Share, 2021 Global Industry Trends, Demand, Top Players, Industry Size, Future Growth 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2021 (The Expresswire) -- Global \"Artificial Intelligence (AI) Market\" (2021) thoroughly scrutinizes the effects of a wide range of factors impacting the market ..."
-    publishedDateTime: 2021-02-16T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-market-share-2021-global-industry-trends-demand-top-players-industry-size-future-growth-2023-2021-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) In Healthcare Market Size is to Expected to Reach US $ 99.491 Billion at a 48.7% CAGR by Forecast Period 2021 to 2027"
-    excerpt: "Allied Analytics –:Advancements in AI systems for enhanced AI capabilities, dearth of skilled workforce, and increase in applications of innovative screening methods drive the growth of the market. However,"
-    publishedDateTime: 2021-02-12T09:02:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-02-12/artificial-intelligence-ai-in-healthcare-market-size-is-to-expected-to-reach-us-99491-billion-a"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 31
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
-    excerpt: "The Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027 report has been added to ReportOcean.com offering. The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc."
-    publishedDateTime: 2021-02-12T17:31:00Z
-    webUrl: "https://menafn.com/1101588057/Global-Artificial-Intelligence-AI-in-Manufacturing-Market-Size-Share-Growth-Trends-Opportunity-and-Forecast-To-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/updates/pr/2021-02/11/G_d2718712-7image_story.png"
-        width: 2614
-        height: 2615
+      - url: "https://cdn.bignewsnetwork.com/ani1613157685.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "6MDUEihVbA+3noG3gupApGQreYtT6CqAWANc9qTXksrK8iU3zP0IZK087yM6RY195wM5q5wYm6liSHonvnvCc1HZeqE5Nu5scFY+hXLTLqMtXHZodPS1G6HswkyylsZdsoeEXR2nM5RBKgHoNZMYG82EjgnK7ojekLSa9n3eNO+WhCdUmIDMwO4tfMrL9A60EXjOe3uOGGnzg9bcHPcg3TT7noF9Oi2j4EkjoFvvTOylHFQWKvBiRyxSdtFq8X2J/49VNa3nWouj/WOmdie4VD+A3XhlgwjF9FKaxUgTFPtruBZc8IemNVxs0O6ifd1kxyIIWVi3rqP5qSm/dKzh4AwAtaf+oZ5SwUgkPRVS6XEA6PIo1PSrKJhH3R5uQxdvbK9UnR/luArSa+GNcRpzgVVM3u3gSOybzH3gNWOBFu8vagnCMBGji0EawLieLotMUKtaPiUdTA65aaVaT3VVB7+A85M1qiGHEmIk+ewOult2H/iyObzZGBOvrx8LVmwdisrfrWisFQ9kxqjNlNQP4w==;LVHb+6PvDQsiOMj7bH0+7g=="

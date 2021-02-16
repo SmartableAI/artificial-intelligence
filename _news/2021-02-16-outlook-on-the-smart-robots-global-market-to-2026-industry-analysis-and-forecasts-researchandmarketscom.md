@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com"
+    excerpt: "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is drive"
+    publishedDateTime: 2021-02-12T12:15:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Worldwide Digital Assistants in Healthcare Industry to 2026 – North America is Expected to Hold Significant Market Share – ResearchAndMarkets.com"
     excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The digital assistants in healthcare market is projected to register a CAGR of almost 33."
     publishedDateTime: 2021-02-12T08:57:00Z

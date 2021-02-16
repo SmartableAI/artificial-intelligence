@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/267810297/ai-embracing-the-shi
 webUrl: "https://www.bignewsnetwork.com/news/267810297/ai-embracing-the-shift-in-healthcare-confirms-a-new-report"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,35 @@ images:
     width: 630
     height: 420
     isCached: true
+
+related:
+  - title: "How AI Can Remedy Racial Disparities In Healthcare"
+    excerpt: "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine."
+    publishedDateTime: 2021-02-16T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ae497b1b787f71ff43a52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8114%26cropY1%3D248%26cropY2%3D4810"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare"
+    excerpt: "The AI healthcare market is more visible to the public than ever before. More and more people are becoming aware of the benefits of AI technology throughout the healthcare industry. To many, it’s solid proof that Artificial Intelligence has had a successful impact on the overall quality of our healthcare system."
+    publishedDateTime: 2021-02-11T22:03:00Z
+    webUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/"
+    ampWebUrl: "https://gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/02/artificial-intelligence-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 69
 
 secured: "RKYu8F0mpXUIMmeTIz22yLhZSw0otcUNp9Qw4+OPXfm2tJX5YigLXX4l+lNu6V3fR5iKWq7uJ205h9511o5N2iu5MJv6s0ls2o/auT5Kx2UHAMBfU0n19FgV6UyWp2hQA7bfSTP/a61DTEyaoy9ScGYXvxTWhqBpsbUYoVXr31S70uoFqC4UPcVxSS/UcjWZWGBYWqQwnKnmQDYCuW8jGBNScdW1NZAl7acrt+BGP7uRurgyX/Czo0AKWUjAx9r33LpWurvAdQ9Ml4ONi48V63h8QjSe27oTvEuVRlKNVKLOtUwkOnZp/uSJd4r+1zeHoZZIQCYJZubH8BSOrUUJUZ/anrtT8M14s929iPHGbaNqOurzxl07bkFXSk6TYhk4z5/U0JzrtbyKZcdUh32ihRIXKG9Ntx5hTiVhOHCljxN9jz1TdQM7U1+AdtguJFEx6u+sdNbJDJwj3EnvbtPaUo6XA9TP3U747M9cE9fsVs9KfgT89sXSVzgK+QSrURgEzF2NRF10KNF7hHIrFvmmdw==;V4kAsTy6Mq0HJbamwbKuow=="
 ---

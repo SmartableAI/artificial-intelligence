@@ -95,6 +95,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "The face of hysteria: New York must preserve facial recognition as a tool for law enforcement"
+    excerpt: "The Minneapolis City Council, joining Boston, Los Angeles, Portland, Oakland and other localities, has banned its police department from using facial recognition technology — which would mean, when witnesses or security cameras there capture people red-handed,"
+    publishedDateTime: 2021-02-16T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-the-face-of-hysteria-20210216-ictefihqp5cgboz2xhrn7jmjbi-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-the-face-of-hysteria-20210216-ictefihqp5cgboz2xhrn7jmjbi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-the-face-of-hysteria-20210216-ictefihqp5cgboz2xhrn7jmjbi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 48
+    images:
+      - url: "https://www.nydailynews.com/resizer/-ZCQSS_phyLjWYiFmnZBFdMCfvg=/1200x0/left/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/VN6FTQ5LPFEDRO6Y234V7UXFOU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Minneapolis City Council votes to ban facial recognition for police use"
     excerpt: "On Friday, the Minneapolis City Council voted unanimously to ban facial recognition technology for police use."
     publishedDateTime: 2021-02-12T20:25:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-lea
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-learning-sometimes-it-pays-to-go-shallow/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Forbes
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Conservation machine learning: a case study of random forests"
-    excerpt: "Conservation machine learning conserves models across runs, users, and experiments—and puts them to good use. We have previously shown the merit of this idea through a small-scale preliminary experiment,"
-    publishedDateTime: 2021-02-11T18:19:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-83247-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83247-4/MediaObjects/41598_2021_83247_Figa_HTML.png"
-        width: 662
-        height: 685
-        isCached: true
 
 secured: "sokC/QuLGyj7eFd32f+O7r5L3TmHlRP86a6IE2AoWVLBCG6+YlxqJ8GWrOA1dYEdOU4TXnF8aVWH0piU4I03f7lQyupSuaqaDuAPexZREJi56mwVF3HMg6HPmEJ/UFnrz/tMS27bpXJt86PdOsa2hgWbWiMXGiXd3uYaHNz4JgWdJnYAA2lwjafvgJJT3dx5JJZxwRfNPUWbHxfmOwHPvQIJb4qmtDF//ge4Tt5qbIF31JD1XP1Hf2dt8jVrTvmARq1g300sWBtTeMsOwPtz5q2GNVpGIVFpJf0U27yz3bElBcSACK1PqknnmxYaDQHkx2pbdtiKHkhFq4Lx/5LZPykacRGw88cFBnaglC1eDnRaQuszpPweYIPzUFvxo+6DTJ4f1LRwTOo322kbsfEWyAz5MxPk4YrSrtKUoHIXcqJ0m6cfN02h1QMt+yot0xWMm+4An767ZdEyKh8cbZoMB7nbS6A51tdnp7YimaGJQAjbIupx4DYHO1ncFPOyr5lRGSuqSA58cPlf/dzBZZBL2A==;Gf6fIO3Na81b4lECnuJQSQ=="
 ---

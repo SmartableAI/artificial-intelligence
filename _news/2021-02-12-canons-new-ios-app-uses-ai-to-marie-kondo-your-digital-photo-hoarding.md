@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-d
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/0301330122/canon-photo-culling-app-banner-2.jpeg"
         width: 590
         height: 322
-        isCached: true
-  - title: "Canon’s New App Culls Photos with Artificial Intelligence"
-    excerpt: "Canon has announced the Photo Culling app, the company’s new software for iOS that is built on a newly-announced proprietary artificial intelligence. Canon advertises its new app as a “digital photo assistant” to help select your best images based on four key parameters."
-    publishedDateTime: 2021-02-11T17:47:00Z
-    webUrl: "https://petapixel.com/2021/02/11/canons-new-app-culls-photos-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 37
-    images:
-      - url: "https://petapixel.com/assets/uploads/2021/02/Canons-New-App-Culls-Photos-with-Artificial-Intelligence.jpg"
-        width: 1600
-        height: 840
         isCached: true
 
 secured: "8BhvrISeErtxXVwsbajItH9481pmXHdw2Hmr7lxODewO3w7+ljVr/Dzo1rVLsfX/D17tzK5zaCHJL8dBTHV1eaZHfzT5KCephR1xOdX919rNdc/ePFSCx+mxs/Yrzziv0mgEgE+h6wrNxz4xpZ5262QCRysnHgh+l9Akpf4od1EFRsqdu2XWNsRSFCdp7NOUuEETa8WaUm8wk4PbAjsVdAD/Ry0zCRWj+2YrAfTqZGUxMHheEoFz/unQcKRFScqpGpnbSf+dm+k7aL0hswdCRwFjSHnPe4MrFNxHaqQndeYGU70QGWuaJcW5c29mwRPMKrIVfoM0RwiUQ/wSXN8PmIAfVgwCAEb4IKE42YVkfOUxhmfGlSKTLS0EDAlygEiUi12dIgpxeoM0plJ9MOIUQLVukFt5mB5xC5yANa58wHTt10p0IjlWf4dbbo4f9VbXxYG8ocSFsKMKU4R6AyeA+lrjtCLx+FG9D4oLMcgtcEWUkdIo450wz5TsGLaR222YVdHnH2epuv8T/Bctlnq7FQ==;uopw4jHvJcrr7MpqwfnWkg=="

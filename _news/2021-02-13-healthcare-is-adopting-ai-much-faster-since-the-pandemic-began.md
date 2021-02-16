@@ -46,16 +46,21 @@ related:
         height: 578
         isCached: true
   - title: "Incorporating artificial intelligence in Indian healthcare"
-    excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."
-    publishedDateTime: 2021-02-16T05:48:00Z
-    webUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
-    ampWebUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+    excerpt: "AI does the hard work of compiling the complex identification trigger points and creating a pattern out of this data on an intensity level and speed beyond any human being's capability."
+    publishedDateTime: 2021-02-16T09:04:00Z
+    webUrl: "https://www.thestatesman.com/lifestyle/incorporating-artificial-intelligence-indian-healthcare-1502952557.html"
+    ampWebUrl: "https://www.thestatesman.com/lifestyle/incorporating-artificial-intelligence-indian-healthcare-1502952557.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/lifestyle/incorporating-artificial-intelligence-indian-healthcare-1502952557.html/amp"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 74
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/02/ef6b26571cf389e178e19eaa96221770.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "kscytyj0cD0ThXFNlkZYRsVCMfXVTlRRWVerOFC7U7h2RQrez8G7mLwUGWu3UHUXCRa6sXLTAv+H1KetHCWKsOsJuar9HpgdZfjuWlnpNqdgKoXnhvGP3XLEnljwmmO4Jhz0YuG9bqtW8RvAV18IXcpgrnR6f9MMXA73Dr4nU60eA1JqRv5pJVxn3XXVJ96InGXCpP3g8cMD2SgAkZwZ2LTJPZFI3maa2SoWDxi1h7XhiA1FbU3/6F7rFfcHywoAkq2Dw48bkl/4ofMe1EANKex9iLftsgW6TgFCtejjJGTxt9L7OFbrSYAo9QCZle3phEV1lKSgh3d5D2shll5e0Fqb8m1ECscgPLu9D00RdlPXMP5Van+O7EIw7ofTwQ8kSDXqkAaLqqVrwTNz34ziF4YDzQRC64gPUiQotMHZwcTwgTSoErJOfjh6zpTKVMKRjhX75eVo5Ky3rM+HBSiNYU4AhfAsWVMw7h6CsiF4WuA4sfeHKHVGu4XPZa7PVVljXhCXOjJeWJkod4KiXbIU8g==;Zcq+N3krcH4VEugmihN6Sw=="
 ---

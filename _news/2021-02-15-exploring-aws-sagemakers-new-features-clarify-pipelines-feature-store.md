@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-feat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Exploring Amazon SageMaker’s new features — CloudFormation, Data Wrangler"
+    excerpt: "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December."
+    publishedDateTime: 2021-02-15T00:35:00Z
+    webUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/"
+    ampWebUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?w=1200&strip=all"
+        width: 1200
+        height: 617
+        isCached: true
   - title: "Exploring AWS SageMaker’s new features — Formation Stacks, Data Wrangler"
     excerpt: "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December.Read"
     publishedDateTime: 2021-02-14T16:35:00Z

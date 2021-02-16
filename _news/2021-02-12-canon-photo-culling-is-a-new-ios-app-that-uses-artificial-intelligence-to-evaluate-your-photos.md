@@ -42,20 +42,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Canon’s New App Culls Photos with Artificial Intelligence"
-    excerpt: "Canon has announced the Photo Culling app, the company’s new software for iOS that is built on a newly-announced proprietary artificial intelligence. Canon advertises its new app as a “digital photo assistant” to help select your best images based on four key parameters."
-    publishedDateTime: 2021-02-11T17:47:00Z
-    webUrl: "https://petapixel.com/2021/02/11/canons-new-app-culls-photos-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 37
-    images:
-      - url: "https://petapixel.com/assets/uploads/2021/02/Canons-New-App-Culls-Photos-with-Artificial-Intelligence.jpg"
-        width: 1600
-        height: 840
-        isCached: true
 
 secured: "y4tDaD4tmiLzvS5vM+NX+8ATtAxsDwR8kD9IKLRpsZG9gj6RGkhrZR0obCTiNi7HMykzXCkdXocDP5FhFBhGGgNnrsLRuv3dqpQTH+/ZCujcNzfuvtKOFqGJLEO07pp7XWdWIq+OWivNZqtpggyJrrnBJvKE465IFB15otu0q2PH5ltvz0jj2YPS84ntoMn19y+ojiyMfPDV6xH7zDS5T+NF5I6Agbvy3OXIIHMbw3xbI6wTEOczK/TzUGDwcXz+q4xzYx1pirBwVyxPlmPETN3WERc4V1N3RdMHMUrzptmGynnJJ4XTrlyg7b9p3W+D8d/GxEDNywqzFw9lU1TrS0QzLY/9zl2Ws5X+eAY/ZbJgItALBBychCeMMW8V3d8C/DsipR0Q0WamouIdEle7TMdBG+Ndp2/6DP0rbsTKdxPSPWHnXs7Ml3UCok7SqFIBHN9HXporMv1SKwvtOAzOccdHKXef9mEmp28Xqega08F1RBztGq4m+TOyomi2+gWOlxsqW4pyd26jVbQ86FmyeA==;1IbHTs5eYFZVSSI88dTR6A=="
 ---

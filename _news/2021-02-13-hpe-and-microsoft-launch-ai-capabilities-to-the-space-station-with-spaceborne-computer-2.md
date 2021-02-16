@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "HPE goes to space with NASA partnership to launch edge computer into orbit"
-    excerpt: "Hewlett Packard Enterprise Co. will send a specialized edge computing system to the International Space Station this month to give astronauts access to more processing power for research projects. The initiative,"
-    publishedDateTime: 2021-02-11T18:40:00Z
-    webUrl: "https://siliconangle.com/2021/02/11/hpe-goes-space-nasa-partnership-launch-edge-computer-orbit/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/hpe.png"
-        width: 749
-        height: 419
-        isCached: true
 
 secured: "q2/hEWsGX3ILkuPr4z/B4iIaP9rSnZSJ15gQPlIZ0ltCx+u5AwsJ5ylNHw6o+Ue59FkKV6vhLScxEx1ULbDbL9GuS+SyXcBLD1nxXgOTqtqRgI0oAD6cmsVkA+rka1MpOS2FfD5dTyjBWyrkWlHRsQjy607wkQMxtjbSR129UiuxMOmDGYXKo2Tw+GiMXoGd5ajsaZE3mAldhNsYuanq5jrI3enGnYVqs0mGeiD7FDgJC5LSKjPJHW2Wk8YyEvwL/txsS4DbuWNhfS1Tfw8osjnIbzZQocKI1fnjDyYn92Yv1CGtAFmJbcO/xOSLb7NhznJkLTepbdB8sdtF64FnE5CMiqiUUP/omU+txJZuRCr/SbOum8X8zGmlYyZQdNcxIq+MD1N1izuVDyFtoykOtfoAtLc93yJBUxw7Pv/u2SCfUVYZ+DSCG6Zm1wZWHPFgEaTDZ9MwaGVUGtlxLXZxOV6Gn1ijQVQAuk4WEkwuf4dHLlxon275rXo6bB4eBpm6j69rYxXUfFqZHwbtQe7KsQ==;6nuueDepfGpRI/3RdVDu+Q=="
 ---

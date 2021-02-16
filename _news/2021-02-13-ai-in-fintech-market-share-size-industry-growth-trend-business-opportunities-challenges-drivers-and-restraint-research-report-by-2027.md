@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-sha
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-share-size-industry-growth-trend-business-opportunities-challenges-drivers-and-restraint-research-report-by-2027-2021-02-12"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -29,38 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech, AI and ML: What you need to know in 2021"
-    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
-    publishedDateTime: 2021-02-12T14:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-and-ml-what-you-need-to-know-in-2021"
+  - title: "China Fintech 50 Report Updated to Reflect Financial Tech Industry’s Rapid Growth, includes AirWallex, JD Digits, OneConnect, WeLab, Others"
+    excerpt: "China Fintech 50 Report updated to reflect financial tech industry's rapid growth, includes AirWallex, JD Digits, OneConnect, WeLab, others."
+    publishedDateTime: 2021-02-13T19:31:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/02/172211-china-fintech-50-report-updated-to-reflect-financial-tech-industrys-rapid-growth-includes-airwallex-jd-digits-oneconnect-welab-others/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172211-china-fintech-50-report-updated-to-reflect-financial-tech-industrys-rapid-growth-includes-airwallex-jd-digits-oneconnect-welab-others/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172211-china-fintech-50-report-updated-to-reflect-financial-tech-industrys-rapid-growth-includes-airwallex-jd-digits-oneconnect-welab-others/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-  - title: "Fintech, AI & ML: What you need to know in 2021"
-    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
-    publishedDateTime: 2021-02-11T22:54:00Z
-    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-amp-ml-what-you-need-to-know-in-2021"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-  - title: "Top 3 FinTech companies to watch out for in Austria"
-    excerpt: "The Austrian FinTech industry has seen robust growth in sectors including payments, investments, insurance and accounting."
-    publishedDateTime: 2021-02-15T12:05:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-3-fintech-companies-to-watch-out-for-in-austria/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/fintech-APAC.jpg"
-        width: 300
-        height: 300
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Happy-Buddha-China-600x619.jpeg"
+        width: 600
+        height: 619
         isCached: true
+  - title: "Deep Learning Chipset Market Business Boosting Strategies and Recent Trend By 2031|Top Leaders- NVIDIA and Intel"
+    excerpt: "Market.us, one of the worlds leading by prominent market research firms has released a new recent work on \"Deep Learning Chipset Market 2022-2031\" based on business intelligence,"
+    publishedDateTime: 2021-02-12T03:44:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137674/deep-learning-chipset-market-business-boosting/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "TWiodLkc1mj1unEFK9rX5EJoxULx3765oL5Od8s47rw3TToKQNW0LxrB0wpyBBuxS/nzJ1drTUNSmS+a/J76CKp80upCcgED1u1Dzbeln1t/GbP3aP/3b5v47Numcy2/gk4ZE9oIxpCeXwlhaaUbtYXDh98t/KulwAchsqBM7gA8oGKbFGM+GNl3oUT40IApHaXs1XfhlIysoekijogXm9yVX2uj4ilUEUxQBvBfAcNxAoxvXn3YoyROc68NZuEQOLc0K4k8gv2qsCtfzQFatMZOULkTSgBdraFgq19dQcoKobt9mroRXZP56qunUNqynsug1Dc9mkC9S2BYrvWSbaWrho7ETOEqfir+NNeL+YY=;oF6BFoe+L7Uyi4DSjm5iIw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-1
 cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQGfF6u9tSWD_g/article-cover_image-shrink_720_1280/0/1613107209374?e=1619049600&v=beta&t=KA1gmS8nC6_1xtICvlEyeyFFORlkKHFt0OoCNVxcTPU"
         width: 1079
         height: 720
-        isCached: true
-  - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
-    excerpt: "Width='300' Height='173'/><br/>The COVIDvoice Project uses AI to turn voice samples into a COVID screening application. <a href ="
-    publishedDateTime: 2021-02-11T18:38:00Z
-    webUrl: "https://menafn.com/1101581410/Georgia-Startup-Races-to-Complete-AI-powered-Voice-based-COVID-19-Screening-Tool"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2021-02/10/EP_7390e81c-7image_story.jpeg"
-        width: 793
-        height: 415
         isCached: true
 
 secured: "BNpEdkWejeYbyoijHc38AqHTW0nt0eshBP453BaPHl5Sn7wgLxuQl2yItkVLGm6G14ExwGKItRu1b7wHQeMBRSpKAF/OVx5yl4sDW/qm3AOh8qVWGi2oCr5BbimNDJMis4rz7z7hRAqZKCdnNdFEPZhcVZc2oeTnWPfo+5pRK1B+Qoa+DK5CI7p4jCXIoXAobgr4C5Vt3sKR9V2WmeAI7Axi2nwKNY3nR+XhwJjknas0Ug56fXmCgGW77Tre38J7av9P+Gu3TfQs6fGslnWXPr+N10mK+mNeMW8+CoJo1bphrrLusis1zQDfX4FED7BI8hNsArtXnM4yVcanMiaxExiOVyk7ygmNR0Oab75qN4c=;7Q3rDCmOAAR5tmhpEGPSTQ=="

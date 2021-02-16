@@ -38,22 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 86
-  - title: "Volkswagen To Use Microsoft’s Cloud To Help Develop Autonomous Driving Tech"
-    excerpt: "By using Microsoft's cloud technology, Volkswagen hopes to speed up the development of its autonomous vehicles."
-    publishedDateTime: 2021-02-11T17:36:00Z
-    webUrl: "https://www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/"
-    ampWebUrl: "https://www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/02/2021-Volkswagen-ID-Range-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
     publishedDateTime: 2021-02-15T08:51:00Z

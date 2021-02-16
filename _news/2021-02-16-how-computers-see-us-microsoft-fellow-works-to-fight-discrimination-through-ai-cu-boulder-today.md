@@ -9,8 +9,8 @@ ampWebUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fell
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Windows
@@ -26,17 +26,6 @@ images:
     width: 750
     height: 539
     isCached: true
-
-related:
-  - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
-    excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
-    publishedDateTime: 2021-02-11T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
 
 secured: "67NftvMzdRPyFUwV+a48o0XnkVQtyvrOHQbTUQZqraagt6uANOm0BQyAr5IaY4yCXZoP4E/HiXvjMpo5dgVA0/hO1iRiMc1VJrDfeWbeVehPbZWRgttHbTXVRyj3kwxX7PZ45iyhTBFgpHzJfTTzp8+J2e0HGfLy5d/0exR5Ahk6dUU2RGWQaKis7W0sFMIQ/zi5Y7+BdfIboQOZapXnSh2B0y8gtLb/zRs5LxzXrco1Fkw4bZXzTcXUcKU4zN97ZfvmB2YxSaSLZ5Zz48XlaMFmVD2ccusiyXxylF6SFiBnjXuo4lyJCYWfhwefgESJN3aKX7cHcT+VBxeu/YUTw7ooWRE+VboXJ78MXHKLOT3VDiL1IjtuQEtHu3nSs8J+hekNKCfqcw8ctQ+NWJSVf4G+aQOjgxpTouIqtyIOUa+4TRKFp0rWMWOBwjARVwO3J2cznzEz8MP1vDHAcaN1LLyeyusPkthEyiVn/dQlIp5Y6kjiZ5AB+l/JcbTsqI6oaC81UkEzG3camEaiqdRggw==;MVKFd1DuLWCe/zDdoKOEsg=="
 ---

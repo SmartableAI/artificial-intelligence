@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence reveals the perfect pancake recipe"
-excerpt: "According to the London-based AI firm Monolith, seven ingredients - flour, sugar, baking powder, salt, milk, butter and eggs - and just one flip on the pan will give the fluffiest results."
-publishedDateTime: 2021-02-16T08:41:00Z
-originalUrl: "https://www.dailymail.co.uk/sciencetech/article-9262829/Artificial-intelligence-reveals-perfect-pancake-recipe.html"
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-9262829/Artificial-intelligence-reveals-perfect-pancake-recipe.html"
-ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9262829/amp/Artificial-intelligence-reveals-perfect-pancake-recipe.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9262829/amp/Artificial-intelligence-reveals-perfect-pancake-recipe.html"
+excerpt: "According to the London-based AI firm Monolith, seven ingredients - flour, sugar, baking powder, salt, milk, butter and eggs - and just one flip on the pan"
+publishedDateTime: 2021-02-16T08:52:00Z
+originalUrl: "https://www.newsoneplace.com/7146612012/artificial-intelligence-reveals-perfect-pancake-recipe"
+webUrl: "https://www.newsoneplace.com/7146612012/artificial-intelligence-reveals-perfect-pancake-recipe"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Daily Mail
-  domain: dailymail.co.uk
+  name: newsoneplace.com
+  domain: newsoneplace.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i.dailymail.co.uk/1s/2021/02/15/17/39321934-0-image-a-4_1613411843124.jpg"
-    width: 636
-    height: 382
+  - url: "https://images.weserv.nl/?url=https://i.dailymail.co.uk/1s/2021/02/15/17/39321934-0-image-a-6_1613411844541.jpg&h=250"
+    width: 335
+    height: 250
     isCached: true
 
-secured: "S/4N5bjw5C5cy9ZkWeXOzhPAlFC7WK5iC5qEuaTRoQAIr0UnaOUlDpQUwIHtZjreHc/M8CtatTUl9wPQw1N85iCVkRjC9fmIKRaBEmxKoxNyOhwCBTbxMLPcCAUycZtL106bzfnGGpsxRRP8eyBc7kRhG46aGdK2iRpky8cpwnyARNcO+zvhAKwW6CUKfOI0PCQT0VbMTXRHDQazoDDEXUuQyswNSohjEtqEZfSHRqSvU7HRFdBXcUzf+8ou0jwv3zYscKvw5eFjyCNRwu8EoQAXsH7UBYBtcUxep2sS4fYEBz5Z9vPr1mX3+4qs3RnB/W8BLW8Hd6FsfgcBNyCLqhwk0F/KKYgtw85tPzapXTc=;bCgbs4x6Tp/aq4FOOU7RRw=="
+secured: "N772exejdEw8vunuJAFhFR+IovPTa1+rVEPUME3tlvuhONNQBLGU0utBwxPT2EI9JBUthBKF+ZF6LorYlAZNneSptnyhl7dhfJFJDNw3dPxdbO6990qDxSnDzoQk2zKyc9/jg22aRzvdF21nwayzWI3VgaW3rAOhy83vB+TIeN0ey5gOffCzLEHJjipxkA01JWGBTFx5QdNaQpuCRN5BRIRbZzlBwDTtc9XMmy2hbMRUtRlgH6ktHqEMiPAJQTVrO0GdNEviZmRyzOQySZV+TOSy06cmvOEWhkJnvTVG1rZsiBmbGnN7eHG/qDQKqyhALmQLjtvg5CEtdPJ1Cg85dOMv941H+Kse+6Q0lGM6bPI=;LbYpeGNS6tVPWrXR3A8sag=="
 ---
 

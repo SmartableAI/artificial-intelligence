@@ -90,20 +90,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Forrester: 5 key advances driving AI 2.0"
-    excerpt: "Analyst firm Forrester has released a new report detailing five areas of AI advancement leading to AI 2.0 that companies should be looking into adopting."
-    publishedDateTime: 2021-02-11T17:35:00Z
-    webUrl: "https://sdtimes.com/ai/forrester-5-key-advances-driving-ai-2-0/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 67
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2019/04/anatomy-1751201_960_720-1.png"
-        width: 847
-        height: 720
-        isCached: true
   - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
     excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
     publishedDateTime: 2021-02-16T05:08:00Z
