@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-driving cars are among us but drivers beware"
+    excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
+    publishedDateTime: 2021-02-12T01:37:00Z
+    webUrl: "https://theweeklydriver.com/2021/02/self-driving-cars-are-among-us-but-drivers-beware/"
+    type: article
+    provider:
+      name: The Weekly Driver
+      domain: theweeklydriver.com
+    quality: 24
+    images:
+      - url: "https://theweeklydriver.com/wp-content/uploads/2021/02/800px-Tesla_Model_S_digital_panels.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "fYDDDbNlQM+rxNbqBB5euH7W2dovBf6k9GAHTl2ljEAfbAWviViYWFdpf0pzzjzEYJmNO7WbQUOMgN7mZjWdhdAbudvqOYfavuCGBcWvZhbbeMn2rd0nzl3o9ynAtQGXIsNh25ECR6zTGk9qyZbcjxki6+pIsI95O3wrI0xlxZcjFZJEUFhLA4hDONGVf4QLE9OlI8MYvJw6dTi6aMJluvDr+3BepVfSFqIV2XKSWOHQ3HwJ62wgG2U41CIcR6HKn21d2NTTLcg6GIw3/E96gpllCZ9jXVV5skgAY0xhiFwYpcmjw3Rhcby0skpwTvtUVqzcAgXAWyardMav/gO8V9m5cWHkrdsf0s2uvhSkooEnkVFnBIYVAajwknurioaCvHs7hjNg7YAB+bn5rN2Y2KPI9kkRQT5yHe+16HVQfka9jWz/ba60cbW+1UPreaVBL5GKvseMhM4t4+RfdbQmbtJj01H4xnDez7Ir2eLqz4Pc77UOV+SXw4fvtAduyzh8dRoqW5WhgfMSXvdWoZ1yEQ==;u7Oj5F3nWuOEjNdujIgECQ=="
 ---

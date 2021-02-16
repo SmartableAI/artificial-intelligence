@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
-    excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
-    publishedDateTime: 2021-02-11T16:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
   - title: "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch"
     excerpt: "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer."
     publishedDateTime: 2021-02-12T16:26:00Z
@@ -54,79 +43,19 @@ related:
         width: 1024
         height: 578
         isCached: true
-  - title: "IOTech edge software platform to support Computer Vision and AI at the IoT edge"
-    excerpt: "IOTech edge software platform to support Computer Vision and AI at the IoT edge . Edge software company IOTech has announced that the"
-    publishedDateTime: 2021-02-12T05:07:00Z
-    webUrl: "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/"
+  - title: "HPE plans second Spaceborne computer, will be linked to Microsoft Azure"
+    excerpt: "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later."
+    publishedDateTime: 2021-02-12T10:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 70
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IOTech-edge-software-platform-to-support-Computer-Vision-and-AI.jpg"
+      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
         width: 1200
-        height: 677
-        isCached: true
-  - title: "How Computers See Us: Microsoft Fellow Works to Fight Discrimination Through AI | CU Boulder today"
-    excerpt: "Morgan Klaus Scheuerman, a computer science PhD student, has been awarded the Microsoft Research Fellowship for 2021. He investigates how and why facial recognition technologies are wrong. Credit: Casey Cass / CU kei Growing up in a traditional working-class family in one of the most conservative counties in Maryland,"
-    publishedDateTime: 2021-02-16T06:18:00Z
-    webUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 62
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/How-Computers-See-Us-Microsoft-Fellow-Works-to-Fight-Discrimination.jpg"
-        width: 750
-        height: 539
-        isCached: true
-  - title: "NASA sends AI to space with first commercial edge computing system"
-    excerpt: "AI is going to space with a new high-performance commercial computer from HPE that will be used on by astronauts on the International Space Station."
-    publishedDateTime: 2021-02-11T20:20:00Z
-    webUrl: "https://www.fedscoop.com/nasa-ai-space-commercial-edge-computing-microsoft-azure-hpe/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/11/space-walk-991_1920.jpg"
-        width: 1920
-        height: 1270
-        isCached: true
-  - title: "NASA, HPE to Test Edge Computing System to Deliver AI in Space"
-    excerpt: "NASA and Hewlett Packard Enterprise (HPE) have announced a collaborative agreement to test edge computing with a new computer designed to deliver artificial intelligence (AI) in space. The new technology will increase space exploration and astronauts’ self-sufficiency by providing real-time data processing with advanced commercial edge computing in space."
-    publishedDateTime: 2021-02-12T21:25:00Z
-    webUrl: "https://www.executivegov.com/2021/02/nasa-hpe-to-test-edge-computing-system-to-deliver-ai-in-space/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 39
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/08/cf/5f/35/37/54/cb/74/c4/space_20210108.png"
-        width: 272
-        height: 270
-        isCached: true
-  - title: "Now that’s edge computing"
-    excerpt: "Astronauts at the International Space Station will soon be getting a high-performance computer that will connect them to Microsoft’s Azure cloud."
-    publishedDateTime: 2021-02-12T20:40:00Z
-    webUrl: "https://gcn.com/articles/2021/02/12/iss-hpe-computer-azure.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 24
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/Nov-2012/spacestation.png"
-        width: 620
-        height: 300
+        height: 630
         isCached: true
   - title: "HPE goes to space with NASA partnership to launch edge computer into orbit"
     excerpt: "Hewlett Packard Enterprise Co. will send a specialized edge computing system to the International Space Station this month to give astronauts access to more processing power for research projects. The initiative,"
@@ -141,20 +70,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/hpe.png"
         width: 749
         height: 419
-        isCached: true
-  - title: "Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities"
-    excerpt: "Hewlett Packard Enterprise (HPE) today announced it is accelerating space exploration and increasing self-sufficiency for astronauts by enabling real-time data processing with advanced commercial edge computing in space for the first time."
-    publishedDateTime: 2021-02-12T05:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-first-time-events-diagnosis-and-treatment-ecf651583d0e46b683467b5dda520726"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "q2/hEWsGX3ILkuPr4z/B4iIaP9rSnZSJ15gQPlIZ0ltCx+u5AwsJ5ylNHw6o+Ue59FkKV6vhLScxEx1ULbDbL9GuS+SyXcBLD1nxXgOTqtqRgI0oAD6cmsVkA+rka1MpOS2FfD5dTyjBWyrkWlHRsQjy607wkQMxtjbSR129UiuxMOmDGYXKo2Tw+GiMXoGd5ajsaZE3mAldhNsYuanq5jrI3enGnYVqs0mGeiD7FDgJC5LSKjPJHW2Wk8YyEvwL/txsS4DbuWNhfS1Tfw8osjnIbzZQocKI1fnjDyYn92Yv1CGtAFmJbcO/xOSLb7NhznJkLTepbdB8sdtF64FnE5CMiqiUUP/omU+txJZuRCr/SbOum8X8zGmlYyZQdNcxIq+MD1N1izuVDyFtoykOtfoAtLc93yJBUxw7Pv/u2SCfUVYZ+DSCG6Zm1wZWHPFgEaTDZ9MwaGVUGtlxLXZxOV6Gn1ijQVQAuk4WEkwuf4dHLlxon275rXo6bB4eBpm6j69rYxXUfFqZHwbtQe7KsQ==;6nuueDepfGpRI/3RdVDu+Q=="

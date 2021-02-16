@@ -29,99 +29,78 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2021"
-    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
-    publishedDateTime: 2021-02-15T18:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2021-2021-02-15"
+  - title: "2 Self-Driving Car Stocks to Buy in 2021"
+    excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
+    publishedDateTime: 2021-02-11T21:20:00Z
+    webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize"
         width: 1200
-        height: 630
+        height: 785
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Market Share, 2021 Global Industry Trends, Demand, Top Players, Industry Size, Future Growth 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2021 (The Expresswire) -- Global \"Artificial Intelligence (AI) Market\" (2021) thoroughly scrutinizes the effects of a wide range of factors impacting the market ..."
-    publishedDateTime: 2021-02-16T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-market-share-2021-global-industry-trends-demand-top-players-industry-size-future-growth-2023-2021-02-15"
+  - title: "Toyota and Aurora partner on self-driving cars"
+    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
+        width: 1920
+        height: 1143
         isCached: true
-  - title: "Artificial Intelligence (AI) In Healthcare Market Size is to Expected to Reach US $ 99.491 Billion at a 48.7% CAGR by Forecast Period 2021 to 2027"
-    excerpt: "Allied Analytics –:Advancements in AI systems for enhanced AI capabilities, dearth of skilled workforce, and increase in applications of innovative screening methods drive the growth of the market. However,"
-    publishedDateTime: 2021-02-12T09:02:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-02-12/artificial-intelligence-ai-in-healthcare-market-size-is-to-expected-to-reach-us-99491-billion-a"
+  - title: "The self-driving Toyota is coming"
+    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+    publishedDateTime: 2021-02-13T06:19:00Z
+    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 31
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+        width: 400
+        height: 266
         isCached: true
-  - title: "Artificial Intelligence In Drug Discovery Market Size, Growth Drivers, Trends and Forecast to 2027"
-    excerpt: "Request a Sample of this report @  The global Artificial Intelligence In Drug Discovery market is expected to reach at a remarkable value and to grow at a considerable CAGR over the forecast period i."
-    publishedDateTime: 2021-02-15T20:12:00Z
-    webUrl: "https://ipsnews.net/business/2021/02/15/artificial-intelligence-in-drug-discovery-market-size-growth-drivers-trends-and-forecast-to-2027/"
+  - title: "The Wealthiest Self-Driving Car Add-On Options"
+    excerpt: "Consider that during the first era of self-driving cars there will be add-ons, and those will likely one day become standard fare."
+    publishedDateTime: 2021-02-13T16:50:00Z
+    webUrl: "https://www.newsoneplace.com/6956032012/wealthiest-car-options-self-driving"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 23
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 24
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/02/4950-1613406149.png"
-        width: 300
-        height: 281
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/601dc225367d07fd58a05945/0x0.jpg?cropX1=0&cropX2=4595&cropY1=266&cropY2=3328"
+        width: 5616
+        height: 3728
         isCached: true
-  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-02-16T05:34:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-robotics-9e905439ab7f41d191e830ab1499ec4e"
+  - title: "Nissan Says Not In Talks With Apple On Self-driving Cars"
+    excerpt: "Japanese auto maker Nissan said Monday it is not in talks with Apple to develop self-driving cars, a week after Hyundai also denied reports it was discussing the top-secret project with the US tech giant."
+    publishedDateTime: 2021-02-15T06:38:00Z
+    webUrl: "https://www.ibtimes.com/nissan-says-not-talks-apple-self-driving-cars-3145646"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/15/japanese-auto-giant-nissan-has-denied-that-it.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Voice Recognition Market Size 2021 Global Industry Trends, Share, Growth Insight, Size, Competitive Analysis, Statistics, Regional Forecast to 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Voice Recognition Market”"
-    publishedDateTime: 2021-02-12T07:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-2021-global-industry-trends-share-growth-insight-size-competitive-analysis-statistics-regional-forecast-to-2025-2021-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Worldwide Digital Assistants in Healthcare Industry to 2026 – North America is Expected to Hold Significant Market Share – ResearchAndMarkets.com"
-    excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The digital assistants in healthcare market is projected to register a CAGR of almost 33."
-    publishedDateTime: 2021-02-12T08:57:00Z
-    webUrl: "https://www.financialbuzz.com/worldwide-digital-assistants-in-healthcare-industry-to-2026-north-america-is-expected-to-hold-significant-market-share-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "lslXjraPwHkbZEXQ7KKpD4qycPX+mDXGMRPQ+swf9jGMaZ6w8Nf4wMvS2hkgF5tszqbPNYGhQMLQC97J9u0wStz1uTbLf31Ehn4Onxtey4YxPZqxqqCkFzlfAhLNvQusxtRyTysUk+eK89vfyWYQwesQMpBOCzIOXmtTlLU5imNaHTQDNvXzVCbqDld5S2K6aeflcxnKYMk7xNd4ygkkARJ/hA3tuABUKxc8fnOXbUpigpRL0TlREhGNgnJhZbE25Pp87e2tu4eejt08Q4m4at9uMSTverNIhDH6vBd4KJqtU5NMHT9FlQEcWyPD7bDgnfGZpi2hX5zQ2Zghqr0Po69mOMKUMtyZ2L12R+AJPbg=;MXoFaYH2OH1zMHFglz0/jw=="
 ---

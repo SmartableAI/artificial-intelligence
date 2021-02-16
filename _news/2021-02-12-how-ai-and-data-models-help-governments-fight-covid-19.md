@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence for Drug Discovery and Development in the era of Covid-19"
+    excerpt: "It takes $2.6 billion for developing a new drug that gains market approval as per the research conducted by Tufts Center for the Study of Drug Development."
+    publishedDateTime: 2021-02-12T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-drug-discovery-development-mahalingam-ph-d"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGfF6u9tSWD_g/article-cover_image-shrink_720_1280/0/1613107209374?e=1619049600&v=beta&t=KA1gmS8nC6_1xtICvlEyeyFFORlkKHFt0OoCNVxcTPU"
+        width: 1079
+        height: 720
+        isCached: true
   - title: "Georgia Startup Races to Complete AI-powered Voice-based COVID-19 Screening Tool"
     excerpt: "Width='300' Height='173'/><br/>The COVIDvoice Project uses AI to turn voice samples into a COVID screening application. <a href ="
     publishedDateTime: 2021-02-11T18:38:00Z

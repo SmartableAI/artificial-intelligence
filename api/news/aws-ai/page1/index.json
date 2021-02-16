@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-15-exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler.md",
-      "title": "Exploring AWS SageMaker’s new features — Formation Stacks, Data Wrangler",
-      "excerpt": "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December.",
+      "path": "_news/2021-02-15-exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store.md",
+      "title": "Exploring AWS SageMaker’s new features — Clarify, Pipelines, Feature Store",
+      "excerpt": "Are you considering AWS SageMaker for your machine learning hub? Here's a hands-on look at some key, newly delivered, capabilities.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/",
-      "originalUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/",
+      "webUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/",
+      "originalUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 112,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker-Pipelines.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 617,
+          "height": 635,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,8 +24,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/",
+      "ampWebUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/",
       "publishedDateTime": "2021-02-14T08:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -211,7 +211,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -276,6 +276,40 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season.md",
+      "title": "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season",
+      "excerpt": "AWS machine learning and analytics services continue to bring deeper insights to the game of football and enhance the fan experience with new advanced statistics including Most Pressed Player, Attacking Zones,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210211005287/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210211005287/aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1430,49 +1464,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-amazons-ai-is-helping-the-police-watch-you.md",
-      "title": "Amazon's AI Is Helping the Police Watch You",
-      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

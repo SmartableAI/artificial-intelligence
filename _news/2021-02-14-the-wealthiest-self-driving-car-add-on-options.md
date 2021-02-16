@@ -25,65 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "The Nine Ground Rules For A Driving Robot That Can Drive A Non-Driverless Car"
-    excerpt: "These are the nine key ground rules for devising a driving robot that will turn any car into essentially a self-driving car."
-    publishedDateTime: 2021-02-11T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/"
+  - title: "2 Self-Driving Car Stocks to Buy in 2021"
+    excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
+    publishedDateTime: 2021-02-11T21:20:00Z
+    webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6024c713431d57f28c582277%2F0x0.jpg%3FcropX1%3D438%26cropX2%3D3976%26cropY1%3D71%26cropY2%3D2062"
-        width: 1199
-        height: 675
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize"
+        width: 1200
+        height: 785
         isCached: true
-  - title: "The Future of Driverless Cars Is Now"
-    excerpt: "In a series of conversations between film director Martin Scorcese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series \"Pretend It's a City,\" somehow the subject of self-driving cars came up."
-    publishedDateTime: 2021-02-15T13:06:00Z
-    webUrl: "https://www.nextavenue.org/the-future-of-autonomous-vehicles-is-now/"
-    ampWebUrl: "https://www.nextavenue.org/the-future-of-autonomous-vehicles-is-now/amp/"
-    cdnAmpWebUrl: "https://www-nextavenue-org.cdn.ampproject.org/c/s/www.nextavenue.org/the-future-of-autonomous-vehicles-is-now/amp/"
+  - title: "Self-Driving Car Market Trend and Forecast"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
+    publishedDateTime: 2021-02-12T10:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12"
     type: article
     provider:
-      name: Next Avenue
-      domain: nextavenue.org
-    quality: 59
-    images:
-      - url: "https://media.tpt.cloud/nextavenue/uploads/2021/02/driverless-cars.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Tesla Will Make Their Driverless Cars in Buffalo"
-    excerpt: "Add 'driverless cars' to the list of things 'Made in Buffalo.' Cheerios, Oxford Pennants, Sahlen's hot dogs -- and artificial intelligence."
-    publishedDateTime: 2021-02-11T19:21:00Z
-    webUrl: "https://wyrk.com/tesla-will-make-their-driverless-cars-in-buffalo/"
-    type: article
-    provider:
-      name: WYRK
-      domain: wyrk.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 54
     images:
-      - url: "https://townsquare.media/site/10/files/2021/02/GettyImages-1150569888.jpg?w=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 810
+        height: 630
         isCached: true
-  - title: "Self-driving cars are among us but drivers beware"
-    excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
-    publishedDateTime: 2021-02-12T01:37:00Z
-    webUrl: "https://theweeklydriver.com/2021/02/self-driving-cars-are-among-us-but-drivers-beware/"
+  - title: "Toyota and Aurora partner on self-driving cars"
+    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
+    publishedDateTime: 2021-02-11T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
     type: article
     provider:
-      name: The Weekly Driver
-      domain: theweeklydriver.com
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 24
     images:
-      - url: "https://theweeklydriver.com/wp-content/uploads/2021/02/800px-Tesla_Model_S_digital_panels.jpg"
-        width: 800
-        height: 600
+      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
+        width: 1920
+        height: 1143
+        isCached: true
+  - title: "The self-driving Toyota is coming"
+    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
+    publishedDateTime: 2021-02-13T06:19:00Z
+    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "Nissan Says Not In Talks With Apple On Self-driving Cars"
+    excerpt: "Japanese auto maker Nissan said Monday it is not in talks with Apple to develop self-driving cars, a week after Hyundai also denied reports it was discussing the top-secret project with the US tech giant."
+    publishedDateTime: 2021-02-15T06:38:00Z
+    webUrl: "https://www.ibtimes.com/nissan-says-not-talks-apple-self-driving-cars-3145646"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/15/japanese-auto-giant-nissan-has-denied-that-it.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "9iZc5oE2C+ppe1iCVSwnDq3QX4fT0z9+/fgBThEs5NObYPG/5hD21ZDp4xy/+y2xRvhuC2cmtJjkaNmWja2ylDj8u8E8z1J7T0HuW6XvqA3aSVQxnx5NU9KuAtz8PLvT3kEkcaJBPe09pWvShst/qMOGETnMRzWwH16HW37HRM75f8zfvCCP2iegQ8FJf7e1Y5BGfQzAr8q7p42TDd0ph3jTkZYbHwvRBO0SPsNZRlrz3S+2iIfi1Iej+ap9x2OidxTN94q7xKe89OfZPnscKojw/RHvTRNfc/jj6WMNZHN4unZhYuIbIVE9uAkbmN5arVm8AhZNKOCj6qB/yX3+mTyoGoKSJ1J6pCTHUfcCpzJ6aTqbpuCPw1UdRqSZ4gj+3I9CTvzGvdmcCA/JNtiyHLt1IH3lU5MrX1WdtumDc6F7QA6maBmwljS+mI6Zak6Y1nNlaNXosLP143CKRgh5NPzYWhwg6Lp5oSJ2aVMRQf/ykZdI3XO0Sa/3p6BlYhsY2Ey7xPN5XTkAElZQvZjsgw==;bddFarsZBTCIsAqnMpF8WQ=="

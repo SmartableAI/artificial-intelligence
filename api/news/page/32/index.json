@@ -2,6 +2,160 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-01-21-the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones.md",
+      "title": "The Enterprise Data And AI Journey To The Cloud: Three Fundamental Milestones",
+      "excerpt": "Managing Director, Data & AI at Accenture's Microsoft Business Group in Europe. 2020 has been a whirlwind in the development and adoption of technology, especially data analytics, artificial intelligence and machine learning and automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/amp/",
+      "publishedDateTime": "2021-01-21T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-how-to-build-a-corporate-ai-center-of-excellence.md",
+      "title": "How To Build A Corporate AI Center Of Excellence",
+      "excerpt": "There is hardly an industry that is not affected by AI, hardly a business function that will be left untouched.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/how-to-build-a-corporate-ai-center-of-excellence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/how-to-build-a-corporate-ai-center-of-excellence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efba41d3855ae0007ddff96%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/how-to-build-a-corporate-ai-center-of-excellence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/21/how-to-build-a-corporate-ai-center-of-excellence/amp/",
+      "publishedDateTime": "2021-01-21T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-metaethics-meta-intelligence-and-the-rise-of-ai.md",
+      "title": "Metaethics, Meta-Intelligence And The Rise Of AI",
+      "excerpt": "With every new major transformation at a societal level driven by technology, there will be new concerns and challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008510b4bf953e545c92756%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/amp/",
+      "publishedDateTime": "2021-01-21T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-this-chinese-lab-is-aiming-for-big-ai-breakthroughs.md",
       "title": "This Chinese Lab Is Aiming for Big AI Breakthroughs",
       "excerpt": "China produces as many artificial intelligence researchers as the US, but it lags in key fields like machine learning. The government hopes to make up ground.",
@@ -1056,153 +1210,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish.md",
-      "title": "CES 2021 Celebrates New Era With Whimsical Robots, AI Influencers And Billie Eilish",
-      "excerpt": "Meet the robots of CES 2021, ones that will pour you a glass of wine, soar you across the sky and land firmly on the moon. A look at AI innovation with an eye toward sustainability and equity at Samsung,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005fdd972d4e4bb491e4d76%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D840%26cropY1%3D24%26cropY2%3D496",
-          "width": 840,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/",
-      "publishedDateTime": "2021-01-20T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory.md",
-      "title": "Artificial Intelligence may outsmart our brain in chess, but not in memory",
-      "excerpt": "Artificial Intelligence has shown to be very good at achieving exceptional goals in several fields. Oslo (Norway): A new research has shown that the brain strategy for storing memories is more efficient than that of Artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory",
-      "originalUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/09292545-ba55-4833-ad45-78c3e2364357/etc_3rd_lead_jan_20.jfif",
-          "width": 1920,
-          "height": 1311,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory/242b9a6a-6093-45ac-a09b-968757a53489",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory/242b9a6a-6093-45ac-a09b-968757a53489",
-      "publishedDateTime": "2021-01-20T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-skyrim-modders-have-a-new-machine-learning-tool-that-turns-text-to-realistic-npc-speech.md",
-      "title": "Skyrim modders have a new machine learning tool that turns text to realistic NPC speech",
-      "excerpt": "VASynth creator Dan Ruta used NPC voices from various Bethesda video games to train the tool's machine learning AI models. He published multiple flavors of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
-      "originalUrl": "https://www.techspot.com/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/03/2019-03-21-ts3_thumbs-ba1.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
-      "publishedDateTime": "2021-01-20T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

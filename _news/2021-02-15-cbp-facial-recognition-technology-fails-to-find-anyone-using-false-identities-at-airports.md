@@ -137,6 +137,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Facial recognition under scrutiny as Clearview AI’s practices ruled illegal in Canada"
+    excerpt: "Canadian authorities have deemed Clearview AI's facial recognition practices a “clear violation of the privacy rights of Canadians”."
+    publishedDateTime: 2021-02-16T08:05:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/facial-recognition-under-scrutiny-as-clearview-ais-practices-ruled-illegal-in-canada/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 47
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2019/10/fr.gif"
+        width: 1000
+        height: 671
+        isCached: true
   - title: "Dahua faces scrutiny over its facial recognition software"
     excerpt: "Just three months after being placed on a government blacklist that bans U.S. companies and individuals from investing in the company, Chinese surveillance giant Dahua has once again drawn the ire of federal officials following a report that it has developed intentionally discriminatory analytics software."
     publishedDateTime: 2021-02-11T22:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/environment/worlds-fastest-supercomputer-artifi
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/worlds-fastest-supercomputer-artificial-intelligence-predicts-tsunami-flooding/?amp=true"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     height: 800
     isCached: true
 
-secured: "wtKf8ZXc7q6H6e8FtQAMFgvvsdKF4oCMkmcrmT3XUu9KpDmB6Zu/6bC7K34yqSN0uAT8lDvHq2dGzPQjlo4V3/m63wpC+RCIi9iu7bVuLH8yC4YgTlryMciULXa/1O1E0/fVS+iYE5v0jys68fjSvk7YuYXJBEwUUGsY460UF2Z6GbN+QgStFlr/o2C3JeGzxAFE8MpWQ7mHYrVRZi3c3dZaPZsorEocpjHXemvunXKsQf7VWQnICBgJw+4OLyD59iEYR67BqdxSxVg9eh9kj3t6kept7VlP1pSQP7091cc/My/lEM6lqUjgQ9zWB4ml9dCh0fqq8vvBCIe0xYz1NDAn5bin14cILUfA4//kEDo=;wmFmvjklKmMPUqh1/PIwuA=="
+related:
+  - title: "Fujitsu Leverages World's Fastest Supercomputer 'Fugaku' and AI to Deliver Real-Time Tsunami Prediction in Joint Project"
+    excerpt: "The International Research Institute of Disaster Science at Tohoku University, the Earthquake Research Institute at the University of"
+    publishedDateTime: 2021-02-16T03:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/a19666099/fujitsu-leverages-worlds-fastest-supercomputer-fugaku-and-ai-to-deliver-real-time-tsunami-predicti"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19666099"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19666099"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
+
+secured: "wyrkoTj1auaurF3kOyMUKUQj+CZV1t3hJQkEJHTl1l0r84MRedXnIKWCVo0cRimwr7i5g7H3+Jb6pMe5xqOpUQMr8P1Uzd3IpWRhwXyWy4dpQilkHdNf+QnpHN/NZXZ69fnQJPES7/wyaL1CwYObZmML1WgutSXQ4rUOSIozeognx9IbnC7q67TVQ4KxxVurJG+9biKTPt6GuAdXFVDNdwr3V9lMWMO42Vr5QQvMfHJ36CHyUFeVn7X+qPlfHV4cgLgcuspwmgaYD29NoSp1S6nGyI4kEwhEK/VOxX2nweV0nQ3n+wXrK5rJ6Q+PlT78orbYlZmq3XPhZ9Y56Cpvrf0L3CQ7urWaeZgmHMl+JG0k5TIsbDOiN4blt4a+Le5Rd2yDzZCH1406pjoT0Ou1jxz6wW/rFawNb/QZJSUddDstefpGlQ86EKcNxIaIObhOrodu7JRHTKIvOaTPOfvGBOc4uJYo4tV0vfm02lhisYdze9OxFSMYpIiqHx7VEk+OlndEXlrJ+G598fw1Y7gevg==;bwTzftQ7y5x1RKl6Eo1yvg=="
 ---
 

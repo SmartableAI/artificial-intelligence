@@ -2,27 +2,23 @@
 category: news
 title: "Incorporating artificial intelligence in Indian healthcare"
 excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."
-publishedDateTime: 2021-02-16T06:25:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=801986"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=801986"
+publishedDateTime: 2021-02-16T05:48:00Z
+originalUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+webUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+ampWebUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "http://www.daijiworld.in/images3/sq_021621_vkfurn8.jpg"
-    width: 280
-    height: 250
-    isCached: true
 
 related:
   - title: "Healthcare is adopting AI much faster since the pandemic began"
@@ -56,6 +52,6 @@ related:
         height: 578
         isCached: true
 
-secured: "xM62of1iidE5cL1Wt/B/iBeHrmcsmBd2Vh/h5HcFOVLvHaSh66g8pAdvLa5McVV58gHwIgLgHrbArMIMm0ULTCWldv+vfV6TQzYZWqEOkj6svFKnVKEcVDvYjZz5RzEnAqZdApHrcI3uRJD0e6cTj/4Sm3kjqCtqd7RMi3qTykj/wofj07RdJWFhuUGRvKeoF9nuMTR3uKfjGdDhZlleuPSgruY1ZnhQ4ango2la7Q+Vml1dzTo6GoG8EznKV7QvS0f/W1JBJqtlBlieCeusyQZ9VJ7L+ARFZgNawFOTllj2yT2aOYydxPBLrjYbFljz1rnck817+t5aGfNyAz08Yf9emg/StHmGvOOe7U9hPSw=;zLIcaKPv31JFXt9GtP4yDw=="
+secured: "aCBrwwS1WY27FfVgXvFwe6G5yMKjjNHLTdA65bIRNDvX1uO50tUD92tPf6ZeWDiFppqnSBkeTk9yG0zlwUKjP3BkXMcteuEJXG+cnQEcHSsYiboOmsH7RTzcrJ/yIFYhSWLt9EmuRRbomW/Fr/QuguB3UrkfR59NCVHH5vxXldwExznDVvbafJ6G16sOZhHc8klQzKh9R2up479W614TP8abhjWKwJZM1xw2zbqQsLJzlKvk6c+K1X4ZAnBZiqsrijwwsJL1AO1hGkDorgdsKHJ7BmPISWH/A8WJhM0Nzw9VWNzVlQ9VfDRDVvgEwQw/INRBGafl81qRcvyqH9iQL8FgDv/0UYfihosvxrd2kpA=;wdeigxLWN33Y4k6COqrrlw=="
 ---
 

@@ -43,22 +43,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station"
-    excerpt: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station . Among the cargo to be launched into"
-    publishedDateTime: 2021-02-11T16:27:00Z
-    webUrl: "https://www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 45
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/A-cloud-connected-AI-enabled-commercial-computer-is-on-its-way-to.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "+5cQbgXlRHTKhqd2cMZATbwkMoCPXW9qNT5Kn7p6v4xTJSh45JlN+7r3nKr52lcULmo0iKTLnDG/rnkLAuNFHGvaP7njfkIly5XdxDTdlR7Z9w24j82DUkSby5OwZhEHUICKERJoslrzZD2TFLkcZoC6z0hlCQg+G34HwNJSeeznU3kU3S7vNho54H8TNU+FalBGv743vDVqaiqYaXHAcujW7f7Qf9AgBa9my+GE6y28FZp6uFptNcvjOFUXklIzNr4vNe1d5cYUWOmmjHivz0wun/aLWwrcgOmYcSraiDXau+/ST+Uoe+PCfrxzCek9rnGGfGjTUzYuHjxXkJttGwM6thIkB7TQ8rVz0zOau+eMkxYRSzvXZoh1G0q7RZKtY+5irZULwZRFMwaNtwDYSPtn+Dnk6czqmheMOP7Ojv2szZUsV0qMv4pEVP5Fc/qxkVS7VmBNECyLXz1cN5krBNryWQNzrZcZhxRFl8tmWjGWnLAWkbUF6iqJODO+Y78czwiHQYKM2QlOK6OYVBM05A==;ptK79eXYiPzIt+GYsyGngQ=="
 ---

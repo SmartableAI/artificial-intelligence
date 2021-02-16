@@ -123,6 +123,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Facial recognition under scrutiny as Clearview AI’s practices ruled illegal in Canada"
+    excerpt: "Canadian authorities have deemed Clearview AI's facial recognition practices a “clear violation of the privacy rights of Canadians”."
+    publishedDateTime: 2021-02-16T08:05:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/facial-recognition-under-scrutiny-as-clearview-ais-practices-ruled-illegal-in-canada/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 47
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2019/10/fr.gif"
+        width: 1000
+        height: 671
+        isCached: true
   - title: "CBP facial recognition technology fails to find anyone using false identities at airports"
     excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
     publishedDateTime: 2021-02-15T03:01:00Z

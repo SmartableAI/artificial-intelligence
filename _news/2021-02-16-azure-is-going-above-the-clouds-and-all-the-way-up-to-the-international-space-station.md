@@ -9,8 +9,8 @@ ampWebUrl: "https://www.windowscentral.com/azure-going-above-clouds-all-way-inte
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station?amp"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Windows Central
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station"
-    excerpt: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station . Among the cargo to be launched into"
-    publishedDateTime: 2021-02-11T16:27:00Z
-    webUrl: "https://www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 45
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/A-cloud-connected-AI-enabled-commercial-computer-is-on-its-way-to.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Connect Azure to the International Space Station with Hewlett Packard Enterprise | Azure blog and updates"
     excerpt: "Connect Azure to the International Space Station with Hewlett Packard Enterprise | Azure blog and updates Today we announce our"
     publishedDateTime: 2021-02-12T03:17:00Z

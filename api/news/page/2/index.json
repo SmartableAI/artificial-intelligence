@@ -53,21 +53,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-15-exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler.md",
-      "title": "Exploring AWS SageMaker’s new features — Formation Stacks, Data Wrangler",
-      "excerpt": "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December.",
+      "path": "_news/2021-02-15-exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store.md",
+      "title": "Exploring AWS SageMaker’s new features — Clarify, Pipelines, Feature Store",
+      "excerpt": "Are you considering AWS SageMaker for your machine learning hub? Here's a hands-on look at some key, newly delivered, capabilities.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/",
-      "originalUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/",
+      "webUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/",
+      "originalUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 112,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker-Pipelines.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 617,
+          "height": 635,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,8 +75,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/",
+      "ampWebUrl": "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/",
       "publishedDateTime": "2021-02-14T08:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -478,7 +478,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -635,7 +635,7 @@
       "originalUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -1079,6 +1079,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-13-microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch.md",
+      "title": "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch",
+      "excerpt": "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/",
+      "originalUrl": "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2021/02/Azure-Space-Microsoft.jpg",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp",
+      "publishedDateTime": "2021-02-12T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-new-machine-learning-theory-raises-questions-about-nature-of-science.md",
       "title": "New machine learning theory raises questions about nature of science",
       "excerpt": "A novel computer algorithm, or set of rules, that accurately predicts the orbits of planets in the solar system could be adapted to better predict and control the behavior of the plasma that fuels fusion facilities designed to harvest on Earth the fusion energy that powers the sun and stars.",
@@ -1220,58 +1263,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-deep-learning-sometimes-it-pays-to-go-shallow.md",
-      "title": "Deep Learning? Sometimes It Pays To Go Shallow",
-      "excerpt": "Deep learning is the current darling of AI. Used by behemoths such as Microsoft, Google and Amazon, it leverages artificial neural networks that “learn” through exposure to immense amounts of data. By immense we mean internet-scale amounts — or billions of documents at a minimum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-learning-sometimes-it-pays-to-go-shallow/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/12/deep-learning-sometimes-it-pays-to-go-shallow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8c0a4bcc30e0006c1d9f4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

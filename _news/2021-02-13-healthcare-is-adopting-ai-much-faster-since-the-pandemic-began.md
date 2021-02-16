@@ -47,18 +47,15 @@ related:
         isCached: true
   - title: "Incorporating artificial intelligence in Indian healthcare"
     excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."
-    publishedDateTime: 2021-02-16T06:25:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=801986"
+    publishedDateTime: 2021-02-16T05:48:00Z
+    webUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+    ampWebUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Sify.com
+      domain: sify.com
     quality: 54
-    images:
-      - url: "http://www.daijiworld.in/images3/sq_021621_vkfurn8.jpg"
-        width: 280
-        height: 250
-        isCached: true
 
 secured: "kscytyj0cD0ThXFNlkZYRsVCMfXVTlRRWVerOFC7U7h2RQrez8G7mLwUGWu3UHUXCRa6sXLTAv+H1KetHCWKsOsJuar9HpgdZfjuWlnpNqdgKoXnhvGP3XLEnljwmmO4Jhz0YuG9bqtW8RvAV18IXcpgrnR6f9MMXA73Dr4nU60eA1JqRv5pJVxn3XXVJ96InGXCpP3g8cMD2SgAkZwZ2LTJPZFI3maa2SoWDxi1h7XhiA1FbU3/6F7rFfcHywoAkq2Dw48bkl/4ofMe1EANKex9iLftsgW6TgFCtejjJGTxt9L7OFbrSYAo9QCZle3phEV1lKSgh3d5D2shll5e0Fqb8m1ECscgPLu9D00RdlPXMP5Van+O7EIw7ofTwQ8kSDXqkAaLqqVrwTNz34ziF4YDzQRC64gPUiQotMHZwcTwgTSoErJOfjh6zpTKVMKRjhX75eVo5Ky3rM+HBSiNYU4AhfAsWVMw7h6CsiF4WuA4sfeHKHVGu4XPZa7PVVljXhCXOjJeWJkod4KiXbIU8g==;Zcq+N3krcH4VEugmihN6Sw=="
 ---

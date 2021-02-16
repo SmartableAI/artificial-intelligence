@@ -25,94 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Volkswagen will collaborate on self-driving car software"
-    excerpt: "VW plans to use Microsoft's expertise to build a cloud-based platform for future autonomous technologies and driver-assist systems."
-    publishedDateTime: 2021-02-11T15:22:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/microsoft-volkswagen-self-driving-car-software/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/"
+  - title: "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch"
+    excerpt: "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer."
+    publishedDateTime: 2021-02-12T16:26:00Z
+    webUrl: "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 73
     images:
-      - url: "https://cnet3.cbsistatic.com/img/Uxb-ku5Ohm5TlkF7oBGUQ-AjDd4=/2021/02/11/08b48d05-cd96-4e30-bf94-9a371a41ae28/ogi-vw.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "News24.com | WATCH | VW taps Microsoft cloud for self driving cars"
-    excerpt: "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'"
-    publishedDateTime: 2021-02-12T07:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-  - title: "SPEEDCARGO, Microsoft team up to disrupt air cargo and logistics with advanced 3D vision technologies"
-    excerpt: "Singapore-based SPEEDCARGO Technologies announces collaboration with Microsoft’s Azure Depth Platform to disrupt the air cargo & logistics industry with 3D vision technologies"
-    publishedDateTime: 2021-02-15T09:22:00Z
-    webUrl: "https://www.stattimes.com/news/speedcargo-microsoft-team-up-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies/"
-    ampWebUrl: "https://www.stattimes.com/news/speedcargo-microsoft-team-up-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies/amp/"
-    cdnAmpWebUrl: "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/speedcargo-microsoft-team-up-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies/amp/"
-    type: article
-    provider:
-      name: air cargo
-      domain: stattimes.com
-    quality: 61
-    images:
-      - url: "https://www.stattimes.com/statbackend/assets/uploads/original/speedcargo-partners-with-microsoft-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Volkswagen To Use Microsoft’s Cloud To Help Develop Autonomous Driving Tech"
-    excerpt: "By using Microsoft's cloud technology, Volkswagen hopes to speed up the development of its autonomous vehicles."
-    publishedDateTime: 2021-02-11T17:36:00Z
-    webUrl: "https://www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/"
-    ampWebUrl: "https://www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/02/2021-Volkswagen-ID-Range-1024x555.jpg"
+      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/Azure-Space-Microsoft.jpg"
         width: 1024
-        height: 555
+        height: 578
         isCached: true
-  - title: "Volkswagen Group And Microsoft Speed Automated Driving Development With Cloud Computing"
-    excerpt: "The quest for automated vehicles continues In fact, with the deluge of new vehicles in the market, there has been glimpse of automation in one way or another. At Volkswagen Group, automated driving remains one of its goals and the German auto group has partnered with Microsoft to accelerate the development of automated functions into its vehicle offerings."
-    publishedDateTime: 2021-02-13T20:15:00Z
-    webUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/"
-    ampWebUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
-    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
+  - title: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2"
+    excerpt: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2 . Cloud computing and artificial intelligence"
+    publishedDateTime: 2021-02-13T09:48:00Z
+    webUrl: "https://www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/amp/"
     type: article
     provider:
-      name: hotcars
-      domain: hotcars.com
-    quality: 51
+      name: Windows
+      domain: compsmag.com
+    quality: 65
     images:
-      - url: "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2021/02/VW-ID.concept.jpg"
-        width: 1710
-        height: 900
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/HPE-and-Microsoft-launch-AI-capabilities-to-the-space-station.jpg"
+        width: 799
+        height: 533
         isCached: true
-  - title: "Volkswagen will use Microsoft’s cloud technologies to create new Automated Driving Platform"
-    excerpt: "Microsoft’s business inadvertently made headlines as Ford, a previous infotainment partner opted to Google’s Cloud services over that of Azure or even AWS. Most of the"
-    publishedDateTime: 2021-02-12T16:51:00Z
-    webUrl: "https://www.onmsft.com/news/volkswagen-will-use-microsofts-cloud-technologies-to-create-new-automated-driving-platform"
+  - title: "HPE goes to space with NASA partnership to launch edge computer into orbit"
+    excerpt: "Hewlett Packard Enterprise Co. will send a specialized edge computing system to the International Space Station this month to give astronauts access to more processing power for research projects. The initiative,"
+    publishedDateTime: 2021-02-11T18:40:00Z
+    webUrl: "https://siliconangle.com/2021/02/11/hpe-goes-space-nasa-partnership-launch-edge-computer-orbit/"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 29
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
     images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/Volkswagen-Automated.jpg"
-        width: 1024
-        height: 768
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/hpe.png"
+        width: 749
+        height: 419
         isCached: true
 
 secured: "SBMF2acFduAxHG4Apoqzr4oJJ7lUe6j2224DMmcNPXgeYK5yR80J3p6Mgh9ShkpcPNeOeLnWtEFKQynmIbX2sODlwTYDomnbhEycw/L+bNfCigrmnr2O+x1wd5Au4JjdBaAqy0mG3UCYU3EID/t/R9an/drdrdFtRrPVQABs3Ajrccl9eUIrt/jGbDBV+rZhtMzlxzuVy5rK8fzch9XTJdbYPqB4ThgnOroBMExwF727his1YpbggS4W6hX3l62kGNdylYXMxOdvw4GQVNb09QpBcBvamtIFcjxrdySU60XLj4u1t1EnsZJHMmodaQtlCpw+/O95EGj3m07P1G0v6tMhYIz04gb+YzTtz7YgFqG19syCEEhSLuaCheHOZzMqNvAm+h8YAdy0Vmn4FioTGOG2MAQPpZJ7yohsNr+nDM8JWm8sP8g2cqAxdm0hbvTVu/inhzNdMgQGoGpIjBxz2uu5PB/HA0DKley9CV9K9BSBW0g0Z9R2eywq2AtjjEMYmEZO+UpHjHQRYswocpWeDA==;eY+a1VskcP9qJDpYWiMqJw=="

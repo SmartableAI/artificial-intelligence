@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-t
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: Business Insider
@@ -26,38 +26,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft and Volkswagen will collaborate on self-driving car software"
-    excerpt: "VW plans to use Microsoft's expertise to build a cloud-based platform for future autonomous technologies and driver-assist systems."
-    publishedDateTime: 2021-02-11T15:22:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/microsoft-volkswagen-self-driving-car-software/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/Uxb-ku5Ohm5TlkF7oBGUQ-AjDd4=/2021/02/11/08b48d05-cd96-4e30-bf94-9a371a41ae28/ogi-vw.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SPEEDCARGO, Microsoft team up to disrupt air cargo and logistics with advanced 3D vision technologies"
-    excerpt: "Singapore-based SPEEDCARGO Technologies announces collaboration with Microsoft’s Azure Depth Platform to disrupt the air cargo & logistics industry with 3D vision technologies"
-    publishedDateTime: 2021-02-15T09:22:00Z
-    webUrl: "https://www.stattimes.com/news/speedcargo-microsoft-team-up-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies/"
-    ampWebUrl: "https://www.stattimes.com/news/speedcargo-microsoft-team-up-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies/amp/"
-    cdnAmpWebUrl: "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/speedcargo-microsoft-team-up-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies/amp/"
-    type: article
-    provider:
-      name: air cargo
-      domain: stattimes.com
-    quality: 61
-    images:
-      - url: "https://www.stattimes.com/statbackend/assets/uploads/original/speedcargo-partners-with-microsoft-to-disrupt-air-cargo-and-logistics-with-advanced-3d-vision-technologies.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Volkswagen To Use Microsoft’s Cloud To Help Develop Autonomous Driving Tech"
     excerpt: "By using Microsoft's cloud technology, Volkswagen hopes to speed up the development of its autonomous vehicles."
     publishedDateTime: 2021-02-11T17:36:00Z
@@ -73,20 +41,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/02/2021-Volkswagen-ID-Range-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "HPE plans second Spaceborne computer, will be linked to Microsoft Azure"
-    excerpt: "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later."
-    publishedDateTime: 2021-02-12T10:50:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Volkswagen Group And Microsoft Speed Automated Driving Development With Cloud Computing"
     excerpt: "The quest for automated vehicles continues In fact, with the deluge of new vehicles in the market, there has been glimpse of automation in one way or another. At Volkswagen Group, automated driving remains one of its goals and the German auto group has partnered with Microsoft to accelerate the development of automated functions into its vehicle offerings."
@@ -104,6 +58,17 @@ related:
         width: 1710
         height: 900
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
+    publishedDateTime: 2021-02-15T08:51:00Z
+    webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+    ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 51
   - title: "Volkswagen will use Microsoft’s cloud technologies to create new Automated Driving Platform"
     excerpt: "Microsoft’s business inadvertently made headlines as Ford, a previous infotainment partner opted to Google’s Cloud services over that of Azure or even AWS. Most of the"
     publishedDateTime: 2021-02-12T16:51:00Z

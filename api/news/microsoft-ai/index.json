@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-16-how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today.md",
+      "title": "How Computers See Us: Microsoft Fellow Works to Fight Discrimination Through AI | CU Boulder today",
+      "excerpt": "Morgan Klaus Scheuerman, a computer science PhD student, has been awarded the Microsoft Research Fellowship for 2021. He investigates how and why facial recognition technologies are wrong. Credit: Casey Cass / CU kei Growing up in a traditional working-class family in one of the most conservative counties in Maryland,",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/",
+      "originalUrl": "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/How-Computers-See-Us-Microsoft-Fellow-Works-to-Fight-Discrimination.jpg",
+          "width": 750,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/",
+      "publishedDateTime": "2021-02-15T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-ibms-hybrid-cloud-strategy-is-gaining-steam.md",
       "title": "IBM’s hybrid cloud strategy is gaining steam",
       "excerpt": "IBM is quietly acquiring capabilities and establishing partnerships that may make it the number one provider of hybrid cloud solutions.",
@@ -52,49 +96,6 @@
         "Microsoft AI",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-azure-is-going-above-the-clouds-and-all-the-way-up-to-the-international-space-station.md",
-      "title": "Azure is going above the clouds and all the way up to the International Space Station",
-      "excerpt": "Later this month, a computer will be sent to the International Space Station that will be connected to Microsoft Azure. The connection will help teams on the station process data quicker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station",
-      "originalUrl": "https://www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station?amp",
-      "publishedDateTime": "2021-02-15T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -151,6 +152,93 @@
       ]
     },
     {
+      "path": "_news/2021-02-13-microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch.md",
+      "title": "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch",
+      "excerpt": "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/",
+      "originalUrl": "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2021/02/Azure-Space-Microsoft.jpg",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp",
+      "publishedDateTime": "2021-02-12T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-news24com-watch-vw-taps-microsoft-cloud-for-self-driving-cars.md",
+      "title": "News24.com | WATCH | VW taps Microsoft cloud for self driving cars",
+      "excerpt": "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "publishedDateTime": "2021-02-11T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-aws-ibm-google-and-microsoft-are-taking-ai-from-10-to-20-according-to-forrester.md",
       "title": "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester",
       "excerpt": "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile.",
@@ -159,7 +247,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -512,8 +600,8 @@
       "title": "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace",
       "excerpt": "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace.",
       "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
-      "originalUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "webUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
+      "originalUrl": "https://www.wboc.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -532,11 +620,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T07:02:00-08:00",
+      "publishedDateTime": "2021-02-08T01:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
+        "name": "WBOC",
+        "domain": "wboc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1366,114 +1454,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream.md",
-      "title": "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream",
-      "excerpt": "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg",
-          "width": 400,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "publishedDateTime": "2021-02-01T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises.md",
-      "title": "Amazon’s Unique Approach To AutoML Makes AI Accessible To Enterprises",
-      "excerpt": "AutoML is a technique where customers bring their data and walk away with a model without worrying about the complex workflow involved in training machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60168f6c53f27a98a70bf662%2F0x0.png",
-          "width": 1000,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
-      "publishedDateTime": "2021-01-31T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "IBM AI",
-        "Google AI"
       ]
     }
   ],

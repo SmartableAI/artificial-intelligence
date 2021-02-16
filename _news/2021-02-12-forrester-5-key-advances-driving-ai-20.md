@@ -106,22 +106,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "VW uses Microsoft’s cloud to develop self-driving software"
-    excerpt: "VW uses Microsoft's cloud to develop self-driving software Volkswagen AG said Thursday that it will use Microsoft Corp's cloud computing"
-    publishedDateTime: 2021-02-11T16:59:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/vw-uses-microsofts-cloud-to-develop-self-driving-software/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/vw-uses-microsofts-cloud-to-develop-self-driving-software/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/vw-uses-microsofts-cloud-to-develop-self-driving-software/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 61
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-        width: 960
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
     excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
     publishedDateTime: 2021-02-16T05:08:00Z
@@ -195,20 +179,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/ISS-Space-Station_shutterstock-1453899434_700x415.jpg"
         width: 700
         height: 415
-        isCached: true
-  - title: "VW, Microsoft Extend Collaboration to Self-Driving Car Software"
-    excerpt: "Volkswagen AG and Microsoft Corp. are expanding their cooperation involving the U.S. software giant’s cloud technology to include speeding up development of automated driving."
-    publishedDateTime: 2021-02-11T15:45:00Z
-    webUrl: "https://www.ttnews.com/articles/vw-microsoft-extend-collaboration-self-driving-car-software"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 41
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/vw-microsoft-1200.jpg?itok=10T2HGKf"
-        width: 470
-        height: 246
         isCached: true
 
 secured: "aRiJCzo4LUd0XuwlaM2y6MX0XRkzOVcYXfvqGOtSgboUrtJySiB5KjIQnl9MY3i7yY0Ao21Lc/ZUgqz54pZhsjyUDwmbb8EsUtl1QQvl1s/Phk6N7DU1tnaGeLpr1aFKVDw6e6ejzpjyY44MG0utYHNLIcUhGFIUTTIDPjN1+i6E3+ZuzMQ12YYk3okAiK0BoSHQQE/OKxue/c4ReyncrKeTWOsHeOFeAIjfTn/K4epJ7+mnR7S+YM/MV2/Qm/rn/7kzLH0DJAVEOxuJxq1142+TM5ZVgsEG/6rD8pnJJu6VGL3KoodoiYIghyjj/hFHvObrD2XDbKONosXhL0y/93X2bD0KlJPttLAH6jYAnbIedf3of35/JcR+BmxcaMoYjJ3zGSjFE/O4i/EhZs8RIFQa0XARr6YXQhhVibMAUnhgtpzX0xctmdgvIT/+q7tUdsSjFi9FVwCPG9mnfSkpB/FAn3PjbVslMb2JqyvjesqKesr6n3slj7xXlQhwUtY/mbQIRIJgwDDO3AD/WagVaA==;iD4dH+W2b/kj7YAoz/4GUw=="

@@ -2,6 +2,144 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-01-26-chinese-electric-carmaker-xpeng-rolls-out-autonomous-highway-driving-features-in-challenge-to-tesla.md",
+      "title": "Chinese electric carmaker Xpeng rolls out autonomous highway driving features in challenge to Tesla",
+      "excerpt": "Xpeng Motors' Navigation Guided Pilot or NGP is rolling out to eligible customers of its P7 sedan in a challenge to Tesla's own software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
+      "originalUrl": "https://www.msn.com/en-us/news/other/chinese-electric-carmaker-xpeng-rolls-out-autonomous-highway-driving-features-in-challenge-to-tesla/ar-BB1d5vjM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106720636-1601341909516-Image_from_iOS_4.jpg?v=1601342118&w=720&h=405",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
+      "publishedDateTime": "2021-01-25T21:40:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
+        "domain": "com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-face-recognition-kiosks-let-you-leave-your-wallet-at-home.md",
+      "title": "Face-recognition kiosks let you leave your wallet at home",
+      "excerpt": "He came to the world of customer engagement platforms after having worked on facial recognition for access control in the security industry. “We were looking to do something that brings ROI [return on investment] to the customers who bought the system ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.israel21c.org/face-recognition-kiosks-let-you-leave-your-wallet-at-home/",
+      "originalUrl": "https://www.israel21c.org/face-recognition-kiosks-let-you-leave-your-wallet-at-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.israel21c.org/wp-content/uploads/2021/01/main-pic-5.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Israel21c",
+        "domain": "israel21c.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage-but-ethical-concerns-abound.md",
+      "title": "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound",
+      "excerpt": "National broadcaster SBS plans to use artificial intelligence (AI) to bring Kim's voice back to life on a new program, \"Competition of the Century: AI vs Human,\" to air later this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122002517-03-ai-singing-show-south-korea-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "publishedDateTime": "2021-01-25T20:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale.md",
       "title": "Graphcore debuts its 'Graphcloud' AI cloud service in association with Cirrascale",
       "excerpt": "Graphcore has teamed up with Cirrascale to launch its new AI Cloud Service dubbed 'Graphcloud'. It will combine Graphcore's own IPU-POD systems with Cirrascale's cloud service infrastruture.",
@@ -1089,153 +1227,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-python-remains-most-popular-programming-language-to-learn.md",
-      "title": "Python remains most popular programming language to learn",
-      "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
-      "originalUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/85083d05-b7b7-4832-a3b1-f1532b6d905e/resize/1200x/f816050b9bf16dda28145dfd5dcf70cd/fullstackdeveloperimage.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "publishedDateTime": "2021-01-25T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-elon-musk-fires-back-at-waymos-ceo-after-he-said-tesla-was-no-competitor-at-all.md",
-      "title": "Elon Musk fires back at Waymo's CEO after he said Tesla was 'no competitor at all'",
-      "excerpt": "Earlier this year, Waymo dropped \"self-driving\" from its vocabulary, saying \"some automakers use the term in an inaccurate way.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
-      "originalUrl": "https://www.msn.com/en-in/autos/news/elon-musk-fires-back-at-waymo-s-ceo-after-he-said-tesla-was-no-competitor-at-all/ar-BB1d4YIx?;pfr=1%3fc&mkt=en-gb%2cen-us&c=11865511300118058293",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 263,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/600ee0f61958200011554bc1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp",
-      "publishedDateTime": "2021-01-25T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
-        "domain": "businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-corticalios-ai-makes-bulk-contract-analysis-faster-and-more-accurate.md",
-      "title": "Cortical.io’s AI makes bulk contract analysis faster and more accurate",
-      "excerpt": "Reviewing large quantities of legal or financial documents can be a chore, but Contract Intelligence promises to cut analysis time by 80%.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/",
-      "originalUrl": "https://venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/corticalio.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/amp/",
-      "publishedDateTime": "2021-01-25T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

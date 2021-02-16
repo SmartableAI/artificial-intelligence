@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/"
 type: article
 quality: 114
-heat: 234
+heat: 214
 published: true
 
 provider:
@@ -108,22 +108,6 @@ related:
         width: 847
         height: 720
         isCached: true
-  - title: "VW uses Microsoft’s cloud to develop self-driving software"
-    excerpt: "VW uses Microsoft's cloud to develop self-driving software Volkswagen AG said Thursday that it will use Microsoft Corp's cloud computing"
-    publishedDateTime: 2021-02-11T16:59:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/vw-uses-microsofts-cloud-to-develop-self-driving-software/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/vw-uses-microsofts-cloud-to-develop-self-driving-software/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/vw-uses-microsofts-cloud-to-develop-self-driving-software/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 61
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-        width: 960
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
     excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
     publishedDateTime: 2021-02-16T05:08:00Z
@@ -197,20 +181,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/ISS-Space-Station_shutterstock-1453899434_700x415.jpg"
         width: 700
         height: 415
-        isCached: true
-  - title: "VW, Microsoft Extend Collaboration to Self-Driving Car Software"
-    excerpt: "Volkswagen AG and Microsoft Corp. are expanding their cooperation involving the U.S. software giant’s cloud technology to include speeding up development of automated driving."
-    publishedDateTime: 2021-02-11T15:45:00Z
-    webUrl: "https://www.ttnews.com/articles/vw-microsoft-extend-collaboration-self-driving-car-software"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 41
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/vw-microsoft-1200.jpg?itok=10T2HGKf"
-        width: 470
-        height: 246
         isCached: true
 
 secured: "I+mXX+bnSCoirId2CIQsd9mTOYn8XG3ZrdhYDSgfjgsapNVcBzIHJOmHtbbVCSIKEUGGmIHN8FMG+eKfsCeJ0DYmgcWTcKTPNcZa4AfYi7gmsAhj3fMYx4qfVlvkE3R6+U+8oAHWk7CtPM2HhECQUOsPilZlQ3a2GyL4kVgzjNQq0fjYj+LTEq0D4ujYkeLoz9PKPC0EdtKZtlFTYB7604ICPJ+LdtDIP6fkGx//UvaDXIy1J1AXGwsv9mLP6d0aPs6TWmSvJlpu3E9+O2nGEkdsgy6cZVBkQEw2MmwaSYYG/tREifujHZLT0LmSn8XwzijoGebQNzIeemvoe3YjGfLoogq8JqXZ1KPgteFvaTgkJAnm5so9i0EtMFDD/BZZTzHKyTdi3zdZrEOwbFTMewi1/9JeRHCJlKe5n7mMGAZni+NDea7tt2LT+R7TMHmXy8YPwGxYH94QOkSyEr/7m9JNVnS3wrTzB1xzxJNbf14DkxKxQTkF/aDTMpAJ4In/+5L4xy+vhVcx0WTxR+MjJg==;AzZETTZYFDZv4MEs5+iUVA=="
