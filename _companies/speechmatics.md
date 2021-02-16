@@ -2,7 +2,7 @@
 name: "Speechmatics"
 overview: "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects."
 type: "profile"
-heat: 50
+heat: 72
 
 website: https://www.speechmatics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Speechmatics"
   url: "https://twitter.com/Speechmatics"
-  followers: 1295
+  followers: 1296
 
 size: 51-200 employees
 yearFounded: 2009
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Speechmatics"
 
-secured: "G1/KrxexzSoKQozk2WdZws0jqp8JhIjhM1FIVUjDy5EZYkYTbmVctgiLhBslTxO4Hfoj/pjaShQy610L/RKSfzCtOEw2Ujx7J1mSxoxsNfHbeu40SpbBcfmiWcVO7I6CNGekjX9Ch2CINx5wLDXrF9pFnNfdcMGuxULl61rfsME2tbY7UTgqGJh8PIPST5fXU+hh0mmkyAhgOwCE/jtaeSskB0cYTFTWk+PSLTHepfJXyTAzUwOpu7k4B4gF9cbZUvfNCh5LayG2z9dVU6pkljypsZDVnirePXoBO/JrXwwWQxFezpOiY9UN+gv6FlG1A8HV1lhKBP8bslAp1AMImFEGGPnXOx87afzNR1zcAdCwSZWsMIERy5Q6Afujl1VWuubthlzMm1Xs9xexJwrgpmEpHKwEmEuzQ4MLCyUzBhY=;yIKJYo8mNau651IfxekW4w=="
+secured: "sk1AoR8WB2NdzzrQkjs1KW0GD8OQ4/3G//mDp59L2C65BHphYaU3p9qPYQgIjhVO//CvETgFteqCPnA4D5UC86IbH0eK7ZCZuSeevYH0vj9waKD0TWIq6q2IwNARtAUgKvocTvdl+YwhqTBRIHjFr3bkbHkxmgjHdkyTKM+IdBDmAkxXG6jxLnJHXf4VzYRs7g/MrmW+fOxvU3RfRXJqR+ZnyG9eVzSXsRSZtUcJVzWYykLOyNNFdGC4RtBCpssrDMgeRw0+BvC//rX+P4eGprttXbIH9BoXPE2mlgkOvj9sVMZRfKxKp40zrSMYNozBG3flAZ+AuFgm0Die6l6TUEPKFSIa4yWwBn/GPb5112UagiUIqyVqhamHLOGbp1iQV6IN0VtnkKewSb4AMuaCwaaU868mgEsWjGvDvLFefgY=;/i514TZFNBTJDIlRscmEnA=="
 ---
 

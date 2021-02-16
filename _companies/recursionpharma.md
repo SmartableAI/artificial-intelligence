@@ -2,7 +2,7 @@
 name: "Recursion Pharmaceuticals"
 overview: "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City."
 type: "profile"
-heat: 64
+heat: 58
 
 website: https://www.recursionpharma.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
 
-secured: "TuDlEvh/O7R4jwh66iBrXV0MNFjjthwIYjFUvf92cZh2B4KLBdg3mGu+2HrNJYlHmHyo1ZKPqtDulDBeXNsRmlxGGUVeSA5xLzqAHdSV/EAP7R4oUQMnu8IRsq8qww3fFWIR+G4A6Vl/GvAC/ICUPiFeGXOD9Bpu7lknh+blbO8fqZbbvY97wo3ErKkrtHGm064Gn62IJAAAKsvUzohnwk8p1vHLVl+f+pZm2OHnnLtR22v2Ex+SXMN4JxuveHbVEwtVjZ/IwITDeIM5nR+tQab7gJV1eLUtzdNDWm0/wt3+G0NzdtHx3z+I2GlvhxLt2D4ZJRgWKai7oh2R7iQ5WlcRxtIt6PlipBMMkKwA6vh8RwOrsBRU8YBtdGC7/0jlIKpeFhWgLSLYcrHe8q4IDrfhM188FzHGAP+gs0mOWu0=;zmqGcAW4/dYI2djqlBRaWQ=="
+secured: "u6NTdDgkrpHgyMk69/oUw5cPCvF8hxEEcyDSkYVFAI1OIcsU9gvURsLAq/3Gf4Kxe5r/VlqRCoC9xUstXr+xx9rw4hzjPdfpSPEfpTV7qriIl6STAPiF/vVl/VzOBfXHtcDYSsquhDABks1knljlPlCsa3iIXmHMG8XzcTbJNjYYFnmQdCnZhqVkqqXY4uWca+uYkR26r3XMGi5MI4ukchmuB2Sd3pRXZZyr0zBwM+WWHmDNUoOi4uZzx9SY9dWhU6QYctht3lKfNPKGwZMYBtAupvx/3uvJRMes7Ev0JDh21Y1ay8texuSc/0AWg4SMqoWlcp/OOOVXLbTiAZFU4FCcngfeeAmgvPohIDY6AfJaofll3goRX2mUHDJIAVyh/rCT+046WxVpBdZthGOxYO1Qq1NvVSPkUImy742QihU=;BCcffBzHZ06ApitbAU6JgQ=="
 ---
 

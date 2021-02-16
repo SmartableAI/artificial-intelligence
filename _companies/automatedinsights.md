@@ -2,7 +2,7 @@
 name: "Automated Insights"
 overview: "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep."
 type: "profile"
-heat: 32
+heat: 50
 
 website: https://automatedinsights.com/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ziizj6u1f6M"
 
-secured: "1RfsDUzxN2/lhjhAV3zSaAUFCeDOjY6XH+tKwUBbANAVUjDogYPPBwPP0i2LaHmDsvFImcsLtTGhHv6rutIwNlmB0bGJeXnCnNO/VlhD2Wg4jeFIxY1mVo28VLq/2wu8M+y+QLyhqLb9lNR1J458tnA+cMdDxQLlcLJZLVz5cQrLB9novERm4FcFs9L7Y/ExDTZY72cbxzK9XcYBk1pCy15KuBHf1r76XrOZaf1IeSpMVRxQ2GFQHDQUSCGt5GyuQkJ7L7oPdwH9pAB6QbbJ6E/eZH9ipTe9tz1ITnrjLj1WR8kcoG15u+91BtIypqKhu/zZ+RtyAk/Nd1N8cInnsY1qXOL50bNJZf5bSMUm8wAjHld+N2WZmcXoUAutAyZDFiWk1bN5DNHUaQ3151l9W9Lq6ICif6D+C/Ce99T+ggc=;uDJRJJaBVuOgis1MdU03oA=="
+secured: "Nt2xNUPQrtmn1obzy3YAtKLenCWoz0SwrdDEHJobiNO8a3jM7lDCUjNI5urC/bj8yWFIktGRINgUd9qyjNKXDCatT43UxLWfMZUrQpZqH9klZ+uwIor2WkA6p9pfPZMDPJ5+TBTCHuZmb+bLtrXRyTlN9GpAeEjXX79+O2jFT+zt6JWXCjc0WZrKpYc+63FmhHrDeNr5gntUdChcXBC14Y8ZSvqhYO5VFrVBzxXqbZCw27qiTlgai4yJREyZQi4euHq0oJl1JvHxggkOt6hBXd27yDtwRJKi7Fj+uYu4E1jgY65KNNNbddDNyy/P50iixFUyRoY86S807hsJXG/rz7w84s4Zwid1xsluIqOUmDD8NLt0J6BBnVNiCzT+tB9z7jz5M97QDWDykAgBu/gB31fTkgH2VfZbuMRNATvhESg=;PyS0JhYMWXINEwUL+A59Fw=="
 ---
 
