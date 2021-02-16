@@ -91,6 +91,22 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "No Facial Recognition Technology Can Be Used In Minnesota"
+    excerpt: "The city council of Minneapolis, the largest city in the state of Minnesota in the United States, passed without objection on February 12 to block"
+    publishedDateTime: 2021-02-16T17:21:00Z
+    webUrl: "https://www.gizchina.com/2021/02/16/no-facial-recognition-technology-can-be-used-in-minnesota/"
+    ampWebUrl: "https://www.gizchina.com/2021/02/16/no-facial-recognition-technology-can-be-used-in-minnesota/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/02/16/no-facial-recognition-technology-can-be-used-in-minnesota/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/01/Facial-Recognition-1024x483-1.jpg"
+        width: 1024
+        height: 483
+        isCached: true
   - title: "Minneapolis City Council approves ordinance banning use of facial recognition technology"
     excerpt: "An ordinance passed by the Minneapolis City Council will ban the use of facial recognition technology in the city."
     publishedDateTime: 2021-02-12T21:28:00Z

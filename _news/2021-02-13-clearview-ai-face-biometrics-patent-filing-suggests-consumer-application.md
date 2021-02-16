@@ -212,6 +212,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Using Responsible AI to Push Digital Transformation"
+    excerpt: "Can businesses implement ethical AI standards that reduce harm while positively transforming the workplace? Just as its development is creating new business opportunities, AI has also delivered some harmful and ethically objectionable outcomes — a symptom of the misguided rush to get exciting technology to market superseding moral,"
+    publishedDateTime: 2021-02-16T17:51:00Z
+    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-to-push-digital-transformation.html"
+    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
+    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 39
   - title: "Minneapolis passes restrictive ban on facial recognition use by police, others"
     excerpt: "The new ordinance follows months of lobbying by the POSTME (Public Oversight of Surveillance Technology and Military Equipment) coalition, which gathered thousands of signatures on petitions asking the City Council to address the issue."
     publishedDateTime: 2021-02-13T00:17:00Z

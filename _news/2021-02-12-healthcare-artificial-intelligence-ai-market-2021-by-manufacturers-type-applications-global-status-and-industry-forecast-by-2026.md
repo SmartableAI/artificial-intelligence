@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI-based Drug Discovery Markets, 2030 - ResearchAndMarkets.com"
+    excerpt: "Focus on Deep Learning and Machine Learning, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The “AI-based Drug Discovery Market: Focus on Machine Learning and Deep Learning, 2020-2030” report features an extensive study of the current market landscape and future potential of the players engaged in offering AI-based services,"
+    publishedDateTime: 2021-02-16T17:44:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-pharmaceutical-manufacturing-health-care-industry-afd4deed0ab74e9cb5f6ca7920363ccb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence (AI) In Healthcare Market Size is to Expected to Reach US $ 99.491 Billion at a 48.7% CAGR by Forecast Period 2021 to 2027"
     excerpt: "Allied Analytics –:Advancements in AI systems for enhanced AI capabilities, dearth of skilled workforce, and increase in applications of innovative screening methods drive the growth of the market. However,"
     publishedDateTime: 2021-02-12T09:02:00Z

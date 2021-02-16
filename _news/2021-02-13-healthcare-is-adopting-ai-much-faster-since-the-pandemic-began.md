@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/healthcare-is-adopti
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
 type: article
 quality: 104
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
         height: 578
         isCached: true
   - title: "Incorporating artificial intelligence in Indian healthcare"
+    excerpt: "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder"
+    publishedDateTime: 2021-02-16T18:03:00Z
+    webUrl: "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    ampWebUrl: "https://www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/02/16/1031670-artificial-intelligence.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Incorporating artificial intelligence in Indian healthcare"
     excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."
     publishedDateTime: 2021-02-16T05:48:00Z
     webUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
@@ -56,6 +72,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "After the Pandemic, Health Care Will Still Be Broken"
+    excerpt: "Argument: After the Pandemic, Health Care Will Still... Even before the COVID-19 pandemic, health care services around the world were due for a digital transformation; with resources relatively scarce and diagnostics increasingly complicated,"
+    publishedDateTime: 2021-02-16T17:47:00Z
+    webUrl: "https://foreignpolicy.com/2021/02/16/ai-artificial-intelligence-health-care-pandemic-covid/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 24
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2021/02/GettyImages-covi-ai-aging-health-system-1230690764.jpg?w=1000"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "kscytyj0cD0ThXFNlkZYRsVCMfXVTlRRWVerOFC7U7h2RQrez8G7mLwUGWu3UHUXCRa6sXLTAv+H1KetHCWKsOsJuar9HpgdZfjuWlnpNqdgKoXnhvGP3XLEnljwmmO4Jhz0YuG9bqtW8RvAV18IXcpgrnR6f9MMXA73Dr4nU60eA1JqRv5pJVxn3XXVJ96InGXCpP3g8cMD2SgAkZwZ2LTJPZFI3maa2SoWDxi1h7XhiA1FbU3/6F7rFfcHywoAkq2Dw48bkl/4ofMe1EANKex9iLftsgW6TgFCtejjJGTxt9L7OFbrSYAo9QCZle3phEV1lKSgh3d5D2shll5e0Fqb8m1ECscgPLu9D00RdlPXMP5Van+O7EIw7ofTwQ8kSDXqkAaLqqVrwTNz34ziF4YDzQRC64gPUiQotMHZwcTwgTSoErJOfjh6zpTKVMKRjhX75eVo5Ky3rM+HBSiNYU4AhfAsWVMw7h6CsiF4WuA4sfeHKHVGu4XPZa7PVVljXhCXOjJeWJkod4KiXbIU8g==;Zcq+N3krcH4VEugmihN6Sw=="
 ---

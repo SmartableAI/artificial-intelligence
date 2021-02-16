@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/environment/worlds-fastest-supercomputer-artifi
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/worlds-fastest-supercomputer-artificial-intelligence-predicts-tsunami-flooding/?amp=true"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fujitsu leverages world's fastest supercomputer and AI to predict tsunami flooding"
+    excerpt: "A new AI model that harnesses the power of the world's fastest supercomputer, Fugaku, can rapidly predict tsunami flooding in coastal areas before the tsunami reaches land."
+    publishedDateTime: 2021-02-16T17:32:00Z
+    webUrl: "https://phys.org/news/2021-02-fujitsu-leverages-world-fastest-supercomputer.html"
+    ampWebUrl: "https://phys.org/news/2021-02-fujitsu-leverages-world-fastest-supercomputer.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-fujitsu-leverages-world-fastest-supercomputer.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/fujitsulever.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Fujitsu Leverages World's Fastest Supercomputer 'Fugaku' and AI to Deliver Real-Time Tsunami Prediction in Joint Project"
     excerpt: "The International Research Institute of Disaster Science at Tohoku University, the Earthquake Research Institute at the University of"
     publishedDateTime: 2021-02-16T03:40:00Z

@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fujitsu leverages world's fastest supercomputer and AI to predict tsunami flooding"
+    excerpt: "A new AI model that harnesses the power of the world's fastest supercomputer, Fugaku, can rapidly predict tsunami flooding in coastal areas before the tsunami reaches land."
+    publishedDateTime: 2021-02-16T17:32:00Z
+    webUrl: "https://phys.org/news/2021-02-fujitsu-leverages-world-fastest-supercomputer.html"
+    ampWebUrl: "https://phys.org/news/2021-02-fujitsu-leverages-world-fastest-supercomputer.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-fujitsu-leverages-world-fastest-supercomputer.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/fujitsulever.jpg"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "VtQ14tfwpcBP50YgdWc0NM9nFJMoFdmiJ1n+46Ra7NljTGmLCzNPeTm61NYoaK/q0OQCqaODnz1ayU7xAGYO6gE+Rt0hNxOfMI5ofRdSR96MrC6YjYW2MZQPwha9lPzajxFFNusJMvJXHb6gWKBU6d26CWnzKXCbA+FjHTz+KRgH+MlwZgtu0PFHp6MX4qo06aq9oBuuDh+Z9U6D8Fy3iJtMVs5vQhEHaW/Upcs1hYy1besJ48JXHn/POS6ckVF1aSr35tZkV5q5VBKb+7h1pm4wuBCV25wXgBk5i9U6/tHjCGZuOl8AlB4J1a+czniqaImZCZEW9ONMB5Tw6NFb96JMYvFJku+xp+kUAsNtiC8=;t4vUileOT3PjTvwv+k7eVA=="
 ---

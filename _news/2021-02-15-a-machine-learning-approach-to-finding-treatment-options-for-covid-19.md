@@ -41,6 +41,29 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning Identifies Existing Drugs to Treat COVID-19"
+    excerpt: "Machine learning could help detect existing drugs that could help fight COVID-19, particularly in elderly populations, a study published in Nature Communications revealed. One of the many major challenges of the COVID-19 pandemic has been finding effective treatments for the virus."
+    publishedDateTime: 2021-02-16T18:19:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-identifies-existing-drugs-to-treat-covid-19"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "A machine-learning approach to finding treatment options for COVID-19"
+    excerpt: "Researchers have developed a machine-learning approach to identify drugs that could be repurposed to fight COVID-19. The advance could boost clinical trial efforts, and it could be adapted to a broader range of diseases."
+    publishedDateTime: 2021-02-16T18:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210215092404.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "MIT Develops Machine-Learning Approach to Finding New Treatment Options for COVID-19"
     excerpt: "Researchers develop a system to identify drugs that might be repurposed to fight the coronavirus in elderly patients. When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments."
     publishedDateTime: 2021-02-16T12:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF02N"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF02N"
 type: article
 quality: 142
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/15/japanese-auto-giant-nissan-has-denied-that-it.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Apple reportedly talked with Nissan about building its self-driving electric car"
+    excerpt: "Comment Now! Apple approached Nissan about becoming a contract manufacturer for its much-discussed self-driving electric car, according to the"
+    publishedDateTime: 2021-02-16T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131290_apple-reportedly-talked-with-nissan-about-building-its-self-driving-electric-car"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 19
+    images:
+      - url: "https://images.hgmsites.net/hug/apple-ceo-tim-cook_100696976_h.jpg"
+        width: 1632
+        height: 1188
         isCached: true
 
 secured: "QD4WtMRvS+kWZxUx1z9ID4r0fmqiEm86zaqjGIdmtkw+LWrsT7JDkxcLbo9btO+szdPoGDcbPeEvoZ/4SKS44zPniaAic0Yuj/eVVu8btmELNFEPDMJXUwhyL1sHg8Jel4v7sfSXz/puBQQDk8WBowMjGSCSdd17dLa79JZhnOKNDCOqq8WSoG52Midt6kmaddZxPTGbbwRWKQlbQ4NyqA74dfKkpjAus1QsiwEXp4PImrNHHMOmm5AbDcAmY2WBNRTtucUVvc5o9LRtXgXxLyzLBWsfq5WvdLwLCS7UK5YOzzlyXoumNkg9VaSo7mQu6VSP/uPXqighqQh/x3q5UE74X0oWrzK13fiImcIT0eU=;DZpjK+0BiAyLojB9BFlTHg=="

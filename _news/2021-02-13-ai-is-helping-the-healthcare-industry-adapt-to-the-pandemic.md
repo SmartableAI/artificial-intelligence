@@ -48,6 +48,22 @@ related:
         height: 675
         isCached: true
   - title: "Incorporating artificial intelligence in Indian healthcare"
+    excerpt: "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder"
+    publishedDateTime: 2021-02-16T18:03:00Z
+    webUrl: "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    ampWebUrl: "https://www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/02/16/1031670-artificial-intelligence.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Incorporating artificial intelligence in Indian healthcare"
     excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."
     publishedDateTime: 2021-02-16T05:48:00Z
     webUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
@@ -58,6 +74,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "After the Pandemic, Health Care Will Still Be Broken"
+    excerpt: "Argument: After the Pandemic, Health Care Will Still... Even before the COVID-19 pandemic, health care services around the world were due for a digital transformation; with resources relatively scarce and diagnostics increasingly complicated,"
+    publishedDateTime: 2021-02-16T17:47:00Z
+    webUrl: "https://foreignpolicy.com/2021/02/16/ai-artificial-intelligence-health-care-pandemic-covid/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 24
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2021/02/GettyImages-covi-ai-aging-health-system-1230690764.jpg?w=1000"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "kvTwkokZg1AuROWSSI8X4tx7VUWHXII3oYjSe01fYZAVjPPtw8vlni80uPI5i5zt47RXwCbf+woGxqHmRMZwTzsyoVQl4dtgsodeuTmCWQM9ue7BqZmDANPq1nLKiUA7FJ8vNhLlFwLhfylHX9vQYKeowVCYp+sK8sRIrkk5/r9I2xFngRv6xcWbA9lb2nPwoZEpnVbWfuboQ43TWbsNoai3nbZRkwGTiY4zhvDW1tIUs8BfOFHNNNB1pEDGipkSfWP2FwVQ/BVMuTmuwJTtb/4U3ChJGqM+UiCtOZpRpREdrRRap383wgV0mQsNSKzAi3y1VUcRxO5K8sgwj6EKRHyDe3sEN7EE3vjEauYv7x2mWR8HZGLH3jiz9YFnxE1SvviF+4tz5MgF6wk+OjnuGxgO93iiMtmeq+TS0Dcd7SWC+Jh2afMoqe7d/OKQVfZFLZnwYL/5XV5gKDmXIzRAo6HUPTvPxiRutnnvSHygRUTIiTOJdSkBM6vlCZ+NYoAOp/RDXBZCpNFOX1ZZ4rmYvA==;lATpEq7CzpILgemZo1eogQ=="
 ---

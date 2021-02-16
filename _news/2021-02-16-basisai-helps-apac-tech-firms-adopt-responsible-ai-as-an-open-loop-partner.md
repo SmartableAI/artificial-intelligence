@@ -1,29 +1,29 @@
 ---
 category: news
 title: "BasisAI Helps APAC Tech Firms Adopt Responsible AI as an Open Loop Partner"
-excerpt: "BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped APAC startups develop their"
-publishedDateTime: 2021-02-16T03:51:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner/article_2ca15b9c-fe40-57a3-9364-c5151085d000.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner/article_2ca15b9c-fe40-57a3-9364-c5151085d000.html"
+excerpt: "Basis AI and Open Loop partnership paves the way for transparent and explainable AI use.SINGAPORE, Feb. 16, 2021 /PRNewswire/ -- BasisAI, an"
+publishedDateTime: 2021-02-16T04:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
+webUrl: "https://markets.businessinsider.com/news/stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e2/de2066a5-46bc-50b9-9dbe-cd4cc4880895/602bca7664df8.image.jpg?resize=1200%2C600"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "uM873JWJGVhm0iOGXC1m+2VfDSjeClQdRKLmsnsWukz/8vxry7GmV7cdGt04oqgBc/GbXNwX4s/FQW8MNCFEAgi0/CampiU5qlo/w+nL2Xz7PX8riWJABYt54/nA2va1EvaRHVZfyk9yBh8ZVQNlOEsHqoHko87W7Ji4tBdbjUXAdWwrZOzHiDf3KHXRXf/Al2otDlS2Xurj17b1rPTg7vHSSeVKXszb5Z8cth2vo8T+fs4YIdwZcB4efu2uV/qbScnhfNSxzIi89+kW9JJ48c3f3ToULLQ2NF1glpjFYd3IUy30o5zdqOVktEkoWFWd/quD+9c716tz3emqcJWAfk2T1E/npNLa2Yq7NGae5ZxHeeqCzWE72ozNLyLPYPV/3ODneolvSkNWLwMZTWCHxbfH0nSe2iyjJiBbvITf9uAsJKySZwH4iRXaH62F8T2o237Bj+LU/FUgL4GF6BDq9W2STDotwQXoENu7V9Gtjh7he1A0zlLZft4OMTDKYIshG5eq/bP6e69LvRhSBwSVxw==;bSBevmDv/8GYvrCv1fg9Ww=="
+secured: "cS+jQxEH7FqyjpBbezeWTxa01c41Ee/VbaSfnV5o0HOcfUy/waIdAmjI6YKnwbLB0BGJ+KOk6BIzEVdv0zusVAtYBg6lKneRZgWpM2Smg4UWCkvXlXwSRvbDyKt5Ro23/E9Ke7awIvvZ/yhjSDG2Vjs3CwjJnQadQZwoZ+j8EYj/eIIU9rpMFihRrNbM8iBLRxcD6+FZ9cAhnUzeMe6B9gLA7XnvXUxLgAemINhJlAb9zuX8CHI74XFtRe6aoLP3ZSJEcU1mfhMORLtsYd3zh145A/fpmjibV/5tLcZcSzyRyFb9R+DTIAUxGqhmMMNbkb4uOklwxoCCwswkNdkNMUlPUWcuBq1bYQmGN8CAYJM=;Hig4jgW9o1GdNfcHy331Fw=="
 ---
 

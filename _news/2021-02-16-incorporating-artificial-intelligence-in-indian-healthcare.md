@@ -51,6 +51,36 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Incorporating artificial intelligence in Indian healthcare"
+    excerpt: "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder"
+    publishedDateTime: 2021-02-16T18:03:00Z
+    webUrl: "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    ampWebUrl: "https://www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/02/16/1031670-artificial-intelligence.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "After the Pandemic, Health Care Will Still Be Broken"
+    excerpt: "Argument: After the Pandemic, Health Care Will Still... Even before the COVID-19 pandemic, health care services around the world were due for a digital transformation; with resources relatively scarce and diagnostics increasingly complicated,"
+    publishedDateTime: 2021-02-16T17:47:00Z
+    webUrl: "https://foreignpolicy.com/2021/02/16/ai-artificial-intelligence-health-care-pandemic-covid/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 24
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2021/02/GettyImages-covi-ai-aging-health-system-1230690764.jpg?w=1000"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "Gk60lxgqlqJUdABd1JoQ6PjWqlQggig8EAIoBjZj3ZcK9xNzfA3TnzXoH98Fyfm18m4VKj361szEGkLuNWiZ1mghJBEWRscB/9I4er8C+ch/4yTCmSoMOyTczt4OkSQs9ejHs5VIOGD9P2vrrRuVdNrdBpdcGWbLj5ub8bx2PnAVgMp0tt6iekyI1w9E10If83lRGmMkZa9xC0hdlcmlk8DUy+GTetoZG4DRKpLLJ8cOlRGUOTfQ9xoZrb3G2ER126p2dfeRzxUCm1E0W68jS3cBQm4lAWfdpHZce413B31coz2kK4hVTln+xWckia3BWJDjDoLaSBW2D2d5IStXmf1fEfREoIk9lvW9ZVcjx+M=;88/IYxWrfaBjInJpFSJMiA=="
 ---

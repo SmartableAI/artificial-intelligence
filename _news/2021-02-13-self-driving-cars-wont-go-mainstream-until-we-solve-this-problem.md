@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-car
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/autonomous-vehicles-loyalty-programs-457x257.jpg"
         width: 457
         height: 257
-        isCached: true
-  - title: "Self-driving cars are among us but drivers beware"
-    excerpt: "COLLABORATIVE CONTENT Self-Driving Cars Self-driving cars are the biggest advancing development in the auto industry. Tesla brought the technology to the mainstream market, offering cars that can driv"
-    publishedDateTime: 2021-02-12T01:37:00Z
-    webUrl: "https://theweeklydriver.com/2021/02/self-driving-cars-are-among-us-but-drivers-beware/"
-    type: article
-    provider:
-      name: The Weekly Driver
-      domain: theweeklydriver.com
-    quality: 24
-    images:
-      - url: "https://theweeklydriver.com/wp-content/uploads/2021/02/800px-Tesla_Model_S_digital_panels.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "6J435sI+J9cLn9VFfjbHrkU3IGG8cqOjGCyOICz3gvA3op3op6TMrDwFOJiHMDZAqOexhGXGjKSIsVpHfsSj1qwNDSzHYT7Up5FDDinlgg5QIYeikyKfPIdX7dUfOwrp4grUX3wJmZcpJvupEwo2r+vAbJyej7UdgYE43DPJiEKFYdSu3qk/ju3XLqhW9N+jF6K6e3lGwtM7PA9tzlcSoWIikVCPxz1dIsTIYdu/w86Owa3O7WFDDIFj4vUfYGuFsRtKzjc5BahduOs+6n7t4c+h/bssEziDftdmDgyDfHPdmR8Pd9ZlSI8OzgYFvfD/xG0W6a3pfymGZyX/IB0A4lZ5yKzS0jlmO5jVCZyuh62verOTrAT0Koqz/idF0dx2DkZTUfOaV14TqjQVEhB/aWYuVPkmTYXn+kOegOJgw0yHW7pcmYyM5n6ZzByf2g7TdRBmv+8ulnrcw4m1l2LBFRI2PxxwLInVSVm4NqOTEcHW90Hc1X/gaUQJK719O53zVP/aFcbGCTHXgwM16EVaNg==;EJ5/q/5OLQtnc1c4u+0x0g=="

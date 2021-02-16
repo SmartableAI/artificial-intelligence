@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Forget fingerprints -- AI may soon use your veins to identify you"
+    excerpt: "Forget facial recognition technology -- researchers say they can identify you from the veins on the backs of your hands."
+    publishedDateTime: 2021-02-16T17:17:00Z
+    webUrl: "https://www.cnn.com/2021/02/16/world/vein-hands-identify-intl-scli-scn/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/world/vein-hands-identify-intl-scli-scn/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/world/vein-hands-identify-intl-scli-scn/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216115845-hand-veins-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Artificial Intelligence for Marketing"
     excerpt: "A Latest intelligence report published by AMA Research with title Artificial Intelligence for Marketing Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence for Marketing market This report provides"
     publishedDateTime: 2021-02-12T14:23:00Z
@@ -62,20 +78,6 @@ related:
       - url: "https://wp-assets.futurism.com/2021/02/neural-net-bombards-radio-waves-guess-feeling-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "How to manage your power bill while adopting AI"
-    excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
-    publishedDateTime: 2021-02-12T01:57:00Z
-    webUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/?fp=2&fpid=1"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg"
-        width: 700
-        height: 500
         isCached: true
 
 secured: "C2CFuG5L89mwbKIze5PGLxC/Ts/z7FMe6wCtsoYtHXKgMwQhkxBkStTrJMxBa0XQH4+aNFM/Zv3IQjp5akmkNMk21nkJl1F1swPdDVXrt09ZgrAcezNXcPVl4kvhEBWiQqZuQZEZpRdxfx3EzYZCWljYAfibPu7+DvPk4DTroMDLR1127Ahm1mOPDZu8AvgZnr13s8J7xc/TkgdS1jn+ygth4fYKkJly/MUQyL63Acbpax3BGsQkAtXGZgrTYbPzByYAwutVQ6XCCAgZ/zrqSYfLIuO4rJWYVv9wVc2fw4XdpnMsNv5mthZqPyzhPbB68U86tvgwcBV9V8NynxT0XDXcHFJhKxNGBMfY+GPTJYICjAVXo8gF/0aM5yfol5D9cYB2AYAzhN4CvtTsBoN//JNL09zEhPSYDA/xndYHeBO4N4Cf0ExU5uJwRf7GGX844HuWoTPt0m+lfNK2PG3XZOoVZlvpauZ4vj0Xn5HoXdon4Ek+dFp2vZ5A0BlVyRRw2dFCDGgjL4GF1MBU0ELTWw==;EyO4UHo0ANShqUqaJykrOg=="
