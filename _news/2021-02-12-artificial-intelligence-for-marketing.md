@@ -27,83 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Developing a Turing test for ethical AI"
-    excerpt: "AI’s Turing test focused on the wizardry needed to trick us into thinking that scarecrows might be flesh-and-blood humans (if we ignore the stray straws bursting out of their britches). However, I agree with the argument recently expressed by Rohit Prasad,"
-    publishedDateTime: 2021-02-11T11:03:00Z
-    webUrl: "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html"
+  - title: "4 AI tools to help you reach your marketing goals"
+    excerpt: "Marketing isn't one-size-fits-all; depending on the industry, strategies, and tools, results differ. These AI marketing tools are helping marketers and small businesses increase their effectiveness."
+    publishedDateTime: 2021-02-12T16:47:00Z
+    webUrl: "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 106
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
     images:
-      - url: "https://images.techhive.com/images/article/2014/08/care_nurture_support_people_human_resources_thinkstock_176436790-100409939-large.jpg"
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/11/d87fc0a6-07da-42da-905b-57926006c6f3/resize/1200x900/396b64a892a5fd7cac8938cf3055dd17/autoleadstar-new.jpg"
         width: 1200
-        height: 800
+        height: 900
         isCached: true
-  - title: "Exploring AI Revenue Generation Opportunities In Dating Apps"
-    excerpt: "AI has impacted different industries, including retail, manufacturing, logistics, transport and more. When it comes to the personalized application of this technology, the opportunities are endless. From smart apps to personal assistants,"
-    publishedDateTime: 2021-02-11T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/exploring-ai-revenue-generation-opportunities-in-dating-apps/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/exploring-ai-revenue-generation-opportunities-in-dating-apps/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/11/exploring-ai-revenue-generation-opportunities-in-dating-apps/amp/"
+  - title: "Canon's photo culling app uses AI to help you pick your best shots"
+    excerpt: "Canon has introduced an app that uses a computer vision algorithm to assist you with choosing the best image in a series of either unrelated or similar photos."
+    publishedDateTime: 2021-02-11T21:37:00Z
+    webUrl: "https://www.engadget.com/canon-photo-culling-app-213409056.html"
+    ampWebUrl: "https://www.engadget.com/amp/canon-photo-culling-app-213409056.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/canon-photo-culling-app-213409056.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Engadget
+      domain: engadget.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6023ddeacc72192929f0dcb7%2F0x0.jpg"
-        width: 1200
-        height: 830
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2F7cfa7470-6cae-11eb-b53d-dea2dbd7fe69&client=amp-blogside-v2&signature=715022ff0bcb607e63238a1e081be351e38a930d"
+        width: 600
+        height: 350
         isCached: true
-  - title: "Researchers propose platform for evaluating disease-forecasting AI methods"
-    excerpt: "Researchers at the University of Southern California propose a platform --EpiBench -- to compare disease-forecasting AI models."
-    publishedDateTime: 2021-02-11T21:26:00Z
-    webUrl: "https://venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/"
-    ampWebUrl: "https://venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/amp/"
+  - title: "New AI Detects Your Emotions by Scanning You With Radio Signals"
+    excerpt: "If new research is to believed, you may find yourself coming home from work one day in a rotten mood — just to have your smart speaker automatically scan your emotions and start to play soothing music."
+    publishedDateTime: 2021-02-12T21:06:00Z
+    webUrl: "https://futurism.com/the-byte/ai-emotions-radio-signals"
+    ampWebUrl: "https://futurism.com/ai-emotions-radio-signals/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-emotions-radio-signals/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How AI Technology Makes Manufacturing Smarter"
-    excerpt: "Advances in the Industrial Internet of Things (IIoT), artificial intelligence (AI), machine learning, and advanced analytics are turbocharging the move to Industry 4.0. To stay competitive, companies are using AI-powered IoT tools to alert manufacturers to failures in equipment,"
-    publishedDateTime: 2021-02-12T19:48:00Z
-    webUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/"
-    ampWebUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Futurism
+      domain: futurism.com
     quality: 59
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/02/Manufacturing.png"
-        width: 700
-        height: 400
+      - url: "https://wp-assets.futurism.com/2021/02/neural-net-bombards-radio-waves-guess-feeling-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Closing the AI skills gap"
-    excerpt: "A growing demand for AI technology but a shortage of work can be solved by infusing AI into a business Artificial intelligence (AI) is expected to change the world. AI can help automate decisions and processes,"
-    publishedDateTime: 2021-02-12T04:34:00Z
-    webUrl: "https://www.ft.com/partnercontent/ibm/closing-the-ai-skills-gap.html"
+  - title: "How to manage your power bill while adopting AI"
+    excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
+    publishedDateTime: 2021-02-12T01:57:00Z
+    webUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/?fp=2&fpid=1"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 41
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
     images:
-      - url: "https://ft.com/partnercontent/images/ibm/hero-2.jpg"
-        width: 1920
-        height: 958
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg"
+        width: 700
+        height: 500
         isCached: true
 
 secured: "VrQ4FaBcYMqozEqMYaVr3vY+n99INAs6Kwpa3p8rPf8g3PgBk7rr2PQ8EVL/mVEh6bqpoMQEgOPRJzeA61TkaumL1aU96aiK2BGvOyVsfjQpFyBWoYfAXX3TMVXpyLEjVaYhFVXweDarX57wu6URb6HmsZioezu/sw+vhmLCWB7jtJkZWb7MGHc7DON2/8cbLJrRp063n/273Hf3gw3XaJC6cYymSOJ1NNJTDTQ8LgQT21xEHWih1B+gL2vDwAFzYH75sJ+3yb2hc7vPj00BfEcnRbVzrCZ58QmvBW65xdRzTk/tcumQN4TpxqlmOrtvLrEh/DwTyKeL26zIkE5qIXL8c4FuH+sAPyCsxnbDEIleNg6Dw7eSfq1nzA0J99qiL3XZeT+u+361Pd6/mNJk+NPq9ouGxE/nN+lUldVW120Ufgla0W4Iy6Ys4zXjGi7cGl/wESFvx8wSQb39wXou682GhKuiDKlDNe91TiN4L1Gwyoi0clBoZ5ybWzs0Hpoa15RWiGFdC8ngetv/ARJjqw==;3IyqKfB13tMIVryqf7qoQg=="

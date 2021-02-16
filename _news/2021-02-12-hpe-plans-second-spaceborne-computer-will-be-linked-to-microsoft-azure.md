@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
-    excerpt: "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station."
-    publishedDateTime: 2021-02-11T13:00:00Z
-    webUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/"
-    ampWebUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 100
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg"
-        width: 630
-        height: 464
-        isCached: true
   - title: "Microsoft and Volkswagen will collaborate on self-driving car software"
     excerpt: "VW plans to use Microsoft's expertise to build a cloud-based platform for future autonomous technologies and driver-assist systems."
     publishedDateTime: 2021-02-11T15:22:00Z
@@ -73,33 +57,17 @@ related:
         width: 877
         height: 545
         isCached: true
-  - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
-    excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
-    publishedDateTime: 2021-02-11T16:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+  - title: "News24.com | WATCH | VW taps Microsoft cloud for self driving cars"
+    excerpt: "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'"
+    publishedDateTime: 2021-02-12T07:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 86
-  - title: "Microsoft Azure Space Partners with HPE for Spaceborne Computer-2 Launch"
-    excerpt: "Microsoft Azure Space is now working with Hewlett Packard Enterprise on its Spaceborne Computer-2 supercomputer."
-    publishedDateTime: 2021-02-12T16:26:00Z
-    webUrl: "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/12/microsoft-azure-space-partners-with-hpe-for-spaceborne-computer-2-launch-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 73
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/Azure-Space-Microsoft.jpg"
-        width: 1024
-        height: 578
-        isCached: true
   - title: "Microsoft Teams with Volkswagen for Azure Cloud Automated Driving Solutions"
     excerpt: "Volkswagen will tap into Microsoft Azure tools and data to create new and efficient automated driving solutions for developers."
     publishedDateTime: 2021-02-11T14:02:00Z
@@ -116,31 +84,6 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2"
-    excerpt: "HPE and Microsoft launch AI capabilities to the space station with Spaceborne Computer-2 . Cloud computing and artificial intelligence"
-    publishedDateTime: 2021-02-13T09:48:00Z
-    webUrl: "https://www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/hpe-and-microsoft-launch-ai-capabilities-to-the-space-station-with-spaceborne-computer-2/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 65
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/HPE-and-Microsoft-launch-AI-capabilities-to-the-space-station.jpg"
-        width: 799
-        height: 533
-        isCached: true
-  - title: "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai"
-    excerpt: "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021."
-    publishedDateTime: 2021-02-11T12:08:00Z
-    webUrl: "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673250"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 64
   - title: "SPEEDCARGO, Microsoft team up to disrupt air cargo and logistics with advanced 3D vision technologies"
     excerpt: "Singapore-based SPEEDCARGO Technologies announces collaboration with Microsoft’s Azure Depth Platform to disrupt the air cargo & logistics industry with 3D vision technologies"
     publishedDateTime: 2021-02-15T09:22:00Z
@@ -173,120 +116,35 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Azure is going above the clouds and all the way up to the International Space Station"
-    excerpt: "Later this month, a computer will be sent to the International Space Station that will be connected to Microsoft Azure. The connection will help teams on the station process data quicker."
-    publishedDateTime: 2021-02-15T19:12:00Z
-    webUrl: "https://www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station"
-    ampWebUrl: "https://www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/azure-going-above-clouds-all-way-international-space-station?amp"
+  - title: "Volkswagen Group And Microsoft Speed Automated Driving Development With Cloud Computing"
+    excerpt: "The quest for automated vehicles continues In fact, with the deluge of new vehicles in the market, there has been glimpse of automation in one way or another. At Volkswagen Group, automated driving remains one of its goals and the German auto group has partnered with Microsoft to accelerate the development of automated functions into its vehicle offerings."
+    publishedDateTime: 2021-02-13T20:15:00Z
+    webUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/"
+    ampWebUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 52
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
-    publishedDateTime: 2021-02-11T13:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: hotcars
+      domain: hotcars.com
     quality: 51
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2021/02/VW-ID.concept.jpg"
+        width: 1710
+        height: 900
         isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
-    publishedDateTime: 2021-02-15T08:51:00Z
-    webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-    ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+  - title: "Volkswagen will use Microsoft’s cloud technologies to create new Automated Driving Platform"
+    excerpt: "Microsoft’s business inadvertently made headlines as Ford, a previous infotainment partner opted to Google’s Cloud services over that of Azure or even AWS. Most of the"
+    publishedDateTime: 2021-02-12T16:51:00Z
+    webUrl: "https://www.onmsft.com/news/volkswagen-will-use-microsofts-cloud-technologies-to-create-new-automated-driving-platform"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 51
-  - title: "Voice Recognition Systems Market Global Statistics and Forecast to 2031| Nuance Communications, Microsoft, Agnitio"
-    excerpt: "The global COVID-19 analysis on Voice Recognition Systems market has been driven by the range of its a wide area of sectors such as HealthCare, Military & Aerospace, Communications & Telephony, Automotive Industry,"
-    publishedDateTime: 2021-02-14T13:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-global-statistics-and-forecast-to-2031-nuance-communications-microsoft-agnitio-2021-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: On MSFT
+      domain: onmsft.com
+    quality: 29
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station"
-    excerpt: "A cloud-connected, AI-enabled commercial computer is on its way to the International Space Station . Among the cargo to be launched into"
-    publishedDateTime: 2021-02-11T16:27:00Z
-    webUrl: "https://www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/a-cloud-connected-ai-enabled-commercial-computer-is-on-its-way-to-the-international-space-station/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 45
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/A-cloud-connected-AI-enabled-commercial-computer-is-on-its-way-to.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Connect Azure to the International Space Station with Hewlett Packard Enterprise | Azure blog and updates"
-    excerpt: "Connect Azure to the International Space Station with Hewlett Packard Enterprise | Azure blog and updates Today we announce our"
-    publishedDateTime: 2021-02-12T03:17:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/connect-azure-to-the-international-space-station-with-hewlett-packard-enterprise-azure-blog-and-updates/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 42
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Connect-Azure-to-the-International-Space-Station-with-Hewlett-Packard-1024x1024.png"
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/Volkswagen-Automated.jpg"
         width: 1024
-        height: 1024
-        isCached: true
-  - title: "HPE Spaceborne Computer-2 linked to Azure cloud for the Space Station"
-    excerpt: "Hewlett Packard Enterprise is preparing to send a second-generation Spaceborne Computer to the International Space Station later this month."
-    publishedDateTime: 2021-02-11T13:12:00Z
-    webUrl: "https://spacenews.com/spaceborne-computer-2/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 39
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2018/11/hewlett-packard.jpg"
-        width: 900
-        height: 505
-        isCached: true
-  - title: "HPE goes to space with NASA partnership to launch edge computer into orbit"
-    excerpt: "Hewlett Packard Enterprise Co. will send a specialized edge computing system to the International Space Station this month to give astronauts access to more processing power for research projects. The initiative,"
-    publishedDateTime: 2021-02-11T18:40:00Z
-    webUrl: "https://siliconangle.com/2021/02/11/hpe-goes-space-nasa-partnership-launch-edge-computer-orbit/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/hpe.png"
-        width: 749
-        height: 419
+        height: 768
         isCached: true
 
 secured: "SBMF2acFduAxHG4Apoqzr4oJJ7lUe6j2224DMmcNPXgeYK5yR80J3p6Mgh9ShkpcPNeOeLnWtEFKQynmIbX2sODlwTYDomnbhEycw/L+bNfCigrmnr2O+x1wd5Au4JjdBaAqy0mG3UCYU3EID/t/R9an/drdrdFtRrPVQABs3Ajrccl9eUIrt/jGbDBV+rZhtMzlxzuVy5rK8fzch9XTJdbYPqB4ThgnOroBMExwF727his1YpbggS4W6hX3l62kGNdylYXMxOdvw4GQVNb09QpBcBvamtIFcjxrdySU60XLj4u1t1EnsZJHMmodaQtlCpw+/O95EGj3m07P1G0v6tMhYIz04gb+YzTtz7YgFqG19syCEEhSLuaCheHOZzMqNvAm+h8YAdy0Vmn4FioTGOG2MAQPpZJ7yohsNr+nDM8JWm8sP8g2cqAxdm0hbvTVu/inhzNdMgQGoGpIjBxz2uu5PB/HA0DKley9CV9K9BSBW0g0Z9R2eywq2AtjjEMYmEZO+UpHjHQRYswocpWeDA==;eY+a1VskcP9qJDpYWiMqJw=="

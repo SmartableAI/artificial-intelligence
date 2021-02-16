@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/aurora-partnership-toyota-self-driving
 webUrl: "https://www.wired.com/story/aurora-partnership-toyota-self-driving-taxis/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: 64
+published: false
 
 provider:
   name: Wired
@@ -42,34 +42,6 @@ related:
       - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Toyota and Aurora partner on self-driving cars"
-    excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
-    publishedDateTime: 2021-02-11T19:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131256_toyota-and-aurora-partner-on-self-driving-cars"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
-        width: 1920
-        height: 1143
-        isCached: true
-  - title: "The self-driving Toyota is coming"
-    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
-    publishedDateTime: 2021-02-13T06:19:00Z
-    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
-        width: 400
-        height: 266
         isCached: true
 
 secured: "MLqKPQPof1q97I84j7b7wsTtbiTV430YJRk7qcbMjWe9kS6AHKg5ISbZahOJ31pG5muh0AtZFZsxOU8Lt9vXb5Ry1PiOjFb3gN4RqKsAoFggcBCVABx6JgJG8yKBX4V/GZoZ8GgIp/PZbRAkSaSelgo6oc6hWxv2ZhzOI6rYhfKZD8++lEloLd3rTKLghJcYIMFEyMXacDzSW61chuY2ZbD+glAPCTLdhu7fjdl/XW5LEb4SbPjv+uwkbqeF3OBUfRbldgnzre6aEH3rXg8vBkt699R3BbKC66C9tczVIBH2jouJKLAtRQ+hT8hIxoyUo3+Y1uBlZNwXmSIgTbRhky0EMmX1OkQ5umcKCR1xeZVc2CTl2n36rg2Nmoo8XKOSD6zD6CO6BTKwocU4EhepFOtQwOxyPAkYXRXHaF2ziGqYREbhhAmWrmRfUzFUAPxAkR3SL0C0yrMxplm/NNc1xU3Antcyf4F1f/2F7rtfteIS3v1hB1w2m7ldUL02ewNVqd2GYlag5YEtjozVNEatWA==;Xl4BHPAFl/y+F/sLBG1NTQ=="

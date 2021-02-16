@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "AWS signs deal with National Hockey League for cloud, AI and machine learning provision"
-    excerpt: "National Hockey League to become the official cloud, artificial intelligence and machine learning infrastructure provider of the largest ice hockey league in North America. Under the deal, AWS will allow the NHL to automate video processing and content delivery in the cloud and leverage its Puck and Player Tracking System to better capture the details of gameplay for its fans,"
-    publishedDateTime: 2021-02-11T11:09:00Z
-    webUrl: "https://siliconangle.com/2021/02/10/aws-signs-deal-national-hockey-league-cloud-ai-machine-learning-provision/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 63
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/iehockey.png"
-        width: 869
-        height: 581
-        isCached: true
   - title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National"
     publishedDateTime: 2021-02-11T19:09:00Z

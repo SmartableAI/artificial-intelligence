@@ -229,15 +229,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IMY fines police for using Clearview AI for facial recognition in breach of Swedish Criminal Data Act"
-    excerpt: "The Swedish Authority for Privacy Protection (IMY) said it is fining the Swedish Police Authority SEK 2.50 million for processing personal data in breach of the national Criminal Data Act when using Clearview AI to identify individuals."
-    publishedDateTime: 2021-02-11T12:49:00Z
-    webUrl: "https://www.telecompaper.com/news/imy-fines-police-for-using-clearview-ai-for-facial-recognition-in-breach-of-swedish-criminal-data-act--1372144"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "iF0zY4H6hIVtUeQcTHn+yp4OWISzhn+xEato6rC18tsXMUorGZajEu8Rm9VCo7lM6Mfab0zHSm7ntbN0/IeN5kX+jbz38wj6KnN9Us8G9idOz1Dvol28efhUQe8CHK/Cp9S4SS9FkkbZQsvGMp2DonBAs9hpR9b0/fjNYIPz2azqrFf5LnfUdxaVBiy7zVTb7DM2YCb8M7PV/0y1ql1SGnYJer6me/7nwMAP5ohWBBXv8hfjX/oy0TLzxIzwy8D5Qr2bTu90DfmwuRCX9gYwXvbsH+bw7IyR7poDRzB4ROMSPj33ujlvEmr+wnS8haXv32qudB/tTsFxxZWNtKugf89JhfILoZKOaiSLIrJwTngThfG653Z5o2cIUrroX2G72MgJkfZHshNZCilqROO9xf3F7Z9oH8Fp+EM2jus1JneMercQBONvMR0fV/7ZgLy2B/bQZtwu/CWZ+APfjgvRLu3OVIgcaK6cHOTIG8nyOgLqMqjLt/k529wWat3TaZisidMV6nH2krKq6gN0LAHK7A==;hEQv1AFv9pvdAP5sGM8YrQ=="
 ---

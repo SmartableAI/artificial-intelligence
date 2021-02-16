@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/11/ai-robots-detect-human-touc
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/ai-robots-detect-human-touch-analyzing-shadows/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 796
     height: 417
     isCached: true
-
-related:
-  - title: "Artificial skin brings robots closer to ‘touching’ human lives"
-    excerpt: "Modern-day robots are often required to interact with humans intelligently and efficiently, which can be enabled by providing them the ability to perceive touch. However, previous attempts at"
-    publishedDateTime: 2021-02-11T12:05:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/02/11/artificial-skin-brings-robots-closer-to-touching-human-lives/40392/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 39
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/artificial-skin-for-robots-1.jpg"
-        width: 863
-        height: 486
-        isCached: true
 
 secured: "c9rWUha2ZEXTcXfJRqgubz/XMhhe/40+ZAIuhQAcfC0MOV8GPZBqGcj3yGXGiKE2YXndcvNwiwzzAJqlc4lxbJ2VKvbdnRo/PCvJUbCVY812PYdYWY1/1hKo3WvsN5Hy3PvDMLksnJnHUI/CwxecQS2VVa8xub/BSzl675cxcDF3KCZ44ssdyJxJWizTs26oxAihqPQk9ic19J8MI9NoXVsIbpwsSLd762ZRhL1vueaJyTj8pMrPNt2y2B22YYpr79HxksnfTXKlkt0/On04N/N/nwrNEmGG5REFxlVhljOAI5hNCskrr9mcJNeF2++/AFWcikA93VNA6+wfAxJR/bNqk242o1CXOa3XO7N5Owi5IP5/xeodChHJVlkpvKgvqBQdtE+iPbxhKqCdN8XaZAE/ciVb+xgVR7rrtobChx3b6v0Img+kxo3Q04G8yjgDSTCcTp5CQD7xU4QMwot4cbbvWsMXBTboWRTkSlo0eWsZw2r66MgqI7nvv6hAD/fGu8AkS2mRuZcYuq9orMhgEg==;dlhLDD6Co68Pjr8XU7k3sQ=="
 ---

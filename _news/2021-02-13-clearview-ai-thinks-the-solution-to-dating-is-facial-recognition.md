@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-fa
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp"
 type: article
 quality: 106
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -233,15 +233,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IMY fines police for using Clearview AI for facial recognition in breach of Swedish Criminal Data Act"
-    excerpt: "The Swedish Authority for Privacy Protection (IMY) said it is fining the Swedish Police Authority SEK 2.50 million for processing personal data in breach of the national Criminal Data Act when using Clearview AI to identify individuals."
-    publishedDateTime: 2021-02-11T12:49:00Z
-    webUrl: "https://www.telecompaper.com/news/imy-fines-police-for-using-clearview-ai-for-facial-recognition-in-breach-of-swedish-criminal-data-act--1372144"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "S3czisW+VN+X9JlWOCC+YYexT4diAeCO1sqfKmKEuo/sbWQkI8B/1fKDzLAT08cUTvYJDEPWy4rywyC9mMmUmioLAJZZxzyj2VCPkZiLJ07iQ14c+rJLvVQ+DizlDiaxsKZAjYIjHmdVuyqt+mw45Xvb9D1X+staWBxuxndNgtOSQ7oNwsnB2/2/nSlEb9bbozHDAY+zzJEjn6yHHbN+j9zqamYstWG5P1GIfTus3Cel4U8czbebAR04rsyZpsJD/Itm4EuDfl+rGjzhdIqRLOPY6ESG+aUuileaWP44SGObjHEgjLgs0bfI4IMq3r4bTw1k1gh44ODzlLh179SgSUyaycs+BCEUFm7Y7pY2xx8hwo4IrTkTzJyqK7rwlErrPJMVMRZzUfnMB4CQyXLtx5cudoH867j7d35eMYSPZa7IpUHm4PnEGdSEX20lPHfD07Nb2bLY9KFUE198X97ZVD9ra2Oi/4+t+sDzw8b6ibeIuwaxZUwLBd+bIMsc8Bd+5yJ1FL2DAa8GkXVJEbeDMQ==;aw84d0A/e1U3GZQJcrTT9g=="
 ---

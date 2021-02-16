@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-15T15:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
 type: article
-quality: 29
-heat: 29
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wisdPbFRLEnqYgtInTVsJowCZYLfN45iAMSaQ9AzLGPxM27bbpe4tQ4tTPY3gPCLncxKRYevVaBNJcektj0MEH9mpjuyv+Kqsft4m/95fu+DE1re6+h+lvOkxwoKC1z9sa4AIFrcDFky+JaivESScgwv379PIDwWYIAQUBVf5L1Kl/LfKjXYqsEQHvO1nBtvBXyMVtm8+wlQTAkyEbSUwOfBsZJjeGee6GlAMRiYAkCV7C/tNhLUwQ1CYDxYKma8UMWOaYlc175AFHnmzWVsa7z/Sq7dAimgc2ObtlItBe18rAaTpjuQMJ/fwdJaSGJvwzhzKsu6CgOaEoEs9irBNkkTd7J2nosjcqo7Hp7q8Ps=;ZaayndqJnZ8J6hXxaYl8Vg=="
+secured: "ZhmCFaMGJWBtx3N+y446A5Z8Ez+ARRkuKwatzrkhEhfePc1/oC9jya+xlZAiy3mLIHAd0FtIRRPQN9eavTyo/8LjZW96X0CrKoPCx4jHr52QsXscOszawVnuyz/IstsWdqIQuR0dvmeUN9hJ2kKz0UiytJReHcKLNFPhygqBmILz0NxG+H4ns1FVMeaHDlD/nP+qY72lO/4NNwXBXi+N6BLBer7BubrGPD/3hVZDueZUoQyr9KivCS11QSDGotOpU/tDpgMMmrQTSfHN/I8Yk+ssW5tccVsfu4/svM1t+tpCFMN2CQ2ympUuMvhr3C+wbbjIXeHENJ2+OMfvim1gSYm5zi/k3Hf+PdEfSeYv9yM=;sb3KAUzIgp8XuiJ2gJ4rkg=="
 ---
 

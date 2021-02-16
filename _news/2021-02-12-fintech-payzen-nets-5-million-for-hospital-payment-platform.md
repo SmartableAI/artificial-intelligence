@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech platform Siply raises USD 1 million in seed funding"
-    excerpt: "Bengaluru-based Siply announced the raise of USD 1 million in seed funding from investors such as JITO Angel Network and"
-    publishedDateTime: 2021-02-11T12:33:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-platform-siply-raises-usd-1-million-in-seed-funding/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/02/fiserv.jpeg.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "New Fintech Solution Pays Hospitals Upfront While Giving Patients Affordable Payment Plans"
     excerpt: "As COVID-19 ravages the country, hospitals stand on the brink of financial ruin and more patients are going bankrupt from out-of-pocket healthcare costs. But a new healthcare fintech startup has a solution: PayZen pays hospitals upfront for patient invoices and offers patients zero-interest,"
     publishedDateTime: 2021-02-12T05:55:00Z

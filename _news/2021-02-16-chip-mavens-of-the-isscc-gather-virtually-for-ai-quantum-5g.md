@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually
 ampWebUrl: "https://www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/"
 type: article
-quality: 104
-heat: 105
+quality: 106
+heat: 107
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2021/02/15/28709f80-89eb-4c9d-8680-a943ce1b8691/isscc-2021-virtual-lounge.png"
@@ -30,6 +31,6 @@ images:
     height: 1045
     isCached: true
 
-secured: "MnpQejLyaOYmUc8Lb7bafNrf1YcZJoj7KpQt+trHrbGHra1HSFbxPXxeTwszrWjbB0cMujs2NEu8qQZznIeSJn+7jPSyxm5v5HRL1erlNfFC11qT8ZuckX1jF1VsLLGNcx8TAqcWfh+xpThu4OySAYNytY8kVDgP5Ta1uTPhs7RXml0Yn16lddzNpnCNS5N9SY+CuECEbmX4zA7GZSz6UYUME+9OaTLsQ41np1N6eUMoOx3dl/TQDFV6gger2IAbKdiJ6C2SN4KWyEDLaYtdieWjM56kv1XeGL7pz61xdgGaNxkgKQIu8gNhaRgjENcs39lfaNLwW9+MER8yQnNF64yYTK0DhPkD6tgQ538FPhQ=;4rdLrnKsoinbn4CZwGtJ4g=="
+secured: "FY4msmZUS103gb15cITFHL5H7VBcfTTj9yRy7PC2rv9mMz3DZCmG12Hbf2AV1pltT8CvLwi0+4cDevwN+t6+w/25boeaUWNG27w5AaQBK+RHDuvWoA3mf71pgiALKQCPUd4RXxnI/tDFGdM6EbECa6B7qXyKmYUVeOV7HZEnxlpFusvr2m+UPMBKNQ0YQHmLelkVhAAf0t1+V44MVNb/hN/E35zoqBjhVmcW/b61oYXMwDa5InrSVlNmyA2VNfaLDQdZ8i02gdZTdipD6vxK6aZkx/jviu2bVYzWPVche8w2w5LdmxgUQvhrbNt2GIA+R1QSnp3RwR60VOqMdnOW22Mk0Si1/SRYI90N8RWSjpnH+Ng5wN9ivTtFpiMcqHtGU3PSLqME/LZLwxxley46Z1M1rsPkMn8wm+YExFHBYu3D7x0qblBrNPECQH1uQxhmCNC8cu32BVzzfQJ3yANXYW8kuUwECXw8bEANj3yOz5j731q2OoGMvPuLUqEg4E84f5/ii4WwMbEwkjmawdDrYg==;cazUxNY+cVlXFRXxF3IUhQ=="
 ---
 

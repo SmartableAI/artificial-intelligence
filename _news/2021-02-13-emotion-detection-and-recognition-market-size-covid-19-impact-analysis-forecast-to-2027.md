@@ -21,19 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Used For Personalization And Automation In The Direct Selling Establishments Industry"
-    excerpt: "The Business Research Company’s Direct Selling Establishments Global Market Report 2021: COVID-19 Impact and Recovery to 2030"
-    publishedDateTime: 2021-02-15T13:45:00Z
-    webUrl: "https://www.wboc.com/story/43348927/artificial-intelligence-used-for-personalization-and-automation-in-the-direct-selling-establishments-industry"
+  - title: "Voice Recognition Systems Market Global Statistics and Forecast to 2031| Nuance Communications, Microsoft, Agnitio"
+    excerpt: "The global COVID-19 analysis on Voice Recognition Systems market has been driven by the range of its a wide area of sectors such as HealthCare, Military & Aerospace, Communications & Telephony, Automotive Industry,"
+    publishedDateTime: 2021-02-14T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-global-statistics-and-forecast-to-2031-nuance-communications-microsoft-agnitio-2021-02-14"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 20
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20378280_G.png?lastEditedDate=1613369260000"
-        width: 900
-        height: 455
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Voice Recognition System Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast | ARC"
+    excerpt: "Automotive voice recognition system market is expected to reach the market value of around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 - 2027."
+    publishedDateTime: 2021-02-12T09:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-arc-2021-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9slzBXLd6U43aw7DvaHz4jT9IQhemsYk3IAh48kNHWC6qGgsm/kkW20cdhtHkcxIKcPnREv0+sdN/dd2wbcyp3CnLdkZBcRZd6mFLLqPysbV8ISLEC+/LbSXZxlXjbxNKg+aBWyq/yzmH78vohBs5ogXCVpccB/agq84lKxpZlJPQhNIKQ+OjHGyzlbSNY9zwOTjQD0usCtwaAei51CfG07ebqtFoh8krEZvgUoXT7Gf0DgVaCz0LZWbQWsorv6g3c46msBkUMCLEpoFRYuUnFC2cdY/AESpnnOvRRb6xdjc94L+pVRvR/+Qq1/si0qOJ1dgpWltxiNAz/g7eR5cMKUz1gxX721Kf4sgiSdMFFs=;M4sC4I46wsZnGYRSTnTvIQ=="

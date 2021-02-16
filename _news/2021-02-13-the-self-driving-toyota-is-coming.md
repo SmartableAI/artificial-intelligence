@@ -29,33 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Aurora Partners With Toyota on Self-Driving Sienna Taxis"
-    excerpt: "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have a fleet of Sienna prototypes ready for testing on public roads by the end of the year."
-    publishedDateTime: 2021-02-11T14:03:00Z
-    webUrl: "https://www.wired.com/story/aurora-partnership-toyota-self-driving-taxis/"
+  - title: "2 Self-Driving Car Stocks to Buy in 2021"
+    excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
+    publishedDateTime: 2021-02-11T21:20:00Z
+    webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 54
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
     images:
-      - url: "https://media.wired.com/photos/60246fd36c104aea63dc519f/191:100/w_1280,c_limit/business_aurora.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Jeff Bezos-backed Aurora has struck deals with Uber and Toyota that could make it a self-driving powerhouse"
-    excerpt: "Partnerships with Toyota, Uber, and Paccar have given Aurora access to ride-hailing and car-making expertise."
-    publishedDateTime: 2021-02-12T14:50:00Z
-    webUrl: "https://www.businessinsider.com/aurora-toyota-waymo-cruise-uber-paccar-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize"
         width: 1200
-        height: 600
+        height: 785
         isCached: true
   - title: "Toyota and Aurora partner on self-driving cars"
     excerpt: "Toyota and Aurora announced on Tuesday plans to collaborate on self-driving car development. The two companies said they formed a long-term partnership to build and deploy self-driving cars at scale."
@@ -70,6 +58,20 @@ related:
       - url: "https://images.hgmsites.net/hug/aurora-self-driving-car-prototype_100781089_h.jpg"
         width: 1920
         height: 1143
+        isCached: true
+  - title: "Nissan Says Not In Talks With Apple On Self-driving Cars"
+    excerpt: "Japanese auto maker Nissan said Monday it is not in talks with Apple to develop self-driving cars, a week after Hyundai also denied reports it was discussing the top-secret project with the US tech giant."
+    publishedDateTime: 2021-02-15T06:38:00Z
+    webUrl: "https://www.ibtimes.com/nissan-says-not-talks-apple-self-driving-cars-3145646"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/15/japanese-auto-giant-nissan-has-denied-that-it.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "b+Auwj/hv5KHQgZJj53zxF+U6dc8Ps6vUAwtuuVHQp1dnDOQSOF1eA9wif9sNKVblKYjBUNDAIC4uEKn0QCcjieErK2WUe/FsMIW6I0BneJ7lytgwdeWCDnqcdVYu6AMCUqRVDctLlb+zBa35m0ZhzHMhGgMSUDW8Qs+tCBkf5t5ZiVvnXKXIsqLiBIdcuxM8MsacSXHI3x0lcrtIoIrQdjv0XDducjjoBDCnJnPbYfEz+UM1sTfyKcX/aykr5UYWaUvOrOq7Jm+0ARW7nQc7uXWH/nZEurWKerj/fY6qZm6YIuCakwkJSFQ5NDudCIRZzy82brfo3LiafA8Bx+Fldo2xf3pB9rGw6day/n+VjoyGI4Er/aLXMlINA4Us6PlQehuSTxvKgcLBb+3qLHwb4z25NrT/7ZIl67yRI3NVajaqwGUp2sX0o2lDD1yFB19WhFBZ7L69hLOY3KcLQ6bDdKcDcyDDzOpoJ/91GWug3ahMUkJw0qtCRKQXcG4bBhhG85Y+pGutDwUOvmT4Mx/xQ==;KuVFP36Uy/WkyWM1twu+bQ=="

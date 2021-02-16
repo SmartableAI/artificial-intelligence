@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "FinTech platform Siply raises USD 1 million in seed funding"
-    excerpt: "Bengaluru-based Siply announced the raise of USD 1 million in seed funding from investors such as JITO Angel Network and"
-    publishedDateTime: 2021-02-11T12:33:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-platform-siply-raises-usd-1-million-in-seed-funding/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/02/fiserv.jpeg.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "B9R4y0j/wcl6OF0gFdaGJM3bjLORFgmvm9SOtUc6WNQIxymn1u/co/LaU/xB4kIXtiNcWQvOPo1U2dWzkx3ATxCedufetJODln9ne73THdp6vc6Z2edFrc6We4OY2v9QjRNbY0hUZPdQXNm8IrumW7u/db21Y0EuRaqdRJdKX02Zj5byIU/D29ZJHrHLVTHncHz2fYyTtBpDCe4nfo1D6owTAdYrunXDazGbE8t6ScV9BOC68FqegCQ3Kk8hGAHRnRGo/MfCfhtHtbQcX+FcCWHyqnE3IV1cY2fa/zf9W1U5XM8TjkLU4cWOZY87O9sw3h8ekTl/M67inTD2u7wyrp6mylzVmVe7fnsunlSp0rU=;z6n7gfThTq1A47/zG2Tplw=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 1195
         isCached: true
-  - title: "Microsoft and HPE collaborate to connect Azure to space"
-    excerpt: "The team-up with Hewlett Packard Enterprise will be centered around delivering Azure capabilities to space through HPE's Spaceborne Computer-2, which is set to be launched this month."
-    publishedDateTime: 2021-02-11T12:14:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-and-hpe-collaborate-to-connect-azure-to-space"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-hpe-collaborate-to-connect-azure-to-space/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-hpe-collaborate-to-connect-azure-to-space/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 104
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/02/1613063261_azure_space_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "VW and Microsoft are building an autonomous car platform with Azure at its heart"
     excerpt: "Volkswagen and Microsoft are collaborating on autonomous vehicles, with the two behemoths planning to work on an Automated Driving Platform. Announced today, the deal will see the VW Group and"
     publishedDateTime: 2021-02-11T14:25:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/iPad-home-feed-630x420.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
-    excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
-    publishedDateTime: 2021-02-11T12:00:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/131690/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,"
     excerpt: "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,"

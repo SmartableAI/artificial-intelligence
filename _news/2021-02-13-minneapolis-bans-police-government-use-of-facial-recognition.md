@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?a
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/7/df/7dfb1a0e-49f8-57b4-be3a-8652eee7877c/6026e228dca77.image.jpg?crop=1766%2C993%2C0%2C90&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Minneapolis poised to ban facial recognition for police use"
+    excerpt: "Minneapolis cast a ballot to boycott the utilization of facial acknowledgment programming for its police officers on Friday according to reports."
+    publishedDateTime: 2021-02-16T03:47:00Z
+    webUrl: "https://techstory.in/minneapolis-poised-to-ban-facial-recognition-for-police-use/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/02/4645.jpg"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "Minneapolis passes restrictions on facial recognition use by local police"
     excerpt: "Minneapolis has passed legislation blocking the use of face biometrics by city police, the Star Tribune reports. The ordinance passed by Minneapolis City Council bars local police and other city agencies from acquiring facial recognition technology,"

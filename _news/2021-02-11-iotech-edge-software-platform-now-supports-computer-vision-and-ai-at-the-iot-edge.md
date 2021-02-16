@@ -7,7 +7,7 @@ originalUrl: "https://www.eejournal.com/industry_news/iotech-edge-software-platf
 webUrl: "https://www.eejournal.com/industry_news/iotech-edge-software-platform-now-supports-computer-vision-and-ai-at-the-iot-edge/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 512
     height: 512
     isCached: true
-
-related:
-  - title: "IOTech edge software platform to support Computer Vision and AI at the IoT edge"
-    excerpt: "IOTech edge software platform to support Computer Vision and AI at the IoT edge . Edge software company IOTech has announced that the"
-    publishedDateTime: 2021-02-12T05:07:00Z
-    webUrl: "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 70
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IOTech-edge-software-platform-to-support-Computer-Vision-and-AI.jpg"
-        width: 1200
-        height: 677
-        isCached: true
 
 secured: "En8ZV2r2kaK9sucJZzGPIEKqmC99+afVn8NbMHQj3zv2E6FaaBhddBcx0sSlxnx7+XVo+PwH2diMTIWRFcIFa9YeNsi0vdwGhZVhmpf52n4LLqHukKji35xy5H6zTvpNf1DQiUMdwJpHwe8D4we5q2bwc2zQCRwsPkCnwnNqIIOWe7RsSqfNwnbRSqZySlUV+T/PCgZTwoLve1BrwvPPvrB2NGg8NyTu1aO/vfo18FGNvDkqyeO0hk09gQ/vN9JQzvMhKJMjPBYV0C44dHztb/0FqlVyUxuSdd5V8qjiT5jvUGElo9Fe6B1oMKcxQy0J67GAENFbXwkzduKMrq9iuzsh5tZZDU04bMxngq0spSI=;aSXl96hCKkeMquJ+WsMITg=="
 ---

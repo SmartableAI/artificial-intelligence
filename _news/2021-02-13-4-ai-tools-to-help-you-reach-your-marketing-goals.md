@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-y
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2F7cfa7470-6cae-11eb-b53d-dea2dbd7fe69&client=amp-blogside-v2&signature=715022ff0bcb607e63238a1e081be351e38a930d"
         width: 600
         height: 350
+        isCached: true
+  - title: "Artificial Intelligence for Marketing"
+    excerpt: "A Latest intelligence report published by AMA Research with title Artificial Intelligence for Marketing Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence for Marketing market This report provides"
+    publishedDateTime: 2021-02-12T14:23:00Z
+    webUrl: "https://www.openpr.com/news/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/2/U212535947_g.jpg"
+        width: 638
+        height: 359
         isCached: true
   - title: "New AI Detects Your Emotions by Scanning You With Radio Signals"
     excerpt: "If new research is to believed, you may find yourself coming home from work one day in a rotten mood — just to have your smart speaker automatically scan your emotions and start to play soothing music."

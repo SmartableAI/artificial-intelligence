@@ -26,84 +26,162 @@ images:
     isCached: true
 
 related:
-  - title: "Developing a Turing test for ethical AI"
-    excerpt: "AI’s Turing test focused on the wizardry needed to trick us into thinking that scarecrows might be flesh-and-blood humans (if we ignore the stray straws bursting out of their britches). However, I agree with the argument recently expressed by Rohit Prasad,"
-    publishedDateTime: 2021-02-11T11:03:00Z
-    webUrl: "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html"
+  - title: "The Use Of AI In Advertising, Commerce And Marketing"
+    excerpt: "AI is kind of the second coming of software, which has gained significant momentum in the last few years, acting as personal assistants for some, while processing business transactions and providing t"
+    publishedDateTime: 2021-02-15T05:22:00Z
+    webUrl: "https://www.entrepreneur.com/article/365391"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 106
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 104
     images:
-      - url: "https://images.techhive.com/images/article/2014/08/care_nurture_support_people_human_resources_thinkstock_176436790-100409939-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1613366535-pexels-startup-stock-photos-7063.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Exploring AI Revenue Generation Opportunities In Dating Apps"
-    excerpt: "AI has impacted different industries, including retail, manufacturing, logistics, transport and more. When it comes to the personalized application of this technology, the opportunities are endless. From smart apps to personal assistants,"
-    publishedDateTime: 2021-02-11T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/exploring-ai-revenue-generation-opportunities-in-dating-apps/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/exploring-ai-revenue-generation-opportunities-in-dating-apps/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/11/exploring-ai-revenue-generation-opportunities-in-dating-apps/amp/"
+  - title: "Artificial Intelligence And The End Of Work"
+    excerpt: "The notion that, at its best, AI will augment rather than replace humans is both reassuring and deeply misguided."
+    publishedDateTime: 2021-02-15T23:45:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6023ddeacc72192929f0dcb7%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029b4de0f413e9fd6a1984b%2F0x0.jpg"
         width: 1200
-        height: 830
+        height: 740
         isCached: true
-  - title: "Researchers propose platform for evaluating disease-forecasting AI methods"
-    excerpt: "Researchers at the University of Southern California propose a platform --EpiBench -- to compare disease-forecasting AI models."
-    publishedDateTime: 2021-02-11T21:26:00Z
-    webUrl: "https://venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/"
-    ampWebUrl: "https://venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/amp/"
+  - title: "Media Buying Briefing: Why AI is steadily finding its place in agency land"
+    excerpt: "Agencies are more comfortable using machine learning to speed up processing, enhance data crunching and minimize repetitive work."
+    publishedDateTime: 2021-02-15T05:05:00Z
+    webUrl: "https://digiday.com/media/media-buying-briefing-why-ai-is-steadily-finding-its-place-in-agency-land/"
+    ampWebUrl: "https://digiday.com/media/media-buying-briefing-why-ai-is-steadily-finding-its-place-in-agency-land/amp/"
+    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/media/media-buying-briefing-why-ai-is-steadily-finding-its-place-in-agency-land/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Digiday
+      domain: digiday.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&strip=all"
+      - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2021/02/tv-significance.jpeg?fit=682%2C397&zoom=2&quality=100&strip=all&ssl=1"
+        width: 1363
+        height: 794
+        isCached: true
+  - title: "Using AI and Machine Learning will increase in horti industry"
+    excerpt: "The expectation is that in 2021, artificial intelligence and machine learning technologies will continue to become more mainstream. Businesses that haven’t traditionally viewed themselves"
+    publishedDateTime: 2021-02-11T13:18:00Z
+    webUrl: "https://www.freshplaza.com/article/9292973/using-ai-and-machine-learning-will-increase-in-horti-industry/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 56
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/02/11/Ai.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Five ways to use machine learning in digital marketing"
+    excerpt: "Intelligent machine learning applications can be used to increase the outcomes of digital marketing implementations. Five applications that will help."
+    publishedDateTime: 2021-02-12T13:55:00Z
+    webUrl: "https://www.searchenginewatch.com/2021/02/12/five-ways-to-use-machine-learning-in-digital-marketing/"
+    type: article
+    provider:
+      name: Search Engine Watch
+      domain: searchenginewatch.com
+    quality: 56
+    images:
+      - url: "https://www.searchenginewatch.com/wp-content/uploads/2021/02/Five-ways-to-use-machine-learning-in-digital-marketing.png"
+        width: 728
+        height: 256
+        isCached: true
+  - title: "Work on Artificial Intelligence and Machine Learning Standards Begins"
+    excerpt: "Hoping to clear the path for the development of AI and machine learning standards, the Securing Artificial Intelligence Industry Specification Group has released a report highlighting the field’s predominant challenges."
+    publishedDateTime: 2021-02-12T23:53:00Z
+    webUrl: "https://www.automationworld.com/cybersecurity/article/21282958/work-on-artificial-intelligence-and-machine-learning-standards-begins"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 56
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/02/GettyImages_1202271610.6027149b4debe.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "6 logistics startups helping retailers to fill orders using robots amid surging e-commerce demand — and raking in millions in venture capital"
+    excerpt: "Retailers are facing unprecedented demand for e-commerce during the COVID-19 pandemic. And they believe robots can help."
+    publishedDateTime: 2021-02-12T15:42:00Z
+    webUrl: "https://www.businessinsider.com/startups-raising-millions-to-create-robots-used-in-retail-fulfillment-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/602692b72edd0f001a8d579e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence for Marketing"
-    excerpt: "A Latest intelligence report published by AMA Research with title Artificial Intelligence for Marketing Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence for Marketing market This report provides"
-    publishedDateTime: 2021-02-12T14:23:00Z
-    webUrl: "https://www.openpr.com/news/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
+  - title: "Unfortunately, Commercial AI is Failing. Here’s Why."
+    excerpt: "While AI is a trending topic in the tech world, artificial intelligence products are failing to impress the commercial sector. The industry is facing AI fatigue due to a lack of scalable AI that is meeting the hype and performing as expected."
+    publishedDateTime: 2021-02-13T12:11:00Z
+    webUrl: "https://www.analyticsinsight.net/unfortunately-commercial-ai-is-failing-heres-why/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/2/U212535947_g.jpg"
-        width: 638
-        height: 359
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Unfortunately-Commercial-AI-is-Failing.-Heres-Why..jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "How AI Technology Makes Manufacturing Smarter"
-    excerpt: "Advances in the Industrial Internet of Things (IIoT), artificial intelligence (AI), machine learning, and advanced analytics are turbocharging the move to Industry 4.0. To stay competitive, companies are using AI-powered IoT tools to alert manufacturers to failures in equipment,"
-    publishedDateTime: 2021-02-12T19:48:00Z
-    webUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/"
-    ampWebUrl: "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/"
+  - title: "Thriving in the new normal with cloud and artificial intelligence"
+    excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"
+    publishedDateTime: 2021-02-15T02:06:00Z
+    webUrl: "https://www.thesundaily.my/business/thriving-in-the-new-normal-with-cloud-and-artificial-intelligence-JA6705568"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
+      name: The Sun
+      domain: thesundaily.my
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/02/Manufacturing.png"
-        width: 700
+      - url: "https://www.thesundaily.my/binrepository/480x268/0c14/480d250/none/11808/QJLI/p12-afp_2118790_20210214191704.jpg"
+        width: 480
+        height: 250
+        isCached: true
+  - title: "Investing in AI with a conscience"
+    excerpt: "Local start-up BasisAI is preparing to go regional with \"responsible\" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA).. Read more at straitstimes."
+    publishedDateTime: 2021-02-15T22:55:00Z
+    webUrl: "https://www.straitstimes.com/tech/investing-in-ai-with-a-conscience"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/16/ST_20210216_LWAI_6328626.jpg?itok=QRxL3typ"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "A Cloud-Connected, AI-Enabling Commercial Computer is Heading to the International Space Station"
+    excerpt: "SBC-2 will also tap Microsoft’s Azure Space service to connect users on the space station to the Earth, and vice versa, through the cloud. The computer will be installed for the next 2 to 3 years, and is backed by a sponsorship from the ISS U."
+    publishedDateTime: 2021-02-11T13:16:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/cloud-connected-ai-enabling-commercial-computer-heading-international-space-station/172001/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 26
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/11/shutterstock_1453899434/open-graph.jpg"
+        width: 400
         height: 400
         isCached: true
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-nat
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11?amp"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS signs deal with National Hockey League for cloud, AI and machine learning provision"
-    excerpt: "National Hockey League to become the official cloud, artificial intelligence and machine learning infrastructure provider of the largest ice hockey league in North America. Under the deal, AWS will allow the NHL to automate video processing and content delivery in the cloud and leverage its Puck and Player Tracking System to better capture the details of gameplay for its fans,"
-    publishedDateTime: 2021-02-11T11:09:00Z
-    webUrl: "https://siliconangle.com/2021/02/10/aws-signs-deal-national-hockey-league-cloud-ai-machine-learning-provision/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 63
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/iehockey.png"
-        width: 869
-        height: 581
-        isCached: true
   - title: "AWS cloud infrastructure for NHL"
     excerpt: "Amazon Web Services (AWS), an Amazon company, has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intel"
     publishedDateTime: 2021-02-12T00:03:00Z
