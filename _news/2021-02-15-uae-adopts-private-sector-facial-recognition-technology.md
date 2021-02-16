@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-f
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://www.abajournal.com/images/main_images/2.11.21_bar_exam_photo_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Lawmakers introduce bill to strike balance between personal rights, public safety with facial recognition technology"
+    excerpt: "A bill introduced to the Legislature this year aims to strike a balance between the government’s use of facial recognition technology and personal privacy rights by regulating its use across Utah. Facial recognition technology is one of several biometric technologies employed by law enforcement agencies and can be instrumental in generating investigative"
+    publishedDateTime: 2021-02-15T00:00:00Z
+    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/02/15/cgb-lgl21-lawmakers-introduces-bill-to-strike-balance-between-personal-rights-and-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: St. George News
+      domain: stgeorgeutah.com
+    quality: 16
+    images:
+      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/02/GettyImages-1267598587-facial-recognition-eye-kentoh-1290x726.png"
+        width: 1290
+        height: 726
         isCached: true
 
 secured: "Fo4l91jy+NXLcGh4bf6sVZec2h1Xv4Sb/yFRYEUzpDfufI071BiROQLAu/pAMdZ5DetotDkAKXk7rzZ0wzIljUZhADEDLTk1F0z1q66IE/cMckLF/bIZtA1wSQK4IhJIGPP56t0V+2BMWt4W4xWbq2W0N58pnOHfzkYFfiaOSrx38FuUgq2EHmiMG5z22AkXixxHiz3R7j+T7/SsHDldSPYfYiUuJznqjSRBoLkcaUhtU3g+dsrQeUHmbwtDoWXh387jzxtkCWhChKom/HUjhw9ZUxWWklFuUbKxn0zQ+vlOcrGOy4Vy4/03342nvjuIhOVvQ9DMYy4BxpkKHH5Hd4JiWngSy0GKmjRdK8m8vdSpWGYB70sM71Xhi9jNUL/xBmGR8KxuhnsD3JRnk1iX3UupDDlAQw3tuLQ7OB2vVtcclufP3hzeSil/YbDqYO96ynuEH+7iWHXob63/iZIBMjuEP+zLjF2sJVFTiJKtgDX5GBfISWKJodKfIwI33kQPIsNt8pktUQmOnUZnRE4AsA==;YfUFtStZ/YoPwJCrU010JA=="

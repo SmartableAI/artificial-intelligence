@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-t
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsofts expands partnership with Volkswagen on cloud-based Automated Driving Platform"
-    excerpt: "Microsoft said it has expanded its partnership with German carmaker Volkswagen. The company will cooperate with Volkswagen's software firm, Car.Software Organisation, to build a cloud-based Automated Driving Platform (ADP) on Microsoft Azure."
-    publishedDateTime: 2021-02-11T08:30:00Z
-    webUrl: "https://www.telecompaper.com/news/microsofts-expands-partnership-with-volkswagen-on-cloud-based-automated-driving-platform--1372064"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 10
 
 secured: "qnTuIo/3pxCVTdEq9H8kIInF3qfHGPdAUmMwGe3vmezBTU4K0b0+at679m0VjPJkTbRv9NRSl+kj7tkwnHznql9oJsA0K2t6LToogTA0ITa8VavJqr9NIC4n4biqjXSet2V24JUwGm0vpB6owMifglT8I7YVOPq9hhCgz0Y3xQLdTP5a3u7SPgdcfjjJzATn0oF1Lf1ea37gUI2+lRWpTYFvGispYfhIG2zXII5ia+5k4v/C+7VWuorj4KyZH3dM2URoN+eXZMAPk2raGo/aUrsxlSUPQVFk7iEOwSUYX5TomgygTjgTi4252KS6lifL+7HD8HU4YYxUEnDvnDs9ssQLEIMS2Az4HTtUPK7vEP0=;HCwH1QjbfN2lqr+1nOAhLw=="
 ---

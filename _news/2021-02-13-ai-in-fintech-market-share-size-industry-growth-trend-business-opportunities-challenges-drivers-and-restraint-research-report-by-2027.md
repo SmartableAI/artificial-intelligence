@@ -29,19 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Latest Industry Trends, Statistics, Competition Strategies and Latest Industry Share by 2026"
-    excerpt: "The global “Natural Language Processing Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-02-11T08:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-industry-trends-statistics-competition-strategies-and-latest-industry-share-by-2026-2021-02-11"
+  - title: "Fintech, AI and ML: What you need to know in 2021"
+    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
+    publishedDateTime: 2021-02-12T14:21:00Z
+    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-and-ml-what-you-need-to-know-in-2021"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Finextra
+      domain: finextra.com
+    quality: 38
+  - title: "Fintech, AI & ML: What you need to know in 2021"
+    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
+    publishedDateTime: 2021-02-11T22:54:00Z
+    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-amp-ml-what-you-need-to-know-in-2021"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
+  - title: "Top 3 FinTech companies to watch out for in Austria"
+    excerpt: "The Austrian FinTech industry has seen robust growth in sectors including payments, investments, insurance and accounting."
+    publishedDateTime: 2021-02-15T12:05:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/top-3-fintech-companies-to-watch-out-for-in-austria/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/fintech-APAC.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "TWiodLkc1mj1unEFK9rX5EJoxULx3765oL5Od8s47rw3TToKQNW0LxrB0wpyBBuxS/nzJ1drTUNSmS+a/J76CKp80upCcgED1u1Dzbeln1t/GbP3aP/3b5v47Numcy2/gk4ZE9oIxpCeXwlhaaUbtYXDh98t/KulwAchsqBM7gA8oGKbFGM+GNl3oUT40IApHaXs1XfhlIysoekijogXm9yVX2uj4ilUEUxQBvBfAcNxAoxvXn3YoyROc68NZuEQOLc0K4k8gv2qsCtfzQFatMZOULkTSgBdraFgq19dQcoKobt9mroRXZP56qunUNqynsug1Dc9mkC9S2BYrvWSbaWrho7ETOEqfir+NNeL+YY=;oF6BFoe+L7Uyi4DSjm5iIw=="

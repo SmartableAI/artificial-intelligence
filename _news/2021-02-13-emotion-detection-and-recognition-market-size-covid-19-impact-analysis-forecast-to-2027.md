@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Computer Vision Market 2021 Regional Study, COVID - 19 Outbreak, Emerging Technologies, Global Segments, Business Trends, Landscape and Demand"
-    excerpt: "The intensifying call for equipping computers with vision similar to humans has generated considerable traction for the computer vision market globally. The concept of computer vision as a scientific stream encompasses the technology and theory for creating artificial systems that acquire information from images or multi-dimensional data."
-    publishedDateTime: 2021-02-11T08:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-regional-study-covid---19-outbreak-emerging-technologies-global-segments-business-trends-landscape-and-demand-2021-02-11"
+  - title: "Artificial Intelligence Used For Personalization And Automation In The Direct Selling Establishments Industry"
+    excerpt: "The Business Research Company’s Direct Selling Establishments Global Market Report 2021: COVID-19 Impact and Recovery to 2030"
+    publishedDateTime: 2021-02-15T13:45:00Z
+    webUrl: "https://www.wboc.com/story/43348927/artificial-intelligence-used-for-personalization-and-automation-in-the-direct-selling-establishments-industry"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
+      name: WBOC
+      domain: wboc.com
+    quality: 20
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20378280_G.png?lastEditedDate=1613369260000"
+        width: 900
+        height: 455
         isCached: true
 
 secured: "9slzBXLd6U43aw7DvaHz4jT9IQhemsYk3IAh48kNHWC6qGgsm/kkW20cdhtHkcxIKcPnREv0+sdN/dd2wbcyp3CnLdkZBcRZd6mFLLqPysbV8ISLEC+/LbSXZxlXjbxNKg+aBWyq/yzmH78vohBs5ogXCVpccB/agq84lKxpZlJPQhNIKQ+OjHGyzlbSNY9zwOTjQD0usCtwaAei51CfG07ebqtFoh8krEZvgUoXT7Gf0DgVaCz0LZWbQWsorv6g3c46msBkUMCLEpoFRYuUnFC2cdY/AESpnnOvRRb6xdjc94L+pVRvR/+Qq1/si0qOJ1dgpWltxiNAz/g7eR5cMKUz1gxX721Kf4sgiSdMFFs=;M4sC4I46wsZnGYRSTnTvIQ=="

@@ -3,10 +3,10 @@ category: news
 title: "Salesforce: Combining AI and automation can give us superpowers and make us more productive"
 excerpt: "Salesforce Einstein Automate is just the beginning. John Kucera, SVP of Product Management for Automation at Salesforce, believes the combination of AI and automation into voice-enabled digital assistants will give us \"superpowers\" that help people build relationships and make us more productive."
 publishedDateTime: 2021-02-14T23:04:00Z
-originalUrl: "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
-webUrl: "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
+originalUrl: "https://www.zdnet.com/index.php/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
+webUrl: "https://www.zdnet.com/index.php/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/"
 type: article
 quality: 77
 heat: 87
@@ -45,6 +45,6 @@ related:
         height: 578
         isCached: true
 
-secured: "SjqBHdnJLmVXIdmy/nWlxvvEt+8QVVlq68lSruHL0tKZ9DxzSMuAfX+eErTgrDNX+Kdd0g8FhuWP2XtvU7/XX5ppHnr3eXNcgpO/2Jz1OHSv98qXQUt93A3lhnERxStVfP1W41/hvgnSxC+5nnf9jsO+GfUEjLqz8RPpSB4aq9nZp7jj8s66q0xRGw/y9U8EtTMoSGchrP4g2IAm3sBZp34qkhrLYM2RKebiSjVa8twRYd8r5XeMjzr0SjYqP+NI3r0RyAhMD6Y6W19LMIjXEg8dMCQDo8nklYAOltZDklw4z/hV1npyqURB4SBu6EAlzaZOgfXh6oZ0pGt+rX5sPtmPCjNnyeDCJRkHA+ZJn80fh3r5NSFbgoJyf7iVfFHumrA4JUDqCz2NDJESEIgcaxUQMSQ5gK3Wj8kWwyvr4/LvEgqh4hC1GVgPefBi/5RhD3imUQ/fxqnjn2FYYZnBMsnbfISwR5rkQ53gibeeTk9Cwhrjhq/5ezZWnUHUf9VeJethetHEx3SNaDnOeUxyfg==;0yN5z7+XDo9exhdKcp9bsg=="
+secured: "MhW/sgSAzKEspqf3qYsRJQTQUK1oMfKJ5eEdArR20SzPZqIhJsRZf7pVuQJ3QWu+Dq+ZeKbpsZ8tqW1Td8q/ER89TxEU29WOvpCz45h8hqHzOyaIHSVJwwfG8Rzp6gJCBhltI0qpatJpjDUYqQbPAdJVE+H2lXd7CyPhr7USIqxVEnJnkfeqJOCkeALj7XEtzQJObt+E95jJRO+ay9UYTjBnMUHqjH9DdNVn3TXeWkO3VJ+qU3WWoiwb2fHsYm1ZzsvPGoQqKMDhV9dj29Hn03w9aPLg4sBZcpMQmiOQL8FPgqgMvGryLQeJXuBluFj7f4FeoAxBLOyUnhAueedFDFsw24jLICfdnlHrdEbmTj0=;jIkiRMcFo3kDcppRVoGYTA=="
 ---
 

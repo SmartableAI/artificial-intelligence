@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-coul
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

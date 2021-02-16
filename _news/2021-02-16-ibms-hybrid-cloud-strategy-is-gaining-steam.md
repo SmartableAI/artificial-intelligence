@@ -42,7 +42,7 @@ related:
     provider:
       name: Elmoudjaweb
       domain: elmoudjaweb.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/IBMs-hybrid-cloud-strategy-is-gaining-steam-–-Jaweb.jpg"
         width: 1024

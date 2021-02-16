@@ -73,20 +73,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "How to manage your power bill while adopting AI"
-    excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
-    publishedDateTime: 2021-02-11T07:31:00Z
-    webUrl: "https://www.reseller.co.nz/article/685701/how-manage-your-power-bill-while-adopting-ai/?fpid=1"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/m.jpg"
-        width: 700
-        height: 500
-        isCached: true
 
 secured: "RxM2AVdHUNnFKc0ZWPRPGsQYtgRo1BlMSSKUza2P+GAvLwsKi221lXY2ZaAwFZECsc/jzLsGaQW3nzCHaU46vcmrrwBSV7bLUDthKqgTbIMcCBlCnkuSvdERghHUpaPawa/KYp6No+NSMthJ333gYGYa2iDB3wurLOeM4rGC9VQAmk2y9+CwqEOOd9NAIuC3xFIT4n8O4+fvXagEq4iwq+qnUkjJhkNRcXqxJBwcdFK4axA0A3tG6ZBpiaAhGSCfO/I7TSLQWqBg3Xh45tJ58AdkmxnBIzrAP0AhNTPSLv8flbVy82mDc+kPndAqeJCWFwLyYIYYFumiewriG0Sz2b9kkEm97b0+Qv+kvCrVLLkDHJcmtP1CFxYMduOKh125t9JspFNj7ooWGVPunAwxthRlULi6W0AUvu9zWPC9Pdpm8b58WUIg3swCudnVEXTF/YZ+BW9IMyEpUwXtLhtocqLcYYyAS2ki8ni5BKTM361IrCQdDUu4Ms/0OvoUw2cWc8ucxZG15a7XMvEQ0zJp5g==;3VUICqadlOiS/zfYSjLpSA=="
 ---

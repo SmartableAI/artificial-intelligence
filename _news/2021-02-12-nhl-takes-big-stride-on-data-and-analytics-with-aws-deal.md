@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "NHL takes big stride on data and analytics with AWS deal"
-    excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
-    publishedDateTime: 2021-02-11T07:18:00Z
-    webUrl: "https://apnews.com/5720b382cc681c7db9e7c871513456b8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/047ba679d814498c92b53054b8eced0b/2480.jpeg"
-        width: 2480
-        height: 1653
-        isCached: true
   - title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
     excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,"
     publishedDateTime: 2021-02-11T14:19:00Z

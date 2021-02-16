@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-y
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://wp-assets.futurism.com/2021/02/neural-net-bombards-radio-waves-guess-feeling-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "How to manage your power bill while adopting AI"
-    excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
-    publishedDateTime: 2021-02-11T07:31:00Z
-    webUrl: "https://www.reseller.co.nz/article/685701/how-manage-your-power-bill-while-adopting-ai/?fpid=1"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/m.jpg"
-        width: 700
-        height: 500
         isCached: true
   - title: "How to manage your power bill while adopting AI"
     excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."

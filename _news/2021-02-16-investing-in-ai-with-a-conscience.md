@@ -40,6 +40,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Artificial Intelligence And The End Of Work"
+    excerpt: "The notion that, at its best, AI will augment rather than replace humans is both reassuring and deeply misguided."
+    publishedDateTime: 2021-02-15T23:45:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029b4de0f413e9fd6a1984b%2F0x0.jpg"
+        width: 1200
+        height: 740
+        isCached: true
   - title: "Media Buying Briefing: Why AI is steadily finding its place in agency land"
     excerpt: "Agencies are more comfortable using machine learning to speed up processing, enhance data crunching and minimize repetitive work."
     publishedDateTime: 2021-02-15T05:05:00Z

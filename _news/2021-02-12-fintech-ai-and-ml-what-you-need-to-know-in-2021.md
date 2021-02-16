@@ -30,6 +30,20 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 38
+  - title: "AI in Fintech Market Share, Size, Industry Growth, Trend, Business Opportunities, Challenges, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The AI in Fintech market intelligence study is a collection of authentic"
+    publishedDateTime: 2021-02-12T22:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-share-size-industry-growth-trend-business-opportunities-challenges-drivers-and-restraint-research-report-by-2027-2021-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top 3 FinTech companies to watch out for in Austria"
     excerpt: "The Austrian FinTech industry has seen robust growth in sectors including payments, investments, insurance and accounting."
     publishedDateTime: 2021-02-15T12:05:00Z

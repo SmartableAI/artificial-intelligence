@@ -3,10 +3,10 @@ category: news
 title: "Is AI just a fairy tale? Not in these successful use cases"
 excerpt: "Getting artificial intelligence past the fairy tale stage is a challenge for some organizations. Here are two examples of AI that's granted its users' wishes."
 publishedDateTime: 2021-02-15T13:31:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/"
-webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/"
+originalUrl: "https://www.techrepublic.com/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/"
+webUrl: "https://www.techrepublic.com/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 667
     isCached: true
 
-secured: "USIzmxIX1inIFIksJu1Hk1CJaK7t5hT+dn+tgiZkE7AGA/W+MLBwUIZ258AUvrV9otzIaGn7UC8GO8fqZtn+d5ZRf77JqkT6rnhSjeMmWiezqYDvtUEBbOTNEmPTGYsbTd5ASB+6SC/OUBrPqSQilKbpWQyT8bBMzDdz5R3qdzGseelwJdLt+kODXG2lf260zyUieKj7HcG+lRJCD7fi7qJxdSasq65r21mIJ/pJtpsMXETbA83SWLRbLRpg2CASzL+Mj3fUTJOT0YpogzSot7mcsvRpZtTYaZT0YGX4Wj24KnmrQ6CSUjq6WL1D1EjzthBmvFMzmWZNqYFJOYRS1ka+qxLcyvLhNWWzBVmUQz0=;pyJoiB8LNy02brLqcWM6sg=="
+secured: "7OleJ4QRGw4MuW+MZCtPJnKv+GsjMWvaODSb90nwE7anq4HZUyG9/vHm9n3kbesRqgrcujLiKt9PpK+P9cYc/SOanxYSgftRuftnItEMPsFOBrw0R9iIUODDKxZVWOEw0wujVGuqU5lrD4iq8k3UP0npic/yaEQXO+vmPJp8naYc/L50jRTKHAcqu4bDgDAb7p5P7V3VsX6aO/rcInLkm73SYpbgxmiT2+5SRbZzXtsHCuz3ET7HtHgDnW076BOhYK1yuWkjF6tTjUJT1yv6231uD+gh37yzrOr2OGifi+/8BJi/3u4t3CaX7Q7YrAm/QhNDfh+PjSdPV02V1TepmyHUX4G2ZVUa++sGruhH9LE=;AvBY8eBvTuopNysYBrurCw=="
 ---
 
