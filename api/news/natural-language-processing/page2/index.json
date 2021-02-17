@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-02-how-to-tell-if-your-partner-is-thinking-of-breaking-up-with-you-people-contemplating-the-end-of-a-relationship-change-their-language-and-start.md",
+      "title": "How to tell if your partner is thinking of breaking up with you: People contemplating the end of a relationship change their language and start saying 'I' and 'we' more",
+      "excerpt": "The study, by researchers from the University of Texas, suggests that the use of pronouns may indicate an impending breakup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/People-contemplating-end-relationship-start-saying-more.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/People-contemplating-end-relationship-start-saying-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/02/01/13/38735416-0-image-a-15_1612186949328.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/amp/People-contemplating-end-relationship-start-saying-more.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9210355/amp/People-contemplating-end-relationship-start-saying-more.html",
+      "publishedDateTime": "2021-02-01T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors.md",
       "title": "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors",
       "excerpt": "\"According to the research study, the global Natural Language Processing (NLP) Market was estimated at USD 12,748 Million in 2018 and is expected to reach USD 47,147 Million by 2027. The global Natural Language Processing (NLP) Market is expected to grow at a compound annual growth rate (CAGR) of 15.",
@@ -1374,49 +1417,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-using-natural-language-processing-to-classify-social-work-interventions.md",
-      "title": "Using Natural Language Processing to Classify Social Work Interventions",
-      "excerpt": "Natural language processing can be used for automated extraction of social work interventions from electronic health records, thereby supporting social work staffing and resource allocation decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajmc.com/view/using-natural-language-processing-to-classify-social-work-interventions",
-      "originalUrl": "https://www.ajmc.com/view/using-natural-language-processing-to-classify-social-work-interventions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ajmc.com/AJMC_25Lockup.png",
-          "width": 768,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

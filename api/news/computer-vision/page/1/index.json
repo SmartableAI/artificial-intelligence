@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-15-uae-adopts-private-sector-facial-recognition-technology.md",
+      "title": "UAE adopts private sector facial recognition technology",
+      "excerpt": "UAE adopts private sector facial recognition technology Sheikh Mohammed Bin Rashid Al Maktoum will chair the cabinet meeting in Abu Dhabi",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/",
+      "originalUrl": "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/UAE-adopts-private-sector-facial-recognition-technology.jpeg",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/",
+      "publishedDateTime": "2021-02-14T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-how-a-chinese-scientist-in-the-us-is-helping-defend-ai-systems-from-cyberattacks.md",
       "title": "How a Chinese scientist in the US is helping defend AI systems from cyberattacks",
       "excerpt": "Li Bo, an award-winning scientist, helps major tech firms like IBM and various financial institutions defend themselves against cyber threats.",
@@ -212,21 +255,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-13-minneapolis-poised-to-ban-facial-recognition-for-police-use.md",
-      "title": "Minneapolis poised to ban facial recognition for police use",
-      "excerpt": "Committee voted 12-0 in favor of ban, advancing it to city council, months after actions of city’s police sparked racial reckoning in US",
+      "path": "_news/2021-02-13-minneapolis-bans-police-government-use-of-facial-recognition.md",
+      "title": "Minneapolis bans police, government use of facial recognition",
+      "excerpt": "The Minneapolis City Council voted to ban the use of facial recognition technology by the city's police and other government departments.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software",
+      "webUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
+      "originalUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 159,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/199d7f912263587d7beb198ff7c5dab0bc726f19/0_135_4645_2787/master/4645.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d7c38416f108916c5e4f131ce3875c59",
-          "width": 600,
-          "height": 360,
+          "url": "https://uploads.dailydot.com/2021/02/Minneapolis-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0",
+          "width": 2000,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -234,23 +277,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software",
-      "publishedDateTime": "2021-02-12T10:34:00-08:00",
+      "ampWebUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
+      "publishedDateTime": "2021-02-12T11:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1441,49 +1475,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.md",
-      "title": "'Computer vision syndrome a real problem' amid pandemic, physician says",
-      "excerpt": "\"And that leads to fluctuations in vision and blurred vision and of course the eye strain can cause headaches,\" Dr. Starr said. \"So the computer vision syndrome is a real problem, especially in the post-COVID-19 era.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/public-health/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.html",
-      "originalUrl": "https://www.beckershospitalreview.com/public-health/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -33,20 +33,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Fish ecotyping based on machine learning and inferred network analysis of chemical and physical properties | Scientific Reports"
-    excerpt: "This study aimed to develop novel integrated analytical strategies for the functional characterization of fish diversity based on the quantification, prediction and integration of the chemical and physical features in fish muscles."
-    publishedDateTime: 2021-02-12T11:04:39Z
-    webUrl: "https://www.nature.com/articles/s41598-021-83194-0"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 11
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83194-0/MediaObjects/41598_2021_83194_Fig1_HTML.png"
-        width: 685
-        height: 320
-        isCached: true
 
 secured: "+3snNpD/uHR+9zbajPqrxd+I/UWRaiiX4mq9c63zVPXHR7qjypySA1fiEWYRdHMjUdccrbP8+K7S6n31Nw27PbXlteLJHi4cxEUbJgq2hgjZ95uybM8AsmjS9jQMkt2iK2DzU8fwh92gIfm5MBLEPWrMPV8D+8Exitd/stINO7quAQj835X+QKjTSnZ/jbr7KrMmyRQjm6Xoxk9DMvi9UUILM2crTwZoW/htZshrBZAD9cYB+njJKpgPPayWp4wy4Cz1lqzvxd4AXSxPy5GPDl34cuTYTsZRWnSMKMxgOtpSabmNO0FV7R+hHVTog/umlBYbh5/ob5urmF4KF0B7kspaFciRQI33DbcpKox42VA=;YZbUtk3nEQI/h4Q6RfVfJA=="
 ---

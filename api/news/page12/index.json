@@ -2,21 +2,21 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
-      "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
+      "path": "_news/2021-02-04-cyber-daily-data-drought-slows-advance-of-ai-in-cybersecurity.md",
+      "title": "Cyber Daily: Data Drought Slows Advance of AI in Cybersecurity",
+      "excerpt": "Cybersecurity professionals would love to use artificial intelligence to harden their defenses. But it’s hard to get enough of the right kind of data to train AI models, WSJ Pro’s James Rundle reports.",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19635111.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19635111.html",
+      "webUrl": "https://www.wsj.com/articles/cyber-daily-data-drought-slows-advance-of-ai-in-cybersecurity-11612448985",
+      "originalUrl": "https://www.wsj.com/articles/cyber-daily-data-drought-slows-advance-of-ai-in-cybersecurity-11612448985",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
+          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,62 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:45:00-08:00",
+      "publishedDateTime": "2021-02-04T07:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems.md",
+      "title": "This new tool can tell you if your online photos are helping train facial recognition systems",
+      "excerpt": "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new site hopes to raise awareness of this issue by offering a rare window into how a fraction of our pictures are used.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/money/2021/02/04/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/",
+      "originalUrl": "https://localnews8.com/money/2021/02/04/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2021/02/hypatia-h_49f15336bbaab0b9c920387c0fdb87e3-h_7f22ebabb0a70c04d2ec50df19f2615b_preview.jpg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,10 +91,52 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
+      "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
+      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI",
         "Machine Learning",
-        "Google AI",
         "TensorFlow"
       ]
     },
@@ -1098,108 +1191,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-understanding-the-aie-commerce-connection-in-the-age-of-socially-distanced-retail.md",
-      "title": "Understanding The AI/E-Commerce Connection In The Age Of Socially-Distanced Retail",
-      "excerpt": "An infusion of investments in e-commerce translates into the further development of more advanced technologies for retail, especially AI and Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/02/03/understanding-the-aie-commerce-connection-in-the-age-of-socially-distanced-retail/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/02/03/understanding-the-aie-commerce-connection-in-the-age-of-socially-distanced-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601b66a283734cca70042636%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D380%26cropY2%3D1532",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/02/03/understanding-the-aie-commerce-connection-in-the-age-of-socially-distanced-retail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/02/03/understanding-the-aie-commerce-connection-in-the-age-of-socially-distanced-retail/amp/",
-      "publishedDateTime": "2021-02-03T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles.md",
-      "title": "Amazon plans to install AI-powered cameras in delivery vehicles",
-      "excerpt": "Amazon said Wednesday it plans to equip its delivery vans with cameras powered by artificial intelligence in an effort The internet retailer said it had recently started rolling out technology across its delivery fleet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/",
-      "originalUrl": "https://www.cnet.com/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/fS83UzG25a-76KAqWp20Oyc6ycU=/1200x630/2021/02/04/35d80178-a496-462f-a268-0a74948f3cb0/gettyimages-1230935623.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/",
-      "publishedDateTime": "2021-02-03T19:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

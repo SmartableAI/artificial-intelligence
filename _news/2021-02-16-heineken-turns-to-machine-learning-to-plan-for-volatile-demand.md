@@ -24,6 +24,17 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Blue Yonder Expands Relationship with HEINEKEN to Plan Volatile Demand in Fast Changing World"
+    excerpt: "NewswireToday - /newswire/ - Scottsdale, AZ, United States, 2021/02/16 - Global brewer expands Blue Yonder supply chain footprint to digitally manage volatile demand changes powered by machine learning [OTCQX: HEINY] [OTCQX: HKHHY] - TheHEINEKENCompanies."
+    publishedDateTime: 2021-02-17T00:32:00Z
+    webUrl: "https://www.newswiretoday.com/news/174796/Blue-Yonder-Expands-Relationship-with-HEINEKEN-to-Plan-Volatile-Demand-in-Fast-Changing-World/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
+
 secured: "FhqZvhTwmfWsOXGmrzKmwGKTPMVdSUdPgT36SrV7eOeeVpxzfCmI4OzTpUfp604xDnusoPIJZE5MGw/vxYAZXnR9Aku4ekaT6lXq8OAYNCK7ARnkG7QhRCglQ6hmWHpGPaVKFFdf43tb7oJJhZyqr6p6Vq0y+vm+xxCJ2kEy1PvyjMT3YIeLqvVlqIjJBKFKk+c+YLjH1sRCrg//Oj3E5KDPnF1Kw3l1PiuuRe+IFcAyW4bFLb08CROMV5zZ5e+bNcZM8P4cCt1VKU67e7qn58Z7nGk0RB2zns2lPHpmwzNvs68toyoLL29GAFdT7jMH0HFL0ZGlviaKC887moXe/1qJgDGVYYcwE6ec2rzlojY=;D4W9r76av3Du9HAl/ysfWQ=="
 ---
 
