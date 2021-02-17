@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-17T12:35:00Z
 originalUrl: "https://www.information-age.com/ai-startup-founders-reveal-the-artificial-intelligence-trends-for-2021-123493833/"
 webUrl: "https://www.information-age.com/ai-startup-founders-reveal-the-artificial-intelligence-trends-for-2021-123493833/"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/ai-startup-founders-reveal-the-wider-industry-trends-developing-in-ai.jpeg"
@@ -55,6 +56,6 @@ related:
         height: 409
         isCached: true
 
-secured: "CPKtzWWrR3r1MP1mrRynYDzIMYK9DFFAZgB4r+0Azk0hSR4CO9jAyS6/keCntJyWdU62AFi/OkedQYB2cZhKkqlFKRm1MtM7NIB8VmJ6RksGEr6rRsAXgoBbmmVyriw8i3sOgZaq0xYHTgHn5tYqZzDIAVuSuka2GkW2pZ8tVWBxuFC3tIfB5s2kJLmFEs/BQ0DTyrjm48HoZNRA8fl1mhinF3wifB0BfOn/vIbzN06jzPn6Z7WJJ8/7j3Mz0PpEoMsp/Rvw9hN0NNxqRNOeI+NrZmKE+inoxUs0XKRu+hr+o/gZao+zgi3v5LsClZkLe8wSBJxJWKKtrEp/j/UgTu8MdOfxXw4tVv2xS93icYw=;gCAd57XDXshB5GNgSuLXAg=="
+secured: "QC0xpZw3zGS9v283GV2RRQ7yUgDoNpM89y7AcmB8duBPHKmDlhxm2yLUEiRFq6yriK3LKTGu82c15cycO0qWGl+7cH34aG3u/cZn6uZdSkf8rFlDpyq2OY6qnZUSf90Yq7UH708RNrs3HxSQEjxoFWxK2TE65LYDSwPutnOpBYZfvZcRPZVS6O+MBRyAZ1WBLazI+yrpE1MKMtmsXCzLsT7V+S5sQCdDsA66Na+ggQqDsfAWg16DTb+gqU7Dnhvd1vwnIhu0OpfAH/TFRcKVo/gWa79xElTZdxrUhuue3epbfJV0alIz3CxXT1nZqVztNBUAnWWxUytKt6BD45Co0o9rF47zO1z7RWGeLHFdltP0c7QLfI579gskf5KP0Nmqx8hNfUVTDW/7zF7qkI4TfI74H5KR/rLY/rV7fB9KFG+z/FXECSyxqTwevmJhA89mn5beRqKR/qB3GVE4ElOk3a4RtXt7x2d6Gyhafr5zN3mCpAK2HFxcy1Rvn9ykR1oh58sjR90WoYkB5kC0bv4+RQ==;xB9t4mMlcKxwvkqIK/iUaA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-t
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -118,34 +118,6 @@ related:
       - url: "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2021/02/VW-ID.concept.jpg"
         width: 1710
         height: 900
-        isCached: true
-  - title: "Microsoft, HPE Bringing AI, Edge, Cloud to Earth Orbit in Preparation for Mars Missions"
-    excerpt: "The International Space Station will soon get a delivery of powerful AI, edge and cloud computing tools from HPE and Microsoft Azure to expand technology"
-    publishedDateTime: 2021-02-12T21:09:00Z
-    webUrl: "https://www.hpcwire.com/2021/02/12/microsoft-hpe-bringing-ai-edge-cloud-to-earth-orbit-in-preparation-for-mars-missions/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 46
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/ISS-Space-Station_shutterstock-1453899434_700x415.jpg"
-        width: 700
-        height: 415
-        isCached: true
-  - title: "NASA, HPE to Test Edge Computing System to Deliver AI in Space"
-    excerpt: "NASA and Hewlett Packard Enterprise (HPE) have announced a collaborative agreement to test edge computing with a new computer designed to deliver artificial intelligence (AI) in space. The new technology will increase space exploration and astronauts’ self-sufficiency by providing real-time data processing with advanced commercial edge computing in space."
-    publishedDateTime: 2021-02-12T21:25:00Z
-    webUrl: "https://www.executivegov.com/2021/02/nasa-hpe-to-test-edge-computing-system-to-deliver-ai-in-space/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 39
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/08/cf/5f/35/37/54/cb/74/c4/space_20210108.png"
-        width: 272
-        height: 270
         isCached: true
 
 secured: "c79fnaeoW8tNDJtWzXN3+DGuSdiZxsvVN8CqFq+vrK/n5DN+z7HHYiXTpvY1uVSm9vzAbXqhrkMRsTEv2H+JJ1uiqhWSfLs1ao80t8jjAPaCD7Fs6Esmk59xug8lPa7uC4i4bqPblx/FfdvjNFjnn5sxM4O9NIc2t5JG0lDM4ba2OK3ecynDX1429vfJyg65mS4uPMVUjC0lGN1D+lMAxf4a9dlcKBpw73aUMTJ3ie4fn1k2B1xxe21ifjHNqKGNkKPdE0VeU/UFByI9V1w2l8ivKM2sguOX0twoHB94J/529BXenbngp73TYGb+IQ0wID5wpE0DvS9xvYY2/a29/AWvLFDHqCY/ZxUDCxEI8RF0cQ2uyrGBsH4HXquxVd4qm8oEljSSaE3q2Ia7tXtFMwnY4B/aqHZY0cslcHY6CF4gTnlKJynEwbuo+Obc0ZDDUaNND+T0CD3zGIXo69TWxDUPVRnIltVQ+c5AC3JrIPNSRfFVhJeqJ6V0ddZAkSdIOuQ+cudukagZ8HZxPWdByA==;zFfGyT9L4mf8E58TARJrXg=="

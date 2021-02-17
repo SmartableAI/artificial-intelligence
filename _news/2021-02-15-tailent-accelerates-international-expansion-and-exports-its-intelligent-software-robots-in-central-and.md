@@ -7,7 +7,7 @@ originalUrl: "https://business-review.eu/tech/tailent-accelerates-international-
 webUrl: "https://business-review.eu/tech/tailent-accelerates-international-expansion-and-exports-its-intelligent-software-robots-in-central-and-south-america-through-a-partnership-with-serviceaide-217274"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1100
     height: 628
     isCached: true
+
+related:
+  - title: "Top 5 Robot Trends 2021 – International Federation of Robotics"
+    excerpt: "The International Federation of Robotics shows top 5 trends shaping industries around the globe. “The mission to combine traditional production with ´go digital strategies´ puts robots in a pole position,"
+    publishedDateTime: 2021-02-17T14:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-computing-and-information-technology-industrial-technology-2337d95e00c24f3f9852a7b1caea535c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ANWBoOm2CM4UU/HOB1oh7ktbpPfd4oV6hpWkzczB7zX9IQ7RAmYHGnVr1Rjz2gmq+P1Df3BRAMMVX3A+bbpaimPLzfDJHfuA8Vrq/gOoBV37BmzGNYK4rHAelL26KKwe5NLv5NaoU+p9Rb7U1AzyjYlZPyM7yQEyzMFtAKYgBDU9anXoz25EQ2hkOE1sN0RZDwNRACCgALsf38RhHEqgMA0N1lQvgiSCKZDtczg84MXyzfLpTkqOuhm6MkzrMeHHoo4ESZs2tF+1nGLaOh07k4Fnrg/1sn6QV2RVkNIjjr9Ef0SjHWmBt5rwoqE+CEmvcCMRMRG4qFRWyRrf8sxSiCsi0+6vUdhnbHQfWSFECZsRLNKF90JXX58UTrKLfs4otnn9wBXL8PZDeGH669J/tdtVy4iGjmijl7VnYPiXCzuzDR7DjG3g3dL7peWxn+2JW0XybT/hJgTvS8X7ZP8uBTgD/yu9L95/PHbDVuFKCyEsxwN/SL2rZxyIHYgVFkjoFSQzfSIsi3itPst/irxJXA==;DxRlcS/ca/eq8x3W9VvRRA=="
 ---

@@ -2,6 +2,248 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-01-26-robots-got-their-name-100-years-ago-today.md",
+      "title": "Robots got their name 100 years ago today",
+      "excerpt": "Exactly one hundred years ago, a play premiered that introduced a significant new word to the world – robot. When the first production of Karel Čapek's R.U.R. opened on January 25, 1921, at the National Theater in what is now the Czech Republic,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/",
+      "originalUrl": "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/6f201af/2147483647/strip/true/crop/2966x1977+289+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F52%2Fde%2F024cf2c14067b3ce037597552261%2Fr5mk4h.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/rur-capek-play-word-robot-100-years/?amp=true",
+      "publishedDateTime": "2021-01-25T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-python-remains-most-popular-programming-language-to-learn.md",
+      "title": "Python remains most popular programming language to learn",
+      "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
+      "originalUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/85083d05-b7b7-4832-a3b1-f1532b6d905e/resize/1200x/f816050b9bf16dda28145dfd5dcf70cd/fullstackdeveloperimage.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "publishedDateTime": "2021-01-25T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-elon-musk-fires-back-at-waymos-ceo-after-he-said-tesla-was-no-competitor-at-all.md",
+      "title": "Elon Musk fires back at Waymo's CEO after he said Tesla was 'no competitor at all'",
+      "excerpt": "Earlier this year, Waymo dropped \"self-driving\" from its vocabulary, saying \"some automakers use the term in an inaccurate way.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
+      "originalUrl": "https://www.msn.com/en-in/autos/news/elon-musk-fires-back-at-waymo-s-ceo-after-he-said-tesla-was-no-competitor-at-all/ar-BB1d4YIx?;pfr=1%3fc&mkt=en-gb%2cen-us&c=11865511300118058293",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 263,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/600ee0f61958200011554bc1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp",
+      "publishedDateTime": "2021-01-25T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
+        "domain": "businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-corticalios-ai-makes-bulk-contract-analysis-faster-and-more-accurate.md",
+      "title": "Cortical.io’s AI makes bulk contract analysis faster and more accurate",
+      "excerpt": "Reviewing large quantities of legal or financial documents can be a chore, but Contract Intelligence promises to cut analysis time by 80%.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/",
+      "originalUrl": "https://venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/corticalio.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/amp/",
+      "publishedDateTime": "2021-01-25T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-stradvision-achieves-iso-270012013-certification.md",
+      "title": "StradVision Achieves ISO 27001:2013 Certification",
+      "excerpt": "StradVision achieves ISO 27001:2013 certification for its AI-based object recognition software 'SVNet' ISO 27001:2013 is one of the most widely recognized and internationally accepted information ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stradvision-achieves-iso-27001-2013-certification-1029999812",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stradvision-achieves-iso-27001-2013-certification-1029999812",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/stradvision-achieves-iso-27001-2013-certification-1029999812",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradvision-achieves-iso-27001-2013-certification-1029999812",
+      "publishedDateTime": "2021-01-25T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-jetplays-ludo-ai-platform-accelerates-game-concept-creation.md",
       "title": "JetPlay’s Ludo AI platform accelerates game concept creation",
       "excerpt": "JetPlay has launched Ludo AI, a game creativity platform that leverages artificial intelligence to accelerate the creative process.",
@@ -948,220 +1190,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-self-driving-cars-look-feel-is-clearer-through-final-us-safety-rules.md",
-      "title": "Self-Driving Cars' Look, Feel Is Clearer through Final U.S. Safety Rules",
-      "excerpt": "Most interesting, perhaps, is that there are new terms for the \"driver's seat\" and the \"steering wheel\" on self-driving vehicles. Automakers know exactly how safe their self-driving cars should be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.caranddriver.com/news/a35247978/us-autonomous-car-safety-rules-finalized/",
-      "originalUrl": "https://www.caranddriver.com/news/a35247978/us-autonomous-car-safety-rules-finalized/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/smart-car-evaluating-the-road-with-sensors-and-royalty-free-image-1611416391.?crop=1xw:0.74948xh;center,top&resize=1200:*",
-          "width": 724,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp35247978/us-autonomous-car-safety-rules-finalized/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp35247978/us-autonomous-car-safety-rules-finalized/",
-      "publishedDateTime": "2021-01-24T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-how-2021-will-reshape-southeast-asias-financial-services-ecosystem.md",
-      "title": "How 2021 will reshape Southeast Asia’s financial services ecosystem",
-      "excerpt": "Across Southeast Asia, financial institutions faced challenges such as squeezing margins, increasing costs, heightening asset risk and reducing demand in some segments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/how-2021-reshape-southeast-asias-financial-services-ecosystem-thung/",
-      "originalUrl": "https://www.linkedin.com/pulse/how-2021-reshape-southeast-asias-financial-services-ecosystem-thung/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGn-n6dictFEA/article-cover_image-shrink_720_1280/0/1611546037655?e=1617840000&v=beta&t=-aFJCwFtY7K1UuEHb8vJ9LESwZvr5CoWnWaq1fjn-yU",
-          "width": 1180,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-unboxing-for-business-overlord-3d-printer.md",
-      "title": "Unboxing for Business: OverLord 3D Printer",
-      "excerpt": "This time on Unboxing for Business we’re unpacking DreamMaker’s OverLord 3D Printer. We’ve been told it’s one of the more beautiful 3D printers out there. Is that true? Let’s find out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer",
-      "originalUrl": "https://www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/01/Overlord-Thumbnail-1.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer?amp=1",
-      "publishedDateTime": "2021-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "originalUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence.md",
-      "title": "Hidden in plain sight: The infrastructures that support artificial intelligence",
-      "excerpt": "Artificial intelligence is supported by an infrastructure of hardware and software that is growing increasingly present in our lives, yet remains hidden in plain view.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "originalUrl": "https://theconversation.com/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/360096/original/file-20200926-22-vahctv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "publishedDateTime": "2021-01-24T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

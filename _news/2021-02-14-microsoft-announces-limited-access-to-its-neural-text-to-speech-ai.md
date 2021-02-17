@@ -119,34 +119,6 @@ related:
         width: 1710
         height: 900
         isCached: true
-  - title: "Microsoft, HPE Bringing AI, Edge, Cloud to Earth Orbit in Preparation for Mars Missions"
-    excerpt: "The International Space Station will soon get a delivery of powerful AI, edge and cloud computing tools from HPE and Microsoft Azure to expand technology"
-    publishedDateTime: 2021-02-12T21:09:00Z
-    webUrl: "https://www.hpcwire.com/2021/02/12/microsoft-hpe-bringing-ai-edge-cloud-to-earth-orbit-in-preparation-for-mars-missions/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 46
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/ISS-Space-Station_shutterstock-1453899434_700x415.jpg"
-        width: 700
-        height: 415
-        isCached: true
-  - title: "NASA, HPE to Test Edge Computing System to Deliver AI in Space"
-    excerpt: "NASA and Hewlett Packard Enterprise (HPE) have announced a collaborative agreement to test edge computing with a new computer designed to deliver artificial intelligence (AI) in space. The new technology will increase space exploration and astronauts’ self-sufficiency by providing real-time data processing with advanced commercial edge computing in space."
-    publishedDateTime: 2021-02-12T21:25:00Z
-    webUrl: "https://www.executivegov.com/2021/02/nasa-hpe-to-test-edge-computing-system-to-deliver-ai-in-space/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 39
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/08/cf/5f/35/37/54/cb/74/c4/space_20210108.png"
-        width: 272
-        height: 270
-        isCached: true
 
 secured: "w0XZlKu+CCjqSyk+CTmDSeV54M/VAeTMo58NC6CYUo1uJUhfKD4Z98yACZA138ZcKO840xwRUJoi911QIUm/NLRF2hHixoFhTgXqwn0XTMRtOrzo+gaOHUCWeWf+3y/dySa4kYzt2tZfZU67xJk7aDNuaQzKTOfpjqbEunDZ8PfPrc4GIDOr9hST4OMxmYPyP16pA/6i3efh/7tvXE74SZv5WpfJFq80nvxwL3Ro++Q9Zv03FUnODwEQ0zz7YdQNZvJgT2zBeydvsu3YwPsk9vv6hSgWJHBUHz/qKpfTtnfdA0DNQVxqDzhHGWSaWibH1X5rWYf77ci0F/kRbWaIUl1OsELzohnykjycm7oajmjV7DCW+CFp9W+3dZJ0hQhKErq/Om1yIIeiKPdvCBW+HSTYH1CWvogvXaMJDlLPeN7ADKxtO8iUeT3TlIiR+Y8brltPrYcx31jAIZRZyQ+dYxv+3vp+tlInUu+x8mGg+7Z8/r7GOf2VKWlAvL/dwA/P5PutB9ba1Ps6PNU0CdTaJQ==;oOOrkUy4opUBUCpU2zj0Mw=="
 ---

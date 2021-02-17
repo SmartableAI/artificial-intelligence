@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-21-stress-testing-reveals-gaps-in-clinic-readiness-of-image-based-diagnostic-artificial-intelligence-models.md",
+      "title": "Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models",
+      "excerpt": "Artificial intelligence models match or exceed dermatologists in melanoma image classification. Less is known about their robustness against real-world variations, and clinicians may incorrectly assume that a model with an acceptable area under the receiver operating characteristic curve or related performance metric is ready for clinical use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41746-020-00380-6",
+      "originalUrl": "https://www.nature.com/articles/s41746-020-00380-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-020-00380-6/MediaObjects/41746_2020_380_Fig1_HTML.png",
+          "width": 685,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T06:25:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023.md",
       "title": "Artificial Intelligence in Retail Market to Witness a Healthy Growth by 2023",
       "excerpt": "Artificial Intelligence is expected to disrupt every business and enterprises across the world. One of the major factors",
@@ -941,6 +984,49 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-machine-learning-is-helping-high-performance-computing-go-mainstream.md",
+      "title": "Machine Learning Is Helping High-Performance Computing Go Mainstream",
+      "excerpt": "This has partly been brought about by the mainstreaming of machine learning (a subset of artificial intelligence), which generally operates at a snail's pace ... like Fugaku. Related: En Route to Exascale, Cray Designs a Supercomputer Enterprises Can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterknowledge.com/supercomputers/top500-japan-s-fugaku-still-world-s-fastest-supercomputer",
+      "originalUrl": "https://www.datacenterknowledge.com/supercomputers/machine-learning-helping-high-performance-computing-go-mainstream",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/supercomputer%20fugaku.jpg",
+          "width": 614,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Data Center Knowledge",
+        "domain": "datacenterknowledge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

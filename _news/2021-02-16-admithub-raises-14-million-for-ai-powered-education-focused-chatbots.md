@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai-powered-education-focused-chatbots/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Recogni raises $48.9 million for AI-powered perception chips"
+    excerpt: "Recogni, a startup developing a perception system for autonomous vehicles, has raised $48.9 million in venture capital."
+    publishedDateTime: 2021-02-17T14:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/"
+    ampWebUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/e728073b-d9dd-4a6a-b6e8-6ff14821da0a-e1613450016151.png?w=1200&strip=all"
+        width: 900
+        height: 450
+        isCached: true
+  - title: "Edgybees raises $9.5 million for AI that augments drone camera footage"
+    excerpt: "Edgybees, a startup developing a platform that augments drone camera footage using AI, has raised $9.5 million."
+    publishedDateTime: 2021-02-17T14:04:00Z
+    webUrl: "https://venturebeat.com/2021/02/17/edgybees-raises-9-5-million-for-ai-that-augments-drone-camera-footage/"
+    ampWebUrl: "https://venturebeat.com/2021/02/17/edgybees-raises-9-5-million-for-ai-that-augments-drone-camera-footage/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/edgybees-raises-9-5-million-for-ai-that-augments-drone-camera-footage/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/04/drones.jpg?w=1200&strip=all"
+        width: 1200
+        height: 722
+        isCached: true
   - title: "Peak.AI raises $21 million to drive enterprise AI adoption"
     excerpt: "Peak.ai, a startup developing a fully managed enterprise AI development platform, has raised $21 million in venture funding."
     publishedDateTime: 2021-02-17T12:02:00Z

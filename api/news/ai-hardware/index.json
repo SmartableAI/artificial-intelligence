@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,9 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Machine Learning",
+        "Google AI"
       ]
     },
     {
@@ -62,7 +64,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -117,7 +119,7 @@
       "originalUrl": "https://www.techradar.com/news/samsung-develops-ai-processor-embedded-memory-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -968,6 +970,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-04-ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models.md",
+      "title": "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models",
+      "excerpt": "The answer to the question of how to make the best of AI hardware may not be solely, or even primarily, related to hardware",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2018/12/31/e6b87307-59d1-4f26-89cd-e0e38f2026b4/hybrid.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "publishedDateTime": "2021-02-03T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026.md",
       "title": "North America AI Chipsets Market Overview with In-Depth Analysis and Forecast (2020-2026)",
       "excerpt": "The North America AI chipsets market from Central Processing Unit (CPU) segment is projected to grow at a CAGR of 30% over the forecast period. The growth is credited to several features offered by the CPU architecture such as low latency,",
@@ -1390,49 +1444,6 @@
       "provider": {
         "name": "Scoop",
         "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
-      "title": "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
-      "excerpt": "Founded by philanthropist and visionary Paul G. Allen, AI2 is a recognized leader in AI, that has undertaken several ambitious projects to drive fundamental advances in the field. Core Scientific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook",
-          "width": 648,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/minneapolis-poised-to-ban-facial-recognition-
 webUrl: "https://techstory.in/minneapolis-poised-to-ban-facial-recognition-for-police-use/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Minneapolis City Council approves ordinance banning use of facial recognition technology"
-    excerpt: "An ordinance passed by the Minneapolis City Council will ban the use of facial recognition technology in the city."
-    publishedDateTime: 2021-02-12T21:28:00Z
-    webUrl: "https://www.fox9.com/news/minneapolis-city-council-approves-ordinance-banning-use-of-facial-recognition-technology"
-    ampWebUrl: "https://www.fox9.com/news/minneapolis-city-council-approves-ordinance-banning-use-of-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/minneapolis-city-council-approves-ordinance-banning-use-of-facial-recognition-technology.amp"
+  - title: "Minneapolis passes restrictive ban on facial recognition use by police, others"
+    excerpt: "The new ordinance follows months of lobbying by the POSTME (Public Oversight of Surveillance Technology and Military Equipment) coalition, which gathered thousands of signatures on petitions asking the City Council to address the issue."
+    publishedDateTime: 2021-02-13T00:17:00Z
+    webUrl: "https://www.startribune.com/minneapolis-passes-restrictive-ban-on-facial-recognition-use-by-police-others/600022551/"
     type: article
     provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 50
+      name: StarTribune
+      domain: startribune.com
+    quality: 35
     images:
-      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2021/02/932/470/facial-recognition-camera.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://chorus.stimg.co/21098138/ctyp_Minneapolis_City_Hall_large.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NELWcwY2hqFZRPcxBAnqOA2mrouDwuK+MCDQm6Efz73QeGbdXioEH+G2lXbfFrVAd9AzBbQ77/LRvX9wMS/FkDZzKjXLgW/Zn2ELJfsq0P2Gyb8gcmjWFxe32kWNb7wjZd3KyC1ri4DQZJXzR/VVWMJwiI9Jm36njVBIxZUQsV9gk0PWY4FfSG+U3EWwCTku9o+NVAc+B9klCCiZrKmnTI8AKnPr/2n+Oph8Cp5ODkg+mLm6mksKDbaWtpx8DjEvgzwXbatFIhGaW+v6OhGdgkx5IyUN2YvbROgcKEe5ivQU17YBsF5tULxOYUGTgkXqF2aGbTK5iChQ0Fpu82otJJqr7TKmGLCSbZV2dOpLyfxU1AAL3TKspAyLS9Jpk7sU7aPFRi6WoXZDEdQYboG7PEw7WlCCM45dq1+M3NvaUZFnQC1HzUYWXFECPfAwkA5meDP/fT8ovMfNs6aLqzX/wGpVm7UHOdpePcuyHR892GQ3KiMYphatlMc0Ixb1nNq6nLLOye2KmIYpt5u9zT1MKQ==;KNpeRqgjMjLPvyKESNLSCQ=="

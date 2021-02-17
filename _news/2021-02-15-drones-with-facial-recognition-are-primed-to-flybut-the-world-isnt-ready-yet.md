@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,33 @@ images:
     width: 1200
     height: 797
     isCached: true
+
+related:
+  - title: "Drones with facial recognition are closer to becoming a reality thanks to a patent from an Israeli company"
+    excerpt: "AnyVision, an Israeli firm that has worked with Mercadona, patents a system that brings the use of drones with facial recognition cameras closer to reality. The patented technology will help the drones find the best shooting angle for an effective facial recognition system."
+    publishedDateTime: 2021-02-17T10:39:00Z
+    webUrl: "https://www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285"
+    ampWebUrl: "https://www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Could drones use facial recognition? We could be one step closer to that happening."
+    excerpt: "The U.S. Patent Office has just published a patent application for ‘Adaptive positioning of drones for enhanced face recognition’ filed by AnyVision."
+    publishedDateTime: 2021-02-17T13:47:00Z
+    webUrl: "https://www.usatoday.com/videos/tech/2021/02/17/could-drones-use-facial-recognition-were-close-happening/6778648002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 33
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/17/USAT/e6ec16bb-bd36-48ac-8b9a-5fbca6ef2d27-a30a6fbf-cfe2-42c1-93ee-bdeb9895b20c_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
 
 secured: "XiCkdIFu6MK91yk3+Bqrf2q6BeYmJ2qd5n49AamtFjAIgZLuAVJ89w0Pfs/6LnTto9uSk0fkgaxg46h3jR4gp5JavqJ5ARHveOfrpyohzcbxUg2Usq5KrjS0hAe8jsyRwHd6fA/IqckdWT0G50YIEsu1CKzFTZhs65zVfeUgBKLZ8E+RHQGseziPQYfSyxeDj7rsfDodQswLL1gNIHKWYu9/t71+ACaOAzKNNRwzj7C8+kY5DfkmyF5iBAD2Eep3BJ3lACzWLpGPuKoBUuVAEgYNQOfj3FGYKJxoCHdPv+KZLeLMZN9LTFvBJR2UiOv+fxHVhPIuygIeeErV4T/nfJZ/0Vr2JvxmqVD/RR3r4CSBSsS8ooJC7NSZgOCiIxjC1M9mBVrsPuB/yuoeXFFgvtQ8I9PCSov1T3S/UBSR1L5sgL0rziC15Jh2Fn4y3x6T0KScA0nAia8/Wg+jHEMwles9ujUKwFMfJkLIhPlI8KuRNYlzRcfMbBq02xqmnegfgW4d+WLhfLeBditDeg7EAA==;CszAKjBXgDctJL/FL5XmoQ=="
 ---

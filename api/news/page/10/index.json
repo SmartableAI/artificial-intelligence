@@ -2,6 +2,212 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-08-mind-written-couplets-add-technology-to-chinas-cny.md",
+      "title": "'Mind-written' couplets add technology to China's CNY",
+      "excerpt": "The auspicious characters are calligraphed by a robot arm controlled by the researchers' minds.. Read more at straitstimes.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-technology-to-chinas-spring-festival-celebrations",
+      "originalUrl": "https://www.straitstimes.com/asia/east-asia/mind-written-couplets-add-technology-to-chinas-spring-festival-celebrations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/08/rk_mindwritten_080221.jpg?itok=C-QLeXjs",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T19:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california.md",
+      "title": "Vietnam's Vinfast Gets Permit to Test Self-Driving Vehicles in California",
+      "excerpt": "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California. Vinfast, a unit of Vietnam's largest conglomerate Vingroup JSC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp",
+      "publishedDateTime": "2021-02-07T19:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-aws-expands-into-adelaide.md",
+      "title": "AWS expands into Adelaide",
+      "excerpt": "Amazon Web Services has expanded into South Australia with a new presence in Adelaide to support local customers in the area. The launch comes amid parent company Amazon.com’s expansion of its Adelaide presence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/aws-expands-into-adelaide-560775",
+      "originalUrl": "https://www.crn.com.au/news/aws-expands-into-adelaide-560775",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/20210208125140_crn-14_adelaide_city_cbd_iStock-1098305854.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-ibm-leads-in-quantum-computing-ford-in-driverless-car-patents.md",
+      "title": "IBM leads in quantum computing, Ford in driverless car patents",
+      "excerpt": "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005733.jpg",
+          "width": 1240,
+          "height": 823,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-kaggle-publishes-2020-state-of-machine-learning-and-data-science-report.md",
+      "title": "Kaggle Publishes 2020 State of Machine Learning and Data Science Report",
+      "excerpt": "Addison Wesley Professional The Kollected Kode Vicious by George V. Neville-Neil aims to provide thoughtful and pragmatic insight into programming to both experienced and younger software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kaggle.com/kaggle-survey-2020",
+      "originalUrl": "https://www.infoq.com/news/2021/02/kaggle-report-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-researchers-test-detection-methods-for-ai-generated-content.md",
       "title": "Researchers test detection methods for AI-generated content",
       "excerpt": "Artificial intelligence generators can craft text that mimics a human author, improving the user experience in platforms such as medical chatbots, online",
@@ -975,247 +1181,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space.md",
-      "title": "Robot Motherships To Launch Drone Swarms From Sea, Underwater, Air And Near-Space",
-      "excerpt": "Metal Shark's unmanned vessel is just one of a series of new launch platforms able to deliver swarms of attack drones -- swarm-equipped boats, unmanned submarines, unmanned jets and stratospheric balloons are all on the way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d471a948dfd8ec26c348b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
-      "publishedDateTime": "2021-02-05T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-three-ways-artificial-intelligence-could-change-the-markets.md",
-      "title": "Three ways artificial intelligence could change the markets",
-      "excerpt": "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en/opto/three-ways-artificial-intelligence-could-change-the-markets",
-      "originalUrl": "https://www.cmcmarkets.com/en/opto/three-ways-artificial-intelligence-could-change-the-markets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/AI0402_medium.jpg",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher.md",
-      "title": "Google engineers quit after the company fired its star AI ethics researcher",
-      "excerpt": "Two Google engineers have quit over the firing of AI researcher Timnit Gebru, whose exit sparked an internal backlash about ethics and diversity.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-05T115807.121-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/amp/",
-      "publishedDateTime": "2021-02-05T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-humanoid-robots-and-how-were-failing-at-human-relationships.md",
-      "title": "Humanoid robots and how we're failing at human relationships",
-      "excerpt": "Hanson Robotics didn’t make Sophia just because they could. They’re capitalizing on something in our culture that needs to be recognized. We’re failing each other.",
-      "sourceUrl": null,
-      "webUrl": "https://www.christianpost.com/voices/humanoid-robots-and-how-were-failing-at-human-relationships.html",
-      "originalUrl": "https://www.christianpost.com/voices/humanoid-robots-and-how-were-failing-at-human-relationships.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.christianpost.com/files/cache/image/12/09/120967_w_400_300.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.christianpost.com/amp/humanoid-robots-and-how-were-failing-at-human-relationships.html",
-      "cdnAmpWebUrl": "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/humanoid-robots-and-how-were-failing-at-human-relationships.html",
-      "publishedDateTime": "2021-02-05T04:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Christian Post",
-        "domain": "christianpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-we-need-to-talk-about-an-energy-label-for-ai.md",
-      "title": "We Need To Talk About An Energy Label For AI",
-      "excerpt": "Could this phenomenon inspire us to develop more energy-efficient AI systems? Our computational power has risen exponentially, enabling the widespread use of artificial intelligence, a technology that relies on processing huge amounts of data to recognize patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/amp/",
-      "publishedDateTime": "2021-02-05T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

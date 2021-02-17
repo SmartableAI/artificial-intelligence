@@ -49,13 +49,13 @@ related:
     provider:
       name: Information Age
       domain: information-age.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/ai-startup-founders-reveal-the-wider-industry-trends-developing-in-ai.jpeg"
         width: 1080
         height: 409
         isCached: true
 
-secured: "ZiIgcOaw+VLgv9a44YF9YGX0YSN1J7ubs95G8Hl9J3URXwsHPvZyMKplX4dpfn766O/MR6Mk2liQ2q8SGWbyCetSYpdkv2X6z6C5urNu1cztjSLuW2WwFLOyLG1X+dzvdHGJIrv0A+nvE19xPqsOScgmfV/5LDNNCjXytfRcwMqi/alcLBujUzF6+7FpIf1JHZcnPyExMQhmHct1k7LcxVg/Oy1mwuMksyGoI3j88YPtQLFCdj8wcqOApph3PoH61EvVAbfUG8mjBuFH2In8TvLwc88Wt78onp75J9bQY/anZ2HPUpUgdQIgwlvIR7BTepjKbXSTEupomo8Vabd/fSwULndbGL73W+/SsUX19cg=;sJyjj8mDtpiZdtUXzXNH0g=="
+secured: "iq4xiZl2ZsfzLzyARYqqYgYPoO7NnoAnQTuUavDfZ8S9VTkCxpqFcIi15MJ3LxapIToLKuxrjU/00VwsgebBa1W3QzOZAeKKdH0ND12MeG/sINDBq5DLeJAUNLNHO7imVJV5ktUiETERGHXT9fvB84EvNhjzVvTdNFqX5rK9UtddEFxalNPOye9T9Lq5AmD39KzBHyMdkzzUHychMpWTurgEc+DT8UFqbLjzcq8Wo1RnXwoH7oiH+cAKrRpHOUSDQXjbtgAVjLCAyFSioaq+80ws/s+MMmf8MTfImiYMphM6ZJ3/kvwr4LtGXcVzr9Kjt7aSAsyA5ZXY6SdJ3fLHyZVOApzeS10o5hfiP61Dc4/4Y6QXM9hIcNCAXIZwO9141hZb5alv/LryNzuEuggxGuxr1VbK/6EVoITRoUP8vQN5zFA+dgbIgXIKVibageNE9brCwUXuth9j4JNJqEjcvvMyj4HEVvEgeFRVE07OstSq6J5DBjMXTd1hFoZCV1raYYQKL+/QCj2vnFbZ2ZNV+Q==;NvsmPFI+VCMENQMUYWTKFA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/samsung-develops-ai-processor-emb
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -34,27 +34,41 @@ related:
   - title: "Samsung develops high-bandwidth memory with integrated AI processing"
     excerpt: "Samsung Electronics said on Wednesday it has developed a high-bandwidth memory (HBM) integrated with artificial intelligence processing power. The new processing-in-memory (PIM) architecture adds AI engines into Samsung's HBM2 Aquabolt,"
     publishedDateTime: 2021-02-17T03:05:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 67
   - title: "Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power"
-    excerpt: "Samsung Electronics Co., Ltd., the world leader in advanced memory technology, today announced that it has developed the industry’s first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI) processing power — the HBM-PIM."
-    publishedDateTime: 2021-02-17T02:12:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-south-korea-industrial-products-and-services-electronic-parts-manufacturing-4dccb71f3bbb4df59097c2c12d4548dc"
+    excerpt: "PIM’ will deliver over twice the system performance and reduce energy consumption"
+    publishedDateTime: 2021-02-17T14:14:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-02-17/samsung-develops-industry-s-first-high-bandwidth-memory-with-ai-processing-power-kl99kzkh"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 62
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Samsung's New HBM-PIM Memory Doubles Performance, Packs AI Brainpower For Data Centers"
+    excerpt: "Samsung has developed the world's HBM solution with integrated AI processing power, capable of 1.2 TFLOPs of performance."
+    publishedDateTime: 2021-02-17T14:54:00Z
+    webUrl: "https://hothardware.com/news/samsung-hbm-pim-memory-doubles-performance-data-centers"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 31
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54294/content/small_samsung-hbm-pim.jpg"
+        width: 708
+        height: 337
         isCached: true
   - title: "Samsung unveils first high-bandwidth memory with AI processing power"
     excerpt: "Samsung Electronics has unveiled what it says is the industry's first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI) processing power, the HBM-PIM. The new processing-in-memory (PIM) architecture brings AI computing capabilities inside high-performance memory,"

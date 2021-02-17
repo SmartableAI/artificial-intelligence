@@ -9,7 +9,7 @@ ampWebUrl: "https://advicesacademy.com/tech/artificial-intelligence-new-opportun
 cdnAmpWebUrl: "https://advicesacademy-com.cdn.ampproject.org/c/s/advicesacademy.com/tech/artificial-intelligence-new-opportunities/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Dating-Industry.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "AI in Fintech Market Share, Size, Industry Growth, Trend, Business Opportunities, Challenges, Drivers and Restraint Research Report by 2027"
-    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The AI in Fintech market intelligence study is a collection of authentic"
-    publishedDateTime: 2021-02-12T22:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-share-size-industry-growth-trend-business-opportunities-challenges-drivers-and-restraint-research-report-by-2027-2021-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "RKIsQKHbm+3FFMih232/SNliNG4XsOY0WhUP68KlF7z7iz3VOVkaXJuE2CYCH1E9gUTVryWFdAhyCJpv18p1g3J2m9cyd2yYSS4Pxdrwpf6blFR1qWHUhHtHkvtQtGqoSp4Ulyr7cNgg1YLzrXJ7hk/htXlutyAc1DFr6uTvSP/ygBhfG661CDOnE4MRJAaJrS97CqQr5/asHvb5+4SqGYD9anB/OufJxR82M91ChRtkNfYnU064RUZWJtS7zjwgIW1uN/2tZLGtqsAutlcLe5GuWGkmpeFsJukvxdGl5t66OCdBFShQ3WLcwM3VELpFKJYfTLwhlYT5iHslTFgI7CyCcRvLHv8gd/uf7MkZugv8ctkAzuoWTyACoJ0rvRjDcTj8//p4Y8snVMqGOU71TzVNRVDpEnl2A8WhfyEdFRQNDL31NGCuIXxW51I7yCtOwsL95/kQbsA6UWSVATnyTz3v/K2xwlXgrdOVKf2DXjSSlx6bzorJsPY5hGabfnWg5YKLqchp+bbNT9BYMX0sEg==;EsFwfmCJh4g1/b+0zQ+5ug=="

@@ -2,6 +2,247 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-05-robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space.md",
+      "title": "Robot Motherships To Launch Drone Swarms From Sea, Underwater, Air And Near-Space",
+      "excerpt": "Metal Shark's unmanned vessel is just one of a series of new launch platforms able to deliver swarms of attack drones -- swarm-equipped boats, unmanned submarines, unmanned jets and stratospheric balloons are all on the way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d471a948dfd8ec26c348b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
+      "publishedDateTime": "2021-02-05T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-three-ways-artificial-intelligence-could-change-the-markets.md",
+      "title": "Three ways artificial intelligence could change the markets",
+      "excerpt": "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en/opto/three-ways-artificial-intelligence-could-change-the-markets",
+      "originalUrl": "https://www.cmcmarkets.com/en/opto/three-ways-artificial-intelligence-could-change-the-markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/AI0402_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher.md",
+      "title": "Google engineers quit after the company fired its star AI ethics researcher",
+      "excerpt": "Two Google engineers have quit over the firing of AI researcher Timnit Gebru, whose exit sparked an internal backlash about ethics and diversity.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-05T115807.121-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/amp/",
+      "publishedDateTime": "2021-02-05T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-humanoid-robots-and-how-were-failing-at-human-relationships.md",
+      "title": "Humanoid robots and how we're failing at human relationships",
+      "excerpt": "Hanson Robotics didn’t make Sophia just because they could. They’re capitalizing on something in our culture that needs to be recognized. We’re failing each other.",
+      "sourceUrl": null,
+      "webUrl": "https://www.christianpost.com/voices/humanoid-robots-and-how-were-failing-at-human-relationships.html",
+      "originalUrl": "https://www.christianpost.com/voices/humanoid-robots-and-how-were-failing-at-human-relationships.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.christianpost.com/files/cache/image/12/09/120967_w_400_300.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.christianpost.com/amp/humanoid-robots-and-how-were-failing-at-human-relationships.html",
+      "cdnAmpWebUrl": "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/humanoid-robots-and-how-were-failing-at-human-relationships.html",
+      "publishedDateTime": "2021-02-05T04:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Christian Post",
+        "domain": "christianpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-we-need-to-talk-about-an-energy-label-for-ai.md",
+      "title": "We Need To Talk About An Energy Label For AI",
+      "excerpt": "Could this phenomenon inspire us to develop more energy-efficient AI systems? Our computational power has risen exponentially, enabling the widespread use of artificial intelligence, a technology that relies on processing huge amounts of data to recognize patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/amp/",
+      "publishedDateTime": "2021-02-05T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy.md",
       "title": "Three Ways AI Can Help You Evolve Your Digital Marketing Strategy",
       "excerpt": "The main reason businesses use AI is for data collection. Instead of manually going through every customer interaction, businesses can use AI programs to compile this information into actionable reports.",
@@ -937,257 +1178,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-google-phone-cameras-will-read-heart-breathing-rates-with-ai-help.md",
-      "title": "Google phone cameras will read heart, breathing rates with AI help",
-      "excerpt": "The new Google Pixel 4 smartphone is displayed during a Google launch event in New York City, New York, U.S., October 15, 2019. REUTERS/Eduardo Munoz/File Photo",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/google-phone-cameras-will-read-heart-bre-idUSKBN2A427P",
-      "originalUrl": "https://www.reuters.com/news/picture/google-phone-cameras-will-read-heart-bre-idUSKBN2A427P",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550350407&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH131GG",
-          "width": 810,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-stylescan-is-disrupting-fashion-industry-with-ai.md",
-      "title": "StyleScan Is Disrupting Fashion Industry With AI",
-      "excerpt": "The fashion commerce market-wide need attracted competition for a digital sizing solution. StyleScan is a standout.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephanrabimov/2021/02/04/stylescan-is-disrupting-fashion-industry-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/stephanrabimov/2021/02/04/stylescan-is-disrupting-fashion-industry-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c535e184ca08a78256b04%2F0x0.jpg",
-          "width": 1200,
-          "height": 891,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephanrabimov/2021/02/04/stylescan-is-disrupting-fashion-industry-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephanrabimov/2021/02/04/stylescan-is-disrupting-fashion-industry-with-ai/amp/",
-      "publishedDateTime": "2021-02-04T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-senate-intelligence-committee-to-examine-anti-government-extremists.md",
-      "title": "Senate Intelligence Committee to Examine Anti-Government Extremists",
-      "excerpt": "Senator Mark Warner, the committee’s new chairman, said he hoped to lead a bipartisan investigation of the groups, their overseas ties and amplification of their message by foreign powers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/04/us/politics/senate-intelligence-committee-extremism.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/04/us/politics/senate-intelligence-committee-extremism.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/04/us/politics/04dc-intel/04dc-intel-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/04/us/politics/senate-intelligence-committee-extremism.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/us/politics/senate-intelligence-committee-extremism.amp.html",
-      "publishedDateTime": "2021-02-04T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss.md",
-      "title": "Ford Boosts Investment Plan for EVs and Self Driving Vehicles, Reports Loss",
-      "excerpt": "Ford Motor Co on Thursday boosted the amount of money it plans to invest on electric and autonomous vehicles to $29 billion even as it posted a fourth-quarter net loss of $2.8 billion. The No. 2 U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss",
-      "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp",
-      "publishedDateTime": "2021-02-04T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows.md",
-      "title": "The AI industry is built on geographic and social inequality, research shows",
-      "excerpt": "Researchers find that the AI industry is build on geographic and social inequality, but opportunities exist to change this.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/",
-      "originalUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data.GettyImages-1176071503.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/amp/",
-      "publishedDateTime": "2021-02-04T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

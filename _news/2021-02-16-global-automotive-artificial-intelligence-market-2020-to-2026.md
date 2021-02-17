@@ -115,6 +115,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market Opportunity Analysis, Trends, Overview and Forecast 2019-2027: Covid-19 Impact and Recovery"
+    excerpt: "The artificial intelligence AI in healthcare diagnosis market was valued at US 3 639 02million in 2019 and is projected to reach US 66 811 97 million by 2027 it is expected to grow at a CAGR of 44 0"
+    publishedDateTime: 2021-02-17T14:02:00Z
+    webUrl: "https://www.openpr.com/news/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
+    ampWebUrl: "https://www.openpr.com/amp/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
   - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
     excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
     publishedDateTime: 2021-02-13T10:14:00Z

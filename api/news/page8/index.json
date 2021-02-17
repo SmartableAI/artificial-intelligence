@@ -2,6 +2,247 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-10-apples-self-driving-car-strategy-may-be-stuck-in-neutral.md",
+      "title": "Apple’s self-driving car strategy may be stuck in neutral",
+      "excerpt": "If true, the latest news paints a clearer picture about Apple’s self-driving plans—and leaves many more questions unanswered.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/",
+      "originalUrl": "https://venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Apple-self-driving-car-hyundai-kia.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/amp/",
+      "publishedDateTime": "2021-02-09T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem.md",
+      "title": "Cloud lock-in: Why the microservices cure might be worse than the problem",
+      "excerpt": "Commentary: Microservices can be a great thing to drive enterprise agility, but it can also create all sorts of costs for those trying to avoid cloud lock-in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "originalUrl": "https://www.techrepublic.com/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/15/98642495-f0c8-4f9a-b6a0-174c72f25a4e/resize/1200x/9f13f7c198aee893a1cb3813c8b1adba/istock-1172882387.jpg",
+          "width": 1200,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "publishedDateTime": "2021-02-09T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-healthcare-needs-more-diverse-experts-to-guide-innovation.md",
+      "title": "Healthcare Needs More Diverse Experts To Guide Innovation",
+      "excerpt": "Shelli Pavone is tackling the knowledge gap in healthtech innovation by ensuring diverse viewpoints are better represented",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6022d60f9b9a1ef605f23d23%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D190%26cropY2%3D3396",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/amp/",
+      "publishedDateTime": "2021-02-09T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-dahua-facial-recognition-praises-real-time-uyghur-warnings.md",
+      "title": "Dahua facial recognition praises ‘real-time Uyghur warnings’",
+      "excerpt": "Dahua facial recognition praises 'real-time Uyghur warnings' Facial recognition software developed by China-based Dahua, one of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/",
+      "originalUrl": "https://www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Dahua-facial-recognition-praises-real-time-Uyghur-warnings.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/amp/",
+      "publishedDateTime": "2021-02-09T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur.md",
+      "title": "Iron Pillar leads $5 million funding round in AI startup Ushur",
+      "excerpt": "Ushur is Iron Pillars second investment from its second fund, which is expected to announce its first close in a couple of months, co-founder Mohanjit Jolly says.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-85978,msid-80772644/startup-funding.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms",
+      "publishedDateTime": "2021-02-09T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-alpha-health-publishes-comprehensive-buyers-guide-to-healthcare-revenue-cycle-automation.md",
       "title": "Alpha Health Publishes Comprehensive \"Buyer's Guide to Healthcare Revenue Cycle Automation\"",
       "excerpt": "Today, Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, published its \"Buyer's Guide to Healthcare Revenue Cycle Automation.\" The free, 28-page booklet is meant to serve as a thoughtful guide to purchasing and deploying effective automation solutions within healthcare revenue cycle operations - from industry best practices to the variables that may be unique to individual organizations.",
@@ -919,257 +1160,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-machine-learning-can-help-improve-predictions-of-mortality-risk.md",
-      "title": "Machine learning can help improve predictions of mortality risk",
-      "excerpt": "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx",
-      "publishedDateTime": "2021-02-08T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-nuance-acquires-seattle-digital-health-startup-saykara-to-boost-healthcare-ai-products.md",
-      "title": "Nuance acquires Seattle digital health startup Saykara to boost healthcare AI products",
-      "excerpt": "Nuance Communications has acquired Saykara, a Seattle health-tech startup that makes a voice assistant for clinicians. Nuance, based in Boston and publicly traded, will use the deal to boost its",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/",
-      "originalUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/10/20181003_GeekWire_Summit_813-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/",
-      "publishedDateTime": "2021-02-08T15:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge.md",
-      "title": "Learn from the winner of the AWS DeepComposer Chartbusters Track or Treat challenge",
-      "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters Track or Treat challenge, Greg Baker. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June 2020, we launched Chartbusters, a global competition in which developers use AWS DeepComposer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/08/ML-1854-1.jpg",
-          "width": 640,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T15:19:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-c3ai-exec-says-lack-of-automation-is-holding-back-ai-progress.md",
-      "title": "C3.ai exec says lack of automation is holding back AI progress",
-      "excerpt": "Edward Abbo, president and CTO of C3.ai, said AI progress is being held up by too much reliance on manual processes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/",
-      "originalUrl": "https://venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/c3ai-feature.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/c3-ai-exec-says-lack-of-automation-is-holding-back-ai-progress/amp/",
-      "publishedDateTime": "2021-02-08T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-chatbot-market-in-2021-stats-trends-and-companies-in-the-growing-ai-chatbot-industry.md",
-      "title": "Chatbot market in 2021: Stats, trends, and companies in the growing AI chatbot industry",
-      "excerpt": "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from ou Report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
-      "originalUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6011cef11d2df20018b71349?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

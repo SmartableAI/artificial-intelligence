@@ -54,20 +54,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "AI in Fintech Market Share, Size, Industry Growth, Trend, Business Opportunities, Challenges, Drivers and Restraint Research Report by 2027"
-    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The AI in Fintech market intelligence study is a collection of authentic"
-    publishedDateTime: 2021-02-12T22:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-share-size-industry-growth-trend-business-opportunities-challenges-drivers-and-restraint-research-report-by-2027-2021-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "tiu4QYWGNKE0zaQckXhEUXnhk5wyKLbv+NcgTA4AAXUNPo8LXWHqH6/N3DSjkvg9Ruolk71bEIHV3Drm26J0wQAVCYv6A/yNqE6pQ70AIU6OLUwkKqzUYrWt9vvdR4kTL83QWQbaOVtSWHw3xTvI0AaX2+0xQaY5KvN87Joi70+kFWKOhFDr5IjajiHanoBXBe6iTDZgSpqEqx2OlFBCvHrmPkysiIGn5j+AdS4cXZEJshiqwPFD44Ee9O40NTWE1YhE47kf4qheNRrlPx5VfJMd0zx8QzwwWQTaxRhWFi0pCVMLF7GauHGI4xjuLNlQ95+RATCGEPBojWizpiFou6Un1AZ4tmzqcTPrUzX/upv49QRJV8MtqRTlsHIDaQBIEaU1HgR+/XDkkcl2t4aLtWv/bAk3ZBASPldhFbBg4mk2kvxO2B90drja8kwW/o1hKXqCPZMVSxFBBQ4kSak4XZ60/D3YzuLmhPGRLNZJgSG9prhkPPGpzGE/Pfak/GPBSPHauloVQzx1lo1siZZKAw==;e3x0CzVye3MlNx/mwXqVGg=="
 ---

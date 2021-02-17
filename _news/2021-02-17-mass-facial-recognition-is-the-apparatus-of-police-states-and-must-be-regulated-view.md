@@ -27,49 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI Thinks The Solution to Dating Is Facial Recognition"
-    excerpt: "Clearview AI, now the byword for unchecked surveillance, has filed a wide-ranging patent application that envisions handing over the most reviled uses of facial recognition technology to just about anyone."
-    publishedDateTime: 2021-02-12T21:17:00Z
-    webUrl: "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117"
-    ampWebUrl: "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 106
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wi4p4fthvs7j24g09anp.jpg"
-        width: 800
-        height: 448
-        isCached: true
-  - title: "GBT Filed Patent Application for AI Based Facial Recognition Security System"
-    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a patent for AI facial recognition system,"
-    publishedDateTime: 2021-02-16T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system-1030085984"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-  - title: "Minneapolis Bans City Cops From Using Face Recognition Tech"
-    excerpt: "On Friday, the Minneapolis City Council approved a new ordinance that prevents the city from buying or using face recognition technology without specific permission. Local police immediately began whining about it."
-    publishedDateTime: 2021-02-12T22:56:00Z
-    webUrl: "https://gizmodo.com/minneapolis-bans-city-cops-from-using-face-recognition-1846262750"
-    ampWebUrl: "https://gizmodo.com/minneapolis-bans-city-cops-from-using-face-recognition-1846262750/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/minneapolis-bans-city-cops-from-using-face-recognition-1846262750/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/jlb00xa6iofgf15z6ysa.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Rising face of facial recognition technology"
     excerpt: "Rising face of facial recognition technology Chennai: In the 1960s, Star Trek dazzled audiences by showcasing retina scans and facial"
     publishedDateTime: 2021-02-14T08:51:00Z
@@ -86,30 +43,113 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "Drones with facial recognition are closer to becoming a reality thanks to a patent from an Israeli company"
-    excerpt: "AnyVision, an Israeli firm that has worked with Mercadona, patents a system that brings the use of drones with facial recognition cameras closer to reality. The patented technology will help the drones find the best shooting angle for an effective facial recognition system."
-    publishedDateTime: 2021-02-17T10:39:00Z
-    webUrl: "https://www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285"
-    ampWebUrl: "https://www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285?amp"
+  - title: "UAE adopts private sector facial recognition technology"
+    excerpt: "UAE adopts private sector facial recognition technology Sheikh Mohammed Bin Rashid Al Maktoum will chair the cabinet meeting in Abu Dhabi"
+    publishedDateTime: 2021-02-14T21:56:00Z
+    webUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "Facial recognition under scrutiny as Clearview AI’s practices ruled illegal in Canada"
-    excerpt: "Canadian authorities have deemed Clearview AI's facial recognition practices a “clear violation of the privacy rights of Canadians”."
-    publishedDateTime: 2021-02-16T08:05:00Z
-    webUrl: "https://www.ifsecglobal.com/video-surveillance/facial-recognition-under-scrutiny-as-clearview-ais-practices-ruled-illegal-in-canada/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 47
+      name: Windows
+      domain: compsmag.com
+    quality: 59
     images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2019/10/fr.gif"
-        width: 1000
-        height: 671
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/UAE-adopts-private-sector-facial-recognition-technology.jpeg"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "Are Masks Making Facial Recognition Systems Less Efficient?"
+    excerpt: "It wasnt a long time ago when a person with a mask in public was looked at with suspicion. Cut to 2021, a person without a mask is considered irresponsible; some governments have even made masks compulsory for citizens."
+    publishedDateTime: 2021-02-16T09:14:00Z
+    webUrl: "https://www.gizbot.com/internet/features/are-masks-making-facial-recognition-systems-less-efficient-072700.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/are-masks-making-facial-recognition-systems-less-efficient-072700.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/are-masks-making-facial-recognition-systems-less-efficient-072700.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 59
+    images:
+      - url: "https://www.gizbot.com/img/2021/02/gd-1613466297.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "No Facial Recognition Technology Can Be Used In Minnesota"
+    excerpt: "The city council of Minneapolis, the largest city in the state of Minnesota in the United States, passed without objection on February 12 to block"
+    publishedDateTime: 2021-02-16T17:21:00Z
+    webUrl: "https://www.gizchina.com/2021/02/16/no-facial-recognition-technology-can-be-used-in-minnesota/"
+    ampWebUrl: "https://www.gizchina.com/2021/02/16/no-facial-recognition-technology-can-be-used-in-minnesota/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/02/16/no-facial-recognition-technology-can-be-used-in-minnesota/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/01/Facial-Recognition-1024x483-1.jpg"
+        width: 1024
+        height: 483
+        isCached: true
+  - title: "Trueface CEO Shaun Moore on facial recognition & tracking suspects"
+    excerpt: "This segment aired on the KTLA 5 Morning News on February 16, 2021."
+    publishedDateTime: 2021-02-16T20:07:00Z
+    webUrl: "https://ktla.com/morning-news/trueface-ceo-shaun-moore-on-facial-recognition-tracking-suspects/"
+    ampWebUrl: "https://ktla.com/morning-news/trueface-ceo-shaun-moore-on-facial-recognition-tracking-suspects/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/morning-news/trueface-ceo-shaun-moore-on-facial-recognition-tracking-suspects/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 59
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/02/download-51.png?w=1280"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Russian police use facial recognition or ‘face control’ against protesters"
+    excerpt: "He was detained on his way there by police using facial recognition technology in the Moscow metro. But reports from other protesters who have attend rallies in recent weeks in support of jailed opposition politician Alexei Navalny also indicate police are using facial recognition technology to make preventive arrests and detentions."
+    publishedDateTime: 2021-02-14T15:21:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/russian-police-use-facial-recognition-or-face-control-against-protesters.html/5476/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 52
+    images:
+      - url: "https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/2021-02-11T151833Z_1_LYNXMPEH1A19D_RTROPTP_4_RUSSIA-POLITICS-NAVALNY-TECH.jpg"
+        width: 530
+        height: 360
+        isCached: true
+  - title: "Reclaim Your Face: a call for European citizens to demand facial recognition ban"
+    excerpt: "EDRi, and the Reclaim Your Face coalition are calling for a European-wide ban on the use of dangerous facial recognition technologies. Sign the petition today!"
+    publishedDateTime: 2021-02-17T07:59:00Z
+    webUrl: "https://www.accessnow.org/reclaim-your-face/"
+    type: article
+    provider:
+      name: Access Now
+      domain: accessnow.org
+    quality: 49
+    images:
+      - url: "https://www.accessnow.org/cms/assets/uploads/2021/02/Reclaim-your-face.png"
+        width: 1500
+        height: 500
+        isCached: true
+  - title: "The face of hysteria: New York must preserve facial recognition as a tool for law enforcement"
+    excerpt: "The Minneapolis City Council, joining Boston, Los Angeles, Portland, Oakland and other localities, has banned its police department from using facial recognition technology — which would mean, when witnesses or security cameras there capture people red-handed,"
+    publishedDateTime: 2021-02-16T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-the-face-of-hysteria-20210216-ictefihqp5cgboz2xhrn7jmjbi-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-the-face-of-hysteria-20210216-ictefihqp5cgboz2xhrn7jmjbi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-the-face-of-hysteria-20210216-ictefihqp5cgboz2xhrn7jmjbi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 48
+    images:
+      - url: "https://www.nydailynews.com/resizer/-ZCQSS_phyLjWYiFmnZBFdMCfvg=/1200x0/left/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/VN6FTQ5LPFEDRO6Y234V7UXFOU.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "CBP facial recognition technology fails to find anyone using false identities at airports"
     excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
@@ -125,58 +165,60 @@ related:
         width: 1097
         height: 700
         isCached: true
-  - title: "Canada Rules Clearview’s AI Scraping is Unlawful"
-    excerpt: "Technology company Clearview’s artificial intelligence (AI) scraping of billions of images of people from across the internet represented mass surveillance and was a clear violation of the privacy rights of Canadians,"
-    publishedDateTime: 2021-02-16T12:37:00Z
-    webUrl: "https://www.hstoday.us/industry/canada-rules-clearviews-ai-scraping-is-unlawful/"
+  - title: "Minneapolis passes restrictions on facial recognition use by local police"
+    excerpt: "Minneapolis has passed legislation blocking the use of face biometrics by city police, the Star Tribune reports. The ordinance passed by Minneapolis City Council bars local police and other city agencies from acquiring facial recognition technology,"
+    publishedDateTime: 2021-02-15T21:41:00Z
+    webUrl: "https://www.biometricupdate.com/202102/minneapolis-passes-restrictions-on-facial-recognition-use-by-local-police"
     type: article
     provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
     images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/03/face-detection-4760361_1280.jpg"
-        width: 1280
-        height: 853
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
-  - title: "Petition calls for EU ban on facial recognition"
-    excerpt: "Digital and human rights organisations, led by European Digital Rights, on Wednesday launched a European Citizens' Initiative calling for a ban on the use of biometric mass surveillance in public spaces,"
-    publishedDateTime: 2021-02-17T06:04:00Z
-    webUrl: "https://euobserver.com/tickers/150958"
+  - title: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology – St George News"
+    excerpt: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology - St George News Stock Image |"
+    publishedDateTime: 2021-02-16T03:59:00Z
+    webUrl: "https://www.compsmag.com/news/technology/lawmakers-introduce-bill-to-balance-personal-rights-and-public-safety-with-facial-recognition-technology-st-george-news/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/lawmakers-introduce-bill-to-balance-personal-rights-and-public-safety-with-facial-recognition-technology-st-george-news/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/lawmakers-introduce-bill-to-balance-personal-rights-and-public-safety-with-facial-recognition-technology-st-george-news/amp/"
     type: article
     provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 39
+      name: Windows
+      domain: compsmag.com
+    quality: 34
     images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
-        width: 480
-        height: 270
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Lawmakers-Introduce-Bill-To-Balance-Personal-Rights-And-Public-Safety.png"
+        width: 1290
+        height: 726
         isCached: true
-  - title: "Using Responsible AI to Push Digital Transformation"
-    excerpt: "Can businesses implement ethical AI standards that reduce harm while positively transforming the workplace? Just as its development is creating new business opportunities, AI has also delivered some harmful and ethically objectionable outcomes — a symptom of the misguided rush to get exciting technology to market superseding moral,"
-    publishedDateTime: 2021-02-16T17:51:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
+  - title: "Sheikh Mohammed approves use of facial recognition tech to enhance services in UAE"
+    excerpt: "The UAE seeks to leverage facial recognition technology to reduce paper-based transactions in private and government sectors"
+    publishedDateTime: 2021-02-15T14:06:00Z
+    webUrl: "https://www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae"
+    ampWebUrl: "https://www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae?amp"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
-  - title: "Minneapolis passes restrictive ban on facial recognition use by police, others"
-    excerpt: "The new ordinance follows months of lobbying by the POSTME (Public Oversight of Surveillance Technology and Military Equipment) coalition, which gathered thousands of signatures on petitions asking the City Council to address the issue."
-    publishedDateTime: 2021-02-13T00:17:00Z
-    webUrl: "https://www.startribune.com/minneapolis-passes-restrictive-ban-on-facial-recognition-use-by-police-others/600022551/"
+      name: GDPR fines
+      domain: itp.net
+    quality: 33
+  - title: "Lawmakers introduce bill to strike balance between personal rights, public safety with facial recognition technology"
+    excerpt: "A bill introduced to the Legislature this year aims to strike a balance between the government’s use of facial recognition technology and personal privacy rights by regulating its use across Utah. Facial recognition technology is one of several biometric technologies employed by law enforcement agencies and can be instrumental in generating investigative"
+    publishedDateTime: 2021-02-15T00:00:00Z
+    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/02/15/cgb-lgl21-lawmakers-introduces-bill-to-strike-balance-between-personal-rights-and-use-of-facial-recognition-technology/"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 35
+      name: St. George News
+      domain: stgeorgeutah.com
+    quality: 16
     images:
-      - url: "https://chorus.stimg.co/21098138/ctyp_Minneapolis_City_Hall_large.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
+      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/02/GettyImages-1267598587-facial-recognition-eye-kentoh-1290x726.png"
+        width: 1290
+        height: 726
         isCached: true
 
 secured: "M4pL3GKL0QJc3Yk7/Y8kcwlffWX/WYGLEu14NQZ01peKo6XQPIsKbu7m0hUWWszjWn3bjzPYTZTJ89QadixPuRcz3MkuccEqwc+M89CljCou8Ai1L6TAsggZaQ5asziocWiPx44YOzBl7g9VDCzG4GzEMEQMSpyNPqX2U6Mveq5OnjNp+mZM9Tmkd5FFTuxQGOxV+hmuU6qrD1tQ0aO9YJcvBRaWtdZIeIrTU2o184waiTEwJ28bRrSLe6t57T/Q/NktIyp09wwrMGsiLiBXtymd26vgS8bJ0nSMrr9I4fogVrv/7PyCA1tA7NVvEGrBcLvMNgUmHWTtM2qHQRWrjEaW5C7yJPx144DnpIcItHQ=;p73JV9pV0XNJPlbsXcCsyg=="

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
-excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
+excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform, added"
 publishedDateTime: 2021-02-17T12:05:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/smartlogic-retains-microsoft-gold-competencies-and-is-approved-for-azure-gov/article_523e618f-1eae-568f-ad44-5803a711f922.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/smartlogic-retains-microsoft-gold-competencies-and-is-approved-for-azure-gov/article_523e618f-1eae-568f-ad44-5803a711f922.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/p19700023/smartlogic-retains-microsoft-gold-competencies-and-is-approved-for-azure-gov"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/p19700023/smartlogic-retains-microsoft-gold-competencies-and-is-approved-for-azure-gov"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19700023"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19700023"
 type: article
 quality: 66
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
@@ -65,6 +61,6 @@ related:
         height: 315
         isCached: true
 
-secured: "T6PoTn4g0xm9kPNLdpSepUvlVErTd4iwm9/2rsADVFaXCapFVwi+zO5JFOgTDcBlelZ1Ij74vEcrZgBlJ70Sje5geuENH9uhLjelodyi7FG8B+bGNZysWo9eY4L3jJaTSkmbvJ/rW+FESbVvLh1r+1CoGdgo37VFleRMvKbA5x3zRRUSTR/Vn6gmHosii8BnZ8TOHsCsRocIGd5L4Ll7cObjuTJZdFDS7rKliZj87LPzeGb+QIm2hilWRBvqIGDLttmRnKUgL9kD/U5TTU0OWP2Y31nxKN+6KkzP27Fy4YL3ixeJLuZfbnU3O9RBePfHOKQMm8zICK7TkD7aCghdm0dL+BrvmI4mKmZRDFC3CvY=;+b+lfY11xc74iaOC2k6MfA=="
+secured: "4PZkenZT5ZQj7K4D+pO0ogN87Whfu6ZAHuVpzGEY+rd7mGHBLLiMRvgo+m9HAL+pkPTMTuWMA+s8/sqNZsXFBxkPaIzAkg34RnkaWC7+8GY8kMojfD9AnWgf8A5tHcbS5v1uv1yghTQ9Ue+qZk9Mxg4Tan+HJFqQWsaAYC07PP0PT3/ea7wOW3Irp/W2UnVBm7FpWeNj+ln8TnFiqm8xm60Ce1+Vrk8Dv4ioNXj2lQQ4X8F+Y4AbVDmavn1I9PK41VJRvvOR4t8znkzUL5Dxx8INl8FsBPq+N2m+7x9ibHiCHciPnLL8ZCDmrs1T2WFgVrMQ3TtlEyKVnzrMsNGlF/BO3W0ZmH+85aLl63Y+Ex0=;CMNSg6CKF4wRzLQtuh1qSA=="
 ---
 

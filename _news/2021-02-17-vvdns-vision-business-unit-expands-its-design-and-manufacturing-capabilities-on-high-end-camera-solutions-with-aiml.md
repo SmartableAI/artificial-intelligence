@@ -1,29 +1,29 @@
 ---
 category: news
-title: "VVDN's Vision Business Unit expands its design and manufacturing capabilities on High End Camera Solutions with AI/ML"
-excerpt: "VVDN Technologies is expanding its capabilities in design and manufacturing of High End Camera Solutions with advanced edge AI processing. VVDN's Vision Business Unit has invested in gaining expertise on several high-end intelligent camera platforms including AI processing functionality to deliver high-speed edge analytics with reduced power consumption."
-publishedDateTime: 2021-02-17T10:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vvdn-s-vision-business-unit-expands-its-design-and-manufacturing-capabilities-on-high-end-camera-solutions-with-ai-ml-1030091010"
-webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-s-vision-business-unit-expands-its-design-and-manufacturing-capabilities-on-high-end-camera-solutions-with-ai-ml-1030091010"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/vvdn-s-vision-business-unit-expands-its-design-and-manufacturing-capabilities-on-high-end-camera-solutions-with-ai-ml-1030091010"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vvdn-s-vision-business-unit-expands-its-design-and-manufacturing-capabilities-on-high-end-camera-solutions-with-ai-ml-1030091010"
+title: "VVDN’s Vision Business Unit expands its design and manufacturing capabilities on High End Camera Solutions with AI/ML"
+excerpt: "VVDN Technologies is expanding its capabilities in design and manufacturing of High End Camera Solutions with advanced edge AI processing. VVDN’s Vision Business Unit has invested in gaining expertise on several high-end intelligent camera platforms including AI processing functionality to deliver high-speed edge analytics with reduced power consumption."
+publishedDateTime: 2021-02-17T14:41:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-industrial-products-and-services-new-products-and-services-be9efd5f706bcddb37cf0d095400529e"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-industrial-products-and-services-new-products-and-services-be9efd5f706bcddb37cf0d095400529e"
 type: article
-quality: 63
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
   - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Data processing options for AI/ML"
@@ -40,7 +40,18 @@ related:
         width: 800
         height: 401
         isCached: true
+  - title: "Using Responsible AI to Push Digital Transformation"
+    excerpt: "Can businesses implement ethical AI standards that reduce harm while positively transforming the workplace? Just as its development is creating new business opportunities, AI has also delivered some harmful and ethically objectionable outcomes — a symptom of the misguided rush to get exciting technology to market superseding moral,"
+    publishedDateTime: 2021-02-16T17:51:00Z
+    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-to-push-digital-transformation.html"
+    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
+    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 39
 
-secured: "quXTfXX4ZnPhL/m7wwSoV40y8yTtllTdFtxXkdBRB2NLf5UXwou2v/6DF0eYKHXCOaOMgYoxcPlNYq5KLwfxRsfUg2EGdAUkyajvDhUobCaImMrL717Ft3oQ0g0TC9pjie/KAOCGgjklz8ApHPBsuTdcvwcMD4otOBU0CMmXtnGgGq99ooz+KwjvJhhf0DgttT9DW4vAJXKYuXoTCOvTdVH1M8xUl2VmW5qMRt4J223JH9Q2cP3E7++cvQ5D8R915qyc0gmF5cvkB+Wu819V6W9rvu/puwETBShr/2CMuimMOhahqF6YOiIi3Nb9J1vPfXAqALEY/c/PbpeMIXQGcGuMdjS/XY5xmjcZehXbvbY=;qnpClXNcBzn2fboufWYAFg=="
+secured: "9UIAvk4Tep14SQizLRHRRoy5PmkADmouIZKRhYt0ZPIZjDE8smRhp6xBhGgJ/XAINMOrOtN06NccuZs9FSRPBsXhe9yuccFo1FYtgM2TLUa0dWT5f7/1Wf6QaEntUo4gNp0Lfmoe9PWeAf+kCki63KSGcxbWAkVQlsJlqssSe9cymunfvVHI4JUHIhnJUGh1A0ZJ4SfzgbY7BjWCq8wfC8p5YcwKAzzlUFOsuAaL6z2aZr8dqf4C/KqAodeR1AX0eMGmmFM6jW+Vo9XOPZwa3QQo742AlhO+5Q9HxDwg1GkBvJi71I94YmmcWtLEgvp4IuiLS4t8EQz+HEy7hFyxwwUb4BBvo7UKNcVCbFmAedE=;RPn4jwHDupTDwIJL6e3Dcw=="
 ---
 

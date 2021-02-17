@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-17-what-does-it-take-to-operationalize-ai.md",
+      "title": "What Does It Take To Operationalize AI?",
+      "excerpt": "Software development processes and team structures have evolved a lot over the years, from waterfall and agile to DevOps and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/amp/",
+      "publishedDateTime": "2021-02-17T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-swift-for-tensorflow-project-shuts-down.md",
       "title": "Swift for TensorFlow project shuts down",
       "excerpt": "Google pulls the plug on effort to integrate the Swift language and TensorFlow machine learning library, while citing multiple achievements.",
@@ -52,6 +104,60 @@
         "TensorFlow",
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-the-cambrian-ai-landscape-nvidia-the-800lb-gorilla.md",
+      "title": "The Cambrian AI Landscape: NVIDIA, The 800Lb Gorilla",
+      "excerpt": "We look at NVIDIA, the leader in data center Artificial Intelligence, and outline the company's strengths and weaknesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602c604d6b88e3e1922786c7%2F0x0.png",
+          "width": 1200,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/amp/",
+      "publishedDateTime": "2021-02-17T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Google AI"
       ]
     },
     {
@@ -481,24 +587,33 @@
     {
       "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
       "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
+      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf",
+      "webUrl": "https://www.lelezard.com/en/news-19635111.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19635111.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19489798",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19489798",
-      "publishedDateTime": "2021-02-04T06:25:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T06:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -508,10 +623,11 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
-        "Google AI",
+        "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
@@ -1413,50 +1529,7 @@
         "AI",
         "TensorFlow"
       ]
-    },
-    {
-      "path": "_news/2021-01-19-deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules.md",
-      "title": "DeepMind's New AI Can Destroy You In Games Without Knowing The Rules",
-      "excerpt": "Following their massive success in uncovering predicting protein folding in 2020, Google’s DeepMind has now released another AI that is less about solving complex biological problems, and more about dominating it’s opponents in strategy games ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "originalUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/2080a3f8-6b4f-54c6-b158-ffe681d97cbc/default-1610976793-ms-pac-man-in-an-arcade.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "publishedDateTime": "2021-01-18T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 2
 }
