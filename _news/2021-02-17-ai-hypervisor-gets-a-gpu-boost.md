@@ -7,8 +7,8 @@ originalUrl: "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost
 webUrl: "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: datanami.com
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA GPU now supports Sunlight NexVisor, moving AI to the edge"
+    excerpt: "Sunlight announced NVIDIA GPU support for Sunlight NexVisor, providing near bare-metal performance with a compact footprint."
+    publishedDateTime: 2021-02-17T01:16:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/17/sunlight-nvidia-gpu/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost"
     excerpt: "Sunlight announces NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint"
     publishedDateTime: 2021-02-16T09:33:00Z
@@ -35,6 +49,6 @@ related:
       domain: businesswire.com
     quality: 34
 
-secured: "ui0NJIwSY3vnhUA/8htyqvWyGmWQQ2Ep3aRxXt5+17rO9HVsUxkrUHBBojOnHKPr3AtUj90E5UB8JxmQgdrnK2jI78izmn40k/g4rB8/LEK+TPizUWW3xGfR8kIJBoZ9q+iBrGDH7C29k0A9AbiQ+RufBNx44/pvNX1XI0/J0zIWW6aqxSeb4/EAp7RgVFD56Ol897z9PLePJW7BtG3cMoxbSmYBNQRxlrJB6FP3+Mn/IZlz3Zx6NF/e7oYdp8vCl4Pe5CJoyWyGcD3Gs4k+opNr6dSGQmuTlEb4QsaGWux8Y/7dOKcs4v0u1l8eDPMjjX9YubDlZo4svVWpByHKZhtgqzDQ4zY4bSgbtiLtWXg=;dJUh/9kWok4gHxGdEd3O8Q=="
+secured: "ZPSlQi0dwXfZ9zxZRQswNr3ZwvuEQ9ZCRQsh1eEynqXfBePRMce4p9yMKDFafqzMl5nOSuiNFnbYy/rfB0hIhV6tOIdt86KbRCyvxk/TL7JOmSAssizIZC+zMz1oxnotMLYMbt1qLS4pHwmIt109lW5xCsfRIp4aokCHeUEL3RWqDV5kPFBgmGNbm8mabsWGRuKyVJOil+1p2zjy2N3eZh0FbfMUgoNdbjNqe/6dy+1zH1fdyQ+lxMFcqOerZ+ninOi8QXqh3miU5s+Wy9AYTZJdQSKxstfgiH4F7SX0GanTJNHW7UmZPgl+vjHmYkT4ImHxsYnpG6oARgLnZL5H3x50BQ6HF8jg0qgTyp0g+T7xZqflMqbWU2SIdNr3ZBciODLPAxVadZ96QJFqP7Js/CaWLP0rFbaGMtLtRN2pJAu/fhe3q1fOdR8DUyg6bpDdKqa3JoqIDN+clXgUgMHdLu4x7d1TZMFt3zKcmYhu+6d63jWfXVKhmLHX1Xxdcb13iieTw4xuQuHC7sKFokaBRw==;CaqXWa5CvBYRVFR6mKVVZg=="
 ---
 

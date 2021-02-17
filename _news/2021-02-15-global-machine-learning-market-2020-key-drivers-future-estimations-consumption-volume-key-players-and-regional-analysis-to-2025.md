@@ -29,61 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Analysis, Status, Business Outlook 2020 to 2026"
-    excerpt: "The up to date research report on Global Artificial Intelligence AI in Education Market illustrate a detailed fundamental market overview which is fueled by deep research to accustomed the users with latest Artificial Intelligence AI in Education market trends current"
-    publishedDateTime: 2021-02-12T09:23:00Z
-    webUrl: "https://www.openpr.com/news/2241354/artificial-intelligence-ai-in-education-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
-    images:
-      - url: "https://cdn.openpr.com/U/2/U212881831_g.jpg"
-        width: 800
-        height: 506
-        isCached: true
-  - title: "Voice Recognition Market Size to Witness Huge Growth by 2026"
-    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Voice Recognition market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
-    publishedDateTime: 2021-02-15T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-to-witness-huge-growth-by-2026-2021-02-15"
+  - title: "Global Artificial Intelligence in Manufacturing Market :Top Competitors, Regional Analysis Demographics and Forecast To 2027"
+    excerpt: "Global Artificial Intelligence in Manufacturing Market Global Artificial Intelligence in Manufacturing Market was valued"
+    publishedDateTime: 2021-02-16T18:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-top-competitors-regional-analysis-demographics-and-forecast-to-2027-2021-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
-    excerpt: "Selbyville, Delaware According to a recent study titled 'Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Analysis, 2020', available with global artificial intelligence (AI) enabled drug discovery and clinical trials market is slated to grow considerably over 2020-2025,"
-    publishedDateTime: 2021-02-15T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-drug-discovery-and-clinical-trials-market-size-trends-companies-driver-segmentation-forecast-to-2025-2021-02-15"
+  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2021-02-16T05:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-robotics-9e905439ab7f41d191e830ab1499ec4e"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Artificial Intelligence Chips Market to Eyewitness Massive Growth by 2025 | AMD, Google, Intel Corporation, NVIDIA"
-    excerpt: "Latest released the research study on Global Artificial Intelligence Chips Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Chips Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-02-12T20:02:00Z
-    webUrl: "https://www.openpr.com/news/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
-    ampWebUrl: "https://www.openpr.com/amp/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "FSo8Cf7s5G8ExALGsYW/R0IbzZ8h0u0wyiAjDUib+M0j7LAGKQMPEGMisB5GZsHr6j/SHpZbTXxWOoqHqYbkd3Ztc9FIz+L2Vuzxgbz0MpQKnlXcVpBL5TwtZ4R03a1bXzcA+UVCsJO+Mqz81VaLnfxgNFlGH0O5gTiWJwd7ViXmgaIpkNMGm9AEGd/DkwFSagVQkuMkDC//n3Hy8y/KVjx15kHf47wiV1O7DpbbIwKyqAT3Vd67TSRThqcKWbMcvlyhzEIDkhT+LDgzuoRkFzatgXAki9/8fi+3XamnEDXgVIlikZtCRanDXuVLb5PAyikwWo6AOiqOZ+tXLiIyLynTDKH/6tDElFWejpWu8mI=;5+kS+zB/2B292/kd6gr9AA=="
 ---

@@ -29,75 +29,72 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Car Market Trend and Forecast"
-    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
-    publishedDateTime: 2021-02-12T10:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12"
+  - title: "A machine learning approach to identify drugs that could be repurposed to fight COVID-19"
+    excerpt: "When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare."
+    publishedDateTime: 2021-02-15T13:12:00Z
+    webUrl: "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Machine Learning Identifies Existing Drugs to Treat COVID-19"
+    excerpt: "Machine learning could help detect existing drugs that could help fight COVID-19, particularly in elderly populations, a study published in Nature Communications revealed. One of the many major challenges of the COVID-19 pandemic has been finding effective treatments for the virus."
+    publishedDateTime: 2021-02-16T18:19:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-identifies-existing-drugs-to-treat-covid-19"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "A machine-learning approach to finding treatment options for COVID-19"
+    excerpt: "Researchers have developed a machine-learning approach to identify drugs that could be repurposed to fight COVID-19. The advance could boost clinical trial efforts, and it could be adapted to a broader range of diseases."
+    publishedDateTime: 2021-02-16T18:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210215092404.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "A machine-learning approach to finding treatment options for Covid-19"
+    excerpt: "MIT researchers have developed a machine-learning approach to identify drugs that could be repurposed to fight Covid-19. The advance could boost clinical trial efforts, and it could be adapted to a broader range of diseases."
+    publishedDateTime: 2021-02-15T10:03:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/miot-ama021221.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "The self-driving Toyota is coming"
-    excerpt: "Toyota has joined the increasingly crowded self-driving car race, joining hands with startup Aurora to build cars for ride-hailing firms like Uber."
-    publishedDateTime: 2021-02-13T06:19:00Z
-    webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
+  - title: "MIT Develops Machine-Learning Approach to Finding New Treatment Options for COVID-19"
+    excerpt: "Researchers develop a system to identify drugs that might be repurposed to fight the coronavirus in elderly patients. When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments."
+    publishedDateTime: 2021-02-16T12:53:00Z
+    webUrl: "https://scitechdaily.com/mit-develops-machine-learning-approach-to-finding-new-treatment-options-for-covid-19/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 17
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQEyp0bVLhfttw/storylineheaderimage-shrink_400_400/0/1612945597294?e=1613289600&v=beta&t=stnGp6AVjIqsxT4l1nIDKjPHb7jf-WPEC0d0qJHKCdk"
-        width: 400
-        height: 266
-        isCached: true
-  - title: "The Wealthiest Self-Driving Car Add-On Options"
-    excerpt: "Consider that during the first era of self-driving cars there will be add-ons, and those will likely one day become standard fare."
-    publishedDateTime: 2021-02-13T16:50:00Z
-    webUrl: "https://www.newsoneplace.com/6956032012/wealthiest-car-options-self-driving"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 24
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/601dc225367d07fd58a05945/0x0.jpg?cropX1=0&cropX2=4595&cropY1=266&cropY2=3328"
-        width: 5616
-        height: 3728
-        isCached: true
-  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-02-16T05:34:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-robotics-9e905439ab7f41d191e830ab1499ec4e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com"
-    excerpt: "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is drive"
-    publishedDateTime: 2021-02-12T12:15:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://scitechdaily.com/images/COVID-19-Drug-Repurposing.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "LfuFoY0crlGHMWwQOAUfnOkHcJ/pNgc/flb0twyfkYJwC4Y1+iQHjvdQc/OZ9b/yx/DBaqB09a7/w8f2/4akuVTJGahR0q3HlMSsjxAEhrqM6xaz4Viv4qmGa9VvjVSR/mmbOxnvRXhfEW3dfBUkDbYBYV+/6uWT96NOAzt6w28UaRrxQONowvn1TJdQb3+5pBZChAsiduVEDRT495ixpr8wRzcOVxU7qhhKkR4wwKX2FTiDkXLi7xUSvrF5mWtF0eWbkWS9y6JEXsySWZoxNYXR2uU9VUPtbaX/K/H2vCXpaH+FRDFZzKAD+XiJ1T/djmpzOEHBpZv2S3XVPa3QDR6NiguxB96EwLXTmii2Fqg=;FPDk2NDpUnwmU/v9RXwv/g=="

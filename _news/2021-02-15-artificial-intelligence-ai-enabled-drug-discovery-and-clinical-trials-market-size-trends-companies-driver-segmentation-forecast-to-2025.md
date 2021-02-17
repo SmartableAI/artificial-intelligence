@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Analysis, Status, Business Outlook 2020 to 2026"
-    excerpt: "The up to date research report on Global Artificial Intelligence AI in Education Market illustrate a detailed fundamental market overview which is fueled by deep research to accustomed the users with latest Artificial Intelligence AI in Education market trends current"
-    publishedDateTime: 2021-02-12T09:23:00Z
-    webUrl: "https://www.openpr.com/news/2241354/artificial-intelligence-ai-in-education-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis"
+  - title: "UAE Face Recognition Market Size to Witness Huge Growth by 2025"
+    excerpt: "Selbyville, Delaware According to the latest study on 'UAE Face Recognition Market Analysis, 2020', available with Market Study Report LLC, the United Arab Emirates face recognition market is projected to showcase tremendous growth trends through 2025."
+    publishedDateTime: 2021-02-16T06:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://cdn.openpr.com/U/2/U212881831_g.jpg"
-        width: 800
-        height: 506
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Voice Recognition Market Size to Witness Huge Growth by 2026"
     excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Voice Recognition market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
@@ -54,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2025"
-    excerpt: "Newly added by MarketsandResearch.biz study on Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains a detailed analysis of data through industrial dynamics which has a major impact on the growth of the market."
-    publishedDateTime: 2021-02-15T01:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2025-2021-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -84,6 +68,33 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
+  - title: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application – Global Forecast to 2025"
+    excerpt: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application - Global Forecast to 2025 . New"
+    publishedDateTime: 2021-02-16T18:10:00Z
+    webUrl: "https://www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 29
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Face-Recognition-Using-Edge-Computing-Market-Research-Report-by-Device-1024x1024.jpeg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
+    excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
+    publishedDateTime: 2021-02-13T10:14:00Z
+    webUrl: "https://www.openpr.com/news/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
 
 secured: "2L6qFzA6YFjXg0K8nhl/dxyPA5FRocc0QOACBj/h0/cwT0Hg5b+aUCicBuCM5wuX/od/uEknVPKxRhCXaRWruL0f8UeYmOmdVARnmiQIPJKmzsJG5M6KgBNyudecnDyDqsbQpARrSRxGww95LoU3ugbLbN07GWcjxuwV3npx3tMUzBv1JuLFjXYxUHnacrSHGsch09jmR9w0txWNlwG/evVmsgEQsGSydSmcOb7GLQcHmaC5EBWPtLaujrgJJ+Bl8PMx8ulUbdWzdhQ42VAMU7aYG1Q7syLKtGNxCOfavkuaC2d2RiZyfFzVZ2OxZkf2hYnyOs1/e9sopYfoeIzoU0UurOX0uEfGNbjMNNfqT14=;ymtskO/wOJs3uJK3Zspurw=="
 ---

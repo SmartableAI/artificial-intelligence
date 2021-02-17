@@ -41,6 +41,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Self Driving Trucks Market Research Report 2021 Covers Updated Data Considering Impact of Covid 19 on Share Size and Future Demand"
+    excerpt: "The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in"
+    publishedDateTime: 2021-02-15T17:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Identifies Existing Drugs to Treat COVID-19"
     excerpt: "Machine learning could help detect existing drugs that could help fight COVID-19, particularly in elderly populations, a study published in Nature Communications revealed. One of the many major challenges of the COVID-19 pandemic has been finding effective treatments for the virus."
     publishedDateTime: 2021-02-16T18:19:00Z

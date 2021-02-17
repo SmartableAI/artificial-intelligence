@@ -33,6 +33,20 @@ related:
         width: 1000
         height: 571
         isCached: true
+  - title: "NVIDIA GPU now supports Sunlight NexVisor, moving AI to the edge"
+    excerpt: "Sunlight announced NVIDIA GPU support for Sunlight NexVisor, providing near bare-metal performance with a compact footprint."
+    publishedDateTime: 2021-02-17T01:16:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/17/sunlight-nvidia-gpu/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "EJuWcZy1uk4bHALPLIC5ANkpy7g1MCMsV4t1ZygwExLN8nBJreZQwaUqI5tlxk/mKvsM8/Mbm6i2eY7j3e+cflCkt9WkB8h2C9nrASXbZiHCAMeMR3DFzN0T9jQGT7T8DLo3W3ssfrEApuJ2A71sEY8zqvEn9+/Rc5U5YY1QhQ+YPCZ1v0+PtpYJqYfjnG4nJyePIjwZBMxPLd+hLEfPCjFGNPjtJRdIhhuSXIzNFcp0pvKW2UuS8Yji0jwaHodhDigypbdIYKJT8E/KHUM4sfJIMVddSAPLObk8bKQwKs1gRCcEZTGKxOp0ZP/H1zpUFL5iFQgidIQUzIPBLTczyhJ/anzujrCLJ5vVAMKLkIQ=;2KkBBFx4JZf1z/spb4rcOA=="
 ---

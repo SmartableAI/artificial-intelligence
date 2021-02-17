@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
-publishedDateTime: 2021-02-16T16:22:00Z
-originalUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
-webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
+title: "Unisys Secures Status As Microsoft Azure Expert Managed Service Provider For Third Year In A Row"
+excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a (MSP). Capitalising on the power of Azure, Unisys enables organisations to deploy and manage flexible,"
+publishedDateTime: 2021-02-17T01:21:00Z
+originalUrl: "https://www.scoop.co.nz/stories/BU2102/S00217/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row.htm"
+webUrl: "https://www.scoop.co.nz/stories/BU2102/S00217/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row.htm"
 type: article
-quality: 71
-heat: 91
-published: true
+quality: 41
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Scoop
+  domain: scoop.co.nz
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg"
+    width: 800
+    height: 800
     isCached: true
 
 related:
@@ -55,6 +51,6 @@ related:
         height: 315
         isCached: true
 
-secured: "aGumLGD9caT6C1Uh8rOT+gjK8aYfKuW2nO+mKgdvirjmkLY5Tfd8RMlj7ILOr5bgUfNFRCopqM0y0CVg7VVqC1Q24SraODcK23ZzUKE+2W5rP5vXd0fKm3ptV86VXnsaZVWlEoO7GtKWSP/MUpuqNpotmJgekTysLVQ4+evx22NVzO1EF0s3qjfS0Qcxq08aZ1CoOIYT0Rhx1mqU7UKAKEJC9v/0jtMJbTBtccJ/vVaqmWw+2+DlQIDvxj8aUydXds/Pgglna4XzFMlZ3QOiM07eP8WDsA8zVnZvBhq7+lDxLXmIVnohV1WUN7ZEvZldxIEXl+/gwK0ywGLMdksZWrKXUI5vFCptkb0l8UZ0Nr4=;ylAiHg7+mJ5b1XWzaIDiCg=="
+secured: "SLielknUnBnN1aV8EOxAldMBHO/f0n0Gpg283GjKUVB6RXJ72pDsUTpbt47bRYDyagEz/x6FyzslYJuMq05IBjgvqnQe8I2HEt0cuzvrkTKQ4S9wXM8ZIM2dJ57AaaFq5jyK4sGUZkDIcfm5DLuNlyM6sEPcrBet14PEN1y6vV9j0Xi9dW+otysfspq4A1xA6mmHsOA1Fw79GLOu4yvh/P7Sr/f8P+zkUggn/amGtHDpyOJ5koruwV8vdPQNMOfc3szTMKECwpSoFpxVaaxFxfyeOQoseB9+F1/JC7qH0TBDbN0UqFcadMALwTmQZCT25KX7UDH+vIQhcZy2n9EUCOt2ROlkcSHJVmv2qKjCbVM=;1KAzw/ID3DYmvT/eyLwokA=="
 ---
 

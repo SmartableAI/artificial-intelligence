@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-fa
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp"
 type: article
 quality: 106
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/jlb00xa6iofgf15z6ysa.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Sweden’s data watchdog slaps police for unlawful use of Clearview AI"
-    excerpt: "Sweden’s data protection authority, the IMY, has fined the local police authority €250,000 ($300k+) for unlawful use of the controversial facial recognition software, Clearview AI, in breach of the country’s Criminal Data Act."
-    publishedDateTime: 2021-02-12T10:23:00Z
-    webUrl: "https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Minneapolis bans its police department from using facial recognition software"
     excerpt: "Minneapolis voted Friday to ban the use of facial recognition software for its police department, growing the list of major cities that have implemented local restrictions on the controversial technology."

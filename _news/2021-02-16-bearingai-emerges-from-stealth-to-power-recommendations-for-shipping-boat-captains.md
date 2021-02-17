@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Predicting adverse outcomes due to diabetes complications with machine learning using administrative health data"
-    excerpt: "Across jurisdictions, government and health insurance providers hold a large amount of data from patient interactions with the healthcare system. We aimed to develop a machine learning-based model for predicting adverse outcomes due to diabetes complications using administrative health data from the single-payer health system in Ontario,"
-    publishedDateTime: 2021-02-12T10:59:00Z
-    webUrl: "https://www.nature.com/articles/s41746-021-00394-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 18
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00394-8/MediaObjects/41746_2021_394_Fig1_HTML.png"
-        width: 584
-        height: 685
-        isCached: true
 
 secured: "L8hkFbB+QUTxNmZPj4YnIIu9folLY04svWhbxUQ+/F1KGnr+zBoyWOFjXfKenaHp061n6bvJP/my+Nfwg8YkWk3N629Q4lBrjQKUcE9pSEov67r0qGT/TwICJ+UNNOTDQ+dwfvAlSxt+nI9FUhQIb9/ioPeZ3inSPrzo9LfZqhS43IUnmI2onzZHDVDuC0UNLFfnNbtYy57Ne8tOId4LMKSY7MladD2+MClpCoDJZ0+KB0J9mS8nVuLBaHPKGJtMLFYeKxbprOu8J4I+kKSMR7pNqBl/tfy6ygR3GzcFedm9ruMf+7S+bGg0KUs6uf8OxbYhemzzvBR109LSY/4nhKupRf1WnWnNmaemLwU6ZB132YB/qGk1Md/I8Xl+Opr+dVVIyobdw/92eiQfFKoe/1N0sjbU8nZ82km6kTJeWa9o6U8YTm73dGsY0pdPZ2ObUPCn9btRqmIP6RpxoeGa+voHJRmN4JAMchesEaJu5LdDnEHSUVT21LbmqufbyuCRQNZBOU4HAU9fUrkKV+GKzg==;o820VK+IL4BG0pgU9K6tMg=="
 ---

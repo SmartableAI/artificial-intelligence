@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Forget fingerprints -- AI may soon use your veins to identify you"
-    excerpt: "Forget facial recognition technology -- researchers say they can identify you from the veins on the backs of your hands."
-    publishedDateTime: 2021-02-16T17:17:00Z
-    webUrl: "https://www.cnn.com/2021/02/16/world/vein-hands-identify-intl-scli-scn/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/world/vein-hands-identify-intl-scli-scn/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/world/vein-hands-identify-intl-scli-scn/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216115845-hand-veins-stock-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Artificial Intelligence for Marketing"
     excerpt: "A Latest intelligence report published by AMA Research with title Artificial Intelligence for Marketing Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence for Marketing market This report provides"
     publishedDateTime: 2021-02-12T14:23:00Z
@@ -74,6 +58,20 @@ related:
       - url: "https://cdn.openpr.com/U/2/U212535947_g.jpg"
         width: 638
         height: 359
+        isCached: true
+  - title: "Forget fingerprints — AI may soon use your veins to identify you"
+    excerpt: "Forget facial recognition technology -- researchers say they can identify you from the veins on the backs of your hands.Biometric recognition has become"
+    publishedDateTime: 2021-02-17T01:17:00Z
+    webUrl: "https://keyt.com/news/national-world/2021/02/16/forget-fingerprints-ai-may-soon-use-your-veins-to-identify-you/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 39
+    images:
+      - url: "https://keyt.b-cdn.net/2020/12/keyt-us-world-generic-2.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "1DOdL8cWBgOej9tOYUD896+Uar3Y2LkuIzHcmohM/VV9kkUHcv2S3MoafaNCnNGo5k+GB0AHgwPhsYz4e4ntnRyxER/Ss0HRHg67UR15OWLkkeBLc2wqjHPulSTvp6TNo/M2AWuAQmYTj1/dgZwKindB8asMEGSF310zpy1bx5R3Hi5P1emB8dAL7Tt4pcqWXklYjVSniGcKFN2ttKDyzqZWTQkhTAxaUqb21OIA5UxPIou6UJdxIzoAH2ar80VfxBIVQuAWYcvMVznlyRF3VHvRtUpPA7v0j3kLJCOC8ZIH0FkxOWSFH8cG5Gud97OcHLqdlcz5HeZszz1ybfbY3une2yeTu6NJc4REInbYKqk=;LXZymyoCzBfaRkazBCqYGA=="

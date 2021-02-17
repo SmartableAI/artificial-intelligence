@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Forget fingerprints -- AI may soon use your veins to identify you"
-excerpt: "Forget facial recognition technology -- researchers say they can identify you from the veins on the backs of your hands."
-publishedDateTime: 2021-02-16T17:17:00Z
-originalUrl: "https://www.cnn.com/2021/02/16/world/vein-hands-identify-intl-scli-scn/index.html"
-webUrl: "https://www.cnn.com/2021/02/16/world/vein-hands-identify-intl-scli-scn/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/world/vein-hands-identify-intl-scli-scn/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/world/vein-hands-identify-intl-scli-scn/index.html"
+title: "Forget fingerprints — AI may soon use your veins to identify you"
+excerpt: "Forget facial recognition technology -- researchers say they can identify you from the veins on the backs of your hands.Biometric recognition has become"
+publishedDateTime: 2021-02-17T01:17:00Z
+originalUrl: "https://keyt.com/news/national-world/2021/02/16/forget-fingerprints-ai-may-soon-use-your-veins-to-identify-you/"
+webUrl: "https://keyt.com/news/national-world/2021/02/16/forget-fingerprints-ai-may-soon-use-your-veins-to-identify-you/"
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KEYT
+  domain: keyt.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216115845-hand-veins-stock-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://keyt.b-cdn.net/2020/12/keyt-us-world-generic-2.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -79,6 +74,6 @@ related:
         height: 315
         isCached: true
 
-secured: "Iq0+7PLYEojoueMRgN7+TK5CAti2gqNYeK9NikiJ9t5r+tvDDfgj84EGW/1HxDVLgzTn5rKUYz4BcFZMSAWRCf/zW5WYlxEYfUCX6lx06mVQjDH+WiiddKM36gH5ccirR/soe7R06C+mEJVoSqsR3yElWbZ2UXS7arg0gVRrwNxsvZApb5H/H0YuXjd9oTC5EbW8NwGlL5JM/n9kk16Hwek8yO04Mz3rWSrMbHEbZxwTzJFpTZz2Ce4jkLpi6mJsVhD+uxGOYz1zsvSxLDvWwDnFCnVHdVjs//vdkte5lLQ1omsP2XVA3MtOQg5P3u5G7aitXJkO6qxJ6GO8mxznWPLWBJaHzZUghDo8D7sNWU0=;DdF2K3XocMb8hsiRbCfpYQ=="
+secured: "9HB2ZGnT74LCf8ShHzKxKXriqjKr4bMFwmbO4QHvLHIIul50zfO01NTA4wt3YqUoei/mOSrSCvDjS4v7/iE6ExRM0c9tlfY8zsFx5OJnhkGIn8Ka1usW16JqUc9p6uUcc/V9G4hWQi1Q1873D87zamEfHUo0Kkyj9LhQohK634PDf+jR5XKGpiP4VWMgEZVQnSAadkj5xXxegp5wdjJA7Ch3HX09WJEWg2QqPkDWiXgrwUeCd7ENMJBFIchqjzq++kcra+CFqMT1cbCq6FFkmPdZKUalhr3hfAqY5SOUIO1ouTW14WewHgIwSAcdkCyEaEXsZO/DEImPJAi2IbF0gexunMMKV9FnfviHdz7T7xE=;ERTuUkedPKu+T20F3tJkYA=="
 ---
 
