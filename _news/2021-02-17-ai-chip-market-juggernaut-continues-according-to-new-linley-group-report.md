@@ -1,29 +1,22 @@
 ---
 category: news
 title: "AI Chip Market Juggernaut Continues According to New Linley Group Report"
-excerpt: "Demand for deep-learning accelerator (DLA) chips, also known as artificial intelligence (AI) processors, continues to be strong in spite of the pandemic. Deep-learning applications are being deployed throughout industry and can be found in everything from data centers to self-driving cars to edge devices,"
-publishedDateTime: 2021-02-17T05:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-driverless-cars-industrial-products-and-services-electronic-parts-manufacturing-dd208490c8384672ae9c43a1b279ff4c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-driverless-cars-industrial-products-and-services-electronic-parts-manufacturing-dd208490c8384672ae9c43a1b279ff4c"
+excerpt: "A new study from the Linley Group finds that as AI chips proliferate, the next wave of growth in this crowded market is in embedded applications."
+publishedDateTime: 2021-02-16T19:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210216005040/en/AI-Chip-Market-Juggernaut-Continues-According-to-New-Linley-Group-Report"
+webUrl: "https://www.businesswire.com/news/home/20210216005040/en/AI-Chip-Market-Juggernaut-Continues-According-to-New-Linley-Group-Report"
 type: article
-quality: 55
-heat: 65
+quality: 33
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - AI
 
 related:
   - title: "AI Chip Market Juggernaut Continues According to New Linley Group Report"
@@ -36,6 +29,6 @@ related:
       domain: oaoa.com
     quality: 35
 
-secured: "lHpuOLDjk+q3v0RELQJZBJPCCgBzF7G10XTOOxDG5H2R+9hFlCDz5OxKwEPaTC5wLwl4IR1Wzdlwb8PKHwlMJEcfSuAe1PKzcBaZWowASoBsIrj2nRxUXZ7KtybILFqDtHcRQP02Mci62Iqn7y2enl1k7/nAunJ1bAVmzCqaj6n9EhDrYaGtkRnkZMD7umEtJZ1jB1VCKBnz5s+YaclomV27YIkwodTctOw2CD8K/spGy0vVs+8KHPo/vLVS8lxUk+3nTZscVAhLtB2wSMLRoAelIFocTiw/x5S4vh+6O9bhQzoOoZtFIXMQ8S1dzl5IOpg751KS4YLQwqNg1vJU3sTcmPmMRhWs+zYbpHuRomU=;3tmf3xD19ycsCxFLI1Ps2w=="
+secured: "0w7rF+IrcESenlYic5zyHcQ2yh5ubKdhgn/SlyaCLelo/gAZuJuZUCOYHzKmL5cNTtaVrpllhqs0IXJGioN+pNjQXNyy+edbmTFIp3XJ11bAiwqKS5KAoZfO3Y2CE+9aGBj4FbqU4Tber8ObfZo89CK8cRXdlazqX5iJXSm10LuizAfhi0wVHtO278YMj4ZLzFffxzZ5VmrQtiZzX3ZgFKVafdroq+lZZc2mrD05C5DLZPkFg2Q2WSDaWy+RcecJtbUxxu9DyNRv4Cz1J6hobmfqgSdGtHIDKPgB7uaDN71TsJe9HAkoSIeKn04Hi1HVI0QNhECHr+2+aHMMTD+MAOVtcoaVNjvM5gBIRXTsA/nX0HN910PPWg5RBCJ1oIvA3iowbpvHSTxDQRgvGjCWfTViCMWhV/Uhx+llaC9s8jq5col7yJnOIRSHf0sw8h38waddGkJU9M84gvtMAeg7a7R/7JLhv11oD72QxOfD8SUCt+kd6NX2kngPmGLHD7f56K2R+Jt/7MSahOllA2kIUQ==;2+wbY1IjhHHo7FLl6kwZ+A=="
 ---
 

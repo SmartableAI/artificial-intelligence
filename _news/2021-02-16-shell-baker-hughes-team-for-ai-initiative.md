@@ -7,7 +7,7 @@ originalUrl: "https://www.offshore-mag.com/business-briefs/company-news/article/
 webUrl: "https://www.offshore-mag.com/business-briefs/company-news/article/14197574/shell-baker-hughes-team-for-artificial-intelligence-initiative"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "A definition, benchmark and database of AI for social good initiatives"
+    excerpt: "Many researchers have become interested in implementing artificial intelligence methods in applications with socially beneficial outcomes. To provide a way to study and benchmark such ‘AI for social good’ applications,"
+    publishedDateTime: 2021-02-17T22:43:00Z
+    webUrl: "https://www.nature.com/articles/s42256-021-00296-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00296-0/MediaObjects/42256_2021_296_Fig1_HTML.png"
+        width: 685
+        height: 333
+        isCached: true
 
 secured: "4zaIYWAeOF7uXAPFzN5XZiRnBecQrpg4WbgPb+apWasD+2ZUF6g+THfJGk92rrO/rfOTa9o87cDyQN5RDRnW1z8eqic4qF0OVc+Zdhs3eRG2u52vlEN9JkXWzFU12SHNrmBhmW9JVGfu2M+gx92JK3v4p7S0A7kqUvSsgpQ15J/0+Lzh3mxx5e3gLw1orgAddi2ISrgvlDwEUjMlWph5NqEkCyCxxp7MvOPAyt7c449fSAOrOHAWkyFZ+06tMQUudpruj+2Ku1xlFzrHOnCyuXdPZZs0iey3sMO8NAAQnu4GwzmG5qhLvfAPMab188Ft4b2MtAj0Fxo11hSj1TZNaHpMhFCZ+CJ+FTQYzIlVPbPYK5A6wHc7cLcr3nZ+rds7WiuWSu1HQ0LTDafVbpmdjtrDu73tnBVC6TeN+mYftvchA2xYxMxvDL8V61rMTI+rVSBLOG0cTjsZwjQSayy5EyrWcQQXteLj/5Zkpb6MOvkBBwJgw3mlojauqPtm0R6kyoRs4S7tez3zPpX1kEkx8g==;fmpYUonbzgrhqeZ199WYYg=="
 ---

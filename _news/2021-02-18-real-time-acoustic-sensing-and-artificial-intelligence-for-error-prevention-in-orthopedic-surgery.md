@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-17T20:51:00Z
 originalUrl: "https://www.nature.com/articles/s41598-021-83506-4"
 webUrl: "https://www.nature.com/articles/s41598-021-83506-4"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Google AI
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83506-4/MediaObjects/41598_2021_83506_Fig1_HTML.png"

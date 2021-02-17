@@ -33,7 +33,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
         width: 800

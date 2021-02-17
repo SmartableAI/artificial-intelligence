@@ -7,7 +7,7 @@ originalUrl: "https://gulfbusiness.com/self-driving-platform-ekar-launches-car-s
 webUrl: "https://gulfbusiness.com/self-driving-platform-ekar-launches-car-subscription-service/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 930
     height: 620
     isCached: true
+
+related:
+  - title: "The Wealthiest Self-Driving Car Add-On Options"
+    excerpt: "Consider that during the first era of self-driving cars there will be add-ons, and those will likely one day become standard fare."
+    publishedDateTime: 2021-02-13T16:50:00Z
+    webUrl: "https://www.newsoneplace.com/6956032012/wealthiest-car-options-self-driving"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 24
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/601dc225367d07fd58a05945/0x0.jpg?cropX1=0&cropX2=4595&cropY1=266&cropY2=3328"
+        width: 5616
+        height: 3728
+        isCached: true
 
 secured: "A4MWEPtXm7gM/XQ/eYDQNMxkkN9hY6tFrvJHs289AzwXX86te+OoTWdNZRKjty6XrBs4GOtTBvTPGHpYmCkr9CmpDPmJDfDboN6ZJNOEoYoGhOIr70VFEpEQcyFJ0rFHLbpXVYhTzDhM08OrNytCYO7IpLa2sbkDZiupqVnN2K+1HCsQF61bTrnvJoM+tTi6KnRaBN/WY0EpHFsagwQNLSXLyN7+mZnPRSLRRJ1yEDu+88eaAHeXW5NAD1h8Szhw9/lPYJGGKwxnnAr7MfLUTzfkYeVu55Rk3X5dlETJzdoOe2Sv85ZdpHMm3H4Ua10j9nuHlzvg5F2H/P3fDd7jqQ1xmUtclUHmGyVxXg2if5Q=;H8p+Kjrr2b6e5x+mXysgVA=="
 ---

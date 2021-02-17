@@ -247,6 +247,20 @@ related:
         width: 1800
         height: 850
         isCached: true
+  - title: "UAE Cabinet approves trial of facial recognition for private sector services"
+    excerpt: "Facial recognition is intended to ensure efficiency in the identification of individuals and reduce paperwork in private and public sector transactions."
+    publishedDateTime: 2021-02-17T22:18:00Z
+    webUrl: "https://www.biometricupdate.com/202102/uae-cabinet-approves-trial-of-facial-recognition-for-private-sector-services"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
   - title: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology – St George News"
     excerpt: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology - St George News Stock Image |"
     publishedDateTime: 2021-02-16T03:59:00Z
@@ -262,6 +276,20 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Lawmakers-Introduce-Bill-To-Balance-Personal-Rights-And-Public-Safety.png"
         width: 1290
         height: 726
+        isCached: true
+  - title: "Could Drones Use Facial Recognition? We Could Be Just One Step Closer to That Actually Happening"
+    excerpt: "The U.S. Patent and Trademark Office has just published a patent application for 'Adaptive positioning of drones for enhanced face recognition' filed by AnyVision. Veuer's Chandra Lanier has the story."
+    publishedDateTime: 2021-02-17T22:38:00Z
+    webUrl: "https://www.11alive.com/video/syndication/veuer/could-drones-use-facial-recognition-we-could-be-just-one-step-closer-to-that-actually-happening/602-b71fef64-2438-41b6-90f2-664e9a85344e"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 26
+    images:
+      - url: "https://media.11alive.com/assets/VEUER/images/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae_1140x641.jpeg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Lawmakers introduce bill to strike balance between personal rights, public safety with facial recognition technology"
     excerpt: "A bill introduced to the Legislature this year aims to strike a balance between the government’s use of facial recognition technology and personal privacy rights by regulating its use across Utah. Facial recognition technology is one of several biometric technologies employed by law enforcement agencies and can be instrumental in generating investigative"

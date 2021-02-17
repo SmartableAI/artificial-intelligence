@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
 type: article
 quality: 104
-heat: 135
+heat: 134
 published: true
 
 provider:

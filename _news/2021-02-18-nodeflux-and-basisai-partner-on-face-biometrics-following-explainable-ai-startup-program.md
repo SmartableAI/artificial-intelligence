@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-17T19:08:00Z
 originalUrl: "https://www.biometricupdate.com/202102/nodeflux-and-basisai-partner-on-face-biometrics-following-explainable-ai-startup-program"
 webUrl: "https://www.biometricupdate.com/202102/nodeflux-and-basisai-partner-on-face-biometrics-following-explainable-ai-startup-program"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"

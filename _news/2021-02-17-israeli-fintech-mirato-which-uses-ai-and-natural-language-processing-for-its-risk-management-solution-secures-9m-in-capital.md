@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mira
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,50 @@ images:
     width: 300
     height: 260
     isCached: true
+
+related:
+  - title: "Global AI in Fintech Market 2021 Key Players, Share, Trend, Segmentation and Forecast to 2027"
+    excerpt: "New Study Reports \"AI in Fintech Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \" AI in Fintech Market \" using SWOT analysis i."
+    publishedDateTime: 2021-02-17T21:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2021-key-players-share-trend-segmentation-and-forecast-to-2027-2021-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Manufacturing Market :Top Competitors, Regional Analysis Demographics and Forecast To 2027"
+    excerpt: "Global Artificial Intelligence in Manufacturing Market Global Artificial Intelligence in Manufacturing Market was valued"
+    publishedDateTime: 2021-02-16T18:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-top-competitors-regional-analysis-demographics-and-forecast-to-2027-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2025"
+    excerpt: "Newly added by MarketsandResearch.biz study on Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains a detailed analysis of data through industrial dynamics which has a major impact on the growth of the market."
+    publishedDateTime: 2021-02-15T01:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2025-2021-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "DPIxK3Qcy0warv1faQCW0UzBnBLQUstkuQGtLKYI1EEAN/2B5CsgrBomZcTaFTbaTQGEhTDEQusTRfdeJGmnj8cinGuA+lFCqYPslQMjt3jeCUBUw79oLksCORJGIecdug8z2oZb1bVFB0TPL3i6xmgk9q1won1L6LorodfzsNRqZB0rI7eR4sslQ/M7ngP+sMQX+QRMHXNMZVY2K51duayRyqt354IOQqpMgrxsV6hj0IEeJp5JiYlyYd+SIFTGB+28DOESokEFhacwabkEGUUS23OpeMkKqgy0U4al12bn6t9RK82LmyVjhoDLgsSjBkdKVJcXjS6irr+vN1aEbSSDbUIsIB6X9aD1UWfm8mTN+kWWrMkTqbxLZvcNWtXFs4F2HtM9M3k6WSjBLSo75hcUL/OBg6s5/H6ktmzMqkINTe3MofigRUOIkYfLBmVhEcI2w1+NJm40+Z6v7FCefTHyfxQRCH52Ajn1oSzxFb9PqXWBvxxKo2/RSoGU2ivbvHW14A4R5HlU766ZvAfirg==;bmmWitkbWMI80ryz/9zeEw=="
 ---

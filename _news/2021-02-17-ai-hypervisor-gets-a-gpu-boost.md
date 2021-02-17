@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost
 webUrl: "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/"
 type: article
 quality: 54
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -28,7 +28,7 @@ related:
   - title: "When Should You Use AI to Solve Problems?"
     excerpt: "AI won’t supplant intuitive decision-making any time soon. But executives will need to disrupt their own decision-making styles to fully exploit AI’s capabilities. They will have to temper their convictions with data,"
     publishedDateTime: 2021-02-17T14:19:00Z
-    webUrl: "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems"
+    webUrl: "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems?ab=hero-subleft-1"
     ampWebUrl: "https://hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems"
     type: article

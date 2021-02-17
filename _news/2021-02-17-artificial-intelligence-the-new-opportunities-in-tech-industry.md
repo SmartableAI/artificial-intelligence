@@ -9,7 +9,7 @@ ampWebUrl: "https://advicesacademy.com/tech/artificial-intelligence-new-opportun
 cdnAmpWebUrl: "https://advicesacademy-com.cdn.ampproject.org/c/s/advicesacademy.com/tech/artificial-intelligence-new-opportunities/"
 type: article
 quality: 61
-heat: 81
+heat: 82
 published: true
 
 provider:
