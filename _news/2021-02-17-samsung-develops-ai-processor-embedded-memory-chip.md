@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/samsung-develops-ai-processor-emb
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip"
 type: article
 quality: 104
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -34,14 +34,14 @@ related:
   - title: "Samsung develops high-bandwidth memory with integrated AI processing"
     excerpt: "Samsung Electronics said on Wednesday it has developed a high-bandwidth memory (HBM) integrated with artificial intelligence processing power. The new processing-in-memory (PIM) architecture adds AI engines into Samsung's HBM2 Aquabolt,"
     publishedDateTime: 2021-02-17T03:05:00Z
-    webUrl: "https://www.zdnet.com/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 69
+    quality: 67
   - title: "Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power"
     excerpt: "PIM’ will deliver over twice the system performance and reduce energy consumption"
     publishedDateTime: 2021-02-17T14:14:00Z
@@ -71,6 +71,34 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/21/02/samsung-memory-with-builtin-ai/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "Samsung Announces HBM Tech with Built-in AI Processing"
+    excerpt: "Samsung today announced what it’s calling the industry’s first high bandwidth memory (HBM) memory with built-in AI processing capability. The new device –"
+    publishedDateTime: 2021-02-17T19:55:00Z
+    webUrl: "https://www.hpcwire.com/2021/02/17/samsung-announces-hbm-tech-with-built-in-ai-processing/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Image_HBM-PIM-Main-e1613579775564.jpg"
+        width: 915
+        height: 559
+        isCached: true
+  - title: "Samsung Stuffs 1.2TFLOP AI Processor Into HBM2 to Boost Efficiency, Speed"
+    excerpt: "Samsung has developed a new type of processor-in-memory, built around HBM2. It's a new achievement for AI offloading and could boost performance by up to 2x while cutting power consumption 71 percent."
+    publishedDateTime: 2021-02-17T19:18:00Z
+    webUrl: "https://www.extremetech.com/computing/320051-samsung-stuffs-1-2tflop-ai-processor-into-hbm2-to-boost-efficiency-speed"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 38
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/02/Samsung-HBM-PIM-Feature.jpg"
+        width: 1344
+        height: 743
         isCached: true
   - title: "Samsung completes development for HBM-PIM, industry's first High Bandwidth Memory with on-chip AI processor"
     excerpt: "The new HBM-PIM chips will deliver over twice the system performance of the current HBM2 solutions and reduce energy consumption by more than 70%. Samsung designed this new memory architecture in order to accelerate large-scale processing in data centers,"

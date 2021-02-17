@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-back-wi
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-back-with-an-80-billion-rally-and-electric-car-ambition"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Bloomberg
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 660
     isCached: true
+
+related:
+  - title: "Baidu is back with $80bn rally, electric car ambition"
+    excerpt: "Baidu Inc has largely been viewed as an online marketing company selling ads within its web search results. Now, the Internet company is ready to make the case that it has more to offer."
+    publishedDateTime: 2021-02-17T18:49:00Z
+    webUrl: "https://www.gulf-times.com/story/684948/Baidu-is-back-with-80bn-rally-electric-car-ambitio"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 39
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/220211721495421144896.jpg"
+        width: 620
+        height: 355
+        isCached: true
 
 secured: "1W1ydtvcBe0/0XI1CchV4wSNG+YGxmlcusJ+0Uusq+04drcuUFOiRHUM80dM4jsxnwPmNlMhnkV5WeXUHXtBJTYHVY03xGdOsBIY3Y2AwBmBrKZ2hyLtn93Odrw6wSl6DlnZhmoAcuQz0hNZdb0E8HWSLujukEixh7YLSC6jDvxLpGYlEnJwiJL5vUmEhMdddPiNU8kP//4WlC1W/ecxCMMA9YXNIdTVsWFKYulzluCuAK4iGgtj2Ed+IlnghrIWgNXGKugcnWXyEyoA8E3CPOamfCFKyrGYKjSeOVK0awVd7jZEve4xD7SRuOE6qk+F9KfgnZp8SFj5OTVhQ5gh2hMJdEHTaV6a2gLGU/YTvz4=;oC0lIVopFO9Arfahcvh7mA=="
 ---

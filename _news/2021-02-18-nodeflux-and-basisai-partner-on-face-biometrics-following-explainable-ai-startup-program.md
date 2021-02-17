@@ -1,0 +1,45 @@
+---
+category: news
+title: "Nodeflux and BasisAI partner on face biometrics following explainable AI startup program"
+excerpt: "BasisAI has signed a long-term partnership with computer vision start-up Nodeflux to collaborate on explainable biometrics."
+publishedDateTime: 2021-02-17T19:08:00Z
+originalUrl: "https://www.biometricupdate.com/202102/nodeflux-and-basisai-partner-on-face-biometrics-following-explainable-ai-startup-program"
+webUrl: "https://www.biometricupdate.com/202102/nodeflux-and-basisai-partner-on-face-biometrics-following-explainable-ai-startup-program"
+type: article
+quality: 30
+heat: -1
+published: false
+
+provider:
+  name: Biometric Companies
+  domain: biometricupdate.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
+    width: 800
+    height: 390
+    isCached: true
+
+related:
+  - title: "BasisAI Helps APAC Tech Firms Adopt Responsible AI as an Open Loop Partner"
+    excerpt: "BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped APAC startups develop their"
+    publishedDateTime: 2021-02-16T03:51:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner/article_2ca15b9c-fe40-57a3-9364-c5151085d000.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e2/de2066a5-46bc-50b9-9dbe-cd4cc4880895/602cd6300b6c4.image.jpg?resize=1200%2C600"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "P2ARltMn2lnVZVq0zrow8DtYgIfW1aDfTAUArBqyp9TqNuPVvfdjAcMqlDWqQ6LmWBmW/zifJ3rJn62D2wn6cD6VWeCY3DlrKkYZJ68n+WTgYYZ1Fzo0GnjgDrtLl+ZIjtU3LyDXWvX0zwv8gZwndBnjy6bzO8CA56tl/X8ojMjC1pI6GUlSSjrnwadqsURW/3QZZVFRYbrmKa1nGdCV1gzPyx4evgilRBTZ2dRfG9nkOzQRzxm/kwgaw1SDHId6zQbZHSWyJLZtwUT4Jq/3Y22MO12kksC2TVvg2tYBjn/MVXtLyr6mNzWWPQr/Pb90didHeE1WqwMyKL76SEyfJ99she+JANevrYPAJcbrpm4=;42LvS9BHfkx1Yyba7yty+w=="
+---
+

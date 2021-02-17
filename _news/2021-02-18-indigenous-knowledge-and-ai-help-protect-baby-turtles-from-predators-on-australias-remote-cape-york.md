@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/apac/features/indigenous-knowledge-and-
 webUrl: "https://news.microsoft.com/apac/features/indigenous-knowledge-and-ai-help-protect-baby-turtles-from-predators-on-australias-remote-cape-york/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1600
     height: 896
     isCached: true
-
-related:
-  - title: "Special artificial intelligence is drafted in by scientists in a desperate attempt to save Australia's day coral reefs"
-    excerpt: "Australia's tropical marine research agency is set to use cloud computing and artificial intelligence to better understand and conserve threatened coral reefs."
-    publishedDateTime: 2021-02-13T04:04:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9256191/AI-attempt-save-Australias-dying-coral-reefs.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9256191/amp/AI-attempt-save-Australias-dying-coral-reefs.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9256191/amp/AI-attempt-save-Australias-dying-coral-reefs.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 33
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/02/13/04/39235492-0-image-a-48_1613189057362.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "c26T8UHfK4hxW32kKKcH9sORTZ0VOvOPti9VB4XRetCcxGws/spFqoAx6DCzgTu/4hELNwncsOcPtRkUpM05Jlz2HYZH0ngj/kO0V20GiY1+kI5RdIvCuscJc4kbDdiAMLXLD87K84WqcSOM/dTUQqzov1USMkmd+EI3rgFibbMMAn/yF/g48bnDOSRJ9hcjit2kRIIAVy1SpIY7wEaAbd+Ue5dQI99UVTgTlGIAytWcZnKzBfxxo1hqNnKY6MZeM8CYORFRByIRrSPlBhkXdyX5fiqrS+ru7hgQ5ZgaEdSrgmiC5VZQPfbr75yXIF/FajRRodNfloN79C9F/SboSWkPOw49A9PXzaUCWsAijhp1CC6hZgBBFOXY1MDgGWXIwSj+me8zHTOwN0It12Ik7Hu5AQgYFldWxZbkUp68kVf/cr4AGin0jwV3HEjdo3MCYUM8hKJISmnhY6OZtHyljwuZJqADBfZ/ANRmlmlTSzlF5gFF4OU/Vi/vcaaMRIrwxcqwXGMuuGJ5c6ledXo8Wg==;8EweA/KwoCMQHX66mX+RGg=="
 ---

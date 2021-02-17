@@ -3,19 +3,18 @@ category: news
 title: "31st MEU tests artificial intelligence sensing gear to help Marines, soldiers see invisible threats"
 excerpt: "Marines and soldiers at the squad level could soon have their own kind of “attention warning” system while on foot patrol ― much like modern car drivers have for lane changing on busy highways. A combination of systems being tested soon by Marines with the 31st Marine Expeditionary Unit out of Okinawa,"
 publishedDateTime: 2021-02-17T15:23:00Z
-originalUrl: "https://www.airforcetimes.com/news/your-marine-corps/2021/02/17/31st-meu-tests-artificial-intelligence-sensing-gear-to-help-marines-soldiers-see-invisible-threats/"
-webUrl: "https://www.airforcetimes.com/news/your-marine-corps/2021/02/17/31st-meu-tests-artificial-intelligence-sensing-gear-to-help-marines-soldiers-see-invisible-threats/"
+originalUrl: "https://www.armytimes.com/news/your-marine-corps/2021/02/17/31st-meu-tests-artificial-intelligence-sensing-gear-to-help-marines-soldiers-see-invisible-threats/"
+webUrl: "https://www.armytimes.com/news/your-marine-corps/2021/02/17/31st-meu-tests-artificial-intelligence-sensing-gear-to-help-marines-soldiers-see-invisible-threats/"
 type: article
-quality: 25
-heat: 25
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Air Force Times
-  domain: airforcetimes.com
+  name: Army Times
+  domain: armytimes.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "W1TI647E2YnjBQkaCMBZJ2ccdDk6KkFOyfxU6UCUQKrwSxwcun5uVsdndhfk9wjq4ni8BOVBS0wc5F5Xdxf0PhDBe0EK1JLWcnK9OiuPmZesbrSOSPxoN/UDe+RvW5d7DK/MpUrVFMJi7IF1L0EXBqkwYyBr2v+pI5i8mluKGQRxbP9MnNX+47KzPhLVgDMVhmUfOAAV6kTbdA+FDOKjljJT5h09RvbjdJqJzIz0aMX8Dibhtwvfd1GNfUfV2ttOXsZCHbYJQcNML2rxAlRfjN9zY7jk2lNyhTw0fYtRjcvZtrIN/qzhBLseQPkA6O9M8uioLWem9dh1QPsyilP3IOFCu3ru+1Cn+aGMJQwOgQE=;1OgbFhvoLrpL/H2r/QufKQ=="
+secured: "EkWA5FCJ77Ra/SoZVF8aNIM3bSbnfePrqFJVXHZ73btAVI3wuRPcJerOWtLm7rcCOE8fH2eTyiMtKbulagqwchoL/NPl/d20JkgN8KBDS0xLjDyQ+GZV7y2bvIKHmD+jTG8/z0EhI2MHAWIvq2wDlEf9pKqfC7leMJjYTYF141S/agilR5WZ77rEXMLUCAx/mWo10f6oNOm8iQ9CNh9Rb/bSm806S+SvQUQ1m2bhNZtc2TB+gaBSQ33PVKHrXlI1SPLV7BHG5H5jsk4kax58ftQiYem3qz2oMR+Wx/PEuH+r+aYhTDjLjT9fWP0Mnl32p+3O3hTXbGCK+BlnIAxnGDHVfZo4NYOrwWE61y3cDFs=;0u6J9JwpegfEudfevmo/yw=="
 ---
 

@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Research Report 2020: Global Industry Analysis, Business Development, Size, Share, Trends, Future Growth, Forecast To 2025"
+    excerpt: "Countries such as India and Moscow Introduce Facial Recognition for Superlative Law Enforcement Outcome Besides"
+    publishedDateTime: 2021-02-17T19:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-2020-global-industry-analysis-business-development-size-share-trends-future-growth-forecast-to-2025-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vcMhqwO0h5Dx/QxLBSFiP0AzqyRIzMIdC0pSx5zn3ztwEDCNQz1L+0Ngy5Ydt43Sc2g5S6S1FLPjCuJ7syFaYF3Ae9kK37b6dwtq3UGrVYU0RqNHd7BTKliyDVUui4QIvmGfis5p85FrbS/wANMEF8q8GBKDwDSUSxNFr0V1H7IRooAeTdwcgWzwwLNdlWJ8qjd/LeQCarPsDZqx88nBSVVxAHnFwZ8CkbeHM1jCu1VeocUMDJNG7zmMfW5Q69nhaFknei9Zkil/INC/NV3VrbrubUee7cRi7fljTJYDugJGth23P7Hu8TmTzoANZfFIxt5aZRRjXvUuPBiieVpIDghhlex9FsX4g7DttVOu7PhC1D8Tiv9imseY6UzdxfH2vJxs3ox7zH5IAInkkigommFCSUc6LJytvX6EvooxsD+AvoGUmlEyzHD0OQgUD13BYxhKmb6WHSxuQEIN1XgJqj+EjVZhDjT4EQHeidSVql3a/y92Cq+/ZouBmqZWMmCidhiMKK/VcjEJ+3HaaiPpmw==;HwRosB9PvAwzyenNkWgYoA=="
 ---

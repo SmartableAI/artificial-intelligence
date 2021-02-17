@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-17-study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions.md",
+      "title": "Study shows that federated learning can lead to reduced carbon emissions",
+      "excerpt": "A new study shows that federated learning might lesson the carbon impact of AI and machine learning model training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/16/study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions/",
+      "originalUrl": "https://venturebeat.com/2021/02/16/study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/12/co2-carbon-emissions-novelo-shutterstock-e1587673753658.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/16/study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions/amp/",
+      "publishedDateTime": "2021-02-16T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-researchers-used-ai-to-determine-which-overlooked-animals-could-host-a-new-coronavirus.md",
+      "title": "Researchers used AI to determine which overlooked animals could host a new coronavirus",
+      "excerpt": "A new machine learning study has identified many more potential host species for novel coronaviruses than were previously known.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-16T190707.573-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/amp/",
+      "publishedDateTime": "2021-02-16T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-twitter-accounts-with-ai-generated-cat-avatars-at-center-of-turkish-porn-bot-ring.md",
       "title": "Twitter Accounts With AI-Generated Cat Avatars at Center of Turkish Porn Bot Ring",
       "excerpt": "Someone is using generative adversarial networks to make networks of bots to advertise porn and sports betting.",
@@ -461,6 +564,48 @@
       ]
     },
     {
+      "path": "_news/2021-02-16-semeon-analytics-wins-major-artificial-intelligence-contract-with-us-military.md",
+      "title": "Semeon Analytics Wins Major Artificial Intelligence Contract with U.S. Military",
+      "excerpt": "Semeon Analytics, an ATW Tech Inc. company, is pleased to announce its most recent contract with a branch of the U.S. military to apply its technology to better understand how complex composite materials can fail and therefore facilitate the development of processes that safeguard components assembled with these new materials.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520",
+      "publishedDateTime": "2021-02-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-tickeron-releases-ai-trading-robots-with-trailing-stops.md",
       "title": "Tickeron Releases AI Trading Robots with Trailing Stops",
       "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, launched its new AI Robots tool for setting trailing stops for cryptos and stocks. \"AI Robots\" are automated trading rooms where AI makes trades based on several neural networks.",
@@ -719,7 +864,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -866,7 +1011,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/365453",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -971,7 +1116,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1098,152 +1243,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-drones-with-facial-recognition-are-primed-to-flybut-the-world-isnt-ready-yet.md",
-      "title": "Drones With Facial Recognition Are Primed To Fly—But The World Isn’t Ready Yet",
-      "excerpt": "The patents are there, the tech is ready, but is the world going to accept drones that can recognise someone’s face? An Israeli startup talks about its plans to launch what’s likely to be a controversial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
-      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a96de9e8b7a8599dfafb4%2F0x0.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
-      "publishedDateTime": "2021-02-15T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss.md",
-      "title": "Microsoft, HPE partner to deliver AI, edge computing on ISS",
-      "excerpt": "HPE’s Spaceborne Computer-2 will be connected to Azure via NASA and the HPE ground station. It is based on the HPE Edgeline Converged Edge system, designed for tough edge environments like space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/dd5ad1/article33843517.ece/ALTERNATES/LANDSCAPE_615/International-Space-Station",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/",
-      "publishedDateTime": "2021-02-15T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-ibm-openpages-with-watson-wins-best-ui-innovation-at-the-risk-market-technology-awards.md",
-      "title": "IBM OpenPages with Watson wins “Best UI Innovation” at the Risk Market Technology Awards",
-      "excerpt": "As we move into the new year, it’s clear that the turbulence that defined 2020 is not going away. Even after the COVID-19 pandemic subsides, its resultant economic and social uncertainty will linger. It remains imperative for large enterprises to modernize their governance, risk and compliance (GRC)",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/openpages-wins-best-ui-innovation/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/openpages-wins-best-ui-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/IBM-OpenPages-with-Watson-UI-award-Risk-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T06:00:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

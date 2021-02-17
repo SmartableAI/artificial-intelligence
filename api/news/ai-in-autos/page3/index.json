@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-29-baidu-gets-california-nod-for-testing-driverless-vehicles-on-sunnyvale-streets.md",
+      "title": "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets",
+      "excerpt": "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
+      "originalUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/Baidu.jpg?w=1024&h=640",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
+      "publishedDateTime": "2021-01-28T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-starship-raises-17-million-to-develop-driverless-delivery-robots.md",
       "title": "Starship Raises $17 Million To Develop Driverless Delivery Robots",
       "excerpt": "Starship has raised $17 million to keep working on autonomous deliveries, a post on Medium from the company says. The company has also added two new service campuses, UCLA and Bridgewater State ...",
@@ -1384,49 +1427,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-baidu-share-price-why-citi-and-jpmorgan-analysts-raised-their-price-targets-to-us290.md",
-      "title": "Baidu share price: Why Citi and JPMorgan analysts raised their price targets to US$290",
-      "excerpt": "Baidu share price: the latest. Chinese search engine company Baidu’s share price has burgeoned roughly 19% since announcing that it would be entering the electric vehicle (EV) s",
-      "sourceUrl": null,
-      "webUrl": "https://www.ig.com/en/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121",
-      "originalUrl": "https://www.ig.com/en/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a.c-dn.net/c/content/igcom/en_EN/ig-financial-markets/market-news-and-analysis/news/2021/01/21/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p/_jcr_content/ArticleImage.adaptive.620.high.png/1611210708314.png",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ig.com/en/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp",
-      "cdnAmpWebUrl": "https://www-ig-com.cdn.ampproject.org/c/s/www.ig.com/en/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp",
-      "publishedDateTime": "2021-01-20T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ig.com",
-        "domain": "ig.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

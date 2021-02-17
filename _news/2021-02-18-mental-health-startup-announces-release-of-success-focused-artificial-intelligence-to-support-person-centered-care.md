@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-17T17:44:00Z
 originalUrl: "https://www.wboc.com/story/43365238/mental-health-startup-announces-release-of-success-focused-artificial-intelligence-to-support-person-centered-care"
 webUrl: "https://www.wboc.com/story/43365238/mental-health-startup-announces-release-of-success-focused-artificial-intelligence-to-support-person-centered-care"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"

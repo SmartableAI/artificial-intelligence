@@ -47,7 +47,7 @@ related:
     provider:
       name: WBOC
       domain: wboc.com
-    quality: 15
+    quality: 17
     images:
       - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
         width: 400

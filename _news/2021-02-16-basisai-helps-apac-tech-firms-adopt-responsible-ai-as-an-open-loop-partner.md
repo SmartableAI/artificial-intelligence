@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Nodeflux and BasisAI partner on face biometrics following explainable AI startup program"
+    excerpt: "BasisAI has signed a long-term partnership with computer vision start-up Nodeflux to collaborate on explainable biometrics."
+    publishedDateTime: 2021-02-17T19:08:00Z
+    webUrl: "https://www.biometricupdate.com/202102/nodeflux-and-basisai-partner-on-face-biometrics-following-explainable-ai-startup-program"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
+        width: 800
+        height: 390
+        isCached: true
+
 secured: "tz1OH5+z2LbzF/04+L3cxHQOpYh7q4lCIc6c5keLCOEmUXucaD4O34w8Pb0fyx7OS+zTggSGM4q70u5ChgM0/QdNgDhcixT7vGJxKcVRUVq9+Os7dgJGzxXzvkwka1sMmwrdI7QNHUKe2d+sOEWW7lYbA6fUMiS45LOcQRqdi+ZGZKyQGXnKPM7Td1k4MmEkirDUZYYy/w7n9wxgZTu8JmhSCll9kh0hjemdI1RKd9q+YSfoZb7eO6FMa8/2MsLSWBByifD4VXtPWdnLx+KYbrkQEsg9DI4Vj8iksMAed4rnKXCuxkw10SIAMkypdlEVEl4PmpGHtjmJAUKhGkiJ6eccDRHhAN+QzO7YP4pJCBE2rTg290jGznZJIdcLOworX7G/jwkWeZBwnmygdy7VCGtkHqdp6dMTkTf+0bKSQOnbcwKaevaJAvP3/sG+wpvKHyAmCbwec9cd2hVySWVH6idhUQsohIbhjUEbI+nFDAvAEEuIMwYXn7NgsTL2lm840fp+oALfPC+rkigCbjeIcA==;ZOouuQRF+H+Dp8y7uczfdA=="
 ---
 

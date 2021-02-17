@@ -209,6 +209,20 @@ related:
         width: 750
         height: 445
         isCached: true
+  - title: "Biden Must Halt Face Recognition Technology to Advance Racial Equity"
+    excerpt: "Face recognition is a threat to not only our constitutional rights, but to people of color and other marginalized groups who are more likely to be misidentified — and bear the consequences"
+    publishedDateTime: 2021-02-17T19:02:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/biden-must-halt-face-recognition-technology-to-advance-racial-equity/"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 39
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Civil society to Biden administration: halt facial recognition technology"
     excerpt: "Access Now joined over 40 civil society organizations in a letter to the Biden administration calling for a federal moratorium on the use of facial recognition technology."
     publishedDateTime: 2021-02-17T18:12:00Z

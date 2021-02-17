@@ -44,14 +44,14 @@ related:
   - title: "Samsung develops high-bandwidth memory with integrated AI processing"
     excerpt: "Samsung Electronics said on Wednesday it has developed a high-bandwidth memory (HBM) integrated with artificial intelligence processing power. The new processing-in-memory (PIM) architecture adds AI engines into Samsung's HBM2 Aquabolt,"
     publishedDateTime: 2021-02-17T03:05:00Z
-    webUrl: "https://www.zdnet.com/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 69
+    quality: 67
   - title: "Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power"
     excerpt: "PIM’ will deliver over twice the system performance and reduce energy consumption"
     publishedDateTime: 2021-02-17T14:14:00Z
@@ -82,6 +82,34 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "Samsung Announces HBM Tech with Built-in AI Processing"
+    excerpt: "Samsung today announced what it’s calling the industry’s first high bandwidth memory (HBM) memory with built-in AI processing capability. The new device –"
+    publishedDateTime: 2021-02-17T19:55:00Z
+    webUrl: "https://www.hpcwire.com/2021/02/17/samsung-announces-hbm-tech-with-built-in-ai-processing/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Image_HBM-PIM-Main-e1613579775564.jpg"
+        width: 915
+        height: 559
+        isCached: true
+  - title: "Samsung Stuffs 1.2TFLOP AI Processor Into HBM2 to Boost Efficiency, Speed"
+    excerpt: "Samsung has developed a new type of processor-in-memory, built around HBM2. It's a new achievement for AI offloading and could boost performance by up to 2x while cutting power consumption 71 percent."
+    publishedDateTime: 2021-02-17T19:18:00Z
+    webUrl: "https://www.extremetech.com/computing/320051-samsung-stuffs-1-2tflop-ai-processor-into-hbm2-to-boost-efficiency-speed"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 38
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/02/Samsung-HBM-PIM-Feature.jpg"
+        width: 1344
+        height: 743
+        isCached: true
   - title: "Samsung's New HBM-PIM Memory Doubles Performance, Packs AI Brainpower For Data Centers"
     excerpt: "Samsung has developed the world's HBM solution with integrated AI processing power, capable of 1.2 TFLOPs of performance."
     publishedDateTime: 2021-02-17T14:54:00Z
@@ -106,6 +134,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "rB9n0qm8Mx3TzmT7MobyRL3qvD4hlrNe/ipJh3IuO98NGsAIC8VGMMAN/KCMm8EF+CeeP8NLePox2Yth5kiGPxSKN6MFTOyMcuiKwpkqRCyRND/rv0Y3GxkME62JBOs6iYZLv+MUqVTYdqU8tbdmuM2nqVc77YN+hi8SYgfNACY5xUVh1z/xX7JiCOKdV7M4qkv8C9gxCvtps9zviri/Cf9H6GxqOg3SiiTMZKOXLq8G5kwzXY/vdjS2HSP/tvD98NGv8R0b5w9/c8Y+jpz7L9amO0LgYXhPEFV/16VQ8s/ItsWKppmpiXQQIyR8AH1VtBEgy3LvawgZ+6RL36lAmNQcT4YMpxs0vl3XK5ufglo=;NsY1yyxo4fbKyiibI/7eRw=="
+secured: "A60+hy+pn8LXA/C+P/NgBT6QDy052GbksxOWBCLeH87/U1cOdphHYJ26My4Gmc+xrufbQWuWf/T8NGcMr/G/67737kk0hXVAZDnuq87bkvGS9eesB+Spx2DWaDeKTlUMw6VmO+K0rM97n6WfiSUB1CQdJ+vDkHJBtj5GECXrRAx8hUsMXNokH8bUA5TfNRAVGgzu0PsnTkXracfwL/LLriQZwqEzHhB+HMOMr4Dttk8RBgRjW8NDHaSbNYTw7x7M7yqsUY7WdSfR5/h6bpKTCtYjrbBfGCTn/zZQcv3tgfV3zN4MptgLfxIri5mkYUunuOos1WZzNjCZ/+pKCWaZV665m3IZhvkT5gbJwSml6WqM6TBqv27GRfiWlC/uK+6Umer7lFDghUVCfMzmXf85RVZ8Dfk4AEHwQRkf1A5rjpbod7b0ww6vg5qbnDE8WKJLWH0JissUGgaDi7MwDvzcqYCMGHx+34EV7uYBt1es/3nvTWWkkl6XCwu1Z/ufLFO2a7iFR0rQMQWEdzRpRu9O/Q==;3+KVob2DL9L0HqWo2TX7CQ=="
 ---
 

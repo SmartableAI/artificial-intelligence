@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/17/worlds-fastest-supercompute
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "World's fastest supercomputer and AI tapped to predict tsunami flooding"
+    excerpt: "Fujitsu's supercomputer Fugaku is powering AI capabilities that could help predict coastal flooding conditions. \"Ordinary PCs\" can run the Fugaku-trained AI model, according to the company."
+    publishedDateTime: 2021-02-17T20:28:00Z
+    webUrl: "https://www.techrepublic.com/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/17/be02f4dc-c95e-41ed-8dda-23573633fccf/resize/1200x/ef9e38a811d483a5cadd3e7096532b4b/petrovich9.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Supercomputer-developed AI predicts tsunami flooding in real-time on a PC"
     excerpt: "As a region that is subject to a high degree of seismic activity, tsunamis are a real and ever-present threat for the people of Japan. The teams tasked with managing and responding to these risks may soon have a powerful new tool at their disposal,"
     publishedDateTime: 2021-02-16T06:51:00Z

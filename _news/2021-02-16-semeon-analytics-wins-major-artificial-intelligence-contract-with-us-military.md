@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-M
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Business Insider
@@ -22,6 +22,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Marinus Analytics is the lone US company in the final round of the $5 million IBM Watson AI XPRIZE competition"
+    excerpt: "In 2019 alone, the company claims that Traffic Jam helped to identify an estimated 3,800 victims of sex trafficking."
+    publishedDateTime: 2021-02-17T20:27:00Z
+    webUrl: "https://nextpittsburgh.com/latest-news/marinus-analytics-is-the-lone-us-company-in-the-final-round-of-the-5-million-ibm-watson-ai-xprize-competition/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 34
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/02/17145743/Marinus-.jpg"
+        width: 750
+        height: 563
+        isCached: true
 
 secured: "8lQe4BLTsAqacxTvTFxxFC5Y0Zi5ldL+zBG03p8AqiN8fPiqFrWoKKRJaOdfpU8oLAs0P7N7FQza3P9R07h0pV6834O6O7BMfKYhx/bnLNL5txTAV6eLPLMw7jXUxOlKyQNBYXm/N2A1hYexqlu9vtevBDaGyYH8Bqroj+Tx850TL/x5Tze2slWu8sRhBSOZ7r4RHiLaOkYs2KMmuqmt0qDR/SkZaBwSMrl7nz1LEFe5u1uV7FZPtANpgPXEB3RZAMhhJEXDDY7gHWw1DY4t4L1aFy8FslHOwNM8xhOa+S7Asm8Syib1z5xKVYRC6pISo8n9uhJnHUHMpFSnbvgP/3FTzEiubFUpohBVK6BzXSM=;2aPAsEf3eov279qxUQyyGw=="
 ---

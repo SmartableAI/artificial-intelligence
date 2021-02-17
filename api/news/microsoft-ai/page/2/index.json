@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-03-observeai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai.md",
+      "title": "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI",
+      "excerpt": "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI",
+      "originalUrl": "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-ai-stock-why-c3-ai-shares-are-surging-today.md",
       "title": "AI Stock: Why C3 AI Shares Are Surging Today",
       "excerpt": "C3 AI (NYSE:AI) stock is on the rise Tuesday after announcing a partnership with Shell (NYSE:RDS), Baker Hughes (NY",
@@ -507,6 +541,40 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-cognitive-services-market-size-covid-19-impact-analysis-forecast-to-2026.md",
+      "title": "Cognitive Services Market Size | COVID-19 Impact Analysis | Forecast to 2026",
+      "excerpt": "Cognitive services leverage the benefits of technologies like machine learning, deep learning and NLP to analyze trends that enable businesses to develop applications that can understand image ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2232415/cognitive-services-market-size-covid-19-impact-analysis",
+      "originalUrl": "https://www.openpr.com/news/2232415/cognitive-services-market-size-covid-19-impact-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2232415/cognitive-services-market-size-covid-19-impact-analysis",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232415/cognitive-services-market-size-covid-19-impact-analysis",
+      "publishedDateTime": "2021-01-28T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1314,94 +1382,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-gm-cruise-partner-on-self-driving-cars.md",
-      "title": "Microsoft, GM, Cruise Partner on Self-Driving Cars",
-      "excerpt": "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/86988.html",
-      "originalUrl": "https://www.technewsworld.com/story/86988.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-cruise-msft-gm-1.jpg",
-          "width": 620,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-partners-with-gm-cruise-on-self-driving-vehicles.md",
-      "title": "Microsoft partners with GM, Cruise on self-driving vehicles",
-      "excerpt": "Cruise will use Azure, Microsoft's cloud computing platform, for its self-driving vehicles ... automaker's digitization initiatives, including artificial intelligence, and explore opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
-      "originalUrl": "https://www.autoblog.com/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/1864x1049+56+133/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/01/19095351/Cruise-Web-Press-Release.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
-      "publishedDateTime": "2021-01-19T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

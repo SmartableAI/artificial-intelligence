@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recog
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
 type: article
 quality: 59
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -194,6 +194,20 @@ related:
       - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1613574436/widgetdocs/Biometric_surveillance_jwbisi.jpg"
         width: 750
         height: 445
+        isCached: true
+  - title: "Biden Must Halt Face Recognition Technology to Advance Racial Equity"
+    excerpt: "Face recognition is a threat to not only our constitutional rights, but to people of color and other marginalized groups who are more likely to be misidentified — and bear the consequences"
+    publishedDateTime: 2021-02-17T19:02:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/biden-must-halt-face-recognition-technology-to-advance-racial-equity/"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 39
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Minneapolis passes restrictions on facial recognition use by local police"
     excerpt: "Minneapolis has passed legislation blocking the use of face biometrics by city police, the Star Tribune reports. The ordinance passed by Minneapolis City Council bars local police and other city agencies from acquiring facial recognition technology,"

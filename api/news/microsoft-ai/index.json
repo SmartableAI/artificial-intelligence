@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-17-lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascendio.md",
+      "title": "Lumiata Extends Data Preparation for Healthcare Customers on AWS and Azure in Partnership with Ascend.io",
+      "excerpt": "Lumiata has announced a new partnership with Ascend.io in order to provide customers with access to its proprietary data preparation process. This relationship will ensure that all Lumiata customers,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
+      "publishedDateTime": "2021-02-17T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row.md",
       "title": "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row",
       "excerpt": "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,",
@@ -1408,40 +1453,6 @@
       "provider": {
         "name": "CRN",
         "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-observeai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai.md",
-      "title": "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI",
-      "excerpt": "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI",
-      "originalUrl": "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

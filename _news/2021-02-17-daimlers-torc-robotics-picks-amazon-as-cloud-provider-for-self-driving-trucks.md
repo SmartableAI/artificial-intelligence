@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH0SY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0SY"
 type: article
 quality: 117
-heat: 127
+heat: 128
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
       domain: automotiveworld.com
     quality: 47
 
-secured: "bVEw21h8Ymk3acK/p9paFyq7OkVpBARYbSDArs7TQjEL5ji5iofSG9sey5c6OSmd3amheJdlzF9023DqbXtuJVHp/DS5SH99TpXtSSHo+o0WJKUfSWxiIx7wM8vG2N90eAxPhPutmKDlfQaISKaXRqt3IFnDORgMlOn++8yWxX9kteFuCOHnWZkU6nzb3UYYcyYZ6OjGdeZNjDpJIV7s8mIvYKwyZKoj/jOuq0sK+X/PUcsyl/r8cX5QXbYPIf3RLcSQmB1hYi+pNj77HEWmMeO8ERtDdo5Pb3tDJtgV2avsjO+m5UDNiGqlOpgRkR5Jkon45ExTG6UbmUrYjhrEv4GJM8Dudzm+52FZ3ffOX3Q=;cLSZL4Z22NAELNAxfPkjWw=="
+secured: "IMHdXrPm4ZZ/1vpTAQb+Q7gy9z0/7MvkBitOAqSi27Q5ua19CruhhYdD9MK3OB4IIPa9Q03c2xVMN2VuCCmyE8iB8MfG+5gkN/yU0KwNFvlN+3JssP1e6z3zB3k2BjopCLyZZ2jykPD0HekBh4xP3nhH+UDf4+zm8e98VoWnLbZebl82lzMeFFNDCVvAb/DG/tT74b9FH6cRQRKr060TMpoddk55KH0HExDTzGsfBbLRk+Z7TtcQcmFJLRXukQYxTs5LSlDeTS5HHnCWU4MKskYThmbGll9p/E7Nk4wxM7neAJg10cXn0WpAfPAYCc/8Wv2rbmnLSp9jGMnaqsyWLtPcNVhoABK5N1cVmb3PG0FJHK2LMGryujX0Rad1CmpbVOaKFbWlM0i66703wXUrRMyetX+bqo6+vYuiEBy+ePoZE7zlxrLdLTmeQd/kS1mQOVT/APL2iz16RWS6GS6RM8CBg7tTmmvDPGg0RcpAB+HfxOvTmf10VebI2TpPc1sd60P1BFHgAAm4WXZ1/ZOqGQ==;E9aDn9KUWTC+Yc1Y0DH57g=="
 ---
 
