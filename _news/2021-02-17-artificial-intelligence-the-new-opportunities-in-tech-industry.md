@@ -8,8 +8,8 @@ webUrl: "https://advicesacademy.com/tech/artificial-intelligence-new-opportuniti
 ampWebUrl: "https://advicesacademy.com/tech/artificial-intelligence-new-opportunities/"
 cdnAmpWebUrl: "https://advicesacademy-com.cdn.ampproject.org/c/s/advicesacademy.com/tech/artificial-intelligence-new-opportunities/"
 type: article
-quality: 59
-heat: 89
+quality: 61
+heat: 91
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://advicesacademy.com/wp-content/uploads/2021/02/SYPWAI.jpg"

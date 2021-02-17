@@ -7,7 +7,7 @@ originalUrl: "https://www.newhaven.edu/news/blog/2021/cores.php"
 webUrl: "https://www.newhaven.edu/news/blog/2021/cores.php"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Cybersecurity risks connected to AI in autonomous vehicles"
+    excerpt: "Autonomous vehicles are expected to reduce traffic accidents and fatalities, but may also pose a cybersecurity risk, according to ENISA."
+    publishedDateTime: 2021-02-17T04:31:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/17/cybersecurity-autonomous-vehicles/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2016/04/09112931/car-hacking.jpg"
+        width: 1200
+        height: 550
+        isCached: true
 
 secured: "qUHg+tpFm8Mx3X7uUELWwwY1Nv5FPmx6l6coppRdUNXanJ2udH5AjTa17X4E/v4ykXZhKu9Y7DR6NmYdLWXLDDnLkNrbdnFfdO7G0Ctt1x4L44dypwnSlKpnKGgcz4JaxAz5dqTeSnrZgA60x++8yBqLKImRrwjSI95OgGlh/+SR21i1fljebvOCFqBqIWArFHTJ+tNcajnFK+YDMtA1kP97gb4gSgrrewoIpg0huk3QJdd2MflBZFVWKB/90SoBnP4fP7dAfSHwmCTBCSGdNA6b0WAC4GJ11ApGgyKkGaOddqMZ+65+C+OPIqZhN4OrNGDy210I3XrCTiot5vi6dnabdr0AA6u1t2AEctIoYH0tM/BKkbuBZ/eFvrF7VxGEmrKw6DbL6h5YwYbrmUgI77dzFrEvsjGJjdn5HfWG5M05oNhXsQpTZzgnS8rXqsPO4N0AnlMagasy14UmUOzwUYnjrgbYXr1q9zQ4S4Pe0p26cCr0mzzIahqkTqq6OJnw2yOXaIYSUCDSXTsku0rrfg==;dOdlGLVl6Dfg6J+BRwZ+og=="
 ---

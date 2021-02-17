@@ -112,6 +112,17 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "Artificial intelligence (AI) robots Market Size, Share 2021, Impressive Industry Growth Report 2027"
+    excerpt: "Artificial intelligence AI robots market was valued at USD 2 84 Billion in 2017 and is expected to reach USD 12 36 Billion by 2027 at a CAGR of 28 High adoption of robots for personal use such as companionship"
+    publishedDateTime: 2021-02-17T10:23:00Z
+    webUrl: "https://www.openpr.com/news/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
   - title: "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
     excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems,"
     publishedDateTime: 2021-02-17T07:52:00Z
@@ -139,20 +150,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
-    excerpt: "The Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027 report has been added to ReportOcean.com offering. The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc."
-    publishedDateTime: 2021-02-12T17:31:00Z
-    webUrl: "https://menafn.com/1101588057/Global-Artificial-Intelligence-AI-in-Manufacturing-Market-Size-Share-Growth-Trends-Opportunity-and-Forecast-To-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/updates/pr/2021-02/11/G_d2718712-7image_story.png"
-        width: 2614
-        height: 2615
         isCached: true
 
 secured: "vW5he6MkYnEatZz2zznIWi4ceFWJPtD3jPmTgUj5N6aZ/FcLdmf1m7okORhunGahmxsNm6ZfDvZEX+bn4lEZQbScKjBOVqx6kOuMHD86FNFCu/lVrFofWPOEn9o8SRB7CwE48fYaL12oUxHAzsCEwIkVpUhu0lbmRwCwtDuI9ez8fmrulPt9ujM7nd3qpvRUaXEk40g96q9YWrIg7gbBLjKf+wg7TAIrmaFArp6GNnJS1QCSa+HtsdxjOiBIFucvRD072wqImUFMZHbV8X8t5rRkRV4SaEdAs+lY0+TSe4B5CRbgSUa267QyB8BR5tFsgBbEVLSZL3QPLT1OhedzIpcXLKLpiEARDE9zxiOi7f0=;qpkdJAeBfyTfzvoxYREwtQ=="

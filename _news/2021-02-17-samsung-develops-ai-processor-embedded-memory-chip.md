@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/samsung-develops-ai-processor-emb
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Samsung unveils first high-bandwidth memory with AI processing power"
+    excerpt: "Samsung Electronics has unveiled what it says is the industry's first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI) processing power, the HBM-PIM. The new processing-in-memory (PIM) architecture brings AI computing capabilities inside high-performance memory,"
+    publishedDateTime: 2021-02-17T10:18:00Z
+    webUrl: "https://www.telecompaper.com/news/samsung-unveils-first-high-bandwidth-system-with-ai-processing-power--1372763"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "Nlffyfj+LhJtq1kmscktoBQB3XnTDPy6U9/o5IRKIl5g7HgJjwyrjcvr/xV18cqmIfekCagv5hawm4nd+leJESfXJcJ++QKB+VOsxZ9IwxuixKacl3jlP356YcPUKzzx8MjMWLRghsIhaHe03LJeZatEXYl7rfnnE90Go83Rwsx0Lcg/N88lX3jF5Zn4R0hV73/sPY+Bp2D3Em9Mo8HXTlaPwdNat8NXFW3aQKVEFtz8hMfJc7ItJYALdA6mM8zsYxiEHTr9HKQCpswSQ+8AZFdNwgKjaH6FIAa5HEMWWcGROJMkEs4Uf8SK9Y+umqM5z6B/C3zDwyF2/OPBnOEEe/9TqSXsM1a+0bThv6fm/vXHddYToJXMyG976v3v2KIbCRSe/5Vw8TNm4xifo8kplYyB9U6j9lyq7noVPrSUXhAvprcS62V2vRuWSZxukKdHJsGYjqnZX41G2SpLGyLA//XJn86t9k3VNsBj3d2GLhJrLSu7kVPkVJmyFanRtHf+esSyAzNe3IkopICt9uXozQ==;ztI6FaYU+xC2fmN8YND6Rg=="
 ---

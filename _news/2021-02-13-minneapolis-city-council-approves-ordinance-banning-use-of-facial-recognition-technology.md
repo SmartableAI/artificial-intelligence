@@ -43,22 +43,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Minneapolis City Council approves ban on facial recognition technology"
-    excerpt: "The City of Minneapolis has banned the Minneapolis Police Department and other city departments from using facial recognition technology.  The City Council on Friday voted unanimously to approve an ordinance that prohibits the City of Minneapolis from buying facial recognition technology or using data from it."
-    publishedDateTime: 2021-02-12T18:47:00Z
-    webUrl: "https://bringmethenews.com/minnesota-news/minneapolis-city-council-approves-ban-on-facial-recognition-technology"
-    ampWebUrl: "https://bringmethenews.com/.amp/minnesota-news/minneapolis-city-council-approves-ban-on-facial-recognition-technology"
-    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-news/minneapolis-city-council-approves-ban-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Bring Me The News
-      domain: bringmethenews.com
-    quality: 59
-    images:
-      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc0MDA5NDE5MTQ5ODc4NTc5/44232996_00e19bbe34_k.jpg"
-        width: 620
-        height: 324
-        isCached: true
   - title: "Minneapolis City Council Bans Facial Recognition Technology"
     excerpt: "The city now joins Boston, San Francisco and other cities across the country that have either banned or limited the use of the technology."
     publishedDateTime: 2021-02-12T20:01:00Z
@@ -74,22 +58,6 @@ related:
       - url: "https://patch.com/img/cdn20/shutterstock/23638313/20210212/023534/styles/patch_image/public/shutterstock-731926345___12143415204.jpg?width=984"
         width: 984
         height: 738
-        isCached: true
-  - title: "Minneapolis poised to ban facial recognition for police use"
-    excerpt: "Committee voted 12-0 in favor of ban, advancing it to city council, months after actions of city’s police sparked racial reckoning in US"
-    publishedDateTime: 2021-02-12T18:34:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/minneapolis-police-facial-recognition-software"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/199d7f912263587d7beb198ff7c5dab0bc726f19/0_135_4645_2787/master/4645.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d7c38416f108916c5e4f131ce3875c59"
-        width: 600
-        height: 360
         isCached: true
   - title: "No Facial Recognition Technology Can Be Used In Minnesota"
     excerpt: "The city council of Minneapolis, the largest city in the state of Minnesota in the United States, passed without objection on February 12 to block"

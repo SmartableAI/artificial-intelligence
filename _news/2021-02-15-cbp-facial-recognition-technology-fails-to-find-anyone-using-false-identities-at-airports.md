@@ -100,22 +100,17 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "Minneapolis City Council votes to bar use of facial recognition technology"
-    excerpt: "On Friday, the Minneapolis City Council approved a new ordinance that prohibits the city from buying facial recognition technology or using data derived from it, with very narrow"
-    publishedDateTime: 2021-02-12T17:21:00Z
-    webUrl: "https://kstp.com/minnesota-news/minneapolis-city-council-votes-to-bar-use-of-facial-recognition-technology-with-narrow-exceptions/6010852/"
-    ampWebUrl: "https://amp.kstp.com/articles/minneapolis-city-council-votes-to-bar-use-of-facial-recognition-technology-with-narrow-exceptions-6010852.html"
-    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/minneapolis-city-council-votes-to-bar-use-of-facial-recognition-technology-with-narrow-exceptions-6010852.html"
+  - title: "Drones with facial recognition are closer to becoming a reality thanks to a patent from an Israeli company"
+    excerpt: "AnyVision, an Israeli firm that has worked with Mercadona, patents a system that brings the use of drones with facial recognition cameras closer to reality. The patented technology will help the drones find the best shooting angle for an effective facial recognition system."
+    publishedDateTime: 2021-02-17T10:39:00Z
+    webUrl: "https://www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285"
+    ampWebUrl: "https://www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285?amp"
     type: article
     provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 57
-    images:
-      - url: "https://kstp.com/kstpImages/repository/2021-02/minneapolis-sunny-alex-jokich.jpg"
-        width: 800
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Mass facial recognition is the apparatus of police states and must be regulated | View"
     excerpt: "Research shows that facial analysis algorithms consistently judge black faces to be angrier and more threatening than white faces."
     publishedDateTime: 2021-02-17T06:30:00Z
@@ -146,28 +141,6 @@ related:
         width: 1000
         height: 671
         isCached: true
-  - title: "Minneapolis City Council Bans Use Of Facial Recognition Technology"
-    excerpt: "Minneapolis City Council has approved a new ordinance which bans the city from buying or using data derived from facial recognition technology."
-    publishedDateTime: 2021-02-12T18:26:00Z
-    webUrl: "https://minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-bans-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-bans-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-bans-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
-  - title: "Minneapolis City Council Votes To Ban Facial Recognition Technology"
-    excerpt: "Minneapolis City Council has approved a new ordinance which bans the city from buying or using data derived from facial recognition technology."
-    publishedDateTime: 2021-02-12T18:23:00Z
-    webUrl: "https://minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-votes-to-ban-facial-recognition-technology/"
-    ampWebUrl: "https://minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-votes-to-ban-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/02/12/minneapolis-city-council-votes-to-ban-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
   - title: "Canada Rules Clearview’s AI Scraping is Unlawful"
     excerpt: "Technology company Clearview’s artificial intelligence (AI) scraping of billions of images of people from across the internet represented mass surveillance and was a clear violation of the privacy rights of Canadians,"
     publishedDateTime: 2021-02-16T12:37:00Z
@@ -207,20 +180,6 @@ related:
       name: IT Business Edge
       domain: itbusinessedge.com
     quality: 39
-  - title: "Clearview AI face biometrics patent filing suggests consumer application"
-    excerpt: "The patent application proposes the use of its biometric facial recognition for the identification of individuals in a variety of private and public sectors."
-    publishedDateTime: 2021-02-12T18:51:00Z
-    webUrl: "https://www.biometricupdate.com/202102/clearview-ai-face-biometrics-patent-filing-suggests-consumer-application"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Minneapolis passes restrictive ban on facial recognition use by police, others"
     excerpt: "The new ordinance follows months of lobbying by the POSTME (Public Oversight of Surveillance Technology and Military Equipment) coalition, which gathered thousands of signatures on petitions asking the City Council to address the issue."
     publishedDateTime: 2021-02-13T00:17:00Z

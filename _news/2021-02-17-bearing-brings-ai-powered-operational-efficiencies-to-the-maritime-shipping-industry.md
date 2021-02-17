@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
-excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable insights to shipping companies, leading to improved efficiency, safety and reduced greenhouse gas emissions."
-publishedDateTime: 2021-02-17T05:27:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-palo-alto-air-pollution-environment-6d1d30b9947f4a19b8204395a81effc1"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-palo-alto-air-pollution-environment-6d1d30b9947f4a19b8204395a81effc1"
+excerpt: "Highly accurate ship performance models built off real-world data Business Wire PALO ALTO, Cal"
+publishedDateTime: 2021-02-17T09:05:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry"
+webUrl: "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry"
 type: article
-quality: 30
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -50,6 +54,6 @@ related:
       domain: businesswire.com
     quality: 10
 
-secured: "SRfeDXEO+qLsV5q5bxq0jRNeyQF6fKhgysHZT5vXdOGccWcSBfDRbM7s1bC47rzV6+0p7n9kgj3d5GPT8hn7RJE6oPLFVCeqsh9+lFfYgqPTR/iwPr+6yvs+VqHpqIrgrHXWXlbupUbvLMGaJhRSJl6LIJM9x0vclO0RcjHkcDykKXIbM/OqJhsdU9Hi7sUH3b5pPjnrfQnLGh9UY4mvxHUu1kMrRug5aZwrVhLGab0bUDMqMBD0tw6dICOXwIbYDRnB0MsZzw/Ba9LKQfmX9YcB/whN2l+q8aZQ8tCvXCwc1gBuamHBw5Po06PTKBTuR0ooy3gmKQgrXaxGWcRpndX7ODDAbtmQZRDofkCDiG0=;AkR6KkTdYmTdF0TvfrdAIQ=="
+secured: "IGdQhF/fAQhon1pQoV/CBuUbyWtDpn88Gw5c2MgVZSkXQpErocUz/QqzJSQGenB/PFc9ChLfNehSDA0LgBSLpBJe0bkIHi5SSbfUHMiVpx45ZhNFKOxJtxOEvkbKWewKxIWP+ffUwM2vVfo47hx6g+ct8bKQ2h7EKPvNwRy5o/aX9+3IIbsXQnYhgZFJDBDa6XwfNOKCqX190A/yiKe9JoDgO+QZygienU2WviNHCWRGF0IhpKOJ2C7Ovba1twPSrZcM/StexBpCDsPcai6sSjsZGn6nocg02V8G1nzjHLE0nzngPrPL4joJHSoNKHkvyQ2sC3I15SofpydUielU/k15FIYos78+qURaXlYKbKE=;DOuT81QvrgK7crc0rbSmPg=="
 ---
 

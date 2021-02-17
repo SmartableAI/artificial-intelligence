@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/data-processing-opti
 webUrl: "https://aws.amazon.com/blogs/machine-learning/data-processing-options-for-ai-ml/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 800
     height: 401
     isCached: true
+
+related:
+  - title: "VVDN's Vision Business Unit expands its design and manufacturing capabilities on High End Camera Solutions with AI/ML"
+    excerpt: "VVDN Technologies is expanding its capabilities in design and manufacturing of High End Camera Solutions with advanced edge AI processing. VVDN's Vision Business Unit has invested in gaining expertise on several high-end intelligent camera platforms including AI processing functionality to deliver high-speed edge analytics with reduced power consumption."
+    publishedDateTime: 2021-02-17T10:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-s-vision-business-unit-expands-its-design-and-manufacturing-capabilities-on-high-end-camera-solutions-with-ai-ml-1030091010"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/vvdn-s-vision-business-unit-expands-its-design-and-manufacturing-capabilities-on-high-end-camera-solutions-with-ai-ml-1030091010"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vvdn-s-vision-business-unit-expands-its-design-and-manufacturing-capabilities-on-high-end-camera-solutions-with-ai-ml-1030091010"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
 
 secured: "DdSQz/qFNNub8y7L0pr3WCSgYCyctNbdn+YpUbVTSkCSv8kl4R9qCXOcCSMtR0CfjCWFLpjcicDRsyRwedZvDN3kvV+nGSS/ilzb/qm4CqEUyGHj323jsdLCpLZF8wC0luLG9JPMh3VUn8wX3fUDwXh4WgHW+xQembehYk/4U47LpqRACoRUWQ2qlv4x2iX6eNtKt3YnGT7nRV8VZn6ZOpf/v8BDrBNLgD5emGsxTPYdaPvQnA/adl8J/o/Ksk9FuosNFaTMKu15dKjvWBWJdpYuPzOBhrfOqc4tEjphxIRiw6INsdH+LjDHeXUA+q39dtdeECSDujB/IKQLvlzjW2yE6QYzVeTl5YcK3vT6vDU=;2rQULxAt9kJVrw4q7rNSrw=="
 ---

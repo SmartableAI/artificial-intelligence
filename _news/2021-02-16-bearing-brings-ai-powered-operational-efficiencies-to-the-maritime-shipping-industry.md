@@ -35,18 +35,18 @@ related:
         height: 448
         isCached: true
   - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
-    excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable insights to shipping companies, leading to improved efficiency, safety and reduced greenhouse gas emissions."
-    publishedDateTime: 2021-02-17T05:27:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-palo-alto-air-pollution-environment-6d1d30b9947f4a19b8204395a81effc1"
+    excerpt: "Highly accurate ship performance models built off real-world data Business Wire PALO ALTO, Cal"
+    publishedDateTime: 2021-02-17T09:05:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 60
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "u97djltxlQoYIIomkGhibbIEQCmW5b1eiDeqcK5u85cTy3pXrloPIfcsHh2W56nSIXGB0ZCRlG6qWamKf/w3/RLQITyq8vRysDdvQktehbLPKq/M9E2h5NZX0m8urmVuvgSTPobY1MHN7ID9thJCZ/7cex1+Ht8tnrtrgBqyubBYbRQA474LRTEiCUBupIQcA715/GCs98jR0RZk145KNEi6xd4sqE1ep9n1HcKU+bfV396Kjj6krL5K/S5/9TSx3nZ3vy6Z2K11E4DtjpLNCdO5uOFiSntoM6beuYpH19G++AaXE1Tt3YNmX7rY6qXrkjdylAtpr74WfkTV7XMFsfNPKd26Yq6wbwhRkJlfJ9c=;Mx1cmHiwWMF2Rq1+Z8BXxQ=="

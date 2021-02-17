@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-next-big-theme%3A-february-2021-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-next-big-theme%3A-february-2021-2021-02-15?amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Western Union to Present at the KBW Fintech Payments Conference on February 23rd"
+    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the KBW Fintech Payments Conference on Tu 23,"
+    publishedDateTime: 2021-02-17T09:13:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=423114"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 19
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "zJuYwmYJ4YYN/OutPAI8+0F6mzjG4NtMqr+KuWyDutlQS6pTvBXn0nZWxnWHqeZSZqIBkJ7nX3Rd5Vu1QUnoj3hsRtHmboLVdhhEy/wG1KSXmUCK809qulAaToHuJ3i/V9Z8UhPdu8dbkXM7x5WY9fQqQvFvWItX1PtvBr8Ym320L7kcjHq1kEPLzIjLWjZKRcFlLfeIQgvb6ssRiJPqAQWVtec7930FtdqeytR5r1YPrkvIhacUPcsC/wBiQddqLlU69y8KViAWIMeADdIO7tG2VdpZR5PUkIWFVAMJNm6ofW6zx0BVlQyTy2sezaPULisxA2fHrNRR1HSxw2aPqoJ4PaRWqm3R1ME57s6YG/bHFP0Xz2WjxAB6FMSlKy89yW9C/fsiyyOfzpZXCNnM0b5FaOLkk+qzlPpUH8qSgcZSIEuf/aIU2XQ2K8UqbD5QjGgTGz0kv9ZLmpmvlbQoZrEc5Uj/u8ZW4G0hue8dwiizXXNHIv9Y+SulSmj6QHoTLbKI6VX/d+yyrVfEur2tAw==;Pk6LI7nPk6F1THZmZvhWeQ=="
 ---

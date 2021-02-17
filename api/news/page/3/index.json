@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-15-uae-adopts-private-sector-facial-recognition-technology.md",
+      "title": "UAE adopts private sector facial recognition technology",
+      "excerpt": "UAE adopts private sector facial recognition technology Sheikh Mohammed Bin Rashid Al Maktoum will chair the cabinet meeting in Abu Dhabi",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/",
+      "originalUrl": "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/UAE-adopts-private-sector-facial-recognition-technology.jpeg",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/",
+      "publishedDateTime": "2021-02-14T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup.md",
+      "title": "Forethought's CEO Deon Nicholas On Growing An Enterprise Software Startup",
+      "excerpt": "Taking on the challenge of creating customer service chatbots that learn and continually improve the quality of responses instead of providing rote, canned remarks is ideal for AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60298820884f59ff7c920b5a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/amp/",
+      "publishedDateTime": "2021-02-14T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care.md",
       "title": "How Hardware, Data And Artificial Intelligence Are Changing Diabetes Care",
       "excerpt": "According to Søren Smed Østergaard, Vice President, Digital Health of Novo Nordisk, the most significant innovations in the diabetes space centered around hardware, artificial intelligence (AI) and data.",
@@ -679,7 +773,7 @@
       "originalUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -931,7 +1025,7 @@
       "originalUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1172,100 +1266,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-new-machine-learning-theory-raises-questions-about-nature-of-science.md",
-      "title": "New machine learning theory raises questions about nature of science",
-      "excerpt": "A novel computer algorithm, or set of rules, that accurately predicts the orbits of planets in the solar system could be adapted to better predict and control the behavior of the plasma that fuels fusion facilities designed to harvest on Earth the fusion energy that powers the sun and stars.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-02-machine-theory-nature-science.html",
-      "originalUrl": "https://phys.org/news/2021-02-machine-theory-nature-science.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-newmachinele.jpg",
-          "width": 468,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-02-machine-theory-nature-science.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-theory-nature-science.amp",
-      "publishedDateTime": "2021-02-12T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money.md",
-      "title": "What if Artificial Intelligence Decided How to Allocate Stimulus Money?",
-      "excerpt": "New Treasury Department software points the way. But research suggests that it’s impossible to show that an artificial “superintelligence” can be contained.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-02-12/what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-02-12/what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idPjnJhMfI0M/v1/1200x772.jpg",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

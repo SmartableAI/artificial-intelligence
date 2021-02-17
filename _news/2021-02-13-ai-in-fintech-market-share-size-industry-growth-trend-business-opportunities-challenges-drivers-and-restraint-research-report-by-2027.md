@@ -39,7 +39,7 @@ related:
     provider:
       name: advicesacademy.com
       domain: advicesacademy.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://advicesacademy.com/wp-content/uploads/2021/02/SYPWAI.jpg"
         width: 1080

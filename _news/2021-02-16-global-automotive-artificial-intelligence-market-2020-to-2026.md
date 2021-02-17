@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Size, Share 2021 Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
+    excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
+    publishedDateTime: 2021-02-17T10:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-2021-trends-growth-drivers-demands-business-opportunities-and-demand-forecast-to-2025-2021-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Drug Discovery Market Size, Growth Drivers, Trends and Forecast to 2027"
     excerpt: "Request a Sample of this report @  The global Artificial Intelligence In Drug Discovery market is expected to reach at a remarkable value and to grow at a considerable CAGR over the forecast period i."
     publishedDateTime: 2021-02-15T20:12:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "DoiT International Acquires ProdOps, a Cloud Services Company"
-excerpt: "In the most recent acquisition for the company, DoiT International (DoiT), a global multi-cloud software and managed service provider with"
+excerpt: "In the most recent acquisition for the company, (DoiT), a global multi-cloud software and managed service provider with deep expertise"
 publishedDateTime: 2021-02-16T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/doit-international-acquires-prodops-a-cloud-services-company-301228406.html"
-webUrl: "https://www.prnewswire.com/news-releases/doit-international-acquires-prodops-a-cloud-services-company-301228406.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/doit-international-acquires-prodops-a-cloud-services-company/article_0c14e996-33ae-56a8-a1b5-a1b5c233ddee.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/doit-international-acquires-prodops-a-cloud-services-company/article_0c14e996-33ae-56a8-a1b5-a1b5c233ddee.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 315
         isCached: true
 
-secured: "H0bQuY6WQU+/mIERaLZjvxiSHV9zB05sAdugjrZktb/XcCZSqJZv5QHr7cx9ciIAXXfcJ1cRCoLNpBj+g0OJICUu0qQ6E6+o/aCwuXVXWVX9MqDXOlZ/34T+vAjxjIH1Uyvpx8urdEXiLTNcNKRZj2p7JYtqH9LG0sgnDnN3Pii0HCDBLYMF2tkNzhhiDF7cc1q9yWB8WJ40JW0FQmejOumBt9kb1RpRYEZnP+PS6KOgTk/d831SaZg+xBzPK/fe+vQwLiH6Y5zZjMpKv2vJbMnfxVvCEdBuXAZy+W6HC/aNdu/G4cApWXNuDM2TprMqzHbLrjnXDz7UexShftd4uZBj4tUN26Ae5cmgkWxRrqo=;8bCU4OLyq0ppk29qVyCZbg=="
+secured: "dHT8xAlhiPtvF6oRgRJ82AXRq82OPy1Jma8IgdoDge+cOv17EaYGgOzaol7OFr0tg7tlUrPZfGwaFaVw6ypNbwQWiLpLJ02+GQMGRlhoZ4NEUYAN4dkgxcqzGeInHaioJi9UbRpHYTKRjDXu10lvUmE2maXrFbsNCnxb8POjDlmfrQodZk/tYLItLebr5X0OT1niY3kFV68kCFPxOSfYmnq3ko6D3p/E2Fn0Rp8jSu4JU5IIAgaaLbG2dEb/BbkrTbJwGnEMUnOadM3PUG+X4HG6ba9enfGPbuDS6TUdC9e31NnmqVVAw/cOL/KRKI6/5pmml1F/DlrQwFdXjuyi4IMKFFg7XIoiBmS97S4Tk6g=;bKbnD0K6rNYOJvGtaQrtiw=="
 ---
 
