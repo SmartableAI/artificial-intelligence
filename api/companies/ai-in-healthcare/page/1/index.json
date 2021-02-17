@@ -23,7 +23,7 @@
       "twitter": {
         "username": "adahealth",
         "url": "https://twitter.com/adahealth",
-        "followers": 6264
+        "followers": 6274
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -81,7 +81,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 5896
+        "followers": 5899
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -201,7 +201,7 @@
       "twitter": {
         "username": "babylonhealth",
         "url": "https://twitter.com/babylonhealth",
-        "followers": 12535
+        "followers": 12534
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -248,7 +248,7 @@
       "twitter": {
         "username": "freenome",
         "url": "https://www.twitter.com/freenome",
-        "followers": 2698
+        "followers": 2699
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -307,7 +307,7 @@
       "twitter": {
         "username": "benevolent_ai",
         "url": "https://twitter.com/benevolent_ai",
-        "followers": 6605
+        "followers": 6606
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -362,7 +362,7 @@
       "twitter": {
         "username": "flatironhealth",
         "url": "https://twitter.com/flatironhealth",
-        "followers": 10236
+        "followers": 10237
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -479,7 +479,7 @@
       "twitter": {
         "username": "sophiagenetics",
         "url": "https://twitter.com/sophiagenetics",
-        "followers": 21584
+        "followers": 21585
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -728,7 +728,7 @@
       "twitter": {
         "username": "healx",
         "url": "https://twitter.com/healx",
-        "followers": 2177
+        "followers": 2179
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -824,44 +824,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/metabiota.md",
-      "title": "Metabiota",
-      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/metabiota/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/metabiota/",
-      "type": "profile",
-      "name": "Metabiota",
-      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "website": "https://www.metabiota.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/metabiota"
-      },
-      "twitter": {
-        "username": "metabiota",
-        "url": "https://twitter.com/metabiota",
-        "followers": 1349
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1233442221384355840/VenlZMBb_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Metabiota",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1031,7 +993,7 @@
       "twitter": {
         "username": "aidocmed",
         "url": "https://twitter.com/aidocmed",
-        "followers": 1895
+        "followers": 1897
       },
       "size": "11-50 employees",
       "yearFounded": 2008,
@@ -1086,7 +1048,7 @@
       "twitter": {
         "username": "airaio",
         "url": "https://twitter.com/airaio",
-        "followers": 4169
+        "followers": 4170
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -1551,6 +1513,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/metabiota.md",
+      "title": "Metabiota",
+      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/metabiota/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/metabiota/",
+      "type": "profile",
+      "name": "Metabiota",
+      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
+      "website": "https://www.metabiota.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/metabiota"
+      },
+      "twitter": {
+        "username": "metabiota",
+        "url": "https://twitter.com/metabiota",
+        "followers": 1349
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1233442221384355840/VenlZMBb_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Metabiota",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/notable.md",
       "title": "Notable",
       "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
@@ -1689,7 +1689,7 @@
       "twitter": {
         "username": "viz_ai",
         "url": "https://twitter.com/viz_ai",
-        "followers": 1539
+        "followers": 1540
       },
       "size": "51-200 employees",
       "yearFounded": 2016,

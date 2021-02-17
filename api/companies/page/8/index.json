@@ -4,6 +4,97 @@
   "page": 8,
   "value": [
     {
+      "path": "_companies/klaritylaw.md",
+      "title": "Klarity",
+      "excerpt": "Klarity uses Artificial Intelligence to review sales contracts under your company legal policy. Klarity pulls contracts from your emails and databases and returns them reviewed in a Word format with annotations and redlines along with a summary. Your company experiences accelerated sales and higher compliance without having to think of contract review anymore.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/klaritylaw/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/klaritylaw/",
+      "type": "profile",
+      "name": "Klarity",
+      "overview": "Klarity uses Artificial Intelligence to review sales contracts under your company legal policy. Klarity pulls contracts from your emails and databases and returns them reviewed in a Word format with annotations and redlines along with a summary. Your company experiences accelerated sales and higher compliance without having to think of contract review anymore.",
+      "website": "http://klaritylaw.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/klaritylaw/",
+        "followers": 449
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/klarity"
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1024571747549491200/ZM97GgD1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Klarity",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kodiak.ai.md",
+      "title": "Kodiak Robotics",
+      "excerpt": "Kodiak Robotics is an autonomous technology company redefining the long-haul trucking industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kodiak.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kodiak.ai/",
+      "type": "profile",
+      "name": "Kodiak Robotics",
+      "overview": "Kodiak Robotics is an autonomous technology company redefining the long-haul trucking industry.",
+      "website": "http://www.kodiak.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kodiakrobotics/",
+        "followers": 2386
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kodiak-robotics-inc"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=kqCfdWMo13M"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHxiRCeA68X4Q/company-logo_200_200/0?e=1594857600&v=beta&t=N0l6Sg5BK9RwrHg3zOe-RkHTvwKYOhcBy1INhqclYTE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/kreditech.md",
       "title": "Kreditech",
       "excerpt": "Kreditech Group’s mission is building better access to credit through technology. Combining non-traditional data sources and machine learning,  the Company is aiming to provide access to better credit and a higher convenience for digital banking services. The product offerings include consumer loans, a digital wallet and a personal finance manager designed to help customers manage their credit score and plan their spending.  Kreditech also offers a “credit as a service” model, allowing partners to integrate its credit products as payment method or funding source.  Founded in 2012 and headquartered in Hamburg, Germany, Kreditech has processed four million loan applications through its subsidiaries. The company is led by David Chan (CEO) and is financially backed by world-class investors including J.C. Flowers, Peter Thiel, and the Worldbank’s IFC.",
@@ -593,7 +684,7 @@
       "twitter": {
         "username": "NarrativaAI",
         "url": "https://twitter.com/NarrativaAI",
-        "followers": 688
+        "followers": 689
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
@@ -648,7 +739,7 @@
       "twitter": {
         "username": "netguardians",
         "url": "https://twitter.com/netguardians",
-        "followers": 1505
+        "followers": 1504
       },
       "size": "51-200 employees",
       "yearFounded": 2007,
@@ -805,7 +896,7 @@
       "twitter": {
         "username": "ppl_ai",
         "url": "https://twitter.com/ppl_ai",
-        "followers": 1489
+        "followers": 1490
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1453,104 +1544,6 @@
           "width": 400,
           "height": 400,
           "title": "Sighthound",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sightmachine.md",
-      "title": "Sight Machine",
-      "excerpt": "Sight Machine is the category leader for manufacturing analytics and used by Global 500 companies to make better, faster decisions about their operations. Sight Machine's analytics platform, purpose-built for discrete and process manufacturing, uses artificial intelligence, machine learning, and advanced analytics to help address critical challenges in quality and productivity throughout the enterprise.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sightmachine/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/sightmachine/",
-      "type": "profile",
-      "name": "Sight Machine",
-      "overview": "Sight Machine is the category leader for manufacturing analytics and used by Global 500 companies to make better, faster decisions about their operations. Sight Machine's analytics platform, purpose-built for discrete and process manufacturing, uses artificial intelligence, machine learning, and advanced analytics to help address critical challenges in quality and productivity throughout the enterprise.",
-      "website": "https://sightmachine.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sight-machine/",
-        "followers": 2817
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sight-machine"
-      },
-      "twitter": {
-        "username": "sightmachine",
-        "url": "https://twitter.com/sightmachine",
-        "followers": 1178
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1032033528324603904/ejV1uR7X_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Sight Machine",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/signal-ai.md",
-      "title": "Signal AI",
-      "excerpt": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/signal-ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/signal-ai/",
-      "type": "profile",
-      "name": "Signal AI",
-      "overview": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
-      "website": "http://www.signal-ai.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/signal-artificial-intelligence/",
-        "followers": 6492
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/signal-media-ltd"
-      },
-      "twitter": {
-        "username": "SignalHQ",
-        "url": "https://twitter.com/SignalHQ",
-        "followers": 2520
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "London, UK",
-        "London, England"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=QWC7T-G_reQ"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1323194996439289858/MwYjkvP-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Signal AI",
           "isCached": true
         }
       ],

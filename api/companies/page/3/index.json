@@ -23,7 +23,7 @@
       "twitter": {
         "username": "moveworks",
         "url": "https://twitter.com/moveworks",
-        "followers": 2895
+        "followers": 2899
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -134,7 +134,7 @@
       "twitter": {
         "username": "PonyAI_tech",
         "url": "https://twitter.com/PonyAI_tech",
-        "followers": 926
+        "followers": 929
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -232,6 +232,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/tanium.md",
+      "title": "Tanium",
+      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
+      "type": "profile",
+      "name": "Tanium",
+      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "website": "https://www.tanium.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tanium"
+      },
+      "twitter": {
+        "username": "Tanium",
+        "url": "https://twitter.com/Tanium",
+        "followers": 6268
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tanium",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/upstart.md",
       "title": "Upstart",
       "excerpt": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
@@ -251,7 +289,7 @@
       "twitter": {
         "username": "Upstart",
         "url": "https://twitter.com/Upstart",
-        "followers": 9171
+        "followers": 9174
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -748,7 +786,7 @@
       "twitter": {
         "username": "Algorithmia",
         "url": "https://twitter.com/Algorithmia",
-        "followers": 6383
+        "followers": 6384
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -966,7 +1004,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 8287
+        "followers": 8288
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -1064,7 +1102,7 @@
       "twitter": {
         "username": "sophiagenetics",
         "url": "https://twitter.com/sophiagenetics",
-        "followers": 21584
+        "followers": 21585
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -1251,38 +1289,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/tubularlabs.md",
-      "title": "Tubular Labs",
-      "excerpt": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tubularlabs/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tubularlabs/",
+      "path": "_companies/vectra.ai.md",
+      "title": "Vectra",
+      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
       "type": "profile",
-      "name": "Tubular Labs",
-      "overview": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
-      "website": "https://www.reflektion.com/",
+      "name": "Vectra",
+      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "website": "https://vectra.ai",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tubular-labs"
+        "url": "https://www.crunchbase.com/organization/vectra-networks"
       },
       "twitter": {
-        "username": "TubularLabs",
-        "url": "https://twitter.com/TubularLabs",
-        "followers": 3877
+        "username": "Vectra_AI",
+        "url": "https://twitter.com/Vectra_AI",
+        "followers": 2525
       },
       "yearFounded": 0,
       "locations": [
-        "Mountain View, CA"
+        "San Jose, CA"
       ],
       "topics": [
         "AI",
-        "AI in Marketing"
+        "AI in Security"
       ],
       "heat": 72,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Tubular Labs",
+          "title": "Vectra",
           "isCached": true
         }
       ],
@@ -1741,7 +1779,7 @@
       "twitter": {
         "username": "AEyeInc",
         "url": "https://twitter.com/AEyeInc",
-        "followers": 949
+        "followers": 953
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -1846,7 +1884,7 @@
       "twitter": {
         "username": "dataminr",
         "url": "https://twitter.com/dataminr",
-        "followers": 14909
+        "followers": 14908
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -1975,7 +2013,7 @@
       "twitter": {
         "username": "feedzai",
         "url": "https://twitter.com/feedzai",
-        "followers": 2673
+        "followers": 2672
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -1999,65 +2037,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHiwjKZmD2YAA/company-logo_200_200/0?e=1594857600&v=beta&t=jHfH7EYkWdt4W-WkVPZINLzdX18h0pgH8aAEmxaXzL8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/healx.io.md",
-      "title": "Healx",
-      "excerpt": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/healx.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/healx.io/",
-      "type": "profile",
-      "name": "Healx",
-      "overview": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
-      "website": "https://healx.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/healx/",
-        "followers": 2126
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/healx"
-      },
-      "twitter": {
-        "username": "healx",
-        "url": "https://twitter.com/healx",
-        "followers": 2177
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Cambridge, UK",
-        "Cambridge, Cambridgeshire"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=6ZsujFTH3-A"
-        }
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1184097198574841857/shcf1yyH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Healx",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFaOvuN38Y6gA/company-logo_200_200/0?e=1594857600&v=beta&t=AnycYfO1V3P33O-PE6iw22z9FgAd2DvOwp8acd6UElE",
           "width": 400,
           "height": 400,
           "title": "logo",
