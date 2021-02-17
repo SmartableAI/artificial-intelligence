@@ -108,20 +108,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Artificial Intelligence (AI) In Healthcare Market Size is to Expected to Reach US $ 99.491 Billion at a 48.7% CAGR by Forecast Period 2021 to 2027"
-    excerpt: "Allied Analytics –:Advancements in AI systems for enhanced AI capabilities, dearth of skilled workforce, and increase in applications of innovative screening methods drive the growth of the market. However,"
-    publishedDateTime: 2021-02-12T09:02:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-02-12/artificial-intelligence-ai-in-healthcare-market-size-is-to-expected-to-reach-us-99491-billion-a"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 31
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "uzeDsjGyXvMWPAocF4D9vQqFMK5FQU16aterIdAGVdrDE+QaPpnstacWP47bpprB4HG7MMv35tU9OTaHE34df0IqYUwQWc/q1dCnvhWM0A6KGjZPaaiBxsK/d/hsXd4kPTuglVYIz6ijW883ZYn/ZpyNHgSf0IsuT9SADYqMY2Zk6kOcFerchiqa2hrkrnTNnvO3oEN06vW3zQpT8vNm8wklU4cBu+lXn1PpI8xhW+Mrr7LGw8rxpqbq56FO+dHDqDn+3L3eTF6odL1BFYdwfY+5H0bz7hNKEQlWYwqipA7LAJVnRMvv7LEVCBOOYtZg3DExmSi6SUS4WOfaCvgIGWI6mhpFfhq3CcYezG4JIRo=;LMf99QtasE9PITqAe9SBAQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-coul
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/"
 type: article
 quality: 82
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
+    excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable insights to shipping companies, leading to improved efficiency, safety and reduced greenhouse gas emissions."
+    publishedDateTime: 2021-02-16T22:22:00Z
+    webUrl: "https://www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/amp/"
+    type: article
+    provider:
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 30
   - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
     excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable ins"
     publishedDateTime: 2021-02-16T14:34:00Z

@@ -39,6 +39,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "RSIP Vision Announces Sophisticated AI-Based Tool for Coronary Artery Analysis and Intervention Planning"
+    excerpt: "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery segmentation tool. The fully automated,"
+    publishedDateTime: 2021-02-17T00:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210216005500/en/RSIP-Vision-Announces-Sophisticated-AI-Based-Tool-for-Coronary-Artery-Analysis-and-Intervention-Planning"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
 
 secured: "ISzbzAWQXzgAClN+/APXxbicvRQWSbQblQujgstwXKrHolhB48TS350pd8dzsPjOdUT1gUIF3F1pIfhAnxOFq+xTr4DV6qCbWm+AzWD2XYfXHY3QeAMaG0LSGMdeEmRu5nXNMH4QI0LGBryCRiRQxG58u1FqVeDe2jNxq1+bCKKUDtMxlfGK5Hce/JQxB8H81Vd/DlxQINDh/4HpByvx1oKRByrURtYvgeasrTQ4FZP/UPfbE4JuSDnCxIWRQDSYs5s/UfUidlR6KzsFjFdSNtQX3kpsVU+CD34RLVfEYoTxjNEM9kuMssokvlkyn6KsMd/fIvubVSNxv+YrjdTvZ+88vPk5MLHSZx0W/YpT+/c=;wdD6/VUOyfWyMsfxLw/dSQ=="
 ---

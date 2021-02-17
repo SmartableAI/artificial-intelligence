@@ -7,7 +7,7 @@ originalUrl: "https://www.executivegov.com/2021/02/government-healthcare-practit
 webUrl: "https://www.executivegov.com/2021/02/government-healthcare-practitioners-use-ai-to-support-cancer-covid-19-treatment/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,23 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 has made Americans lonelier than ever - here's how AI can help"
-    excerpt: "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing back to you? The pandemic has contributed to chronic loneliness."
-    publishedDateTime: 2021-02-12T08:01:00Z
-    webUrl: "https://www.chron.com/news/article/COVID-19-has-made-Americans-lonelier-than-ever-15945431.php"
-    ampWebUrl: "https://www.chron.com/news/amp/COVID-19-has-made-Americans-lonelier-than-ever-15945431.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/COVID-19-has-made-Americans-lonelier-than-ever-15945431.php"
+  - title: "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care"
+    excerpt: "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of"
+    publishedDateTime: 2021-02-15T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 29
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "kNafuj11POI3V4hDN1VFp+NvjtXnVBqubt4pBDyT6j7u8pzOkkSwmnhnL4TnMcYmlly5WLnjhwcRkcN0ILgLAfLFf7EOKPs9HRrBEvojeCJf0mIcDmUz+4f68JD22w6pQiu51xoKn8AB1d/pIlbrRBNT8bUB7bch/LCtH5AcjoMW4WRt97yqTDbrpxozw7YDKiL/+cAOqoHJpK4pt3VhuSm4hOBTYIWeTHzHxtnS+7c+hAFicDbac73rEz2W2yCDF3QzvtoqhrCidW3tpneWZvLM5OZZerwF6td9kgWdYGXLeC9p8sUrEp+jYC77I7ZBc41NljR6VmfVhVyAiS6lPXo5soUCz46Uc4ROx4N3m8M=;om/IlaNpdmS/vcaTuneKmw=="
+secured: "MwMKq+2RhpIvB0lWjAKzC95vWq1GRbW9ySihvcR7CEGrWdm0e9ZHUxmAiCjw/DU+CjTRt/lhjf4iEjc461qjzuVSpjQVbZWv598qef6plUxQi+kqN2+DLI7thcXyY5MgBVcEsw8ddar7rVzjjDww2IuhLKS66RI5zqJrWNrKXKlp/syqCP7N245TFrgbWdiSpllAHy7mzNUGExq0CQr3Erd0WQpvbd06izb2ucCkF7/zhPXEYyfa933AwKGal5AV+RhexT8BN2r4F2y8IFPvCwaz+QEIMm98etX/B7Xcyk2GG9KydEgVWv5SH5kbGkWL6fuQz51KxINP0PMmqhSnYTXohvXkswQTuLd6Hpc/IdwSxhuRe2g+iqEW1jnSrsIXWE02DYxJdqJWsFpl8FatGaaNGh978KUOt4WENIOaY9E7A3cc96iG7B2YeBgQ7PjaJaUmjB6XRwNbmwbzHfa2AP2mIlibSr1xwuH+gsmHzw1YnkhAL9DS9LPIN1iOJy/skWEQRodhoLb6fEYUBC0rOw==;jxZGKM1Ixoo3iCyXrtC9CA=="
 ---
 

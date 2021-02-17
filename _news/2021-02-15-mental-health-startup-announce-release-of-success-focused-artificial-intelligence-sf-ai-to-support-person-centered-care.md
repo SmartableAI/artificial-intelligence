@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/menta
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Government Healthcare Practitioners Use AI to Support Cancer, COVID-19 Treatment"
+    excerpt: "Haley Veterans’ Hospital, said artificial intelligence can support, but not replace, healthcare providers. He has been working on AI platforms designed to help healthcare practitioners detect lung, colon and colon cancer symptoms,"
+    publishedDateTime: 2021-02-16T21:45:00Z
+    webUrl: "https://www.executivegov.com/2021/02/government-healthcare-practitioners-use-ai-to-support-cancer-covid-19-treatment/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 49
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/02/16/17/4e/0d/a2/61/24/e0/e4/healthcare_automation_system_20210209.png"
+        width: 272
+        height: 270
+        isCached: true
 
 secured: "rus/ZaXCPJKRGEHjQ6ua8mZ6/8wg3vCrJWxV2EUXuAvrgDaDs6Uk0qjSGfKZh/R3RrchphMLMshJFTBk61ldMrPc8n+r320wYl/9FSi+ZpmJ89oxTZCPdD+JD2ivlFJNYz68PuZinE+EWvkoIy8t21C6CH9s1C+R/BvN/QvlCpC73pt2jTVcyPxfCB0C/QhKgawN6sA7XS0Q02f8cj5KiGufWhfsA96uyunUBDjqUmDDkQ3DsB1Puea3mGlfDVGiB7AY6KU1nTFpwwyT54G1JDK9OLXWMmGeWqH7m0zsrKBr6g1LQLn5EQHOvlkY9rSTsTyxniIhxVCKuJS9KTFH78C9T1NG0DACfZU/zAZLXx4=;uTzzx/gUDa/R8GHUst6s9w=="
 ---

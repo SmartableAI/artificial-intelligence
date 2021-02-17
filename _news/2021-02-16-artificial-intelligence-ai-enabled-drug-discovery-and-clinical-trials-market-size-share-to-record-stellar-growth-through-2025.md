@@ -98,20 +98,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Artificial Intelligence (AI) In Healthcare Market Size is to Expected to Reach US $ 99.491 Billion at a 48.7% CAGR by Forecast Period 2021 to 2027"
-    excerpt: "Allied Analytics –:Advancements in AI systems for enhanced AI capabilities, dearth of skilled workforce, and increase in applications of innovative screening methods drive the growth of the market. However,"
-    publishedDateTime: 2021-02-12T09:02:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-02-12/artificial-intelligence-ai-in-healthcare-market-size-is-to-expected-to-reach-us-99491-billion-a"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 31
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027"
     excerpt: "The Global Artificial Intelligence (AI) in Manufacturing Market Size, Share, Growth, Trends, Opportunity, and Forecast To 2027 report has been added to ReportOcean.com offering. The global AI in manufacturing market is expected to grow at a CAGR of around 57% over the forecast period 2020-2027 with major contribution from Alphabet Inc."
     publishedDateTime: 2021-02-12T17:31:00Z

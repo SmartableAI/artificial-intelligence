@@ -3,8 +3,8 @@ category: news
 title: "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models"
 excerpt: "The answer to the question of how to make the best of AI hardware may not be solely, or even primarily, related to hardware"
 publishedDateTime: 2021-02-03T21:55:00Z
-originalUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
-webUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
+originalUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/?via=indexdotco"
+webUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/?via=indexdotco"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 341
     isCached: true
 
-secured: "etqbADtybV7MHG615pZz+8/EQXZQ+oxdboHgMHKGfpUaDqInHNiUc6OI+X4/O4tNwyLK12zpdhTcNzTm3gAe0psB1QKuTOVt4NRsb7Ub+7BkjtncOcSLgUmZAkYsFQUn/3s43av6ewjWrVQynP8R3Jn6t9Si2ua4zh9a80+eSjRE87b3TwMj3myk7npfbj1SuwQfBfibqR1o7DYXS0fDBIdmg06O9kbC4pRVB/TJfLMM6LxwkVn912JFNU613xBZgW73ruM3FoQd30oqNiQCiKSbVIVKEM6V01TiSGaEmRIe3APq77kAXa3rxIdu2fvJPgixhZOGQ0QhL207TEdwucIfx5Gh7vpNbQeApxx9poA=;1NRQUqSRhRup2YHcDjwRsg=="
+secured: "23xnyLKSbDAVeohVVBF9Vy9sTcdSWduIRLp2+w8cbsxgXTKL6gr/jq/KfOHfkYlXQbcn6l8wRrB1YxdjtrxvDBPE2lf11uuuMECyBxz3u6sHGADv63UxfMdRgJJ7UGfWhayosl5T4u70r+Cj10RdBQ3XSsfg3HUbMvxyvB7SV6zh/+rzCoGuwjP2ngIFoltn2cvvUt8m77ItI19qMGvDI6LHBNDFdAZqOClBNK6NNc/FA70CQ1gXl2v9FPhyoCVBtlXM7NO9t1dI+/wu+vj2XgNYsqRpHv3FHFGo5nKYSZu1vAAFxHsHFIkEtsdvoqHeyV8kLtRYvOLINifbkHVmoC2a+2D2DHyQnf+5rKE869w=;eqrqTquGZ/RRxEBb2HMCGg=="
 ---
 

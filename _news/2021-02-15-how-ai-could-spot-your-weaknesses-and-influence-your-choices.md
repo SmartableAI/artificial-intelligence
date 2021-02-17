@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weak
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/"
 type: article
 quality: 91
-heat: 102
+heat: 101
 published: true
 
 provider:

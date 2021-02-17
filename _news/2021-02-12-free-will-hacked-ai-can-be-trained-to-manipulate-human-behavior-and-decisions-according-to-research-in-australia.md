@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rt.com/news/515348-ai-learn-manipulate-human-behavior/am
 cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/515348-ai-learn-manipulate-human-behavior/amp/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI can now learn to manipulate human behaviour"
-    excerpt: "Artificial intelligence (AI) is learning more about how to work with (and on) humans. A recent study has shown how AI can learn to identify vulnerabilities in human habits and behaviours and use them to influence"
-    publishedDateTime: 2021-02-12T08:45:00Z
-    webUrl: "https://www.econotimes.com/AI-can-now-learn-to-manipulate-human-behaviour-1602032"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210212f1b5187d6421cd5b4_th_1024x0.jpg"
-        width: 800
-        height: 535
-        isCached: true
   - title: "Data61 researchers prove AI can learn to manipulate human behaviour: What’s next?"
     excerpt: "Last year, CSIRO developed an AI Ethics Framework for the Australian government as an early step in this journey. AI and machine learning are typically very hungry for data, which means it is crucial to ensure we have effective systems in place for data ..."
     publishedDateTime: 2021-02-15T22:57:00Z
@@ -54,6 +40,22 @@ related:
       - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/02/Computers.jpg"
         width: 733
         height: 358
+        isCached: true
+  - title: "Special artificial intelligence is drafted in by scientists in a desperate attempt to save Australia's day coral reefs"
+    excerpt: "Australia's tropical marine research agency is set to use cloud computing and artificial intelligence to better understand and conserve threatened coral reefs."
+    publishedDateTime: 2021-02-13T04:04:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9256191/AI-attempt-save-Australias-dying-coral-reefs.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9256191/amp/AI-attempt-save-Australias-dying-coral-reefs.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9256191/amp/AI-attempt-save-Australias-dying-coral-reefs.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 33
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/02/13/04/39235492-0-image-a-48_1613189057362.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "lDr8aZ3bVmNcA5Rbxhk/ngXzRLtoJ91IJ6y+T1Z/B5Uca+Vo6+bxQTONbAwAloQBPVGfwLMqhDAkpMf3v67EkH+f3zrGLKEDLH7R7hiUMjFcU1gfvb5X4bY4zNvwsV1VyrlC9sjGmFeVTPDusmPkWTIgSTKtbq2jxfK2tPvjx/7CRiRKfeBKkHMveS0iTHZEYlieg0EwFN/DXAixI3u//17Jrfahn9dJnA8oOFWlCK2XY9gSQjxcfvjFk/BFFHrLSce7qalOBS0vx1kaP6QBEFbV6fwwxRGzJFyy+4PSVRU+9S/UbYsH93Cy5AYX/e6ipo03Ym3WvkB2Lcax0EqYUzMSt6I8SLXRI3Ih/Kk1gemfUFrxf8KAAzEwccCBNEU/7fplsRlH2CnkOZai/E2h1fIvJSqISoneaqolFb63Ju/8sggJrPqdsUalU2pmbUp3XW8oFUsj0A1CmniY/lWMAOUhBOnAIGmT0i5Jsq8KHNRR4gcswxHRoScInX/kbHuq9gYk7JyNm7vFiGpxf8C6Yg==;b/Wi3H8GFwc/E2Zho/ZYhg=="

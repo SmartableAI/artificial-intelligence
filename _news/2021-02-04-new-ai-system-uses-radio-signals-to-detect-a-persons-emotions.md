@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1251612379914/2021/1/28dbe164e23e3fd494bb339aff55d2ee/v1.5/New-AI-system-uses-radio-signals-to-detect-a-persons-emotions.jpg"

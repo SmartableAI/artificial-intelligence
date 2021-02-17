@@ -2,6 +2,110 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-01-26-report-brexit-could-help-china-and-the-us-in-the-global-ai-race.md",
+      "title": "Report: Brexit could help China and the US in the global AI race",
+      "excerpt": "The study found that China is catching up with the US in the AI race, while the EU is slipping further behind.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-25T153915.019-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/",
+      "publishedDateTime": "2021-01-25T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-robots-take-up-the-fight-against-infection.md",
+      "title": "Robots take up the fight against infection",
+      "excerpt": "Rapid advances in AI and automation mean robots are now helping businesses in almost every sector to boost efficiency, enhance productivity and streamline costs. But in the age of Covid-19, attention has also focused on how AI-enabled robots can be used to clean offices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/business/topics/robots-take-fight-against-infection/article/3117490/robots-take-fight",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/robots-take-fight-against-infection/article/3117490/robots-take-fight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/01/13/softbank-1200x800-hero_image.jpg?itok=ebCILjb4",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai.md",
       "title": "Copy.ai Revolutionizes Digital Marketing By Augmenting Human Creativity With AI",
       "excerpt": "Chris Lu and Paul Yacoubian realize that artificial intelligence can augment human creativity, instead of replacing it as some may fear, creating Copy.ai to enhance digital marketers ad copy.",
@@ -1081,101 +1185,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-shinan-ai-leader-set-to-attract-more-investors.md",
-      "title": "Shinan AI leader set to attract more investors",
-      "excerpt": "Shinhan AI CEO Bae Jin-soo will place a focus on attracting more retail investors for its artificial intelligence (AI) platforms during his second term. The AI arm of Shinhan Financial Group was launched in 2019 under a group-wide vision of developing more accurate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/biz/2021/01/175_303018.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2021/01/175_303018.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202101/b451cd3e554b45d887b1fcff5bf9fc5c.jpg",
-          "width": 394,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018",
-      "publishedDateTime": "2021-01-24T23:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-us-leads-world-on-artificial-intelligence-but-china-is-catching-up-study.md",
-      "title": "US leads world on artificial intelligence but China is catching up: study",
-      "excerpt": "China has more of the world’s 500 most powerful supercomputers than any other nation, researchers say, as countries vie for competitiveness in key industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/25/ae8a9ab0-5ed5-11eb-9099-aaa38b7b3943_image_hires_145105.jpeg?itok=edHse04w&v=1611557476",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study",
-      "publishedDateTime": "2021-01-24T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

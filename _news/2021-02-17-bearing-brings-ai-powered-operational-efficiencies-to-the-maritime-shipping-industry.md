@@ -1,0 +1,51 @@
+---
+category: news
+title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
+excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable insights to shipping companies, leading to improved efficiency, safety and reduced greenhouse gas emissions."
+publishedDateTime: 2021-02-16T22:22:00Z
+originalUrl: "https://www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/"
+webUrl: "https://www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/"
+ampWebUrl: "https://www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/amp/"
+cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/amp/"
+type: article
+quality: 30
+heat: -1
+published: false
+
+provider:
+  name: Hellenic Shipping News Worldwide
+  domain: hellenicshippingnews.com
+
+topics:
+  - AI
+
+related:
+  - title: "This AI-powered gadget could completely disrupt the ridiculous hearing aid market"
+    excerpt: "Hearing loss sucks. It’s exhausting. I’ve suffered from partial hearing loss in both ears since the mid 2000’s. In order to function in the real world, I’m forced to exist in a state of constant vigilance."
+    publishedDateTime: 2021-02-15T19:56:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 82
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/whisper-796x448.jpg"
+        width: 796
+        height: 448
+        isCached: true
+  - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
+    excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable ins"
+    publishedDateTime: 2021-02-16T14:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210216005143/en/Bearing-Brings-AI-Powered-Operational-Efficiencies-to-the-Maritime-Shipping-Industry"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
+
+secured: "6SpWW0r9JuZKlf0Y6n6R7nD1WsoIesXyCl3wqrP6F5TufksLzOHQWZwm+Z3yPKUEbGsHauDg/A/h/LUDeZ/tY75PqbNmUC8IH4ApAAxvKsVFRehYN25cc8SryiTRlsBwtEOrYdp3uNUDnINaG8HL7K8idaEbfRzGEBDtN3dm/izBjefw7e6VJVLAIYsB0VA0irrG517PP47g9T/MHJB5Hu67HjeCXa6W+6ex8eAAY4nChTs8NXuNey1H2BywHqufYMF9BophHgLmnIKGFTJa0pnha7C7M9dTuot4fE+JhSiKnc9Uac9FLnJ3Qda8Ef3ypBJzRJ1ftSZkrRBro2oJf6sftwJE0rcgk4eLRlzUoj4=;2N+EQ+7ClvRe+B9F+yNzjw=="
+---
+

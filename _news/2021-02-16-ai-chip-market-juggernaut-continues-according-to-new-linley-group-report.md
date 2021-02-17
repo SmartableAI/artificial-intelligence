@@ -19,6 +19,17 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "AI Chip Market Juggernaut Continues According to New Linley Group Report"
+    excerpt: "A new study from the Linley Group finds that as AI chips proliferate, the next wave of growth in this crowded market is in embedded applications."
+    publishedDateTime: 2021-02-16T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210216005040/en/AI-Chip-Market-Juggernaut-Continues-According-to-New-Linley-Group-Report"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 35
+
 secured: "V4EyOdBSICv5RDSTL2hT6ziZ7fTlpacXD1wXVml+l1GmD7C9ljs3eNfu9t8km432r6EcUo1q/+spfD2TULe+ShqKkNUPXq8e/lu0rAX6o9Iu3ArgmfcB8S7Zk5scEYfx7gPK9heFn21VGGWKW11a8ifei2k3419KhnpX00oXA27xaKeOsCWIc+yDUhEta9k4ObWZX0znfvSyECNV56+QNYZvWBc+QhzdxpA3tmjE7+UjKuFwSMkMg2OYzpq6GfY2QiuDJmTKnDhJ/3Csmbg0yAa2+C0Mxk1GT6sJjEO+P2bczmM6GlKfw7SiaRuqMESuP1FdKjNLkbJ6P54W8tI7vtkBuEtE6pdL2tNxgEv58Tw=;HZaA2s1dM36O9rw58iAAfQ=="
 ---
 

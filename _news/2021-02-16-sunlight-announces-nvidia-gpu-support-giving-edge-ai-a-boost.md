@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-
 webUrl: "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "AI Hypervisor Gets a GPU Boost"
+    excerpt: "Sunlight, the U.K.-based specialist in virtualizing data-intensive applications, announced Nvidia GPU support for its “lightweight” hypervisor designed to"
+    publishedDateTime: 2021-02-16T23:06:00Z
+    webUrl: "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/data_pipeline_shutterstock_posteriori.jpg"
+        width: 1000
+        height: 571
+        isCached: true
 
 secured: "EJuWcZy1uk4bHALPLIC5ANkpy7g1MCMsV4t1ZygwExLN8nBJreZQwaUqI5tlxk/mKvsM8/Mbm6i2eY7j3e+cflCkt9WkB8h2C9nrASXbZiHCAMeMR3DFzN0T9jQGT7T8DLo3W3ssfrEApuJ2A71sEY8zqvEn9+/Rc5U5YY1QhQ+YPCZ1v0+PtpYJqYfjnG4nJyePIjwZBMxPLd+hLEfPCjFGNPjtJRdIhhuSXIzNFcp0pvKW2UuS8Yji0jwaHodhDigypbdIYKJT8E/KHUM4sfJIMVddSAPLObk8bKQwKs1gRCcEZTGKxOp0ZP/H1zpUFL5iFQgidIQUzIPBLTczyhJ/anzujrCLJ5vVAMKLkIQ=;2KkBBFx4JZf1z/spb4rcOA=="
 ---

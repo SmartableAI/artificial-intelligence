@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Size 2021 Global Industry Trends, Share, Growth Insight, Size, Competitive Analysis, Statistics, Regional Forecast to 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Voice Recognition Market”"
-    publishedDateTime: 2021-02-12T07:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-2021-global-industry-trends-share-growth-insight-size-competitive-analysis-statistics-regional-forecast-to-2025-2021-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
     excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
     publishedDateTime: 2021-02-13T10:14:00Z
@@ -81,6 +67,6 @@ related:
       domain: openpr.com
     quality: 14
 
-secured: "4JXDkSH/3drb79+GWOfI03euGLQ0fJEsNWYWSQbJ8c/Pi3BvLbdIfnhozHw1i5igVEbFpu2kGIucK1G6h6fUAlZRxj+CJQFwPezkDZfGXImxkRJP4dAgaXmD6axNRbGDfNK7r65eVmjqPgjIYtqBQ5SmCF2Lm20UodgPO6loDwadsqvTWOVf9bUTpgrKvxTF+jRo1NpOzBaKvZbTny0Plcqi44iWFFYKQpZzaQX6x/q4pWdMxtN8UmkAdoy407FEPEEKCbReDoI5xsV7KvpiudkVfNscvQ05d2UmqqXrZsOLLGwZlAbWhw9SXaO8f2L+ICxwRSL8H/cmBJO89ot+Qm3xtyNel717kVhbJGamw7Y=;TIAfTROit2HGUBR2qbhJeA=="
+secured: "vcMhqwO0h5Dx/QxLBSFiP0AzqyRIzMIdC0pSx5zn3ztwEDCNQz1L+0Ngy5Ydt43Sc2g5S6S1FLPjCuJ7syFaYF3Ae9kK37b6dwtq3UGrVYU0RqNHd7BTKliyDVUui4QIvmGfis5p85FrbS/wANMEF8q8GBKDwDSUSxNFr0V1H7IRooAeTdwcgWzwwLNdlWJ8qjd/LeQCarPsDZqx88nBSVVxAHnFwZ8CkbeHM1jCu1VeocUMDJNG7zmMfW5Q69nhaFknei9Zkil/INC/NV3VrbrubUee7cRi7fljTJYDugJGth23P7Hu8TmTzoANZfFIxt5aZRRjXvUuPBiieVpIDghhlex9FsX4g7DttVOu7PhC1D8Tiv9imseY6UzdxfH2vJxs3ox7zH5IAInkkigommFCSUc6LJytvX6EvooxsD+AvoGUmlEyzHD0OQgUD13BYxhKmb6WHSxuQEIN1XgJqj+EjVZhDjT4EQHeidSVql3a/y92Cq+/ZouBmqZWMmCidhiMKK/VcjEJ+3HaaiPpmw==;HwRosB9PvAwzyenNkWgYoA=="
 ---
 

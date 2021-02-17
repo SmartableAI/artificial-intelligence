@@ -3,14 +3,11 @@ category: news
 title: "Fintech, AI & ML: What you need to know in 2021"
 excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
 publishedDateTime: 2021-02-05T09:30:00Z
-originalUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
-webUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
+originalUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/?ref=fintastico.com"
+webUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/?ref=fintastico.com"
 ampWebUrl: "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
 type: article
-quality: 76
-heat: 116
-published: true
 
 provider:
   name: IT Pro Portal
@@ -27,68 +24,6 @@ images:
     height: 545
     isCached: true
 
-related:
-  - title: "Key Takeaways For the Fintech Sector"
-    excerpt: "Fintech was acknowledged for the first time and this indicates that the sector plays a major role in the entire banking ecosystem today"
-    publishedDateTime: 2021-02-08T06:53:00Z
-    webUrl: "https://www.entrepreneur.com/article/364949"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/364949"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364949"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1612767183-money-transfer-3588301-1920.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Finch Capital’s New Fund to Target Fintech, AI Startups in Europe"
-    excerpt: "Finch Capital, a UK and Netherlands based VC firm, has closed on a new fund - Europe III - raising €150 million to invest in Fintechs and artificial intelligence (AI) startups in the financial services sector."
-    publishedDateTime: 2021-02-09T15:18:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/FIntech-UK-Cambridge-University-scaled-600x498.jpg"
-        width: 600
-        height: 498
-        isCached: true
-  - title: "How Fintech Can Help Streamline Your Company’s Financial Operations"
-    excerpt: "Huge.” “Surging.” “Very hot.” Those were just a couple of the terms financial news outlets used to describe the fintech market in 2020. They weren’t just buzzwords. Fintech has seen double-digit growth in transaction numbers and volumes during the pandemic,"
-    publishedDateTime: 2021-02-05T16:18:00Z
-    webUrl: "https://hbr.org/sponsored/2021/02/how-fintech-can-help-streamline-your-companys-financial-operations"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 24
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/01/Tripactions.-HBR-Header-1200x675-3.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Finch Capital closes €150m fintech fund"
-    excerpt: "Finch Capital has closed on its third fintech venture fund, raising €150 million to acquire ... especially those companies that leverage AI to this end. We have seen the industry mature, giving rise now to a rich but fragmented landscape of robust ..."
-    publishedDateTime: 2021-02-09T11:07:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37441/finch-capital-closes-150m-fintech-fund"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/charging.jpg"
-        width: 480
-        height: 270
-        isCached: true
-
-secured: "pHWe9MraeeOxACQKLZhpENhRSOI87TVdyDcztZt+xjnacb/VSmYihC6cq4MuprtmVaZJ609laErp29PkHcbxmQTo4NmlK7xyLiwL0g+kIcxahkBwEhhGw4YslHzzfsdVlqu3YzYB7mcOazNrofINHWkVrUv9KlvbK4cG543q/K2YZ4OP9iHNrchgBfj6mMpGCPwJj90C+KV5cjkJlF9Yxz+cDqJ1l716dMAWV+tzWTx5rRFsm3X1qscpIPnE8pJ1SE30agUtfLMLumz7Q0LKhIf24AC6a0fJmnpYAqfPT1VcaOyVfoNDICUQ2/AGm9J0G+phNezgN7S3idKAeQzADfKmMjlTmebh+vpCtHMAvIc=;iI9cwpQRrAwkk7xQ+oxcLQ=="
+secured: "v6T8HRf4uqPavZeQJMtkKxuhDKvOT4xRuMD0I+dSYGzFu+hpRIBVIZLZwId/XHLvhayuleBEt2a6T68reHPeu6nYqQ7dqfh1cxSNtFjV8e/z+3gZVaSHxMIkQQ0G9R9xTt3/nB6WM9pF2EcOJhww9ENPfleNYcbpuKFRMfHC4+xWXdvVXmVu4hNJtbg7BL0ISgIHwgHahsTPFuj20/H41BUb/oyZSb0Adf9Mn9RUEec9X7d+ql9qnjatFyKX5I90J5ZpIrILqhef8ePo/ha6xtqgJoIdKM2S3kY4Dk8oRSmctd+PeOj/qnM+ENmhqbse3YbR5njGYSYEboOMdqG7sTcyZjQoT0XCLhPWyjLIUh4=;U/S5C8Vk6dIACIDWT+4ygA=="
 ---
 

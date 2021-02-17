@@ -1,45 +1,22 @@
 ---
 category: news
 title: "Linode Expands Commitment to APAC Users With Addition of GPU Instances to Singapore Data Center"
-excerpt: "Alternative cloud provider Linode is expanding services to its fast-growing APAC customer base by adding GPU instances to its Singapore data center. The new"
+excerpt: "Availability of Linode's virtual machine GPU instances in Singapore gives growing APAC customer base a cost-competitive alternative to hyperscale cloud providers in the"
 publishedDateTime: 2021-02-10T12:15:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center/article_f7e51ade-d631-52fe-9c9e-4f167148e1ba.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center/article_f7e51ade-d631-52fe-9c9e-4f167148e1ba.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/p19583315/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/p19583315/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19583315"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19583315"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-related:
-  - title: "Linode Expands Commitment To APAC Users With Addition Of GPU Instances To Singapore Data Center"
-    excerpt: "Alternative cloud provider Linode is expanding services to its fast-growing APAC customer base by adding GPU instances to its Singapore data center. T"
-    publishedDateTime: 2021-02-11T09:47:00Z
-    webUrl: "https://www.hostreview.com/news/210211-linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 27
-    images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
-secured: "z1WjbTpDpjvHfgW6BFk7SLIha0NGNmFJD2B05n+Ee3rnV+m5hl3pd1kw6rFopppIh1ch9U5Ybc6x5WfA5GFt6efM7L7eyZgqnsKcxETFPqPfgcWw1uj5LvuYt8M0cyFmJQqBOQlqvcpj937lfxT0Qvc3V45MFEWRNC6Od2tie5LH4Y/s2JvO6EKPpTDxIxRmJpZJf+V0zS4cLUwA7qkJBEuze7i9XwjpTx1+Is/hNKLIoR3sQB9xhwYEmGWRb481JlXP9GERmaAi5YVuVqBvDYHaZobFYtShYSIR1Z3Avrwrvf5KgYyAWZrEX1ootY2r/6n3K4PLNoY59314kaMl8OmKhcKkDXgLVvp7oEknHF4=;f8fmBUddnw4eHtsUnafGzQ=="
+secured: "rMhMjLPhGAO1Rh6Px8diRDeDRfivgFmMLeehH4p3wHCrGCYgAHVW4Fs4Ym05BjrTt+F2x9EnCLc161drBUhB1krDde6Ih87hWJgrhfkt/ZHhnaTUzw/3tWY95irL2pYu7KInKIgI//X2Nw+FSS5yzjVZVsoqrnOOYUS+OZTUai9pt7tFDZpiM8fAx8/ex/teae0Tu/R7uWeLsmRFZ8gWd08MIReqc3oXzr9hDUnXmgZ7P+t7VfqO0zEmvrAC1viuzp2j//Br7WnB8Bnijsdsqhpho87n/HdV4xdTT+BJJIIXvUHzufjREQLpy7/W2wAzc809gmpodeuXS9OEoJm3yBqbf1BNlo1QG+QCft6KNGc=;rNBH/p4c/ervoOQlVTdQOg=="
 ---
 
