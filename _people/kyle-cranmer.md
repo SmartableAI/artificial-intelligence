@@ -14,7 +14,7 @@ website: https://t.co/OiHC3bfPoX
 twitter:
   username: KyleCranmer
   url: https://twitter.com/KyleCranmer
-  followers: 9809
+  followers: 9808
 
 googleScholar:
   url: https://scholar.google.com/citations?user=EZjSxgwAAAAJ
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Kyle Cranmer"
 
-secured: "ek8aahLxsp84+6OKiBhggRdNDz3ULoD9EkXlHx+9XRY/XKSQFrRgsoS1CkTLBpmORg8BBm85JPSwzbkK4Enex674VbA9jAxZn0N0FN47qgvpGzgdguZtbdPehJQ4IPZrpkraZA7eyvLFaVTil7zQdQ8yQ1WXm+1JVYtSnhb1T7y7faMpX8xIYw0KpOqkPIQh7hvCLdUT0YjFpfgVm+J95u1kr11rpnZaql90O7ldTxegVc9MfsNmDZ7lZywmOJPtieAfopPqqMsBxsUnfgvTF1GKv5LlYadg68WgvJ8fGHE8sK0yozEbRE3iJF2fE7XnoN+UczDi/ktwWVlYbkYQKx5YB85LNp1Kz7uIfOmqKdazDobmoiJZ1EVMw0Ivg8oBU87ClKqBzB8Ao2uS2+6Jd3KG/mnI99CFOYP/iXBIQ7k=;TZ78nq6f5OkkGFHYhgGgZg=="
+secured: "ihbEXN6Ofzmect5tjm4qs09kDVFJOKwTpJL4mzbeFvkCLyqU5+eDpw5xqNlxw4vR7VwCQ/bHg5NsEaADU4WPlP+LUx9Fug0FFebaJkVnhYVu9EOA9g3rRF5K3l7HF8YZWV+xhv0Pjvb6/BSPiop9TaTcez/8emwthXDKQalUWSz50ew37fNNktF7j75/7oIwKDKxQAPlr0Dugtu5GYpbrGS89VYc4yLk662uVA1HC+17TMw336cZeRNdO98jL3SBayHZ1Dkbl8Kj0M2lBRTZPbbOwYxqMWItuigjAlBwNovHjjJtqxS2aPcRA0Gr+KMOanNIK0wlDMS/XWlt5eTArA+728tK5Nyv9eMF7WMvhZTQiqidFb4StGqkmIUAiFNUuxRfFbNC6lhtUXHljwuwT5J7Ebp+0mCPOceeQdUWnyI=;1sY6we7eQh0PmavklGy05A=="
 ---
 
