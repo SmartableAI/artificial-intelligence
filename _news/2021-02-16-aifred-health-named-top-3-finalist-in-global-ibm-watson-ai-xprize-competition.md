@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
-publishedDateTime: 2021-02-16T12:35:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
+excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists"
+publishedDateTime: 2021-02-16T12:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
+webUrl: "https://markets.businessinsider.com/news/stocks/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
 type: article
-quality: 53
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
-  - AI Ethics
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
@@ -53,7 +52,21 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Humana, IBM Watson Health team up to provide access to AI chatbot"
+    excerpt: "Through a new collaboration, Humana's Employer Group members will gain access to IBM Watson Health's AI-powered digital assistant. The chatbot will provide information on member benefits, claims, referrals and cost estimates for medical services."
+    publishedDateTime: 2021-02-12T23:45:00Z
+    webUrl: "https://medcitynews.com/2021/02/humana-ibm-watson-health-team-up-to-provide-access-to-ai-chatbot/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2020/01/GettyImages-1161976315.jpg"
+        width: 788
+        height: 443
+        isCached: true
 
-secured: "2d08MH347XGsbNlaUaVA71b8gX0oYwyNANksLPpySXZtf9uYjqqTQcgL3bqMsH7/HJXQ8KTDQEI7MxEsisvlbyj+5wtmnKJAOAkA8gBzjRbnFM3FpvjveUUKuZ67B7jisDXnZfvcVIgWZP8vkIbe5Uktx2gZ7Sn5LIgfXS3EoVYgobCytihCW3AbqCkK/aifB+ZabO1rlzUXayKjUDZojQhCwr2b+GTLeJnsHsgGsHqCSR/Y6jtb13EbaTFK9gUtMAyGdzWKQx8PhMmvFOhjF2P8VoAQMjKv4jFpLsvYHl98wZO9UrMCcHl9CjcXKkh2n+S1Nqbi+q2pRJJsQEo6zAMhXf2Ig0sbpq4aC2/vfx8=;h+vgnKbWKQG34JYOglIyiw=="
+secured: "8gajySjMl2yilo3YQFu7NeYnIx4Blin9GTGz2SqhoUwpwQHxAEp02wsaKUQkedKdxTFyTtHoxUXxIG/EfjANF1kZ2g/fYoq5GlTZssDqlxRaGEuBKsw5tjQP64Qx4Aa4kp22mPRfEt6e1mwWmLavVZcerFwq+JMOKSzvY8WlH7Y+/WEwsaQHMHQ/kF7MaypEzcptYKVYNNSZgBFAoTyLUDciLYh4BhBkxGH1P4j2Xrz0UU+vIKWGt6LwrGHnaPr12aqtnF83I0xACstmAYaCpY1wlJHvav4AqBZdBz+cyy85hlpnR/EqYb8hyycVzy4QfG7CBw5x165p2o/QME8h7R2pCXfHVmKq5BMjhmr4uFs=;q0t27IbAfPeaNC9JpRPA1Q=="
 ---
 

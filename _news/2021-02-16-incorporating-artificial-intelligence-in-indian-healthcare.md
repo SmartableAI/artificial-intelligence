@@ -21,35 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Healthcare is adopting AI much faster since the pandemic began"
-    excerpt: "While healthcare organizations are hesitant to adopt AI technology, the COVID-19 pandemic has increased their interest."
-    publishedDateTime: 2021-02-12T19:29:00Z
-    webUrl: "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+  - title: "How AI Can Remedy Racial Disparities In Healthcare"
+    excerpt: "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine."
+    publishedDateTime: 2021-02-16T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: Forbes
+      domain: forbes.com
     quality: 104
     images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/1200x675/7150d226ed634629837143d254c00fa5/20210211-healthcareai-karen.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ae497b1b787f71ff43a52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8114%26cropY1%3D248%26cropY2%3D4810"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI is helping the healthcare industry adapt to the pandemic"
-    excerpt: "Despite hesitancy, organizations are adopting AI to help them optimize their workload and diagnostics. Technology can help the industry in many ways, expert says."
-    publishedDateTime: 2021-02-12T19:45:00Z
-    webUrl: "https://www.techrepublic.com/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/770x578/143c161e6d1f8b6e09a331048f272527/20210211-healthcareai-karen.jpg"
-        width: 770
-        height: 578
         isCached: true
   - title: "Incorporating artificial intelligence in Indian healthcare"
     excerpt: "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder"
@@ -67,19 +53,19 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "After the Pandemic, Health Care Will Still Be Broken"
-    excerpt: "Argument: After the Pandemic, Health Care Will Still... Even before the COVID-19 pandemic, health care services around the world were due for a digital transformation; with resources relatively scarce and diagnostics increasingly complicated,"
-    publishedDateTime: 2021-02-16T17:47:00Z
-    webUrl: "https://foreignpolicy.com/2021/02/16/ai-artificial-intelligence-health-care-pandemic-covid/"
+  - title: "How AI can help take companies to the next level in 2021"
+    excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
+    publishedDateTime: 2021-02-16T16:41:00Z
+    webUrl: "https://www.techrepublic.com/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
     type: article
     provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 24
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2021/02/GettyImages-covi-ai-aging-health-system-1230690764.jpg?w=1000"
-        width: 1000
-        height: 667
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/770x578/65123fb077ed2ed98120af5e09d0cc62/20210211-alxcel-karen.jpg"
+        width: 770
+        height: 578
         isCached: true
 
 secured: "Gk60lxgqlqJUdABd1JoQ6PjWqlQggig8EAIoBjZj3ZcK9xNzfA3TnzXoH98Fyfm18m4VKj361szEGkLuNWiZ1mghJBEWRscB/9I4er8C+ch/4yTCmSoMOyTczt4OkSQs9ejHs5VIOGD9P2vrrRuVdNrdBpdcGWbLj5ub8bx2PnAVgMp0tt6iekyI1w9E10If83lRGmMkZa9xC0hdlcmlk8DUy+GTetoZG4DRKpLLJ8cOlRGUOTfQ9xoZrb3G2ER126p2dfeRzxUCm1E0W68jS3cBQm4lAWfdpHZce413B31coz2kK4hVTln+xWckia3BWJDjDoLaSBW2D2d5IStXmf1fEfREoIk9lvW9ZVcjx+M=;88/IYxWrfaBjInJpFSJMiA=="

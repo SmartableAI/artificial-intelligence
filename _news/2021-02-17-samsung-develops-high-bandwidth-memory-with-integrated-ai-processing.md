@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/sam
 ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 related:
@@ -65,6 +64,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "Ph0ZLW255Oe35aF3wpv+ESxnCXk597epCw4OQFHJfluqQJ9JE/1rvNQ+2w2OHolafHFD+BiP12FtuNw/WHvCHVg/7JBPoslA+th/u1BepA1W1iBTfM0rsd7cu5610iJOCJJh6rPmQ4ed7CPig7ODfkBnHCVttauBDswDM1EHq8tGbkgWHnHQsRbxKgYFbN0zo9N1tZWyJDjQqO/JZPU+3lp8KxijNTu0dejlbv79X8uAA9rZb5GNFF1K4MsvnoEid0GH+gnU5qcCp3BNpbOnkFDAAvF3aEfK0sxG2+01x+5I4s3RsL12gSnmM6mdAfILVJHxsizfEeZoP3GiyotNJqSRkhtGelDYjzly/xNGDP3b42I1qJzBKo6tprv+yETvWUuERzHYGExMa+laAf93r7pKzdTHCLnu6oOq6/tBCFffj/rPzKZ9a6TmLZHZDCfiao1vbIxxy5ashQ7o0uqaXcNUsUpT1kEUI6HwtbixXel+DtxoveyjjoP22dBPaLusR/xRaZOfoFzk2y0oCV5DiA==;fjMLGSRGfMFU9kBQhULoJA=="
+secured: "5OM085scJSDEBy8bnpV2pqJs4l6ooMNDUBuey2W/WuiUmVZ720UZ56yw+gANV7K68cnuPumn67vw9VCCk9ty0OXloV7NqYNxJnkubduCGCZokvo9FyeWD7J3F8VtzxNIaE3u1kJ1CND0ghLgDmaXML5YEym3wY2QEMy9xPUATKUJj9vXhvu9p51fiuQP8+nq6xxU15IPc3urHUcQGpDqO5YEZiMyP7lVRG8oznk89tne4qyNtmYsxRQx5u7hzPARRyCTGgzv/AXsgd628sMIPBIAvPVxYgTqfuA4bD8it9NPhHJQHsCniS21Dffgrj1DKmJYaxLqJqAzHmEQVMTXCjWvP7EtdGB3+GGOE6XGZRflmzUO3260mWaQnL5twpiEBXklGPDrV6FALF5gObyJ0JhAoyhg9xXrnrI5T9m5EpJCM7FTTjxGVWYXkJBn7UjcpFlL5PyOBWmx3AgrtgJCh45cVAC584KKrnNL8Qo/QrT83xkZPuh0kZJ9mT5CPX+Vru83sP2XLu6iZDz7uxVhGw==;+48Uafnrtzak010V+wZOzA=="
 ---
 

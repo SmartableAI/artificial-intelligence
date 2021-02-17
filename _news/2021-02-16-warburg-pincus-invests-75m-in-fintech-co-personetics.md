@@ -39,6 +39,17 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Fintech startup Personetics lands $75M to make banking more personal"
+    excerpt: "Israeli startup Personetics looks to actualize its goal of \"Self-Driving Finance\", automating personalized banking services and tools for hundreds of millions of customers"
+    publishedDateTime: 2021-02-17T11:36:00Z
+    webUrl: "https://www.geektime.com/fintech-startup-personetics-lands-75m-to-make-banking-more-personal/"
+    ampWebUrl: "https://www.geektime.com/fintech-startup-personetics-lands-75m-to-make-banking-more-personal/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/fintech-startup-personetics-lands-75m-to-make-banking-more-personal/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 39
   - title: "Warburg Pincus invests in Israeli fintech firm Personetics"
     excerpt: "The company offers a proprietary AI software platform to leading banks around the world, reaching more than 95 million personal banking customers"
     publishedDateTime: 2021-02-16T13:42:00Z

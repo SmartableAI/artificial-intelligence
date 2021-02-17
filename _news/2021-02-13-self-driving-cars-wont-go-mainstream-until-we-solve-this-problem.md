@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-car
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Self-Driving Cars, Product Drops, Loyalty Programs Top This Week’s News"
-    excerpt: "In this week's news, BMW, Magna or others might team with Apple on self-driving cars, while product drops and exclusive sales bolster retailers’ bottom lines."
-    publishedDateTime: 2021-02-12T20:27:00Z
-    webUrl: "https://www.pymnts.com/the-weekender/2021/self-driving-cars-loyalty-programs-top-this-weeks-news/"
-    ampWebUrl: "https://www.pymnts.com/the-weekender/2021/self-driving-cars-loyalty-programs-top-this-weeks-news/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/the-weekender/2021/self-driving-cars-loyalty-programs-top-this-weeks-news/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/autonomous-vehicles-loyalty-programs-457x257.jpg"
-        width: 457
-        height: 257
-        isCached: true
 
 secured: "6J435sI+J9cLn9VFfjbHrkU3IGG8cqOjGCyOICz3gvA3op3op6TMrDwFOJiHMDZAqOexhGXGjKSIsVpHfsSj1qwNDSzHYT7Up5FDDinlgg5QIYeikyKfPIdX7dUfOwrp4grUX3wJmZcpJvupEwo2r+vAbJyej7UdgYE43DPJiEKFYdSu3qk/ju3XLqhW9N+jF6K6e3lGwtM7PA9tzlcSoWIikVCPxz1dIsTIYdu/w86Owa3O7WFDDIFj4vUfYGuFsRtKzjc5BahduOs+6n7t4c+h/bssEziDftdmDgyDfHPdmR8Pd9ZlSI8OzgYFvfD/xG0W6a3pfymGZyX/IB0A4lZ5yKzS0jlmO5jVCZyuh62verOTrAT0Koqz/idF0dx2DkZTUfOaV14TqjQVEhB/aWYuVPkmTYXn+kOegOJgw0yHW7pcmYyM5n6ZzByf2g7TdRBmv+8ulnrcw4m1l2LBFRI2PxxwLInVSVm4NqOTEcHW90Hc1X/gaUQJK719O53zVP/aFcbGCTHXgwM16EVaNg==;EJ5/q/5OLQtnc1c4u+0x0g=="
 ---

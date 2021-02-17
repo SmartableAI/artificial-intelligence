@@ -27,33 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare is adopting AI much faster since the pandemic began"
-    excerpt: "While healthcare organizations are hesitant to adopt AI technology, the COVID-19 pandemic has increased their interest."
-    publishedDateTime: 2021-02-12T19:29:00Z
-    webUrl: "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/"
+  - title: "How AI Can Remedy Racial Disparities In Healthcare"
+    excerpt: "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine."
+    publishedDateTime: 2021-02-16T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: Forbes
+      domain: forbes.com
     quality: 104
     images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/1200x675/7150d226ed634629837143d254c00fa5/20210211-healthcareai-karen.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ae497b1b787f71ff43a52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8114%26cropY1%3D248%26cropY2%3D4810"
         width: 1200
         height: 675
         isCached: true
-  - title: "AI is helping the healthcare industry adapt to the pandemic"
-    excerpt: "Despite hesitancy, organizations are adopting AI to help them optimize their workload and diagnostics. Technology can help the industry in many ways, expert says."
-    publishedDateTime: 2021-02-12T19:45:00Z
-    webUrl: "https://www.techrepublic.com/videos/ai-is-helping-the-healthcare-industry-adapt-to-the-pandemic/"
+  - title: "How AI can help take companies to the next level in 2021"
+    excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
+    publishedDateTime: 2021-02-16T16:41:00Z
+    webUrl: "https://www.techrepublic.com/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 88
+    quality: 67
     images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/770x578/143c161e6d1f8b6e09a331048f272527/20210211-healthcareai-karen.jpg"
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/770x578/65123fb077ed2ed98120af5e09d0cc62/20210211-alxcel-karen.jpg"
         width: 770
         height: 578
         isCached: true
@@ -68,20 +68,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
-  - title: "After the Pandemic, Health Care Will Still Be Broken"
-    excerpt: "Argument: After the Pandemic, Health Care Will Still... Even before the COVID-19 pandemic, health care services around the world were due for a digital transformation; with resources relatively scarce and diagnostics increasingly complicated,"
-    publishedDateTime: 2021-02-16T17:47:00Z
-    webUrl: "https://foreignpolicy.com/2021/02/16/ai-artificial-intelligence-health-care-pandemic-covid/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 24
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2021/02/GettyImages-covi-ai-aging-health-system-1230690764.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "7o57PhNqkDYvpbgYWHPLb4aoLqpvJYke4PQpTmcZ9D6qoxo7qCqBO2P58RbW4WTzPvghXKKfBE6U1JpIFG2ViDjFtBHtDv4+B6nUrQqfZqcYiPbvytoL6QM1uE48eYgCPjdfuN0l3Znxx/cql4wvTHaDvCiCYxqDTBeZUms386najsKCHevdA3SxywWD83RTVum8RuMdArYNFHFrQS89kdt90TPCi47a9BlDmQLvYPWgLPOSoay6YGRKRoYKVEB3iSf3K0zMp+aSr0IVKtIBeZUDNgEDYV6VpZqpSUxl9qlW3k22JUZ7+4PDxmUCn8r+23RjtuC/U+D0t8AENPcGWjyG49ztY17co63hDWkFlDqLzo1Px4GTNE3yH3wUa9tHPD7ner6jdzCGcrAd/ceF4jY4Yl1VYflSofZqJhwi6XvZufPNo3bYjclIi9inE85CYMR9PjBN8fChW1wAMIIkQiN/XJbltq2Ahkqzf+5RBhmKCgkp363xUyplZTLqo4xI9JmVzOEbRdZlotluPbvOKA==;3uA7rpQyvfXysILJYpnziA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-t
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
+    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists"
+    publishedDateTime: 2021-02-16T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "Humana, IBM Partner To Streamline Member Engagement With AI"
     excerpt: "Humana has announced a partnership with IBM Watson Health that seeks to improve member engagement through artificial intelligence. The solution will use an artificial intelligence-enabled virtual assistant to provide accurate benefits,"
     publishedDateTime: 2021-02-16T15:01:00Z
@@ -37,19 +48,19 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
-    publishedDateTime: 2021-02-16T12:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
+  - title: "Humana, IBM Watson Health team up to provide access to AI chatbot"
+    excerpt: "Through a new collaboration, Humana's Employer Group members will gain access to IBM Watson Health's AI-powered digital assistant. The chatbot will provide information on member benefits, claims, referrals and cost estimates for medical services."
+    publishedDateTime: 2021-02-12T23:45:00Z
+    webUrl: "https://medcitynews.com/2021/02/humana-ibm-watson-health-team-up-to-provide-access-to-ai-chatbot/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 53
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://medcitynews.com/uploads/2020/01/GettyImages-1161976315.jpg"
+        width: 788
+        height: 443
         isCached: true
 
 secured: "V2k+XdQyO9GAhtgqXEG/ikP9FeVaJG3NL1KlYInaows/o8xFSypM7A1BHQ45LUrfbq6frzF1Qe4yQVaizU4fQoJWznxgN0A608+OPEaTCInAeQGnLKsL8ULdP7gSRksu3gy9LaVRCNmPGavST5EimzGIVu0ojX2iO+d4sbVrn4hKYxo/8taEbLr2g/Bce52ByQBiTMVhz7Pmh9cKh2SmYHKJVL2ubU2IgXgGaIgOy7TqaTB1OzDYB8fexgPyhGGJ8tkd59ftK7tKvH4OZHA8gqqS6A1dp6d5ITY2hLTrozZMsNpIcHzUamQfa2tvR9khsoaQ5O+6R6kvVU7rmuDPl9pVk/ap9QYx1KooMAI/L1M=;5DzlovyhFMns+HLJDtXSoA=="

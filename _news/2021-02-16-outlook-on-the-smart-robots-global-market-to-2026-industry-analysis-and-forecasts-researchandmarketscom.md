@@ -106,6 +106,17 @@ related:
         width: 300
         height: 281
         isCached: true
+  - title: "Educational Robot Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Educational Robot Market size is expected to grow at an annual average of 15 3 during 2021 2027 Educational Robot Market Modernization has mandated the modern service market and has increased connectivity along with many other premium services"
+    publishedDateTime: 2021-02-17T11:27:00Z
+    webUrl: "https://www.openpr.com/news/2243933/educational-robot-market-global-industry-analysis-size"
+    ampWebUrl: "https://www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
   - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
     excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
     publishedDateTime: 2021-02-13T10:14:00Z

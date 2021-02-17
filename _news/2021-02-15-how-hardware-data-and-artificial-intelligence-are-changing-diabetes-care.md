@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "For US and allies, prepping for AI warfare starts with the data"
-    excerpt: "To interconnect in future fights, the 13 friendly nations are talking now about how to collect and prepare data for artificial intelligence that will drive those battles."
-    publishedDateTime: 2021-02-12T21:02:00Z
-    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2021/02/12/for-us-and-allies-prepping-for-ai-warfare-starts-with-the-data/"
-    type: article
-    provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 37
-    images:
-      - url: "https://www.armytimes.com/resizer/lrl9YKathvXFOlCon_CvvE_YBhQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/WATEC5VVFRD4VGB3W5WT5VDGXE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "udoFLnTs2zoQnGyfni4YYQsejPCg0YdcXOTMXgTQtv56pDgxllUp+IfukrVdUAeeGl6h9M6sTDbm8Xoone7csFHvt4ZXVRL6881lasuHD9BlzX1kiGGmNiN+3PZeSvhEvUUwLOtNW38z0Pafvz4zdCsIzfe02udJvHWYUrxGK3drP9pbHae+Nr4NMdZs7GOF4Pecm8EMhaAhw2SxHVTZx98AOlwOc1x8tmf0xhyD0BAaXo9rUXaHE6q1Pwd/xGjEucbVhRBd+dA5apqtE9SGCdl0arjDBmsjvrtfmpQfAflukC9FKozDxD/ExXYOr+VCaAYD0m7pw510hzAQlP6XutQprcmJUTnQXc5gjaZJrz+cOGiJ2AdIXJ032hD7O3ODCRBTKBUl5ID8CTJKIe8Xc/rvx9ZoweaTWCDAVIgq9I6g6jV/d1jzGT+mnaFA2gL9282+8onRyuHc1OG+KdwCsKxHdFN/bu4H1UtgU6td9MiUui+qHgGQ1+swHz2xL9ECf1EzHJA6b1kHHURc1IbHRw==;kLQHLe6j35gFAYsADyOpsA=="
 ---

@@ -91,22 +91,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "VW and Microsoft Are Teaming up to Develop Autonomous Driving Tech"
-    excerpt: "Volkswagen is already developing its own autonomous driving technology, even having shown off a working Level 4 prototype a couple of years ago. Now it's teaming up with Microsoft"
-    publishedDateTime: 2021-02-12T19:36:00Z
-    webUrl: "https://www.autoweek.com/news/technology/a35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    ampWebUrl: "https://www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    type: article
-    provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/db2019al00703-overfull-1613148012.jpg?crop=1.00xw:0.890xh;0,0.0838xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
     excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
     publishedDateTime: 2021-02-14T15:12:00Z
@@ -162,20 +146,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2021/01/08/cf/5f/35/37/54/cb/74/c4/space_20210108.png"
         width: 272
         height: 270
-        isCached: true
-  - title: "Now that’s edge computing"
-    excerpt: "Astronauts at the International Space Station will soon be getting a high-performance computer that will connect them to Microsoft’s Azure cloud."
-    publishedDateTime: 2021-02-12T20:40:00Z
-    webUrl: "https://gcn.com/articles/2021/02/12/iss-hpe-computer-azure.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 24
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/Nov-2012/spacestation.png"
-        width: 620
-        height: 300
         isCached: true
 
 secured: "N0QK6BoqWlwUCImS8bhavo04cT/wh3knN5Z1YWgCeVp/JMVz+uSTvEjNalZFwgYN7TB762EGCJcyGRFg17hgWsZgElsWvyqRqvOwlpHPgthgIayX28Bs9X9CbbMxCzzyRDuy/epR3KOdeRzjd3ws0tq+T1AWxPZc74uL1R9sF5tqJP4jq60aWM41RzUBG3Nqm39UJ6Aa1Rfx9raY/Jza8RcKElPh9hExhlX/u4NW4nUHPFudwbeBhcfnjnAATZcSiLQDMZMcfRAyFXJbb8qu2IgIBCOMlo7JpdGowKCIf6ecLBYSWuSjrsnQi7J8ysJJ+AfhiBouRka7UD3pCQPYoCnnvvf0u96Cb52OUKlIB2ZnO6XnQegkzFsY3MTtlznbQTRFuO08sJqd+8AB1KWbvLTCciIaTIawHY1Q5KlLnGgnwdhQNAYuzFg2OZzAWkcfpWA23FMc14cQ0HNkmZ3aldbvUusS2U2Zid7VDOGsT7OgiHyW9Zy71vwOH6g7wtns9Vnr07UfrPIqLKzl6Z4tdA==;PXh1PVRsZov2nnDLKJ6/jA=="

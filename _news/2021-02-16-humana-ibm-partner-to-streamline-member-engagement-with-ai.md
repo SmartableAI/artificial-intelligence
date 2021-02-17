@@ -39,18 +39,29 @@ related:
       domain: nasdaq.com
     quality: 84
   - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
-    publishedDateTime: 2021-02-16T12:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
+    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists"
+    publishedDateTime: 2021-02-16T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+  - title: "Humana, IBM Watson Health team up to provide access to AI chatbot"
+    excerpt: "Through a new collaboration, Humana's Employer Group members will gain access to IBM Watson Health's AI-powered digital assistant. The chatbot will provide information on member benefits, claims, referrals and cost estimates for medical services."
+    publishedDateTime: 2021-02-12T23:45:00Z
+    webUrl: "https://medcitynews.com/2021/02/humana-ibm-watson-health-team-up-to-provide-access-to-ai-chatbot/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://medcitynews.com/uploads/2020/01/GettyImages-1161976315.jpg"
+        width: 788
+        height: 443
         isCached: true
 
 secured: "5HgytFSt0lzv9yvRtKO9MnoKLFqO0S5AweNGxHvNyqa/keOMtyEJkYZwxSoHDEOMJX8Z6YaQk1+7was3iWK/jzokGoNu3y0rgxWADOoRx99GCTa6uGtrPN9tSKdiJxskQsbqcuKwbb9dmypziYrS/k0ACObq+PBOCfzEJMuF7izoC8zvO+jQfKbeKU/LDebQMTQztkDn9mXRjOA3vBOHDd33OLakoLtDk3Gaxt/kfsarNS4akhvafVx+3hlTUeju8G6JPQZnbrFEbUCQa9AWLt3CpxTE5p55r5aqfmKydmOEapls89R0GhvjgotVHJ3sbyr8EnnEli+qYnFuAm32sFKpQPZQD3R6h5CWJ5asdelfIBZzC31DidRheUS2s9NSdRTtWeyjFsfuLY7eLMC5rnR1lEnhaM3WAJfnXfHRzLXiavu5aZCBqmN9auf4D0sav6xgaB0gbIhjXiw51L7TaC5gH43KYL97RoQ2iUVXAvYyA8pY9Td/4DaQ7f0yZjNKYxJSMz5sxqgO+E6LFa8vXw==;hpBfAF6eNWQxCPX6pdw8hw=="

@@ -3,13 +3,13 @@ category: news
 title: "What CIOs need to know about adding AI to their processes"
 excerpt: "AI can help many types of businesses get more from their data. In 2021, one expert believes adoption of AI will take leaps forward."
 publishedDateTime: 2021-02-16T16:36:00Z
-originalUrl: "https://www.techrepublic.com/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
-webUrl: "https://www.techrepublic.com/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
+originalUrl: "https://www.techrepublic.com/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
+webUrl: "https://www.techrepublic.com/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "NvLQkq9Sgv8dAAw5hkZTjCVmZfxOjaVyEoBP+ZA1HjOEGkkGN4rtFdpWXD+81OQ9jNCutnMRvVm+kvJr1qUVC+tCH/TpDNXy8JuCM0+O+7IU8B+GL2yqz7eY8brIochQwZU2GVmkFgiHd2DIRpQoC1COFABOcXo+O5KzPLYfE8nmXMsLvZMdLqra7TPV7SmY0TeR/BaoDqsX81erCZLLYOZ9HFReInlxKuR81ZXbjP34u1ceGlR6s4rN5QL9SHPYjgXGF0uo4xgTlDr8mjJRdn2IDMWSwz9gXI/HBXeC4eXAnCkRHueERf2kCH45QxUwCn8lXZIwd1KRKv0DzlWQfM1G2gzrkNWPesQjMgJjll/8DydplCGK6RY9OCM0/mjidPNpyf3FbzG476E5a/7P0umTIs5hv/5a9A5SZ6OYLlpPbL35lsZwOTUIzTv+l/r1Mm34t0n1Rz92s3T6ZfbENa/YnPMz0yUb+LXhUxMVgTtlKuf60RhM3SGmE5p2ixh0SuHkMnx9DIbiRTZDNYiNHA==;PV8Ys/HxJuM3APWt+099Vw=="
+secured: "Di2Xi2PPzOujtYHmvcZLad0qFZtzUE/iFWWw0IW5CX0u4xP3I5YpaS8DSwZEEUvcoLlco8+YMc8BN4QsuFxpIBA8d8OYaXE1jc5gWQYOF1wP1RoERQxwVuAKLUOEbV1Q+hGYeSb+EFpbtVvoEwo+31PyqdtumO3nYGICBRJobzzroQTe7mq9qBpVSpeJ/SbL6Zrt1dPJSQs2/CDpivWHNTVvq3l8zpt34YmJXhg4zk+8e7nlsErznxx8KVAHo8D765wmHLwM6nX8vycFdxq50fbum/3lCF7FCHwv+gNKjNuEwP8ZrBcQXqe19xX05AL1c4fI/ldCS8vTXQFqQpDIeMqa7BkRjLXVyVrf4I4Tfhc=;SGSu//wRf8bMCTazrw1oFQ=="
 ---
 

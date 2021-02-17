@@ -89,22 +89,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "VW and Microsoft Are Teaming up to Develop Autonomous Driving Tech"
-    excerpt: "Volkswagen is already developing its own autonomous driving technology, even having shown off a working Level 4 prototype a couple of years ago. Now it's teaming up with Microsoft"
-    publishedDateTime: 2021-02-12T19:36:00Z
-    webUrl: "https://www.autoweek.com/news/technology/a35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    ampWebUrl: "https://www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    type: article
-    provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/db2019al00703-overfull-1613148012.jpg?crop=1.00xw:0.890xh;0,0.0838xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "Microsoft Azure Goes To Space via HPE Partnership"
     excerpt: "A partnership with Hewlett Packard Enterprise (HPE) will bring Microsoft Azure to the International Space Station (ISS) by way of HPE's Spaceborne Computer-2."
     publishedDateTime: 2021-02-16T19:12:00Z
@@ -162,20 +146,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2021/01/08/cf/5f/35/37/54/cb/74/c4/space_20210108.png"
         width: 272
         height: 270
-        isCached: true
-  - title: "Now that’s edge computing"
-    excerpt: "Astronauts at the International Space Station will soon be getting a high-performance computer that will connect them to Microsoft’s Azure cloud."
-    publishedDateTime: 2021-02-12T20:40:00Z
-    webUrl: "https://gcn.com/articles/2021/02/12/iss-hpe-computer-azure.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 24
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/Nov-2012/spacestation.png"
-        width: 620
-        height: 300
         isCached: true
 
 secured: "w0XZlKu+CCjqSyk+CTmDSeV54M/VAeTMo58NC6CYUo1uJUhfKD4Z98yACZA138ZcKO840xwRUJoi911QIUm/NLRF2hHixoFhTgXqwn0XTMRtOrzo+gaOHUCWeWf+3y/dySa4kYzt2tZfZU67xJk7aDNuaQzKTOfpjqbEunDZ8PfPrc4GIDOr9hST4OMxmYPyP16pA/6i3efh/7tvXE74SZv5WpfJFq80nvxwL3Ro++Q9Zv03FUnODwEQ0zz7YdQNZvJgT2zBeydvsu3YwPsk9vv6hSgWJHBUHz/qKpfTtnfdA0DNQVxqDzhHGWSaWibH1X5rWYf77ci0F/kRbWaIUl1OsELzohnykjycm7oajmjV7DCW+CFp9W+3dZJ0hQhKErq/Om1yIIeiKPdvCBW+HSTYH1CWvogvXaMJDlLPeN7ADKxtO8iUeT3TlIiR+Y8brltPrYcx31jAIZRZyQ+dYxv+3vp+tlInUu+x8mGg+7Z8/r7GOf2VKWlAvL/dwA/P5PutB9ba1Ps6PNU0CdTaJQ==;oOOrkUy4opUBUCpU2zj0Mw=="

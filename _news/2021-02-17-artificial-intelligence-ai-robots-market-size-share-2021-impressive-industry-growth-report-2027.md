@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2243842/artificial-intelligence-ai-robots-m
 ampWebUrl: "https://www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
 type: article
-quality: 38
+quality: 55
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Healthcare Artificial Intelligence (AI) Market Insights, Growth, Share, Trends and Dynamics By 2023"

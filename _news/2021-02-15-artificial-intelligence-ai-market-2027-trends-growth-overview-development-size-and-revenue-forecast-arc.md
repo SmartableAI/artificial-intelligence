@@ -95,6 +95,17 @@ related:
         width: 300
         height: 281
         isCached: true
+  - title: "Educational Robot Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Educational Robot Market size is expected to grow at an annual average of 15 3 during 2021 2027 Educational Robot Market Modernization has mandated the modern service market and has increased connectivity along with many other premium services"
+    publishedDateTime: 2021-02-17T11:27:00Z
+    webUrl: "https://www.openpr.com/news/2243933/educational-robot-market-global-industry-analysis-size"
+    ampWebUrl: "https://www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
   - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
     excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2021-02-16T05:34:00Z

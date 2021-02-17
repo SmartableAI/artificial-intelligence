@@ -56,6 +56,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence (AI) robots Market Size, Share 2021, Impressive Industry Growth Report 2027"
+    excerpt: "Artificial intelligence AI robots market was valued at USD 2 84 Billion in 2017 and is expected to reach USD 12 36 Billion by 2027 at a CAGR of 28 High adoption of robots for personal use such as companionship"
+    publishedDateTime: 2021-02-17T10:23:00Z
+    webUrl: "https://www.openpr.com/news/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
   - title: "Enterprise AI Market Growth Analysis, Outlook ,Size, Share, Trends, Opportunities and Forecast to 2025"
     excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
     publishedDateTime: 2021-02-17T06:29:00Z
@@ -112,17 +123,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "Artificial intelligence (AI) robots Market Size, Share 2021, Impressive Industry Growth Report 2027"
-    excerpt: "Artificial intelligence AI robots market was valued at USD 2 84 Billion in 2017 and is expected to reach USD 12 36 Billion by 2027 at a CAGR of 28 High adoption of robots for personal use such as companionship"
-    publishedDateTime: 2021-02-17T10:23:00Z
-    webUrl: "https://www.openpr.com/news/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
   - title: "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
     excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems,"
     publishedDateTime: 2021-02-17T07:52:00Z

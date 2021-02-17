@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-mar
 webUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chips Market to Eyewitness Massive Growth by 2025 | AMD, Google, Intel Corporation, NVIDIA"
-    excerpt: "Latest released the research study on Global Artificial Intelligence Chips Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Chips Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-02-12T20:02:00Z
-    webUrl: "https://www.openpr.com/news/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
-    ampWebUrl: "https://www.openpr.com/amp/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
   - title: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application – Global Forecast to 2025"
     excerpt: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application - Global Forecast to 2025 . New"
     publishedDateTime: 2021-02-16T18:10:00Z

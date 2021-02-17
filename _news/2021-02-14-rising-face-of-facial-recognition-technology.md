@@ -70,22 +70,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Minneapolis bans its police department from using facial recognition software"
-    excerpt: "Minneapolis voted Friday to ban the use of facial recognition software for its police department, growing the list of major cities that have implemented local restrictions on the controversial technology."
-    publishedDateTime: 2021-02-12T19:32:00Z
-    webUrl: "https://techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/"
-    ampWebUrl: "https://techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/12/minneapolis-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1220495008.jpg?w=1024"
-        width: 1024
-        height: 718
-        isCached: true
   - title: "Drones with facial recognition are closer to becoming a reality thanks to a patent from an Israeli company"
     excerpt: "AnyVision, an Israeli firm that has worked with Mercadona, patents a system that brings the use of drones with facial recognition cameras closer to reality. The patented technology will help the drones find the best shooting angle for an effective facial recognition system."
     publishedDateTime: 2021-02-17T10:39:00Z

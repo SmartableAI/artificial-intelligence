@@ -3,10 +3,10 @@ category: news
 title: "How AI can help take companies to the next level in 2021"
 excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
 publishedDateTime: 2021-02-16T16:41:00Z
-originalUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
-webUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+originalUrl: "https://www.techrepublic.com/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+webUrl: "https://www.techrepublic.com/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -45,21 +44,34 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI embracing the shift in healthcare, confirms a new report"
-    excerpt: "BMU a Hero Group Initiative unveiled a report at its 2nd AI industry conclave on Embracing the shift in healthcare that was organized virtually on Wednesda"
-    publishedDateTime: 2021-02-12T19:24:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267810297/ai-embracing-the-shift-in-healthcare-confirms-a-new-report"
+  - title: "Incorporating artificial intelligence in Indian healthcare"
+    excerpt: "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder"
+    publishedDateTime: 2021-02-16T18:03:00Z
+    webUrl: "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    ampWebUrl: "https://www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 56
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1613157685.jpg"
-        width: 630
-        height: 420
+      - url: "https://assets.thehansindia.com/h-upload/2021/02/16/1031670-artificial-intelligence.jpg"
+        width: 1000
+        height: 600
         isCached: true
+  - title: "Incorporating artificial intelligence in Indian healthcare"
+    excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."
+    publishedDateTime: 2021-02-16T05:48:00Z
+    webUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+    ampWebUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
 
-secured: "0pF7Xu+PstiM452ZkWhgCIIa1aUlw3DPR4NCavZlzsRsb8lCAklyJ/1hGmDDswJr2sizf8XIEs4k+V0rIMvJfpThjcow3b1ns4dKCBQyQqd73jKEr6dyLk5PHEbjMbwNSFB9ekRfs8z/Zd49KaqB1/qFQLPqeyQ13RK+Dv85J19pmWQniIRabF8OA9MHumsT9JAr8Y7ihSt8SLsUp7qhCwB9xPQrwCCsqqany5sYKCY9RiaSFkQ2yMqWPnNlSQ3Zty3O/5WmiNcYKLbrHcJ5TQBegNXGE7YE/b54LYalesXBpjeYOFeg9igusmH49758M79Ix4flkknPNaArtJly8Ad9V2ZgWhJdmshDq9dw4wE=;PBfo5JJgOMIMdYncaQksgA=="
+secured: "cIdHeYE/7x6jIuR7oQ0vdUUT5hAy/d1vDHerQfn1JBJAovG+uxYRl/StxcsM1oCo77ojbz6eK8EliHUmpR5xOroA3qU6NMa36UBPKch2x4xGh8GZZ637P54PEx/indvgeQhZN+coPVdI6OUp2CloxOUfWb4803CQ/g8K+y/PTwFqBodoj4oGYuoQTJPSs7MUt2Z37br5YH7h+tK81ZnLuXMBkHbLP4dFEUb7FW1k4jTZ219AX8hZidp02vwpawVFuALtOh/RrfhBg0v+eXKEyG4ZDH8xODu6Da8xUHVwnjMuoqil05aX0ktraGTwdOsCL+v+bA84X7iSfsv9TZe+WNRBOgDrosL7YUVYp0zxIN4=;SfPKKa54cZFlT4YiyugtVg=="
 ---
 

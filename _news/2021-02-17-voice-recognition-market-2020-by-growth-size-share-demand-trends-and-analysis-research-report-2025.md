@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence (AI) robots Market Size, Share 2021, Impressive Industry Growth Report 2027"
+    excerpt: "Artificial intelligence AI robots market was valued at USD 2 84 Billion in 2017 and is expected to reach USD 12 36 Billion by 2027 at a CAGR of 28 High adoption of robots for personal use such as companionship"
+    publishedDateTime: 2021-02-17T10:23:00Z
+    webUrl: "https://www.openpr.com/news/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
   - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Share to Record Stellar Growth Through 2025"
     excerpt: "Selbyville, Delaware. The report Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market"
     publishedDateTime: 2021-02-16T11:57:00Z
@@ -127,17 +138,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "Artificial intelligence (AI) robots Market Size, Share 2021, Impressive Industry Growth Report 2027"
-    excerpt: "Artificial intelligence AI robots market was valued at USD 2 84 Billion in 2017 and is expected to reach USD 12 36 Billion by 2027 at a CAGR of 28 High adoption of robots for personal use such as companionship"
-    publishedDateTime: 2021-02-17T10:23:00Z
-    webUrl: "https://www.openpr.com/news/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
   - title: "AI-based Drug Discovery Markets, 2030 - ResearchAndMarkets.com"
     excerpt: "Focus on Deep Learning and Machine Learning, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The “AI-based Drug Discovery Market: Focus on Machine Learning and Deep Learning, 2020-2030” report features an extensive study of the current market landscape and future potential of the players engaged in offering AI-based services,"
     publishedDateTime: 2021-02-16T17:44:00Z

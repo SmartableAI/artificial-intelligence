@@ -89,22 +89,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "VW and Microsoft Are Teaming up to Develop Autonomous Driving Tech"
-    excerpt: "Volkswagen is already developing its own autonomous driving technology, even having shown off a working Level 4 prototype a couple of years ago. Now it's teaming up with Microsoft"
-    publishedDateTime: 2021-02-12T19:36:00Z
-    webUrl: "https://www.autoweek.com/news/technology/a35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    ampWebUrl: "https://www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    type: article
-    provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/db2019al00703-overfull-1613148012.jpg?crop=1.00xw:0.890xh;0,0.0838xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
     excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
     publishedDateTime: 2021-02-14T15:12:00Z
@@ -162,20 +146,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/ISS-Space-Station_shutterstock-1453899434_700x415.jpg"
         width: 700
         height: 415
-        isCached: true
-  - title: "Now that’s edge computing"
-    excerpt: "Astronauts at the International Space Station will soon be getting a high-performance computer that will connect them to Microsoft’s Azure cloud."
-    publishedDateTime: 2021-02-12T20:40:00Z
-    webUrl: "https://gcn.com/articles/2021/02/12/iss-hpe-computer-azure.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 24
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/Nov-2012/spacestation.png"
-        width: 620
-        height: 300
         isCached: true
 
 secured: "peSc+aHUQB3yYEMLa1D7a9oJV7pVA2PZkaLZNt7ZdtfqZpOIXxB3bkBukSoO84oqXCBhWQk9PZwdvkpxKoyAg7lIXHthaDcA1etkoWE66Gk4mq1lITAfeVW1CvTi8BXbnxHK+sYBZXdG1DqcF/XVyebWhvDn49vtvTfVSIco5ZT0gLA8X57tiyTHD5ig4EgEC4lWMkiqrHOw/WUdLomP5/n3I73C8y3AH7OZ4D/tW3fT9V8lX2r1m1AsaHMoljJABNSKRNDo3JgKobeq48ucsK9rd1iszojTIaceVc7+J5Biegarf2LCRapIjsxQwxAfwfNRmEFhPYeJiIZEIif5VL4q5rY1VC1lFcsRkubW97blYCihgFMJ7uRllOVhfENJ6EFo0vfzuSjJTo8d4YX3nJX8JmDg/geSvLXkdazINayM4/B93ozp0XGC0W9eAnM43jYugdfE/KXv8MReZJ0N123JpPpJ0T7HKfCjW6aCPc5gpDO8d1K9IxyEbdJaMA+UWzvKC8ThVR5w2ITcFzb/0A==;e3dOZvbIroIOHVu7KNauqQ=="

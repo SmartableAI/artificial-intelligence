@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-t
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 154
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://cdn.openpr.com/U/2/U216134822_g.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "VW and Microsoft Are Teaming up to Develop Autonomous Driving Tech"
-    excerpt: "Volkswagen is already developing its own autonomous driving technology, even having shown off a working Level 4 prototype a couple of years ago. Now it's teaming up with Microsoft"
-    publishedDateTime: 2021-02-12T19:36:00Z
-    webUrl: "https://www.autoweek.com/news/technology/a35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    ampWebUrl: "https://www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35491230/vw-and-microsoft-are-teaming-up-to-develop-autonomous-driving-tech/"
-    type: article
-    provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/db2019al00703-overfull-1613148012.jpg?crop=1.00xw:0.890xh;0,0.0838xh&resize=1200:*"
-        width: 1200
-        height: 602
         isCached: true
   - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
     excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
@@ -162,20 +146,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2021/01/08/cf/5f/35/37/54/cb/74/c4/space_20210108.png"
         width: 272
         height: 270
-        isCached: true
-  - title: "Now that’s edge computing"
-    excerpt: "Astronauts at the International Space Station will soon be getting a high-performance computer that will connect them to Microsoft’s Azure cloud."
-    publishedDateTime: 2021-02-12T20:40:00Z
-    webUrl: "https://gcn.com/articles/2021/02/12/iss-hpe-computer-azure.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 24
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/Nov-2012/spacestation.png"
-        width: 620
-        height: 300
         isCached: true
 
 secured: "c79fnaeoW8tNDJtWzXN3+DGuSdiZxsvVN8CqFq+vrK/n5DN+z7HHYiXTpvY1uVSm9vzAbXqhrkMRsTEv2H+JJ1uiqhWSfLs1ao80t8jjAPaCD7Fs6Esmk59xug8lPa7uC4i4bqPblx/FfdvjNFjnn5sxM4O9NIc2t5JG0lDM4ba2OK3ecynDX1429vfJyg65mS4uPMVUjC0lGN1D+lMAxf4a9dlcKBpw73aUMTJ3ie4fn1k2B1xxe21ifjHNqKGNkKPdE0VeU/UFByI9V1w2l8ivKM2sguOX0twoHB94J/529BXenbngp73TYGb+IQ0wID5wpE0DvS9xvYY2/a29/AWvLFDHqCY/ZxUDCxEI8RF0cQ2uyrGBsH4HXquxVd4qm8oEljSSaE3q2Ia7tXtFMwnY4B/aqHZY0cslcHY6CF4gTnlKJynEwbuo+Obc0ZDDUaNND+T0CD3zGIXo69TWxDUPVRnIltVQ+c5AC3JrIPNSRfFVhJeqJ6V0ddZAkSdIOuQ+cudukagZ8HZxPWdByA==;zFfGyT9L4mf8E58TARJrXg=="

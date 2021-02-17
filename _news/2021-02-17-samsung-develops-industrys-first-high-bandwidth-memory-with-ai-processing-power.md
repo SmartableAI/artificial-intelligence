@@ -50,7 +50,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 69
+    quality: 67
   - title: "Samsung unveils first high-bandwidth memory with AI processing power"
     excerpt: "Samsung Electronics has unveiled what it says is the industry's first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI) processing power, the HBM-PIM. The new processing-in-memory (PIM) architecture brings AI computing capabilities inside high-performance memory,"
     publishedDateTime: 2021-02-17T10:18:00Z
