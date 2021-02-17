@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "World’s fastest computer gives birth to tsunami-predicting AI"
+    excerpt: "The Fugaku supercomputer was used to develop an AI model that predicts tsunami flooding in almost real-time on a regular PC."
+    publishedDateTime: 2021-02-17T16:54:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-17T133535.015-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Supercomputer-developed AI predicts tsunami flooding in real-time on a PC"
     excerpt: "As a region that is subject to a high degree of seismic activity, tsunamis are a real and ever-present threat for the people of Japan. The teams tasked with managing and responding to these risks may soon have a powerful new tool at their disposal,"
     publishedDateTime: 2021-02-16T06:51:00Z

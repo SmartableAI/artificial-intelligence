@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/GBT-Filed-Patent-Applic
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
 type: article
 quality: 98
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -26,47 +26,35 @@ topics:
   - AI in Security
 
 related:
-  - title: "Petition calls for EU ban on facial recognition"
-    excerpt: "Digital and human rights organisations, led by European Digital Rights, on Wednesday launched a European Citizens' Initiative calling for a ban on the use of biometric mass surveillance in public spaces,"
-    publishedDateTime: 2021-02-17T06:04:00Z
-    webUrl: "https://euobserver.com/tickers/150958"
+  - title: "Recogni raises $48.9 million for AI-powered perception chips"
+    excerpt: "Recogni, a startup developing a perception system for autonomous vehicles, has raised $48.9 million in venture capital."
+    publishedDateTime: 2021-02-17T14:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/"
+    ampWebUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
     type: article
     provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
-        width: 480
-        height: 270
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/e728073b-d9dd-4a6a-b6e8-6ff14821da0a-e1613450016151.png?w=1200&strip=all"
+        width: 900
+        height: 450
         isCached: true
-  - title: "West Midlands braced for AI revolution"
-    excerpt: "Business leaders in the West Midlands are working with the region’s 12,500 leading tech and digital companies to see how they can integrate AI and"
-    publishedDateTime: 2021-02-17T10:38:00Z
-    webUrl: "https://www.smeweb.com/2021/02/17/west-midlands-braced-for-ai-revolution/"
+  - title: "AI hardware startup Recogni raises $48.9M for its autonomous driving module"
+    excerpt: "Recogni Inc., a startup developing artificial intelligence hardware for autonomous vehicles, today announced that it has closed a $48.9 million funding round from a group of investment firms and auto industry players."
+    publishedDateTime: 2021-02-17T14:24:00Z
+    webUrl: "https://siliconangle.com/2021/02/17/ai-hardware-startup-recogni-raises-48-9m-autonomous-driving-module/"
     type: article
     provider:
-      name: SMEweb
-      domain: smeweb.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
     images:
-      - url: "https://i2.wp.com/www.smeweb.com/wp-content/uploads/2021/02/MidlandsHub.jpg?fit=602%2C374&ssl=1"
-        width: 602
-        height: 374
-        isCached: true
-  - title: "AI Eye Podcast 521: GBT Files Patent for AI Facial Recognition System, and WellSpan Expands Deployment of Nuance (NasdaqGS: $NUAN) DAX"
-    excerpt: "Today's Column - The AI Eye - Watching stock news, deal tracker and advancements in artificial intelligence GBT Technologies Inc. ( OTC PINK:GTCH ), along with GBT Tokenize Corp., has filed a patent for an AI facial recognition system for computers and mobile devices with the U."
-    publishedDateTime: 2021-02-16T19:19:00Z
-    webUrl: "https://www.investorideas.com/news/2021/artificial-intelligence/02161GTCH-NUAN.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 22
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/unsplash-2.png"
+        width: 718
+        height: 400
         isCached: true
 
 secured: "btL46BEp2Us6v5IZNS4uxRHixdd5T1sY+zwSqhSAB5rIqiSVzREOwh2db5s3bQuKMdZ9aQhz6Ic8Pjmjys5Q7ekO+vSftgl1yVJz3AvfE41RNcxXNO2qqq12olfqtKAkvdUhcA/hIx6Tur/2Ai1LfgiludAOHI2n6LT5v1fmys5wsWvpKTKtgnnfrZ8J57pFe2v40U2DvgQnUYBE+fBpHXo12S+MclPQQm7PsPFbqZ88JLvrsiGKGq1fapT7PDs4eRGxg70A+7tHpNS571EHoKAzedq267S3RuaqUbqsgUTUPcSrRLPb5zrMbCbrWx/RyBz5fz13Qwvs92fuNjbH30QMbgL2KPrYNIKXkMs4i88=;BDH9q2oYK709SKsbkhhBsA=="

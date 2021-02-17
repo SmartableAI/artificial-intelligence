@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-26-designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone.md",
-      "title": "Designing An Electric Or Autonomous Vehicle Is Like Designing A Smartphone",
-      "excerpt": "Smartphones require the latest technology to increase device functionality and to improve system efficiency to prolong battery life. EVs and AVs face similar challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010114882d6f5e4b4271796%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/amp/",
-      "publishedDateTime": "2021-01-26T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones.md",
       "title": "Trinamix unveils 3D imaging to stop facial-recognition theft on smartphones",
       "excerpt": "Trinamix is introducing a 3D imaging solution that helps prevent fraud when someone tries to log into a system using facial recognition.",
@@ -1392,6 +1340,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-rsip-vision-announces-versatile-medical-image-segmentation-tool-delivering-efficient-anatomical-measurements-and-better-treatment-options.md",
+      "title": "RSIP Vision Announces Versatile Medical Image Segmentation Tool, Delivering Efficient Anatomical Measurements and Better Treatment Options",
+      "excerpt": "Jan 19, 2021-- RSIP Vision, a leading innovator in medical imaging through advanced AI and computer vision solutions, today announces a general purpose, AI-based segmentation and measurement tool for detecting objects of interest and their boundaries quickly and automatically,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-diagnosis-and-treatment-1d5c5f5c3dfb449a9a6125ce5e87091b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-diagnosis-and-treatment-1d5c5f5c3dfb449a9a6125ce5e87091b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

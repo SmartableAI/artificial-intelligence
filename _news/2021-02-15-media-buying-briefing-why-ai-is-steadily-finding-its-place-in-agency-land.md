@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Work on Artificial Intelligence and Machine Learning Standards Begins"
-    excerpt: "Hoping to clear the path for the development of AI and machine learning standards, the Securing Artificial Intelligence Industry Specification Group has released a report highlighting the field’s predominant challenges."
-    publishedDateTime: 2021-02-12T23:53:00Z
-    webUrl: "https://www.automationworld.com/cybersecurity/article/21282958/work-on-artificial-intelligence-and-machine-learning-standards-begins"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 56
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/02/GettyImages_1202271610.6027149b4debe.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Unfortunately, Commercial AI is Failing. Here’s Why."
     excerpt: "While AI is a trending topic in the tech world, artificial intelligence products are failing to impress the commercial sector. The industry is facing AI fatigue due to a lack of scalable AI that is meeting the hype and performing as expected."
     publishedDateTime: 2021-02-13T12:11:00Z

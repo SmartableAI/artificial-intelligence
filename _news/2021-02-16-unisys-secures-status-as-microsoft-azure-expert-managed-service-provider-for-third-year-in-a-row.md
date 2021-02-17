@@ -61,6 +61,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
+    publishedDateTime: 2021-02-17T15:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
+        isCached: true
 
 secured: "8ft+47YpkRQXFqpCQIPiI4ump2Hd7BugCt5W2e68J2lC8f5sZ+4a0Qg0U53b22gSQIH73MTAfLXZhWASbHbSbfwcx41zVGN/B3lUU4K0NhMVv1bJ/iIPsSaOgnJvs6WUxnaHbqafNHoWHXKsQn6g5Wv3s0+TuR6fod7EeVEbBIHpCqAZwJRDkN4LCdmz0fkQfwEipk1FFN9lekZKrKe+aahLUS06xZRnYdxhHGslyYXAqzIm2v4yhf97AHhGVeWMmoIq8HLaRr5fu+mtaUcJn7QKu3xM45ozTNzCKFimGC3fCpqUJjbGZT1joRBKQ/fCqCUrpssRXxPayx/OGgIQw7Pkww/z/9/te6NYkUc1AHw=;9zyTBebR6wItAlTo3M5i5Q=="
 ---

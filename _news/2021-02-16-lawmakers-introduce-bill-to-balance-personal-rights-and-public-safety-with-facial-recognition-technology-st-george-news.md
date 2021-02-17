@@ -107,6 +107,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "FTC Settles Facial Recognition Data Misuse Allegations with App Developer"
+    excerpt: "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app"
+    publishedDateTime: 2021-02-17T16:26:00Z
+    webUrl: "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer"
+    ampWebUrl: "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 58
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Russian police use facial recognition or ‘face control’ against protesters"
     excerpt: "He was detained on his way there by police using facial recognition technology in the Moscow metro. But reports from other protesters who have attend rallies in recent weeks in support of jailed opposition politician Alexei Navalny also indicate police are using facial recognition technology to make preventive arrests and detentions."
     publishedDateTime: 2021-02-14T15:21:00Z
@@ -180,6 +196,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/cbpfacialrecognition.jpg"
         width: 1097
         height: 700
+        isCached: true
+  - title: "Petition calls for EU ban on facial recognition"
+    excerpt: "Facial recognition technology is under fire again in Europe as digital and human rights organisations launched a petition calling for a ban on biometric surveillance in public spaces. The European Citizens’ Initiative (ECI) calls on the European Commission to regulate the use of biometic technologies,"
+    publishedDateTime: 2021-02-17T15:10:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/petition-calls-for-eu-ban-on-facial-recognition"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1613574436/widgetdocs/Biometric_surveillance_jwbisi.jpg"
+        width: 750
+        height: 445
         isCached: true
   - title: "Minneapolis passes restrictions on facial recognition use by local police"
     excerpt: "Minneapolis has passed legislation blocking the use of face biometrics by city police, the Star Tribune reports. The ordinance passed by Minneapolis City Council bars local police and other city agencies from acquiring facial recognition technology,"

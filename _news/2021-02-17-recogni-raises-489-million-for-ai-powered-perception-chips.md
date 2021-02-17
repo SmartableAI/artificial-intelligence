@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: VentureBeat
@@ -31,55 +31,32 @@ images:
     isCached: true
 
 related:
-  - title: "AdmitHub raises $14 million for AI-powered education-focused chatbots"
-    excerpt: "AdmitHub, a startup developing a chatbot platform for higher education, has raised $14 million in venture funding."
-    publishedDateTime: 2021-02-16T14:01:00Z
-    webUrl: "https://venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai-powered-education-focused-chatbots/"
-    ampWebUrl: "https://venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai-powered-education-focused-chatbots/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai-powered-education-focused-chatbots/amp/"
+  - title: "GBT Filed Patent Application for AI Based Facial Recognition Security System"
+    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a patent for AI facial recognition system,"
+    publishedDateTime: 2021-02-16T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system-1030085984"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/admithub.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Edgybees raises $9.5 million for AI that augments drone camera footage"
-    excerpt: "Edgybees, a startup developing a platform that augments drone camera footage using AI, has raised $9.5 million."
-    publishedDateTime: 2021-02-17T14:04:00Z
-    webUrl: "https://venturebeat.com/2021/02/17/edgybees-raises-9-5-million-for-ai-that-augments-drone-camera-footage/"
-    ampWebUrl: "https://venturebeat.com/2021/02/17/edgybees-raises-9-5-million-for-ai-that-augments-drone-camera-footage/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/edgybees-raises-9-5-million-for-ai-that-augments-drone-camera-footage/amp/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+  - title: "AI hardware startup Recogni raises $48.9M for its autonomous driving module"
+    excerpt: "Recogni Inc., a startup developing artificial intelligence hardware for autonomous vehicles, today announced that it has closed a $48.9 million funding round from a group of investment firms and auto industry players."
+    publishedDateTime: 2021-02-17T14:24:00Z
+    webUrl: "https://siliconangle.com/2021/02/17/ai-hardware-startup-recogni-raises-48-9m-autonomous-driving-module/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/04/drones.jpg?w=1200&strip=all"
-        width: 1200
-        height: 722
-        isCached: true
-  - title: "Peak.AI raises $21 million to drive enterprise AI adoption"
-    excerpt: "Peak.ai, a startup developing a fully managed enterprise AI development platform, has raised $21 million in venture funding."
-    publishedDateTime: 2021-02-17T12:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/17/peak-ai-raises-21-million-to-drive-enterprise-ai-adoption/"
-    ampWebUrl: "https://venturebeat.com/2021/02/17/peak-ai-raises-21-million-to-drive-enterprise-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/peak-ai-raises-21-million-to-drive-enterprise-ai-adoption/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/e8286f84-c7fd-4838-98e2-565e929b34cc-e1613487561658.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/unsplash-2.png"
+        width: 718
+        height: 400
         isCached: true
 
-secured: "ZEZRzNztMOcz67Yh96bUOxUyXjH5jb61R2IP0l4e+BAcKvKEpwJaTV0uB7tgsOBlv55+THJPIvVU2MsVHBzL+be4XHxhgH3Ecm3V6aWnF2KPtt7kNld67KTHZQxwell+uw5jSjaPy1pnDp+MdbhLo3i/3+Mbjwdz0SaJkqm8m78BSxIxLSMCeXUp4li1oULNcZf13x+Y8Cvw7teZasBHwOiU7JcODe+UvpZ+/a9hK3XFt1skmyrhs7HlQnUR2YXsF9AoMO3TovW2btAziwzbut1hBfm7uGjbgiaGxT9zK/3I7IiRH/DP7IaaV59usFUGgrNKx2mJhviA521Nnjz8eTjf9dk5Pzzj4iE3eTxIks0=;z/gjhWfyF3qQBSykv7qXAw=="
+secured: "TaZgeQAwSLvw4NVh12wFVl02+XVsoQZcbWVbJNG3G15QfwZzOyrMGajwkus51KGYsHWIyJKu0oLUgiwgv+LS8J11vliBAho5e3k2u6OehjIUzFcbuzUV0/0NFmchcKAUOrTSAew/TQ8Jv5rA9fyNt95LlWKghCKk+FMq1YpFpnEhsrRWat0v6yms17O8w4ya6Z12A5/zMesLTLVtg3FoKvU+u9Hvb5cr750qGXbDG8PmoUXxCq7oi62cMtgukBxDATvhUNePdTyYgJqa2XgUWTQsdRKCoOb25arcgUhxIZHdxZlbrapKGuAxa3D9ONXxhzWr0Hp2g2PtHj+Ud9WreagzhIam+WHrGnS2/zguieVgEiF7ccg+hrjZmjenTNx3jwveExd06C/hZfCqYs9TY0K5j0VUIe84h58z9MGiAh0NLE4cYrppOGxHP6GUxIT1M71vQujOyp15pdu8XvhZPSmk9vdeFs4xMaTcJNZZ1MXQripsMy2kJMezFCEaIOMN7m7BW3243xVjFEGcRSkd2w==;FhOYVYv8BYy3LqObS+7mQw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2021/02/tv-significance.jpeg?fit=682%2C397&zoom=2&quality=100&strip=all&ssl=1"
         width: 1363
         height: 794
-        isCached: true
-  - title: "Work on Artificial Intelligence and Machine Learning Standards Begins"
-    excerpt: "Hoping to clear the path for the development of AI and machine learning standards, the Securing Artificial Intelligence Industry Specification Group has released a report highlighting the field’s predominant challenges."
-    publishedDateTime: 2021-02-12T23:53:00Z
-    webUrl: "https://www.automationworld.com/cybersecurity/article/21282958/work-on-artificial-intelligence-and-machine-learning-standards-begins"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 56
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/02/GettyImages_1202271610.6027149b4debe.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Unfortunately, Commercial AI is Failing. Here’s Why."
     excerpt: "While AI is a trending topic in the tech world, artificial intelligence products are failing to impress the commercial sector. The industry is facing AI fatigue due to a lack of scalable AI that is meeting the hype and performing as expected."

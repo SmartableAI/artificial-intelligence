@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-16-gbt-filed-patent-application-for-ai-based-facial-recognition-security-system.md",
-      "title": "GBT Filed Patent Application for AI Based Facial Recognition Security System",
-      "excerpt": "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a patent for AI facial recognition system,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system-1030085984",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system-1030085984",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984",
-      "publishedDateTime": "2021-02-16T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2021-02-16-uae-face-recognition-market-size-to-witness-huge-growth-by-2025.md",
       "title": "UAE Face Recognition Market Size to Witness Huge Growth by 2025",
       "excerpt": "Selbyville, Delaware According to the latest study on 'UAE Face Recognition Market Analysis, 2020', available with Market Study Report LLC, the United Arab Emirates face recognition market is projected to showcase tremendous growth trends through 2025.",
@@ -158,7 +114,7 @@
       "originalUrl": "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1466,6 +1422,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
+      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "originalUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/22686fc/2147483647/strip/true/crop/1289x725+0+0/resize/1289x725!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
+          "width": 1289,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

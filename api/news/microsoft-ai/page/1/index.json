@@ -2,38 +2,29 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-17-tigergraph-raises-105-million-to-grow-its-big-data-analytics-platform.md",
-      "title": "TigerGraph raises $105 million to grow its big data analytics platform",
-      "excerpt": "TigerGraph, a startup developing a graph database development platform, has raised $105 million in venture funding.",
+      "path": "_news/2021-02-17-lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascendio.md",
+      "title": "Lumiata Extends Data Preparation for Healthcare Customers on AWS and Azure in Partnership with Ascend.io",
+      "excerpt": "Lumiata has announced a new partnership with Ascend.io in order to provide customers with access to its proprietary data preparation process. This relationship will ensure that all Lumiata customers,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/17/tigergraph-raises-105-million-to-grow-its-big-data-analytics-platform/",
-      "originalUrl": "https://venturebeat.com/2021/02/17/tigergraph-raises-105-million-to-grow-its-big-data-analytics-platform/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 96,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/17/tigergraph-raises-105-million-to-grow-its-big-data-analytics-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/tigergraph-raises-105-million-to-grow-its-big-data-analytics-platform/amp/",
-      "publishedDateTime": "2021-02-17T05:02:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
+      "publishedDateTime": "2021-02-17T05:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +41,9 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
       ]
     },
     {
@@ -62,7 +55,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {

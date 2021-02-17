@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-03-short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-391.md",
+      "title": "Short Interest in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Increases By 39.1%",
+      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the recipient of a significant growth in short interest in January. As of January 15th, there was short interest totalling 295,500 shares,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html/amp",
+      "publishedDateTime": "2021-02-03T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players.md",
       "title": "Artificial Intelligence Robots Market 2020: Expected Development, Share, Demand And Study Of Key Players",
       "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence.",
@@ -1314,58 +1357,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods.md",
-      "title": "Northwestern scientists create soft robots that can walk and transport goods",
-      "excerpt": "A group of professors and researchers at Northwestern University have created an innovative new kind of robot that is soft, can walk on its own, and transport cargo. Samuel Stupp, the board of trustees professor of materials science and engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods/",
-      "originalUrl": "https://www.techrepublic.com/article/northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/01/27/9d1d6bec-c0fd-4e49-8afc-57252c0b0f83/resize/1200x/bd3d1d074a70899ee11e3a1bdab134cc/sr-banner-image.jpg",
-          "width": 1200,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods/",
-      "publishedDateTime": "2021-01-27T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

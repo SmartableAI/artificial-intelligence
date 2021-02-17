@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-tra
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "The Future of Banking, Fintech and Payments – February 2021"
+    excerpt: "Figure 2 illustrates an incident related to customer experience where models detected an anomaly in transaction success rate for VISA payments for a particular merchant. The drop in transactions (depicted in orange) would have gone unnoticed if static thresholds had been used,"
+    publishedDateTime: 2021-02-17T15:20:00Z
+    webUrl: "https://business-reporter.co.uk/the-future-of-banking-fintech-and-payments-february-2021/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/02/financial-advisor-vector-isometric-landing-page-template-vector-id1217470000.jpg"
+        width: 583
+        height: 478
+        isCached: true
 
 secured: "ug09OSj2QkiKZHXDmzO4qCg21wtwBfOKhi4r2xIXjINLaVGLlhKD75BPW1B33AEKFqLB6jnKVw792EOGHkLJQaxVQWast6027Nf3Mg3jeWZj9cSw9CmplToJnoiGVa2EhYxdoHIfmfWI3lAetGInL4Ya46TfjA5pBI4NK77MxkuqaBJ1gUZuxpgtbXWUzYEJcCr0+inELExt3vr9R4ezMz1RV5akJeqiuz8/rPHrPhLNiJRVDCjshfxSkx7s16V+fIQt2369GYlz3mOOKx3Sr5ZdPDlAXuQdGGUDHDubMUwwFkL6mYFcZP6Jm3jWnoG3WwEdJL3uzv7J0M7EVloQLLvADRDLQXb70FtCAuBnINVqMidFfy4nZe45So/kj11/t7TFS5GBzZg7OgP87YdmeDH5NJCmuVLbPJgpOcN/9oz0vlxPr6Osr7brAYLbGXpUBqaOffAYE2RtPJ40e7vq2sNHFtQ5TTlS+oXQqC1ozqZwdN6N+9wKDGZgYO55eMT8S2Cdm7WfQS4gSur0qO69Mg==;RSNKRyauLkyL0C4KUnlHDA=="
 ---

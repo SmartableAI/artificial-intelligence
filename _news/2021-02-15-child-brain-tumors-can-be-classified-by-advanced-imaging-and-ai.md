@@ -42,6 +42,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Automatic classification of canine thoracic radiographs using deep learning"
+    excerpt: "The interpretation of thoracic radiographs is a challenging and error-prone task for veterinarians. Despite recent advancements in machine learning and computer vision, the development of computer-aided diagnostic systems for radiographs remains a challenging and unsolved problem,"
+    publishedDateTime: 2021-02-17T15:47:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-83515-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83515-3/MediaObjects/41598_2021_83515_Fig1_HTML.jpg"
+        width: 685
+        height: 679
+        isCached: true
 
 secured: "OHa6qhJn+qN7TR08WdVqu2LcjilKH4AHfrkZtN94KBCSrpAj96vGxwaNSPRZ8QBOP0DCt0jIy9/+KUb8Vy5dC2/dSZdh0EQfW5UFf6H3XhvJoMTlVaYNw98cX05HwaiwEA6446T0WTY9WTYasmrFSWTYa3S7AwPGJixVboyadxggCqiXz+He9iX2qyeJD0mfSJ/xeuO2U+KFdRN6ha2uVeKJmEpWcdg4SHTOt2XFtNyPucc8WPIfeUYrI+ojS3JnTatr5lKT0mhaMZTw+mID4bq7EY2jaihXdMn+YSDCEKYkxIJAja8N8BuzR3GaBMNMlkXlNuhu1kejpkqBxRzWYLie5DHBP9jOO+A2q6r5DN4yERL5JUtAuPySscqlbk3rtULxTmXAcx8Iu5saaHhkt0ZNgugZHkBIIr2Em8I2b/Srvmfh77zfQiHuJiA+Zh9/7MaiWCca1GJ08TgLY5O2QG2Ughqz5oV/FSN8F8Yha1c0lX1P8Qbcn8EpbucX3LaS/MfgBT1hWUGUHF5AotB9AQ==;fb8jS5B2Hs5P+MdHk1C97Q=="
 ---

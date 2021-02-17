@@ -52,20 +52,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Humana, IBM Watson Health team up to provide access to AI chatbot"
-    excerpt: "Through a new collaboration, Humana's Employer Group members will gain access to IBM Watson Health's AI-powered digital assistant. The chatbot will provide information on member benefits, claims, referrals and cost estimates for medical services."
-    publishedDateTime: 2021-02-12T23:45:00Z
-    webUrl: "https://medcitynews.com/2021/02/humana-ibm-watson-health-team-up-to-provide-access-to-ai-chatbot/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2020/01/GettyImages-1161976315.jpg"
-        width: 788
-        height: 443
-        isCached: true
 
 secured: "8gajySjMl2yilo3YQFu7NeYnIx4Blin9GTGz2SqhoUwpwQHxAEp02wsaKUQkedKdxTFyTtHoxUXxIG/EfjANF1kZ2g/fYoq5GlTZssDqlxRaGEuBKsw5tjQP64Qx4Aa4kp22mPRfEt6e1mwWmLavVZcerFwq+JMOKSzvY8WlH7Y+/WEwsaQHMHQ/kF7MaypEzcptYKVYNNSZgBFAoTyLUDciLYh4BhBkxGH1P4j2Xrz0UU+vIKWGt6LwrGHnaPr12aqtnF83I0xACstmAYaCpY1wlJHvav4AqBZdBz+cyy85hlpnR/EqYb8hyycVzy4QfG7CBw5x165p2o/QME8h7R2pCXfHVmKq5BMjhmr4uFs=;q0t27IbAfPeaNC9JpRPA1Q=="
 ---

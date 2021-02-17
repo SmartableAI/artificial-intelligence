@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://i.insider.com/6018d1106dfbe10018e0135d?width=1200&format=jpeg"

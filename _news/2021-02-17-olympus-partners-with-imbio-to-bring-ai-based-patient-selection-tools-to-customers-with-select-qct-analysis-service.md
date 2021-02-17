@@ -46,7 +46,7 @@ related:
     provider:
       name: Electronic Design
       domain: electronicdesign.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/02/Micron_promo_web.602aa7b3788f9.png?auto=format&fit=max&w=1200"
         width: 1200

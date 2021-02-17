@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-t
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://healthpayerintelligence.com/images/sized/GettyImages-1189484012-3f32efd853ffed8e5d8a1184abc2c18d.jpg"
         width: 480
         height: 278
-        isCached: true
-  - title: "Humana, IBM Watson Health team up to provide access to AI chatbot"
-    excerpt: "Through a new collaboration, Humana's Employer Group members will gain access to IBM Watson Health's AI-powered digital assistant. The chatbot will provide information on member benefits, claims, referrals and cost estimates for medical services."
-    publishedDateTime: 2021-02-12T23:45:00Z
-    webUrl: "https://medcitynews.com/2021/02/humana-ibm-watson-health-team-up-to-provide-access-to-ai-chatbot/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2020/01/GettyImages-1161976315.jpg"
-        width: 788
-        height: 443
         isCached: true
 
 secured: "V2k+XdQyO9GAhtgqXEG/ikP9FeVaJG3NL1KlYInaows/o8xFSypM7A1BHQ45LUrfbq6frzF1Qe4yQVaizU4fQoJWznxgN0A608+OPEaTCInAeQGnLKsL8ULdP7gSRksu3gy9LaVRCNmPGavST5EimzGIVu0ojX2iO+d4sbVrn4hKYxo/8taEbLr2g/Bce52ByQBiTMVhz7Pmh9cKh2SmYHKJVL2ubU2IgXgGaIgOy7TqaTB1OzDYB8fexgPyhGGJ8tkd59ftK7tKvH4OZHA8gqqS6A1dp6d5ITY2hLTrozZMsNpIcHzUamQfa2tvR9khsoaQ5O+6R6kvVU7rmuDPl9pVk/ap9QYx1KooMAI/L1M=;5DzlovyhFMns+HLJDtXSoA=="

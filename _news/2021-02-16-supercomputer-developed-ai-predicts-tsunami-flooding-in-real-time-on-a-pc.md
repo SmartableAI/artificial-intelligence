@@ -9,8 +9,8 @@ ampWebUrl: "https://newatlas.com/environment/worlds-fastest-supercomputer-artifi
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/worlds-fastest-supercomputer-artificial-intelligence-predicts-tsunami-flooding/?amp=true"
 type: article
 quality: 86
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: New Atlas
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "World’s fastest computer gives birth to tsunami-predicting AI"
+    excerpt: "The Fugaku supercomputer was used to develop an AI model that predicts tsunami flooding in almost real-time on a regular PC."
+    publishedDateTime: 2021-02-17T16:54:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-17T133535.015-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Fujitsu leverages world's fastest supercomputer and AI to predict tsunami flooding"
     excerpt: "A new AI model that harnesses the power of the world's fastest supercomputer, Fugaku, can rapidly predict tsunami flooding in coastal areas before the tsunami reaches land."
     publishedDateTime: 2021-02-16T17:32:00Z

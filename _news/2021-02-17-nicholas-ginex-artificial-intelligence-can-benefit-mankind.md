@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Nicholas Ginex - Artificial Intelligence Can Benefit Mankind"
-excerpt: "After reading the documentary, In the Age of AI – Frontline (Full Film by Frontline PDS (The American Public Broadcasting System), this"
+excerpt: "After reading the documentary, In the Age of AI – Frontline (Full Film by Frontline PDS (The American Public Broadcasting System), this author was compelled to warn people that there is a danger that Artificial Intelligence (AI) can be used to crush the freedoms Americans have fought for."
 publishedDateTime: 2021-02-17T13:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/nicholas-ginex---artificial-intelligence-can-benefit-mankind-301227513.html"
-webUrl: "https://www.prnewswire.com/news-releases/nicholas-ginex---artificial-intelligence-can-benefit-mankind-301227513.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/nicholas-ginex-artificial-intelligence-can-benefit-mankind-1030092223"
+webUrl: "https://markets.businessinsider.com/news/stocks/nicholas-ginex-artificial-intelligence-can-benefit-mankind-1030092223"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/nicholas-ginex-artificial-intelligence-can-benefit-mankind-1030092223"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nicholas-ginex-artificial-intelligence-can-benefit-mankind-1030092223"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1437517/Nicholas_P_Ginex_Book_Cover.jpg?p=facebook"
-    width: 2057
-    height: 1077
-    isCached: true
-
-secured: "GTh0WRYfar1+QTSzZQQEmjkAK6OE6bWwe641HTYen41T7hBL+KpuCGJzbPtOyH0lwzwRfdrMRq/pPx0huPTH+t+0aVVHKLC/WiamVlgJho0UdnD2nKyfFj1YUfL5gjUE2PQjWiYIqN8TltLKnrr4Vd172M9gdSqMMd2LGIo9GvnFnyYCPKGyZgM/0daDEw/qo9Jkxv/15iGV1OymZk35ZxjxdwtyTB0fMk73fpG0+xx+DTxyyWldJNliIIOvrQitZB1zzFUNulSr0qf5zsIif/LzBBXXFW2cmnam+VPxHt9jVt+pQSeyvI8gdQNagVs50bKKmn2Dy5n8H5dFLkEBUqewdIv2r91MDw/aW4etgsk=;zGi2Jb1b430Q8fnq9g2J4g=="
+secured: "daIThqmBmQiYg0z8fgZAF+DOtaqSXdkx65XmPmVOy/jy5rOxWWLTAKKuo4jKC4VWC/3R7T4ZB/W5PzswN8l/WasRHkHx8KqaAQoAGpgE3iY9wanFSCOP9RPUFt35gYxPIMa9E4bbDOEcG1BYKUNOahafaxBNMKllVojYBQIO6mTmo1qYb7FWmeZoJtkWPql0ZXsJF7m88ewjDCgOKB72lF6GpRusM1jGVnV18+gYw+cRSZhR3cIYDJDjdaJs0Vxfl8UQuS0B/Hknc9U74nELSXZc/FVH6EEnz5drTf/JzUJ1oRU+Vdy0JuYPVD0wXcxkRIRbkzLz7+O3AeLmJmT18tzSOB6RfZPDg+x70w6ktr4=;tjlWg8Y735g2EmwRnrZtlw=="
 ---
 
