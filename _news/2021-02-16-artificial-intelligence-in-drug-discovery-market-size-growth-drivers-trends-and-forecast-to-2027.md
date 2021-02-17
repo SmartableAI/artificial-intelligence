@@ -24,50 +24,84 @@ images:
     isCached: true
 
 related:
-  - title: "AI predictions and trends to watch in 2021"
-    excerpt: "AI is increasingly all around us, and we can expect to see more advances in the coming year in everything from vaccines to online shopping to farming"
-    publishedDateTime: 2021-02-16T10:00:00Z
-    webUrl: "https://www.itproportal.com/features/ai-predictions-and-trends-to-watch-in-2021/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/ai-predictions-and-trends-to-watch-in-2021/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-predictions-and-trends-to-watch-in-2021/"
+  - title: "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)"
+    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
+    publishedDateTime: 2021-02-17T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16"
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
-  - title: "Predictiv AI Partners With MCL Sustainable Cleaning Solutions To Sell Into Education, Government and Food Service Sectors Across"
-    excerpt: "Canada Canada NewsWire TORONTO, Feb. 12, 2021 MCL"
-    publishedDateTime: 2021-02-13T09:38:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 55
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2021 Predictions: Memory and Storage Boost Innovation in 5G, AI, and More"
-    excerpt: "From AI to 5G IIoT to ADAS, Micron Technology’s industry experts weigh in on the trends that memory and storage will help advance in 2021."
-    publishedDateTime: 2021-02-15T17:09:00Z
-    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21155161/micron-2021-predictions-memory-and-storage-boost-innovation-in-5g-ai-and-more"
+  - title: "Artificial Intelligence Ai Market 2027 | Trends, Growth Overview, Development Size and Revenue Forecast | ARC"
+    excerpt: "The global artificial intelligence market is expected to reach the market value of around US$ 160 Bn by 2026 and is anticipated to grow at a CAGR of around 49% in terms of revenue during the estimated period 2019 - 2026."
+    publishedDateTime: 2021-02-15T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2027-trends-growth-overview-development-size-and-revenue-forecast-arc-2021-02-15"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/02/Micron_promo_web.602aa7b3788f9.png?auto=format&fit=max&w=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
+    excerpt: "Selbyville, Delaware According to a recent study titled 'Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Analysis, 2020', available with global artificial intelligence (AI) enabled drug discovery and clinical trials market is slated to grow considerably over 2020-2025,"
+    publishedDateTime: 2021-02-15T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-drug-discovery-and-clinical-trials-market-size-trends-companies-driver-segmentation-forecast-to-2025-2021-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Automotive Artificial Intelligence Market (2020 to 2026)"
+    excerpt: "Global Automotive Artificial Intelligence Market (2020 to 2026) DUBLIN, Feb. 15, 2021 / PRNewswire / - The “Global automotive artificial"
+    publishedDateTime: 2021-02-15T20:08:00Z
+    webUrl: "https://www.compsmag.com/news/technology/global-automotive-artificial-intelligence-market-2020-to-2026/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/global-automotive-artificial-intelligence-market-2020-to-2026/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/global-automotive-artificial-intelligence-market-2020-to-2026/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 37
+  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2021-02-16T05:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-robotics-9e905439ab7f41d191e830ab1499ec4e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
+    excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
+    publishedDateTime: 2021-02-13T10:14:00Z
+    webUrl: "https://www.openpr.com/news/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
 
 secured: "ZEGVH37Ekr1GyAEj3329YhnOJFBbcaPf/k7CiWRo+Gzfj1d/3cA5l5pmp7dfCmk+WsOS5iHdziIC02pWbmTOLoSfdIUnaLPn+98+5cQCMqzuWYhwINgRDtQubDjrx8elLyykQF7h8CX7OTOoS3kB+osJE24QQGNxnKr+11XLjQX0nkWqyVsH0IasIvBzUeO8FEYlAas+MRYJY6NoN6finK6QKNgG+LWRnIUCpBKGC/zl2LFPkZHtQLQJR+mYi4OeOvCydLxMnw9WnqczFOVAu4x7gCiB6H6/yL6jK1kLiEcS75kC2rRRFLkVhnh6KbQodKA/kNvWNMFQJQW8NUupKpIEFKY64Uaw07Rq1nqS4d1xCgqZTJlgrw0kIilTiKM1vXS/p22hsK/vQ4qZMfseYHJ7K8Kh5jBcBxBk3LQ1xvzOGgBDaJz+bM7ZJAK9lRll48RRTVh9ip1VF7cH5jGewgqJpayfiUCAt099pNMBI2IPG4wYP2LqcztzXD85AbvWKhHPzC9Nu87SmiiE8SpLaw==;CR97NfCVQ9beib9mc5hcwQ=="
 ---

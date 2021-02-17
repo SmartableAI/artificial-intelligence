@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
 publishedDateTime: 2021-02-11T13:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "uUohzRoBTmz9qO/QX+davKCTj8BA3KrCIfwDC/Erp/pb4/jxYtpuzX5aktgmcBAbRjxERDlEuDJxBLrllTdmj+WQk9f5XZ3eyQLb5kx8utPJiBaBWX853cJCYCsNKraRNHrHBei0HayNzc0VoWCgMmp5KapkdKk1RyZgNjB+GD2PPhvPHz9TGEkrnn0deo/5kD+BFcErPW2EfFhydWilT3cvByMeA2eUBSDXkcPdmiotZ9AI/adWiLe3a7V6/v+u1z03UzNNzaAN5ni4lrGoICfzBMI/M9OO1Nqw7sx61uYBQfbRYs+3aS0vS+sv1Q939/dEQXkNBAL3Hp5B7Kkjj5+SOSqEKGOO64DximF45F0=;mSOrYwwDGxLIv4U2wlZuAA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "6UAabRRRCtM3yEj7uAde2/UkX81yxaeQkMbuuqqm/inMg11Kj8PSdKE8HyX0Z3ecteMI9e1r5ru1muoTZna0hfU1+e/jP7TO9KOTQ+he0IZ9HMGwlzWx6bM8az0s+DB8ToR/Pxk/eJfLtP0GB+R1b5dVwu7v70XJDWDotU9IF/DeLog0WjIhfG0elb82y8iOYxJYfXC7tOw6O+W6FMkSqzLM31r+gdXImceyVM10UcPZSa9xsd5XnqJPx+03JXxRDEgDHFmJ0Ys4QH5eNCgQoOmCbUqHK1CbhZVJu2LBugbEb+f2a1jo/uq16bCBvYY1p+NGt98wvhoF8mAQv6fp4NmAj9+Mqfb4jniq4wiqYFE=;oQGPO3CYiBaqU4GjwfpWjw=="
 ---
 

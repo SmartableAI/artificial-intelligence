@@ -112,6 +112,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Mass facial recognition is the apparatus of police states and must be regulated | View"
+    excerpt: "Research shows that facial analysis algorithms consistently judge black faces to be angrier and more threatening than white faces."
+    publishedDateTime: 2021-02-17T06:30:00Z
+    webUrl: "https://www.euronews.com/2021/02/17/mass-facial-recognition-is-the-apparatus-of-police-states-and-must-be-regulated"
+    ampWebUrl: "https://www.euronews.com/amp/2021/02/17/mass-facial-recognition-is-the-apparatus-of-police-states-and-must-be-regulated"
+    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/amp/2021/02/17/mass-facial-recognition-is-the-apparatus-of-police-states-and-must-be-regulated"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 51
+    images:
+      - url: "https://static.euronews.com/articles/stories/05/36/09/86/1000x563_cmsv2_d51b8010-d9c7-5da4-b215-4f068430bde3-5360986.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Facial recognition under scrutiny as Clearview AI’s practices ruled illegal in Canada"
     excerpt: "Canadian authorities have deemed Clearview AI's facial recognition practices a “clear violation of the privacy rights of Canadians”."
     publishedDateTime: 2021-02-16T08:05:00Z
@@ -139,22 +155,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/cbpfacialrecognition.jpg"
         width: 1097
         height: 700
-        isCached: true
-  - title: "Canada’s Privacy Commissioner Rules That Clearview AI Facial Recognition Software Violates Privacy Laws, Must Delete Biometrics From Its Database"
-    excerpt: "Already unwelcome in parts of the US, Clearview AI has been shown the door in Canada. The controversial facial recognition company's practices are in violation of the country's privacy laws."
-    publishedDateTime: 2021-02-12T16:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 39
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/02/canadas-privacy-commissioner-rules-that-clearview-ai-facial-recognition-software-violates-privacy-laws-must-delete-biometrics-from-its-database_1500.jpg"
-        width: 1500
-        height: 860
         isCached: true
   - title: "Minneapolis City Council Bans Use Of Facial Recognition Technology"
     excerpt: "Minneapolis City Council has approved a new ordinance which bans the city from buying or using data derived from facial recognition technology."

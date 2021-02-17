@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-com
 webUrl: "https://www.linkedin.com/news/story/the-self-driving-toyota-is-coming-4320537/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -29,21 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Help Arlington name it’s new self-driving vehicle service"
-    excerpt: "Arlington is calling for the community’s help to name the city’s new fleet of self-driving vehicles. In March, five autonomous shuttles will be"
-    publishedDateTime: 2021-02-12T15:25:00Z
-    webUrl: "https://www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/"
-    ampWebUrl: "https://www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/transportation/2021/02/12/help-arlington-name-its-new-self-driving-vehicle-service/?outputType=amp"
+  - title: "The Wealthiest Self-Driving Car Add-On Options"
+    excerpt: "Consider that during the first era of self-driving cars there will be add-ons, and those will likely one day become standard fare."
+    publishedDateTime: 2021-02-13T16:50:00Z
+    webUrl: "https://www.newsoneplace.com/6956032012/wealthiest-car-options-self-driving"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 44
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 24
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/UR710TyFSKSwr8XnpKKGe-40q1M=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/AOELJWW3DVGNNKZEY5IZ3HZ26Q.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/601dc225367d07fd58a05945/0x0.jpg?cropX1=0&cropX2=4595&cropY1=266&cropY2=3328"
+        width: 5616
+        height: 3728
+        isCached: true
+  - title: "Self-driving Ford Ranger takes to the mines"
+    excerpt: "Fortescue Metals Group has announced today that four vehicles from its Ford Ranger fleet have been retrofitted to operate autonomously around the Christmas Creek mine site in the Pilbara region of Western Australia."
+    publishedDateTime: 2021-02-15T16:26:00Z
+    webUrl: "https://www.motoring.com.au/self-driving-ford-ranger-takes-to-the-mines-128556/"
+    type: article
+    provider:
+      name: motoring.com.au
+      domain: motoring.com.au
+    quality: 24
+    images:
+      - url: "https://motoring.pxcrush.net/motoring/general/editorial/foretescue-metals-group-autonomous-05.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "b+Auwj/hv5KHQgZJj53zxF+U6dc8Ps6vUAwtuuVHQp1dnDOQSOF1eA9wif9sNKVblKYjBUNDAIC4uEKn0QCcjieErK2WUe/FsMIW6I0BneJ7lytgwdeWCDnqcdVYu6AMCUqRVDctLlb+zBa35m0ZhzHMhGgMSUDW8Qs+tCBkf5t5ZiVvnXKXIsqLiBIdcuxM8MsacSXHI3x0lcrtIoIrQdjv0XDducjjoBDCnJnPbYfEz+UM1sTfyKcX/aykr5UYWaUvOrOq7Jm+0ARW7nQc7uXWH/nZEurWKerj/fY6qZm6YIuCakwkJSFQ5NDudCIRZzy82brfo3LiafA8Bx+Fldo2xf3pB9rGw6day/n+VjoyGI4Er/aLXMlINA4Us6PlQehuSTxvKgcLBb+3qLHwb4z25NrT/7ZIl67yRI3NVajaqwGUp2sX0o2lDD1yFB19WhFBZ7L69hLOY3KcLQ6bDdKcDcyDDzOpoJ/91GWug3ahMUkJw0qtCRKQXcG4bBhhG85Y+pGutDwUOvmT4Mx/xQ==;KuVFP36Uy/WkyWM1twu+bQ=="

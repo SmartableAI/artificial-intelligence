@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
-    excerpt: "Selbyville, Delaware According to a recent study titled 'Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Analysis, 2020', available with global artificial intelligence (AI) enabled drug discovery and clinical trials market is slated to grow considerably over 2020-2025,"
-    publishedDateTime: 2021-02-15T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-drug-discovery-and-clinical-trials-market-size-trends-companies-driver-segmentation-forecast-to-2025-2021-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application – Global Forecast to 2025"
     excerpt: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application - Global Forecast to 2025 . New"
     publishedDateTime: 2021-02-16T18:10:00Z
@@ -80,17 +66,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
-    excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
-    publishedDateTime: 2021-02-13T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
 
 secured: "VVgKtGLLqb5nmzX4bq+vx+XiPlCLzFWVUjI84SaCE6ChMO5Ah9kFzBzXiUqElUQIB6tM5xuta9KCMmLpAXqFLfBzbIYx5ff9llADMTpTMicPnsuY5Ojdx1/TQ/meeOgF5joVVC1pyTJ50KpFXw1z9XJBfDhtdDabeVRKxtuKbISt2ndMnrmz7mXzVCN0uDnugdbozEruVGIVf9JS4SpGy1P10QZXTizqXKv+60iielIbP3FqQ0u/e6yuberg9cLw6dtr10gMvYpgf8ghhPA2sc/4Si5lEeckRq3a37G96tmNQhD3xcDAZkjOP5EuWe0r3RY+HMj9L3RjcD8v/us8ZyQsjAJA2EqPCpDca2uN40o=;IqQzz7cBd0kIcUcr6XXEAQ=="
 ---

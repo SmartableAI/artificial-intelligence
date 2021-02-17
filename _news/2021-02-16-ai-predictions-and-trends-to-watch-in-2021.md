@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/ai-predictions-and-trends-t
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-predictions-and-trends-to-watch-in-2021/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/02/Micron_promo_web.602aa7b3788f9.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Artificial Intelligence In Drug Discovery Market Size, Growth Drivers, Trends and Forecast to 2027"
-    excerpt: "Request a Sample of this report @  The global Artificial Intelligence In Drug Discovery market is expected to reach at a remarkable value and to grow at a considerable CAGR over the forecast period i."
-    publishedDateTime: 2021-02-15T20:12:00Z
-    webUrl: "https://ipsnews.net/business/2021/02/15/artificial-intelligence-in-drug-discovery-market-size-growth-drivers-trends-and-forecast-to-2027/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 23
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/02/4950-1613406149.png"
-        width: 300
-        height: 281
         isCached: true
 
 secured: "D1KK20MSkJkOUrk1Gizv+f7aC1+LoQDsUkMx/B5n/j1jzmqJtllD7DSKEchPB/LvkjlTmvjos0Dlsqnm4Pkwjb01inByWYKh6xidntmANh2AD/UhTABOgclJ2lE2m76Rm/ECVoNlVkBH6iixlYow+NGNyVUpT1Sv8ktQR2KAQHIOLmZNCWiL/5ZSfqk4yc3S0vp0GVpSRCusWinvYnLueuViFNAo3DvG/Lvsmjj8uU85dQo7INJEP1SXWm+ZvLpXm0Y/Be3VrAXriPzI+/qJd6xCXIpIwULfeCGXKJ0S4vy6pF6i23O29xZYAx1rv+ccDSVFdf6J91y8gWL6WrOHrDQQ2s2Pln+pgmJfhXWeWf1Nja12/o/Y0egtZ77o5SuOXP5/vdAQmE4wnaxK/71cCCYt1+/p/AGuroL/P4j56NbZ4zi4VgfsW4ZrjU6O/gtoevtlBh+BSXUBjva0IIv+zcnzK36DmwGUQMGuF3jOVadRyCGn8rJN2knpP7K6+fodrp00ooxswVaCHO8/s2Fz9w==;YSYcBl0XDt40UO+lm3/ehw=="

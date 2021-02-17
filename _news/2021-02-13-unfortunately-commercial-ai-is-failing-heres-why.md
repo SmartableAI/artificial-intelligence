@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "6 logistics startups helping retailers to fill orders using robots amid surging e-commerce demand — and raking in millions in venture capital"
-    excerpt: "Retailers are facing unprecedented demand for e-commerce during the COVID-19 pandemic. And they believe robots can help."
-    publishedDateTime: 2021-02-12T15:42:00Z
-    webUrl: "https://www.businessinsider.com/startups-raising-millions-to-create-robots-used-in-retail-fulfillment-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/602692b72edd0f001a8d579e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Thriving in the new normal with cloud and artificial intelligence"
     excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"
     publishedDateTime: 2021-02-15T02:06:00Z

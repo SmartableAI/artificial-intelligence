@@ -1,29 +1,29 @@
 ---
 category: news
 title: "BasisAI Helps APAC Tech Firms Adopt Responsible AI as an Open Loop Partner"
-excerpt: "Basis AI and Open Loop partnership paves the way for transparent and explainable AI use.SINGAPORE, Feb. 16, 2021 /PRNewswire/ -- BasisAI, an"
-publishedDateTime: 2021-02-16T04:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
-webUrl: "https://markets.businessinsider.com/news/stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
+excerpt: "BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped APAC startups develop their"
+publishedDateTime: 2021-02-16T03:51:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner/article_2ca15b9c-fe40-57a3-9364-c5151085d000.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner/article_2ca15b9c-fe40-57a3-9364-c5151085d000.html"
 type: article
-quality: 67
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "lJ1NDCRjT3A/Ry/k+PAWc31v+fb7vLdr4mLY61d4ts9VM6qRbHZ6aIlDyhcuGecHpkMfk244GEcH05xHqzKj112A2FwHaFG4ZSI1CNa84XpN5bBD0F+HvrjX8DsCeDAjZG5ln3LAArs7K3OCTCc9DPonV7WGWZ7dOD6m7qN0Bhp/IVtLUhUwmN7ihoHxiMhKG9lRwrZZzIQZ+vHgWXEYShtQH3u69gP/CQw+jdPRD5UNBpcSI7nhtMGuZ0+TtQXsVbcWpT67XncJjc+nAQYXYfnqI4DoDWzO+uff7eSq5QPIyNmmL8ERRE3nTKsAyeirVd4uGGrHzWRxlPZs7vCXoURlXkuPvFpMqZJTkYHoLZg=;+/jqPmkkp9PTVK0rliry/g=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e2/de2066a5-46bc-50b9-9dbe-cd4cc4880895/602cd6300b6c4.image.jpg?resize=1200%2C600"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "wHfN7l8HIRTC7vRj9Gkt3/6glQAeSdvkNah0jb/aDqlXupQ3GqO/OjTDfnFFCSwSUieEuOfNRYFyqjreI/FJfXwNwU+skL8ZHgcPdFRfy36Ht/ASp/QDOHqkxU8qfotOMeOqmLymfHb4k6wXgJU4Mtw9BsDGq5N1H44s9GBMdurHRJXMgl49kDL7gdEIDw20PG8ps5MKG0Byy3gGzpu1i4pwqS6PcAWRlAJ+qsGMuKWH38EnI984CyLZUa5mJj08sxs3vNTkTWwr0HsiDqxkZorFKNc562/3Xx5aRnJQJ981YQKBU83paPKtauwYyZozFmpHIH0daTEiCf26PDiftqSwQm5vByuMA/jt82etQyQ=;TZX4AyT12yEYzU9Wc9J+Cg=="
 ---
 

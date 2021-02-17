@@ -21,29 +21,29 @@ topics:
   - AI
 
 related:
-  - title: "UAE Face Recognition Market Size to Witness Huge Growth by 2025"
-    excerpt: "Selbyville, Delaware According to the latest study on 'UAE Face Recognition Market Analysis, 2020', available with Market Study Report LLC, the United Arab Emirates face recognition market is projected to showcase tremendous growth trends through 2025."
-    publishedDateTime: 2021-02-16T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16"
+  - title: "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)"
+    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
+    publishedDateTime: 2021-02-17T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 76
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Size to Witness Huge Growth by 2026"
-    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Voice Recognition market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
-    publishedDateTime: 2021-02-15T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-to-witness-huge-growth-by-2026-2021-02-15"
+  - title: "Artificial Intelligence Ai Market 2027 | Trends, Growth Overview, Development Size and Revenue Forecast | ARC"
+    excerpt: "The global artificial intelligence market is expected to reach the market value of around US$ 160 Bn by 2026 and is anticipated to grow at a CAGR of around 49% in terms of revenue during the estimated period 2019 - 2026."
+    publishedDateTime: 2021-02-15T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2027-trends-growth-overview-development-size-and-revenue-forecast-arc-2021-02-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -63,32 +63,44 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chips Market to Eyewitness Massive Growth by 2025 | AMD, Google, Intel Corporation, NVIDIA"
-    excerpt: "Latest released the research study on Global Artificial Intelligence Chips Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Chips Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-02-12T20:02:00Z
-    webUrl: "https://www.openpr.com/news/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
-    ampWebUrl: "https://www.openpr.com/amp/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241720/artificial-intelligence-chips-market-to-eyewitness-massive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-  - title: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application – Global Forecast to 2025"
-    excerpt: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application - Global Forecast to 2025 . New"
-    publishedDateTime: 2021-02-16T18:10:00Z
-    webUrl: "https://www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/amp/"
+  - title: "Global Automotive Artificial Intelligence Market (2020 to 2026)"
+    excerpt: "Global Automotive Artificial Intelligence Market (2020 to 2026) DUBLIN, Feb. 15, 2021 / PRNewswire / - The “Global automotive artificial"
+    publishedDateTime: 2021-02-15T20:08:00Z
+    webUrl: "https://www.compsmag.com/news/technology/global-automotive-artificial-intelligence-market-2020-to-2026/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/global-automotive-artificial-intelligence-market-2020-to-2026/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/global-automotive-artificial-intelligence-market-2020-to-2026/amp/"
     type: article
     provider:
       name: Windows
       domain: compsmag.com
-    quality: 29
+    quality: 37
+  - title: "Artificial Intelligence In Drug Discovery Market Size, Growth Drivers, Trends and Forecast to 2027"
+    excerpt: "Request a Sample of this report @  The global Artificial Intelligence In Drug Discovery market is expected to reach at a remarkable value and to grow at a considerable CAGR over the forecast period i."
+    publishedDateTime: 2021-02-15T20:12:00Z
+    webUrl: "https://ipsnews.net/business/2021/02/15/artificial-intelligence-in-drug-discovery-market-size-growth-drivers-trends-and-forecast-to-2027/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 23
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Face-Recognition-Using-Edge-Computing-Market-Research-Report-by-Device-1024x1024.jpeg"
-        width: 1024
-        height: 1024
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/02/4950-1613406149.png"
+        width: 300
+        height: 281
+        isCached: true
+  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2021-02-16T05:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-robotics-9e905439ab7f41d191e830ab1499ec4e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "9slzBXLd6U43aw7DvaHz4jT9IQhemsYk3IAh48kNHWC6qGgsm/kkW20cdhtHkcxIKcPnREv0+sdN/dd2wbcyp3CnLdkZBcRZd6mFLLqPysbV8ISLEC+/LbSXZxlXjbxNKg+aBWyq/yzmH78vohBs5ogXCVpccB/agq84lKxpZlJPQhNIKQ+OjHGyzlbSNY9zwOTjQD0usCtwaAei51CfG07ebqtFoh8krEZvgUoXT7Gf0DgVaCz0LZWbQWsorv6g3c46msBkUMCLEpoFRYuUnFC2cdY/AESpnnOvRRb6xdjc94L+pVRvR/+Qq1/si0qOJ1dgpWltxiNAz/g7eR5cMKUz1gxX721Kf4sgiSdMFFs=;M4sC4I46wsZnGYRSTnTvIQ=="

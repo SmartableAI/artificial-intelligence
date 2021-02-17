@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market 2021: By manufacturers, Type & Applications, Global status and Industry Forecast by 2026"
-    excerpt: "Healthcare Artificial Intelligence (AI) Industry Description Wiseguyreports.Com Adds \"Healthcare Artificial Intelligence"
-    publishedDateTime: 2021-02-12T15:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-2021-by-manufacturers-type-applications-global-status-and-industry-forecast-by-2026-2021-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enterprise AI Market Growth Analysis, Outlook ,Size, Share, Trends, Opportunities and Forecast to 2025"
     excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
     publishedDateTime: 2021-02-17T06:29:00Z
@@ -98,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
+    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years,"
+    publishedDateTime: 2021-02-17T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2025-2021-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision in Healthcare Market Size, Share, Growth, Trends, Opportunity and Forecast to 2025"
     excerpt: "Report Ocean Pvt Ltd –:The rise in demand for computer vision systems in the global healthcare industry, growing computer vision precision medicine usage, and government initiatives to promote big data and AI-based technologies"
     publishedDateTime: 2021-02-17T04:16:00Z
@@ -111,6 +111,20 @@ related:
       - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
         height: 448
+        isCached: true
+  - title: "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
+    excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems,"
+    publishedDateTime: 2021-02-17T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025-2021-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI-based Drug Discovery Markets, 2030 - ResearchAndMarkets.com"
     excerpt: "Focus on Deep Learning and Machine Learning, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The “AI-based Drug Discovery Market: Focus on Machine Learning and Deep Learning, 2020-2030” report features an extensive study of the current market landscape and future potential of the players engaged in offering AI-based services,"

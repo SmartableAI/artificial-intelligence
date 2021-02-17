@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-emotions-radio-signals/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-emotions-radio-signals/amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "4 AI tools to help you reach your marketing goals"
-    excerpt: "Marketing isn't one-size-fits-all; depending on the industry, strategies, and tools, results differ. These AI marketing tools are helping marketers and small businesses increase their effectiveness."
-    publishedDateTime: 2021-02-12T16:47:00Z
-    webUrl: "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 104
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/11/d87fc0a6-07da-42da-905b-57926006c6f3/resize/1200x900/396b64a892a5fd7cac8938cf3055dd17/autoleadstar-new.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Forget fingerprints — AI may soon use your veins to identify you"
-    excerpt: "Forget facial recognition technology -- researchers say they can identify you from the veins on the backs of your hands.Biometric recognition has become"
-    publishedDateTime: 2021-02-17T01:17:00Z
-    webUrl: "https://keyt.com/news/national-world/2021/02/16/forget-fingerprints-ai-may-soon-use-your-veins-to-identify-you/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 39
-    images:
-      - url: "https://keyt.b-cdn.net/2020/12/keyt-us-world-generic-2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "1DOdL8cWBgOej9tOYUD896+Uar3Y2LkuIzHcmohM/VV9kkUHcv2S3MoafaNCnNGo5k+GB0AHgwPhsYz4e4ntnRyxER/Ss0HRHg67UR15OWLkkeBLc2wqjHPulSTvp6TNo/M2AWuAQmYTj1/dgZwKindB8asMEGSF310zpy1bx5R3Hi5P1emB8dAL7Tt4pcqWXklYjVSniGcKFN2ttKDyzqZWTQkhTAxaUqb21OIA5UxPIou6UJdxIzoAH2ar80VfxBIVQuAWYcvMVznlyRF3VHvRtUpPA7v0j3kLJCOC8ZIH0FkxOWSFH8cG5Gud97OcHLqdlcz5HeZszz1ybfbY3une2yeTu6NJc4REInbYKqk=;LXZymyoCzBfaRkazBCqYGA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/02/GettyImages_1202271610.6027149b4debe.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "6 logistics startups helping retailers to fill orders using robots amid surging e-commerce demand — and raking in millions in venture capital"
-    excerpt: "Retailers are facing unprecedented demand for e-commerce during the COVID-19 pandemic. And they believe robots can help."
-    publishedDateTime: 2021-02-12T15:42:00Z
-    webUrl: "https://www.businessinsider.com/startups-raising-millions-to-create-robots-used-in-retail-fulfillment-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/602692b72edd0f001a8d579e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Unfortunately, Commercial AI is Failing. Here’s Why."
     excerpt: "While AI is a trending topic in the tech world, artificial intelligence products are failing to impress the commercial sector. The industry is facing AI fatigue due to a lack of scalable AI that is meeting the hype and performing as expected."

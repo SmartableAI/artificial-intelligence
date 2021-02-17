@@ -15,9 +15,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI Hardware
-  - AI
   - Natural Language Processing
+  - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -36,6 +36,6 @@ related:
       domain: oaoa.com
     quality: 35
 
-secured: "cELAXa+Y9IqZI8Llg9zs1c+uifky1qunxeoQSgcKxGha5LHB+i7BMJJRoRFDCZAi0vn6J66vTQde3rE+TZSsduCJyzyetyrOLLLXJYJGztTWluHVSS1Ssyq9cq5TAaUn6EUIj2TSWOowI4Qf5J7s8q2qh/vc4G0emfvCJYehiWwvL2KCCfsIfZoeqxmpkleyq6X/zDv0mY+WbK9UZitHxTCSiQEqylqohHwZ1PeX1IYLu1ySXWOPp6NPMdcz6xFze/yGt0oxIxtgTfeNH7OFJUPMUjV6kI3l0VETardgwFFxVixBSGj5y2gv7hTK+XKGx8a76JA21LCFZMJRRiKUVjuYc/+rIoDNwuMFsklYEXo=;kTK4LXAmg/BZriixl9g4fw=="
+secured: "vXb6rptSwfZfRvaWPvk1H5Qykoh3Toq6tligYsIpdAE1Ww55WrUJd08zLgiRK52uF+dxetIIdvsagtW5iG3+xq0/vXTPndqD6v+/v9M+lzgiTzsTxT8NLkgXt4Y8fWV2IJ4HqMh/pMEMmlHhFyJotHEkuDN/Mf0RdAPphtizd7Jhf7c2YBF75Z5124/2A6eJ9tVeKvpaI06I2He6sihmyy7wfGrrN28/y+nSqYuErSZBbcwE/t/fShUaIfxaWdDKmB3Zhvm2xoTuMRapsBaHi4xSPsflwCARGG5K/v4af37CpcJQ0c02BOtDH67L5h63hOcDCe6K33LBUJUnTc+Qs+dwjjbX7lQObmLseFvhkrE=;/GxUNHMbgsQpacL1ek5SGw=="
 ---
 
