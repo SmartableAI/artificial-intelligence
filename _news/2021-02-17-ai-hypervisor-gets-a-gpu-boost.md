@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost
 webUrl: "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost"
+    excerpt: "Sunlight, a developer of virtualization technology for data-intensive applications, today announced NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint."
+    publishedDateTime: 2021-02-17T05:31:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-england-cloud-computing-ee0646c71c994d49a993b5bf2c603600"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost"
     excerpt: "Sunlight announces NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint"

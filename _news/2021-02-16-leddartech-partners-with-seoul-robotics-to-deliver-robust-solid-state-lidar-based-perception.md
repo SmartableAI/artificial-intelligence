@@ -3,8 +3,8 @@ category: news
 title: "LeddarTech Partners With Seoul Robotics to Deliver Robust Solid-State LiDAR-Based Perception ..."
 excerpt: "Seoul Robotics, headquartered in Seoul, South Korea, has demonstrated expertise in LiDAR perception technology utilizing its proprietary SENSR 3D software. This platform analyzes and processes LiDAR data with high accuracy,"
 publishedDateTime: 2021-02-16T05:18:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-driverless-cars-products-and-services-asia-c54b26bd1a217e801c7617d855ade9fc"
-webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-driverless-cars-products-and-services-asia-c54b26bd1a217e801c7617d855ade9fc"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-driverless-cars-products-and-services-asia-c54b26bd1a217e801c7617d855ade9fc"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-driverless-cars-products-and-services-asia-c54b26bd1a217e801c7617d855ade9fc"
 type: article
 quality: 41
 heat: 41
@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
-secured: "XcyuKqL7cJJgU9HZjTp3Z7OyUlKNAFTyC5QQFKlxJGMW3J3OA371gA4liGe58hFECV7gRl0WU3a9mCNEuoqOhuwyUXtBaxMXaT97BGfMgGjOsqBoMtOVDTn38/hId7hHfVM/Wtza87OyZYFs7wHA3w6drcM0JcvwXr+x4qApdNvmLlMVhVdKpSL0kTcquTxRQaXchgrXYRKPFz0S2Y4pwux+Ru4iTwm20bhjQSyuf6x2VvLKXZe1m805GeIZibfx+Sw23l0+Hm9p4oGMUgHBU+bpVwlrQ1RzTdN2m+1BEcQH2/u9QlK8eoDWEF6XzJBbdtzbrIPAkd2zUYZcPFtTtLdRxGYZQOYssXExOIGE/GE=;71SweeAtipnarV0Cd9cTvQ=="
+related:
+  - title: "GERAL :: LeddarTech Partners With Seoul Robotics to Deliver Robust Solid-State LiDAR-Based Perception Solutions"
+    excerpt: "Seoul Robotics, headquartered in Seoul, South Korea, has demonstrated expertise in LiDAR perception technology utilizing its proprietary SENSR 3D software. This platform analyzes and processes LiDAR data with high accuracy,"
+    publishedDateTime: 2021-02-16T00:00:00Z
+    webUrl: "https://patrocinados.estadao.com.br/medialab/releaseonline/releasegeral-releasegeral/geral-leddartech-partners-with-seoul-robotics-to-deliver-robust-solid-state-lidar-based-perception-solutions/"
+    type: article
+    provider:
+      name: Estadão
+      domain: estadao.com.br
+    quality: 14
+
+secured: "Ko51u5Hu3xFrUXXoEt5kO4m4bYU8qj0Dx/iv55h+ayHHZbQJjv4e8OqN3yo3Kgf2LZUQYwD8hLazBz6KZVoHyauwNQPOQ+xhhRSKrh9H8xiLsFlRrez96/OTCjFbNzPI3LPMfwjU2+Zrn5oe8T9TOx2rFo3X0gm83a0WxMUK+bmUmzUtMcnZAxgyH3LgCHkmBGEPBIApvnp/DBeAjheQXcgnOs/t29jhuOGpOFMXpSVVz4RzoYARoTmjT9JeuZ0FFB5vn+tmsMlrqhDuNkvrvG5LrRgQvnLgOue8zi6NcYwVeSFlSUNgcmIeVS0WbLQdpQ1RePRfBURbhC2Cz9ZVQ0pIYEylMSPflDae/ztGX8o=;xzeE6lotvT/qMHvOIg7+ww=="
 ---
 

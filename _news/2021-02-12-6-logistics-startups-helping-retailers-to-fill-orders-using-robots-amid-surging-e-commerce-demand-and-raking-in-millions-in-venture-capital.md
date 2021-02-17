@@ -75,20 +75,6 @@ related:
         width: 1363
         height: 794
         isCached: true
-  - title: "Five ways to use machine learning in digital marketing"
-    excerpt: "Intelligent machine learning applications can be used to increase the outcomes of digital marketing implementations. Five applications that will help."
-    publishedDateTime: 2021-02-12T13:55:00Z
-    webUrl: "https://www.searchenginewatch.com/2021/02/12/five-ways-to-use-machine-learning-in-digital-marketing/"
-    type: article
-    provider:
-      name: Search Engine Watch
-      domain: searchenginewatch.com
-    quality: 56
-    images:
-      - url: "https://www.searchenginewatch.com/wp-content/uploads/2021/02/Five-ways-to-use-machine-learning-in-digital-marketing.png"
-        width: 728
-        height: 256
-        isCached: true
   - title: "Work on Artificial Intelligence and Machine Learning Standards Begins"
     excerpt: "Hoping to clear the path for the development of AI and machine learning standards, the Securing Artificial Intelligence Industry Specification Group has released a report highlighting the field’s predominant challenges."
     publishedDateTime: 2021-02-12T23:53:00Z

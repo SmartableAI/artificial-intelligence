@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech, AI and ML: What you need to know in 2021"
-    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
-    publishedDateTime: 2021-02-12T14:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-and-ml-what-you-need-to-know-in-2021"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
   - title: "Artificial Intelligence In Drug Discovery Market Size, Growth Drivers, Trends and Forecast to 2027"
     excerpt: "Request a Sample of this report @  The global Artificial Intelligence In Drug Discovery market is expected to reach at a remarkable value and to grow at a considerable CAGR over the forecast period i."
     publishedDateTime: 2021-02-15T20:12:00Z

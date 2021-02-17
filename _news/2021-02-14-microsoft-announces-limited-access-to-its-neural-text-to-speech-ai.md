@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 602
         isCached: true
-  - title: "Cleareye.ai and Microsoft partner on PPP loan forgiveness platform"
-    excerpt: "Cleareye.ai, which makes fintech for banks, is working with Microsoft to power certain products, starting with the PPP Loan Forgiveness Processing Engine, driven by artificial intelligence and powered by Microsoft Azure."
-    publishedDateTime: 2021-02-12T14:49:00Z
-    webUrl: "https://www.accountingtoday.com/news/cleareye-ai-and-microsoft-partner-on-ppp-loan-forgiveness-platform"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 58
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/f98b689/2147483647/strip/true/crop/5237x2749+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F68%2Fe1%2F54cd96f64344a70f3cbbc69d7c71%2Fmicrosoft-campus.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Azure Goes To Space via HPE Partnership"
     excerpt: "A partnership with Hewlett Packard Enterprise (HPE) will bring Microsoft Azure to the International Space Station (ISS) by way of HPE's Spaceborne Computer-2."
     publishedDateTime: 2021-02-16T19:12:00Z

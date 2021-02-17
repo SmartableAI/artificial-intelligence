@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-t
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-hpe-partner-to-deliver-ai-edge-computing-on-iss/article33843494.ece/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/db2019al00703-overfull-1613148012.jpg?crop=1.00xw:0.890xh;0,0.0838xh&resize=1200:*"
         width: 1200
         height: 602
-        isCached: true
-  - title: "Cleareye.ai and Microsoft partner on PPP loan forgiveness platform"
-    excerpt: "Cleareye.ai, which makes fintech for banks, is working with Microsoft to power certain products, starting with the PPP Loan Forgiveness Processing Engine, driven by artificial intelligence and powered by Microsoft Azure."
-    publishedDateTime: 2021-02-12T14:49:00Z
-    webUrl: "https://www.accountingtoday.com/news/cleareye-ai-and-microsoft-partner-on-ppp-loan-forgiveness-platform"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 58
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/f98b689/2147483647/strip/true/crop/5237x2749+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F68%2Fe1%2F54cd96f64344a70f3cbbc69d7c71%2Fmicrosoft-campus.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
     excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."

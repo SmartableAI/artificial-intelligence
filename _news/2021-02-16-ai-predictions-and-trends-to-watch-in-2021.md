@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/ai-predictions-and-trends-t
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-predictions-and-trends-to-watch-in-2021/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech, AI and ML: What you need to know in 2021"
-    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
-    publishedDateTime: 2021-02-12T14:21:00Z
-    webUrl: "https://www.finextra.com/blogposting/19870/fintech-ai-and-ml-what-you-need-to-know-in-2021"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
   - title: "2021 Predictions: Memory and Storage Boost Innovation in 5G, AI, and More"
     excerpt: "From AI to 5G IIoT to ADAS, Micron Technology’s industry experts weigh in on the trends that memory and storage will help advance in 2021."
     publishedDateTime: 2021-02-15T17:09:00Z

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-02-dubais-dewa-artificial-intelligence-services-anticipate-shape-the-future.md",
+      "title": "Dubai's DEWA Artificial Intelligence services anticipate, shape the future",
+      "excerpt": "DEWA’s efforts in AI have consolidated the UAE’s global position and enriched the user experience of customers, staff and stakeholder",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Dubais_DEWA_Artificial_Intelligence_services_anticipate_shape_the_future-WAM20210202115415866/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Dubais_DEWA_Artificial_Intelligence_services_anticipate_shape_the_future-WAM20210202115415866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/200708111501XFSN.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20210202115415866/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20210202115415866/",
+      "publishedDateTime": "2021-02-02T04:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-canon-powershot-pick-robot-uses-ai-to-automatically-take-photos.md",
       "title": "Canon PowerShot PICK robot uses AI to automatically take photos",
       "excerpt": "AI and machine learning can be found in almost every consumer electronics product these days, whether directly or indirectly. Often, the goal is to make offload some of the decision-making duties",
@@ -1351,49 +1394,6 @@
         "AI in Healthcare",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-the-neurochemistry-of-flow-states-with-steven-kotler.md",
-      "title": "The Neurochemistry of Flow States, with Steven Kotler",
-      "excerpt": "Steven Kotler is an award-winning journalist, a New York Times bestselling author, and executive director of Flow Research Collective. His books include the non-fiction works The Rise of Superman ...",
-      "sourceUrl": null,
-      "webUrl": "https://bigthink.com/videos/the-neurochemistry-of-flow-states-with-steven-kotler",
-      "originalUrl": "https://bigthink.com/videos/the-neurochemistry-of-flow-states-with-steven-kotler",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.rebelmouse.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHBpcmVzX2F0IjoxNjEzMzEwNjM4LCJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJlYmVsbW91c2UuaW8vZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBiV0ZuWlNJNkltaDBkSEJ6T2k4dllYTnpaWFJ6TG5KaWJDNXRjeTh5TlRZeU1UWTRNQzl2Y21sbmFXNHVhbkJuSWl3aVpYaHdhWEpsYzE5aGRDSTZNVFkyTlRZMU9EWTBPSDAuTDBIaG5MRUt0c0dkcjNuYXZ1bTFYQ1JHYjFudkIwMWQ5SmQzLTEzdEFRSS9pbWcuanBnP3dpZHRoPTQwMCZjb29yZGluYXRlcz0xMDElMkMwJTJDMTAlMkMwJmhlaWdodD03MTEuNDI4NTcxNDI4NTcxNCZxdWFsaXR5PTY1In0.W4o6Ku-o_bRALLO7QiJvxfUGzmhg6jmtJ_ABC5ja1iE/img.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bigthink.com/amp/the-neurochemistry-of-flow-states-with-steven-kotler-2604491068",
-      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/amp/the-neurochemistry-of-flow-states-with-steven-kotler-2604491068",
-      "publishedDateTime": "2021-01-26T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

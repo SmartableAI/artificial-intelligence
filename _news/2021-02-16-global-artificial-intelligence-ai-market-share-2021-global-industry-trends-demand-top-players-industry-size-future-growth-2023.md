@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Enterprise AI Market Growth Analysis, Outlook ,Size, Share, Trends, Opportunities and Forecast to 2025"
+    excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
+    publishedDateTime: 2021-02-17T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-outlook-size-share-trends-opportunities-and-forecast-to-2025-2021-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision in Healthcare Market Size, Share, Growth, Trends, Opportunity and Forecast to 2025"
     excerpt: "Report Ocean Pvt Ltd –:The rise in demand for computer vision systems in the global healthcare industry, growing computer vision precision medicine usage, and government initiatives to promote big data and AI-based technologies"
     publishedDateTime: 2021-02-17T04:16:00Z

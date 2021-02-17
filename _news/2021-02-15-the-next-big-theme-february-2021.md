@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-next-big-theme%3A-february-2021-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-next-big-theme%3A-february-2021-2021-02-15?amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Artificial Intelligence: The Next Revolution in Dating Industry"
-    excerpt: "AI in the dating industry is taking the business to a whole new level. Dating apps like, Match.com helps people find a match for prospective dates with online dating services. Moreover, Virtual Reality will impact the online dating community,"
-    publishedDateTime: 2021-02-15T19:51:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-the-next-revolution-in-dating-industry/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Dating-Industry.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "zJuYwmYJ4YYN/OutPAI8+0F6mzjG4NtMqr+KuWyDutlQS6pTvBXn0nZWxnWHqeZSZqIBkJ7nX3Rd5Vu1QUnoj3hsRtHmboLVdhhEy/wG1KSXmUCK809qulAaToHuJ3i/V9Z8UhPdu8dbkXM7x5WY9fQqQvFvWItX1PtvBr8Ym320L7kcjHq1kEPLzIjLWjZKRcFlLfeIQgvb6ssRiJPqAQWVtec7930FtdqeytR5r1YPrkvIhacUPcsC/wBiQddqLlU69y8KViAWIMeADdIO7tG2VdpZR5PUkIWFVAMJNm6ofW6zx0BVlQyTy2sezaPULisxA2fHrNRR1HSxw2aPqoJ4PaRWqm3R1ME57s6YG/bHFP0Xz2WjxAB6FMSlKy89yW9C/fsiyyOfzpZXCNnM0b5FaOLkk+qzlPpUH8qSgcZSIEuf/aIU2XQ2K8UqbD5QjGgTGz0kv9ZLmpmvlbQoZrEc5Uj/u8ZW4G0hue8dwiizXXNHIv9Y+SulSmj6QHoTLbKI6VX/d+yyrVfEur2tAw==;Pk6LI7nPk6F1THZmZvhWeQ=="
 ---

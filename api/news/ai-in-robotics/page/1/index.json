@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-17-artificial-intelligence-the-new-opportunities-in-tech-industry.md",
+      "title": "Artificial intelligence – The New Opportunities in Tech Industry",
+      "excerpt": "Thanks to artificial intelligence, computers have the ability to train independently. They take information about what exactly they need to study from their own experience, which allows them to adapt to new parameters,",
+      "sourceUrl": null,
+      "webUrl": "https://advicesacademy.com/tech/artificial-intelligence-new-opportunities/",
+      "originalUrl": "https://advicesacademy.com/tech/artificial-intelligence-new-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advicesacademy.com/wp-content/uploads/2021/02/SYPWAI.jpg",
+          "width": 1080,
+          "height": 842,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://advicesacademy.com/tech/artificial-intelligence-new-opportunities/",
+      "cdnAmpWebUrl": "https://advicesacademy-com.cdn.ampproject.org/c/s/advicesacademy.com/tech/artificial-intelligence-new-opportunities/",
+      "publishedDateTime": "2021-02-16T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "advicesacademy.com",
+        "domain": "advicesacademy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023.md",
       "title": "Healthcare Artificial Intelligence (AI) Market Insights, Growth, Share, Trends and Dynamics By 2023",
       "excerpt": "The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market. The healthcare IT industry reports are formed by Market Research Future,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -583,8 +626,8 @@
       "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
       "excerpt": "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -592,8 +635,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030063019",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-1030059053",
       "publishedDateTime": "2021-02-09T00:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1338,49 +1381,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-dubais-dewa-artificial-intelligence-services-anticipate-shape-the-future.md",
-      "title": "Dubai's DEWA Artificial Intelligence services anticipate, shape the future",
-      "excerpt": "DEWA’s efforts in AI have consolidated the UAE’s global position and enriched the user experience of customers, staff and stakeholder",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Dubais_DEWA_Artificial_Intelligence_services_anticipate_shape_the_future-WAM20210202115415866/",
-      "originalUrl": "https://www.zawya.com/mena/en/business/story/Dubais_DEWA_Artificial_Intelligence_services_anticipate_shape_the_future-WAM20210202115415866/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/200708111501XFSN.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20210202115415866/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20210202115415866/",
-      "publishedDateTime": "2021-02-02T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,161 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-30-physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects.md",
+      "title": "Physna raises $20 million for AI that analyzes and digitizes 3D objects",
+      "excerpt": "Physna, a startup developing software that analyzes and digitizes 3D models, has raised $20 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/",
+      "originalUrl": "https://venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/physna1-e1611938280196.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/amp/",
+      "publishedDateTime": "2021-01-29T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-ai-ethics-the-future-of-ai-could-become-scary.md",
+      "title": "AI ethics: The future of AI could become scary",
+      "excerpt": "A Gartner report says the consequences of widespread AI will have huge effects on our society. Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 Cybersecurity pros can't handle all the threat tasks alone,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-could-become-scary/",
+      "originalUrl": "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-could-become-scary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2021/01/29/bc4f2551-6116-44e4-96b2-454d3aad1c1b/thumbnail/770x578/fcbfbfeda4f4c87df63aa6889134d566/20210127-brandon1-karen.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-huami-to-launch-third-generation-self-developed-wearable-chip-soon.md",
+      "title": "Huami to launch third-generation self-developed wearable chip soon",
+      "excerpt": "Huami Technology is a company that excels in smart wearable technology. Headquartered in Hefei, China, the company also makes its own AI-powered wearable chips. Today, the company’s founder has announced that the third-generation wearable chip is coming soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/01/29/huami-to-launch-third-generation-self-developed-wearable-chip-soon/",
+      "originalUrl": "https://www.gizmochina.com/2021/01/29/huami-to-launch-third-generation-self-developed-wearable-chip-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2018/09/Huangshan-No.1-MHS001.jpg",
+          "width": 1225,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
       "title": "SoftBank's Son expects mass production of driverless cars in two years",
       "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ...",
@@ -976,135 +1131,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-robot-empowerment-a-viable-alternative-to-asimovs-three-laws-of-robotics.md",
-      "title": "Robot empowerment - a viable alternative to Asimov's three laws of robotics?",
-      "excerpt": "Human-robot interaction is upon us - we're in dire need of a framework that makes sense. Asimov's three laws of robotics are one model, but is it applicable to today's robots? An alternative based on robot \"empowerment\" is worth a close look.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics",
-      "originalUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics?amp",
-      "publishedDateTime": "2021-01-29T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-machine-learning-tool-may-streamline-or-scheduling.md",
-      "title": "Machine Learning Tool May Streamline OR Scheduling",
-      "excerpt": "The use of a machine learning model may aid in accurately predicting surgical procedure time, according to the results from a randomized clinical trial. Researchers found that improving planned surgery duration accuracy reduced the use of presurgical resources,",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
-      "originalUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
-      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
-      "publishedDateTime": "2021-01-29T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization.md",
-      "title": "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization",
-      "excerpt": "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

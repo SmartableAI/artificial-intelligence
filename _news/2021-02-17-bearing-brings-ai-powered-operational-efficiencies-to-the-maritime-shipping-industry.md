@@ -2,22 +2,26 @@
 category: news
 title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
 excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable insights to shipping companies, leading to improved efficiency, safety and reduced greenhouse gas emissions."
-publishedDateTime: 2021-02-16T22:22:00Z
-originalUrl: "https://www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/"
-webUrl: "https://www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/"
-ampWebUrl: "https://www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/amp/"
-cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/amp/"
+publishedDateTime: 2021-02-17T05:27:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-palo-alto-air-pollution-environment-6d1d30b9947f4a19b8204395a81effc1"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-palo-alto-air-pollution-environment-6d1d30b9947f4a19b8204395a81effc1"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Hellenic Shipping News Worldwide
-  domain: hellenicshippingnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "This AI-powered gadget could completely disrupt the ridiculous hearing aid market"
@@ -46,6 +50,6 @@ related:
       domain: businesswire.com
     quality: 10
 
-secured: "6SpWW0r9JuZKlf0Y6n6R7nD1WsoIesXyCl3wqrP6F5TufksLzOHQWZwm+Z3yPKUEbGsHauDg/A/h/LUDeZ/tY75PqbNmUC8IH4ApAAxvKsVFRehYN25cc8SryiTRlsBwtEOrYdp3uNUDnINaG8HL7K8idaEbfRzGEBDtN3dm/izBjefw7e6VJVLAIYsB0VA0irrG517PP47g9T/MHJB5Hu67HjeCXa6W+6ex8eAAY4nChTs8NXuNey1H2BywHqufYMF9BophHgLmnIKGFTJa0pnha7C7M9dTuot4fE+JhSiKnc9Uac9FLnJ3Qda8Ef3ypBJzRJ1ftSZkrRBro2oJf6sftwJE0rcgk4eLRlzUoj4=;2N+EQ+7ClvRe+B9F+yNzjw=="
+secured: "SRfeDXEO+qLsV5q5bxq0jRNeyQF6fKhgysHZT5vXdOGccWcSBfDRbM7s1bC47rzV6+0p7n9kgj3d5GPT8hn7RJE6oPLFVCeqsh9+lFfYgqPTR/iwPr+6yvs+VqHpqIrgrHXWXlbupUbvLMGaJhRSJl6LIJM9x0vclO0RcjHkcDykKXIbM/OqJhsdU9Hi7sUH3b5pPjnrfQnLGh9UY4mvxHUu1kMrRug5aZwrVhLGab0bUDMqMBD0tw6dICOXwIbYDRnB0MsZzw/Ba9LKQfmX9YcB/whN2l+q8aZQ8tCvXCwc1gBuamHBw5Po06PTKBTuR0ooy3gmKQgrXaxGWcRpndX7ODDAbtmQZRDofkCDiG0=;AkR6KkTdYmTdF0TvfrdAIQ=="
 ---
 

@@ -192,6 +192,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Petition calls for EU ban on facial recognition"
+    excerpt: "Digital and human rights organisations, led by European Digital Rights, on Wednesday launched a European Citizens' Initiative calling for a ban on the use of biometric mass surveillance in public spaces,"
+    publishedDateTime: 2021-02-17T06:04:00Z
+    webUrl: "https://euobserver.com/tickers/150958"
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 39
+    images:
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Clearview AI face biometrics patent filing suggests consumer application"
     excerpt: "The patent application proposes the use of its biometric facial recognition for the identification of individuals in a variety of private and public sectors."
     publishedDateTime: 2021-02-12T18:51:00Z

@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-02-17-samsung-develops-ai-processor-embedded-memory-chip.md",
       "title": "Samsung develops AI processor-embedded memory chip",
-      "excerpt": "Samsung Electronics said on Wednesday it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance.",
+      "excerpt": "Samsung Electronics today said that it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance. The new processing-in-memory (PIM) technology will help bring powerful AI computing capabilities inside high-performance memory.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/tech/samsung-develops-ai-processor-embedded-memory-chip-672581",
-      "originalUrl": "https://www.thehansindia.com/tech/samsung-develops-ai-processor-embedded-memory-chip-672581",
+      "webUrl": "https://www.techradar.com/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "originalUrl": "https://www.techradar.com/news/samsung-develops-ai-processor-embedded-memory-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.thehansindia.com/h-upload/2021/02/17/1031795-samsung.jpg",
-          "width": 1000,
-          "height": 600,
+          "url": "https://cdn.mos.cms.futurecdn.net/cPy3aYHcojq2iA7oJyeZRW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/tech/samsung-develops-ai-processor-embedded-memory-chip-672581",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/samsung-develops-ai-processor-embedded-memory-chip-672581",
-      "publishedDateTime": "2021-02-16T20:39:00-08:00",
+      "ampWebUrl": "https://www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "publishedDateTime": "2021-02-16T21:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -53,7 +62,7 @@
       "originalUrl": "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {

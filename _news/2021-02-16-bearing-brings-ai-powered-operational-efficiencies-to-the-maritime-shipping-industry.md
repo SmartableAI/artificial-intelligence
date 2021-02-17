@@ -36,15 +36,18 @@ related:
         isCached: true
   - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
     excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable insights to shipping companies, leading to improved efficiency, safety and reduced greenhouse gas emissions."
-    publishedDateTime: 2021-02-16T22:22:00Z
-    webUrl: "https://www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry/amp/"
+    publishedDateTime: 2021-02-17T05:27:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-palo-alto-air-pollution-environment-6d1d30b9947f4a19b8204395a81effc1"
     type: article
     provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
+      name: Associated Press
+      domain: apnews.com
     quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "u97djltxlQoYIIomkGhibbIEQCmW5b1eiDeqcK5u85cTy3pXrloPIfcsHh2W56nSIXGB0ZCRlG6qWamKf/w3/RLQITyq8vRysDdvQktehbLPKq/M9E2h5NZX0m8urmVuvgSTPobY1MHN7ID9thJCZ/7cex1+Ht8tnrtrgBqyubBYbRQA474LRTEiCUBupIQcA715/GCs98jR0RZk145KNEi6xd4sqE1ep9n1HcKU+bfV396Kjj6krL5K/S5/9TSx3nZ3vy6Z2K11E4DtjpLNCdO5uOFiSntoM6beuYpH19G++AaXE1Tt3YNmX7rY6qXrkjdylAtpr74WfkTV7XMFsfNPKd26Yq6wbwhRkJlfJ9c=;Mx1cmHiwWMF2Rq1+Z8BXxQ=="
 ---

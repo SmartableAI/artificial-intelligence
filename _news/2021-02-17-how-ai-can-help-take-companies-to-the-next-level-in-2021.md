@@ -3,10 +3,10 @@ category: news
 title: "How AI can help take companies to the next level in 2021"
 excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
 publishedDateTime: 2021-02-16T16:41:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
-webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+originalUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+webUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -59,6 +60,6 @@ related:
         height: 420
         isCached: true
 
-secured: "hUfBuOJJyBZsqmZ8CGlkNfOpgb2BW+p2c/90nO6loxdgzk0d1p6+0nqzGvS4M+82rydarod0KLdNh+NFevUwSLgpaOyZW9Ov5P6EA/PMKisRjhvggXL0KvWjScMiX79A/t77zkN0ln+JPIRTHTClFtJyEeD5yMx6gMTlGeJCtWRqXysiPK71ajSb9WgTH1OsqXVIF+95stM971OlCBwVFf05HWALFjZ2L8LxxxwbTRJu3DQ0a5fTRFF+jyRaExuZ99QhIbP+zgPLzURKDW8dYH3PAZD1OBw8rn9tg5e3T0e8IOEJxfk6iNEmO2pRQiueQvFHfnPBMpKS5Y2Xc/sKKTfDXM5ybi/O6Ws/rgHfWMI=;v96xU6tlta5Sm7LQ4kqm3w=="
+secured: "nCNMpKDcoPn52Z/pmYVAPZknT1WcHGwFLum1NGHEHXUHv7AtYvVlKCIX/67we6Z093YhoOxJSfcArfIkqiKSMQFOWFXmtAsm61SAh9ud9n4pTfRtXSXmvuEuE3YJfDPBdNzc0Q24g2nFjMsEOnalfvKwnFqHpPd3FwkM+eX40LKQB+8Ozayh2figPlPNEsbdkp48AnbTvP8p09nZDpUmWQsdf0r+TiZZvkuwRcvN8fwglVsU39FnX8qgLNxzQsisc19z6WkVc90syDdl1w8Sds0cHh0EYL980QksxVnv9kJHdiqPNP0lgi6mnhc35uV/93veVfgje6NlYcB0TS68rFDdETs7ON35LIHKy/+tkY8=;oO4rQEOj+vPt6umXw5VWBg=="
 ---
 

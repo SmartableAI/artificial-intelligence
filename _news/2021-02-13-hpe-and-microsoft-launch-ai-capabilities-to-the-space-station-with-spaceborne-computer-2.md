@@ -107,20 +107,6 @@ related:
         width: 1200
         height: 602
         isCached: true
-  - title: "Cleareye.ai and Microsoft partner on PPP loan forgiveness platform"
-    excerpt: "Cleareye.ai, which makes fintech for banks, is working with Microsoft to power certain products, starting with the PPP Loan Forgiveness Processing Engine, driven by artificial intelligence and powered by Microsoft Azure."
-    publishedDateTime: 2021-02-12T14:49:00Z
-    webUrl: "https://www.accountingtoday.com/news/cleareye-ai-and-microsoft-partner-on-ppp-loan-forgiveness-platform"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 58
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/f98b689/2147483647/strip/true/crop/5237x2749+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F68%2Fe1%2F54cd96f64344a70f3cbbc69d7c71%2Fmicrosoft-campus.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
     excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
     publishedDateTime: 2021-02-14T15:12:00Z

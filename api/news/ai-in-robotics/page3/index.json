@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-27-the-neurochemistry-of-flow-states-with-steven-kotler.md",
+      "title": "The Neurochemistry of Flow States, with Steven Kotler",
+      "excerpt": "Steven Kotler is an award-winning journalist, a New York Times bestselling author, and executive director of Flow Research Collective. His books include the non-fiction works The Rise of Superman ...",
+      "sourceUrl": null,
+      "webUrl": "https://bigthink.com/videos/the-neurochemistry-of-flow-states-with-steven-kotler",
+      "originalUrl": "https://bigthink.com/videos/the-neurochemistry-of-flow-states-with-steven-kotler",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.rebelmouse.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHBpcmVzX2F0IjoxNjEzMzEwNjM4LCJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJlYmVsbW91c2UuaW8vZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBiV0ZuWlNJNkltaDBkSEJ6T2k4dllYTnpaWFJ6TG5KaWJDNXRjeTh5TlRZeU1UWTRNQzl2Y21sbmFXNHVhbkJuSWl3aVpYaHdhWEpsYzE5aGRDSTZNVFkyTlRZMU9EWTBPSDAuTDBIaG5MRUt0c0dkcjNuYXZ1bTFYQ1JHYjFudkIwMWQ5SmQzLTEzdEFRSS9pbWcuanBnP3dpZHRoPTQwMCZjb29yZGluYXRlcz0xMDElMkMwJTJDMTAlMkMwJmhlaWdodD03MTEuNDI4NTcxNDI4NTcxNCZxdWFsaXR5PTY1In0.W4o6Ku-o_bRALLO7QiJvxfUGzmhg6jmtJ_ABC5ja1iE/img.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bigthink.com/amp/the-neurochemistry-of-flow-states-with-steven-kotler-2604491068",
+      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/amp/the-neurochemistry-of-flow-states-with-steven-kotler-2604491068",
+      "publishedDateTime": "2021-01-26T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big Think",
+        "domain": "bigthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-the-science-of-temptation-why-you-can-or-cant-resist.md",
       "title": "The Science of Temptation: Why You Can (or Can’t) Resist",
       "excerpt": "It's all in your mind. Really. Everything bad in the world might be coming from one particular part of the human brain. Robert M. Sapolsky holds degrees from Harvard and Rockefeller Universities ...",
@@ -1346,58 +1389,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-how-ai-is-being-used-in-the-legal-industry.md",
-      "title": "How AI Is Being Used In The Legal Industry",
-      "excerpt": "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600203d32263d67c03ef9d7d%2F0x0.jpg",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/",
-      "publishedDateTime": "2021-01-19T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

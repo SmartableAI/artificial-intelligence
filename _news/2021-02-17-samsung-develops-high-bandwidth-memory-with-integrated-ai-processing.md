@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/samsung-develops-high-bandwidth-memory-wi
 ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -22,23 +22,24 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "Samsung develops AI processor-embedded memory chip"
-    excerpt: "Samsung Electronics said on Wednesday it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance."
-    publishedDateTime: 2021-02-17T04:39:00Z
-    webUrl: "https://www.thehansindia.com/tech/samsung-develops-ai-processor-embedded-memory-chip-672581"
-    ampWebUrl: "https://www.thehansindia.com/amp/tech/samsung-develops-ai-processor-embedded-memory-chip-672581"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/samsung-develops-ai-processor-embedded-memory-chip-672581"
+    excerpt: "Samsung Electronics today said that it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance. The new processing-in-memory (PIM) technology will help bring powerful AI computing capabilities inside high-performance memory."
+    publishedDateTime: 2021-02-17T05:02:00Z
+    webUrl: "https://www.techradar.com/news/samsung-develops-ai-processor-embedded-memory-chip"
+    ampWebUrl: "https://www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/02/17/1031795-samsung.jpg"
-        width: 1000
-        height: 600
+      - url: "https://cdn.mos.cms.futurecdn.net/cPy3aYHcojq2iA7oJyeZRW-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power"
     excerpt: "Samsung Electronics Co., Ltd., the world leader in advanced memory technology, today announced that it has developed the industry’s first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI) processing power — the HBM-PIM."

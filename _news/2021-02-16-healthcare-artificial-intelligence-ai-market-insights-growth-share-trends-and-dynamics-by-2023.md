@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
     excerpt: "Selbyville, Delaware. The report Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market"
     publishedDateTime: 2021-02-16T11:57:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-drug-discovery-and-clinical-trials-market-size-share-to-record-stellar-growth-through-2025-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Enterprise AI Market Growth Analysis, Outlook ,Size, Share, Trends, Opportunities and Forecast to 2025"
+    excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
+    publishedDateTime: 2021-02-17T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-outlook-size-share-trends-opportunities-and-forecast-to-2025-2021-02-17"
     type: article
     provider:
       name: MarketWatch

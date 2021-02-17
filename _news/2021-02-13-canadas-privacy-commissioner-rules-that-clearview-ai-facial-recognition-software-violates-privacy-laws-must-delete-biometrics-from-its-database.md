@@ -183,6 +183,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Petition calls for EU ban on facial recognition"
+    excerpt: "Digital and human rights organisations, led by European Digital Rights, on Wednesday launched a European Citizens' Initiative calling for a ban on the use of biometric mass surveillance in public spaces,"
+    publishedDateTime: 2021-02-17T06:04:00Z
+    webUrl: "https://euobserver.com/tickers/150958"
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 39
+    images:
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Using Responsible AI to Push Digital Transformation"
     excerpt: "Can businesses implement ethical AI standards that reduce harm while positively transforming the workplace? Just as its development is creating new business opportunities, AI has also delivered some harmful and ethically objectionable outcomes — a symptom of the misguided rush to get exciting technology to market superseding moral,"
     publishedDateTime: 2021-02-16T17:51:00Z
