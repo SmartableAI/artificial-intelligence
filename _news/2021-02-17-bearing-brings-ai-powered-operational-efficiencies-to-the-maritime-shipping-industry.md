@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "This AI-powered gadget could completely disrupt the ridiculous hearing aid market"
-    excerpt: "Hearing loss sucks. It’s exhausting. I’ve suffered from partial hearing loss in both ears since the mid 2000’s. In order to function in the real world, I’m forced to exist in a state of constant vigilance."
-    publishedDateTime: 2021-02-15T19:56:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/"
+  - title: "IBM proposes AI chip with benchmark-beating power efficiency"
+    excerpt: "IBM claims to have developed an AI accelerator chip for training and inferencing that beats other leading chips on benchmarks."
+    publishedDateTime: 2021-02-17T18:08:00Z
+    webUrl: "https://venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency/"
+    ampWebUrl: "https://venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 82
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/whisper-796x448.jpg"
-        width: 796
-        height: 448
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all"
+        width: 1024
+        height: 663
         isCached: true
   - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
     excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable ins"

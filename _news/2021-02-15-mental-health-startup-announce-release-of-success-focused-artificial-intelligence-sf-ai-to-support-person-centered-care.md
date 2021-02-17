@@ -39,6 +39,20 @@ related:
         width: 272
         height: 270
         isCached: true
+  - title: "Mental Health Startup Announces Release of Success-Focused Artificial Intelligence to Support Person-Centered Care"
+    excerpt: "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of dozens of"
+    publishedDateTime: 2021-02-17T17:44:00Z
+    webUrl: "https://www.wboc.com/story/43365238/mental-health-startup-announces-release-of-success-focused-artificial-intelligence-to-support-person-centered-care"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 15
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "rus/ZaXCPJKRGEHjQ6ua8mZ6/8wg3vCrJWxV2EUXuAvrgDaDs6Uk0qjSGfKZh/R3RrchphMLMshJFTBk61ldMrPc8n+r320wYl/9FSi+ZpmJ89oxTZCPdD+JD2ivlFJNYz68PuZinE+EWvkoIy8t21C6CH9s1C+R/BvN/QvlCpC73pt2jTVcyPxfCB0C/QhKgawN6sA7XS0Q02f8cj5KiGufWhfsA96uyunUBDjqUmDDkQ3DsB1Puea3mGlfDVGiB7AY6KU1nTFpwwyT54G1JDK9OLXWMmGeWqH7m0zsrKBr6g1LQLn5EQHOvlkY9rSTsTyxniIhxVCKuJS9KTFH78C9T1NG0DACfZU/zAZLXx4=;uTzzx/gUDa/R8GHUst6s9w=="
 ---

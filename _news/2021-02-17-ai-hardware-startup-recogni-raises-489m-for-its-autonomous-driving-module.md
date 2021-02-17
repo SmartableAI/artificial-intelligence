@@ -51,6 +51,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 98
+  - title: "AI-based startup UptimeAI raises seed funding of $1.5 mn"
+    excerpt: "UptimeAI, a company specialising in AI-based predictive maintenance software for heavy industries, has raised a total of $1.5 million in its seed funding"
+    publishedDateTime: 2021-02-17T17:38:00Z
+    webUrl: "https://www.canindia.com/ai-based-startup-uptimeai-raises-seed-funding-of-1-5-mn/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 17
 
 secured: "qKOKEE4KYRRxCXq+CPJM/vbqXVujh2RQ6n2lZE640Yb/9rgkUdSHfUze80ZxvbsZFcFmpE3FK3IPWSdWFLa7lVthLRqvHi85MgcwEXXBcGhqGDJDGM5jxnM4rB2WPxi/+x117jBpvC5aAL8CxNvA12/qyI+aOo1ohIkc6O8VsWNhhL87FgbrjlrOOgW3QOOdXuIJl07QkLFxhzqk+VW2+B5TUCgLvcuYGD0UjxtQC1gWNnLg8jZW6MJwV395FVo7J4qHQlUcseb/Uq9twQWSCVSenJn8tDRdFNxsb3awtBpVXKjAYXYEroNfMZz+gH8aWaVrPfIEYumIs1c1rYx02ErI32N/KfVlFt/Z39nBeTiV9VO4xGcrm5EYiJRxZ9Ip+fovd1Mk0CiAP9bYaYUAqUBnq7PF5YQQWNAeU2Eu/bjbjtrqICZllssZaEfEUF1qlsqeS77YB8gGbj7Fi4MOAyxjwPjVZzc4gAJSg+ZCxJoAdJzAe35EgGaCNiBBAdnzHO2SqC6I+D/oIHh6Bw/akA==;vuZoXHgP6N2qUwatjrWOOw=="
 ---

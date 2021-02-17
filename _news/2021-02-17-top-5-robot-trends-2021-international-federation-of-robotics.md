@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-robotics
 webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-computing-and-information-technology-industrial-technology-2337d95e00c24f3f9852a7b1caea535c"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Associated Press
@@ -38,6 +38,20 @@ related:
       - url: "https://business-review.eu/wp-content/uploads/2021/02/tailent2.jpg"
         width: 1100
         height: 628
+        isCached: true
+  - title: "Top 5 Robot Trends 2021 Robots Learn New Tricks and Help to Reduce Carbon Footprint"
+    excerpt: "Annual installations of industrial robots more than tripled within ten years (2010-2019) reaching 381 thousand units in factories around the world. The International Federation of Robotics shows top 5 trends shaping industries around the globe."
+    publishedDateTime: 2021-02-17T17:32:00Z
+    webUrl: "https://www.automation.com/en-us/articles/february-2021/top-5-robot-trends-2021-robots-new-tricks-carbon"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 33
+    images:
+      - url: "https://www.automation.com/getmedia/64b4e078-804f-4057-8235-e85f583e28f9/IFR-news-Feb-17-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
 
 secured: "Yn7gXA+q21ej00wpWbzVZXdYiGYcY//R/GipzeA4j9DUCuVspOZGnoVhgZ9yviWTZedMJ5VDU1m/kBpa4xwp5tuUMZiZx8E1cLUrDoreJ2zAWD5st2NjH8OdN4kYXmIk0x6ql2lO+ExtaIdSo45G4VpihN75nVVD7q2la9o4rPCW1ucK/yaCaREChcLoBN3JFg2wjM62+FyFhibqYnPxyVpKC+mSEs2XuoyCxZ/gHzIiG5NE2mXFFwWfoI4US62DtI9Ad+dN2MeXwzOPpO1q+sLpKc8Hq/Gb/G+FMrv8dl0v3lQO/1xgDQtTy+pcI+jU+Awc+0WhRePsXp7J/azuM+KAvSioZ2Iv5nNGGHPk93w=;pUj1F3V0bnFg2xZswPUMXw=="

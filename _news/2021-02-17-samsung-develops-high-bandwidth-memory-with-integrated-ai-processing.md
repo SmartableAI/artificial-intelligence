@@ -3,12 +3,12 @@ category: news
 title: "Samsung develops high-bandwidth memory with integrated AI processing"
 excerpt: "Samsung Electronics said on Wednesday it has developed a high-bandwidth memory (HBM) integrated with artificial intelligence processing power. The new processing-in-memory (PIM) architecture adds AI engines into Samsung's HBM2 Aquabolt,"
 publishedDateTime: 2021-02-17T03:05:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+originalUrl: "https://www.zdnet.com/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+webUrl: "https://www.zdnet.com/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "Samsung develops AI processor-embedded memory chip"
@@ -54,6 +55,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Samsung creates RAM with integrated AI processing hardware"
+    excerpt: "Using its HBM2 RAM chips as a basis, Samsung added simple processing units that can speed up machine learning and inference workloads."
+    publishedDateTime: 2021-02-17T17:50:00Z
+    webUrl: "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php"
+    ampWebUrl: "https://m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 59
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/21/02/samsung-memory-with-builtin-ai/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
+        isCached: true
+  - title: "Samsung completes development for HBM-PIM, industry's first High Bandwidth Memory with on-chip AI processor"
+    excerpt: "The new HBM-PIM chips will deliver over twice the system performance of the current HBM2 solutions and reduce energy consumption by more than 70%. Samsung designed this new memory architecture in order to accelerate large-scale processing in data centers,"
+    publishedDateTime: 2021-02-17T17:22:00Z
+    webUrl: "https://www.notebookcheck.net/Samsung-completes-development-for-HBM-PIM-industry-s-first-High-Bandwidth-Memory-with-on-chip-AI-processor.522382.0.html"
+    type: article
+    provider:
+      name: NotebookCheck
+      domain: notebookcheck.net
+    quality: 36
+    images:
+      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/HBM_PIM_PR_DL2.jpg"
+        width: 2000
+        height: 1415
+        isCached: true
   - title: "Samsung's New HBM-PIM Memory Doubles Performance, Packs AI Brainpower For Data Centers"
     excerpt: "Samsung has developed the world's HBM solution with integrated AI processing power, capable of 1.2 TFLOPs of performance."
     publishedDateTime: 2021-02-17T14:54:00Z
@@ -78,6 +109,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "cRBlzAIvLSSaTsfh6tyztbhVgPbUDuf9x9WJBE/cStCKnJcSiFC/+8RzwS6FLHh1TByNjz29LofqsUI7q0xkJnntUQnd6YYXBzaPmnYnOJ3upuUx2tja7XtERxul7agfxNH0U1NW9N4VopAv58DI0e/hMFQt9vreVqf36la5XXLoz+GRIMhFgjkOzGr8fvew8XYmao3fEJ5Cy1Qt3pXnkaZXz2ur7kza6ZKPsEoTrwprf742U2SrXR30OWhIFo5NKWM9tIx+4FcEr0Xrbb9i3DnZZLpsCQc3bhKDAGWl4P0IrkJx15P9/rNqO5G8nSaugDLxFvBkbQhrmAUi7pBc7Mw3cWsZHbYyhmxuOSUfsy8urf/OSmqPbjd4tv0FlFj7Z506/FgeIeLM7kLGbCOaUarbDH5fH31ZGyAGWNsfujPzACLJPDMERANk7qw0AaOZ2B3hpqE4TLoTaNaOozMHxkLGJ1Az9bLaqnC8pScpjEFqLT+6KX28y9mRQWjCGkdPTBRjZXMxeW5ssYBbXezJTg==;IgcUJJW4rZAKFHS/NB3ylw=="
+secured: "sUmWSktvm6DAWF2D4qg1xtq53zjLrIfg/7E6b+/Vo3PRKbxsMeLWQOC+Jq0HVUW1/4EngOD08C4CNFr0tPjIsXfEikfQfVDuyewn3K/jhjM56DUf8uL9KTPmrNymCoha6oDRFcrziy4RY+xGPX06YvcaQNajFyK4UbOvbrmJ0bxt+pFum9TXNrzDBpx953IBrsbfm2WRkbkwrh5v61aQmBsN5EA4CoG5x5r7hRsOoLKIc3H/P3gtGYMGlIwaFS6Cdbhf9tCQjghEFCVwBBHjnzgJfbINJY72QNCOV21E526NujeUVNS0oogXMG2Bx8tZuaSiNLo1vs8DwpsCu0QNjJBMZk9Ksd3izoGHzGPkKJoYaiKp21/ojUTr0JAu2AZKLZGyNi2z4KkjSLfFhEoSr9B12rDK6cTzzLfKlSxgrZKkB9WO0/zKvxZ1BpQtImrGJB08BxfrL44AT8hZsOXFWy99McWQNQL3SZ+1oMr5vZe/UGigMIXFLz12u2gkBZUyHa/FWMgveg2MPSrnEayRMQ==;0ccYkH/hwPYdNGywumFAvg=="
 ---
 

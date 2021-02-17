@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recog
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
 type: article
 quality: 59
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -208,6 +208,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+        isCached: true
+  - title: "Civil society to Biden administration: halt facial recognition technology"
+    excerpt: "Access Now joined over 40 civil society organizations in a letter to the Biden administration calling for a federal moratorium on the use of facial recognition technology."
+    publishedDateTime: 2021-02-17T18:12:00Z
+    webUrl: "https://www.accessnow.org/biden-facial-recognition-moratorium/"
+    type: article
+    provider:
+      name: Access Now
+      domain: accessnow.org
+    quality: 38
+    images:
+      - url: "https://www.accessnow.org/cms/assets/uploads/2021/01/tracker.jpg"
+        width: 1800
+        height: 850
         isCached: true
   - title: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology – St George News"
     excerpt: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology - St George News Stock Image |"

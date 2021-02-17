@@ -209,6 +209,20 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Civil society to Biden administration: halt facial recognition technology"
+    excerpt: "Access Now joined over 40 civil society organizations in a letter to the Biden administration calling for a federal moratorium on the use of facial recognition technology."
+    publishedDateTime: 2021-02-17T18:12:00Z
+    webUrl: "https://www.accessnow.org/biden-facial-recognition-moratorium/"
+    type: article
+    provider:
+      name: Access Now
+      domain: accessnow.org
+    quality: 38
+    images:
+      - url: "https://www.accessnow.org/cms/assets/uploads/2021/01/tracker.jpg"
+        width: 1800
+        height: 850
+        isCached: true
   - title: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology – St George News"
     excerpt: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology - St George News Stock Image |"
     publishedDateTime: 2021-02-16T03:59:00Z
@@ -251,6 +265,6 @@ related:
         height: 726
         isCached: true
 
-secured: "RzXVOqKE5qQi/rvgbjz84n6he2d8sPCC479d4lnUAi4be0JU2gsAYfK2nlTwNwuFLEDA5cFV62RJDhdfHWgpqN0k7rTg1RfDO3DwKpmwRmV4dYxb1AbThvxNOj6sRO4Ly3tOYcAltNWjwo1ESw7XuEK04pYfBphr0LZZf2JRD2c6MVtoRgDPTpnT1WoIH0ICB4JyxNlnOgaavspkMuUgyjYfgpEPqYVRTbW50RzUgrOQkOraJa+lKS2nSMqd4Y+sz9avSn3xWqdiUFZjMey11ZC4yeJ3D+Ko2mF+dqTwrVZKEhSYZSugO3AyxTs6a3JclsUrjCuL16oXuhkvBe/L/TovMJRSE8JD+aHGd4fFlSA=;3K/Yhhto1r5oP/vfaaFW6Q=="
+secured: "3H3xC7dFIDAB3MvSK9Zcsx2Wxn4RVwRlTG337PySixa7XheascRHQ3YtiCDhoApKzLC/3Nt6zZs9pdh75pk13qAS5RZ4Ug+7S/zaq3vCaXAFO1/1M1rRNXdxOKwm3EQVKGI5e+Ggp5Q6eT8fPM/vyaAqfqEb62VjfQWED0w43KxFz8Ucune6J5fTPW5Bmrwnnyidp9uJjrKYsVN0TrXy+4f7Ej/NQwqNCxrb9rO79O77N107Okm2XHNpZpXcRUd+NJ0v555u6qK//KA0EK1W2OFDn9Xv8/A8+ZvuqUaMRY4NTRVXMI3nQRVO+eusczzKmKGr3F2ThSQ+joMMEvTx2xy4wH702MVkXmKUHuMVipRYGr+eI5lSkkC+vDHY1IzdrsRhvedAUsJPSZ/XcKVspvgoCEcvZ+JFV4JKqzqhgblnyOWg6I2fKu6N/e1f+n8pYq9Egn4i4smGyjMNbzMVxagrESvkP1zyZ+vVG2q6kUO+oje1EgodN4YGmMwIbojGvxXXaJqRqnqcKNYMO1WdGg==;uu5f8wWTo/BsywAkTt5BnA=="
 ---
 

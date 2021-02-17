@@ -1,24 +1,29 @@
 ---
 category: news
 title: "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation"
-excerpt: "Quantiphi has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,"
-publishedDateTime: 2021-02-04T14:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19489798"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19489798"
+excerpt: "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,"
+publishedDateTime: 2021-02-04T14:45:00Z
+originalUrl: "https://www.lelezard.com/en/news-19635111.html"
+webUrl: "https://www.lelezard.com/en/news-19635111.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - TensorFlow
-  - Google AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - Google AI
+  - TensorFlow
 
-secured: "irAZuKyOOfGp0QpdKWLNeAOcGF8CVrUgKgwsyECdDm8b6QFlKmGDVjpj963BNXaqVl0i7vqv7uCYmFXhFF135pLAvythabVKEwn/XKSGrNS0nDBZL05qvOKUreemMvj7czlgxjeLkiBDxETvg4PAJr2q4MJonNRn6w8GTUOtCJhLqPZPFlWTf5WlciS0e8FnwbRW41zjLMiueqfeIFFC9eXl4pks7Px8fMpdNWDYrQZDo7fb1ortxhoSOGc/p/GAwGxl/tqN1jqTyq1PWwqFiRPqy12B259mZwFFJrZzYJxTLRAkEgkNNERwJSuvZ21H9CgHlYxOYVSX48BiF2/ughH3YxH4D1d1My861fx38jw=;UixrHiDBP+0ziDvhgbevGg=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "y+NqGGGto3rwArMxIw9IS5fwF7hNWfBe6YHPH35y7f+NVr51LcoeqYCtuOKP/OgAEsjAE54APeNUPiQTh+70rzri+AxiFH8casUohxmZ8Td1ZR+EniMhOSx32izSEocedmAgtTrzyUQcu4O3I3UotomoDiw1FPhV7AbmOEKeGNr3e9v1vrgbIdwFBr5cIqP2CUC0MTrHLJ0pR8i5tXY52e2FLfNt+Ktf28kqrSvvT13GMvdFG1/XFv8ERbOjYiCA399ZZumokQhL8Xr9iLQxxYx9KkywA5mc+KHtqy2eNmZKzusrSDnLOpeMRHrba4wCwJl0BKluvyNGOIDxnuBzKZ5XfEGp9W57CRgxq7+CoUg=;6Bb6Tbaq62QZ0FXfG80R8Q=="
 ---
 

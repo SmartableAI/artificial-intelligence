@@ -225,6 +225,20 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Civil society to Biden administration: halt facial recognition technology"
+    excerpt: "Access Now joined over 40 civil society organizations in a letter to the Biden administration calling for a federal moratorium on the use of facial recognition technology."
+    publishedDateTime: 2021-02-17T18:12:00Z
+    webUrl: "https://www.accessnow.org/biden-facial-recognition-moratorium/"
+    type: article
+    provider:
+      name: Access Now
+      domain: accessnow.org
+    quality: 38
+    images:
+      - url: "https://www.accessnow.org/cms/assets/uploads/2021/01/tracker.jpg"
+        width: 1800
+        height: 850
+        isCached: true
   - title: "Sheikh Mohammed approves use of facial recognition tech to enhance services in UAE"
     excerpt: "The UAE seeks to leverage facial recognition technology to reduce paper-based transactions in private and government sectors"
     publishedDateTime: 2021-02-15T14:06:00Z

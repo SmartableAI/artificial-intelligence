@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "AI-based startup UptimeAI raises seed funding of $1.5 mn"
+    excerpt: "UptimeAI, a company specialising in AI-based predictive maintenance software for heavy industries, has raised a total of $1.5 million in its seed funding"
+    publishedDateTime: 2021-02-17T17:38:00Z
+    webUrl: "https://www.canindia.com/ai-based-startup-uptimeai-raises-seed-funding-of-1-5-mn/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 17
 
 secured: "NcUiJpPMA/UksH91GLLc0kFl/MWAjx1Am/31hT489wgCTUlZs3P5XKVOOATsunOlT7McgFYE1HKoZXO8/vS4laCkHz7sYMVleDGz4t4qKhA+ZwLn4FKOlm+ph9nXW7IhPQWu2lpYBM/T9ORACmB6tEmB442lqfA9racGd9fePVpe64zsOPxu9sYo27MG9seJrnxs43MeMtp1RXaAGtSGIwRuswf/7SOEfn42regBnnR0ufJCA/3mm8fXuFtIpjV62JGg9fecsbyA/VW9rDxCy78pxp4BeB614DDdBeBaRJxg5XuWbyq1Rz+ualO/J/tdIP3KF2fIbuMhVsl/MgKrZAb9o7eS9mgeD97/6uXIBi0Ps8k1/rN5QitvwFl+UO96YPqv6jE8zGtULJwB2iAEUjnFoTLrc7SxUhACBgQInJf9bW8oRMil2TAwpNIFwycQNwUQ2Eptf9JuiEans0VEdGXyMhLJuUg9GRIKvYHDZi+GeZY9W3kYCvI1l+P9hblveRrmmiPldAN6oPkyvQrssQ==;RyqaBMXqml2gHIYDwrzJuw=="
 ---

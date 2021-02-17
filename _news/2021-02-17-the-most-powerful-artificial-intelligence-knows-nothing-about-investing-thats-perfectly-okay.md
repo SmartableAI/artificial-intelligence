@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-17T15:07:00Z
 originalUrl: "https://www.institutionalinvestor.com/article/b1qlrt5hr035ds/The-Most-Powerful-Artificial-Intelligence-Knows-Nothing-About-Investing-That-s-Perfectly-Okay"
 webUrl: "https://www.institutionalinvestor.com/article/b1qlrt5hr035ds/The-Most-Powerful-Artificial-Intelligence-Knows-Nothing-About-Investing-That-s-Perfectly-Okay"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://institutionalinvestor.euromoneycdn.com/media/AMG/II/articles/1/1/1/art_AI_0216.jpg"
