@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/industrial-automation/article/211
 webUrl: "https://www.electronicdesign.com/industrial-automation/article/21155161/micron-2021-predictions-memory-and-storage-boost-innovation-in-5g-ai-and-more"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Predictiv AI Partners With MCL Sustainable Cleaning Solutions To Sell Into Education, Government and Food Service Sectors Across"
-    excerpt: "Canada Canada NewsWire TORONTO, Feb. 12, 2021 MCL"
-    publishedDateTime: 2021-02-13T09:38:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 55
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Olympus Partners with Imbio to Bring AI-based Patient Selection Tools to Customers with SeleCT™ QCT Analysis Service"
-    excerpt: "Today, Olympus announced a partnership with Imbio, LLC to provide physicians with the SeleCT™ QCT analysis service to evaluate patient eligibility for treatment with the Spiration® Valve System, an FDA-designated breakthrough device to treat severe emphysema,"
-    publishedDateTime: 2021-02-17T14:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-diagnostic-technology-medical-technology-lung-disease-a4838f9c1536ff80627130b1ef1a8266"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "qj0hS7oCM8w0NwYtsI0KiMrn6ohHR2zbp67k/gbzmr/eYL3FbP9hxyrHHbqOrUBxSmyCA8KQFjsm2dmr4MixfSe0wT98bjzAHQ0+tqVa7cY13+fcExncKfQe3qCgTpze0eAOxRcnHGi8hI59X+etcNqYTOkU/W+vRYgJ8BYxU5L90z74IJAwq/Qkq5GSmCTM5/IEiYXJpRN0xEvDZtfA9DFlrtCBnHOkxSG/DgN+rYFTlr5b7byNWMSQvYtrvwXZZcNBzEMP2sRkOA3Eo6+msfy1oQ3twnjvpC8PYM2eS578ZfE7pHVMTBh1uwymFRDukSNTsWkpCh4S7NSNtb9YwKhd5bM90gGqO8RgsWYUTdU=;mqqaS6+epYWs4mBnfkxnnA=="
 ---

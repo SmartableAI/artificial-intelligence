@@ -283,6 +283,20 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Civil rights groups ask Biden administration to oppose facial recognition software"
+    excerpt: "Civil rights groups are pushing the Biden administration to take a stand against facial recognition technology, saying the rapidly spreading software poses"
+    publishedDateTime: 2021-02-18T00:55:00Z
+    webUrl: "https://www.nationthailand.com/edandtech/30402761"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 35
+    images:
+      - url: "https://media.nationthailand.com/images/news/2021/02/17/30402753/500_04900553dd3f2a4.jpg?v=1613579685"
+        width: 420
+        height: 280
+        isCached: true
   - title: "Sheikh Mohammed approves use of facial recognition tech to enhance services in UAE"
     excerpt: "The UAE seeks to leverage facial recognition technology to reduce paper-based transactions in private and government sectors"
     publishedDateTime: 2021-02-15T14:06:00Z

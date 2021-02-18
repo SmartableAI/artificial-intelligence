@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recog
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
 type: article
 quality: 59
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -266,6 +266,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+        isCached: true
+  - title: "Civil rights groups ask Biden administration to oppose facial recognition software"
+    excerpt: "Civil rights groups are pushing the Biden administration to take a stand against facial recognition technology, saying the rapidly spreading software poses"
+    publishedDateTime: 2021-02-18T00:55:00Z
+    webUrl: "https://www.nationthailand.com/edandtech/30402761"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 35
+    images:
+      - url: "https://media.nationthailand.com/images/news/2021/02/17/30402753/500_04900553dd3f2a4.jpg?v=1613579685"
+        width: 420
+        height: 280
         isCached: true
   - title: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology – St George News"
     excerpt: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology - St George News Stock Image |"

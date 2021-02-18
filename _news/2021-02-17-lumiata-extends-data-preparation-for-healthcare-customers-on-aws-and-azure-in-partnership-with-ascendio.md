@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Lumiata Extends Data Preparation for Healthcare Customers on AWS and Azure in Partnership with Ascend.io"
-excerpt: "Lumiata has announced a new partnership with Ascend.io in order to provide customers with access to its proprietary data preparation process. This relationship will ensure that all Lumiata customers,"
-publishedDateTime: 2021-02-17T13:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317"
-webUrl: "https://markets.businessinsider.com/news/stocks/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317"
+excerpt: "Lumiata has announced a new partnership with Ascend.io in order to provide customers with access to its proprietary data preparation"
+publishedDateTime: 2021-02-17T13:41:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascendio-301229521.html"
+webUrl: "https://www.prnewswire.com/news-releases/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascendio-301229521.html"
 type: article
-quality: 86
-heat: 96
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Healthcare
   - AWS AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1439360/Lumiata_AI_Products.jpg?p=facebook"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Lumiata partners with Ascend.io to offer data preparation for healthcare customers on AWS and Azure"
@@ -42,6 +42,6 @@ related:
         height: 594
         isCached: true
 
-secured: "VdQ0j2oKaJRfn6IcRZm0zBepuet+A9p5tUyN+zmu2eBVBKcbs/1rin8WR4FnjFgh4i3A/S1Q4/CE26vYAzNQVed8SvcAEUwbDrwxtam21xtBi/BkyW4sDZyIUvYAIaExXBkvmZBpp2d/6DZ7pxlbQ9o3OoP+lKvsG4HwgDkCUILZh4pPQYFIFTttiArjrSrMB50jiauu2CmPuv4zyRvBDI3orKdmKTKk2wu/3esvNbD45jq+erk3t2KzySnIh+WjUiuF6FKf5KZQtvpdvoALpUsOxCJK9RBzxyq1F9sG74m4Sh+oewWKZNPrCcYeMm7FBgirD/6y7R9wn+MMlE+Geq/l1Rak5XOzitauyVSRsFU=;043ZUsSp97y95TbZ4mmSUw=="
+secured: "96niCupKVKJ6MwIRdOoEVpnrDgppb8o/ZkzLfQRMgwsH/VIG/keDxOLPNLLyzgntA7oa9d5egD7t16Rp7a8oas8YKqcuvGdo5crIaTJ0fo25Ra3t+bEjoXDmNjcoJ5wzw/0NHFDXjHo2tAcUQaItIAgj6eDasUjQiRzn5VqgmxjozM+IfpwjZV6W2JP2In2hY2pVPRMJWo23cFlqMMcYAcT6UPa7x4YtUk4rBDwNuG2xu52votrmufy9TN6F2lTfp3sYnLht0MI3Ie0Lpvpb90REsmlLGQ88wYXOrVU5/kGOT0gMjw6XwJbLLe1fmBPbf+VjoUH6SMM1BuTkKsWPgfdvr808wCnkeHaOw9tH+eQ=;bb2k3F2nsmWEbUHg8E14uA=="
 ---
 

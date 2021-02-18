@@ -126,17 +126,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
-  - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
-    excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
-    publishedDateTime: 2021-02-13T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
 
 secured: "7LZWzeGIBuOVzzTwOJJFuZ+2UB0IBDJgmx2seqsVl/SA/MWdc2ODPGTiIPPORvW4n/GgEBeV1hKNUrHktaKT6Pr14R6hUCkicekXRZvaH1H2bkqJ+HAW5YZYdJDmtZpZ2PFZT+TNMZQgVCALS8MUei8DhV1FUnzSj7dJPuuXUsuF1ofQDTU5Poe5naphfk675ca3VBLr/NQ0I2i6rOyiY8DfnwsalIcbJ0LXyIycThGodk/8qCpfVNZq4OPQJwJ/twlu4/mRmPy4wo4pv5JB7xOXM+F9etUcBg7JaRBcyF0IdjoDUCQnYJRQbn7iBpUBtp4xR1mgr64fwKToRUcTLqkYmD25d13VhoHzJ0FhRsU=;zNe8s+ayjVz03J0ew0yczA=="
 ---

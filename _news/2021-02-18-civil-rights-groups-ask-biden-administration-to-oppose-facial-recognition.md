@@ -267,6 +267,20 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Civil rights groups ask Biden administration to oppose facial recognition software"
+    excerpt: "Civil rights groups are pushing the Biden administration to take a stand against facial recognition technology, saying the rapidly spreading software poses"
+    publishedDateTime: 2021-02-18T00:55:00Z
+    webUrl: "https://www.nationthailand.com/edandtech/30402761"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 35
+    images:
+      - url: "https://media.nationthailand.com/images/news/2021/02/17/30402753/500_04900553dd3f2a4.jpg?v=1613579685"
+        width: 420
+        height: 280
+        isCached: true
   - title: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology – St George News"
     excerpt: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology - St George News Stock Image |"
     publishedDateTime: 2021-02-16T03:59:00Z
@@ -323,6 +337,6 @@ related:
         height: 726
         isCached: true
 
-secured: "8R1+fwJyVru/dvjRSGA0dDZgNDmWmW/M2W2c4Af4w3dxhsl76AHOdHV4dsZ0LYAYYzNtLVU+BH+6qk+y8K8OFBmpI/wKDsTj0J7WJ4vxv49koOvwywvUH+oGrfw/lganBHUDEwMFRuEJbBd58azTqXCv9RKs09Qzf6W0AhryDQZIfbBOVcbdbD7my8aIgkIF1pfa6hv3N+/GLhbvMmPGqmAWXtakU7fm45tKOLPjU5+KFzqqcaKz8B0BP8gyZ5/7yVqLzzmShTIVNA9EM1xoHyPcxn4nMKOssUapfLMp5SbpYsCVhcDmCY9ZcUabO/xI4MTu6mcZdRWZ+IGD+T7vqZDbsxlVZ+KLcq3CbFbDkZE=;f2+tuZktXSI3h7+m0m5B3w=="
+secured: "hdWnHApQlYHLxcdUVzq2CoRHop+larihIN/c5yLJBojWc84lxwi3/Gd/w73mxM/JrncR3w5vRBZ8CEZmllxMN1RtREZP1NYctjGpeVn/1s51qE1C2Y5/mTpUj8mMdpku345YJm27TzafXkQ7JuaoCRbDc4gQw7mqoPOZDAP7NHovHvtoINO1cHWB5OcKyFOyaN+pK/Mk40ntagI62hjqb6jc3FJODWXTjeDZOfUkxCvad2XbxwqGj/ADHjrEXp+6iytKCeDMU7AF80UR5X5+NDmg5uXrQsEVXv8Lsyxb1NgvRx5b+RXmItgcTNFfWG21cAvmbXEqTx2g1kFOY3C3uVr5enaIq1ugZ5gpG77g9x3cYMP79wQPfPMWQvAHNFr7+x4fASsIITKGOJezIulfWkIjqRr3kutSuyQZJUHxZ9BFOlgAyX9+ZoUX3VGXgaN9le0xWcysF7MvGT0mI/53V4ONZkb67ye9gPAtWS46xPebwmYH39KR9OYlOJCe5h9fvjh6xuzE6l3p3OmVC6o1hA==;UP/3rQ+tvXZDYMBXiPJKZg=="
 ---
 

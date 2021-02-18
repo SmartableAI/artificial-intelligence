@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Forget Self-Driving Cars—the Pentagon Wants Autonomous Ships, Choppers and Jets"
-    excerpt: "The U.S. military’s automation push is outpacing commercial efforts in the air, on land and underwater as officials seek to counter adversaries’ advances with technology that could later find civilian uses."
-    publishedDateTime: 2021-02-13T10:32:00Z
-    webUrl: "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 70
-    images:
-      - url: "https://images.wsj.net/im-297635/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Forget Self-Driving Cars -- the Pentagon Wants Autonomous Ships, Choppers, Jets"
     excerpt: "From pilotless jets engaging in dogfights to huge undersea vessels ferrying troops, the Pentagon is pushing to increase the U.S. military's use of automation."
     publishedDateTime: 2021-02-15T00:11:00Z

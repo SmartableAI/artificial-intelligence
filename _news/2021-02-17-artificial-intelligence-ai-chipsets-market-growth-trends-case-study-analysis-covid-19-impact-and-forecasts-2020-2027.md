@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16"
 type: article
 quality: 76
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -135,17 +135,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
-  - title: "Emotion Detection and Recognition Market Size | COVID-19 Impact Analysis | Forecast to 2027"
-    excerpt: "The emotion detection and recognition market size is expected to grow from 21 6 billion in 2019 to 56 billion in 2024 at a CAGR of 20 over the forecast period Factors such as the rising need for socially intelligent"
-    publishedDateTime: 2021-02-13T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241802/emotion-detection-and-recognition-market-size-covid-19-impact"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
 
 secured: "ndDTNJbrNjd+k9090FxCTemsZtyy/gExGp1KtehviUdoGM/mPndsB+v0MUbkhbP/drylmtL8TSmcfwD4k/J47qzfvogE0GNemnFTKWFWbeEr//a1pU9rkrRC0lmCvckB7oYDc9b4lvrBTEyMMPu+WKIjjZ3CTfO0RJ6jPw4EWROgv0shomDG1MCQFw7NMiWOpO0DaZjDT6MNyI5MXxGUa2CCiEozumwb/PLoLWv4xgYleFpziaWP6ba6tORXBDfaGHpDHeoxvRwP/T4d0z/M73WIeVp0IXUD/j/PEtRNvfpxEn0Wnoh3S17iTDUH2JGJRWj9otTYizEIOWn4OzTh6Q4O4ZZyCXVb2PmlCZrYi6I=;iHYmEQ0LxugoM9WpkNfHaQ=="
 ---

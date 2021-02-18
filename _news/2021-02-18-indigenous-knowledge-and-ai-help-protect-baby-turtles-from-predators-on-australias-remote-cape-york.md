@@ -6,9 +6,9 @@ publishedDateTime: 2021-02-17T16:23:00Z
 originalUrl: "https://news.microsoft.com/apac/features/indigenous-knowledge-and-ai-help-protect-baby-turtles-from-predators-on-australias-remote-cape-york/"
 webUrl: "https://news.microsoft.com/apac/features/indigenous-knowledge-and-ai-help-protect-baby-turtles-from-predators-on-australias-remote-cape-york/"
 type: article
-quality: 24
-heat: 24
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Microsoft
@@ -28,6 +28,6 @@ images:
     height: 896
     isCached: true
 
-secured: "c26T8UHfK4hxW32kKKcH9sORTZ0VOvOPti9VB4XRetCcxGws/spFqoAx6DCzgTu/4hELNwncsOcPtRkUpM05Jlz2HYZH0ngj/kO0V20GiY1+kI5RdIvCuscJc4kbDdiAMLXLD87K84WqcSOM/dTUQqzov1USMkmd+EI3rgFibbMMAn/yF/g48bnDOSRJ9hcjit2kRIIAVy1SpIY7wEaAbd+Ue5dQI99UVTgTlGIAytWcZnKzBfxxo1hqNnKY6MZeM8CYORFRByIRrSPlBhkXdyX5fiqrS+ru7hgQ5ZgaEdSrgmiC5VZQPfbr75yXIF/FajRRodNfloN79C9F/SboSWkPOw49A9PXzaUCWsAijhp1CC6hZgBBFOXY1MDgGWXIwSj+me8zHTOwN0It12Ik7Hu5AQgYFldWxZbkUp68kVf/cr4AGin0jwV3HEjdo3MCYUM8hKJISmnhY6OZtHyljwuZJqADBfZ/ANRmlmlTSzlF5gFF4OU/Vi/vcaaMRIrwxcqwXGMuuGJ5c6ledXo8Wg==;8EweA/KwoCMQHX66mX+RGg=="
+secured: "swtap1i7+K2CppX3Q4vW+NvYFpMeQS8HEIkH2gZR52Rwvu1tczBzg2MwKbv0pmzFlBUkX8Az8AXpF/Kh6AL3iRCNWvg7RdoTOQar1Oj2FyRQVh4R6qxT0HIHdLuxc/yu83vGXBUxxbohXwvR1Yw5PssZdndWdPNRBq/kda1Ml57zG5vGNNBh7s+T86V/6hYF4bH7GHB/c2m0J5mzr1+E3F7fFvwVx2nikwSl+mPH7D9SX59lNSAK6yjRpImfetDCS2XfbGXcB4JD7RtVw0CFcvy2ZNe6+KQk7myKTiQHJ6gLDI4KrjoJvKfih0dFaso/6xRaf7Hw+jz9QEnsHLd1m73uwum75g1w5iyZ0sFCMWIMqjSJRhEdyuIypRPHquXWoFmmlivahvZRcQ1vsBBV3ayK3+yFMn3/ZFey/CFELJK3qdGPnctJtjYqd3XDhqIMSpoFKFXlE54F68kdIHw0o5krs/HDcqsHAK2AOdmpsUNuqgvS8D0k77uiqoSAFAKqTFXR87MB7qcuGqsyFg/2wMQ8ZGcnT9hXSYbQKRKdaC0=;omtyJ71b0bd7T8wyVlGBjQ=="
 ---
 
