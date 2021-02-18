@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/770x578/65123fb077ed2ed98120af5e09d0cc62/20210211-alxcel-karen.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "How artificial intelligence eases pressing needs of mental health"
+    excerpt: "Emerging technologies like AI allow the mapping of the brain’s responses to various stimuli and help in predicting disorders."
+    publishedDateTime: 2021-02-18T07:38:00Z
+    webUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/"
+    ampWebUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-in-mental-health.png"
+        width: 850
+        height: 400
         isCached: true
   - title: "Incorporating artificial intelligence in Indian healthcare"
     excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."

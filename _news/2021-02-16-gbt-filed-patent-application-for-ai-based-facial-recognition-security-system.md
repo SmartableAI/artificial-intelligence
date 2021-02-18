@@ -42,6 +42,22 @@ related:
         width: 900
         height: 450
         isCached: true
+  - title: "AI-based startup UptimeAI raises seed funding of $1.5 mn"
+    excerpt: "UptimeAI, a company specialising in AI-based predictive maintenance software for heavy industries, has raised a total of $1.5 million in its seed funding from YourNest Venture Capital and other angel investors."
+    publishedDateTime: 2021-02-18T07:23:00Z
+    webUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+    ampWebUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/Uptime_AI_umxhj8jfiaddb.jpeg"
+        width: 650
+        height: 300
+        isCached: true
   - title: "AI hardware startup Recogni raises $48.9M for its autonomous driving module"
     excerpt: "Recogni Inc., a startup developing artificial intelligence hardware for autonomous vehicles, today announced that it has closed a $48.9 million funding round from a group of investment firms and auto industry players."
     publishedDateTime: 2021-02-17T14:24:00Z
@@ -56,15 +72,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "AI-based startup UptimeAI raises seed funding of $1.5 mn"
-    excerpt: "UptimeAI, a company specialising in AI-based predictive maintenance software for heavy industries, has raised a total of $1.5 million in its seed funding"
-    publishedDateTime: 2021-02-17T17:38:00Z
-    webUrl: "https://www.canindia.com/ai-based-startup-uptimeai-raises-seed-funding-of-1-5-mn/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 17
 
 secured: "btL46BEp2Us6v5IZNS4uxRHixdd5T1sY+zwSqhSAB5rIqiSVzREOwh2db5s3bQuKMdZ9aQhz6Ic8Pjmjys5Q7ekO+vSftgl1yVJz3AvfE41RNcxXNO2qqq12olfqtKAkvdUhcA/hIx6Tur/2Ai1LfgiludAOHI2n6LT5v1fmys5wsWvpKTKtgnnfrZ8J57pFe2v40U2DvgQnUYBE+fBpHXo12S+MclPQQm7PsPFbqZ88JLvrsiGKGq1fapT7PDs4eRGxg70A+7tHpNS571EHoKAzedq267S3RuaqUbqsgUTUPcSrRLPb5zrMbCbrWx/RyBz5fz13Qwvs92fuNjbH30QMbgL2KPrYNIKXkMs4i88=;BDH9q2oYK709SKsbkhhBsA=="
 ---

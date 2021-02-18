@@ -1,21 +1,29 @@
 ---
 category: news
 title: "AI-based startup UptimeAI raises seed funding of $1.5 mn"
-excerpt: "UptimeAI, a company specialising in AI-based predictive maintenance software for heavy industries, has raised a total of $1.5 million in its seed funding"
-publishedDateTime: 2021-02-17T17:38:00Z
-originalUrl: "https://www.canindia.com/ai-based-startup-uptimeai-raises-seed-funding-of-1-5-mn/"
-webUrl: "https://www.canindia.com/ai-based-startup-uptimeai-raises-seed-funding-of-1-5-mn/"
+excerpt: "UptimeAI, a company specialising in AI-based predictive maintenance software for heavy industries, has raised a total of $1.5 million in its seed funding from YourNest Venture Capital and other angel investors."
+publishedDateTime: 2021-02-18T07:23:00Z
+originalUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+webUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+ampWebUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Canindia.com
-  domain: canindia.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.sify.com/uploads/Uptime_AI_umxhj8jfiaddb.jpeg"
+    width: 650
+    height: 300
+    isCached: true
 
 related:
   - title: "Recogni raises $48.9 million for AI-powered perception chips"
@@ -60,6 +68,6 @@ related:
         height: 400
         isCached: true
 
-secured: "9LBBE2bfvVkPKyxiPiOnp4aZ1kHiicYXsk36ja16pyDTgahVH2YMwyFlcTvPk/uWr3bTZ/fNCQhjyOsqqBKf/O3/OCgxdP+qwyhTG7OMU3K4FM4D5D6UlTPDq1HYMUK6CLQ+AWt6KZsch8yF/lNCz5/s9z819IDInJCAVJMSQLwZxvwdlKtqlBmdk9F9pA66MtSWmBiV+YtLsvcOCSZ0REsFEFPQFA0AkC8A049CbPKKdZ2V9leASocAijgCn2DgTrAMAs2n6D6pfgVGaeB/0OCWdjTNZFb4/HAygLoUp/NV2KkU8IqKzdG4cGiqo0rUYLnCxa3R92r2fdqnagVNCqd3aCOvgtgmqAAvpI2F12k=;uQ8dQjA92OuqRMJInGNPMA=="
+secured: "svgnlxm2D7Rvla2Q2bvflmukyVqFxljPJWa6kMBAqLqs64TW2SnGxsEBtrph+e3o3dITWHq28TbChFUIYMWilF6/gQRZt1Vo9bf3YnukdXd6ak6DKO4lwCnIYIUJr+Nub/oAyEV50mZkLEuuGO4iM1QUqHuFOVDXcoEpG/9kp/j+qYWFfgqQ8AIdjqTcvjZ+A2qJlYpvTTvvQYLv20QLiRJEuovGKP3enM1nWf7dbKl56iFRvVXwGUc8tDa4iVTCEYpAZK/5Y8No2zDIMQqD7MsA07nS35humiICYGxWUfaf7yPEmqH4w8YZbFPfR+4y2wi8qJ2hUR5mCiRYlBY2IkWmmfCQcKuA0tKdS+MZDhE=;TH9Ryj8fpa5WqhldvPNE0A=="
 ---
 

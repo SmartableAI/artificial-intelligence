@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-16T16:59:00Z
 originalUrl: "https://www.roboticstomorrow.com/content.php?post=16269"
 webUrl: "https://www.roboticstomorrow.com/content.php?post=16269"
 type: article
-quality: 13
-heat: 13
+quality: 11
+heat: 11
 published: false
 
 provider:
@@ -15,11 +15,10 @@ provider:
   domain: roboticstomorrow.com
 
 topics:
-  - AI Hardware
-  - AI
   - Computer Vision
-  - Machine Learning
+  - AI
+  - AI Hardware
 
-secured: "Gc6HvaBzY4ITqGD3h4A/VMjsflprrabB4cm5qmLdlsezEAydZMNKzEv5MRgFiXkqXolaoiY2UOE0MOIpimwEgbWOBZs3woGPd7j3QSNJnWt9ATDsWS9h06iIeIrIZ7tV3Yaj9lN3RzEOoOP3MlJt0RtgaY/FsNq3c9qaNzYBJ9Tko/xqCAF0qsOv1y1VOdUoNUbp3x41TTZ0NNeXR9cwpeL85T2y5VuorSOj8OcsINxQ8bU/Odp2/1D5R8K1rQihoG0IEwMM1L6mSgZkQvJaD8MhzQrKk8RNTxLYtpdgYpkW6MEAJ5rxohpFmZPkij7/oHx6UYKJFW2Ma7hOB0F1rVTMlE8tFPzJIzS/2UHM2c4=;uLisH01HRIIus/imMPonRg=="
+secured: "9ngOmy31QO/ysBG3iJgDR7UvRWUqnaO+lgR096gQZ/OZHtRnbPz9n0XN4EbSdKygIMSuXjfei9zlnLBc00e29wL0+Tgv+qjqxCNXuXNJj4wfKC0c2NjZ2p+BI62Tl1tiegQhvnxB6ikC/GDG1Nd5cDys94kUkpKPecCaydscxlj0TNi4BOppR4h3VmglrOCwyHR2r68wXoIWPyjZMqOM07GFrTZ2Jf6sjT6pjJUnhYaVLOSflSBPsdaxQifE8vWi1AMf3In5UCXrPvQwRQMcNVbUfebvNkazXRDlYUxDZcawzWBbeJouqyeuifRMjYXiQhJtee9a3bfOFpIClanYRCsBBTaoZj5owgDB6NxNPh0=;u2RGyvqY6xwgO/zBMytmkg=="
 ---
 

@@ -52,14 +52,21 @@ related:
       domain: businessinsider.com
     quality: 98
   - title: "AI-based startup UptimeAI raises seed funding of $1.5 mn"
-    excerpt: "UptimeAI, a company specialising in AI-based predictive maintenance software for heavy industries, has raised a total of $1.5 million in its seed funding"
-    publishedDateTime: 2021-02-17T17:38:00Z
-    webUrl: "https://www.canindia.com/ai-based-startup-uptimeai-raises-seed-funding-of-1-5-mn/"
+    excerpt: "UptimeAI, a company specialising in AI-based predictive maintenance software for heavy industries, has raised a total of $1.5 million in its seed funding from YourNest Venture Capital and other angel investors."
+    publishedDateTime: 2021-02-18T07:23:00Z
+    webUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+    ampWebUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 17
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/Uptime_AI_umxhj8jfiaddb.jpeg"
+        width: 650
+        height: 300
+        isCached: true
 
 secured: "qKOKEE4KYRRxCXq+CPJM/vbqXVujh2RQ6n2lZE640Yb/9rgkUdSHfUze80ZxvbsZFcFmpE3FK3IPWSdWFLa7lVthLRqvHi85MgcwEXXBcGhqGDJDGM5jxnM4rB2WPxi/+x117jBpvC5aAL8CxNvA12/qyI+aOo1ohIkc6O8VsWNhhL87FgbrjlrOOgW3QOOdXuIJl07QkLFxhzqk+VW2+B5TUCgLvcuYGD0UjxtQC1gWNnLg8jZW6MJwV395FVo7J4qHQlUcseb/Uq9twQWSCVSenJn8tDRdFNxsb3awtBpVXKjAYXYEroNfMZz+gH8aWaVrPfIEYumIs1c1rYx02ErI32N/KfVlFt/Z39nBeTiV9VO4xGcrm5EYiJRxZ9Ip+fovd1Mk0CiAP9bYaYUAqUBnq7PF5YQQWNAeU2Eu/bjbjtrqICZllssZaEfEUF1qlsqeS77YB8gGbj7Fi4MOAyxjwPjVZzc4gAJSg+ZCxJoAdJzAe35EgGaCNiBBAdnzHO2SqC6I+D/oIHh6Bw/akA==;vuZoXHgP6N2qUwatjrWOOw=="
 ---

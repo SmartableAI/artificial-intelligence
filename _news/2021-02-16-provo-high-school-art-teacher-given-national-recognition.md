@@ -26,17 +26,6 @@ images:
     height: 684
     isCached: true
 
-related:
-  - title: "Artificial emotional intelligence: a safer, smarter future with 5G and emotion recognition"
-    excerpt: "The combination of new 5G communication technologies with AI-based systems are ushering in a 'smart generation' of vehicles, drones, and even entire cities. Now, researchers take things one step further by introducing a 5G-assisted emotion detection system that uses wireless signals and body movement."
-    publishedDateTime: 2021-02-13T15:37:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/02/210211113917.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 26
-
 secured: "Cmbdpe6Scruh6sJ4qh0vBgPG+ZBDGW/QUD9e4rU/N2qbgGR9/qHprAgHrGgFKBYAwn52x2L1CcYnIEWgo9kA3poUqMoAk9yuozIg3Y1ZnJXY5QTIao84QV/PvK2DkNH13vyXtYr1wssgMLbG/+TePFGgV2981Zq+lRNq19HJW6P3yH6i7JtZbUglPlBZHS/kfCMOIugzwieMazkxgzmCzXNvxnKjSYTmYpZP0xFxgNrfcwEQaPtpPZ9cR3y8qvEwBU7SDV3Fc+4ezzEvbhNZik61Ti0/uTaz5JzsyyuJVAxrF8PoxFNqXlHeiJBavKzsry+8GjkRTpBep+g258rcFUOcz2o4q06oxWfISe5TCRc0CqyNMfkf1qeI18OD76gqkQ+bV952DBXgvCkdyv5oTCRmXVUz6p0qTiCct1pz0uWfSI8G96DrZfXHMTzOVUCzn8sP1yUhG6Y8FdgxJagd14h/VNVMrjR9Y7MZap9fhmz+ra7Y7WDPPaqSBAyFK1rBoH+EcC9ttlJG16OzYegUqA==;9SFJpkFViSykdeWvzO9qmg=="
 ---
 

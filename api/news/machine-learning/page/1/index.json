@@ -260,6 +260,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-17-machine-learning-simplified-building-an-understanding.md",
+      "title": "Machine Learning Simplified: Building an Understanding",
+      "excerpt": "In this first article of a series, we delve deeper into the world of machine learning and its applications. The following articles will focus on building an ML implementation plan. In doing so we not only understand the concepts behind the technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/information-management/machine-learning-simplified-building-an-understanding/",
+      "originalUrl": "https://www.cmswire.com/information-management/machine-learning-simplified-building-an-understanding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/03610b40c8ec495c866b74d711f46355.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/information-management/machine-learning-simplified-building-an-understanding/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/machine-learning-simplified-building-an-understanding/amp/",
+      "publishedDateTime": "2021-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions.md",
       "title": "Study shows that federated learning can lead to reduced carbon emissions",
       "excerpt": "A new study shows that federated learning might lesson the carbon impact of AI and machine learning model training.",
@@ -1395,58 +1438,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-aiops-and-the-quest-for-the-grail.md",
-      "title": "AIOps And The Quest For The Grail",
-      "excerpt": "For those unfamiliar with the term, AIOps simply means applying machine learning to IT operations functions. But implementing AIOps into a complex environment requires patience and a carefully planned strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/",
-      "originalUrl": "https://www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dd5597ee5beaac0f4d34d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/amp/",
-      "publishedDateTime": "2021-02-05T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

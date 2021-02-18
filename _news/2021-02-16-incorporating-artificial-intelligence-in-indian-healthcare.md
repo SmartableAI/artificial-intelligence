@@ -67,6 +67,22 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "How artificial intelligence eases pressing needs of mental health"
+    excerpt: "Emerging technologies like AI allow the mapping of the brain’s responses to various stimuli and help in predicting disorders."
+    publishedDateTime: 2021-02-18T07:38:00Z
+    webUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/"
+    ampWebUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-in-mental-health.png"
+        width: 850
+        height: 400
+        isCached: true
 
 secured: "Gk60lxgqlqJUdABd1JoQ6PjWqlQggig8EAIoBjZj3ZcK9xNzfA3TnzXoH98Fyfm18m4VKj361szEGkLuNWiZ1mghJBEWRscB/9I4er8C+ch/4yTCmSoMOyTczt4OkSQs9ejHs5VIOGD9P2vrrRuVdNrdBpdcGWbLj5ub8bx2PnAVgMp0tt6iekyI1w9E10If83lRGmMkZa9xC0hdlcmlk8DUy+GTetoZG4DRKpLLJ8cOlRGUOTfQ9xoZrb3G2ER126p2dfeRzxUCm1E0W68jS3cBQm4lAWfdpHZce413B31coz2kK4hVTln+xWckia3BWJDjDoLaSBW2D2d5IStXmf1fEfREoIk9lvW9ZVcjx+M=;88/IYxWrfaBjInJpFSJMiA=="
 ---

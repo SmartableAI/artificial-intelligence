@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorg
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
+    excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-18T07:45:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/RwRoKHVffiBFatp4dJkJGLB3shNuHyb0WZRIWKmGC_LyHtiOq2poyGaeYHBPuDAAV3zWb8SS2ezszG4osRH6FGCha-ItM2l4=s1000"
+        width: 848
+        height: 565
+        isCached: true
   - title: "Army researchers expand study of ethics, artificial intelligence"
     excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
     publishedDateTime: 2021-02-16T17:33:00Z

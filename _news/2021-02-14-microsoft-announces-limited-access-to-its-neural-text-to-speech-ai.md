@@ -73,6 +73,22 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Intel and Microsoft partner to simplify IoT solutions development"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-02-18T08:38:00Z
+    webUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/"
+    ampWebUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 59
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/partnership-iot.jpg"
+        width: 800
+        height: 360
+        isCached: true
   - title: "Microsoft Azure Goes To Space via HPE Partnership"
     excerpt: "A partnership with Hewlett Packard Enterprise (HPE) will bring Microsoft Azure to the International Space Station (ISS) by way of HPE's Spaceborne Computer-2."
     publishedDateTime: 2021-02-16T19:12:00Z

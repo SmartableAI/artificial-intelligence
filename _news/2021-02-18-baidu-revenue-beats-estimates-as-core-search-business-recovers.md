@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-17T21:57:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers"
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io27gqrjv5qg/v0/1200x800.jpg"
@@ -46,6 +47,6 @@ related:
         height: 406
         isCached: true
 
-secured: "Z8984chGBTQFNNizU85UP5u0QRVVnPWCyFZwYFOo3ee0Z6P323umWR+eQ7XRDEM0JgadvmeVOa1l7jS6fch++jpPaYtsZuFb19cw5B5zRBwYG0kXiKQi84sgKisDe4Y7SzpGE/A8sMg4q/wWUlS2VEjVOePN+IemFPWX3Uzt+851vpQkKBxcyPPmaMidKhHtQz66yUZxLjaLfJ8mEU6EgasSWaGrlB3PhYejMT+DroCqjna5EUo3CEOpIyr+YCUjxYpauQZuqzWQqFwR06+/Vl7x7TEmWT3QlMZfExNiZu9mdNzapUBhCcEoHYe9pki5F5vI5v32Fs0hSiQx06CdzNT+4e8TPEdTRp0W0iIJ2LY=;Ds8Bq4LoL/qsXBpAtkRfPQ=="
+secured: "YQ9z0xgomht7+B7cIyELabpJXOrFHEmBvZZI5kJ8C0WJhsxg6zNRn2kZUK+2RRN7A4RogAb5tZW9wWflh6q8BWfoCvxUNGBS58CgYOCEdAK8/wMn4OFZsDawtxDBMsdJFZ/9VEyr0dqusNU0HYREV219u2BnYgLjTki7EhP1FNe/ogacWXxXWxUP+6HRc1p8SPMPf2zWlLWQvaTjW2S5EbXfWkNAzqEuN7F/2tPos4/ViBrRstytcY/ghjMMYYKVgCG3RQAlwl8paMTtMs86qgVaIUSKDDL/0IQ70koK0ExJHu6eL18E3PrePPwlUpcQSLgQdyJRYoL2u5Sj9a4Mq1NfrQWDVNnSqlqw3DgLuoD4VQMt1y8h6nv4PG47/dESIdmV0o8OyQ59o/Jx9zPr3PUNPiDJfS78AirGzbcfhoTlXwLzskgUvodMoXUZ9vdWR0H+KVrQrXz3UHScl+/ouDgKuJSIXpxg57C/uXNLTjJp2w1PlQwvK/4ED8Mfa+fk+mvc9M5Q9gturH35xvYvtA==;gq73z+HdnF+Ynmgp3RXtkA=="
 ---
 

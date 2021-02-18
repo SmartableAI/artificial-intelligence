@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-18-google-to-reorganize-ai-teams-in-wake-of-researchers-departure.md",
-      "title": "Google to Reorganize AI Teams in Wake of Researcher’s Departure",
-      "excerpt": "Google will restructure its responsible artificial intelligence efforts to centralize teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilize groups working on ethics research and products after months of chaos.",
+      "path": "_news/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit.md",
+      "title": "Google to centralise AI ethics team amid anger over researcher’s exit",
+      "excerpt": "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure",
+      "webUrl": "https://www.businesslive.co.za/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/",
+      "originalUrl": "https://www.businesslive.co.za/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOZvPbyletXA/v0/1200x796.jpg",
-          "width": 1200,
-          "height": 796,
+          "url": "https://lh3.googleusercontent.com/RwRoKHVffiBFatp4dJkJGLB3shNuHyb0WZRIWKmGC_LyHtiOq2poyGaeYHBPuDAAV3zWb8SS2ezszG4osRH6FGCha-ItM2l4=s1000",
+          "width": 848,
+          "height": 565,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T21:16:00-08:00",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/",
+      "publishedDateTime": "2021-02-17T23:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
         "publishers": null,
         "authors": null
       },

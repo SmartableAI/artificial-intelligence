@@ -35,7 +35,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io27gqrjv5qg/v0/1200x800.jpg"
         width: 1200

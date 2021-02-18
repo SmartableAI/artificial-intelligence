@@ -3,10 +3,10 @@ category: news
 title: "Samsung develops high-bandwidth memory with integrated AI processing"
 excerpt: "Samsung Electronics said on Wednesday it has developed a high-bandwidth memory (HBM) integrated with artificial intelligence processing power. The new processing-in-memory (PIM) architecture adds AI engines into Samsung's HBM2 Aquabolt,"
 publishedDateTime: 2021-02-17T03:05:00Z
-originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
 type: article
 quality: 69
 heat: -1
@@ -70,6 +70,22 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/21/02/samsung-memory-with-builtin-ai/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "Samsung Introduces World’s First HB RAM With Integrated AI Processing"
+    excerpt: "Samsung Electronics announced that it has developed the industry’s first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI)"
+    publishedDateTime: 2021-02-18T08:41:00Z
+    webUrl: "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/"
+    ampWebUrl: "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2021/02/Samsung-1.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Samsung Announces HBM Tech with Built-in AI Processing"
     excerpt: "Samsung today announced what it’s calling the industry’s first high bandwidth memory (HBM) memory with built-in AI processing capability. The new device –"
@@ -137,6 +153,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "OHG6SmQBlpcn92BgT/xiK1k4QM99KTEIrkroziuXkEzROd+5rhVewiyBA8twxvervh+y24nhGC2qwkxNoLt9/wsMZEHX27xOMZkCdWeblMqJz2FhGM+VAE0lLeJ3pFsdOsd74Zq7YD17hg676PO7DamJ0oafkO0Tpllila5crFYtNCZtoDqHkC1L7coCdZtV1Gzu4nEHYD/5Uq7/rflYPFFmGTrP3X073L6mWVDkIhzzricdeUE7ipq4U7UVLNIUe71ZehwIMXhPNyzxpmV8O3brGnxRdMaZUd+P7rE6ZDUIJ+wVyPJ6P+y/7gNsKKJQwwqYat4CHk/ZYuf+dDvHiZj8SMf9/pHQTNIOGOeIj1RRkWKn5X5Uj8ROpgCKrDe+MC0iiiGXSgSwfM2JvBIAQ+ab3IKqifyatxSQAMVCcTITBmN3mbfOTPXs0Kep07UKBdVCTcLMfQJagXpBqg7XCCAxTCuhlbHV74T/QLsyI2cHlX4Jwl1rBsRPWdMWjIoWyaLFVFRK14ynQO0KiqVueA==;wTlqt8rAC+Js+9MnrzG2Zw=="
+secured: "YLpSuTse78DcY9vIvQ9E137AMN6QpK18Ao258s+isSHgknFnZ8FPMAJaaPr867n9UK/0eAO2de2JKeAYGBc8tJ2sle68NIJqtZ+/vwXSLa2W5PoQ/8nNQczCcEaeOuO9otc4cXLfn/8iPkXZcDJG3As1Pdv7Pbpf3cpMC8KHgYJe8PjZxmYyHryB+dStBdnEzfbv/yqOTrGnAOmG0A7xyoVXFjynshtyUzLf89+O0MUx5UWOkLh9hni6WrQtn7XWqFWPwomrN4Y+xBzCev/UptF665wZ9wp+ZjwWXyrt/u3wiWK2jKh8qZeHiUZYWyBvFk/hPLgSUCv2naO8FG+8d1Rivfy04Ww21AsyMdW+1a+FfAVf8SatMiBRgU9TVoKpmtHBnEGYbtoBeESq6Aye8eDaK7M0+AzqbMmnCK7RWTHfx5Dzp+v8qo0eZMPViZorDzULCFM5s3+FM3qJgV/kcz7NN85jjNwV9J62jTnRs8tRXW6Gx92WDiEC/slaZ81ifVeOckOFDy9T51mMY1kJ7A==;8sGNXQjOWuL4QwN3S6Ohjw=="
 ---
 

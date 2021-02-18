@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/news/world/europe/lgbt-abuse-hate-eu
 webUrl: "https://www.independent.co.uk/news/world/europe/lgbt-abuse-hate-europe-ilga-b1803383.html"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "Abuse and hate speech against LGBTI people rises across Europe and Central Asia"
+    excerpt: "Crackdown on democracy and civil society during pandemic accompanied by increase in hate speech by politicians finds ILGA-Europe report."
+    publishedDateTime: 2021-02-18T08:16:00Z
+    webUrl: "https://www.intellinews.com/abuse-and-hate-speech-against-lgbti-people-rises-across-europe-and-central-asia-203283/"
+    type: article
+    provider:
+      name: Business New Europe
+      domain: intellinews.com
+    quality: 35
+    images:
+      - url: "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/Rainbow_flag_breeze_Cropped-2.jpg"
+        width: 900
+        height: 510
+        isCached: true
 
 secured: "/RSK11DztCAAogftDg7bDNTwboVcPreYUiiEgRSaP0gtR+m+CL6Zkbqeyf0nUIU6GOiz6U2XI4bEmrMjDKPFG+PSepMAyaViT6P8ZF2Ifz18gf1+iqykqb+dx9bnuBPEvbcdSN6Idb2qGrCDKc/Lf9DHVH5JkyZ5tewt3YIAKPl8fHMFbZsfLY9icEScqE7SSsWMQ5F6J7I3AYktLp3sfkeJHwTsIOfqpP0z3Me0qia6SBsOcAoA0n9EhA+O1pX2/0ivFoj+SSIpl9QOEx8rWc1RXigmdLZXu9jkygCznleWsH6sDUhtiE5zHDoXfA72Ly1tFnkVcLIr6/wOxss9Rwy3lOf+QYoJ4AixIQvWaVU=;8PGpv/tydslWQb0mlrAfMA=="
 ---

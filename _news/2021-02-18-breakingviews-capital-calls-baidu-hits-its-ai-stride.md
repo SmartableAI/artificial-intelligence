@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI0B8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI0B8"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 545
     isCached: true
 
-secured: "iWcPq/YfBHNPhtm8vxcic02OjiGYEE7WIHv33a1TO/KieNjZICLZKR2vEzrOcOr05ESZXIK3XruLFVzYjQn+7hfvYSaFiY98TlbyyiovqenJB1IgHjxywmr7wqhRAhZ+5gCkTtQd6yEuBWnwcvFJfSAK7eKby6h8BR8BtcWr7Tg9xQBnmfrVINhF6069XdWW0i5/ZYF+D7jFAlkd3q8TlNXrsf5aKoCI+o+SQiWe7p4CSX0p+ZWnM4o2SPJTBopUdKfdb1d81MM9EwxPiesiGfh1g8bmyLAnUTR8UlnNF9kIKaBLUm71PkzPVwuDtESPjTkX6ycRA1+BrLnpdgr9nXZRvEMV9BxEwvFJl8OMR0A=;enZYfmTNbkXa7hWQNSWcPw=="
+related:
+  - title: "Baidu Announces Fourth Quarter and Fiscal Year 2020 Results"
+    excerpt: "Baidu ended 2020 on a solid note with our business benefiting from improving macroeconomic environment and the digitalization of industrial Internet. Our focus on innovation through technology is paying off with Baidu Core non-marketing revenue growing 52% year over year in the fourth quarter,"
+    publishedDateTime: 2021-02-18T07:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-349cf4d406d15ec7522c20dd94a88a8a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "hcmOGMeWVUyXVteBhDIV39JHEsjx2liofr1v2a8GGyfUJ7FQyMiEfGdrmGvINY2pP0ZXwxeN4N39G3fVcYSFv7pktkFctRZwf8ZPKPdkmqeV6XmPF5ZKithLEk9JUJfciMC+Ytzbgff+3W0t5qExbcsG+3w4cbV7GxgXrNUiFc41PYzFALOlnw5thWEzbZtc/+9HnMhmoLNbCL54G0SpCIu/ElqOcrgjus0BkOOPbgiiaSDUjOBoGiNhQwYkPi+Jwvj9bNiHqpdw8NoFUsi68WKEeqcG8EmnXlTp9/jGGlf3+G0ckvcUNEMHPOMRJBcx4yCQWXNOjll34/3Et51Xpz7k2o1cKvrLa4vfq0U7b7YL9AaIHwyajCZ6ZhlyQzz7RUae1jQgRa5FqS+b45vSCrHe+/RfZThDMoR+KzEeXIJrhE6ScjpVg1UgCh0cNnKE4C5mn6Gzwlb7GkzOgWF8akcCJpXbqvyB323h/uisRS3tTI7xBMa419CWxVtaDS4d6Lc6YhCtp4Jv3RfnV8ES+g==;c/EvaLDv6uMnWm7aPR7kGg=="
 ---
 
