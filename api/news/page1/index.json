@@ -2,6 +2,297 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-19-new-obstacles-for-robotics-in-2021.md",
+      "title": "New Obstacles for Robotics in 2021",
+      "excerpt": "With better functionality, mapping, sustainability, ethics, and privacy, robotics as a whole can solidify itself as a game-changer in every facet of life.",
+      "sourceUrl": null,
+      "webUrl": "https://thebossmagazine.com/new-obstacles-for-robotics/",
+      "originalUrl": "https://thebossmagazine.com/new-obstacles-for-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebossmagazine.com/wp-content/uploads/2021/02/thisisengineering-raeng-H4ClLKv3pqw-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebossmagazine.com/new-obstacles-for-robotics/amp/",
+      "cdnAmpWebUrl": "https://thebossmagazine-com.cdn.ampproject.org/c/s/thebossmagazine.com/new-obstacles-for-robotics/amp/",
+      "publishedDateTime": "2021-02-18T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BOSS Magazine",
+        "domain": "thebossmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-anthony-levandowski-closes-his-church-of-ai.md",
+      "title": "Anthony Levandowski closes his Church of AI",
+      "excerpt": "The first church of artificial intelligence has shut its conceptual doors. Anthony Levandowski, the former Google engineer who avoided an 18-month prison sentence after receiving a presidential pardon last month,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
+      "originalUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/levandowski-church-AI-1-1.gif?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/",
+      "publishedDateTime": "2021-02-18T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-googles-restructuring-of-its-ai-teams-sparks-further-criticism.md",
+      "title": "Google’s restructuring of its AI teams sparks further criticism",
+      "excerpt": "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-18T210326.083-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/",
+      "publishedDateTime": "2021-02-18T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-ai-will-take-construction-robotics-from-hype-to-reality.md",
+      "title": "AI will take construction robotics from hype to reality",
+      "excerpt": "Buildots attaches 360 cameras onto project managers’ hardhats to collect footage inside the construction site, flagging problems to be solved and tracking construction progress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-will-take-construction-robotics-from-hype-to-reality/",
+      "originalUrl": "https://www.zdnet.com/article/ai-will-take-construction-robotics-from-hype-to-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-take-construction-robotics-from-hype-to-reality/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-take-construction-robotics-from-hype-to-reality/",
+      "publishedDateTime": "2021-02-18T13:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-studies-find-bias-in-ai-models-that-recommend-and-diagnose-diseases.md",
+      "title": "Studies find bias in AI models that recommend and diagnose diseases",
+      "excerpt": "New research shows that AI models designed for health care settings can exhibit bias against certain ethnic and gender groups.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/18/studies-find-racial-and-gender-bias-in-ai-models-that-recommend-ventilator-usage-and-diagnose-diseases/",
+      "originalUrl": "https://venturebeat.com/2021/02/18/studies-find-racial-and-gender-bias-in-ai-models-that-recommend-ventilator-usage-and-diagnose-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/healthcare-imaging-2x1-1.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/18/studies-find-racial-and-gender-bias-in-ai-models-that-recommend-ventilator-usage-and-diagnose-diseases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/studies-find-racial-and-gender-bias-in-ai-models-that-recommend-ventilator-usage-and-diagnose-diseases/amp/",
+      "publishedDateTime": "2021-02-18T13:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation.md",
+      "title": "Google’s new AI ethics lead calls for more ‘diplomatic’ conversation",
+      "excerpt": "In a video, Google VP Mariam Croak called for more \"diplomatic\" conversation. but made no mention of former Ethical AI team lead Timnit Gebru",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/",
+      "originalUrl": "https://venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/marian-croak.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/amp/",
+      "publishedDateTime": "2021-02-18T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-a-better-customer-experience-is-important-but-its-just-one-way-ai-and-machine-learning-can-transform-the-enterprise.md",
       "title": "A better customer experience is important, but it's just one way AI and machine learning can transform the enterprise",
       "excerpt": "Laura Urquizu, CEO of Red Points, explains why AI and machine learning have the potential to enhance customer experiences for enterprise and non-tech companies alike.",
@@ -34,6 +325,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company.md",
+      "title": "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company",
+      "excerpt": "Canada NewsWire NEW YORK, Feb. 18, 2021 Acquisition will help build a full sta",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-18/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company",
+      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-18/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -811,50 +1154,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-18-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company.md",
-      "title": "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company",
-      "excerpt": "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "publishedDateTime": "2021-02-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-02-18-artificial-intelligence-can-bring-skynet-to-life-reality-or-myth.md",
       "title": "Artificial intelligence can bring Skynet to life, reality or myth?",
       "excerpt": "Is it possible that, like Skynet in the Terminator movie, the machines become aware of themselves and wage a war against humans to exterminate them? Should we fear artificial intelligence or is it just a myth?",
@@ -947,299 +1246,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-why-voice-will-lead-biometrics-in-hearables.md",
-      "title": "Why Voice Will Lead Biometrics In Hearables",
-      "excerpt": "In the rapidly growing Hearables market, however, the powerful integration of biometric sensors, and the multiple biomarkers that can be tracked via the ear for health and wellness, are taking a back seat to other market-driving feature sets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/",
-      "originalUrl": "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602e18bb17e2d67a6c7a7a37%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/",
-      "publishedDateTime": "2021-02-18T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-top-five-latest-industrial-robotics-trends-explained.md",
-      "title": "Top five latest industrial robotics trends explained",
-      "excerpt": "Annual installations of industrial robots have more than tripled in 10 years, reaching 381 thousand units in factories around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/",
-      "originalUrl": "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pesmedia.com/wp-content/uploads/2021/02/KUKA-smart-production-18022021.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pesmedia",
-        "domain": "pesmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-ai-powered-math-tutoring-app-photomath-raises-23-million.md",
-      "title": "AI-powered math tutoring app Photomath raises $23 million",
-      "excerpt": "AI-powered math tutoring app Photomath today announced that it raised $23 million in series B funding. The company says the proceeds will be used to grow headcount, invest in AI, and scale both product and marketing development.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/",
-      "originalUrl": "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/01-photomath-formula-scan-android-e1613491006395.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/amp/",
-      "publishedDateTime": "2021-02-18T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-baidu-hops-aboard-the-electric-vehicle-express.md",
-      "title": "Baidu Hops Aboard the Electric-Vehicle Express",
-      "excerpt": "Baidu’s announcement that it will venture into EVs has supercharged its shares, and though it brings some advantages, its conversion from value to presumptive growth stock has been remarkably fast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
-      "originalUrl": "https://www.wsj.com/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-300769/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
-      "publishedDateTime": "2021-02-18T02:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit.md",
-      "title": "Google to centralise AI ethics team amid anger over researcher’s exit",
-      "excerpt": "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/",
-      "originalUrl": "https://www.businesslive.co.za/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/RwRoKHVffiBFatp4dJkJGLB3shNuHyb0WZRIWKmGC_LyHtiOq2poyGaeYHBPuDAAV3zWb8SS2ezszG4osRH6FGCha-ItM2l4=s1000",
-          "width": 848,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/",
-      "publishedDateTime": "2021-02-17T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-new-ai-to-identify-problem-gamblers-online.md",
-      "title": "New AI to Identify Problem Gamblers Online",
-      "excerpt": "Entain Plc says it will use big data in an attempt to identify problem gamblers, responding to a looming regulatory crackdown on the digital betting industry, which has been fueled by lockdowns during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-18/problem-gamblers-to-get-flagged-at-entain-amid-official-scrutiny",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-18/problem-gamblers-to-get-flagged-at-entain-amid-official-scrutiny",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iClVxgRzxKRs/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

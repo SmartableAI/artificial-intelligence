@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Optimizing AI for embedded applications"
+    excerpt: "In my previous blog I talked about how demand for AI-based interfaces has become almost unavoidable—and that adding an AI-based interface like face-id to"
+    publishedDateTime: 2021-02-18T21:16:00Z
+    webUrl: "https://www.embedded.com/optimizing-ai-for-embedded-applications/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 39
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/02/ceva_light_image.jpg"
+        width: 1280
+        height: 810
+        isCached: true
 
 secured: "L8hkFbB+QUTxNmZPj4YnIIu9folLY04svWhbxUQ+/F1KGnr+zBoyWOFjXfKenaHp061n6bvJP/my+Nfwg8YkWk3N629Q4lBrjQKUcE9pSEov67r0qGT/TwICJ+UNNOTDQ+dwfvAlSxt+nI9FUhQIb9/ioPeZ3inSPrzo9LfZqhS43IUnmI2onzZHDVDuC0UNLFfnNbtYy57Ne8tOId4LMKSY7MladD2+MClpCoDJZ0+KB0J9mS8nVuLBaHPKGJtMLFYeKxbprOu8J4I+kKSMR7pNqBl/tfy6ygR3GzcFedm9ruMf+7S+bGg0KUs6uf8OxbYhemzzvBR109LSY/4nhKupRf1WnWnNmaemLwU6ZB132YB/qGk1Md/I8Xl+Opr+dVVIyobdw/92eiQfFKoe/1N0sjbU8nZ82km6kTJeWa9o6U8YTm73dGsY0pdPZ2ObUPCn9btRqmIP6RpxoeGa+voHJRmN4JAMchesEaJu5LdDnEHSUVT21LbmqufbyuCRQNZBOU4HAU9fUrkKV+GKzg==;o820VK+IL4BG0pgU9K6tMg=="
 ---

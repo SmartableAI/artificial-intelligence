@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-17T10:44:00Z
 originalUrl: "https://cloudcomputing-news.net/news/2021/feb/17/featured-cloudtechs-list-of-innovative-cloud-companies-to-watch-in-2021/"
 webUrl: "https://cloudcomputing-news.net/news/2021/feb/17/featured-cloudtechs-list-of-innovative-cloud-companies-to-watch-in-2021/"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/02/quentin-rey-Cuiw-5VFlZw-unsplash-1.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1269
     isCached: true
 
-secured: "et/3MDYV9y2BGqOaxTO01Iw3z7HP22yeoRK67zC15NTcjCF8KHl9aHHPlPC/MGJ+Zbc4yf8WVhsi5Mp7uVvy06Gqa3kLcyUj96UABWbjsHc4+DbTCaYyKDVxlwChXiir69IoZJiy2vAEFnM/FwWYi15ZYL81Bz1cx3I/aJ/6HIYdtYHYX4Ujd5cX8TlqOW50dMtoOnsjoyMBwjcPt+Bk/smcjz3JK5l7itT93nZKmbMdc0DK9mQ9IRR/0bIiw81rEvA7R5P83YaAGxbJGY22F9bHf8m6D//tkjS43HpBX9vMGrNw4zfojRQX9AFvvN4GUiO2mJc/MWk2vRhgnZw0NPdui1hoFswFU1+Fnb5xGEI=;hHLhP7rx+hAGuaejLgzllA=="
+secured: "7pUVVJbtZ11/apzJFxZDfRy3qWMNRUclILy49brXfQOptPJqii6O7mN1t7acBo03Ih6fKGDOcRmTDKKfFuvYSUN0AJAU1dFmJ8JYepi82fewIMxCITgLQi8iDYGsoDw0Xr5VUNr+kjx3o1UdVjziUgsPDxRUic8rriA/dC6RA5w7VOiBFnrhXeQemQPH/2UNxB/oJHF/CTGfdqVGQvyXSp2Vbv3LKWb9pOMcyH6z05xHKbNELQiPTGNXDpRP4PyzyjFNYRwvnu73jw54numK7PIormj/Ae9RtZwUOSQnikjVaAGswb1grD4yTkZFh7cAXkVo+lexmkXOKXcVhVqFvzz8WMwL0byXS2b091gCh7vRGxX+XZ7TWGXbXm1VHEL/kzkB8jaQ3qRCQMxnMEDTQfyvJYzYJyEW1HDbkhYvnVHfd4VG/S3KFjwcEkKwIYB+bNssslKcGTjPt916I/xaQR2rIAuehrwFwuhEsGqSOWoOZsqtf27f1nwlwPFVA9QFaAR6W0JLAS2BGCsEBtyB+w==;kvuy0+FwRfFz1lF7f/3j4w=="
 ---
 

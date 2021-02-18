@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Essential IT: How Providence uses data to care for COVID-19 patients"
+    excerpt: "Could cloud data detect early signs of the virus? Could that same data predict where COVID would surge next? Turns out, it could."
+    publishedDateTime: 2021-02-18T17:41:00Z
+    webUrl: "https://news.microsoft.com/transform/how-providence-uses-data-to-care-for-covid-19-patients/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2021/02/08-BJ-Moore_Crop-1024x546.jpg"
+        width: 1024
+        height: 546
+        isCached: true
   - title: "CovidCTNet: an open-source deep learning approach to diagnose covid-19 using small cohort of CT images"
     excerpt: "Early and accurate diagnosis of Covid-19 is crucial in reducing the spread of the disease and its accompanied mortality. Currently, detection by reverse transcriptase-polymerase chain reaction (RT-PCR) is the gold standard of outpatient and inpatient detection of Covid-19."
     publishedDateTime: 2021-02-18T12:26:00Z

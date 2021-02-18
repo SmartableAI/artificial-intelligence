@@ -3,8 +3,8 @@ category: news
 title: "Infosenseglobal Launches New Artificial Intelligence Division"
 excerpt: "Infosenseglobal is proud to announce its newest division, focusing exclusively on building innovative artificial intelligence solutions for businesses looking to accelerate digital transformation. With decades of experience in information technology,"
 publishedDateTime: 2021-02-18T14:27:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-79b807e3055dafe7489f7795739846f8"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-79b807e3055dafe7489f7795739846f8"
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "VhbqnlQQyzq3TQVDgnWOxctDVU+RpdRv6NK4W56D5k0KmHHTfeljrIv22Vwp+JcAJyl6DlWtn3VOKEv3BcPRtdh6Ac2CuRSRZQhyOaXOaWEYbWVV45yJKMm2tUt+dtOhC541DsOAHM5bXdJuuQPpQ2gMYd6FOkdDrfMUhNIQYquuFgAbG1jOHWB7C3kuvAnAFZtMyzBp8kqUzEhJtskP7M+KvHVXDgkhtG07z7dNjgrgvRnLmlO2HkUX3YRhKNXHtGn3cnwAioE7cLlbOYggtTz3yLgiICRAIBcfz3O/d0kRzkmnLjGhFXdQicMijZ9pzMUyQyGu+B5Hrl5mIsgaMB3PTWX42VJq1TzoZAq+Ndo=;vm+qmHPmFSG1k5o0bgfi5Q=="
+secured: "TOCe8FIiJ84El7vHfRyiUT5VDGmsmXkn37a5GwdcdsNf5gdxrrCetxoqxdKRV6caESFrw1oJg2R87OLx12PYdkpM37IF1LSq4HpwQtuB+Dq9byw7ambRU+tpjfty9Pt+9DBQKkTf4uc6UCdrd7qlHkj5PXo6EqEVMn0cXOMDNA++68EyJtn4C/tSx3dE64EBgR1Wl+eepKrfEKpBNgpSDD0oI7nQ9yeOb0/aD0pVQ+8OGcxJ/Ng9ICc75Xz5B7tkOMHyZoqjeFONrNQ5j/PYn/fRJizqTcdK3byFRMW2ZJd6cspm+NeTn6qGOxQgltlZuGwbv2/+Tq/Ne2xh9YeKm8lEmYb5nvJ947nXJsGMCfE=;43KOeUZHDuCCqjgwIOLiFA=="
 ---
 

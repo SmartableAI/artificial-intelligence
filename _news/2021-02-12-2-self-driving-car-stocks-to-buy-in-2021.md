@@ -1,8 +1,8 @@
 ---
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
-excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T21:20:00Z
+excerpt: "In other words, Waymo has way mo' data, and data is a huge advantage when it comes to artificial intelligence. Moreover, with the launch of Waymo One in 2018, it became the first company to offer ..."
+publishedDateTime: 2021-02-11T20:34:00Z
 originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
 webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 1060
     isCached: true
 
-secured: "yv0Ub/G0nwTm+cVG9W9I/RcKxyhkJD+MxD8899seihlTCotNF22xp3HkxENV5mbifwSJ2OHmRQzmwp/3N3vrf/YFzfwlwkst2wtA1rrJJ11o0YAVXujSz82yXiNXr6OJc0vlIWr/4PDZkdYeFAf9CfzsUuEBh+AV9KhuFIBW4IJfv7RovuePVWOAMLEBh65nxzcJF56+ANt3dJ+AzzNRRslDpG1CG0RJjfSecJqTEIfE1i7rZbA+xZC6puLRws09NAvaNnGPzWsgm/2W4+MvnSFs2U1SMeZCgPpZLsa8kNNnMFOxV7aj9a6j0sBrjMtL2ykpJQ+AnB7hCr2r03M0yJ5RGtmAVFjblbXrQw36qP4=;25snAoRCmb7vKlc7GX5Ruw=="
+secured: "HBOn6FBiBYCEYVk0mDjxrsQ+5XwIfCY5RlIKkvlnzQC0kSj29mTHhQ2Cd2W99u0f8Muqp8EMYHq3XHVKhOOcyUTJGaGzCQRrTv3fWBYR5FEm11RQxrq9YVUHa8N0JoLKeiaD//dWUDr94ODXKoGuqBhp6hHkkUDgNCmFcDDr9xEW5VcYqbxNhWidARMTyfMcyW3jGDkYndKwoNbldfO8R3vFHDdAuohQXzrQFsm/lqNtAAnEAq452r+e/wH+N8Ebwqv9y/nRdSZgXzJ2JjxXvjKAjdzchXVroAkJlm+RR2xApiPzkRyFBeSikU+EwryIjFo2IRAzzzoD99HoBkecr5epjUZcHivWe3R9XJV1IQk=;IopDrWWJcKhyuMcg+6P8fw=="
 ---
 

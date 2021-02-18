@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-18T13:44:00Z
 originalUrl: "https://www.geeky-gadgets.com/aaeon-boxer-8521ai-edge-mini-pc-18-02-2021/"
 webUrl: "https://www.geeky-gadgets.com/aaeon-boxer-8521ai-edge-mini-pc-18-02-2021/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/02/AAEON-BOXER-8521AI-Edge-mini-PC.jpg"

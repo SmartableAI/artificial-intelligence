@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s restructuring of its AI teams sparks further criticism"
+    excerpt: "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters."
+    publishedDateTime: 2021-02-18T22:00:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-18T210326.083-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
     excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
     publishedDateTime: 2021-02-18T07:45:00Z
@@ -59,19 +75,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Army researchers expand study of ethics, artificial intelligence"
-    excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
-    publishedDateTime: 2021-02-16T17:33:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/uarl-are021621.php"
+  - title: "Google reshuffles AI team leadership after researcher’s controversial departure"
+    excerpt: "Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black artificial intelligence researcher Timnit Gebru rattled the company."
+    publishedDateTime: 2021-02-18T22:18:00Z
+    webUrl: "https://kesq.com/money/2021/02/18/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 56
+      name: KESQ News
+      domain: kesq.com
+    quality: 35
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://kesq.b-cdn.net/2021/02/hypatia-h_a2bdb3e67b0c07fec9cb18fcda301e5b-h_83217445954976654cb586409dc3df89_preview.jpg"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "7g/qxa7um8enu44+mxI7ViK0zC885E1dmNxi+bflnjBCrLcCjeJcEmMFXbjkMJ71vf6TwbUlGJe6iugpJMk/dSM03iQoD6FA70ssz0QPQbistJqJeDOgWGS2DtTvu8oOWaVAr4zrvgGb9kt2U/cYdS7efrfbhLY+JhhtEqAruQhhOFdzupW8BzPMt/pZQiuhgsNz8ZWEV12j8Dba655vm8uGQoJpKibB9ZAVxr3h1tlwAUlA+Kkpd6pN+dEx6LNpy9bg/b/gn7Snq7wMcLGilld+zgIkTT/BRSeJ4Syv0H9183D6ANJoy2CQrNEQnzdijuXJ5cvbFcKl/gh5OQVboZo+w3OizK0pukWfhVmXYpM=;oojUf+cn2f5w2zCgRkdOzw=="

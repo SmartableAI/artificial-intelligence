@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-19-machine-learning-101-part-3.md",
+      "title": "Machine Learning 101: Part 3",
+      "excerpt": "“ML.NET has been designed as an extensible platform. Therefore you can consume other popular ML frameworks (TensorFlow, ONNX, Infer.NET, and more)”, the documentation says and this is how ML.NET is stepping into the Deep Learning world. ML.NET is not ...",
+      "sourceUrl": null,
+      "webUrl": "https://jaxenter.com/machine-learning-101-part-3-173524.html",
+      "originalUrl": "https://jaxenter.com/machine-learning-101-part-3-173524.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/11/shutterstock_1740253916.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-artificial-intelligence-beats-us-in-chess-but-not-in-memory.md",
       "title": "Artificial Intelligence Beats Us in Chess, but Not in Memory",
       "excerpt": "In the last decades, artificial intelligence (AI) has shown to be very good at achieving exceptional goals in several fields. Chess is one of them: in 1996, for the first time, the computer Deep Blue beat a human player,",

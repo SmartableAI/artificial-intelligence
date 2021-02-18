@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-27-neural-network-software-market-size-share-growth-future-scope-trends-2020-2026.md",
+      "title": "Neural Network Software Market Size, Share, Growth, Future Scope, Trends 2020-2026",
+      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare.md",
       "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare",
       "excerpt": "Ehave has been using artificial intelligence and machine learning since the first version of its Ehave Dashboard to transform clinical research, identify treatment protocols, and increase the virtual care capabilities of health providers. Before the COVID ...",
@@ -1298,50 +1350,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-machine-learning-101-part-3.md",
-      "title": "Machine Learning 101: Part 3",
-      "excerpt": "“ML.NET has been designed as an extensible platform. Therefore you can consume other popular ML frameworks (TensorFlow, ONNX, Infer.NET, and more)”, the documentation says and this is how ML.NET is stepping into the Deep Learning world. ML.NET is not ...",
-      "sourceUrl": null,
-      "webUrl": "https://jaxenter.com/machine-learning-101-part-3-173524.html",
-      "originalUrl": "https://jaxenter.com/machine-learning-101-part-3-173524.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/11/shutterstock_1740253916.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

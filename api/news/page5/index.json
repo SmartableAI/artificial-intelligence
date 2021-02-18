@@ -2,6 +2,307 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-15-the-self-driving-car-companies-going-the-distance-infographic.md",
+      "title": "The Self-Driving Car Companies Going The Distance [Infographic]",
+      "excerpt": "The California DMV has released its latest autonomous vehicle disengagement report which provides an objective look at the state of the technology's development across several dozen manufacturers",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/",
+      "originalUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a55b98a743748242cd9bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D34%26cropY2%3D709",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/",
+      "publishedDateTime": "2021-02-15T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-the-use-of-ai-in-advertising-commerce-and-marketing.md",
+      "title": "The Use Of AI In Advertising, Commerce And Marketing",
+      "excerpt": "AI is kind of the second coming of software, which has gained significant momentum in the last few years, acting as personal assistants for some, while processing business transactions and providing t",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/365391",
+      "originalUrl": "https://www.entrepreneur.com/article/365391",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613366535-pexels-startup-stock-photos-7063.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365391",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391",
+      "publishedDateTime": "2021-02-14T21:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-nissan-says-not-in-talks-with-apple-over-autonomous-car-project.md",
+      "title": "Nissan says 'not in talks with Apple' over autonomous car project",
+      "excerpt": "Nissan Motor Co Ltd said on Monday it is not in talks with Apple Inc, following a report that the iPhone maker approached the Japanese company in recent months about a tie-up for its autonomous car project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idUSL1N2KL01Y",
+      "originalUrl": "https://www.msn.com/en-gb/finance/other/nissan-says-not-in-talks-with-apple-over-autonomous-car-project/ar-BB1dGip1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551575165&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEH1E01L",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AF02N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF02N",
+      "publishedDateTime": "2021-02-14T16:59:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y",
+        "domain": "reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-covid-19-has-made-americans-lonelier-than-ever-but-ai-can-help.md",
+      "title": "COVID-19 has made Americans lonelier than ever, but AI can help",
+      "excerpt": "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
+      "originalUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/covid19hasma.jpg",
+          "width": 754,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
+      "publishedDateTime": "2021-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive.md",
+      "title": "Salesforce: Combining AI and automation can give us superpowers and make us more productive",
+      "excerpt": "Salesforce Einstein Automate is just the beginning. John Kucera, SVP of Product Management for Automation at Salesforce, believes the combination of AI and automation into voice-enabled digital assistants will give us \"superpowers\" that help people build relationships and make us more productive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "originalUrl": "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/02/12/4cb48ac5-f691-492f-944c-19f1e080e286/john-kucera-1.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "publishedDateTime": "2021-02-14T15:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-will-artificial-intelligence-produce-synthetic-sociopaths.md",
+      "title": "Will Artificial Intelligence Produce Synthetic Sociopaths?",
+      "excerpt": "Some day soon, computers may convincingly mimic human empathy. Will this lead to ethical artificial intelligence, or synthetic sociopathy?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/",
+      "originalUrl": "https://www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029a751dfccae5aa987e466%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5100%26cropY1%3D281%26cropY2%3D3151",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/amp/",
+      "publishedDateTime": "2021-02-14T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup.md",
       "title": "Forethought's CEO Deon Nicholas On Growing An Enterprise Software Startup",
       "excerpt": "Taking on the challenge of creating customer service chatbots that learn and continually improve the quality of responses instead of providing rote, canned remarks is ideal for AI and machine learning.",
@@ -249,6 +550,50 @@
         "IBM AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-real-or-fake-robot-uses-ai-to-find-waldo.md",
+      "title": "Real Or Fake? Robot Uses AI To Find Waldo",
+      "excerpt": "A Logitech c525 webcam captures images, which are processed by the Pi with OpenCV, then sent to Google’s cloud-based AutoML Vision service. AutoML is trained with numerous images of Waldo ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
+      "originalUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/08/waldo-bot.png",
+          "width": 1691,
+          "height": 871,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -764,6 +1109,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-13-meet-russias-new-killer-robot.md",
+      "title": "Meet Russia’s New Killer Robot",
+      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-bias-allegations-against-facial-recognition-prompt-legal-challenge-threat.md",
       "title": "Bias allegations against facial recognition prompt legal challenge, threat",
       "excerpt": "Allegations of poor performance for women and people of color by face biometrics systems have resulted in legal action and the threat of a lawsuit.",
@@ -857,405 +1245,6 @@
         "AI",
         "AWS AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-clearview-ai-thinks-the-solution-to-dating-is-facial-recognition.md",
-      "title": "Clearview AI Thinks The Solution to Dating Is Facial Recognition",
-      "excerpt": "Clearview AI, now the byword for unchecked surveillance, has filed a wide-ranging patent application that envisions handing over the most reviled uses of facial recognition technology to just about anyone.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
-      "originalUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wi4p4fthvs7j24g09anp.jpg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp",
-      "publishedDateTime": "2021-02-12T13:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation.md",
-      "title": "AI Weekly: Techno-utopianism in the workplace and the threat of excessive automation",
-      "excerpt": "Arguments in favor of shared prosperity and in opposition to excessive robots, AI, and automation in the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/",
-      "originalUrl": "https://venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/you-x-ventures-Oalh2MojUuk-unsplash-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/amp/",
-      "publishedDateTime": "2021-02-12T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-buzzfeed-uses-ai-to-create-romantic-partners-in-its-latest-quiz.md",
-      "title": "BuzzFeed uses AI to create romantic partners in its latest quiz",
-      "excerpt": "A new BuzzFeed quiz is the first in what VP of Product Chris Johanesen said he’s hoping will be a series of “stunt-y experiments” that the publisher launches this year. The quiz, timed for Valentine’s Day weekend,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/12/buzzfeed-ai-quiz/",
-      "originalUrl": "https://techcrunch.com/2021/02/12/buzzfeed-ai-quiz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/AI-thumb.jpg?w=1000",
-          "width": 1000,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/12/buzzfeed-ai-quiz/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/12/buzzfeed-ai-quiz/amp/",
-      "publishedDateTime": "2021-02-12T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-how-ai-technology-makes-manufacturing-smarter.md",
-      "title": "How AI Technology Makes Manufacturing Smarter",
-      "excerpt": "Advances in the Industrial Internet of Things (IIoT), artificial intelligence (AI), machine learning, and advanced analytics are turbocharging the move to Industry 4.0. To stay competitive, companies are using AI-powered IoT tools to alert manufacturers to failures in equipment,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/",
-      "originalUrl": "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/02/Manufacturing.png",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-ai-technology-makes-manufacturing-smarter/amp/",
-      "publishedDateTime": "2021-02-12T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-healthcare-is-adopting-ai-much-faster-since-the-pandemic-began.md",
-      "title": "Healthcare is adopting AI much faster since the pandemic began",
-      "excerpt": "While healthcare organizations are hesitant to adopt AI technology, the COVID-19 pandemic has increased their interest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/",
-      "originalUrl": "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/1200x675/7150d226ed634629837143d254c00fa5/20210211-healthcareai-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/",
-      "publishedDateTime": "2021-02-12T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-minneapolis-bans-police-government-use-of-facial-recognition.md",
-      "title": "Minneapolis bans police, government use of facial recognition",
-      "excerpt": "The Minneapolis City Council voted to ban the use of facial recognition technology by the city's police and other government departments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
-      "originalUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/02/Minneapolis-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
-      "publishedDateTime": "2021-02-12T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-using-watson-nlu-to-help-address-bias-in-ai-sentiment-analysis.md",
-      "title": "Using Watson NLU to help address bias in AI sentiment analysis",
-      "excerpt": "Previously on the Watson blog’s NLP series, we introduced sentiment analysis, which detects favorable and unfavorable sentiment in natural language. We examined how business solutions use sentiment analysis and how IBM is optimizing data pipelines with Watson Natural Language Understanding (NLU). But",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/Screen-Shot-2021-02-12-at-2.14.04-PM.png",
-          "width": 1688,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T11:19:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-baidu-launches-self-driving-cars-shuttles-buses-vending-and-even-police-robots.md",
-      "title": "Baidu Launches Self-Driving Cars, Shuttles, Buses, Vending, And Even Police Robots",
-      "excerpt": "The Mobility-as-a-Service program in Guangzhou steps beyond previous deployments, in that it pulls together different transportation modalities and use cases into a single service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/02/12/baidu-launches-self-driving-cars-shuttles-buses-vending-and-even-police-robots/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/02/12/baidu-launches-self-driving-cars-shuttles-buses-vending-and-even-police-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60268c9ac54e87fd21adf5bb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

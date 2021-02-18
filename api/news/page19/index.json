@@ -2,6 +2,679 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-03-near-infrared-imaging-and-machine-learning-can-identify-hidden-tumors.md",
+      "title": "Near-infrared imaging and machine learning can identify hidden tumors",
+      "excerpt": "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/nearinfrared.jpg",
+          "width": 2075,
+          "height": 1638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp",
+      "publishedDateTime": "2021-02-02T11:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-spot-the-robots-new-arm-lets-it-jump-rope-and-do-serious-stuff.md",
+      "title": "Spot the robot's new arm lets it jump rope (and do serious stuff)",
+      "excerpt": "Boston Dynamic's Spot robot got a whole toolkit of improvements from an arm that can lift 11 pounds to thermal imaging video cameras. The dog-like robot can now swing a",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=6Zbhvaac68Y&feature=youtu.be",
+      "originalUrl": "https://www.stltoday.com/lifestyles/technology/spot-the-robots-new-arm-lets-it-jump-rope-and-do-serious-stuff/video_c1ad22d0-c742-597c-9f8a-d43102ae5b2c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6Zbhvaac68Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-fintech-integrator-50-.md",
+      "title": "\"Fintech Integrator\" - ინიციატივა 5.0-ის ფარგლებში ჰაკათონი ჩატარდება",
+      "excerpt": "Fintech Integrator“ ინიციატივა 5.0–ის ფარგლებში ფინტექის მიმართულებით დაგეგმილი აქტივობებს შორის ერთ–ერთი ღონისძიებაა. ჰაკათონი 13–14 მარტს გაიმართება და მასში მონაწილეობა ყველა დაინტერესებულ ადამიანს შეეძლება.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/364604",
+      "originalUrl": "https://www.entrepreneur.com/article/364604",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1612290528-image-safe-zone-check.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364604",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364604",
+      "publishedDateTime": "2021-02-02T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-5-artificial-intelligence-predictions-for-2021.md",
+      "title": "5 Artificial Intelligence Predictions for 2021",
+      "excerpt": "Here in this blog, I am sharing a few predictions for the specific AI techniques, tooling, apps, and platforms that will come to the forefront in the year to come. Pandemic has brought changes in all the workforce,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937",
+      "originalUrl": "https://www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/01/2021-AI-predictions.jpg",
+          "width": 550,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937/amp",
+      "publishedDateTime": "2021-02-02T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-salesforces-ai-ethics-chief-shares-3-ways-to-use-tech-when-planning-a-safe-return-to-the-office.md",
+      "title": "Salesforce's AI ethics chief shares 3 ways to use tech when planning a safe return to the office",
+      "excerpt": "With vaccinations rolling out, companies must carefully plan next steps and map out how to get employees back to their desks safely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/salesforces-ai-ethics-chief-kathy-baxter-safely-return-office-2021-2",
+      "originalUrl": "https://www.businessinsider.com/salesforces-ai-ethics-chief-kathy-baxter-safely-return-office-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60198cb101504a00197fb2d1?width=1200&format=jpeg",
+          "width": 1085,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters.md",
+      "title": "How Normal People Deployed Facial Recognition on Capitol Hill Protesters",
+      "excerpt": "Facial recognition is now freely accessible to random people on Twitter using a Polish website called Pimeyes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "originalUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/601989938019b80095f88ce7/lede/1612286477494-gettyimages-1230453278.jpeg?crop=1xw:0.8429xh;0xw,0.1571xh",
+          "width": 5128,
+          "height": 2881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "publishedDateTime": "2021-02-02T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors.md",
+      "title": "Radiological Analysis Leveraging Artificial Intelligence Is Moving Past Pure Identification Of Tumors",
+      "excerpt": "In the medical area of lung health, there is significant movement past the early success of AI for identification of objects in radiological images, into machine learning for more high level analysis for identification,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/02/02/radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/02/02/radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D26%26cropY2%3D519",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/02/02/radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/02/02/radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors/amp/",
+      "publishedDateTime": "2021-02-02T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures.md",
+      "title": "BioWare used AI upscaling to remaster Mass Effect’s original textures",
+      "excerpt": "BioWare rescued many of the textures in the original Mass Effect games through the use of AI upscaling, which can make them look more modern.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/",
+      "originalUrl": "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/eden-prime.png?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/amp/",
+      "publishedDateTime": "2021-02-02T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research.md",
+      "title": "PercayAI and Saint Louis University Partner to Accelerate AI Adoption across Biomedical Sciences Research",
+      "excerpt": "Biotech startup PercayAI and Saint Louis University (SLU) announced a partnership today to provide SLU researchers with access to PercayAI's augmented intelligence (AI) drug discovery platform. One of the primary components of the PercayAI platform is CompBio™,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "publishedDateTime": "2021-02-02T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-case-studies-of-successful-ai-startups.md",
+      "title": "Case studies of successful AI startups",
+      "excerpt": "Unsurprisingly, artificial intelligence is a small part -- albeit an important one -- of a successful product management strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/artificial-intelligence-startup-case-studies.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/",
+      "publishedDateTime": "2021-02-02T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-ai-stock-why-c3-ai-shares-are-surging-today.md",
+      "title": "AI Stock: Why C3 AI Shares Are Surging Today",
+      "excerpt": "C3 AI (NYSE:AI) stock is on the rise Tuesday after announcing a partnership with Shell (NYSE:RDS), Baker Hughes (NY",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-stock%3A-why-c3-ai-shares-are-surging-today-2021-02-02?amp",
+      "publishedDateTime": "2021-02-02T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-rescale-raises-50-million-in-series-c-funding.md",
+      "title": "Rescale Raises $50 Million in Series C Funding",
+      "excerpt": "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft's M12, Nautilus Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-artificial-intelligence-in-marketing-market-next-big-thing-major-giants-alphabet-baidu-oculus360.md",
+      "title": "Artificial Intelligence in Marketing Market Next Big Thing | Major Giants- Alphabet, Baidu, Oculus360",
+      "excerpt": "HTF MI presents an in-depth overview of the Global Artificial Intelligence in Marketing Market Study, detailing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-happyfox-applies-conversational-ai-to-support-requests-made-via-slack.md",
+      "title": "HappyFox applies conversational AI to support requests made via Slack",
+      "excerpt": "HappyFox today announced it is using conversational AI to automatically resolve requests made to help or service desk platforms it supports via a Slack communications channel. Assist AI from HappyFox analyzes each request made via Slack to determine if a way to solve that issue already exists within an IT organization’s knowledge base.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/",
+      "originalUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/HappyFox-why-assist-ai-image-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/",
+      "publishedDateTime": "2021-02-02T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare.md",
       "title": "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare",
       "excerpt": "COVID-19 put unbelievable strain on our health care system. With industry organizations facing sharper realities around managing costs and",
@@ -525,654 +1198,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek.md",
-      "title": "Women in Robotics Update: Andra Keay, Nguyen Sao Mai and Selin Alara Örnek",
-      "excerpt": "Here’s a Women in Robotics Spotlight, where we share stories from women who are working on all sorts of interesting projects who haven’t yet been featured in our Annual Showcase. We hope these stories provide inspiration to everyone to join us working in the field of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://robohub.org/women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek/",
-      "originalUrl": "https://robohub.org/women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://robohub.org/wp-content/uploads/2021/02/WIR-Update-15_10-for-Robohub-2-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T18:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robohub",
-        "domain": "robohub.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence.md",
-      "title": "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
-      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T17:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
-      "title": "Artificial intelligence isn’t as smart as it thinks",
-      "excerpt": "Digital personal assistants, software that can trounce board game champions, algorithms serving up customized online advertising — wherever you turn, artificial intelligence appears to be taking over the world. But look past the self-driving cars and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
-      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2020/03/AIwebcrop-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
-      "publishedDateTime": "2021-02-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-daily-crunch-google-shutters-internal-game-studios.md",
-      "title": "Daily Crunch: Google shutters internal game studios",
-      "excerpt": "Google rethinks its gaming strategy, Microsoft rolls out its quantum computing platform and UiPath is now valued at $35 billion. This is your Daily Crunch for. The big story: Google shutters internal game studios When Google announced its Stadia cloud platform,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/",
-      "originalUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/Google-GDC-Stadia-14.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/amp/",
-      "publishedDateTime": "2021-02-01T15:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-this-month-in-aws-machine-learning-january-edition.md",
-      "title": "This month in AWS Machine Learning: January edition",
-      "excerpt": "Hello and welcome to our first “This month in AWS Machine Learning” of 2021! Every day there is something new going on in the world of AWS Machine Learning—from launches to new to use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-january-edition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-january-edition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/January-Edition-01.jpg",
-          "width": 801,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T15:06:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry.md",
-      "title": "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry",
-      "excerpt": "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210201005936/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry",
-      "originalUrl": "https://www.businesswire.com/news/home/20210201005936/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open.md",
-      "title": "Get ready to roll! AWS DeepRacer pre-season racing is now open",
-      "excerpt": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. Pre-season qualifying",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2252-1-Thumbnail.jpg",
-          "width": 568,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T14:39:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-baidu-green-light-to-test-driverless-autonomous-vehicles-in-california.md",
-      "title": "Baidu green light to test driverless autonomous vehicles in California",
-      "excerpt": "Baidu’s autonomous vehicles can now drive alongside those from Cruise, Waymo, Nuro, Zoox and AutoX in California. The Chinese company has just received approval to operate its autonomous driverless vehicles from the US state.",
-      "sourceUrl": null,
-      "webUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/",
-      "originalUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galusaustralis.com/wp-content/uploads/2021/02/baidu.0-e1612158742517-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/",
-      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/",
-      "publishedDateTime": "2021-02-01T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "galusaustralis.com",
-        "domain": "galusaustralis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-gdit-announces-aws-availability-on-milcloud-20-contract-dave-levy-quoted.md",
-      "title": "GDIT Announces AWS Availability on milCloud 2.0 Contract; Dave Levy Quoted",
-      "excerpt": "General Dynamics Information Technology (GDIT) has announced the availability of Amazon Web Services (AWS) under the milCloud 2.0 contract, GDIT reported on Monday. AWS availability will provide the Department of Defense (DoD) access to an expanded portfolio of secure cloud services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.executivegov.com/2021/02/gdit-announces-aws-availability-on-milcloud-2-0-contract-dave-levy-quoted/",
-      "originalUrl": "https://www.executivegov.com/2021/02/gdit-announces-aws-availability-on-milcloud-2-0-contract-dave-levy-quoted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://executivegov-media.s3.amazonaws.com/2021/02/01/56/77/7e/91/c4/a2/48/44/dave-levy-wash100.png",
-          "width": 272,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-safari-turns-on-speech-recognition-by-default-tech-preview-of-release.md",
-      "title": "Safari turns on ‘Speech Recognition’ by default Tech Preview of release",
-      "excerpt": "Safari turns on 'Speech Recognition' by default Tech Preview of release on February 1, 2021 at 2.30 p.m. Apple's Safari browser is",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/",
-      "originalUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Safari-turns-on-Speech-Recognition-by-default-Tech-Preview-of.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/",
-      "publishedDateTime": "2021-02-01T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-researchers-can-tell-if-youre-going-to-break-up-just-by-the-language-you-use.md",
-      "title": "Researchers Can Tell If You’re Going To Break Up Just By The Language You Use",
-      "excerpt": "Evidence of an impending breakup may exist in the small words used in everyday conversations months before either partner realizes where their relationship is heading, according to new psychology research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/",
-      "originalUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60184d0049ba39787ef144b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3622%26cropY1%3D51%26cropY2%3D2089",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/amp/",
-      "publishedDateTime": "2021-02-01T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-artificial-intelligence-and-the-gamestonk-blowback.md",
-      "title": "Artificial intelligence and the Gamestonk blowback",
-      "excerpt": "Surrounded by rallies of “power to the people,” a rag-tag group of scrappy underdogs recently managed to bring Wall Street to its knees through a dazzling display of disobedient investing that saw Gamestop stocks rocket Moonward.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/1280px-GameStop_Globen-e1611550531323-796x420.jpg",
-          "width": 796,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/amp/",
-      "publishedDateTime": "2021-02-01T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-how-to-tell-if-your-partner-is-thinking-of-breaking-up-with-you-people-contemplating-the-end-of-a-relationship-change-their-language-and-start.md",
-      "title": "How to tell if your partner is thinking of breaking up with you: People contemplating the end of a relationship change their language and start saying 'I' and 'we' more",
-      "excerpt": "The study, by researchers from the University of Texas, suggests that the use of pronouns may indicate an impending breakup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/People-contemplating-end-relationship-start-saying-more.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/People-contemplating-end-relationship-start-saying-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/02/01/13/38735416-0-image-a-15_1612186949328.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/amp/People-contemplating-end-relationship-start-saying-more.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9210355/amp/People-contemplating-end-relationship-start-saying-more.html",
-      "publishedDateTime": "2021-02-01T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-rpa-startup-uipath-raises-750-million.md",
-      "title": "RPA startup UiPath raises $750 million",
-      "excerpt": "Robotic process automation startup UiPath has raised $750 million in a series F round valuing the company at $35 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/uipath.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/",
-      "publishedDateTime": "2021-02-01T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

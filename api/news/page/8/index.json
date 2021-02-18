@@ -2,6 +2,367 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-11-microvision-skyrockets-45-after-announcing-progress-on-lidar-tech-for-self-driving-cars.md",
+      "title": "MicroVision skyrockets 45% after announcing progress on Lidar tech for self-driving cars",
+      "excerpt": "Sensors to meet or exceed OEM requirements in a report on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microvision-stock-price-skyrockets-lidar-tech-self-driving-cars-2021-2",
+      "originalUrl": "https://www.businessinsider.com/microvision-stock-price-skyrockets-lidar-tech-self-driving-cars-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6025381567d1e300113c57a3?width=1200&format=jpeg",
+          "width": 768,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/microvision-stock-price-skyrockets-lidar-tech-self-driving-cars-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microvision-stock-price-skyrockets-lidar-tech-self-driving-cars-2021-2?amp",
+      "publishedDateTime": "2021-02-11T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-the-moneyball-evolution-artificial-intelligence-athlete-data-and-the-future-of-sports-betting.md",
+      "title": "The 'Moneyball' Evolution: Artificial Intelligence, Athlete Data And The Future Of Sports Betting",
+      "excerpt": "This evolution of data and using real-time athlete data to track and adjust predictions could fundamentally change the sports betting industry and the way games are bet on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/the-moneyball-evolution-artificial-intelligence-athlete-data-and-the-future-of-sports-betting/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/the-moneyball-evolution-artificial-intelligence-athlete-data-and-the-future-of-sports-betting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60240ec80ee29a93441ff50c%2F0x0.jpg",
+          "width": 1200,
+          "height": 911,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/11/the-moneyball-evolution-artificial-intelligence-athlete-data-and-the-future-of-sports-betting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/11/the-moneyball-evolution-artificial-intelligence-athlete-data-and-the-future-of-sports-betting/amp/",
+      "publishedDateTime": "2021-02-11T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-amazon-web-services-in-deal-with-national-hockey-league.md",
+      "title": "Amazon Web Services In Deal With National Hockey League",
+      "excerpt": "Amazon Web Services or AWS, an Amazon.com, Inc. company, has inked a deal with the National Hockey League (NHL) to become the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure Provider of the professional ice hockey league.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11?amp",
+      "publishedDateTime": "2021-02-11T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers.md",
+      "title": "Humana and IBM Watson Health Collaborate to Simplify and Enhance the Member Experience for Humana Employer Group Customers",
+      "excerpt": "Watson Health today announced a collaboration leveraging IBM’s conversational artificial intelligence (AI) solution – to help provide a better member experience while providing greater clarity and transparency on benefits and other related matters for Humana Employer Group members.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/humana-and-ibm-watson-health-collaborate-to-simplify-and-enhance-the-member-experience-for-humana-employer-group-customers-1030072381",
+      "publishedDateTime": "2021-02-11T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad.md",
+      "title": "Vectra extends cloud identity detection capabilities with Microsoft Azure AD",
+      "excerpt": "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-microsoft-and-hpe-team-up-to-connect-azure-cloud-to-international-space-station.md",
+      "title": "Microsoft and HPE team up to connect Azure cloud to International Space Station",
+      "excerpt": "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/",
+      "originalUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg",
+          "width": 630,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/",
+      "publishedDateTime": "2021-02-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-ex-microsoft-amazon-execs-join-indian-voice-tech-startup-vernacularai.md",
+      "title": "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai",
+      "excerpt": "India-based software-as-a-service startup Vernacular.ai announced the appointment of former Microsoft executive Gangadhar Kodandaram as the company’s chief revenue officer and ex-Amazon employee Ankit Jain as vice president for product management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673044",
+      "originalUrl": "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673044",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular.md",
+      "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ...",
+      "excerpt": "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.md",
       "title": "How to use facial recognition from your Photos library with Apple HomeKit Secure Video",
       "excerpt": "Apple lets you know who is at the door or another camera when used in conjunction with its secure video system.",
@@ -479,6 +840,92 @@
       ]
     },
     {
+      "path": "_news/2021-02-11-does-the-future-of-robotics-lie-in-the-imagination.md",
+      "title": "Does The Future Of Robotics Lie In The Imagination?",
+      "excerpt": "But a mind-controlled robotic arm that doesn't require a brain implant could have been a stretch of the imagination even for Dr. Seuss. Don't miss the MD&M West conference and expo, February 7-9, 2017, in Anaheim, CA. Eight study participants at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "originalUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
+      "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
+      "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
+      "originalUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals.md",
       "title": "Artificial intelligence can influence human decision-making, new Data61 study reveals",
       "excerpt": "A new study by researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, in partnership with the Australian National University and researchers from Germany,",
@@ -713,484 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-new-porsche-sports-car-design-shown-in-recently-filed-patent.md",
-      "title": "New Porsche sports car design shown in recently-filed patent",
-      "excerpt": "Porsche recently filed for a patent of a new sports car design, and the internet has dug up the images to take a look",
-      "sourceUrl": null,
-      "webUrl": "https://pdfaiw.uspto.gov/.aiw?PageNum=1&docid=20210034843&IDKey=9F055AB1185B&HomeUrl=http%3A%2F%2Fappft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO1%2526Sect2%3DHITOFF%2526d%3DPG01%2526p%3D1%2526u%3D%2Fnetahtml%2FPTO%2Fsrchnum.html%2526r%3D1%2526f%3DG%2526l%3D50%2526s1%3D20210034843.PGNR.%2526OS%3D%2526RS%3D",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/new-porsche-sports-car-design-shown-in-recently-filed-patent/ss-BB1dzIj1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T12:35:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pgnr.%2526os%3d%2526rs%3d",
-        "domain": "pgnr.%2526os%3d%2526rs%3d",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-how-one-startup-is-proving-that-ai-can-come-up-with-ethical-solutions.md",
-      "title": "How one startup is proving that AI can come up with ethical solutions",
-      "excerpt": "Though artificial intelligence has shown to improve efficiency in business and other aspects of our daily lives, there’s certainly no shortage of moral conundrums that arise from its use. Whether it be the fear that it will take away jobs at a large scale or stories of racial and gender bias — like a health",
-      "sourceUrl": null,
-      "webUrl": "https://sociable.co/technology/how-one-startup-is-proving-that-ai-can-come-up-with-ethical-solutions/",
-      "originalUrl": "https://sociable.co/technology/how-one-startup-is-proving-that-ai-can-come-up-with-ethical-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sociable.co/wp-content/uploads/2021/02/Omdena.jpg",
-          "width": 585,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sociable.co/technology/how-one-startup-is-proving-that-ai-can-come-up-with-ethical-solutions/amp/",
-      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/how-one-startup-is-proving-that-ai-can-come-up-with-ethical-solutions/amp/",
-      "publishedDateTime": "2021-02-10T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sociable",
-        "domain": "sociable.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-israeli-cybersecurity-group-cye-raises-100-mln-from-eqt-83north.md",
-      "title": "Israeli cybersecurity group CYE raises $100 mln from EQT, 83North",
-      "excerpt": "Israeli cybersecurity company CYE said on Wednesday it had raised $100 million from Swedish private equity firm EQT and London-based venture capital firm 83North as it looks to expand in European and North American markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-10/israeli-cybersecurity-firm-cye-raises-100-million-for-expansion",
-      "originalUrl": "https://www.reuters.com/article/cye-funding/israeli-cybersecurity-group-cye-raises-100-mln-from-eqt-83north-idUSL4N2KG2Y0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTznGLhkTmeU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-cye-raises-120-million-for-security-using-hackers-and-ai.md",
-      "title": "CYE raises $ 120 million for security using hackers and AI",
-      "excerpt": "CYE raises $ 120 million for security using hackers and AI The rising number of cyber attacks in recent years has led to a massive",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/",
-      "originalUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/CYE-raises-120-million-for-security-using-hackers-and.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/amp/",
-      "publishedDateTime": "2021-02-10T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-self-driving-trucking-startup-taps-us-chinese-investors.md",
-      "title": "Self-Driving Trucking Startup Taps U.S., Chinese Investors",
-      "excerpt": "Self-driving trucking startup PlusAI raised $200 million in fresh capital from investors including several top-tier Silicon Valley venture-capital firms as well as a Chinese investment firm and automotive companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-297255/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "publishedDateTime": "2021-02-10T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-2004.md",
-      "title": "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04",
-      "excerpt": "If you're looking to add Machine Learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/04/15/c4cd780e-d300-42ff-bed2-b5a9f568dc3f/resize/1200x/93ee1e53acaf6f50c163d1dc759fc216/tensorflowgoogle.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "publishedDateTime": "2021-02-10T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-four-predictions-for-artificial-intelligence-and-machine-learning-in-2021.md",
-      "title": "Four Predictions For Artificial Intelligence And Machine Learning In 2021",
-      "excerpt": "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
-      "publishedDateTime": "2021-02-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-langai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses.md",
-      "title": "Lang.ai snags $2M to remove technical burden of implementing AI for businesses",
-      "excerpt": "Lang.ai, which has developed a no-code platform for businesses, closed on a $2 million seed funding round. The company’s SaaS platform aims to allow business users to structure any free-text data with custom categories built through a drag & drop interface,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
-      "originalUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Lang.ai_.jpg?w=1024",
-          "width": 1024,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
-      "publishedDateTime": "2021-02-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-spider-legs-build-webs-without-the-brains-helpproviding-a-model-for-future-robot-limbs.md",
-      "title": "Spider legs build webs without the brain's help—providing a model for future robot limbs",
-      "excerpt": "Arachnophobes often cite spiders' unpredictable movement as the basis of their fear, pointing out how each spindly leg seems to lift, flex and probe with a menacing degree of autonomy.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.html",
-      "originalUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/spiderlegsbu.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.amp",
-      "publishedDateTime": "2021-02-10T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-self-driving-car-firms-reveal-2020-testing-data-cruise-and-waymo-improve-apple-stalls.md",
-      "title": "Self-driving car firms reveal 2020 testing data: Cruise and Waymo improve, Apple stalls",
-      "excerpt": "The California Department of Motor Vehicles reveals how companies operating autonomous cars in the state are progressing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
-      "publishedDateTime": "2021-02-10T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

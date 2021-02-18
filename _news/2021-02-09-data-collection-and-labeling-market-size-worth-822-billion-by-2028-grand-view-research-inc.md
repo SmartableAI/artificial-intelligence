@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Data Collection And Labeling Market Size Worth $8.22 Billion By 2028: Grand View Research, Inc."
-excerpt: "The global data collection and labeling market size is expected to reach USD 8.22 billion by 2028, according to a new report by Grand V"
-publishedDateTime: 2021-02-09T10:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
-webUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
+excerpt: "Data gathering and its annotation, combined with artificial intelligence (AI ... to its autonomous driving customers, including Waymo LLC; Lyft, Inc.; Zoox; and Toyota Research Institute."
+publishedDateTime: 2021-02-09T10:37:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html"
+webUrl: "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "E59Jod32zLCRtnJcBGcZSkDr62A2gwVRxhEtsAajZ7xVa60xS33kpMBsxGrEhRiWySA/hDK6IEyUbsBxrVrHUp8DUZO7h70qymj4eIwp0+KwIskG8ieisHZ0k+mhUZtVUpO/VBe0SjqicRYUmVYGINKP7uJLodODRplNlQn+04LOmLk46odNX9rXkqAEZheIRBFavka0STp/1mcyA35/bLqO7UoTpQbU6MZPM/ggVivJb2NTuZUfCLWPOaZRFhtEXPK4mEPSh+aKNBsbmPrYiyzqR5H0CrAh+c3lU1fa9tGpQPi7wftZEd4GPfco9uw/afK0qhu1XoYUZJsXS1p4E/u19fFOH0voyYeyQN6NTgI=;E/WltH1UJQG8vulCU5ChcA=="
+images:
+  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+    width: 1400
+    height: 733
+    isCached: true
+
+secured: "A0XlzewaLbSDfy/pi7c5bhvuVrmFOCVBBJWTqW3Rmt3Dy55hkWv6YIOf8d9bl1YKa9oq7Qa1wc2pYh/xUGo9b1iU++bL2J49YsH0AHR8Og9bFPMwRwd8A8zHrqHhsHnQe1znid1hVrZJOAtA6jBcc/RV4OdlvoD8U56NXjLNaFLz6EhF/Hc6FCzusUXi/l2INuXj4J+syV907PtJYpsaWc7c7vFVzSRu6DgVgpRT1JsomfDXjhhZ+nIn1XRXOy982UzpwvQztgHxH0Qup7SjFCOcIu+OUtXItTuHah0H7qFjWSYQNBx4BIq3henKkmUCmqOeOh582NekCxQTGqYXf1gWaKYGEX40VGyGCMOUM0w=;a7Wjmvbh2MzggflLruwFgg=="
 ---
 

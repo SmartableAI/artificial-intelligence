@@ -197,6 +197,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-17-this-cloud-computing-billing-expert-is-very-funny-seriously.md",
+      "title": "This Cloud Computing Billing Expert Is Very Funny. Seriously.",
+      "excerpt": "Corey Quinn has made it his business to understand Amazon’s cloud-computing charges and have some fun at the company’s expense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/14/business/00amazonpest1/00amazonpest1-facebookJumbo-v3.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.amp.html",
+      "publishedDateTime": "2021-02-17T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-artificial-intelligence-ai-chipsets-market-growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020-2027.md",
       "title": "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -874,6 +926,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud.md",
+      "title": "As Jeff Bezos steps down, Amazon stakes its future on the cloud",
+      "excerpt": "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ...",
+      "sourceUrl": null,
+      "webUrl": "https://trib.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_44149922-4eb4-58e6-8d74-b28498b7f9b8.html",
+      "originalUrl": "https://trib.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_44149922-4eb4-58e6-8d74-b28498b7f9b8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/b/38/b383447c-5e1b-53a9-90a9-b67f73ea7375/601c56e7f3d1a.image.jpg?resize=576%2C324",
+          "width": 576,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Casper Star-Tribune",
+        "domain": "trib.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge.md",
       "title": "Learn from the winner of the AWS DeepComposer Chartbusters Track or Treat challenge",
       "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters Track or Treat challenge, Greg Baker. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June 2020, we launched Chartbusters, a global competition in which developers use AWS DeepComposer",
@@ -1127,6 +1222,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-05-amazon-adding-ai-equipped-cameras-to-delivery-vans-to-monitor-safety-sparking-privacy-concerns.md",
+      "title": "Amazon adding AI-equipped cameras to delivery vans to monitor safety, sparking privacy concerns",
+      "excerpt": "Amazon delivery drivers keeping their eyes on the road could have Amazon keeping an eye on them according to reports that the company is planning to use AI-equipped cameras inside vehicles to",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/",
+      "originalUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/amazonvan-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/",
+      "publishedDateTime": "2021-02-04T17:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud.md",
       "title": "As Jeff Bezos steps down, Amazon stakes its future on the cloud",
       "excerpt": "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very large size, it has strong returns on capital, and it's durable in time ...",
@@ -1316,154 +1463,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish.md",
-      "title": "Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 Console and APIs make it easier to build, deploy, and manage bots. In this post, you will learn about about the 3 main benefits of Amazon Lex V2 Console and API, basic bot building concepts, and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2423-NEW-1.jpg",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T16:37:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-15-examples-of-how-telcos-are-moving-to-the-public-cloud.md",
-      "title": "15 examples of how telcos are moving to the public cloud",
-      "excerpt": "I’m the world’s expert when it comes to moving to the public cloud. I’ve been talking with hundreds of telco execs and the flywheel is starting to turn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/",
-      "originalUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/amp/",
-      "publishedDateTime": "2021-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-using-amazon-translate-to-provide-language-support-to-amazon-kendra.md",
-      "title": "Using Amazon Translate to provide language support to Amazon Kendra",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra supports English. This post provides a set of techniques to provide non-English language support when using Amazon Kendra. We demonstrate these techniques within the context of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-translate-to-provide-language-support-to-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-translate-to-provide-language-support-to-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/ML-2024-3.jpg",
-          "width": 825,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T15:44:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

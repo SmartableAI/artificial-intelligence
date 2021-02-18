@@ -2,6 +2,94 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-28-the-next-target-for-a-facial-recognition-ban-new-york.md",
+      "title": "The Next Target for a Facial Recognition Ban? New York",
+      "excerpt": "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
+      "originalUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
+      "publishedDateTime": "2021-01-28T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-global-computer-vision-in-healthcare-market-swot-analysis-key-indicators-forecast-2027-nvidia-corporation-microsoft.md",
+      "title": "Global Computer Vision in Healthcare Market SWOT Analysis, Key Indicators, Forecast 2027 : NVIDIA Corporation, Microsoft",
+      "excerpt": "The market research report titled \" Computer Vision in Healthcare Market by Product Type (Software (On premise, Cloud), Hardware (CPU, GPU, FPGA, ASICs), Memory, Network), Application (Medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
+      "originalUrl": "https://www.openpr.com/news/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
+      "publishedDateTime": "2021-01-28T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-335-billion-growth-in-facial-recognition-market-during-2020-2024-29-growth-to-come-from-apac-technavio.md",
       "title": "$ 3.35 Billion Growth in Facial Recognition Market During 2020-2024 | 29% Growth to Come from APAC | Technavio",
       "excerpt": "Global facial recognition market will grow by USD 3.35 billion during 2020-2024. This press release features multimedia. View the full release here:  Technavio has announced its latest market research report titled Global Facial Recognition Market 2020-2024 (Graphic: Business Wire) Amid the COVID-19 pandemic,",
@@ -1281,101 +1369,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition.md",
-      "title": "Image Recognition Markets, 2025 - Digital Image Processing, Facial Recognition, Pattern Recognition",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, Jan. 20, 2021 /PRNewswire/ -- The \"Image Recognition Market by Technology (Digital Image Processing, Facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "publishedDateTime": "2021-01-20T06:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users.md",
-      "title": "Facebook AI Gets Better at Describing Photos for Visually Impaired Users",
-      "excerpt": "The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018), relies on object recognition to generate descriptions of photos ...",
-      "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users",
-      "originalUrl": "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_zvtd.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

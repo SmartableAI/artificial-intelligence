@@ -43,6 +43,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "GM Trademark Filing Points to Automotive Facial Recognition"
+    excerpt: "General Motors has filed a new trademark that points to it releasing a new facial recognition system in the North American market"
+    publishedDateTime: 2021-02-18T21:35:00Z
+    webUrl: "https://mobileidworld.com/gm-trademark-filing-points-automotive-facial-recognition-021805/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 41
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
+        isCached: true
 
 secured: "M4pL3GKL0QJc3Yk7/Y8kcwlffWX/WYGLEu14NQZ01peKo6XQPIsKbu7m0hUWWszjWn3bjzPYTZTJ89QadixPuRcz3MkuccEqwc+M89CljCou8Ai1L6TAsggZaQ5asziocWiPx44YOzBl7g9VDCzG4GzEMEQMSpyNPqX2U6Mveq5OnjNp+mZM9Tmkd5FFTuxQGOxV+hmuU6qrD1tQ0aO9YJcvBRaWtdZIeIrTU2o184waiTEwJ28bRrSLe6t57T/Q/NktIyp09wwrMGsiLiBXtymd26vgS8bJ0nSMrr9I4fogVrv/7PyCA1tA7NVvEGrBcLvMNgUmHWTtM2qHQRWrjEaW5C7yJPx144DnpIcItHQ=;p73JV9pV0XNJPlbsXcCsyg=="
 ---

@@ -92,6 +92,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Essential IT: How Providence uses data to care for COVID-19 patients"
+    excerpt: "Could cloud data detect early signs of the virus? Could that same data predict where COVID would surge next? Turns out, it could."
+    publishedDateTime: 2021-02-18T17:41:00Z
+    webUrl: "https://news.microsoft.com/transform/how-providence-uses-data-to-care-for-covid-19-patients/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2021/02/08-BJ-Moore_Crop-1024x546.jpg"
+        width: 1024
+        height: 546
+        isCached: true
   - title: "MIT Develops Machine-Learning Approach to Finding New Treatment Options for COVID-19"
     excerpt: "Researchers develop a system to identify drugs that might be repurposed to fight the coronavirus in elderly patients. When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments."
     publishedDateTime: 2021-02-16T12:53:00Z

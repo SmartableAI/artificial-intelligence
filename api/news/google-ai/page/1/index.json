@@ -312,6 +312,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-11-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
+      "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
+      "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
+      "originalUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-2004.md",
       "title": "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04",
       "excerpt": "If you're looking to add Machine Learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04.",
@@ -1493,59 +1536,6 @@
         "Facebook AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-synaptics-unsheathes-new-katana-low-power-edge-ai-platform.md",
-      "title": "Synaptics Unsheathes New Katana Low Power Edge AI Platform",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead attended CES this week, today, he wanted to talk about a tech announcement that may have flown under the radar. Today, Patrick Moorhead dives deeper into the introduction of a new offering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/01/20/synaptics-unsheathes-new-katana-low-power-edge-ai-platform/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/01/20/synaptics-unsheathes-new-katana-low-power-edge-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008e0a131bf3a2e8415b5fc%2F0x0.jpg",
-          "width": 1200,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/01/20/synaptics-unsheathes-new-katana-low-power-edge-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/01/20/synaptics-unsheathes-new-katana-low-power-edge-ai-platform/amp/",
-      "publishedDateTime": "2021-01-20T18:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Hardware"
       ]
     }
   ],

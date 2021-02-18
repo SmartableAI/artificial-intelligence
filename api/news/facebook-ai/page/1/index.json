@@ -663,6 +663,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-05-improving-data-center-efficiency.md",
+      "title": "Improving data center efficiency",
+      "excerpt": "A new partnership of UC Santa Barbara's Institute for Energy Efficiency (IEE) and Facebook will accelerate research into energy-efficient data centers and artificial intelligence (AI). Facebook ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-02/uoc--idc020421.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-02/uoc--idc020421.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-artificial-intelligence-helping-to-prevent-disinformation-for-investors.md",
       "title": "Artificial Intelligence Helping to Prevent Disinformation for Investors",
       "excerpt": "That’s further proof investors have turned to chat rooms for investing ideas. Unfortunately, not all information gathered in such chat rooms is truthful information. However, with a good deal of rampant disinformation,",
@@ -1467,58 +1510,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users.md",
-      "title": "Facebook enhances AI used to describe photos for visually impaired users",
-      "excerpt": "the company trained its two-stage object detector using an open-source platform developed by Facebook AI Research. \"We trained the models to predict locations and semantic labels of the objects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/01/20/320b9ac2-461d-41c8-a63f-477d00d43a01/nrp-cross-post-using-ai-to-improve-photo-descriptions-for-the-blind-banner-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "publishedDateTime": "2021-01-19T19:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

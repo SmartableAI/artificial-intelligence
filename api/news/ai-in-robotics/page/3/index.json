@@ -2,6 +2,231 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-29-us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai.md",
+      "title": "US, China or Europe? Here's who is really winning the global race for AI",
+      "excerpt": "A new report shows that in the ever-more competitive race for AI, the US has a strong lead that China is catching up with, while the EU is falling behind little by little.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "originalUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/08/d2cda70e-e16c-48b0-b7cd-8321360bd6e5/woman-surrounded-by-high-tech-600-x-337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "publishedDateTime": "2021-01-29T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-robot-empowerment-a-viable-alternative-to-asimovs-three-laws-of-robotics.md",
+      "title": "Robot empowerment - a viable alternative to Asimov's three laws of robotics?",
+      "excerpt": "Human-robot interaction is upon us - we're in dire need of a framework that makes sense. Asimov's three laws of robotics are one model, but is it applicable to today's robots? An alternative based on robot \"empowerment\" is worth a close look.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics",
+      "originalUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics?amp",
+      "publishedDateTime": "2021-01-29T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence.md",
+      "title": "Taylor’s Robotics programme prepares students for an era of artificial intelligence",
+      "excerpt": "C3-PO, RoboCop, Transformers, Baymax and the Terminator are characters that make the top lists in best movies of all time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/news/education/2021/01/29/taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence",
+      "originalUrl": "https://www.thestar.com.my/news/education/2021/01/29/taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/29/1025592.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-academic-city-university-college-launches-bsc-robotics-engineering-programme.md",
+      "title": "Academic City University College launches BSc Robotics Engineering Programme",
+      "excerpt": "He revealed that in the Robotics programme, emphasis is placed on design, analysis and modeling, programming, integration of Artificial Intelligence (AI) and manufacturing. \"Additionally, the need to industrialise has been effectively articulated by the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernghana.com/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "originalUrl": "https://www.modernghana.com/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.modernghana.com/content__/600/400/129202164730-h41o266fea-whatsapp-image-2021-01-28-at-11.04.26-pm.jpeg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "publishedDateTime": "2021-01-28T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modernghana.com",
+        "domain": "modernghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-mind-controlled-arm-boasts-fine-precision.md",
+      "title": "Mind-Controlled Arm Boasts Fine Precision",
+      "excerpt": "This robotic arm used at the University of Pittsburgh offers ten dimensional control of hand movements. The extra dimensions come from four distinct hand movements: finger abduction, a scoop, thumb extension, and a pinch. These new movements have enabled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/mind-controlled-arm-boasts-fine-precision",
+      "originalUrl": "https://www.mddionline.com/rd/mind-controlled-arm-boasts-fine-precision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-prosthetic-arm-can-sense-touch-move-with-wearers-thoughts.md",
       "title": "Prosthetic Arm Can Sense Touch, Move with Wearer's Thoughts",
       "excerpt": "The team published a paper on its work in the journal Science Robotics. Researchers tested the technology they developed for the LUKE Arm on Keven Walgamott, who lost his hand and part of his arm in an accident 17 years ago. Walgamott said he could ...",
@@ -1176,239 +1401,6 @@
         "name": "Futurity News",
         "domain": "futurity.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-florida-man-becomes-first-person-to-live-with-advanced-mind-controlled-robotic-arm.md",
-      "title": "Florida Man Becomes First Person to Live With Advanced Mind-Controlled Robotic Arm",
-      "excerpt": "Matheny, who lost his arm to cancer in 2005, has recently become the first person to live with an advanced mind-controlled robotic arm. He received the arm in December and will be spending the ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/mind-controlled-robotic-arm-johnny-matheny",
-      "originalUrl": "https://futurism.com/mind-controlled-robotic-arm-johnny-matheny",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2018/02/limb-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/mind-controlled-robotic-arm-johnny-matheny/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mind-controlled-robotic-arm-johnny-matheny/amp",
-      "publishedDateTime": "2021-01-22T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-ai-robots-and-play-2021-predictions-for-a-virtual-workplace.md",
-      "title": "AI, Robots And Play: 2021 Predictions For A Virtual Workplace",
-      "excerpt": "Founder and President of Virbela, building immersive virtual worlds for remote work, learning and events. While no one may have predicted just what 2020 would throw our way, my crystal ball is indicating that we have many more changes in store for 2021 — and some of them are promising,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6009d9db7af670a4e54c019d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/amp/",
-      "publishedDateTime": "2021-01-22T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-how-four-qdic-startups-are-driving-innovation-in-indias-industrial-robotics-and-automation-sector.md",
-      "title": "How four QDIC startups are driving innovation in India's industrial robotics and automation sector",
-      "excerpt": "Today, businesses are well-aware of the potential and impact of emerging technologies in industrial robotics and automation in improving process efficiencies and transforming business operations. While the initial high cost of infrastructure and complex operations have been key deterrents,",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
-      "originalUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imagesac6-1611302832921.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp",
-      "publishedDateTime": "2021-01-22T00:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-designing-customized-brains-for-robots.md",
-      "title": "Designing customized \"brains\" for robots",
-      "excerpt": "MIT researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-south-african-startup-aerobotics-raises-17m-to-scale-its-ai-for-agriculture-platform.md",
-      "title": "South African startup Aerobotics raises $17M to scale its AI-for-agriculture platform",
-      "excerpt": "As the global agricultural industry stretches to meet expected population growth and food demand, and food security becomes more of a pressing issue with global warming, a startup out of South Africa is using artificial intelligence to help farmers manage their farms,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/",
-      "originalUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Image-5-1024x683-1.png?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/amp/",
-      "publishedDateTime": "2021-01-21T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

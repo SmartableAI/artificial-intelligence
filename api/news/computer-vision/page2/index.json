@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-05-fears-raised-over-facial-recognition-use-at-moscow-protests.md",
+      "title": "Fears raised over facial recognition use at Moscow protests",
+      "excerpt": "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/russia-protests-tech/fears-raised-over-facial-recognition-use-at-moscow-protests-idUSL8N2KA54T",
+      "originalUrl": "https://www.reuters.com/article/russia-protests-tech/fears-raised-over-facial-recognition-use-at-moscow-protests-idUSL8N2KA54T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2KA54T",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T",
+      "publishedDateTime": "2021-02-04T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems.md",
       "title": "This new tool can tell you if your online photos are helping train facial recognition systems",
       "excerpt": "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new site hopes to raise awareness of this issue by offering a rare window into how a fraction of our pictures are used.",
@@ -381,6 +424,49 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-image-recognition-market-worth-9847-billion-globally-by-2027-at-1824-cagr-verified-market-research.md",
+      "title": "Image Recognition Market Worth $ 98.47 Billion, Globally, by 2027 at 18.24% CAGR: Verified Market Research",
+      "excerpt": "\"Image Recognition Market\" By Technology (Object Recognition, Facial Recognition, Digital Image Processing, Code Recognition, and Others), By Application (Security & Surveillance, Scanning ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
+      "publishedDateTime": "2021-02-03T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1301,94 +1387,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-the-next-target-for-a-facial-recognition-ban-new-york.md",
-      "title": "The Next Target for a Facial Recognition Ban? New York",
-      "excerpt": "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
-      "originalUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
-      "publishedDateTime": "2021-01-28T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-global-computer-vision-in-healthcare-market-swot-analysis-key-indicators-forecast-2027-nvidia-corporation-microsoft.md",
-      "title": "Global Computer Vision in Healthcare Market SWOT Analysis, Key Indicators, Forecast 2027 : NVIDIA Corporation, Microsoft",
-      "excerpt": "The market research report titled \" Computer Vision in Healthcare Market by Product Type (Software (On premise, Cloud), Hardware (CPU, GPU, FPGA, ASICs), Memory, Network), Application (Medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "originalUrl": "https://www.openpr.com/news/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "publishedDateTime": "2021-01-28T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
       ]
     }
   ],

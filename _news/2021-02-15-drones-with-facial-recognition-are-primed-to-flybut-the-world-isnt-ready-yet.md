@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Privacy Tip #272 – To Get Up to Speed on Facial Recognition Technology Read This"
+    excerpt: "It’s called This is how we lost control of our faces in the February 5, 2021 edition of MIT Technology Review, written by Karen Hao.  The article outlines a study rec"
+    publishedDateTime: 2021-02-18T22:58:00Z
+    webUrl: "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read"
+    ampWebUrl: "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 54
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Drones with facial recognition are closer to becoming a reality thanks to a patent from an Israeli company"
     excerpt: "AnyVision, an Israeli firm that has worked with Mercadona, patents a system that brings the use of drones with facial recognition cameras closer to reality. The patented technology will help the drones find the best shooting angle for an effective facial recognition system."
     publishedDateTime: 2021-02-17T10:39:00Z

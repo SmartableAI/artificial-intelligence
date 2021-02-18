@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/amazonvan-630x420.jpg"

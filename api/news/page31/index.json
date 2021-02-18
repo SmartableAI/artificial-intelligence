@@ -2,6 +2,681 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-01-26-nvidia-geforce-rtx-3080-mobile-review-the-fastest-laptop-gpu-just-arrived.md",
+      "title": "Nvidia GeForce RTX 3080 mobile review: The fastest laptop GPU just arrived",
+      "excerpt": "Nvidia’s new GeForce RTX 30-series laptops offer very impressive graphics performance, even compared to some of the biggest and heaviest laptops around.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html",
+      "originalUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/ampere-vs-20-100857189-large.jpg",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html",
+      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-understanding-the-value-of-artificial-intelligence-solutions-in-your-business.md",
+      "title": "Understanding The Value Of Artificial Intelligence Solutions In Your Business",
+      "excerpt": "A starting point for any organization in AI solution deployment is to assess the current digital maturity of the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/",
+      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-abi-research-identifies-the-innovative-start-ups-forging-the-next-gen-supply-chain.md",
+      "title": "ABI Research Identifies the Innovative Start-Ups Forging the Next-Gen Supply Chain",
+      "excerpt": "The varied applications that constitute supply chain technologies range from sourcing to operations, fulfillment, transport and services. Demand has increased materially for solutions that best address visibility,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/abi-research-identifies-the-innovative-start-ups-forging-the-next-gen-supply-chain-1030004262",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/abi-research-identifies-the-innovative-start-ups-forging-the-next-gen-supply-chain-1030004262",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/abi-research-identifies-the-innovative-start-ups-forging-the-next-gen-supply-chain-1030004262",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/abi-research-identifies-the-innovative-start-ups-forging-the-next-gen-supply-chain-1030004262",
+      "publishedDateTime": "2021-01-26T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative.md",
+      "title": "How SA’s AI and IoT Startup Aizatron Taps AWS Infrastructure To Be Innovative",
+      "excerpt": "South Africa’s AI, Data Systems and IoT startup Aizatron is developing future-focused technology. The startup has",
+      "sourceUrl": null,
+      "webUrl": "https://www.techfinancials.co.za/2021/01/26/how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative/",
+      "originalUrl": "https://www.techfinancials.co.za/2021/01/26/how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/01/internet-of-things-4129218_640.jpg",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techfinancials.co.za/2021/01/26/how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative/?amp",
+      "cdnAmpWebUrl": "https://www-techfinancials-co-za.cdn.ampproject.org/c/s/www.techfinancials.co.za/2021/01/26/how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative/?amp",
+      "publishedDateTime": "2021-01-26T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techfinancials",
+        "domain": "techfinancials.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone.md",
+      "title": "Designing An Electric Or Autonomous Vehicle Is Like Designing A Smartphone",
+      "excerpt": "Smartphones require the latest technology to increase device functionality and to improve system efficiency to prolong battery life. EVs and AVs face similar challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010114882d6f5e4b4271796%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/amp/",
+      "publishedDateTime": "2021-01-26T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-kodas-robot-dog-uses-artificial-intelligence-to-sense-human-emotion.md",
+      "title": "Koda’s Robot Dog Uses Artificial Intelligence To Sense Human Emotion",
+      "excerpt": "Robot dogs have been around for a while now, but most of them can’t replace the emotional connection that exists between us and man’s best friend. But with a little help from artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.unilad.co.uk/technology/kodas-robot-dog-uses-ai-to-sense-human-emotion/",
+      "originalUrl": "https://www.unilad.co.uk/technology/kodas-robot-dog-uses-ai-to-sense-human-emotion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unilad.co.uk/cdn-cgi/image/width=808,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F01%2Frobot_dog_1.jpg",
+          "width": 808,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.unilad.co.uk/technology/kodas-robot-dog-uses-ai-to-sense-human-emotion/amp/",
+      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/kodas-robot-dog-uses-ai-to-sense-human-emotion/amp/",
+      "publishedDateTime": "2021-01-26T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNILAD",
+        "domain": "unilad.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones.md",
+      "title": "Trinamix unveils 3D imaging to stop facial-recognition theft on smartphones",
+      "excerpt": "Trinamix is introducing a 3D imaging solution that helps prevent fraud when someone tries to log into a system using facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/trinamiX-secure-face-authentication-solution-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/amp/",
+      "publishedDateTime": "2021-01-26T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-edgeq-reveals-more-details-behind-its-next-gen-5gai-chip.md",
+      "title": "EdgeQ reveals more details behind its next-gen 5G/AI chip",
+      "excerpt": "G is the current revolution in wireless technology, and every chip company old and new is trying to burrow their way into this ultra-competitive — but extremely lucrative — market. One of the most interesting new players in the space is EdgeQ,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/",
+      "originalUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Vinay-Ravuri_headshot.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/amp/",
+      "publishedDateTime": "2021-01-26T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple.md",
+      "title": "Aeva to supply lidar sensors to self-driving truck firm TuSimple",
+      "excerpt": "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G",
+      "originalUrl": "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-amazon-is-adding-3000-jobs-in-boston-including-in-ai-finance-and-hr-as-it-continues-its-pandemic-hiring-spree.md",
+      "title": "Amazon is adding 3,000 jobs in Boston, including in AI, finance, and HR, as it continues its pandemic hiring spree",
+      "excerpt": "Amazon is adding the new roles at its Boston Tech Hub and a 17-story office building in Seaport it's just leased.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1",
+      "originalUrl": "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/600ff20767a6bc0019d9af6f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1?amp",
+      "publishedDateTime": "2021-01-26T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-this-ai-could-go-from-art-to-steering-a-self-driving-car.md",
+      "title": "This AI Could Go From ‘Art’ to Steering a Self-Driving Car",
+      "excerpt": "DALL-E drew laughs for creating images of a daikon radish in a tutu. But it builds on an important advance in computer vision with serious applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/",
+      "originalUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/600f51cd4774061ec087b7da/master/pass/Business-OpenAI-Spaghetti-Knights.jpg",
+          "width": 2057,
+          "height": 1029,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-go-art-steering-self-driving-car/amp",
+      "publishedDateTime": "2021-01-26T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond.md",
+      "title": "How AI and ML will impact insurers' ROI reserves in 2021 and beyond",
+      "excerpt": "Here's how emerging technologies can allow insurers to conduct proactive analyses to aid in the claims process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.propertycasualty360.com/2021/01/26/how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond/",
+      "originalUrl": "https://www.propertycasualty360.com/2021/01/26/how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/01/Data-Analytics-everything-possible-Shutterstock.jpg",
+          "width": 621,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.propertycasualty360.com/2021/01/26/how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond/?amp=1",
+      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/01/26/how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond/?amp=1",
+      "publishedDateTime": "2021-01-26T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PropertyCasualty360",
+        "domain": "propertycasualty360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-voice-and-speech-recognition-software-market-predicted-to-witness-sustainable-evolution-in-future-microsoft-alphabet-sensory.md",
+      "title": "Voice And Speech Recognition Software Market Predicted to Witness Sustainable Evolution in Future | Microsoft, Alphabet, Sensory",
+      "excerpt": "Global Voice And Speech Recognition Software Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101493281/Voice-And-Speech-Recognition-Software-Market-Predicted-to-Witness-Sustainable-Evolution-in-Future-Microsoft-Alphabet-Sensory",
+      "originalUrl": "https://menafn.com/1101493281/Voice-And-Speech-Recognition-Software-Market-Predicted-to-Witness-Sustainable-Evolution-in-Future-Microsoft-Alphabet-Sensory",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?402257",
+          "width": 437,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-hyundai-launches-humanoid-robot-dal-e-for-customer-service.md",
+      "title": "Hyundai launches humanoid robot ‘DAL-e’ for customer service",
+      "excerpt": "Hyundai Motor Group has launched the humanoid “DAL-e”, which it describes as a “highly advanced customer service robot” that independently communicates with people using precise recognition",
+      "sourceUrl": null,
+      "webUrl": "https://roboticsandautomationnews.com/2021/01/26/hyundai-launches-humanoid-robot-dal-e-for-customer-service/39904/",
+      "originalUrl": "https://roboticsandautomationnews.com/2021/01/26/hyundai-launches-humanoid-robot-dal-e-for-customer-service/39904/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/hyundai-humanoid-1.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution.md",
       "title": "SVI Teams with IDEMIA NSS to Offer World's Most Advanced FMCW 4D LiDAR Biometric Recognition Solution",
       "excerpt": "StereoVision Imaging, Inc. (SVI), the emerging world leader in 2D and 3D/4D LiDAR based facial/object recognition and remote",
@@ -527,688 +1202,6 @@
         "Facebook AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-social-distancing-hyundais-dal-e-robot-helps-showroom-customers-without-wearing-a-mask.md",
-      "title": "Social Distancing? Hyundai's DAL-e Robot Helps Showroom Customers Without Wearing A Mask",
-      "excerpt": "The robots come installed with a state-of-the-art artificial intelligence technology for facial recognition and an automatic communication system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/",
-      "originalUrl": "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/DAL-e-with-SUV.jpg",
-          "width": 1710,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/",
-      "cdnAmpWebUrl": "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/",
-      "publishedDateTime": "2021-01-25T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hotcars",
-        "domain": "hotcars.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis.md",
-      "title": "Computer Vision in Healthcare Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis",
-      "excerpt": "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-facebook-open-sources-multilingual-speech-recognition-deep-learning-model.md",
-      "title": "Facebook Open-Sources Multilingual Speech Recognition Deep-Learning Model",
-      "excerpt": "Facebook AI Research (FAIR) open-sourced Cross-Lingual Speech Recognition (XSLR), a multilingual speech recognition AI model. XSLR is trained on 53 languages and outperforms existing systems when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/01/facebook-multilingual-ai/",
-      "originalUrl": "https://www.infoq.com/news/2021/01/facebook-multilingual-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/01/facebook-multilingual-ai/en/headerimage/facebook-multilingual-ai-header-1610896491386.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-sd-wan-how-to-leverage-next-gen-networks-without-adding-cyber-risk.md",
-      "title": "SD-WAN: How to Leverage Next-Gen Networks Without Adding Cyber Risk",
-      "excerpt": "However, if managed service providers, system integrators and other channel players want to leverage these kinds of benefits, they must pay close attention to the unique security risks SD-WAN also introduces.",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.gartner.com/andrew_white/2021/01/12/our-top-data-and-analytics-predicts-for-2021/",
-      "originalUrl": "https://www.channelpartnersonline.com/blog/sd-wan-how-to-leverage-next-gen-networks-without-adding-cyber-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel Partners",
-        "domain": "channelpartnersonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-ibm-bringing-ai-to-programmatic-ecosystem-with-new-partnerships.md",
-      "title": "IBM Bringing AI to Programmatic Ecosystem with New Partnerships",
-      "excerpt": "The division of IBM leverages the company's Watson intelligence engine on advertising use cases. In this video interview with Beet.TV, Hlavacek explains how AI could make a step-change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/video/view/5f865b3d15b0222ad9f996cb/",
-      "originalUrl": "https://www.aol.com/video/view/5f865b3d15b0222ad9f996cb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-how-ai-can-make-the-world-more-fair-for-gifted-kids.md",
-      "title": "How AI can make the world more fair for ‘gifted’ kids",
-      "excerpt": "A team of researchers from Las Vegas recently developed an AI model capable of judging a human pianist’s skill level. On the surface, it might not sound like the kind of breakthrough research that could change the world overnight.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/vintage-robot-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
-      "publishedDateTime": "2021-01-25T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world.md",
-      "title": "Hyundai DAL-E Is A Robot Salesperson For A Covid World",
-      "excerpt": "Some automakers are offering contactless drop-off services, but Hyundai is going all-in with a robot approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/",
-      "originalUrl": "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f3a54417b9cd2875689f2%2F0x0.jpg",
-          "width": 1200,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/",
-      "publishedDateTime": "2021-01-25T14:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails.md",
-      "title": "Governance: Companies mature in their use of AI know that it needs guardrails",
-      "excerpt": "Quality governance ensures responsible data models and AI execution, as well as helps the data models stay true to the business objectives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
-      "originalUrl": "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/12/8e1d6f91-444f-48f0-9ca3-63f372177fca/resize/1200x/575c039bb49d89ee4e7c9a4c55fc6480/istock-1216236910.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
-      "publishedDateTime": "2021-01-25T13:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms.md",
-      "title": "Researchers propose LEAF, a frontend for developing AI classification algorithms",
-      "excerpt": "Researchers at Google propose LEAF, a frontend that provides superior audio classification results compared with previous techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/",
-      "originalUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-clock.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/amp/",
-      "publishedDateTime": "2021-01-25T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think.md",
-      "title": "Gartner: The future of AI is not as rosy as some might think",
-      "excerpt": "A Gartner report predicts that the second-order consequences of widespread AI will have massive societal impacts, to the point of making us unsure if and when we can trust our own eyes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/15/0bc8e7f5-39d1-49a8-be07-f3db2e40f43b/resize/1200x/68fd21b9b4138bea071e9d1c1e4253f2/istock-1135819437.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "publishedDateTime": "2021-01-25T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-computer-vision-researchers-develop-city-scale-smart-tracking-platform.md",
-      "title": "Computer vision researchers develop city-scale smart tracking platform",
-      "excerpt": "Unlike existing bespoke multi-camera analysis platforms, which are built solely for specific hardware and software, Anveshak allows users to employ custom tracking strategies, computer vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
-      "originalUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/anveshak.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
-      "publishedDateTime": "2021-01-25T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-learning-with-and-about-ai-technology.md",
-      "title": "Learning with — and about — AI technology",
-      "excerpt": "MIT Media Lab Personal Robots group head Cynthia Breazeal joined MIT Education Arcade Director Eric Klopfer for a conversation about AI's role in K-12 education as part of a new webinar series from MIT Open Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/learning-and-about-ai-technology-0125",
-      "originalUrl": "https://news.mit.edu/2021/learning-and-about-ai-technology-0125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202101/child-homework.png",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-model-serving-in-java-with-aws-elastic-beanstalk-made-easy-with-deep-java-library.md",
-      "title": "Model serving in Java with AWS Elastic Beanstalk made easy with Deep Java Library",
-      "excerpt": "Deploying your machine learning (ML) models to run on a REST endpoint has never been easier. Using AWS Elastic Beanstalk and Amazon Elastic Compute Cloud (Amazon EC2) to host your endpoint and Deep Java Library (DJL) to load your deep learning models for inference makes the model deployment process extremely",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-in-java-with-aws-elastic-beanstalk-made-easy-with-deep-java-library/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-in-java-with-aws-elastic-beanstalk-made-easy-with-deep-java-library/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T11:31:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-model-serving-made-easier-with-deep-java-library-and-aws-lambda.md",
-      "title": "Model serving made easier with Deep Java Library and AWS Lambda",
-      "excerpt": "Developing and deploying&nbsp;a deep learning model involves&nbsp;many steps: gathering and cleansing data, designing the model, fine-tuning model parameters, evaluating the results, and going through it again until a desirable result is achieved. Then comes the final step: deploying the model. AWS Lambda&nbsp;is",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/06/1-Graph.jpg",
-          "width": 814,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T10:35:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
-    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-    publishedDateTime: 2021-02-18T19:14:00Z
-    webUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO2C6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO2C6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
   - title: "Rising face of facial recognition technology"
     excerpt: "Rising face of facial recognition technology Chennai: In the 1960s, Star Trek dazzled audiences by showcasing retina scans and facial"
     publishedDateTime: 2021-02-14T08:51:00Z
@@ -130,6 +119,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
+    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
+    publishedDateTime: 2021-02-18T18:34:00Z
+    webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 42
   - title: "Biden Must Halt Face Recognition Technology to Advance Racial Equity"
     excerpt: "Face recognition is a threat to not only our constitutional rights, but to people of color and other marginalized groups who are more likely to be misidentified — and bear the consequences"
     publishedDateTime: 2021-02-17T19:02:00Z
@@ -157,6 +155,20 @@ related:
       - url: "https://www.accessnow.org/cms/assets/uploads/2021/01/tracker.jpg"
         width: 1800
         height: 850
+        isCached: true
+  - title: "Minneapolis becomes latest city to ban use of facial recognition technology"
+    excerpt: "Last week, the Minneapolis City Council passed an ordinance that prohibits the city from buying facial recognition technology or using any data derived from it. Notably, however, the ordinance does include an exception for providing access control and security for employees in workplaces."
+    publishedDateTime: 2021-02-18T21:45:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21210937/minneapolis-becomes-latest-city-to-ban-use-of-facial-recognition-technology"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 37
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/bigstock_Face_Detection_And_Recognition_380721568.602edf5b1bf93.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Civil rights groups ask Biden administration to oppose facial recognition software"
     excerpt: "Civil rights groups are pushing the Biden administration to take a stand against facial recognition technology, saying the rapidly spreading software poses"

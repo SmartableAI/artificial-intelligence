@@ -62,7 +62,7 @@
       "originalUrl": "https://thehill.com/policy/technology/539218-aclu-civil-rights-groups-urge-biden-to-halt-use-of-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -140,6 +140,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-17-viewpoint-regulate-facial-recognition-tool-dont-outlaw-it.md",
+      "title": "Viewpoint: Regulate facial recognition tool, don't outlaw it",
+      "excerpt": "Like any innovation, facial recognition has its risks, but it’s many times better than the alternative. Before cameras often captured crimes in progress, the crucial evidence in many cases came not from video images but from eyewitnesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesunion.com/opinion/article/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
+      "originalUrl": "https://www.timesunion.com/opinion/article/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesunion.com/opinion/amp/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
+      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/opinion/amp/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
+      "publishedDateTime": "2021-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-uae-face-recognition-market-size-to-witness-huge-growth-by-2025.md",
       "title": "UAE Face Recognition Market Size to Witness Huge Growth by 2025",
       "excerpt": "Selbyville, Delaware According to the latest study on 'UAE Face Recognition Market Analysis, 2020', available with Market Study Report LLC, the United Arab Emirates face recognition market is projected to showcase tremendous growth trends through 2025.",
@@ -200,7 +243,7 @@
       "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1387,49 +1430,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-fears-raised-over-facial-recognition-use-at-moscow-protests.md",
-      "title": "Fears raised over facial recognition use at Moscow protests",
-      "excerpt": "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/russia-protests-tech/fears-raised-over-facial-recognition-use-at-moscow-protests-idUSL8N2KA54T",
-      "originalUrl": "https://www.reuters.com/article/russia-protests-tech/fears-raised-over-facial-recognition-use-at-moscow-protests-idUSL8N2KA54T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2KA54T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T",
-      "publishedDateTime": "2021-02-04T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
