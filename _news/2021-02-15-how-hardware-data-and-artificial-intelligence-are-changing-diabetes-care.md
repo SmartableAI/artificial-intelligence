@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Samsung creates RAM with integrated AI processing hardware"
+    excerpt: "Using its HBM2 RAM chips as a basis, Samsung added simple processing units that can speed up machine learning and inference workloads."
+    publishedDateTime: 2021-02-17T17:50:00Z
+    webUrl: "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php"
+    ampWebUrl: "https://m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 59
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/21/02/samsung-memory-with-builtin-ai/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
+        isCached: true
 
 secured: "udoFLnTs2zoQnGyfni4YYQsejPCg0YdcXOTMXgTQtv56pDgxllUp+IfukrVdUAeeGl6h9M6sTDbm8Xoone7csFHvt4ZXVRL6881lasuHD9BlzX1kiGGmNiN+3PZeSvhEvUUwLOtNW38z0Pafvz4zdCsIzfe02udJvHWYUrxGK3drP9pbHae+Nr4NMdZs7GOF4Pecm8EMhaAhw2SxHVTZx98AOlwOc1x8tmf0xhyD0BAaXo9rUXaHE6q1Pwd/xGjEucbVhRBd+dA5apqtE9SGCdl0arjDBmsjvrtfmpQfAflukC9FKozDxD/ExXYOr+VCaAYD0m7pw510hzAQlP6XutQprcmJUTnQXc5gjaZJrz+cOGiJ2AdIXJ032hD7O3ODCRBTKBUl5ID8CTJKIe8Xc/rvx9ZoweaTWCDAVIgq9I6g6jV/d1jzGT+mnaFA2gL9282+8onRyuHc1OG+KdwCsKxHdFN/bu4H1UtgU6td9MiUui+qHgGQ1+swHz2xL9ECf1EzHJA6b1kHHURc1IbHRw==;kLQHLe6j35gFAYsADyOpsA=="
 ---

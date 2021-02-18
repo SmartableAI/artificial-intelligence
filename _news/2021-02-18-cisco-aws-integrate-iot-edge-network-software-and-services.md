@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Cisco, AWS integrate IoT, edge network software and services"
-excerpt: "Cisco continues to expand customer cloud-neutral connectivity options, this time tying Edge Intelligence software with AWS' IoT cloud service."
-publishedDateTime: 2021-02-18T09:10:00Z
-originalUrl: "https://www.reseller.co.nz/article/686361/cisco-aws-integrate-iot-edge-network-software-services/?fpid=1"
-webUrl: "https://www.reseller.co.nz/article/686361/cisco-aws-integrate-iot-edge-network-software-services/?fpid=1"
+excerpt: "Specifically, Cisco’s Edge Intelligence software now works with AWS’s IOT Core service to let customers process data from, communicate with and manage thousands of IoT devices and applications linked via industrial operations networks."
+publishedDateTime: 2021-02-18T14:05:00Z
+originalUrl: "https://www.networkworld.com/article/3607983/cisco-aws-integrate-iot-edge-network-software-and-services.html"
+webUrl: "https://www.networkworld.com/article/3607983/cisco-aws-integrate-iot-edge-network-software-and-services.html"
+ampWebUrl: "https://www.networkworld.com/article/3607983/cisco-aws-integrate-iot-edge-network-software-and-services.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3607983/cisco-aws-integrate-iot-edge-network-software-and-services.amp.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/cisco_21_1_1_1.jpg"
-    width: 740
-    height: 462
+  - url: "https://images.idgesg.net/images/article/2020/11/3_industrial-iot_solar-power-panels_energy_network_internet-100779353-orig-100867400-large.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 800
         isCached: true
 
-secured: "8c37sXHjUUoXzVzHSi0ALCKJuf49NUjF2rWiWnE4x5F1s75rL/ItQ4H1/HpPGhmnupmRlIyi0/eMmZFMHzjv4suVmq7WF/30AiqqULpyw80LRpIee12oP9Wj5hVzBIaFy/0SdLl6AxZfZUWBxUxLDBXpDIwwqUQ9LnC8XWG+FqcNDGfCQn76C7OZ7qMI2W9FMYYTilLxEuDKVPANfJBTVXOwBCN3Xc+5R/8UN2RaxmtU/znc/yVpj5VPGWIoGVbHkTrfuQ/wjJMgxbKYKN0Jh/X3tk0Qh0AVWIBr/yaNiXHshVMq9m5PLQ2kPT3XMTw72KBOd2Gqm2t2LqhrwVDZB1Az3gdHlrn6c2aXQkfDKHlveGV/7dfntKGdPJxBGP5jNqA13inOGj5GkEUPM0dVuGscD5kmQsP04Gyd2vKeskg2Wj0rfcjvqEACBuzU5tZXz2zQmOoPzIb+0Y2HWUAWAuytPAwISupOCYv12iXVW/JufiIEVRxnOcNV0hFBT7FZevueKaKd3Iq96u4GenhX4w==;1k4uySvCcHR080Lu0YqFsg=="
+secured: "gdoi04c7zRgVcgsr6TOqIaYgc3/BkzM/Ypoy7QAmOeSEJjUcCAOKRvcyIP6RU51phguqe8mqwyFp+7Q8+B60u9CsDln9Gf/ba1iieqb8GKCg2HrbqW66sZztJrIAZfJzpN0t2qoAU10vvim4LZomQTk6vpV8ETsZxt8LsiFbbnAcTkBr9sGyva6rs31cQRIpeWhtke1h0RNtX7aFf7GlEhpzwJbh4xml0sw3bMDyVbgRem8fi70BjySqUJMx9axkiqVCttoB19tgL+ALmyUx32Q2p64JX5Z7EbIwm4S5P/NYM0uljAsSYelgeYhOehUK/t9Jk5odUT/Zsd3xUSkDthxIPHs4KduXwwRzVYH/uEs=;Vy9po0ccd5UH13Nb10KrKQ=="
 ---
 

@@ -105,20 +105,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "The Amazing Ways You Can Combine AI, 5G, And Machine Vision To Transform Fish Farming"
-    excerpt: "We certainly have a global food challenge that is exacerbated by environmental concerns. But could new technology such as artificial intelligence, machine vision, and 5G networks help us find a solution?"
-    publishedDateTime: 2021-02-16T07:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/amazing-ways-you-can-combine-ai-5g-machine-vision-transform-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 32
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGcasZaMq4Z-A/article-cover_image-shrink_720_1280/0/1613458786819?e=1619049600&v=beta&t=9Bc7idGnmvWf5YEVKgR1OsrpenyzhRsrBiZMKAsktkw"
-        width: 1280
-        height: 718
-        isCached: true
 
 secured: "7VEPrilCqeZKIMHcPHc28Jy6GGzhcgFmeFmUfR42j6LfDMRAx4BFIOrzm+gbb+mtk/7EH+s6Y/ptGd8Fkja8fsmct9XlozjzDRVIBsxaypa0KZiIZeJBuwTjb1QO8Ukfju/JK9RNlpIfDVLWALTd9k6QydoR1GwSk5Klfo0ZhVbaB5lxubVZ8XrRu7T9WH2HIb9kMRZjFtp5Z+FVnZ5gmwrujXkK1iqmzHHLqX44ePqp5cNNOodugF3A+HOqJKS6DmcomhA4YSdhopZcc+qepDrt29/rFDnKFXypzHqKADagLijotCBSulru9TRsSwO+l7kozUDZIQ3xUINH9uJI9b1xDjAAk+J9vOQdwwsR1fwShcf9SAMZjBuOhNYo9vBiJIdnTdBnVlE+DS+/MwPqosuTr3vsZ6HhbhBOgAGTR4uC5scHwEgipjHk0SudlUzmXhed+8+APGmLnmv9yQoIw8bLs54tQvAQK12gP3wkctjkdpKOUOjgVpxYcShm6rR3WEhgHmUnjT5UZACTF8XuIQ==;BJ1mrIF8EY7u3k54RylTSA=="
 ---

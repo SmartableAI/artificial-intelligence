@@ -41,6 +41,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Prostate Cancer-Detecting Dogs’ Olfactory Capacity Trains Neural Network for Combination Diagnostic Approach"
+    excerpt: "Researchers concluded, \"We've shown it is possible to replicate the dog's performance as sensors and brains, it is now time to put this technology in every smartphone.\""
+    publishedDateTime: 2021-02-18T13:00:00Z
+    webUrl: "https://www.genengnews.com/news/prostate-cancer-detecting-dogs-olfactory-capacity-trains-neural-network-for-combination-diagnostic-approach/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 35
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/02/MDD-Prostate-low-res-7.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "K8N/sVml3xds4d7oc8ol/YtHoefEoUQ9x2g5mxjHTwi8rhDx4RNjzw3Kk9KoiBDkGcScuE8YrWl40+acppEwxkOYMwvM6NLLnKLW7ROveNJPN6n18ZEbBR3bSkR8z1vVToihaizxK086qYvsvFJn56mn8RjhGNpiQEP2qXg0CT2sSAqqeO/4TdDFQBBBLsa7uBfFwDTm413Z3h9tGSHcTm8fE8NpmJeeoPKmVVyDwQlwmXm3H69goiJjXWT2Pw/Rxs6FdMnVbIstJ30TYIryrWoehuDv+faImiNOVQy7HeXhR5Mh7M+X38NUOK0EmlQ81swZyAJtlZo9uMez4e6tq7m1wX12Yjnxy+D+zj5FM8876TJeWJIu5TwuFfu8KKRHRTug5LHjhVHMRQYoJJE5xX+71rMVzJlERgwdYDcPnhM1lsHw0jEodwkJggP5AiXRd/tB1GOehoRNUJiZVu46B/aSrMZF/VI+k60oYX936TgYDIqLSiGAM3sxbf9RZv3Ire0rQKkQ0MJJljF/DJAi2w==;Jl20q4Q+YFpjbLX1N8zc+w=="
 ---

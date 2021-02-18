@@ -1,77 +1,48 @@
 ---
 category: news
 title: "Baidu Tops 4Q Estimates Driven By Strong AI Demand; Shares Gain"
-excerpt: "Baidu reported better-than-expected 4Q results driven by the strong adoption of its artificial intelligence (AI) tools across cloud services, smart"
-publishedDateTime: 2021-02-18T09:34:00Z
-originalUrl: "https://www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/"
-webUrl: "https://www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/"
-ampWebUrl: "https://www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/amp/"
-cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/amp/"
+excerpt: "B aidu reported better-than-expected 4Q results driven by the strong adoption of its artificial intelligence (AI) tools across cloud services, smart transportation, and autonomous driving end markets."
+publishedDateTime: 2021-02-18T09:32:00Z
+originalUrl: "https://www.nasdaq.com/articles/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain-2021-02-18"
+webUrl: "https://www.nasdaq.com/articles/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain-2021-02-18"
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Smarter Analyst
-  domain: smarteranalyst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2021/01/BIDU-1024x615.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
-    width: 1024
-    height: 615
-    isCached: true
-
 related:
-  - title: "Baidu Revenue Beats Estimates as Core Search Business Recovers"
-    excerpt: "Baidu Inc.’s quarterly revenue rose a better-than-expected 5% after the company lured users and advertisers back to its core search business."
-    publishedDateTime: 2021-02-17T21:57:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers"
+  - title: "Baidu’s Stronger-Than-Expected Sales Forecast Validates AI Push"
+    excerpt: "Sales last quarter rose 4.8%, the fastest pace in 2020, fueled by a 52% increase in its non-advertising businesses like AI cloud. Once one of China’s big three technology titans alongside Alibaba Group Holding Ltd."
+    publishedDateTime: 2021-02-18T02:09:00Z
+    webUrl: "https://www.bloombergquint.com/business/baidu-s-revenue-beat-estimates-as-core-search-business-recovers"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 71
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io27gqrjv5qg/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Baidu’s Q4 Results Beat on Earnings, Fall Just Short on Revenues; Shares Rise"
-    excerpt: "Get Report rose after-hours on Wednesday after beating analyst earnings estimates and falling just shy of consensus revenue estimates for the fourth quarter. After the close, Baidu reported adjusted earnings of $3."
-    publishedDateTime: 2021-02-18T03:05:00Z
-    webUrl: "https://www.thestreet.com/investing/baidu-q4-earnings-beat-revenues-fall-just-short"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/baidu-q4-earnings-beat-revenues-fall-just-short"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/baidu-q4-earnings-beat-revenues-fall-just-short"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: BloombergQuint
+      domain: bloombergquint.com
     quality: 56
     images:
-      - url: "https://content.jwplatform.com/thumbs/a2hgn1RP-720.jpg"
-        width: 720
-        height: 406
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Baidu reports better-than-expected Q4 results, driven by AI business"
-    excerpt: "Baidu reported a better-than-expected fourth-quarter (Q4) result on Thursday with its business revenue, ending December 31, hitting 30.3 billion yuan ($4.64 billion), beating Wall Street's expectations for four quarters in a row."
-    publishedDateTime: 2021-02-18T09:35:00Z
-    webUrl: "https://www.globaltimes.cn/page/202102/1215823.shtml"
+  - title: "Artificial Intelligence Software Market Strong Sales Outlook Ahead | Google and Baidu"
+    excerpt: "Market.us, one of the worlds leading by prominent market research firms has released a new recent work on \"Artificial Intelligence Software Market 2022-2031\" based on business int"
+    publishedDateTime: 2021-02-14T03:44:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137679/artificial-intelligence-software-market-strong/"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-02-18/83469d36-61d7-49af-ab3a-43cf51b20fda.jpeg"
-        width: 800
-        height: 480
-        isCached: true
+      name: ARN
+      domain: arnnet.com.au
+    quality: 42
 
-secured: "1rJjpKrNiolsoZbAATox+drxXmV5M/HM1kj2XFCnNQonO3jqX6sAwu5fFV5RN8USqgP7jn9dVbA9dfhJRQHsyTh/i0e024g7+ZvU1Nr1AH14XCrvPIZx4HNslX+dFe8YQNo+f5kQ75tkED19obVE8JXt4UUCFiJqomsjthKl+D50Th+kXNsdsXTOLp8KO+2si1bn9DiiTF6RvAcXyACihjtqE9EAUtXcOUyWpOPgeaceAzgdviAER3nOk3Sweacf3/t5lCmdtp2keyddjOL5gSyhc0QFguIDgKirhP1Oa8deifdxUYmzIodtz4fkLfk82TRpLDiBj47ijmdviTNOWXwqKhH/aXglfyiPVna5r2sjMfVo7md7CB3PB/uOvP6LSqWUo8lJycj68BS3s9qlZ0y5nar+RqcVI8dxpPBN/1TuTJI1W04Yj3ggJXy4AAcFE53jce/i4RKthMdRV9tqRab1yt3JBLyVd49LwaEdkkSdsKKgFjS8jvGEQSHmDqRS+Ym2w3HD/9PZWLva5mOh/A==;7nHRuE+NQV5bLHHTCE0KNA=="
+secured: "IbTOkY1u6QVfyf+ZjIJ6afhOJeEDkI0loVQukQHGBuLk6kNGx9fwouI/56nNbv7bPQYPKpuXUPmYR5UMzaOQ832MhMCgb8QM+YM4dZD1bF/jxGZzFcr2maO3RfUfb5bYRlu9IvLrRIW+DzhGuiQpxJg80ZR/kgCWGUX8AD5OdQkiNGk453pgE6h5duC8CsgrDP0JUXBjwP2wUinuA4hsuOi0+iorFZQs5eR74ZTpe5sZF0LeTyyFUYY08Ae3YgvF8+nN61HxORY5X15u3RD53WVJpnwuXz1hGu/X8BUX9fFaEmNbglvHxa0eFYRjRSCucxiN5LzcEfc0RiqqOIcuH9YBMZFhwqeK/8oojTEN0vA=;BbVve99dhOBsYKGpeAoi8w=="
 ---
 

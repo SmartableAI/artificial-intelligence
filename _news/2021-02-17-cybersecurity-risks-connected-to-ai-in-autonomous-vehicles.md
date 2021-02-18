@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "MetTel Customer Innovation Labs Engages with Raytheon and Cybraics to Prove AI-Behavior Based Cybersecurity Service"
+    excerpt: "MetTel, a communications and digital transformation leader, today announced a joint development program with Cybraics, a unique AI-directed security platform, to validate and refine powerful new AI-enhanced security capabilities for MetTel customers."
+    publishedDateTime: 2021-02-18T14:40:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-communication-technology-8c39e008b3cfafe37dafccc398808f86"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Office of Naval Research Grant Puts University of New Haven at the Forefront of Training Next Generation of Cybersecurity Professionals"
     excerpt: "As part of the Cyber Operative REsearch Scholars (CORES) program, a dozen students are taking part in technical and cutting-edge cybersecurity research, positioning them for cybersecurity government positions and being published in scholarly journals."
     publishedDateTime: 2021-02-16T22:59:00Z

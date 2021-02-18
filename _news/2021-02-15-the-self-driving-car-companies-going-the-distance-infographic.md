@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-drivi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Top 5 Self Driving Car Companies to Watch Out in 2021"
+    excerpt: "A self-driving vehicle or autonomous car is a vehicle that uses a combination of sensors, cameras, radar and artificial intelligence (AI) to navigate between locations without a human driver. Here are the top 5 self driving car companies to watch out in 2021."
+    publishedDateTime: 2021-02-18T14:02:00Z
+    webUrl: "https://www.analyticsinsight.net/top-5-self-driving-car-companies-to-watch-out-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 19
 
 secured: "1Rg8DZGmND/eSw19QqSuYHS7TNbMShfj0oKUQR+RhmrS3a69xtE2td7seenzpUcHud3+fSPF/gLc0qCmEDGrc8q2MOn6uI2Y93C8o1mCJ/RYIR37xL2XKI5hwx1UKRIwa9hbsZxgW/y3talnjUwP4TkiLgY32pj17s16JFXNLH+Y5WQofr3YwYTepwEi0bTA7QP+NYoEr2okAWUiXJF+bolaGRHFXnYnUhMCJYoiV5rGqnpOBwM0o95zgvFuxwPEyPVBfacVaxiZ9HY5j2/88vF/viRn+BYmctBvFfptACIKIJybytm0rYVkoFcwKCrTUXztsnTgRGro6tqdJA6DHtSZxXq1LEVsTJUSoJQKbQQGjdDnXfuYw7nURE6UK64FCGlVW2Sx0KXTWKfBIX+bZmXqf8pmw5PdqrA4yMMCM0oyW8N7S9xf24WHzq9pyJSBcSfVz6gSubOHPW/0/1isyB9MG4HrU6Ix4yEf9i59dg5aENcq56pD0iyVPFyhShBR0Qwd4ljo42nXGO3i/YaqnA==;f1YhKQN5mzWynKi4oqhqLg=="
 ---

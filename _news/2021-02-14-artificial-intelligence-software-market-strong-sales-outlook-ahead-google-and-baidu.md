@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu Tops 4Q Estimates Driven By Strong AI Demand; Shares Gain"
+    excerpt: "B aidu reported better-than-expected 4Q results driven by the strong adoption of its artificial intelligence (AI) tools across cloud services, smart transportation, and autonomous driving end markets."
+    publishedDateTime: 2021-02-18T09:32:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain-2021-02-18"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "9rFBVFFXXEGgbvvwBki2xtxEn9KVbDXhI4Q9DDltN/63qRHtmT/IjFbSSf+kNABtrjiyqJnV+eontYmF0DKcac07ExX3uNjpe1GA1/kOeZypkoWuXl7FmXK1PcRbNfW7uPhHGeJgF2KpuFDzkmdyL4ZfjHLRIIp2moZVgql9V6cXYEMMopkVeBuJMSxzo5la5aIIfdzZIy0zISPaGeSjyBZOOwZnCp2MWic11IVn7EHgA87G3elsDERbUQj9HHyIFMK+7HNBrHmE5i5/KpSlvTV+w622g1yJjeZJzO6H3sz3haTsJEbtM624zWPyjYYzH4p6o9rE9yXVZUDCPx4OPjIgF9edPyvdS73tnCK4P/Q=;+6ZpHxAaS3IZWTMqrCtCHg=="
 ---

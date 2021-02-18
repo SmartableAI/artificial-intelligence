@@ -7,8 +7,8 @@ originalUrl: "https://www.bloombergquint.com/business/baidu-s-revenue-beat-estim
 webUrl: "https://www.bloombergquint.com/business/baidu-s-revenue-beat-estimates-as-core-search-business-recovers"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: BloombergQuint
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Tops 4Q Estimates Driven By Strong AI Demand; Shares Gain"
+    excerpt: "B aidu reported better-than-expected 4Q results driven by the strong adoption of its artificial intelligence (AI) tools across cloud services, smart transportation, and autonomous driving end markets."
+    publishedDateTime: 2021-02-18T09:32:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain-2021-02-18"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Artificial Intelligence Software Market Strong Sales Outlook Ahead | Google and Baidu"
     excerpt: "Market.us, one of the worlds leading by prominent market research firms has released a new recent work on \"Artificial Intelligence Software Market 2022-2031\" based on business int"
     publishedDateTime: 2021-02-14T03:44:00Z

@@ -23,6 +23,19 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Worldwide Application Release Automation Industry to 2026 - North America Will Experience Significant Growth and Drive the Market"
+    excerpt: "The \"Application Release Automation Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has"
+    publishedDateTime: 2021-02-18T12:48:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19724610/worldwide-application-release-automation-industry-to-2026-north-america-will-experience-significan"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19724610"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19724610"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+
 secured: "aBaKpBlYlcrC7NPsj+rdK7CCNpbuZM2s3VD2Yz/6biNVb9JidxxCurBG+b3+keaAZ8K9up/rUdHRXO0k42GqCIyGoliNGB4FF8HtENmp5KeExgymF9MSKWrUZuCEjmeha8Y00snblmby+LQFwo+dzVHhOxGAlSaK+w67fIIfnZF2zMxJzsGJxlowwjOUDv+P2cAqQg+AHTOLPQKRzFT5CwGvclGA9A/pWkqE8XB8WzwBvxBRLC/RH99nreJF2bzjP5JA4D2REBMsxfLZZ4h+lBhFj8LfTqIlmPuyp9jcQSXAS5G7FhupLug/cdQ4xUIo+k05L3szO7XK2GogCgAvfD941ScNCk8DzypAmIc5bdA=;OCZjWdNCqytmRqu/lA1hOQ=="
 ---
 

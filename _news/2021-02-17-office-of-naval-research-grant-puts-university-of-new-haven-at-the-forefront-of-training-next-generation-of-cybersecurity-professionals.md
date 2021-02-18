@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 550
         isCached: true
+  - title: "MetTel Customer Innovation Labs Engages with Raytheon and Cybraics to Prove AI-Behavior Based Cybersecurity Service"
+    excerpt: "MetTel, a communications and digital transformation leader, today announced a joint development program with Cybraics, a unique AI-directed security platform, to validate and refine powerful new AI-enhanced security capabilities for MetTel customers."
+    publishedDateTime: 2021-02-18T14:40:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-communication-technology-8c39e008b3cfafe37dafccc398808f86"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "qUHg+tpFm8Mx3X7uUELWwwY1Nv5FPmx6l6coppRdUNXanJ2udH5AjTa17X4E/v4ykXZhKu9Y7DR6NmYdLWXLDDnLkNrbdnFfdO7G0Ctt1x4L44dypwnSlKpnKGgcz4JaxAz5dqTeSnrZgA60x++8yBqLKImRrwjSI95OgGlh/+SR21i1fljebvOCFqBqIWArFHTJ+tNcajnFK+YDMtA1kP97gb4gSgrrewoIpg0huk3QJdd2MflBZFVWKB/90SoBnP4fP7dAfSHwmCTBCSGdNA6b0WAC4GJ11ApGgyKkGaOddqMZ+65+C+OPIqZhN4OrNGDy210I3XrCTiot5vi6dnabdr0AA6u1t2AEctIoYH0tM/BKkbuBZ/eFvrF7VxGEmrKw6DbL6h5YwYbrmUgI77dzFrEvsjGJjdn5HfWG5M05oNhXsQpTZzgnS8rXqsPO4N0AnlMagasy14UmUOzwUYnjrgbYXr1q9zQ4S4Pe0p26cCr0mzzIahqkTqq6OJnw2yOXaIYSUCDSXTsku0rrfg==;dOdlGLVl6Dfg6J+BRwZ+og=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/16/ST_20210216_LWAI_6328626.jpg?itok=QRxL3typ"
         width: 763
         height: 509
-        isCached: true
-  - title: "The Amazing Ways You Can Combine AI, 5G, And Machine Vision To Transform Fish Farming"
-    excerpt: "We certainly have a global food challenge that is exacerbated by environmental concerns. But could new technology such as artificial intelligence, machine vision, and 5G networks help us find a solution?"
-    publishedDateTime: 2021-02-16T07:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/amazing-ways-you-can-combine-ai-5g-machine-vision-transform-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 32
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGcasZaMq4Z-A/article-cover_image-shrink_720_1280/0/1613458786819?e=1619049600&v=beta&t=9Bc7idGnmvWf5YEVKgR1OsrpenyzhRsrBiZMKAsktkw"
-        width: 1280
-        height: 718
         isCached: true
 
 secured: "/WhebRlOt7huScFEbChtNWblcbhLa/hn8SX0jm03z3x0y72FpfZ+MMTiwhnRsHmVr0bvRElQX5ubn15XQKWu77/PSIF+g25PRNu/pUFSKxu3cTWauu1ZsDpfhq66a2d8UP1aTtv0mU00soFm+8AW+CEcrgX/qkju8mh81gf0hnlsX+6g0BWUxTFDxQTLfVUB57y+nGMeynTdQVVTmAVKezym71seYsHOdRR0CUICQ55p3gTHqhFeIXExPC3s6zCAAv1adjlLoSbPcJSaCzjYUOYaHRWgsZoAotsuDhmlByicNc+4dVAs9ihf27JIzoenNAwBzcSvyp38nfirniYPGyC/kognsc+3D0rtpyTnPETDNNZv8z+o1vZU4dFByqvOnL8qrJJ6Px7CFeyiJFXSn+9vBVSi5tN1MgNuqVZoKd/ux715da3wBMOfVhbALJpqJWYCEpcf2QZByyFc6X1kZTIXtuKo8EvixSwpFlDvadhkquYkpRzOmfur63P2p/oCuSwAbz/tpRGzL08hg0mRFA==;3nJpnKes+sNtpfE7DILIIg=="

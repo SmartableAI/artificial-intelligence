@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Baidu Tops 4Q Estimates Driven By Strong AI Demand; Shares Gain"
-    excerpt: "Baidu reported better-than-expected 4Q results driven by the strong adoption of its artificial intelligence (AI) tools across cloud services, smart"
-    publishedDateTime: 2021-02-18T09:34:00Z
-    webUrl: "https://www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/"
-    ampWebUrl: "https://www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/amp/"
-    type: article
-    provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 59
-    images:
-      - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2021/01/BIDU-1024x615.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
-        width: 1024
-        height: 615
-        isCached: true
   - title: "Baidu’s Q4 Results Beat on Earnings, Fall Just Short on Revenues; Shares Rise"
     excerpt: "Get Report rose after-hours on Wednesday after beating analyst earnings estimates and falling just shy of consensus revenue estimates for the fourth quarter. After the close, Baidu reported adjusted earnings of $3."
     publishedDateTime: 2021-02-18T03:05:00Z

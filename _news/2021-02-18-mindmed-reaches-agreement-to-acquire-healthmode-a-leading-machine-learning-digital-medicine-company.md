@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
-secured: "tpDHPFw/Mw8NuJqu7RTJQi4LPaeZY4L6RQIfjWJsxe3JB+hHQyTea9aN/JKHo/pFsSPPSREbKVZvs9Mei6Et4tB4wkCyXXzeUKLfaWUJa0/7uYdEbYbvqXYYS4MZMXvh3i85em5sTHLeJ8xK/FmnvDzk2GFWr4PhwwhLS1jEIsXqlqsv5K7OFBRASIFjoW9eqBp8cEohx0k3Crl/zlRDw35GBAEoicixaDIUJp1nWVV/1b1AJVc/l6qxAw8WLnBKenXGyhKoiyvj/hA2ZjuyQIB9ScNsG1RtazzmQHwjGf1SMzMsgiF8c/l8SYxrMQeZNaTVppKI/X17WmVCAcNoJR1qjtqRBTFJlC285N0SzAA=;1RUMLh5mhfflTLcyO1Oe5g=="
+related:
+  - title: "Breaking News: MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company"
+    excerpt: "MindMed (OTCQB: MMEDF) (NEO: MMED) (DE: MMQ), a leading psychedelic medicine biotech company, announced that it will acquire HealthMode, a digital medicine and therapeutics startup that uses Artificial Intelligence (AI)-enabled digital measurement to increase the precision and speed of clinical research and patient monitoring."
+    publishedDateTime: 2021-02-18T14:17:00Z
+    webUrl: "https://www.financialbuzz.com/breaking-news-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
+
+secured: "QMvRh3ajnaVaPqUREQz7BciHebselMOO19CwLYmxAkmPeBrfW5tmfjEI+d5DGzVoLU5JejHWQs+AeMCxr20jB/v86vjUgwpe7tlY9ESYRM+tCtqysocGToZPNhclVyuU6PriVqJRYfBg+NCxoFr7S8ughZWIhYCOO4O50abm+0mRYPFjd+E+4I8t+1RQMoUQjQvgjguCF7DzFT6T64CLyOKo8vMLA0xA/ou5WdPJrFkX7cbBQXO/2WUoZLTXzynhOIgUy1grQcq1s+wolBalm9YUn76rDsiM75zw9yn76dsrPHNfDFQ6K/cryrdSvc5nqbgljkkXJekLAYwFkFf43KF/kZgnVK2JPwLz5DZ8AK4=;3eAeibPAvgQr6UJOXUw1Yg=="
 ---
 
