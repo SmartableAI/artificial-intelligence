@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Hops Aboard the Electric-Vehicle Express"
+    excerpt: "Baidu’s announcement that it will venture into EVs has supercharged its shares, and though it brings some advantages, its conversion from value to presumptive growth stock has been remarkably fast."
+    publishedDateTime: 2021-02-18T10:52:00Z
+    webUrl: "https://www.wsj.com/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735"
+    ampWebUrl: "https://www.wsj.com/amp/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-300769/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Baidu’s Back With an $80 Billion Rally and Electric Car Ambition"
     excerpt: "Baidu Inc. has largely been viewed as an online marketing company selling ads within its web search results. Now, the internet company is ready to make the case that it has more to offer.Shares of China’s largest search engine firm have surged nearly threefold since their mid-March lows,"
     publishedDateTime: 2021-02-17T07:55:00Z

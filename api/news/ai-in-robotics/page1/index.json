@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-18-top-five-latest-industrial-robotics-trends-explained.md",
+      "title": "Top five latest industrial robotics trends explained",
+      "excerpt": "Annual installations of industrial robots have more than tripled in 10 years, reaching 381 thousand units in factories around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/",
+      "originalUrl": "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pesmedia.com/wp-content/uploads/2021/02/KUKA-smart-production-18022021.jpg",
+          "width": 1920,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pesmedia",
+        "domain": "pesmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform.md",
       "title": "Locus Robotics raises $150 million to scale its warehouse robotics platform",
       "excerpt": "Locus Robotics, a startup developing warehouse automation technologies, has raised $150 million at a $1 billion post-money valuation.",
@@ -54,49 +97,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-17-top-5-robot-trends-2021-international-federation-of-robotics.md",
-      "title": "Top 5 Robot Trends 2021 – International Federation of Robotics",
-      "excerpt": "The International Federation of Robotics shows top 5 trends shaping industries around the globe. “The mission to combine traditional production with ´go digital strategies´ puts robots in a pole position,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-robotics-computing-and-information-technology-industrial-technology-2337d95e00c24f3f9852a7b1caea535c",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-robotics-computing-and-information-technology-industrial-technology-2337d95e00c24f3f9852a7b1caea535c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-17-daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks.md",
       "title": "Daimler's Torc Robotics picks Amazon as cloud provider for self-driving trucks",
       "excerpt": "Daimler AG unit Torc Robotics said on Wednesday it has selected Amazon's cloud computing division to handle huge amounts of data in real time as it prepares to test self-driving test trucks in New Mexico and Virginia.",
@@ -105,7 +105,7 @@
       "originalUrl": "https://www.reuters.com/article/us-autos-torc-amazon-com-idUSKBN2AH0SY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -245,7 +245,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {

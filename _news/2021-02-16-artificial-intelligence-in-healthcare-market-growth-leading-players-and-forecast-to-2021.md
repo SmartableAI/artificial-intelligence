@@ -152,6 +152,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Sales Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The global sales intelligence market size was valued at USD 2 29 billion in 2019 and is expected to grow at a CAGR of 10 5 from 2020 to 2027 Artificial intelligence AI has had a potential impact on the"
+    publishedDateTime: 2021-02-18T12:12:00Z
+    webUrl: "https://www.openpr.com/news/2244788/sales-intelligence-market-global-industry-analysis-size"
+    ampWebUrl: "https://www.openpr.com/amp/2244788/sales-intelligence-market-global-industry-analysis-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2244788/sales-intelligence-market-global-industry-analysis-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
 
 secured: "2FqvxEzcOnO/b7aH4DVGQLArVnoOJYfBZhynf/3VoOWDGFn+/pk3UO/e5uyQpY33EKgqpEu1+9le4y/RduUOfVWGz8omwYCglr1oc4EQdIBUfTqQ+rg1IBZzFwBHfMufCc6d8fcqc3rQVqMqT/7+RzfLMI7L7EUZhcYgDpD0IgHOhys9/kxnvI5gByTR1nsQl6dtHqYkq56D8Q2t8r3ciGIGHsSNhdid0puIpZ7CIF7OLjX5fN/jP7e+QBuluznVl9Goni2XwMIfUOsbc4hQ4m/XfOcFmOrPTR6r7lUngjF7TuvsCHDNHMPnwrSjT9ZCImRmyuqq4UIBIWBpYBUqef3BtkamiN4FpCnxR+XsRiM=;Vqf+S10grOnxmUXgAPT6Pw=="
 ---

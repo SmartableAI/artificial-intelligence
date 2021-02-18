@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202102/edge-ai-partnerships-boost-
 webUrl: "https://www.biometricupdate.com/202102/edge-ai-partnerships-boost-face-biometrics-in-retail-and-smart-city-solutions"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Voice Will Lead Biometrics In Hearables"
+    excerpt: "In the rapidly growing Hearables market, however, the powerful integration of biometric sensors, and the multiple biomarkers that can be tracked via the ear for health and wellness, are taking a back seat to other market-driving feature sets."
+    publishedDateTime: 2021-02-18T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/"
+    ampWebUrl: "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602e18bb17e2d67a6c7a7a37%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Patent filings suggest dual biometrics from Apple, mask-agnostic facial recognition from GBT"
     excerpt: "Apple and startup GBT Technologies have each filed for patents on biometric capabilities for mobile devices. The U.S. Patent & Trademark Office (USPTO) has published a continuation of Apple’s first patent describing both Touch ID fingerprint and Face ID biometrics,"
     publishedDateTime: 2021-02-17T21:48:00Z

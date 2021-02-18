@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Voice Will Lead Biometrics In Hearables"
+    excerpt: "In the rapidly growing Hearables market, however, the powerful integration of biometric sensors, and the multiple biomarkers that can be tracked via the ear for health and wellness, are taking a back seat to other market-driving feature sets."
+    publishedDateTime: 2021-02-18T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/"
+    ampWebUrl: "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602e18bb17e2d67a6c7a7a37%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Edge AI partnerships boost face biometrics in retail and smart city solutions"
     excerpt: "Vsblty Group and Ability partner to produce edge AI cameras and CyberLink brings edge AI face biometrics to Nx Meta clients."
     publishedDateTime: 2021-02-16T20:20:00Z

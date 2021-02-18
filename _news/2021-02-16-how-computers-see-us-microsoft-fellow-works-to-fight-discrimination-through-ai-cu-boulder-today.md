@@ -44,6 +44,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Microsoft Azure Get Asynchronous Document Translation Tool"
+    excerpt: "Document Translation in Azure Translator can translate batches of documents while maintaining the original layout and format."
+    publishedDateTime: 2021-02-18T12:02:00Z
+    webUrl: "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 74
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/Document-Translation-Azure-Translator-Microsoft.jpg"
+        width: 1162
+        height: 612
+        isCached: true
   - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
     excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
     publishedDateTime: 2021-02-16T05:08:00Z
@@ -103,22 +119,6 @@ related:
       - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1SilverGlobeCloud.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Volkswagen Group And Microsoft Speed Automated Driving Development With Cloud Computing"
-    excerpt: "The quest for automated vehicles continues In fact, with the deluge of new vehicles in the market, there has been glimpse of automation in one way or another. At Volkswagen Group, automated driving remains one of its goals and the German auto group has partnered with Microsoft to accelerate the development of automated functions into its vehicle offerings."
-    publishedDateTime: 2021-02-13T20:15:00Z
-    webUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/"
-    ampWebUrl: "https://www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
-    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/volkswagen-group-and-microsoft-speed-automated-driving-development-with-cloud-computing/amp/"
-    type: article
-    provider:
-      name: hotcars
-      domain: hotcars.com
-    quality: 51
-    images:
-      - url: "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2021/02/VW-ID.concept.jpg"
-        width: 1710
-        height: 900
         isCached: true
 
 secured: "67NftvMzdRPyFUwV+a48o0XnkVQtyvrOHQbTUQZqraagt6uANOm0BQyAr5IaY4yCXZoP4E/HiXvjMpo5dgVA0/hO1iRiMc1VJrDfeWbeVehPbZWRgttHbTXVRyj3kwxX7PZ45iyhTBFgpHzJfTTzp8+J2e0HGfLy5d/0exR5Ahk6dUU2RGWQaKis7W0sFMIQ/zi5Y7+BdfIboQOZapXnSh2B0y8gtLb/zRs5LxzXrco1Fkw4bZXzTcXUcKU4zN97ZfvmB2YxSaSLZ5Zz48XlaMFmVD2ccusiyXxylF6SFiBnjXuo4lyJCYWfhwefgESJN3aKX7cHcT+VBxeu/YUTw7ooWRE+VboXJ78MXHKLOT3VDiL1IjtuQEtHu3nSs8J+hekNKCfqcw8ctQ+NWJSVf4G+aQOjgxpTouIqtyIOUa+4TRKFp0rWMWOBwjARVwO3J2cznzEz8MP1vDHAcaN1LLyeyusPkthEyiVn/dQlIp5Y6kjiZ5AB+l/JcbTsqI6oaC81UkEzG3camEaiqdRggw==;MVKFd1DuLWCe/zDdoKOEsg=="

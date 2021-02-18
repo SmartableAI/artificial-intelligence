@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-robotics
 webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-computing-and-information-technology-industrial-technology-2337d95e00c24f3f9852a7b1caea535c"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tailent accelerates international expansion and exports its intelligent software robots in Central and..."
-    excerpt: "Intelligent software robots developed by Romanian technology startup Tailent reach Central & South America. The Robotic Process Automation (RPA)"
-    publishedDateTime: 2021-02-15T11:46:00Z
-    webUrl: "https://business-review.eu/tech/tailent-accelerates-international-expansion-and-exports-its-intelligent-software-robots-in-central-and-south-america-through-a-partnership-with-serviceaide-217274"
+  - title: "Top five latest industrial robotics trends explained"
+    excerpt: "Annual installations of industrial robots have more than tripled in 10 years, reaching 381 thousand units in factories around the world."
+    publishedDateTime: 2021-02-18T11:05:00Z
+    webUrl: "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/"
     type: article
     provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 37
+      name: pesmedia
+      domain: pesmedia.com
+    quality: 69
     images:
-      - url: "https://business-review.eu/wp-content/uploads/2021/02/tailent2.jpg"
-        width: 1100
-        height: 628
+      - url: "https://www.pesmedia.com/wp-content/uploads/2021/02/KUKA-smart-production-18022021.jpg"
+        width: 1920
+        height: 960
         isCached: true
   - title: "Top 5 Robot Trends 2021 International Federation of Robotics"
     excerpt: "The International Federation of Robotics shows top 5 trends shaping industries around the globe. “The mission to combine traditional production with ´go digital strategies´ puts robots in a pole position,"

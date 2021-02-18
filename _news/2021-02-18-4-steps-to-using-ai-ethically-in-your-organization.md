@@ -44,6 +44,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Using AI to bridge the language gap"
+    excerpt: "International Mother Language Day, celebrated annually on 21 February, aims to promote awareness around linguistic and cultural diversity, promoting the preservation and protection of all languages. Through Natural Language Processing (NLP),"
+    publishedDateTime: 2021-02-18T12:26:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/using-ai-to-bridge-the-language-gap-2021-02-18"
+    ampWebUrl: "https://m.engineeringnews.co.za/article.php?a_id=577017&rep_id=5581"
+    cdnAmpWebUrl: "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=577017&rep_id=5581"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 59
+    images:
+      - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
+        width: 1022
+        height: 575
+        isCached: true
 
 secured: "YAN2Ns7Y2nb9yCCLutgOKZfhLtkPrJesmWQPmZlItsEWqwRgOIdw5/Xm3dM6PAKKtrYp3GSY/rBluztdjO1wzESg46XkVaE1uqxxITIOEou2fSMmksbb7uv3FKQwNnVHLgyh8kR238sKDajbjucTD4Cz4xtbgHycuOU34cafCzha1myOp/sFBh4fF4ZL+gg43q05vObTdUOPvu4zeI1FigWlL3UJg9aVFCU+JPaOrQZ+A5DDrQ18PxroGxQpk8ow6Tt1MYWy8AewTAn/PDegcVfdzVm36ROLw3UXe6mNxGT90Bl530bkErnukixtVNG/ufPhNjIxD6RkAn/5ZZIOH0KhrQBkG9FarM3lOkY/QK2BM0ugoWrPK8w1FH6Xcdy9YCKxJOoz8tddKQjRtLLnTDaY8aqitPaC5iCQsj5BhpILACbByhBbtzF4vbH1FqdCoDnxTQWwyqhsUk5ykSzlzaQTiCdSEB2K5979msdFG579Dpnvno8ypXWGMnKnsFD84jfbXZwW22Fw41H9dknPVA==;uiX2ibwsZncD7UcGsB9ZJA=="
 ---

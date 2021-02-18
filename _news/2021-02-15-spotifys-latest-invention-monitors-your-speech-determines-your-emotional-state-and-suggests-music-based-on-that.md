@@ -26,6 +26,22 @@ images:
     height: 667
     isCached: true
 
+related:
+  - title: "A&R startup Andrson offers a new spin on Spotify Wrapped"
+    excerpt: "Spotify’s annual year-end Wrapped campaign packages up people’s listening in best-of playlists, but now it’s being given a remix by AI-powered A&R startup Andrson. It has launched something called ReWrapped,"
+    publishedDateTime: 2021-02-18T11:48:00Z
+    webUrl: "https://musically.com/2021/02/18/ar-startup-andrson-offers-a-new-spin-on-spotify-wrapped/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 22
+    images:
+      - url: "https://musically.com/wp-content/uploads/2021/02/andrson.png"
+        width: 942
+        height: 517
+        isCached: true
+
 secured: "HVjJc080vTRIiM1tOiGIIi/j4ZYKy0KRULkdzRacZbPPFY1KZV7GB/h9eB6/gqUSmAFTJFxwCyzJ7qtM+ZOjSgRUCAZSAR5ndpG9Ay/MV8No1503h7ncN4CElGD0pIqCH7ACtDUQgM52Y7TxzqEb6TBMamdJ1p8yIdOfPrVWar2YlBzVjwj+ZMtFezjKocaAGlR8fy8XfKiqMYwB8Cm3sRHfysJ/s3DA9e7BCjNpR5XwUq46nDyMHtKS/62I3tw4lOxvI2KoaAnDmMd7loK0jkuQpf01RYrMEZrLxRqs+wBIYDWK5kqa+NNQ0XFIEj55rJ6G/GCSHDEhi4ooMpK/QG75q8WmVzDAJ+uXcemK6X4+MH88DrAbenTEd9rujg6HfLXKB73cTelPdU1EV55P8m9xi/oFQUyGgEPHbaMN292BHQQMLhEqPPwMIaoP8WWGehA/UlhvuxTQsSh40Eh/tyHhE6J19bn8nmiNUG+fa3tARQ4rQk0Se2vRM2hQY8lkgqzN/3kozjcNlZr4Du8FAQ==;AaVG+mId/3dZ25XDqZblcA=="
 ---
 

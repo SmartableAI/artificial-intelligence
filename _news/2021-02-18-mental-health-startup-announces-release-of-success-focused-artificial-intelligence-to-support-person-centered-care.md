@@ -39,6 +39,20 @@ related:
         width: 272
         height: 270
         isCached: true
+  - title: "COVID-19 has made Americans lonelier than ever – here’s how artificial intelligence can help"
+    excerpt: "How does that make you feel?” In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing back to you?"
+    publishedDateTime: 2021-02-18T12:49:00Z
+    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/02/18/prc-the-conversation-covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help/"
+    type: article
+    provider:
+      name: St. George News
+      domain: stgeorgeutah.com
+    quality: 26
+    images:
+      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/02/alex-ivashenko-RLdcScGQEJ4-unsplash-STGnews-1290x726.jpg"
+        width: 1290
+        height: 726
+        isCached: true
 
 secured: "FqBQm5jq1S6j8msTqlKU5gftjs6F9QpftAKDahYKz0KiX99cbh/IiKURYKP/CeyAndY0tWqtuWf6aG44GlE7ur1XA/MCSBSnA8F/5qCA38rvmeepCBCDDJZWVHfcJ1OkU+XeUPa1xOmWxtE9lNBfnbhs9JZN++zuXxw5qNnvtvQxbG/TV6UVFQ2Vbscg2d4ph71u6A0Pq9LOwl75LTWJsEvHBZw2oClpdK5vvTztZQRZoDzNmx4G+ueHHganz2sAW+gnwgAzYu1j4XS9yrjw/2lVqgv5U3+iaD2imWsD2Xt+ZPUNIlG5SY1thz/v72TPmSmWwD0sn+uCe+sgJzz4Z7FV01tJLb7c3uPz55GtTjI=;zA4m/5HYCSwkmJDOdrK43w=="
 ---
