@@ -3,8 +3,8 @@ category: news
 title: "Breakingviews - Capital Calls: Baidu hits its AI stride"
 excerpt: "China’s search engine operator Baidu is finally getting somewhere with its artificial intelligence bets. Sales in the quarter ending in December rose 5% year-on-year to $4.6 billion. That was powered by a 52% surge in cloud computing and other non-advertising revenue,"
 publishedDateTime: 2021-02-18T04:00:00Z
-originalUrl: "https://www.reuters.com/article/us-global-finance-breakingviews/breakingviews-capital-calls-baidu-hits-its-ai-stride-idUSKBN2AI0B8"
-webUrl: "https://www.reuters.com/article/us-global-finance-breakingviews/breakingviews-capital-calls-baidu-hits-its-ai-stride-idUSKBN2AI0B8"
+originalUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8"
+webUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI0B8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI0B8"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "LAXtkzW8HvHsoSU5o0NGAndBXj1RAzfV32JWZR38Ds+Mguc2LZeW8Y3Lw4ya4o296HI/R6pW0HJJGK2O5GFUuhJaQ1URtT2u8YjYWPVzQdAbvr8U9CiCUsr5mWATDjy/KFoPB4c/7HuahdRZZD1g04NXf/pwjrVyYav89+Efn9jAZsux9WLnbYKTHzpKm4Js6JG1l9lapoyNuHB2xQ0mpE1rMX3fc6IuJxYD8qltTQTpwimD/KPV3aDcbquoD8ov0nfHXnUMBH2AA7gkdQOXPxOC7Ytr7Wuie3ooA3/6FwHs9Ph28NcPXc7ILC4wPeAFtRiKt/O1vUnOq9QEsmHbNoru4+iFbRtqSKjvZ5r/Vhg=;oaGx/lcGamsFpgeUHgTFnQ=="
+secured: "iWcPq/YfBHNPhtm8vxcic02OjiGYEE7WIHv33a1TO/KieNjZICLZKR2vEzrOcOr05ESZXIK3XruLFVzYjQn+7hfvYSaFiY98TlbyyiovqenJB1IgHjxywmr7wqhRAhZ+5gCkTtQd6yEuBWnwcvFJfSAK7eKby6h8BR8BtcWr7Tg9xQBnmfrVINhF6069XdWW0i5/ZYF+D7jFAlkd3q8TlNXrsf5aKoCI+o+SQiWe7p4CSX0p+ZWnM4o2SPJTBopUdKfdb1d81MM9EwxPiesiGfh1g8bmyLAnUTR8UlnNF9kIKaBLUm71PkzPVwuDtESPjTkX6ycRA1+BrLnpdgr9nXZRvEMV9BxEwvFJl8OMR0A=;enZYfmTNbkXa7hWQNSWcPw=="
 ---
 

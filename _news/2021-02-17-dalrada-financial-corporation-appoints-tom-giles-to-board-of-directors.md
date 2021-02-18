@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Dalrada Financial Corporation Appoints Tom Giles to Board of Directors"
-excerpt: "Dalrada Financial Corp. (OTCQB: DFCO, \"Dalrada\") is pleased to announce to its shareholders and the public that Mr. Tom Giles was appointed to Dalrada's Board of Directors. Mr. Giles' executive management leadership includes technology and healthcare industries with a focus on artificial intelligence (AI) and machine learning (ML) to reduce time and expense to market."
-publishedDateTime: 2021-02-17T13:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/dalrada-financial-corporation-appoints-tom-giles-to-board-of-directors-1030091930"
-webUrl: "https://markets.businessinsider.com/news/stocks/dalrada-financial-corporation-appoints-tom-giles-to-board-of-directors-1030091930"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/dalrada-financial-corporation-appoints-tom-giles-to-board-of-directors-1030091930"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dalrada-financial-corporation-appoints-tom-giles-to-board-of-directors-1030091930"
+excerpt: "Dalrada Financial Corp. (OTCQB: DFCO, “Dalrada”) is pleased to announce to its shareholders and the public that Mr. Tom Giles was appointed to Dalrada’s Board of Directors. Mr. Giles’ executive management leadership includes technology and healthcare industries with a focus on artificial intelligence (AI) and machine learning (ML) to reduce time and expense to market."
+publishedDateTime: 2021-02-17T13:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-medical-technology-9ffac8f44d5648f224ef6c9070ec5fe1"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-medical-technology-9ffac8f44d5648f224ef6c9070ec5fe1"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Yy+Oty4ccO1ztnCSyRCC5+pPqxlAuVesm7Bpr8aP9s6bGtT6hoAMcddG42pn+crIwcMApkNCo8g3DH9c3S7heKwnbXsttXZ09uP2Ka5ezwXH1W5hwG5GaNqRq/gweF7oi/53kBD+i1buulAtNeQRzt2RRXhrQCt6Q4d0kl9Z99kFYx0MT3agAM+sohOqLGg+b1k8h/JaBKoFuAtEB08EAcCU7Zq/G1KflZJ1O/B4sQ9FNyWbzJ+Gk+RcbQdLIIWnxxhfUuvUH4TwhMWxATFJ4D2M3ffmgXL6y+Xd/dW9wrw6UMaetB41JiTmwU5ghLSPM3ysu58h8VVEOw4ZoV2D4x20hM8P89JhGQDpY1y03qI=;SDbdr5LvBotKgjzixa/70g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "PwsfxpB3SvvFQ48KnJrrLWKTj7qqe5mvpv+cv/zeWN5KcTaqqO8NCp+HXjsJC6/Tb0Ye80nDhLup/I6+tXCxgwiKUDa71xAblGyk38kh1We4Zgz3OqQ9478wN6hJCVU8rboODozwoL+Y9ZYUCo+aaWUE9azxuRSCkCEA/tNs259YdxgE8qru8RbRwJIZwLbvBXjxOy42Oyv/XU5tcYJ/EnOCXdV7lCuuriJLin6x2MvcUh72CNli9EvpN+RZNHobuzSHpUf0VNW0lczVqnw5cXZkYGgyNwbAg6JK6O/7rSjjKYArESehZzP24xTJ2SYZvDor6ra8umB7WNH9vdxjitCR+I8Skttxj8uCEC9fuHw=;25gC7a0LR9VH5Q82S+5s/w=="
 ---
 

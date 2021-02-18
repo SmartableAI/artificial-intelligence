@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "AI-based Asset & Plant Monitoring Startup UptimeAI raises seed funding of $1.5M"
+    excerpt: "UptimeAI, a company specializing in AI-based predictive maintenance software for heavy industries, announced that it is raising a total of $1.5M SEED funding from YourNest Venture Capital and other angel investors."
+    publishedDateTime: 2021-02-18T06:52:00Z
+    webUrl: "https://www.lelezard.com/en/news-19656274.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 33
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "fkDYzFxfBOR10WBrse3mw78KhnQs55WAI2s4W/H4RmdOKVUlQPfmO+sZ+jZ21O+38Uw4e2fmQ8J37wsOFRay1848hvWdlF3nBQqXuaBTj9YUM7UcAr0rGW3dFPNDYIr90gClVpkOYs1yWkx4DTfxlRTFYcNim715cZRXGR0aV66bjTQzsbCs7GtJ4FWe0UjiwlmwXb2srI/23UMHartnVH2OZUR8/40oSqVj2keNDr//mo6PvyVaMbpO0WNYTMwoqNVFE33IgdNvAV3YlSzsTkBaoMr/iJbPQQ9+g6UsOEiLIU9Mdabmpi3J6yqWiKcKVnw0flrcMSVN3IqU0EYIFaHnrUOGF79T4E4wlK7E0Eg=;S9SaPHcgjcz6gSNO/p5OqA=="
 ---
 

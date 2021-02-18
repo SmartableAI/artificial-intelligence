@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-19-tensorflow-24-release-includes-cuda-11-support-and-api-updates.md",
+      "title": "TensorFlow 2.4 Release Includes CUDA 11 Support and API Updates",
+      "excerpt": "The TensorFlow project announced the release of version 2.4.0 of the deep-learning framework, featuring support for CUDA 11 and NVIDIA's Ampere GPU architecture, as well as new strategies and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/01/tensorflow-cuda-11/",
+      "originalUrl": "https://www.infoq.com/news/2021/01/tensorflow-cuda-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/01/tensorflow-cuda-11/en/headerimage/tensorflow-cuda-11-header-1609607186883.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules.md",
       "title": "DeepMind's New AI Can Destroy You In Games Without Knowing The Rules",
       "excerpt": "Following their massive success in uncovering predicting protein folding in 2020, Google’s DeepMind has now released another AI that is less about solving complex biological problems, and more about dominating it’s opponents in strategy games ...",
