@@ -21,6 +21,22 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "Caption Health Announces JAMA Cardiology Publication Showing Effectiveness of AI-Guided Ultrasound Software"
+    excerpt: "Caption Health, a leading medical artificial intelligence (AI) company providing AI guidance and interpretation for ultrasound, today announced the publication of the study that was the basis for the February 2020 authorization of Caption Guidance™ through the FDA’s De Novo pathway."
+    publishedDateTime: 2021-02-18T16:33:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-artificial-intelligence-diagnostic-imaging-fd0dc42ef8f19e33dbc46aa395d16249"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "tA/hnSIGSKTkXcdFzrQksMQPgPdkiM9HxaDLbREitrF1lo4jrH8EprFIF3FZ8f6N19HEu4kOWHWUOQ8YeqdWYXzZwuTt3HPAReu0zkAYnw/9bVhJVTyB3/f9kbYDG4HNIZ1/x9B84f3dzh2J0/gCYbMGJxUxkD99OzqXnpzvEcpxnrAYgZvzRd1qAqXUpsbHbF5qmYv5YZzmcQpBZ3tWOl4RbsOA2IICQzJLlDmIHfEBOEAJUPj6C9b5abcgQJgOl4cJXCjphSYEqRa98HgvQe9Y0McsqpjkI8x+I4O+aPEc7ALWKrAF/fK7CziVpwo11cIEu8BZaLWnJthWuxhCyGiLfMZLyxIZUQl8bZ2YarI=;hpoj5BpZYMjs6G/YqOiRKw=="
 ---
 

@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2027"
+    excerpt: "The global Artificial Intelligence systems spending market is forecast to reach a market size of USD 767.60 Billion by 2028, and register a significantly high CAGR, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-02-18T16:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2027-2021-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
     excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems,"
     publishedDateTime: 2021-02-17T07:52:00Z

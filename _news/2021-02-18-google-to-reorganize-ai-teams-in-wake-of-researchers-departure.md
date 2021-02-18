@@ -45,6 +45,20 @@ related:
         width: 848
         height: 565
         isCached: true
+  - title: "Google plans to reshuffle its AI teams after weeks of turmoil within the company"
+    excerpt: "Google plans to centralize its work in responsible AI under a single leader, as it hopes to quell weeks of internal chaos, a source tells Insider."
+    publishedDateTime: 2021-02-18T16:46:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-teams-reshuffle-under-marian-croak-amid-ongoing-turmoil-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://i.insider.com/602e817542b84000192f42c9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Army researchers expand study of ethics, artificial intelligence"
     excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
     publishedDateTime: 2021-02-16T17:33:00Z

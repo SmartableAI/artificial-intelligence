@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/21/02/samsung-memory-with-builtin-ai/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "How Artificial Intelligence Is Changing Tank Warfare"
+    excerpt: "What happens if Russia or China builds a new secret tank or heavy armored vehicle that even the most advanced U.S. databases are not able to recognize? What if a weapon attacks U.S. forces that is simply not in any known threat library?"
+    publishedDateTime: 2021-02-18T15:14:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/how-artificial-intelligence-changing-tank-warfare-178386"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2016-06-11T120000Z_232721586_S1AETJHGYOAA_RTRMADP_3_LATVIA-NATO.JPG_0.jpg"
+        width: 1222
+        height: 815
         isCached: true
 
 secured: "udoFLnTs2zoQnGyfni4YYQsejPCg0YdcXOTMXgTQtv56pDgxllUp+IfukrVdUAeeGl6h9M6sTDbm8Xoone7csFHvt4ZXVRL6881lasuHD9BlzX1kiGGmNiN+3PZeSvhEvUUwLOtNW38z0Pafvz4zdCsIzfe02udJvHWYUrxGK3drP9pbHae+Nr4NMdZs7GOF4Pecm8EMhaAhw2SxHVTZx98AOlwOc1x8tmf0xhyD0BAaXo9rUXaHE6q1Pwd/xGjEucbVhRBd+dA5apqtE9SGCdl0arjDBmsjvrtfmpQfAflukC9FKozDxD/ExXYOr+VCaAYD0m7pw510hzAQlP6XutQprcmJUTnQXc5gjaZJrz+cOGiJ2AdIXJ032hD7O3ODCRBTKBUl5ID8CTJKIe8Xc/rvx9ZoweaTWCDAVIgq9I6g6jV/d1jzGT+mnaFA2gL9282+8onRyuHc1OG+KdwCsKxHdFN/bu4H1UtgU6td9MiUui+qHgGQ1+swHz2xL9ECf1EzHJA6b1kHHURc1IbHRw==;kLQHLe6j35gFAYsADyOpsA=="

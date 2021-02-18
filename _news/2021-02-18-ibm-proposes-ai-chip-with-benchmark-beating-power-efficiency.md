@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency/amp/"
 type: article
 quality: 104
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI: IBM showcases new energy-efficient chip to power deep learning"
+    excerpt: "IBM researchers have designed an AI accelerator chip that boosts performance, but not energy bills. By Daphne Leprince-Ringuet | February 18, 2021 -- 15:00 GMT (07:00 PST) | Topic: Innovation IBM's researchers have designed what they claim to be the world's first Ankur Agrawal and Kailash Gopalakrishnan,"
+    publishedDateTime: 2021-02-18T15:35:00Z
+    webUrl: "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 121
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/02/18/11b45681-8657-434c-80e1-31ea97d3626d/ibm-new-chip.jpg"
+        width: 768
+        height: 781
+        isCached: true
   - title: "IBM proposes AI chip with benchmark-beating power efficiency – Jaweb"
     excerpt: "IBM claims to have developed one of the world’s first energy-efficient chips for AI inferencing and training built with 7-nanometer technology. In a paper presented at the 2021 International Solid-State Circuits Virtual Conference in early February,"
     publishedDateTime: 2021-02-17T19:11:00Z
@@ -47,29 +63,6 @@ related:
         width: 1024
         height: 663
         isCached: true
-  - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
-    excerpt: "Highly accurate ship performance models built off real-world data Business Wire PALO ALTO, Cal"
-    publishedDateTime: 2021-02-17T09:05:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 60
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
-    excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable ins"
-    publishedDateTime: 2021-02-16T14:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210216005143/en/Bearing-Brings-AI-Powered-Operational-Efficiencies-to-the-Maritime-Shipping-Industry"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 10
 
 secured: "d24hnQtLADHxa9xcCs7XwAah8DJ0wpH2mipD6lGGMNnLwI0JLFDgk0Nv6B+Dkq9iB7tfu1xZ/Mi6HjAW0Qmvug/N9I+N+gbPqlggO/egSUmleDPBTYGcLE9W9fl56f9MQRY6xondohjs5ijSKH21tZXiimtVsU4Dibjk7w8nM2H/xV4jDFEThMX/Llnmepb0MQpKqx0En9J1tAdXlzwv7k9swm58zMvkX53x2LlRRxrmiXWHAnSi0kkAFvpW6599pkRJCUp7bTFuYgXeyYcZX5GoDOZvd7E7cykIqaGj4SjsqIoFcfr4ozUpcs8wdQbkoNT66ukFG+HluNKPa0W5xRxiC+IVEUgxOX8zrangwmVBTDwYec7fi6/cWOn6e6RNzxEWcnZ1krXH6PoCUHtFcX+ckIVHErYa5k8CPz+rGnGPaK/I57BTgxHrUhts9aI4TKgzk6XmI9/8fwOfWRTcafrZVIJm6o9WEAy75oKPLjrVNZ/2BBc53ajWyhS/HxsySXeFLB0hAw3wmYGpR95jvQ==;KXTEu+dpXPSmZc0HSLqfrw=="
 ---

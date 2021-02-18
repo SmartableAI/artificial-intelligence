@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOZvPbyletXA/v0/1200x796.jpg"
         width: 1200
         height: 796
+        isCached: true
+  - title: "Google plans to reshuffle its AI teams after weeks of turmoil within the company"
+    excerpt: "Google plans to centralize its work in responsible AI under a single leader, as it hopes to quell weeks of internal chaos, a source tells Insider."
+    publishedDateTime: 2021-02-18T16:46:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-teams-reshuffle-under-marian-croak-amid-ongoing-turmoil-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://i.insider.com/602e817542b84000192f42c9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Army researchers expand study of ethics, artificial intelligence"
     excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."

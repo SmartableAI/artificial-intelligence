@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "“The AI-Powered Enterprise” Is A Good Book On Management In The Digital Age, Masquerading As A Book On Artificial Intelligence"
+    excerpt: "The AI-Powered Enterprise” is for management interested in better understanding how to adopt new technologies and the processes needed to link line organizations with IT. The book uses artificial intelligence as a tool to describe those things."
+    publishedDateTime: 2021-02-18T16:38:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2021/02/18/the-ai-powered-enterprise-is-a-good-book-on-management-in-the-digital-age-masquerading-as-a-book-on-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/02/18/the-ai-powered-enterprise-is-a-good-book-on-management-in-the-digital-age-masquerading-as-a-book-on-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/02/18/the-ai-powered-enterprise-is-a-good-book-on-management-in-the-digital-age-masquerading-as-a-book-on-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D23%26cropY2%3D516"
+        width: 876
+        height: 493
+        isCached: true
 
 secured: "8WYxNhMCTYkodsw2CJkOvKAA5U1rFwRRUkVN5PCoHavUjZjSQR27tPqHn3LA3ELq4pPwUsZJ7/ELA5MmHq+lOTrbpxh6xeR2Sv4PHpWWKkOLS/a3NdfU9MaM8v6WGfKhJMkTd16xdgjTQnNSSS3QcLAqZZn+Zy2DZb3VpkPl9+GSSfpDC4MsA3ZYc8KTeDWnU/tMATKdJj5KOLp6kEkwSQibqkDez36Dl+xs8HY/nFmyblGxA12ZSAiLvuplBRX6BxJJvAsB7g3/teNPTERtHPk2JGDUIvS04vptZnZgw0NOe1Lyb43MtCtBk9KjqhPQzV3wLxAHhvw+OmePDBEgi75YGwnD3nB0OkVYd5hCo7c=;Q7nJI8l5hSURQcyXbvrlTw=="
 ---

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 796
         isCached: true
+  - title: "Google plans to reshuffle its AI teams after weeks of turmoil within the company"
+    excerpt: "Google plans to centralize its work in responsible AI under a single leader, as it hopes to quell weeks of internal chaos, a source tells Insider."
+    publishedDateTime: 2021-02-18T16:46:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-teams-reshuffle-under-marian-croak-amid-ongoing-turmoil-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://i.insider.com/602e817542b84000192f42c9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "66RAPC/s0qbR64RJIOo+Sd6Tq/KOyPFg4ydEvICP6AywE5ADUYq6qE/2huCH8CYiSNH3pNC8W3M7aYsk14EEETjngH8ZVROtMnYvVpBvLtehKd+DRcZ3lBgCF2SQVrAaMb7QGeCCVAjhHN6s/Iiyrroq1OezmQ+DkFzh37qTalNfQInq71yNXxAwOdIaynuG3SpkYGiF17H+WmlogJM0Z+HBqz+PLGMY/IGSGmtrRMfVKP5eK+3c/EU46DuO36TzRgvuWieGOde3rGujj7BgksSQxZojqRfLmV0HHcTd6iuljFJwezg2SF6L6yeNVU7DWFFSLfVbstyKq1UPI0CMNmuQAiIhXLqf2nCqKHujyfA=;fRSAK4jK+F9gS7xpI1KDmw=="
 ---
