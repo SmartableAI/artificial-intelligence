@@ -1,27 +1,29 @@
 ---
 category: news
 title: "'Artificial Intelligence and the Future of Power' a grim wake-up call for India"
-excerpt: "With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with \"the battle between algorithm and being\" writes Rajiv Malhotra,"
-publishedDateTime: 2021-02-18T07:13:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=802726"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=802726"
+excerpt: "New Delhi, Feb 18 : With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with \"the battle between algorithm and being\" writes Rajiv Malhotra, one of the most ..."
+publishedDateTime: 2021-02-18T09:36:00Z
+originalUrl: "https://www.prokerala.com/news/articles/a1132144.html"
+webUrl: "https://www.prokerala.com/news/articles/a1132144.html"
+ampWebUrl: "https://www.prokerala.com/news/articles/a1132144.html?amp=1"
+cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1132144.html?amp=1"
 type: article
-quality: 35
-heat: -1
+quality: 55
+heat: 65
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Prokerala
+  domain: prokerala.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://www.daijiworld.in/images3/rafiza_170221-1a.jpg"
-    width: 406
-    height: 408
+  - url: "https://www.prokerala.com/news/photos/imgs/450/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-1151753.jpg"
+    width: 375
+    height: 250
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 582
         isCached: true
 
-secured: "BWkZwQ4L1QPWAQpV3cJd90hvkaFn3eOmL91sACMJs001UO3nvyD8FJ++m179hA2hvJ29pkGmVkOwXvzPXmpLlX9CEHi0KUFmxsWhnGRM5SyNidJqTWZ5lqZSB4zzU7mITB4/EvEtxi4BNnlkq0JmEm6mdl6TsM5huPVUcvhP8rmRvYBZAGg21WWjpgod/JTYoUjAf6eV/EyMY+xTfvGkoLYd1QehgwcPl55ldR7/Pai2EK+oUomgLgNhmDoQuLJWDJcz50y1OAzIeTVnBhwSaTMdHq5Odqzdu51rYxtDJOWp4O5iJZViKZeKtnuHZMAVTHDd5BSg5RA/IbfZ0j90p3J6BaudL2wCApJCt6wyOUE=;FKVyPpKIXsVZpdqDmHSCPw=="
+secured: "nafvGdoP+R9j0UFn0TeWMmeu73vq+wFJabhHib13Ce9qj+BcJZoLqrZWjuc5mVM8TgjfolpNHkO/dskp9nZJSYT8b1eeAmfZW3NKEgFE9ubWvBsS4fweRNGX6jj428skfTnTkKlmFAqHlSmOFaiPox/kiE0UPAy4qdSRiOi+SKL5u2qedyxbQZrwh/eVbHF18QxHL9jKSxqJNQiUXXM7c42AG3wDMoc1657O0vFLnq+JvGIwO4mTXs/uBnZuELTzTz/ZOGDItYQ/P8iZb9Bs0oMbyyBnEgweXoldQkHEh1twbmRtnLcrTS99KTZ2DqomQN4XrjzPhfLdkYgw4XIN9KQCiRtl9j3OBW0UQ7BeF9o=;iZs2L54x/oRXshAOv8HJeQ=="
 ---
 

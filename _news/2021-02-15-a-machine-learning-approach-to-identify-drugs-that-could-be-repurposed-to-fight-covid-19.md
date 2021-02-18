@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210215/A-machine-learning-ap
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx"
 type: article
 quality: 50
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://scitechdaily.com/images/COVID-19-Drug-Repurposing.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Early risk assessment for COVID-19 patients from emergency department data using machine learning | Scientific Reports"
+    excerpt: "While epidemiological and clinical characteristics of COVID-19 have been reported, risk factors underlying the transition from mild to severe disease among patients remain poorly understood. In this retrospective study,"
+    publishedDateTime: 2021-02-18T10:18:42Z
+    webUrl: "https://www.nature.com/articles/s41598-021-83784-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 15
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83784-y/MediaObjects/41598_2021_83784_Fig1_HTML.png"
+        width: 632
+        height: 685
         isCached: true
 
 secured: "deo71RVum3S9sfkYw2/f3fWpwmz7L2k5NidXWea2uGMGQ8VmSyWTisrCssX+z6WIriYU9Nsd3bZs+mUVDe+0vBMcZbMgYEeN0lmsVS4YxAV0TGxTbDcJplYaZcdvTB+Zym9FWrEjQRwt1YH5XkVwS5QE/zF9XxW9M3yGZsO3pLhwC3jPoRYBfWHvG1ZaRYvXCZJLLInQhq8CdjJKZZfzuclKvcINSjLGiUUZ7QJ+Oe5FfuIfnv4YQRM2JB8F8EVeyLhRQBpxgu9FBGr2b8mg23AiaOvSojqMwDPZ+vc5BHtW4LLSN5kf9MQ5tssxs9UAR4SRDqTY12kOWM+Ink9x58lmGZi2uVrkj1zFPuyQRi4=;RI3vi+uThID9md7/1nPt+g=="

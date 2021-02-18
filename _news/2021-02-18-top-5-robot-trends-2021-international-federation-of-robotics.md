@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Top 5 Robot Trends 2021 – International Federation of Robotics"
-excerpt: "Annual installations of industrial robots more than tripled within ten years (2010-2019) reaching 381 thousand units in factories around the world. Th"
-publishedDateTime: 2021-02-17T19:20:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210217005474/en/Top-5-Robot-Trends-2021-–-International-Federation-of-Robotics"
-webUrl: "https://www.businesswire.com/news/home/20210217005474/en/Top-5-Robot-Trends-2021-–-International-Federation-of-Robotics"
+title: "Top 5 Robot Trends 2021 International Federation of Robotics"
+excerpt: "The International Federation of Robotics shows top 5 trends shaping industries around the globe. “The mission to combine traditional production with ´go digital strategies´ puts robots in a pole position,"
+publishedDateTime: 2021-02-18T09:10:00Z
+originalUrl: "https://www.financialbuzz.com/top-5-robot-trends-2021-international-federation-of-robotics/"
+webUrl: "https://www.financialbuzz.com/top-5-robot-trends-2021-international-federation-of-robotics/"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Robotics
@@ -62,6 +62,6 @@ related:
         height: 313
         isCached: true
 
-secured: "Er+jx72yrB1QBIAcgUQSs3ZiGaL2MOzBQHFceoZJF3B8ELy3AkjksIViPh7HNWN6vGGMhPvEm5m1HBdSajKlgbj2BOMXIhAoum5JyLNypFf0+Safh0gqh6MdxiKvdmhJcMjHW1EcGVhNSrGp76jDmCu7ebbz4Q5LngFrV/D5ag3bWjBi70LCH5Ocge8C+pLaYxA5dMUIfCVXidwFyfgYYt6I+9GkYBn7+SQlXKH+x1QcACLhI7ie/szofzsl4ewgVogSFVUGZGZxeXonvgUQayLADcirmoGc77WT+8lZOB3iKmIDDkiX0nwEPtq7PCn2GMX267nNJs459yQELey+AW4+v6JD55Xchu4tZNTxUcM=;iB94xeaKnR/G3F+D1QV3cw=="
+secured: "Iqa/Rztw5oOwetAbh5TFm4dqkmTkaoBHI2Demzkf8uoMZB7XH7E2eBXJ/bN1PkP3BAFdShT/W/4K02koKRN6riXUhkfP5uuLFuOtKEqw3a3m31S2lDg37I9dS9KuZL+6dYoPDXBqugleGD3rGxGEJF9Yj5h5TMzc2NYWOeM7DYg7awSW1oS7SoBud0coAS0FBCkoOOUMVGViRHCNHLrwCgCvIFx5r0lKLQtq7kRvUP+DdDGfEtsmcWcP7F/UsO3qX/td+M8ehAJhc81b0GmDZ1jvxGHm1JfLlElT7AyJUUTG7do5d/qbKetWUfCfjFaSVfYPP9of1RMi83BWwXTHVrbmrhSXiNcZj14eBnQLrnA=;IgWvSuIhS1N86OWJLVzpPQ=="
 ---
 

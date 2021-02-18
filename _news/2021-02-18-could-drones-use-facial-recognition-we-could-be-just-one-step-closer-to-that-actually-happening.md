@@ -2,24 +2,24 @@
 category: news
 title: "Could Drones Use Facial Recognition? We Could Be Just One Step Closer to That Actually Happening"
 excerpt: "The U.S. Patent and Trademark Office has just published a patent application for 'Adaptive positioning of drones for enhanced face recognition' filed by AnyVision. Veuer's Chandra Lanier has the story."
-publishedDateTime: 2021-02-17T22:38:00Z
-originalUrl: "https://www.11alive.com/video/syndication/veuer/could-drones-use-facial-recognition-we-could-be-just-one-step-closer-to-that-actually-happening/602-b71fef64-2438-41b6-90f2-664e9a85344e"
-webUrl: "https://www.11alive.com/video/syndication/veuer/could-drones-use-facial-recognition-we-could-be-just-one-step-closer-to-that-actually-happening/602-b71fef64-2438-41b6-90f2-664e9a85344e"
+publishedDateTime: 2021-02-18T10:53:00Z
+originalUrl: "https://www.wtsp.com/video/syndication/veuer/could-drones-use-facial-recognition-we-could-be-just-one-step-closer-to-that-actually-happening/602-b71fef64-2438-41b6-90f2-664e9a85344e"
+webUrl: "https://www.wtsp.com/video/syndication/veuer/could-drones-use-facial-recognition-we-could-be-just-one-step-closer-to-that-actually-happening/602-b71fef64-2438-41b6-90f2-664e9a85344e"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: 11Alive
-  domain: 11alive.com
+  name: WTSP
+  domain: wtsp.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.11alive.com/assets/VEUER/images/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae_1140x641.jpeg"
+  - url: "https://media.wtsp.com/assets/VEUER/images/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae_1140x641.jpeg"
     width: 1140
     height: 641
     isCached: true
@@ -284,16 +284,16 @@ related:
   - title: "Civil rights groups ask Biden administration to oppose facial recognition software"
     excerpt: "Civil rights groups are pushing the Biden administration to take a stand against facial recognition technology, saying the rapidly spreading software poses"
     publishedDateTime: 2021-02-18T00:55:00Z
-    webUrl: "https://www.nationthailand.com/edandtech/30402761"
+    webUrl: "https://www.nationthailand.com/noname/30402761"
     type: article
     provider:
       name: nationthailand
       domain: nationthailand.com
     quality: 35
     images:
-      - url: "https://media.nationthailand.com/images/news/2021/02/17/30402753/500_04900553dd3f2a4.jpg?v=1613579685"
-        width: 420
-        height: 280
+      - url: "https://media.nationthailand.com/images/news/2021/02/18/30402761/800_edd71cc7ad573f5.jpg?v=1613620463"
+        width: 800
+        height: 450
         isCached: true
   - title: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology – St George News"
     excerpt: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology - St George News Stock Image |"
@@ -351,6 +351,6 @@ related:
         height: 726
         isCached: true
 
-secured: "mzGOSlcv4mVeHDHkH8dyKtA5MBGX+ASJK5eYBoNLEMV0qWWgQi+zUxnMCjgfhFD6jMFdrEj8FwoDYIBdGAWAQ+5orp9A5BYHSFxZoA6J1Zyh2LwJ8cqcsXxTQ9jHTCo6y+8zvbq06Xy5IxTmLHYqCMrz4GJQEdFbp+dZuBJzlz8JibEXpDZ15rqfKpi7MUYes+3UAwKPsIha1kFfDQdWx7Ke/nVgarTAwQL1ujMtLSvFPerjaQIcQ0cLcoUdyatzU+7qL4httHKC4gPJJya4Lgz+F0K/Gu+8o6LPjs86k3rMuUufGOEgBOI3dLHyngLNLWtDGAgWJb4axPQsd+RsFGjtOcB+xpokBopo5Nd78i0=;vVaMHaiEUv2rUUKGO3QUhA=="
+secured: "Q5MVP80ZpOGS8Fbz8MRGeHMj2BO27Yi+pxxMmLvHeuT1cbN3TdsykUBSOMwXlN9t6eXsO2xZkSjuz3la0x1HG8aDyifrEo2h6NfR1XEWTkYEkS+zodm1aDqh6lDFi0PjR04hnECWUmJ/YKxEd/vtZMLw7kyJaMKs6visjDt/awnSzvkJ9f7kXVUcqpk07hSNZS1FN9cN7Wo8olFSushidgVePckEbFgBY25GD/EAEeDLwvC2tf3/A+B6NYthM3Y02PAj9FAM8KiK1ages8R9LDv/WQXCW3J6DCDye6y0ZpZxaWje1sI5ITfaeweKGvD2wOzN+Wwnky9btzLUxhkpvwRpdYITFFMOgliNpHCxIag=;4QjPcxtWlEHcNWxo7ICU6w=="
 ---
 

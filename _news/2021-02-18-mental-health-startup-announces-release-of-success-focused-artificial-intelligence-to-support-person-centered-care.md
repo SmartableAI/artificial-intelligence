@@ -39,20 +39,6 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care"
-    excerpt: "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of"
-    publishedDateTime: 2021-02-15T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "FqBQm5jq1S6j8msTqlKU5gftjs6F9QpftAKDahYKz0KiX99cbh/IiKURYKP/CeyAndY0tWqtuWf6aG44GlE7ur1XA/MCSBSnA8F/5qCA38rvmeepCBCDDJZWVHfcJ1OkU+XeUPa1xOmWxtE9lNBfnbhs9JZN++zuXxw5qNnvtvQxbG/TV6UVFQ2Vbscg2d4ph71u6A0Pq9LOwl75LTWJsEvHBZw2oClpdK5vvTztZQRZoDzNmx4G+ueHHganz2sAW+gnwgAzYu1j4XS9yrjw/2lVqgv5U3+iaD2imWsD2Xt+ZPUNIlG5SY1thz/v72TPmSmWwD0sn+uCe+sgJzz4Z7FV01tJLb7c3uPz55GtTjI=;zA4m/5HYCSwkmJDOdrK43w=="
 ---

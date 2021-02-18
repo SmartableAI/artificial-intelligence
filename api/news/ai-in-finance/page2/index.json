@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-24-seven-ways-ai-can-help-govts-transform-public-services.md",
+      "title": "Seven ways AI can help govts transform public services",
+      "excerpt": "Governments are starting to explore the potential of AI and can work with policy-makers, public servants and data scientists to fully realise its benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/",
+      "originalUrl": "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2018/09/AI-final.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp",
+      "publishedDateTime": "2021-01-23T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020.md",
+      "title": "How fintech and serial founders drove African pre-seed investing to new heights in 2020",
+      "excerpt": "When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
+      "originalUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/africa-preseed-investment.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
+      "publishedDateTime": "2021-01-22T23:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east.md",
       "title": "5G, fintech and mega projects: what 2021 will mean for tech in the Middle East",
       "excerpt": "G, fintech and mega projects: what 2021 will mean for tech in the Middle East The MENA region is in the midst of a digital",

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-posts-financia
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Baidu Announces Fourth Quarter and Fiscal Year 2020 Results"
+    excerpt: "Baidu ended 2020 on a solid note with our business benefiting from improving macroeconomic environment and the digitalization of industrial Internet. Our focus on innovation through technology is paying off with Baidu Core non-marketing revenue growing 52% year over year in the fourth quarter,"
+    publishedDateTime: 2021-02-18T07:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-349cf4d406d15ec7522c20dd94a88a8a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "bigm4KBlj+xRfPMgAD2uBbSLDoJY9YNZ24UjoOAMrD9E225If7j1Oo8kG/gI8aosj8cguN5KOu8+omIlF90tvBrM3sOa2qFYMvOspx2ZvFm2/2i8Hu4gOW12MIrRFTEeQmSC3u3qSEgKeG5zjZpn2YZwhforhJ+rnTd+zFVxrAGnD7gIszoVSKwjwqYg/YhYZ1vPxLnNHB9FB8Wy6IEZgHLMtUz/X1Dn31dM0keZnnSrOhxTYej/ptvvNUqKQ9UTbl6Plzsz/Mcm1GEVk01KJMo1o1kwgPjldw+7NSpyyGsvUXVnc28jGs32tEWNm4gGzgLFRzWOj6+ySO36NbRVqWcpCgTvcJnAz1fNbhs9Mc8=;XH6rzX8QfZibg0fDjhgTNg=="
 ---

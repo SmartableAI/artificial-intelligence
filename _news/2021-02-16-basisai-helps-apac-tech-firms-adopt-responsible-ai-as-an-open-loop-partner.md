@@ -1,28 +1,28 @@
 ---
 category: news
 title: "BasisAI Helps APAC Tech Firms Adopt Responsible AI as an Open Loop Partner"
-excerpt: "BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped APAC startups develop their own explainable AI (XAI) solutions."
+excerpt: "BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped APAC startups develop their"
 publishedDateTime: 2021-02-16T03:51:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471"
-webUrl: "https://markets.businessinsider.com/news/stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner/article_2ca15b9c-fe40-57a3-9364-c5151085d000.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner/article_2ca15b9c-fe40-57a3-9364-c5151085d000.html"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e2/de2066a5-46bc-50b9-9dbe-cd4cc4880895/602cd6300b6c4.image.jpg?resize=1200%2C600"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Nodeflux and BasisAI partner on face biometrics following explainable AI startup program"
@@ -40,6 +40,6 @@ related:
         height: 390
         isCached: true
 
-secured: "6k+IX+fAsbiAWoOJC/UMA7W0eYTijFCZXYnf6Le0xoCzoYbwJKPCMrs9FGvlp3oZxbS+x/RJD2aLcZhXVqW86fMffm/hihPGJKYpJmFgJmk1Vn+CeG+f9aKmwmWNhzzUdz2FLBGRRxKzIownVwFTJcxWNd4OdxvhbVJ09U7+jw4PDqNdV5h0AwPreTrZUdTt1VckMLyjixtSIAbUMRw0HCUroGJ7gPTp2uGtqwV9rSUntJzvL7zV+O1OMxMGnuGla4wOYznyb1Mo/SiGw6sGRQ7miZgerEhx0kwBI7aqWm7UaCvp9ixMaaERLwWTQ7jqdg8kMeB6p+LdrPN7XsAlnG7LJPOBm6wmd3yMuCiOYN4=;8zVTcdean3QPx4JHsbVk4Q=="
+secured: "z51UxQMpT5sG+hST4eEcGrU7jgqgX2l3nFPUDCfprtGVIl+YGHFofe8M9BdYnCtSZKYaVc4vSaler9xM+A+fFQFX9fgZAy0FCb4+lQNAs0tzAKwPBuABWMCWKpNCCZqpatnu1czeepu6aKtgcwkw2pZ8wMuJAl1w3WjGKCUOwkO6S1asxtMc7atEm/YKR0i5xhU+hwacW0sC0zjB3JoqpQkcp2Qxn374+IbOr5x+KLAzesHKl6CK2MHfs2utz7vWjDsuYgnDpHql6B73/EV7qHI8rvg1tsQFov/q8gp0dpm5YSsxuDW6jzjO6ahXq66rchigmentx+c+525PO6uBdCPcIzZodzaL5uQZKfxRd60=;C3xV6FOse0DAT/Smt2cF6g=="
 ---
 

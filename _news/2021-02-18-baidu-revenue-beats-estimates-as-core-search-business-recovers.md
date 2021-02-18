@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers"
 type: article
 quality: 71
-heat: 81
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Tops 4Q Estimates Driven By Strong AI Demand; Shares Gain"
+    excerpt: "Baidu reported better-than-expected 4Q results driven by the strong adoption of its artificial intelligence (AI) tools across cloud services, smart"
+    publishedDateTime: 2021-02-18T09:34:00Z
+    webUrl: "https://www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/"
+    ampWebUrl: "https://www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 59
+    images:
+      - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2021/01/BIDU-1024x615.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
+        width: 1024
+        height: 615
+        isCached: true
   - title: "Baidu’s Q4 Results Beat on Earnings, Fall Just Short on Revenues; Shares Rise"
     excerpt: "Get Report rose after-hours on Wednesday after beating analyst earnings estimates and falling just shy of consensus revenue estimates for the fourth quarter. After the close, Baidu reported adjusted earnings of $3."
     publishedDateTime: 2021-02-18T03:05:00Z
@@ -45,6 +61,20 @@ related:
       - url: "https://content.jwplatform.com/thumbs/a2hgn1RP-720.jpg"
         width: 720
         height: 406
+        isCached: true
+  - title: "Baidu reports better-than-expected Q4 results, driven by AI business"
+    excerpt: "Baidu reported a better-than-expected fourth-quarter (Q4) result on Thursday with its business revenue, ending December 31, hitting 30.3 billion yuan ($4.64 billion), beating Wall Street's expectations for four quarters in a row."
+    publishedDateTime: 2021-02-18T09:35:00Z
+    webUrl: "https://www.globaltimes.cn/page/202102/1215823.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-02-18/83469d36-61d7-49af-ab3a-43cf51b20fda.jpeg"
+        width: 800
+        height: 480
         isCached: true
 
 secured: "YQ9z0xgomht7+B7cIyELabpJXOrFHEmBvZZI5kJ8C0WJhsxg6zNRn2kZUK+2RRN7A4RogAb5tZW9wWflh6q8BWfoCvxUNGBS58CgYOCEdAK8/wMn4OFZsDawtxDBMsdJFZ/9VEyr0dqusNU0HYREV219u2BnYgLjTki7EhP1FNe/ogacWXxXWxUP+6HRc1p8SPMPf2zWlLWQvaTjW2S5EbXfWkNAzqEuN7F/2tPos4/ViBrRstytcY/ghjMMYYKVgCG3RQAlwl8paMTtMs86qgVaIUSKDDL/0IQ70koK0ExJHu6eL18E3PrePPwlUpcQSLgQdyJRYoL2u5Sj9a4Mq1NfrQWDVNnSqlqw3DgLuoD4VQMt1y8h6nv4PG47/dESIdmV0o8OyQ59o/Jx9zPr3PUNPiDJfS78AirGzbcfhoTlXwLzskgUvodMoXUZ9vdWR0H+KVrQrXz3UHScl+/ouDgKuJSIXpxg57C/uXNLTjJp2w1PlQwvK/4ED8Mfa+fk+mvc9M5Q9gturH35xvYvtA==;gq73z+HdnF+Ynmgp3RXtkA=="

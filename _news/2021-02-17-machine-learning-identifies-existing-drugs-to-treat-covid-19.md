@@ -92,6 +92,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Early risk assessment for COVID-19 patients from emergency department data using machine learning | Scientific Reports"
+    excerpt: "While epidemiological and clinical characteristics of COVID-19 have been reported, risk factors underlying the transition from mild to severe disease among patients remain poorly understood. In this retrospective study,"
+    publishedDateTime: 2021-02-18T10:18:42Z
+    webUrl: "https://www.nature.com/articles/s41598-021-83784-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 15
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83784-y/MediaObjects/41598_2021_83784_Fig1_HTML.png"
+        width: 632
+        height: 685
+        isCached: true
 
 secured: "O1FblK9dkXPmXzp+HjgEA7MSSCDSXfs8UsnDg4qrnWL1F6i+M4O5WwjSMoGQKD/Jq1+EjZMSmfXu1KKhvDhn8kK6x1Kj8sDXKEcQFMKWQhIZWkSylO8EmjFy85gUv3BRn1O/mmUCdoWVfhvVJEJEjCrYpd4TBbycCfRAX/LL86tt3gAsNOlTsqw6OuOLiLo0ThhOXptwY4OALkMzK13REyR0Zvwz+OArx98PHOuoytRBS+DtXwroUAS8oq2WWxfBkcLd1ryXQg+Mp+Z2oNsj9sFWoluhtLilHQSKZM7OYGvAfxQcAG4dbPeAr74eSOIXhym69Ljg9yVcb+0TdqQ/DrTx9mOep8Y3Lqs7/2Lm3/3dVCoUAprKF0Zl/mslxuCdMq++ocDqJGiGOp0bEWYjpVuQyePGcbnxcS0wBuklPG3Efh5WWmKfU8BfVzwnf7EF0QCQiONDCSRyUY1dEq6EYzrYiK2Niewo/kiSr/QCrGt/QyYlromKppK43QBKHeH+P2BDxl90Nnk5JqHAvMckVg==;vpP636DvrsQhUYSNnBbXGg=="
 ---

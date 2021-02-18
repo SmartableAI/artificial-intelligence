@@ -2,6 +2,57 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-01-28-researchers-create-new-model-to-evaluate-ai-generated-navigation-instructions.md",
+      "title": "Researchers create new model to evaluate AI-generated navigation instructions",
+      "excerpt": "In a paper, researchers at Google claim current benchmarks are insufficient for evaluating the quality of navigation instructions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/",
+      "originalUrl": "https://venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/amp/",
+      "publishedDateTime": "2021-01-27T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-nerdio-launches-the-definitive-wvd-product-for-msps-offers-savings-of-up-to-75-of-azure-costs.md",
       "title": "Nerdio Launches the Definitive WVD Product for MSPs – Offers Savings of Up to 75% of Azure Costs",
       "excerpt": "Tenant Azure Virtual Desktop Deployment, Management, and Optimization to the Channel for MSPsCHICAGO--(BUSINESS WIRE)--Nerdio, the definitive Azure deployment, management and optimization solution for Managed Service Providers (MSPs) and enterprise IT professionals,",
@@ -1134,57 +1185,6 @@
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/amp/",
-      "publishedDateTime": "2021-01-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-the-race-to-outsmart-the-competition-adobe-unveils-new-ai-tools-for-retailers.md",
-      "title": "The Race To Outsmart The Competition: Adobe Unveils New AI Tools For Retailers",
-      "excerpt": "Tech companies are vying to offer retailers ways to create smarter, seamless, and personalized online shopping experiences. Adobe unveils its new tools that use AI and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/",
-      "originalUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60106b5264291785f81a07e8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D404%26cropY2%3D3563",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/amp/",
       "publishedDateTime": "2021-01-27T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {

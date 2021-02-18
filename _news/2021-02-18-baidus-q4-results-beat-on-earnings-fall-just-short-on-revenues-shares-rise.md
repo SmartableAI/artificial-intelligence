@@ -41,6 +41,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Baidu Tops 4Q Estimates Driven By Strong AI Demand; Shares Gain"
+    excerpt: "Baidu reported better-than-expected 4Q results driven by the strong adoption of its artificial intelligence (AI) tools across cloud services, smart"
+    publishedDateTime: 2021-02-18T09:34:00Z
+    webUrl: "https://www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/"
+    ampWebUrl: "https://www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 59
+    images:
+      - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2021/01/BIDU-1024x615.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
+        width: 1024
+        height: 615
+        isCached: true
+  - title: "Baidu reports better-than-expected Q4 results, driven by AI business"
+    excerpt: "Baidu reported a better-than-expected fourth-quarter (Q4) result on Thursday with its business revenue, ending December 31, hitting 30.3 billion yuan ($4.64 billion), beating Wall Street's expectations for four quarters in a row."
+    publishedDateTime: 2021-02-18T09:35:00Z
+    webUrl: "https://www.globaltimes.cn/page/202102/1215823.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-02-18/83469d36-61d7-49af-ab3a-43cf51b20fda.jpeg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "JIU4PdM8GxvT8dnt+Le1+H92ij2B7qnYH0yx0QPtnGN8CoDBma7MIyA3jYIWRJryteaqju4MBsu631yw6WEDyB0Nv01ewah520L+swhAXyJ5Tg3AYpt1mQUTp6yy+FPRMMp4dO2a7d08HGU2KEjfBT206cJBNrTl5RzZY0hKBgYnp9njQ+ImX7CRWJrqD9U8ixJS5yoc1cDzldlPSQWmK/0+mhCt2eERvJeGRX0LpAo3RAEsFyhZoUZktCHvmiQbnA9h1oQtehXT3RS3Ysnpobro0k01ZaUfyUjBKDKmFYAGYFO21wgvQ2gFXmZtzmu27ST6u97lk3do51BPXeCRx3ilHzEYUFRiLvczML0T/oASXZIQQqHbnYKX+OHG06lCPOIQZbt4B/viYUSVvD5dICTBIG2+N3j2jc9rYF+6vqCdVCDZeTEG1IdRNRt6YISlfPlUskWOlmFdJk0JS4Jo4yrccZgZ28S7QyWWAkX4Ix9l2IeAVEh5KCmFljZFU5IiCdV7vZU69QbSkuosYbyuig==;daw4iuRssAsdnR7JkbNO5w=="
 ---

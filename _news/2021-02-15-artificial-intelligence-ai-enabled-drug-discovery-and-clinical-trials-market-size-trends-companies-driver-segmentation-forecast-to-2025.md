@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market Size: Technological Advancement and Growth Analysis with Forecast to 2026"
+    excerpt: "Selbyville, Delaware, The Report 2021-2026 Global Artificial Intelligence (AI) in Construction Market Report Industry analyses the important factors of this market based on present industry situations,"
+    publishedDateTime: 2021-02-17T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-size-technological-advancement-and-growth-analysis-with-forecast-to-2026-2021-02-17?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Size, Share 2021 Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
     excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
     publishedDateTime: 2021-02-17T10:28:00Z

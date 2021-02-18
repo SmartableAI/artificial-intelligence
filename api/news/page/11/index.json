@@ -2,40 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-02-07-kaggle-publishes-2020-state-of-machine-learning-and-data-science-report.md",
-      "title": "Kaggle Publishes 2020 State of Machine Learning and Data Science Report",
-      "excerpt": "Addison Wesley Professional The Kollected Kode Vicious by George V. Neville-Neil aims to provide thoughtful and pragmatic insight into programming to both experienced and younger software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kaggle.com/kaggle-survey-2020",
-      "originalUrl": "https://www.infoq.com/news/2021/02/kaggle-report-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-07T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-02-07-researchers-test-detection-methods-for-ai-generated-content.md",
       "title": "Researchers test detection methods for AI-generated content",
       "excerpt": "Artificial intelligence generators can craft text that mimics a human author, improving the user experience in platforms such as medical chatbots, online",
@@ -171,6 +137,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-why-do-financial-services-need-ai.md",
+      "title": "Why do financial services need AI?",
+      "excerpt": "For financial institutions, recovering from the pandemic will end tentative experiments with artificial intelligence (AI) and machine learning (ML) and demand their large-scale adoption. The crisis has required financial organisations to respond to customer needs around the clock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/why-do-financial-services-need-ai-aminul-haque-",
+      "originalUrl": "https://www.linkedin.com/pulse/why-do-financial-services-need-ai-aminul-haque-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEAWHVWXu2lmQ/article-cover_image-shrink_600_2000/0/1612708883285?e=1619049600&v=beta&t=dUX9kWL8X6aQ2wNztavc5qLh-2aMCJ7KvWPzd2rWre4",
+          "width": 909,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {

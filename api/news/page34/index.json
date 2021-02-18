@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-01-22-designing-customized-brains-for-robots.md",
+      "title": "Designing customized \"brains\" for robots",
+      "excerpt": "MIT researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee.md",
       "title": "This AI can tell if you have prostate cancer by looking at your pee",
       "excerpt": "Researchers at the Korean Institute of Science and Technology (KIST) recently developed a machine for detecting prostate cancer that only needs 20 minutes of your time and a few ounces of your pee to achieve near 100-percent accuracy.",
@@ -1134,57 +1177,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones.md",
-      "title": "The Enterprise Data And AI Journey To The Cloud: Three Fundamental Milestones",
-      "excerpt": "Managing Director, Data & AI at Accenture's Microsoft Business Group in Europe. 2020 has been a whirlwind in the development and adoption of technology, especially data analytics, artificial intelligence and machine learning and automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/amp/",
-      "publishedDateTime": "2021-01-21T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,59 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-02-11-developing-a-turing-test-for-ethical-ai.md",
-      "title": "Developing a Turing test for ethical AI",
-      "excerpt": "AI’s Turing test focused on the wizardry needed to trick us into thinking that scarecrows might be flesh-and-blood humans (if we ignore the stray straws bursting out of their britches). However, I agree with the argument recently expressed by Rohit Prasad,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/08/care_nurture_support_people_human_resources_thinkstock_176436790-100409939-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html",
-      "publishedDateTime": "2021-02-11T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml.md",
       "title": "SuperAnnotate, a computer vision platform, partners with with open-source to spread visual ML",
       "excerpt": "SuperAnnotate, a NoCode computer vision platform, is partnering with OpenCV, a non-profit organization that has built a large collection of open-source computer vision algorithms. The move means startups and entrepreneurs will be able to build their own AI models and allow cameras to detect",
@@ -1192,6 +1139,60 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-cye-raises-120-million-for-security-that-uses-hackers-and-ai.md",
+      "title": "CYE raises $120 million for security that uses hackers and AI",
+      "excerpt": "CYE has raised $120 million for a service that uses AI to probe defenses and human hackers to conduct attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/",
+      "originalUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/OKN_1440_websize-e1612959250260.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/",
+      "publishedDateTime": "2021-02-10T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security",
+        "AI in Robotics"
       ]
     }
   ],

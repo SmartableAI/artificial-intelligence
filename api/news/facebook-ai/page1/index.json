@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-16-basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner.md",
-      "title": "BasisAI Helps APAC Tech Firms Adopt Responsible AI as an Open Loop Partner",
-      "excerpt": "BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped APAC startups develop their own explainable AI (XAI) solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471",
-      "publishedDateTime": "2021-02-15T19:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-16-chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g.md",
       "title": "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G",
       "excerpt": "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event.",
@@ -1517,6 +1474,58 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service.md",
+      "title": "K Health raises $132 million to launch AI-powered telemedical pediatric service",
+      "excerpt": "K Health, a telemedical service using AI to diagnose and treat illnesses, has raised $132 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/",
+      "originalUrl": "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/amp/",
+      "publishedDateTime": "2021-01-19T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],
