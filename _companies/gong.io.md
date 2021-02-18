@@ -2,7 +2,7 @@
 name: "Gong.io"
 overview: "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality."
 type: "profile"
-heat: 89
+heat: 115
 
 website: https://www.gong.io/
 
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=PGaBhUPCcxU"
 
-secured: "UkvfVQRVE/qNmjpidW5bSTC1LYi70VS4m8Jg//ZUwDniUsnWGMaR/OVJbSPivj4EaEmAUSCbdt8KyFd5oUumCcilTDvn008GP7i0ItjOj56yIHTCZLMoX5v+DLv0MgFiiKiksSUmh2AzGQZJTsJPRo7MOiUEKCYObxOY6f8YQ+Og904sImZprWtiYaEhCZKqcaz0ItK7LRiIwSJkP/H3bZEM461wgX6zoI4B2Ry58Aw5/c11jw0qngKiR1tZDs/uYSbWezFxgJv0tR3pJCDPYBfm5zbk3FYBbZY+PXGe5uYW/DsGfxeQsHaTsllbpwt81Xx/GrIV6V+tTqQBCWMnvCR4kJmG4FFP6gDHqi4rmcwLSohViuZkSIy+ulunp7ey9HRhLq2pTWRtNFfn/5cFNO0h/ZqTwHRYBNcY8nbF1s8=;lQMbd5FGBw7mvCPRT8VWgQ=="
+secured: "DfJJARx2/wxJlnBfxfQRT4FDRfz9iJxFDxmyryTQLrDzkmze+JjDvcEnSSfv6yn3ThxmtPlowE3GQA+K0arcQ7v9T2+MzUOFsAV7Ugx3/BLu2SQCjC9gJgqL3gj0kqBk+hyecXUTl/rOpf2orpG5dQjGUVcrZESZ728vImgrjBJbYbhOSsAVT8m4bgQNxVXPUAtMexQNcoh/oYn0xTXfKJGzs3dVh8ultfP2/vvvSozttRQnpUJUwJw3sLfjLoQhj3l5YN6ubdfkXuffNUSH1cPt+wZpWWzYzNYKmadr0m/sQdKz7N3CRg2KSkX1qmijAXcC3oMM2fWsftJuUPC6YnHZP9byUFufsUAn57NuqC7+Ed9ZLYuvW5giO3Si7QQVqugE3Yqbb38SwdyIFgCtehMagch2Qi96l3voWRL6b1Q=;PKbKHImusc38VuMIbm7s3A=="
 ---
 
