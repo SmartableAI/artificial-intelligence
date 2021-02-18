@@ -87,6 +87,22 @@ related:
         width: 1024
         height: 483
         isCached: true
+  - title: "Civil rights groups want Biden to halt government use of facial recognition"
+    excerpt: "President Biden is facing pressure from civil rights and tech advocacy groups to halt the use of facial recognition by the government."
+    publishedDateTime: 2021-02-18T16:13:00Z
+    webUrl: "https://www.dailydot.com/debug/biden-facial-recognition-pressure/"
+    ampWebUrl: "https://www.dailydot.com/debug/biden-facial-recognition-pressure/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/biden-facial-recognition-pressure/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://uploads.dailydot.com/2021/02/Joe-Biden-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Civil rights groups ask Biden administration to oppose facial recognition"
     excerpt: "The groups argue the software \"would facilitate the mass tracking of each person’s movements in public space — something intolerable in a free and open society.\""
     publishedDateTime: 2021-02-17T23:21:00Z
@@ -117,6 +133,15 @@ related:
         width: 1097
         height: 700
         isCached: true
+  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
+    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
+    publishedDateTime: 2021-02-18T18:34:00Z
+    webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 42
   - title: "Civil society to Biden administration: halt facial recognition technology"
     excerpt: "Access Now joined over 40 civil society organizations in a letter to the Biden administration calling for a federal moratorium on the use of facial recognition technology."
     publishedDateTime: 2021-02-17T18:12:00Z

@@ -66,6 +66,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "AnyVision files patent for facial recognition drone"
+    excerpt: "Israeli facial recognition technology developer AnyVision has filed a patent, which would allow drones to change the angle of their flight, so that a mounted camera would be able to a better picture of a person,"
+    publishedDateTime: 2021-02-18T15:49:00Z
+    webUrl: "https://en.globes.co.il/en/article-AnyVision-files-patent-for-facial-recognition-drone-1001361234"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2017/c26_02800.20171015T150137.jpg"
+        width: 800
+        height: 392
+        isCached: true
 
 secured: "Nt9EfBl4tZT+6Y8bkEDo9xDZ12PzAe+RNkSH56mG9NIbyggvbm3kpfLV6NYzgJZl6TI6/LYve50gLQsi49anPaKyjs3HePHa3JI4dCqoPrX3RnbJrvQDntIT4D8so2F9iHdD94Vh7BklKFPm3WYrGI0crjogAD9FXwlJmQnTA5m8qrr3HSzUgVEeX2sf8DzlPlksz2W0l4lVz2imNT3SSmV75bmeHxMA8bKKc2Ig7C98yePrHY3Z8RHGvII7pD5/WUIncAFH/nOzPVUKury2rKITG7unnz/bcJVLYoKdayQ8uGkTOxDN3IBMFgQVLDW0/xKQKgql9l0ItVoJnIOscLkVfoBohzmIOxh2RMk97pGPpWCkzj+GG8IuwS7+XbcvJ/inc0jsLL51xTtEEoE6tXdIzmUirPdkwVvHtLTuFsDbpphkyen9GMR/pOoOKq2QsWqJWJsSbTQXC0cY31whtsuaJSrjs+l1pBdQ6v91PflRT4qGKN7+iLPXpu/SHGi3oyzzuvzdRB9G+ob/Vm4KUw==;5TfZFGBkyXX8NkH87AFCQA=="
 ---

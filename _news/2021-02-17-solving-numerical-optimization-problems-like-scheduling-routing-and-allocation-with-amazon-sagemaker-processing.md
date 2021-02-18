@@ -29,20 +29,74 @@ images:
     isCached: true
 
 related:
-  - title: "Translating JSON documents using Amazon Translate"
-    excerpt: "JavaScript Object Notation (JSON) is a schema-less, lightweight format for storing and transporting data. It’s a text-based, self-describing representation of structured data that is based on key-value pairs. JSON is supported either natively or through libraries in most major programming languages,"
-    publishedDateTime: 2021-02-16T17:08:43Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/translating-json-documents-using-amazon-translate/"
+  - title: "Machine learning on distributed Dask using Amazon SageMaker and AWS Fargate"
+    excerpt: "As businesses around the world are embarking on building innovative solutions, we’re seeing a growing trend adopting data science workloads across various industries. Recently, we’ve seen a greater push towards reducing the friction between data engineers and data scientists. Data scientists are now"
+    publishedDateTime: 2021-02-18T17:44:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 106
+    quality: 119
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/25/ML-2037-1.jpg"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/22/ML-1156-1.jpg"
         width: 800
-        height: 378
+        height: 531
         isCached: true
+  - title: "Exploring Amazon SageMaker’s new features — CloudFormation, Data Wrangler"
+    excerpt: "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December."
+    publishedDateTime: 2021-02-15T00:35:00Z
+    webUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/"
+    ampWebUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?w=1200&strip=all"
+        width: 1200
+        height: 617
+        isCached: true
+  - title: "Exploring Amazon SageMaker’s new features — Clarify, Pipelines, Feature Store"
+    excerpt: "Are you considering AWS SageMaker for your machine learning hub? Here's a hands-on look at some key, newly delivered, capabilities."
+    publishedDateTime: 2021-02-15T00:36:00Z
+    webUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/"
+    ampWebUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker-Pipelines.jpg?w=1200&strip=all"
+        width: 1200
+        height: 635
+        isCached: true
+  - title: "Exploring AWS SageMaker’s new features — Formation Stacks, Data Wrangler"
+    excerpt: "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December.Read"
+    publishedDateTime: 2021-02-14T16:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/exploring-aws-sagemakers-new-features-—-formation-stacks--data-wrangler-9810689"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/exploring-aws-sagemakers-new-features-â€”-formation-stacks--data-wrangler-9810689"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exploring-aws-sagemakers-new-features-â€”-formation-stacks--data-wrangler-9810689"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+  - title: "Exploring AWS SageMaker’s new features — Clarify, Pipelines, Feature Store"
+    excerpt: "Are you considering AWS SageMaker for your machine learning hub? Here's a hands-on look at some key, newly delivered, capabilities.Read MoreRead"
+    publishedDateTime: 2021-02-14T16:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/exploring-aws-sagemakers-new-features-—-clarify--pipelines--feature-store-9810695"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/exploring-aws-sagemakers-new-features-â€”-clarify--pipelines--feature-store-9810695"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exploring-aws-sagemakers-new-features-â€”-clarify--pipelines--feature-store-9810695"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
 
 secured: "dUAXepnoIfzUaziGP8HF4QvbUdmkxpvBPH1H8vQ6XhtpGRLg5QoYDaXRd3FuUNKc5026II/QRZKHSe84fy4gb8PpBrlJRykUooRsyt/Wj66G9aozYfdZG6EOsfMumuQ2SPAK9l1QmJse5kdO/1dJjakGMcz1qfRZRutBo6NkAP9M+3lm9lPzZtul5IOF8V/IKgZxrbqB+d3XBrgJnUmhUFClG2Kfq9fTnWdt7JcDV7aJ+lFwbEcmMHJ/fojGWfAFpweumJmn2uQWZpTRKGXz/DYwbVqJ5rfo65ynufqqqHtLRYMUfmgRlY4pUKRV5nPB7lnlaTdZDZhlpMJXKJ+6ui0NpdJ8Z7lU5LZlIcHVMQU=;uHcNFYX+ZVaNoYIVLyRDkQ=="
 ---

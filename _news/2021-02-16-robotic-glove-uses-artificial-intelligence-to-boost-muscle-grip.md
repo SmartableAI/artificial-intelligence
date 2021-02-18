@@ -37,6 +37,20 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 63
+  - title: "GW receives funding to develop AI systems to help people with health problems drive safely"
+    excerpt: "Samer Hamdar, an associate professor of civil and environmental engineering at the George Washington University, is partnering with Moment AI to launch a project aimed at developing AI systems that could one day prevent health-induced traffic accidents,"
+    publishedDateTime: 2021-02-18T17:45:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/gwu-grf021821.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 27
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/256788_web.jpg"
+        width: 1440
+        height: 1080
+        isCached: true
   - title: "Robotic glove that uses artificial intelligence to improve muscle grip could help millions"
     excerpt: "A 24-year-old who watched as his aunt struggled to drink water or change the TV channel after multiple sclerosis limited her movement has created a robotic glove which he hopes will help those in similar situations."
     publishedDateTime: 2021-02-16T07:14:00Z

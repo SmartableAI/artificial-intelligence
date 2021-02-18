@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/17/zzappmalaria-startup-app-ai
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/17/zzappmalaria-startup-app-ai-eradicate-malaria/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to bridge the language gap"
-    excerpt: "International Mother Language Day, celebrated annually on 21 February, aims to promote awareness around linguistic and cultural diversity, promoting the preservation and protection of all languages. Through Natural Language Processing (NLP),"
-    publishedDateTime: 2021-02-18T12:26:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/using-ai-to-bridge-the-language-gap-2021-02-18"
-    ampWebUrl: "https://m.engineeringnews.co.za/article.php?a_id=577017&rep_id=5581"
-    cdnAmpWebUrl: "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=577017&rep_id=5581"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 59
-    images:
-      - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
-        width: 1022
-        height: 575
-        isCached: true
   - title: "4 Steps To Using AI Ethically In Your Organization"
     excerpt: "AI can do incredible things, but just because something is possible doesn't mean it's right. There’s enormous potential for backlash against the misuse of AI, and policymakers and regulators will no doubt take an increasing interest in AI."
     publishedDateTime: 2021-02-18T07:01:00Z

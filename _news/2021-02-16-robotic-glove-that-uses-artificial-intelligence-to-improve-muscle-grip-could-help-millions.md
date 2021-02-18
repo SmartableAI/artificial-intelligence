@@ -45,6 +45,20 @@ related:
         width: 642
         height: 361
         isCached: true
+  - title: "GW receives funding to develop AI systems to help people with health problems drive safely"
+    excerpt: "Samer Hamdar, an associate professor of civil and environmental engineering at the George Washington University, is partnering with Moment AI to launch a project aimed at developing AI systems that could one day prevent health-induced traffic accidents,"
+    publishedDateTime: 2021-02-18T17:45:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/gwu-grf021821.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 27
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/256788_web.jpg"
+        width: 1440
+        height: 1080
+        isCached: true
 
 secured: "2pPmbTwyn947pSGM29QxtSCRs9hmNpAP3Ggwav6YUIS3zeyTDHoh9is7qK3LRve7Kp2TFULU9zrmehv5aeI0dLq3Lp8BiYAVAk9dmhiHZX5h/WRXCyep9bpU4TYEXWZpU9pR9axaiZPTqIl2xj+cvMDG2Ic7iBzoOMRGwRJ9ZwmX8RNEEMdztgULqYelmdKFcJZ+5JDwibxASl+Qp8/hnkzTdmU8OCWgAK4vHreX/eXfdAQ2sgS7knG+4AhMOAXcxjB0F6xYPP8NkQqOlIzkaqZcUvlzWoMHWhdB3HEw4wKCz5a4w8HrKoO3UXYNFdnqdeN5xK+8STUupxPARgO7nOIeMvintzXx458Tr1yI3kR+mdoZiVftnRrnhtlwF/UW4Kr2FcKFRI8GhqyDszfqfnSvFa40hdxiSWxEkjrXcFnwQKiDn5KJosIr+6i+RrFABYUD/uThc3TDEYGEKn93iVUKGupDq6ZmaP2rwNBwBhz/+s9wSvzwpSglRaBw0HJ6l8yK3/fAonXdpKwCRpdovQ==;TbOgForkk/c3HprKmt+iFw=="
 ---

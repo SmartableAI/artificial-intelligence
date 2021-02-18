@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Top 5 Robot Trends 2021 International Federation of Robotics"
-excerpt: "The International Federation of Robotics shows top 5 trends shaping industries around the globe. “The mission to combine traditional production with ´go digital strategies´ puts robots in a pole position,"
-publishedDateTime: 2021-02-18T09:10:00Z
-originalUrl: "https://www.financialbuzz.com/top-5-robot-trends-2021-international-federation-of-robotics/"
-webUrl: "https://www.financialbuzz.com/top-5-robot-trends-2021-international-federation-of-robotics/"
+title: "Top 5 Robot Trends 2021 – International Federation of Robotics"
+excerpt: "Robots learn new tricks: Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks. One such task is bin picking, that in the past was only feasible for a human hand. New generations of ..."
+publishedDateTime: 2021-02-18T15:15:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=16293"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=16293"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
@@ -62,6 +62,6 @@ related:
         height: 313
         isCached: true
 
-secured: "Iqa/Rztw5oOwetAbh5TFm4dqkmTkaoBHI2Demzkf8uoMZB7XH7E2eBXJ/bN1PkP3BAFdShT/W/4K02koKRN6riXUhkfP5uuLFuOtKEqw3a3m31S2lDg37I9dS9KuZL+6dYoPDXBqugleGD3rGxGEJF9Yj5h5TMzc2NYWOeM7DYg7awSW1oS7SoBud0coAS0FBCkoOOUMVGViRHCNHLrwCgCvIFx5r0lKLQtq7kRvUP+DdDGfEtsmcWcP7F/UsO3qX/td+M8ehAJhc81b0GmDZ1jvxGHm1JfLlElT7AyJUUTG7do5d/qbKetWUfCfjFaSVfYPP9of1RMi83BWwXTHVrbmrhSXiNcZj14eBnQLrnA=;IgWvSuIhS1N86OWJLVzpPQ=="
+secured: "UKj6cLI9TPzUUdV1Y0xRg/Bl+T2RABdzXhRA6Y8wQ4Kceu8IYvLwQgTxo7a97rr57JaccDb31TNv2ps75zOwkqM59Zh+dLeLFbEa7s6NwGeBj72nUgxQKnzeAB0df3jD4jDzvhOw24kE28Lsa60APpSZGE3pEy/zn85hPpWNerAxw/fCm8iFOdVLr2cAxu/njGl+zKRZvCjAN8HvOQk6qNaYdW3sQA0XZHdkNBBv6M23m9t5WJNEhCDhClRq9J4MUEtBfLfebpfutz8G4+2ftbwKThHFdTX2I+4yTWlanBxLg8j3JDq0nK+NzHijNPHEITsXwz6pu+iJOi+oUT+V/lYNgrW8WRDpClng/0ONRN0=;9tHeiGJZRGKIDNU+X4yrgQ=="
 ---
 

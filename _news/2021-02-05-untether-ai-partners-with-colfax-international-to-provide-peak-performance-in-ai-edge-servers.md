@@ -2,39 +2,19 @@
 category: news
 title: "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers"
 excerpt: "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,"
-publishedDateTime: 2021-02-04T16:38:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
-webUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
+publishedDateTime: 2021-02-05T08:35:00Z
+originalUrl: "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/"
+webUrl: "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/"
 type: article
-quality: 28
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles"
-    excerpt: "LIZHI INC., a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics, an established chip maker for smart mobility in China,"
-    publishedDateTime: 2021-02-08T11:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 44
-
-secured: "BDB7IEawf0Gh76s1E96oUsE02abbywmcnDZilnb5up+KebO599kS90337rgDyhiFv7bKjDv9XSnP1aVA1kTNcNOEV48f2bpPF6HtQkHZMXDINXMTYrtCqcf0idxNOMduq8fdip8JiTerx3EE2GZ8r3vRnD0VAqv4NM3KYicVAlwG8zHK0JT/TFjo6oocsprbtubmpm/Jmij2/JTdSMInz/b/GiAW4L9Bb1kbFBlXvJ+uNSh+pyZXziZgtfSfZ9sgo/sUaqK/LbKxrTFKhq39uW2h9i1jXykHAkuyIGaBhMEUzhu3jv5Zs1TitpVOtNgJrvwe3AYXfv2VHfwigSgj5ZDQGzZHncgj/02CR+ewvqE=;5Me2uCmQyEJE+EEdxHUDNw=="
+secured: "vz06QxmPTHy0+T+W/mNPLWACLSvYFfGMWegeQkpq7jlSR956lBtgCf5jgVKw4se70f+GwEhVMBOQt2XL2gNUyF14vn7JqlBVEdx/6b9yyTq5J8dUyEviZBvEyFaOs+F7jKV9M46Qr2dMB+Ze9vX+ljhoPLh/AlmN/qUplzq37H12W2HtouNjHwRHwtDRfF7OvcnV27woYS+Nt9iNtxfp9R+TFCDuLu92chunVcgf9C0prtEjgo4Ij2UUQ/0BmIyoNw0PsAtaoW4RhMdCa5dRzUXQUR1Q/HtXxHqm2SbIQkGs31loadQ+MWkIroClkFqX+8QYzp0yq+zLKwvF3Vl1DQKcfRIjQQekR37CIDChaBg=;x8O89Y8uKnebLDOCJHIiBw=="
 ---
 

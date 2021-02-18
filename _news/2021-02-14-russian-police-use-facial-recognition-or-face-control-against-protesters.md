@@ -7,7 +7,7 @@ originalUrl: "https://www.nyoooz.com/features/technology/russian-police-use-faci
 webUrl: "https://www.nyoooz.com/features/technology/russian-police-use-facial-recognition-or-face-control-against-protesters.html/5476/"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -69,6 +69,17 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Swedish police fined for unlawful use of facial-recognition app"
+    excerpt: "Sweden’s data watchdog has found that Swedish police failed to conduct the data protection checks required by law before using controversial facial-recognition tool"
+    publishedDateTime: 2021-02-18T16:41:00Z
+    webUrl: "https://www.computerweekly.com/news/252496545/Swedish-police-fined-for-unlawful-use-of-facial-recognition-app"
+    ampWebUrl: "https://www.computerweekly.com/news/252496545/Swedish-police-fined-for-unlawful-use-of-facial-recognition-app?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496545/Swedish-police-fined-for-unlawful-use-of-facial-recognition-app?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
 
 secured: "mzVqedbWtx0b0XB0xoD6+12wlAmFb69dH5X+X/av69vBZw1a8eBkfN1sepEDYFxVWE4cWg6Zi/w3JZOnON1Yh8buAL8p41bWPiX9opX89bUU3MlVBsH+jB6ejUE9t7ZuvANNaMOQMObhAUqglY+ZnYw5uHODxNQBlMfQJAQ+xcHqgUpRqLr5tnOFuF9UVD6O4xv0l02yiS7vTompF+8uSPqONm+2+RYQFV4xffyKmbpLSOXxpzrrO/y5HUkfQ2HCUbxfq0nvsqrI3hM07QGO+OBUePSQ8vPMfyD3aTtacfixSaV8ixX5/1MU55JobYCb4ZCMoLqdSdzpWiJDRPjwFMZJ5hww4bvAV1ZXlDjYFD3JjwTPjR/E3HB7Ud8al95G8nTLNlOe0wzTC18fG/bLJlUSsVyT7Ssf3FpvZIbC+V6QedI347/sLoLgUPWWKRqVaV0PiZb/AxOWz+pxpl9i0D6O4HKdWnXEqgbBW40lzJSfvf3rlJ1/Upk7nmDnU+WcaBEWrdD0HixF7HeabREPbQ==;EXZYNvDIBB1hE7IUYyyjSA=="
 ---

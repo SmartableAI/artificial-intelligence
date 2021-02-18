@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Solving numerical optimization problems like scheduling, routing, and allocation with Amazon SageMaker Processing"
-    excerpt: "In this post, we discuss solving numerical optimization problems using the very flexible Amazon SageMaker Processing API. Optimization is the process of finding the minimum (or maximum) of a function that depends on some inputs, called design variables. This pattern is relevant to solving business-critical"
-    publishedDateTime: 2021-02-17T21:04:21Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/solving-numerical-optimization-problems-like-scheduling-routing-and-allocation-with-amazon-sagemaker-processing/"
+  - title: "Microsoft’s new Translator Cognitive Service can translate documents in a batch"
+    excerpt: "Microsoft has introduced a new Document Translation feature for its Azure Translator service in public preview. The company has announced that Translator Cognitive Service will now allow"
+    publishedDateTime: 2021-02-18T15:06:00Z
+    webUrl: "https://www.onmsft.com/news/microsofts-new-translator-cognitive-service-can-translate-documents-in-a-batch"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
+      name: On MSFT
+      domain: onmsft.com
+    quality: 52
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/30/ML-969-1-WHITE.png"
-        width: 608
-        height: 511
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "0AH2nVAaf11Qit7rEqLYue4SvtR+KWAJ8BvOc7ZXk8qcET5ANIdnCeyfy6/YcPT99OJ83ON//3iWzyNqdWi1s6dv4RyYLUegYK5iXlEjGPwnV4ZTKNesaBRS8aT0n7MQwjkGtaw4u96y+VWkZaHFmM+Wy5G4G9pl1S5DlIs0BmGu0xzQp+BmZWKr0moVW+rHkK48ffOIUehH5anb3YRs20gVSg3YNX3G4VxSIYu/tIptGeXz/clEpliMUw2SAzrd6kCv2vcTMBLwPQZDo7t0hewYHOGNPDJ65VgUoHC2j9U091Iz1MvBYHxAaeeUgB4MKyaTkdC2URrWy5BKQ/vwQ/88I9o3kQwfDPVW78Rj+yg=;hWmsFZBz9Gr+KfXX286o0Q=="

@@ -52,6 +52,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "AnyVision files patent for facial recognition drone"
+    excerpt: "Israeli facial recognition technology developer AnyVision has filed a patent, which would allow drones to change the angle of their flight, so that a mounted camera would be able to a better picture of a person,"
+    publishedDateTime: 2021-02-18T15:49:00Z
+    webUrl: "https://en.globes.co.il/en/article-AnyVision-files-patent-for-facial-recognition-drone-1001361234"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2017/c26_02800.20171015T150137.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "Could drones use facial recognition? We could be one step closer to that happening."
     excerpt: "The U.S. Patent Office has just published a patent application for ‘Adaptive positioning of drones for enhanced face recognition’ filed by AnyVision."
     publishedDateTime: 2021-02-17T13:47:00Z

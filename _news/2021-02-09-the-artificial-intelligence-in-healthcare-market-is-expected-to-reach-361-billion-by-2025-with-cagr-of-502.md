@@ -1,20 +1,26 @@
 ---
 category: news
 title: "The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%"
-excerpt: "In terms of opportunities, the artificial intelligence in healthcare market is expected to grow from $2.1 billion in 2018 to $36.1 billion by 2025; it is expected to grow at a CAGR of 50.2% during the forecast period."
-publishedDateTime: 2021-02-09T09:30:00Z
-originalUrl: "https://www.morningstar.com/news/accesswire/628709msn/the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502"
-webUrl: "https://www.morningstar.com/news/accesswire/628709msn/the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502"
+excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in healthcare market."
+publishedDateTime: 2021-02-09T15:38:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "T91R5H99ZHAr3eKZep9kHjJpZ3Jb9UUEE+srWkN0epP0/yVH2iCZSg4yObzbgWBvQWY4YsTcj438O/ykA8+pAxZKkhCjUIC96ovPE1oANUOmMOv0jHke+Nlntb9Z5oZJQE9cXAjYCEHejH2YB2xcXf08mxiTea+9izR3RYGAswdv2jbxSRgw7Thkmn+IsVHE/S8YSjZOC2ANu70xCZ1C7GecLjphrrfL/yYOAAz6zcbrCmv06qGQLc98KwG1olen6wTPtAWBq9WgZiXaQTNeF1DNIgw/Ah78ZqYMg66uIMECDYRShIDSKQ79LDBu16t7t59Tg2JIgTaxybMlF565DptIjnOa+nRlE5EvAgYSETE=;PHCxfZrtfMhTuGkcrQPZug=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "6tfaV7ouvlmxZZ9odGkKDCz/HGN+QGtHr/Xiq9/RU2rUNRTMRvCg7wx1v6oxbAS3dGpsoK8Fz7bHLC6e4eKxy9E/Zlt4LYbAicxYu/1MnApzXwShk0NfRrcs1ztdXxRRrwPKpngtmc2EWKzV4VRzbJal1RBNPmyhBFoKrZZJi+zGKwZFr3JGzvihK8k3izwUQNvIhQReeF98qd/9ofwitFURlWNQtErGzapMkXk6LnuGRS3BydwvmeFfCs3NGJrrJw30fow6GypFGBZGAka0jBY+YpEP93pbvWOHOnL+9Ok4l4v307GfmC4lOAAGsGwJDvkVd6VR22+AcU9qDg+d6CxhTP5a0VHH9fPm2y+jqAE=;xCiq46ESe1vleILvmxMVlQ=="
 ---
 

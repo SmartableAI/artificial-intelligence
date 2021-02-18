@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-trea
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -42,6 +42,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Deep learning may help doctors choose better lung cancer treatments"
+    excerpt: "Researchers have developed a deep learning model that, in certain conditions, is more than 71 percent accurate in predicting survival expectancy of lung cancer patients, significantly better than traditional machine learning models that the team tested."
+    publishedDateTime: 2021-02-18T18:39:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ps-dlm021821.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "9rffU6YsmN4WO3kJK2vYAYRLGsnKWjYFAuugIp+G4cuzbXctptlcvH8X06tXQ+FuumPSbhTUCH00N1w9yAwGLYHuJVmdpIDRYQ+rMaoJ681phpXtlEr+4QKtNjW0f7hqCTFqf3dbAxaa8h3UUecUy0TPyHfNgFSgpXY7/wR7OJxNXHV3+1oYqjHxiqqYW4KAqvjqQAjTe+b87ATnds3D3K6BnTJ5L8oUCcdEoIlzramVu7RgG2KmIGdpY7ErFN6CDpintb/AARx9n3Jn88qM5Akr68EYQTmheDkSeZogOPR+aec4Q9WH7uLpTrDcXXHaDcRHp5vcg/ZGcYvUBOM7YLSn+j+pxR/usJ0nlFcCZO2QzlOwOKFJNcsYTbxmurlMlg25HnNC1/dxnPN+9GvJYVIV9tEq6naTcAAsSCre3PvF+qpa+MgRgSGOOAIgbTuophtpXSaDyXobznLIbCUxwvfq+5ReT18ZLEdTnmmzPRRVvkgOy09Nf/v7O+iGNf2JENflLDcGX9qwXbGrRQNZDA==;5nzas6rVakaNyGL6ZV0N3A=="

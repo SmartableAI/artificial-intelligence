@@ -40,17 +40,6 @@ related:
         width: 800
         height: 401
         isCached: true
-  - title: "Using Responsible AI to Push Digital Transformation"
-    excerpt: "Can businesses implement ethical AI standards that reduce harm while positively transforming the workplace? Just as its development is creating new business opportunities, AI has also delivered some harmful and ethically objectionable outcomes — a symptom of the misguided rush to get exciting technology to market superseding moral,"
-    publishedDateTime: 2021-02-16T17:51:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
 
 secured: "9UIAvk4Tep14SQizLRHRRoy5PmkADmouIZKRhYt0ZPIZjDE8smRhp6xBhGgJ/XAINMOrOtN06NccuZs9FSRPBsXhe9yuccFo1FYtgM2TLUa0dWT5f7/1Wf6QaEntUo4gNp0Lfmoe9PWeAf+kCki63KSGcxbWAkVQlsJlqssSe9cymunfvVHI4JUHIhnJUGh1A0ZJ4SfzgbY7BjWCq8wfC8p5YcwKAzzlUFOsuAaL6z2aZr8dqf4C/KqAodeR1AX0eMGmmFM6jW+Vo9XOPZwa3QQo742AlhO+5Q9HxDwg1GkBvJi71I94YmmcWtLEgvp4IuiLS4t8EQz+HEy7hFyxwwUb4BBvo7UKNcVCbFmAedE=;RPn4jwHDupTDwIJL6e3Dcw=="
 ---

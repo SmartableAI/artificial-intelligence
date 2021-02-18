@@ -27,35 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "This startup is using AI to eradicate malaria"
-    excerpt: "A startup called ZzappMalaria hopes to shrink these numbers by targetting the mosquitoes that transmit the infection. The company’s tech focuses on larviciding, a method of treating the water bodies in which the insects breed."
-    publishedDateTime: 2021-02-17T21:11:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/17/zzappmalaria-startup-app-ai-eradicate-malaria/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/17/zzappmalaria-startup-app-ai-eradicate-malaria/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/17/zzappmalaria-startup-app-ai-eradicate-malaria/amp/"
+  - title: "4 Ways To Bridge The AI-Integrity Gap"
+    excerpt: "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,"
+    publishedDateTime: 2021-02-18T17:18:00Z
+    webUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/"
+    ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg"
+        width: 588
+        height: 392
+        isCached: true
+  - title: "10 Ways AI Has The Potential To Improve Agriculture In 2021"
+    excerpt: "AI, machine learning (ML), and the IoT sensors that provide real-time data for algorithms increase agricultural efficiencies, improve crop yields, and reduce food production costs"
+    publishedDateTime: 2021-02-17T17:20:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-17T201426.434-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602d48193da3d0409611fdac%2F0x0.jpg"
+        width: 1149
+        height: 766
         isCached: true
-  - title: "4 Steps To Using AI Ethically In Your Organization"
-    excerpt: "AI can do incredible things, but just because something is possible doesn't mean it's right. There’s enormous potential for backlash against the misuse of AI, and policymakers and regulators will no doubt take an increasing interest in AI."
-    publishedDateTime: 2021-02-18T07:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/4-steps-using-ai-ethically-your-organization-bernard-marr"
+  - title: "How the hybrid cloud is key to enterprise AI infrastructure strategies"
+    excerpt: "Few resources are as readily available and easy to use as the cloud, and this easy access to infrastructure extends to AI workloads."
+    publishedDateTime: 2021-02-18T12:23:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/feb/18/how-the-hybrid-cloud-is-key-to-enterprise-ai-infrastructure-strategies/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 41
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQH2a1t2jEeS1g/article-cover_image-shrink_720_1280/0/1613631487724?e=1619049600&v=beta&t=8E_BeicJ5zOoDnI6Bo8qaTPl5FJ7EJN1CWL6D7c4knE"
-        width: 1280
-        height: 640
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/atom-in-hands-picture-id187059090.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "Q64tXKLzYKnbz22bBDTrlYC5T7GnSbUa25VvvKEDUmOmtQ+/tdjRtW8JSQV6WPmt2ljyjL2UYT6cHmGD6mRMULhMZdGFp6U6SBQIk8EHcXBNvCIjax6zDAMuumiAYSF3SS9QTX8dI9OA/v+lWKPJOfrQ4wYxhOILLZyIy9eqSl/wlRG96XT1XhL6TO5dZ/zqddhaWHjEKvM18755hpBqxBRXjlKIkxd1xu3kQkdrjxLYUUZkSWd3yR9a6V8JCqDA1N++6DxYAs7OIFZdnzzHAypy0obNvBlX9rTfhHVz/N58KSEKPkRfx2vkl0xDnZTKX5DqPDa4e+znuIImyNqqO61XCdjunYh9qUheCGMCcmU=;YJx5DfeySnp8iztXr6upNw=="

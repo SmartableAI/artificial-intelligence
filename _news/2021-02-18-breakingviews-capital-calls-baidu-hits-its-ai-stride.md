@@ -2,14 +2,14 @@
 category: news
 title: "Breakingviews - Capital Calls: Baidu hits its AI stride"
 excerpt: "China’s search engine operator Baidu is finally getting somewhere with its artificial intelligence bets. Sales in the quarter ending in December rose 5% year-on-year to $4.6 billion. That was powered by a 52% surge in cloud computing and other non-advertising revenue,"
-publishedDateTime: 2021-02-18T09:00:00Z
-originalUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idINKBN2AI0B8"
-webUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idINKBN2AI0B8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AI0B8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AI0B8"
+publishedDateTime: 2021-02-18T04:00:00Z
+originalUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8"
+webUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI0B8"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI0B8"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,23 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu (BIDU) Trading Lower Despite Strong Quarter"
-    excerpt: "( BIDU) is trading lower by less than 1% in Thursday's pre-market session after meeting fourth quarter 2020 revenue guidance and beating profit estimates by a small margin. The Chinese search engine giant earned RMB 20."
-    publishedDateTime: 2021-02-18T14:36:00Z
-    webUrl: "https://www.investopedia.com/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
-    ampWebUrl: "https://www.investopedia.com/amp/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
-    cdnAmpWebUrl: "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
+  - title: "Baidu Announces Fourth Quarter and Fiscal Year 2020 Results"
+    excerpt: "Baidu ended 2020 on a solid note with our business benefiting from improving macroeconomic environment and the digitalization of industrial Internet. Our focus on innovation through technology is paying off with Baidu Core non-marketing revenue growing 52% year over year in the fourth quarter,"
+    publishedDateTime: 2021-02-18T07:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-349cf4d406d15ec7522c20dd94a88a8a"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 59
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://www.investopedia.com/thmb/PnDkDkBe_cAP2ID4PANMsMYOEF8=/680x440/filters:fill(auto,1)/baidu_shutterstock_363519476-ecee364f0fd544808e72b2db66e15b0e.jpg"
-        width: 680
-        height: 440
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "In China, AI and cloud boost Baidu revenues by 52%"
+    excerpt: "China's search giant Baidu beat revenue estimates after its AI and cloud efforts started paying off. Its non-advertising revenues, from areas such as AI and cloud, rocketed 52%. Sales overall rose by a respectable 4."
+    publishedDateTime: 2021-02-18T17:23:00Z
+    webUrl: "https://www.lightreading.com/aiautomation/in-china-ai-and-cloud-boost-baidu-revenues-by-52/d/d-id/767495"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
         isCached: true
 
-secured: "ppGBXrfNk4Lo6O5cGBbD5tlp2wLwEnIEfZ/G7mwSXVjtnrr04rk85FRVvp+vbM7dyt04wzGSvFKyuHGiYsokAh/mCJENIq1hyNYHmmBAj+EWFVEFD2REwSQLOTCJmsO+YKJtNAiKQ/rxeRdXkd4NFpVY7Md52Q3BpUf6kBNZ9qNtb1n3FZZZ6u9NhiqL6rbbTUg9dHUo7WNEK8B1ao2q9a+dpNBqypAH2zlYUdk4yJxwNF5AKjyEyiX+ngIk5bmoqJBN1O6cq/LwMrM8KMz0x4Ep+J60E4mS8VN0hMygpaAx8F5aH7usNtCCYEkxnCO1DJDJCZImLw1m9W5P+CualCIYE6fb8mlulgNJF+NuIGJo8oGvo9Tnr7Od2H7t8KbvVrBd1jvDuTI2pAXiXQrxxP+PW4/YG/rbiviidSRjHWFfLssAsKPkIyQRSvbVYR97ZV1J63x/5mudpXy6RPPo3I9VUUQGs/SByTuXBB8hH84f6SeIvhOKu0XvvVr+ZJvtHbFaClON6GKrcjRejSDp5Q==;VZIHZ6dHBTkCSpmMshvZWQ=="
+secured: "c75lGqW4MOmX72tegXhxUMWtrz4oW6B8wsqSvyE6FOhHfGUN37KaHDgpocey9AFThUl1GtV3tZQ28GeS69B3/PAT0UKpPIro/EIMus3OgnD3u6Y83F5nmMWy/L8QqYojaGsOR0/Cg7RpDb4S37qFNnahjo7rPQ1u2F584Tzhcsw4XiyBE3fsGU+NpVy4Lt/3Tie+L7XZ1v+AJRXmQ4TRWF1uBG/6VUnBDnRdSKg3qnbN7+g1pdi/FuNAHae6m3LaT8nNcZmRoS5/fzwGldpDSSvWsFTIPokq51DwRrKI/11wDvuBdXps50YUaKl/1KMtnlDeJIMh0ju6cIWbbYkKDqDCdl8aHKX+sLO11sqbqoU=;XK/YHBm4mQKM35bG7gqOmg=="
 ---
 

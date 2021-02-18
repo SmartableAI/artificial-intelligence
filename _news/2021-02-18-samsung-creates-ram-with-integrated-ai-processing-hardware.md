@@ -51,7 +51,7 @@ related:
     provider:
       name: The National Interest
       domain: nationalinterest.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://nationalinterest.org/sites/default/files/main_images/2016-06-11T120000Z_232721586_S1AETJHGYOAA_RTRMADP_3_LATVIA-NATO.JPG_0.jpg"
         width: 1222

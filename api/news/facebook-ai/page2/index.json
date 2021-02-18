@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-19-nasa-is-training-an-ai-to-detect-fresh-craters-on-mars.md",
+      "title": "NASA Is Training an AI to Detect Fresh Craters on Mars",
+      "excerpt": "An algorithm discovered dozens of Martian craters. It’s a promising remote method for exploring our solar system and understanding planetary history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/",
+      "originalUrl": "https://www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6001e176c94b3f9f2302d0c7/master/pass/Science_mars_pia21769.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/amp",
+      "publishedDateTime": "2021-01-19T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service.md",
       "title": "K Health raises $132 million to launch AI-powered telemedical pediatric service",
       "excerpt": "K Health, a telemedical service using AI to diagnose and treat illnesses, has raised $132 million in venture capital.",

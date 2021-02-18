@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-18T16:18:00Z
 originalUrl: "https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/"
 webUrl: "https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/02/Neuron_1200_Social.jpg"
@@ -36,6 +37,6 @@ related:
       domain: digitaltrends.com
     quality: 54
 
-secured: "q7RlL4Xt3bUQpEy+X6mQe+Aj4H3Dx1eEKYLoQKN7llJzfHmJgy/S/jodpGqEP3/E7t4X2TvtmMBJMwCnRP5vsPxdbr0B2I7UWZtK8n9UK3lCMzc9/9px87nNW7RsvMTDg9FdySAn3f7xHAQf9NBx1FH+2eT5cpeYPPBPiv2jHlKCGhL/gdBMGhUhMz34tU1I+VCDeRshFehAbaaMHh61deMtSKZ9TkDRjbgecGBaKRnP1Xh9DPk0UNCf2klzdUtjSgaeIDKH/4MZZGwUKRhVaLaSIgC/kDpu2K6SJstAk48piBCtEl1x3zDP0fQY7qI5Vsapp6IiGV18dIrhibPbcQRJKq7/hzUojqLWPfqCJps=;2R8ITB2t+aWwTl+CvolTKA=="
+secured: "32su4j60Uekd+MPnyYnu56/+NPt6vVT2KdGxIvN1RQC2P1SPIPR7U8377g//iOPoNKw2tAsWRjeDRCJxatCLmZKyjICiC5oYIdhA5rFcTth7eio8kwHYzN1LmUZ+nYVwkbGASlnQQ/3AJhk5nwjp4IQqCqmmgZq7L/5oDwR/Sy/yTB9BRwTMKiiBaGoPJbH5got846k/79gcvjKBZe+hDfYFxhRh6JSBL6RpDmIZi+l/NoEJcSXXVUtu1FVqjLnEAKEPKkvuRVoBVfA7OiM+YE7zKxRL6lc6th/8Ow3AzD8dJFAJk1S2+myMtwyMljf82oce5CPGD/5SB8HlIm7YC68m1dXJTnhoW7AUOxDU8FCrY1PcA0h5aV9YWlr7IWNp3c9QTwVkGp8V95uwO9d4ddqTZ3xibV4vgbONRgZ41g2libULnDU4JocYu5+sm9xvxd/cbaQLT3o+LGStfzNYeVnfu95PXm2opyaB437qDQ32vNJpfcQ/K2QY/DeiK3NOyo6WWwcdegtt82gdUnaLIw==;iP3x6uVvwpFil6LOzNGVMA=="
 ---
 

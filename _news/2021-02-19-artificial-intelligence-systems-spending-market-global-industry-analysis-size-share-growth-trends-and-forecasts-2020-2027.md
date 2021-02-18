@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-18T16:21:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2027-2021-02-18"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2027-2021-02-18"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

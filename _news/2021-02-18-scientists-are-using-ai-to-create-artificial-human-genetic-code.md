@@ -33,7 +33,7 @@ related:
     provider:
       name: Quanta Magazine
       domain: quantamagazine.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/02/Neuron_1200_Social.jpg"
         width: 1200

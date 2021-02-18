@@ -39,14 +39,14 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Top 5 Robot Trends 2021 International Federation of Robotics"
-    excerpt: "The International Federation of Robotics shows top 5 trends shaping industries around the globe. “The mission to combine traditional production with ´go digital strategies´ puts robots in a pole position,"
-    publishedDateTime: 2021-02-18T09:10:00Z
-    webUrl: "https://www.financialbuzz.com/top-5-robot-trends-2021-international-federation-of-robotics/"
+  - title: "Top 5 Robot Trends 2021 – International Federation of Robotics"
+    excerpt: "Robots learn new tricks: Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks. One such task is bin picking, that in the past was only feasible for a human hand. New generations of ..."
+    publishedDateTime: 2021-02-18T15:15:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=16293"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
     quality: 34
   - title: "Top 5 Robot Trends 2021 Robots Learn New Tricks and Help to Reduce Carbon Footprint"
     excerpt: "Annual installations of industrial robots more than tripled within ten years (2010-2019) reaching 381 thousand units in factories around the world. The International Federation of Robotics shows top 5 trends shaping industries around the globe."

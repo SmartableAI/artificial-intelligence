@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-18-auto-supplier-visteon-sees-more-plant-closures-due-to-chip-shortage.md",
+      "title": "Auto supplier Visteon sees more plant closures due to chip shortage",
+      "excerpt": "Auto parts supplier Visteon Corp said on Thursday the global semiconductor chip shortage could hit global auto production by about 10% to 15% in the first half of 2021 and likely lead to additional plant closures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-visteon-semiconductors-idUSKBN2AI29M",
+      "originalUrl": "https://www.reuters.com/article/us-visteon-semiconductors-idUSKBN2AI29M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552021796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H19J",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI29M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI29M",
+      "publishedDateTime": "2021-02-18T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning.md",
       "title": "AI: IBM showcases new energy-efficient chip to power deep learning",
       "excerpt": "IBM researchers have designed an AI accelerator chip that boosts performance, but not energy bills. By Daphne Leprince-Ringuet | February 18, 2021 -- 15:00 GMT (07:00 PST) | Topic: Innovation IBM's researchers have designed what they claim to be the world's first Ankur Agrawal and Kailash Gopalakrishnan,",
@@ -221,7 +273,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -930,6 +982,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-05-untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers.md",
+      "title": "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers",
+      "excerpt": "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/",
+      "originalUrl": "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-monitoreal-provides-an-ai-smart-object-detection-appliance-to-deliver-advanced-analytics-and-real-time-alerts.md",
       "title": "Monitoreal provides an AI-smart object detection appliance to deliver advanced analytics and real time alerts",
       "excerpt": "The use of AI-computer vision technology to improve situational awareness and provide highly accurate advanced object detection analytics, reducing false alerts and delivering real time",
@@ -1362,102 +1448,6 @@
         "AI",
         "AI Hardware",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-elder-care-wireless-ai-and-the-internet-of-medical-things.md",
-      "title": "Elder care, wireless AI, and the Internet of Medical Things",
-      "excerpt": "Senior citizens are accustomed to constant probes by doctors, but wireless AI tech is enabling massive-scale, nonintrusive data monitoring.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Elder-care-wireless-AI-and-the-Internet-of-Medical-Things-01.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/",
-      "publishedDateTime": "2021-02-01T07:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.md",
-      "title": "Next Tesla Full Self Driving Chip Will Use 5 Nanometer Lithography",
-      "excerpt": "Tesla will work with Samsung to develop a 5nm-class semiconductor for the HW4 version of the Tesla Full Self Driving Chip. Samsung is supplying 14nm chips to Tesla for the HW3 version of FSD. The in-v",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2019/12/fsdchip-1024x512.jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html?amp",
-      "publishedDateTime": "2021-01-31T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/data-processing-opti
 webUrl: "https://aws.amazon.com/blogs/machine-learning/data-processing-options-for-ai-ml/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using Responsible AI to Push Digital Transformation"
-    excerpt: "Can businesses implement ethical AI standards that reduce harm while positively transforming the workplace? Just as its development is creating new business opportunities, AI has also delivered some harmful and ethically objectionable outcomes — a symptom of the misguided rush to get exciting technology to market superseding moral,"
-    publishedDateTime: 2021-02-16T17:51:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
   - title: "VVDN’s Vision Business Unit expands its design and manufacturing capabilities on High End Camera Solutions with AI/ML"
     excerpt: "VVDN Technologies is expanding its capabilities in design and manufacturing of High End Camera Solutions with advanced edge AI processing. VVDN’s Vision Business Unit has invested in gaining expertise on several high-end intelligent camera platforms including AI processing functionality to deliver high-speed edge analytics with reduced power consumption."
     publishedDateTime: 2021-02-17T14:41:00Z

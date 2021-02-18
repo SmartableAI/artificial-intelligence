@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Is Not the Best Defence Against Cyberattacks"
+    excerpt: "As technology is evolving in the fourth industrial revolution, cybercriminals are coming with sophisticated ways of cyberattacks. Are artificial intelligence and machine learning tools enough to counter these business risks?"
+    publishedDateTime: 2021-02-18T17:52:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-is-not-the-best-defence-against-cyberattacks/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 52
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Ai-and-cyber.jpeg"
+        width: 1600
+        height: 1066
+        isCached: true
 
 secured: "U6t8uMuGGiTX6L9XgdUKsFR/ZSxe0aw7JeI7lfa2KmY/0OXvab+wymlYEjHYCEK5QYrIxJNZ+6qIHDKMN5QT7H5v34tFz1D4YEhcih+D+9Hd7pH0TeVNHd0xw9YYmZbN+S1NLR3rKn47T5QpJ8mNSvwnw5EPxqM+1vIWhBCZrgg8jyQwT29f532SIwVcdTw7rxNeTNtHOeUaO1nK6cKRg6JGCoWyt3cI6ICL7cFfV8Gg9Lr84hwzNFK+hB1g0KQnoGJwLw3si9myOP4rvNdYxSrvbsfI6YHJtg6JepMqDgnkf1LBQgqIISMmE35K9dYirg9untrSduwpbq1JStOjubnZrVG3E6JTP3YOJpqBH9ixYJVbRPWsOwf9pzzY0sDFDIs6qnP6YDvpvzS9cOBgrU2hjDXDmzH4yN1UCob9ybdrT9LEZP3QZlQY+gkU+GqLSwqgZHYSD0EcxZSruxa5qgOqrSqTLStQrbY2epDhRjB/r4sj4t4xk7nbaalQiMQo5+srv3WqXi7IYH+xkLDnFw==;ANt1XPvWrjEkvijz/CTOSg=="
 ---

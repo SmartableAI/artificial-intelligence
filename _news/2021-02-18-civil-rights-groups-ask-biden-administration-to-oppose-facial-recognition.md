@@ -89,6 +89,22 @@ related:
         width: 1024
         height: 483
         isCached: true
+  - title: "Civil rights groups want Biden to halt government use of facial recognition"
+    excerpt: "President Biden is facing pressure from civil rights and tech advocacy groups to halt the use of facial recognition by the government."
+    publishedDateTime: 2021-02-18T16:13:00Z
+    webUrl: "https://www.dailydot.com/debug/biden-facial-recognition-pressure/"
+    ampWebUrl: "https://www.dailydot.com/debug/biden-facial-recognition-pressure/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/biden-facial-recognition-pressure/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://uploads.dailydot.com/2021/02/Joe-Biden-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "CBP facial recognition technology fails to find anyone using false identities at airports"
     excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
     publishedDateTime: 2021-02-15T03:01:00Z
@@ -103,6 +119,15 @@ related:
         width: 1097
         height: 700
         isCached: true
+  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
+    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
+    publishedDateTime: 2021-02-18T18:34:00Z
+    webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 42
   - title: "Biden Must Halt Face Recognition Technology to Advance Racial Equity"
     excerpt: "Face recognition is a threat to not only our constitutional rights, but to people of color and other marginalized groups who are more likely to be misidentified — and bear the consequences"
     publishedDateTime: 2021-02-17T19:02:00Z

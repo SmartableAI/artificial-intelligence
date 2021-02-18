@@ -7,7 +7,7 @@ originalUrl: "https://cloudcomputing-news.net/news/2021/feb/18/how-the-hybrid-cl
 webUrl: "https://cloudcomputing-news.net/news/2021/feb/18/how-the-hybrid-cloud-is-key-to-enterprise-ai-infrastructure-strategies/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,56 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "4 Ways To Bridge The AI-Integrity Gap"
+    excerpt: "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,"
+    publishedDateTime: 2021-02-18T17:18:00Z
+    webUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/"
+    ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg"
+        width: 588
+        height: 392
+        isCached: true
+  - title: "10 Ways AI Has The Potential To Improve Agriculture In 2021"
+    excerpt: "AI, machine learning (ML), and the IoT sensors that provide real-time data for algorithms increase agricultural efficiencies, improve crop yields, and reduce food production costs"
+    publishedDateTime: 2021-02-17T17:20:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602d48193da3d0409611fdac%2F0x0.jpg"
+        width: 1149
+        height: 766
+        isCached: true
+  - title: "Using AI to bridge the language gap"
+    excerpt: "International Mother Language Day, celebrated annually on 21 February, aims to promote awareness around linguistic and cultural diversity, promoting the preservation and protection of all languages. Through Natural Language Processing (NLP),"
+    publishedDateTime: 2021-02-18T12:26:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/using-ai-to-bridge-the-language-gap-2021-02-18"
+    ampWebUrl: "https://m.engineeringnews.co.za/article.php?a_id=577017&rep_id=5581"
+    cdnAmpWebUrl: "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=577017&rep_id=5581"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 59
+    images:
+      - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
+        width: 1022
+        height: 575
+        isCached: true
 
 secured: "ftiQ1fAUIGkJvdTJ9FKEJy0G3yBR/Q5go96SJAmmG8F1x+J999FS0C+olIkBPq+G6wUpYoykyBDcND4It3W5R6W4U0Qqw6gCS4KvZEPFSjVVvE0wGfwwoExJA41HmHvFu3E6lg8mcQ6FpIflU/lApC4tDLieiyVvbKaahpnYEm6zlLd/OePEwuors/p5AC3CblhJ7wH+nNoAq0mPNCr8CZYvv47jPg77HnD5bPRjc9qod3LlKHKaC1YP9dZ4RTY/vOe5yxgUacyhmR1iacjrCcsxYQY5GoUOCeCfaUB+sag6oAqGkflcyM0ZSmfarkln9NQfpE1n8tEDx4OVUneCBVMsWasq0zwpsnC/WnzKasZ9ceHGXUNSaPcjfooePVwcRQfyUvuRaKL+w4X154jIJwoRrwDTTtz7pyp3pkbnjXnJl5gMHrd72PRpw7WpfhPkaGyB07jm6RJRxPGibYJ/l7aswPCNFMaxnxxbJ6mgpmpAK0d0g+seW/Zz/B66+CnIGjLI3LkH1s5wEu3POYqkXQ==;UpU3KLZqPlCtUDcEtV4mgw=="
 ---
