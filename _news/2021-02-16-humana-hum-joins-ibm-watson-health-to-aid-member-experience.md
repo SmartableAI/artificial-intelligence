@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists"
-    publishedDateTime: 2021-02-16T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "Humana, IBM Partner To Streamline Member Engagement With AI"
     excerpt: "Humana has announced a partnership with IBM Watson Health that seeks to improve member engagement through artificial intelligence. The solution will use an artificial intelligence-enabled virtual assistant to provide accurate benefits,"
     publishedDateTime: 2021-02-16T15:01:00Z
@@ -47,6 +36,20 @@ related:
       - url: "https://healthpayerintelligence.com/images/sized/GettyImages-1189484012-3f32efd853ffed8e5d8a1184abc2c18d.jpg"
         width: 480
         height: 278
+        isCached: true
+  - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
+    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
+    publishedDateTime: 2021-02-16T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "V2k+XdQyO9GAhtgqXEG/ikP9FeVaJG3NL1KlYInaows/o8xFSypM7A1BHQ45LUrfbq6frzF1Qe4yQVaizU4fQoJWznxgN0A608+OPEaTCInAeQGnLKsL8ULdP7gSRksu3gy9LaVRCNmPGavST5EimzGIVu0ojX2iO+d4sbVrn4hKYxo/8taEbLr2g/Bce52ByQBiTMVhz7Pmh9cKh2SmYHKJVL2ubU2IgXgGaIgOy7TqaTB1OzDYB8fexgPyhGGJ8tkd59ftK7tKvH4OZHA8gqqS6A1dp6d5ITY2hLTrozZMsNpIcHzUamQfa2tvR9khsoaQ5O+6R6kvVU7rmuDPl9pVk/ap9QYx1KooMAI/L1M=;5DzlovyhFMns+HLJDtXSoA=="

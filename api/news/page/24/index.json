@@ -2,6 +2,144 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-01-28-how-communities-can-become-smarter-about-artificial-intelligence.md",
+      "title": "How Communities Can Become Smarter About Artificial Intelligence",
+      "excerpt": "The growing use of artificial intelligence for smart cities is changing the rules for everyone, including government agencies, elected officials, constituents and AI vendors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/28/how-communities-can-become-smarter-about-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/28/how-communities-can-become-smarter-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60119bd673d98c63b706c92d%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
+      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
+      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19366126/graphic-processing-unit-gpu-market-size-to-hit-usd-198-77-billion-by-2027",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19366126/graphic-processing-unit-gpu-market-size-to-hit-usd-198-77-billion-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19366126",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19366126",
+      "publishedDateTime": "2021-01-28T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-the-next-target-for-a-facial-recognition-ban-new-york.md",
+      "title": "The Next Target for a Facial Recognition Ban? New York",
+      "excerpt": "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
+      "originalUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
+      "publishedDateTime": "2021-01-28T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-starship-raises-17-million-to-develop-driverless-delivery-robots.md",
       "title": "Starship Raises $17 Million To Develop Driverless Delivery Robots",
       "excerpt": "Starship has raised $17 million to keep working on autonomous deliveries, a post on Medium from the company says. The company has also added two new service campuses, UCLA and Bridgewater State ...",
@@ -1027,153 +1165,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-the-great-free-speech-reversal.md",
-      "title": "The Great Free-Speech Reversal",
-      "excerpt": "Liberals once believed that private corporations have far too much power over the flow of ideas and information in today’s society. Now it’s conservatives who are worried.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2021/01/first-amendment-regulation/617827/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2021/01/first-amendment-regulation/617827/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/aYdbtnZ42iYsmiyu9rQ5lLmUZsg=/74x0:1842x994/570x320/filters:format(png)/media/img/mt/2021/01/7CN23I00/original.png",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/617827/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617827/",
-      "publishedDateTime": "2021-01-27T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-33.md",
-      "title": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares (NYSEARCA:UBOT) Stock Price Down 3.3%",
-      "excerpt": "Shares of Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares (NYSEARCA:UBOT) were down 3.3% during mid-day trading on Wednesday . The stock traded as low as $44.30 and last traded at $44.",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/01/28/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/01/28/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/01/28/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/28/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html/amp",
-      "publishedDateTime": "2021-01-27T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai.md",
-      "title": "Commonwealth Bank's refreshed digital strategy to focus on the power of AI",
-      "excerpt": "The bank has also scooped up hospitality cloud platform Doshii to celebrate one year of its venture arm, X15 Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "originalUrl": "https://www.zdnet.com/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/28/efda0bab-abb7-46af-8123-09c5edf316e2/cba-x15-matt-comyn-commonwealth-bank-of-australia.jpg",
-          "width": 3661,
-          "height": 2443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "publishedDateTime": "2021-01-27T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

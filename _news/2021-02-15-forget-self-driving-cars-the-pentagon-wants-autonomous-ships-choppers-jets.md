@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forget self-driving cars — the Pentagon wants autonomous ships, choppers and jets"
-    excerpt: "Defense moves are outpacing commercial automation efforts in the air, on the ground and beneath the waves as officials seek to counter American adversaries' technological advances."
-    publishedDateTime: 2021-02-13T11:54:00Z
-    webUrl: "https://www.foxbusiness.com/technology/forget-self-driving-cars-the-pentagon-wants-autonomous-ships-choppers-and-jets"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 19
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/16BFT000038_005_KC46_AV8_MedRes.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Forget Self-Driving Cars -- the Pentagon Wants Autonomous Ships, Choppers, Jets"
     excerpt: "From pilotless jets engaging in dogfights to huge undersea vessels ferrying troops, the Pentagon is pushing to increase the U.S. military's use of automation. Defense moves are outpacing commercial automation efforts in the air,"
     publishedDateTime: 2021-02-15T20:35:00Z

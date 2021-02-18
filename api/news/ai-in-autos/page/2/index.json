@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-06-3-no-brainer-stocks-to-buy-in-artificial-intelligence.md",
+      "title": "3 No-Brainer Stocks to Buy in Artificial Intelligence",
+      "excerpt": "In fiction, artificial intelligence is often associated with intelligent androids or dystopian futures. But in reality, the AI market mainly revolves around crunching large amounts of data to make quick decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611243%2Fgettyimages-664246660.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "publishedDateTime": "2021-02-05T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-three-ways-artificial-intelligence-could-change-the-markets.md",
+      "title": "Three ways artificial intelligence could change the markets",
+      "excerpt": "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en/opto/three-ways-artificial-intelligence-could-change-the-markets",
+      "originalUrl": "https://www.cmcmarkets.com/en/opto/three-ways-artificial-intelligence-could-change-the-markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/AI0402_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-baidu-tops-beijing-autonomous-vehicles-road-test-report-for-the-third-consecutive-year.md",
       "title": "Baidu Tops Beijing Autonomous Vehicles Road Test Report for the Third Consecutive Year",
       "excerpt": "In late 2020, Baidu was awarded with five autonomous vehicle driverless testing permits from the Beijing Municipal Commission of Transport, marking the inaugural batch of permits issued to a ...",
@@ -1326,110 +1421,6 @@
         "name": "pymnts.com",
         "domain": "pymnts.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-baidu-secures-license-for-full-driverless-road-tests-in-california.md",
-      "title": "Baidu secures license for full driverless road tests in California",
-      "excerpt": "The California Department of Motor Vehicles has granted Baidu permission to test its ... and Chrysler Pacifica vehicles loaded with its self-driving technology within Sunnyvale in Santa Clara ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/baidu-full-driverless-road-tests-california-121025542.html",
-      "originalUrl": "https://www.engadget.com/baidu-full-driverless-road-tests-california-121025542.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F5efd98f0-6153-11eb-bdb5-bb0a6df2a8b9&client=amp-blogside-v2&signature=e0844b161a7e6026ce16dbdab92150acc7258337",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/baidu-full-driverless-road-tests-california-121025542.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-full-driverless-road-tests-california-121025542.html",
-      "publishedDateTime": "2021-01-28T14:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-cognitiveartificial-intelligence-systems-market-2021-2027-business-analysis-future-opportunities-leading-companies-and-more.md",
-      "title": "Cognitive/Artificial Intelligence Systems Market 2021-2027, Business Analysis, Future Opportunities, Leading Companies and more…",
-      "excerpt": "Cognitive/Artificial Intelligence Systems MarketArtificial intelligence has received an overwhelming attention globally",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitiveartificial-intelligence-systems-market-2021-2027-business-analysis-future-opportunities-leading-companies-and-more-2021-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitiveartificial-intelligence-systems-market-2021-2027-business-analysis-future-opportunities-leading-companies-and-more-2021-01-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

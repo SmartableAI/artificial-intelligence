@@ -2,6 +2,134 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-01-21-transforming-cpg-inventory-management-with-augmented-reality-computer-vision.md",
+      "title": "Transforming CPG Inventory Management with Augmented Reality & Computer Vision",
+      "excerpt": "Computer Vision AI and AR-powered visual assistance provide remote “eyes” that enable field and store employees to receive guidance on product placement and verify that shelf space is optimized, in human-assisted or self-service modes. They can quickly ...",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/transforming-cpg-inventory-management-with-augmented-reality-computer-vision/",
+      "originalUrl": "https://customerthink.com/transforming-cpg-inventory-management-with-augmented-reality-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/turn-on-2917049_1280-pixabay-marketing-technology.jpg",
+          "width": 1280,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-nucleus-research-releases-q1-2021-equity-snapshot-for-ibm.md",
+      "title": "Nucleus Research Releases Q1 2021 Equity Snapshot for IBM",
+      "excerpt": "Nucleus Research, a global provider of ROI-focused technology research and advisory services, today released its Q1 2021 Equity Snapshot for IBM. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210120005424/en/Nucleus-Research-Releases-Q1-2021-Equity-Snapshot-for-IBM",
+      "originalUrl": "https://www.businesswire.com/news/home/20210120005424/en/Nucleus-Research-Releases-Q1-2021-Equity-Snapshot-for-IBM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai.md",
+      "title": "14 Tech Experts Predict Which Industries And Sectors Will Benefit Most From AI",
+      "excerpt": "Artificial intelligence and machine learning have made their way into many diverse industries, changing the way businesses handle everything from inventory to customer relations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60083be4a0f13c311ca97b8e%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/amp/",
+      "publishedDateTime": "2021-01-20T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-redacting-pii-from-application-log-output-with-amazon-comprehend.md",
       "title": "Redacting PII from application log output with Amazon Comprehend",
       "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships in text. The service can extract people, places, sentiments, and topics in unstructured data. You can now use Amazon Comprehend ML capabilities to detect and redact personally",
@@ -1044,144 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-nextech-ar-integrates-microsoft-azure-cloud-computing-platform.md",
-      "title": "Nextech AR Integrates Microsoft Azure Cloud Computing Platform",
-      "excerpt": "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-zim-cooperation-network-on-ai-based-agricultural-robotics-launched-artificial-intelligence-for-sustainable-agriculture.md",
-      "title": "ZIM cooperation network on AI-based agricultural robotics launched: Artificial intelligence for sustainable agriculture",
-      "excerpt": "Zentrum für Agrarlandschaftsforschung (ZALF) e.V. The recently approved ZIM cooperation network \"DeepFarmbots\" met virtually for its official kick-off on November 25. The central goal of the network is to develop and disseminate new agricultural robotics solutions for efficient and sustainable agriculture.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news761539",
-      "originalUrl": "https://idw-online.de/de/news761539",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/corona_idw.png",
-          "width": 615,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users.md",
-      "title": "Facebook AI Gets Better at Describing Photos for Visually Impaired Users",
-      "excerpt": "The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018), relies on object recognition to generate descriptions of photos ...",
-      "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users",
-      "originalUrl": "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_zvtd.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

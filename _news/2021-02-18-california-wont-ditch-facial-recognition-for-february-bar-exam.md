@@ -3,8 +3,8 @@ category: news
 title: "California Won't Ditch Facial Recognition for February Bar Exam"
 excerpt: "Despite the threat of a lawsuit, the State Bar of California says concerns over the use of facial recognition on the online bar exam are too vague to make the case that the technology is discriminatory."
 publishedDateTime: 2021-02-17T18:27:00Z
-originalUrl: "https://www.law.com/legaltechnews/2021/02/17/california-wont-ditch-facial-recognition-for-february-bar-exam/"
-webUrl: "https://www.law.com/legaltechnews/2021/02/17/california-wont-ditch-facial-recognition-for-february-bar-exam/"
+originalUrl: "https://www.law.com/therecorder/2021/02/17/california-wont-ditch-facial-recognition-for-february-bar-exam/"
+webUrl: "https://www.law.com/therecorder/2021/02/17/california-wont-ditch-facial-recognition-for-february-bar-exam/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 372
     isCached: true
 
-secured: "QhdFlXDTVCvfXfTcgC7lw7GRR4/6bVmKce3rAOBgiD3IRCz6xpyrr8swX1D2FyqKIGuddR+T9o9JP2qu6isM7BYc1rPBDqDwa7dnSRqCMyuxOCOylmr0vmgNUMJJufNedS0EeLVPYhBbpV5nTQbx73/fDipfa98Z2gmeUcHQ7KysaWPwW7awvEkxXj6gz87wryORjFKFQb8IhjvVNHUqJyrLrOJ3vZbzbYkjB+UfxxSif4PSQI0nJfOQJ1yywIYn/o2HzacRDUlhVhq+fBQsUvmiueOYFn6j9M2aDOuiPuvhbtjxzBB+Lc09a3iz0e3qwIL8O/lnLCN41A6AyQ98eWhsJYc3PODrU5HJK95nzl4=;zvawwe/AK+8W4H6kWUSnHQ=="
+secured: "PC2kpOr3A0XoSW7FNfl93oVqaVnHZYioVBIRSkWIC+DS1k6WCu2zc08I0g6xd1jWrVnuKdB/O1OlBHxjRzoigkJkmwC6V5s5DHmiFQSHvkDsZ5lxL2b/aJXdf3o0iq4fih7qNbV4ohUF7BBB/6SEqsjs7TIJ5SGLL98IxaGE58RIygSoE7FO7assW5sLny2U03dUJDno6XtgJQ0OdS44mWJjML7xqozyQj6vsGgcdaggQzk5EgIHTrpar55JNuVPDHiy3RiHoyeyvikNhXz5CTZBZf3JaM+mqv9zdgeeGYUlCjAN6KoWf98YiGQz7PuyqPCCdoHavOtlBEh/12hb3u1QfrXye4f4OKlrpalSSC8=;cQMxYYOPALLLWLbMFX7azg=="
 ---
 

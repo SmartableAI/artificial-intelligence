@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2021/02/tv-significance.jpeg?fit=682%2C397&zoom=2&quality=100&strip=all&ssl=1"
         width: 1363
         height: 794
-        isCached: true
-  - title: "Unfortunately, Commercial AI is Failing. Here’s Why."
-    excerpt: "While AI is a trending topic in the tech world, artificial intelligence products are failing to impress the commercial sector. The industry is facing AI fatigue due to a lack of scalable AI that is meeting the hype and performing as expected."
-    publishedDateTime: 2021-02-13T12:11:00Z
-    webUrl: "https://www.analyticsinsight.net/unfortunately-commercial-ai-is-failing-heres-why/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Unfortunately-Commercial-AI-is-Failing.-Heres-Why..jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Thriving in the new normal with cloud and artificial intelligence"
     excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"

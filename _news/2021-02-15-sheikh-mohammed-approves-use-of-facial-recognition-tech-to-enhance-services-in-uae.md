@@ -307,6 +307,20 @@ related:
         width: 1290
         height: 726
         isCached: true
+  - title: "ACLU, Civil Rights Groups Call on Biden to Halt Federal Use of Facial Recognition Technology"
+    excerpt: "The American Civil Liberties Union and a coalition of more than 40 organizations are calling on President Biden to take executive action imposing a federal moratorium on the use of facial recognition technology."
+    publishedDateTime: 2021-02-17T00:00:00Z
+    webUrl: "https://www.aclu.org/press-releases/aclu-civil-rights-groups-call-biden-halt-federal-use-facial-recognition-technology"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 30
+    images:
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Could Drones Use Facial Recognition? We Could Be Just One Step Closer to That Actually Happening"
     excerpt: "The U.S. Patent and Trademark Office has just published a patent application for 'Adaptive positioning of drones for enhanced face recognition' filed by AnyVision. Veuer's Chandra Lanier has the story."
     publishedDateTime: 2021-02-17T22:38:00Z

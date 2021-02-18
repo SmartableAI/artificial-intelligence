@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists"
+excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
 publishedDateTime: 2021-02-16T12:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
-webUrl: "https://markets.businessinsider.com/news/stocks/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-1030086374"
+originalUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
+webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
 type: article
-quality: 81
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
@@ -53,6 +53,6 @@ related:
         height: 278
         isCached: true
 
-secured: "8gajySjMl2yilo3YQFu7NeYnIx4Blin9GTGz2SqhoUwpwQHxAEp02wsaKUQkedKdxTFyTtHoxUXxIG/EfjANF1kZ2g/fYoq5GlTZssDqlxRaGEuBKsw5tjQP64Qx4Aa4kp22mPRfEt6e1mwWmLavVZcerFwq+JMOKSzvY8WlH7Y+/WEwsaQHMHQ/kF7MaypEzcptYKVYNNSZgBFAoTyLUDciLYh4BhBkxGH1P4j2Xrz0UU+vIKWGt6LwrGHnaPr12aqtnF83I0xACstmAYaCpY1wlJHvav4AqBZdBz+cyy85hlpnR/EqYb8hyycVzy4QfG7CBw5x165p2o/QME8h7R2pCXfHVmKq5BMjhmr4uFs=;q0t27IbAfPeaNC9JpRPA1Q=="
+secured: "MrvOlrnGELs10nlACuOHQc6wHgpN0QR76NKU5AWZTl0Ry4CO16s793vMs3VFXgYCxOgPWPq5Xn9wT9X7SbXIf02mSaB1H09RylM2lZBsBCMpQ/i1AcUrdOOySMWEkUcGjt9Ht0A3oL05FaA0hBuDg8GSHSXB5iEhL1f5y/H01QwL151Lk4oNmqOopgzgmgGSOZ6a5kKbjzjVe/MtHEZWhcddz89wOkV58x/4AKbxOgsWyN69iged6sjX+l84vObUnaFqtml3QtwISwJvpQKGUUEjPw5s9S0ayQpUPg8Tt4oV9ThaHi+3hxQ9RnhJtk06s7WIcD+D9P4H6Cv5MhA6rtkSuNOF5DUBQVs2wPyhBmw=;ZQ6zL8Iog3fP2N4EN+ed7w=="
 ---
 

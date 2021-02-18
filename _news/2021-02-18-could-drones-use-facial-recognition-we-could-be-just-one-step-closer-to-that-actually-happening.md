@@ -322,6 +322,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
+  - title: "ACLU, Civil Rights Groups Call on Biden to Halt Federal Use of Facial Recognition Technology"
+    excerpt: "The American Civil Liberties Union and a coalition of more than 40 organizations are calling on President Biden to take executive action imposing a federal moratorium on the use of facial recognition technology."
+    publishedDateTime: 2021-02-17T00:00:00Z
+    webUrl: "https://www.aclu.org/press-releases/aclu-civil-rights-groups-call-biden-halt-federal-use-facial-recognition-technology"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 30
+    images:
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Lawmakers introduce bill to strike balance between personal rights, public safety with facial recognition technology"
     excerpt: "A bill introduced to the Legislature this year aims to strike a balance between the government’s use of facial recognition technology and personal privacy rights by regulating its use across Utah. Facial recognition technology is one of several biometric technologies employed by law enforcement agencies and can be instrumental in generating investigative"
     publishedDateTime: 2021-02-15T00:00:00Z

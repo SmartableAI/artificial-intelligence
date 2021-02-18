@@ -71,20 +71,6 @@ related:
         width: 1363
         height: 794
         isCached: true
-  - title: "Unfortunately, Commercial AI is Failing. Here’s Why."
-    excerpt: "While AI is a trending topic in the tech world, artificial intelligence products are failing to impress the commercial sector. The industry is facing AI fatigue due to a lack of scalable AI that is meeting the hype and performing as expected."
-    publishedDateTime: 2021-02-13T12:11:00Z
-    webUrl: "https://www.analyticsinsight.net/unfortunately-commercial-ai-is-failing-heres-why/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Unfortunately-Commercial-AI-is-Failing.-Heres-Why..jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Investing in AI with a conscience"
     excerpt: "Local start-up BasisAI is preparing to go regional with \"responsible\" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA).. Read more at straitstimes."
     publishedDateTime: 2021-02-15T22:55:00Z

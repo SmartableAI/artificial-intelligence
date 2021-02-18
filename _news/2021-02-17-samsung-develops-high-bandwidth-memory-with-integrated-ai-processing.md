@@ -3,10 +3,10 @@ category: news
 title: "Samsung develops high-bandwidth memory with integrated AI processing"
 excerpt: "Samsung Electronics said on Wednesday it has developed a high-bandwidth memory (HBM) integrated with artificial intelligence processing power. The new processing-in-memory (PIM) architecture adds AI engines into Samsung's HBM2 Aquabolt,"
 publishedDateTime: 2021-02-17T03:05:00Z
-originalUrl: "https://www.zdnet.com/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-webUrl: "https://www.zdnet.com/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/"
 type: article
 quality: 69
 heat: -1
@@ -137,6 +137,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "Ginhv3n7nt5hdZ4SefQOLuijom3TG+l2COgHWwTfsYv0inIISyah88dj/+bJvDJW9pl8ej0bFZ3TkBqtqtRD97Xb++YzVOwLaDI2P40EzErTgsOfWLxYRpivUDeDBxnOT7kHgtCFxB7nOFfbOImsB5a9tWJip5+5EyIllUji6wNLpK3BlnT6Sr0OXkm3G3r6Zx/Hvv6NGsChjKlD7QPzx9WVQaj+tfM9vUm8oVAZFC+/k1MJbcAgzlpUhNGWfJxJ8i9P8S3EzfY4K60uQ2t31Iu12UYBaeDBLsJHoQIAIG7ot9ScDV/CU5K+aA3umt0VtjoEsW7SnZO05SEwy7SKcfoQ2yldArjsWO0vc3ENUW6MB7dD5rnps0PWMQZvp0BOM2uLxoFxukjM7CEcoTJiZh1ZhSmn3cPLbKod6sJh/S0YfDg0VpUlb3e44J35B1RS/92iPZUZ31dh/ATrIR6odZFkGAe+/6HT+v63N9Mdv8xlocSvZdvk1c4I0ZlidDBpZASTXRcfGIsusvaeiu7Rcw==;v+evZrYiwsA0mpq6fjeSBA=="
+secured: "OHG6SmQBlpcn92BgT/xiK1k4QM99KTEIrkroziuXkEzROd+5rhVewiyBA8twxvervh+y24nhGC2qwkxNoLt9/wsMZEHX27xOMZkCdWeblMqJz2FhGM+VAE0lLeJ3pFsdOsd74Zq7YD17hg676PO7DamJ0oafkO0Tpllila5crFYtNCZtoDqHkC1L7coCdZtV1Gzu4nEHYD/5Uq7/rflYPFFmGTrP3X073L6mWVDkIhzzricdeUE7ipq4U7UVLNIUe71ZehwIMXhPNyzxpmV8O3brGnxRdMaZUd+P7rE6ZDUIJ+wVyPJ6P+y/7gNsKKJQwwqYat4CHk/ZYuf+dDvHiZj8SMf9/pHQTNIOGOeIj1RRkWKn5X5Uj8ROpgCKrDe+MC0iiiGXSgSwfM2JvBIAQ+ab3IKqifyatxSQAMVCcTITBmN3mbfOTPXs0Kep07UKBdVCTcLMfQJagXpBqg7XCCAxTCuhlbHV74T/QLsyI2cHlX4Jwl1rBsRPWdMWjIoWyaLFVFRK14ynQO0KiqVueA==;wTlqt8rAC+Js+9MnrzG2Zw=="
 ---
 
