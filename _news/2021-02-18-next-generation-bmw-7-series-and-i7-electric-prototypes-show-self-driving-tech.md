@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/next-generation-bmw-7-series-an
 webUrl: "https://www.autoevolution.com/news/next-generation-bmw-7-series-and-i7-electric-prototypes-show-self-driving-tech-156311.html"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 728
     height: 300
     isCached: true
+
+related:
+  - title: "Gatik marries self-driving tech with electric trucks"
+    excerpt: "Its trucks ply the same routes day after day, constraining the scenarios that self-driving systems face into manageable chunks. Route certainty is also helping Gatik develop and deploy electric trucks."
+    publishedDateTime: 2021-02-18T18:22:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/gatik-marries-self-driving-tech-electric-trucks"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/brain%20food_3.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "vgUtWC9qXSA6BCthf/cu1wBUs44vkF3ra85g1gN0RXcVOx73qNXIg7uIvgqTPpNLyebDge545PEdyKkPjlSuQElXsfjhjTbj6iPXuu1MWNM/g/BDOgr13Oj+2rA6PxI1kvmpa++51W5qXLsvgoZw9qQ9VO3MTYMXJDSs0s+zQzg9QtWEOxb/8hxnN96/IM/OVDJV0HOJH9vJnV5jMU+mbeqMPcUctKzbXuxeToiiEQuZOALRIZT3ewPz76OK7+Nvq06x8X/mZr+ZlVkyIXAx9tq/N+2yP8/Kyfs1DCoftGT6drs7qlv3lkWVHWJ1v5s7cE76YiNFMifCQNLoFj6cpbU8efBP1YQDuS55by+kAYJlWrduabgyKTOs3ad4MoKy9KFhSrq+QgKbdh5Ek9b3htSCRGTJC5ywJdq6a9Pti9SWo2Z0Ij6GIxxiqhO5J8zgXpgLtKvGFZewvWZlzk+8U87/44+iVIxUG0TqVDEiMDyCH/2GeKeFwtZ+Ex5MXryH7KWFTVD0Lop9vboI17pz2w==;Q8OSeG3pRx6kvfqMb3nHvw=="
 ---

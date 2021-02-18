@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Payments to Participate in KBW Fintech Payments Conference"
+    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President & Chief Financial Officer,"
+    publishedDateTime: 2021-02-18T20:06:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=424517"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "FSo8Cf7s5G8ExALGsYW/R0IbzZ8h0u0wyiAjDUib+M0j7LAGKQMPEGMisB5GZsHr6j/SHpZbTXxWOoqHqYbkd3Ztc9FIz+L2Vuzxgbz0MpQKnlXcVpBL5TwtZ4R03a1bXzcA+UVCsJO+Mqz81VaLnfxgNFlGH0O5gTiWJwd7ViXmgaIpkNMGm9AEGd/DkwFSagVQkuMkDC//n3Hy8y/KVjx15kHf47wiV1O7DpbbIwKyqAT3Vd67TSRThqcKWbMcvlyhzEIDkhT+LDgzuoRkFzatgXAki9/8fi+3XamnEDXgVIlikZtCRanDXuVLb5PAyikwWo6AOiqOZ+tXLiIyLynTDKH/6tDElFWejpWu8mI=;5+kS+zB/2B292/kd6gr9AA=="
 ---

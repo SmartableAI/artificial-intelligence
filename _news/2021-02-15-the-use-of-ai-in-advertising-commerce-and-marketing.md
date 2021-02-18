@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "CloudCommerce Adds Critical Artificial Intelligence (AI) Component"
+    excerpt: "Adding this critical component will allow the Company to speed the development of SWARM to dramatically reduce the cost of advertising. “Using machine learning and artificial intelligence, WRENCH.AI makes it easier for advertisers to harness the power of their data to automate the process of creating personas to optimize marketing and advertising efforts,"
+    publishedDateTime: 2021-02-18T19:00:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-a48fdbf12fb872b0017ca4558b2d56a5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Thriving in the new normal with cloud and artificial intelligence"
     excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"

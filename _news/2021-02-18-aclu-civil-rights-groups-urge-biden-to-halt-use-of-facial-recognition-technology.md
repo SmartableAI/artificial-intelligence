@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
+    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
+    publishedDateTime: 2021-02-18T19:14:00Z
+    webUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 62
   - title: "Rising face of facial recognition technology"
     excerpt: "Rising face of facial recognition technology Chennai: In the 1960s, Star Trek dazzled audiences by showcasing retina scans and facial"
     publishedDateTime: 2021-02-14T08:51:00Z
@@ -119,15 +130,6 @@ related:
         width: 1097
         height: 700
         isCached: true
-  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
-    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-    publishedDateTime: 2021-02-18T18:34:00Z
-    webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 42
   - title: "Biden Must Halt Face Recognition Technology to Advance Racial Equity"
     excerpt: "Face recognition is a threat to not only our constitutional rights, but to people of color and other marginalized groups who are more likely to be misidentified — and bear the consequences"
     publishedDateTime: 2021-02-17T19:02:00Z
@@ -226,6 +228,6 @@ related:
         height: 726
         isCached: true
 
-secured: "VAdDAPA7Ddk3QNO3J/j38kn+6F6a1Vev2P8y7B1DqYjARC5myBqS3dQDTT8fNY+bD9xVUD6LiOe9NMyNOOV3Z5qauAhRyfZ/QKBGWeUoaPap3tH7ftKmc5ei5mm9qAcCLmwca+Rc15aCffTgZNfaaCaVQiRyE8KKXRDZJifevkTb3PHendG9lT/+Ggi48d0uaXrxvAdkeVRFy9nT8vXR2C1YgzibnUOFBzOYFLwnI8UNsclZpPWuWm3upxRW+BlsQKulCZVXI8uFQQZfsDN0js9xUf5WPAatatSQXUx60CK1EYVpl+SEhFE7DPtd10sGuYjHetBnY5/hU+M43unmN0IGFp5FEcqGxf6IXoUTTIw=;E4rh2VLwxIUXgbC2PxlrFw=="
+secured: "X0R8G3C2slif8ykuO97Pa/qdPUq5tu+SOWhlS4bWDc6pgDHeoPmgWwqSa+abJJWyzCgGvUSTM26wEPcEVL7NDiw3nM9BiR71vh9ZXX9EHwCN2SwrlnMdyqWsTMFRWpsybu2N4ziyCGd/R59t7aE0Eb5oWz1bFWZ8Ue9+GeU92zgGUPYoe2CJQS1/Gs9GCWy5kkk1491SAmt7IRvej1iFwph9Vh8QtAVxYRJhFP/4bXyZzCY0v+G8Wg8K+bo+me8t+ONhB49DexSmoJAnHRLyJJNfmYbAWJK6tmomglbSVY0uhbBItMSVVOBXTdhd/iJmNhTtIDoWbtiH7Y/BHmL4dV44ODY/bjJOz8OIkJXLPKqWvBUlkEO3+LhqPzkHhmOV+XLFGJv8Fu1PbY8FT6/xzgx7oZOiRWy4CE7KRXvWBxqOEzIUKKKduEONLJqAB4/aLns3eZN1aS+mmkDvUYcsZq8hLk2vnoe2ovCgLpeVL6vgvDnp3vU5d2YH53BikhOP6qbTjx7Zy/ou0/K87QmroUFYvUrbXo/DqXhl0P6UaB0=;7MvJL2fZJk07gw6nr+GrsA=="
 ---
 

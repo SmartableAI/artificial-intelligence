@@ -49,7 +49,7 @@ related:
     provider:
       name: Light Reading
       domain: lightreading.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600

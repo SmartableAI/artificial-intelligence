@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "COVID-19 has made Americans lonelier than ever, but AI can help"
+    excerpt: "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing"
+    publishedDateTime: 2021-02-15T00:00:00Z
+    webUrl: "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/covid19hasma.jpg"
+        width: 754
+        height: 504
+        isCached: true
   - title: "COVID-19 has made Americans lonelier than ever – here’s how AI can help | Opinion"
     excerpt: "Therapeutic bots have improved users’ mental health for decades. Now, psychiatrists are studying how these AI companions can improve mental wellness during the pandemic and beyond."
     publishedDateTime: 2021-02-18T12:45:00Z

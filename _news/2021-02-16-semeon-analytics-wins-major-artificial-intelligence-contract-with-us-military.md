@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-M
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/02/17145743/Marinus-.jpg"
         width: 750
         height: 563
+        isCached: true
+  - title: "Marinus Analytics anti-human trafficking biometrics selected for finals of IBM AI competition"
+    excerpt: "CMU biometrics and big data spinoff Marinus Analytics has been selected as the lone American finalist for the $5M IBM Watson AI XPRIZE Competition."
+    publishedDateTime: 2021-02-18T19:08:00Z
+    webUrl: "https://www.biometricupdate.com/202102/marinus-analytics-anti-human-trafficking-biometrics-selected-for-finals-of-ibm-ai-competition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "8lQe4BLTsAqacxTvTFxxFC5Y0Zi5ldL+zBG03p8AqiN8fPiqFrWoKKRJaOdfpU8oLAs0P7N7FQza3P9R07h0pV6834O6O7BMfKYhx/bnLNL5txTAV6eLPLMw7jXUxOlKyQNBYXm/N2A1hYexqlu9vtevBDaGyYH8Bqroj+Tx850TL/x5Tze2slWu8sRhBSOZ7r4RHiLaOkYs2KMmuqmt0qDR/SkZaBwSMrl7nz1LEFe5u1uV7FZPtANpgPXEB3RZAMhhJEXDDY7gHWw1DY4t4L1aFy8FslHOwNM8xhOa+S7Asm8Syib1z5xKVYRC6pISo8n9uhJnHUHMpFSnbvgP/3FTzEiubFUpohBVK6BzXSM=;2aPAsEf3eov279qxUQyyGw=="

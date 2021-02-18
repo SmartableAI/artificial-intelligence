@@ -24,19 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Enhancing European Customer Experience with Artificial Intelligence"
-    excerpt: "Reportlinker.com announces the release of the report \"Enhancing European Customer Experience with Artificial Intelligence\" -  Chatbots, voicebots, behavioral applications, biometrics, cybersecurity, speech recognition,"
-    publishedDateTime: 2021-02-15T13:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19661515/enhancing-european-customer-experience-with-artificial-intelligence"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19661515"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19661515"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-
 secured: "xfGnBLVl7apmnVc3t4JkH/wkl+PC1XPGq6+CVY7uGdIQfvFhcKaUBuB/fsBLbyKFvKCeUQJjZ4E3XRf75hf8cpKJNzdHtJeSXADjBOGtNsxjOfFtZkbN9lTn3hf+kyNr4fo2F/6MwWQ0DZbcvk674R1sQ2HaBbTad+VjUUC6OBQVLk4cCtYWN1HwQVkGi4A72ZPPDcYDTpOwj9lnWMeLUgU4+SoNLXL+EqHLr5uqti1LS9hrdlugRAyMUg5trEuJ5riFUHIBi8jd5AkU+mCfhfp1i7OCDVn7BUiMKern9TqpwTGpjxcxPNq8XOKFgnPS1R0tMIadByLGQAYOMMvOU6dYQ/Pg8XDdJYd/IRb6vEomeGi6wnkvVcf6V5Q37/dKiVZySLd4IVDMXpb75f71hyAI5NwExMrd9e/92fnP/FP+nThvamzKZuhpS2pfwiW/ecFF5ddNvHbau5cz98bzUKGz/iCLKaN8w49mH/g+lR5OazgCv/Yt/Jp8s2By62c6IHIiKnUROhx1T2MrsDNUtw==;5VZ4De51I6xYPTZ3sM8k5w=="
 ---
 

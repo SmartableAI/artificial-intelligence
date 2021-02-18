@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-18T17:23:00Z
 originalUrl: "https://www.lightreading.com/aiautomation/in-china-ai-and-cloud-boost-baidu-revenues-by-52/d/d-id/767495"
 webUrl: "https://www.lightreading.com/aiautomation/in-china-ai-and-cloud-boost-baidu-revenues-by-52/d/d-id/767495"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"

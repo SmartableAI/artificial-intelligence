@@ -71,6 +71,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Smart Robots Market (2020to 2026) - by Component, Mobility, Operating Environment, End-user and Region"
+    excerpt: "The global smart robots market size is expected to reach $25 billion by 2026, rising at a market growth of 27.2% CAGR during the forecast period. Smart robots are considered as artificial intelligence system that provides optimum management of an environment with the combined work of human operators and robots."
+    publishedDateTime: 2021-02-18T19:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "Facial Recognition Market Size, Share 2021 Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
     excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
     publishedDateTime: 2021-02-17T10:28:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Get your groceries delivered by a robot!"
-excerpt: "Seeing the need to increase contactless deliveries due to the pandemic, Save Mart Supermarkets teamed up with Starship Technologies to deliver groceries using autonomous technology!"
-publishedDateTime: 2021-02-18T18:00:00Z
-originalUrl: "https://abc7.com/localish/get-your-groceries-delivered-by-a-robot/10324526/"
-webUrl: "https://abc7.com/localish/get-your-groceries-delivered-by-a-robot/10324526/"
+excerpt: "Seeing the need to increase contactless deliveries due to the pandemic, a Central California grocery store teamed up with a technology company to deliver groceries by robot."
+publishedDateTime: 2021-02-18T19:05:00Z
+originalUrl: "https://6abc.com/localish/get-your-groceries-delivered-by-a-robot/10324526/"
+webUrl: "https://6abc.com/localish/get-your-groceries-delivered-by-a-robot/10324526/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: ABC7
-  domain: abc7.com
+  name: 6abc News
+  domain: 6abc.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 900
     isCached: true
 
-secured: "uQBd+qQp/bF8cSRxw55XA64pSWTKiXU6dATd9SMmnr35vQ3q1he2fwxFNR2r1ohNj7LnjfHezdwET6OfNcwbWB+HkN6bsmjuKDTanPAc8GlbZzfJ7IOgb9b0BqXQep6lyt0sPOJR8E19babcTlcH5MIT+BCANQK0kK4vFBECJLfSpJNqiPPkHz/nefaFAjcLtTHUtXbqc3Tn7Yok1j+Lcw567zvdQa6Pnga79c18RoQtpjPDmkKzeFvuZGduoKuhyFpUu8nWA8QCH020A9f2N8oFUs/LdNaIlF5c0Bqpzz11FWMKQQ3+FxPQ5JUrwkEtQalraatnfUk/XEadYTA10fOoA0IgX7X5wngFxLvRWsE=;Sa8PAVpl7o1lzjcZVSVAdg=="
+secured: "UpcW4dcyoe9dV9ZUCQQpnHIveBXm5t18YzEhSo5puNBsQ7brZAhBFF8L6zrTkw2I67PgVNf2K0Y2D8FwlvdxDzQEH0xGYFgL1PZPcjAQ9VYdizKKxdYQAcuStQ7TjfrlKMamjQMYvGxm8viV+2brQkrPDw2Q2zd0ELvMwhPYFFt083Fx3WbPFDgWQrVAdpL+GYUm68NQ4k0de6Qv7NuvzkIVq29SHUawe7SU1/8MGXzH7RygUS7oNq86L0MDe+0yy1T93RqzHDe6djGEPHuhdi2RkkehrVdemrwqS8B0wPV1p97FLmzPVMrqXx+5VPhW4/C5K7qcXVz2mIi40gIy3e35jetVURDOIiOO0mueSgA=;Cgdd2VT2hC9GgCEUcQioRA=="
 ---
 

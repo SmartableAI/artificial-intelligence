@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
-publishedDateTime: 2021-02-16T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
-webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
+excerpt: "MONTREAL, Feb. 16, 2021 /PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
+publishedDateTime: 2021-02-16T12:16:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19669829"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669829"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
@@ -52,7 +48,21 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Aifred Health among top three finalists in IBM Watson AI XPRIZE competition"
+    excerpt: "AI XPrize is a five-year competition with three judging rounds. Montréal-based Aifred Health was one of more than 700 applicants for the competition."
+    publishedDateTime: 2021-02-18T19:11:00Z
+    webUrl: "https://betakit.com/aifred-health-among-top-three-finalists-in-ibm-watson-ai-xprize-competition/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 52
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/02/Aifred-Health-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "MrvOlrnGELs10nlACuOHQc6wHgpN0QR76NKU5AWZTl0Ry4CO16s793vMs3VFXgYCxOgPWPq5Xn9wT9X7SbXIf02mSaB1H09RylM2lZBsBCMpQ/i1AcUrdOOySMWEkUcGjt9Ht0A3oL05FaA0hBuDg8GSHSXB5iEhL1f5y/H01QwL151Lk4oNmqOopgzgmgGSOZ6a5kKbjzjVe/MtHEZWhcddz89wOkV58x/4AKbxOgsWyN69iged6sjX+l84vObUnaFqtml3QtwISwJvpQKGUUEjPw5s9S0ayQpUPg8Tt4oV9ThaHi+3hxQ9RnhJtk06s7WIcD+D9P4H6Cv5MhA6rtkSuNOF5DUBQVs2wPyhBmw=;ZQ6zL8Iog3fP2N4EN+ed7w=="
+secured: "nCiX4GDJvEIYDsH0yOWpIg2uI0dFDGhYQ2V42CMg4w6qrgxbeu70pp7UoKX8T6xf8T+EprB02b0j9Kgos38OT02no7E9MqOGehXtjXUYDSurfZbOLG3bsjDQJ2O++jxExFcv8Upb+dHhCJhn87z/q46bu9OTaWSiYXYtqsrmioMkkpBUhkluIlFKiNmwIFEpWEy+9ddDlEaKqOz2azWPd3U9K4hUMDBS6Qvq+hEk3YNTkVYiTpgrE8kk2JWff2J9mFv+FfDzla1D1dZLFq9MElxPtJ9a/kzoaF4TOo1kOMChyGxyruZYarJmJeqgbn4GGaXpXg0iTXucUJQDaUvIvOp+rpYbDTJzw6+gHmSZcXY=;V7qDUeNUxxTihgvQle2fKA=="
 ---
 

@@ -20,19 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "Reclaim Your Face: a call for European citizens to demand facial recognition ban"
-    excerpt: "EDRi, and the Reclaim Your Face coalition are calling for a European-wide ban on the use of dangerous facial recognition technologies. Sign the petition today!"
-    publishedDateTime: 2021-02-17T07:59:00Z
-    webUrl: "https://www.accessnow.org/reclaim-your-face/"
+  - title: "A better customer experience is important, but it's just one way AI and machine learning can transform the enterprise"
+    excerpt: "Laura Urquizu, CEO of Red Points, explains why AI and machine learning have the potential to enhance customer experiences for enterprise and non-tech companies alike."
+    publishedDateTime: 2021-02-18T20:34:00Z
+    webUrl: "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp"
     type: article
     provider:
-      name: Access Now
-      domain: accessnow.org
-    quality: 49
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
     images:
-      - url: "https://www.accessnow.org/cms/assets/uploads/2021/02/Reclaim-your-face.png"
-        width: 1500
-        height: 500
+      - url: "https://i.insider.com/602457d867d1e300113c5696?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Ump0n8xwoRQb1FFGvcfbViH26/63WQzbNZeEy96FRGgx5vuWfIGX+kcraRDfEviB0ctgJ815nddzzOuRTriRUgoITatxb2gkHMjHzr+lBjjpJ6N6JQjdB30xjLD0jZqcTN3cY9MZ1P5uXHFVV9yPrHDAXDUqcgilE1nYeT+lWsNrQXSf+8f56407Rt7KDP71nGex7q/a6VdvG/VlOAcPIA+bgtKhyPdff8tTeFfNxHqIym6OlzPX9yAyihopr7In8g02O9wjfYOcM1DnIu0T9LPMsNCxwRwgj+L2y0McAtVVoxRkDANRV++hGJeSxOmJnLsdhQySIHfEIGNXpJTOZOQlIM2M69jIJX9fVZZG6IM=;asE6eHmY+kVcDUCnaN8eUQ=="

@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
+    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
+    publishedDateTime: 2021-02-18T19:14:00Z
+    webUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 62
   - title: "Rising face of facial recognition technology"
     excerpt: "Rising face of facial recognition technology Chennai: In the 1960s, Star Trek dazzled audiences by showcasing retina scans and facial"
     publishedDateTime: 2021-02-14T08:51:00Z
@@ -120,15 +131,6 @@ related:
         width: 1097
         height: 700
         isCached: true
-  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
-    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-    publishedDateTime: 2021-02-18T18:34:00Z
-    webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 42
   - title: "Biden Must Halt Face Recognition Technology to Advance Racial Equity"
     excerpt: "Face recognition is a threat to not only our constitutional rights, but to people of color and other marginalized groups who are more likely to be misidentified — and bear the consequences"
     publishedDateTime: 2021-02-17T19:02:00Z
@@ -227,6 +229,6 @@ related:
         height: 726
         isCached: true
 
-secured: "w+uTAoZOWuKqsKIvMcP/tV3NxuLYKMinrQY7bHk7KpMJv2jO/zbMPK2x89tjtXDpskqv83cI31UXnNuvCL8gnkqdx3inSkTY55pxzzNyLtqtGcFyWh3MwCk3plMrupEAzXp6O4VzlvvcUR7KpOTNJsInnTcRPYUaQO4iAJo1JDEK1X+/fjv5coHSc1TblntqMv2fvzfa0NhgP7Vv8sPhmY68XxN3kmTUc1zi01Je4KKs7q/qw1SWoBtjh90G9lWox7XCNVZRWpLOWjcW2YJEd94sgoFrvVSigiV2s36ndRfSVfF2p+boSkNmSUKIssHHQLFM0qqUc34czONV9eMfy7KjSNTv9sWJ1ROEL2Of+nM=;FD1dSWf9kjaZCRaQ/yNbeA=="
+secured: "WHRyzW4hllxPzmFkqrJhx3fjbiNk+jCdfWYW80BHhNmabtG4Ef6sPHCKqrzCH3bcUQbdmYf7T9WDcIiO+eGmBLyBsA+B4s0XRWoASlfOPDjjuxpkBDZHSDQmgv2npKmgcg/y4JBPxxCJPbgbUGo8XodhEyhUdQAdThPRwtS8muBhL+PJ4akxwghrt2aXzkX9eoxLAxTIjhz/fwIexttDm0vLTWExsFaUeX98FyOALvodGzIegePrl//qPVP6WNokf69usbBpvKPzeIUhvv7Y+ABuH35mGRNulc8J1+H9wxlKfTfAuMMhbCMRdiq8dSCCZmKEuLsKYg9JPrdDhRzv+QCImLkHyhEUtOwx9U3N6iohpxcq3K424uN79O6p/tfcG3OuSM9A5H7q8xyCm5dtoloYHPJ06kv8dCplpKVbACeOddAD29pP8Sk54OgErOE2hEy/fmiPmf0lDS4PTHQjbWcp9sItqXgpQQQGspQnHtR6ft6qtu5txxqDinDFQQDJQaplh37PHIi/IsXZAATx3Q==;zlA5zO5I0Bui7oD56eiNaw=="
 ---
 

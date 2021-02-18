@@ -24,35 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "How a Chinese scientist in the US is helping defend AI systems from cyberattacks"
-    excerpt: "Li Bo, an award-winning scientist, helps major tech firms like IBM and various financial institutions defend themselves against cyber threats."
-    publishedDateTime: 2021-02-14T03:13:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks"
-    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks"
+  - title: "Defence releases report on ethical use of AI"
+    excerpt: "Defence releases report on ethical use of AI. 16 February 2021 . Findings from a workshop on the ethics of Artificial Intelligence (AI) for Defence in 2019 have been released to s"
+    publishedDateTime: 2021-02-16T00:00:00Z
+    webUrl: "https://www.globalsecurity.org/military/library/news/2021/02/mil-210216-audod01.htm"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 86
+      name: GlobalSecurity.org
+      domain: globalsecurity.org
+    quality: 54
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/14/e03680e0-69b8-11eb-8f06-a7293cc48ccd_image_hires_104100.png?itok=64dr_O8A&v=1613270469"
-        width: 1200
-        height: 630
+      - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
+        width: 675
+        height: 313
         isCached: true
-  - title: "How a Chinese scientist in the US is helping defend AI systems from cyberattacks"
-    excerpt: "Artificial intelligence can be vulnerable to attacks that are invisible to humans but wreak havoc on computer systems. Li Bo, an award-winning scientist, leads a team that works with IBM and financial institutions to defend against cyberattacks."
-    publishedDateTime: 2021-02-15T09:26:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/15/how-a-chinese-scientist-in-the-us-is-helping-defend-ai-systems-from-cyberattacks"
+  - title: "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care"
+    excerpt: "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of"
+    publishedDateTime: 2021-02-15T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 34
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 29
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/15/1044851.png"
-        width: 1240
-        height: 697
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "RVk/24NXvod3EZSXct8Fd5r2bxPz4lr64oiDNZEFhNUQJRYcZa3Q6fVtoD1Q7M+rNsGl2wuaLyGb0MUBEwpyyP2q753dKZ2Yhrzt+Ni4m3ERtd9TvTt8O/Hz7eMDLDrodkgASRcUfVzwe7MBMsFpbzaFXPIPvhQQcUKlxAzguLzEqgquuDx7M/Th90eczbp/u/ArpDtl3Vg5kTBW+uSctN49APA+Pv7xNZVpiYizJdnKjKv0cRGzhEEv7wNICXSfLlAEUyw9nQYaCOXzZ4MZb2I7VFDpup55AT1sBJN4ygUUhHN0KuH9VKgxf6elZsX1Mt8kw7DdARXQVoWn0FtO8fzqGVWE31on38FaCE/Kc1k=;qePboChfFwFynX9yN6H7fQ=="

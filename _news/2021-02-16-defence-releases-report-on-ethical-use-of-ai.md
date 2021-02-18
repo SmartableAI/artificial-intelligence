@@ -7,8 +7,8 @@ originalUrl: "https://www.globalsecurity.org/military/library/news/2021/02/mil-2
 webUrl: "https://www.globalsecurity.org/military/library/news/2021/02/mil-210216-audod01.htm"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: GlobalSecurity.org
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Is Not the Best Defence Against Cyberattacks"
+    excerpt: "As technology is evolving in the fourth industrial revolution, cybercriminals are coming with sophisticated ways of cyberattacks. Are artificial intelligence and machine learning tools enough to counter these business risks?"
+    publishedDateTime: 2021-02-18T17:52:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-is-not-the-best-defence-against-cyberattacks/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 52
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Ai-and-cyber.jpeg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care"
     excerpt: "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of"
     publishedDateTime: 2021-02-15T15:00:00Z

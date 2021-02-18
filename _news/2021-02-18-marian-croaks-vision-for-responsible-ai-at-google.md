@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/marian-croak-responsible-ai/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-responsible-ai/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google has a new responsible AI lead"
+    excerpt: "Google has appointed Dr. Marian Croak to lead its responsible artificial intelligence division within Google Research, Bloomberg reported earlier today. Croak was previously the vice president of engineering at the company."
+    publishedDateTime: 2021-02-18T19:39:00Z
+    webUrl: "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/"
+    ampWebUrl: "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Using Responsible AI to Push Digital Transformation"
     excerpt: "Can businesses implement ethical AI standards that reduce harm while positively transforming the workplace? Just as its development is creating new business opportunities, AI has also delivered some harmful and ethically objectionable outcomes — a symptom of the misguided rush to get exciting technology to market superseding moral,"
     publishedDateTime: 2021-02-16T17:51:00Z

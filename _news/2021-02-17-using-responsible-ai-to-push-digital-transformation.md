@@ -37,6 +37,22 @@ related:
         width: 1300
         height: 550
         isCached: true
+  - title: "Google has a new responsible AI lead"
+    excerpt: "Google has appointed Dr. Marian Croak to lead its responsible artificial intelligence division within Google Research, Bloomberg reported earlier today. Croak was previously the vice president of engineering at the company."
+    publishedDateTime: 2021-02-18T19:39:00Z
+    webUrl: "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/"
+    ampWebUrl: "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "i8H50v1YBE/D5YtcaCn304iVwFmkCm1cccqsuvfwyoVJY5jBpCNV+0bKl54e5ZZgWfMIg+P/e1+CCymMcYncXfQLmOH+JHodjupd/NXXN5WlrRD1WvIledEKVuzpjBwdyJ3IqFy4RhrNZR4s6uGniji33SSuSMF4fXAvtVUUbrntE/wbhOQahTO1Qa1sobvivXIjcDnXHnHRNa1fq+5Jz2PrPxRJQmtWN/UujHkQ9WDBUJtDZTlIdAquwm4w5qnSeWgaLqAssI4J+8fjrsu0NkyRUfpYMcZC1k4krDipUrhYeVahsqD62zqYgi5iUkc9GspqOwmLaIabLhV/6ZMgDt/B3n+Ui4snAOjCmwRa7Y2PlqdLX4UImKwAShhWGXwq4HUPfCJI8Jaf22ILV5nZoSvdTTZFwHAMAXpUmLG676Ry4MP8NTzOgrXIc4rJ6VGHFKvOCOupyWChFZbfqIv+td3xC/jQ/NRnqyzLUN/y/MF5czQ7MsbQRL93pPFXrm4HsLONjAsEJPXOAFXW8OH4Vg==;spmZ/u+HBkvHMOktkUjkgA=="
 ---

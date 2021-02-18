@@ -63,6 +63,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Smart Robots Market (2020to 2026) - by Component, Mobility, Operating Environment, End-user and Region"
+    excerpt: "The global smart robots market size is expected to reach $25 billion by 2026, rising at a market growth of 27.2% CAGR during the forecast period. Smart robots are considered as artificial intelligence system that provides optimum management of an environment with the combined work of human operators and robots."
+    publishedDateTime: 2021-02-18T19:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
     excerpt: "Selbyville, Delaware According to a recent study titled 'Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Analysis, 2020', available with global artificial intelligence (AI) enabled drug discovery and clinical trials market is slated to grow considerably over 2020-2025,"
     publishedDateTime: 2021-02-15T08:01:00Z

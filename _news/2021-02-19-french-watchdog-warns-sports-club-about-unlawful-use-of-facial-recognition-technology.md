@@ -2,17 +2,23 @@
 category: news
 title: "French watchdog warns sports club about unlawful use of facial recognition technology"
 excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-publishedDateTime: 2021-02-18T18:34:00Z
-originalUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
-webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+publishedDateTime: 2021-02-18T19:14:00Z
+originalUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
+webUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO2C6"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -225,6 +231,6 @@ related:
         height: 726
         isCached: true
 
-secured: "TQa2E8i/o39zrtAthJGBJPUJz7AwxdImwAEqhhfmrnWn+II8rzlMFNX/NbWYm6UU9T+cdg+eiswMvFiToN22ruT/aj6CSQsTanpofJxMOmrW4eOf8h4gtsMK9VFjmkL9jpM9ciJQb9RYmwiZBvwCx4YOwYdWYzF5oW0olL490o54BQJ2OoYsrZnUysPJszLnJk1Dl8E7FUVf6ogXcqJmut6S2UWwftadxG9b6LQ3IODb+x29RJ0gVsClzLOFp3SWWiEFGcEMVOb7fj4ow8ZHshNJNt8WG/NL5aFP6GBkM1+wDIz9D6Bc+8p40WGkpVrlnvszj3A2532hFtWRLUtda7bzu11W78TruAT2Dtpul5g=;otHhRCCTJPAxHOSsqmBIDg=="
+secured: "gq+5gbBL0JaYGYaRjkdZ97laXJiBcBO5lj0INQSpkjePCiJGHkP1vQyERGRPBx+ALqYlGtAzS4/6OA3aiDXWRUd1IwfhxngOOunaw0D8zAq42yA55/ZZD3w5AQSjX+z0YS42Ydkn3qkGfEUQXjnqA3G9+69yyDoEbilH3j0QHghIsZPi65gjLlNg1TIgszoQK2BPMIe1sBgfn6UCGJC2mfbMGiwzgswOxiRKcti3grOy/KZCWHkj4JA66zYGkLJFSS6RLhZ5GqXg40OoB1L14NNiZqXB9mjPjlOJJ2Pn/sXXmLb83r30DciQn5HUuSB1B8KdUnTM6gzmKNQp4g5Op8Hpu9C5YZkNgW0siXXkp4I=;WROGP7smkOQuBW/hhwojzw=="
 ---
 

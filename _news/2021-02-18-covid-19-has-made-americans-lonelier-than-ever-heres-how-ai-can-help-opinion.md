@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html?outputType=amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Penn Live
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "COVID-19 has made Americans lonelier than ever, but AI can help"
+    excerpt: "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing"
+    publishedDateTime: 2021-02-15T00:00:00Z
+    webUrl: "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/covid19hasma.jpg"
+        width: 754
+        height: 504
+        isCached: true
   - title: "Government Healthcare Practitioners Use AI to Support Cancer, COVID-19 Treatment"
     excerpt: "Haley Veterans’ Hospital, said artificial intelligence can support, but not replace, healthcare providers. He has been working on AI platforms designed to help healthcare practitioners detect lung, colon and colon cancer symptoms,"
     publishedDateTime: 2021-02-16T21:45:00Z
