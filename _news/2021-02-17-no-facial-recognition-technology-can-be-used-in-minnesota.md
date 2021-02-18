@@ -91,6 +91,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Civil rights groups ask Biden administration to oppose facial recognition"
+    excerpt: "The groups argue the software \"would facilitate the mass tracking of each person’s movements in public space — something intolerable in a free and open society.\""
+    publishedDateTime: 2021-02-17T23:21:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/02/17/facial-recognition-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/02/17/facial-recognition-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/02/17/facial-recognition-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 58
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26MKKJRCTQI6VMBU3Z64FNIZTM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "FTC Settles Facial Recognition Data Misuse Allegations with App Developer"
     excerpt: "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app"
     publishedDateTime: 2021-02-17T16:26:00Z

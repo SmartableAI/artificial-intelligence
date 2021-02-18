@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-et
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/amp/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

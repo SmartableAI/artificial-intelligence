@@ -27,19 +27,16 @@ images:
 
 related:
   - title: "BasisAI Helps APAC Tech Firms Adopt Responsible AI as an Open Loop Partner"
-    excerpt: "BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped APAC startups develop their"
+    excerpt: "BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped APAC startups develop their own explainable AI (XAI) solutions."
     publishedDateTime: 2021-02-16T03:51:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner/article_2ca15b9c-fe40-57a3-9364-c5151085d000.html"
+    webUrl: "https://markets.businessinsider.com/news/stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084471"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e2/de2066a5-46bc-50b9-9dbe-cd4cc4880895/602cd6300b6c4.image.jpg?resize=1200%2C600"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
 
 secured: "P2ARltMn2lnVZVq0zrow8DtYgIfW1aDfTAUArBqyp9TqNuPVvfdjAcMqlDWqQ6LmWBmW/zifJ3rJn62D2wn6cD6VWeCY3DlrKkYZJ68n+WTgYYZ1Fzo0GnjgDrtLl+ZIjtU3LyDXWvX0zwv8gZwndBnjy6bzO8CA56tl/X8ojMjC1pI6GUlSSjrnwadqsURW/3QZZVFRYbrmKa1nGdCV1gzPyx4evgilRBTZ2dRfG9nkOzQRzxm/kwgaw1SDHId6zQbZHSWyJLZtwUT4Jq/3Y22MO12kksC2TVvg2tYBjn/MVXtLyr6mNzWWPQr/Pb90didHeE1WqwMyKL76SEyfJ99she+JANevrYPAJcbrpm4=;42LvS9BHfkx1Yyba7yty+w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-robotics
 webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-computing-and-information-technology-industrial-technology-2337d95e00c24f3f9852a7b1caea535c"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 1100
         height: 628
         isCached: true
+  - title: "Top 5 Robot Trends 2021 – International Federation of Robotics"
+    excerpt: "Annual installations of industrial robots more than tripled within ten years (2010-2019) reaching 381 thousand units in factories around the world. Th"
+    publishedDateTime: 2021-02-17T19:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210217005474/en/Top-5-Robot-Trends-2021-–-International-Federation-of-Robotics"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
   - title: "Top 5 Robot Trends 2021 Robots Learn New Tricks and Help to Reduce Carbon Footprint"
     excerpt: "Annual installations of industrial robots more than tripled within ten years (2010-2019) reaching 381 thousand units in factories around the world. The International Federation of Robotics shows top 5 trends shaping industries around the globe."
     publishedDateTime: 2021-02-17T17:32:00Z

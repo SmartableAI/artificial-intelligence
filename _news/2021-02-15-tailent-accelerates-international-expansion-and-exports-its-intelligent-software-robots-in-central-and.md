@@ -39,6 +39,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Top 5 Robot Trends 2021 – International Federation of Robotics"
+    excerpt: "Annual installations of industrial robots more than tripled within ten years (2010-2019) reaching 381 thousand units in factories around the world. Th"
+    publishedDateTime: 2021-02-17T19:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210217005474/en/Top-5-Robot-Trends-2021-–-International-Federation-of-Robotics"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
   - title: "Top 5 Robot Trends 2021 Robots Learn New Tricks and Help to Reduce Carbon Footprint"
     excerpt: "Annual installations of industrial robots more than tripled within ten years (2010-2019) reaching 381 thousand units in factories around the world. The International Federation of Robotics shows top 5 trends shaping industries around the globe."
     publishedDateTime: 2021-02-17T17:32:00Z

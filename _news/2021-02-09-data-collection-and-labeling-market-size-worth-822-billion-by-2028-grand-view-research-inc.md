@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Data Collection And Labeling Market Size Worth $8.22 Billion By 2028: Grand View Research, Inc."
-excerpt: "Data gathering and its annotation, combined with artificial intelligence (AI ... to its autonomous driving customers, including Waymo LLC; Lyft, Inc.; Zoox; and Toyota Research Institute."
-publishedDateTime: 2021-02-09T10:37:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html"
-webUrl: "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html"
+excerpt: "The global data collection and labeling market size is expected to reach USD 8.22 billion by 2028, according to a new report by Grand V"
+publishedDateTime: 2021-02-09T10:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
+webUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-    width: 1400
-    height: 733
-    isCached: true
-
-secured: "+gMrlGNjlpnPk/N+uwwSG77rOP/h+G61V9HGLD/BUbE/tWtUaC2SEB44MEy3P2GVYPJfJ/YMJRVNjKm7FCi5r6UOMlGPHV2xM5aUXnp3WAeG/+AUzxaB3afz1tHjeH/Kg5YlFfVUhCd6K6nl1WNd9yK8RTiA72wxYEpXf4iLtuRhSefpDDNniUojGjLY0sC7ZXGKqUqVXtoQcy2jd9N5hW1WOR9usXTUKJC+Qth+xZmT6TFo0lAyCkUkDPca6/FIqygevm4l7PiCE0x6KTM64M1M3zkBz1LvSN4ro0IDZxKqV3TPCCuavU6U1VY+R1tEfXSQ9IutxLWchsoGmlgHXd3PK7oxtwv+vdH2MnIjDY0=;HXwjGarMZ1PmVU7Ej29heg=="
+secured: "E59Jod32zLCRtnJcBGcZSkDr62A2gwVRxhEtsAajZ7xVa60xS33kpMBsxGrEhRiWySA/hDK6IEyUbsBxrVrHUp8DUZO7h70qymj4eIwp0+KwIskG8ieisHZ0k+mhUZtVUpO/VBe0SjqicRYUmVYGINKP7uJLodODRplNlQn+04LOmLk46odNX9rXkqAEZheIRBFavka0STp/1mcyA35/bLqO7UoTpQbU6MZPM/ggVivJb2NTuZUfCLWPOaZRFhtEXPK4mEPSh+aKNBsbmPrYiyzqR5H0CrAh+c3lU1fa9tGpQPi7wftZEd4GPfco9uw/afK0qhu1XoYUZJsXS1p4E/u19fFOH0voyYeyQN6NTgI=;E/WltH1UJQG8vulCU5ChcA=="
 ---
 

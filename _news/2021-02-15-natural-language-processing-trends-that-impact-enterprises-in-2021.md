@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Natural Language Processing Trends That Impact Enterprises in 2021"
-excerpt: "With companies such as Google and Microsoft producing new discoveries on a consistent basis, NLP has made quantum leaps in terms of accuracy, speed and methodology to aid computer scientists as they tackle complex issues."
+excerpt: "Natural language technologies are quickly gaining traction in the enterprise. We are seeing huge numbers of companies every week rolling out text analytics solutions, speech recognition systems, chatbots and every other language-processing use case imaginable."
 publishedDateTime: 2021-02-15T06:38:00Z
-originalUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021"
-webUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021"
+originalUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/"
+webUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/"
 type: article
 quality: 69
 heat: 69
@@ -23,11 +23,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2021/02/NLP.chart.jpg?alias=social_image"
-    width: 560
-    height: 300
+  - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
+    width: 2560
+    height: 1280
     isCached: true
 
-secured: "Lt5Fn9TUnpwflbTD3OiUXivVFR/VJrZKa90F72nS/IASPoHehXJJgDzPWzD3IINSaKrchvV+Q+alwZsrFpnus22q91z1nqRou6j6o1kLOTwY1SkM2T4bim8BQXmJvNXe/hBhJKHG07i4DB4QWlUfUyFtcC6RAaFu8UOv+iyXsNf+DkLp3liNq8LwUQQBgA1DvrP6jj6yzDbdiExWvHhC60rZ8FJ7bJ/azKQI3FT0p9Fsp8XPddHW5zHHQumIFW7FlNPmA16cU0myYe1ki7GihWRYceGT8vnJlll0PIeBq3rt2wbNS9W6DvvKqXd47w/d10w2LJIcDnqqiCKQPe8zzok2V73arvhe1TZ1KQ4hRqsdPj9qQ8dpSVOPwj7aNv0GlCL7EKCQyiGcf7noJ2VvK2i469n6JpOqCcpPyOra7R0BD3izA+WDJjel1XXW45ngWB+qPTrxGdMyQkHwkzKWvcpKWd3WRXfP03ICaK0ME3jfB2vlchEpYDeMrFxCDGCPDYMbIjHh6KFSAgCv46ZWkQ==;Y4o5NRUUG/ksowbso8UwYQ=="
+secured: "D/oBoxgdg+286jtb5NHKn8vO9kmI/unxh1kpgqtKuBz/Apcsr0htcVUftjJ6mu5024pXWgh1O/Ny2jPlzbB4XCGvO50o9773heBknDzYTIO0AT9p6YgRIy0uWKhsWeLl5aMusV9PNjNk4sNoE4HNQ5COuFSeTZZ4WXMBjzD9vdZcQLThhcBufyxIwjkWN6X/OwKhhTqYgDxjKBE1SYOCthE1MfXpkgmb4NS6Ha4C3Yut1i+NaHcO/fRl8XL7YAbke1JiHIfXm9TeSyBCBWz4OFsPrSB/cJrgIcbTVrKMcGBDBlSpAb9XFSImiotm8gzb7PvTt9GH+6A3qOPn4PbP8znS8CI9bknTYn5oNTd2/P8=;9AxWBgkUJX0RblxHGqsJ6A=="
 ---
 

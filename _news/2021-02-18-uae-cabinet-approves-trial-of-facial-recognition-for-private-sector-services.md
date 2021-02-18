@@ -105,6 +105,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Civil rights groups ask Biden administration to oppose facial recognition"
+    excerpt: "The groups argue the software \"would facilitate the mass tracking of each person’s movements in public space — something intolerable in a free and open society.\""
+    publishedDateTime: 2021-02-17T23:21:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/02/17/facial-recognition-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/02/17/facial-recognition-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/02/17/facial-recognition-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 58
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26MKKJRCTQI6VMBU3Z64FNIZTM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "FTC Settles Facial Recognition Data Misuse Allegations with App Developer"
     excerpt: "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app"
     publishedDateTime: 2021-02-17T16:26:00Z
@@ -307,6 +323,6 @@ related:
         height: 726
         isCached: true
 
-secured: "l4NTRPiXaQhjXFJfxaEaVVbgOsFdkwmWJqtseqQjjiS4A0F0YZXiueuSddcTO246hXrPqGRx/vofWqdP/ta4oLA8eUjxABo/IzUgWYzcE3GuX7P62frYHjwuXGwlh7JnCnbAVHNmvGCYbig7mrMAqODpP2WCwGee6WisLDVj1ezy7IjZKAks9BvImdLCXVpB+gTJfWcJvX6T+BzSrbL0ZFooqlAEwK7StKAKhPAN4zfx6+gGarPYklGJEabBj1FDSuSRFcfqYbZQhpO7/xKVvrC/uD3dn+A1V0h4Q4r5xhSfeLVqvdq3raPLsG6DKQtu9K1cKp7XeE55jGV9YJDdlIvHJ0nIV6T56S1M2vdj0i8=;9jcaEHEFy/+WTIAgG0/TGA=="
+secured: "DrUPE18RoATHmKvvikPTXb5WjvpDohpTAsC/aZIP1EsIPK5tFb7a9mAN/ibUeyq/7w11HPG7pWL9407N015LS4jIQ6h58GzKjnLwiOgjaFpYe/MbbnpNdmngz9bhfaGMKHwVOhDof9r8oM5hsqhayZRyw4Sp3bm/+AigWuYwsxlHM3PZIlh6YsFuG5i/5IlKwNrJxRP4tE3J3Kpr2uGPZkE68ROi+/BCCEHaHCgUE1T7e2Mxp+Cis20soX4Gimn+u4KF7cRJvPtVUnIZT9pIRhhpyINS/ZBpp0xxLo9lSycCATIRa2mkmkFYuY4ltA4xid3f8udRLj13AGDlb74xvYb8s6fBMpT4slnIuszhh3xHgMZvk6L+crgwi442DZDYDxTD81VTuixQTs1GwWQBhQcUQbKeQOUACGTYf8aTiNHStF0W7YpD3N0rR2PYUa0fpi9c78J6RbMCLM/hupu/aN5CG63r3MgDv2EKPDu6ZgiP2Q2X414bP8z4K4u2qpU4HB2vGGL38buTqBV+ykKmtQ==;2Q1tQ1pjj2jeTATZl6zgXw=="
 ---
 
