@@ -24,139 +24,185 @@ images:
     isCached: true
 
 related:
-  - title: "The Use Of AI In Advertising, Commerce And Marketing"
-    excerpt: "AI is kind of the second coming of software, which has gained significant momentum in the last few years, acting as personal assistants for some, while processing business transactions and providing t"
-    publishedDateTime: 2021-02-15T05:22:00Z
-    webUrl: "https://www.entrepreneur.com/article/365391"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
+  - title: "Google fires second AI ethics researcher following internal investigation"
+    excerpt: "Margaret Mitchell was using an automated script to look through her emails for evidence of discrimination against Timnit Gebru."
+    publishedDateTime: 2021-02-19T22:52:00Z
+    webUrl: "https://www.theverge.com/2021/2/19/22292011/google-second-ethical-ai-researcher-fired"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/2/19/22292011/google-second-ethical-ai-researcher-fired"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/19/22292011/google-second-ethical-ai-researcher-fired"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: The Verge
+      domain: theverge.com
+    quality: 105
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/O1BP3JZVk2HBAEmcX_KBvD3zFuQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68845703/acastro_180427_1777_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Google fires Ethical AI lead Margaret Mitchell"
+    excerpt: "Margaret Mitchell was fired today weeks after Google fired Timnit Gebru. A restructure of Google's AI ethics efforts was announced Thursday."
+    publishedDateTime: 2021-02-19T22:35:00Z
+    webUrl: "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/"
+    ampWebUrl: "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 104
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1613366535-pexels-startup-stock-photos-7063.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "AI in the OR: One company is closing the gaps in surgery using technology"
-    excerpt: "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help."
-    publishedDateTime: 2021-02-19T20:32:00Z
-    webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+  - title: "Google’s restructuring of its AI teams sparks further criticism"
+    excerpt: "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters."
+    publishedDateTime: 2021-02-18T22:00:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 86
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/19/374589df-8512-4af3-aeeb-d9900f36d1a0/thumbnail/1200x675/22323cb58db91a75bc98eef8d6f6b044/20210218-exploresurgical-karen.jpg"
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-18T210326.083-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
+    excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-18T07:45:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/RwRoKHVffiBFatp4dJkJGLB3shNuHyb0WZRIWKmGC_LyHtiOq2poyGaeYHBPuDAAV3zWb8SS2ezszG4osRH6FGCha-ItM2l4=s1000"
+        width: 848
+        height: 565
+        isCached: true
+  - title: "Google to Reorganize AI Teams in Wake of Researcher’s Departure"
+    excerpt: "Google will restructure its responsible artificial intelligence efforts to centralize teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilize groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-18T05:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOZvPbyletXA/v0/1200x796.jpg"
+        width: 1200
+        height: 796
+        isCached: true
+  - title: "Google AI Chief Apologizes for Researcher’s Acrimonious Exit"
+    excerpt: "Google plans to make changes to executive compensation and increase human resources staffing, acknowledging fault in its acrimonious split with Timnit Gebru, a prominent former employee who is Black,"
+    publishedDateTime: 2021-02-19T19:49:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/google-to-change-policies-after-review-of-ai-researcher-s-exit"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3FV3vpWMGCk/v1/1200x900.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "New project investigates artificial intelligence for sustainable energy integration"
+    excerpt: "The collaboration includes H2GO Power, EMEC, and Imperial College London for H2 tech. A new research project has been launched for examining and demonstrating"
+    publishedDateTime: 2021-02-19T09:04:00Z
+    webUrl: "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/"
+    ampWebUrl: "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/"
+    cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/"
+    type: article
+    provider:
+      name: Hydrogen Fuel News
+      domain: hydrogenfuelnews.com
+    quality: 66
+    images:
+      - url: "https://www.hydrogenfuelnews.com/wp-content/uploads/2021/02/Artificial-intelligence-for-sustainable-energy-Businesss-Research-AI.jpg"
+        width: 875
+        height: 504
+        isCached: true
+  - title: "Google revamps AI teams in wake of researcher’s departure"
+    excerpt: "Croak, a vice president of engineering, will be the Lead for the Responsible AI Research and Engineering Center of Expertise, she said in a YouTube video announcing her appointment Thursday."
+    publishedDateTime: 2021-02-18T23:15:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325.html"
+    ampWebUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/02/18/550x309/AFP_93942A_1613689939985_1613690006848.jpg"
+        width: 549
+        height: 309
+        isCached: true
+  - title: "Army researchers expand study of ethics, artificial intelligence"
+    excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
+    publishedDateTime: 2021-02-16T17:33:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/uarl-are021621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 56
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence And The End Of Work"
-    excerpt: "The notion that, at its best, AI will augment rather than replace humans is both reassuring and deeply misguided."
-    publishedDateTime: 2021-02-15T23:45:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/"
+  - title: "Google revamps AI teams after researcher’s departure"
+    excerpt: "Google on Thursday restructured its responsible artificial intelligence (AI) efforts to centralize teams under a single executive, Marian Croak, a move by the Internet giant to stabilize groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-19T16:57:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/02/20/2003752528"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029b4de0f413e9fd6a1984b%2F0x0.jpg"
-        width: 1200
-        height: 740
-        isCached: true
-  - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
-    excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
-    publishedDateTime: 2021-02-19T06:11:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/the-emerging-role-of-ai-and-machine-learning-in-the-enterprise-nid-15037-cid-72.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 58
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Media Buying Briefing: Why AI is steadily finding its place in agency land"
-    excerpt: "Agencies are more comfortable using machine learning to speed up processing, enhance data crunching and minimize repetitive work."
-    publishedDateTime: 2021-02-15T05:05:00Z
-    webUrl: "https://digiday.com/media/media-buying-briefing-why-ai-is-steadily-finding-its-place-in-agency-land/"
-    ampWebUrl: "https://digiday.com/media/media-buying-briefing-why-ai-is-steadily-finding-its-place-in-agency-land/amp/"
-    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/media/media-buying-briefing-why-ai-is-steadily-finding-its-place-in-agency-land/amp/"
-    type: article
-    provider:
-      name: Digiday
-      domain: digiday.com
-    quality: 57
-    images:
-      - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2021/02/tv-significance.jpeg?fit=682%2C397&zoom=2&quality=100&strip=all&ssl=1"
-        width: 1363
-        height: 794
-        isCached: true
-  - title: "Putting artificial intelligence to work"
-    excerpt: "Artificial intelligence systems are increasingly being given key roles in site teams. Lisa Russell looks at how Winvic is bringing in AI to boost site safety"
-    publishedDateTime: 2021-02-18T12:24:00Z
-    webUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work"
-    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
-    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
-    type: article
-    provider:
-      name: Construction Index
-      domain: theconstructionindex.co.uk
-    quality: 57
-    images:
-      - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Transforming the Supply Chain Landscape with AI and Machine Learning"
-    excerpt: "Transforming the Supply Chain Landscape with AI and Machine Learning By Mark Welch, Senior Vice President, Supply Chain, Novant Health - The healthcare industry is evolving rapidly thanks to years of investment in foundational technologies and processes,"
-    publishedDateTime: 2021-02-19T03:42:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain-landscape-with-ai-and-machine-learning-nid-28723-cid-256.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 56
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/YFq4E2Hi.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "CloudCommerce Adds Critical Artificial Intelligence (AI) Component"
-    excerpt: "Adding this critical component will allow the Company to speed the development of SWARM to dramatically reduce the cost of advertising. “Using machine learning and artificial intelligence, WRENCH.AI makes it easier for advertisers to harness the power of their data to automate the process of creating personas to optimize marketing and advertising efforts,"
-    publishedDateTime: 2021-02-18T19:00:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-a48fdbf12fb872b0017ca4558b2d56a5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Overcoming 7 AI Challenges in 2021"
-    excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
-    publishedDateTime: 2021-02-19T13:57:00Z
-    webUrl: "https://dataconomy.com/2021/02/overcoming-7-ai-challenges-2021/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
+      name: The Taipei Times
+      domain: taipeitimes.com
     quality: 39
     images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
-        width: 1920
-        height: 1118
+      - url: "https://www.taipeitimes.com/images/2021/02/20/P10-210220-322.jpg"
+        width: 800
+        height: 514
+        isCached: true
+  - title: "Google Revamps AI Teams in Wake of Researcher’s Departure"
+    excerpt: "Google has sought to diffuse employee rancor stemming from the acrimonious departure of a prominent Black researcher, Timnit Gebru. The responsible AI teams will roll up to Marian Croak, a Black Google executive who currently serves as a vice president of engineering focused on site-reliability matters."
+    publishedDateTime: 2021-02-19T20:08:00Z
+    webUrl: "https://www.bloombergquint.com/onweb/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-01%2F5f37a8cf-cd33-4a45-9c76-a86d8e64998d%2F367461275.jpg?rect=0%2C0%2C5470%2C2872&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google reshuffles AI team leadership after researcher's controversial departure"
+    excerpt: "By Rachel Metz, CNN Business Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black"
+    publishedDateTime: 2021-02-19T06:39:00Z
+    webUrl: "https://www.kitv.com/story/43374829/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 35
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/20398371_G.jpg?lastEditedDate=1613669157000"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "l45Z7ClBNNl20bZmEZmSZBDzpsxc1fe9nNVvsNfxef4oD93G38RK01KnLtN+As1kIBUok9mLKIvX05DF5BR8O8x/86uzE+C05gt8Wx+H27Sxl8PebCFOQWKjZRBrJuti8vl0858hwe14AVBN7VvxFKtG0gLyIe/wGItnN6alR/FgAZWZhBBjIMRCfdlJ9KonidfrUjCl+tEFjLyc4zN3IZWeUE3JeE5nK18jZXJlwypFpBnvYhlnboX65dj+q0DvVnjyhGpRkDmGrrczviUO7XON5hOk1MJooEeX6+aRwYAqrJGRHH8NrOdayCrTgL/2xvxZM3YthjEUB69LHAwu7D1hU75y5ZILVCiEGJz5oTQ=;5WgBZK+sWdLoPRPjjge5Aw=="

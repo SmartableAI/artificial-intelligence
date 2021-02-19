@@ -41,6 +41,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Putting artificial intelligence to work"
+    excerpt: "Artificial intelligence systems are increasingly being given key roles in site teams. Lisa Russell looks at how Winvic is bringing in AI to boost site safety"
+    publishedDateTime: 2021-02-18T12:24:00Z
+    webUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work"
+    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
+    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
+    type: article
+    provider:
+      name: Construction Index
+      domain: theconstructionindex.co.uk
+    quality: 57
+    images:
+      - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "RbVM4qkgdbAZHA1Tu0JCPMswBhMxmBnUMwF+CJo928Cy+bQmw6FbCSgCna3xDjMzWsIwAipviGBiyt+xat/Y7QSKMGIuGJAU7Rp9aixMD0qpfNxmJFXVuJawJd2yMLEBpVMB/oHn30TKmvTJI3JzC9JuQspCnQZrimmSQlwGgiD3jqkLq+1eD85429UCK612cbWtOYm32mVEsLFMIrTfEcf/c3Ux+T+cOxfe7WnaB4Fmogzy+kUtunr5GyjNNntGleR9lOdFYf7bEK8mPUPYxVh+oez76bTS5rgsPIuLDZwG4D4jmLwwGY2BnkHiXVv3OvL4OzPzl0VNgiEgV6YlEq7ezcA8RsB01TISK3rCfAo=;aBY9qZDpSzwhr3R2qfFahw=="
 ---

@@ -37,13 +37,13 @@ related:
     provider:
       name: Futurism
       domain: futurism.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://wp-assets.futurism.com/2021/02/wotf-600x315.jpg"
         width: 600
         height: 315
         isCached: true
 
-secured: "d3VUNbANiXdzIM3g7K1eL94xRQ14SBrWUIoUUBUFBef2GiR+m5wPRxpBItp37dDEt0T6ugjdn4f4+8FlXHNw4zpuJGb4GsarSb45QGag2APF40vOdH7PsxgC12JWiKQZIuWmWKkmZ3ycA4qUyvZ4hO5XDhTWnSPwYUrV1oKdWfOowlkjtPIaIyH8rjzxxYfOa52qtVFFhtxD8OOMEqTS7NOAp1k0sH23Pzoaojw0taKt2BjB16Eh0XgQ319R4g1k9gaofLYk5PscojE9VsdmC0pu7XPG/mdMJKe0A4X8XM8ejMnhmTAzpitajFdpL/ODnlihQkzGKYvr6QIWJQUKBjNrFIakxXGHJHwc+AklVqw=;Tt82fdl6fI/zBoUvyuOm+g=="
+secured: "TfEx8cDoIginRbKyVPLTCIaFUiE/Dlc7M3evJG3sZNHh55Y/6l4apbfbGg9k7FUFjsvM2/80XY8/N529CSnNtnPvqoj8Nsxg9p3V2/PfgmCIqtiXlwibnfhD6XG/mBTe7nxoIBqAzRpbLuORdXV/13cztJisiAFRunDI1Bq4w2zzqUXtj6fvK+Ie4aEMlmvjK2DV70Ixix36m1oztLN8UH7BdsNQadti9fcZJ2QXDX6skJTwvor+wgoDuE6YdqQLFjPms14y4CdItuwBH7XACnX5yWgncG8sGh6VlBJzQV/LG+HqPtRyKcC0eaXo8dh7fGpEJZocfds/RsfhadCgOC6pWWPuxT422rLXfTacAoILvETLFlko/+1jy6j0CIoiI/ZEii9+M04LPJb5sfxPSc8hjn6Fx8oHoXOvVdGzjKY7aOGF9SNhgp6OVrL5a5ZklLrwCUEPzMGkPPt7N6lAGfSQpYJEpR96qmFctE/wRjmrNXTBJnRrGCPdt+EzqCPVgoeJzMFC0vnGGf9H1nmklA==;mCv5aVv0Tod9dqLpkVVRvw=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://futurism.com/the-byte/artificial-intelligence-worshipping-churc
 ampWebUrl: "https://futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://wp-assets.futurism.com/2021/02/wotf-600x315.jpg"

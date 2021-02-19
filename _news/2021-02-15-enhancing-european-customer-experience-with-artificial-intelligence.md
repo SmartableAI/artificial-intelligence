@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
+    excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
+    publishedDateTime: 2021-02-19T06:11:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/the-emerging-role-of-ai-and-machine-learning-in-the-enterprise-nid-15037-cid-72.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 58
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "Ump0n8xwoRQb1FFGvcfbViH26/63WQzbNZeEy96FRGgx5vuWfIGX+kcraRDfEviB0ctgJ815nddzzOuRTriRUgoITatxb2gkHMjHzr+lBjjpJ6N6JQjdB30xjLD0jZqcTN3cY9MZ1P5uXHFVV9yPrHDAXDUqcgilE1nYeT+lWsNrQXSf+8f56407Rt7KDP71nGex7q/a6VdvG/VlOAcPIA+bgtKhyPdff8tTeFfNxHqIym6OlzPX9yAyihopr7In8g02O9wjfYOcM1DnIu0T9LPMsNCxwRwgj+L2y0McAtVVoxRkDANRV++hGJeSxOmJnLsdhQySIHfEIGNXpJTOZOQlIM2M69jIJX9fVZZG6IM=;asE6eHmY+kVcDUCnaN8eUQ=="
 ---

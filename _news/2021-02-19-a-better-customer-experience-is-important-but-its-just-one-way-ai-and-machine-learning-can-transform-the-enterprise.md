@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-d
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
+    excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
+    publishedDateTime: 2021-02-19T06:11:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/the-emerging-role-of-ai-and-machine-learning-in-the-enterprise-nid-15037-cid-72.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 58
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Enhancing European Customer Experience with Artificial Intelligence"
     excerpt: "Reportlinker.com announces the release of the report \"Enhancing European Customer Experience with Artificial Intelligence\" -  Chatbots, voicebots, behavioral applications, biometrics, cybersecurity, speech recognition,"
     publishedDateTime: 2021-02-15T13:05:00Z

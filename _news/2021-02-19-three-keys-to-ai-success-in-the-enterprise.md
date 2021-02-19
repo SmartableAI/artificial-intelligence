@@ -73,6 +73,22 @@ related:
         width: 1022
         height: 575
         isCached: true
+  - title: "RPI students work with engineering company to integrate AI into power grids"
+    excerpt: "Winter weather shocked people across Texas, many still recovering after days-long blackouts. At last check Friday afternoon, some 150,000 are still without power, down"
+    publishedDateTime: 2021-02-19T22:14:00Z
+    webUrl: "https://www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/"
+    ampWebUrl: "https://www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/amp/"
+    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/amp/"
+    type: article
+    provider:
+      name: WTEN
+      domain: news10.com
+    quality: 57
+    images:
+      - url: "https://www.news10.com/wp-content/uploads/sites/64/2021/02/SNOW-ELECTRIC-SUBSTATION.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How the hybrid cloud is key to enterprise AI infrastructure strategies"
     excerpt: "Few resources are as readily available and easy to use as the cloud, and this easy access to infrastructure extends to AI workloads."
     publishedDateTime: 2021-02-18T12:23:00Z

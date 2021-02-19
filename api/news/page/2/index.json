@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-19-why-developing-ai-to-defeat-us-may-be-humanitys-only-hope.md",
+      "title": "Why developing AI to defeat us may be humanity’s only hope",
+      "excerpt": "One glance at the state of things and it’s evident humanity’s evolved itself into a corner. On the one hand, we’re smart enough to create machines that learn. On the other, people are dying in Texas because elected officials want to keep the government out of Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/poorrobot-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
+      "publishedDateTime": "2021-02-18T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow.md",
+      "title": "Applying voice classification in an Amazon Connect telemedicine contact flow",
+      "excerpt": "Given the rising demand for fast and effective COVID-19 detection, customers are exploring the usage of respiratory sound data, like coughing, breathing, and counting, to automatically diagnose COVID-19 based on machine learning (ML) models. University of Cambridge researchers built a COVID-19 sound",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/12/ML-2176-1.png",
+          "width": 800,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T11:47:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-marian-croaks-vision-for-responsible-ai-at-google.md",
       "title": "Marian Croak’s vision for responsible AI at Google",
       "excerpt": "Dr. Marian Croak has spent decades working on groundbreaking technology, with over 200 patents in areas such as Voice over IP, which laid the foundation for the calls we all use to get things done and stay in touch during the pandemic. For the past six years she’s been a VP at Google working on everything",
@@ -209,7 +314,7 @@
       "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -888,6 +993,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-18-3-ways-to-get-into-reinforcement-learning.md",
+      "title": "3 ways to get into reinforcement learning",
+      "excerpt": "AWS introduced DeepRacer in November 2018 as the “fastest way to get rolling with machine learning.” In December 2020, they had more than 10,000 competitors and a grand prize that included $ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/idge/imported/imageapi/2014/10/08/17/slide_trophies-620x465-100502862-large.jpg",
+          "width": 699,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.amp.html",
+      "publishedDateTime": "2021-02-18T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-ai-powered-math-tutoring-app-photomath-raises-23-million.md",
       "title": "AI-powered math tutoring app Photomath raises $23 million",
       "excerpt": "AI-powered math tutoring app Photomath today announced that it raised $23 million in series B funding. The company says the proceeds will be used to grow headcount, invest in AI, and scale both product and marketing development.",
@@ -1084,154 +1241,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-new-ai-to-identify-problem-gamblers-online.md",
-      "title": "New AI to Identify Problem Gamblers Online",
-      "excerpt": "Entain Plc says it will use big data in an attempt to identify problem gamblers, responding to a looming regulatory crackdown on the digital betting industry, which has been fueled by lockdowns during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-18/problem-gamblers-to-get-flagged-at-entain-amid-official-scrutiny",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-18/problem-gamblers-to-get-flagged-at-entain-amid-official-scrutiny",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iClVxgRzxKRs/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-electronic-nose-uses-machine-learning-to-mimic-a-dogs-sense-of-smell.md",
-      "title": "Electronic nose uses machine learning to mimic a dog's sense of smell",
-      "excerpt": "Inspired by the incredible olfactory senses of dogs, scientists have been developing and demonstrating different types of “electronic noses” that can sniff out things like cancer, nerve gases or even explosives.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/",
-      "originalUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/10bf896/2147483647/strip/true/crop/900x600+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F24%2F56%2F8ab2b48c494b93ec9038369e0d47%2Fmit-artificial-dog-nose-01-press.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/?amp=true",
-      "publishedDateTime": "2021-02-17T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-aws-joins-pennylane-an-open-source-framework-that-combines-machine-learning-with-quantum-computing.md",
-      "title": "AWS joins PennyLane, an open-source framework that combines machine learning with quantum computing",
-      "excerpt": "AWS joins PennyLane, an open-source framework that combines machine learning with quantum computing . Amazon Web Services Inc. will play",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/pc/aws-joins-pennylane-an-open-source-framework-that-combines-machine-learning-with-quantum-computing/",
-      "originalUrl": "https://www.compsmag.com/news/pc/aws-joins-pennylane-an-open-source-framework-that-combines-machine-learning-with-quantum-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/AWS-joins-PennyLane-an-open-source-framework-that-combines-machine-learning.png",
-          "width": 918,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/pc/aws-joins-pennylane-an-open-source-framework-that-combines-machine-learning-with-quantum-computing/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/aws-joins-pennylane-an-open-source-framework-that-combines-machine-learning-with-quantum-computing/amp/",
-      "publishedDateTime": "2021-02-17T22:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

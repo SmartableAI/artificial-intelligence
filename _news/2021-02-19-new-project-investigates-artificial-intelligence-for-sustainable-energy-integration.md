@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustain
 cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/"
 type: article
 quality: 66
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Hydrogen Fuel News
@@ -26,67 +26,183 @@ images:
     isCached: true
 
 related:
-  - title: "Explainable AI for decoding genome biology"
-    excerpt: "Researchers at the Stowers Institute for Medical Research, in collaboration with colleagues at Stanford University and Technical University of Munich have developed advanced explainable artificial intelligence (AI) in a technical tour de force to decipher regulatory instructions encoded in DNA."
-    publishedDateTime: 2021-02-18T20:52:00Z
-    webUrl: "https://phys.org/news/2021-02-ai-decoding-genome-biology.html"
-    ampWebUrl: "https://phys.org/news/2021-02-ai-decoding-genome-biology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-ai-decoding-genome-biology.amp"
+  - title: "Google fires second AI ethics researcher following internal investigation"
+    excerpt: "Margaret Mitchell was using an automated script to look through her emails for evidence of discrimination against Timnit Gebru."
+    publishedDateTime: 2021-02-19T22:52:00Z
+    webUrl: "https://www.theverge.com/2021/2/19/22292011/google-second-ethical-ai-researcher-fired"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/2/19/22292011/google-second-ethical-ai-researcher-fired"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/19/22292011/google-second-ethical-ai-researcher-fired"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
+      name: The Verge
+      domain: theverge.com
+    quality: 105
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/O1BP3JZVk2HBAEmcX_KBvD3zFuQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68845703/acastro_180427_1777_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Google fires Ethical AI lead Margaret Mitchell"
+    excerpt: "Margaret Mitchell was fired today weeks after Google fired Timnit Gebru. A restructure of Google's AI ethics efforts was announced Thursday."
+    publishedDateTime: 2021-02-19T22:35:00Z
+    webUrl: "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/"
+    ampWebUrl: "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Google’s restructuring of its AI teams sparks further criticism"
+    excerpt: "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters."
+    publishedDateTime: 2021-02-18T22:00:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-18T210326.083-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
+    excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-18T07:45:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2021-02-18-google-to-centralise-ai-ethics-team-amid-anger-over-researchers-exit/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/RwRoKHVffiBFatp4dJkJGLB3shNuHyb0WZRIWKmGC_LyHtiOq2poyGaeYHBPuDAAV3zWb8SS2ezszG4osRH6FGCha-ItM2l4=s1000"
+        width: 848
+        height: 565
+        isCached: true
+  - title: "Google to Reorganize AI Teams in Wake of Researcher’s Departure"
+    excerpt: "Google will restructure its responsible artificial intelligence efforts to centralize teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilize groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-18T05:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOZvPbyletXA/v0/1200x796.jpg"
+        width: 1200
+        height: 796
+        isCached: true
+  - title: "Google AI Chief Apologizes for Researcher’s Acrimonious Exit"
+    excerpt: "Google plans to make changes to executive compensation and increase human resources staffing, acknowledging fault in its acrimonious split with Timnit Gebru, a prominent former employee who is Black,"
+    publishedDateTime: 2021-02-19T19:49:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/google-to-change-policies-after-review-of-ai-researcher-s-exit"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3FV3vpWMGCk/v1/1200x900.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Google revamps AI teams in wake of researcher’s departure"
+    excerpt: "Croak, a vice president of engineering, will be the Lead for the Responsible AI Research and Engineering Center of Expertise, she said in a YouTube video announcing her appointment Thursday."
+    publishedDateTime: 2021-02-18T23:15:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325.html"
+    ampWebUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/explainablea.jpg"
-        width: 1440
-        height: 1432
+      - url: "https://images.hindustantimes.com/img/2021/02/18/550x309/AFP_93942A_1613689939985_1613690006848.jpg"
+        width: 549
+        height: 309
         isCached: true
-  - title: "Explainable AI for Decoding Genome Biology"
-    excerpt: "Researchers at the Stowers Institute for Medical Research, in collaboration with colleagues at Stanford University and Technical University of Munich have developed advanced explainable artificial intelligence (AI) in a technical tour de force to decipher regulatory instructions encoded in DNA."
-    publishedDateTime: 2021-02-19T16:28:00Z
-    webUrl: "https://www.labmanager.com/news/explainable-ai-for-decoding-genome-biology-25169"
-    ampWebUrl: "https://www.labmanager.com/news/explainable-ai-for-decoding-genome-biology-25169/amp"
-    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/explainable-ai-for-decoding-genome-biology-25169/amp"
+  - title: "Army researchers expand study of ethics, artificial intelligence"
+    excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
+    publishedDateTime: 2021-02-16T17:33:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/uarl-are021621.php"
     type: article
     provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 59
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 56
     images:
-      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25169/iImg/46658/feb19-2021-stowers-genome-ai.jpg"
-        width: 1440
-        height: 1432
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "DICE Corporation unveils Matrix Integrator to provide security integration companies a new way of selling CCTV"
-    excerpt: "DICE Corporation (The New DICE Corporation) is empowering security integration companies with Matrix Integrator, a cloud-based video event monitoring, surveillance, and alarm notification suite"
-    publishedDateTime: 2021-02-19T11:44:00Z
-    webUrl: "https://www.sourcesecurity.com/news/dice-corporation-matrix-integrator-security-integration-companies-cctv-co-2662-ga-npr.1613734466.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dice-corporation-matrix-integrator-security-integration-companies-cctv-co-2662-ga-npr.1613734466.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dice-corporation-matrix-integrator-security-integration-companies-cctv-co-2662-ga-npr.1613734466.html"
+  - title: "Google revamps AI teams after researcher’s departure"
+    excerpt: "Google on Thursday restructured its responsible artificial intelligence (AI) efforts to centralize teams under a single executive, Marian Croak, a move by the Internet giant to stabilize groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-19T16:57:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/02/20/2003752528"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 41
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/dice-corporation-re-brands-as-the-new-dice-part-of-acceleration-strategy-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://www.taipeitimes.com/images/2021/02/20/P10-210220-322.jpg"
+        width: 800
+        height: 514
         isCached: true
-  - title: "Terminator Salvation? New Artificial Intelligence Program to Accelerate Clean Energy Generation"
-    excerpt: "From 'The Terminator' and 'Blade Runner' to 'The Matrix', Hollywood has taught us to be wary of artificial intelligence. But rather than sealing our doom on the big screen, algorithms could be the solution to at least one issue presented by the climate crisis."
-    publishedDateTime: 2021-02-15T15:13:00Z
-    webUrl: "https://scitechdaily.com/terminator-salvation-new-artificial-intelligence-program-to-accelerate-clean-energy-generation/"
+  - title: "Google Revamps AI Teams in Wake of Researcher’s Departure"
+    excerpt: "Google has sought to diffuse employee rancor stemming from the acrimonious departure of a prominent Black researcher, Timnit Gebru. The responsible AI teams will roll up to Marian Croak, a Black Google executive who currently serves as a vice president of engineering focused on site-reliability matters."
+    publishedDateTime: 2021-02-19T20:08:00Z
+    webUrl: "https://www.bloombergquint.com/onweb/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 25
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
     images:
-      - url: "https://scitechdaily.com/images/Advanced-Energy-Concept.gif"
-        width: 777
-        height: 437
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-01%2F5f37a8cf-cd33-4a45-9c76-a86d8e64998d%2F367461275.jpg?rect=0%2C0%2C5470%2C2872&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Investing in AI with a conscience"
+    excerpt: "Local start-up BasisAI is preparing to go regional with \"responsible\" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA).. Read more at straitstimes."
+    publishedDateTime: 2021-02-15T22:55:00Z
+    webUrl: "https://www.straitstimes.com/tech/investing-in-ai-with-a-conscience"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/16/ST_20210216_LWAI_6328626.jpg?itok=QRxL3typ"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Google reshuffles AI team leadership after researcher's controversial departure"
+    excerpt: "By Rachel Metz, CNN Business Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black"
+    publishedDateTime: 2021-02-19T06:39:00Z
+    webUrl: "https://www.kitv.com/story/43374829/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 35
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/20398371_G.jpg?lastEditedDate=1613669157000"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "Qt4+xjWc2eDmg0e5vxxeqjKCMngxOcRdqTsHs+qB6vd/KAW5z/8vCGIV3CAb/e3Siq/8CIL2feqBTU1JDsOqID+ro53T6XOO50LoTK+NvQuMI4bH0s5xezKOMg8kFZXBIUtfFmAxZeDI49/Ww754u1pe+/vS04f+cQZc035fMz0xsy4N3R+I0srM1CRs/PH7NgCYP8LcJdbyXe3c4cZCkxylHGAEqg+lb4QxUYxl23o4af9WH85EP0dipRdOg6t+FRKnTYNho0o+c5AJAJsN+yfSDlyB5geSCJLpMMKrSYC8CmacooBU7qi/k/eaPiHaVFRhv6Rkfz/nhXdpKH+IzE2v5zuJK74r3BXFN/qebabav3b1mKC/D9sWsfYUExRdYnpSlpjzz7555PCDqazxolqgpR+kYhcHsPbUEpxkuurvu3HN/zVL21h9PzzKluUeTGTUeprAh3brvsJ61lV77jcWCcKWfcbrLswh5QFK44HK0V38KfqiGUZDWGc93CECw1wchfYIx9y7I0WVDAOIkg==;96z94Jypa+wws85TaLGg5w=="

@@ -298,6 +298,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-16-artificial-intelligence-and-the-end-of-work.md",
+      "title": "Artificial Intelligence And The End Of Work",
+      "excerpt": "The notion that, at its best, AI will augment rather than replace humans is both reassuring and deeply misguided.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029b4de0f413e9fd6a1984b%2F0x0.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-the-self-driving-car-companies-going-the-distance-infographic.md",
       "title": "The Self-Driving Car Companies Going The Distance [Infographic]",
       "excerpt": "The California DMV has released its latest autonomous vehicle disengagement report which provides an objective look at the state of the technology's development across several dozen manufacturers",
@@ -708,43 +760,25 @@
     {
       "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
       "title": "2 Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,",
+      "excerpt": "These companies are building the artificial-intelligence (AI ... platform consists of hardware and software designed to support driverless vehicles, from level 2 (partly automated) all the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "webUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
+      "originalUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg",
-          "width": 1619,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T13:20:00-08:00",
+      "publishedDateTime": "2021-02-11T08:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1285,32 +1319,32 @@
       "title": "Data Collection And Labeling Market Size Worth $8.22 Billion By 2028: Grand View Research, Inc.",
       "excerpt": "Data gathering and its annotation, combined with artificial intelligence (AI ... to its autonomous driving customers, including Waymo LLC; Lyft, Inc.; Zoox; and Toyota Research Institute.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc--896282267.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc--896282267.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
-          "width": 1400,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T02:29:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415",
+      "publishedDateTime": "2021-02-09T02:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1451,49 +1485,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california.md",
-      "title": "Vietnam's Vinfast Gets Permit to Test Self-Driving Vehicles in California",
-      "excerpt": "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California. Vinfast, a unit of Vietnam's largest conglomerate Vingroup JSC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp",
-      "publishedDateTime": "2021-02-07T19:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/02/19/googles-model-search-automatically-o
 ampWebUrl: "https://venturebeat.com/2021/02/19/googles-model-search-automatically-optimizes-and-identifies-ai-models/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/googles-model-search-automatically-optimizes-and-identifies-ai-models/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
@@ -48,6 +49,6 @@ related:
         height: 500
         isCached: true
 
-secured: "jPtkORuI6fTIe7dZLktZQEoMtTYgs2Y5038K4C7bXAPfc42FnjhhQbLYANPP8nSGG9x4k052hve/OqWdoeOovm3U7AE9VL8s0tJUNlBieYsvFCbbEJcEynTjoagNO5Qy3qydzeIhFSMeec2XuNG05bLhLKfAZ0mq7b99zLhif3BC8N8+HHz2Br/83opelUfw7b2BaanfVDdL/nDUUPFy6akx49cuHKXWLXQh4BYRFEbKtwZl0shhW/Jq8aJ7JDmbjcS7IVGXvO8F0JwKkRwSD4eG5mKGhzoN5XadB4cFLAbxg3p3jTjGN/S/wcyOmyiv+8cgN/pHrbk1sglnDjqbJ4PkTetg79i5GXBHo7y0kuo=;EdNNdUbH0OwdmsAcwhb0tQ=="
+secured: "9EQuTFfR+sgG3g3E+dKCsgW7yT4tTUrbhibP3gXDqYfAjZx+Xj2uIjWNV/bb7uNa9+VMsd8dOukbVY87Yq5D9jn5wqg/lFkYcQxJXCAZ/iTWw6sbtk7tzqWDxHWPxEZju4HXG9GgNa34hEOKP2INJq2r8CAU38b558RVVNRcV1jg1aUT9AifMvuyTTYyZIa1cRSAj0MHKxp4VclLwKm15yeSATJRlwZgrzJRJtgBrItFT/8VdumW5ZmzQmEaD2LAIUKOlK+d2U4ejiHlWvdYWttoZB2pKAQQLpWj3IeYpQBpd7D3yNAEudBLBdDVlLIgFuSrcX4MlgBW4xMJod6SV53b63rtZ5mPbwJBI+sw3EJ0jnqYR7EmO+R00aI1p4cra9nwM2jLQnQHmuSOgtrVUjm2Q3Wqdiv+TrcWsR2002+l1gzoAPfq2SKZSjZrMMgyIxFsjnIemq/0scuPdOivUfSPzDpN6uOCDiZlud9AslXmV2iriilI72HPMpKrAZP/bcuzPxortdl1OsyaYLEikw==;wUXDGTeELBxt/BDPc1iz5g=="
 ---
 

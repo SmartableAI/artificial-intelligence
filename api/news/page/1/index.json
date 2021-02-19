@@ -2,21 +2,74 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-20-google-ai-chief-apologizes-for-researchers-acrimonious-exit.md",
-      "title": "Google AI Chief Apologizes for Researcher’s Acrimonious Exit",
-      "excerpt": "Google plans to make changes to executive compensation and increase human resources staffing, acknowledging fault in its acrimonious split with Timnit Gebru, a prominent former employee who is Black,",
+      "path": "_news/2021-02-20-google-fires-second-ai-ethics-researcher-following-internal-investigation.md",
+      "title": "Google fires second AI ethics researcher following internal investigation",
+      "excerpt": "Margaret Mitchell was using an automated script to look through her emails for evidence of discrimination against Timnit Gebru.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-19/google-to-change-policies-after-review-of-ai-researcher-s-exit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-19/google-to-change-policies-after-review-of-ai-researcher-s-exit",
+      "webUrl": "https://www.theverge.com/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "originalUrl": "https://www.theverge.com/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3FV3vpWMGCk/v1/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
+          "url": "https://cdn.vox-cdn.com/thumbor/O1BP3JZVk2HBAEmcX_KBvD3zFuQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68845703/acastro_180427_1777_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "publishedDateTime": "2021-02-19T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i.md",
+      "title": "Reviewing online fraud using Amazon Fraud Detector and Amazon A2I",
+      "excerpt": "Each year, organizations lose tens of billions of dollars to online fraud globally. Organizations such as ecommerce companies and credit card companies use machine learning (ML) to detect online fraud. Some of the most common types of online fraud include email account compromise (personal or business),",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/15/1559Architecture.jpg",
+          "width": 800,
+          "height": 414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +79,66 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T11:49:00-08:00",
+      "publishedDateTime": "2021-02-19T13:15:48-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology.md",
+      "title": "AI in the OR: One company is closing the gaps in surgery using technology",
+      "excerpt": "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/19/374589df-8512-4af3-aeeb-d9900f36d1a0/thumbnail/1200x675/22323cb58db91a75bc98eef8d6f6b044/20210218-exploresurgical-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "publishedDateTime": "2021-02-19T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -53,6 +158,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-20-a-robotics-revolution-unpacking-the-actively-managed-arkq.md",
+      "title": "A Robotics Revolution? Unpacking the Actively Managed ‘ARKQ’",
+      "excerpt": "Robotics is one of the more rapidly evolving various disruptive technology themes. Investors can join the party with the ARK Autonomous Technology & Robotics ETF (CBOE: ARKQ). The actively managed ARKQ invests in companies that stand to benefit from the increased adoption and utilization of robotics and artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19",
+      "originalUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp",
+      "publishedDateTime": "2021-02-19T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-googles-model-search-automatically-optimizes-and-identifies-ai-models.md",
       "title": "Google’s Model Search automatically optimizes and identifies AI models",
       "excerpt": "Google open-sourced Model Search, a tool that automatically optimizes and identifies AI models given a dataset and task.",
@@ -61,7 +200,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/19/googles-model-search-automatically-optimizes-and-identifies-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -101,7 +240,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -692,48 +832,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-19-new-project-investigates-artificial-intelligence-for-sustainable-energy-integration.md",
-      "title": "New project investigates artificial intelligence for sustainable energy integration",
-      "excerpt": "The collaboration includes H2GO Power, EMEC, and Imperial College London for H2 tech. A new research project has been launched for examining and demonstrating",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
-      "originalUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hydrogenfuelnews.com/wp-content/uploads/2021/02/Artificial-intelligence-for-sustainable-energy-Businesss-Research-AI.jpg",
-          "width": 875,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
-      "cdnAmpWebUrl": "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
-      "publishedDateTime": "2021-02-19T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrogen Fuel News",
-        "domain": "hydrogenfuelnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-19-robot-proof-higher-education-in-the-age-of-artificial-intelligence.md",
       "title": "Robot-Proof: Higher Education in the Age of Artificial Intelligence",
       "excerpt": "Robot-Proof: Higher Education in the Age of Artificial Intelligence By Joseph E. Aoun, President, Northeastern University - As advanced machines and computers become more and more proficient at picking investments,",
@@ -925,57 +1023,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-19-googles-restructuring-of-its-ai-teams-sparks-further-criticism.md",
-      "title": "Google’s restructuring of its AI teams sparks further criticism",
-      "excerpt": "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-18T210326.083-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/",
-      "publishedDateTime": "2021-02-18T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-19-ai-will-take-construction-robotics-from-hype-to-reality.md",
       "title": "AI will take construction robotics from hype to reality",
       "excerpt": "Buildots attaches 360 cameras onto project managers’ hardhats to collect footage inside the construction site, flagging problems to be solved and tracking construction progress.",
@@ -1027,7 +1074,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1072,6 +1119,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-19-explainable-ai-for-decoding-genome-biology.md",
+      "title": "Explainable AI for decoding genome biology",
+      "excerpt": "Researchers at the Stowers Institute for Medical Research, in collaboration with colleagues at Stanford University and Technical University of Munich have developed advanced explainable artificial intelligence (AI) in a technical tour de force to decipher regulatory instructions encoded in DNA.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-02-ai-decoding-genome-biology.html",
+      "originalUrl": "https://phys.org/news/2021-02-ai-decoding-genome-biology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/explainablea.jpg",
+          "width": 1440,
+          "height": 1432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-02-ai-decoding-genome-biology.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-ai-decoding-genome-biology.amp",
+      "publishedDateTime": "2021-02-18T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-a-better-customer-experience-is-important-but-its-just-one-way-ai-and-machine-learning-can-transform-the-enterprise.md",
       "title": "A better customer experience is important, but it's just one way AI and machine learning can transform the enterprise",
       "excerpt": "Laura Urquizu, CEO of Red Points, explains why AI and machine learning have the potential to enhance customer experiences for enterprise and non-tech companies alike.",
@@ -1080,7 +1170,7 @@
       "originalUrl": "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1121,111 +1211,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-why-developing-ai-to-defeat-us-may-be-humanitys-only-hope.md",
-      "title": "Why developing AI to defeat us may be humanity’s only hope",
-      "excerpt": "One glance at the state of things and it’s evident humanity’s evolved itself into a corner. On the one hand, we’re smart enough to create machines that learn. On the other, people are dying in Texas because elected officials want to keep the government out of Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/poorrobot-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
-      "publishedDateTime": "2021-02-18T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow.md",
-      "title": "Applying voice classification in an Amazon Connect telemedicine contact flow",
-      "excerpt": "Given the rising demand for fast and effective COVID-19 detection, customers are exploring the usage of respiratory sound data, like coughing, breathing, and counting, to automatically diagnose COVID-19 based on machine learning (ML) models. University of Cambridge researchers built a COVID-19 sound",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/12/ML-2176-1.png",
-          "width": 800,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T11:47:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

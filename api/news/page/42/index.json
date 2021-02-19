@@ -2,6 +2,293 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-01-20-microsoft-joins-2b-investment-in-cruise-to-speed-commercialization-of-self-driving-vehicles.md",
+      "title": "Microsoft joins $2B investment in Cruise to speed commercialization of self-driving vehicles",
+      "excerpt": "The company had planned to launch a self-driving commercial taxi service in 2019, but missed that deadline. Microsoft previously partnered with Chinese tech giant Baidu as its cloud partner for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
+      "originalUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/01/Cruise-Track-3-in-Seattle-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
+      "publishedDateTime": "2021-01-19T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots.md",
+      "title": "Health tech company uses Azure and AI to create priority list for COVID vaccination shots",
+      "excerpt": "Jvion uses Microsoft Azure to power CORE ... In April, Jvion used its artificial intelligence (AI) engine to build a map that shows which residents in a community are at highest risk for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "publishedDateTime": "2021-01-19T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
+      "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
+      "excerpt": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official Delhi: Man held for operating 46 fake firms, helping businesses evade tax Calling all fitness ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-80348042/80348042.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
+      "publishedDateTime": "2021-01-19T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to-text-technology.md",
+      "title": "Eden Health selects nVoq to increase productivity by enabling home health caregivers with speech to text technology.",
+      "excerpt": "PRNewswire/ -- nVoq, a leading provider of HIPAA compliant speech recognition solutions for post-acute care, is pleased to announce Eden Health has selected nVoq's innovative",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to/article_944431e1-4d0a-5d4e-9c97-01a5f6b32192.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to/article_944431e1-4d0a-5d4e-9c97-01a5f6b32192.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/29/c2976269-6db7-5b99-882a-d63d5cc8eeec/600714215fe49.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-opinion-facial-recognition-vital-to-nab-capitol-assailants.md",
+      "title": "Opinion: Facial Recognition Vital to Nab Capitol Assailants",
+      "excerpt": "While cities ranging from San Francisco to Boston have worked to ban facial recognition outright, without that technology, the FBI and Capitol Police would have had a harder job arresting the Capitol insurrectionists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html",
+      "originalUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP",
+      "publishedDateTime": "2021-01-19T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-microsoft-backs-general-motors-cruise-automation-self-driving-car-venture.md",
+      "title": "Microsoft backs General Motors' Cruise Automation self-driving car venture",
+      "excerpt": "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/microsoft-general-motors-cruise-automation-self-driving-car/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-general-motors-cruise-automation-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/LZpr8HjlX48MqL6KBPa68NERksc=/2021/01/19/892566c0-08fd-4bf3-b65e-93ca003faf97/ogi-cruise.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-general-motors-cruise-automation-self-driving-car/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-general-motors-cruise-automation-self-driving-car/",
+      "publishedDateTime": "2021-01-19T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption.md",
       "title": "Following a Year of Privacy Worries and Security Breaches, Ring Implements End-to-End Encryption",
       "excerpt": "Some of Ring’s products will now be getting end-to-end encryption for the first time, six years after the company's flagship doorbell camera product first launched.",
@@ -922,299 +1209,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others.md",
-      "title": "Intel Unit MobilEye’s Strategy To Win Self-Driving Is Very Different From Tesla, Waymo And Others",
-      "excerpt": "You may not see MobilEye named as a major contender in self-driving a lot, but their radical strategy takes interesting bets and makes them a top company to watch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006667bd1af2435b265762f%2F0x0.jpg",
-          "width": 1199,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
-      "publishedDateTime": "2021-01-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-will-ai-save-the-movie-consumer.md",
-      "title": "Will AI Save The Movie Consumer?",
-      "excerpt": "Any organization planning to use AI in their processes should collect a diverse and trusted set of data upon which to perform thorough back-testing to reach the necessary precision for their intended application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe0c5cc58f86207d3472bdb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/amp/",
-      "publishedDateTime": "2021-01-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-remote-care-startup-k-health-valued-at-over-14-billion.md",
-      "title": "Remote Care Startup K Health Valued at Over $1.4 Billion",
-      "excerpt": "K Health raised $132 million in a funding round led by GGV Capital and Valor Equity Partners after the Covid-19 pandemic led to a surge in use for remote health-care apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-19/health-care-startup-k-health-valued-at-over-1-4-billion",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-19/health-care-startup-k-health-valued-at-over-1-4-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3bIuOotwAsw/v0/1200x660.jpg",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects.md",
-      "title": "How AI Is Reshaping HPC And What This Means For Data Center Architects",
-      "excerpt": "IT users, evaluate your current data center environment and closely consider how hardware resources can be repurposed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8fdab4651878de6f35fbf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/amp/",
-      "publishedDateTime": "2021-01-19T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service.md",
-      "title": "K Health raises $132 million to launch AI-powered telemedical pediatric service",
-      "excerpt": "K Health, a telemedical service using AI to diagnose and treat illnesses, has raised $132 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/",
-      "originalUrl": "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/amp/",
-      "publishedDateTime": "2021-01-19T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-infosys-launches-applied-ai-cloud-cobalt-offering.md",
-      "title": "Infosys Launches Applied AI Cloud 'Cobalt Offering'",
-      "excerpt": "(RTTNews) - Infosys (INFY) announced the launch of an Infosys Cobalt offering - its applied AI cloud. Powered by NVIDIA DGX A100 systems, the applied AI cloud will provide Infosys employees simple and fast access to AI infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19",
-      "originalUrl": "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19?amp",
-      "publishedDateTime": "2021-01-19T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

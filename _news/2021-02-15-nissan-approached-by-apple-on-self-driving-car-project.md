@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apple Reportedly in Talks to Buy Sensors for Self-Driving Cars"
+    excerpt: "Apple is negotiating to buy sensors for self-driving cars, a media report says. The tech titan for some years has been working on an autonomous-vehicle project."
+    publishedDateTime: 2021-02-19T22:43:00Z
+    webUrl: "https://www.thestreet.com/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/7EvaZZzT-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Bloomberg: Apple searching for next-gen LiDAR supplier for self-driving car"
     excerpt: "As we continue to learn more about Apple Car progress, some fresh tidbits have been shared today in a Bloomberg report. Apple is working on the important step of finding a supplier for cutting-edge LiDAR sensors that will be key for the autonomous aspect of the company’s electric vehicle."
     publishedDateTime: 2021-02-19T17:11:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
         width: 2500
         height: 1406
-        isCached: true
-  - title: "Nissan Says Not In Talks With Apple On Self-driving Cars"
-    excerpt: "Japanese auto maker Nissan said Monday it is not in talks with Apple to develop self-driving cars, a week after Hyundai also denied reports it was discussing the top-secret project with the US tech giant."
-    publishedDateTime: 2021-02-15T06:38:00Z
-    webUrl: "https://www.ibtimes.com/nissan-says-not-talks-apple-self-driving-cars-3145646"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/15/japanese-auto-giant-nissan-has-denied-that-it.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Apple loses key manager from self-driving EV team"
     excerpt: "Apple Inc.’s self-driving car team lost one of its longest-serving leaders, a potential setback to the technology giant’s efforts to compete in the auto industry. Benjamin Lyon helped form Apple’s original autonomous electric car team in 2014 as its most senior manager working on sensors."

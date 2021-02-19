@@ -393,6 +393,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-04-incorporating-intrinsic-suppression-in-deep-neural-networks-captures-dynamics-of-adaptation-in-neurophysiology-and-perception.md",
+      "title": "Incorporating intrinsic suppression in deep neural networks captures dynamics of adaptation in neurophysiology and perception",
+      "excerpt": "When trained to classify natural images, these models describe the stages of ventral visual stream processing of brief stimulus presentations with unprecedented accuracy (28–33), while capturing essential aspects of object recognition behavior and ...",
+      "sourceUrl": null,
+      "webUrl": "https://advances.sciencemag.org/content/6/42/eabd4205.full",
+      "originalUrl": "https://advances.sciencemag.org/content/6/42/eabd4205.full",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advances.sciencemag.org/content/6/42/eabd4205/F1.large.jpg",
+          "width": 1400,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.md",
       "title": "'Computer vision syndrome a real problem' amid pandemic, physician says",
       "excerpt": "\"And that leads to fluctuations in vision and blurred vision and of course the eye strain can cause headaches,\" Dr. Starr said. \"So the computer vision syndrome is a real problem, especially in the post-COVID-19 era.",
@@ -1372,49 +1415,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-facial-recognition-payments-making-a-mark-on-world.md",
-      "title": "Facial recognition payments making a mark on world",
-      "excerpt": "Facial recognition is happening in large parts of China, the US, Spain, Denmark and Nigeria as contactless payments look here to stay",
-      "sourceUrl": null,
-      "webUrl": "https://www.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "originalUrl": "https://www.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theceomagazine.net/wp-content/uploads/2021/01/29095154/facial-recognition.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "cdnAmpWebUrl": "https://amp-theceomagazine-com.cdn.ampproject.org/c/s/amp.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "publishedDateTime": "2021-01-28T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The CEO Magazine",
-        "domain": "theceomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

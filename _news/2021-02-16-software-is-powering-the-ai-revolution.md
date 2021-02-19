@@ -30,34 +30,17 @@ images:
     isCached: true
 
 related:
-  - title: "The AI-Driven Platform Powering The Future Of Fresh Food"
-    excerpt: "The question is, how can stores make sure they have enough of the fresh foods their customers crave at just the right, ripe moment, while minimizing losses from past-its-prime or expired offerings?"
-    publishedDateTime: 2021-02-17T15:07:00Z
-    webUrl: "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/"
+  - title: "A Robotics Revolution? Unpacking the Actively Managed ‘ARKQ’"
+    excerpt: "Robotics is one of the more rapidly evolving various disruptive technology themes. Investors can join the party with the ARK Autonomous Technology & Robotics ETF (CBOE: ARKQ). The actively managed ARKQ invests in companies that stand to benefit from the increased adoption and utilization of robotics and artificial intelligence (AI),"
+    publishedDateTime: 2021-02-19T20:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19"
+    ampWebUrl: "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://specials-images.forbesimg.com/imageserve/602c2f48e7cffddc942ebce0/960x0.jpg?fit=scale"
-        width: 960
-        height: 688
-        isCached: true
-  - title: "The Power of Artificial Intelligence (AI)"
-    excerpt: "By Aaron Gette, CIO, The Bay Club Company - If you’re an avid fan of HBO's Silicon Valley, as I am, you may have recently downloaded the iOS app"
-    publishedDateTime: 2021-02-19T06:52:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-24660-cid-40.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 56
-    images:
-      - url: "https://www.cioreview.com/news_new/bioauthor_img/79bay300.jpg"
-        width: 300
-        height: 300
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
 
 secured: "x2MRsz/Uw/lEMtsr+PYKzM9QOh5ZUKDjtoGlqGEMIcYr422GUKKuyFd0042kN7AuV7LpzIyqAg84ocBY5s4Q9LhK64d90zLlVe8WvQaoqFmOEbGdFcPrmsEJVgFsGPYFlgyoXxZ5Oze8B0IwA7Pl4UFnxoDcR3opBI5gJpGDMf2N0RhVvyATQ9C1/XMEdZMYNvr6ZMJ1z5l2uz+Oe6OLus2AC4CKhBxCm31XghwYyUvC5hazjHa9dtEurucJi4HUmvJHZKLxL5XSN6Ywtg842uMfhCIzJDDKqDZlHUPpF2pQV/dupEKtq/zlBhYvOk2ilRUfHVA7xwmw4re1FKWbNHR6rqhMOtfCrAVuVyT/mREHab87Fdkm2FAwDNkHd0VKuyTJE+2dQlX5eXtyVxNSGLTMMjLk3QzWsDGx5P5yV+CXIo6yPUSLqVOTmA6UggCy2TqTfLLnrYJ/wPVeLzUB3waldlV/GTFMNeUJ/Kvp0YydfNa4c6EqgH9J2nf/oe+VJvWVz6Yp5iQLLRaTazUmLQ==;vF5y2OA9lFudHjrtbjhT3Q=="
 ---

@@ -74,6 +74,22 @@ related:
         width: 1022
         height: 575
         isCached: true
+  - title: "RPI students work with engineering company to integrate AI into power grids"
+    excerpt: "Winter weather shocked people across Texas, many still recovering after days-long blackouts. At last check Friday afternoon, some 150,000 are still without power, down"
+    publishedDateTime: 2021-02-19T22:14:00Z
+    webUrl: "https://www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/"
+    ampWebUrl: "https://www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/amp/"
+    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/amp/"
+    type: article
+    provider:
+      name: WTEN
+      domain: news10.com
+    quality: 57
+    images:
+      - url: "https://www.news10.com/wp-content/uploads/sites/64/2021/02/SNOW-ELECTRIC-SUBSTATION.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Three keys to AI success in the enterprise"
     excerpt: "Three keys to AI success in the enterprise By Vikram Mahidhar, business leader of AI solutions, Genpact - Many CIOs have artificial intelligence (AI) on their radar. A recent survey by Genpact and Fortune Knowledge Group of"
     publishedDateTime: 2021-02-19T08:32:00Z

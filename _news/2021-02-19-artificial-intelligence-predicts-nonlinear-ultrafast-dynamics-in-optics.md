@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-19T15:15:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/tu-aip021921.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-02/tu-aip021921.php"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"

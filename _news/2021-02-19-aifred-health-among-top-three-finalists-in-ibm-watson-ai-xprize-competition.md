@@ -135,6 +135,20 @@ related:
         width: 772
         height: 434
         isCached: true
+  - title: "IBM reportedly mulling spinoff of $1B Watson Health unit"
+    excerpt: "The tipsters didn’t say what price IBM is targeting for the prospective sale. But they did share some financial information about the Watson Health unit itself, which is reportedly generating about $1 billion in annual revenues and currently isn’t profitable."
+    publishedDateTime: 2021-02-19T22:41:00Z
+    webUrl: "https://siliconangle.com/2021/02/19/ibm-reportedly-mulling-spinoff-1b-watson-health-unit/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/IBM_ads_at_JFK.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
     publishedDateTime: 2021-02-18T19:36:00Z

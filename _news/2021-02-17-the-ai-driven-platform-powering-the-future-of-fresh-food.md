@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-drive
 webUrl: "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.cioreview.com/news_new/bioauthor_img/79bay300.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Software is Powering the AI Revolution"
-    excerpt: "This isn't the first time artificial intelligence (AI) has been all the rage and set to change the world. However, the technology that underpins AI has fundamentally changed."
-    publishedDateTime: 2021-02-16T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/software-powering-ai-revolution-rajat-monga"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQH_pG5EIh6Dvg/article-cover_image-shrink_600_2000/0/1613504021071?e=1619049600&v=beta&t=VpKvOTAfI5d-Nkps4YFFT46ExbaL3ObOGNaDP1pFNXg"
-        width: 1323
-        height: 600
         isCached: true
 
 secured: "wlaKGTiRbRXl9w9XC8dyRMpzw1z7HsdbarIYLkcJJfZJiTHYo6f84zGO2Z15zNjckFwnACzfePenZz+3jo04G5fFwB3TNTSopNr6O6ZIX+Y6O/8dtLdWBGTbE8QC4vKQ6D8OxzC1f0BiwWrn9OYVGMl8vNTmSGxo48rIgRXAnOqJe9MDFz86vKKtR1KWQyKNQ4P+IovJTteVrAUwRjqZxIARxHtHLd0qC7tNDRIvvgLCtYddLS5B42Z8RSfP9rt+nLx//Z67Dl7DlRZqeSh70JFKHqYjZIyrBJ0sbvjEmD3GvhBxKk9XKEAFTAQE+LAUxekeoGua4pZUFX28hO/Uygfj/IqKOiUZhvX03YcGqcZs6fMHGq8W9giW/YT19j14addQSPB1Waonk0iFp7JIhBJXey9WeIO76l/x2wRtvSTiVyyKjm7X6HQfNZJuKBD5Mo7k54OWku7U7zJHO5jNbmNjR/qxryH3v5ebWQFTIIza7EkxZoD19Y+mmIr8H4GXzX9l3kxfBy960l23CywTaQ==;E0H8c04WU4hZyGuCBjh88w=="

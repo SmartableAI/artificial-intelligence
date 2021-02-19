@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Overcoming 7 AI Challenges in 2021"
+    excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
+    publishedDateTime: 2021-02-19T13:57:00Z
+    webUrl: "https://dataconomy.com/2021/02/overcoming-7-ai-challenges-2021/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
+        width: 1920
+        height: 1118
+        isCached: true
 
 secured: "D1KK20MSkJkOUrk1Gizv+f7aC1+LoQDsUkMx/B5n/j1jzmqJtllD7DSKEchPB/LvkjlTmvjos0Dlsqnm4Pkwjb01inByWYKh6xidntmANh2AD/UhTABOgclJ2lE2m76Rm/ECVoNlVkBH6iixlYow+NGNyVUpT1Sv8ktQR2KAQHIOLmZNCWiL/5ZSfqk4yc3S0vp0GVpSRCusWinvYnLueuViFNAo3DvG/Lvsmjj8uU85dQo7INJEP1SXWm+ZvLpXm0Y/Be3VrAXriPzI+/qJd6xCXIpIwULfeCGXKJ0S4vy6pF6i23O29xZYAx1rv+ccDSVFdf6J91y8gWL6WrOHrDQQ2s2Pln+pgmJfhXWeWf1Nja12/o/Y0egtZ77o5SuOXP5/vdAQmE4wnaxK/71cCCYt1+/p/AGuroL/P4j56NbZ4zi4VgfsW4ZrjU6O/gtoevtlBh+BSXUBjva0IIv+zcnzK36DmwGUQMGuF3jOVadRyCGn8rJN2knpP7K6+fodrp00ooxswVaCHO8/s2Fz9w==;YSYcBl0XDt40UO+lm3/ehw=="
 ---
