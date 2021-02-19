@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dataminr"
   url: "https://twitter.com/dataminr"
-  followers: 14907
+  followers: 14906
 
 size: 201-500 employees
 yearFounded: 2009
