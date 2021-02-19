@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/ftc-settles-facial-recognition-
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 58
+published: false
 
 provider:
   name: The National Law Review
@@ -25,36 +25,6 @@ images:
     width: 1426
     height: 808
     isCached: true
-
-related:
-  - title: "Petition calls for EU ban on facial recognition"
-    excerpt: "Facial recognition technology is under fire again in Europe as digital and human rights organisations launched a petition calling for a ban on biometric surveillance in public spaces. The European Citizens’ Initiative (ECI) calls on the European Commission to regulate the use of biometic technologies,"
-    publishedDateTime: 2021-02-17T15:10:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/petition-calls-for-eu-ban-on-facial-recognition"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1613574436/widgetdocs/Biometric_surveillance_jwbisi.jpg"
-        width: 750
-        height: 445
-        isCached: true
-  - title: "Could Drones Use Facial Recognition? We Could Be Just One Step Closer to That Actually Happening"
-    excerpt: "The U.S. Patent and Trademark Office has just published a patent application for 'Adaptive positioning of drones for enhanced face recognition' filed by AnyVision. Veuer's Chandra Lanier has the story."
-    publishedDateTime: 2021-02-18T10:53:00Z
-    webUrl: "https://www.wtsp.com/video/syndication/veuer/could-drones-use-facial-recognition-we-could-be-just-one-step-closer-to-that-actually-happening/602-b71fef64-2438-41b6-90f2-664e9a85344e"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 26
-    images:
-      - url: "https://media.wtsp.com/assets/VEUER/images/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae_1140x641.jpeg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "9uFmnuK5dmS0fex1UeFS16TKr+KV3XWp3D+sCzr2GztzjZQhHLNwwLaTQJkejBZ7vi/OwXTQFtjQgDHA3FSB6U5rZFb/ZObm1ryQACW5wR+/Tv1vQW74xxF27jifNZBqSmvtQyMAsbYnCXk7zz9QJGZsP2zS1It9BKkJa9GIgyGLIn2uTzWOj1Fje+nu/fJGuw4jtcy1DkkRCnhdNXxyixLEEo2iIhFozRD1kW5G/4/dIH9RHO8tmD6+PPawBfCsQ/dfn2xaXzEB2YCskss3BaZBCQ0oIdxw8Md2kvLWqixijZGQ2zodlONiytAk/LZE0j2XGdhWYIRozeoQd7oxXBK9kUvztIfMbyGFeVdz47A=;Gbl+4H2DUtOimcvuk48SNQ=="
 ---

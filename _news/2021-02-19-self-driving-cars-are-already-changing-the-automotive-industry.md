@@ -53,6 +53,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Self-Driving Cars Are Now Cruising Through The Yards"
+    excerpt: "Self-driving cars from Optimus Ride are now navigating DC’s waterfront, available for pick-ups in the Yards with access to Barracks Row and Capitol Hill. Rides are currently limited to a select group of tenants in waterfront apartment buildings,"
+    publishedDateTime: 2021-02-19T17:37:00Z
+    webUrl: "https://www.washingtonian.com/2021/02/19/self-driving-cars-are-now-cruising-through-the-yards/"
+    type: article
+    provider:
+      name: Washingtonian
+      domain: washingtonian.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonian.com/wp-content/uploads/2021/02/3-optimus-ride-nationals-park-e1613748365342-1024x616.jpg"
+        width: 1024
+        height: 616
+        isCached: true
   - title: "Next-Generation BMW 7 Series and i7 Electric Prototypes Show Self-Driving Tech"
     excerpt: "Despite having been introduced five years ago, the current generation of the BMW 7 Series is not exactly long in the tooth technology wise, and it’s not exactly old-fashioned when it comes to design either,"
     publishedDateTime: 2021-02-17T21:45:00Z

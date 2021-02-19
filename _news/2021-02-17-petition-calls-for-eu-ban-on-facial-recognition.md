@@ -25,21 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "FTC Settles Facial Recognition Data Misuse Allegations with App Developer"
-    excerpt: "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app"
-    publishedDateTime: 2021-02-17T16:26:00Z
-    webUrl: "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer"
-    ampWebUrl: "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp"
+  - title: "Facial recognition: Cardiff rapist caught on CCTV"
+    excerpt: "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,"
+    publishedDateTime: 2021-02-19T18:24:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-56130226"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 58
+      name: BBC
+      domain: bbc.com
+    quality: 69
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Convicted sex attacker caught by facial recognition technology jailed for life"
+    excerpt: "Craig Walters followed his victim off a bus in Cardiff before attacking her - weeks after being released from prison for a similar offence."
+    publishedDateTime: 2021-02-19T15:54:00Z
+    webUrl: "https://www.itv.com/news/wales/2021-02-19/convicted-sex-attacker-caught-by-facial-recognition-technology-jailed-for-life"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 50
+    images:
+      - url: "https://images.ctfassets.net/pjshm78m9jt4/5x0PguEvu7nV4nk6tydB3R/bb28847e39ee093daa2546ee6a408add/Screen_Shot_2021-02-19_at_15.56.23.png"
+        width: 2836
+        height: 1620
+        isCached: true
+  - title: "Facial recognition: Sexual predator caught on CCTV"
+    excerpt: "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,"
+    publishedDateTime: 2021-02-19T18:26:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-wales-56130226"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Could Drones Use Facial Recognition? We Could Be Just One Step Closer to That Actually Happening"
     excerpt: "The U.S. Patent and Trademark Office has just published a patent application for 'Adaptive positioning of drones for enhanced face recognition' filed by AnyVision. Veuer's Chandra Lanier has the story."

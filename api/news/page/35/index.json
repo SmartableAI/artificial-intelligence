@@ -2,6 +2,196 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-01-24-hitting-the-books-ai-doctors-and-the-dangers-tiered-medical-care.md",
+      "title": "Hitting the Books: AI doctors and the dangers tiered medical care",
+      "excerpt": "Frank Pasquale’s 'New Laws of Robotics' shows how the promise of faster, more efficient medical diagnoses from AIs can also be a double-edged sword, cutting off access to the quality care provided by human doctors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/hitting-the-books-new-laws-of-robotics-frank-pasquale-harvard-university-press-163059703.html",
+      "originalUrl": "https://www.engadget.com/hitting-the-books-new-laws-of-robotics-frank-pasquale-harvard-university-press-163059703.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F04bcdda0-5a97-11eb-ae3f-cf008eb275c3&client=amp-blogside-v2&signature=f6090833f4d6d761f9aef17ffab771d4b0a43feb",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-new-laws-of-robotics-frank-pasquale-harvard-university-press-163059703.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-new-laws-of-robotics-frank-pasquale-harvard-university-press-163059703.html",
+      "publishedDateTime": "2021-01-23T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-can-facial-recognition-technology-really-reveal-political-orientation.md",
+      "title": "Can facial recognition technology really reveal political orientation?",
+      "excerpt": "The author of a peer-reviewed study says ‘yes it can’ and if he’s right, it has frightening implications A facial recognition system on display at the first Digital China summit, held in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1f986d762353b00bae878db163e8ee561ba35330/0_0_4240_2545/master/4240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5fe6e09686eeedab5b5451d107769c93",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
+      "publishedDateTime": "2021-01-23T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-commentary-who-owns-our-faces-and-how-will-facial-recognition-be-used.md",
+      "title": "COMMENTARY: Who ‘owns’ our faces and how will facial recognition be used?",
+      "excerpt": "The recent riot at the U.S. Capitol has put the question into the spotlight as facial recognition becomes a vital tool in identifying rioters: What is the power of facial recognition technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/7588121/facial-recognition-canada-rights/",
+      "originalUrl": "https://globalnews.ca/news/7588121/facial-recognition-canada-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalnews.ca/wp-content/uploads/2020/10/facial-recogition.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+          "width": 720,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T06:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming.md",
+      "title": "A scary proposal to use facial recognition and AI by an Indian state has experts fuming",
+      "excerpt": "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms",
+      "originalUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/photo/80422279/Master.jpg",
+          "width": 500,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms",
+      "publishedDateTime": "2021-01-23T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-argo-gives-its-self-driving-vehicle-hardware-a-big-upgrade.md",
       "title": "Argo gives its self-driving vehicle hardware a big upgrade",
       "excerpt": "Argo has been working on its self-driving car platform for a while now alongside its partners Ford and Volkswagen, and in that time, it's made some decent progress. Now it's ready to move to the ...",
@@ -1001,195 +1191,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-ai-robots-and-play-2021-predictions-for-a-virtual-workplace.md",
-      "title": "AI, Robots And Play: 2021 Predictions For A Virtual Workplace",
-      "excerpt": "Founder and President of Virbela, building immersive virtual worlds for remote work, learning and events. While no one may have predicted just what 2020 would throw our way, my crystal ball is indicating that we have many more changes in store for 2021 — and some of them are promising,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6009d9db7af670a4e54c019d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/amp/",
-      "publishedDateTime": "2021-01-22T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east.md",
-      "title": "5G, fintech and mega projects: what 2021 will mean for tech in the Middle East",
-      "excerpt": "G, fintech and mega projects: what 2021 will mean for tech in the Middle East The MENA region is in the midst of a digital",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
-      "originalUrl": "https://www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/5G-fintech-and-mega-projects-what-2021-will-mean-for.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/amp/",
-      "publishedDateTime": "2021-01-22T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-what-nonprofits-stand-to-gain-from-artificial-intelligence.md",
-      "title": "What Nonprofits Stand To Gain From Artificial Intelligence",
-      "excerpt": "Nonprofits have the opportunity to develop AI powerful algorithms to raise more funds, improve the efficiency of their resources and learn more about their members' needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37866b8beb90007c3a79a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-01-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-the-leader-of-the-alphabet-workers-union-looks-beyond-wages.md",
-      "title": "The Leader of the Alphabet Workers Union Looks Beyond Wages",
-      "excerpt": "How are you able to make Alphabet executives do anything they don ... Yeah, dozens have been messaging our union, and we’re having really great conversations with workers at other tech companies. I think that having a concrete example of an organization ...",
-      "sourceUrl": null,
-      "webUrl": "https://alphabetworkersunion.org/press/releases/retaliation-against-margaret-mitchell/",
-      "originalUrl": "https://www.bloombergquint.com/businessweek/alphabet-workers-union-leader-parul-koul-takes-on-google-googl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://alphabetworkersunion.org/img/static/og-banner.png",
-          "width": 1024,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

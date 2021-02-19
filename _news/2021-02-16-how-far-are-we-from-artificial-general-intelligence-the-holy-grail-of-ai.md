@@ -26,6 +26,22 @@ images:
     height: 428
     isCached: true
 
+related:
+  - title: "Artificial ‘intelligence,’ a matter of opinion"
+    excerpt: "I have a new piece of technology, and I love it."
+    publishedDateTime: 2021-02-19T15:00:00Z
+    webUrl: "https://norfolkdailynews.com/select/artificial-intelligence-a-matter-of-opinion/article_91afbef8-72d4-11eb-804f-472a682129b4.html"
+    type: article
+    provider:
+      name: Norfolk Daily News
+      domain: norfolkdailynews.com
+    quality: 22
+    images:
+      - url: "https://www.norfolkdailynews.com/app/editorial/caption0215.jpg"
+        width: 620
+        height: 438
+        isCached: true
+
 secured: "X3iM0lJadcSluHEPUSTZpS63I5g8Ddl76tpoUg9nZoJMvUEq6+PT5mjFvGrpH8VYTZCEtOXZzNYDtdnz5gJoJm6KTCM3tybajQ1suoVs8xhuxKHcvmonr6H1DXVVVhtqrNVhY3yKEXz+oNfmkE3Q9g7HfozrNjoqTtd0wtZ4MAt3tGUb0s7u14GiPilTBTmuymwgX50Z/1qL/j3AmtP5ckDfaGC1NHmfIB6cxhaHXqFIswGQV3qgxvVU8egAL/dmwFYSjXlpfTXTPhuulEDuahm08WXUsDfVmZihlMSHVJBbAn91Js0FMdDrqiz8vKx+1BU7S08lEIV05ju1iwce0Ofktylrw7Y5DMdmw/4qB1THgjchGRcCRHgBlaMEYDv8LIC0LjzFEI+K7516WJubs9kemrub3c5p8EbWX60Ut+u0XosaivtH/alDwU4HTJr/nTCksZlqa43DUszMt86OSdtM0tFdgCfoatUQWZ1ohvPd7KoQPEiDsLSdVUjOos+5ODcEhJg1VDd7iTYDnlNumA==;NJwjGFGSqSFQop0zkSV7UA=="
 ---
 

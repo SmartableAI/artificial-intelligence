@@ -3,10 +3,10 @@ category: news
 title: "Breakingviews - Capital Calls: Baidu hits its AI stride"
 excerpt: "China’s search engine operator Baidu is finally getting somewhere with its artificial intelligence bets. Sales in the quarter ending in December rose 5% year-on-year to $4.6 billion. That was powered by a 52% surge in cloud computing and other non-advertising revenue,"
 publishedDateTime: 2021-02-18T09:00:00Z
-originalUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idINKBN2AI0B8"
-webUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idINKBN2AI0B8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AI0B8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AI0B8"
+originalUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8"
+webUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI0B8"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI0B8"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "NXD7bQmHfrFQW2r5f+ZTpLJEUbQ0FpSgLioAzK9m8IyF59mmIhxIZawSJZRk4eluBweJK3qL4VAZH48zbgzyuuZW4RjR5WXe/zfQFOB+AnodoaMxgMLZIAKMV5eB4slz7jjgTQQLYA+bohB3kKa35AOwxwweym5IVSa3GpeRA8mKbQlCVz1bCPYDs5VPOFe6spSUOizMEqJDXEO2OFl4f1wb+MqoFMmbPmvlRF0oB2Amr8o1EQk800qbUYnSCoPLozKO+EqrsKGodkUFzPwKnA5kHnVyCMNIgT0SOA3W2X+WsJ7sGg9EhbjG9TtAQtIbY6ngHqEYXe9WiKhteG+5OOvcD0DMP8WsGPskN9qLHH8=;tfiJtctswI0IJPczlSupLg=="
+secured: "gEI0tX5ZbR0WbZtbMT7duEW3Rie9Zws9PANZjHFomYNSMuKEm9a+inf+WCHdzV8gFMDnGpjXSTSrBVwIeMSU/H8twjh6S3XNPz0zk6KXkyVM8KnodoAgCKZguPqedwa7HeyQS9eNQvkW5TCA8fWUNVJJp+b6T7OcyPQOwLd48JFDaM2kwvNANrFkkDHqn+ahP/W+ZcvV0ny6dc6Ozcw9lNSL1C7RfbQOThsLihM8typyCUVvt0UacrgTvIYpbD5ejO0sdebnb/WcMIZGHrN8uM3MhDOee/FefTehQfng7Xzwkzo/3p3NKpKJF6g8m6C/ndY9Za4w6k0450N8EXhjdIJ5OUgoVJcJMdSwvGtgmKE=;VV2cr+gs1MZnKNUq18Xslw=="
 ---
 

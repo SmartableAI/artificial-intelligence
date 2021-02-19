@@ -2,17 +2,23 @@
 category: news
 title: "French watchdog warns sports club about unlawful use of facial recognition technology"
 excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-publishedDateTime: 2021-02-18T18:34:00Z
-originalUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
-webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+publishedDateTime: 2021-02-18T23:34:00Z
+originalUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
+webUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO2C6"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -96,20 +102,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26MKKJRCTQI6VMBU3Z64FNIZTM.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "CBP facial recognition technology fails to find anyone using false identities at airports"
-    excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
-    publishedDateTime: 2021-02-15T03:01:00Z
-    webUrl: "https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/cbpfacialrecognition.jpg"
-        width: 1097
-        height: 700
         isCached: true
   - title: "Biden Must Halt Face Recognition Technology to Advance Racial Equity"
     excerpt: "Face recognition is a threat to not only our constitutional rights, but to people of color and other marginalized groups who are more likely to be misidentified — and bear the consequences"
@@ -223,6 +215,6 @@ related:
         height: 628
         isCached: true
 
-secured: "wLuvIOdOAv0WLTU2G+k/mE1RIHmu12yeUEKkw4s4pIm+GugvxZT9YSPixU2nkI+PW6AX3T9dYv3R1dKuIbypaM15z14cJexntEsA6iOPEq28LD5v5yjTrK2ZGM7V3wfUnGKlmxL8RoO//tUbmtCjnkEmNi3Hrio2ON1H+24zWaNJ0thps5ggks3Bbq6gMJVYSXV6cTxEz8rQCmKzUUVW71w5yCieWp99tflvHSvsqd0jJ0eaHhwidEwglOGLmnBDUi2FE1+2zT/DEJcsbDyV2M13ucUJT+r19BTCEPEDrrQCzvP3HEIbYNJxnnGHtay7sM+pTt6pGoV08Go3YjIizPf9LSymwl4URUBolatxV84=;SJjvXOi5IoVcnFO/XkrU3g=="
+secured: "hgAcmBreiiFo8JX/3GE1/qMKh3PRv0Jd1GRlTAnVrT3UPoQDnKwtD9achy9u6ZfSMfvAQv6Jtz+k62Qx9EDM6SuHCKzeV7p8OG6fdHMmIQdo+ajrs8OLlZJSZwpHxvvAQFzFGbxlKvIbD098lmKnW+BKwSR8KfC6bxKV9jEQC709sR4cyVk2iGp5/cuCHYt98JUSlsQXgRuE65KH2yjPCeNVtujwcXi/taUJflr0ToHG+Jz6npreqBx1FauDz0T0jPjjsi/wN4Q5mtUksTCnOAuGGjx9Q9QFbhs2LDbvPpN0u70wSsKi0Sw2U4XboegNIV4LkkKfdkGZoEqg6ae8ZyXDxcejI/S0vhsXUJhBbdI=;wf+1MG6ygz8oVKlks2N6/Q=="
 ---
 

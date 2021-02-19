@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan"
+    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+    publishedDateTime: 2021-02-19T17:32:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivKAzHWasdqE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nissan approached by Apple on self-driving car project"
     excerpt: "Apple is believed to have approached Japanese auto maker Nissan about working on its secretive autonomous car project. Talks ended after disagreements between the companies over the branding of the electric vehicles,"
     publishedDateTime: 2021-02-15T08:49:00Z
@@ -40,6 +54,52 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/business/2020/02/18/TELEMMGLPICT000225034636_trans_NvBQzQNjv4BqYGGZxE-BlFTHPG6FlsHtqzoe3yVowsApoK4-KBfJXPY.jpeg"
         width: 2485
         height: 1553
+        isCached: true
+  - title: "Bloomberg: Apple searching for next-gen LiDAR supplier for self-driving car"
+    excerpt: "As we continue to learn more about Apple Car progress, some fresh tidbits have been shared today in a Bloomberg report. Apple is working on the important step of finding a supplier for cutting-edge LiDAR sensors that will be key for the autonomous aspect of the company’s electric vehicle."
+    publishedDateTime: 2021-02-19T17:11:00Z
+    webUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/"
+    ampWebUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 42
+    images:
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/apple-car-project-titan-lidar-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Apple Reportedly in Active Talks With Multiple LiDAR Sensor Suppliers for Self-Driving Vehicle"
+    excerpt: "Apple is in discussions with multiple suppliers of LiDAR sensors appropriate for a self-driving vehicle, according to Bloomberg. The"
+    publishedDateTime: 2021-02-19T16:31:00Z
+    webUrl: "https://www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/"
+    ampWebUrl: "https://www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 32
+    images:
+      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
+  - title: "Apple loses key manager from self-driving EV team"
+    excerpt: "Apple Inc.’s self-driving car team lost one of its longest-serving leaders, a potential setback to the technology giant’s efforts to compete in the auto industry. Benjamin Lyon helped form Apple’s original autonomous electric car team in 2014 as its most senior manager working on sensors."
+    publishedDateTime: 2021-02-17T17:45:00Z
+    webUrl: "https://www.autonews.com/executives/apple-loses-key-manager-self-driving-ev-team"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Apple reportedly talked with Nissan about building its self-driving electric car"
     excerpt: "Comment Now! Apple approached Nissan about becoming a contract manufacturer for its much-discussed self-driving electric car, according to the"

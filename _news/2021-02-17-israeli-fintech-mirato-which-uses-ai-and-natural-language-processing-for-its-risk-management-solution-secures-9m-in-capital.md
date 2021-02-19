@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2025"
-    excerpt: "Newly added by MarketsandResearch.biz study on Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains a detailed analysis of data through industrial dynamics which has a major impact on the growth of the market."
-    publishedDateTime: 2021-02-15T01:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2025-2021-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Payments to Participate in KBW Fintech Payments Conference"
     excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President & Chief Financial Officer,"
     publishedDateTime: 2021-02-18T20:06:00Z

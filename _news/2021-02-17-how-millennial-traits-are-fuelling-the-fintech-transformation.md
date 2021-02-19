@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-tra
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://static.timesofisrael.com/jewishndev/uploads/2021/02/GettyImages-834792042-1024x640.jpg"
         width: 1024
         height: 640
-        isCached: true
-  - title: "Unleashing the Potential of Fintech"
-    excerpt: "Unleashing the Potential of Fintech By Todd Nelson, SVP Strategic Partnerships Mike Petanovitch, Head of Technology, LightStream - What are the current market trends you see shaping the fintech space?"
-    publishedDateTime: 2021-02-19T06:29:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/unleashing-the-potential-of-fintech-nid-28629-cid-189.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/xEL48qus.jpeg"
-        width: 300
-        height: 300
         isCached: true
   - title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
     excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."

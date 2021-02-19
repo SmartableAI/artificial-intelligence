@@ -9,8 +9,8 @@ ampWebUrl: "https://theprint.in/india/dna-fingerprints-facial-recognition-used-t
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: ThePrint
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Delhi Police used artificial intelligence, technology to probe over 750 Delhi riot cases"
+    excerpt: "Delhi Police used artificial intelligence and forensic technology to investigate over 750 Delhi riot cases that rocked the country last year. Artificial intelligence led to the arrest of around 231 accused in riot cases."
+    publishedDateTime: 2021-02-19T17:19:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20210219/3711183.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 8
 
 secured: "s/zsYmUbO/TeRlYJ1iWUNDIBpfA8ulo60K0Ae0odX6RUY5jUtNBiuEe6AQSrO8xeIdcyQDSbqjk7HjRzk1uu0p9ItUWaNKhA2Eb3uRFr0eyyyL8bTG/hC8n0gBgK+b2zZm7XNJ3+1QWnlzdE09VX46NemsVjIiu5i7jYMbLr2ga8nzWEedd5jqef9ZTVRvYbGLO6UQ8rAGCJmRbA20MCBzcTZ4ZPsUoDMwGGXiwZeQdvKb/ztAT7XO6xWHK81VlSO8rWi787NdHlaOcftWXTVM24RzSP+NSS16DpXQgxEoJzohEV25fgRSaw3oAHdiFUaTY5A0dHgtzc7pWcqYcfhel12PoCDctrMHen/NZ660k=;dOtsumj3314Hol1M2VuODg=="
 ---

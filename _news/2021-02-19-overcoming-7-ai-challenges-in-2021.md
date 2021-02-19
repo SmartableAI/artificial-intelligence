@@ -129,20 +129,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Thriving in the new normal with cloud and artificial intelligence"
-    excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"
-    publishedDateTime: 2021-02-15T02:06:00Z
-    webUrl: "https://www.thesundaily.my/business/thriving-in-the-new-normal-with-cloud-and-artificial-intelligence-JA6705568"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 39
-    images:
-      - url: "https://www.thesundaily.my/binrepository/480x268/0c14/480d250/none/11808/QJLI/p12-afp_2118790_20210214191704.jpg"
-        width: 480
-        height: 250
-        isCached: true
   - title: "Investing in AI with a conscience"
     excerpt: "Local start-up BasisAI is preparing to go regional with \"responsible\" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA).. Read more at straitstimes."
     publishedDateTime: 2021-02-15T22:55:00Z

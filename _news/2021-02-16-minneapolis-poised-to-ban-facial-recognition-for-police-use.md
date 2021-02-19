@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Delhi Police used artificial intelligence, technology to probe over 750 Delhi riot cases"
+    excerpt: "Delhi Police used artificial intelligence and forensic technology to investigate over 750 Delhi riot cases that rocked the country last year. Artificial intelligence led to the arrest of around 231 accused in riot cases."
+    publishedDateTime: 2021-02-19T17:19:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20210219/3711183.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 8
 
 secured: "NELWcwY2hqFZRPcxBAnqOA2mrouDwuK+MCDQm6Efz73QeGbdXioEH+G2lXbfFrVAd9AzBbQ77/LRvX9wMS/FkDZzKjXLgW/Zn2ELJfsq0P2Gyb8gcmjWFxe32kWNb7wjZd3KyC1ri4DQZJXzR/VVWMJwiI9Jm36njVBIxZUQsV9gk0PWY4FfSG+U3EWwCTku9o+NVAc+B9klCCiZrKmnTI8AKnPr/2n+Oph8Cp5ODkg+mLm6mksKDbaWtpx8DjEvgzwXbatFIhGaW+v6OhGdgkx5IyUN2YvbROgcKEe5ivQU17YBsF5tULxOYUGTgkXqF2aGbTK5iChQ0Fpu82otJJqr7TKmGLCSbZV2dOpLyfxU1AAL3TKspAyLS9Jpk7sU7aPFRi6WoXZDEdQYboG7PEw7WlCCM45dq1+M3NvaUZFnQC1HzUYWXFECPfAwkA5meDP/fT8ovMfNs6aLqzX/wGpVm7UHOdpePcuyHR892GQ3KiMYphatlMc0Ixb1nNq6nLLOye2KmIYpt5u9zT1MKQ==;KNpeRqgjMjLPvyKESNLSCQ=="
 ---

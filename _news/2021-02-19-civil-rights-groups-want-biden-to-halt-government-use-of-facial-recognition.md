@@ -58,6 +58,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
+    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
+    publishedDateTime: 2021-02-18T23:34:00Z
+    webUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 62
   - title: "No Facial Recognition Technology Can Be Used In Minnesota"
     excerpt: "The city council of Minneapolis, the largest city in the state of Minnesota in the United States, passed without objection on February 12 to block"
     publishedDateTime: 2021-02-16T17:21:00Z
@@ -90,29 +101,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "CBP facial recognition technology fails to find anyone using false identities at airports"
-    excerpt: "U.S. Customs and Border Protection is one user of facial recognition technology. In 2020, a year that did see a drop in travel amid the COVID-19 pandemic, out of 23 million facial scans undertaken by CBP the net result of the technology attempting to identify imposters — those attempting to enter the U."
-    publishedDateTime: 2021-02-15T03:01:00Z
-    webUrl: "https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/cbpfacialrecognition.jpg"
-        width: 1097
-        height: 700
-        isCached: true
-  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
-    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-    publishedDateTime: 2021-02-18T18:34:00Z
-    webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 42
   - title: "Biden Must Halt Face Recognition Technology to Advance Racial Equity"
     excerpt: "Face recognition is a threat to not only our constitutional rights, but to people of color and other marginalized groups who are more likely to be misidentified — and bear the consequences"
     publishedDateTime: 2021-02-17T19:02:00Z

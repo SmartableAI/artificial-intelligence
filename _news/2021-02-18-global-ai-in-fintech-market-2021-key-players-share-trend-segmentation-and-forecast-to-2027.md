@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-mar
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2021-key-players-share-trend-segmentation-and-forecast-to-2027-2021-02-17"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2025"
-    excerpt: "Newly added by MarketsandResearch.biz study on Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains a detailed analysis of data through industrial dynamics which has a major impact on the growth of the market."
-    publishedDateTime: 2021-02-15T01:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2025-2021-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
