@@ -43,6 +43,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "‘Artificial Intelligence and the Future of Power’ a grim wake-up call for India (Book Review) (Repeating, correcting intro)"
+    excerpt: "With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with"
+    publishedDateTime: 2021-02-19T06:38:00Z
+    webUrl: "https://www.canindia.com/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india-book-review-repeating-correcting-intro/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 0
 
 secured: "cFn2VAMQzMBLHwNQ3hi/TYEKuzA2xYereGqfMK+8JPwopVfzkRbmzxCw7W9oDVhxRuFa9ctE/4NAa2I5RBj3Ey+/DUaA3Wg+TuXRY1qLb1sGManTysoSi0b7IfbUGW7jCXNjECCqqE79/lll9GD8zcDMlHwbSb5dSGu4O2PuZsHf3DKyab79cCFPO9FDFojag7yE2CkCOjQ7KD8DP1yGAT4ZDc8uo3kuC0tQx5yxJslWys0MPaKCMWrPZ1KgV1b/UpwAKaUTY19zVRb5StMVMNxrKhl2HVppoLEIs+v3wT98pxzCx/NOwkzapYYgZzRFSUBUbH7wQTNw6oXUDdvXNk4I8KhaDsYSMos+RxilR2U=;kxNjz8qjPK07iFtW0r1Kcw=="
 ---

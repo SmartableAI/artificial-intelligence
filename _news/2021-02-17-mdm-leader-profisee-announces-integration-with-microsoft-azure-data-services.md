@@ -130,20 +130,6 @@ related:
         width: 800
         height: 360
         isCached: true
-  - title: "Microsoft Announces Limited Access to Its Neural Text-to-Speech AI"
-    excerpt: "Microsoft announced limited access to its neural text-to-speech AI called Custom Neural Voice. The service allows developers to create custom synthetic voices."
-    publishedDateTime: 2021-02-14T15:12:00Z
-    webUrl: "https://www.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2021/02/microsoft-custom-neural-voice-ga/en/headerimage/header-1612887474252.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Azure Goes To Space via HPE Partnership"
     excerpt: "A partnership with Hewlett Packard Enterprise (HPE) will bring Microsoft Azure to the International Space Station (ISS) by way of HPE's Spaceborne Computer-2."
     publishedDateTime: 2021-02-16T19:12:00Z
@@ -169,20 +155,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
-  - title: "Voice Recognition Systems Market Global Statistics and Forecast to 2031| Nuance Communications, Microsoft, Agnitio"
-    excerpt: "The global COVID-19 analysis on Voice Recognition Systems market has been driven by the range of its a wide area of sectors such as HealthCare, Military & Aerospace, Communications & Telephony, Automotive Industry,"
-    publishedDateTime: 2021-02-14T13:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-global-statistics-and-forecast-to-2031-nuance-communications-microsoft-agnitio-2021-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
     publishedDateTime: 2021-02-16T12:58:00Z
@@ -196,6 +168,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation"
+    excerpt: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation By Manpreet Kalsi, VP, AKA Enterprise Solutions, Inc. - In Step with the Latest Trends Microsoft Dynamics provides business solutions for all aspects of"
+    publishedDateTime: 2021-02-19T06:35:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-dynamicsat-the-forefront-of-business-solutions-innovation-nid-15012-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/ck_images/sJQrX49z.gif"
+        width: 300
+        height: 300
         isCached: true
   - title: "Global Text-to-Speech (Software, Services) Market Forecast to 2026 with Nuance Communication, Microsoft, IBM, Google and Amazon.com Dominating - Resea"
     excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"

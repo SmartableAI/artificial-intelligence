@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Slave to the algo: facial recognition and fraud in a Covid-19 world"
+    excerpt: "There will come a time when it isn’t, ‘they’re spying on me through my phone’ anymore. Eventually, it will be,"
+    publishedDateTime: 2021-02-19T06:00:00Z
+    webUrl: "https://www.cityam.com/slave-to-the-algo-facial-recognition-and-fraud-in-a-covid-19-world/"
+    ampWebUrl: "https://www.cityam.com/slave-to-the-algo-facial-recognition-and-fraud-in-a-covid-19-world/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/slave-to-the-algo-facial-recognition-and-fraud-in-a-covid-19-world/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/02/Tests-On-Facial-Recognition-Technology-Begun-At-Berlin-Suedkreuz-826000302.jpg"
+        width: 1024
+        height: 652
+        isCached: true
   - title: "Privacy Tip #272 – To Get Up to Speed on Facial Recognition Technology Read This"
     excerpt: "It’s called This is how we lost control of our faces in the February 5, 2021 edition of MIT Technology Review, written by Karen Hao.  The article outlines a study rec"
     publishedDateTime: 2021-02-18T22:58:00Z

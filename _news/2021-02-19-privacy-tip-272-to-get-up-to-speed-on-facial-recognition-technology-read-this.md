@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Slave to the algo: facial recognition and fraud in a Covid-19 world"
+    excerpt: "There will come a time when it isn’t, ‘they’re spying on me through my phone’ anymore. Eventually, it will be,"
+    publishedDateTime: 2021-02-19T06:00:00Z
+    webUrl: "https://www.cityam.com/slave-to-the-algo-facial-recognition-and-fraud-in-a-covid-19-world/"
+    ampWebUrl: "https://www.cityam.com/slave-to-the-algo-facial-recognition-and-fraud-in-a-covid-19-world/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/slave-to-the-algo-facial-recognition-and-fraud-in-a-covid-19-world/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/02/Tests-On-Facial-Recognition-Technology-Begun-At-Berlin-Suedkreuz-826000302.jpg"
+        width: 1024
+        height: 652
+        isCached: true
   - title: "Drones with facial recognition are closer to becoming a reality thanks to a patent from an Israeli company"
     excerpt: "AnyVision, an Israeli firm that has worked with Mercadona, patents a system that brings the use of drones with facial recognition cameras closer to reality. The patented technology will help the drones find the best shooting angle for an effective facial recognition system."
     publishedDateTime: 2021-02-17T10:39:00Z

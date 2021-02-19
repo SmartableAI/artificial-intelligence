@@ -67,6 +67,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 55
+  - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
+    publishedDateTime: 2021-02-19T06:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Enterprise AI Market Growth Analysis, Outlook ,Size, Share, Trends, Opportunities and Forecast to 2025"
     excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
     publishedDateTime: 2021-02-17T06:29:00Z

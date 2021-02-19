@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Unleashing the Potential of Fintech"
+    excerpt: "Unleashing the Potential of Fintech By Todd Nelson, SVP Strategic Partnerships Mike Petanovitch, Head of Technology, LightStream - What are the current market trends you see shaping the fintech space?"
+    publishedDateTime: 2021-02-19T06:29:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/unleashing-the-potential-of-fintech-nid-28629-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/xEL48qus.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
     excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."
     publishedDateTime: 2021-02-19T03:05:00Z

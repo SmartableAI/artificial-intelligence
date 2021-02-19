@@ -65,6 +65,20 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government"
+    excerpt: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government By Niten Malik, Director, US Public Service, Microsoft - The efforts to build sophisticated cloud or on premises solutions are often complicated by inflexible technology."
+    publishedDateTime: 2021-02-19T06:48:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/platform-convergence-analytics-and-mobility-drives-disruptive-business-models-in-government-nid-2894-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 13
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/hz4OtL2K.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "67OFTdc+AmPoY7kshAkPByItRnQ36uS3bzQutG+zgXlKABRWwpuaDKSlawWxMnM5mR9OpAxpsabTlVMaUKefuHbaOnNVfLcpxLItHtuzx2kGlQyK3l/09Ix0+Mwrv4ae7ZyGy/sdYU+NH6RosoPEP682E437PZd+kBPgHBr4fH1odXOo/vGQWP84hRSHN7uKqHzWCw2FX2sgkt7T3OHWYGhRMPYlIGDplusRfiDpg/TDTDJrR4pnJk45POMOvdqWR/fXUkmYJEwkIR/isl7xAk4DVyYO0cJFn7opg2JcvWMpSavbFGGnNc94eAf2YRCKO0NK/v4l4UDYO1HMjv5tiDPZmVRl3Q0cG1BvR9wO/kw=;HkWh5AmzZ0tdIM3ziwxRBw=="
 ---

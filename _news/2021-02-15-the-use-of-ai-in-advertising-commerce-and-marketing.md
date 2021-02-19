@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029b4de0f413e9fd6a1984b%2F0x0.jpg"
         width: 1200
         height: 740
+        isCached: true
+  - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
+    excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
+    publishedDateTime: 2021-02-19T06:11:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/the-emerging-role-of-ai-and-machine-learning-in-the-enterprise-nid-15037-cid-72.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 58
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
+        width: 300
+        height: 300
         isCached: true
   - title: "Media Buying Briefing: Why AI is steadily finding its place in agency land"
     excerpt: "Agencies are more comfortable using machine learning to speed up processing, enhance data crunching and minimize repetitive work."

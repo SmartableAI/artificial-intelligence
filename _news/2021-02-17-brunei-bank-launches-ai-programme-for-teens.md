@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/17/bru
 webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/17/brunei-bank-launches-ai-programme-for-teens"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://cache.careers360.mobi/media/article_images/2021/2/15/ndtv-stock-1.jpeg"
         width: 625
         height: 400
+        isCached: true
+  - title: "Petronas to apply AI technology in Digital Transformation Programmes"
+    excerpt: "Baker Hughes and C3 AI will be providing joint enterprise artificial intelligence (AI) solutions to Petronas by applying BakerHughesC3.ai (BHC3) technology across the company’s digital transformation programmes."
+    publishedDateTime: 2021-02-19T06:23:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1933051"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 39
+    images:
+      - url: "https://www.bernama.com/storage/photos/f9bb713a4a8f4680e58ddcd4400a1a935ec293f1ce255"
+        width: 1110
+        height: 694
         isCached: true
   - title: "Call for applications: doctoral programme “Artificial Intelligence for the Sciences”."
     excerpt: "Carried by the PSL University, the doctoral program “Artificial Intelligence for the Sciences” launches a call for applications open until February 26, 2021. 23 thesis topics on AI or massive data processing interfaces are available."

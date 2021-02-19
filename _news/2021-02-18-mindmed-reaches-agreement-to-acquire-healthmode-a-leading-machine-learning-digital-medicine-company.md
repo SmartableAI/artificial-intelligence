@@ -1,29 +1,22 @@
 ---
 category: news
 title: "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company"
-excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr."
+excerpt: "MindMed will incorporate HealthMode's machine learning engineering, product development, and operations employees based in Silicon Valley, New York City, Bratislava and Prague into MindMed's newly established digital medicine division,"
 publishedDateTime: 2021-02-18T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-webUrl: "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
+originalUrl: "https://www.nasdaq.com/press-release/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital"
+webUrl: "https://www.nasdaq.com/press-release/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital"
 type: article
-quality: 56
-heat: 76
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company"
@@ -50,6 +43,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "1u8ZzjLze4CMJDZGHXKPIioMx1ySRaK6hO/fuXiQ956F5O6Fwehp+BBJRqEYx/o3jZbAYQ+EmcpvSp1xWfbW7KBI7f5ANcJj+mchzODAcEOfLtN+Mgp/quhz62eUaTYy0WWh/aSZjO+HTbDuu/NOfCvEHgpIrrgaRUO2sovV+pCTOgsVrNahdxIFvB4HesNWExDeYFW9yxB/st7PZybq9PByhs/7MYfHjswWNrl/6IxetjtEw9D3dygCBohjw6AFK1YckjZfOKSinZ7/X4GqyHHB/II7wqU1ECH7ParSe2dg6n1FK7qrTF0gkuPQsNZp6qSPC7D6qqDcjSNgmo2UwS+panI8gAMVLjHC8/zZx+g=;c0fYdygzYm3K+UMyPcdwcA=="
+secured: "LsIlVPL9IjT7kEmE7S9vz84wMEM2YVP/m9ax8WL6BQ/qSZL0djjqPrFoWjwdlvbj78jBSXm5Ed+hTZnGv4Cbm+NTvqD1nI6Lr5PFvDltKzaBBxCqtrjx0Xh8aZZU+Bkm4rD5GynIv6S11zZCEQ6wajcewvU0VnlEVJsbeIuZn9+bpqOiH6MRGZU5bGHPYNuxmrDomqhsJhuZiCa46WpXYKIRQ7wYxKrs7qED+AncfMqGVQqCAiAbICecRWINs/GK8Ff+69RLVUmT+JlwPeKzRELtLbMiKtYZuL5nL4FbaHH4qbraUVmTnjWEo/v4AFKepBQjHf746O/Mj9k60B6aYt/J0SmOQjR3eFRxppfmXgA=;84OQzF/N1TF4HZvVMOKYLw=="
 ---
 

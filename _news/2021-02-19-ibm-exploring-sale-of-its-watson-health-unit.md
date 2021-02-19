@@ -3,8 +3,8 @@ category: news
 title: "IBM exploring sale of its Watson Health unit"
 excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
 publishedDateTime: 2021-02-19T01:41:00Z
-originalUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20"
-webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20"
+originalUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos21"
+webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos21"
 type: article
 quality: 69
 heat: -1
@@ -71,11 +71,11 @@ related:
         height: 683
         isCached: true
   - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "MONTREAL, Feb. 16, 2021 /PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
+    excerpt: "MONTREAL, Feb. 16, 2021 /CNW Telbec/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
     publishedDateTime: 2021-02-16T12:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19669829"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669829"
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669843/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19669843"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669843"
     type: article
     provider:
       name: Benzinga.com
@@ -91,6 +91,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "6DUmB1Iv1W7egCiSR/T+SlG53lEaPKDGbRyOu7Zozqa9jyhIezlY6tGxyqmoo9Be8EbDA1QKii702xOSjCvNEDmxXMSvU2Tr81/UwU8pe15O4h+sMosiMu/kl1pkngbFt5rVw/O4wHdvn9Twz7nVBgW8h5X7SYSsJohjKyCUeIzjqgypAUZpWtWBGVEh1BxFUkkaBJNdZg/6BBeWl42QxUxl4QzK3GJphtkTxc3ScwsBqAN3AAUMwICSzzMYNhIzzApenOQIHmJIJ6PkqKJzE5ZGqdF1G3VK1FAei+n98jTCWYvWF5+tfiKwqrTWUq05q2HcTrSVJMB1pmCWfKc4rXi6U1KWG5fhDd4cfs9gQHg=;h9kWHYoNSC/Lzahy2bhtbA=="
+secured: "BshnJ6q14FIai+SW9XRmWakkEN40JpWsoSHP3vfNJF1VyMMWEJ9uwcZiQpFEZ85ulZy9AD8lxVD8Djd9W4f2rBq4tBrm3q5qzLsN6Hst2RRhB88KNqRU+c38v298xTUdSGk2veG/nnpilnXanqu4oAGsRTWG9qk98EQnENV5B2a6B6ep8ebq2zXlaxdT0KQ+vim1pkggEyvbggu0jH1ZhQYUI/1sc5F5o9OFMdOFzJtAWsb26EFpCuwN9eA7054dPCRdj/lNjJaQjsyTIzl8z7KbYmBBWc4jVMXi44QQ7Wr4ZUVdulAbUjEyHh1vHG9LX8tsKS/KTQx3C+4kjswGIkBn39p+xp8hBzRfgI0Tpvc=;2O5ndRbyZiOuLPr/FFRJ9A=="
 ---
 

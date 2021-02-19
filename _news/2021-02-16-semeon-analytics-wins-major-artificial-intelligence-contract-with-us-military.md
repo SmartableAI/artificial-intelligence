@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-M
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
+        isCached: true
+  - title: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government"
+    excerpt: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government By Niten Malik, Director, US Public Service, Microsoft - The efforts to build sophisticated cloud or on premises solutions are often complicated by inflexible technology."
+    publishedDateTime: 2021-02-19T06:48:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/platform-convergence-analytics-and-mobility-drives-disruptive-business-models-in-government-nid-2894-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 13
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/hz4OtL2K.jpeg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "8lQe4BLTsAqacxTvTFxxFC5Y0Zi5ldL+zBG03p8AqiN8fPiqFrWoKKRJaOdfpU8oLAs0P7N7FQza3P9R07h0pV6834O6O7BMfKYhx/bnLNL5txTAV6eLPLMw7jXUxOlKyQNBYXm/N2A1hYexqlu9vtevBDaGyYH8Bqroj+Tx850TL/x5Tze2slWu8sRhBSOZ7r4RHiLaOkYs2KMmuqmt0qDR/SkZaBwSMrl7nz1LEFe5u1uV7FZPtANpgPXEB3RZAMhhJEXDDY7gHWw1DY4t4L1aFy8FslHOwNM8xhOa+S7Asm8Syib1z5xKVYRC6pISo8n9uhJnHUHMpFSnbvgP/3FTzEiubFUpohBVK6BzXSM=;2aPAsEf3eov279qxUQyyGw=="

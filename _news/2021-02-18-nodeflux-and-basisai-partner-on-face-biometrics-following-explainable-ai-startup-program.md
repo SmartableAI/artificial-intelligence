@@ -26,22 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Explainable AI for decoding genome biology"
-    excerpt: "Researchers at the Stowers Institute for Medical Research, in collaboration with colleagues at Stanford University and Technical University of Munich have developed advanced explainable artificial intelligence (AI) in a technical tour de force to decipher regulatory instructions encoded in DNA."
-    publishedDateTime: 2021-02-18T20:52:00Z
-    webUrl: "https://phys.org/news/2021-02-ai-decoding-genome-biology.html"
-    ampWebUrl: "https://phys.org/news/2021-02-ai-decoding-genome-biology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-ai-decoding-genome-biology.amp"
+  - title: "BasisAI Helps APAC Tech Firms Adopt Responsible AI as an Open Loop Partner"
+    excerpt: "Basis AI and Open Loop partnership paves the way for transparent and explainable AI use.SINGAPORE, Feb. 16, 2021 /PRNewswire/ -- BasisAI, an"
+    publishedDateTime: 2021-02-16T04:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-1030084483"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/explainablea.jpg"
-        width: 1440
-        height: 1432
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
 
 secured: "cOw/bwDfwjtehdNjvXf/cS7Nkh/BNdQJEL60pXSi52U5A8IGl/qv4ZUlM8Xp4It78euxJPH4hJnntowQNQNz1nPznFzKFwZVvStjLcCWGNvDaS16oA6y3YiruIeWUPcvme6r766BLh/hqHojOlqS49ua9AZzcGjYs10tqp2AokpOXm9V+gujFVDMlyZ1iimStz8iv2HuxM9nU4x+jAcWq7nW3/VH740HIFLmlVaUMjiQpuwW1j1QiUOdsFeDKIyFc54UJ65DXG750VFDlBSoArV8QnyncAJje+wAsD3PYi6n8vOL6lBRkrn24xQDcOJ8vbUKmnljbOw+N4F5ok6zg03Vp8Fv2hoAKJiV1poE0ZVY7TU+r8OUeBCoEnJ1C/t2AN1ObkKMPaI4rBZ56LW6NWIkuxX4O6ak3Twu4xBbXmKwClKzVapQ1786W+d4b4cipwgGFE9h72jCZN3yNMJHJt9n6V3qB7YGSZE001FZGXRvBl4zqN5LC7F37wfMpKHEMIyr3H3/u6b/Zr8MK+gISA==;9z9/CUCwJJwdEtXLrivkRg=="
 ---

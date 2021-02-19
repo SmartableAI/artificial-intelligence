@@ -8,7 +8,7 @@ webUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-re
 ampWebUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/02/2021-02-19T044427Z_1_LYNXMPEH1I05Q_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.jpg"
@@ -70,6 +71,6 @@ related:
       domain: itbusinessedge.com
     quality: 39
 
-secured: "jRvRtSNQl2JpeGrfovH1lrfy8APzRl0549G/2x0xUaIJ4hJi+u0WR/jWpzGy54WKD3g054tcA0BR+VT9MVtswA3Qk29V0e2az2JTy6dlUaBPbq/sQyDMlk8415m/0YEi9IXzzY7ll12TZm2GtKNLklS9pfPBVdgVBoVZHJfRx73yUVbNphA8wK95J2py0pSpcJZcBlvzOVpS/M2YdIk+mBNIV4xzHuQelFunIKQ93wj4pCOUouabfXkLXcj9bWdN0tOS9e8m5tdZMCYPgk07va11e5jCkZ97wu3a4wZe+7xhtaRuvV2g1ilflY1Z2tCLOz1mDmO23l22RhGae1U7WJKaKrHnnQkQ9GOUtVKosso=;C4lJHlrK4CsgwJOlVDnp/g=="
+secured: "2e0T2Aj9RUKTDobxYx+wL346RU5phVNiyxGBMRwGwjf2aNu+Z3OHIKe/AJEkAXm5duRXQx0ioFlvI60PRbVYR2BmHak81FY8lIpuJ9gpStzZ+wax67wDFEfKIFby/d2ec1EnCqadLXcsCf16qH1IxXrvrgs/3Ngb+T0BDldN22xcXKrC59mn1IuF6Fn/J7YGAZQrFQH5VsK31qCZ0nrwZruikEo2948zTiiDoM8kbSr/McBsIWslDRr68Rk+tGMmwelBHvGM5LblhD97qFLjsrB4X8sGUu41JOkuq1przXq1NXW115ryl0mPeEPkriVGEj//4tKAF/jhbm55tNHLDLMQyYB62BcLdPU0YcoevfoZ26ZKhSy/TMTZXudfhmrs73qPZF/Pk0vj/hRnu+hxQG9zEu8PF1z4CgvPFwKSUCmKK+KXQcEGTaWE3nu0RF/8BfnDZiZ+RTgh+2ehQefFJ8ZStbpGOaqgik+IULf6Mfc+oFGe9Xnsf50hOEUL1LqasCoZbk5Gt7YTpqf87jxukg==;FtPeoDK2MxIIpm7cM+d/yw=="
 ---
 

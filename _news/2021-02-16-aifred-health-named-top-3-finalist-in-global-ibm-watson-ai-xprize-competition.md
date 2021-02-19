@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-excerpt: "MONTREAL, Feb. 16, 2021 /PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
+excerpt: "MONTREAL, Feb. 16, 2021 /CNW Telbec/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
 publishedDateTime: 2021-02-16T12:16:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19669829"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669829"
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19669843/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669843/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19669843"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669843"
 type: article
 quality: 51
 heat: -1
@@ -35,7 +35,7 @@ related:
   - title: "IBM exploring sale of its Watson Health unit"
     excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
     publishedDateTime: 2021-02-19T01:41:00Z
-    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20"
+    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos21"
     type: article
     provider:
       name: MarketWatch
@@ -86,6 +86,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "RH7i0vPo39WM1XOwAfaT7yH6xjMDT1pMRgvi7UteLPU5nHJjLnVRoRv1c+JITvnw4GkYGg2v7rnWjY5yUINo9g5FnS8L1s+M3aPb+OM//GabaR5B+92Oc2qKJB2dXWIQl+L8R+Ks+kNZh7GGAPVdY5pRa33SKSVD4XnV5Ur0X2YTdc68cb/gQU3HrrL15OdWdD+H7xQiop0MfJVnZcDnnc2WN1YF2G8BKK5V2bQBQ2vwoaC4AZ66K3518V/Do/wDHpFVWc/Mupa0fVqewaIkwqqlFVnMzzloSqe9JI/kF5IweU/xYWhUcacv88rRql5Q7oxSUkWqOucpLCS+4h63xLMyrizhOhGzp/J5euo9Rrw=;/yofN5MpHmXt0XimqeJjlg=="
+secured: "fQEtWe7Spxm7GVJCXPkyFJs0GlhXeHi4zExoQSBILj1YYxC81CifSuVxqhqlI++lH8oshGC9E9dU3tRNku4TRy62HEoTtUiVoxJJTFiFmpwx5C7ScWIuWtXHXeFza0ra+YzipcdFS+c7z9qjEh5KtGCIHmpd2zHFycdxGDgqx9udwjxAsC4zMbgFPsu6PxQpOUmhoViya8SChohTuAyalltwBzHEpVxyFts1ZfV+daJpFNsCeToWGeg8CnmhXqFyqaMLPa0CTbeko5S8X7hs3hWK1ud0TuKKb883SEaI8txF683KYZiJY9HHOcA6OVChDqrcGMOfouYTmNEjBqKpklPEbiK0909CoTI5Y+ytARI=;bY+6RjbbakNrWcTt/Mm31Q=="
 ---
 

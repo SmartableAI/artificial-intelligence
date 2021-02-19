@@ -3,10 +3,10 @@ category: news
 title: "How the open source Ray project delivers \"the infinite laptop\" for distributed computing"
 excerpt: "Commentary: Developers struggle to build distributed applications that stitch together MapReduce, TensorFlow, and more. The Ray project just might make developers' lives easier."
 publishedDateTime: 2021-02-17T19:09:00Z
-originalUrl: "https://www.techrepublic.com/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
-webUrl: "https://www.techrepublic.com/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
 type: article
 quality: 65
 heat: 65
@@ -30,6 +30,6 @@ images:
     height: 899
     isCached: true
 
-secured: "e6kcmPCV0nvgxyMS8E7OtY0FinokqABjlsCzKMaeBST4RqdhnuJ5PgGBerKeNZF1PrgNRpM27pvra/9usksZTywXzBxxA1Clbk2HRiRJ8xYXIv/VNe7fr2cGyicWSa/ZLtjiE2jo6mCTVCinkyOqE2a31TS5RPj2a/JungpJD/G+knkmFwNIWeMM1/KSFebhN6uK/8jXTenSxa8i8RFq0XpsBzim7/pAqYctWesau+bhIVWWg6e1/HsXNYwcPkLQnarIoi5Y0EajTbika515ETcaklltS8PgRpcpv9PQ8c3aIpV5E2uvL07ZDMBycMlLOxWQMNSNNmPvLsP+HX7+5EtW+49zUmgMqm3lnbLDvEJdf96LcmOfOtZVRXhOFnF/c+EJUcIEYzhZlRgm0h7SbqPEQMeKajptiER6Zw5OYrCSX/jT1L15AR4Ye6NNdOaHLQhaHyWprFGbvd5qLJEWXK36P8vdLsmRIvgX8rDToSow9hDVyo5rMCc8ye9DDpuLTNxIb5PFPyWmb2iV1msCjg==;QXPYGCf2D++ebmZkunyGBw=="
+secured: "ry8vV+AdEOf7fb1BlcvNDouboX57WrTjINjxepME49orgnFrRaxmVHgWlsy0U5h+c6DsbIDv4A+3yYciHPesFG0BpBywFfe8p09MWR8HHVI/JVOJ765rCkhBUPeFVSbgeLM/Pe6EMCWbplJKAv4KfBUFfPrVEVAyBU2PP/bFUSTR2Wt2V+6v1775k1J/nP9bbQjB4e4HU3PIm/CP85DqQUR4h6nkvmU6BQHXfK9UgkDJwV/oq63MZ6KtP/skr2WhvpC+dKXVonyJA2V3F+1WSyJYCeMHebvSI41GzyoX5Zs+I6pTMQqF0ZasKCp8VPFUqIjSLjWUYizwYcouUMzYBwuqkEbiYm1KfeW0H7QwkJk=;3CC2JXoOLo/PTEuRH48KJQ=="
 ---
 
