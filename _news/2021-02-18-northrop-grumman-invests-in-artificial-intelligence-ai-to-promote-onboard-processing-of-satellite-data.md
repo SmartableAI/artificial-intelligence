@@ -24,6 +24,22 @@ images:
     height: 599
     isCached: true
 
+related:
+  - title: "Northrop Grumman invests in artificial intelligence (AI) to promote onboard processing of satellite data"
+    excerpt: "While AI technology can apply to satellites, the technology also can integrate with aircraft, where payloads can be easily accessed or swapped out, Nathan Strout reports for Defense News."
+    publishedDateTime: 2021-02-19T12:23:00Z
+    webUrl: "https://www.intelligent-aerospace.com/satcom/article/14197909/ai-artificial-intelligence-satellite-satcom"
+    type: article
+    provider:
+      name: Intelligent Aerospace
+      domain: intelligent-aerospace.com
+    quality: 37
+    images:
+      - url: "https://img.intelligent-aerospace.com/files/base/ebm/ias/image/2021/02/Northrop_Deepwave_18_Feb_2021.602d6201e868a.602ee90b34adb.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 479
+        isCached: true
+
 secured: "VbqNEI7Mv+i26B6Wc8Ko/xmaHhxBZcAjpO/06J+JtH4hsw21jDYLpJhuIHckhpkWwEcqe2cx8Klu2F6oQSNmVxAtR9YkrKyjlvvDY5Fruda+eZa0f75Ofoi8z611IW1tQtxg+AAz2JuVt8YHaCHOGklkEbMonRwpr1mHc27zfYtN/MVCCi+KNekQuPg5wViop/demTDH2ZEfPkJKHo7MnZuNAjNG+ajRRfJwEB8I7ulFB4YIAny5qecfa/qzmcY8nSzKsxbLtBOo4+t/uCjYTpu63b2w65dSsDbqeFEpX/aERsxjumAX78YEHeVjBfisGKwwSSKeB/tRlj+/BbO9OsJJ1KmkO02n4g1aXEr0nWQ=;UrL+IXxhNSrNEddg5imB3Q=="
 ---
 

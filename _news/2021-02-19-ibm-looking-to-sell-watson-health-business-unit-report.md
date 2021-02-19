@@ -1,30 +1,24 @@
 ---
 category: news
 title: "IBM Looking To Sell Watson Health Business Unit – Report"
-excerpt: "IBM is looking to sell its IBM Watson Health business, the Wall Street Journal has learnt. The technology giant is looking at different alternatives that"
-publishedDateTime: 2021-02-19T09:59:00Z
-originalUrl: "https://www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/"
-webUrl: "https://www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/"
-ampWebUrl: "https://www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/amp/"
-cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/amp/"
+excerpt: "I BM is looking to sell its IBM Watson Health business, the Wall Street Journal has learnt. The technology giant is looking at different alternatives that include a sale to a private equity firm, another industry player,"
+publishedDateTime: 2021-02-19T08:41:00Z
+originalUrl: "https://www.nasdaq.com/articles/ibm-looking-to-sell-watson-health-business-unit-report-2021-02-19"
+webUrl: "https://www.nasdaq.com/articles/ibm-looking-to-sell-watson-health-business-unit-report-2021-02-19"
+ampWebUrl: "https://www.nasdaq.com/articles/ibm-looking-to-sell-watson-health-business-unit-report-2021-02-19?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-looking-to-sell-watson-health-business-unit-report-2021-02-19?amp"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Smarter Analyst
-  domain: smarteranalyst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_779236312.jpg"
-    width: 1000
-    height: 653
-    isCached: true
 
 related:
   - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
@@ -41,7 +35,7 @@ related:
   - title: "IBM exploring sale of its Watson Health unit"
     excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
     publishedDateTime: 2021-02-19T01:41:00Z
-    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos21"
+    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827"
     type: article
     provider:
       name: MarketWatch
@@ -112,6 +106,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "IBM reportedly looking to sell or spin off its Watson Health business"
+    excerpt: "IBM, which already is planning to split into two companies, is considering the sale of its high-profile Watson Health unit to further streamline the company, according to a report in The Wall Street J"
+    publishedDateTime: 2021-02-19T11:44:00Z
+    webUrl: "https://www.wraltechwire.com/2021/02/19/ibm-reportedly-looking-to-sell-or-spin-off-its-watson-health-business/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 39
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
+        isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
     publishedDateTime: 2021-02-18T19:36:00Z
@@ -122,6 +130,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "vOMSrJR/IglyyB9DbjstAjT8O5ZZ5Xx9fSIs31Nvuf5HBYHOqSWDT67p0okV1sg07e4+Kya9A6HpNrGFzdrD2oDEkMaoD6uPHd3c1SbKz15dFWBDflQUk1epX21fgxC60FR646UxVmFGJ6uBvFu/QUk3xLFYRdh7vWKkezE0ZpWP4NE6fxAYZkDgV9n3UgY1FjjYTAA/PhjAD41alkS4NZqjKHessvRDtKtdBsn5SWpYyPm2HDq2A0qaVI+purtIF3Rl8BUR77nw8vC4KvzDQmNk/mewZGZxRC7VgMRi19YdraoolXxTlSIsaVQtQcFTBAmhKPFcpP8Zg9nSmpYSejoAn0671M9qmDbLHPxIf0c=;R2mFDX4B0gPDSd9pCKlVig=="
+secured: "F2INqiGRJV3PZ1LBQMqfb3H6NHeVfDzGCswvefeH4DzplFq8GeV4sNTrcs/+pTPKdE8qKw5Czb9FMYiOEUqFznH1G6XVuDrZCkYey1bSytlbTF3a5uKXiFw4VdfLW+4Ckl+mLTjTOckNRY/GREDmYH++og6onr8JWCGDGkktLhcNrJpXB80rnbS5YKdyAokAmedWabFtkFgfjBFy+S2Q68aAXyBtniK5rV9jNO6Md8RGqqoc9SpqS05tyuDLXUX4x/SK4Fz9IhNw50H57sjz1ZEWEVjtTgQOP97RvAl7eQM22SFd1W0n9T1gJ50PSi16MrWzw+1KbkA2U6IpivdhgbyKZnME5NHFnrtFe3ykFi0=;1wp8l/TPfVAlC4AsdDotZQ=="
 ---
 

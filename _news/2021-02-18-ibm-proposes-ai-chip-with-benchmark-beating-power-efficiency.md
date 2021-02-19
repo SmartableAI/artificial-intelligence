@@ -77,6 +77,20 @@ related:
         width: 595
         height: 347
         isCached: true
+  - title: "IBM claims 'world's first energy efficient AI accelerator chip' based on 7nm technology"
+    excerpt: "A team of researchers at IBM claims to have created the world's first artificial intelligence (AI). The new chip, which features four cores, was unveiled at the 2021 International Solid-State Circuits Conference held virtually earlier this month."
+    publishedDateTime: 2021-02-19T11:28:00Z
+    webUrl: "https://www.computing.co.uk/news/4027440/ibm-claims-world-energy-efficient-ai-accelerator-chip-7nm-technology"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 46
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/84da39a/2097445c-3222-45e9-82e3-bf5409b10d58/4/ibm-chip-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "d24hnQtLADHxa9xcCs7XwAah8DJ0wpH2mipD6lGGMNnLwI0JLFDgk0Nv6B+Dkq9iB7tfu1xZ/Mi6HjAW0Qmvug/N9I+N+gbPqlggO/egSUmleDPBTYGcLE9W9fl56f9MQRY6xondohjs5ijSKH21tZXiimtVsU4Dibjk7w8nM2H/xV4jDFEThMX/Llnmepb0MQpKqx0En9J1tAdXlzwv7k9swm58zMvkX53x2LlRRxrmiXWHAnSi0kkAFvpW6599pkRJCUp7bTFuYgXeyYcZX5GoDOZvd7E7cykIqaGj4SjsqIoFcfr4ozUpcs8wdQbkoNT66ukFG+HluNKPa0W5xRxiC+IVEUgxOX8zrangwmVBTDwYec7fi6/cWOn6e6RNzxEWcnZ1krXH6PoCUHtFcX+ckIVHErYa5k8CPz+rGnGPaK/I57BTgxHrUhts9aI4TKgzk6XmI9/8fwOfWRTcafrZVIJm6o9WEAy75oKPLjrVNZ/2BBc53ajWyhS/HxsySXeFLB0hAw3wmYGpR95jvQ==;KXTEu+dpXPSmZc0HSLqfrw=="
 ---

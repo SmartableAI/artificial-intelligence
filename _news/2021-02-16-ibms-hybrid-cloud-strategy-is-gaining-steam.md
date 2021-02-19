@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/IBMs-hybrid-cloud-strategy-is-gaining-steam-–-Jaweb.jpg"
         width: 1024
         height: 663
+        isCached: true
+  - title: "IBM-Red Hat deal with Palantir is big boost for its artificial intelligence, cloud strategy"
+    excerpt: "A new offering, as a result of IBM's partnership with Palantir which will be available in March, will leverage AI capabilities to help enterprises further automate data analysis across a wide var"
+    publishedDateTime: 2021-02-19T11:45:00Z
+    webUrl: "https://www.wraltechwire.com/2021/02/19/ibm-red-hat-deal-with-palantir-is-big-boost-for-its-artificial-intelligence-cloud-strategy/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 27
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
+        width: 577
+        height: 324
         isCached: true
 
 secured: "HNTbQdiO5volh1xhH65ceO9Pr+YIHlwNlu7/ALiPpZlNulrbziAPgH3oZNIGTdvRTISZ8/sSRfdLiLNH9GOWCdwa3VQ9pdJKKaLOYgJ8M0HOcujgDzDEQBc/QvV+quMTIZzx+0b/LFxbJ+nvl48U/WX0ulU1T1wbXBiLjGF7qJ2jV4h481qrhBPRQ1gfMhJ/Mn2uaBLNUtNfDpDlDbPcIiU9EQsesdsxdt8zW9MZADCc/nqXEGHvy7SENR1TmpI1KfxMAvM0RCWkGP6OoatLH3GtIDEWG/UA0KvQHacDft44lNpl4HJVBqhWNa/t4v5fGBte2GH3pMCM9BuCknUVjSQYCUe4NyPFqK8nptSnKF4VbkmlQC4viVOqqAT01R4rnXDjuNxUymLMouO6USeFxdq+utTygh1wCz6a4kRlQOF/YlqX7rJR3iZ+hbeNnApCguDmeetRjIs//rmvFTi4iwwX4ugnm0aVYeza0Jwef2G2BGIAmgK6IMAw9UmUvMCG8XdrvJdduT6FhS/YmJWk2Q==;zNEzoV/ztX75ARy7lnN7dg=="

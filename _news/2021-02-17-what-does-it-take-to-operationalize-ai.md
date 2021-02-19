@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Operationalizing Enterprise AI At Scale"
+    excerpt: "Especially after your first AI use case has been successfully operationalized and scaled, make sure that others in your company hear about it."
+    publishedDateTime: 2021-02-19T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe1fdf2ad456654f0f801e5%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "t7Cr24kBm8tnag0umbPmVzAMMwScbtimGlsiBrkHEEhtdWgZfxsrwuUJLB1bzqinJlnq1yA1kHtXC2BHYn2sjiSpb7JKibNirILwUo0HMCBD9Q+QQqQDWxC/rDt+J/w/ReaAYz4/5uXU43c5ATdKB++BejNYue+oJRyO6c1yB9zI+05SpCg8tcfqbAt9JPUURggW/5piu9MrhX35tGvVizz6XYlqQZvRTs1AHK/nGjsb8g+A8KEeGin0aNWrI53nfKtWdS7Lr/zTQQ/jF4zRkBJitM8XylEbTFZAERh1pFucBlwb4/7WV7TF4ARiyjZp+9D+ZGkVkeYTOIiAEWRMCUDpIt0Gjnolu4pyU/4KLlGeNxYcIB2y3eckxXBYgHm11jEuf/gZlvbrFJFH+bM7oyJqQC7tvLUcuxaN4NKHsibx/tZguA2ga2or22OcMh2tle0VtNylFLd6+eNRDE2JcQL/RMsuc+OcXMEcIECdh6015TvObuHTijDvXCgzh68n4lGO+JpWzo88Q3Bt7tcABg==;O73EkyqVo1zgZHbo+Ew4Xw=="
 ---

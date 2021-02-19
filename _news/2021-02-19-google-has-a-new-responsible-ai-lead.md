@@ -48,20 +48,20 @@ related:
         height: 550
         isCached: true
   - title: "Google names exec to oversee responsible AI research after staff unrest"
-    excerpt: "Alphabet Inc's Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing of a prominent Black scientist."
-    publishedDateTime: 2021-02-19T10:45:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-idUKKBN2AJ0C0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AJ0C0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AJ0C0"
+    excerpt: "Alphabet Inc’s Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing of a prominent Black scientist."
+    publishedDateTime: 2021-02-19T04:54:00Z
+    webUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552109080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I05T"
-        width: 841
-        height: 545
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/02/2021-02-19T044427Z_1_LYNXMPEH1I05Q_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Using Responsible AI to Push Digital Transformation"
     excerpt: "Can businesses implement ethical AI standards that reduce harm while positively transforming the workplace? Just as its development is creating new business opportunities, AI has also delivered some harmful and ethically objectionable outcomes — a symptom of the misguided rush to get exciting technology to market superseding moral,"

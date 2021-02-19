@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustain
 cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
         width: 1440
         height: 1432
         isCached: true
+  - title: "DICE Corporation unveils Matrix Integrator to provide security integration companies a new way of selling CCTV"
+    excerpt: "DICE Corporation (The New DICE Corporation) is empowering security integration companies with Matrix Integrator, a cloud-based video event monitoring, surveillance, and alarm notification suite"
+    publishedDateTime: 2021-02-19T11:44:00Z
+    webUrl: "https://www.sourcesecurity.com/news/dice-corporation-matrix-integrator-security-integration-companies-cctv-co-2662-ga-npr.1613734466.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dice-corporation-matrix-integrator-security-integration-companies-cctv-co-2662-ga-npr.1613734466.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dice-corporation-matrix-integrator-security-integration-companies-cctv-co-2662-ga-npr.1613734466.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 41
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/dice-corporation-re-brands-as-the-new-dice-part-of-acceleration-strategy-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
   - title: "Terminator Salvation? New Artificial Intelligence Program to Accelerate Clean Energy Generation"
     excerpt: "From 'The Terminator' and 'Blade Runner' to 'The Matrix', Hollywood has taught us to be wary of artificial intelligence. But rather than sealing our doom on the big screen, algorithms could be the solution to at least one issue presented by the climate crisis."
     publishedDateTime: 2021-02-15T15:13:00Z
@@ -57,6 +73,6 @@ related:
         height: 437
         isCached: true
 
-secured: "8kvGFYwyBVGj0MnfPJjibXnYp6hyNWtYNcdx4yYoMrpsbi+rz/GM84hYIxKd6GaUz8Yp0YL6uHYsAWZsJVe/dCx72y0rQdJ/KUKCY9qHSoT5nSqvy+snMizjYEey5Fswrr6lDTYL7T3mwLqbB1zrWtHfyj7x94Yn2bGYOLQ30FCRu5ddLGJ48imqXuFR6RzbzBS7bE0/lW5LxTJF6iH9D4SZO4exIpmUg7RuDqSgznpERmNqBhf/NkMR0rx6DPYPF/mW1bYiJTDfZr6hrozuBVkPfjIkocr749bNlvKv5huj+gqALuqG4MXuw4G7cS7YWhRMVKnvElmNrnXC0N+i/ZauFLZvL94044Nnl4K7bqg=;bK+Ac5/kcz9Inbri+dNauA=="
+secured: "Qt4+xjWc2eDmg0e5vxxeqjKCMngxOcRdqTsHs+qB6vd/KAW5z/8vCGIV3CAb/e3Siq/8CIL2feqBTU1JDsOqID+ro53T6XOO50LoTK+NvQuMI4bH0s5xezKOMg8kFZXBIUtfFmAxZeDI49/Ww754u1pe+/vS04f+cQZc035fMz0xsy4N3R+I0srM1CRs/PH7NgCYP8LcJdbyXe3c4cZCkxylHGAEqg+lb4QxUYxl23o4af9WH85EP0dipRdOg6t+FRKnTYNho0o+c5AJAJsN+yfSDlyB5geSCJLpMMKrSYC8CmacooBU7qi/k/eaPiHaVFRhv6Rkfz/nhXdpKH+IzE2v5zuJK74r3BXFN/qebabav3b1mKC/D9sWsfYUExRdYnpSlpjzz7555PCDqazxolqgpR+kYhcHsPbUEpxkuurvu3HN/zVL21h9PzzKluUeTGTUeprAh3brvsJ61lV77jcWCcKWfcbrLswh5QFK44HK0V38KfqiGUZDWGc93CECw1wchfYIx9y7I0WVDAOIkg==;96z94Jypa+wws85TaLGg5w=="
 ---
 

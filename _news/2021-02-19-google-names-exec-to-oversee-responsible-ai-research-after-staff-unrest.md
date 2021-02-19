@@ -1,32 +1,29 @@
 ---
 category: news
 title: "Google names exec to oversee responsible AI research after staff unrest"
-excerpt: "Alphabet Inc's Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing of a prominent Black scientist."
-publishedDateTime: 2021-02-19T10:45:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-google-research-idUKKBN2AJ0C0"
-webUrl: "https://www.reuters.com/article/us-alphabet-google-research-idUKKBN2AJ0C0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AJ0C0"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AJ0C0"
+excerpt: "Alphabet Inc’s Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing of a prominent Black scientist."
+publishedDateTime: 2021-02-19T04:54:00Z
+originalUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
+webUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
+ampWebUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
+cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
 type: article
-quality: 87
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552109080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I05T"
-    width: 841
-    height: 545
+  - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/02/2021-02-19T044427Z_1_LYNXMPEH1I05Q_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -88,6 +85,6 @@ related:
         height: 367
         isCached: true
 
-secured: "cMRsxc+cpQ59qz/hUyT+aABf8d9bdHsN52F3An9Epboqx95+pbbqY89GK5T4/vEDT4Yp5X+m4yyXm7gS1i8vB9B/NaiZOT1g0VscnD9MbD4PAMDiBTHu+k2AiJKxoNByB68Du7LDzIAktcivaWVjK6wEzv7y2AGuWSNvGnKQsQeS/8fZrgtNObD6I1I/d1AeZ++GPSg8KCLxFNctVxpaou4+q+cKrY7ZsVuY2Kv4vRYQi8c4lPzFFCtF788wFxTeiIIRQgP9+0pkq5F817K5DHQpEeVwUyRc+4nTxtZ7q8T7YC2cgd3rnjCumqp0g+FhDTC53S0i+UtJWwABNkFDoh0+0fxheILs6CSznFQ6/io=;CJ6iiiIcyQb50R4bYepmrA=="
+secured: "aSP48L6XBy9PPRaH3lchWCEvHQJQLm5TvFA/Pkyvc83kAx/0x88Irw/so1A3grj3Q4MH2Ld39KwxkMroHeSZQU1ctfKYsxm9k/waCX3XsKJ9958N2TZKr7qJ4LNMMD285EyCKlaUzRu0T66oXe18iCeZYGfHDlQY6k+vUlw/W/McI4Dfyoa9hABHwJuKHN8Ml5+i3KF3Sr1aLAvuxx0smamYwueXrO4WKdS4F4REy6dMGrEuWKdm9Vx78NVyIeBY27Ob1lTtZHS5CNL0Dw555XHxF1DHlQ8Kn1iuHl+8BuoH1EqQaNqnVSD93KC1c2HttHJVSJ5vr/SMVuTuZ6DXh3nKyXVMT8ipAvH75O8/vkk=;AhdyQ5u+YoPIRzxmgR0sXA=="
 ---
 

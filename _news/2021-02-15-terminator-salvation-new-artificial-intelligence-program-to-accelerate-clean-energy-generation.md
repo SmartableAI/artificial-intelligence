@@ -56,6 +56,22 @@ related:
         width: 1440
         height: 1432
         isCached: true
+  - title: "DICE Corporation unveils Matrix Integrator to provide security integration companies a new way of selling CCTV"
+    excerpt: "DICE Corporation (The New DICE Corporation) is empowering security integration companies with Matrix Integrator, a cloud-based video event monitoring, surveillance, and alarm notification suite"
+    publishedDateTime: 2021-02-19T11:44:00Z
+    webUrl: "https://www.sourcesecurity.com/news/dice-corporation-matrix-integrator-security-integration-companies-cctv-co-2662-ga-npr.1613734466.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dice-corporation-matrix-integrator-security-integration-companies-cctv-co-2662-ga-npr.1613734466.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dice-corporation-matrix-integrator-security-integration-companies-cctv-co-2662-ga-npr.1613734466.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 41
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/dice-corporation-re-brands-as-the-new-dice-part-of-acceleration-strategy-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
 
 secured: "zND5DKIy/fTBuyWGIaoWT5XBXTTX172jB0a4ZF4gE8JYhRZEsXwQ1EzE7eAYs41I5iyynX8BTBxC2GQTEFm1EzIT6GPfRmQez+GHuSiWjbvSpPevOh76lsRCfvRDWJzLbCOC30fVP3j6VhVcRuTd45Bk+zu9KXQ/s7xGIA81VOs3NH10bfsuDDDeLXiwH2G9A1BE7lLB4MKwuGnrsxcHQkH0m4tekDo5l+JM/twtyOzIsZLgZt+61opm+0ZEH3Q4a8uFdTHWRU4nh1f9oCGqnpkW++/w+uG3wwDv2lTQ/GEXuCwa+2O5F5j1xnSDsl3pd1mwb/JqPbeip7niwcHurdX3+QN3QlJ9gjct7+xbQUwXyVjXDBnbwvnNX8gBui1WcV2ZTHAnvagsPo2udjskoy08aCFJgEfLHv4AP0eTzJXiS756ZOcHAdT+FuNt0NoIGCdBkh83OTk59CtITxjf7YnhqrNLCr9puaJK62riUnQYFWwLi2tTpvUCOhrrn6RkATOy97ipUP2970IgNnw+yw==;Put+HSBc6GejTbKx2Y7D1A=="
 ---

@@ -2,14 +2,14 @@
 category: news
 title: "Data Collection And Labeling Market Size Worth $8.22 Billion By 2028: Grand View Research, Inc."
 excerpt: "Data gathering and its annotation, combined with artificial intelligence (AI ... to its autonomous driving customers, including Waymo LLC; Lyft, Inc.; Zoox; and Toyota Research Institute."
-publishedDateTime: 2021-02-09T10:37:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html"
-webUrl: "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html"
+publishedDateTime: 2021-02-09T10:29:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc--896282267.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc--896282267.html"
 type: article
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 733
     isCached: true
 
-secured: "A0XlzewaLbSDfy/pi7c5bhvuVrmFOCVBBJWTqW3Rmt3Dy55hkWv6YIOf8d9bl1YKa9oq7Qa1wc2pYh/xUGo9b1iU++bL2J49YsH0AHR8Og9bFPMwRwd8A8zHrqHhsHnQe1znid1hVrZJOAtA6jBcc/RV4OdlvoD8U56NXjLNaFLz6EhF/Hc6FCzusUXi/l2INuXj4J+syV907PtJYpsaWc7c7vFVzSRu6DgVgpRT1JsomfDXjhhZ+nIn1XRXOy982UzpwvQztgHxH0Qup7SjFCOcIu+OUtXItTuHah0H7qFjWSYQNBx4BIq3henKkmUCmqOeOh582NekCxQTGqYXf1gWaKYGEX40VGyGCMOUM0w=;a7Wjmvbh2MzggflLruwFgg=="
+secured: "ykP8YQkEZUPc4Jyqz/cL6/XAtbBRGw+0fBQpymQCDy/m36Ro4y42+/LJSLpOkQ1fAm8Ye73v59VduQRcbqb+bQV5YKdIF+EE9MqvT6ryDdd47kcDy5aCgZYZHKfhU/EDk1SnQjE5FhJB6CkcRnToKaeooB8osGR17rlNQBVP13vfhtU05hEaIAeLnY3L9ky7LXxkD6xAXI61UOnmayxiBqy1PePtGp8hVHacOefg3hUttSxFD2ruzfNvC9Bvor0D3oKmoZKMMyotjA3PQzBDZtqeeBKfdrjYj4YB/zuRT+lvUNPOq/7UQX4GvbHF7IEFWE/KfJD/viw/r/oaRq/4sidEHAECjV1ZsDeLP603dgE=;VNa2KdWMcKUCujTEzh3HCg=="
 ---
 

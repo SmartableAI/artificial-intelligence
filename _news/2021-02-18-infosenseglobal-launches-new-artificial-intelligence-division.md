@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-18T14:27:00Z
 originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef"
 webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "B7FTyb9A4nbh529WBRxuiH3MbiZvD95597IkUtncWdmXtxsbWpL/9nu9cuRbtxKy32zcdCX5Vi82Uy9GsHWe9RGxOGRZhQlnjLhzfKXpXq1nTxxrngM5qmje1h3bAkj/l0QtW6ltcMOvGEjWPWjGfx8aYMUm/uRQrrwrP+Fy7IUCIPKDvI2AXi0jrT6401BMXYmaXixFEV5sXvjQ0FCt2aScgM8KMnL5QGfOnAIijTTKWOefTO3ruUKcoiZP7I+IagHZJSlhrK3NmDAZyRvCHuOS1dtDz6JmngNBJ3oIEGDw1qP2wuZr9XBiKeFgTwXEaSzPWnJXbrPqEW2wj3BoVsMdTIvdoi12jyhTicDb0R0=;DlWHrYfXKJVRLWnYSAuLfQ=="
+secured: "V1JabtRue9C8pCtEDjxXtT+kYUT2RkqDR3fDOP/z7PEzCUYs/8d3jN6T1w/vX8/FBavw1NcbWD6rEFC+SxemlWkHn2N0XaXdxsckzwZy/eX7NFvJvCepyPPXYHnqyT7TCxf4IvAeZZARy30U4iuSvKuv3xcurhgrlJjTRJhU4azV0udvd2Ks2MZtMwrxXdriAoZsBAc223U2fQ7FpAnkrjRAh8e5wmm4PSeDpv014EbHq1PRh3IHz3zkPViNDct3MJ5YFGXbR4QI/AEyGrZ1J0RoKLg0ykv0924h9kmthDeCEi/7VqdfMbvq3JXVfYJH923TkUDehZM2oYgicNwFx/vHOPrqImYeuT8jUFU73yU=;RErXorgx3o2ipZXSF629Hw=="
 ---
 

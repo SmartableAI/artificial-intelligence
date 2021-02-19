@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "What does cybersecurity look like for the financial sector in 2021?"
+    excerpt: "Smith, managing director at CIS The landscape is changing incredibly fast, with cybercriminals using the most up-to-date technology to hack systems. Here are the six areas those in finance should be watching out"
+    publishedDateTime: 2021-02-19T12:02:00Z
+    webUrl: "https://www.globalbankingandfinance.com/what-does-cybersecurity-look-like-for-the-financial-sector-in-2021/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/what-does-cybersecurity-look-like-for-the-financial-sector-in-2021/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/what-does-cybersecurity-look-like-for-the-financial-sector-in-2021/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/02/Untitled-design-44.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Cybersecurity risks connected to AI in autonomous vehicles"
     excerpt: "Autonomous vehicles are expected to reduce traffic accidents and fatalities, but may also pose a cybersecurity risk, according to ENISA."
     publishedDateTime: 2021-02-17T04:31:00Z

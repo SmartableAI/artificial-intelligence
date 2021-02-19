@@ -42,6 +42,20 @@ related:
         width: 735
         height: 414
         isCached: true
+  - title: "How Artificial Intelligence Is Changing Tank Warfare"
+    excerpt: "What happens if Russia or China builds a new secret tank or heavy armored vehicle that even the most advanced U.S. databases are not able to recognize? What if a weapon attacks U.S. forces that is simply not in any known threat library?"
+    publishedDateTime: 2021-02-18T15:14:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/how-artificial-intelligence-changing-tank-warfare-178386"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2016-06-11T120000Z_232721586_S1AETJHGYOAA_RTRMADP_3_LATVIA-NATO.JPG_0.jpg"
+        width: 1222
+        height: 815
+        isCached: true
 
 secured: "t2LAw2I57ZjizAHLkLXgPMPibKGuXkyxMc4VPz2dY+3zm7z/EPwXNg6cTT/zhvlE3bawROMNctzursPJyZA9mm9rx6xjhzgqKXV0XURHj4rEKcGrPUNRjVuJuSWs0flbcjHj9XG4pNg3YgONB5xGeTcMwn3AAWPyhtqbzJ2gohon5YPEQZEzCcE2/hU+akETd0zoKJkoBlJuVcWxRGbZQJp0h/doI6Ad1Em2Y7pqOo+RgIjuFct+KYyjscx97mJ1UDDtFrewX53OUxHhA6lPMkI0x+BSnwEOYcCl+/5NIf9zpOlbLjiHJSVaH3uPdJ+B6Xf3IsJu1ZasMq1Km9vm2abrilX/qnMNlWBOryz985EYEe7BTFk8hiaYdyO+yfsWTUNST2uTz+M5vsQTjdq79qDTqdTtewLq4CQR24ZyIYR+v4gFVKxx8LnHHOvwWc9mfVE9aiSOtHZCrpoONVzfvGZ7+q/iHEq8dkq+tCn+Q8cgFgOy1jcI9VktcHcILXJHUxLilkr6AmnYOHdzNeu8LQ==;RbS22PW4wSIqQeRsSrZSzQ=="
 ---

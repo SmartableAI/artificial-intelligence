@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/"
 type: article
 quality: 121
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/IBM_AIM-1.jpg"
         width: 595
         height: 347
+        isCached: true
+  - title: "IBM claims 'world's first energy efficient AI accelerator chip' based on 7nm technology"
+    excerpt: "A team of researchers at IBM claims to have created the world's first artificial intelligence (AI). The new chip, which features four cores, was unveiled at the 2021 International Solid-State Circuits Conference held virtually earlier this month."
+    publishedDateTime: 2021-02-19T11:28:00Z
+    webUrl: "https://www.computing.co.uk/news/4027440/ibm-claims-world-energy-efficient-ai-accelerator-chip-7nm-technology"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 46
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/84da39a/2097445c-3222-45e9-82e3-bf5409b10d58/4/ibm-chip-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "5bZqDNcteO9EyQBP3BbsgEh+GCP3+vpARVoVL/119qZb+/JImJ4+lJsMCdLIkVlWgRuvc6lxtFsTZXk7mbAexFOC0jRwJAN4nAnG+i8Z+wSXAR/143EXbIEctKfcdADtp9tzGUTxeDZlhhIee/AyxsHzLBUquuTMMu1mNC4bLFrYU9HAHoA7spKWpMiySZbM51vHAAXKAGe7TC1JO6Sx4q7GgRS5NfddhBDvkMdPPFXwQIS6SU7yeM8/k0+tw9ZtAiXofMCJYsk373fLLKwO4iBBAC2dZYYGb2DMS2ieCFKj+C0zXNfFSjfAaCKQ83ySzMVvKy6hFj+PZ8i3Yt/9fJlq313sdXbJMZjVvl3vqkNK6wRfEJiIbrfrhSjrLEzpoKQavvQJx8eSJA+Ie0WNaspGKuDmPHt0n0Cf8C+SL3napt2m+A36CVCJQfZPwWgGDXWr65XdhWzbVZV0Uqcsl7ThcmY62DP1YUdSY3KCBkAr3fRw+HomiwbLFQPUK/NyThPM/c3L3DTNUSTzN+WeRw==;UgxqfDQ4hu8J5hFE8InSjg=="

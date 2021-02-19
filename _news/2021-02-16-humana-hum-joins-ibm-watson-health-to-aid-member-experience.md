@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-t
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -24,7 +24,7 @@ related:
   - title: "IBM exploring sale of its Watson Health unit"
     excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
     publishedDateTime: 2021-02-19T01:41:00Z
-    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos21"
+    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827"
     type: article
     provider:
       name: MarketWatch
@@ -35,6 +35,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IBM Looking To Sell Watson Health Business Unit – Report"
+    excerpt: "I BM is looking to sell its IBM Watson Health business, the Wall Street Journal has learnt. The technology giant is looking at different alternatives that include a sale to a private equity firm, another industry player,"
+    publishedDateTime: 2021-02-19T08:41:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-looking-to-sell-watson-health-business-unit-report-2021-02-19"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-looking-to-sell-watson-health-business-unit-report-2021-02-19?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-looking-to-sell-watson-health-business-unit-report-2021-02-19?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Humana, IBM Partner To Streamline Member Engagement With AI"
     excerpt: "Humana has announced a partnership with IBM Watson Health that seeks to improve member engagement through artificial intelligence. The solution will use an artificial intelligence-enabled virtual assistant to provide accurate benefits,"
     publishedDateTime: 2021-02-16T15:01:00Z
@@ -67,22 +78,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Looking To Sell Watson Health Business Unit – Report"
-    excerpt: "IBM is looking to sell its IBM Watson Health business, the Wall Street Journal has learnt. The technology giant is looking at different alternatives that"
-    publishedDateTime: 2021-02-19T09:59:00Z
-    webUrl: "https://www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/"
-    ampWebUrl: "https://www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/amp/"
-    type: article
-    provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 59
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_779236312.jpg"
-        width: 1000
-        height: 653
-        isCached: true
   - title: "Aifred Health among top three finalists in IBM Watson AI XPRIZE competition"
     excerpt: "AI XPrize is a five-year competition with three judging rounds. Montréal-based Aifred Health was one of more than 700 applicants for the competition."
     publishedDateTime: 2021-02-18T19:11:00Z
@@ -110,6 +105,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "IBM reportedly looking to sell or spin off its Watson Health business"
+    excerpt: "IBM, which already is planning to split into two companies, is considering the sale of its high-profile Watson Health unit to further streamline the company, according to a report in The Wall Street J"
+    publishedDateTime: 2021-02-19T11:44:00Z
+    webUrl: "https://www.wraltechwire.com/2021/02/19/ibm-reportedly-looking-to-sell-or-spin-off-its-watson-health-business/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 39
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
         isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
