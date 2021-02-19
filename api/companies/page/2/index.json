@@ -23,7 +23,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 191603
+        "followers": 191602
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -183,7 +183,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 19896
+        "followers": 19900
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -249,7 +249,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 8029
+        "followers": 8030
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -311,7 +311,7 @@
       "twitter": {
         "username": "anduriltech",
         "url": "https://twitter.com/anduriltech",
-        "followers": 7194
+        "followers": 7193
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -364,7 +364,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 53967
+        "followers": 53973
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -417,7 +417,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 10772
+        "followers": 10774
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -782,7 +782,7 @@
       "twitter": {
         "username": "hippo_insurance",
         "url": "https://twitter.com/hippo_insurance",
-        "followers": 2031
+        "followers": 2033
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -831,7 +831,7 @@
       "twitter": {
         "username": "freenome",
         "url": "https://www.twitter.com/freenome",
-        "followers": 2706
+        "followers": 2707
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -890,7 +890,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 10063
+        "followers": 10065
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -999,7 +999,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 9781
+        "followers": 9784
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -1053,7 +1053,7 @@
       "twitter": {
         "username": "flatironhealth",
         "url": "https://twitter.com/flatironhealth",
-        "followers": 10234
+        "followers": 10235
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1174,7 +1174,7 @@
       "twitter": {
         "username": "tempuslabs",
         "url": "https://www.twitter.com/tempuslabs",
-        "followers": 3710
+        "followers": 3715
       },
       "size": "501-1,000 employees",
       "yearFounded": 2015,
@@ -1232,7 +1232,7 @@
       "twitter": {
         "username": "fetchrobotics",
         "url": "https://twitter.com/fetchrobotics",
-        "followers": 7204
+        "followers": 7203
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1339,7 +1339,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 2739
+        "followers": 2740
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1528,7 +1528,7 @@
       "twitter": {
         "username": "RethinkRobotics",
         "url": "https://twitter.com/RethinkRobotics",
-        "followers": 31106
+        "followers": 31104
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -1567,6 +1567,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/anomali.md",
+      "title": "Anomali",
+      "excerpt": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anomali/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/anomali/",
+      "type": "profile",
+      "name": "Anomali",
+      "overview": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
+      "website": "https://www.anomli.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/threatstream"
+      },
+      "twitter": {
+        "username": "Anomali",
+        "url": "https://twitter.com/Anomali",
+        "followers": 8734
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/704208076216233984/GCReHMVS_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Anomali",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/babylonhealth.md",
       "title": "Babylon Health",
       "excerpt": "babylon is the U.K’s leading digital healthcare service. Our purpose is to democratise healthcare by putting an accessible and affordable health service into the hands of every person on earth. In order to achieve this babylon has brought together one of the largest teams of scientists, clinicians, mathematicians and engineers to focus on combining the ever growing computing power of machines with the best medical expertise of humans to create a comprehensive, immediate and personalised health service and make it universally available.",
@@ -1586,7 +1624,7 @@
       "twitter": {
         "username": "babylonhealth",
         "url": "https://twitter.com/babylonhealth",
-        "followers": 12534
+        "followers": 12535
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1637,7 +1675,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 16052
+        "followers": 16059
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -1745,7 +1783,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 16957
+        "followers": 16959
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -1779,55 +1817,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/deepl.md",
-      "title": "DeepL",
-      "excerpt": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deepl/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/deepl/",
-      "type": "profile",
-      "name": "DeepL",
-      "overview": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
-      "website": "http://www.deepl.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/linguee"
-      },
-      "twitter": {
-        "username": "deeplcom",
-        "url": "https://twitter.com/deeplcom",
-        "followers": 9116
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Cologne, Germany"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
-        }
-      ],
-      "heat": 104,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/960519710809972736/NJWxM0QH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "DeepL",
-          "isCached": true
         }
       ],
       "content": "\r\n"
