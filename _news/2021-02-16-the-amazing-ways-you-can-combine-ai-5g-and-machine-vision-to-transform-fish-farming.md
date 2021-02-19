@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The future of AI and what Customer Experience leaders can learn from it"
+    excerpt: "He gave the impressive but almost invisible (to the public) example of quality control for French fries, where these extremely fast scanning AI systems spot and cut away black spots on fries. It reminded me of a case from one of my customers,"
+    publishedDateTime: 2021-02-19T20:40:00Z
+    webUrl: "https://customerthink.com/the-future-of-ai-and-what-customer-experience-leaders-can-learn-from-it/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "COSNjrctBh0VTgrPUsYbnPR1PZmlBR1uhvgUhEBxqgNnY65TWxSMJ2Ki3FiN9pyorpurN+0ytTe0sXENokgfHPkQFPg7zPgle2RjO8M6y6HJmWPloyTbS4ga1Wr4P3VvKlGA9eMEL6KXHnsdzJHCZ++iB40rWeGa3XV7rAQLrh5IKlnTMF49aEShxjd8gdc3B2mVinW/jWRfkd1/ie6fQOxP4iVpYRCnhcETplXH9qs6jPo9M9m5ckdXam4ivOnJJiZI4Y6bK+pyQc4pS1VbLEjL4h16N1Ag8eAjj9eEc4DRyy5wpmuMIMhiKvrHpOdH/wINZJuYUEpVyE0lj3vk5xmQePl81Tf9nxhYyFi+TW/+FcqLjb/OT0v102nrR1BI6zJsQUo5twrP5eKGo1thqyt896apUKg8Y593LjBjuqCxRQi9Eo/xmEFXOU7eLH42rbz8XzJ+dHeI6tW3Jms8aC56aEtVZ9ag6xf4FpHVNLaSOelhYwMf3QYircjVjMpE67PaVP1oAC0UvXCd1QiqYQ==;cEVTu73b5zUXaCO3Flba+Q=="
 ---

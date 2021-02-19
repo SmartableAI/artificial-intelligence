@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cmswire.com/information-management/machine-learning-simp
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/machine-learning-simplified-building-an-understanding/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CMS Wire
@@ -40,20 +40,6 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/improving-understanding-machine-learning-end-users.jpeg"
         width: 1080
         height: 608
-        isCached: true
-  - title: "Startup Ozette unveils AI approach to understanding the immune system"
-    excerpt: "Ozette applies artificial intelligence to immune monitoring to gain greater insight into a cancer patient's immune system. Beyond informing treatment decisions, the technology can guide drug and diagnostic development."
-    publishedDateTime: 2021-02-16T15:28:00Z
-    webUrl: "https://medcitynews.com/2021/02/startup-ozette-unveils-ai-approach-to-understanding-the-immune-system/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg"
-        width: 683
-        height: 512
         isCached: true
 
 secured: "GGBsBdtJzQzmfhJyQJoWj2rTFZnjcB3ir8MuDxZRTkFF/qzYSaA0ebKhap1oqz1C6pfckrDjQw0F15khuXhLz+NEZY2BjDCHX0whIBbyJ7Qybask5xgbVil9B0DkLTo/qCCLVr4Tr5vbw6tSX8nM/a3s5O3Heh1wCbompl/U/KlgIYZr9Hh0m/2AmIeClBErizmtZwcZyB1bZsGyjazBo3p4wMCll396UsvR/vyWUz7tjPJrCIzyCyZ7FIKQhz4EbBNskTwClHPlFLn2fI23uPHG90Rogc7eKaaQmb3iyEjVK9KrCSLo6mNcSyaENxW7Gl9tOJVjqQ3D1Ci2dT9RwTxJXr9Wtn10ugs+UvBpTSA=;vnxmDzF3jdF1cGqEhtVzsQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/amp/"
 type: article
 quality: 107
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "The future of AI and what Customer Experience leaders can learn from it"
+    excerpt: "He gave the impressive but almost invisible (to the public) example of quality control for French fries, where these extremely fast scanning AI systems spot and cut away black spots on fries. It reminded me of a case from one of my customers,"
+    publishedDateTime: 2021-02-19T20:40:00Z
+    webUrl: "https://customerthink.com/the-future-of-ai-and-what-customer-experience-leaders-can-learn-from-it/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "The Amazing Ways You Can Combine AI, 5G, And Machine Vision To Transform Fish Farming"
     excerpt: "We certainly have a global food challenge that is exacerbated by environmental concerns. But could new technology such as artificial intelligence, machine vision, and 5G networks help us find a solution?"
     publishedDateTime: 2021-02-16T07:04:00Z

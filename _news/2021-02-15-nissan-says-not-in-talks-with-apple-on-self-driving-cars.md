@@ -115,6 +115,34 @@ related:
         width: 1632
         height: 1188
         isCached: true
+  - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-02-19T16:02:00Z
+    webUrl: "https://www.benzinga.com/news/21/02/19750643/apple-mulling-options-on-sensors-may-highly-customize-them-co-in-talks-with-lidar-suppliers-for-self"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Shares of lidar companies are trading higher following a Bloomberg report suggesting Apple is in talks with lidar suppliers for self-driving cars."
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
+    publishedDateTime: 2021-02-19T16:50:00Z
+    webUrl: "https://www.benzinga.com/wiim/21/02/19751770/shares-of-lidar-companies-are-trading-higher-following-a-bloomberg-report-suggesting-apple-is-in-tal"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6Urb/zpJvemBjkuNTCm+CHZvGXe5tYqpJiMjYC5OTd3Fdp0FN8CBRMhBmw2z66xpwlQxx/I1fAbJZ1szwhYBwzJfjFcxJcOus/QDMiDDkd5OLp35YVoaAsRO71OVGGvsxIIAoe4MM+EwpATc1hfyNks6ceBBzzr1v5LoUQOmHKQ6zaODxoP2JUcgF5mGNjg4gqRtmJT8ODGTfTps45bBW+L/PBsWdkHWWj5J7OQ0K+VZ9n7aOvHp2lxXUVY/BxyLlYXmcdmKAWFf8YcVYwrroQ6PKiR/R276yYnd0E48S6ap001M3xjornfMtXDZc/5JsLPmOx6jVvAXGwSYdAZpH8T5mCV6GabyuW87n1VTc3gev0EayvsrN6oBeZO6CsaO/3+Yco8KiMybatHoNhuSXTj21nlLEpF6IAdjwc8HMtEUiP7L3dMPTO9HKoxWsAT5u/uTceyntWpF57W5EQkrkUvgeVZFOO3FgtgTRw+coliYX+QvTikNRt9g6hqRWDQmjX5V8p3zcLQfYEJxJ3y9Bw==;FsXKFNxPWdbpfqiKhzPvjQ=="
 ---

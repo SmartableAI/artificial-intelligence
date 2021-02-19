@@ -101,6 +101,20 @@ related:
         width: 800
         height: 514
         isCached: true
+  - title: "Google Revamps AI Teams in Wake of Researcher’s Departure"
+    excerpt: "Google has sought to diffuse employee rancor stemming from the acrimonious departure of a prominent Black researcher, Timnit Gebru. The responsible AI teams will roll up to Marian Croak, a Black Google executive who currently serves as a vice president of engineering focused on site-reliability matters."
+    publishedDateTime: 2021-02-19T20:08:00Z
+    webUrl: "https://www.bloombergquint.com/onweb/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-01%2F5f37a8cf-cd33-4a45-9c76-a86d8e64998d%2F367461275.jpg?rect=0%2C0%2C5470%2C2872&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google reshuffles AI team leadership after researcher's controversial departure"
     excerpt: "By Rachel Metz, CNN Business Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black"
     publishedDateTime: 2021-02-19T06:39:00Z

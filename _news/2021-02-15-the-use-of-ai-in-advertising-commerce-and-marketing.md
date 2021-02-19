@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI in the OR: One company is closing the gaps in surgery using technology"
+    excerpt: "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help."
+    publishedDateTime: 2021-02-19T20:32:00Z
+    webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 86
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/19/374589df-8512-4af3-aeeb-d9900f36d1a0/thumbnail/1200x675/22323cb58db91a75bc98eef8d6f6b044/20210218-exploresurgical-karen.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence And The End Of Work"
     excerpt: "The notion that, at its best, AI will augment rather than replace humans is both reassuring and deeply misguided."
     publishedDateTime: 2021-02-15T23:45:00Z

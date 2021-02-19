@@ -115,6 +115,34 @@ related:
         width: 1632
         height: 1188
         isCached: true
+  - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-02-19T16:02:00Z
+    webUrl: "https://www.benzinga.com/news/21/02/19750643/apple-mulling-options-on-sensors-may-highly-customize-them-co-in-talks-with-lidar-suppliers-for-self"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Shares of lidar companies are trading higher following a Bloomberg report suggesting Apple is in talks with lidar suppliers for self-driving cars."
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
+    publishedDateTime: 2021-02-19T16:50:00Z
+    webUrl: "https://www.benzinga.com/wiim/21/02/19751770/shares-of-lidar-companies-are-trading-higher-following-a-bloomberg-report-suggesting-apple-is-in-tal"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "YUS86b6khH+KmO7kvR/5J3JeGX+FX4snpTIt17pSwkj8JTf4fAQJ6nv5DjLeH06CcLeDCCyAQCxJbUnQTCKCfKQi4wPZ8IE5n6f4kze2zDr+rsdo1moMgSSbPADqusUBR7RaL/I2TZTsU2+hXKLS7oDj6OupCmBFpkHl22ESP+S4Fp6IVVKe77whWeXyGdymdPjUpvEN83xD0E78gLrm6YVTt6oLdmTFcCpuxwN7s3a9notHxQi6XUd8LFWR5Ec0XWIlzCOr4FnIGwoEb2TTDINV/ak2siH1Zw+DR3ki84A2Fk3D8DfSAF2WGR6Ojq5Jq8ZMHZ6kPO7TK62vLrrv4ihuaBGDwTXl1Rup80jF8GE=;LLfSSTC9PpBg8NB5Mm1pRQ=="
 ---

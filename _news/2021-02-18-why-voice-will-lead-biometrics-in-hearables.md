@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "CBP face biometrics catch two imposters at airports in Canada"
+    excerpt: "A pair of imposters have been detected by the U.S. Customs and Border Protection face biometric technology at Preclearance locations in Canada."
+    publishedDateTime: 2021-02-19T20:33:00Z
+    webUrl: "https://www.biometricupdate.com/202102/cbp-face-biometrics-catch-two-imposters-at-airports-in-canada"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
   - title: "Edge AI partnerships boost face biometrics in retail and smart city solutions"
     excerpt: "Vsblty Group and Ability partner to produce edge AI cameras and CyberLink brings edge AI face biometrics to Nx Meta clients."
     publishedDateTime: 2021-02-16T20:20:00Z

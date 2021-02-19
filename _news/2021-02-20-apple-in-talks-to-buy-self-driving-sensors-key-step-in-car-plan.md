@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discus
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
 type: article
 quality: 54
-heat: 114
+heat: 135
 published: true
 
 provider:
@@ -118,6 +118,34 @@ related:
       - url: "https://images.hgmsites.net/hug/apple-ceo-tim-cook_100696976_h.jpg"
         width: 1632
         height: 1188
+        isCached: true
+  - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-02-19T16:02:00Z
+    webUrl: "https://www.benzinga.com/news/21/02/19750643/apple-mulling-options-on-sensors-may-highly-customize-them-co-in-talks-with-lidar-suppliers-for-self"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Shares of lidar companies are trading higher following a Bloomberg report suggesting Apple is in talks with lidar suppliers for self-driving cars."
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
+    publishedDateTime: 2021-02-19T16:50:00Z
+    webUrl: "https://www.benzinga.com/wiim/21/02/19751770/shares-of-lidar-companies-are-trading-higher-following-a-bloomberg-report-suggesting-apple-is-in-tal"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "y65II/UlOy4DFefvzWiI8Zx5oMlm2OXTahjNGsV2mn0SdoD3mjcAuglfZoZXgQpYEHeRzmHfHCh7RC9pyDMKJ64Iv7X2KpF7KBM6y8l5Otgu8TH7+jzWFvSj8UnBg9+1IMh9GgD+rqmL6kH2wWrX5PNn0VPxf43sVeyGYgw6B1LFWMrYVVqWlaFXTPBrIq78STDcb8+AiL5NRKyz0kSF4fDoKsmyrJmma9jg8PhavSKmLaec8NxQhDCpp5TTMfPpgl1SkR5qUjb7pEWbmwDYI4oi4v8Gu3mKR2LZsOhdVpZMgjX5zB0Cl46d92zU9O8eJkEzfwW7JkvSnlWjTxHx2NmH/TKckf/3w4V9XxZI23E=;Ss3rPX16d4c1CCiRF8v/hQ=="

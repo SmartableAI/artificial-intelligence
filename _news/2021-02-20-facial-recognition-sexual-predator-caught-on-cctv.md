@@ -3,8 +3,8 @@ category: news
 title: "Facial recognition: Sexual predator caught on CCTV"
 excerpt: "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,"
 publishedDateTime: 2021-02-19T18:26:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-wales-56130226"
-webUrl: "https://www.bbc.co.uk/news/uk-wales-56130226"
+originalUrl: "https://www.bbc.co.uk/news/av/uk-wales-56130226"
+webUrl: "https://www.bbc.co.uk/news/av/uk-wales-56130226"
 type: article
 quality: 39
 heat: -1
@@ -82,6 +82,6 @@ related:
         height: 641
         isCached: true
 
-secured: "i0V0P+AEE4IHnYsqBLxUM8K64FumXbubq/3c6Vi4ihXv9WbTg947pXRk9b331iD6rakh4f6bhI6XOLFR5kw3zbPZvCtfkx0xfyjehXxy/OESbBqhwpqbT8bpr14JcwudC05h+Vvq8kjM45UBoObXjlaF/v8R8HySAtQrE52JXql1hEAuMykjVlnI/Qon6//qktt2zDAA2BoPhX8YzHZtsuWEBCPwVuHXQh8pQnnXv9KHcsesguz7eQo0dBYXGnnLl/GyyPVgk0NP4CC7vY6oeWrKJGypkMG/fzmi7LggEs1frG5qbys0M6rYbjlnGSu8O+d9cvA22h+euNBGdSoDR1P9l8amxmvKvypo5PTjlos=;uJZ2rKTdIr5FXuZBWmWaRw=="
+secured: "Q9MutcIA8VbM7kQ4wF8+1KuS1a+Eeh+IiA3OeEWp/myEtbTcaA6GNdanwiujSX/TzHHFz8SoyUuRO2MEhoowxESyybLu+urgC1/wzTIxHu8pVspUAkvIppxtxUAIm7PIiw63G5WY1TXHTnfBxRhLoHJQO0fBe4CJSAA+X93cGIb4kndQhv7cmO5Mblt4JmPLN/+iek4wZiUYUbM0Th0sHotBvrUC/LzTnjlcW59iDnyQeEU+g7Ju9KvIPwYUCjCItCEdONEbPkNp+jR853riU8Z6fT75H5K5AexAt2/UGWqCOBARvjYgkm9ZAjG6FBCNknieBMdYa2jK58nlb3O9SRpzZrjirDLx/0kd5JQ1p1U=;04u7lYbGC/dT2QUi/SBVDg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainabl
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 407
     isCached: true
 
-secured: "A0ElvvMapzZO2RydvoR06x5uvtqbXF41No6Uv04SY/bJtK0OZhpz9kWYWWM6/F4GAq4gFA6DxYh9d3Fie2/cxKngUAhZUY2CLar4Clb06FyF2U1H3oBJD7jt4mEKSndycf1hhfhxuFmGGoVqedsySXTUwDW0shUHpkn0N8wdn4/KlJV8UIagLnISPjt7EHVvHOlX4h2SbT/lrZAqMJnRZMUyEila1ueR6rbg6Ck0f0xkuaql3MJe52bvgPxeNsxhy/k7qyd2Xu++21MJj4g3hNviOoWD/i85JE5Qr32P2EsXP+ayrdV0K17NNVg9svFYvGb77bAPCwOFv+GuDFKYDa8fq+A8sX0QX7E3wQEmYcI=;whTDbWsU/1wu0CFjFYhzWg=="
+secured: "OavVZ12N7b0pR+ocLnTmBca4DrZq3b4QWiOhfql+eVzfGt/+Y6a5ZHOyO/1IsK4JNGOeJmJOJo8i2k3Sxrk3yDkMc7Yk0vC0HSljiiClTeDGPL3Dv4Y31B9BoM0lLcrMfniJL2FOR+yyAQ1tYlB3vTM6UDQD53y6G3U4m5OWtGQyQ6eGTgbMpilBU84Ks3mOtIEvlT0JJSYEg/yPKgyUcEiMsqR+1qGEFtWQBj6Kl9t9sR0MCpqtEe7rOe+SQu+IqJSlBEob8aQkt8mHSbbxQO3Sr5feenhdqoiBgBaNyAAcLsJamaTIYKLf7Kylux+OLhCldaCkcHIB3oj3iUpsrkyyD2G2UlBotsBijy0bk3NdwPOCg01qmW8mHm2cPup0BJOh5/afWFJTzIgAZrROJxc7DzxnH4yLm9qav0g8RrQlApgT3oUPSjGUDYY6oR8wKAmEm2naV/t9HYLYUbzEdyvCJi8Ew+U0ksXMv2gMO7sWRpkUpJLD0QF5OWjSs+5O8UqIfn70ukwmBrpPYrQWvA==;Ce/3lgQVKZqvZP7gEfOZEw=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI in the OR: One company is closing the gaps in surgery using technology"
+    excerpt: "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help."
+    publishedDateTime: 2021-02-19T20:32:00Z
+    webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 86
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/02/19/374589df-8512-4af3-aeeb-d9900f36d1a0/thumbnail/1200x675/22323cb58db91a75bc98eef8d6f6b044/20210218-exploresurgical-karen.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
     excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
     publishedDateTime: 2021-02-19T06:11:00Z

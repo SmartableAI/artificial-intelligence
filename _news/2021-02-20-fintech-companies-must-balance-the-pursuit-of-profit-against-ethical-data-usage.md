@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/19/fintech-companies-must-balance-the
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 123
 published: true
 
 provider:
@@ -61,6 +61,6 @@ related:
         height: 300
         isCached: true
 
-secured: "W06DuT2XIXzi8r+L/K2PCsRhecXKLae8cFYThwg0k6qKZXhCFdPoerwkUon/2EviDZryAWGlCc2DqS5nHniNiPb4u3i4LaGrt8kst0QwemP9HkB10AXDkytHBXg9tOnq65OpYfNdInzG+0ODK7RijB0X5bdQmhgTOC2nxcKkLtLYF14ZwX037PAhZ/tycJYrCF5X7ys+5VuVH40u+siM9RqfBtE40jpica0GOhRs8aOvTHh+dtob3I9vd0NVeDC8oxW25nHvovlhFaG6Y0/zlFE+9gsD3OsGPcbUJ6OTEW/9E/xC07e1fQKI4CKWkDCswZ7nQVJ5qSRo+ma6nrg/ZbVpMfVN4htKONVoyNN3+9c=;6Nr/2XEfBS8yuUj/JBcGKg=="
+secured: "qcLpSTwFTd+SmGpI/AiW7fc3HZF9A9KkydTxm64RCmBmOZV4+NpNkGaMfTO/GNxAZXp9xLnvh+hamWzydgtKcLzOQSmjQt8Ktbkf8CBmfoW8VxecDr/mIqIlwreLhHFgNhFUUPcsic6SRHDL+xqHGsV7VsmkPczXWFsVTsOiGLws7xCzaN2AttivMPp2tq/pd4wRl6oowIJtpVnY8+BQZw9q/GW2QKD/oSdE8n5sICnqG+K0eT5Im++j6sDBL/DjPO3QMUVIfzgpv5Mlrrkxy3b2hVnWm1iQjVeVIgYB4RZm51jYBDEejfS71SHCI03lY0VSbL/I75woFEY264ztR6yhJfsMmaRLYop98PHnaNM/sgq4+o12vpC+Psr+xdxX/hRtAaM+gFoOakzjJRqtkqtCf91Bsmr2rg8ZoWe7tR6m0QeBn2nGaTJaUwJdXEpK2P5uFFY01TDvvzsyUTyyCk1Yr3LOhLA29zSM/2mb31Sz6SeuaRdm4cEpEsWWs0bM353DAZkCY9VCPS5vLOCR+A==;AbA4YtWpl8Ds8hWg7QvI4w=="
 ---
 
