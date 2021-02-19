@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Calastone implements Opsmatix AI to improve client handling and efficiency"
-    excerpt: "Opsmatix, an innovative provider of AI-powered omnichannel operations automation solutions, today announces that Calastone, the world's largest global funds network, has implemented the Opsmatix SaaS platform to process increasing business and email volumes into Calastone's Operations Team."
-    publishedDateTime: 2021-02-16T10:54:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86182/calastone-implements-opsmatix-ai-to-improve-client-handling-and-efficiency"
+  - title: "Machine Learning and Artificial Intelligence: Revolutionizing the Physician/Patient Relationship"
+    excerpt: "Revolutionizing the Physician/Patient Relationship By Kali Durgampudi, VP of Innovation, Mobile Architecture, R&D, Healthcare Solutions, Nuance Communications - The abundance of Internet of Things (IoT) devices and connected technologies being introduced daily are pushing the limits"
+    publishedDateTime: 2021-02-19T02:48:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/machine-learning-and-artificial-intelligence-revolutionizing-the-physicianpatient-relationship-nid-23683-cid-175.html"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 35
+      name: CIOReview
+      domain: cioreview.com
+    quality: 43
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://www.cioreview.com/news_new/sliderimage/owtv8.300.jpg"
+        width: 300
+        height: 350
         isCached: true
 
 secured: "Eqjz18YlSbOK/r//3ewsdthpCQwBvGwE7+qXXmUiiMxC8ZZzU/ZE4koAXMcppvN8kEvucV8PVjKpT2M3pXoRs1o1yIdFApioPX6shwRTLCsSLFA9cEz6HxWz0PcYngLOc+AGIM/BAkN6431bJNclEh9yJgpoQgx+rR9/mr10J5ZJ4vyAEeMMJfJzNYPc+uFB+S3PvFHClIgKUWEzVMPGql/fKZuyHF7+hMu7TUhvFUM54Zq2nbDRtZWfc9A5H98iXbwtXIpBVOVx+fRBgVfMvyW94JhTYMXOBsccTSf29TxNj9faWsyaOnwEdNbxuX5oQmGv68LKfaq091TN71n0Hemg2POYSPfSNPTs5cW059I=;/IuOL/5ERT/oVCheoA64gg=="

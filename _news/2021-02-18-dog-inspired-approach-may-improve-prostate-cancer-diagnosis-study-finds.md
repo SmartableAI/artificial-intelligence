@@ -43,6 +43,15 @@ related:
         isCached: true
   - title: "Learning from prostate cancer-detecting dogs to improve diagnostic tests"
     excerpt: "New research demonstrates the ability of dogs to detect aggressive prostate cancer from urine samples and suggests that an artificial neural network could learn from this olfactory ability, with an eye toward replicating it in novel detection tools."
+    publishedDateTime: 2021-02-19T02:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210217151130.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 33
+  - title: "Learning from prostate cancer-detecting dogs to improve diagnostic tests"
+    excerpt: "New research demonstrates the ability of dogs to detect aggressive prostate cancer from urine samples and suggests that an artificial neural network could learn from this olfactory ability, with an eye toward replicating it in novel detection tools."
     publishedDateTime: 2021-02-17T19:03:00Z
     webUrl: "https://www.eurekalert.org/pub_releases/2021-02/p-lfp021021.php"
     type: article

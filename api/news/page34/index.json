@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-01-24-robotic-ankle-moves-more-like-the-real-thing.md",
+      "title": "Robotic ankle moves more like the real thing",
+      "excerpt": "The soft materials, combined with pneumatic artificial muscles (PAMs), lightweight sensors, and advanced control software, made it possible for the robotic device to achieve natural motions in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurity.org/bio-inspired-robotic-ankle-help-rehabilitation/",
+      "originalUrl": "https://www.futurity.org/bio-inspired-robotic-ankle-help-rehabilitation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2014/01/robotic_ankle_770.jpg",
+          "width": 770,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-24-talking-to-the-dead-microsofts-ai-chatbot-idea-feels-straight-out-of-black-mirror.md",
       "title": "Talking to the dead? Microsoft's AI chatbot idea feels straight out of Black Mirror",
       "excerpt": "The Rise of Skywalker probably didn’t have this in mind when its opening scroll proclaimed “The dead speak!” In a move that feels more Black Mirror than Star Wars, Microsoft is reportedly working on a",
@@ -1149,49 +1192,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-ban-on-facial-recognition-technology-by-minneapolis-police-advances.md",
-      "title": "Ban on facial recognition technology by Minneapolis police advances",
-      "excerpt": "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. A council committee advanced the measure Thursday which will go to the full council Feb.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
-      "originalUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wdio.com/wdioimages/repository/2021-01/minneapolis-police.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html",
-      "cdnAmpWebUrl": "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html",
-      "publishedDateTime": "2021-01-22T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDIO",
-        "domain": "wdio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

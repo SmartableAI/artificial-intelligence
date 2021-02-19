@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
-publishedDateTime: 2021-02-16T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
-webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
+excerpt: "MONTREAL, Feb. 16, 2021 /PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
+publishedDateTime: 2021-02-16T12:16:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19669829"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669829"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
@@ -36,6 +32,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "IBM exploring sale of its Watson Health unit"
+    excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
+    publishedDateTime: 2021-02-19T01:41:00Z
+    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://images.mktw.net/im-244594/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Humana, IBM Partner To Streamline Member Engagement With AI"
     excerpt: "Humana has announced a partnership with IBM Watson Health that seeks to improve member engagement through artificial intelligence. The solution will use an artificial intelligence-enabled virtual assistant to provide accurate benefits,"
     publishedDateTime: 2021-02-16T15:01:00Z
@@ -66,7 +76,16 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "IBM Explores Sale of IBM Watson Health — Update"
+    excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
+    publishedDateTime: 2021-02-18T19:36:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021021816650/ibm-explores-sale-of-ibm-watson-health-update"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
-secured: "4kp77HLygfBV2qQ3b4JlrSVb6gK2gfPgs9Q4skXXlUzOE6DJEwPEJk+J19TFpt6eCmZyJTj3Metck31Ajj+yZW0TnBDnQvQIqxdZaMDDRv21aT0nBq7GaT3fWN/2MvK6WdjT3t2bAQ+L+ts2YZPviEGo3/l/Q9gqe6So1jkq8fjQMiKCxdGmj1PkCQ16ia8mOM1Rm3O7DvxwQumcj4jJp2rKbajNrVgzI9dYsw4mK6fLOPa/HexiVg+ecznoO71XpSCJ1eyxLY2/+ObNoY/YBoBF7pJ0tixy4D2ffCjhBKh8z6D2MOSnUZTyg2bYShjy8CnZi2ET+G4dI902jrb8CeKy1G/WMDnYwW1RVtNY6OM=;HL3c/8eVpixnB92kU4Yklw=="
+secured: "4OnvDscvrVZ9OM1MYKBUNwkwVoq0+9WTvsTG8kHRQZfkV6Y9X6Vc8th3bmx+zEUIZAQjggn4p+v+mN6ybb47hLICbWghsBBNdLfo+ZIc1vIlzqzfwEySCBaAtbKKVgb6GeVEON5XjezLmTU7idFxswamiOt5TpngXVQhrL/q9fsKuhOdERXvtvPzWL7LVkaDNIYQTaMbDDISJ/MSngaf5QYaAKk4B0i0hXnnRv2Wkbp1lxosvExVTnv4yCR9AyYf5+ka2U/6O0DKy7//9I4o7Lp6sGpzCTOwjSiYsRD69WKa2lFFYSGdfcfn4+qY+OBVAGKrnmqBI37I8bQETf+YGNdmWF9i3tsKsS4c09USrMQ=;pjlp6n0Irit5PXyQB7iFvQ=="
 ---
 

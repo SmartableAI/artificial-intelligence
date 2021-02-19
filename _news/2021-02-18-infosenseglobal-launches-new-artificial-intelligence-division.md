@@ -3,11 +3,11 @@ category: news
 title: "Infosenseglobal Launches New Artificial Intelligence Division"
 excerpt: "Infosenseglobal is proud to announce its newest division, focusing exclusively on building innovative artificial intelligence solutions for businesses looking to accelerate digital transformation. With decades of experience in information technology,"
 publishedDateTime: 2021-02-18T14:27:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-79b807e3055dafe7489f7795739846f8"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-79b807e3055dafe7489f7795739846f8"
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "bdGtainiRyxXe2JYZ6SAY3+T20GyXxLNHEKQHTiVy01sriKk1C3LUOcFeOIUuFEX0IhUQJbVnax0n0R/zJqe+I2DyU4IFxr5BQF2/BoKLq+pXRIsMXEYhjolp1PGlEN9ega+h6T6RD3dZHeYUr7NBYCPX5hjJtw4QjB2TWWCt6xyKd+cKfQqdtOVr8IszNoZo4hvkM7gjOjniaigFrVDiJqdz+Fu1ilXkuDS3XCiRDys55DRA2Yyp9EpLlT6y+yI6ybpd2wfA8CgrIGKwCngaQenbcRwAsV7KX+BTsEKldxJVBp+1qzgnZELSi+EVQ5zgRYz9RS3KYCHuwHc37giR7apsJWYOHvRIWPqsAafK9Q=;VGWPJws3etBgWeS58OMX6Q=="
+secured: "TOtFfAclKwPxPLTs1+sVAYxj0XTsC32nja4kw75JctT1kSqnOaCXcFpAr7MzURoReLmFKeulP03DM6aRpBMID724jxGUIec/Ulp8a7nllltXglG24/SLf4S5cEHWDGyxR/UFA+Pc/sSI7h7FqQsep1k7WQEJd/g6sXhFKadfWr4bNbmbNv7cqJ/1DKlfjLQRa7BdS//PckeaakC2HGhUAqWccKn+mZbljwTWdycbJkpqW3Rr3PYDdeD6vE8oM79krgIfoEbfk5PmCRdT9Gs8ziwBG7dHyZ7GugrkV8smRfRs8OXhIssStUKPXHg0vKC5GGTrrkNSpXRp0sjG2f82Z9WVrT4CVUHVrKAwrqCWpI4=;GLrfFIgdlX37p3ejwofY/A=="
 ---
 

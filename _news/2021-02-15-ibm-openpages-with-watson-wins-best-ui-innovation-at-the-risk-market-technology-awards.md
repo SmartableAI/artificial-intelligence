@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/02/openpages-wins-best-ui-in
 webUrl: "https://www.ibm.com/blogs/watson/2021/02/openpages-wins-best-ui-innovation/"
 type: article
 quality: 108
-heat: 108
+heat: 128
 published: true
 
 provider:
@@ -26,6 +26,40 @@ images:
     width: 990
     height: 498
     isCached: true
+
+related:
+  - title: "IBM Explores Sale of IBM Watson Health"
+    excerpt: "IBM is studying alternatives for the unit that could include a sale to a private-equity firm or industry player or a merger with a blank-check company"
+    publishedDateTime: 2021-02-19T01:19:00Z
+    webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-301391/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "IBM explores sale of Watson Health"
+    excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter."
+    publishedDateTime: 2021-02-19T02:10:00Z
+    webUrl: "https://www.foxbusiness.com/healthcare/ibm-explores-sale-of-watson-health"
+    ampWebUrl: "https://www.foxbusiness.com/healthcare/ibm-explores-sale-of-watson-health.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/healthcare/ibm-explores-sale-of-watson-health.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202003/435/854081161001_6145981503001_6145981661001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "m4XvwENTsU/35n0RoZtVu1hCNZf3I5tvJcQt0Ov2BI/veaon0sDbIbMDhLsIjgS2g7gInaIfDPgXDqpgjClvgpsBRd2pOKaGh/Jo6rL+4cWTQX1R2vY/huE7tagE4CcFe0d/5gWei4q9XJyYRJkDPXQWW8mQg/fqNyimz6pwd/exvGS10h6TbZ4jvqzVGQLeiuWPwjX5jSbaAwa+RkCh3RykufBvoiOOABxUThheeHxr3QPAzDVF5RhBZZgkz6npvTt9C62sQ/2aUvTGzYeDJcK60cry/4BZ6GEJTMUnJ+3xRIZMfu5QA/iwodPWWi3atOV0yOxJd86hU+8QhbzKFVQ7xxxHqYr+D0G3qx6KtaA=;D8RtSPspvMgnElj7zxwZBw=="
 ---

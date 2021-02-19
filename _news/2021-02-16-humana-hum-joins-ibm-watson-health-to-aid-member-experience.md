@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-t
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
 type: article
 quality: 84
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM exploring sale of its Watson Health unit"
+    excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
+    publishedDateTime: 2021-02-19T01:41:00Z
+    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://images.mktw.net/im-244594/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Humana, IBM Partner To Streamline Member Engagement With AI"
     excerpt: "Humana has announced a partnership with IBM Watson Health that seeks to improve member engagement through artificial intelligence. The solution will use an artificial intelligence-enabled virtual assistant to provide accurate benefits,"
     publishedDateTime: 2021-02-16T15:01:00Z
@@ -52,19 +66,25 @@ related:
         height: 683
         isCached: true
   - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
-    publishedDateTime: 2021-02-16T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
+    excerpt: "MONTREAL, Feb. 16, 2021 /PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
+    publishedDateTime: 2021-02-16T12:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19669829"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669829"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 51
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+  - title: "IBM Explores Sale of IBM Watson Health — Update"
+    excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
+    publishedDateTime: 2021-02-18T19:36:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021021816650/ibm-explores-sale-of-ibm-watson-health-update"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
 secured: "V2k+XdQyO9GAhtgqXEG/ikP9FeVaJG3NL1KlYInaows/o8xFSypM7A1BHQ45LUrfbq6frzF1Qe4yQVaizU4fQoJWznxgN0A608+OPEaTCInAeQGnLKsL8ULdP7gSRksu3gy9LaVRCNmPGavST5EimzGIVu0ojX2iO+d4sbVrn4hKYxo/8taEbLr2g/Bce52ByQBiTMVhz7Pmh9cKh2SmYHKJVL2ubU2IgXgGaIgOy7TqaTB1OzDYB8fexgPyhGGJ8tkd59ftK7tKvH4OZHA8gqqS6A1dp6d5ITY2hLTrozZMsNpIcHzUamQfa2tvR9khsoaQ5O+6R6kvVU7rmuDPl9pVk/ap9QYx1KooMAI/L1M=;5DzlovyhFMns+HLJDtXSoA=="
 ---
