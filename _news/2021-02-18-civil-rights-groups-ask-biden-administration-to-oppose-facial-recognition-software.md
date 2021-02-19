@@ -3,8 +3,8 @@ category: news
 title: "Civil rights groups ask Biden administration to oppose facial recognition software"
 excerpt: "Civil rights groups are pushing the Biden administration to take a stand against facial recognition technology, saying the rapidly spreading software poses"
 publishedDateTime: 2021-02-18T00:55:00Z
-originalUrl: "https://www.nationthailand.com/noname/30402761"
-webUrl: "https://www.nationthailand.com/noname/30402761"
+originalUrl: "https://www.nationthailand.com/edandtech/30402761"
+webUrl: "https://www.nationthailand.com/edandtech/30402761"
 type: article
 quality: 35
 heat: -1
@@ -56,17 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
-    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-    publishedDateTime: 2021-02-18T23:34:00Z
-    webUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO2C6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO2C6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
   - title: "UAE adopts private sector facial recognition technology"
     excerpt: "UAE adopts private sector facial recognition technology Sheikh Mohammed Bin Rashid Al Maktoum will chair the cabinet meeting in Abu Dhabi"
     publishedDateTime: 2021-02-14T21:56:00Z
@@ -145,6 +134,15 @@ related:
         width: 1097
         height: 700
         isCached: true
+  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
+    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
+    publishedDateTime: 2021-02-18T18:34:00Z
+    webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 42
   - title: "Biden Must Halt Face Recognition Technology to Advance Racial Equity"
     excerpt: "Face recognition is a threat to not only our constitutional rights, but to people of color and other marginalized groups who are more likely to be misidentified — and bear the consequences"
     publishedDateTime: 2021-02-17T19:02:00Z
@@ -243,6 +241,6 @@ related:
         height: 726
         isCached: true
 
-secured: "P4oSOWEG++IYU8FdwyDfhms20oqt9v1exLgLakk6lUYMd5vs9Wd/9FXSpQz6xAjYUIpwxd0SDj3hN24PiFWttGJmXQwC36Wt3ainLabRFSEMEd4dh9Q2IpY7H/6clqdG2tyax23GbqEiAdgNn0DrT2LOdfErXxFYphdeQ2ZDR6yZwgq5r3OXt+8CdK4dJUtVp+aGYQ/yKF87N7PYRtH+jK2aHgUY5yuIZ508aPeMzfOAtdDXXr8nTNxH1OK13tmMLBG425/jTJKx5JQIPVWB1B1KxhkvTUqQ2G7XpgBq/H4mrX618CO9vCRBLbf6Ffs4CXZvHAGTGfonV4g/jfllvYJkLD7T9StxqQfWSX4OaTU=;fuNyFXCBthR2JtRciHrlPw=="
+secured: "Sp9gkkxb6S3nsZ41Rpj0yt5fDDjD+YUQu/odTIppfNodQ68ncccn6SJkzjExNt7zOA0Eg2eKHO1xwJkh/5A4Gq1o58L8RDC/uWKbvyTG3epkV3YmU3+FYsefFxwp+HND3K0/2tQ4Uu/Jo8XCVHDNMSGmROzHmveQz9fN2vS6E/7EucDCrDyN2peACuypsfWnHc5EMM/m+VMFwqdHQDnIJkzeESaHjoyyZ1sp1C8d/0T6B06br5xFl9+nulzKFNPHF3sVOy986R5r+SUgwzx+PYqZ6nK1wfO5PObVS7zaktKgszPh0sbix3CGWOEFAt29iOXjEJJVIrH7PdUpXssVqhIytBRTqZHHoFjqNGuunHs=;PQNDfv4WQOONPglgTRmgaA=="
 ---
 

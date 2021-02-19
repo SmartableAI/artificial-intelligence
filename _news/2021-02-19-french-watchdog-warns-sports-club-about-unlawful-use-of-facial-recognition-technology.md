@@ -2,23 +2,17 @@
 category: news
 title: "French watchdog warns sports club about unlawful use of facial recognition technology"
 excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-publishedDateTime: 2021-02-18T23:34:00Z
-originalUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
-webUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO2C6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+publishedDateTime: 2021-02-18T18:34:00Z
+originalUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Computer Vision
@@ -178,7 +172,7 @@ related:
   - title: "Civil rights groups ask Biden administration to oppose facial recognition software"
     excerpt: "Civil rights groups are pushing the Biden administration to take a stand against facial recognition technology, saying the rapidly spreading software poses"
     publishedDateTime: 2021-02-18T00:55:00Z
-    webUrl: "https://www.nationthailand.com/noname/30402761"
+    webUrl: "https://www.nationthailand.com/edandtech/30402761"
     type: article
     provider:
       name: nationthailand
@@ -245,6 +239,6 @@ related:
         height: 726
         isCached: true
 
-secured: "fjxQSNXBF8z/Hi+oCH0kKLHbSrHvHiCh9RqguuDTDy60DpnWCltQneLGHnKWbHKWhvRhUVnhsB/dhWwzSgQ0t5uWeYohMTGbgj+68BNlh4GDEAjlb+PeCRk0HUwb09Wqy/yHc4l/r5wuVbmxSC6w9OvHuni8OYnUQZqEiVrf1PsR8rlRqRidM72W9zj29ubBjaO9MlPZgoaJSngU7DcQhQVBNz1S/bCYHMFhOO+Br+jjaHxYUfiFyTtWwkUSzPDZiSD5W30k9Zn1wzlOvW6fotI53T2avcEVS7I0qEueqb8LHzsPwx1KziN2z0YSNUvUlemRZHZq4r8oyv8b4ILI2dttGrM18L9657xfV5yyfM0=;FMcezWwc1fWHeCzgx1h+3w=="
+secured: "wLuvIOdOAv0WLTU2G+k/mE1RIHmu12yeUEKkw4s4pIm+GugvxZT9YSPixU2nkI+PW6AX3T9dYv3R1dKuIbypaM15z14cJexntEsA6iOPEq28LD5v5yjTrK2ZGM7V3wfUnGKlmxL8RoO//tUbmtCjnkEmNi3Hrio2ON1H+24zWaNJ0thps5ggks3Bbq6gMJVYSXV6cTxEz8rQCmKzUUVW71w5yCieWp99tflvHSvsqd0jJ0eaHhwidEwglOGLmnBDUi2FE1+2zT/DEJcsbDyV2M13ucUJT+r19BTCEPEDrrQCzvP3HEIbYNJxnnGHtay7sM+pTt6pGoV08Go3YjIizPf9LSymwl4URUBolatxV84=;SJjvXOi5IoVcnFO/XkrU3g=="
 ---
 

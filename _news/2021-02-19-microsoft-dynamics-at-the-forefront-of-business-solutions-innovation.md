@@ -169,6 +169,20 @@ related:
         width: 1000
         height: 524
         isCached: true
+  - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
+    excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
+    publishedDateTime: 2021-02-19T07:23:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/simplicity-of-microsoft-azures-iot-solutions-makes-possible-rapid-scalable-solutions-nid-29134-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 46
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/9JDq6Py3.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
     publishedDateTime: 2021-02-16T12:58:00Z
@@ -198,6 +212,6 @@ related:
         height: 339
         isCached: true
 
-secured: "ubWSrgZKA22mmZWD0dHz63at+AJR+F6tq83CuTLKqEL5KOuYMfZb8wK5evK6JsIZQF6mi57xqcjjFLMih5OQS2fgYxOb8hmCRiTv4O7GfvUSHU+fmqDKL9v8yFt11AAZTXowFPmJDMRZjxsOpXdikhWo2lfuEl6+1xcqONeWc77Y7tqP8+CjqUCetz0dcedhkToiiW2TAzXiJL6HvLkgf3iOcdMUxW3GksTxfzR2swL3ztKBOyjOVDV2+gbjBn9wsOZe72LVwkaADWiZNFS8eFMv5NmutvjKj0Xf/21O/3fymvJYuXB0SGvDmO3l0cxbeuWXlaJqP+/L9Q/JS2QKBNtIsHK9WPv7SRIikRdRrBE=;kNDjX1Ls63E+CGZf+u9yzg=="
+secured: "628OGCSZ7/iCg5P79iuIx4ookxVMksTv5EeOnCGbN9C73Mg94ZBelGzR4TeKTJIQPAIOuSib0k/scfcZhaUy6t9FiIxQ86K7kGvBDOVU1uURGwOa+hOwcKRVtzuG2pSBgZgBGGbMgbCw6eY7AOn5ZIqhGqPo9+U26VrXXI631fG2mQE5X7SSLSppDf5e0ELYJ7HAYTqCUP6GrtC4eREXDSkGbPcr6O/q/LHSccEe3ry8asMJOlmI/aPrPjJRuezrr6ssoZPh9Dc4fBAmvsYENRAlFYYvWWbzy+VHHFeyzZgKw4rEN0IOOhXwjoCYlNGqJ/zTa70RnwiyBTgUBDIxs96+Pl3ri9cRna37NCGJjkyxc11bc6IpAMvVB+D65603VnkdrDu3vGytfbNIJwA6RrNFKFKT5gWuSEVnrJvu9RMVNrUVuFsOqm3Wz6XcfChpI/KmOIx8rR8y82nLeENol6eYnn4JS34QD4HwOg1fKEcgNfd0NuXS6ldN6ZpKJ1Z5e7uDQUXAnqAbrNqnRM5ctQ==;G8nVKHdVo18IoTUtxwZdZQ=="
 ---
 

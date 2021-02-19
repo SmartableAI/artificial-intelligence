@@ -2,6 +2,57 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-01-27-synthetic-biology-partners-with-ai-to-delete-food-allergies.md",
+      "title": "Synthetic Biology Partners With AI To Delete Food Allergies",
+      "excerpt": "Binur and fellow co-founder Yanay Ofran began Ukko in 2016 in an attempt to shift the paradigm on food allergies. Their mission seems to have struck a chord. The company recently announced a $40M Series B funding round to advance its efforts in ending food allergies for good.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/",
+      "originalUrl": "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010b4bd276bd88056ff9673%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/amp/",
+      "publishedDateTime": "2021-01-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-the-race-to-outsmart-the-competition-adobe-unveils-new-ai-tools-for-retailers.md",
       "title": "The Race To Outsmart The Competition: Adobe Unveils New AI Tools For Retailers",
       "excerpt": "Tech companies are vying to offer retailers ways to create smarter, seamless, and personalized online shopping experiences. Adobe unveils its new tools that use AI and data.",
@@ -1121,57 +1172,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-researchers-are-working-on-a-chess-playing-ai-that-emulates-human-level-skill.md",
-      "title": "Researchers are working on a chess-playing AI that emulates human-level skill",
-      "excerpt": "This is certainly a novel concept: again, most chess and board game-playing AIs seek to beat out the best of the best. Indeed, in some cases,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88424-researchers-working-chess-playing-ai-emulates-human-level.html",
-      "originalUrl": "https://www.techspot.com/news/88424-researchers-working-chess-playing-ai-emulates-human-level.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-26-image-29.jpg",
-          "width": 1680,
-          "height": 1102,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88424-researchers-working-chess-playing-ai-emulates-human-level.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88424-researchers-working-chess-playing-ai-emulates-human-level.html",
-      "publishedDateTime": "2021-01-26T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

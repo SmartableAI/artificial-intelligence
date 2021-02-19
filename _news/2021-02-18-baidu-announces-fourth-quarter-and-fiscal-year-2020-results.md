@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "loanDepot Announces Fourth Quarter and Full Year 2020 Financial Results"
+    excerpt: "Depot’s assets are unlike any other lender in the marketplace today: – Diversified strategy: Integrated at-scale refinance and purchase business ensures that loanDepot thrives in any mortgage market."
+    publishedDateTime: 2021-02-19T08:40:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-mlb-government-business-and-finance-901b6a617829ca0f84a6bd7e7b42ff9f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "emEHfEGm6kbhv/OUD3P+fR+SzQrNpHE4t+dWZRVo0D+P1MvdESAdDdVrZF4LR7XNpSgQHn2iKWT33MiO/hARlGzjOOG6gNOtD6ruDyckybJiIJaY+lNqczFxOYaUSAxQvFOrDv+uAMPZj3SvgY35As4jcToBaBpmNoSQ2q1+z3xZefIlLIiJpqOtBqGkxStRo/aG8ZwK1kh9lXYcoVUqJnr5zWZZFOXVVuu+l5AxVaVU0eh/knRH4lyTB28TNYvaqa/PeSdHpbgkopLB036TLDqjHmkIR/AgFE8Jw2u1sYwwLIvYpSQ9Dwd1H2Icdz+UGmv+vzDwxpCh1W8GkJVIb3hbGKTxzU319MW78pT+jmo=;Lv9JLE1WXdWxd05jIGznuw=="
 ---

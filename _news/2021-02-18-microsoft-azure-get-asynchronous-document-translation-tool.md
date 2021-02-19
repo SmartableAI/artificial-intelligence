@@ -9,7 +9,7 @@ ampWebUrl: "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-do
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp"
 type: article
 quality: 76
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -155,6 +155,20 @@ related:
       - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
         width: 1000
         height: 524
+        isCached: true
+  - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
+    excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
+    publishedDateTime: 2021-02-19T07:23:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/simplicity-of-microsoft-azures-iot-solutions-makes-possible-rapid-scalable-solutions-nid-29134-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 46
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/9JDq6Py3.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/marian-croak-responsible-ai/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-responsible-ai/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
       name: IT Business Edge
       domain: itbusinessedge.com
     quality: 39
+  - title: "Google announces new head for centre on responsible AI"
+    excerpt: "Google has hired a prominent Black executive Marian Croak to lead its new centre of expertise on responsible AI within Google Research. The appointment"
+    publishedDateTime: 2021-02-19T07:19:00Z
+    webUrl: "https://www.canindia.com/google-announces-new-head-for-centre-on-responsible-ai/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
 
 secured: "gdSccixya6mX4sZMgtelEDEIYwEffTBk/o3c0l8gZbFkKqJHxna2oKIRu3OAgtJ+RvKgQp8AFzhGVoLDwQUKQcLnIhNKK3gFYDLShiGpPcGrTzH4GTS9seLmj9z21Gt4+EwKRLjoehHd5atMriDgYmvd+CHuZE0KnT6x9FjwWiWsJPoPVqx8xtz81A1dGqTM+iGvrkY/tQurWqKytbzDmCwu/ATKea14yEf11TDyKEH7SfxZe07DedXrFeVv7K7s+PSgXgiE2prLWIhbwZ9uGqOg54ka4GTIxyx3C7mQ058B7ha93tUamPGWjmKrAUCEzbBjUn4ReIS8t60N29ClaQyNqeU3UE8nn9Xz7/8DMlg=;+Pv2xyllIxnAFa/ibLaNcA=="
 ---

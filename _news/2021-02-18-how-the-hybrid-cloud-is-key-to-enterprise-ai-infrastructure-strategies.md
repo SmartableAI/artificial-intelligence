@@ -74,6 +74,20 @@ related:
         width: 1022
         height: 575
         isCached: true
+  - title: "Three keys to AI success in the enterprise"
+    excerpt: "Three keys to AI success in the enterprise By Vikram Mahidhar, business leader of AI solutions, Genpact - Many CIOs have artificial intelligence (AI) on their radar. A recent survey by Genpact and Fortune Knowledge Group of"
+    publishedDateTime: 2021-02-19T08:32:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/three-keys-to-ai-success-in-the-enterprise-nid-25917-cid-117.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/paTSGe91.gif"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "ftiQ1fAUIGkJvdTJ9FKEJy0G3yBR/Q5go96SJAmmG8F1x+J999FS0C+olIkBPq+G6wUpYoykyBDcND4It3W5R6W4U0Qqw6gCS4KvZEPFSjVVvE0wGfwwoExJA41HmHvFu3E6lg8mcQ6FpIflU/lApC4tDLieiyVvbKaahpnYEm6zlLd/OePEwuors/p5AC3CblhJ7wH+nNoAq0mPNCr8CZYvv47jPg77HnD5bPRjc9qod3LlKHKaC1YP9dZ4RTY/vOe5yxgUacyhmR1iacjrCcsxYQY5GoUOCeCfaUB+sag6oAqGkflcyM0ZSmfarkln9NQfpE1n8tEDx4OVUneCBVMsWasq0zwpsnC/WnzKasZ9ceHGXUNSaPcjfooePVwcRQfyUvuRaKL+w4X154jIJwoRrwDTTtz7pyp3pkbnjXnJl5gMHrd72PRpw7WpfhPkaGyB07jm6RJRxPGibYJ/l7aswPCNFMaxnxxbJ6mgpmpAK0d0g+seW/Zz/B66+CnIGjLI3LkH1s5wEu3POYqkXQ==;UpU3KLZqPlCtUDcEtV4mgw=="
 ---

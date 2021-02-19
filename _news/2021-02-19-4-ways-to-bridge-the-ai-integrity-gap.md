@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/atom-in-hands-picture-id187059090.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Three keys to AI success in the enterprise"
+    excerpt: "Three keys to AI success in the enterprise By Vikram Mahidhar, business leader of AI solutions, Genpact - Many CIOs have artificial intelligence (AI) on their radar. A recent survey by Genpact and Fortune Knowledge Group of"
+    publishedDateTime: 2021-02-19T08:32:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/three-keys-to-ai-success-in-the-enterprise-nid-25917-cid-117.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/paTSGe91.gif"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "qJFLijxhWFBxDdQzog73pMls+f50IWjsWJ2+zhfrElJv79drnNjr0YuEtoML9IoNM+UwowKCoHaJYaUMrFZzXp33M7kOmPCwimU/4bhSxFOPveVJXRJhSSpXuDx7DzycDOkngliowixJnvpj1iFTZXFDPwqifnbjV3Dyl3TllBHJfr9IRSFQRc4ZntP2JRLTRSOSxF1M7uBjj1f1P5N24clNcMQmSNhd2BcSY+RNJ7r//ybyUmB8dEsLHMCV0b5bttnAddxo9R1dU8AsQtjrXSSrMYoZgSkkmKxUJjcdudbVCZ/MfDTQDCRR+6FnEivR9esdDuGX6ZOQlRD3cN+W5WYP0e7ctc+I1GG0tdgYEZpyaS1FnKoKHVQCVYSqcdRZtFdojBBB9+/pFq3Mfs3/gBbuIN2w7sKX2blFHayV9gETAaoWJclO94C2NVpDEB5cAvSI8zu9ATIuJ6YbviOZ9DDwiP3yVxYLhguIqOLGoXVuhKHTFI+7//WSSU3TRF2UOe1dKe2ClRJgxGLF2fy8sg==;U7VzPoT5c6u2ska5lrLxaA=="

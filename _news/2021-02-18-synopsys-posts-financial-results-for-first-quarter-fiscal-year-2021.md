@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-posts-financia
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -34,6 +34,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "loanDepot Announces Fourth Quarter and Full Year 2020 Financial Results"
+    excerpt: "Depot’s assets are unlike any other lender in the marketplace today: – Diversified strategy: Integrated at-scale refinance and purchase business ensures that loanDepot thrives in any mortgage market."
+    publishedDateTime: 2021-02-19T08:40:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-mlb-government-business-and-finance-901b6a617829ca0f84a6bd7e7b42ff9f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

@@ -169,6 +169,20 @@ related:
         width: 1000
         height: 524
         isCached: true
+  - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
+    excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
+    publishedDateTime: 2021-02-19T07:23:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/simplicity-of-microsoft-azures-iot-solutions-makes-possible-rapid-scalable-solutions-nid-29134-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 46
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/9JDq6Py3.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation"
     excerpt: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation By Manpreet Kalsi, VP, AKA Enterprise Solutions, Inc. - In Step with the Latest Trends Microsoft Dynamics provides business solutions for all aspects of"
     publishedDateTime: 2021-02-19T06:35:00Z

@@ -67,11 +67,11 @@ related:
         height: 278
         isCached: true
   - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "MONTREAL, Feb. 16, 2021 /CNW Telbec/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
+    excerpt: "MONTREAL, Feb. 16, 2021 /PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
     publishedDateTime: 2021-02-16T12:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669843/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19669843"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669843"
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19669829"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669829"
     type: article
     provider:
       name: Benzinga.com

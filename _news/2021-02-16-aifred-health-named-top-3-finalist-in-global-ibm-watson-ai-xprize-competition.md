@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-excerpt: "MONTREAL, Feb. 16, 2021 /CNW Telbec/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
+excerpt: "MONTREAL, Feb. 16, 2021 /PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
 publishedDateTime: 2021-02-16T12:16:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19669843/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669843/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19669843"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669843"
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19669829"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669829"
 type: article
 quality: 51
 heat: -1
@@ -86,6 +86,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "fQEtWe7Spxm7GVJCXPkyFJs0GlhXeHi4zExoQSBILj1YYxC81CifSuVxqhqlI++lH8oshGC9E9dU3tRNku4TRy62HEoTtUiVoxJJTFiFmpwx5C7ScWIuWtXHXeFza0ra+YzipcdFS+c7z9qjEh5KtGCIHmpd2zHFycdxGDgqx9udwjxAsC4zMbgFPsu6PxQpOUmhoViya8SChohTuAyalltwBzHEpVxyFts1ZfV+daJpFNsCeToWGeg8CnmhXqFyqaMLPa0CTbeko5S8X7hs3hWK1ud0TuKKb883SEaI8txF683KYZiJY9HHOcA6OVChDqrcGMOfouYTmNEjBqKpklPEbiK0909CoTI5Y+ytARI=;bY+6RjbbakNrWcTt/Mm31Q=="
+secured: "ihutuWhYMAuGLDPg+bD6jtL/ovtUHWdUStm0NYuGke5SEztiTRqriZUoYWM0zvAfLkWGcClWIQUY1hSwEDGmAPCZv+7ZBDN9zVlyO0ACaZE5lGkyq7XCZnQugTVrL3PXa+1s3UDhiZJqq2kx3KdIsl3yUl/w1nQ4/xlPZ3eymW6tUyDk6Sgr02Lpoqn/fg+76XVZdEx+gfe2rX4AtkMCqMcVXshweVTtQx+AFftZGm3rNDNPGewzC4db4xyb3tu1Pmagu+hta5Thx655Pj/1GjKYjzdbMHl+dMrlVJE15z77xn8QnEq/+yKVSIjp+8TqG2owfoK5WT5U4+AuYv5m0jvUFU38nYe7A+aDs4hQzbM=;ZU7QJCuDmGp8aOxQtQ3h6g=="
 ---
 

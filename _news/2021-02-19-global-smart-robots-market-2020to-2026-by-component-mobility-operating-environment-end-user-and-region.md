@@ -67,6 +67,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
+    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
+    publishedDateTime: 2021-02-19T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market Trend and Forecast, 2020-2024 | By Kenneth Research"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
+    publishedDateTime: 2021-02-19T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2020-2024-by-kenneth-research-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
     excerpt: "Selbyville, Delaware According to a recent study titled 'Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Analysis, 2020', available with global artificial intelligence (AI) enabled drug discovery and clinical trials market is slated to grow considerably over 2020-2025,"
     publishedDateTime: 2021-02-15T08:01:00Z

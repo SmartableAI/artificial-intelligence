@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/02/openpages-wins-best-ui-in
 webUrl: "https://www.ibm.com/blogs/watson/2021/02/openpages-wins-best-ui-innovation/"
 type: article
 quality: 108
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202003/435/854081161001_6145981503001_6145981661001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "IBM is investigating the sale of Watson Health"
+    excerpt: "IBM is investigating the sale of Watson Health Cameron Clayton, CEO of IBM's The Weather Company, on The Weather Channel's online tools"
+    publishedDateTime: 2021-02-19T07:31:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/ibm-is-investigating-the-sale-of-watson-health/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/ibm-is-investigating-the-sale-of-watson-health/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/ibm-is-investigating-the-sale-of-watson-health/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-is-investigating-the-sale-of-Watson-Health.jpg"
+        width: 2560
+        height: 1712
         isCached: true
 
 secured: "m4XvwENTsU/35n0RoZtVu1hCNZf3I5tvJcQt0Ov2BI/veaon0sDbIbMDhLsIjgS2g7gInaIfDPgXDqpgjClvgpsBRd2pOKaGh/Jo6rL+4cWTQX1R2vY/huE7tagE4CcFe0d/5gWei4q9XJyYRJkDPXQWW8mQg/fqNyimz6pwd/exvGS10h6TbZ4jvqzVGQLeiuWPwjX5jSbaAwa+RkCh3RykufBvoiOOABxUThheeHxr3QPAzDVF5RhBZZgkz6npvTt9C62sQ/2aUvTGzYeDJcK60cry/4BZ6GEJTMUnJ+3xRIZMfu5QA/iwodPWWi3atOV0yOxJd86hU+8QhbzKFVQ7xxxHqYr+D0G3qx6KtaA=;D8RtSPspvMgnElj7zxwZBw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-mar
 webUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Voice and Speech Recognition Market Overview, Size, Industry Share, Growth, Trends and Forecast"
+    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global voice and speech recognition market experienced robust growth during 2014-2019."
+    publishedDateTime: 2021-02-19T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Size to Witness Huge Growth by 2026"
     excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Voice Recognition market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
     publishedDateTime: 2021-02-15T08:00:00Z

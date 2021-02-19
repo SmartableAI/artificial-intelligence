@@ -37,7 +37,7 @@ related:
     provider:
       name: Penn Live
       domain: pennlive.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MSIRECICK5BNBJ5ZXERRNT6EYY.jpg"
         width: 754

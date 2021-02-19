@@ -62,6 +62,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
+    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
+    publishedDateTime: 2021-02-19T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market Trend and Forecast, 2020-2024 | By Kenneth Research"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
+    publishedDateTime: 2021-02-19T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2020-2024-by-kenneth-research-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Smart Robots Market (2020to 2026) - by Component, Mobility, Operating Environment, End-user and Region"
     excerpt: "The global smart robots market size is expected to reach $25 billion by 2026, rising at a market growth of 27.2% CAGR during the forecast period. Smart robots are considered as artificial intelligence system that provides optimum management of an environment with the combined work of human operators and robots."
     publishedDateTime: 2021-02-18T19:39:00Z

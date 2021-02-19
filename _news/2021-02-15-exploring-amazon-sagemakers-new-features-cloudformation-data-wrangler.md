@@ -61,28 +61,6 @@ related:
         width: 1200
         height: 635
         isCached: true
-  - title: "Exploring AWS SageMaker’s new features — Formation Stacks, Data Wrangler"
-    excerpt: "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December.Read"
-    publishedDateTime: 2021-02-14T16:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/exploring-aws-sagemakers-new-features-—-formation-stacks--data-wrangler-9810689"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/exploring-aws-sagemakers-new-features-â€”-formation-stacks--data-wrangler-9810689"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exploring-aws-sagemakers-new-features-â€”-formation-stacks--data-wrangler-9810689"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-  - title: "Exploring AWS SageMaker’s new features — Clarify, Pipelines, Feature Store"
-    excerpt: "Are you considering AWS SageMaker for your machine learning hub? Here's a hands-on look at some key, newly delivered, capabilities.Read MoreRead"
-    publishedDateTime: 2021-02-14T16:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/exploring-aws-sagemakers-new-features-—-clarify--pipelines--feature-store-9810695"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/exploring-aws-sagemakers-new-features-â€”-clarify--pipelines--feature-store-9810695"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exploring-aws-sagemakers-new-features-â€”-clarify--pipelines--feature-store-9810695"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
   - title: "Solving numerical optimization problems like scheduling, routing, and allocation with Amazon SageMaker Processing"
     excerpt: "In this post, we discuss solving numerical optimization problems using the very flexible Amazon SageMaker Processing API. Optimization is the process of finding the minimum (or maximum) of a function that depends on some inputs, called design variables. This pattern is relevant to solving business-critical"
     publishedDateTime: 2021-02-17T21:04:21Z

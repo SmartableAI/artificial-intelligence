@@ -74,6 +74,15 @@ related:
       name: IT Business Edge
       domain: itbusinessedge.com
     quality: 39
+  - title: "Google announces new head for centre on responsible AI"
+    excerpt: "Google has hired a prominent Black executive Marian Croak to lead its new centre of expertise on responsible AI within Google Research. The appointment"
+    publishedDateTime: 2021-02-19T07:19:00Z
+    webUrl: "https://www.canindia.com/google-announces-new-head-for-centre-on-responsible-ai/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
 
 secured: "U/MsRA5Lm1ThACptejKuop2li9Ldum7ncrWwGP/R6uc+8ValhvFS22pXaR93EVSVFGSJG/E3Ai6nZFrIcbMqZaOe51op2Y28aXVl/ury1V0a/ySl+nsZlAs60jsGmX11M2ea51OQA961wPPxPcV1Esaca1mKIMuqhtl16Q8alO6RdPQZ2IxjlMedsLZRCI+o3hPtitNRqDCT4bYg+cBNXnGm1txwI7gmK33LIT/jcctwfTckIQ/4GI4W8aLizNT+WPI92fGKXTEhDYLjTtgxZtNC+7/UJbN7mFwgJXFTFBeTeHTfFJCqbnQTWQ10QGjObYMt9Yff8bbwnxq5KqdBFWC68jKJm0XJwLua13efZTTT2ikxJ0qBpPIO0Z9mxA+AaoQnxV6vzaoBrnAWwDX/b2+L9bfXPxOivq4ZdfKFajBv6lBKNHHYnFB6NdG4Hq5oMRuNfLcdhLjyiycJbd0/OzwsR+yCD4d4AO8j8jQicL/65OA4DzAuC47Wbn8mJ1KQCSyCTCRg+SDT4+hCHccTWw==;G6oxELtc/QbjvbsQaOstaw=="
 ---
