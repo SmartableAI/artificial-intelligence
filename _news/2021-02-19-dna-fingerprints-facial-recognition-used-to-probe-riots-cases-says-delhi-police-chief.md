@@ -1,0 +1,47 @@
+---
+category: news
+title: "DNA fingerprints, facial recognition used to probe riots cases, says Delhi Police chief"
+excerpt: "Commissioner S N Shrivastava said 231 accused were arrested on the basis of CCTV footage, 137 identified through Facial Recognition System & 94 through driving license photographs."
+publishedDateTime: 2021-02-19T13:54:00Z
+originalUrl: "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/"
+webUrl: "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/"
+ampWebUrl: "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp"
+type: article
+quality: 51
+heat: 61
+published: false
+
+provider:
+  name: ThePrint
+  domain: theprint.in
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://static.theprint.in/wp-content/uploads/2020/03/cars.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Minneapolis poised to ban facial recognition for police use"
+    excerpt: "Minneapolis cast a ballot to boycott the utilization of facial acknowledgment programming for its police officers on Friday according to reports."
+    publishedDateTime: 2021-02-16T03:47:00Z
+    webUrl: "https://techstory.in/minneapolis-poised-to-ban-facial-recognition-for-police-use/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/02/4645.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+
+secured: "s/zsYmUbO/TeRlYJ1iWUNDIBpfA8ulo60K0Ae0odX6RUY5jUtNBiuEe6AQSrO8xeIdcyQDSbqjk7HjRzk1uu0p9ItUWaNKhA2Eb3uRFr0eyyyL8bTG/hC8n0gBgK+b2zZm7XNJ3+1QWnlzdE09VX46NemsVjIiu5i7jYMbLr2ga8nzWEedd5jqef9ZTVRvYbGLO6UQ8rAGCJmRbA20MCBzcTZ4ZPsUoDMwGGXiwZeQdvKb/ztAT7XO6xWHK81VlSO8rWi787NdHlaOcftWXTVM24RzSP+NSS16DpXQgxEoJzohEV25fgRSaw3oAHdiFUaTY5A0dHgtzc7pWcqYcfhel12PoCDctrMHen/NZ660k=;dOtsumj3314Hol1M2VuODg=="
+---
+

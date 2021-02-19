@@ -41,20 +41,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "In China, AI and cloud boost Baidu revenues by 52%"
-    excerpt: "China's search giant Baidu beat revenue estimates after its AI and cloud efforts started paying off. Its non-advertising revenues, from areas such as AI and cloud, rocketed 52%. Sales overall rose by a respectable 4."
-    publishedDateTime: 2021-02-18T17:23:00Z
-    webUrl: "https://www.lightreading.com/aiautomation/in-china-ai-and-cloud-boost-baidu-revenues-by-52/d/d-id/767495"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 41
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "emEHfEGm6kbhv/OUD3P+fR+SzQrNpHE4t+dWZRVo0D+P1MvdESAdDdVrZF4LR7XNpSgQHn2iKWT33MiO/hARlGzjOOG6gNOtD6ruDyckybJiIJaY+lNqczFxOYaUSAxQvFOrDv+uAMPZj3SvgY35As4jcToBaBpmNoSQ2q1+z3xZefIlLIiJpqOtBqGkxStRo/aG8ZwK1kh9lXYcoVUqJnr5zWZZFOXVVuu+l5AxVaVU0eh/knRH4lyTB28TNYvaqa/PeSdHpbgkopLB036TLDqjHmkIR/AgFE8Jw2u1sYwwLIvYpSQ9Dwd1H2Icdz+UGmv+vzDwxpCh1W8GkJVIb3hbGKTxzU319MW78pT+jmo=;Lv9JLE1WXdWxd05jIGznuw=="
 ---

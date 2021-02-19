@@ -94,18 +94,18 @@ related:
         height: 675
         isCached: true
   - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
-    publishedDateTime: 2021-02-16T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
+    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
+    publishedDateTime: 2021-02-16T12:35:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 51
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "IBM reportedly looking to sell or spin off its Watson Health business"
     excerpt: "IBM, which already is planning to split into two companies, is considering the sale of its high-profile Watson Health unit to further streamline the company, according to a report in The Wall Street J"

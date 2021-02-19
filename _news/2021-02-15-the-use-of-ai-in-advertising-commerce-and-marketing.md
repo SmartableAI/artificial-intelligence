@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -132,6 +132,20 @@ related:
       - url: "https://www.thesundaily.my/binrepository/480x268/0c14/480d250/none/11808/QJLI/p12-afp_2118790_20210214191704.jpg"
         width: 480
         height: 250
+        isCached: true
+  - title: "Overcoming 7 AI Challenges in 2021"
+    excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
+    publishedDateTime: 2021-02-19T13:57:00Z
+    webUrl: "https://dataconomy.com/2021/02/overcoming-7-ai-challenges-2021/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
+        width: 1920
+        height: 1118
         isCached: true
   - title: "Investing in AI with a conscience"
     excerpt: "Local start-up BasisAI is preparing to go regional with \"responsible\" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA).. Read more at straitstimes."

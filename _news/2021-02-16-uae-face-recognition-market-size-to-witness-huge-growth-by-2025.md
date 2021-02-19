@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-mar
 webUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -101,6 +101,17 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Global Facial Recognition Market 2021-2027 Trends, Research Report, Growth Trends, Opportunities, Forecast to 2027"
+    excerpt: "The Global Facial Recognition Market size is expected to grow at an annual average of 16 3 during 2021 2027 Face recognition has recently attracted attention because it has advantages over conventional surveillance technologies such as biometrics Governments around the"
+    publishedDateTime: 2021-02-19T13:02:00Z
+    webUrl: "https://www.openpr.com/news/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    ampWebUrl: "https://www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "6/nqpW3XiZmULhKwGH39KnB+wJjE7Qsy+3amfOsWcyj9YHoRdvYwQwnNk7umqIPt4tpT71x5WqPq3fY/OmF7S4yJVYFpfDhwcW4R8A5AWQaNN/8zOUTpYPQJ1IYXczSohUXuPJSk0K/CtUWR5kyCiqa5/WK2J7sHraJENSz+dXVVjg/cvDJxPaTRzAhv1PAa4bt7cBGZjBwIQa87xOr2A6itQp3HASdCLhN1Bge9IUL6Wckl7H9R9Ogi1VBponmXqqoqup/9fCE9HpXfp79q6TVLRKNX0rjGAnQpQgMsY6WWU3kDcPjEJqdoeI7TFYysGt8Evsq6Own+CpSr+XZ24d06pDgllqsmL3VmuRNuBko=;+6bOx72vvVYkB+Di/Lrpzg=="
 ---

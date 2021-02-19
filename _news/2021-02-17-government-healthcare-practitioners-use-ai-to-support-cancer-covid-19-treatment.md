@@ -57,6 +57,22 @@ related:
         width: 754
         height: 487
         isCached: true
+  - title: "Would you trust a robot to manage your money? New research shows many Americans would"
+    excerpt: "Nearly half of consumers in the US would prefer to use a robot, powered by A.I. to manage their money, rather than do it themselves, according to new research commissioned by Oracle. Joining us to"
+    publishedDateTime: 2021-02-19T14:14:00Z
+    webUrl: "https://www.wate.com/living-east-tennessee/would-you-trust-a-robot-to-manage-your-money-many-americans-say-they-would/"
+    ampWebUrl: "https://www.wate.com/living-east-tennessee/would-you-trust-a-robot-to-manage-your-money-many-americans-say-they-would/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/living-east-tennessee/would-you-trust-a-robot-to-manage-your-money-many-americans-say-they-would/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 52
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2021/02/LETN_TECH-TUESDAY-Robot-money-management_021621.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "COVID-19 has made Americans lonelier than ever – here’s how artificial intelligence can help"
     excerpt: "How does that make you feel?” In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing back to you?"
     publishedDateTime: 2021-02-18T12:49:00Z

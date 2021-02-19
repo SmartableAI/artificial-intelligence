@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UAE adopts private sector facial recognition technology"
-    excerpt: "UAE adopts private sector facial recognition technology Sheikh Mohammed Bin Rashid Al Maktoum will chair the cabinet meeting in Abu Dhabi"
-    publishedDateTime: 2021-02-14T21:56:00Z
-    webUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/UAE-adopts-private-sector-facial-recognition-technology.jpeg"
-        width: 750
-        height: 450
-        isCached: true
   - title: "Civil rights groups want Biden to halt government use of facial recognition"
     excerpt: "President Biden is facing pressure from civil rights and tech advocacy groups to halt the use of facial recognition by the government."
     publishedDateTime: 2021-02-18T16:13:00Z

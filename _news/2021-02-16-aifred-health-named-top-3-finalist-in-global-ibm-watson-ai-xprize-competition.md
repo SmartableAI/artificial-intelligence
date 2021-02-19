@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
-publishedDateTime: 2021-02-16T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
-webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
+excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
+publishedDateTime: 2021-02-16T12:35:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -131,6 +131,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "LTjCKUWI+fQLD55DAISF/fTdYf6Bqeyl3U/Ul21MA4xbkuyypWaNPmNOxYcN/08iudVv6hfnxMe29yQO5ZgGVXqaqolrwfchrYM4NGBuP60GNg2yOCkmqo/+/YafZJjNVdGhm0SHzPe7OEyO62/gGUATFWcNtA8TL+1MevbLsF8Y7quw4vI9rfEujSP/SJCoib5C4glFzp4VPWl9KigY86WAdPw6tWNL45WrUcQU0YSfKUw/k50KK9OG8Ynl2FKbrX6VZ2O+gyYR7wvntz+nwuXaK4iBTbHyXeGVqU9VqI9tzdk0O8QFgZy+uAZ4lr1UU6zBYDZFVMW2p+elK9E1RC+UP744NpibEkRJkl2bxKo=;dBmVAdJge3UiTh0h1bZ7+Q=="
+secured: "AL/pVMTZWu3CLj9YePb39W7dYB4uaX4JX0AhhHJgv28jvoySUi2ZWe6QQDsMLeDQnPnk2TcMpoSz7bPMz0a8ZthGS/Sc86hhwzcdKtSJOxL2vJHHXYBNSosmg4aYSrBEpuOLU0BHbCQF/sWxBeK4brMcK7+/WlmExnzBJnbG2gbKAgOjteLJfN7ZT69FEl2NdGulK7ywWcEC28otQtqGgo0hWJ/Hduus03V7qSh1pMry3PV1PSsCyRJd8gPxo1tF3a5reRGP3Yhrrl/OjBCwyyBqvUKDaIwPnz8yVtWA/HIRtP6lBzYOmQUb1HK/spVTsPWwpnJCYwOQ502ykIXcdRVYutZNv1a1OWodnrEheNI=;ravFIeHdqcalFVm+Gk5XMA=="
 ---
 

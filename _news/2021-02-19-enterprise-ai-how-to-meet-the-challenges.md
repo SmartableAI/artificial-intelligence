@@ -33,7 +33,7 @@ related:
     provider:
       name: CIOReview
       domain: cioreview.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.cioreview.com/ck_images/6g0PH3cy.jpeg"
         width: 300

@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Unicorns, AI and the quest for new vaccines"
-    excerpt: "Let us for a moment take a break from the dull news endlessly telling us about ravages caused by the coronavirus pandemic. The good news is that one can reflect for a moment and contemplate the"
-    publishedDateTime: 2021-02-16T08:44:00Z
-    webUrl: "https://www.independent.com.mt/articles/2021-02-16/business-news/Unicorns-AI-and-the-quest-for-new-vaccines-6736231054"
+  - title: "Reshaping AI can aid business recovery and growth, says KPMG."
+    excerpt: "In fact, consumers throughout Asia have been embracing the use of AI and are realizing the benefits it brings to their lives. A recent joint study by Google Hong Kong and KPMG, the 'Smarter Digital City - AI for Everyone',"
+    publishedDateTime: 2021-02-16T09:40:00Z
+    webUrl: "https://www.newswit.com/en/L2KV"
     type: article
     provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 39
+      name: academy
+      domain: newswit.com
+    quality: 37
     images:
-      - url: "https://www.independent.com.mt/file.aspx?f=213014"
-        width: 709
-        height: 398
+      - url: "https://www.newswit.com/img/f/20210216/dfe497b2de46040403ca82a451cc348c-0.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "rDcECCnY5PYLR27JzwlLi1UU2a9cG8LISFJRMharIPEy+baAPkMdY9Y67RjdsrJTgr+Tm3caDvHVFQo99csRQMYUeyyUaV6q40hm4Eo/NDOO/hdMZCKcP3drm2rE0ggVB3wkNpPPY3I5orPbE6DIaIQgA3yHSpx//8/KjEs7mfv6B+PLMQpXXAL5wvdK2Zol9ht2xU2K8A6Z+7St2I7Gz3muCNhk/4EogCipu8XU9qI6486lHc7nXlwzD02Nbnx5jg/jDMBfA7eeMDXNfrA2T8jOD1bL6ionNfT07SdMJE3n5V0ABGPMM3BBE9BknsBldr4hrtjqovE3lLUv/IlmEQd4BE4koELBRKc/fboL2NE=;Si/tnns58H1/A4iq2LPGhQ=="

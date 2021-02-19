@@ -101,6 +101,17 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Global Facial Recognition Market 2021-2027 Trends, Research Report, Growth Trends, Opportunities, Forecast to 2027"
+    excerpt: "The Global Facial Recognition Market size is expected to grow at an annual average of 16 3 during 2021 2027 Face recognition has recently attracted attention because it has advantages over conventional surveillance technologies such as biometrics Governments around the"
+    publishedDateTime: 2021-02-19T13:02:00Z
+    webUrl: "https://www.openpr.com/news/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    ampWebUrl: "https://www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "ydJ6qwIRcIIDI85NtJq3NCoyWccJfpjbZAYV6nrCLevwa4XJjKcRtWOBsvTP4/UKl2XAJzdto0SvobaEe1IBni2EI8a8zzuaZJusgdEzlB2XblhezPPd58cuDrphQHakh6KHL0LhD8GdSGMiu6HMW0tL4m0zc0jOFlDFjHP1LndtiVdfUFpryWIVKNTcVgqhwITDL1QnSifYs6SA311wW4FsL8VcBOt6Yp6vdQO3VLAboIJHWp+BAxajWbqIUfDmtT3tAiWdPDSpzTH+leh337l2IuqU8O0+i+NtAJnwmThuHemhuZ9edMMGk+PTmxAXvlA7Yf9AIi8q86VzIE3MJemIbm1LechneIuxUoZlRug=;bbPC/geZHwvoKlqz2W94Fw=="
 ---

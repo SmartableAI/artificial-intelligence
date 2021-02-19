@@ -108,18 +108,18 @@ related:
         height: 683
         isCached: true
   - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
-    publishedDateTime: 2021-02-16T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
+    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
+    publishedDateTime: 2021-02-16T12:35:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 51
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
@@ -131,6 +131,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "sxMzrbZJs2x1Jxt5yz3N5wGWuv74Pm0oCaaK9XeZOMNl8yLVsduCZekAoPdk9YmYO4Xdax6PQfQTcN7rzuKIGAi62OPcpsC4ZZykGmUqphKoV0n6n/1NJ5RVYL8Mu3s4PlaB9rZdovLxPdClphs8aQY+kjHeczhRHk+3zJKm3514yPSH8aovsdqHlwfXrzAbIT8hr85fFR+wvFbh5nFJbiQFVt+9t4tTtC8A014ZihBAXjuMVpbtrUV7VjHzdMxifXvC/wME3JIy4Ku8RiSDhk1fNuIhVzfmJiIzxjYzFvo04NLXSabI2SE1UbckLmOfJk7bZzFbZF9Z3akzGiqIV+yHSpZvX8kLuq6Gm5OLClw=;Vp+ZLqzF2UK+P/EY2inpRA=="
+secured: "g2B90pPabtdO4dNAAa1IXUV7+hkwdfKXYoFRqn072JB/1gRlmIQinfxRQATEHKuqln1ao2qKpcA430wgAHhhayFIhfO0TtBVTbut5QP3qf+bho12IWj5uNra5RbbN4pNYo2O6ev4NmiNk1mPOQ5kAF/so1ez0j3A5swosUg2Jnz6ObAeq/PsM7vd1wdPAF0/8VU45oqQV1IRLqEweABOZLYPoft21FQ4ptXmAV2fV5qRxTvJYB4kji/raB2yzpHhOkl//vdGgVJqBTJK/GUx5N0K/9Qm3KbPYqvM/9TMUWyinhcJSFexqtvguZ0rHscPOAivfLKhua+28/M5q7Dybx0N7mX17BPUAOkmqvTXcVMSRyMW2k1KSjmowCRhEe1E4GZfyfacdp5OQvB/Y/sE15dVAxos85ad4umfrWjOieOcCdyy5J9Yb3kol2kM4ZDyUZMfj0Q8yVZfOB2gdXf+lQjzXkOJfz4ped5IK93aVXBQgdVVV4AZx+VKs+1kUhcqDg7eNtV65Sv4aDOvpYSofw==;ZZHG4wyVpW5iWU9NrFW7Zw=="
 ---
 

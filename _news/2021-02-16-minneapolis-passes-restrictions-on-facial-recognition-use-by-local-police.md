@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202102/minneapolis-passes-restrict
 webUrl: "https://www.biometricupdate.com/202102/minneapolis-passes-restrictions-on-facial-recognition-use-by-local-police"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Minneapolis poised to ban facial recognition for police use"
-    excerpt: "Minneapolis cast a ballot to boycott the utilization of facial acknowledgment programming for its police officers on Friday according to reports."
-    publishedDateTime: 2021-02-16T03:47:00Z
-    webUrl: "https://techstory.in/minneapolis-poised-to-ban-facial-recognition-for-police-use/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/02/4645.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Swedish police fined for unlawful use of facial-recognition app"
     excerpt: "Sweden’s data watchdog has found that Swedish police failed to conduct the data protection checks required by law before using controversial facial-recognition tool"
     publishedDateTime: 2021-02-18T16:41:00Z

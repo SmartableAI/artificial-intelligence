@@ -52,7 +52,7 @@ related:
     provider:
       name: WRAL TechWire
       domain: wraltechwire.com
-    quality: 27
+    quality: 31
     images:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
         width: 577

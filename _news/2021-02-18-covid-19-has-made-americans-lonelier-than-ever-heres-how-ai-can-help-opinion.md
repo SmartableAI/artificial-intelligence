@@ -44,6 +44,22 @@ related:
         width: 754
         height: 504
         isCached: true
+  - title: "Would you trust a robot to manage your money? New research shows many Americans would"
+    excerpt: "Nearly half of consumers in the US would prefer to use a robot, powered by A.I. to manage their money, rather than do it themselves, according to new research commissioned by Oracle. Joining us to"
+    publishedDateTime: 2021-02-19T14:14:00Z
+    webUrl: "https://www.wate.com/living-east-tennessee/would-you-trust-a-robot-to-manage-your-money-many-americans-say-they-would/"
+    ampWebUrl: "https://www.wate.com/living-east-tennessee/would-you-trust-a-robot-to-manage-your-money-many-americans-say-they-would/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/living-east-tennessee/would-you-trust-a-robot-to-manage-your-money-many-americans-say-they-would/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 52
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2021/02/LETN_TECH-TUESDAY-Robot-money-management_021621.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Government Healthcare Practitioners Use AI to Support Cancer, COVID-19 Treatment"
     excerpt: "Haley Veterans’ Hospital, said artificial intelligence can support, but not replace, healthcare providers. He has been working on AI platforms designed to help healthcare practitioners detect lung, colon and colon cancer symptoms,"
     publishedDateTime: 2021-02-16T21:45:00Z

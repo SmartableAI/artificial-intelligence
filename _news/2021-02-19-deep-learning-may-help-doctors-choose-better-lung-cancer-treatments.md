@@ -57,6 +57,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Deep Learning Can Help Guide Lung Cancer Treatment Decisions"
+    excerpt: "A deep learning algorithm could help providers predict survival expectancy in patients with lung cancer, which could help guide treatment decisions."
+    publishedDateTime: 2021-02-19T14:30:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-can-help-guide-lung-cancer-treatment-decisions"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "bBAA3fmBoYRYx2Jsez7y/CRiZ8r45wBUkbeYnWjKKFxtoQyjncmJIFD6s7FwYxdnlsvw3ynZGZJF6ZulsVzceMXih3qs/FkWCT6cc5f2ldAk234rGmoY15ktqwlK9eWLw0sAGc4PwNfE2V486yBGdvcN7YrGTggeyVdAqqCK4AziJ0d2bg3dGqPRP2opMj8SdLcO4PT5BDWdQmtLSfAu7/C2auiqPQ43qaghTcfQggAN0koFcI+bSjNKlmgxqzFyE+zvkcQ7rHziLiTXAm2Lakj/uz9/Fe/PILTcaY2KhnwlPZsEq4syOY/JMHAAAYliZslE7yAgKITOKBJKlOKc2cHyfb8tj4oDe+c5SHVNhXs=;jQFY3dW0z+KP389fipy4jg=="
 ---

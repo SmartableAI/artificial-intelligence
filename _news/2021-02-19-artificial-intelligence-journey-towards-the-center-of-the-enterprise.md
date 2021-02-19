@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-19T03:20:00Z
 originalUrl: "https://www.cioreview.com/cioviewpoint/artificial-intelligencejourney-towards-the-center-of-the-enterprise-nid-23785-cid-175.html"
 webUrl: "https://www.cioreview.com/cioviewpoint/artificial-intelligencejourney-towards-the-center-of-the-enterprise-nid-23785-cid-175.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.cioreview.com/ck_images/6g0PH3cy.jpeg"

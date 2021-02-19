@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "UAE adopts private sector facial recognition technology"
-    excerpt: "UAE adopts private sector facial recognition technology Sheikh Mohammed Bin Rashid Al Maktoum will chair the cabinet meeting in Abu Dhabi"
-    publishedDateTime: 2021-02-14T21:56:00Z
-    webUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/UAE-adopts-private-sector-facial-recognition-technology.jpeg"
-        width: 750
-        height: 450
-        isCached: true
   - title: "No Facial Recognition Technology Can Be Used In Minnesota"
     excerpt: "The city council of Minneapolis, the largest city in the state of Minnesota in the United States, passed without objection on February 12 to block"
     publishedDateTime: 2021-02-16T17:21:00Z

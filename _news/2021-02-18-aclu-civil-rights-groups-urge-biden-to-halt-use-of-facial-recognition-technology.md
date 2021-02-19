@@ -7,7 +7,7 @@ originalUrl: "https://thehill.com/policy/technology/539218-aclu-civil-rights-gro
 webUrl: "https://www.aclu.org/letter/coalition-letter-president-biden-use-facial-recognition-technology"
 type: article
 quality: 134
-heat: 294
+heat: 284
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://www.insidehook.com/wp-content/uploads/2021/02/facial-recognition.jpg?resize=1200,800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "UAE adopts private sector facial recognition technology"
-    excerpt: "UAE adopts private sector facial recognition technology Sheikh Mohammed Bin Rashid Al Maktoum will chair the cabinet meeting in Abu Dhabi"
-    publishedDateTime: 2021-02-14T21:56:00Z
-    webUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/uae-adopts-private-sector-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/UAE-adopts-private-sector-facial-recognition-technology.jpeg"
-        width: 750
-        height: 450
         isCached: true
   - title: "No Facial Recognition Technology Can Be Used In Minnesota"
     excerpt: "The city council of Minneapolis, the largest city in the state of Minnesota in the United States, passed without objection on February 12 to block"

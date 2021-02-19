@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-18-how-ai-affects-employment.md",
+      "title": "How AI Affects Employment",
+      "excerpt": "Most of this generation of artificial intelligence could actually improve jobs and even can increase employment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/02/18/how-ai-affects-employment/",
+      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/02/18/how-ai-affects-employment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602981e9c61d4beb08920b5a%2F0x0.jpg%3FcropX1%3D15%26cropX2%3D750%26cropY1%3D0%26cropY2%3D414",
+          "width": 735,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/02/18/how-ai-affects-employment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/02/18/how-ai-affects-employment/amp/",
+      "publishedDateTime": "2021-02-18T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-mit-csail-taps-ai-to-reduce-sheet-metal-waste.md",
       "title": "MIT CSAIL taps AI to reduce sheet metal waste",
       "excerpt": "Researchers at MIT's Computer Science and Artificial Intelligence Laboratory have created a tool that taps AI to minimize sheet metal waste.",
@@ -695,7 +746,7 @@
       "originalUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -739,21 +790,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-18-baidu-revenue-beats-estimates-as-core-search-business-recovers.md",
-      "title": "Baidu Revenue Beats Estimates as Core Search Business Recovers",
-      "excerpt": "Baidu Inc.’s quarterly revenue rose a better-than-expected 5% after the company lured users and advertisers back to its core search business.",
+      "path": "_news/2021-02-18-chinas-baidu-beats-revenue-estimates-on-strong-cloud-ai-demand.md",
+      "title": "China's Baidu beats revenue estimates on strong cloud, AI demand",
+      "excerpt": "China's Baidu Inc reported quarterly revenue above Wall Street expectations on Wednesday, helped by a recovery in advertising and an uptick in demand for its cloud services and artificial intelligence platforms.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers",
+      "webUrl": "https://www.investing.com/news/technology-news/chinas-baidu-revenue-beats-expectations-on-rise-in-advertising-2421809",
+      "originalUrl": "https://www.reuters.com/article/uk-baidu-results-idUKKBN2AI0A3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 237,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io27gqrjv5qg/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i-invdn-com.akamaized.net/news/LYNXMPED5Q0VX-ORUTP_L.jpg",
+          "width": 800,
+          "height": 527,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -763,14 +814,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T13:57:00-08:00",
+      "publishedDateTime": "2021-02-17T19:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -786,9 +837,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
@@ -903,7 +952,7 @@
       "originalUrl": "https://thehill.com/policy/technology/539218-aclu-civil-rights-groups-urge-biden-to-halt-use-of-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1184,57 +1233,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-the-ai-driven-platform-powering-the-future-of-fresh-food.md",
-      "title": "The AI-Driven Platform Powering The Future Of Fresh Food",
-      "excerpt": "The question is, how can stores make sure they have enough of the fresh foods their customers crave at just the right, ripe moment, while minimizing losses from past-its-prime or expired offerings?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/",
-      "originalUrl": "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://specials-images.forbesimg.com/imageserve/602c2f48e7cffddc942ebce0/960x0.jpg?fit=scale",
-          "width": 960,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

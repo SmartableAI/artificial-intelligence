@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bizjournals.com/buffalo/news/2021/02/16/tesla-self-drivi
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/buffalo/news/2021/02/16/tesla-self-driving-vehicle-jobs-buffalo.amp.html"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Tesla Full Self-Driving Beta Drives To Service Center Unassisted"
+    excerpt: "For people indecisive about investing in a Tesla due to reports of mounting service visits, at least your car can help drive itself to the service center."
+    publishedDateTime: 2021-02-19T14:51:00Z
+    webUrl: "https://insideevs.com/news/489380/video-tesla-fsd-drives-model-x-service-center/"
+    ampWebUrl: "https://insideevs.com/news/489380/video-tesla-fsd-drives-model-x-service-center/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/489380/video-tesla-fsd-drives-model-x-service-center/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/nJOXx/s1/tesla-full-self-driving-to-service-center.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "3lxDIe4+lriX2DtHLp7BVH/mltJd0zOrIuz9kCqwqPeKrxDL5D48ztvKbYJP7VobEoJ8J2Hx21DyRAdXtJACwA7W38s2tyFnVP5uZfMwS1PNRt+NPMn+sleFTwMN5GgoB/81ADyRFzmhYQo/UsDk0AdoTM3eV4lo4GB7K7A4N1Vf7OlH+hSz7FUjyCEGWWaMJlU0h8NbKfBy2rInwaXMIUmvgT2VxJauu6buJsjaJLBrWift9RgkZtTt/0hEuNeId4DC2X0z2C6ecQLASTrbo6btzi7loVYUoeRt98uQRx8sGqA7P4jURWwCAoOcQ04yVnFM5cz7bAE3SzRwweReGxX5aV3ZQMLXljcf9uruZIgZNOV2F/RgLAnoxjC4aZujNH2wVxdNEUcPTDmK3SktAeG7fme9mGqsaoLshS/1wpJRXaDFwt3dC1J6otXIZpVEYatbvm3NLH35yA1YzpH8Khq+UZ8CZCOY+HdOZ4omfRdn3qTOH4ioTiUugj2xPbwjXSjlHd4Ho1me2q9dGCGPRw==;l+BP7ahxqI/UyhNBSiHG3Q=="
 ---

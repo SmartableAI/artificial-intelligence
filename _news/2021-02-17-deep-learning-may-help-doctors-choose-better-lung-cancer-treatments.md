@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-trea
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Deep Learning Can Help Guide Lung Cancer Treatment Decisions"
+    excerpt: "A deep learning algorithm could help providers predict survival expectancy in patients with lung cancer, which could help guide treatment decisions."
+    publishedDateTime: 2021-02-19T14:30:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-can-help-guide-lung-cancer-treatment-decisions"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "Deep learning may help doctors choose better lung cancer treatments"
     excerpt: "Researchers have developed a deep learning model that, in certain conditions, is more than 71 percent accurate in predicting survival expectancy of lung cancer patients, significantly better than traditional machine learning models that the team tested."
