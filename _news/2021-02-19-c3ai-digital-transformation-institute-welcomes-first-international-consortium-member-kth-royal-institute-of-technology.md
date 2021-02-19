@@ -1,10 +1,10 @@
 ---
 category: news
 title: "C3.ai Digital Transformation Institute Welcomes First International Consortium Member KTH Royal Institute of Technology"
-excerpt: "The C3.ai Digital Transformation Institute (DTI) today announced that KTH Royal Institute of Technology in Stockholm, Sweden has become the eighth uni"
-publishedDateTime: 2021-02-18T19:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210218005223/en/C3.ai-Digital-Transformation-Institute-Welcomes-First-International-Consortium-Member-KTH-Royal-Institute-of-Technology"
-webUrl: "https://www.businesswire.com/news/home/20210218005223/en/C3.ai-Digital-Transformation-Institute-Welcomes-First-International-Consortium-Member-KTH-Royal-Institute-of-Technology"
+excerpt: "The C3.ai Digital Transformation Institute (DTI) today announced that KTH Royal Institute of Technology in Stockholm, Sweden has become the eighth university member and first international member of the academic and industry consortium."
+publishedDateTime: 2021-02-19T04:46:00Z
+originalUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-welcomes-first-international-consortium-member-kth-royal-institute-of-technology-71603.html"
+webUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-welcomes-first-international-consortium-member-kth-royal-institute-of-technology-71603.html"
 type: article
 quality: 0
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: Business Wire
-  domain: businesswire.com
+  domain: businesswireindia.com
 
 topics:
   - Microsoft AI
@@ -34,6 +34,6 @@ related:
         height: 480
         isCached: true
 
-secured: "lHRDn88QSLCt67Fn9J1Qe6/Q2+98L9ao5ijJK4ef/Ud5ujacs2Yqkbt24vFPrydx/1aHXPINWmnTDOU3oBpUBp6P4lhk3YL3yM4KJPwWB3MBqDAP8QkGnnVCsvFlzQyIaw8W6YL3CS6ZE4wTFvtp+0Kzgoxr/1y2g7ECag/a83QxxfIo/WAiEiO6V+ZtsByAM30E0OC9GLrOxgsDYlNGHw2MdAyV6G7ICSoCYImwpcrK9FQ70IPysUMpQ5hYqZ5Qo+MjkTFrb2igzJnK9kJ8pnaryr3WpxteNuhvwNBD/f+cp0XpuzqbQOC/wHVRr99KXQYiCWSYMl7ww2ZavuOcaBjC4sI7uukm30za/qSgIf0=;zkwNrMTR8loA5fx9nzBFeA=="
+secured: "QVembHE1w9RaDbP2oAgupEtNKAAsrBk3+OXSh85iAjQ7R/laQeH07dq3osSjJrbIcbVXvBvP3vwtW42JPrhPkQMHMsKCNCObZ5mCBcjw5VYkgBBmP3Njp14bZ5lSyEFWYdFeBAJl8JChMydR5WVrT+kI1Y+tjDKt80Y756D8EHNXHjh+/WUKR5NZK0I5jYVB2MQc471DGGHyjNMf1Jw31FP/+5vx7wzoc5onrtddoNkTESn+tARpXr/wtbRJpB/f38SKZVzEsR792YFCPU5Yd48UkezUcfm2cFIT4gPPj0BOLjPC12rot+UuzK1VT8nvDLsR7m5O48L+7E05xa7JKA+v+FuWFqJOGxmwQZY4MbE=;fJT3GdStdFWC/3pT9dcSeA=="
 ---
 

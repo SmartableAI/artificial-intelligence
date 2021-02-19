@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 796
     height: 417
     isCached: true
+
+related:
+  - title: "Will Artificial Intelligence Destroy Humanity?"
+    excerpt: "Will Artificial Intelligence Destroy Humanity? By David Tamayo, CIO, DCS Corporation - An old Chinese proverb says, “The best time to plant a tree was 20 years ago. The second-best time is"
+    publishedDateTime: 2021-02-19T03:44:00Z
+    webUrl: "https://www.cioreview.com/cioviewpoint/will-artificial-intelligence-destroy-humanity-nid-25882-cid-237.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/o8cd2Xv3.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "GSYBg8YM21PDCRZidNWoKlq1GXrm9mmI0GQKAGWLKK7uDMF3Jg4NY9SWnda0RZlto9tP7Ito3Gf2lhiaoxqBicA6nn/jqjxO+jRIg1Mx5nk145J/5Zdr+21dQlauzK2ZLRBvzIUnftTjR2DK6QbKXE9ZkTeP+xHGuuJwsx/zgX4RDBwwoftZis3GGNOHAab8SqAyAgzB1FWePMkWKOABqiBmPIYEDX/vLZ7j845tOiDGsSWyyYpmYIQ0TEuVGsyzJM57kd5Y27w9rUqFetQEGaSReCHl4tHdItgrsZqEo6BozfJep9hlhKtbZrR4b26PLC/CiE48Ch0iyOi5AH1m5tl0MImfb63byJByR0Idl1heg6x7HgtcL/4Devv4Qu0T6rx+sgCfZ8Kp0SY6U47pE7HpOZkbpb+fr0UqQqTIC0uK9CHv9zMaElUKaAArsH5lK043klzB7h55MbFEJTAoLS/qc2fnH5HCYGnqdSohHLw6/0EIR5sDPybFQwa39ZREoRnH3+DY9piGRbIBDVQlMQ==;Ja1piDYZgVsUnkriI6g1Zg=="
 ---

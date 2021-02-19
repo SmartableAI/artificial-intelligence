@@ -86,6 +86,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Transforming the Supply Chain Landscape with AI and Machine Learning"
+    excerpt: "Transforming the Supply Chain Landscape with AI and Machine Learning By Mark Welch, Senior Vice President, Supply Chain, Novant Health - The healthcare industry is evolving rapidly thanks to years of investment in foundational technologies and processes,"
+    publishedDateTime: 2021-02-19T03:42:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain-landscape-with-ai-and-machine-learning-nid-28723-cid-256.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 56
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/YFq4E2Hi.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Thriving in the new normal with cloud and artificial intelligence"
     excerpt: "THE days of cloud being known as an emerging technology are long gone. Today, it has become the cornerstone of the intelligent world, driving the"
     publishedDateTime: 2021-02-15T02:06:00Z

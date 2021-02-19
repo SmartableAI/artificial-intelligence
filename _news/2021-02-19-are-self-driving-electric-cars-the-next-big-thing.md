@@ -1,0 +1,59 @@
+---
+category: news
+title: "Are Self-Driving Electric Cars The Next Big Thing?"
+excerpt: "Are Self-Driving Electric Cars The Next Big Thing? By Karl Popham, Manager of Emerging Technologies, Austin Energy - Austin hosted a self-driving electric bus demonstration this year. One of the very first passengers was a centenarian"
+publishedDateTime: 2021-02-19T03:52:00Z
+originalUrl: "https://www.cioreview.com/cxoinsight/are-selfdriving-electric-cars-the-next-big-thing-nid-25994-cid-41.html"
+webUrl: "https://www.cioreview.com/cxoinsight/are-selfdriving-electric-cars-the-next-big-thing-nid-25994-cid-41.html"
+type: article
+quality: 24
+heat: 24
+published: false
+
+provider:
+  name: CIOReview
+  domain: cioreview.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.cioreview.com/newsimages/special/2GTa69fu.jpeg"
+    width: 300
+    height: 300
+    isCached: true
+
+related:
+  - title: "Gatik marries self-driving tech with electric trucks"
+    excerpt: "Its trucks ply the same routes day after day, constraining the scenarios that self-driving systems face into manageable chunks. Route certainty is also helping Gatik develop and deploy electric trucks."
+    publishedDateTime: 2021-02-18T18:22:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/gatik-marries-self-driving-tech-electric-trucks"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/brain%20food_3.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Next-Generation BMW 7 Series and i7 Electric Prototypes Show Self-Driving Tech"
+    excerpt: "Despite having been introduced five years ago, the current generation of the BMW 7 Series is not exactly long in the tooth technology wise, and it’s not exactly old-fashioned when it comes to design either,"
+    publishedDateTime: 2021-02-17T21:45:00Z
+    webUrl: "https://www.autoevolution.com/news/next-generation-bmw-7-series-and-i7-electric-prototypes-show-self-driving-tech-156311.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 20
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/next-generation-bmw-7-series-and-i7-electric-prototypes-show-self-driving-tech-156311-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+
+secured: "FkU/EXIbkvUHHZpJgL9kauYmiF7gHE/iHQLYAXEyY6B3rwO/4Yrqfkef9c9gENCIcApP39pwlN2xAcBijfJeALfJEnFslr2S1oB2wHB41g9r9tbiBo0WNhn/MT2/0arhhWDSH3NoXlcMQJIX7ApIK3rFW2VwFFUM+vVlEH31hZ7wQDQ/F2DteM6YDoOcChP3kMmE0g3DVx0olSumhoFnsyry0TfjRImJspIA3wCVpqAoaPYIxSHw7Gd5elrw219KQlZDKcURpQHq5swtOplt0Lye/MJK783KSLeKikqx1dYhH/hn+HMdxmxgyVnF5Z1eZ9J4GJ/Uz3zNvJVOtxwKDfug1GhAXItiLIA06ADiaaM=;hhqe8mZwDDk21CG0YHn4sA=="
+---
+

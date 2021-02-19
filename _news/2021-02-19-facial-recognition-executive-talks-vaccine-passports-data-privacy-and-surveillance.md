@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/facial-recognition-e
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition is the tip of the spear in the assault on your privacy"
+    excerpt: "Facial recognition is the tip of the spear in the assault on your privacy By Harvey Boulter, Chairman, Communication Security Group - Clearview AI, a US company specializing in facial recognition software is under fire for infringing on personal privacy"
+    publishedDateTime: 2021-02-19T02:53:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/facial-recognition-is-the-tip-of-the-spear-in-the-assault-on-your-privacy-nid-31482-cid-145.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 40
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/qiWC67af.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "White House, EU pressured to put facial recognition surveillance under tight controls"
     excerpt: "Privacy advocates are telling their governments that they do not trust officials to use facial recognition surveillance in the best interest of society."
     publishedDateTime: 2021-02-18T17:53:00Z

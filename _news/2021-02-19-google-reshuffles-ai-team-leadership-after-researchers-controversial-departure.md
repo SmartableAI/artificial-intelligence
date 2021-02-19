@@ -3,23 +3,23 @@ category: news
 title: "Google reshuffles AI team leadership after researcher’s controversial departure"
 excerpt: "Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black artificial intelligence researcher Timnit Gebru rattled the company."
 publishedDateTime: 2021-02-18T22:18:00Z
-originalUrl: "https://kesq.com/money/2021/02/18/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure/"
-webUrl: "https://kesq.com/money/2021/02/18/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure/"
+originalUrl: "https://localnews8.com/money/2021/02/18/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure/"
+webUrl: "https://localnews8.com/money/2021/02/18/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure/"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://kesq.b-cdn.net/2021/02/hypatia-h_a2bdb3e67b0c07fec9cb18fcda301e5b-h_83217445954976654cb586409dc3df89_preview.jpg"
+  - url: "https://localnews8.b-cdn.net/2021/02/hypatia-h_a2bdb3e67b0c07fec9cb18fcda301e5b-h_83217445954976654cb586409dc3df89_preview.jpg"
     width: 500
     height: 333
     isCached: true
@@ -102,6 +102,6 @@ related:
         height: 309
         isCached: true
 
-secured: "plE6yQG6lyyiU4qMNSKaPsqOMrLFWSO8hmVopOF6qCYLWTXXEOJCDnpJeZQQLayryGXOBII0aSju5he77yEltszDmzQo/3gUiwOn4DPpFX8ZhRqSzxGTpACo4kEfYhdKNanjK8UvUpj/K8AmykDe1sTH/UjB0LFxiZathfYPLFBQkSdeQqvdndUJAMnwpzB2+rBs7SncFee8Hx/6Ig3apBj57PCqmWQmqxk6dqkYQ+YIT4nlDWCqcbv3Y3X5oKl0BZ7OtFL+J3Wqo2I3rgV/EdoG3tuJ7QSEnKt/x1jiXlQitIpSvO6UPl9v3ezO9YU9Anc3mixEQBMqkizZAeab0eJRThaLB/LfYVx/rY73Q7PKVSi4KM89exdqDWkN9uAlw6tK0GzORRMuoEjjq1Z646n50KvBOTU2PQ5lTWJX8zkdbdOcOblivMKCq3Bynv51Gjdh+XohORx1zTUvSPOsqw3sM61cPD7AuOoT9cLEQihJ4aUg9nJ9H4aJUt0jSoLUlUGVz+EmaM1zz3FBy8dl9g==;51QF34al5YuqFmVSDz5WMQ=="
+secured: "EF8TOTUOhLI2jMGBAkA80GmAvg/Gc/Acx3HYXe5aTLOYhWkvQ9oIYDRpaetRwHBvTqdZVKyRZVHg5n2lmE6aUx+GczQrcuknWvJexA0VXJ3JrYSckyi3C2r3BG2moPpxMkGJ+cZL0alrq9es97I4xK8DYc1ho8aymoimhqTScbNWRvDVX5z7/fV7GC8UYQPh80C9NbPLWwlA8Q4IPKwBv3J5pE1uBe+MfCZCa36wKTKv8rwC+fVjq6nFjtDeX9qnelUq6fiHDCWvu5QyjYj/gCuNy/0gQV8RKbd7i7vlPr5YQNqmO4AaRFZR/XE/Zr+yxq7RVOANUMu4VxgGovaj542drTbKQ86dnXQcEyy1+B8=;KIrFh9SiRAh2t2/k8y9W+w=="
 ---
 

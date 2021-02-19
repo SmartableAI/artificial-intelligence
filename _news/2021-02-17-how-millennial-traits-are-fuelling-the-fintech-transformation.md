@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-tra
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://business-reporter.co.uk/wp-content/uploads/2021/02/financial-advisor-vector-isometric-landing-page-template-vector-id1217470000.jpg"
         width: 583
         height: 478
+        isCached: true
+  - title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
+    excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."
+    publishedDateTime: 2021-02-19T03:05:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/how-recent-tech-developments-and-transformations-in-fintech-have-impacted-your-business-environment-nid-28633-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 10
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/T3ODdQs8.jpeg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "ug09OSj2QkiKZHXDmzO4qCg21wtwBfOKhi4r2xIXjINLaVGLlhKD75BPW1B33AEKFqLB6jnKVw792EOGHkLJQaxVQWast6027Nf3Mg3jeWZj9cSw9CmplToJnoiGVa2EhYxdoHIfmfWI3lAetGInL4Ya46TfjA5pBI4NK77MxkuqaBJ1gUZuxpgtbXWUzYEJcCr0+inELExt3vr9R4ezMz1RV5akJeqiuz8/rPHrPhLNiJRVDCjshfxSkx7s16V+fIQt2369GYlz3mOOKx3Sr5ZdPDlAXuQdGGUDHDubMUwwFkL6mYFcZP6Jm3jWnoG3WwEdJL3uzv7J0M7EVloQLLvADRDLQXb70FtCAuBnINVqMidFfy4nZe45So/kj11/t7TFS5GBzZg7OgP87YdmeDH5NJCmuVLbPJgpOcN/9oz0vlxPr6Osr7brAYLbGXpUBqaOffAYE2RtPJ40e7vq2sNHFtQ5TTlS+oXQqC1ozqZwdN6N+9wKDGZgYO55eMT8S2Cdm7WfQS4gSur0qO69Mg==;RSNKRyauLkyL0C4KUnlHDA=="

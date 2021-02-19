@@ -55,6 +55,20 @@ related:
         width: 583
         height: 478
         isCached: true
+  - title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
+    excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."
+    publishedDateTime: 2021-02-19T03:05:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/how-recent-tech-developments-and-transformations-in-fintech-have-impacted-your-business-environment-nid-28633-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 10
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/T3ODdQs8.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "MFpg9/6aeSVFgNo+L9KJSXOD9us1npxFeVY7pyC/x82n2HgWxMz5fBMOzCGJRPKip7QdQM7BRjLHnBMu6z1hT/YO0sp5376g+xZLMI5ycO5KAeLmYAlJK/S/sdkPAEw4F7bKqvO7VWzJvy3ltSm2Ndd+nYtrdGfzgfIUBmYw5m+Y58uLvOkHz/QveS6vY5GfBdMmHEWK0n1R45zjpqcS1Z5rJ6RxFMW4bfaKrkZYFQD8Zn9YVbMsCQeHolB7glwpTAB3hbDm3a2h7bGffOl2x6qMfBdRwIYkrrtuQsFjW1MGkFlU1vYnIMWcMYvsVYfYWWJTZuOiJ+aiXvwEfzmtnxHcoi2TgqIQHmmLURHWJxxP8kORgxIilZN7gdS3RhoaOIJ+lA7AFAaZ3f0vPW9DnbRNwRmaQpa5oB6LBwzm4a/s+3oZrfU0HntrgRjIeYWxIXe0CqndO6nTVuizR1r/pjHKz66+dxfnQ/jhoxtnj3DaLg8kIFd130TkwAdZVjkMYsaE/WjTR6wnuxFdtK/Xew==;8Wg84vfRlo//emmaHmIKKA=="
 ---

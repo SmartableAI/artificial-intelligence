@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Facial recognition is the tip of the spear in the assault on your privacy"
+    excerpt: "Facial recognition is the tip of the spear in the assault on your privacy By Harvey Boulter, Chairman, Communication Security Group - Clearview AI, a US company specializing in facial recognition software is under fire for infringing on personal privacy"
+    publishedDateTime: 2021-02-19T02:53:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/facial-recognition-is-the-tip-of-the-spear-in-the-assault-on-your-privacy-nid-31482-cid-145.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 40
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/qiWC67af.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "J2Dw+3Fg4QdOGArDocL0OkSkDF37Q5i0xNjWjTDlHVGt3Y/AIzh2g/YiV6Eb7GqUUAhviJOHaOHZNx/cTjDY/dzAMtZ3xA15VFWCw/Ktg/I3SnT02s0Kafelw7LA7wY6iZjMcCtPYx5jpiT3Ip/ZaT41S5lCq8n9UsRSQ1Hvnfqv7uJyB5ERLJq954OxjUwhp15zVsYS28d+U10ubMjYSdsIRymQ5cXG9d73KIAw1fDIDepDDyYcNQvp5iasDOnBNuzdcDCbqLF+R4TdFdj+4efwE6P9CWMEYG1iXgKIQKo53hM1Mbm5cwfyIcTDul9cf4nQsPZGKH2+M8Stsd1LLRuyR0cBOLZr7Z7Z/uZ3LRoWE7hWb6tsAGVOTFEwozjLMQgr8C9GUO9HH/+eBwzrgBPWiiki/iirbF/XqyfOUTyQuC7OQsO1tku/OHGn/QRjSBiwwxFIzwhVY5tIiPEaThnRWeNIvNOvzJUoDOBnNrbHZRE62NfDXv6HlZwqtUiagVuNOjP8kSoZqTIxg0Gr8Q==;jrR8H0os+xrX5h1Qs/b2oQ=="
 ---

@@ -53,6 +53,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Google names exec to oversee responsible AI research after staff unrest"
+    excerpt: "Alphabet Inc’s Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing of a prominent Black scientist."
+    publishedDateTime: 2021-02-19T04:54:00Z
+    webUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 57
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/02/2021-02-19T044427Z_1_LYNXMPEH1I05Q_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "i8H50v1YBE/D5YtcaCn304iVwFmkCm1cccqsuvfwyoVJY5jBpCNV+0bKl54e5ZZgWfMIg+P/e1+CCymMcYncXfQLmOH+JHodjupd/NXXN5WlrRD1WvIledEKVuzpjBwdyJ3IqFy4RhrNZR4s6uGniji33SSuSMF4fXAvtVUUbrntE/wbhOQahTO1Qa1sobvivXIjcDnXHnHRNa1fq+5Jz2PrPxRJQmtWN/UujHkQ9WDBUJtDZTlIdAquwm4w5qnSeWgaLqAssI4J+8fjrsu0NkyRUfpYMcZC1k4krDipUrhYeVahsqD62zqYgi5iUkc9GspqOwmLaIabLhV/6ZMgDt/B3n+Ui4snAOjCmwRa7Y2PlqdLX4UImKwAShhWGXwq4HUPfCJI8Jaf22ILV5nZoSvdTTZFwHAMAXpUmLG676Ry4MP8NTzOgrXIc4rJ6VGHFKvOCOupyWChFZbfqIv+td3xC/jQ/NRnqyzLUN/y/MF5czQ7MsbQRL93pPFXrm4HsLONjAsEJPXOAFXW8OH4Vg==;spmZ/u+HBkvHMOktkUjkgA=="
 ---

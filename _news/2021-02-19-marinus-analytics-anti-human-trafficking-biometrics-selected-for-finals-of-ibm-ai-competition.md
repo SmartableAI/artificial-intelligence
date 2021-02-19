@@ -50,6 +50,20 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "Data Analytics, Machine Learning Will Power an Enterprise Content Management Evolution"
+    excerpt: "Data Analytics, Machine Learning Will Power an Enterprise Content Management Evolution By Aref Matin, EVP & CTO, Wiley - The field of enterprise content management (ECM) is evolving into a platform that touches every part of an organization in"
+    publishedDateTime: 2021-02-19T03:07:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/data-analytics-machine-learning-will-power-an-enterprise-content-management-evolution-nid-27098-cid-129.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 33
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/B6stW9yU.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "sw5TeM1HAsn2A2NtTNtAvpOu9QdZuLM2BRnTO+iDO5VWSZSAkAmzzzE+3A4Tz9Qn3fTGoSZtlbkoQICGs+9DgGYK1mZLFpdGxZSJnOljprlH7eLWWl/+yXgcnXeER0PeWoeCWUFe6MNYQws2D5bzHUXnM5tsq249F9/Kko+RFE4V9RgIzLKIJAK9BIKxvJoGozVrPu1XJXk6J9glufyu7UnbDOAnRcDrHTLhyg+hKr2atQqIUXDHNiy0l/AD5feBfzAsloqpAolMO8iR3NI5zC5uZxfyuacmxm8dato7znZ2+ynbtZ+9P31c4YsCZumJ70+SGuJujdZHtsBngVS6hf+Fim7gNsOv5xfSGrpodV/0Uu57cDj/VjkPA2Mxc+h91VbG/yfq399D343NFOuBOHIk+f1TfwbRI2JjlE29mhQqHvE5/M04ElMXoDO/8EbeF2Ooym+/0SSlujksxtq+dcllWl23Ty1ckndZ4aZ33Ip9T6z2vJOknC1YSp05uNHK6l8NjPP57UY+9YpjT9hl2Q==;SuhNOxLnvvcxFb+ZiavBQw=="
 ---

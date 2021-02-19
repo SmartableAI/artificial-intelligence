@@ -1,0 +1,75 @@
+---
+category: news
+title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
+excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."
+publishedDateTime: 2021-02-19T03:05:00Z
+originalUrl: "https://www.cioreview.com/cxoinsight/how-recent-tech-developments-and-transformations-in-fintech-have-impacted-your-business-environment-nid-28633-cid-189.html"
+webUrl: "https://www.cioreview.com/cxoinsight/how-recent-tech-developments-and-transformations-in-fintech-have-impacted-your-business-environment-nid-28633-cid-189.html"
+type: article
+quality: 10
+heat: -1
+published: false
+
+provider:
+  name: CIOReview
+  domain: cioreview.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.cioreview.com/newsimages/special/T3ODdQs8.jpeg"
+    width: 300
+    height: 300
+    isCached: true
+
+related:
+  - title: "How millennial traits are fuelling the fintech transformation."
+    excerpt: "Yogi Sadana, CEO, CASHe, says the world of self-help coincides with the digital-first journey, and the average millennial is also interested to know how his/her finance initiatives impact larger goals like sustainability."
+    publishedDateTime: 2021-02-17T08:59:00Z
+    webUrl: "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation"
+    ampWebUrl: "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 59
+    images:
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1612803247147.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Borrowing from fintech’s playbook, banking leverages AI-based business monitoring"
+    excerpt: "Many banks are undertaking digital transformation to improve customer service, reduce their operating costs and uncover new business opportunities. A leading new technology that promises to be a real differentiator in the banking industry is artificial intelligence (AI) built on machine learning (ML) algorithms."
+    publishedDateTime: 2021-02-15T08:36:00Z
+    webUrl: "https://business-reporter.co.uk/2021/02/15/borrowing-from-fintechs-playbook-banking-leverages-ai-based-business-monitoring/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 49
+    images:
+      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/01/customer-contactless-payment-for-drink-with-mobile-phon-at-cafe-picture-id1257896082.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Future of Banking, Fintech and Payments – February 2021"
+    excerpt: "Figure 2 illustrates an incident related to customer experience where models detected an anomaly in transaction success rate for VISA payments for a particular merchant. The drop in transactions (depicted in orange) would have gone unnoticed if static thresholds had been used,"
+    publishedDateTime: 2021-02-17T15:20:00Z
+    webUrl: "https://business-reporter.co.uk/the-future-of-banking-fintech-and-payments-february-2021/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/02/financial-advisor-vector-isometric-landing-page-template-vector-id1217470000.jpg"
+        width: 583
+        height: 478
+        isCached: true
+
+secured: "8H5Ty9Nbv3KW2YqbqeDIaaCfdHIbxX1woLBhrQqutLE6jVdSYqPKd7h0Le8B8JCT7Hi/xlXicBf+IdxSDQSM4KVO1UmUnLcb3Iv3zLwE1OvnAv4RCQsKvBRwTsj6c8fKc162TjeX3emw73Dw+BjT6SQ7e7u9UZWColqhB3AXRRDGd5cYWPPwcmWgubqT8K4e+Vp7eJ/7YGFZR5UjxS08sPLqQZUwAVT/lMqKXaJ7dc752dIdmUCf6PMbee9hnWGwxaJW6ksswSdVsFzzcbR06ovBHmydOOD+ayQyTmefwc9jwpeMswP44wRAVSrEiDACbnx+fvVXwwMThJdllXR1DbxDdLsOGMcdIYN/9wQfyHM=;v78IV6krNaVCUcEAD7ZnmA=="
+---
+

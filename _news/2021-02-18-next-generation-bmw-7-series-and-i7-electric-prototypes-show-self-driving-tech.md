@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Are Self-Driving Electric Cars The Next Big Thing?"
+    excerpt: "Are Self-Driving Electric Cars The Next Big Thing? By Karl Popham, Manager of Emerging Technologies, Austin Energy - Austin hosted a self-driving electric bus demonstration this year. One of the very first passengers was a centenarian"
+    publishedDateTime: 2021-02-19T03:52:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/are-selfdriving-electric-cars-the-next-big-thing-nid-25994-cid-41.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/2GTa69fu.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Gatik marries self-driving tech with electric trucks"
     excerpt: "Its trucks ply the same routes day after day, constraining the scenarios that self-driving systems face into manageable chunks. Route certainty is also helping Gatik develop and deploy electric trucks."
     publishedDateTime: 2021-02-18T18:22:00Z

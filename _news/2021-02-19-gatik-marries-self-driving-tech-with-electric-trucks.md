@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report-newsletter/gatik-marries-
 webUrl: "https://www.autonews.com/mobility-report-newsletter/gatik-marries-self-driving-tech-electric-trucks"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Are Self-Driving Electric Cars The Next Big Thing?"
+    excerpt: "Are Self-Driving Electric Cars The Next Big Thing? By Karl Popham, Manager of Emerging Technologies, Austin Energy - Austin hosted a self-driving electric bus demonstration this year. One of the very first passengers was a centenarian"
+    publishedDateTime: 2021-02-19T03:52:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/are-selfdriving-electric-cars-the-next-big-thing-nid-25994-cid-41.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/2GTa69fu.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Next-Generation BMW 7 Series and i7 Electric Prototypes Show Self-Driving Tech"
     excerpt: "Despite having been introduced five years ago, the current generation of the BMW 7 Series is not exactly long in the tooth technology wise, and it’s not exactly old-fashioned when it comes to design either,"
     publishedDateTime: 2021-02-17T21:45:00Z

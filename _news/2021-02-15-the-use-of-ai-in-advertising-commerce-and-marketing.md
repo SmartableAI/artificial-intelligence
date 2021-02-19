@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365391"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Transforming the Supply Chain Landscape with AI and Machine Learning"
+    excerpt: "Transforming the Supply Chain Landscape with AI and Machine Learning By Mark Welch, Senior Vice President, Supply Chain, Novant Health - The healthcare industry is evolving rapidly thanks to years of investment in foundational technologies and processes,"
+    publishedDateTime: 2021-02-19T03:42:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain-landscape-with-ai-and-machine-learning-nid-28723-cid-256.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 56
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/YFq4E2Hi.jpeg"
+        width: 300
+        height: 300
         isCached: true
   - title: "CloudCommerce Adds Critical Artificial Intelligence (AI) Component"
     excerpt: "Adding this critical component will allow the Company to speed the development of SWARM to dramatically reduce the cost of advertising. “Using machine learning and artificial intelligence, WRENCH.AI makes it easier for advertisers to harness the power of their data to automate the process of creating personas to optimize marketing and advertising efforts,"

@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "Data Analytics, Machine Learning Will Power an Enterprise Content Management Evolution"
+    excerpt: "Data Analytics, Machine Learning Will Power an Enterprise Content Management Evolution By Aref Matin, EVP & CTO, Wiley - The field of enterprise content management (ECM) is evolving into a platform that touches every part of an organization in"
+    publishedDateTime: 2021-02-19T03:07:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/data-analytics-machine-learning-will-power-an-enterprise-content-management-evolution-nid-27098-cid-129.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 33
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/B6stW9yU.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Marinus Analytics anti-human trafficking biometrics selected for finals of IBM AI competition"
     excerpt: "CMU biometrics and big data spinoff Marinus Analytics has been selected as the lone American finalist for the $5M IBM Watson AI XPRIZE Competition."
     publishedDateTime: 2021-02-18T19:08:00Z
