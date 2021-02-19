@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-23-artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025.md",
+      "title": "Artificial Intelligence (AI) in Marketing Market, Size, Share, Analysis Report & Forecast to 2025",
+      "excerpt": "Jan (Heraldkeepers) -- Artificial Intelligence (AI) in marketing market is growing rapidly owing to high demand for lead generation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 286,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-the-real-self-driving-revolution-remains-years-away.md",
       "title": "The real self-driving revolution remains years away",
       "excerpt": "But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future. Automakers like General Motors (GM), Ford (F) and Stellantis (the company formed in the ...",

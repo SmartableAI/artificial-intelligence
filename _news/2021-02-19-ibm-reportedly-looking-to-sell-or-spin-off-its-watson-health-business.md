@@ -121,6 +121,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "IBM considers selling IBM Watson Health: 5 notes"
+    excerpt: "IBM is exploring the sale of its IBM Watson Health business as the company looks to ramp up its cloud computing division, according to a Feb. 19 Wall Street Journal report. Five notes: 1. IBM is looking into alternatives for the health unit,"
+    publishedDateTime: 2021-02-19T15:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/ibm-considers-selling-ibm-watson-health-5-notes.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/11.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
     publishedDateTime: 2021-02-18T19:36:00Z

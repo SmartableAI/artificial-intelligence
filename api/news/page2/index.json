@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-19-will-the-future-of-security-be-led-by-robots-aitx-president-says-yes.md",
+      "title": "Will the future of security be led by robots? AITX president says yes",
+      "excerpt": "Could the future of security be led by robots? Artificial Intelligence Technology Solutions — commonly known as AITX — thinks so. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
+      "originalUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
+      "cdnAmpWebUrl": "https://www-centralillinoisproud-com.cdn.ampproject.org/c/s/www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
+      "publishedDateTime": "2021-02-18T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Central Illinois Proud",
+        "domain": "centralillinoisproud.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-auto-supplier-visteon-sees-more-plant-closures-due-to-chip-shortage.md",
+      "title": "Auto supplier Visteon sees more plant closures due to chip shortage",
+      "excerpt": "Auto parts supplier Visteon Corp said on Thursday the global semiconductor chip shortage could hit global auto production by about 10% to 15% in the first half of 2021 and likely lead to additional plant closures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-visteon-semiconductors-idUSKBN2AI29M",
+      "originalUrl": "https://www.reuters.com/article/us-visteon-semiconductors-idUSKBN2AI29M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552021796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H19J",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI29M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI29M",
+      "publishedDateTime": "2021-02-18T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning.md",
+      "title": "AI: IBM showcases new energy-efficient chip to power deep learning",
+      "excerpt": "IBM researchers have designed an AI accelerator chip that boosts performance, but not energy bills. By Daphne Leprince-Ringuet | February 18, 2021 -- 15:00 GMT (07:00 PST) | Topic: Innovation IBM's researchers have designed what they claim to be the world's first Ankur Agrawal and Kailash Gopalakrishnan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
+      "originalUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/18/11b45681-8657-434c-80e1-31ea97d3626d/ibm-new-chip.jpg",
+          "width": 768,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
+      "publishedDateTime": "2021-02-18T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-how-ai-affects-employment.md",
       "title": "How AI Affects Employment",
       "excerpt": "Most of this generation of artificial intelligence could actually improve jobs and even can increase employment.",
@@ -158,6 +298,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-18-covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.md",
+      "title": "COVID-19 has made Americans lonelier than ever – here’s how AI can help | Opinion",
+      "excerpt": "Therapeutic bots have improved users’ mental health for decades. Now, psychiatrists are studying how these AI companions can improve mental wellness during the pandemic and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html",
+      "originalUrl": "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MSIRECICK5BNBJ5ZXERRNT6EYY.jpg",
+          "width": 754,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html?outputType=amp",
+      "publishedDateTime": "2021-02-18T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penn Live",
+        "domain": "pennlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai.md",
       "title": "Selecting AI Solutions For Your Customer Journey Should Also Depend On Capabilities Beyond AI",
       "excerpt": "The success of AI in the enterprise depends on the AI platform’s ability to solve a few core enterprise system challenges beyond what data scientists are hired for.",
@@ -209,50 +393,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-18-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company.md",
-      "title": "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company",
-      "excerpt": "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "publishedDateTime": "2021-02-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-02-18-artificial-intelligence-can-bring-skynet-to-life-reality-or-myth.md",
       "title": "Artificial intelligence can bring Skynet to life, reality or myth?",
       "excerpt": "Is it possible that, like Skynet in the Terminator movie, the machines become aware of themselves and wage a war against humans to exterminate them? Should we fear artificial intelligence or is it just a myth?",
@@ -301,50 +441,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-microsoft-azure-get-asynchronous-document-translation-tool.md",
-      "title": "Microsoft Azure Get Asynchronous Document Translation Tool",
-      "excerpt": "Document Translation in Azure Translator can translate batches of documents while maintaining the original layout and format.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2021/02/Document-Translation-Azure-Translator-Microsoft.jpg",
-          "width": 1162,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp",
-      "publishedDateTime": "2021-02-18T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -590,6 +686,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-18-breakingviews-capital-calls-baidu-hits-its-ai-stride.md",
+      "title": "Breakingviews - Capital Calls: Baidu hits its AI stride",
+      "excerpt": "China’s search engine operator Baidu is finally getting somewhere with its artificial intelligence bets. Sales in the quarter ending in December rose 5% year-on-year to $4.6 billion. That was powered by a 52% surge in cloud computing and other non-advertising revenue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idINKBN2AI0B8",
+      "originalUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idINKBN2AI0B8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551939101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H055",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2AI0B8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AI0B8",
+      "publishedDateTime": "2021-02-18T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-new-ai-to-identify-problem-gamblers-online.md",
       "title": "New AI to Identify Problem Gamblers Online",
       "excerpt": "Entain Plc says it will use big data in an attempt to identify problem gamblers, responding to a looming regulatory crackdown on the digital betting industry, which has been fueled by lockdowns during the pandemic.",
@@ -735,58 +883,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-breakingviews-capital-calls-baidu-hits-its-ai-stride.md",
-      "title": "Breakingviews - Capital Calls: Baidu hits its AI stride",
-      "excerpt": "China’s search engine operator Baidu is finally getting somewhere with its artificial intelligence bets. Sales in the quarter ending in December rose 5% year-on-year to $4.6 billion. That was powered by a 52% surge in cloud computing and other non-advertising revenue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8",
-      "originalUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551939101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H055",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI0B8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI0B8",
-      "publishedDateTime": "2021-02-17T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -944,6 +1040,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-18-synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021.md",
+      "title": "Synopsys Posts Financial Results for First Quarter Fiscal Year 2021",
+      "excerpt": "Synopsys, Inc. (Nasdaq: SNPS) today reported results for its first quarter fiscal year 2021. Revenue for the first quarter was $970.3 million, compared to $834.4 million for the first quarter of fiscal 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221",
+      "publishedDateTime": "2021-02-17T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-aclu-civil-rights-groups-urge-biden-to-halt-use-of-facial-recognition-technology.md",
       "title": "ACLU, civil rights groups urge Biden to halt use of facial recognition technology",
       "excerpt": "The American Civil Liberties Union (ACLU) and other civil rights groups are urging President Biden to halt the use of facial recognition technology by the federal government over dangers the technolog",
@@ -952,7 +1091,7 @@
       "originalUrl": "https://thehill.com/policy/technology/539218-aclu-civil-rights-groups-urge-biden-to-halt-use-of-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1086,153 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform.md",
-      "title": "Locus Robotics raises $150 million to scale its warehouse robotics platform",
-      "excerpt": "Locus Robotics, a startup developing warehouse automation technologies, has raised $150 million at a $1 billion post-money valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/",
-      "originalUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/robotline-e1591072433620.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/",
-      "publishedDateTime": "2021-02-17T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-ftc-settles-facial-recognition-data-misuse-allegations-with-app-developer.md",
-      "title": "FTC Settles Facial Recognition Data Misuse Allegations with App Developer",
-      "excerpt": "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
-      "originalUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
-      "publishedDateTime": "2021-02-17T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-indigenous-knowledge-and-ai-help-protect-baby-turtles-from-predators-on-australias-remote-cape-york.md",
-      "title": "Indigenous knowledge and AI help protect baby turtles from predators on Australia’s remote Cape York",
-      "excerpt": "This prolonged isolation spells big trouble for the survival chances of some tiny residents on the western shores of Cape York Peninsula – endangered baby turtles. Unless teams of Indigenous rangers find and protect them first,",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/apac/features/indigenous-knowledge-and-ai-help-protect-baby-turtles-from-predators-on-australias-remote-cape-york/",
-      "originalUrl": "https://news.microsoft.com/apac/features/indigenous-knowledge-and-ai-help-protect-baby-turtles-from-predators-on-australias-remote-cape-york/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/Screen-Shot-2020-11-24-at-3.32.39-pm-1600x896.png",
-          "width": 1600,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

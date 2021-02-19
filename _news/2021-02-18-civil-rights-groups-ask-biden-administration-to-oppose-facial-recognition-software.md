@@ -224,20 +224,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Lawmakers introduce bill to strike balance between personal rights, public safety with facial recognition technology"
-    excerpt: "A bill introduced to the Legislature this year aims to strike a balance between the government’s use of facial recognition technology and personal privacy rights by regulating its use across Utah. Facial recognition technology is one of several biometric technologies employed by law enforcement agencies and can be instrumental in generating investigative"
-    publishedDateTime: 2021-02-15T00:00:00Z
-    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/02/15/cgb-lgl21-lawmakers-introduces-bill-to-strike-balance-between-personal-rights-and-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: St. George News
-      domain: stgeorgeutah.com
-    quality: 16
-    images:
-      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/02/GettyImages-1267598587-facial-recognition-eye-kentoh-1290x726.png"
-        width: 1290
-        height: 726
-        isCached: true
 
 secured: "Sp9gkkxb6S3nsZ41Rpj0yt5fDDjD+YUQu/odTIppfNodQ68ncccn6SJkzjExNt7zOA0Eg2eKHO1xwJkh/5A4Gq1o58L8RDC/uWKbvyTG3epkV3YmU3+FYsefFxwp+HND3K0/2tQ4Uu/Jo8XCVHDNMSGmROzHmveQz9fN2vS6E/7EucDCrDyN2peACuypsfWnHc5EMM/m+VMFwqdHQDnIJkzeESaHjoyyZ1sp1C8d/0T6B06br5xFl9+nulzKFNPHF3sVOy986R5r+SUgwzx+PYqZ6nK1wfO5PObVS7zaktKgszPh0sbix3CGWOEFAt29iOXjEJJVIrH7PdUpXssVqhIytBRTqZHHoFjqNGuunHs=;PQNDfv4WQOONPglgTRmgaA=="
 ---

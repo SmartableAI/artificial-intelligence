@@ -7,7 +7,7 @@ originalUrl: "https://thehill.com/policy/technology/539218-aclu-civil-rights-gro
 webUrl: "https://www.aclu.org/letter/coalition-letter-president-biden-use-facial-recognition-technology"
 type: article
 quality: 134
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -222,20 +222,6 @@ related:
       - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Lawmakers introduce bill to strike balance between personal rights, public safety with facial recognition technology"
-    excerpt: "A bill introduced to the Legislature this year aims to strike a balance between the government’s use of facial recognition technology and personal privacy rights by regulating its use across Utah. Facial recognition technology is one of several biometric technologies employed by law enforcement agencies and can be instrumental in generating investigative"
-    publishedDateTime: 2021-02-15T00:00:00Z
-    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/02/15/cgb-lgl21-lawmakers-introduces-bill-to-strike-balance-between-personal-rights-and-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: St. George News
-      domain: stgeorgeutah.com
-    quality: 16
-    images:
-      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/02/GettyImages-1267598587-facial-recognition-eye-kentoh-1290x726.png"
-        width: 1290
-        height: 726
         isCached: true
 
 secured: "X0R8G3C2slif8ykuO97Pa/qdPUq5tu+SOWhlS4bWDc6pgDHeoPmgWwqSa+abJJWyzCgGvUSTM26wEPcEVL7NDiw3nM9BiR71vh9ZXX9EHwCN2SwrlnMdyqWsTMFRWpsybu2N4ziyCGd/R59t7aE0Eb5oWz1bFWZ8Ue9+GeU92zgGUPYoe2CJQS1/Gs9GCWy5kkk1491SAmt7IRvej1iFwph9Vh8QtAVxYRJhFP/4bXyZzCY0v+G8Wg8K+bo+me8t+ONhB49DexSmoJAnHRLyJJNfmYbAWJK6tmomglbSVY0uhbBItMSVVOBXTdhd/iJmNhTtIDoWbtiH7Y/BHmL4dV44ODY/bjJOz8OIkJXLPKqWvBUlkEO3+LhqPzkHhmOV+XLFGJv8Fu1PbY8FT6/xzgx7oZOiRWy4CE7KRXvWBxqOEzIUKKKduEONLJqAB4/aLns3eZN1aS+mmkDvUYcsZq8hLk2vnoe2ovCgLpeVL6vgvDnp3vU5d2YH53BikhOP6qbTjx7Zy/ou0/K87QmroUFYvUrbXo/DqXhl0P6UaB0=;7MvJL2fZJk07gw6nr+GrsA=="

@@ -2,6 +2,216 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-10-self-driving-car-firms-reveal-2020-testing-data-cruise-and-waymo-improve-apple-stalls.md",
+      "title": "Self-driving car firms reveal 2020 testing data: Cruise and Waymo improve, Apple stalls",
+      "excerpt": "The California Department of Motor Vehicles reveals how companies operating autonomous cars in the state are progressing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
+      "publishedDateTime": "2021-02-10T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles.md",
+      "title": "Volvo Aims to Ease the Queasiness of Riding in Self-Driving Vehicles",
+      "excerpt": "The car maker is testing audio cues to prevent motion sickness in autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
+      "originalUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-297352/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
+      "publishedDateTime": "2021-02-10T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-cye-raises-120-million-for-security-that-uses-hackers-and-ai.md",
+      "title": "CYE raises $120 million for security that uses hackers and AI",
+      "excerpt": "CYE has raised $120 million for a service that uses AI to probe defenses and human hackers to conduct attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/",
+      "originalUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/OKN_1440_websize-e1612959250260.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/",
+      "publishedDateTime": "2021-02-10T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-how-ai-can-improve-your-website-security.md",
+      "title": "How AI Can Improve Your Website Security",
+      "excerpt": "Across all industries, artificial intelligence can help you stop hackers in their tracks, release bug-free updates and provide assistance if you’re experiencing a security breach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc8f61243ce8b03f3e11ea4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-can-improve-your-website-security/amp/",
+      "publishedDateTime": "2021-02-10T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-baidu-in-talks-to-raise-money-for-a-stand-alone-ai-chip-company.md",
       "title": "Baidu in talks to raise money for a stand-alone A.I. chip company",
       "excerpt": "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers.",
@@ -1039,178 +1249,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur.md",
-      "title": "Iron Pillar leads $5 million funding round in AI startup Ushur",
-      "excerpt": "Ushur is Iron Pillars second investment from its second fund, which is expected to announce its first close in a couple of months, co-founder Mohanjit Jolly says.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/articleshow/80772704.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-85978,msid-80772644/startup-funding.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur/amp_articleshow/80772704.cms",
-      "publishedDateTime": "2021-02-09T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-alpha-health-publishes-comprehensive-buyers-guide-to-healthcare-revenue-cycle-automation.md",
-      "title": "Alpha Health Publishes Comprehensive \"Buyer's Guide to Healthcare Revenue Cycle Automation\"",
-      "excerpt": "Today, Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, published its \"Buyer's Guide to Healthcare Revenue Cycle Automation.\" The free, 28-page booklet is meant to serve as a thoughtful guide to purchasing and deploying effective automation solutions within healthcare revenue cycle operations - from industry best practices to the variables that may be unique to individual organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "publishedDateTime": "2021-02-09T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-sony-ais-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery.md",
-      "title": "Sony AI's Dr. Peter Stone Named Fellow by the Association for Computing Machinery",
-      "excerpt": "Dr. Peter Stone, Executive Director, Sony AI America Inc., has been named a Fellow by the Association for Computing Machinery (ACM), the premier professional organization in the field of computer science.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "publishedDateTime": "2021-02-09T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-the-queens-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.md",
-      "title": "The Queen's Gambit helped Square Off see huge uptake in robot chess sales",
-      "excerpt": "Square Off released its first robotic chess board a couple of years ago. It's now on the brink of introducing a new model. We speak to the co-founder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales",
-      "originalUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155658-homepage-news-feature-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales-image1-hecqczp5xz.JPG",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.amphtml",
-      "publishedDateTime": "2021-02-09T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

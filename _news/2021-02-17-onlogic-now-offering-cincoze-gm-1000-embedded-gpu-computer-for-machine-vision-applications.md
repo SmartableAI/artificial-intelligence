@@ -3,11 +3,11 @@ category: news
 title: "OnLogic Now Offering Cincoze GM-1000 Embedded GPU Computer For Machine Vision Applications"
 excerpt: "The Cincoze GM-1000 features an embedded MXM GPU, high-speed I/O and Intel® Xeon® CPUs to meet the demands of advanced embedded vision."
 publishedDateTime: 2021-02-16T16:59:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2021/02/16/onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications/16269/"
-webUrl: "https://www.roboticstomorrow.com/news/2021/02/16/onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications/16269/"
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=16269"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=16269"
 type: article
-quality: 9
-heat: 9
+quality: 11
+heat: 11
 published: false
 
 provider:
@@ -15,9 +15,10 @@ provider:
   domain: roboticstomorrow.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
+  - AI Hardware
 
-secured: "XQHqLuLjT6WzZy7fLDCwpgnWsL3HW2NqMm1skyJRUO1y9BZVdrssgiG7IC0mZ4p3wo4GRl+4oMYcQuPnh4U71FndVpN+efxFrbBgPRnfTsOv6alp0XX7ApUOjafxa3vydhputDY5xwiiKk6O+T/GTIskCcvUW/I3HNv2QLvpWiNXUMH7ERqHbLx9y+DSD95FB+bnfb1tDhqp8onZrMuGfbn4gLHKOoGTQKT9n5ajdiu+zgi01fuA9Q+LiCM3bCK/Iyfrp5Rs2P2ZyzkHS3FArg3BRDWKl3VwaMS388S/n+I/8fvrLweRADN8gVARBiIoM8dwxes89S87XVpaKLWHd1fyhu88L2qQ/gB5VguFAFo=;M6qoC2TcVVRgdg4Nvt6I8w=="
+secured: "/p2tuTAyX8MozlmDCsc3q+HhNQVJFZB0kYirh7379aF825jH1NNN7bYvb1C6TVODG0sD3HrlfEUk27QNk5IF5fjtWuOBklptQG6KbEI9KTbEmlWB3C/g3wmuH7jq/15DfoL/hJ8JLEUs9STVUE2DLKQ3b5E59L2Co3AFGnw9Il/76TZ2Xws10q+AiA+ZkIrvXQGLpweTcxnNaTc6bLWp5OzDvCKvncvZa9eG7kJ/q5arRdj6L45VaPtjTjSgeY6Htul9b3JRH206mOk7vHYp/UOIh4ys+f1Czq9g8iF+8O3kiq+LyDwNGRkY201+jX6LXueZJt/+Ydo3JSzAobPJ+H06ESZ9g0KI29Op3QrGJNo=;ozTgMda8gINMNXJSKTKsaQ=="
 ---
 

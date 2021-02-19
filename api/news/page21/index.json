@@ -2,6 +2,240 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-01-get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open.md",
+      "title": "Get ready to roll! AWS DeepRacer pre-season racing is now open",
+      "excerpt": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. Pre-season qualifying",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2252-1-Thumbnail.jpg",
+          "width": 568,
+          "height": 329,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T14:39:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-baidu-green-light-to-test-driverless-autonomous-vehicles-in-california.md",
+      "title": "Baidu green light to test driverless autonomous vehicles in California",
+      "excerpt": "Baidu’s autonomous vehicles can now drive alongside those from Cruise, Waymo, Nuro, Zoox and AutoX in California. The Chinese company has just received approval to operate its autonomous driverless vehicles from the US state.",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/",
+      "originalUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galusaustralis.com/wp-content/uploads/2021/02/baidu.0-e1612158742517-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/",
+      "publishedDateTime": "2021-02-01T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-gdit-announces-aws-availability-on-milcloud-20-contract-dave-levy-quoted.md",
+      "title": "GDIT Announces AWS Availability on milCloud 2.0 Contract; Dave Levy Quoted",
+      "excerpt": "General Dynamics Information Technology (GDIT) has announced the availability of Amazon Web Services (AWS) under the milCloud 2.0 contract, GDIT reported on Monday. AWS availability will provide the Department of Defense (DoD) access to an expanded portfolio of secure cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.executivegov.com/2021/02/gdit-announces-aws-availability-on-milcloud-2-0-contract-dave-levy-quoted/",
+      "originalUrl": "https://www.executivegov.com/2021/02/gdit-announces-aws-availability-on-milcloud-2-0-contract-dave-levy-quoted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://executivegov-media.s3.amazonaws.com/2021/02/01/56/77/7e/91/c4/a2/48/44/dave-levy-wash100.png",
+          "width": 272,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-safari-turns-on-speech-recognition-by-default-tech-preview-of-release.md",
+      "title": "Safari turns on ‘Speech Recognition’ by default Tech Preview of release",
+      "excerpt": "Safari turns on 'Speech Recognition' by default Tech Preview of release on February 1, 2021 at 2.30 p.m. Apple's Safari browser is",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/",
+      "originalUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Safari-turns-on-Speech-Recognition-by-default-Tech-Preview-of.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/",
+      "publishedDateTime": "2021-02-01T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-researchers-can-tell-if-youre-going-to-break-up-just-by-the-language-you-use.md",
+      "title": "Researchers Can Tell If You’re Going To Break Up Just By The Language You Use",
+      "excerpt": "Evidence of an impending breakup may exist in the small words used in everyday conversations months before either partner realizes where their relationship is heading, according to new psychology research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/",
+      "originalUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60184d0049ba39787ef144b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3622%26cropY1%3D51%26cropY2%3D2089",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/amp/",
+      "publishedDateTime": "2021-02-01T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-artificial-intelligence-and-the-gamestonk-blowback.md",
       "title": "Artificial intelligence and the Gamestonk blowback",
       "excerpt": "Surrounded by rallies of “power to the people,” a rag-tag group of scrappy underdogs recently managed to bring Wall Street to its knees through a dazzling display of disobedient investing that saw Gamestop stocks rocket Moonward.",
@@ -973,258 +1207,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report.md",
-      "title": "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report",
-      "excerpt": "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-budget-2021-ai-ml-and-analytics-to-ease-compliance-burden-and-check-tax-evasion.md",
-      "title": "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion",
-      "excerpt": "The Union Budget 2021 presented by Finance Minister Nirmala Sitharaman threw emphasis on technologies like Artificial Intelligence and Machine Learning, and their application to the e-Governance, GST and easing",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/",
-      "originalUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/AI-analytics-Union_Buget_2021.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/",
-      "publishedDateTime": "2021-02-01T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream.md",
-      "title": "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream",
-      "excerpt": "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg",
-          "width": 400,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "publishedDateTime": "2021-02-01T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-to-add-value-to-your-business-dont-treat-data-and-ai-as-islands.md",
-      "title": "To Add Value To Your Business, Don't Treat Data And AI As Islands",
-      "excerpt": "The best strategy is one that can connect enterprise data and AI-related efforts to everything we care about and turn data into intelligent experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/01/to-add-value-to-your-business-dont-treat-data-and-ai-as-islands/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/01/to-add-value-to-your-business-dont-treat-data-and-ai-as-islands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99ceb378494ab149d9081a%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/01/to-add-value-to-your-business-dont-treat-data-and-ai-as-islands/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/01/to-add-value-to-your-business-dont-treat-data-and-ai-as-islands/amp/",
-      "publishedDateTime": "2021-02-01T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-how-computer-vision-and-ai-make-new-revenue-from-old-media.md",
-      "title": "How Computer Vision And AI Make New Revenue From Old Media",
-      "excerpt": "Ryff can place new products in old media, creating new integrated advertising opportunities where there were none.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6017508d4c82f5970c432c25%2F0x0.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/amp/",
-      "publishedDateTime": "2021-02-01T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

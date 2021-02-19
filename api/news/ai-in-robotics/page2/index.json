@@ -365,59 +365,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
-      "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
-      "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg",
-          "width": 603,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "publishedDateTime": "2021-02-04T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-ai-in-retail-ocado-goes-bananas-for-robot-food-pickers.md",
       "title": "AI in Retail - Ocado goes bananas for robot food pickers",
       "excerpt": "Ocado Technology is training its robots to be more sensitive as pressures from the rise in online shopping grow, explains Isabel Richards, Head of UK Development Centers. (Isabel Richards) As I was chatting to Isabel Richards,",
@@ -1364,6 +1311,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-scott-hollifield-larry-king-will-miss-the-robot-apocalypse.md",
+      "title": "Scott Hollifield: Larry King will miss the Robot Apocalypse",
+      "excerpt": "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots.",
+      "sourceUrl": null,
+      "webUrl": "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.html",
+      "originalUrl": "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/mcdowellnews.com/content/tncms/assets/v3/editorial/5/ed/5ed587b6-6185-11eb-ab39-1f16da3304cd/6012e55d6f04d.image.jpg",
+          "width": 504,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.amp.html",
+      "cdnAmpWebUrl": "https://mcdowellnews-com.cdn.ampproject.org/c/s/mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.amp.html",
+      "publishedDateTime": "2021-01-29T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The McDowell News",
+        "domain": "mcdowellnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

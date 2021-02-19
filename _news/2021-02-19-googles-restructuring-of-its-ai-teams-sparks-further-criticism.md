@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-it
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/02/18/550x309/AFP_93942A_1613689939985_1613690006848.jpg"
         width: 549
         height: 309
+        isCached: true
+  - title: "Google revamps AI teams after researcher’s departure"
+    excerpt: "Google on Thursday restructured its responsible artificial intelligence (AI) efforts to centralize teams under a single executive, Marian Croak, a move by the Internet giant to stabilize groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-19T16:57:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/02/20/2003752528"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/02/20/P10-210220-322.jpg"
+        width: 800
+        height: 514
         isCached: true
   - title: "Google reshuffles AI team leadership after researcher's controversial departure"
     excerpt: "By Rachel Metz, CNN Business Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black"

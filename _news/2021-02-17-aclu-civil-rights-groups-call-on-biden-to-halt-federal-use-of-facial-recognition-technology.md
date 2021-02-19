@@ -224,20 +224,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
-  - title: "Lawmakers introduce bill to strike balance between personal rights, public safety with facial recognition technology"
-    excerpt: "A bill introduced to the Legislature this year aims to strike a balance between the government’s use of facial recognition technology and personal privacy rights by regulating its use across Utah. Facial recognition technology is one of several biometric technologies employed by law enforcement agencies and can be instrumental in generating investigative"
-    publishedDateTime: 2021-02-15T00:00:00Z
-    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/02/15/cgb-lgl21-lawmakers-introduces-bill-to-strike-balance-between-personal-rights-and-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: St. George News
-      domain: stgeorgeutah.com
-    quality: 16
-    images:
-      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/02/GettyImages-1267598587-facial-recognition-eye-kentoh-1290x726.png"
-        width: 1290
-        height: 726
-        isCached: true
 
 secured: "IaXnHuUQT2fX76IwPKFClJIr75Yzv/38VwMW8YPVaAH68QCvqNYax/mmSuYDBemPv/XVC6hECq0cuiV51b4V+9VwV9m499dt+vpN3shQJc9bEhMDtzLQCuhZJgg+Bvb4pDEtxl3mC7f6ZbsJO5GsHhFesjusRXkMcCG39Z7TBaey4kj7sw2+Pq5+qpL9jkRersORWstIfDPwEPr9Bn5CYU57UADZ1el/lZoPVFRiw0IAf/3nGxzc0tfSJ/sC+1n3CMCduNf289NoUWKSAogsk2Xe87+Rbu4ENvo6CEXtNmot/gApI/GHoY9VRo09wXD1XqdCN4rhIacV35JjNZZhBEzDQhkomumrOXe3DpNQBRM=;EvF5QiGyEJwtCyyCB8tVPA=="
 ---

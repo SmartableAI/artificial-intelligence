@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
 type: article
 quality: 104
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Venture, auto investors pour $48.9M into San Jose AI hardware startup Recogni"
+    excerpt: "SanJose-based #startup #Recogni has yet to make a sale, but has now raised about $74M from investors that include big auto industry players. #SiliconValley #autotech #autonomousvehicle #sensors #ventu"
+    publishedDateTime: 2021-02-19T14:32:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/19/san-jose-ai-hardware-startup-recogni-scores-489m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "aNSgeNMg1nYrplNjNMl/un35ME+JXBifh/VP7X+zw/x0KKW6teCbSv4wsuYMGRyDPg3SoimdhiFG5d2L4Nwp30nv4VuN6aVDbhRg23s/8bFeCRnLJjeNVJBSXJvPaiBvTl8oGuPey+4pymZmpHZeBTyTg8q0skl3MNoRYT+rOj3B1NDPk0xhe3VvyWk+h42lsftdfWViqvVxRi6iiap2Hgtv1IrPfKicB3tzGsJ4gOPxLzm77Y1hZAWDpSNb8iHea8OoshJXcztyaon3hZ7wQYavnjWvAXQEgAtrG6gzh5ecETLo0q7lxMQ7/aLp0dA1H8sTtfiKK/gaCyRHGW9Uir5ZY+l953fII0kkj74wP8Ez88qHetP7xmb3k1CxNRllzvLZwd9UULm8jLgxKXCek8BMAEboEPNcuO61KGyo1KNm3b0V072UE4Jw3tpGQHVeK+XlgE9IKGjZe98IXfcuZBkm566RDplS0YzTZdGPgvcsGjpfErmdZ+3V17/YqnxGTPQeR7cWY6utUlWKlM/F5g==;sbH2isRSqPhontGzhydAQg=="
 ---

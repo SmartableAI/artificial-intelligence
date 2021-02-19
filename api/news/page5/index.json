@@ -2,6 +2,198 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-16-how-saas-startup-credgenics-is-helping-banks-nbfcs-and-fintechs-recover-their-bad-debts-through-aiml.md",
+      "title": "How SaaS startup Credgenics is helping banks, NBFCs, and fintechs recover their bad debts through AI/ML",
+      "excerpt": "Credgenics is an end-to-end, SaaS-based, collection management tool, which delivers customised strategies and recommends optimal legal routes to facilitate faster resolution of stressed assets.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts",
+      "originalUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagew5qh-1613396698748.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts/amp",
+      "publishedDateTime": "2021-02-15T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-defence-releases-report-on-ethical-use-of-ai.md",
+      "title": "Defence releases report on ethical use of AI",
+      "excerpt": "Defence releases report on ethical use of AI. 16 February 2021 . Findings from a workshop on the ethics of Artificial Intelligence (AI) for Defence in 2019 have been released to s",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalsecurity.org/military/library/news/2021/02/mil-210216-audod01.htm",
+      "originalUrl": "https://www.globalsecurity.org/military/library/news/2021/02/mil-210216-audod01.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg",
+          "width": 675,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobalSecurity.org",
+        "domain": "globalsecurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-ai-da-the-first-robot-artist-to-be-exhibiting-herself.md",
+      "title": "Ai-Da, the first robot artist to be exhibiting herself",
+      "excerpt": "The robot was named Ai-Da after the 19th century mathematician Ada Lovelace. According to its creators, it is capable of drawing real people using its camera eye and a pencil in hand. She 'looks' in the mirror that is integrated with her camera eyes and with the help of algorithm programs transforms it into coordinates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/365453",
+      "originalUrl": "https://www.entrepreneur.com/article/365453",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613421336-Ai-Da-Robot-Lucy-Seal.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365453",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365453",
+      "publishedDateTime": "2021-02-15T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-ibms-hybrid-cloud-strategy-is-gaining-steam.md",
+      "title": "IBM’s hybrid cloud strategy is gaining steam",
+      "excerpt": "IBM is quietly acquiring capabilities and establishing partnerships that may make it the number one provider of hybrid cloud solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/",
+      "originalUrl": "https://venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/15/ibms-hybrid-cloud-strategy-is-gaining-steam/amp/",
+      "publishedDateTime": "2021-02-15T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market.md",
       "title": "This AI-powered gadget could completely disrupt the ridiculous hearing aid market",
       "excerpt": "Hearing loss sucks. It’s exhausting. I’ve suffered from partial hearing loss in both ears since the mid 2000’s. In order to function in the real world, I’m forced to exist in a state of constant vigilance.",
@@ -114,7 +306,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1032,189 +1224,6 @@
         "IBM AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-real-or-fake-robot-uses-ai-to-find-waldo.md",
-      "title": "Real Or Fake? Robot Uses AI To Find Waldo",
-      "excerpt": "A Logitech c525 webcam captures images, which are processed by the Pi with OpenCV, then sent to Google’s cloud-based AutoML Vision service. AutoML is trained with numerous images of Waldo ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
-      "originalUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/08/waldo-bot.png",
-          "width": 1691,
-          "height": 871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-ai-progress-depends-on-us-using-less-data-not-more.md",
-      "title": "AI progress depends on us using less data, not more",
-      "excerpt": "Compute costs, spurious noise, and privacy problems all mean that we can't keep moving toward bigger and bigger datasets to fuel AI progress.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/",
-      "originalUrl": "https://venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/data_globe.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/13/ai-progress-depends-on-us-using-less-data-not-more/amp/",
-      "publishedDateTime": "2021-02-13T11:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap.md",
-      "title": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,",
-      "excerpt": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/",
-      "originalUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png",
-          "width": 960,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/",
-      "publishedDateTime": "2021-02-13T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-how-can-we-fix-the-data-science-talent-shortage.md",
-      "title": "How Can We Fix the Data Science Talent Shortage?",
-      "excerpt": "Data science might just be the most buzzed-about job in tech right now, but its pop culture sheen conceals some of the harsh realities of being a fresh graduate in the industry. The job topped LinkedIn’s yearly Emerging Jobs Report from 2016 to 2019 consecutively (it is now at #3).",
-      "sourceUrl": null,
-      "webUrl": "https://www.predictiveanalyticsworld.com/machinelearningtimes/how-can-we-fix-the-data-science-talent-shortage/11967/",
-      "originalUrl": "https://www.predictiveanalyticsworld.com/machinelearningtimes/how-can-we-fix-the-data-science-talent-shortage/11967/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2020/10/MSDS_270x270_LM.gif",
-          "width": 270,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-13T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Predictive Analytics World",
-        "domain": "predictiveanalyticsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

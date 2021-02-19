@@ -43,6 +43,15 @@ related:
         width: 730
         height: 476
         isCached: true
+  - title: "Deep learning may help doctors choose better lung cancer treatments"
+    excerpt: "Researchers have developed a deep learning model that, in certain conditions, is more than 71 percent accurate in predicting survival expectancy of lung cancer patients, significantly better than traditional machine learning models that the team tested."
+    publishedDateTime: 2021-02-19T15:18:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210218140153.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Deep Learning Can Help Guide Lung Cancer Treatment Decisions"
     excerpt: "A deep learning algorithm could help providers predict survival expectancy in patients with lung cancer, which could help guide treatment decisions."
     publishedDateTime: 2021-02-19T14:30:00Z
@@ -56,20 +65,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Deep learning may help doctors choose better lung cancer treatments"
-    excerpt: "Researchers have developed a deep learning model that, in certain conditions, is more than 71 percent accurate in predicting survival expectancy of lung cancer patients, significantly better than traditional machine learning models that the team tested."
-    publishedDateTime: 2021-02-18T18:39:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ps-dlm021821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "ci2RXFxZyvkwtN4fwkL74L1gK5tT9VkHvxiLXGKacIiEX76LvSIkQeDkzpsqA9uUQBzv4lCrKaDlOXO27Sv4FBTqaPufDzCJ5+MMfmDx9HgL4MI/GzYUJOGQkhBzsLxB1YUW7XudhXiyA1RWvYYSRiqxL5uQDsZHDZEK54dEXKS0O6Eq5bfLsfcMRHgBicgyg3A/ddZu4Q3klkAGNr+dI96dxFZBLR36QxGRSTUapjDVzlm0YqzchbyVisOTTsCYvL4kfZqDH1SzeycmDOi3p6PRG48SZ+Agi9pbnQHDfaY5pA4JqcH0uT/pli7Lm/Os52HgyrUlcQslOvbECDj7oLubumIIkGH6Z0v5uZsv2Wu/jmPiB2EJpl/mvnRlNbm/qvdMmW5ubB7w72RZhCZb9+Zsy+6fK48gzI8N+hf59DFlfxQYYC8paPeoycU1VG7m7eDhzkhFhhaukyqlCOtlIhFjsxBU5OHjf9P1tAmPkKvnQPi+fRaq9ZnRCy9MHNuZTYHWYgS7ZLK/mSF9wUAwiw==;Ovk6NGx8xbmLZos/xPmvHg=="

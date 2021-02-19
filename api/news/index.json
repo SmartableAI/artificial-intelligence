@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-20-ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip.md",
+      "title": "IBM unveils the world’s first quad-core AI accelerator chip",
+      "excerpt": "IBM has unveiled the world’s first quad-core, artificial intelligence (AI) accelerator chip, built using seven-nanometer (7nm) MOSFET technology. IBM optimized the novel chip for low-precision workloads with support for many AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip",
+      "originalUrl": "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570816148/itpro/2016/07/ibm.jpg",
+          "width": 1000,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp",
+      "publishedDateTime": "2021-02-19T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-natural-language-processing-market-is-going-to-boom-with-ibm-microsoft-google-amazon-web-services.md",
+      "title": "Natural Language Processing Market is Going to Boom with IBM, Microsoft, Google, Amazon Web Services",
+      "excerpt": "Latest released the research study on Global Natural Language Processing Market offers a detailed overview of the factors influencing the global business scope Natural Language Processing Market research report shows the latest market insights current situation analysis with upcoming trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "originalUrl": "https://www.openpr.com/news/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U219826638_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "publishedDateTime": "2021-02-19T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.md",
       "title": "Owlcam 5.0 is a premium dash cam with AI, voice control and more",
       "excerpt": "Owlcam 5.0 is a premium dash cam that offers voice control, AI, and an LTE connection for uploading videos to the cloud.",
@@ -206,7 +303,7 @@
       "originalUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -439,7 +536,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -681,6 +778,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-19-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company.md",
+      "title": "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company",
+      "excerpt": "Canada NewsWire NEW YORK, Feb. 18, 2021 Acquisition will help build a full sta",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-18/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company",
+      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-18/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-why-developing-ai-to-defeat-us-may-be-humanitys-only-hope.md",
       "title": "Why developing AI to defeat us may be humanity’s only hope",
       "excerpt": "One glance at the state of things and it’s evident humanity’s evolved itself into a corner. On the one hand, we’re smart enough to create machines that learn. On the other, people are dying in Texas because elected officials want to keep the government out of Texas.",
@@ -888,7 +1037,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1088,146 +1237,6 @@
         "Google AI",
         "Facebook AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-will-the-future-of-security-be-led-by-robots-aitx-president-says-yes.md",
-      "title": "Will the future of security be led by robots? AITX president says yes",
-      "excerpt": "Could the future of security be led by robots? Artificial Intelligence Technology Solutions — commonly known as AITX — thinks so. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
-      "originalUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
-      "cdnAmpWebUrl": "https://www-centralillinoisproud-com.cdn.ampproject.org/c/s/www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
-      "publishedDateTime": "2021-02-18T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Central Illinois Proud",
-        "domain": "centralillinoisproud.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-auto-supplier-visteon-sees-more-plant-closures-due-to-chip-shortage.md",
-      "title": "Auto supplier Visteon sees more plant closures due to chip shortage",
-      "excerpt": "Auto parts supplier Visteon Corp said on Thursday the global semiconductor chip shortage could hit global auto production by about 10% to 15% in the first half of 2021 and likely lead to additional plant closures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-visteon-semiconductors-idUSKBN2AI29M",
-      "originalUrl": "https://www.reuters.com/article/us-visteon-semiconductors-idUSKBN2AI29M",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552021796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H19J",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI29M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI29M",
-      "publishedDateTime": "2021-02-18T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning.md",
-      "title": "AI: IBM showcases new energy-efficient chip to power deep learning",
-      "excerpt": "IBM researchers have designed an AI accelerator chip that boosts performance, but not energy bills. By Daphne Leprince-Ringuet | February 18, 2021 -- 15:00 GMT (07:00 PST) | Topic: Innovation IBM's researchers have designed what they claim to be the world's first Ankur Agrawal and Kailash Gopalakrishnan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/18/11b45681-8657-434c-80e1-31ea97d3626d/ibm-new-chip.jpg",
-          "width": 768,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "publishedDateTime": "2021-02-18T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2021/02/15/nissan-approached-
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/02/15/nissan-approached-apple-self-driving-car-project/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nissan says 'not in talks with Apple' over autonomous car project"
-    excerpt: "Nissan Motor Co Ltd said on Monday it is not in talks with Apple Inc, following a report that the iPhone maker approached the Japanese company in recent months about a tie-up for its autonomous car project."
-    publishedDateTime: 2021-02-15T00:59:45Z
-    webUrl: "https://www.reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idUSL1N2KL01Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF02N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF02N"
-    type: article
-    provider:
-      name: reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y
-      domain: reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y
-    quality: 142
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551575165&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEH1E01L"
-        width: 640
-        height: 426
-        isCached: true
   - title: "Nissan Says Not In Talks With Apple On Self-driving Cars"
     excerpt: "Japanese auto maker Nissan said Monday it is not in talks with Apple to develop self-driving cars, a week after Hyundai also denied reports it was discussing the top-secret project with the US tech giant."
     publishedDateTime: 2021-02-15T06:38:00Z

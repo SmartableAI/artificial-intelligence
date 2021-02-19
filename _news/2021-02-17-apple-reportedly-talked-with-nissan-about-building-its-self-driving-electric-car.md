@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nissan says 'not in talks with Apple' over autonomous car project"
-    excerpt: "Nissan Motor Co Ltd said on Monday it is not in talks with Apple Inc, following a report that the iPhone maker approached the Japanese company in recent months about a tie-up for its autonomous car project."
-    publishedDateTime: 2021-02-15T00:59:45Z
-    webUrl: "https://www.reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idUSL1N2KL01Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AF02N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF02N"
-    type: article
-    provider:
-      name: reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y
-      domain: reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y
-    quality: 142
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551575165&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEH1E01L"
-        width: 640
-        height: 426
-        isCached: true
   - title: "Nissan approached by Apple on self-driving car project"
     excerpt: "Apple is believed to have approached Japanese auto maker Nissan about working on its secretive autonomous car project. Talks ended after disagreements between the companies over the branding of the electric vehicles,"
     publishedDateTime: 2021-02-15T08:49:00Z

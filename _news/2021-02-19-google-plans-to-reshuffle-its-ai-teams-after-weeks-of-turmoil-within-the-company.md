@@ -91,6 +91,20 @@ related:
         width: 549
         height: 309
         isCached: true
+  - title: "Google revamps AI teams after researcher’s departure"
+    excerpt: "Google on Thursday restructured its responsible artificial intelligence (AI) efforts to centralize teams under a single executive, Marian Croak, a move by the Internet giant to stabilize groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-19T16:57:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/02/20/2003752528"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/02/20/P10-210220-322.jpg"
+        width: 800
+        height: 514
+        isCached: true
   - title: "Google reshuffles AI team leadership after researcher's controversial departure"
     excerpt: "By Rachel Metz, CNN Business Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black"
     publishedDateTime: 2021-02-19T06:39:00Z

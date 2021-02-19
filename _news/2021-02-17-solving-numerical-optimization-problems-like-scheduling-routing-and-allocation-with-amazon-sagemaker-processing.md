@@ -43,38 +43,6 @@ related:
         width: 800
         height: 531
         isCached: true
-  - title: "Exploring Amazon SageMaker’s new features — CloudFormation, Data Wrangler"
-    excerpt: "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December."
-    publishedDateTime: 2021-02-15T00:35:00Z
-    webUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/"
-    ampWebUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?w=1200&strip=all"
-        width: 1200
-        height: 617
-        isCached: true
-  - title: "Exploring Amazon SageMaker’s new features — Clarify, Pipelines, Feature Store"
-    excerpt: "Are you considering AWS SageMaker for your machine learning hub? Here's a hands-on look at some key, newly delivered, capabilities."
-    publishedDateTime: 2021-02-15T00:36:00Z
-    webUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/"
-    ampWebUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker-Pipelines.jpg?w=1200&strip=all"
-        width: 1200
-        height: 635
-        isCached: true
 
 secured: "dUAXepnoIfzUaziGP8HF4QvbUdmkxpvBPH1H8vQ6XhtpGRLg5QoYDaXRd3FuUNKc5026II/QRZKHSe84fy4gb8PpBrlJRykUooRsyt/Wj66G9aozYfdZG6EOsfMumuQ2SPAK9l1QmJse5kdO/1dJjakGMcz1qfRZRutBo6NkAP9M+3lm9lPzZtul5IOF8V/IKgZxrbqB+d3XBrgJnUmhUFClG2Kfq9fTnWdt7JcDV7aJ+lFwbEcmMHJ/fojGWfAFpweumJmn2uQWZpTRKGXz/DYwbVqJ5rfo65ynufqqqHtLRYMUfmgRlY4pUKRV5nPB7lnlaTdZDZhlpMJXKJ+6ui0NpdJ8Z7lU5LZlIcHVMQU=;uHcNFYX+ZVaNoYIVLyRDkQ=="
 ---

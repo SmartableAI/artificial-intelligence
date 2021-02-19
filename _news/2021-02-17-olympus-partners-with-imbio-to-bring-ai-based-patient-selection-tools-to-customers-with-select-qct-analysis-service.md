@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-17T14:27:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-diagnostic-technology-medical-technology-lung-disease-a4838f9c1536ff80627130b1ef1a8266"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-diagnostic-technology-medical-technology-lung-disease-a4838f9c1536ff80627130b1ef1a8266"
 type: article
-quality: 14
-heat: 14
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

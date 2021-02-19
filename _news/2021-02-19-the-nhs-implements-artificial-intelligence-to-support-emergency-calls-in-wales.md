@@ -1,25 +1,29 @@
 ---
 category: news
 title: "The NHS Implements Artificial Intelligence to Support Emergency Calls in Wales"
-excerpt: "Corti is proud to announce a partnership with the NHS and the Welsh Ambulance Service to test Corti s artificialintelligence platform on their 250 000 yearly emergency calls to see if Corti could help increase the odds for cardiac patients"
-publishedDateTime: 2021-02-19T10:38:00Z
-originalUrl: "https://www.openpr.com/news/2245154/the-nhs-implements-artificial-intelligence-to-support"
-webUrl: "https://www.openpr.com/news/2245154/the-nhs-implements-artificial-intelligence-to-support"
-ampWebUrl: "https://www.openpr.com/amp/2245154/the-nhs-implements-artificial-intelligence-to-support"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245154/the-nhs-implements-artificial-intelligence-to-support"
+excerpt: "Corti is proud to announce a partnership with the NHS and the Welsh Ambulance Service to test Corti's #artificialintelligence platform on their 250.000 yearly emergency calls to see if Corti could help increase the odds for cardiac patients across Wales and hopefully someday the entire UK."
+publishedDateTime: 2021-02-19T15:45:00Z
+originalUrl: "https://menafn.com/1101626347/The-NHS-Implements-Artificial-Intelligence-to-Support-Emergency-Calls-in-Wales"
+webUrl: "https://menafn.com/1101626347/The-NHS-Implements-Artificial-Intelligence-to-Support-Emergency-Calls-in-Wales"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
-secured: "fZIA9Pepq7chi42Bsb5W1olFmor6Jx90Dy4ap+1RS28T+gjP7WPvOgWsYWlAVUeINT2t3HgU4l2byPVRRfkXkSvM72JGcwmBhJAzeLrqM4JfDbtOaL8tjBnBEvIDOUYfr2FYf5sw95oiX3PpZEMj16Sw438dcgVwC1Voo308cf0IA49Xx3fBQeq10bhT/zCJDPx19DYzhdXJ2Ge//vOz7D/WaiEBD03C1jCRFEtk2ttqX1SB/1Ni2L9fVhVD1hJ4v/poKk0I7s3+SwpRIthQmYm/rdT3nxPXMaiNV4uziKEzSTo9fSujm0RExB26mdZUhqMw3sXsSpcbZOgCGDVAAvYbGB2rpc5JnmIxiC4vnm8=;XVWcIIAvcgVSAhrYis/pHg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?182997"
+    width: 444
+    height: 250
+    isCached: true
+
+secured: "NB1i6jyBH7DNtO/M4W76CR/UuDLbEn1EiC7uB5ekSFy0JSRMVgXGy8IFCAPfe9GPxLbET49AN0v4mxhVeAHtenMfN4O8k5Qt72nFTyFf0Z2+JdeGMy4Tii7W6LSF81my+1KvXfZToJND1p8RqrevogmWWLSr46vFWOt1FhRon52M1sopiO7ty0enkfltWoBQVFuBSVxhINTh1zTmjY4hRbNf0No3Kkp1XU5QEfEnwCPQ2GyRkQ/tdnpqzErD3KQucNZxU7/x7tv/Wuokpxmtz15pvyrLDdqpv4UBBvuHRGTZeXsNuYVWuqFx4gJcLlkv5s7AxkG2igXVvVghAZLPbR1GBjtDsAiRMcvOLLsm49s=;1H8kGrrxLlqm/BB/nPJihA=="
 ---
 

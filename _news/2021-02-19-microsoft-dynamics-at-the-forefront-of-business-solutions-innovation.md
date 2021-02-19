@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing Market is Going to Boom with IBM, Microsoft, Google, Amazon Web Services"
+    excerpt: "Latest released the research study on Global Natural Language Processing Market offers a detailed overview of the factors influencing the global business scope Natural Language Processing Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-02-19T15:05:00Z
+    webUrl: "https://www.openpr.com/news/2245722/natural-language-processing-market-is-going-to-boom-with-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 78
+    images:
+      - url: "https://cdn.openpr.com/U/2/U219826638_g.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Microsoft Azure Get Asynchronous Document Translation Tool"
     excerpt: "Document Translation in Azure Translator can translate batches of documents while maintaining the original layout and format."
     publishedDateTime: 2021-02-18T12:02:00Z
@@ -57,20 +73,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
-    publishedDateTime: 2021-02-16T16:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform, added"
     publishedDateTime: 2021-02-17T12:05:00Z
@@ -82,22 +84,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 66
-  - title: "How Computers See Us: Microsoft Fellow Works to Fight Discrimination Through AI | CU Boulder today"
-    excerpt: "Morgan Klaus Scheuerman, a computer science PhD student, has been awarded the Microsoft Research Fellowship for 2021. He investigates how and why facial recognition technologies are wrong. Credit: Casey Cass / CU kei Growing up in a traditional working-class family in one of the most conservative counties in Maryland,"
-    publishedDateTime: 2021-02-16T06:18:00Z
-    webUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 62
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/How-Computers-See-Us-Microsoft-Fellow-Works-to-Fight-Discrimination.jpg"
-        width: 750
-        height: 539
-        isCached: true
   - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
     excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
     publishedDateTime: 2021-02-16T05:08:00Z
@@ -113,22 +99,6 @@ related:
       - url: "https://cdn.openpr.com/U/2/U216134822_g.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Intel and Microsoft partner to simplify IoT solutions development"
-    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2021-02-18T08:38:00Z
-    webUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/"
-    ampWebUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
-    type: article
-    provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 59
-    images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/partnership-iot.jpg"
-        width: 800
-        height: 360
         isCached: true
   - title: "Microsoft Azure Goes To Space via HPE Partnership"
     excerpt: "A partnership with Hewlett Packard Enterprise (HPE) will bring Microsoft Azure to the International Space Station (ISS) by way of HPE's Spaceborne Computer-2."
@@ -155,42 +125,19 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider. \"By again passing the Azure Expert MSP criteria, Unisys has proven that it can consistently and securely design,"
-    publishedDateTime: 2021-02-16T12:58:00Z
-    webUrl: "https://www.nasdaq.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third"
+  - title: "VW partners with Microsoft to build computing platform for autonomous vehicles"
+    excerpt: "Volkswagen says it is further strengthening its capabilities in the development of autonomous or highly automated driving (AD) solutions with a new partnership with Microsoft. The Group’s software"
+    publishedDateTime: 2021-02-19T16:45:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/02/19/vw-partners-with-microsoft-to-build-computing-platform-for-autonomous-vehicles/40841/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
-    publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 35
     images:
-      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
-  - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
-    excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
-    publishedDateTime: 2021-02-19T07:23:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/simplicity-of-microsoft-azures-iot-solutions-makes-possible-rapid-scalable-solutions-nid-29134-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 46
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/9JDq6Py3.png"
-        width: 300
-        height: 300
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/VW-Automated-Driving-Platform_Microsoft-2.jpg"
+        width: 800
+        height: 395
         isCached: true
   - title: "Global Text-to-Speech (Software, Services) Market Forecast to 2026 with Nuance Communication, Microsoft, IBM, Google and Amazon.com Dominating - Resea"
     excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"

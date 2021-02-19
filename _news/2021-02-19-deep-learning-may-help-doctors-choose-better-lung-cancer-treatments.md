@@ -2,27 +2,25 @@
 category: news
 title: "Deep learning may help doctors choose better lung cancer treatments"
 excerpt: "Researchers have developed a deep learning model that, in certain conditions, is more than 71 percent accurate in predicting survival expectancy of lung cancer patients, significantly better than traditional machine learning models that the team tested."
-publishedDateTime: 2021-02-18T18:39:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/ps-dlm021821.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ps-dlm021821.php"
+publishedDateTime: 2021-02-19T15:18:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/02/210218140153.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/02/210218140153.htm"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Deep learning may help doctors choose better lung cancer treatments"
@@ -72,6 +70,6 @@ related:
         height: 400
         isCached: true
 
-secured: "bBAA3fmBoYRYx2Jsez7y/CRiZ8r45wBUkbeYnWjKKFxtoQyjncmJIFD6s7FwYxdnlsvw3ynZGZJF6ZulsVzceMXih3qs/FkWCT6cc5f2ldAk234rGmoY15ktqwlK9eWLw0sAGc4PwNfE2V486yBGdvcN7YrGTggeyVdAqqCK4AziJ0d2bg3dGqPRP2opMj8SdLcO4PT5BDWdQmtLSfAu7/C2auiqPQ43qaghTcfQggAN0koFcI+bSjNKlmgxqzFyE+zvkcQ7rHziLiTXAm2Lakj/uz9/Fe/PILTcaY2KhnwlPZsEq4syOY/JMHAAAYliZslE7yAgKITOKBJKlOKc2cHyfb8tj4oDe+c5SHVNhXs=;jQFY3dW0z+KP389fipy4jg=="
+secured: "cs5/R6msumDlrWnSxnrWhZU/H5DN3Yh+oeRk8gckEYi7U35mDkw3t6v55pQKjK9Ek3c8eCP0qrZghqueaqJLxq25THxZ0WJhFRRDxt2wgZ5Q3Ilru+suMzs7DtzdyOuDEuRdBjPuQ70j/cKroDfnfdo5gsfATN5BkBksaGYH/CHB/xU9FZB/xKalqYC0QN/8ranGZWJT0AflrxJJCso9MYM+sc151M3h9Y+ASg+ge/hq60ElA+dl1meoVE75TbCCJXtRHqIQ/pzMoGIZVW2LoEIUacGUHt7Xphj539ZZ4Dm4Tw1NEPZTEIvh+5y8RCf1PFJUhValgS8IBTNqDy6jgRNGiyvIuY2qvS7JOzE4Ytk=;wM0XZB6Y5SnMRBf/pk/YXw=="
 ---
 

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-19-natural-language-processing-market-is-going-to-boom-with-ibm-microsoft-google-amazon-web-services.md",
+      "title": "Natural Language Processing Market is Going to Boom with IBM, Microsoft, Google, Amazon Web Services",
+      "excerpt": "Latest released the research study on Global Natural Language Processing Market offers a detailed overview of the factors influencing the global business scope Natural Language Processing Market research report shows the latest market insights current situation analysis with upcoming trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "originalUrl": "https://www.openpr.com/news/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U219826638_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "publishedDateTime": "2021-02-19T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow.md",
       "title": "Applying voice classification in an Amazon Connect telemedicine contact flow",
       "excerpt": "Given the rising demand for fast and effective COVID-19 detection, customers are exploring the usage of respiratory sound data, like coughing, breathing, and counting, to automatically diagnose COVID-19 based on machine learning (ML) models. University of Cambridge researchers built a COVID-19 sound",
@@ -62,7 +107,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1419,50 +1464,6 @@
         "Natural Language Processing",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
-      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
-      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
-      "originalUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgbh.brightspotcdn.com/dims4/default/22686fc/2147483647/strip/true/crop/1289x725+0+0/resize/1289x725!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
-          "width": 1289,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGBH",
-        "domain": "wgbh.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

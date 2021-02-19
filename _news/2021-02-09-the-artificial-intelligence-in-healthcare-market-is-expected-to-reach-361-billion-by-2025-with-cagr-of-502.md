@@ -1,26 +1,20 @@
 ---
 category: news
 title: "The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%"
-excerpt: "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in healthcare market."
-publishedDateTime: 2021-02-09T15:38:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee"
-webUrl: "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee"
+excerpt: "In terms of opportunities, the artificial intelligence in healthcare market is expected to grow from $2.1 billion in 2018 to $36.1 billion by 2025; it is expected to grow at a CAGR of 50.2% during the forecast period."
+publishedDateTime: 2021-02-09T09:30:00Z
+originalUrl: "https://www.morningstar.com/news/accesswire/628709msn/the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502"
+webUrl: "https://www.morningstar.com/news/accesswire/628709msn/the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "VXFaOforSwaFYvvODcu+cyuhwcyckgyxbbWF4x0F28XGTK4gBIzyuXoobOQhMvY5Ucm26B5I3K+Xt9UFFU+phAlaC6D19rtOiyosca61JQwgGSmxEl1tS1wo/6m/nHqcOpAItpHUKdnU6UuVaB/0IAxuwcleTfB4Tdl5KpmyPnVDlhesj6afvBaUnmgJqL0h2x6VMAL52Vy34MO3gqo8dIHexwJodu78dw+8s6wa7Ct3e8A13ef3nIFzhZ7XoPIw5spP74DsgrbxEpSpKKWk3O7rJCq97R30QQA1GTQkoKVwzAEnXWM9YWo+GNNVzGeS2bONJ0C+8Ty4l+5TMYjSCZS2PQ+LYEOZlL7V1hOOxKA=;EksKkqJPyX7DALNQSCuVVA=="
+secured: "F4RDbv6T5HuR1/TIudRqUO2U2/GKAfLAQwXPxUvVGNyCpNUeU9rQkSmTJiTVCeG87kg0XGvqdsPcHW5ZpyOF5CPC/mfXUy+uF+GsMKMbqdGshissMLALq0VGbcmNPjh+qjCKGPnbtl0LEeU4uEEPjnr+sfxbFEwApzZwpitfXTiFu6mwGXA5oWqcn+RgmMVTe3zkvJQf5dRXs7+lQRNIq5hAJBx/CtGdzuG30f2o2sHeVf6rnlWl1YYWt+7alQ11q3WstCK9kC1bXs1yESyAXtDm8cp8CMwuP+zrmsQt1vFUPoVE59rwDNWIeEuKVO67aVymMP/kV0jJwjtrHi1NAQjJptsuM83mZ9AEUqZaom4=;wYjBXATSjKOYYcsOnOCIQQ=="
 ---
 

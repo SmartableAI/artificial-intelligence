@@ -25,21 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Breakingviews - Capital Calls: Baidu hits its AI stride"
-    excerpt: "China’s search engine operator Baidu is finally getting somewhere with its artificial intelligence bets. Sales in the quarter ending in December rose 5% year-on-year to $4.6 billion. That was powered by a 52% surge in cloud computing and other non-advertising revenue,"
-    publishedDateTime: 2021-02-18T04:00:00Z
-    webUrl: "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI0B8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI0B8"
+  - title: "Synopsys Posts Financial Results for First Quarter Fiscal Year 2021"
+    excerpt: "Synopsys, Inc. (Nasdaq: SNPS) today reported results for its first quarter fiscal year 2021. Revenue for the first quarter was $970.3 million, compared to $834.4 million for the first quarter of fiscal 2020."
+    publishedDateTime: 2021-02-17T21:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "loanDepot Announces Fourth Quarter and Full Year 2020 Financial Results"
+    excerpt: "Depot’s assets are unlike any other lender in the marketplace today: – Diversified strategy: Integrated at-scale refinance and purchase business ensures that loanDepot thrives in any mortgage market."
+    publishedDateTime: 2021-02-19T08:40:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-mlb-government-business-and-finance-901b6a617829ca0f84a6bd7e7b42ff9f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551939101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H055"
-        width: 818
-        height: 545
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "emEHfEGm6kbhv/OUD3P+fR+SzQrNpHE4t+dWZRVo0D+P1MvdESAdDdVrZF4LR7XNpSgQHn2iKWT33MiO/hARlGzjOOG6gNOtD6ruDyckybJiIJaY+lNqczFxOYaUSAxQvFOrDv+uAMPZj3SvgY35As4jcToBaBpmNoSQ2q1+z3xZefIlLIiJpqOtBqGkxStRo/aG8ZwK1kh9lXYcoVUqJnr5zWZZFOXVVuu+l5AxVaVU0eh/knRH4lyTB28TNYvaqa/PeSdHpbgkopLB036TLDqjHmkIR/AgFE8Jw2u1sYwwLIvYpSQ9Dwd1H2Icdz+UGmv+vzDwxpCh1W8GkJVIb3hbGKTxzU319MW78pT+jmo=;Lv9JLE1WXdWxd05jIGznuw=="

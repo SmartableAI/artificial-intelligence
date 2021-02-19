@@ -67,6 +67,15 @@ related:
         width: 650
         height: 300
         isCached: true
+  - title: "Venture, auto investors pour $48.9M into San Jose AI hardware startup Recogni"
+    excerpt: "SanJose-based #startup #Recogni has yet to make a sale, but has now raised about $74M from investors that include big auto industry players. #SiliconValley #autotech #autonomousvehicle #sensors #ventu"
+    publishedDateTime: 2021-02-19T14:32:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/19/san-jose-ai-hardware-startup-recogni-scores-489m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "qKOKEE4KYRRxCXq+CPJM/vbqXVujh2RQ6n2lZE640Yb/9rgkUdSHfUze80ZxvbsZFcFmpE3FK3IPWSdWFLa7lVthLRqvHi85MgcwEXXBcGhqGDJDGM5jxnM4rB2WPxi/+x117jBpvC5aAL8CxNvA12/qyI+aOo1ohIkc6O8VsWNhhL87FgbrjlrOOgW3QOOdXuIJl07QkLFxhzqk+VW2+B5TUCgLvcuYGD0UjxtQC1gWNnLg8jZW6MJwV395FVo7J4qHQlUcseb/Uq9twQWSCVSenJn8tDRdFNxsb3awtBpVXKjAYXYEroNfMZz+gH8aWaVrPfIEYumIs1c1rYx02ErI32N/KfVlFt/Z39nBeTiV9VO4xGcrm5EYiJRxZ9Ip+fovd1Mk0CiAP9bYaYUAqUBnq7PF5YQQWNAeU2Eu/bjbjtrqICZllssZaEfEUF1qlsqeS77YB8gGbj7Fi4MOAyxjwPjVZzc4gAJSg+ZCxJoAdJzAe35EgGaCNiBBAdnzHO2SqC6I+D/oIHh6Bw/akA==;vuZoXHgP6N2qUwatjrWOOw=="
 ---

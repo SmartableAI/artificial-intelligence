@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustain
 cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
     quality: 59
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/explainablea.jpg"
+        width: 1440
+        height: 1432
+        isCached: true
+  - title: "Explainable AI for Decoding Genome Biology"
+    excerpt: "Researchers at the Stowers Institute for Medical Research, in collaboration with colleagues at Stanford University and Technical University of Munich have developed advanced explainable artificial intelligence (AI) in a technical tour de force to decipher regulatory instructions encoded in DNA."
+    publishedDateTime: 2021-02-19T16:28:00Z
+    webUrl: "https://www.labmanager.com/news/explainable-ai-for-decoding-genome-biology-25169"
+    ampWebUrl: "https://www.labmanager.com/news/explainable-ai-for-decoding-genome-biology-25169/amp"
+    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/explainable-ai-for-decoding-genome-biology-25169/amp"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 59
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25169/iImg/46658/feb19-2021-stowers-genome-ai.jpg"
         width: 1440
         height: 1432
         isCached: true

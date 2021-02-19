@@ -60,6 +60,22 @@ related:
         width: 1440
         height: 1432
         isCached: true
+  - title: "Explainable AI for Decoding Genome Biology"
+    excerpt: "Researchers at the Stowers Institute for Medical Research, in collaboration with colleagues at Stanford University and Technical University of Munich have developed advanced explainable artificial intelligence (AI) in a technical tour de force to decipher regulatory instructions encoded in DNA."
+    publishedDateTime: 2021-02-19T16:28:00Z
+    webUrl: "https://www.labmanager.com/news/explainable-ai-for-decoding-genome-biology-25169"
+    ampWebUrl: "https://www.labmanager.com/news/explainable-ai-for-decoding-genome-biology-25169/amp"
+    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/explainable-ai-for-decoding-genome-biology-25169/amp"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 59
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25169/iImg/46658/feb19-2021-stowers-genome-ai.jpg"
+        width: 1440
+        height: 1432
+        isCached: true
   - title: "Terminator Salvation? New Artificial Intelligence Program to Accelerate Clean Energy Generation"
     excerpt: "From 'The Terminator' and 'Blade Runner' to 'The Matrix', Hollywood has taught us to be wary of artificial intelligence. But rather than sealing our doom on the big screen, algorithms could be the solution to at least one issue presented by the climate crisis."
     publishedDateTime: 2021-02-15T15:13:00Z

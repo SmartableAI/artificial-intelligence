@@ -29,19 +29,28 @@ images:
 related:
   - title: "Daimler's Torc Robotics picks Amazon as cloud provider for self-driving trucks"
     excerpt: "Daimler AG unit Torc Robotics said on Wednesday it has selected Amazon's cloud computing division to handle huge amounts of data in real time as it prepares to test self-driving test trucks in New Mexico and Virginia."
-    publishedDateTime: 2021-02-17T13:20:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-torc-amazon-com-idUSKBN2AH0SY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH0SY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0SY"
+    publishedDateTime: 2021-02-17T08:29:00Z
+    webUrl: "https://www.businessinsider.com/daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks-2021-2?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+  - title: "Mercedes’ autonomous truck developer Torc Robotics selects AWS as preferred cloud provider for self-driving truck fleet"
+    excerpt: "Autonomous truck developer Torc Robotics, part of automotive giant Daimler Mercedes-Benz, has selected Amazon Web Services as its preferred cloud provider to handle the scale and speed needed for"
+    publishedDateTime: 2021-02-19T16:30:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/02/19/mercedes-autonomous-truck-developer-torc-robotics-selects-aws-as-preferred-cloud-provider-for-self-driving-truck-fleet/40834/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 49
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551818840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G0G6"
-        width: 817
-        height: 545
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/torc-21C0087_002.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Torc Robotics selects AWS as preferred cloud provider for self-driving truck fleet"
     excerpt: "Torc is an independent subsidiary of Daimler Truck AG, responsible for commercializing a Level 4 autonomous system that will be offered to trucking customers. As defined by the Society of Automotive Engineers (SAE),"

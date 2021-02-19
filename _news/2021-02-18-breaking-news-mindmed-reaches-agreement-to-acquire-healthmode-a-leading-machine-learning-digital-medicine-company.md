@@ -20,17 +20,6 @@ topics:
 
 related:
   - title: "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company"
-    excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr."
-    publishedDateTime: 2021-02-18T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-  - title: "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company"
     excerpt: "Canada NewsWire NEW YORK, Feb. 18, 2021 Acquisition will help build a full sta"
     publishedDateTime: 2021-02-18T20:27:00Z
     webUrl: "https://www.bloomberg.com/press-releases/2021-02-18/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company"
@@ -43,6 +32,20 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company"
+    excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr. Daniel R. Karlin M.D. M.A. and former Google AI/ML industry veteran Bradford Cross added to MindMed executive team NEW YORK,"
+    publishedDateTime: 2021-02-18T12:41:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-government-regulations-ownership-changes-ff68e279a210c18215e0ca6d47155acf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "gYQ7lT7o1EpyolmMoIaNrrYXFJPx8rL42KACvJEa7UtlDp+k/G7Afo+ZgUG1qkJigIbbapyCEQ8XXle6oGUW6P2SYw6c5xlWHCCmye+NWOiS4Y9gIzM4C/SXZl1ZV1qZmTmbH5d5+nmdsyE4/lMK/Ws/ro8/sjHDzgBgHBAFW7GPkrKsbASjKW9wbX7PxJ0pAmlyyaNranaP6iTfPF82YXwjte6pnniMC11JGGMAK6f3Zm4Wvv/DYMtdjTUkOYYBwJmDIv9jt9Otwg7MDKyChatOdHvOWw9x7df1Nr3uJTX4TLIu0e2owIlmC3sIqiOQYYPlHMDacltIy2f4kkMrsqPbOVn9mdzGsh39v7Xxrp8=;69qDzYmbyZdQ1xiIYwRGJA=="

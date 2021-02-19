@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-18-covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.md",
+      "title": "COVID-19 has made Americans lonelier than ever – here’s how AI can help | Opinion",
+      "excerpt": "Therapeutic bots have improved users’ mental health for decades. Now, psychiatrists are studying how these AI companions can improve mental wellness during the pandemic and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html",
+      "originalUrl": "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MSIRECICK5BNBJ5ZXERRNT6EYY.jpg",
+          "width": 754,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html?outputType=amp",
+      "publishedDateTime": "2021-02-18T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penn Live",
+        "domain": "pennlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascendio.md",
       "title": "Lumiata Extends Data Preparation for Healthcare Customers on AWS and Azure in Partnership with Ascend.io",
       "excerpt": "Lumiata has announced a new partnership with Ascend.io in order to provide customers with access to its proprietary data preparation process. This relationship will ensure that all Lumiata customers,",
@@ -910,49 +954,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502.md",
-      "title": "The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%",
-      "excerpt": "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in healthcare market.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-09-artificial-intelligence-for-good-how-ai-is-helping-humanity.md",
       "title": "Artificial Intelligence For Good: How AI Is Helping Humanity",
       "excerpt": "AI empowers organizations, governments and communities to build a high-performing ecosystem, and its profound impact on human lives is solving some of the most critical challenges faced by society.",
@@ -1002,6 +1003,40 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502.md",
+      "title": "The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%",
+      "excerpt": "In terms of opportunities, the artificial intelligence in healthcare market is expected to grow from $2.1 billion in 2018 to $36.1 billion by 2025; it is expected to grow at a CAGR of 50.2% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/accesswire/628709msn/the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502",
+      "originalUrl": "https://www.morningstar.com/news/accesswire/628709msn/the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1393,59 +1428,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players.md",
-      "title": "Artificial Intelligence Robots Market 2020: Expected Development, Share, Demand And Study Of Key Players",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

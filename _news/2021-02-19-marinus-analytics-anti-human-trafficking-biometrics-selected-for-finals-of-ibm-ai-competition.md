@@ -64,6 +64,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Marinus Analytics is the lone US company in the final round of the $5 million AI XPRIZE"
+    excerpt: "In 2019 alone, the company claims that Traffic Jam helped to identify an estimated 3,800 victims of sex trafficking."
+    publishedDateTime: 2021-02-19T15:40:00Z
+    webUrl: "https://nextpittsburgh.com/latest-news/marinus-analytics-is-the-lone-us-company-in-the-final-round-of-the-5-million-ibm-watson-ai-xprize-competition/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 31
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/02/17145743/Marinus-.jpg"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government"
     excerpt: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government By Niten Malik, Director, US Public Service, Microsoft - The efforts to build sophisticated cloud or on premises solutions are often complicated by inflexible technology."
     publishedDateTime: 2021-02-19T06:48:00Z

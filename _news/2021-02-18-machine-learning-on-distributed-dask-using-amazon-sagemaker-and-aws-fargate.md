@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/"
 type: article
 quality: 119
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring Amazon SageMaker’s new features — CloudFormation, Data Wrangler"
-    excerpt: "SageMaker is AWS's flagship machine learning solution. Here we take a hands-on look at some of its newest features, rolled out in December."
-    publishedDateTime: 2021-02-15T00:35:00Z
-    webUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/"
-    ampWebUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-formation-stacks-data-wrangler/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?w=1200&strip=all"
-        width: 1200
-        height: 617
-        isCached: true
-  - title: "Exploring Amazon SageMaker’s new features — Clarify, Pipelines, Feature Store"
-    excerpt: "Are you considering AWS SageMaker for your machine learning hub? Here's a hands-on look at some key, newly delivered, capabilities."
-    publishedDateTime: 2021-02-15T00:36:00Z
-    webUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/"
-    ampWebUrl: "https://venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/SageMaker-Pipelines.jpg?w=1200&strip=all"
-        width: 1200
-        height: 635
-        isCached: true
   - title: "Solving numerical optimization problems like scheduling, routing, and allocation with Amazon SageMaker Processing"
     excerpt: "In this post, we discuss solving numerical optimization problems using the very flexible Amazon SageMaker Processing API. Optimization is the process of finding the minimum (or maximum) of a function that depends on some inputs, called design variables. This pattern is relevant to solving business-critical"
     publishedDateTime: 2021-02-17T21:04:21Z

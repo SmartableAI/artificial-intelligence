@@ -1,0 +1,82 @@
+---
+category: news
+title: "Venture, auto investors pour $48.9M into San Jose AI hardware startup Recogni"
+excerpt: "SanJose-based #startup #Recogni has yet to make a sale, but has now raised about $74M from investors that include big auto industry players. #SiliconValley #autotech #autonomousvehicle #sensors #ventu"
+publishedDateTime: 2021-02-19T14:32:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2021/02/19/san-jose-ai-hardware-startup-recogni-scores-489m.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/19/san-jose-ai-hardware-startup-recogni-scores-489m.html"
+type: article
+quality: 16
+heat: -1
+published: false
+
+provider:
+  name: The Business Journals
+  domain: bizjournals.com
+
+topics:
+  - AI Hardware
+  - AI
+
+related:
+  - title: "Recogni raises $48.9 million for AI-powered perception chips"
+    excerpt: "Recogni, a startup developing a perception system for autonomous vehicles, has raised $48.9 million in venture capital."
+    publishedDateTime: 2021-02-17T14:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/"
+    ampWebUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/e728073b-d9dd-4a6a-b6e8-6ff14821da0a-e1613450016151.png?w=1200&strip=all"
+        width: 900
+        height: 450
+        isCached: true
+  - title: "GBT Filed Patent Application for AI Based Facial Recognition Security System"
+    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a patent for AI facial recognition system,"
+    publishedDateTime: 2021-02-16T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system-1030085984"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+  - title: "AI-based startup UptimeAI raises seed funding of $1.5 mn"
+    excerpt: "UptimeAI, a company specialising in AI-based predictive maintenance software for heavy industries, has raised a total of $1.5 million in its seed funding from YourNest Venture Capital and other angel investors."
+    publishedDateTime: 2021-02-18T07:23:00Z
+    webUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+    ampWebUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/Uptime_AI_umxhj8jfiaddb.jpeg"
+        width: 650
+        height: 300
+        isCached: true
+  - title: "AI hardware startup Recogni raises $48.9M for its autonomous driving module"
+    excerpt: "Recogni Inc., a startup developing artificial intelligence hardware for autonomous vehicles, today announced that it has closed a $48.9 million funding round from a group of investment firms and auto industry players."
+    publishedDateTime: 2021-02-17T14:24:00Z
+    webUrl: "https://siliconangle.com/2021/02/17/ai-hardware-startup-recogni-raises-48-9m-autonomous-driving-module/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/unsplash-2.png"
+        width: 718
+        height: 400
+        isCached: true
+
+secured: "94+QiMtjukrCmXS73V9ElfOPzqTU0N/IrMa5BCqRWk4vEgVa8jFNGApTsEYQ8Bc+ROzzxImHTweDWgpYFiDhGkDNUbZtHvQwYLgGB1ClUu1VExDFNu1GccgB7HasMATrA3Nx+EPRU+AXdfcRDaADLoLSJS02VpxmwYLfT2TZBi1mkDDY57msxVPRY5yH2j2zxVJUlqsXCe0N9VCLB5HcpHGIuq7ktiZkhqdWRy5i9pOhm3miuKHqxtranvjE0wDc9oDCOqW21wYrvDWW0x0an3LQUVuFZdmO64v7UkYWsCNaSeGjBcPI/A2e2eti5kjQFgma2AQwzXjqZYJjPlymisZ16Y3/2F1vdEeeLQ1VuWpSS0YR8YSOo+h8thP/zwxWa1x1MSvkki65uxxSQ3dFJKed4/6psxXdst9H+1qHlqa8Hr1JtFUoKlduEdawuoZbeY7TKdYgvDRl6s9nMEyik0qxy8gF3yXVW7BMSUT9nAvHzzv/9VPHQyzkV+PwpQSt7g0MNWKPCKYw1reVLB7eXg==;bncRwg9wW3AawWE18ObKdQ=="
+---
+

@@ -2,9 +2,9 @@
 category: news
 title: "IBM Explores Sale of IBM Watson Health"
 excerpt: "IBM is studying alternatives for the unit that could include a sale to a private-equity firm or industry player or a merger with a blank-check company"
-publishedDateTime: 2021-02-19T01:19:00Z
-originalUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
-webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+publishedDateTime: 2021-02-19T06:06:00Z
+originalUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770?mod=breakingnews"
+webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770?mod=breakingnews"
 ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
 type: article
@@ -94,6 +94,6 @@ related:
         height: 1712
         isCached: true
 
-secured: "R5KgFj8E+Agr7z6yPu4IakSgNvGfk1+uWKDFVJAsRtb/sBIb7n9xav9AvuJjoKeZlhOP7GGkT7+h3R6ThKyJGeJ6QKOmacaVDM3RTBhsD+iS/rOwC4OFyco0joaa29sY0kxKQLDvm9otRnyXzaoQ7S3pEH3yOULM4JGwNBocyBGDlW3prF+S0diekTpr776dD4XwQEdzxQFqZvpy8hgsU5EK973jl/9Ad0i+A2K+n6VwXcMI6e9dp+SJ0QO6q3bn8Dl5gTpKCkpLk6PzDwkEBLQELi/xK10jI7mXTq61at+9f5jYxYVLaeIfLNcmcO333ifN0jzS8+uAgD+fnBKaCWh/SiAsR8BSy1sWx8iA6/XA6Bh3LRvQs9qxXsllZi4Ny+IO+v1pYyGVCBe5RmPJ6J431VKx+tBPHczRa+1wCJNuDiCnhZLXLatglrV2h//BK/HruVXiqXE38wFkaeOLE9OU8htMdaJdzoXmIMRmUzW9W2IEOr7iU0T1Oyp7LKvZ2hZVDHzn66EAWNS0nXMTPw==;qenrnfgN7v1RreeT6UcdtQ=="
+secured: "sfYG4wuO4k854bSKOeJj/nQSMeNFEI6FQK+uNU5NDM2q162R/MEhD95YWtpiOBHdO9xODJpXch6jRtKA48qrpSp3mM8gSb7Fu/aHCTFf+yYzoldI2TJNkOgh+e/C8pvDRBQNbFWequwJELbol7JemaNQYq4c6A2IsJsAz6BXstenwelrIEijGsMZtt9b3XerlJba0FUjVCjZx4Ij2yNeGcnydBoLhq5LG7bRVkF6hzGPvTk8T8XrxtacrmUtQJ7IA98si0/39UJZcITP+HK19UYcoNzqeH7oWmFskpZm3KS8yPWF5Mwzv1+Y15+F0MltRKUa8a67P0mP27RX3ynOuwHavyF3/9MutSJunNmOkTQ=;8M7q0hCNm9N4pYScCwcPgQ=="
 ---
 

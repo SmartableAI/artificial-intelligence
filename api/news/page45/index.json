@@ -2,591 +2,21 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2021-01-09-leveraging-ai-in-remote-talent-acquisition.md",
-      "title": "Leveraging AI In Remote Talent Acquisition",
-      "excerpt": "AI has made headlines for the last few years, but after the new normal of remote work was accelerated in 2020, it has been more of an impact on remote talent acquisitions.",
+      "path": "_news/2021-01-17-incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society.md",
+      "title": "Incoming White House science and technology leader on AI, diversity, and society",
+      "excerpt": "Incoming White House science and technology leader Dr. Alondra Nelson addressed the relationship between AI development an inclusion.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/",
-      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff96ae11bdf9fa884b96829%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5647%26cropY1%3D182%26cropY2%3D3358",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/",
-      "publishedDateTime": "2021-01-09T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-how-far-can-facial-recognition-go-in-finding-rioters-in-dc.md",
-      "title": "How far can facial recognition go in finding rioters in DC?",
-      "excerpt": "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "originalUrl": "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wcnc.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "cdnAmpWebUrl": "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "publishedDateTime": "2021-01-08T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCNC",
-        "domain": "wcnc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-artificial-intelligence-in-healthcare-diagnosis-market.md",
-      "title": "Artificial Intelligence In Healthcare Diagnosis Market",
-      "excerpt": "It is used in healthcare for approximation of human cognition as well as the analysis of complex medical and diagnostic imaging data. The artificial intelligence in healthcare diagnosismarket is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
-      "originalUrl": "https://www.openpr.com/news/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/1/U108142410_g.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
-      "publishedDateTime": "2021-01-08T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces.md",
-      "title": "TomTom launches new services and announces new partnerships with Baidu, Qualcomm, at CES",
-      "excerpt": "Navigation tech firm TomTom further embedded itself in the world of autonomous driving Monday by announcing a series of new partnerships and software launches at CES. The Amsterdam-based announced Baidu and Zenuity are its first partners to use its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084",
-      "originalUrl": "https://www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/02/Self-driving-car-header.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084?amp=1",
-      "publishedDateTime": "2021-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-ai-weekly-the-future-of-tech-policy-after-an-attempted-coup.md",
-      "title": "AI Weekly: The future of tech policy after an attempted coup",
-      "excerpt": "We look at tech and AI policy issues in the U.S. Senate after Georgia runoffs and a coup attempt fueled by misinformation and white supremacy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/08/ai-weekly-the-future-of-tech-policy-after-an-attempted-coup/",
-      "originalUrl": "https://venturebeat.com/2021/01/08/ai-weekly-the-future-of-tech-policy-after-an-attempted-coup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1294935650.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/08/ai-weekly-the-future-of-tech-policy-after-an-attempted-coup/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/ai-weekly-the-future-of-tech-policy-after-an-attempted-coup/amp/",
-      "publishedDateTime": "2021-01-08T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools.md",
-      "title": "Equifax will pay $640 million for Kount’s AI-driven identity and fraud prevention tools",
-      "excerpt": "Equifax will pay $640 million to acquire Kount which uses artificial intelligence to drive its fraud prevention and digital identity services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools/",
-      "originalUrl": "https://venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ErPBAjWW8AEFp9P-e1610139987245.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools/amp/",
-      "publishedDateTime": "2021-01-08T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-artificial-intelligence-and-machine-learning-continues-at-aws-reinvent.md",
-      "title": "Artificial intelligence and machine learning continues at AWS re:Invent",
-      "excerpt": "A fresh new year is here, and we wish you all a wonderful 2021. We signed off last year at AWS re:Invent on the artificial intelligence (AI) and machine learning (ML) track with the first ever machine learning keynote and over 50 AI/ML focused technical sessions covering industries, use cases, applications,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/artificial-intelligence-and-machine-learning-continues-at-aws-reinvent/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/artificial-intelligence-and-machine-learning-continues-at-aws-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/Thumbnail.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T11:26:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level.md",
-      "title": "AI-enabled Mercedes-Benz Hyperscreen takes the digital dashboard to the next level",
-      "excerpt": "The 56-inch curved screen extends nearly the full extension of the dashboard, serving as an \"attentive assistant for the passenger,\" and can store multiple front passenger profiles for personalized experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/08/258a6072-6f00-4758-97af-cda13ef86a28/resize/1200x/b3447a944bcf201617caba6018f45ec5/mercedes-benz-3.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/",
-      "publishedDateTime": "2021-01-08T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-voice-life-inc-showcases-wireless-power-for-the-21st-century-with-nvidia-deep-learning-accelerator-technology-at-ces-2021-showcase.md",
-      "title": "Voice Life Inc. Showcases Wireless Power For The 21st Century With NVIDIA Deep Learning Accelerator Technology At CES 2021 Showcase",
-      "excerpt": "Voice Life Inc. today announced its digital presence at the CES 2021 Showcase launching the Life-Line Power Connect platform based upon a terahertz-based scalable network designed for far field wireless charging.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-hyundai-to-partner-with-apple-on-self-driving-car-but-maybe-not.md",
-      "title": "Hyundai to Partner With Apple on Self-Driving Car ... but Maybe Not",
-      "excerpt": "Hyundai says it will partner with Apple on a self-driving car, but then quickly shifts gears to say it has received requests from a number of technology suitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "originalUrl": "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/nJGNyKYO-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "publishedDateTime": "2021-01-08T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-five-ways-to-make-ai-a-greater-force-for-good-in-2021.md",
-      "title": "Five ways to make AI a greater force for good in 2021",
-      "excerpt": "A year ago, none the wiser about what 2020 would bring, I reflected on the pivotal moment that the AI community was in. 2018 had seen a series of high-profile automated failures, like self-driving car crashes and discriminatory recruiting tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA-GettyImages-1193127525.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/",
-      "publishedDateTime": "2021-01-08T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks.md",
-      "title": "Is neuroscience the key to protecting AI from adversarial attacks?",
-      "excerpt": "Deep neural networks are a key component of computer vision applications, from video editors to medical software and self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
-      "originalUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
-      "publishedDateTime": "2021-01-08T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-self-driving-cars-and-the-newest-move-over-slow-down-laws.md",
-      "title": "Self-Driving Cars And The Newest ‘Move Over, Slow Down’ Laws",
-      "excerpt": "The law and prudent driving dictate that you should move over and slow down when nearing stranded vehicles on the side of the road, which is easier to say than for self-driving cars to achieve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/",
+      "webUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/",
+      "originalUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff392b289032e7d9ad91594%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alondra-nelson.png?w=1200&strip=all",
           "width": 1200,
-          "height": 675,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -594,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/amp/",
-      "publishedDateTime": "2021-01-08T08:30:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/amp/",
+      "publishedDateTime": "2021-01-16T15:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -619,526 +49,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2021-01-08-artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023.md",
-      "title": "Artificial Intelligence Robots Market 2021 with Strategies to Boost Growth, Manufactures, Types, Applications, Status and Outlook to 2023",
-      "excerpt": "Comserve Inc. / -- While AI robots have been a technical masterstroke, different innovations have been attributed to disparate players, leading to a diverse set of standards The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period.",
+      "path": "_news/2021-01-17-startups-look-beyond-lidar-for-autonomous-vehicle-perception.md",
+      "title": "Startups look beyond lidar for autonomous vehicle perception",
+      "excerpt": "Last CES was a time of reckoning for lidar companies, many of which were cratering due to a lack of demand from a (still) non-existent autonomous vehicle industry. The few that excelled did so by specializing,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023-2021-01-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023-2021-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock.md",
-      "title": "The Robot Revolution Will Spark a 15X Rally in This Micro-Cap Tech Stock",
-      "excerpt": "This has coupled with significant advancements in tech hardware production, and ultimately brought us on the cusp of creating a new generation of advanced robots that can think and act like humans. The Robot Revolution is starting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08",
-      "originalUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp",
-      "publishedDateTime": "2021-01-08T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-robotics-continues-to-gain-strong-momentum-5-stocks-in-focus.md",
-      "title": "Robotics Continues to Gain Strong Momentum: 5 Stocks in Focus",
-      "excerpt": "Robotics technology is constantly gaining steam in the fast-paced world on the back of robust demand for automation, which increases efficiency and ease of work, and saves both time and labor. Further,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08?amp",
-      "publishedDateTime": "2021-01-08T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-nope-facial-recognition-didnt-spot-antifa-members-at-us-riots.md",
-      "title": "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots",
-      "excerpt": "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/",
-      "publishedDateTime": "2021-01-08T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-robotics-etf-botz-beckons-as-pertinent-post-covid-idea.md",
-      "title": "Robotics ETF BOTZ Beckons as Pertinent Post-Covid Idea",
-      "excerpt": "Put robotics in the conversation among disruptive technologies that are navigating the pandemic with aplomb. The investment concept is gaining traction as a post-pandemic idea, but with vaccination rates still – hopefully a temporary phenomenon – and case counts rising,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08?amp",
-      "publishedDateTime": "2021-01-08T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-transparent-machine-learning-powers-business-intelligence.md",
-      "title": "Transparent Machine Learning Powers Business Intelligence",
-      "excerpt": "In the current data-driven decision-making world, digital colleagues are becoming more common. That’s why intelligent machines that are transparent about their predictions are a must.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff71955e676e64e9488c102%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/amp/",
-      "publishedDateTime": "2021-01-08T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-hyundai-in-early-talks-with-apple-for-self-driving-electric-car.md",
-      "title": "Hyundai in 'early talks' with Apple for self-driving electric car",
-      "excerpt": "Hyundai Motor Co. said Friday it is in the early stages of talks with tech giant Apple to jointly develop and produce a self-driving electric car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/6861610106800/2021/1/dda519f86bfc05448a184b6df6aa7007/v1.5/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
-      "publishedDateTime": "2021-01-08T04:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023.md",
-      "title": "Ai In Computer Vision Market 2020 Insights, Revenue, Price and Gross Margin, Forecast 2023",
-      "excerpt": "The improved computing capabilities of processors are paving the way for the future growth in the AI in computer vision market. The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-google-ai-classifies-baking-recipes-and-explains-its-predictions.md",
-      "title": "Google AI classifies baking recipes and explains its predictions",
-      "excerpt": "One goal of AI researchers is to figure out how to make machine learning models more interpretable so researchers can understand why they make their predictions. Google says this is an improvement",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/",
-      "originalUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/cakie.jpg",
-          "width": 1280,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/",
-      "publishedDateTime": "2021-01-08T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-updated-amp-robotics-raises-55m-in-financing.md",
-      "title": "Updated: Amp Robotics raises $55M in financing",
-      "excerpt": "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/",
-      "originalUrl": "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.recyclingtoday.com/fileuploads/image/2021/01/06/amp%20logo%20web.jpg?w=736&h=414&mode=crop",
-          "width": 736,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Recycling Today",
-        "domain": "recyclingtoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms.md",
-      "title": "To make AI a success, every child needs to understand the risk and potential of algorithms",
-      "excerpt": "According to the AI Council, the biggest barrier to AI deployment is skills - and it starts as early as school.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "originalUrl": "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/13/1d2488f7-7d90-4718-9183-a7ba6a3e36b1/thumbnail/1200x675/3a290ad3c2420e8d73f71b23f5d76141/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "publishedDateTime": "2021-01-08T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum.md",
-      "title": "Firstlight Media, Microsoft Azure to power new streaming venture Struum",
-      "excerpt": "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum",
-      "originalUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum",
+      "webUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/",
+      "originalUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/01/struum.jpg",
-          "width": 681,
-          "height": 383,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/foresight-place.gif",
+          "width": 800,
+          "height": 448,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1146,13 +76,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp",
-      "publishedDateTime": "2021-01-08T02:17:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/",
+      "publishedDateTime": "2021-01-16T09:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-machine-learning-is-helping-high-performance-computing-go-mainstream.md",
+      "title": "Machine Learning Is Helping High-Performance Computing Go Mainstream",
+      "excerpt": "This has partly been brought about by the mainstreaming of machine learning (a subset of artificial intelligence), which generally operates at a snail's pace ... like Fugaku. Related: En Route to Exascale, Cray Designs a Supercomputer Enterprises Can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterknowledge.com/supercomputers/top500-japan-s-fugaku-still-world-s-fastest-supercomputer",
+      "originalUrl": "https://www.datacenterknowledge.com/supercomputers/machine-learning-helping-high-performance-computing-go-mainstream",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/supercomputer%20fugaku.jpg",
+          "width": 614,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Data Center Knowledge",
+        "domain": "datacenterknowledge.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1162,10 +144,10 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     }
   ],
-  "nextPage": 46
+  "nextPage": null
 }

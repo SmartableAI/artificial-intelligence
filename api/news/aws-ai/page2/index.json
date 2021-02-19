@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-04-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
+      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "originalUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/22686fc/2147483647/strip/true/crop/1289x725+0+0/resize/1289x725!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
+          "width": 1289,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish.md",
       "title": "Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish",
       "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 Console and APIs make it easier to build, deploy, and manage bots. In this post, you will learn about about the 3 main benefits of Amazon Lex V2 Console and API, basic bot building concepts, and",
@@ -1436,40 +1480,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-pluralsight-inc-class-a-common-stock-ps.md",
-      "title": "Pluralsight, Inc. Class A Common Stock (PS)",
-      "excerpt": "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
-      "originalUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

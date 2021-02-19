@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-posts-financia
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "Baidu Announces Fourth Quarter and Fiscal Year 2020 Results"
+    excerpt: "Baidu ended 2020 on a solid note with our business benefiting from improving macroeconomic environment and the digitalization of industrial Internet. Our focus on innovation through technology is paying off with Baidu Core non-marketing revenue growing 52% year over year in the fourth quarter,"
+    publishedDateTime: 2021-02-18T07:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-349cf4d406d15ec7522c20dd94a88a8a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "loanDepot Announces Fourth Quarter and Full Year 2020 Financial Results"
     excerpt: "Depot’s assets are unlike any other lender in the marketplace today: – Diversified strategy: Integrated at-scale refinance and purchase business ensures that loanDepot thrives in any mortgage market."
     publishedDateTime: 2021-02-19T08:40:00Z

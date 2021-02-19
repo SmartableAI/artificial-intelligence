@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-19-natural-language-processing-market-is-going-to-boom-with-ibm-microsoft-google-amazon-web-services.md",
+      "title": "Natural Language Processing Market is Going to Boom with IBM, Microsoft, Google, Amazon Web Services",
+      "excerpt": "Latest released the research study on Global Natural Language Processing Market offers a detailed overview of the factors influencing the global business scope Natural Language Processing Market research report shows the latest market insights current situation analysis with upcoming trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "originalUrl": "https://www.openpr.com/news/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U219826638_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
+      "publishedDateTime": "2021-02-19T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-baker-hughes-c3-ai-to-provide-petronas-with-ai-solutions.md",
       "title": "Baker Hughes, C3 AI to Provide Petronas with AI Solutions",
       "excerpt": "Baker Hughes and C3 AI on Friday announced an artificial intelligence (AI) collaboration with the Malaysian oil and gas firm",
@@ -42,50 +87,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-microsoft-azure-get-asynchronous-document-translation-tool.md",
-      "title": "Microsoft Azure Get Asynchronous Document Translation Tool",
-      "excerpt": "Document Translation in Azure Translator can translate batches of documents while maintaining the original layout and format.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2021/02/Document-Translation-Azure-Translator-Microsoft.jpg",
-          "width": 1162,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp",
-      "publishedDateTime": "2021-02-18T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -183,6 +184,58 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row.md",
+      "title": "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row",
+      "excerpt": "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1412,59 +1465,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026.md",
-      "title": "North America AI Chipsets Market Overview with In-Depth Analysis and Forecast (2020-2026)",
-      "excerpt": "The North America AI chipsets market from Central Processing Unit (CPU) segment is projected to grow at a CAGR of 30% over the forecast period. The growth is credited to several features offered by the CPU architecture such as low latency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

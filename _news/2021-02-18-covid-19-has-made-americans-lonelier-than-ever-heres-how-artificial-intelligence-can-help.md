@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 has made Americans lonelier than ever, but AI can help"
-    excerpt: "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing"
-    publishedDateTime: 2021-02-15T00:00:00Z
-    webUrl: "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/covid19hasma.jpg"
-        width: 754
-        height: 504
-        isCached: true
   - title: "COVID-19 has made Americans lonelier than ever – here’s how AI can help | Opinion"
     excerpt: "Therapeutic bots have improved users’ mental health for decades. Now, psychiatrists are studying how these AI companions can improve mental wellness during the pandemic and beyond."
     publishedDateTime: 2021-02-18T12:45:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MSIRECICK5BNBJ5ZXERRNT6EYY.jpg"
         width: 754
         height: 487
-        isCached: true
-  - title: "Would you trust a robot to manage your money? New research shows many Americans would"
-    excerpt: "Nearly half of consumers in the US would prefer to use a robot, powered by A.I. to manage their money, rather than do it themselves, according to new research commissioned by Oracle. Joining us to"
-    publishedDateTime: 2021-02-19T14:14:00Z
-    webUrl: "https://www.wate.com/living-east-tennessee/would-you-trust-a-robot-to-manage-your-money-many-americans-say-they-would/"
-    ampWebUrl: "https://www.wate.com/living-east-tennessee/would-you-trust-a-robot-to-manage-your-money-many-americans-say-they-would/amp/"
-    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/living-east-tennessee/would-you-trust-a-robot-to-manage-your-money-many-americans-say-they-would/amp/"
-    type: article
-    provider:
-      name: WATE 6 On Your Side
-      domain: wate.com
-    quality: 52
-    images:
-      - url: "https://www.wate.com/wp-content/uploads/sites/42/2021/02/LETN_TECH-TUESDAY-Robot-money-management_021621.jpg?w=1280"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Government Healthcare Practitioners Use AI to Support Cancer, COVID-19 Treatment"
     excerpt: "Haley Veterans’ Hospital, said artificial intelligence can support, but not replace, healthcare providers. He has been working on AI platforms designed to help healthcare practitioners detect lung, colon and colon cancer symptoms,"
