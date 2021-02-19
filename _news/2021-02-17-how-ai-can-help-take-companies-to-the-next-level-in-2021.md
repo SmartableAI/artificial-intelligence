@@ -3,8 +3,8 @@ category: news
 title: "How AI can help take companies to the next level in 2021"
 excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
 publishedDateTime: 2021-02-16T16:41:00Z
-originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
-webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+originalUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+webUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
 type: article
 quality: 69
 heat: -1
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
 
 images:
@@ -103,6 +103,6 @@ related:
         height: 753
         isCached: true
 
-secured: "42d9+aTN12gCzdluIikZxo5mNGmu7orCsUg9GEFQF69AMMx3DZLy9n27qY1P8d516ULxQ1UlsFtL9NCyTxNvS6unvoRH7l30kXVmBA1GYdxyoyKz4d+QoIiMsnX/zEmc1HM5i2Z+GUf6YNUhr7vjPKkt30XgI+MjCXN+Zy0DDbV7SCGv6CogfActr900wkMoKSVvxwHniXL5lTdDpZTW0H69M7uIl3zcp/FgF2WNh7ZVWjKLIMol5p1PNeEckNeiJX8veI72GrP9xEpdr8jeOEekv2G8XIXXKaP9XncjN8K7YOfr383IwMRz7VdzEeT+j/2Kyd6sGTSZpKyz0QBEz2gKj+g5+R5W+K6NuaCNOBEIkYHtcZ7xqXKgpueCnPKbm+44ZckAoLCOdzs5lIE6ZgfCl8TSk69gvo4ZFrBjMH8sdIWeijgESR6h6Kr/MdxfCzkeTk6hcRLKIr4EJ6SUSUzWyyrphuT9f4WzWzvm8dAQhLa4RDZDwKheQ5wm+7fBbNAs1IrpoP/IVlD5WVQFQA==;9SivtRmd+z8dMHniV6fQrw=="
+secured: "+QONoOMlZXEcHkOMi/RG/JFJBuzWfvmVRhTW/UniihpIwt0rh9p0KU+nQxqHZueVhpxyt2MGIRr8Rce6Hk0pD1G/nSWaApT3meWhFvdLGXN5iWQ1Z1fYC63u6Jl0xYLNE6L+JyKRQBhd2MctUT1cLiGW8RoUnGHiPFUUlotgdO2bW94z8Bixvr/P+bGq6eACfUB3oBzaPcwnXMqKsX1SgVFsPJO6oThOjbcjkKELjxk/QDF3bIGsW8GAKmbQrxFOQrfQp6ElFMqvBmlltHBCyXwaFt8EUg4FRuLP2V2x7+nBhNjROLocjnqSOf/r9CqcoE5f+R5QDbUukyvBBQ1cnPsTfx0fy3GwET+E3GTqmcs=;NhVqZ7DGP/yRX8tYil16AA=="
 ---
 

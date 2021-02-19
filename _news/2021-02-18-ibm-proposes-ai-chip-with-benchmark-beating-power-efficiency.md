@@ -63,6 +63,20 @@ related:
         width: 1024
         height: 663
         isCached: true
+  - title: "An Inside Look At IBM’s Energy Efficient AI Chip"
+    excerpt: "IBM wants to develop an entirely new class of energy-efficient AI hardware accelerators that will significantly increase compute power without requiring exorbitant energy."
+    publishedDateTime: 2021-02-19T09:31:00Z
+    webUrl: "https://analyticsindiamag.com/an-inside-look-at-ibms-energy-efficient-ai-chip/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/IBM_AIM-1.jpg"
+        width: 595
+        height: 347
+        isCached: true
 
 secured: "d24hnQtLADHxa9xcCs7XwAah8DJ0wpH2mipD6lGGMNnLwI0JLFDgk0Nv6B+Dkq9iB7tfu1xZ/Mi6HjAW0Qmvug/N9I+N+gbPqlggO/egSUmleDPBTYGcLE9W9fl56f9MQRY6xondohjs5ijSKH21tZXiimtVsU4Dibjk7w8nM2H/xV4jDFEThMX/Llnmepb0MQpKqx0En9J1tAdXlzwv7k9swm58zMvkX53x2LlRRxrmiXWHAnSi0kkAFvpW6599pkRJCUp7bTFuYgXeyYcZX5GoDOZvd7E7cykIqaGj4SjsqIoFcfr4ozUpcs8wdQbkoNT66ukFG+HluNKPa0W5xRxiC+IVEUgxOX8zrangwmVBTDwYec7fi6/cWOn6e6RNzxEWcnZ1krXH6PoCUHtFcX+ckIVHErYa5k8CPz+rGnGPaK/I57BTgxHrUhts9aI4TKgzk6XmI9/8fwOfWRTcafrZVIJm6o9WEAy75oKPLjrVNZ/2BBc53ajWyhS/HxsySXeFLB0hAw3wmYGpR95jvQ==;KXTEu+dpXPSmZc0HSLqfrw=="
 ---

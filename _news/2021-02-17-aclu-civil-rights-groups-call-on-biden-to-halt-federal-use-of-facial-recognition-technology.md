@@ -157,6 +157,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Tech Companies Are Limiting Police Use of Facial Recognition"
+    excerpt: "Mutale Nkonde talks with NPR about facial recognition technology, how it works, and her reaction to companies banning its use by law enforcement."
+    publishedDateTime: 2021-02-18T16:24:00Z
+    webUrl: "https://cyber.harvard.edu/story/2021-02/why-tech-companies-are-limiting-police-use-facial-recognition"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Civil society to Biden administration: halt facial recognition technology"
     excerpt: "Access Now joined over 40 civil society organizations in a letter to the Biden administration calling for a federal moratorium on the use of facial recognition technology."
     publishedDateTime: 2021-02-17T18:12:00Z

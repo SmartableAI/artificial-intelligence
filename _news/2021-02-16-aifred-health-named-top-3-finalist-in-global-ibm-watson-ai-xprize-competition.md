@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-excerpt: "MONTREAL, Feb. 16, 2021 /PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
-publishedDateTime: 2021-02-16T12:16:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19669829"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669829"
+excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
+publishedDateTime: 2021-02-16T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
+webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
@@ -62,6 +66,38 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "IBM Considers Selling Watson Health Division: Report"
+    excerpt: "IBM Considers Selling Watson Health Division: Report International Business Machines (IBM) - Get report Watson Health is considering the"
+    publishedDateTime: 2021-02-19T09:03:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Considers-Selling-Watson-Health-Division-Report.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IBM Looking To Sell Watson Health Business Unit – Report"
+    excerpt: "IBM is looking to sell its IBM Watson Health business, the Wall Street Journal has learnt. The technology giant is looking at different alternatives that"
+    publishedDateTime: 2021-02-19T09:59:00Z
+    webUrl: "https://www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/"
+    ampWebUrl: "https://www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 59
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_779236312.jpg"
+        width: 1000
+        height: 653
+        isCached: true
   - title: "Aifred Health among top three finalists in IBM Watson AI XPRIZE competition"
     excerpt: "AI XPrize is a five-year competition with three judging rounds. Montréal-based Aifred Health was one of more than 700 applicants for the competition."
     publishedDateTime: 2021-02-18T19:11:00Z
@@ -86,6 +122,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "ihutuWhYMAuGLDPg+bD6jtL/ovtUHWdUStm0NYuGke5SEztiTRqriZUoYWM0zvAfLkWGcClWIQUY1hSwEDGmAPCZv+7ZBDN9zVlyO0ACaZE5lGkyq7XCZnQugTVrL3PXa+1s3UDhiZJqq2kx3KdIsl3yUl/w1nQ4/xlPZ3eymW6tUyDk6Sgr02Lpoqn/fg+76XVZdEx+gfe2rX4AtkMCqMcVXshweVTtQx+AFftZGm3rNDNPGewzC4db4xyb3tu1Pmagu+hta5Thx655Pj/1GjKYjzdbMHl+dMrlVJE15z77xn8QnEq/+yKVSIjp+8TqG2owfoK5WT5U4+AuYv5m0jvUFU38nYe7A+aDs4hQzbM=;ZU7QJCuDmGp8aOxQtQ3h6g=="
+secured: "LTjCKUWI+fQLD55DAISF/fTdYf6Bqeyl3U/Ul21MA4xbkuyypWaNPmNOxYcN/08iudVv6hfnxMe29yQO5ZgGVXqaqolrwfchrYM4NGBuP60GNg2yOCkmqo/+/YafZJjNVdGhm0SHzPe7OEyO62/gGUATFWcNtA8TL+1MevbLsF8Y7quw4vI9rfEujSP/SJCoib5C4glFzp4VPWl9KigY86WAdPw6tWNL45WrUcQU0YSfKUw/k50KK9OG8Ynl2FKbrX6VZ2O+gyYR7wvntz+nwuXaK4iBTbHyXeGVqU9VqI9tzdk0O8QFgZy+uAZ4lr1UU6zBYDZFVMW2p+elK9E1RC+UP744NpibEkRJkl2bxKo=;dBmVAdJge3UiTh0h1bZ7+Q=="
 ---
 

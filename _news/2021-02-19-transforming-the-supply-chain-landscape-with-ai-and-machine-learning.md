@@ -105,7 +105,7 @@ related:
   - title: "CloudCommerce Adds Critical Artificial Intelligence (AI) Component"
     excerpt: "Adding this critical component will allow the Company to speed the development of SWARM to dramatically reduce the cost of advertising. “Using machine learning and artificial intelligence, WRENCH.AI makes it easier for advertisers to harness the power of their data to automate the process of creating personas to optimize marketing and advertising efforts,"
     publishedDateTime: 2021-02-18T19:00:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-a48fdbf12fb872b0017ca4558b2d56a5"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-a48fdbf12fb872b0017ca4558b2d56a5"
     type: article
     provider:
       name: Associated Press

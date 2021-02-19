@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
+excerpt: "Unisys Corporation today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider. \"By again passing the Azure Expert MSP criteria, Unisys has proven that it can consistently and securely design,"
 publishedDateTime: 2021-02-16T12:58:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
-webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
+originalUrl: "https://www.nasdaq.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third"
+webUrl: "https://www.nasdaq.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third"
 type: article
-quality: 41
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft Azure Get Asynchronous Document Translation Tool"
@@ -212,6 +206,6 @@ related:
         height: 339
         isCached: true
 
-secured: "8ft+47YpkRQXFqpCQIPiI4ump2Hd7BugCt5W2e68J2lC8f5sZ+4a0Qg0U53b22gSQIH73MTAfLXZhWASbHbSbfwcx41zVGN/B3lUU4K0NhMVv1bJ/iIPsSaOgnJvs6WUxnaHbqafNHoWHXKsQn6g5Wv3s0+TuR6fod7EeVEbBIHpCqAZwJRDkN4LCdmz0fkQfwEipk1FFN9lekZKrKe+aahLUS06xZRnYdxhHGslyYXAqzIm2v4yhf97AHhGVeWMmoIq8HLaRr5fu+mtaUcJn7QKu3xM45ozTNzCKFimGC3fCpqUJjbGZT1joRBKQ/fCqCUrpssRXxPayx/OGgIQw7Pkww/z/9/te6NYkUc1AHw=;9zyTBebR6wItAlTo3M5i5Q=="
+secured: "taXCDxCx3z3hq7Nz+ahRL7qNS2maRfbi2pX3EAe4aOr9vDKfG8Mhv6eRgV3Ue71BPJ6YJkcYyUwi4Pyda7jb8tLs31H8EjBT664ELIjrNZGfWtD82DftnA2vF4TVyc0RflpfcEMCt/z5TzkgWU0M87aVl6c8wfvqn+MuIxag5vTL1yz9NWpUnmWuLKGvy/bfEPHplFbpYz1R/xUibmV2k/YF5vWG+9j5r0XqdBRzXvPJ+XUy+Cn3d7zyu6opwFecKkpwNbQ52aWHGeefdD3tuY9AqDsl/h0ydbzcxV6M3cgy9jirOFuX9f5VhEWO3v22OmOh9pDvhb1KM73CKOKWZQ9PvqdzEe4vSbikb5sRfjk=;CWZuyE2HnBIQ9C4nQ9M86w=="
 ---
 

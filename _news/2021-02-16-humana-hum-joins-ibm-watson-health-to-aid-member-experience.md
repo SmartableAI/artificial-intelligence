@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-t
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
 type: article
 quality: 84
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -51,6 +51,38 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "IBM Considers Selling Watson Health Division: Report"
+    excerpt: "IBM Considers Selling Watson Health Division: Report International Business Machines (IBM) - Get report Watson Health is considering the"
+    publishedDateTime: 2021-02-19T09:03:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Considers-Selling-Watson-Health-Division-Report.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IBM Looking To Sell Watson Health Business Unit – Report"
+    excerpt: "IBM is looking to sell its IBM Watson Health business, the Wall Street Journal has learnt. The technology giant is looking at different alternatives that"
+    publishedDateTime: 2021-02-19T09:59:00Z
+    webUrl: "https://www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/"
+    ampWebUrl: "https://www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/ibm-looking-to-sell-watson-health-business-unit-report/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 59
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_779236312.jpg"
+        width: 1000
+        height: 653
+        isCached: true
   - title: "Aifred Health among top three finalists in IBM Watson AI XPRIZE competition"
     excerpt: "AI XPrize is a five-year competition with three judging rounds. Montréal-based Aifred Health was one of more than 700 applicants for the competition."
     publishedDateTime: 2021-02-18T19:11:00Z
@@ -66,16 +98,19 @@ related:
         height: 683
         isCached: true
   - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "MONTREAL, Feb. 16, 2021 /PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
-    publishedDateTime: 2021-02-16T12:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19669829"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669829"
+    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
+    publishedDateTime: 2021-02-16T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 51
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
     publishedDateTime: 2021-02-18T19:36:00Z

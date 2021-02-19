@@ -1,29 +1,32 @@
 ---
 category: news
 title: "Google names exec to oversee responsible AI research after staff unrest"
-excerpt: "Alphabet Inc’s Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing of a prominent Black scientist."
-publishedDateTime: 2021-02-19T04:54:00Z
-originalUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
-webUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
-ampWebUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
-cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
+excerpt: "Alphabet Inc's Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing of a prominent Black scientist."
+publishedDateTime: 2021-02-19T10:45:00Z
+originalUrl: "https://www.reuters.com/article/us-alphabet-google-research-idUKKBN2AJ0C0"
+webUrl: "https://www.reuters.com/article/us-alphabet-google-research-idUKKBN2AJ0C0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AJ0C0"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AJ0C0"
 type: article
-quality: 59
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: List of Banks in Belarus
-  domain: globalbankingandfinance.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/02/2021-02-19T044427Z_1_LYNXMPEH1I05Q_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.jpg"
-    width: 750
-    height: 500
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552109080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I05T"
+    width: 841
+    height: 545
     isCached: true
 
 related:
@@ -71,15 +74,20 @@ related:
       domain: itbusinessedge.com
     quality: 39
   - title: "Google announces new head for centre on responsible AI"
-    excerpt: "Google has hired a prominent Black executive Marian Croak to lead its new centre of expertise on responsible AI within Google Research. The appointment"
-    publishedDateTime: 2021-02-19T07:19:00Z
-    webUrl: "https://www.canindia.com/google-announces-new-head-for-centre-on-responsible-ai/"
+    excerpt: "Google announces new head for centre on responsible AI - Google has hired a prominent Black executive Marian Croak to lead its new centre of expertise on responsible"
+    publishedDateTime: 2021-02-19T09:27:00Z
+    webUrl: "https://www.siliconindia.com/news/general/google-announces-new-head-for-centre-on-responsible-ai-nid-215351-cid-1.html"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 19
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/D2xhdZB8.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
-secured: "2e0T2Aj9RUKTDobxYx+wL346RU5phVNiyxGBMRwGwjf2aNu+Z3OHIKe/AJEkAXm5duRXQx0ioFlvI60PRbVYR2BmHak81FY8lIpuJ9gpStzZ+wax67wDFEfKIFby/d2ec1EnCqadLXcsCf16qH1IxXrvrgs/3Ngb+T0BDldN22xcXKrC59mn1IuF6Fn/J7YGAZQrFQH5VsK31qCZ0nrwZruikEo2948zTiiDoM8kbSr/McBsIWslDRr68Rk+tGMmwelBHvGM5LblhD97qFLjsrB4X8sGUu41JOkuq1przXq1NXW115ryl0mPeEPkriVGEj//4tKAF/jhbm55tNHLDLMQyYB62BcLdPU0YcoevfoZ26ZKhSy/TMTZXudfhmrs73qPZF/Pk0vj/hRnu+hxQG9zEu8PF1z4CgvPFwKSUCmKK+KXQcEGTaWE3nu0RF/8BfnDZiZ+RTgh+2ehQefFJ8ZStbpGOaqgik+IULf6Mfc+oFGe9Xnsf50hOEUL1LqasCoZbk5Gt7YTpqf87jxukg==;FtPeoDK2MxIIpm7cM+d/yw=="
+secured: "cMRsxc+cpQ59qz/hUyT+aABf8d9bdHsN52F3An9Epboqx95+pbbqY89GK5T4/vEDT4Yp5X+m4yyXm7gS1i8vB9B/NaiZOT1g0VscnD9MbD4PAMDiBTHu+k2AiJKxoNByB68Du7LDzIAktcivaWVjK6wEzv7y2AGuWSNvGnKQsQeS/8fZrgtNObD6I1I/d1AeZ++GPSg8KCLxFNctVxpaou4+q+cKrY7ZsVuY2Kv4vRYQi8c4lPzFFCtF788wFxTeiIIRQgP9+0pkq5F817K5DHQpEeVwUyRc+4nTxtZ7q8T7YC2cgd3rnjCumqp0g+FhDTC53S0i+UtJWwABNkFDoh0+0fxheILs6CSznFQ6/io=;CJ6iiiIcyQb50R4bYepmrA=="
 ---
 

@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "IBM Investigates Sale of IBM Watson Health"
+    excerpt: "IBM Investigates Sale of IBM Watson Health International Business Machines Corp. is investigating a possible sale of its IBM Watson"
+    publishedDateTime: 2021-02-19T09:15:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Investigates-Sale-of-IBM-Watson-Health.jpeg"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "HXgfK0nm0A4JIKozl0hzCPBbxjhZQvPLheACgysH5yuyPXVa7eyywI02Cg9hTrfLOyixCDVwV7InhxXvx5m6dNgWN0wDq8MCD+KQrOwUAe6R6GNiKQwVLB0d44PTueibS/uSeUIBgV87D8pjTbrpvgMJGc5lekWap9T+J2SBxrlCiOPR+T0CvGlZSBCtdGScNCFvAj6FvJo4qPgIZcg2tK6cyHZUO9xPNCrUAm3xYq4fQbzOCQK+mVmxep5lf3ZzFsgF/Njjsi5etiZkBHIz0hIb7rLJcxAw6Duj2QBBOCse71ByQAMPkNyvD6cSZOtgNsD6FDs7qRp1XrOUPOHJLlZ/yf3nlWdNpUtZbrm0f3E=;4uSTY2nriAgSQdNeFBGa2Q=="
 ---

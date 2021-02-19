@@ -2,19 +2,29 @@
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
 excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T16:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
-webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+publishedDateTime: 2021-02-11T21:20:00Z
+originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "K4SUGh7JA6d11OqZeMv3yVw8oGJAgN46b8JgfhMv+mo2H48VYiSU1EHt0sMMT0yTRAlArB2zOAXe16IeiSQXInI2VFe0BnJccJ+/C7+2sRhVVNyBBmuUb5upXmXiISpiFI0xP3CueWu/a6fhQVMPWQAO1VuA863m/SZ0a3Utv0agvJtJUJQ1JK5LGzrN18ELt5Rj8vaWgAf1sn/Xck+OJtmtB3Dmqcfx5TiCWh0Vm7xy2gQdJUjSHsUz39bGK9u9N6xa9xge2gsj+QgDDP2qSwg/ZcXbSKxSfwAGrxqUd0TMhWCb5/e8YwiStFM4LzLwXGTc7DXD1PIDaYSo7wGi4wUQ+JNLWoCWA7sxzqBX2+g=;o01AGOD3JuCm0ZQ1h5Aszg=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg"
+    width: 1619
+    height: 1060
+    isCached: true
+
+secured: "Nm72v7FtsMZg8RNvnyA8GJQ9dLKGJuQFh5Dp//gvUsUbK4IKACa78mmNcQghZC3D/lnNSepuAXbL+LvHdqIS5dQNtXYjxnfoXYexg9HyqSgxP9xPFvqtT/Ax/Ob4uB+QXmZWwL24AfAYDIbKEjJ+GJ4Bd3OzRRWmlVzg685u8eotswDfOItUCVQ1SrPuwkse3zg8cq+YUFatwDHw5wOjj6VV+10E4mPqgCL4VaLd/r4zzrF980RDAzd+Ss47Xl7FgqJDnPafiqcq+4Xkc9ELZja4uRo6LFTwmjdB9MlyORqAlwh90zGmW1sIS7B4uaZUEW1FcxIhJEoUAWihyEE3pakpawd90Ctc+QLiq0mw7vk=;nAYVrnh2jo17VD681YttFA=="
 ---
 

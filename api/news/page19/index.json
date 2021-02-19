@@ -2,6 +2,109 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-03-jeff-bezos-to-step-down-as-amazon-ceo-andy-jassy-to-take-over-in-q3.md",
+      "title": "Jeff Bezos to step down as Amazon CEO, Andy Jassy to take over in Q3",
+      "excerpt": "Jassy joined Amazon in 1997 and has led Amazon's Web Services cloud team since its inception. Bezos said he will stay engaged in important Amazon projects but will also have more time to focus on ...",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/campaigns/inside-amazon-2021-02-03-26425/sections/223561",
+      "originalUrl": "https://www.cnbc.com/2021/02/02/jeff-bezos-to-step-down-as-amazon-ceo-andy-jassy-to-take-over-in-q3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 272,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e.insd.io/s/p/223561_original.jpg?1612370704",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T15:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-case-studies-of-successful-ai-startups.md",
+      "title": "Case studies of successful AI startups",
+      "excerpt": "Unsurprisingly, artificial intelligence is a small part -- albeit an important one -- of a successful product management strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/",
+      "originalUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/artificial-intelligence-startup-case-studies.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/",
+      "publishedDateTime": "2021-02-02T15:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-why-future-advances-in-ai-need-a-new-architecture.md",
       "title": "Why Future Advances In AI Need A New Architecture",
       "excerpt": "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be",
@@ -1076,100 +1179,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-dubais-dewa-artificial-intelligence-services-anticipate-shape-the-future.md",
-      "title": "Dubai's DEWA Artificial Intelligence services anticipate, shape the future",
-      "excerpt": "DEWA’s efforts in AI have consolidated the UAE’s global position and enriched the user experience of customers, staff and stakeholder",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Dubais_DEWA_Artificial_Intelligence_services_anticipate_shape_the_future-WAM20210202115415866/",
-      "originalUrl": "https://www.zawya.com/mena/en/business/story/Dubais_DEWA_Artificial_Intelligence_services_anticipate_shape_the_future-WAM20210202115415866/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/200708111501XFSN.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20210202115415866/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20210202115415866/",
-      "publishedDateTime": "2021-02-02T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-powershot-pick-uses-ai-to-automatically-capture-photos-and-videos.md",
-      "title": "PowerShot Pick uses AI to automatically capture photos and videos",
-      "excerpt": "As it did with the Ivy Rec and PowerShot Zoom, Canon has launched a crowdfunding campaign to get an AI-powered camera called the PowerShot Pick into the hands of early adopters.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/photography/canon-powershot-pick-makuake/",
-      "originalUrl": "https://newatlas.com/photography/canon-powershot-pick-makuake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/7198323/2147483647/strip/true/crop/1197x798+3+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1a%2F8d%2F8758daf24e9db881227ee8a2c13d%2F05.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/photography/canon-powershot-pick-makuake/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-powershot-pick-makuake/?amp=true",
-      "publishedDateTime": "2021-02-02T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

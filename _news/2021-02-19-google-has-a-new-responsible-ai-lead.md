@@ -48,20 +48,20 @@ related:
         height: 550
         isCached: true
   - title: "Google names exec to oversee responsible AI research after staff unrest"
-    excerpt: "Alphabet Inc’s Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing of a prominent Black scientist."
-    publishedDateTime: 2021-02-19T04:54:00Z
-    webUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest/"
+    excerpt: "Alphabet Inc's Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing of a prominent Black scientist."
+    publishedDateTime: 2021-02-19T10:45:00Z
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-idUKKBN2AJ0C0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AJ0C0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AJ0C0"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 87
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/02/2021-02-19T044427Z_1_LYNXMPEH1I05Q_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.jpg"
-        width: 750
-        height: 500
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552109080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I05T"
+        width: 841
+        height: 545
         isCached: true
   - title: "Using Responsible AI to Push Digital Transformation"
     excerpt: "Can businesses implement ethical AI standards that reduce harm while positively transforming the workplace? Just as its development is creating new business opportunities, AI has also delivered some harmful and ethically objectionable outcomes — a symptom of the misguided rush to get exciting technology to market superseding moral,"
@@ -75,14 +75,19 @@ related:
       domain: itbusinessedge.com
     quality: 39
   - title: "Google announces new head for centre on responsible AI"
-    excerpt: "Google has hired a prominent Black executive Marian Croak to lead its new centre of expertise on responsible AI within Google Research. The appointment"
-    publishedDateTime: 2021-02-19T07:19:00Z
-    webUrl: "https://www.canindia.com/google-announces-new-head-for-centre-on-responsible-ai/"
+    excerpt: "Google announces new head for centre on responsible AI - Google has hired a prominent Black executive Marian Croak to lead its new centre of expertise on responsible"
+    publishedDateTime: 2021-02-19T09:27:00Z
+    webUrl: "https://www.siliconindia.com/news/general/google-announces-new-head-for-centre-on-responsible-ai-nid-215351-cid-1.html"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 19
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/D2xhdZB8.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "U/MsRA5Lm1ThACptejKuop2li9Ldum7ncrWwGP/R6uc+8ValhvFS22pXaR93EVSVFGSJG/E3Ai6nZFrIcbMqZaOe51op2Y28aXVl/ury1V0a/ySl+nsZlAs60jsGmX11M2ea51OQA961wPPxPcV1Esaca1mKIMuqhtl16Q8alO6RdPQZ2IxjlMedsLZRCI+o3hPtitNRqDCT4bYg+cBNXnGm1txwI7gmK33LIT/jcctwfTckIQ/4GI4W8aLizNT+WPI92fGKXTEhDYLjTtgxZtNC+7/UJbN7mFwgJXFTFBeTeHTfFJCqbnQTWQ10QGjObYMt9Yff8bbwnxq5KqdBFWC68jKJm0XJwLua13efZTTT2ikxJ0qBpPIO0Z9mxA+AaoQnxV6vzaoBrnAWwDX/b2+L9bfXPxOivq4ZdfKFajBv6lBKNHHYnFB6NdG4Hq5oMRuNfLcdhLjyiycJbd0/OzwsR+yCD4d4AO8j8jQicL/65OA4DzAuC47Wbn8mJ1KQCSyCTCRg+SDT4+hCHccTWw==;G6oxELtc/QbjvbsQaOstaw=="
 ---

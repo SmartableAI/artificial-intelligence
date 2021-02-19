@@ -69,6 +69,20 @@ related:
         width: 583
         height: 478
         isCached: true
+  - title: "How UK-Israel collaborations are transforming fintech"
+    excerpt: "The pandemic has increased our reliance on innovation. Candice Krieger looks at UK-Israel partnerships and companies revolutionising the finance technology sector"
+    publishedDateTime: 2021-02-19T08:59:00Z
+    webUrl: "https://jewishnews.timesofisrael.com/how-uk-israel-collaborations-are-transforming-fintech/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 24
+    images:
+      - url: "https://static.timesofisrael.com/jewishndev/uploads/2021/02/GettyImages-834792042-1024x640.jpg"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
     excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."
     publishedDateTime: 2021-02-19T03:05:00Z

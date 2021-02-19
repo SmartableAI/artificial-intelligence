@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "IBM Investigates Sale of IBM Watson Health"
+    excerpt: "IBM Investigates Sale of IBM Watson Health International Business Machines Corp. is investigating a possible sale of its IBM Watson"
+    publishedDateTime: 2021-02-19T09:15:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Investigates-Sale-of-IBM-Watson-Health.jpeg"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "IBM is investigating the sale of Watson Health"
     excerpt: "IBM is investigating the sale of Watson Health Cameron Clayton, CEO of IBM's The Weather Company, on The Weather Channel's online tools"
     publishedDateTime: 2021-02-19T07:31:00Z

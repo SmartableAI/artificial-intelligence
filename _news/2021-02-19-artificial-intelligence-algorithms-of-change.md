@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-19T08:45:00Z
 originalUrl: "https://www.cioreview.com/cxoinsight/artificial-intelligence-algorithms-of-change-nid-25965-cid-166.html"
 webUrl: "https://www.cioreview.com/cxoinsight/artificial-intelligence-algorithms-of-change-nid-25965-cid-166.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cioreview.com/newsimages/special/XSQWrIAE.jpeg"
@@ -23,6 +24,6 @@ images:
     height: 300
     isCached: true
 
-secured: "Ggpr6/0q/f/GFYLW8ZTVNr8p/69pG/OhAyTKRpWT18XgUuYRZ/U9LE5HtTl6Ywi7tFX6ZAEaRHDI+MAEwOo+MrJvEPyXRD0akX6K1/epe90aHWpM93swlJ5LVZZW9+fA89R+9ZgzcxNr3SW5He+BVDbwzP5ynA/moqjO4c8zBZ7/r8htwXTkOVhd0ORI5C3tsOuCiznmb3jL9pRz/L1w8YXcpw5K2RvrsqB7xSdpiMfMmsMxWtZEF5xP/4rSAT2PYwZ7T39Vfw3OSMgnR21klvqi7HRpV73AHzZDHDl4PEWsDe14cbwxKn5eXtmr/7hpXia4ne7CHvsFh8zCAY525BaMih4h9r1ASVgzB69CQNE=;D6FLT/o5m7QBrDdFsTg0nw=="
+secured: "Am9UPPIQ6zGels7dpvUgVgvP2va5S/D90ODFPApjC444H3giT9ZRU3MOdGAoJGgcdFg9qmEA9NtplZn8pY5fMzWUMP5vpnW1H/VNVNWvqTev+FUBPdx5S0rhwwyL/fx7XbJabeFOIoWEFPap49/Ow2u+uKQtslXUSbvgeKNqEo78n7NJVpsLp+jcHvr80YvOdWsapwQLHC1Ljt0sEDV80wmu9RXqDXSZkwZS0oHs0PXHWh+f1ijGhjFz+n/1IPyWi4nP2AxTltxmYe42xQ9Y7uGzqtiDL/IzrQekjfWHP5q1kIPbpKdk9H0Htv/84P66w9JyICUilINEy7WUQuEWjLEPSd7TVG9macjo2Dd+JMnUHCyLwQzgqpKBXVUlDz2zSpNCYnco6vMtTjTCuloobeT36xnszWaSq7l0B+CCeyzX8nDMJCJUOv5KMBV1ajH6ZDvTbqb2ER3hE7V7bT+ACm1e0qyqdpNVganqILtG2kQZ0o51+ZgsQcB59iOBVTXIUI+9+XzdRm9EhlVchSVOiw==;mqR+e90IbQc72RGEXOoXRA=="
 ---
 

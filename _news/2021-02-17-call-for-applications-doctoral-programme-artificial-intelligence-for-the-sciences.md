@@ -52,20 +52,6 @@ related:
         width: 625
         height: 400
         isCached: true
-  - title: "Petronas to apply AI technology in Digital Transformation Programmes"
-    excerpt: "Baker Hughes and C3 AI will be providing joint enterprise artificial intelligence (AI) solutions to Petronas by applying BakerHughesC3.ai (BHC3) technology across the company’s digital transformation programmes."
-    publishedDateTime: 2021-02-19T06:23:00Z
-    webUrl: "https://www.bernama.com/en/business/news.php?id=1933051"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 39
-    images:
-      - url: "https://www.bernama.com/storage/photos/f9bb713a4a8f4680e58ddcd4400a1a935ec293f1ce255"
-        width: 1110
-        height: 694
-        isCached: true
 
 secured: "73gaXmKcMHRkKp+0eCCyY5wm6fS1ZLUiRb2sZTT6kqhh42seLoqUd3bL+e0UkZoHBtqvjvbmJvv8E+Ix+1OdvgcDl5yehf1l/4Ds/BJWE/x3ND0bgmNmu6qssH0P9rPbgPa5yHrhDKjercF3RnAouIX+ICDnOARBWDkqZto7b6JrUEXFaJIS/TO22m+E6pHeDPMyBoVPgUzJeaEim+i/b4uc6aYpI4p80S53ATZ7txevEWtVJsC8AQzm3F49+4nM47yOUSP+0geLK+janeptIq1vFy5wfONbDHCT8vyvdmNQDd/WH/PZmOKM2XdrPjK9MZSk29ybqhBnHfKFQye2NTFPL4xd46wdP4sfonEaQiLqU8e9hB75GjDQwF9HMFU/k+56wqbxmvmsoGjHA1F/AzK4Dvd/F86vp5FxMd1F4s5kpelH2MAs2uYi9roXDIr7qPk69bnrr7cQym1KwcA9ZfTdc5ZnNTE7qsxGyGRDADlGHqo2lqrpCkhVcIx9UxFqKBzZA1laj1Qz9zwn/Sv2Cw==;3+JzsXNyJPXtoCT4m1sykQ=="
 ---

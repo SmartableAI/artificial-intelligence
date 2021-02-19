@@ -156,6 +156,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Tech Companies Are Limiting Police Use of Facial Recognition"
+    excerpt: "Mutale Nkonde talks with NPR about facial recognition technology, how it works, and her reaction to companies banning its use by law enforcement."
+    publishedDateTime: 2021-02-18T16:24:00Z
+    webUrl: "https://cyber.harvard.edu/story/2021-02/why-tech-companies-are-limiting-police-use-facial-recognition"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Minneapolis becomes latest city to ban use of facial recognition technology"
     excerpt: "Last week, the Minneapolis City Council passed an ordinance that prohibits the city from buying facial recognition technology or using any data derived from it. Notably, however, the ordinance does include an exception for providing access control and security for employees in workplaces."
     publishedDateTime: 2021-02-18T21:45:00Z

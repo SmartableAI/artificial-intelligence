@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How UK-Israel collaborations are transforming fintech"
+    excerpt: "The pandemic has increased our reliance on innovation. Candice Krieger looks at UK-Israel partnerships and companies revolutionising the finance technology sector"
+    publishedDateTime: 2021-02-19T08:59:00Z
+    webUrl: "https://jewishnews.timesofisrael.com/how-uk-israel-collaborations-are-transforming-fintech/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 24
+    images:
+      - url: "https://static.timesofisrael.com/jewishndev/uploads/2021/02/GettyImages-834792042-1024x640.jpg"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "Unleashing the Potential of Fintech"
     excerpt: "Unleashing the Potential of Fintech By Todd Nelson, SVP Strategic Partnerships Mike Petanovitch, Head of Technology, LightStream - What are the current market trends you see shaping the fintech space?"
     publishedDateTime: 2021-02-19T06:29:00Z
