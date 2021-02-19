@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/amp/"
 type: article
 quality: 81
-heat: 92
+heat: 91
 published: true
 
 provider:

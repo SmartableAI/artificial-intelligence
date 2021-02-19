@@ -2,17 +2,23 @@
 category: news
 title: "French watchdog warns sports club about unlawful use of facial recognition technology"
 excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-publishedDateTime: 2021-02-18T18:34:00Z
-originalUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
-webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+publishedDateTime: 2021-02-18T23:34:00Z
+originalUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
+webUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO2C6"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -32,22 +38,6 @@ related:
       - url: "https://www.aclu.org/sites/all/modules/custom/aclu_metatags/images/default_fb_share.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Rising face of facial recognition technology"
-    excerpt: "Rising face of facial recognition technology Chennai: In the 1960s, Star Trek dazzled audiences by showcasing retina scans and facial"
-    publishedDateTime: 2021-02-14T08:51:00Z
-    webUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/rising-face-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Rising-face-of-facial-recognition-technology.gif"
-        width: 620
-        height: 414
         isCached: true
   - title: "UAE adopts private sector facial recognition technology"
     excerpt: "UAE adopts private sector facial recognition technology Sheikh Mohammed Bin Rashid Al Maktoum will chair the cabinet meeting in Abu Dhabi"
@@ -239,6 +229,6 @@ related:
         height: 726
         isCached: true
 
-secured: "gi+YBOWjGKMcbpAHM9o7UQA9bGkZnKsULkCKtMCZzd059AZEztNHYOkqVZmk8EtmZBi+hjbY6NY1Tvhit86Nmwus6oAtSrCUJFJ1chgOVpKFNqdJdcxwxxtTWfEDrP+9Hu1l0oF6F7K5MIOfY6glm5kPx6cJd90LG+n9P0OmkIjUKpaDSvGyuOArAahIXRiUvtX06GwspAygCrgyiyON3bmzrhLWRVP7xnWS/CDjjnDN8JFRQtMQcP031MZ+pZypqKfoVqIRu3mfeP+WcTBzd2f0eNlsPCnT0iGtThEp5N4ZBvFmMSMMrXJS27yWQNQb1b7eo4ekOXgRnanII5HOFER0YBP8b9kKdTJkNvUOEgE=;QOznxjpCUlAjPSHpnAX6ZA=="
+secured: "fjxQSNXBF8z/Hi+oCH0kKLHbSrHvHiCh9RqguuDTDy60DpnWCltQneLGHnKWbHKWhvRhUVnhsB/dhWwzSgQ0t5uWeYohMTGbgj+68BNlh4GDEAjlb+PeCRk0HUwb09Wqy/yHc4l/r5wuVbmxSC6w9OvHuni8OYnUQZqEiVrf1PsR8rlRqRidM72W9zj29ubBjaO9MlPZgoaJSngU7DcQhQVBNz1S/bCYHMFhOO+Br+jjaHxYUfiFyTtWwkUSzPDZiSD5W30k9Zn1wzlOvW6fotI53T2avcEVS7I0qEueqb8LHzsPwx1KziN2z0YSNUvUlemRZHZq4r8oyv8b4ILI2dttGrM18L9657xfV5yyfM0=;FMcezWwc1fWHeCzgx1h+3w=="
 ---
 

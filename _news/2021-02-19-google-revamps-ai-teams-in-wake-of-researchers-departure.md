@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Google to Reorganize AI Teams in Wake of Researcher’s Departure"
-excerpt: "Google will restructure its responsible artificial intelligence efforts to centralize teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilize groups working on ethics research and products after months of chaos."
-publishedDateTime: 2021-02-18T05:16:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
-webUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
+title: "Google revamps AI teams in wake of researcher’s departure"
+excerpt: "Croak, a vice president of engineering, will be the Lead for the Responsible AI Research and Engineering Center of Expertise, she said in a YouTube video announcing her appointment Thursday."
+publishedDateTime: 2021-02-18T23:15:00Z
+originalUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325.html"
+webUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325.html"
+ampWebUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
+cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOZvPbyletXA/v0/1200x796.jpg"
-    width: 1200
-    height: 796
+  - url: "https://images.hindustantimes.com/img/2021/02/18/550x309/AFP_93942A_1613689939985_1613690006848.jpg"
+    width: 549
+    height: 309
     isCached: true
 
 related:
@@ -61,6 +59,20 @@ related:
         width: 848
         height: 565
         isCached: true
+  - title: "Google to Reorganize AI Teams in Wake of Researcher’s Departure"
+    excerpt: "Google will restructure its responsible artificial intelligence efforts to centralize teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilize groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-18T05:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOZvPbyletXA/v0/1200x796.jpg"
+        width: 1200
+        height: 796
+        isCached: true
   - title: "Google plans to reshuffle its AI teams after weeks of turmoil within the company"
     excerpt: "Google plans to centralize its work in responsible AI under a single leader, as it hopes to quell weeks of internal chaos, a source tells Insider."
     publishedDateTime: 2021-02-18T16:46:00Z
@@ -74,22 +86,6 @@ related:
       - url: "https://i.insider.com/602e817542b84000192f42c9?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Google revamps AI teams in wake of researcher’s departure"
-    excerpt: "Croak, a vice president of engineering, will be the Lead for the Responsible AI Research and Engineering Center of Expertise, she said in a YouTube video announcing her appointment Thursday."
-    publishedDateTime: 2021-02-18T23:15:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/02/18/550x309/AFP_93942A_1613689939985_1613690006848.jpg"
-        width: 549
-        height: 309
         isCached: true
   - title: "Google reshuffles AI team leadership after researcher’s controversial departure"
     excerpt: "Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black artificial intelligence researcher Timnit Gebru rattled the company."
@@ -106,6 +102,6 @@ related:
         height: 333
         isCached: true
 
-secured: "7g/qxa7um8enu44+mxI7ViK0zC885E1dmNxi+bflnjBCrLcCjeJcEmMFXbjkMJ71vf6TwbUlGJe6iugpJMk/dSM03iQoD6FA70ssz0QPQbistJqJeDOgWGS2DtTvu8oOWaVAr4zrvgGb9kt2U/cYdS7efrfbhLY+JhhtEqAruQhhOFdzupW8BzPMt/pZQiuhgsNz8ZWEV12j8Dba655vm8uGQoJpKibB9ZAVxr3h1tlwAUlA+Kkpd6pN+dEx6LNpy9bg/b/gn7Snq7wMcLGilld+zgIkTT/BRSeJ4Syv0H9183D6ANJoy2CQrNEQnzdijuXJ5cvbFcKl/gh5OQVboZo+w3OizK0pukWfhVmXYpM=;oojUf+cn2f5w2zCgRkdOzw=="
+secured: "Q6hS5MUA/B8ieAeXW7T7WJT7ZFlKwt+VoiY+m90SmVnACDX1e4IRbKMbmQFsUIyHqYOZoBnB3K+rv3TgVnLuoEV0Y/OqrGQWXZQC7XY8M0+7pQw8neA3pdW+zSoD628iKy9kTT3NLD4Pvb94LeyrnYrw89mVPrJP+q03TCBuBN4MujwvNnEBuXdGjGpNKFyvQuqPhXQMoK3svoF7GftRn7BCNugSpQkS9sGPI9tMNDPa9csSVMHDgWDqt7ll/qgHZ6l9VjIdRIYt18E71KLoV1VBPaaPSvqBQs7qzQbDuSqWv+5gV3201oUxB03M3IzuFFwBDdHGoeFJj0NnOFYWz+2dX2aayMjlWhkyKKYyTJU=;ETfMOC4ubXra7kAKWZ3hlQ=="
 ---
 

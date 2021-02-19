@@ -53,16 +53,19 @@ related:
         height: 278
         isCached: true
   - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "MONTREAL, Feb. 16, 2021 /PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is ..."
-    publishedDateTime: 2021-02-16T12:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19669829/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19669829"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19669829"
+    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE."
+    publishedDateTime: 2021-02-16T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aifred-health-named-top-3-finalist-in-global-ibm-watson-ai-xprize-competition-301228836.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 51
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "qe0uiXiIqJXNrH8NPp2Y8teWf9VpgQk4cmlBvlI1V5lGZF8potUISJZIjXLi8gzvN8gw36cTVXPZAptHwC4Hmyu4A4ZzU40Z4zdC28WfaWTtYLGqQml6xXq32C8bKRbUNP7tujxKUCXXEb5PEO6aSLvFXi00iXB7DfFdUNEURV0LwZCV3r/Dw89XTdiSSt1WlTIWo/myF0cj8hC8daJ6x0qeixLnXWXw4y9xPMnFtzOqG7PTgs0PTBghETKczN0bhUe3ewMIa67Zjs2sMb7Unutisk4dnVPAizfalEkDSsEJoaPpEf81tyiYnCEM/RtZ7zNaLt1mD8wb2cVzUD7p0TXf47tuQmNs6tXn21KaF+fkSwMnxte8Tmmsbmht1OksdiuktBKbOr1bwKqicNsai51D0BlIVNXkNWqs1oPUDzzuTqw2tB96wDRsa6fKy3JnC7S/JPA/MHhsp3LzeltYPkTiAiODKm7nkY4ZyyHiQJE22SWSo9NYunFsuJph2T16z/J4qy2UUcn6Q1k4Ko5XSQ==;nRsYvscoCn4KyhIGYGXlvQ=="
 ---

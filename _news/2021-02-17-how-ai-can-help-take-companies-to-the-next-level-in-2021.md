@@ -3,8 +3,8 @@ category: news
 title: "How AI can help take companies to the next level in 2021"
 excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
 publishedDateTime: 2021-02-16T16:41:00Z
-originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
-webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+originalUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+webUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
 type: article
 quality: 69
 heat: -1
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
 
 images:
@@ -88,7 +88,21 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "How insurance can help build trust in artificial intelligence"
+    excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
+    publishedDateTime: 2021-02-19T00:07:00Z
+    webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 37
+    images:
+      - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
+        width: 1440
+        height: 753
+        isCached: true
 
-secured: "F3nzS1B2Z8LImniAn0vg3cSHzb65EEnDYdrJCkC3B9C4rcFohmhV5Nq8SS7BxO0ujbqLMWACCPEWX44kxvgZvgzIGVnaLFwd4o/X4etcpbdjSZz4dYbKauEU0P/xeFUZXrn3FE/owqvxVyXeVxpzp77ntvPpLzxPigt4pubRIGm4tT00yh594uvOyEiGLmHCuC8xQyB2UtcPVnowKPzOhqDTK8hJdDRAT++bGeWLQlPshYBLCT6RA+3OMV2mJMUOpui92peBe+NSVRymfRIfuGABCCRv8fY+Fuk5gTRl0Hu2wkLeYelaqx0JyhEefH+Av3VjX9Pq5CDZfv+fByYpoGUyqjIk3iYjo3ii08eZX2Y=;WzO14dFR+m0NinBpycKM4Q=="
+secured: "USQY2j1fAW7WqWQop5o54LM8dMV/34zw0Kha/htZwg4W0FkH5zaCet39UUaBbNR1g8lr5q0b21t4WiLgn8mPl3KRFBuEfiYFdEhoPdEFetaqXtetiL9mkyB740qfkNKWv8hg6uGqH2el3g5twHSNjSjAhrUZp6MtqqFGpxs94o+EDpI79zxk5VG7OiaNFuv4GDhYkB7rR5xkTaipnSJ5vXynXoGrfbesONJuj1LsduhfuhIJjW+DMJPUx+Gf7DOEjv9DzCupLXkEHoj5igHYfsSCrCkkfHmI/e4X4hWRUh46iY+uPLX7jhET0st5t+dksTczlBSZX5+Y5Be6KGfSci5eYjzrnod+wXpQKZA/a6Q=;OypNdlKNys7RmXW3otSACw=="
 ---
 

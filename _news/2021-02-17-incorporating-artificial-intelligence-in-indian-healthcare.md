@@ -46,7 +46,7 @@ related:
   - title: "How AI can help take companies to the next level in 2021"
     excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
     publishedDateTime: 2021-02-16T16:41:00Z
-    webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+    webUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
     type: article
     provider:
       name: TechRepublic
@@ -84,6 +84,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "How insurance can help build trust in artificial intelligence"
+    excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
+    publishedDateTime: 2021-02-19T00:07:00Z
+    webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 37
+    images:
+      - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
+        width: 1440
+        height: 753
+        isCached: true
 
 secured: "7o57PhNqkDYvpbgYWHPLb4aoLqpvJYke4PQpTmcZ9D6qoxo7qCqBO2P58RbW4WTzPvghXKKfBE6U1JpIFG2ViDjFtBHtDv4+B6nUrQqfZqcYiPbvytoL6QM1uE48eYgCPjdfuN0l3Znxx/cql4wvTHaDvCiCYxqDTBeZUms386najsKCHevdA3SxywWD83RTVum8RuMdArYNFHFrQS89kdt90TPCi47a9BlDmQLvYPWgLPOSoay6YGRKRoYKVEB3iSf3K0zMp+aSr0IVKtIBeZUDNgEDYV6VpZqpSUxl9qlW3k22JUZ7+4PDxmUCn8r+23RjtuC/U+D0t8AENPcGWjyG49ztY17co63hDWkFlDqLzo1Px4GTNE3yH3wUa9tHPD7ner6jdzCGcrAd/ceF4jY4Yl1VYflSofZqJhwi6XvZufPNo3bYjclIi9inE85CYMR9PjBN8fChW1wAMIIkQiN/XJbltq2Ahkqzf+5RBhmKCgkp363xUyplZTLqo4xI9JmVzOEbRdZlotluPbvOKA==;3uA7rpQyvfXysILJYpnziA=="
 ---

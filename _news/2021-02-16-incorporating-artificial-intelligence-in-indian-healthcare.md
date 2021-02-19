@@ -56,7 +56,7 @@ related:
   - title: "How AI can help take companies to the next level in 2021"
     excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
     publishedDateTime: 2021-02-16T16:41:00Z
-    webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+    webUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
     type: article
     provider:
       name: TechRepublic
@@ -82,6 +82,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-in-mental-health.png"
         width: 850
         height: 400
+        isCached: true
+  - title: "How insurance can help build trust in artificial intelligence"
+    excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
+    publishedDateTime: 2021-02-19T00:07:00Z
+    webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 37
+    images:
+      - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
+        width: 1440
+        height: 753
         isCached: true
 
 secured: "Gk60lxgqlqJUdABd1JoQ6PjWqlQggig8EAIoBjZj3ZcK9xNzfA3TnzXoH98Fyfm18m4VKj361szEGkLuNWiZ1mghJBEWRscB/9I4er8C+ch/4yTCmSoMOyTczt4OkSQs9ejHs5VIOGD9P2vrrRuVdNrdBpdcGWbLj5ub8bx2PnAVgMp0tt6iekyI1w9E10If83lRGmMkZa9xC0hdlcmlk8DUy+GTetoZG4DRKpLLJ8cOlRGUOTfQ9xoZrb3G2ER126p2dfeRzxUCm1E0W68jS3cBQm4lAWfdpHZce413B31coz2kK4hVTln+xWckia3BWJDjDoLaSBW2D2d5IStXmf1fEfREoIk9lvW9ZVcjx+M=;88/IYxWrfaBjInJpFSJMiA=="

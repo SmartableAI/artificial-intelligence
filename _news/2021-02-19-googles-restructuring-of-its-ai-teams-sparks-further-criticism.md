@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-it
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google revamps AI teams in wake of researcher’s departure"
+    excerpt: "Croak, a vice president of engineering, will be the Lead for the Responsible AI Research and Engineering Center of Expertise, she said in a YouTube video announcing her appointment Thursday."
+    publishedDateTime: 2021-02-18T23:15:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325.html"
+    ampWebUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/02/18/550x309/AFP_93942A_1613689939985_1613690006848.jpg"
+        width: 549
+        height: 309
+        isCached: true
   - title: "Google reshuffles AI team leadership after researcher’s controversial departure"
     excerpt: "Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black artificial intelligence researcher Timnit Gebru rattled the company."
     publishedDateTime: 2021-02-18T22:18:00Z
@@ -89,6 +105,6 @@ related:
         height: 333
         isCached: true
 
-secured: "FskMhGot2RAL5QbDfjYAtE/XArgZBpy5ckMNThNTwVR/tH0JPXOVSAxO6ce/45XT477VVBZaMRgSNXlH3fiGH58DaEGy6w0A58rtw1xWgTdid0OC7N8ORHMyuVtjFTnPszmwQiCeKOAJAKqfKBfBHNsV1XRVDXW1SNgkxG7sE+V2309uigZ7Tz0590lfiyD88Nb2RY+d/2eop0QCZzhg1Nix0SAUugLtGAUyZsFGGsxQXm0uEdUqBKz7TCS9vWkjG+TaKcUaexCLGuagBRgZgUZdKRXLyDYZ7n0PIR+ZBaTtX2ERRCMKLCU3gX9+w9KO1s2MeDCIoGb0RCc7k1yqYk4eY+GAEJ5LEePvLc2btwE=;N/K4q7p8cjB+LXsxZ2k0ag=="
+secured: "E/3FO2cCHePks4RWTXD37GIsegdupR5+DRDCrtGKBTN84f9KCXoD1XU8e/Xn6HW/bpdFxHBaqcaY5gRYi49tMVEKUPeo9rqxD+VCeAGSF/3YjXoR4/VUZlfRTvM/T9hqGvC+w6A3eeEkULerzW2JKKzU4WJSmLVx+FE97Vi0yAmMEuH9DA1lt1m4aV2+ga3N5FiPIuTtxyb92Q0vPFSeU2Qf+qKJpy8S3doFkdOjGPjWiKWiR40HgWXYfBrRX1XFCfJRQ9ABe0yeCKsYGSlHqcRGZs08HK1yfmTfePbehJei5VpeG5ioUrlqJpusBmq1bxccdZFzKAWTiMwnzMGPxq8f72mrnNIyUK1Wr86FyIhIs2/lNRmqaajeIq9fkj1WGxDOeILwqWoCAb16XygBUgtMPSildnLXchutf5RBlqW3btawrqRKu8RXI5gSDJ/RvZ8WTTPYUG+/7TAYQa3obyMLCd5k1vOUb42rC0tWOjoSoB6RJEuD+tzPxWq1r6781/7tIQd4C+XU70MCx0T0eQ==;AcFL1P7NJfxG8wTInjpl4g=="
 ---
 

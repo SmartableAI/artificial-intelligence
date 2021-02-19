@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -50,7 +50,7 @@ related:
   - title: "How AI can help take companies to the next level in 2021"
     excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
     publishedDateTime: 2021-02-16T16:41:00Z
-    webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+    webUrl: "https://www.techrepublic.com/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
     type: article
     provider:
       name: TechRepublic
@@ -88,6 +88,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "How insurance can help build trust in artificial intelligence"
+    excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
+    publishedDateTime: 2021-02-19T00:07:00Z
+    webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 37
+    images:
+      - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
+        width: 1440
+        height: 753
+        isCached: true
 
 secured: "8lMTQU2xgBGYIq3jDoSBEoTwOawU9ie4LlgSd+cNEv9/OJ3Moz3krltpyJofcR/1ADUSiQeU3RwOfjkkoQ4vACuBh6sxh6QLJRBfG2xHWeEBKvMSBrsCy/IDBHHqmCSI6PXQUuB5Tf5IKhJdEo1hm2n5QRehrXKjf0EynuOeVrorF3+VYUIBEOIbQUJfjFLAhj8i8w0Mos9NOPKbg2ZXN7QMTwixyLjig6l6PbkNtJxWcMKjm8jxjzLpbMXU0owHUKoA4Ind+PJpQndUVQ2jYZKFGs0CWzLme0f+/CXC5za8Kegk8JWH+Ju/rB9UW55rUmamr/3NxKY3jEfrfZ6/waG17OkW2kKRFsAXPwIhXrfPXO9RxW8GOzwzKzrEp9tNR2VRJ1ibAlOljwfvgoRsHq0RO1vyURje4XhETBARuhmwd/2lUl5TjYdf6Skhyq0cWFcqIphBXp5gdO1LZWxUa2gYT+ssvJ+WE2WbA7Oo86YYmydxcK0BJFg+bOSAYJLQWcakfXjfWbRZnOnkF1kNsQ==;D211zJV9cmfiMWBwxilmGA=="
 ---

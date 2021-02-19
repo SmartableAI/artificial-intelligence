@@ -38,7 +38,7 @@ related:
     provider:
       name: Embedded
       domain: embedded.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.embedded.com/wp-content/uploads/2021/02/ceva_light_image.jpg"
         width: 1280

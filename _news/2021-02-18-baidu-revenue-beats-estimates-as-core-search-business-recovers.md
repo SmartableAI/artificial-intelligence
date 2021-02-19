@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers"
 type: article
 quality: 71
-heat: 91
+heat: 92
 published: true
 
 provider:

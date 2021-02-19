@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for
 ampWebUrl: "https://venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/02/marian-croak.png?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "0Cu83JG13l/uFddcXyJl230Vmvaku2eCsFfQdEy9n7w2MjshIq8GJ9JHOKHz9guOofOKDS+wVCTLe8CQ+urBNS2Cflb+ziHmBxdP6KIl/PcxhOf87gtGOIbaV13PUCX6FtcwH5bm7atgn+/WsvyaxxE/utR9noiKSfooRcXwl05tm/kffveS9yQIOXqPIL1toqXD61awBYeCIOSacuZzgSkLgxG7pzS3Em8KOPU7+C8xs+5JKPZsou8l+2ImM5pkaFFf74mXE24P0yCN01ChyDleagTjmF8VT5TBnfxhFwCnjYyfC8QcxoAUUCmaxIUHygNqA9OlOxPQJHo+eZXED0yatjTDyQKvpcdWwd3o3XA=;KhmbyLVnNVp/LCHB1bHq9A=="
+secured: "gjYP+xWR8cx5Yh9naCZezwLqeEOPTresZ6FCpokJgYA//NK26MqejJ6/jUzSBUZGG7LS5j3Hf+KmCBMPTy12pPnbS3iBzpVL3M1Rx4BGDXfqfh2A7H1FvN4QqzC33tISpkkrVZ7422iuFJEMbCsAVJllFwsLPwTwjFm9NVewI33+WAvH+EuAMyFBjojt8xAOByhegzLhEPqjp0yCYgMvKPs6rh1sUmYp7e5tWXcjk6GAqiy+mw0M0MJC4NHzpEzuvLOw4whEIUMmGvI8QnxzsJw/l62KPr5i4/bFK3dyprrBt3rB52v3+Z6Xy9raHrYu6IDzPYrQSeyZYgShMsPxSUdJKl3nCNqqJAgHDyAXZgr8CnpknndHAjvcR34eF3U57ed/O0tqmIXtxX6XWSy7bp4qVtn1+fnZaTd82mrQkDiDJi+6lR8UHIyX+zDKMyoTXIHb6hrZZcgybqmXIoQnFauR8BYTUq7GqwqhovtJxW3L0VvN9YEEHQNSlY5TVxGBgVSv8WL2n9EHQk2F6f3vLw==;wPq4MIU4vVUB4QrldEPC+Q=="
 ---
 

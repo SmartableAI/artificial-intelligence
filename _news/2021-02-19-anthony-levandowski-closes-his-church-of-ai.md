@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church
 ampWebUrl: "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/02/levandowski-church-AI-1-1.gif?w=1024"
@@ -29,6 +30,6 @@ images:
     height: 576
     isCached: true
 
-secured: "PTSbyraAm2oL2XDOvTjPrCcTAa2gSqoLDWMY/BKIn+mrFM02eM5+Jh1d3IRoZ1Xhr19+fm+Dd6WUSiHYpJjVdb3AK5+pHYmK4nPo5aA8pErvGD25bk/AbhTYaKLjDj8W9VFUDL7/fcmLte+zsLb2xpZBtn8T6Zrehyszz+7JwXXmjKYxNDxATrno4p4Ekpb+IU612uIMf9ACnkSoTPnpt7OCVG4/hKJ0nmp0XkSmiJcVW27UiXt/UyzX1lig9cnmEpPImphWs5s5hdHj0ocyT10AT8Ydq6v0v2CsQzt4uC/rlHIjUrOjeuJ0uNDyehcNkgOQkn9O7rlbjPvyibC3q/+FmqhzQM3nkAF1mxzWB8E=;4BCJ3cNSRiHthPnbiPes1Q=="
+secured: "7wOGj0W4SliMzeMa0EmiB0DYQPoKs4gsGu0ixgMsMifU3QQtCC/HTo8FCnpTcy2eDqIlhB+ilxwuyRpnDe7PirKsdyKXuWCbudnnCig+m/OdCoHZ+H9fHz1qu9FQ7i9qRxZN7FhtvAgN0EXj9EEH0Ig8SZUYsgi1e1A+PrSeYTgDjwS/PBAHa21CQ4b8TEaD0XloVPle2uN11Lg7poMWBM0J1913sJtvYf4Jx2KQqoaiXjnMh7RXbPE+nHHnKdmpoCBxyCarPG6APmG9nWu7kaTyJAPbmmg/bLX1K8pp7RNdF+fxEuhvifH4IGKV8Ho1+8sh2pxl1/KXj9NQXHAngt9HV3NsBMLJiXi/C2B0clAXBg+jACsCnUfanDSlM2k2AwKR7WBX81hiq3QBiPEzS/M2xW3p+hLABfhY+vwCRANMwen8WU5bUyRW29nfw52aju2KTBtX79U/wcjNDe6+3JjWnYSkoeqnPU0iUgI8N//6zuyHXvU0c73YwTWhQpoD7Oo6WRznCpYgOIuSI2b1ww==;xDs17Ms5vYZHmfuuji1ILw=="
 ---
 

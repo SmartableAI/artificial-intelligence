@@ -85,7 +85,23 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google revamps AI teams in wake of researcher’s departure"
+    excerpt: "Croak, a vice president of engineering, will be the Lead for the Responsible AI Research and Engineering Center of Expertise, she said in a YouTube video announcing her appointment Thursday."
+    publishedDateTime: 2021-02-18T23:15:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325.html"
+    ampWebUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/02/18/550x309/AFP_93942A_1613689939985_1613690006848.jpg"
+        width: 549
+        height: 309
+        isCached: true
 
-secured: "OIWRWuRCa5fpsNd8y88q8NVJAE1aQbZ4yLCB6PwqW2PzWf1fdsbrJVyOoT5HantifUyZkGCVwLkT4lpPsU2HoMgh3HqOmjkT9F8gEZ5cudDsK3zWTl9JGekA5m4r++FQ82Ie2PBnGwjijBa1TFNkUb2Prx+A7NRyIcV1edTPAu4ZT+XwyL61hmQVJbB8eTuFlpH1pyMIgQDOmM6xapDa9//W0wvJ86fHCCno9I/IDXrYOHUI8eAnk7QQxKcY2UShf+fTWrEGcgBO+hxxZphcHGbPdxOIsbl3R1PP4+2C0KE+LiXxkljfaW0p5SlKJF2JRaeOvc2CVp0hWTMVcm6m0cqq0VwpmbeXAq5NjXcV9kc=;On8+byPFueciXwupraN6RA=="
+secured: "plE6yQG6lyyiU4qMNSKaPsqOMrLFWSO8hmVopOF6qCYLWTXXEOJCDnpJeZQQLayryGXOBII0aSju5he77yEltszDmzQo/3gUiwOn4DPpFX8ZhRqSzxGTpACo4kEfYhdKNanjK8UvUpj/K8AmykDe1sTH/UjB0LFxiZathfYPLFBQkSdeQqvdndUJAMnwpzB2+rBs7SncFee8Hx/6Ig3apBj57PCqmWQmqxk6dqkYQ+YIT4nlDWCqcbv3Y3X5oKl0BZ7OtFL+J3Wqo2I3rgV/EdoG3tuJ7QSEnKt/x1jiXlQitIpSvO6UPl9v3ezO9YU9Anc3mixEQBMqkizZAeab0eJRThaLB/LfYVx/rY73Q7PKVSi4KM89exdqDWkN9uAlw6tK0GzORRMuoEjjq1Z646n50KvBOTU2PQ5lTWJX8zkdbdOcOblivMKCq3Bynv51Gjdh+XohORx1zTUvSPOsqw3sM61cPD7AuOoT9cLEQihJ4aUg9nJ9H4aJUt0jSoLUlUGVz+EmaM1zz3FBy8dl9g==;51QF34al5YuqFmVSDz5WMQ=="
 ---
 

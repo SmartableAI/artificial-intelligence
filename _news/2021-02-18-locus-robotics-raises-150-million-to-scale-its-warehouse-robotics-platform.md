@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/"
 type: article
 quality: 117
-heat: 168
+heat: 167
 published: true
 
 provider:

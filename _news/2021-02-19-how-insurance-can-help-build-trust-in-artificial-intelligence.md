@@ -1,29 +1,26 @@
 ---
 category: news
-title: "How artificial intelligence eases pressing needs of mental health"
-excerpt: "Emerging technologies like AI allow the mapping of the brain’s responses to various stimuli and help in predicting disorders."
-publishedDateTime: 2021-02-18T07:38:00Z
-originalUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/"
-webUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/"
-ampWebUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
-cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
+title: "How insurance can help build trust in artificial intelligence"
+excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
+publishedDateTime: 2021-02-19T00:07:00Z
+originalUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
+webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Dataquest
-  domain: dqindia.com
+  name: Wired UK
+  domain: wired.co.uk
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-in-mental-health.png"
-    width: 850
-    height: 400
+  - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
+    width: 1440
+    height: 753
     isCached: true
 
 related:
@@ -73,6 +70,22 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "How artificial intelligence eases pressing needs of mental health"
+    excerpt: "Emerging technologies like AI allow the mapping of the brain’s responses to various stimuli and help in predicting disorders."
+    publishedDateTime: 2021-02-18T07:38:00Z
+    webUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/"
+    ampWebUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-in-mental-health.png"
+        width: 850
+        height: 400
+        isCached: true
   - title: "Incorporating artificial intelligence in Indian healthcare"
     excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."
     publishedDateTime: 2021-02-16T05:48:00Z
@@ -84,21 +97,7 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
-  - title: "How insurance can help build trust in artificial intelligence"
-    excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
-    publishedDateTime: 2021-02-19T00:07:00Z
-    webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 37
-    images:
-      - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
-        width: 1440
-        height: 753
-        isCached: true
 
-secured: "NV8fsZ+dlGpLrzDiQ/97ajSVcbhtUoRs6GKWgtRCMZu28c7FZ7+lCmXXBHWpC6was+NdaooSSdtkoWBz7Bt8MZmurOL34zOsY5h97S9HrhOVqWuqtDSjEPuX0misnxtEIfeZXsuGSJxDMvRrnzbDpi850rmMgpQgrxfTzqTVh8sc+8WD08GGEBxgUdcNrVr4TXQNIjoqULq9+Uh+hpqExZ0ZxqTh0BDfCwvlla70KV3JSiMj9EshACXi1aCeLg5HXbXYwWan5G+P2Ji6QsZtiSAlNci3a3xMj5eX9R9oOPngK3+decNMs+bzxSlEveGVl2H+fYCS9LJw0k5E7edfwoquTGDlrus9PnAW4gLm6j4=;FRg7w85lbbSwEwD6iXrUWg=="
+secured: "0HZT6TtEdvl7iGIrxC9P+rnyqYKFrkbPHB1blsTCMfiqh+/xHh75Wf5fCO6X1aL986TvJuFDTRizGriphym2+WW5YXPmCVPfEsThNb5KDqUZE18eFLKsoC1q4aJehiRmGNaFy6VRl6DXh2bsaBWjgv8wAXjnSe4QjztZUJI4/zDQnCunkSbtH8HAR/X3uOzKFHajG0pj+yfrGmpoEN435klfi9/DucyDteaaTbxjzKYiTJe86mZVJMDboVWYCqSeGsAIO281qe5Je7XJ7bW7JCmy4EH7iOqH7gxoTiAZ7sJQbERHsPEKGDDhnpric4kwEItP5VhFXz6X5XGbM7S9PNQ/4BxSwUfOnfXF8Br8rFo=;PEpmqH3l1FV9fPC1oWFrng=="
 ---
 

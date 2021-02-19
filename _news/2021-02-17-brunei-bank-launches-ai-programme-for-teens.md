@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/17/bru
 webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/17/brunei-bank-launches-ai-programme-for-teens"
 type: article
 quality: 54
-heat: 75
+heat: 74
 published: true
 
 provider:
