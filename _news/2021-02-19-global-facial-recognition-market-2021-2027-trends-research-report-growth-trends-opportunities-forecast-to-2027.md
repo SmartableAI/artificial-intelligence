@@ -21,47 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "UAE Face Recognition Market Size to Witness Huge Growth by 2025"
-    excerpt: "Selbyville, Delaware According to the latest study on 'UAE Face Recognition Market Analysis, 2020', available with Market Study Report LLC, the United Arab Emirates face recognition market is projected to showcase tremendous growth trends through 2025."
-    publishedDateTime: 2021-02-16T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16"
+  - title: "Global AI in Fintech Market 2021 Key Players, Share, Trend, Segmentation and Forecast to 2027"
+    excerpt: "New Study Reports \"AI in Fintech Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \" AI in Fintech Market \" using SWOT analysis i."
+    publishedDateTime: 2021-02-17T21:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2021-key-players-share-trend-segmentation-and-forecast-to-2027-2021-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market Overview, Size, Industry Share, Growth, Trends and Forecast"
-    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global voice and speech recognition market experienced robust growth during 2014-2019."
-    publishedDateTime: 2021-02-19T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19"
+  - title: "Israeli Fintech Mirato, which Uses AI and Natural Language Processing for its Risk Management Solution, Secures $9M in Capital"
+    excerpt: "Israeli Fintech Mirato, which uses AI and natural language processing for its risk nanagement solution, secures $9M in capital."
+    publishedDateTime: 2021-02-17T13:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market to Witness Huge Growth by 2025 | Animetrics, KeyLemon, Daon, id3 Technologies"
-    excerpt: "Latest released the research study on Global Facial Recognition Market, offers a detailed overview of the factors influencing the global business scope. Facial Recognition Market research report shows the latest market insights,"
-    publishedDateTime: 2021-02-20T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-witness-huge-growth-by-2025-animetrics-keylemon-daon-id3-technologies-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Azrieli-Center-Tel-Aviv-Israel-300x260.jpeg"
+        width: 300
+        height: 260
         isCached: true
   - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
     excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"
@@ -91,21 +79,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application – Global Forecast to 2025"
-    excerpt: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application - Global Forecast to 2025 . New"
-    publishedDateTime: 2021-02-16T18:10:00Z
-    webUrl: "https://www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/amp/"
+  - title: "Global Payments to Participate in KBW Fintech Payments Conference"
+    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President & Chief Financial Officer,"
+    publishedDateTime: 2021-02-18T20:06:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=424517"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 29
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Face-Recognition-Using-Edge-Computing-Market-Research-Report-by-Device-1024x1024.jpeg"
-        width: 1024
-        height: 1024
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "14L3PXdHpT64wQjsTLXY5L5wAeEBYmVH6/oXPtWIiqgW0BDniEX2X/FDscU+ZedIstCVF8NK1OUg3O9d6GCsS4r1Ih3YCqdzdKbndDD7d+T9Yr/FT6j1CkpLrX97U5EO7hl4tHN/R3Ty8pwG2RoNTz4J11PaSXQlMT+VOKwLmiSPteftOOhoAqOM4LBDfTwfuSPsc+0L1Lmppw3GLLYYb2ntZg8cf4yqOTUirHwvY8oo/XrSOYNjtA7JY27j1PlV92JgU70wAPnAUwtOlrg5HPsUqOft2Sk7ySN5lM/H5wOFxKbfCM5019FI91QUI/nTqwLJGBVCb3A78oFdB8RiAvH+DYNEEsjqmbn0rg5ivgw=;DRlpCtK8zKDsa0BUcZfRBw=="

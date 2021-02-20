@@ -127,20 +127,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
-  - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2021-02-16T05:34:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-robotics-9e905439ab7f41d191e830ab1499ec4e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "FnZBQDbEF1yzX+SJP0Wg6ezBaXh/MgyMYFFFP8DYxu5wh9rBHiOlnZDVeCirYZv7Mw654GHrA7ZTMx39Z/FGmZYyFWRs/DlW7Qg8Z2Afzs3T6oImnp9Acl8G7EVGrz/WLKtJq61wNVRAwLYOTx4vkiFgONOkXbtAeaMP2sTd/uluajjmRQ8knTvNVLpsuvzH88V1J2/CS2gT2rP1jMEF/aDHgwPL+hpRaz+E2Z6r5HXNH6LQDlqQMoJTO71G4Wysos9prF8cQ7R5gA5lIl5C4ZZVTi0oc2S3Qo5BsB0+xVpeYVZAf4XONO15pxMPUnGyrI9ws+OuUfPBxB50DVpt2GvWrZtPvNNBHmABly0IApg=;66ncNnCz9/xwOgQ2SqrhDw=="
 ---

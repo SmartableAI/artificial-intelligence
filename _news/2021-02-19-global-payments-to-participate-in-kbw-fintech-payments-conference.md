@@ -55,6 +55,45 @@ related:
         width: 300
         height: 260
         isCached: true
+  - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
+    excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"
+    publishedDateTime: 2021-02-18T03:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-2021-cagr-value-size-top-key-venders-market-segmentation-growth-factor-trends-types-to-2024-2021-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Research Report 2020: Global Industry Analysis, Business Development, Size, Share, Trends, Future Growth, Forecast To 2025"
+    excerpt: "Countries such as India and Moscow Introduce Facial Recognition for Superlative Law Enforcement Outcome Besides"
+    publishedDateTime: 2021-02-17T19:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-2020-global-industry-analysis-business-development-size-share-trends-future-growth-forecast-to-2025-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Facial Recognition Market 2021-2027 Trends, Research Report, Growth Trends, Opportunities, Forecast to 2027"
+    excerpt: "The Global Facial Recognition Market size is expected to grow at an annual average of 16 3 during 2021 2027 Face recognition has recently attracted attention because it has advantages over conventional surveillance technologies such as biometrics Governments around the"
+    publishedDateTime: 2021-02-19T13:02:00Z
+    webUrl: "https://www.openpr.com/news/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    ampWebUrl: "https://www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "kabT2fpSfiMB4/k0QcunIpJdlcZTJYegY9BD6c2AdQZARhhR4uBXEtQaDmSvKMwQYPrLTM3m/HsXqtFM9Q894hyKC+s5bq/GV01jS5+iFDGsepx7kRDoIkEFgE5ZrC2vdo9BknBZ1qvJY/XtJerhjmWcMcuTcBo6bC3YQm1rCZ3rvBf020/+zxhDsaWopjO3b/TUzvHBZnHrHCDjSF4uVKcLPkrahAuGvALFJQxgyx0cYafOXExx56O95nIZoROaP8KD79MzTUfEzVtRR5Z6Gkk7+kawle0do95NETs0P5lezuzrtzUkW/d5gjSaIteEyZUBU+qxBgSZkc+6lvSA5x5skM4aYokml0kIJckucf0=;l2k+BHvWR7jteHrB6FUh+g=="
 ---

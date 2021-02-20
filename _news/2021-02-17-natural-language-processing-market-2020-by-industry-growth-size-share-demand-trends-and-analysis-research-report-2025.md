@@ -110,20 +110,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Market Share, 2021 Global Industry Trends, Demand, Top Players, Industry Size, Future Growth 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2021 (The Expresswire) -- Global \"Artificial Intelligence (AI) Market\" (2021) thoroughly scrutinizes the effects of a wide range of factors impacting the market ..."
-    publishedDateTime: 2021-02-16T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-market-share-2021-global-industry-trends-demand-top-players-industry-size-future-growth-2023-2021-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision in Healthcare Market Size, Share, Growth, Trends, Opportunity and Forecast to 2025"
     excerpt: "Report Ocean Pvt Ltd –:The rise in demand for computer vision systems in the global healthcare industry, growing computer vision precision medicine usage, and government initiatives to promote big data and AI-based technologies"
     publishedDateTime: 2021-02-17T04:16:00Z

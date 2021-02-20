@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-witness-huge-growth-by-2025-animetrics-keylemon-daon-id3-technologies-2021-02-19"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -27,91 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "UAE Face Recognition Market Size to Witness Huge Growth by 2025"
-    excerpt: "Selbyville, Delaware According to the latest study on 'UAE Face Recognition Market Analysis, 2020', available with Market Study Report LLC, the United Arab Emirates face recognition market is projected to showcase tremendous growth trends through 2025."
-    publishedDateTime: 2021-02-16T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice and Speech Recognition Market Overview, Size, Industry Share, Growth, Trends and Forecast"
-    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global voice and speech recognition market experienced robust growth during 2014-2019."
-    publishedDateTime: 2021-02-19T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
-    excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"
-    publishedDateTime: 2021-02-18T03:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-2021-cagr-value-size-top-key-venders-market-segmentation-growth-factor-trends-types-to-2024-2021-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Research Report 2020: Global Industry Analysis, Business Development, Size, Share, Trends, Future Growth, Forecast To 2025"
-    excerpt: "Countries such as India and Moscow Introduce Facial Recognition for Superlative Law Enforcement Outcome Besides"
-    publishedDateTime: 2021-02-17T19:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-2020-global-industry-analysis-business-development-size-share-trends-future-growth-forecast-to-2025-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application – Global Forecast to 2025"
-    excerpt: "Face Recognition Using Edge Computing Market Research Report by Device Type, by Component, by Application - Global Forecast to 2025 . New"
-    publishedDateTime: 2021-02-16T18:10:00Z
-    webUrl: "https://www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/face-recognition-using-edge-computing-market-research-report-by-device-type-by-component-by-application-global-forecast-to-2025/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 29
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Face-Recognition-Using-Edge-Computing-Market-Research-Report-by-Device-1024x1024.jpeg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Global Facial Recognition Market 2021-2027 Trends, Research Report, Growth Trends, Opportunities, Forecast to 2027"
-    excerpt: "The Global Facial Recognition Market size is expected to grow at an annual average of 16 3 during 2021 2027 Face recognition has recently attracted attention because it has advantages over conventional surveillance technologies such as biometrics Governments around the"
-    publishedDateTime: 2021-02-19T13:02:00Z
-    webUrl: "https://www.openpr.com/news/2245607/global-facial-recognition-market-2021-2027-trends-research"
-    ampWebUrl: "https://www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
 
 secured: "RXBVE/ZXO+J562Iyg4GOtXvh+5uPAWFsSZ+Q/RisvzwhjqUs8XJPw6lnu/9tWVY+J9bHhuNra9983m0wMu5Ro3eXJwLZoKLFkSTqXQpeZfI7HmG62wcQjxYvS081NRnrLSxMbo5KS6ir3F6v16CcGiVxtDWxsdOWM6hK8nz2Ihshzo9agH+2vbf5CTC16FiEP9GrsvN1zkYtuTdgHT9IxwthXOzVls6JcjQ8dnzOc/oNN2GpQ0Uv3O5eie3GRIj4gJjJVMYXzsFCADAfX00C3t0e1V1af6HKADJmELLMxdB90Dz48f9qGU7yl4o3VlQtkg3yKX02gDWI3AORONf1zl7k1zjUYEtp5lsN20j6oCw=;uuV50DH7T0EIKaZDrstQCw=="
 ---

@@ -28,7 +28,7 @@ related:
   - title: "IBM’s Retreat from Watson Highlights Broader AI Struggles in Health"
     excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
     publishedDateTime: 2021-02-20T16:46:00Z
-    webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+    webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=hp_lead_pos3"
     ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
     type: article
@@ -319,6 +319,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Ibm considering to sell its $1B Watson Health business: Report"
+    excerpt: "Ibm is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that Ibm is exploring a potential sale of its Watson Health business,"
+    publishedDateTime: 2021-02-20T21:30:00Z
+    webUrl: "https://www.imdb.com/news/ni63201947/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 39
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
     publishedDateTime: 2021-02-18T19:36:00Z
@@ -338,6 +352,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "tR1vQdmDNDiTFExEmZhDRzhFq/odJ62Jy5IcLwKPScw8yz+y6V5YQYPfJ+hSWM52e8Lm06z/9hQMDWzP0NPinAVKLy6H8jVci3BhVhE+xo/DMrnYqujIuc2hXq6Z7sZWb9jZzbEQ5yVQHlXZR0avehI+6JnGJldnZcYBqmJfwRuPAimFp/H40mmhm2fq2GKLteLQDNpPKrIVBwh7aOwD9DDLEHz/xjxdeNpxVzLtdmVi4/jkaWkf6N9UN7Y7xLRDqa8KChI1MWbHTwusXgXI9rBIqiLp3NvqTUSaS3v6Yh9csW92p7sFQO6fp/AFb7qtnb3C/GyqyLjLf5/ue9XBp3QgXVzfKnpnp8eKN04LbZw=;gGZ1Skb3zLx8aWM+w6Hemw=="
+secured: "vYCem2Hc1d2qjTHuhXnBjvwy9KjyoqCTY3SHu8N4NUpFC8tzNjzEdBPC/UtANbildq/XCdxTbDgPyLxTzLrx0V27ULF67SwGhKk82k9kuXy/HtOQZbQJm8+/MZArURv6SdZA4vJxtJtCxcyS4oUPcuA8q/EIi19qRlkOtUW+VVJDu8OZ4M6zCytOwqPfq6Js5EEASJ9VeA2B0scbjYJirN4kmDu/O75jJjfKyK4Yba5DAcEWBmzObw7mDv8N6YTE3fhQ/MuZAvcXEr5lwl0wilfb7w7LITq47+A0/ZzAhoHfyBCIHUst7RLKjd/JsmbDPnB/jmTIhQGcZwooCNLp52c4+tkqb5r2lkqaIF5+5GoTw45e+HYW4G00s6Nc+0T5OGN5EPvUEQXuOAkmH6ver6bcrtpWMC89s3ey1gdzaUz4PTK/cKRKefIiVa6NMf7bUM9aXxsrHwYmbZnQQZPpxWGToydYmQb1+bqMGi/SStMj1FX9FpxnSRN7u6pOb8W6AfdOrktj6hLo4Xd8VUQpvA==;BjemXxM4XJhcCFh9CcoJHg=="
 ---
 

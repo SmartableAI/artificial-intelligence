@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Supercomputer-developed AI predicts tsunami flooding in real-time on a PC"
-    excerpt: "As a region that is subject to a high degree of seismic activity, tsunamis are a real and ever-present threat for the people of Japan. The teams tasked with managing and responding to these risks may soon have a powerful new tool at their disposal,"
-    publishedDateTime: 2021-02-16T06:51:00Z
-    webUrl: "https://newatlas.com/environment/worlds-fastest-supercomputer-artificial-intelligence-predicts-tsunami-flooding/"
-    ampWebUrl: "https://newatlas.com/environment/worlds-fastest-supercomputer-artificial-intelligence-predicts-tsunami-flooding/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/worlds-fastest-supercomputer-artificial-intelligence-predicts-tsunami-flooding/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 86
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/3585d69/2147483647/strip/true/crop/1736x1157+132+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F90%2F98%2F012cb05a452eb76f12b7cf01ab5e%2Fdepositphotos-10120367-l-2015.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Fugaku Leverages AI for Tsunami Flood Prediction"
     excerpt: "A new AI model that harnesses the power of the world’s fastest supercomputer, Fugaku, is targeting tsunami flooding prediction in coastal areas before the tsunami reaches land. The development of the new technology was announced as part of a joint project between the International Research Institute of Disaster Science (IREDeS) at"
     publishedDateTime: 2021-02-16T22:18:00Z

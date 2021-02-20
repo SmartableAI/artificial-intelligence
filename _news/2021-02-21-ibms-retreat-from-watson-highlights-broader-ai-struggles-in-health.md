@@ -3,13 +3,13 @@ category: news
 title: "IBM’s Retreat from Watson Highlights Broader AI Struggles in Health"
 excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
 publishedDateTime: 2021-02-20T16:46:00Z
-originalUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+originalUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=hp_lead_pos3"
+webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=hp_lead_pos3"
 ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 type: article
 quality: 104
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -323,6 +323,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Ibm considering to sell its $1B Watson Health business: Report"
+    excerpt: "Ibm is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that Ibm is exploring a potential sale of its Watson Health business,"
+    publishedDateTime: 2021-02-20T21:30:00Z
+    webUrl: "https://www.imdb.com/news/ni63201947/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 39
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
     publishedDateTime: 2021-02-18T19:36:00Z
@@ -342,6 +356,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "BLHBTbPVO6ocqYnG2ITfWzSmrjsOsFR9tSaKipyD6PjQ8HOzQhQyeWAvZTCbUKkgmgHpC5WsF2AAMjbffgduG1dhLQ9vv98Gv1RrG0WyHizuVDohDJkFl+2Mmn2dsMB56U8eEA/faJB47wpjOjHbHWnXjf+D1MceWRb9XYmRmY4RiGMJLMt0RlchGQZhygfjEHdSf3A5xkaZ5o1NNiwo7/0dOac6Qb97RD8huxYbx75iqE+UGTCQOicAWxUVhElX4EO9+Vd6CCUdKQuzCQQoNmjSlb26bZG0s/TO43gIxIgZX/56GRvZah8sUoo0PfVKrUyZCsgMNGAfI82tk/hsTIK4msdMaOcaMecmpTRHy9FAPHmahfynbtRCNJiWjxXFbfeDscWvbS4onePNRSI/dktj3rQNtFWtAfB3i8Pv/opDKb5zY7OR/o0ULH10CMdr1msstqhbRE7KbAGSxBhlzKzIIPR9WoKuFHqwcTeDA6Mwpf3VU7Pad2573FoQqbJIEzoJ7xBmcmJ6xTZHejJhkA==;RbzPl0fa9WgbRUkg+nZ69A=="
+secured: "r/xRs+w9bTVS21gwm0Hk5ZSFoKYZToyaXoR29/hNIQ4uMe0e+68uYqVG8yE7CPes5T7enNoKwlTYCj4uTg/S8PnWatTETpgwVTSPyrgd2ews7Ms1f4+fm8IC5DoJKmNSZO3ZfSkZ/XVkr8ENSHaOJsKh9tCmvq8h9P302J0zyk6GlxD38cELG7pjY27kOkpnE5mTWNUw2BnfFtE6d5XD2PoOiyoBLR2uGjukUI1gYziFN8MIQDkaCxxqFob9+EUYkmf4zwn17bsRQKiMpQofqAxX9WTUlWUWFv8pXDpIvaAZyCS5rufHqVdrmv1e83tWcLNDeOuyRjhJfwhSHhaYvmmMmzhngvbdKOEf9vOkGA4=;kjvZlYq4+l51S9q/Jx3biQ=="
 ---
 

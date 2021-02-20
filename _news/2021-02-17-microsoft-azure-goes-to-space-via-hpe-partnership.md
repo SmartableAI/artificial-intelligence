@@ -84,22 +84,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 66
-  - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
-    excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
-    publishedDateTime: 2021-02-16T05:08:00Z
-    webUrl: "https://www.openpr.com/news/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 61
-    images:
-      - url: "https://cdn.openpr.com/U/2/U216134822_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft Azure and the Trends That Will Drive its Future"
     excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
     publishedDateTime: 2021-02-19T07:19:00Z

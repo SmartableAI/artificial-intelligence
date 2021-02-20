@@ -86,17 +86,6 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "Incorporating artificial intelligence in Indian healthcare"
-    excerpt: "Every year, around 50,000 individuals graduate to become certified doctors. In order to maintain the minimum doctor patient ratio, as suggested by World Health Organization (WHO), India will need 2.3 million doctors by 2030."
-    publishedDateTime: 2021-02-16T05:48:00Z
-    webUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
-    ampWebUrl: "https://www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/incorporating-artificial-intelligence-in-indian-healthcare-news-national-vcqfOuifccjgd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
 
 secured: "0HZT6TtEdvl7iGIrxC9P+rnyqYKFrkbPHB1blsTCMfiqh+/xHh75Wf5fCO6X1aL986TvJuFDTRizGriphym2+WW5YXPmCVPfEsThNb5KDqUZE18eFLKsoC1q4aJehiRmGNaFy6VRl6DXh2bsaBWjgv8wAXjnSe4QjztZUJI4/zDQnCunkSbtH8HAR/X3uOzKFHajG0pj+yfrGmpoEN435klfi9/DucyDteaaTbxjzKYiTJe86mZVJMDboVWYCqSeGsAIO281qe5Je7XJ7bW7JCmy4EH7iOqH7gxoTiAZ7sJQbERHsPEKGDDhnpric4kwEItP5VhFXz6X5XGbM7S9PNQ/4BxSwUfOnfXF8Br8rFo=;PEpmqH3l1FV9fPC1oWFrng=="
 ---

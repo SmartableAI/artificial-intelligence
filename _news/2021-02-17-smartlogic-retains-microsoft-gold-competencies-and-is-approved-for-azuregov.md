@@ -69,22 +69,6 @@ related:
         width: 1680
         height: 946
         isCached: true
-  - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
-    excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
-    publishedDateTime: 2021-02-16T05:08:00Z
-    webUrl: "https://www.openpr.com/news/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2242784/artificial-intelligence-as-a-service-market-next-big-thing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 61
-    images:
-      - url: "https://cdn.openpr.com/U/2/U216134822_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft Azure Goes To Space via HPE Partnership"
     excerpt: "A partnership with Hewlett Packard Enterprise (HPE) will bring Microsoft Azure to the International Space Station (ISS) by way of HPE's Spaceborne Computer-2."
     publishedDateTime: 2021-02-16T19:12:00Z

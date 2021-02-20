@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Will IBM’s reported desire to sell Watson cast a shadow over big tech’s healthcare ambitions?"
-excerpt: "IBM is reportedly looking to sell its Watson Health business. If true, it would be another stumble in a much-hyped healthcare project by a technology company."
-publishedDateTime: 2021-02-20T02:03:00Z
-originalUrl: "https://medcitynews.com/2021/02/will-ibms-reported-desire-to-sell-watson-cast-a-shadow-over-big-techs-healthcare-ambitions/"
-webUrl: "https://medcitynews.com/2021/02/will-ibms-reported-desire-to-sell-watson-cast-a-shadow-over-big-techs-healthcare-ambitions/"
+title: "Ibm considering to sell its $1B Watson Health business: Report"
+excerpt: "Ibm is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that Ibm is exploring a potential sale of its Watson Health business,"
+publishedDateTime: 2021-02-20T21:30:00Z
+originalUrl: "https://www.imdb.com/news/ni63201947/"
+webUrl: "https://www.imdb.com/news/ni63201947/"
 type: article
-quality: 45
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MedCity News
-  domain: medcitynews.com
+  name: IMDb
+  domain: imdb.com
 
 topics:
   - IBM AI
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://medcitynews.com/uploads/2018/09/GettyImages-871148930-1.jpg"
-    width: 619
-    height: 416
+  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+    width: 1000
+    height: 1000
     isCached: true
 
 related:
@@ -253,6 +252,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Will IBM’s reported desire to sell Watson cast a shadow over big tech’s healthcare ambitions?"
+    excerpt: "IBM is reportedly looking to sell its Watson Health business. If true, it would be another stumble in a much-hyped healthcare project by a technology company."
+    publishedDateTime: 2021-02-20T02:03:00Z
+    webUrl: "https://medcitynews.com/2021/02/will-ibms-reported-desire-to-sell-watson-cast-a-shadow-over-big-techs-healthcare-ambitions/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 45
+    images:
+      - url: "https://medcitynews.com/uploads/2018/09/GettyImages-871148930-1.jpg"
+        width: 619
+        height: 416
+        isCached: true
   - title: "IBM considers selling IBM Watson Health: 5 notes"
     excerpt: "IBM is exploring the sale of its IBM Watson Health business as the company looks to ramp up its cloud computing division, according to a Feb. 19 Wall Street Journal report. Five notes: 1. IBM is looking into alternatives for the health unit,"
     publishedDateTime: 2021-02-19T15:48:00Z
@@ -320,20 +333,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Ibm considering to sell its $1B Watson Health business: Report"
-    excerpt: "Ibm is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that Ibm is exploring a potential sale of its Watson Health business,"
-    publishedDateTime: 2021-02-20T21:30:00Z
-    webUrl: "https://www.imdb.com/news/ni63201947/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 39
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
     publishedDateTime: 2021-02-18T19:36:00Z
@@ -353,6 +352,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "ETChIJwQib21skWkDW53OJdNFxRuqHf+1gAiqzeB8KqpuqGzY6rU8HmOj2JA1RzeJ1TGsnLu6bAkoC6Lm1Y6JhvY+Bp7XF4a+81vC2fjehc5cu9gB+ciFShCNl5WMIGk7qpPVRjNO5hjs9SBrjgXRwutSP+T6ZHPu+15YmYuWWV1zWZt7VHt0tXYSCy/+IVI5AO2xa6l1b3zqu9g0GY+sO2uY/d+sfCrjdyzGFEIauL6XPr71Mh08mr3neLrfWZ5CHFxshw8XUmqvLest/Hk3T2c1UIkglzO0xmIYeumSdSLGGC9AfzCKkbsBWyUADGpmpxJEl2wTD3ckXuG5O8FDLE//GCAoNP9JRbdeKyzvPJQJrhtm/Duu1zmvG6NwjwENlLJALC0sH/PmYwDqc//00S7Fc0NxMbpQEQB9QuUEDYgP1L6GWn5TmVmuBV+Wt1g5YFE9EeZjgyASaWtgHgKO3WQwVJmozT9F/XvQoxiZL/qZDSbCjrKSA5HSql+Nqwrj6Hm1zeg+GDu9orHYMMXHw==;E3/Kb5lu5DIDs3Q28Ray1g=="
+secured: "rHATFxp5/JoSaIkABBDhQ2NMXW+D5lhfB2RdYQu0tTaDympzBHr1410NC01SJe3ghHIZwex2bZ9zLSwtoA+HCs3ZeIlHZvlvn5jlgwE6r8i2bie0Vb2l2kzop6YU871G+/H0gZlOMno9MvNFV/5Gcut3/CEPK7km5WZMv5AChP8PzqCX2XBRSOSun7yr2Mkp9UvWe/2PddIUvB651X0ZNlDRvQ+jPBqtoqJJ3EraWFFduwZPSrefIIxXiSIzwq22JicXDV4Q21zgx/+zhhukwftcKt0lrC55jkmIgDr9ne4s7C2RJAqKPJqAFNnA/9fyHJYpdwIPTF7yOSVQPiPqUBHtCoO5yCING7KQ79OXa7c=;brKJahuX8CDD3J05mIO0fw=="
 ---
 
