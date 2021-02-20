@@ -9,7 +9,7 @@ ampWebUrl: "https://advicesacademy.com/tech/artificial-intelligence-new-opportun
 cdnAmpWebUrl: "https://advicesacademy-com.cdn.ampproject.org/c/s/advicesacademy.com/tech/artificial-intelligence-new-opportunities/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2021/02/AdobeStock_8270160-1024x576.jpeg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Artificial Intelligence: The Next Revolution in Dating Industry"
-    excerpt: "AI in the dating industry is taking the business to a whole new level. Dating apps like, Match.com helps people find a match for prospective dates with online dating services. Moreover, Virtual Reality will impact the online dating community,"
-    publishedDateTime: 2021-02-15T19:51:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-the-next-revolution-in-dating-industry/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Dating-Industry.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "RKIsQKHbm+3FFMih232/SNliNG4XsOY0WhUP68KlF7z7iz3VOVkaXJuE2CYCH1E9gUTVryWFdAhyCJpv18p1g3J2m9cyd2yYSS4Pxdrwpf6blFR1qWHUhHtHkvtQtGqoSp4Ulyr7cNgg1YLzrXJ7hk/htXlutyAc1DFr6uTvSP/ygBhfG661CDOnE4MRJAaJrS97CqQr5/asHvb5+4SqGYD9anB/OufJxR82M91ChRtkNfYnU064RUZWJtS7zjwgIW1uN/2tZLGtqsAutlcLe5GuWGkmpeFsJukvxdGl5t66OCdBFShQ3WLcwM3VELpFKJYfTLwhlYT5iHslTFgI7CyCcRvLHv8gd/uf7MkZugv8ctkAzuoWTyACoJ0rvRjDcTj8//p4Y8snVMqGOU71TzVNRVDpEnl2A8WhfyEdFRQNDL31NGCuIXxW51I7yCtOwsL95/kQbsA6UWSVATnyTz3v/K2xwlXgrdOVKf2DXjSSlx6bzorJsPY5hGabfnWg5YKLqchp+bbNT9BYMX0sEg==;EsFwfmCJh4g1/b+0zQ+5ug=="

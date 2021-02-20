@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "This AI-powered gadget could completely disrupt the ridiculous hearing aid market"
-    excerpt: "Hearing loss sucks. It’s exhausting. I’ve suffered from partial hearing loss in both ears since the mid 2000’s. In order to function in the real world, I’m forced to exist in a state of constant vigilance."
-    publishedDateTime: 2021-02-15T19:56:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/"
+  - title: "Bearing.ai emerges from stealth to power recommendations for shipping boat captains"
+    excerpt: "Bearing.ai provides the maritime shipping industry with predictive recommendations and launches with support from AI Fund and Mitsui & Co."
+    publishedDateTime: 2021-02-16T13:01:00Z
+    webUrl: "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/"
+    ampWebUrl: "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 82
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/whisper-796x448.jpg"
-        width: 796
-        height: 448
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/bearingai.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
     excerpt: "Highly accurate ship performance models built off real-world data Business Wire PALO ALTO, Cal"
@@ -48,19 +48,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How SiMa.ai Is Disrupting The Embedded Edge Market"
-    excerpt: "We are making it possible to deliver high-performance machine learning at the edge while simultaneously reducing the power consumption associated with this compute."
-    publishedDateTime: 2021-02-20T04:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-sima-ai-is-disrupting-the-embedded-edge-market/"
+  - title: "Optimizing AI for embedded applications"
+    excerpt: "In my previous blog I talked about how demand for AI-based interfaces has become almost unavoidable—and that adding an AI-based interface like face-id to"
+    publishedDateTime: 2021-02-18T21:16:00Z
+    webUrl: "https://www.embedded.com/optimizing-ai-for-embedded-applications/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Embedded
+      domain: embedded.com
+    quality: 41
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/sima-banner.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.embedded.com/wp-content/uploads/2021/02/ceva_light_image.jpg"
+        width: 1280
+        height: 810
         isCached: true
 
 secured: "u97djltxlQoYIIomkGhibbIEQCmW5b1eiDeqcK5u85cTy3pXrloPIfcsHh2W56nSIXGB0ZCRlG6qWamKf/w3/RLQITyq8vRysDdvQktehbLPKq/M9E2h5NZX0m8urmVuvgSTPobY1MHN7ID9thJCZ/7cex1+Ht8tnrtrgBqyubBYbRQA474LRTEiCUBupIQcA715/GCs98jR0RZk145KNEi6xd4sqE1ep9n1HcKU+bfV396Kjj6krL5K/S5/9TSx3nZ3vy6Z2K11E4DtjpLNCdO5uOFiSntoM6beuYpH19G++AaXE1Tt3YNmX7rY6qXrkjdylAtpr74WfkTV7XMFsfNPKd26Yq6wbwhRkJlfJ9c=;Mx1cmHiwWMF2Rq1+Z8BXxQ=="

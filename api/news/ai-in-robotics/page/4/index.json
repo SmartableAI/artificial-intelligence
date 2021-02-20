@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-26-robots-got-their-name-100-years-ago-today.md",
+      "title": "Robots got their name 100 years ago today",
+      "excerpt": "Exactly one hundred years ago, a play premiered that introduced a significant new word to the world – robot. When the first production of Karel Čapek's R.U.R. opened on January 25, 1921, at the National Theater in what is now the Czech Republic,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/",
+      "originalUrl": "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/6f201af/2147483647/strip/true/crop/2966x1977+289+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F52%2Fde%2F024cf2c14067b3ce037597552261%2Fr5mk4h.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/rur-capek-play-word-robot-100-years/?amp=true",
+      "publishedDateTime": "2021-01-25T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-hyundai-dal-e-ai-powered-robot-provides-automated-customer-service.md",
       "title": "Hyundai DAL-e AI-powered robot provides automated customer service",
       "excerpt": "Automaker Hyundai has a new employee working in one of its showrooms in Seoul, Korea. The employee is an AI-powered automated robot called DAL-e that provides customer services at the showroom.",

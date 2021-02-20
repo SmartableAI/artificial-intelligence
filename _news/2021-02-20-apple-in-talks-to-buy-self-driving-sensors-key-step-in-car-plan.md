@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discus
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
 type: article
 quality: 54
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
     quality: 24
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Apple in talks with suppliers for AV sensors, report says"
+    excerpt: "Apple is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+    publishedDateTime: 2021-02-19T11:50:00Z
+    webUrl: "https://europe.autonews.com/automakers/apple-talks-suppliers-av-sensors-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web_1.jpg"
         width: 800
         height: 600
         isCached: true

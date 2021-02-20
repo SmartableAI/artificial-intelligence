@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Google reshuffles AI team leadership after researcher's controversial departure"
-excerpt: "By Rachel Metz, CNN Business Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black"
-publishedDateTime: 2021-02-19T06:39:00Z
-originalUrl: "https://www.kitv.com/story/43374829/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure"
-webUrl: "https://www.kitv.com/story/43374829/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure"
+title: "Second Google AI ethics leader fired, she says amid staff protest"
+excerpt: "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
+publishedDateTime: 2021-02-20T03:18:00Z
+originalUrl: "https://www.reuters.com/article/alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSL1N2KP2T5"
+webUrl: "https://www.reuters.com/article/alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSL1N2KP2T5"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KP2T5"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KP2T5"
 type: article
-quality: 35
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: KITV
-  domain: kitv.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://CNNWIRE.images.worldnow.com/images/20398371_G.jpg?lastEditedDate=1613669157000"
-    width: 500
-    height: 333
-    isCached: true
 
 related:
   - title: "Google fires second AI ethics researcher following internal investigation"
@@ -105,17 +105,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Second Google AI ethics leader fired, she says amid staff protest"
-    excerpt: "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
-    publishedDateTime: 2021-02-20T03:18:00Z
-    webUrl: "https://www.reuters.com/article/alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSL1N2KP2T5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KP2T5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KP2T5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
   - title: "Google sacks founder of its artificial intelligence ethics programme amid 'smear campaign' claim"
     excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."
     publishedDateTime: 2021-02-20T04:51:00Z
@@ -354,7 +343,21 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Google reshuffles AI team leadership after researcher's controversial departure"
+    excerpt: "By Rachel Metz, CNN Business Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black"
+    publishedDateTime: 2021-02-19T06:39:00Z
+    webUrl: "https://www.kitv.com/story/43374829/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 35
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/20398371_G.jpg?lastEditedDate=1613669157000"
+        width: 500
+        height: 333
+        isCached: true
 
-secured: "WIgSui0H6gMz95dxXSeN2/laqKrQslFzNea4XsrkbopXpoMDhecsY8EIC77/9kBkxoc2QHj+D6eW3TXR1KKcEha93ErKYn2ljK/5uumfTVL7IjXz0hj4KzV51cnEgS5NJUG+4tBZKa7PMKb7YIbsuSkUzslWtztKRdXbUDC3uyAgQKcgGSOiKiC/R7zDuaW+xtk2BKtLYduDuSxi9YqGkiAi6fCsc5fIVg6PMAZMvUxj8TFoG11GokrlbRnuGEQjYFjAIUGtsdDAl3sIPK+Jt7ASJGxksplSfmuEnrU9qtFKO6M4FwoBO9pIidaBu2FCgcfwC454vZTxX1MerRazmDdoRpCQLm8o7YwZ6lW9Dv1gHBqGmyGgwGNTR98v6E5LccsFT2vOtG8SsW3Iddd1DERbqvp4vI5gsgw3PXO5odpe4TA4BTanVB63Wpbdg3QGmpS5QX7Cs5FbsdGul9f4tfYancdO+1Ty8D1W8DbviWzORBtldP/6KDrpvZkgr3Lefc8gfkim7rnlTimawZZ/2Q==;lJWqT56514XlKb/Z29Mo3Q=="
+secured: "RjCOgL8lulSBYsYfDx/bL/XHfFXe1gCGrSvAcsDJeKJYOm/hTaZ3bxyEor96tqtdpUh+GeEib79QquMyUnME0LIkrNhdAO0coLi84pNkRL7BsRu/kBRmuShnv8YmKP9oGH9HpXWQtusHIz6Q2+eNcCFXJZcIO2WXWtuf43UdikBbugN2Y6dwsaK6AQOZP3bBkn75K5dZjR2jrPbZKpxYiOmEgpWbc7ieu0BG8EMTlIFpgkagkcAOehGkoSVZyUUkIumQLvrtg5fw1S6caNmT/4O9M8VPu8vUAaCLr7nXSbS0T3HT9a5p1K2HVyTeyNkPCEPC/Uoe5IweeoFhxLfQsnT6kEh9r7FzbF1gk1RSxbI=;A4DJAtiYs/zYjTAOV5zqmw=="
 ---
 

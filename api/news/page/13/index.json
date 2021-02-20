@@ -2,6 +2,91 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-09-softbank-turns-11-billion-profit-helped-by-doordash.md",
+      "title": "SoftBank Turns $11 Billion Profit, Helped by DoorDash",
+      "excerpt": "The Japanese technology investor rode red-hot stock markets to a big quarterly profit, largely on the back of investment gains at its $100 billion Vision Fund and its $10 billion successor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "originalUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-296084/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
+      "publishedDateTime": "2021-02-08T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-it-veterans-launch-15-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-salesforce-needs.md",
+      "title": "IT Veterans launch $1.5 million artificial intelligence Startup BiQ Robot, in response to evolving Salesforce needs.",
+      "excerpt": "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot, soon available on the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19543999",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19543999",
+      "publishedDateTime": "2021-02-08T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-alphabet-and-dolby-lead-the-balance-sheet-powerhouses.md",
       "title": "Alphabet And Dolby Lead The Balance Sheet Powerhouses",
       "excerpt": "When choosing a stock to buy don't just look at earnings. Pay attention to a company’s balance sheet (assets versus liabilities). These companies pass six tests of strength.",
@@ -1060,110 +1145,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-ponyai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech.md",
-      "title": "Pony.ai raises $100 million more to advance its autonomous vehicle tech",
-      "excerpt": "Autonomous vehicle startup Pony.ai has raised $100 million more, bringing its total raised to over $1 billion at a $5.3 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/",
-      "originalUrl": "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/07/pony-ai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech/amp/",
-      "publishedDateTime": "2021-02-07T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-why-do-financial-services-need-ai.md",
-      "title": "Why do financial services need AI?",
-      "excerpt": "For financial institutions, recovering from the pandemic will end tentative experiments with artificial intelligence (AI) and machine learning (ML) and demand their large-scale adoption. The crisis has required financial organisations to respond to customer needs around the clock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/why-do-financial-services-need-ai-aminul-haque-",
-      "originalUrl": "https://www.linkedin.com/pulse/why-do-financial-services-need-ai-aminul-haque-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEAWHVWXu2lmQ/article-cover_image-shrink_600_2000/0/1612708883285?e=1619049600&v=beta&t=dUX9kWL8X6aQ2wNztavc5qLh-2aMCJ7KvWPzd2rWre4",
-          "width": 909,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

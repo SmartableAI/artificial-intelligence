@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/editors-choice/robot-artist-ai-da-prese
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Al Bawaba News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ai-Da, the first robot artist to be exhibiting herself"
-    excerpt: "The robot was named Ai-Da after the 19th century mathematician Ada Lovelace. According to its creators, it is capable of drawing real people using its camera eye and a pencil in hand. She 'looks' in the mirror that is integrated with her camera eyes and with the help of algorithm programs transforms it into coordinates."
-    publishedDateTime: 2021-02-15T20:45:00Z
-    webUrl: "https://www.entrepreneur.com/article/365453"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/365453"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365453"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 104
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1613421336-Ai-Da-Robot-Lucy-Seal.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI robot Ai-Da gets first major exhibition at London's Design Museum—but beware of the (pervy) critics"
     excerpt: "Da, who has been billed as “the world’s first ultra-realistic AI robot artist”—a very wordy and specific “first”. Ai-Da was unveiled to the world in 2019 and is the brainchild of the gallery director Aidan Meller."
     publishedDateTime: 2021-02-16T12:57:00Z

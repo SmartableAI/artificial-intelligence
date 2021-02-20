@@ -116,31 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automotive Artificial Intelligence Market (2020 to 2026)"
-    excerpt: "Global Automotive Artificial Intelligence Market (2020 to 2026) DUBLIN, Feb. 15, 2021 / PRNewswire / - The “Global automotive artificial"
-    publishedDateTime: 2021-02-15T20:08:00Z
-    webUrl: "https://www.compsmag.com/news/technology/global-automotive-artificial-intelligence-market-2020-to-2026/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/global-automotive-artificial-intelligence-market-2020-to-2026/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/global-automotive-artificial-intelligence-market-2020-to-2026/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 37
-  - title: "Artificial Intelligence In Drug Discovery Market Size, Growth Drivers, Trends and Forecast to 2027"
-    excerpt: "Request a Sample of this report @  The global Artificial Intelligence In Drug Discovery market is expected to reach at a remarkable value and to grow at a considerable CAGR over the forecast period i."
-    publishedDateTime: 2021-02-15T20:12:00Z
-    webUrl: "https://ipsnews.net/business/2021/02/15/artificial-intelligence-in-drug-discovery-market-size-growth-drivers-trends-and-forecast-to-2027/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 23
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/02/4950-1613406149.png"
-        width: 300
-        height: 281
-        isCached: true
   - title: "Outlook on the Smart Robots Global Market to 2026 - Industry Analysis and Forecasts - ResearchAndMarkets.com"
     excerpt: "The “Global Smart Robots Market By Component, By Mobility, By Operating Environment, By End User, By Region, Industry Analysis and Forecast, 2020 - 2026” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2021-02-16T05:34:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ai-Da, the first robot artist to be exhibiting herself"
-    excerpt: "The robot was named Ai-Da after the 19th century mathematician Ada Lovelace. According to its creators, it is capable of drawing real people using its camera eye and a pencil in hand. She 'looks' in the mirror that is integrated with her camera eyes and with the help of algorithm programs transforms it into coordinates."
-    publishedDateTime: 2021-02-15T20:45:00Z
-    webUrl: "https://www.entrepreneur.com/article/365453"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/365453"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365453"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 104
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1613421336-Ai-Da-Robot-Lucy-Seal.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Robot Artist Ai-Da Presents Her First Art Exhibition"
     excerpt: "The world's first robot artist is set to have her first exhibition in London's Design Museum. The exhibition, Ai-Da Self Portraits is to open in May 2021 and will present three large scale self-portraits."
     publishedDateTime: 2021-02-16T12:09:00Z

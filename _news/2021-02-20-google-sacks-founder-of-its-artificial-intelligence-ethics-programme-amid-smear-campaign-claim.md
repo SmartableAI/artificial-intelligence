@@ -107,6 +107,17 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Second Google AI ethics leader fired, she says amid staff protest"
+    excerpt: "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
+    publishedDateTime: 2021-02-20T03:18:00Z
+    webUrl: "https://www.reuters.com/article/alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSL1N2KP2T5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KP2T5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KP2T5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
   - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
     excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
     publishedDateTime: 2021-02-18T07:45:00Z

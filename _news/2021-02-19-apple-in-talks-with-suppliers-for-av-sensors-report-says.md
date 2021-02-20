@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
-excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-publishedDateTime: 2021-02-19T16:02:00Z
-originalUrl: "https://www.benzinga.com/news/21/02/19750643/apple-mulling-options-on-sensors-may-highly-customize-them-co-in-talks-with-lidar-suppliers-for-self"
-webUrl: "https://www.benzinga.com/news/21/02/19750643/apple-mulling-options-on-sensors-may-highly-customize-them-co-in-talks-with-lidar-suppliers-for-self"
+title: "Apple in talks with suppliers for AV sensors, report says"
+excerpt: "Apple is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+publishedDateTime: 2021-02-19T11:50:00Z
+originalUrl: "https://europe.autonews.com/automakers/apple-talks-suppliers-av-sensors-report-says"
+webUrl: "https://europe.autonews.com/automakers/apple-talks-suppliers-av-sensors-report-says"
 type: article
-quality: 2
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web_1.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -129,20 +129,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Apple in talks with suppliers for AV sensors, report says"
-    excerpt: "Apple is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
-    publishedDateTime: 2021-02-19T11:50:00Z
-    webUrl: "https://europe.autonews.com/automakers/apple-talks-suppliers-av-sensors-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web_1.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Apple in-talks with LiDAR suppliers for self-driving car"
     excerpt: "Apple is reportedly in discussions with LiDAR sensor suppliers for its self-driving car project. The report is by Bloomberg, and it states that the"
     publishedDateTime: 2021-02-20T06:56:00Z
@@ -171,6 +157,20 @@ related:
         width: 1632
         height: 1188
         isCached: true
+  - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-02-19T16:02:00Z
+    webUrl: "https://www.benzinga.com/news/21/02/19750643/apple-mulling-options-on-sensors-may-highly-customize-them-co-in-talks-with-lidar-suppliers-for-self"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Shares of lidar companies are trading higher following a Bloomberg report suggesting Apple is in talks with lidar suppliers for self-driving cars."
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
     publishedDateTime: 2021-02-19T16:50:00Z
@@ -186,6 +186,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3TmJQiRrapmxM9gN6YDV32gE83bJwacPweVr8oIiurJcwoZOEoi815S/VmSZT9DrS9J8gDbhcbzPCX1hWHeA3rL/aMbJzkc8It0hysGkv36vMsS6vZiapchscN7MFOu0IYnWsrPuOCnwa0H/5sJEdZIsRvWMIdlO9Khr3aiIDtQAHKRlAbEiji3ccn6J7q7e0PbrnrG16mBwalco/DJhiZM8JV+gDKAOZx1QIq6o7HVzrhXOq6Lnpb7PsW2GcRimpFtDj5YpTbYRWb518udYLFjCjcZM60w44MdaSdG1C+wLiAEBYW/aQnaz2HzlCWH8lua3t2tXYCmf8ZpBhVi2M+1MSpfGqFP2EMQey0GVNPI=;gLWwCniJ8AvZGgBO7xyx9w=="
+secured: "gQEn2aqtEVPAwQC0TNoLGLM7lHgWkS01Z1S2p3Bgw9RWHWWEHtTH6sjaT7DlW8yP1ujPiyLizT8S5MuQ3zSKMut/iYQ9brg6Z+lFfrBbypRDtX9d3oPxwSm2Q/Z8n/PMT2G+XxM9sOZt5DL+tmwEsl9YiZV7rMg47cV7twt4qPCsla7mG9zmp+yD+cT1UEZ+Ydr5MNvkuJ/GDFGxtphHq61GesWCNq3MQ+QtdWzKwW1bHG4tH7gzVQd9mykN9l9tasKIkdLC60uw++HCmZZxXQC/siINXJg7ru2FJ2+/g3BzkMWHeRaNcedI61u0pDTjSX6FvRHjUvkIRDG8dv5yyPrVtL9KnR8W3LtMqRgJU40=;sAk7iX9uEFIoCcWHZUd/VA=="
 ---
 

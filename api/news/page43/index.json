@@ -2,6 +2,162 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-01-19-eth-spin-off-latticeflow-raises-28m-to-help-build-trustworthy-ai-systems.md",
+      "title": "ETH spin-off LatticeFlow raises $2.8M to help build trustworthy AI systems",
+      "excerpt": "LatticeFlow, an AI startup that was spun out of ETH Zurich in 2020, today announced that it has raised a $2.8 million seed funding round led by Swiss deep-tech fund btov and Global Founders Capital, which previously backed the likes of Revolut,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/",
+      "originalUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1196045105.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/amp/",
+      "publishedDateTime": "2021-01-19T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-microsoft-joins-self-driving-race-in-new-deal-with-cruise-gm.md",
+      "title": "Microsoft Joins Self-Driving Race in New Deal With Cruise, GM",
+      "excerpt": "Microsoft (NASDAQ:MSFT) is making a bold bet on self-driving with Cruise and General Motors (NYSE:GM). GM and Cruise said on Tuesday that they have entered into a \"long-term strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/19/microsoft-joins-self-driving-race-in-new-deal-with/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/19/microsoft-joins-self-driving-race-in-new-deal-with/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F608910%2Fcruise-track-3-in-seattle.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/19/microsoft-joins-self-driving-race-in-new-deal-with/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/19/microsoft-joins-self-driving-race-in-new-deal-with/",
+      "publishedDateTime": "2021-01-19T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-google-launches-suite-of-ai-powered-solutions-for-retailers.md",
+      "title": "Google launches suite of AI-powered solutions for retailers",
+      "excerpt": "Google's new Product Discovery Solutions for Retail aims to address ecommerce challenges during the pandemic with AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
+      "originalUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/",
+      "publishedDateTime": "2021-01-19T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain.md",
       "title": "AI Plus IoT Are Among The Most Important Ingredients In Pandemic Vaccine Cold-Chain",
       "excerpt": "Startup Youtiligent has developed an AIoT-based technology to help companies keep vaccines cold across complex distribution supply chains.",
@@ -1044,134 +1200,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-global-contactless-biometrics-technology-market-analysis-2020-2026-voice-recognition-hand-geometrypalm-vein-recognition-iris-recognition.md",
-      "title": "Global Contactless Biometrics Technology Market Analysis 2020-2026: Voice Recognition, Hand Geometry/Palm Vein Recognition, Iris Recognition, Facial R",
-      "excerpt": "The \"Global Contactless Biometrics Technology Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Contactless Biometrics Technology market is expected to reach $22.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=407414",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=407414",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/25/mark/20210125427284.jpg",
-          "width": 580,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-providing-voice-ai-solutions-addressing-language-barrier.md",
-      "title": "Providing Voice AI Solutions & Addressing Language Barrier",
-      "excerpt": "Vernacular.ai has recently raised $5.1 million in its Series A round from Kalaari Capital and Exfinity Ventures",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/363655",
-      "originalUrl": "https://www.entrepreneur.com/article/363655",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611047508-SourabhGupta-Co-founderandCEOVernacularai.JPG",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Size Worth $61.59 Billion By 2027 | CAGR of 43.6% By Reports and Data",
-      "excerpt": "Artificial intelligence helps medical professionals to retrieve information, interpret images, and plan therapy during medical procedures. It also eases the burden on healthcare workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19208601/artificial-intelligence-ai-in-healthcare-market-size-worth-61-59-billion-by-2027-cagr-of-43-6-by-r",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19208601/artificial-intelligence-ai-in-healthcare-market-size-worth-61-59-billion-by-2027-cagr-of-43-6-by-r",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19208601",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19208601",
-      "publishedDateTime": "2021-01-19T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

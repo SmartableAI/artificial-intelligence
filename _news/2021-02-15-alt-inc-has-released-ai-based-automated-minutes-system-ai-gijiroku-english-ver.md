@@ -2,17 +2,14 @@
 category: news
 title: "Alt Inc. has released AI-based automated minutes system \"AI GIJIROKU\" English ver."
 excerpt: "Personalized Artificial Intelligence (P.A.I.) developer Alt Inc. (Head office: Minato-ku, Tokyo, Japan, CEO: Kazutaka Yonekura,  ) has released an English version of AI GIJIROKU,  Japan's first AI minutes creation subscription software."
-publishedDateTime: 2021-02-15T10:34:00Z
-originalUrl: "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver"
-webUrl: "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver"
+publishedDateTime: 2021-02-15T10:36:00Z
+originalUrl: "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver"
+webUrl: "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - Natural Language Processing
@@ -24,6 +21,6 @@ images:
     height: 473
     isCached: true
 
-secured: "JEPzECpuNZ9gngRsEpeReRhw5OdlZxqdGUDHChaFBcRrKlR+CW1u0lmZzvBS6j3iWWbqK3l/oH21WbRswDeL2QE9+nYhZLEDcfeW/gYv5bLj8hoE/4L5rmNavzY+FrG8dciRxkOrw0Du8YipEiFyv35CcuNpAE3jSDQ5ywDwKw2UhEjR0VPH4+cuZBVCp2ntks+7BShJKvmW2ELXi4iwTdf+jjMaJolPxCfb5iV0ijr4Os2CqKVx5nkpWh+F9G7NHKPvBlHS3JZVqXiqcEqKanY1pDnbAomVEKjsJi0JdBA4IhKbE4WUHDyBCp4MdFhwIpbQiHc7CrQ0/bxuDaD6xhhS3ASOu488aH4BLIEDS4mI+qOVD1cnpn8debTO9A5hZ5kiotrv0ZwH9WHZkrjJ4Q2W2BOm1pSUuy9dWvUufCOsdDj+pOv7YlhiDn7FzQ92O8u8IrUcT87yxDETS4r18jUYauv5Myl7wXW7aydqMtDGf6O+TjxsUWbQv+71cSRTLwRnMTllrLT5i8eBOi1E3A==;MAzNQ1oThWUAbv+lHblWkQ=="
+secured: "SxnphBCiCLKEzkKxPRc0o+3+tBtkn+pV2JGFpJWaqYRZH/ypt7oJUE5dOK8aUhKSJBygtYsZbM68xXIX055wsy/ltGRQM/PxzXIawQ6BkD0AmXjwxL1LKPKgHAflB1zOYC01+FPAq2l5+dcfc+QPZUy0lCXE1xA8sCpB134LiQYKnwbXHz16VDGmwSHYILyUOTisAqQh2GhtSg+Q7B/0mO6MbMnl922XxOK99JEQJRdlhbscxqw4Iyt5+y7gIx0zLXb18WZL5vDvcbgcIx/TMVlrpCGhtkjNy2QfK+UYKJSxkN8+KoNKLqN4MUEDk6VR07NQzigJKP59EVf+SpoTEMN4yyKSsb914MVMpVEnaD0=;yazXiXCWB8hjUz+qs1H9wA=="
 ---
 
