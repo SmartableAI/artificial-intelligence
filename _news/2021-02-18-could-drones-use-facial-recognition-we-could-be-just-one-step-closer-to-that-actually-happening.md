@@ -81,6 +81,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Could drones use facial recognition? We could be one step closer to that happening."
+    excerpt: "The U.S. Patent Office has just published a patent application for ‘Adaptive positioning of drones for enhanced face recognition’ filed by AnyVision."
+    publishedDateTime: 2021-02-17T13:47:00Z
+    webUrl: "https://www.usatoday.com/videos/tech/2021/02/17/could-drones-use-facial-recognition-were-close-happening/6778648002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 33
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/17/USAT/e6ec16bb-bd36-48ac-8b9a-5fbca6ef2d27-a30a6fbf-cfe2-42c1-93ee-bdeb9895b20c_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
 
 secured: "Tz+OydlZ8E0lLUVe2OhEofh/1Op6sl16Y5319daqWukGoLGiKc2OPbeqtdXSa2Jh6kEAPAdKcJrGybh89ZP49ZAygAVOlVaRRuhh2xoUPJT/93f1+r+pnaQBGAHLH8hO0H/Q9/Ph5XJC9wOC4+yQsAXVISsXz5XVUXrtXsq3FPCV9vXG4i86QOolBYumVQ0z55NSvVwouXeHNqsNHYOV+aTrfM1tkG13JdcRg0T3FXaXtFx5qdqY3ufCaMZ5lXFdXOEDi+zG9NKoaWpcaItgIY5PcdMlvR+Pyxn3PNWh7LdpnXaNL4dItkertJyv2gZLXTOg5hCvsuKaVRgKaMHewqB1FC5kLUIne5JGtnIUU+HcdtZPybkiR2oQ78BhKrwtTwppuW95aLGPB9wIEPHrK8inInxxNO2+K4CXVby378P0/rqvCuCNTe3VuwQCeR7ZQp4qKuhblERb4DjexpNliKItCdDeJgUaDr9kwHSGncHbEeKNyN/G4KywEm9+GDl4snJHJJLPP4Sbn/fxxBpe5g==;5Mhxg1zXCeTr/eIgPFgUkA=="
 ---

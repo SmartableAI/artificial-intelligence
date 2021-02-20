@@ -45,17 +45,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
-    excerpt: "Humana Inc. HUM recently tied up with IBM Watson Health through which it can serve its members better through the latter’s conversational AI solution. The partnership is expected to provide more transparency on benefits to the Humana Employer Group members."
-    publishedDateTime: 2021-02-15T16:18:00Z
-    webUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "IBM Looking To Sell Watson Health Business Unit – Report"
     excerpt: "I BM is looking to sell its IBM Watson Health business, the Wall Street Journal has learnt. The technology giant is looking at different alternatives that include a sale to a private equity firm, another industry player,"
     publishedDateTime: 2021-02-19T08:41:00Z
@@ -316,8 +305,8 @@ related:
     quality: 19
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
-    publishedDateTime: 2021-02-20T03:57:00Z
-    webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report/"
+    publishedDateTime: 2021-02-20T04:00:00Z
+    webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report-2/"
     type: article
     provider:
       name: Canindia.com

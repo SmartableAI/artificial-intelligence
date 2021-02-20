@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/fintech-startup-personetics-lands-75m-to-ma
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/fintech-startup-personetics-lands-75m-to-make-banking-more-personal/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Personetics raises $75m for AI-driven customer engagement platform"
-    excerpt: "Personetics, a fintech that uses AI to help financial institutions boost customer personalisation and engagement, has secured a $75 million investment from Warburg Pincus."
-    publishedDateTime: 2021-02-15T16:01:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37477/personetics-raises-75m-for-ai-driven-customer-engagement-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/finextralogo.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Warburg Pincus invests $75m in fintech co Personetics"
     excerpt: "Israeli fintech company Personetics has announced that it has raised $75m in growth funding from Warburg Pincus. Previous investors in Personetics include Viola Ventures, Lightspeed Ventures, Sequoia Capital and Nyca Partners."
     publishedDateTime: 2021-02-16T15:00:00Z

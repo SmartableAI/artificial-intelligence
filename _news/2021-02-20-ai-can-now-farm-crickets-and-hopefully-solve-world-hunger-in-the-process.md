@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainabl
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

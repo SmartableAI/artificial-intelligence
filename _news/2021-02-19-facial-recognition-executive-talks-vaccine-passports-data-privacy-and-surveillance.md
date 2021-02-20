@@ -3,10 +3,10 @@ category: news
 title: "Facial recognition executive talks vaccine passports, data privacy, and surveillance"
 excerpt: "\"I do not want to live in an Orwellian society,\" said Rob Watts, CEO of Corsight AI, who says his company's tech could enhance virtual passport efforts and airport security."
 publishedDateTime: 2021-02-18T17:23:00Z
-originalUrl: "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
-webUrl: "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
 type: article
 quality: 82
 heat: 102
@@ -60,6 +60,6 @@ related:
         height: 432
         isCached: true
 
-secured: "Dh/Qru7jBuT9ewgMKu26+JUwSG01uPcwBPz4o8L76je3c17Ie7A2DRQr8hzfehzqHGidEzNsmh/prQIp56SzkqDIx/YmTG83ZGZUkjoC5u5cLBFkJsktHdri9Ky5ytk7hrnsdudZeLk8UJZMnEgrRCzoa/4zZpp1RsBgIeeVc5NBCwjjEJb7fQXGSHI3zYsHjEtZNF9kSqRS5Oaf8XIR0/1ZlnfJ2P27TlY7kvLbkl+Af+XjzWS5vhrDq7rrzmveRvXqG9O0X3Q/c7IeZ51NB61zQknf8ldSq1ClAWDi5PonSTAECvqBZjkt6WySxJj5In/PD3qJPQC+MHQ199b98oUGLy8OADWw/fHzGRJh3Sw0xsqbO7WlaDW+14LWfXw1o/wFzHGcvnVhTjST216nLp8kes8kJomMJ828R2/pvkwU1CMq3CTtqtLzDYhNMLi2W+DoXmztltAyMRmnXl7ARwrIOlzNYNuRBWJNU8oJo7GzRPl++ylJBYqVk8s5LcedWE9NQ5Z9X0cSwIijqh0wbg==;D9pP3AMXDR8AMZC0OnSUeA=="
+secured: "xmcwVKa4it6II5kBFMLEjxws/XMPpXq/9g7EmlrBdchUto+Rc1clTaWY00uDGjZmWjJTSfrUTyIku3+dZga73Wdi9+e5PKSMppxSY0L93zyCQf41IwXeOGXmdCufJG8X20Q0RggXX8ksb00tRuxhQGSJZaG3pruvxs9ajxnvRp6EykTdf74Tdf+WGlU8R9uLRDJW69wlnIy1u/ggRVAQNb9GyCr/kEm7GyxBOfC6N9fXjSAixhCpBj5i2kVmMi4012RIGeTWnLTSVeqAdpTz8iE/O8thR2dsFCX0rnT8alLoT1GUTulAcZwxkT23c6QuhKjKhpcn7CyddS3JgPpBECx0gkNlyG5XstOcsgmZO1c=;jDKcaVWIYzDtLVltHj5tzw=="
 ---
 

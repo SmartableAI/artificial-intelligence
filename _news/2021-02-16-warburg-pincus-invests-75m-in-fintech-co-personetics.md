@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Personetics raises $75m for AI-driven customer engagement platform"
-    excerpt: "Personetics, a fintech that uses AI to help financial institutions boost customer personalisation and engagement, has secured a $75 million investment from Warburg Pincus."
-    publishedDateTime: 2021-02-15T16:01:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37477/personetics-raises-75m-for-ai-driven-customer-engagement-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/finextralogo.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Fintech startup Personetics lands $75M to make banking more personal"
     excerpt: "Israeli startup Personetics looks to actualize its goal of \"Self-Driving Finance\", automating personalized banking services and tools for hundreds of millions of customers"
     publishedDateTime: 2021-02-17T11:36:00Z

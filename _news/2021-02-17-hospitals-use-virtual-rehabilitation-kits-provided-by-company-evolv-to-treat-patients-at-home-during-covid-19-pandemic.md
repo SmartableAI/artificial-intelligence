@@ -3,8 +3,8 @@ category: news
 title: "Hospitals use virtual rehabilitation kits provided by company Evolv to treat patients at home during COVID-19 pandemic"
 excerpt: "Medical device company Evolv, with the support of Microsoft and hardware manufacturer ZOTAC, has donated its virtual rehabilitation technology to three leading hospitals"
 publishedDateTime: 2021-02-17T14:09:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/hospitals-use-virtual-rehabilitation-kits-provided-by-company-evolv-to-treat-patients-at-home-during/article_158fb7e9-e67d-5872-beb8-8a6fba825fcb.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/hospitals-use-virtual-rehabilitation-kits-provided-by-company-evolv-to-treat-patients-at-home-during/article_158fb7e9-e67d-5872-beb8-8a6fba825fcb.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/hospitals-use-virtual-rehabilitation-kits-provided-by-company-evolv-to-treat-patients-at-home-during/article_158fb7e9-e67d-5872-beb8-8a6fba825fcb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/hospitals-use-virtual-rehabilitation-kits-provided-by-company-evolv-to-treat-patients-at-home-during/article_158fb7e9-e67d-5872-beb8-8a6fba825fcb.html"
 type: article
 quality: 0
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/d8/9d86a550-5142-5239-8caf-d99cc67e01ab/6030aa979c484.image.jpg?resize=1200%2C555"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/d8/9d86a550-5142-5239-8caf-d99cc67e01ab/6030cee64acc3.image.jpg?resize=1200%2C555"
     width: 1200
     height: 555
     isCached: true
@@ -68,6 +68,6 @@ related:
         height: 685
         isCached: true
 
-secured: "8RJ35JN5tYQ3kJkjfZJWmuTn8vT9bH3Cru103KCuo3r2BWSkwPIgqCzIluvqeffMXuzwvz9q/gUdOkW/G4pWANmZvyNYeT+k863afZLegeS5t44dsvB26+6HyBC79LMdcwGcS+x/yT/3Zrta697Z/HUly5BYlbP7ad+kqU2O0ZCS/tCXUkNtStpjlSYbFiQvBFMnKH0wKg3WYWKKE6tbqJJ3VSxeytzKbeCdx3fsRuARYgmwshY8Kt32+iw2YzPQJye12bht5IarSujOAwdfA38sxIwbJk4ij7Mbc5aZtdqxRWL8xFr5pb9f3TKUn8YPPJkcCUmXU7w/m6J3XXo+7+HfWo6gUohwfcZGDcrmxYw=;z40Yo1CaGRFNkMA8e9YqXw=="
+secured: "68z3VUFdm1xY9aEs4+2KChMgF67eKlKn/3dPzY1bl7KcrRc2fUskBeCXOZwx5OCmHIKNzPkiANWWrv22jE9RBuDtCaiSGPBo7Wi1h0T0QxbDkMbehKZilsQQdUR0D2DcrZHubdyhimFubrBrQ4N7g6k4WahUEWo7AcEVW6PtNsC8hMQxgPAOvJlWEycNdKA+PH0Skt2vnao4ozk/9byN3ovQhRV3ZoJTuYI6wqqAIrgfX3LywjnypBNmmUKZgCEhdWwtwv1iINmRTZG39n4q4JXiBbeY4Z9tq/oKssf7ZW9GJAY8lB1Dv/6/cemMyHwCn9ybnzi/43tQhFptdcSKoaKrkOTSlXbECwgH7nFi7xk=;jFp6Gg5WTDvtm/ysbEpm7g=="
 ---
 

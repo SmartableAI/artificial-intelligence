@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-17-peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions.md",
+      "title": "Peak AI nabs $21M for a platform to help non-tech companies make AI-based decisions",
+      "excerpt": "One of the biggest challenges for organizations in modern times is deciding where, when, and how to use the advances of technology, when the organizations are not technology companies themselves. Today,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/",
+      "originalUrl": "https://techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
+          "width": 1024,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/amp/",
+      "publishedDateTime": "2021-02-17T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome.md",
       "title": "AI will have a huge impact on your healthcare. But there are still big obstacles to overcome",
       "excerpt": "There’s a lot of excitement about the potential impact of artificial intelligence on healthcare diagnostics, but the big impact for now is likely to be on operational processes.",
@@ -264,49 +315,6 @@
         "Machine Learning",
         "Google AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-brunei-bank-launches-ai-programme-for-teens.md",
-      "title": "Brunei bank launches AI programme for teens",
-      "excerpt": "Baiduri Bank believes in supporting young and curious minds, while providing opportunities for them to probe further in the realm of technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/17/brunei-bank-launches-ai-programme-for-teens",
-      "originalUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/17/brunei-bank-launches-ai-programme-for-teens",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/02/17/1047554.jpg",
-          "width": 577,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     },
     {

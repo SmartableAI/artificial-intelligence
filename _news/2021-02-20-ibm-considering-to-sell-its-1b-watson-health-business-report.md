@@ -2,9 +2,9 @@
 category: news
 title: "IBM considering to sell its $1B Watson Health business: Report"
 excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
-publishedDateTime: 2021-02-20T03:57:00Z
-originalUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report/"
-webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report/"
+publishedDateTime: 2021-02-20T04:00:00Z
+originalUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report-2/"
+webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report-2/"
 type: article
 quality: 19
 heat: -1
@@ -35,17 +35,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
-    excerpt: "Humana Inc. HUM recently tied up with IBM Watson Health through which it can serve its members better through the latter’s conversational AI solution. The partnership is expected to provide more transparency on benefits to the Humana Employer Group members."
-    publishedDateTime: 2021-02-15T16:18:00Z
-    webUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "IBM exploring sale of its Watson Health unit"
     excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
     publishedDateTime: 2021-02-19T01:41:00Z
@@ -319,6 +308,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "LQ2nKMh40zIz29ceXIp3uD95gmT6swx26zYoIiY/F6uoCLoHzX0Qkxt5TcJtkeA616PFDPbxXXJdtuZ667qGK3BJfdKgxvRDvApoiCf53O/9ElOokHeTHEV274ffohSx1YHZndQlcaX90rKvL5Wo7XkqRXpKRdl2bwDGqGU8HRI6KVjVlZrEblSEC7g108fm2u+9qkvi3oTlgsxfHqiW+BcWfzDpKXvUvSmESQkJBnzoHNQVmjKFWvpKJMjb+lMi960U3xlafHQmC6lU9CffiKllzceUOOeMzYug/Q4/c1rN3KaMkse4NlVpfRaf0Rc+PVei3UCzF7FJa+DrRSa0y8w6Mk7OTOvmyNClnjnzoys=;4R8gur3B5TChmnz78cTFFA=="
+secured: "Uz7cUaNeEn/Is+IZttHMUrR6iCGKGBUBvogTR5gGnWtlC+UpKqDvAZfUTcqoS1zoU20mL9y/zabCyQUGC9uhM/MvilkraBpyFMkcys4AjzWxRikTJfeWNSjJqYTZYhQrt3gcp9xgXzHMPzhiotf6HRiC+pi6pFkLxRrMVoMhEIh4RIkV8fvKAgStvaHWQfPTWnuPtzhP4lXjMegtu8E66AV/PFZkF8UPQ5Zw1QHTigc8J96SIhw+It0izaFPu0ReSQ2M7Pqd6CS4qKwaUT3w3fVd06ddy1NOj3s3zTKJeQB5rywoNoeHOpPG84nbwURm5WNuByBh4O2RfI3CtpGcTc6qQGYp1T8cn5rSzmnZaJQ=;3T7uWfcVIHcTjI/CtRqS4g=="
 ---
 

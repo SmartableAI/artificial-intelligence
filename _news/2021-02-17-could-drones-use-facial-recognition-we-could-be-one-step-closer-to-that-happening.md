@@ -25,92 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "Drones With Facial Recognition Are Primed To Fly—But The World Isn’t Ready Yet"
-    excerpt: "The patents are there, the tech is ready, but is the world going to accept drones that can recognise someone’s face? An Israeli startup talks about its plans to launch what’s likely to be a controversial technology."
-    publishedDateTime: 2021-02-15T15:51:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/"
+  - title: "Facial recognition: Cardiff rapist caught on CCTV"
+    excerpt: "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,"
+    publishedDateTime: 2021-02-19T18:24:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-56130226"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: BBC
+      domain: bbc.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a96de9e8b7a8599dfafb4%2F0x0.jpg"
-        width: 1200
-        height: 797
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Slave to the algo: facial recognition and fraud in a Covid-19 world"
-    excerpt: "There will come a time when it isn’t, ‘they’re spying on me through my phone’ anymore. Eventually, it will be,"
-    publishedDateTime: 2021-02-19T06:00:00Z
-    webUrl: "https://www.cityam.com/slave-to-the-algo-facial-recognition-and-fraud-in-a-covid-19-world/"
-    ampWebUrl: "https://www.cityam.com/slave-to-the-algo-facial-recognition-and-fraud-in-a-covid-19-world/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/slave-to-the-algo-facial-recognition-and-fraud-in-a-covid-19-world/amp/"
+  - title: "Convicted sex attacker caught by facial recognition technology jailed for life"
+    excerpt: "Craig Walters followed his victim off a bus in Cardiff before attacking her - weeks after being released from prison for a similar offence."
+    publishedDateTime: 2021-02-19T15:54:00Z
+    webUrl: "https://www.itv.com/news/wales/2021-02-19/convicted-sex-attacker-caught-by-facial-recognition-technology-jailed-for-life"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
+      name: ITV
+      domain: itv.com
+    quality: 50
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/02/Tests-On-Facial-Recognition-Technology-Begun-At-Berlin-Suedkreuz-826000302.jpg"
-        width: 1024
-        height: 652
+      - url: "https://images.ctfassets.net/pjshm78m9jt4/5x0PguEvu7nV4nk6tydB3R/bb28847e39ee093daa2546ee6a408add/Screen_Shot_2021-02-19_at_15.56.23.png"
+        width: 2836
+        height: 1620
         isCached: true
-  - title: "Privacy Tip #272 – To Get Up to Speed on Facial Recognition Technology Read This"
-    excerpt: "It’s called This is how we lost control of our faces in the February 5, 2021 edition of MIT Technology Review, written by Karen Hao.  The article outlines a study rec"
-    publishedDateTime: 2021-02-18T22:58:00Z
-    webUrl: "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read"
-    ampWebUrl: "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp"
+  - title: "Petition calls for EU ban on facial recognition"
+    excerpt: "Facial recognition technology is under fire again in Europe as digital and human rights organisations launched a petition calling for a ban on biometric surveillance in public spaces. The European Citizens’ Initiative (ECI) calls on the European Commission to regulate the use of biometic technologies,"
+    publishedDateTime: 2021-02-17T15:10:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/petition-calls-for-eu-ban-on-facial-recognition"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 54
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "Drones with facial recognition are closer to becoming a reality thanks to a patent from an Israeli company"
-    excerpt: "AnyVision, an Israeli firm that has worked with Mercadona, patents a system that brings the use of drones with facial recognition cameras closer to reality. The patented technology will help the drones find the best shooting angle for an effective facial recognition system."
-    publishedDateTime: 2021-02-17T10:39:00Z
-    webUrl: "https://www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285"
-    ampWebUrl: "https://www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/httpswwwbusinessinsideresdrones-reconocimiento-facial-cerca-ser-realidad-812285?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "AnyVision files patent for drone with facial recognition ability"
-    excerpt: "Israeli facial recognition technology developer AnyVision has filed a patent, which would allow drones to change the angle of their flight, so that a mounted camera would be able to a better picture of a person,"
-    publishedDateTime: 2021-02-18T12:06:00Z
-    webUrl: "https://en.globes.co.il/en/article-anyvision-files-patent-for-drone-with-facial-recognition-ability-1001361234"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
+      name: InAVate
+      domain: inavateonthenet.net
     quality: 39
     images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2017/c26_02800.20171015T150137.jpg"
-        width: 800
-        height: 392
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1613574436/widgetdocs/Biometric_surveillance_jwbisi.jpg"
+        width: 750
+        height: 445
         isCached: true
-  - title: "AnyVision files patent for facial recognition drone"
-    excerpt: "Israeli facial recognition technology developer AnyVision has filed a patent, which would allow drones to change the angle of their flight, so that a mounted camera would be able to a better picture of a person,"
-    publishedDateTime: 2021-02-18T15:49:00Z
-    webUrl: "https://en.globes.co.il/en/article-AnyVision-files-patent-for-facial-recognition-drone-1001361234"
+  - title: "Facial recognition: Sexual predator caught on CCTV"
+    excerpt: "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,"
+    publishedDateTime: 2021-02-19T18:26:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-wales-56130226"
     type: article
     provider:
-      name: globes.co.il
-      domain: globes.co.il
+      name: BBC
+      domain: bbc.co.uk
     quality: 39
     images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2017/c26_02800.20171015T150137.jpg"
-        width: 800
-        height: 392
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Could Drones Use Facial Recognition? We Could Be Just One Step Closer to That Actually Happening"
+    excerpt: "The U.S. Patent and Trademark Office has just published a patent application for 'Adaptive positioning of drones for enhanced face recognition' filed by AnyVision. Veuer's Chandra Lanier has the story."
+    publishedDateTime: 2021-02-18T10:53:00Z
+    webUrl: "https://www.wtsp.com/video/syndication/veuer/could-drones-use-facial-recognition-we-could-be-just-one-step-closer-to-that-actually-happening/602-b71fef64-2438-41b6-90f2-664e9a85344e"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 26
+    images:
+      - url: "https://media.wtsp.com/assets/VEUER/images/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae_1140x641.jpeg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "Nt9EfBl4tZT+6Y8bkEDo9xDZ12PzAe+RNkSH56mG9NIbyggvbm3kpfLV6NYzgJZl6TI6/LYve50gLQsi49anPaKyjs3HePHa3JI4dCqoPrX3RnbJrvQDntIT4D8so2F9iHdD94Vh7BklKFPm3WYrGI0crjogAD9FXwlJmQnTA5m8qrr3HSzUgVEeX2sf8DzlPlksz2W0l4lVz2imNT3SSmV75bmeHxMA8bKKc2Ig7C98yePrHY3Z8RHGvII7pD5/WUIncAFH/nOzPVUKury2rKITG7unnz/bcJVLYoKdayQ8uGkTOxDN3IBMFgQVLDW0/xKQKgql9l0ItVoJnIOscLkVfoBohzmIOxh2RMk97pGPpWCkzj+GG8IuwS7+XbcvJ/inc0jsLL51xTtEEoE6tXdIzmUirPdkwVvHtLTuFsDbpphkyen9GMR/pOoOKq2QsWqJWJsSbTQXC0cY31whtsuaJSrjs+l1pBdQ6v91PflRT4qGKN7+iLPXpu/SHGi3oyzzuvzdRB9G+ob/Vm4KUw==;5TfZFGBkyXX8NkH87AFCQA=="

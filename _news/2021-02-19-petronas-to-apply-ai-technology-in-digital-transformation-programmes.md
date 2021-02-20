@@ -41,15 +41,6 @@ related:
         width: 537
         height: 300
         isCached: true
-  - title: "Shell, Baker Hughes team for AI initiative"
-    excerpt: "Shell, C3 AI, Baker Hughes, and Microsoft have launched the Open AI Energy Initiative. HOUSTON – Shell, C3 AI, Baker Hughes, and Microsoft have launched the Open AI Energy Initiative (OAI). Their goal is to provide a framework for energy operators,"
-    publishedDateTime: 2021-02-15T16:38:00Z
-    webUrl: "https://www.offshore-mag.com/business-briefs/company-news/article/14197574/shell-baker-hughes-team-for-artificial-intelligence-initiative"
-    type: article
-    provider:
-      name: Offshore
-      domain: offshore-mag.com
-    quality: 19
 
 secured: "esDfxnI8fqgCEGt9jSZyZK0V85RGwAYuPgGQHd6VjUhiIP07sc+OoARrlIQmmeJhnC/zojpe+2/lgnbniT9RGwCV2I6zi/Kv+Wgj5p1T7M93lo2ziea0W17lQtRVyzwmt0OhkiBhC3+YM6QuS1obxleAofEd3QYS51/QK0LHHOsqIyqZFEkYUCsMBa87aQ8gHYzIgoALVbjhMCHkwRGP7jt/9Sm/Vqw+DFDIdTCQNI57kwzJcCMaizDOqa0iOuTP9GveajNWijhdGAlYAIBm+oS5s4+XlL8Ov/o2aCUS9/qBo+KIzWFW+oyr7aB1r0+0RHLO+ZaxJxjlATpKuhwfav/YHEL79pfFmJDG2bWtpC9ByV944uVitzD2fObXmOIJaKGCW7lxmFUzORqxjaCZeGTBg6+170Mrpy6gDhxT4lUrB+E/QxwvIzRzKbrnPkNCKgyOi2QW8YarGo/XBwMZYtDjynqzjIOrHHbafyg6RWsDuVBWzmPFQOvi4DphjeFwK319FLkzs9fYMaBNcGppJQ==;5KNxcUSqTz3ZxGm6XC3/RQ=="
 ---

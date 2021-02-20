@@ -60,14 +60,14 @@ related:
   - title: "Hospitals use virtual rehabilitation kits provided by company Evolv to treat patients at home during COVID-19 pandemic"
     excerpt: "Medical device company Evolv, with the support of Microsoft and hardware manufacturer ZOTAC, has donated its virtual rehabilitation technology to three leading hospitals"
     publishedDateTime: 2021-02-17T14:09:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/hospitals-use-virtual-rehabilitation-kits-provided-by-company-evolv-to-treat-patients-at-home-during/article_158fb7e9-e67d-5872-beb8-8a6fba825fcb.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/hospitals-use-virtual-rehabilitation-kits-provided-by-company-evolv-to-treat-patients-at-home-during/article_158fb7e9-e67d-5872-beb8-8a6fba825fcb.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 0
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/d8/9d86a550-5142-5239-8caf-d99cc67e01ab/6030aa979c484.image.jpg?resize=1200%2C555"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/d8/9d86a550-5142-5239-8caf-d99cc67e01ab/6030cee64acc3.image.jpg?resize=1200%2C555"
         width: 1200
         height: 555
         isCached: true

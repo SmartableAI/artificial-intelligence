@@ -43,17 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
-    excerpt: "Humana Inc. HUM recently tied up with IBM Watson Health through which it can serve its members better through the latter’s conversational AI solution. The partnership is expected to provide more transparency on benefits to the Humana Employer Group members."
-    publishedDateTime: 2021-02-15T16:18:00Z
-    webUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "IBM exploring sale of its Watson Health unit"
     excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
     publishedDateTime: 2021-02-19T01:41:00Z
@@ -312,14 +301,14 @@ related:
     quality: 19
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
-    publishedDateTime: 2021-02-20T03:57:00Z
-    webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report/"
+    publishedDateTime: 2021-02-20T04:00:00Z
+    webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report-2/"
     type: article
     provider:
       name: Canindia.com
       domain: canindia.com
     quality: 19
 
-secured: "F76bwbq20fEk7fKgUGoC94xTfriZRH4GejUpDPvv04D4/e6GEO11RDOx2mSCUgeeJ8I1h8ScjpzGExSGiuUQfsSgs8t73/XBnfS5l7k2tGm7a7JEXT2r6sDSZ9wyVKQ2V0sBgqlTWriRP1UjeufAsjtllH0oyBXABS0k6i5D6BdFvBT6d3UinXz1Kr1EjiXlBImbgLUl4qcgQmvNwiA677PaNFZk1E0vFiq2O11XBIuyPXBDY8wQPjn3+cLnqWiVoxv386rhX93GQwIHaXPWqeaP+hNdzQC9Zr3vZdonTfQz8u4WTEoQyOwSBHKQ8vjPp52x71Rnw+UFUMw77dYf331ibz7g2uqL5Yn6jqDo/x0=;/s1Jzz7CLZCBhtTQLo6FTw=="
+secured: "0Uai2SZ6zbl1034gdKE62nhOXOnDl+XNhRsuMeoZRdo9P6mZf9XsAXbjfs6zbGqjD+aJL9m3eWCd7ezEYdRauPnjR1T604AXL7i8lI3rlfIs5Hh8E+nMvQYTT7t6vLcz5yAH0jun6VuXcqP0xVatTQTcd+2klxQlTE9bM1rDEH8LrFsov4C5Qxic3+i9kh99M/b/FysHC9ldlWctsoyWlZhT0uShI1bicFWLN0JGM3RJ0ilSu3jhhFS4DjyXEYJjE/qMae9YYTHpEayErSH+knQL4VvBF8KS3wuXDu5Cjft4bwy21KDXEddNsWT5/6f6oFM1AYztNS0J3WBZ5kkMgejAIuvhIF0zPvQpyLDMIdOt3SzyYs6LVbMkaotc9j/xJ5ypIpT52p7seFtbfVH0GHPSRxqIZ2nBGdkckLAAoth3KgP9K5lZWilGQsD2WC7dt9FeVDx0yEO2Y3lTSN6Yn/+ZXjg5NYsf2jze18CoBnyfxFudcs3KyDH1JWYyOLiY3BOt4e2q8WJBG+f/By78JQ==;eAq2cmNneVw2Z6QYdLojLw=="
 ---
 

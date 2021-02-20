@@ -136,6 +136,22 @@ related:
         width: 848
         height: 565
         isCached: true
+  - title: "Google sacks founder of its artificial intelligence ethics programme amid 'sexism and discrimination' claims"
+    excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."
+    publishedDateTime: 2021-02-20T07:39:00Z
+    webUrl: "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims-12223349"
+    ampWebUrl: "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 70
+    images:
+      - url: "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google to Reorganize AI Teams in Wake of Researcher’s Departure"
     excerpt: "Google will restructure its responsible artificial intelligence efforts to centralize teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilize groups working on ethics research and products after months of chaos."
     publishedDateTime: 2021-02-18T05:16:00Z
