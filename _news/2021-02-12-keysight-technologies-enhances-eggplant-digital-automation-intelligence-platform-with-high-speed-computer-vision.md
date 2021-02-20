@@ -1,20 +1,27 @@
 ---
 category: news
 title: "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision"
-excerpt: "Keysight Technologies, Inc., a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation Intelligence platform that enables organizations to automate the testing of high-speed applications"
-publishedDateTime: 2021-02-11T16:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with"
-webUrl: "https://www.nasdaq.com/press-release/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with"
+excerpt: "Keysight Technologies, Inc. , a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation"
+publishedDateTime: 2021-02-11T16:10:00Z
+originalUrl: "https://www.lelezard.com/en/news-19647483.html"
+webUrl: "https://www.lelezard.com/en/news-19647483.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Computer Vision
+  - AI in Healthcare
   - AI
+  - Computer Vision
 
-secured: "dmzvDCitHWQjix2TDgEmgkHWFex94Nv6K5pANnZwI0wSvrsYsy/9VaA3uAGhIgcFqAVvwkVOjwjjlkV7/Tp3o0CTMy+v26KgCDz6snaS3ArM4p2fvXFWdNpxVuxkYvrLCWPvwGgvA43tTQaBBLvLfxboEt01IalRzfG1hZwkvyJ9q3S1uE87BCDf8KVXljj+2c/cw8OQRabrIlIOrPm5wu2dLFdqDt7jd8hV3hT3XQbPu9yTTXnkjOCtdYnpAU64y4SCcIqrTyyiEooV619hGickaQOXPs9NrmTwKExmFQyDrgXb59f1EnUI6RQp2fOsZPtj8q4q3wv3FC6xXb9nTpdIKkjOJudww3VezlxmoFQ=;rMA5uVVYZ8XrvazSo4M+fQ=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "jzrfFYvVFt1+mWl4LCwXe4+GQj8nb1ilhQtw8n/5NyrZuca5KcBDgNMM/Xv+DuRnLNq7eDigOVIwGTdX5uGo/BXK7xC+kq7Gnl5m7ySt8zKKt2+NJ+Q+vHMahIG47/aJE7JayqewkLzamVYf7SsIU067f0Vi90pQLGaItTd8FqajDi67V9zOOvaN6dv2IHirdE7SHokibS23pd874Hgz842b2PgWZ9Af6LpzKvOpN7nJlgaP/XEBN5pCFuK6Zr/hWcVW/Hp2zQeHpZsVc1opCLvrPWH3x+e3NtKbzaMfdSfOSJ6S231VKfbwYJd6uAO4npGhCZmyNU5z/96MwdxeSZRK/ygfGQ/n4cJc3RLWRAs=;cv9f9VPrq18Ahxw5z0Dm6Q=="
 ---
 

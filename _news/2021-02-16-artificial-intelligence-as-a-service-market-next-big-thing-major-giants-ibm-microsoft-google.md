@@ -59,6 +59,22 @@ related:
         width: 1162
         height: 612
         isCached: true
+  - title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
+    excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"
+    publishedDateTime: 2021-02-20T19:12:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 70
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/VW-and-Microsoft-are-building-an-autonomous-car-platform-with.jpg"
+        width: 1680
+        height: 946
+        isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform, added"
     publishedDateTime: 2021-02-17T12:05:00Z

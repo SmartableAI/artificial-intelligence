@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-09-ibm-partners-with-palantir-on-low-code-ai-applications.md",
+      "title": "IBM partners with Palantir on low-code AI applications",
+      "excerpt": "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/",
+      "originalUrl": "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-09_065434.png",
+          "width": 1303,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space.md",
       "title": "IBM, Palantir forge partnership in low-code AI data processing space",
       "excerpt": "will \"simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is scattered across hybrid ...",
@@ -1164,58 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai.md",
-      "title": "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI",
-      "excerpt": "ON Semiconductor (Nasdaq:ON), driving energy efficient innovations, is pleased to introduce the RSL10 Smart Shot Camera, combining cloud-based AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai-2021-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai-2021-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

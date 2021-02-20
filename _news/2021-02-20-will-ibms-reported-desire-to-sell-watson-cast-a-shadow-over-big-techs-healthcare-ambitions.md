@@ -196,16 +196,16 @@ related:
         height: 420
         isCached: true
   - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
-    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
+    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health \"THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
     publishedDateTime: 2021-02-20T00:48:00Z
-    webUrl: "https://www.supplychaindigital.com/sustainability/ibm-watson-ai-xprize-leveraging-ai-good-people"
+    webUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
     type: article
     provider:
       name: Supply Chain Digital
       domain: supplychaindigital.com
     quality: 54
     images:
-      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62akld01xsi200220214421.jpeg"
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62akld1lvrn200220212751.jpeg"
         width: 1000
         height: 563
         isCached: true

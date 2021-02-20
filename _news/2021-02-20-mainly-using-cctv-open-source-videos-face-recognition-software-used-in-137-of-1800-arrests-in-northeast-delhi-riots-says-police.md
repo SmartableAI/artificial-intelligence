@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Minneapolis poised to ban facial recognition for police use"
-    excerpt: "Minneapolis cast a ballot to boycott the utilization of facial acknowledgment programming for its police officers on Friday according to reports."
-    publishedDateTime: 2021-02-16T03:47:00Z
-    webUrl: "https://techstory.in/minneapolis-poised-to-ban-facial-recognition-for-police-use/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/02/4645.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Delhi Police used artificial intelligence, technology to probe over 750 Delhi riot cases"
     excerpt: "Delhi Police used artificial intelligence and forensic technology to investigate over 750 Delhi riot cases that rocked the country last year. Artificial intelligence led to the arrest of around 231 accused in riot cases."
     publishedDateTime: 2021-02-19T17:19:00Z

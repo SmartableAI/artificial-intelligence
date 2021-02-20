@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-12-qa-improving-access-to-government-services-through-inclusive-virtual-agents.md",
+      "title": "Q&A: Improving access to Government services through inclusive virtual agents",
+      "excerpt": "Dr Lea El Samarji, AI and IoT lead for EMEA at Avanade, discussed improving virtual agents and increasing accessibility to public services",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/qa-improving-access-government-services-virtual-agents-123493801/",
+      "originalUrl": "https://www.information-age.com/qa-improving-access-government-services-virtual-agents-123493801/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/02/qa-helping-government-singapore-improve-virtual-agents.jpg",
+          "width": 924,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-should-delhi-govt-schools-be-using-the-facial-recognition-technology.md",
       "title": "Should Delhi govt schools be using the facial recognition technology?",
       "excerpt": "The use of the facial recognition technology in several Delhi government schools - in conjunction with the CCTV cameras installed - raises grave concerns, given the absence of data protection and privacy laws in India,",
@@ -1132,57 +1175,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-immunai-raises-60-million-to-analyze-the-immune-system-with-ai.md",
-      "title": "Immunai raises $60 million to analyze the immune system with AI",
-      "excerpt": "Immunai, a startup developing an AI platform for biomarker discovery, has raised $60 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/11/immunai-raises-60-million-to-analyze-the-immune-system-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/02/11/immunai-raises-60-million-to-analyze-the-immune-system-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/11/immunai-raises-60-million-to-analyze-the-immune-system-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/immunai-raises-60-million-to-analyze-the-immune-system-with-ai/amp/",
-      "publishedDateTime": "2021-02-11T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

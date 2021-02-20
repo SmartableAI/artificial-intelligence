@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Daimler's self-driving truck company Torc Robotics picks AWS as preferred cloud provider"
-excerpt: "Torc Robotics, the self-driving truck startup majority-owned by automotive giant Daimler, plans to use Amazon Web Services as its preferred cloud provider. The company, which operates as a semi-independent subsidiary,"
-publishedDateTime: 2021-02-18T11:51:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/daimlers-self-driving-truck-company-torc-robotics-picks-aws-preferred-cloud-provider/"
-webUrl: "https://www.datacenterdynamics.com/en/news/daimlers-self-driving-truck-company-torc-robotics-picks-aws-preferred-cloud-provider/"
+title: "Mercedes’ autonomous truck developer Torc Robotics selects Amazon as preferred cloud provider for self-driving truck fleet"
+excerpt: "Autonomous truck developer Torc Robotics, part of automotive giant Daimler Mercedes-Benz, has selected Amazon Web Services as its preferred cloud provider to handle the scale and speed needed for"
+publishedDateTime: 2021-02-19T16:30:00Z
+originalUrl: "https://roboticsandautomationnews.com/2021/02/19/mercedes-autonomous-truck-developer-torc-robotics-selects-aws-as-preferred-cloud-provider-for-self-driving-truck-fleet/40834/"
+webUrl: "https://roboticsandautomationnews.com/2021/02/19/mercedes-autonomous-truck-developer-torc-robotics-selects-aws-as-preferred-cloud-provider-for-self-driving-truck-fleet/40834/"
 type: article
-quality: 79
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Robotics & Automation News
+  domain: roboticsandautomationnews.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
-  - AWS AI
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/Torc_Robotics.2e16d0ba.fill-1200x630.jpg"
-    width: 1024
-    height: 538
+  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/torc-21C0087_002.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -42,6 +41,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551818840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G0G6"
         width: 817
         height: 545
+        isCached: true
+  - title: "Daimler's self-driving truck company Torc Robotics picks AWS as preferred cloud provider"
+    excerpt: "Torc Robotics, the self-driving truck startup majority-owned by automotive giant Daimler, plans to use Amazon Web Services as its preferred cloud provider. The company, which operates as a semi-independent subsidiary,"
+    publishedDateTime: 2021-02-18T11:51:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/daimlers-self-driving-truck-company-torc-robotics-picks-aws-preferred-cloud-provider/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 79
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Torc_Robotics.2e16d0ba.fill-1200x630.jpg"
+        width: 1024
+        height: 538
         isCached: true
   - title: "Torc Robotics makes Amazon Web Services cloud provider for its self-driving truck fleet"
     excerpt: "Inc. as its preferred cloud provider to handle the scale and speed needed for data transfer, storage, and compute capacity as the company prepares to deploy its fleet of next-generation self-driving test trucks in New Mexico and Virginia."
@@ -80,21 +93,7 @@ related:
       name: Automotive World
       domain: automotiveworld.com
     quality: 47
-  - title: "Mercedes’ autonomous truck developer Torc Robotics selects Amazon as preferred cloud provider for self-driving truck fleet"
-    excerpt: "Autonomous truck developer Torc Robotics, part of automotive giant Daimler Mercedes-Benz, has selected Amazon Web Services as its preferred cloud provider to handle the scale and speed needed for"
-    publishedDateTime: 2021-02-19T16:30:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/02/19/mercedes-autonomous-truck-developer-torc-robotics-selects-aws-as-preferred-cloud-provider-for-self-driving-truck-fleet/40834/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 30
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/torc-21C0087_002.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
-secured: "hQT41ibjAdI+nwYI+DJbEJERi12OtN0gm7LdfLbnbmFwzmmF+9BBHdX1WyDpIMwMUw6OROMBYmzbMf38nVVuBkS2fk/8iWSdBapVCfT7vu2QhDjBGJnQX3+r700ZCJV26ml/ps8mIz6ttq7HEXGYSSnY/9xEU/B5GLSphaabVjo1FwwjptF443BHytmsnpFphVkIXwHkR0E4+U5bGYCNCpKCxkjfovhuz93wKDOEdHeN8dRCq2ao3oiIUOMCQ/VbTwACxeVkFUum/lBguW2QzKfYPZN16sF6LE7nKmrjgr7Fy5UwkO2v62N/aOFkBvtp0Nw5CN9FkW44Iw/kh9tD5q8sUMzHLT4J2KIkwVoXImPmiv06sUycpDL2d4sNWbb2K0HGwR2bfVT83XJqFNeIaBwQQgXG2zRJo0MGGMsqEngEOkPjjWmlz9oevJNgeOBbSerfXdMtNsyTGHo/vGeyUspdR41wyzzosekqP9NQQWgKpqWROKr1oaHCjUxL0GPTanYwWPcZ3upxa8HCUes7VA==;AhzJ2pepKU9Cgswo2paoJg=="
+secured: "eLGchDSMvfXnip/U2ikJXy4QKYxrAxfWslm/YcMGM/HnMtNCnVi1XZD2o+ZiWe3vsdW4EGvy4ZDMtUgai50Kp4BMsoPWwP3gxBk4Cz26FYjJOKlrRq7IgqB63DRoWO4SEH+M+STtY4L5bjIqrMqkkhoJA5SFDvhXmHseUxjeTtWHtVOdXT8xvB42dFtcmNgXfdGB2UlyqMOqyKr38Krl+p3L+wc82TpYOczpGiRrPmZUaDd8ZJ6wxEclV2kD6jWlIgckIYpt7PThgqLYetQyBqhbKO+h6hPmlgcO3djE1bCfmCAjSonBpk7fpY15XQ5ocFVxWMMdy7LEn25l5a5D0nkYfBsAASqIQmNg58jZb3s=;FYn0CR1FJ9M0AFkUcO9dLw=="
 ---
 

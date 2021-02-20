@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Global Text-to-Speech (Software, Services) Market Forecast to 2026 with Nuance Communication, Microsoft, IBM, Google and Amazon.com Dominating - Resea"
-excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"
-publishedDateTime: 2021-02-16T17:10:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=422804"
-webUrl: "https://us.acrofan.com/detail.php?number=422804"
+title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
+excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"
+publishedDateTime: 2021-02-20T19:12:00Z
+originalUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/"
+webUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/"
+ampWebUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
 type: article
-quality: 1
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Windows
+  domain: compsmag.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/VW-and-Microsoft-are-building-an-autonomous-car-platform-with.jpg"
+    width: 1680
+    height: 946
     isCached: true
 
 related:
@@ -57,22 +58,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2021/02/Document-Translation-Azure-Translator-Microsoft.jpg"
         width: 1162
         height: 612
-        isCached: true
-  - title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
-    excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"
-    publishedDateTime: 2021-02-20T19:12:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 70
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/VW-and-Microsoft-are-building-an-autonomous-car-platform-with.jpg"
-        width: 1680
-        height: 946
         isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform, added"
@@ -157,7 +142,21 @@ related:
         width: 800
         height: 395
         isCached: true
+  - title: "Global Text-to-Speech (Software, Services) Market Forecast to 2026 with Nuance Communication, Microsoft, IBM, Google and Amazon.com Dominating - Resea"
+    excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"
+    publishedDateTime: 2021-02-16T17:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=422804"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 1
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
-secured: "0hXPAQZ77F40I1ylAteXAqnqaKkLhMhbc+3B2g+jGdNSF2mXwAPx8arDrUQwxAfZZCWoNzKhSxCORNsHX/0AwH6NOHstWyEroJjWReqXOht2taT8A1ZTpMji3uXrDMbeRUA62RUGbedfu7sD/1CFfvWw+8NCxvEIlaxFN29qx0fcM86WvvfTuYokMSZtVSGUlwYrkD8g9OdWfpcHkwzxD55lag23E0E1+CabgDQMsUqZ9qVpFtFSxsDmMqoRPW21cOurleSCEa9/q+T7tWI2ylJqGcNFBJv70s4WuD+oRqsatfV4/TztEXtk9MsZu7bwEX/lwt6ndQMeSKAvVeVc1a1HvwshrkpXyWcxlHszBOc=;KycCHUsBmr7ghZ7Q503wLw=="
+secured: "SmlMBsFFmE3vzUaME9IgFgqb8ivmbF4oqK+ChWKE0BcRoti1MKtkVhhZRTizARoxoz47otObjvs/gbN1fM6km2+mFBjxJcOaYYRGDVuJaPq5Ja/fPFRTUKMa2z8rmW+8FNXa3CXTMhU4QPCwtGIM07DP8whGKl4bARoUf7bkR6n6+4g0Dn5lJmAuD7tVXYZXRF4bXi5h+yV8nOspb4Aos7dVnRwe8gfZLI/Leyd3k/7DmiKzWkd6/FVReM+3k4wj0/TKp9nT3rxq8Lu+tJMqPme+1w7J1Cefh8epmZnE0yA6n/shjHeLKnjdH87MQ39a3H51wjDsVONqp9YZT5CxyQ4jf5eju3nrSdmpG1x3qzQ=;JG6NfcnMYnnTMIZJbcqZHw=="
 ---
 

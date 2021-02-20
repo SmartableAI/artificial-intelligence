@@ -167,22 +167,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology – St George News"
-    excerpt: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology - St George News Stock Image |"
-    publishedDateTime: 2021-02-16T03:59:00Z
-    webUrl: "https://www.compsmag.com/news/technology/lawmakers-introduce-bill-to-balance-personal-rights-and-public-safety-with-facial-recognition-technology-st-george-news/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/lawmakers-introduce-bill-to-balance-personal-rights-and-public-safety-with-facial-recognition-technology-st-george-news/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/lawmakers-introduce-bill-to-balance-personal-rights-and-public-safety-with-facial-recognition-technology-st-george-news/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 34
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Lawmakers-Introduce-Bill-To-Balance-Personal-Rights-And-Public-Safety.png"
-        width: 1290
-        height: 726
-        isCached: true
 
 secured: "IaXnHuUQT2fX76IwPKFClJIr75Yzv/38VwMW8YPVaAH68QCvqNYax/mmSuYDBemPv/XVC6hECq0cuiV51b4V+9VwV9m499dt+vpN3shQJc9bEhMDtzLQCuhZJgg+Bvb4pDEtxl3mC7f6ZbsJO5GsHhFesjusRXkMcCG39Z7TBaey4kj7sw2+Pq5+qpL9jkRersORWstIfDPwEPr9Bn5CYU57UADZ1el/lZoPVFRiw0IAf/3nGxzc0tfSJ/sC+1n3CMCduNf289NoUWKSAogsk2Xe87+Rbu4ENvo6CEXtNmot/gApI/GHoY9VRo09wXD1XqdCN4rhIacV35JjNZZhBEzDQhkomumrOXe3DpNQBRM=;EvF5QiGyEJwtCyyCB8tVPA=="
 ---

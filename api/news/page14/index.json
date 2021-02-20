@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-08-rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai.md",
+      "title": "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI",
+      "excerpt": "ON Semiconductor (Nasdaq:ON), driving energy efficient innovations, is pleased to introduce the RSL10 Smart Shot Camera, combining cloud-based AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai-2021-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-klas-recognizes-microsofts-momentum-in-healthcare-ai.md",
       "title": "KLAS recognizes Microsoft's momentum in healthcare AI",
       "excerpt": "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create",
@@ -1150,58 +1202,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-3-no-brainer-stocks-to-buy-in-artificial-intelligence.md",
-      "title": "3 No-Brainer Stocks to Buy in Artificial Intelligence",
-      "excerpt": "In fiction, artificial intelligence is often associated with intelligent androids or dystopian futures. But in reality, the AI market mainly revolves around crunching large amounts of data to make quick decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611243%2Fgettyimages-664246660.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
-      "publishedDateTime": "2021-02-05T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

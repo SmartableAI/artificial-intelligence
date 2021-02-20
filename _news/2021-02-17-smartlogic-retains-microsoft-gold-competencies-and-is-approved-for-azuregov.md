@@ -53,6 +53,22 @@ related:
         width: 1162
         height: 612
         isCached: true
+  - title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
+    excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"
+    publishedDateTime: 2021-02-20T19:12:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 70
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/VW-and-Microsoft-are-building-an-autonomous-car-platform-with.jpg"
+        width: 1680
+        height: 946
+        isCached: true
   - title: "Artificial Intelligence as a Service Market Next Big Thing | Major Giants IBM, Microsoft, Google"
     excerpt: "Latest released the research study on Global Artificial Intelligence as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence as a Service Market research report shows the latest market insights current situation"
     publishedDateTime: 2021-02-16T05:08:00Z

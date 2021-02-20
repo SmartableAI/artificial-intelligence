@@ -83,17 +83,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 17
-  - title: "Fujitsu Leverages World's Fastest Supercomputer 'Fugaku' and AI to Deliver Real-Time Tsunami Prediction in Joint Project"
-    excerpt: "The International Research Institute of Disaster Science at Tohoku University, the Earthquake Research Institute at the University of"
-    publishedDateTime: 2021-02-16T03:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/a19666099/fujitsu-leverages-worlds-fastest-supercomputer-fugaku-and-ai-to-deliver-real-time-tsunami-predicti"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19666099"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19666099"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
 secured: "9Dgxmn1auhmjRfam5+06tf29esLJdyFv1UxJnt9Fe1U66jO2Qb5TT/EbNqFZtpbAib60hn+aG0FWpZ5ts9p9LApLcKaUIi641A19LviRzRPxmsRF2rgLDSqvMfS7kaVQdhhghHQyHkKaFxfUFY58NMvgsrLLOzlq3HrhST3Xh32oc+8x0SqtxKHDQ8vSCU948yTjucm8Qxowi6piAbg1N1Km2H3TIU8vlP+vGePtsWgZ//IUnqp5ZT6WXh4WOy6beGUpKs5D9vl3onTtFwBLkBkEw+OdCLacm1tq4tp6FkGDjZahc+zIIX7qmDSoqvDQ2eUaoGfCCBL/ca2KgT9WyCpvOWFHVY17we4x0V841UckKuPaNDve+72z5VGT9e4HqxIiPKYTncb3Mv/HNS93OGcsBrT5IPPwPc3baPowBffUevyAzJeu74dSvTIBbZToaCtB5jT1bpz3cBllQKwUeiGkNs/zT3FICGzxLEFMs52BY9EMW8BTZtnk03gpHtjojXQL6i7S2UndTtCKStXpXg==;loGvCPpzrL9+Cb33HAdtdw=="
 ---

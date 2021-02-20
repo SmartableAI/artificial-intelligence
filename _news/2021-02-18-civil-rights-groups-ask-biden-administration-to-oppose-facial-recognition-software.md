@@ -153,22 +153,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology – St George News"
-    excerpt: "Lawmakers Introduce Bill To Balance Personal Rights And Public Safety With Facial Recognition Technology - St George News Stock Image |"
-    publishedDateTime: 2021-02-16T03:59:00Z
-    webUrl: "https://www.compsmag.com/news/technology/lawmakers-introduce-bill-to-balance-personal-rights-and-public-safety-with-facial-recognition-technology-st-george-news/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/lawmakers-introduce-bill-to-balance-personal-rights-and-public-safety-with-facial-recognition-technology-st-george-news/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/lawmakers-introduce-bill-to-balance-personal-rights-and-public-safety-with-facial-recognition-technology-st-george-news/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 34
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Lawmakers-Introduce-Bill-To-Balance-Personal-Rights-And-Public-Safety.png"
-        width: 1290
-        height: 726
-        isCached: true
   - title: "ACLU, Civil Rights Groups Call on Biden to Halt Federal Use of Facial Recognition Technology"
     excerpt: "The American Civil Liberties Union and a coalition of more than 40 organizations are calling on President Biden to take executive action imposing a federal moratorium on the use of facial recognition technology."
     publishedDateTime: 2021-02-17T00:00:00Z

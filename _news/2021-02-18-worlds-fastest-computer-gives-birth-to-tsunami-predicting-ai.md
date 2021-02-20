@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/17/worlds-fastest-supercompute
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -87,17 +87,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 17
-  - title: "Fujitsu Leverages World's Fastest Supercomputer 'Fugaku' and AI to Deliver Real-Time Tsunami Prediction in Joint Project"
-    excerpt: "The International Research Institute of Disaster Science at Tohoku University, the Earthquake Research Institute at the University of"
-    publishedDateTime: 2021-02-16T03:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/a19666099/fujitsu-leverages-worlds-fastest-supercomputer-fugaku-and-ai-to-deliver-real-time-tsunami-predicti"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19666099"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19666099"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
 secured: "+FzB+uHR5zjbrdE2hb/e7WUADhDA8KNxOpYmcol+iw7S8pfjmjRa6UHt8aD/5ipVZbqEEoWBUhWAkq3cOTClMA+ACzEYsqL22+aVksMvcuNZSxPWsig5kr5Lf8mwIxn4aOQQ8cQzyIwmSfJbUIkXFD3ZnDYF51+FmFl/+yzGvTKHGAdJdb33R708By1fvtUMqIzi6t5hIqZ2WkAykItuj2lOTwjSgAQzlWU/8Cn4lVZFG1F8b3mdR2GCwm4msv5PxSE3XslMkZ1lyQTHoWb/EyBg4SLAmm14N6YYG9eKKJXGac5I6lmOIxaDVEG7csdeVT34KTCnuIbDAFLUiEVdiIRLU/bKKjryVB2kDrJmZGGtqQDQcC0TJ/NV8dEibu1EbctI8uXRklEmBg+o73u3OBys9ua3MpQTlez0+l91QOQ53AhJffrUF03lW5/tuctjkMe/AFwlyVeixx65hwOdx18GcXHJKeOPwgoGbMdGKvCewKcUeIjzwLOCRi93K5sk6enHH1PlvzmyOj2dvDdYyQ==;jzPJ3vp2IejVuBCRZaXX0w=="
 ---

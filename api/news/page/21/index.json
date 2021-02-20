@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-03-jeff-bezos-steps-down-as-ceoand-shows-amazon-is-a-cloud-company-now.md",
+      "title": "Jeff Bezos Steps Down as CEO—and Shows Amazon Is a Cloud Company Now",
+      "excerpt": "It also launched a new cloud-based computer-vision service called Rekognition. These services are both a “powerful revenue generator and a key to Amazon’s AI flywheel, as customers as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
+      "originalUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
+      "publishedDateTime": "2021-02-02T11:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-near-infrared-imaging-and-machine-learning-can-identify-hidden-tumors.md",
       "title": "Near-infrared imaging and machine learning can identify hidden tumors",
       "excerpt": "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery.",
@@ -1146,58 +1198,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-canon-powershot-pick-robot-uses-ai-to-automatically-take-photos.md",
-      "title": "Canon PowerShot PICK robot uses AI to automatically take photos",
-      "excerpt": "AI and machine learning can be found in almost every consumer electronics product these days, whether directly or indirectly. Often, the goal is to make offload some of the decision-making duties",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/",
-      "originalUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/02/detail_14551_1611879493.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/amp/",
-      "publishedDateTime": "2021-02-01T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

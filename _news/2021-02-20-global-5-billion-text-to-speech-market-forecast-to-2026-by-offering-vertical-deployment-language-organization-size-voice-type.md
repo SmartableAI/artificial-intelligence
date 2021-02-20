@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Global $5 Billion Text-to-Speech Market Forecast to 2026 by Offering, Vertical, Deployment, Language, Organization Size, Voice Type"
-excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise,"
-publishedDateTime: 2021-02-19T17:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19752328/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-o"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/n19752328/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-o"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19752328"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19752328"
+excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"
+publishedDateTime: 2021-02-19T17:22:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
 type: article
-quality: 0
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -36,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bzkjthH/SEUCb4SEC5VJ54uIFpFEgCE8ZD3v71UEseAh4DM6KCsPAacaI9+m6AHkTGaJWImmj2TGRa/sdkQttfpSjGPGGXuuJAvTwr1g4l/4WkdVC05TY0pqPsBgFPRlhRDQmGjm/mIodjjU5nwDVloXWFitvCmq50H4mtXbv9NNm+8fS4fo1YY8vHwPS8boCdZWd9kyG2//hHPwqF1SZeYzW3w89P0U7oegr5SOyzWjFGVefzVJu8hDumuQQSPCbrb3yxDTMNuso7gd/5WV0XlcQQVCtZAZMP0W78rHI9Zk+lozuOiowyq7W9yty8saDamhA0Re6UzLOopR/C9JceSE0xHK5WdBfbg35rhbWu8=;K3cjCstlCaLn8NyQ42Lx6Q=="
+secured: "ocFINwaCEUVTdlywdTYJoYNl5U0Bprwwi3PWzkwIvkS+a1ohSQDO3kwC4Lx+beNtUMZrMIKhmPXdt7LnTs4rWfYtqr6NeJGRj/6/mOQIZowJp/+5S0LuROqRYKzoQFSw5jtc0pom2jkifYQgYWhzPHCngarNv9Ja404dnbQbLYajub9gcaFZYmvY7IdkgoTmxVJpUh3c6W8YX55KCFyRAu+PYBsrmfKUGW+s/Ie5dnkvbk+MH6l4dvAZrs8bj6+riBZ3cmn3LuxjPZ6VCP/N50uTuKp/cqbLIc630dEmWP+qV9XwZwHW5TIXUS+2PMcnBXNf1cZOwOo6TTl8qo/3d+TRj5h/YoBlQewclbiKyRM=;tlVY+0bgntgoJZO3IqlDgQ=="
 ---
 

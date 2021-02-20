@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Minneapolis poised to ban facial recognition for police use"
-    excerpt: "Minneapolis cast a ballot to boycott the utilization of facial acknowledgment programming for its police officers on Friday according to reports."
-    publishedDateTime: 2021-02-16T03:47:00Z
-    webUrl: "https://techstory.in/minneapolis-poised-to-ban-facial-recognition-for-police-use/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/02/4645.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "jKDuZfcQYAq65i0Z2A+RZtr+4beY2jRCeGStYf6j21K/zHNmJAzNU+YytaI8bey0g77IytJ61CVt1lXdRvKwBo+jk3jz8TXO30JHCC0W/98VTbO/k+mqk8fxBXNFnMUOljkCDGw6PDkThBk1a2yxsSRs3/DaxFOcTnbcL8XGwVza+4gSB6UXzXm2tON5gfg8YWGLyC1fjY4qx3K/Z4dIBQGuyswZAxeSsbe3cSnyQ5g4bbkFao6XWFuriEaT4OC02IPf8pLYmFClZwTDvQWTFjsrIixv8Jxi+iMJgoCuOS2mp7nk12FNR9HlcHqiAQLLVQPqXvwWRTkEfrL9/zA3Qhm7bXyw6gEpvGFAxLAy+cI=;W9G0NaMKsPNq1Z+OqqrQ3w=="
 ---

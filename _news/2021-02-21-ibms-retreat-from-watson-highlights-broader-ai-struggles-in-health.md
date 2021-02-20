@@ -185,16 +185,16 @@ related:
         height: 420
         isCached: true
   - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
-    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
+    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health \"THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
     publishedDateTime: 2021-02-20T00:48:00Z
-    webUrl: "https://www.supplychaindigital.com/sustainability/ibm-watson-ai-xprize-leveraging-ai-good-people"
+    webUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
     type: article
     provider:
       name: Supply Chain Digital
       domain: supplychaindigital.com
     quality: 54
     images:
-      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62akld01xsi200220214421.jpeg"
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62akld1lvrn200220212751.jpeg"
         width: 1000
         height: 563
         isCached: true
@@ -342,6 +342,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "ogdXfOl9VGFMV8Dn5x3Nb4N/TnHae6hEZvjyrO0BLYmkQqLvvYWtknHlOrpGNZfZaG0qWwD2Li3+JD01ggWFManvlCr7HH8ipzBQbJ3fdzyu9QjYHZ5PJMWOzxjIS/rsjQnbglaooljIcKI4e9GBk+p1/MHBrJukJu67H6b8cleanAkM721PUjchKoyNgiOz1XYpJn1JdUtKnKnT28YOc47LpDQonpxNzZFae4n/19fb0/6n9Bscuw9hb5ptqazQCXqyNTQDrg6qPDfGL098/AJ8Qs4RgQzvhUpEhFctw6ZLYB7zEo09Ql2D6UVIfY1BZuM38Ek8zZ7AkJGJ9Xs7d/tNqYPeL9l0noXz9HOjNk8=;Y+IqxQTgrmA7nEnWwmFMFg=="
+secured: "BLHBTbPVO6ocqYnG2ITfWzSmrjsOsFR9tSaKipyD6PjQ8HOzQhQyeWAvZTCbUKkgmgHpC5WsF2AAMjbffgduG1dhLQ9vv98Gv1RrG0WyHizuVDohDJkFl+2Mmn2dsMB56U8eEA/faJB47wpjOjHbHWnXjf+D1MceWRb9XYmRmY4RiGMJLMt0RlchGQZhygfjEHdSf3A5xkaZ5o1NNiwo7/0dOac6Qb97RD8huxYbx75iqE+UGTCQOicAWxUVhElX4EO9+Vd6CCUdKQuzCQQoNmjSlb26bZG0s/TO43gIxIgZX/56GRvZah8sUoo0PfVKrUyZCsgMNGAfI82tk/hsTIK4msdMaOcaMecmpTRHy9FAPHmahfynbtRCNJiWjxXFbfeDscWvbS4onePNRSI/dktj3rQNtFWtAfB3i8Pv/opDKb5zY7OR/o0ULH10CMdr1msstqhbRE7KbAGSxBhlzKzIIPR9WoKuFHqwcTeDA6Mwpf3VU7Pad2573FoQqbJIEzoJ7xBmcmJ6xTZHejJhkA==;RbzPl0fa9WgbRUkg+nZ69A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH0SY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0SY"
 type: article
 quality: 215
-heat: 255
+heat: 265
 published: true
 
 provider:
@@ -82,7 +82,21 @@ related:
       name: Automotive World
       domain: automotiveworld.com
     quality: 47
+  - title: "Mercedes’ autonomous truck developer Torc Robotics selects Amazon as preferred cloud provider for self-driving truck fleet"
+    excerpt: "Autonomous truck developer Torc Robotics, part of automotive giant Daimler Mercedes-Benz, has selected Amazon Web Services as its preferred cloud provider to handle the scale and speed needed for"
+    publishedDateTime: 2021-02-19T16:30:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/02/19/mercedes-autonomous-truck-developer-torc-robotics-selects-aws-as-preferred-cloud-provider-for-self-driving-truck-fleet/40834/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 30
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/torc-21C0087_002.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "930hSky7b0sRyW+K4m0o/+j4iSNyCPrxXtfNI47cXtpbSBd6+cpm+VpDx2DhcZLS01xYVJNttFZPrNflfalXYOV3kf12WNkVPYj3opGF5RzIzX7HDyuMUFQUJT30E3JBDjw5kZ1MOD4m8l5iJ74eDQfSIqPNTGA4qQfbGzuanS5jgoOWjPZK4LfdKkEm7FZokQQ37Ll3NAt1nVIp5dfr775tRkYrnxJ9xi5N6CPozLDJZCJ+Z7qqtiY7tH1qG4+33HQkO1BaOdBo+9miXH7kqSNNBkTYAf+081Y10AtEzKul4hF0TqYpfRBw0wo0RFpDxovfCCut5EHOJohNjrSykDTPOOetNWfiu3CX8hSah8o=;1lIWO7ZtdKDzpA4evJHZtQ=="
+secured: "XrC00rfkRAHvZiuZkuPEt5IhVbrsFgYmIU7kswmi5uw7sckyhBe3TVmzO76hAbIAns1C8JT7enxzFZ2km/w8NBgDVgQhyitbs3+amN8+O0bs+0WpgmfiiywRIKBgHafzd9zq6L1cuM0vlgsBpXoBWKc0+LutkgddRIkVMsuGWtlQT1HyymXDl5vkWnMaJsNS+sGh1Kbh4dxxM67jiXyV6V73eyv4ndh6U+pzX77vdXvJX9BVbicd8qIyS3eI7vUiVQX8rPqroNEjAR+Rmf+Oy9L6EgmNy1T1mzJW/4pTtR0UaU0aOhYB7uFjJZn3rgC2LCAbSmAEkEnImtifgnnvWQAq2WIHWD+dqU6k+zGwFVPzHINODiTJWITvo4QFS5kmZQhZ8D0kK+x8hVpRR7R/tIv/NJBYdfFmFoVZUIGzv9YVT1F4LZuAEBKeyN8TfzSOwQKuZvKVB0SFIQg8Mzio78eIAVycbmQUK8TK9zQsqpbvIgJGDfrjaZg2tUTTEWldTPCGNRrXu5yoqpYlK5Rv3IKIpp6H2fxl+V/jVLxuU1A=;jIp8xuZnJpLjmtNxpwbAWQ=="
 ---
 

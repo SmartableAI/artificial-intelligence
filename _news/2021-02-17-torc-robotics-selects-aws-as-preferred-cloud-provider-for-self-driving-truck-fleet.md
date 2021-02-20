@@ -79,6 +79,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Mercedes’ autonomous truck developer Torc Robotics selects Amazon as preferred cloud provider for self-driving truck fleet"
+    excerpt: "Autonomous truck developer Torc Robotics, part of automotive giant Daimler Mercedes-Benz, has selected Amazon Web Services as its preferred cloud provider to handle the scale and speed needed for"
+    publishedDateTime: 2021-02-19T16:30:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/02/19/mercedes-autonomous-truck-developer-torc-robotics-selects-aws-as-preferred-cloud-provider-for-self-driving-truck-fleet/40834/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 30
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/torc-21C0087_002.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "TEe1bjDIZGpjLt4znZwDBhiiIzPuIJTg1rEBQ+7t4Ty86L3Z6GuDAGdVnwADPIPMw5EWRDKqsrhPxdWotbhp6Jg/Rjrc587ZVJxWgUJsvIvWxCqu3dtg+HKf2FaGxlv6MO1XMJAJJuUSTAeGQZgR5scKMTgx7BSnZmk/4Ezx6OEIu+o8KTkcg9exWJEP0ZuJ6CCmSsxyyqHD9nrUj0mIZK/iINaIIYO/IsESBTHv7f1r3jbLg5/21ZxwaFBpnqpszER/xnHWiBRAcVrYRGMFyMS7//dTASEJCMmEJvzqJ9MttPTwmuzJH4OqoTXC30bV9bOZiwOVD9k6yNNBhjIEbA9OHFgHxXXt/cXwvKlS1n4=;T7UJIzintXa2rwo1xdLiYw=="
 ---
