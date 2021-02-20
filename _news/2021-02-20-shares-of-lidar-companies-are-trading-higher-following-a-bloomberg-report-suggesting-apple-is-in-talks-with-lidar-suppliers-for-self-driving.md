@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Top 5 Self Driving Car Companies to Watch Out in 2021"
+    excerpt: "A self-driving vehicle or autonomous car is a vehicle that uses a combination of sensors, cameras, radar and artificial intelligence (AI) to navigate between locations without a human driver. Here are the top 5 self driving car companies to watch out in 2021."
+    publishedDateTime: 2021-02-18T14:02:00Z
+    webUrl: "https://www.analyticsinsight.net/top-5-self-driving-car-companies-to-watch-out-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Self-Driving-Car.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Apple said to be in talks to buy self-driving sensors, key step in car plan"
     excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
     publishedDateTime: 2021-02-20T01:39:00Z

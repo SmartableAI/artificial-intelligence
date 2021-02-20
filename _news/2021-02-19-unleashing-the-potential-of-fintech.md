@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Top 3 FinTech companies to watch out for in Austria"
-    excerpt: "The Austrian FinTech industry has seen robust growth in sectors including payments, investments, insurance and accounting."
-    publishedDateTime: 2021-02-15T12:05:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-3-fintech-companies-to-watch-out-for-in-austria/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/fintech-APAC.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "HWuzrIOd+QF6pL99j5YxvQFoJ3lrxNRBuL/E7H0NG2xEueJpEqXsgl6ukXjtUKhkdwn6tPW46iHxRImTr2Jz+e9IMckHNZRE/Jd1MPxzpQHH7wd+u+uOZADMK1qUYzMkhWYM879fI08DZgZPdxCy9NnAyP1sRoVw2AnqwxB9vk8OZz55pw/Wel14QxODFaC1VaF01FjJihQEBT5loSwWsUUFQi5k1q5Wtn/N0qU2/ceEcHnSGTNxXURAPG0fiZIavmUa0fTpDsFr5epXzAF7f7Hm1jG5PoNPuPWMSbr+L2Dl3BNb0J7/UkxgXkR2zv03Rq3BFnqzVtToGo6O+CPwYoJzKV70hq/jrQLeEhp2IwVAD4faywLAQ0gK6nXbGs46sU7+OEKjkaB4kkkDBRfoky3b+hwCgf0CqwteRTRjCphOQGRHOdBN9341imXnfySNThUAOk4r4k2XditLyc/sYXUQeAIeZXD31m1z/P26696xf0KhgJkMHbaFSqS2s13SBt6y450gab5lnX2IbH8fYQ==;uRrPuRK4JMDTaCvH5yO5pA=="
 ---

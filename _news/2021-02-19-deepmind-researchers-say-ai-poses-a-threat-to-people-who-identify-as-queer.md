@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google fires second AI ethics researcher"
+    excerpt: "Google has fired another artificial intelligence (AI) ethics leader Margaret Mitchell who was the the co-lead of its Ethical AI team, following an investigation into her use of corporate email. According to a report in Axios,"
+    publishedDateTime: 2021-02-20T04:33:00Z
+    webUrl: "https://www.imdb.com/news/ni63201868/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 54
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "DeepMind researchers say AI poses a threat to people who identify as queer – Jaweb"
     excerpt: "The impact of AI on people who identify as queer is an underexplored area that ethicists and researchers need to consider, along with including more queer voices in their work. That’s according to a recent study from Google’s DeepMind that looked at the positive and negative effects of AI on people who identify as lesbian,"
     publishedDateTime: 2021-02-18T17:27:00Z

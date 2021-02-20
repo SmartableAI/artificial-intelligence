@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-coul
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How SiMa.ai Is Disrupting The Embedded Edge Market"
+    excerpt: "We are making it possible to deliver high-performance machine learning at the edge while simultaneously reducing the power consumption associated with this compute."
+    publishedDateTime: 2021-02-20T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-sima-ai-is-disrupting-the-embedded-edge-market/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/sima-banner.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
     excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable ins"

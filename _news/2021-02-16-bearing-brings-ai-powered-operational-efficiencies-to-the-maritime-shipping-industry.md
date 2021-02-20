@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How SiMa.ai Is Disrupting The Embedded Edge Market"
+    excerpt: "We are making it possible to deliver high-performance machine learning at the edge while simultaneously reducing the power consumption associated with this compute."
+    publishedDateTime: 2021-02-20T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-sima-ai-is-disrupting-the-embedded-edge-market/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/sima-banner.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "u97djltxlQoYIIomkGhibbIEQCmW5b1eiDeqcK5u85cTy3pXrloPIfcsHh2W56nSIXGB0ZCRlG6qWamKf/w3/RLQITyq8vRysDdvQktehbLPKq/M9E2h5NZX0m8urmVuvgSTPobY1MHN7ID9thJCZ/7cex1+Ht8tnrtrgBqyubBYbRQA474LRTEiCUBupIQcA715/GCs98jR0RZk145KNEi6xd4sqE1ep9n1HcKU+bfV396Kjj6krL5K/S5/9TSx3nZ3vy6Z2K11E4DtjpLNCdO5uOFiSntoM6beuYpH19G++AaXE1Tt3YNmX7rY6qXrkjdylAtpr74WfkTV7XMFsfNPKd26Yq6wbwhRkJlfJ9c=;Mx1cmHiwWMF2Rq1+Z8BXxQ=="
 ---

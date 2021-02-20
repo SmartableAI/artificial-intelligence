@@ -3,8 +3,8 @@ category: news
 title: "Zoomd signs agreement with GMA Networks in the Philippines"
 excerpt: "PRNewswire/ -- (TSXV: ZOMD) (OTC: ZMDTF) and its wholly-owned subsidiary Zoomd Ltd. (collectively, \"Zoomd\" or the \"Company\"), the marketing tech (MarTech) user-acquisition"
 publishedDateTime: 2021-02-19T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/zoomd-signs-agreement-with-gma-networks-in-the-philippines/article_be8a7c3f-b8f7-54f4-a234-b341f78a26bb.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/zoomd-signs-agreement-with-gma-networks-in-the-philippines/article_be8a7c3f-b8f7-54f4-a234-b341f78a26bb.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zoomd-signs-agreement-with-gma-networks-in-the-philippines/article_be8a7c3f-b8f7-54f4-a234-b341f78a26bb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zoomd-signs-agreement-with-gma-networks-in-the-philippines/article_be8a7c3f-b8f7-54f4-a234-b341f78a26bb.html"
 type: article
 quality: 24
 heat: 24
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/a0/fa05dc9d-2a76-59d3-b111-328afb15618b/602fd076e8933.image.jpg?resize=500%2C500"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/a0/fa05dc9d-2a76-59d3-b111-328afb15618b/6030978b6ddef.image.jpg?resize=500%2C500"
     width: 500
     height: 500
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "X1nzYlXQERJ9lqgDlZCV6qWyO4ZEM4hAsbLhhnn78Lx9paxjPEopyEPpYc/sIb+JBl35G/fXwE9GYK5aoWYPiJchnp49YrMP4lCF0WdezIVXqNcoRobf3pDnwxP+Eksncxt7rZQgcMH8EKON62HoVNRMWQ+sxXVwVJdSZw4L3s0iW1lnUpqVwzFjrrTVZcr634N70Jx8glDEo2bhFoEkhnUEXL5S7nM3qhxceH/XCc8CTwC0QosXvtM1FfkeGgWy57/eWs2TD0LgghV6/L5H50K0myjppnbHfPHLUnFC0LlFdq8udTfajLum4B8KxWb4f+Qn9K5H5GrWI85bwwIc8ZIup896w0f0EXXZvvIAbrXLWqNQBifMBMr6xD4Ruw45khIuhvIW2QnxL4JmDFxjgbGguM6Vcpi7LkayNgGUZy17seSXJ1cYbHLz0E/KfY5YN6m3HeC9sbWHkfNAfksS7qhOQyGjM4Kb3lHDekehWzD4OlG9Qv7nSmKwEYENOUe5iOazu9ev31bzuiPI9wHKnw==;inkk/qEEKk/kGo3oBPVeAg=="
+secured: "tH87FbvxJkqlkCb2kbW3Q4L6/3JVCG6dNSjRXw9yfUaQXxEM3We07mUwYFsABlo3lwb7PqXXTyrvHDoEvjeXTemxIbF0srkb2ry+U7nY+KmnqK07Cp7AvEK4UY7suJv5dczxOWV9PeSIBa8ZeiTOwEQmfHr+R4/EBCiisyi6jqdl7e0mceknUq9JTv8E+n53VwLMNT238f9l7FGevpYw2nPPOgLOVln9SLGYrEG/Fv+RXoJtrhE0623+dmNMBUCilOjBAM0BEqZLMA+TeqrVb+LmwGg1rqxZGxgQVzqb0TFyXbGKhFySLvhBuRQYi26gTRS7X8L0MPaHJpHgxJiC+uFsi3t1Lr5uj3Sh7QwwP+4=;QiakZKqHBMUz2O5ycDjQJA=="
 ---
 

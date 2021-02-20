@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google fires second AI ethics researcher"
+    excerpt: "Google has fired another artificial intelligence (AI) ethics leader Margaret Mitchell who was the the co-lead of its Ethical AI team, following an investigation into her use of corporate email. According to a report in Axios,"
+    publishedDateTime: 2021-02-20T04:33:00Z
+    webUrl: "https://www.imdb.com/news/ni63201868/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 54
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "DeepMind Introduces A New Benchmark For Meta Reinforcement Learning"
     excerpt: "Recently, a team of researchers from DeepMind and University College London have released a principled benchmark for meta-reinforcement learning (meta-RL) research, known as Alchemy. The benchmark is a combination of structural richness and structural transparency."
     publishedDateTime: 2021-02-17T07:35:00Z

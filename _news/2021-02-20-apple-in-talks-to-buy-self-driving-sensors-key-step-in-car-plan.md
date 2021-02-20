@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discus
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
 type: article
 quality: 54
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/apple-car-project-titan-lidar-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Top 5 Self Driving Car Companies to Watch Out in 2021"
+    excerpt: "A self-driving vehicle or autonomous car is a vehicle that uses a combination of sensors, cameras, radar and artificial intelligence (AI) to navigate between locations without a human driver. Here are the top 5 self driving car companies to watch out in 2021."
+    publishedDateTime: 2021-02-18T14:02:00Z
+    webUrl: "https://www.analyticsinsight.net/top-5-self-driving-car-companies-to-watch-out-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Self-Driving-Car.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Apple said to be in talks to buy self-driving sensors, key step in car plan"
     excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."

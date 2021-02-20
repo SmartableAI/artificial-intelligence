@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-19T19:52:00Z
 originalUrl: "https://linuxgizmos.com/fanless-computer-serves-up-google-edge-tpu-and-poe/"
 webUrl: "https://linuxgizmos.com/fanless-computer-serves-up-google-edge-tpu-and-poe/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "http://linuxgizmos.com/files/Aaeon-Boxer-8521AI.png"

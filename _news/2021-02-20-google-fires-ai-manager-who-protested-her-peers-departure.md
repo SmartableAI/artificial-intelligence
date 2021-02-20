@@ -2,26 +2,26 @@
 category: news
 title: "Google fires AI manager who protested her peer’s departure"
 excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-publishedDateTime: 2021-02-20T01:16:00Z
-originalUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/"
-webUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+publishedDateTime: 2021-02-20T01:19:00Z
+originalUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
+webUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
+ampWebUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: CBS17 Raleigh
+  domain: cbs17.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2019/06/cropped-abc27FavIcon.jpg"
+  - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/06/cropped-Browser-tab-logo.jpg"
     width: 512
     height: 512
     isCached: true
@@ -44,6 +44,6 @@ related:
         height: 697
         isCached: true
 
-secured: "uzTlOp3lU+p6R9zBFhtFEqCkps59vLwNsf12nQMs0YLA2Ac6CFl1j0rA2wjCPbV6C5AS7HjRA8Z4yzI9I9SkMIBC3jE79no5/yA9et9Mnnbtrf/lHPPQQOuYnAwIpjqGhMK7DIjDnLUjHH33g9CpsFGsDz7N6CChArP6pAe9b1n0DB7RBEbPZBS7PfsPBqV6OpEo4jUgtoZlpZa6bSndxjrYKQfXO0CDW0VblErxxkmK60mE2MFVjmoE9oR5LqNCKZs5myzUUN4k+6ZwwKmJ+JAL/gqB6vO0QP6B6mj4/qt/GBfPuwbZj34Nl11DpwqRSNvQz4/BqgHBX+W2Vm8pnnbVjrASkfO4il2gl4WX39U=;mRMJbK4j9AvBpy+hGglL9g=="
+secured: "2p49MonR3gUFNAwkPFnzywCEMRkrZRIN1ueVjulMWlBlDpm8rBACJ/LMYVb5RMfbIsM6PyEIuZi/TBGvkTQeqE67jhjroZvsyg+pCRd1HiOoWblGH7B+zcd1vXsqtLCGn8RROXgjpYYstQeoV9OrZOt7XrR8hF2ncU96MVwQ0HeQpsEY8P9dJwyyGmf6tjz13xOyraAQd442DXXITVfnHUSLqXzp/2Fky5d9Gixq+zmTkCuTEP9aT4NkJSYFO/mbUmVuaZJhhJRsoyZJ3vcTxsWDHtonLRpG0a6c7Wo4/6hJU7yjX3XvzzxW8gVGCD0RtJTkUxVNkfOnGDQmNX/TJWUiaanrTPRcA3uKP3kRHJs=;ncRZ4AgMNbSzZ6bOM3sy5A=="
 ---
 

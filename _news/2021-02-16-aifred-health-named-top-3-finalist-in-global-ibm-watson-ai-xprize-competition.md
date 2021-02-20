@@ -39,7 +39,7 @@ related:
   - title: "IBM exploring sale of its Watson Health unit"
     excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
     publishedDateTime: 2021-02-19T01:41:00Z
-    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos21"
+    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827"
     type: article
     provider:
       name: MarketWatch
@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM may sell its $1B Watson Health business: Report"
+    excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable."
+    publishedDateTime: 2021-02-20T04:21:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2020/10/09/1004451-ibm-india.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Aifred Health among top three finalists in IBM Watson AI XPRIZE competition"
     excerpt: "AI XPrize is a five-year competition with three judging rounds. Montréal-based Aifred Health was one of more than 700 applicants for the competition."
     publishedDateTime: 2021-02-18T19:11:00Z
@@ -106,6 +122,22 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2021/02/Aifred-Health-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "IBM may sell Watson Health business generating $1 billion annual revenue, says report"
+    excerpt: "San Francisco, IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that IBM is exploring a potential sale of its Watson Health business,"
+    publishedDateTime: 2021-02-20T03:37:00Z
+    webUrl: "https://www.businessinsider.in/business/news/ibm-may-sell-watson-health-business-generating-1-billion-annual-revenue-says-report/articleshow/81121827.cms"
+    ampWebUrl: "https://www.businessinsider.in/business/news/ibm-may-sell-watson-health-business-generating-1-billion-annual-revenue-says-report/amp_articleshow/81121827.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/ibm-may-sell-watson-health-business-generating-1-billion-annual-revenue-says-report/amp_articleshow/81121827.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 52
+    images:
+      - url: "https://www.businessinsider.in/thumb/81121844.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
   - title: "IBM considers selling IBM Watson Health: 5 notes"
     excerpt: "IBM is exploring the sale of its IBM Watson Health business as the company looks to ramp up its cloud computing division, according to a Feb. 19 Wall Street Journal report. Five notes: 1. IBM is looking into alternatives for the health unit,"
@@ -171,6 +203,15 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
+    quality: 19
+  - title: "IBM considering to sell its $1B Watson Health business: Report"
+    excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
+    publishedDateTime: 2021-02-20T04:00:00Z
+    webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report-2/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
     quality: 19
 
 secured: "AL/pVMTZWu3CLj9YePb39W7dYB4uaX4JX0AhhHJgv28jvoySUi2ZWe6QQDsMLeDQnPnk2TcMpoSz7bPMz0a8ZthGS/Sc86hhwzcdKtSJOxL2vJHHXYBNSosmg4aYSrBEpuOLU0BHbCQF/sWxBeK4brMcK7+/WlmExnzBJnbG2gbKAgOjteLJfN7ZT69FEl2NdGulK7ywWcEC28otQtqGgo0hWJ/Hduus03V7qSh1pMry3PV1PSsCyRJd8gPxo1tF3a5reRGP3Yhrrl/OjBCwyyBqvUKDaIwPnz8yVtWA/HIRtP6lBzYOmQUb1HK/spVTsPWwpnJCYwOQ502ykIXcdRVYutZNv1a1OWodnrEheNI=;ravFIeHdqcalFVm+Gk5XMA=="

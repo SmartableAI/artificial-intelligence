@@ -29,17 +29,17 @@ images:
 related:
   - title: "Google fires AI manager who protested her peer’s departure"
     excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-    publishedDateTime: 2021-02-20T01:16:00Z
-    webUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/"
-    ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    publishedDateTime: 2021-02-20T01:19:00Z
+    webUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
+    ampWebUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
     type: article
     provider:
-      name: abc27.com
-      domain: abc27.com
+      name: CBS17 Raleigh
+      domain: cbs17.com
     quality: 59
     images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2019/06/cropped-abc27FavIcon.jpg"
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/06/cropped-Browser-tab-logo.jpg"
         width: 512
         height: 512
         isCached: true

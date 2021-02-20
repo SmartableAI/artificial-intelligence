@@ -74,6 +74,22 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Google fires second AI ethics leader as dispute over research, diversity grows"
+    excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
+    publishedDateTime: 2021-02-20T03:19:00Z
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-idCAKBN2AJ2JA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AJ2JA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AJ2JA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552220296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I1HR"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Google’s restructuring of its AI teams sparks further criticism"
     excerpt: "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters."
     publishedDateTime: 2021-02-18T22:00:00Z
@@ -89,6 +105,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-18T210326.083-796x417.png"
         width: 796
         height: 417
+        isCached: true
+  - title: "Google sacks founder of its artificial intelligence ethics programme amid 'smear campaign' claim"
+    excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."
+    publishedDateTime: 2021-02-20T04:51:00Z
+    webUrl: "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+    ampWebUrl: "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 76
+    images:
+      - url: "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
     excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
@@ -148,6 +180,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Google Fires Researcher Meg Mitchell, Escalating AI Saga"
+    excerpt: "Google fired the lead of its Ethical Artificial Intelligence team, Meg Mitchell, escalating the turmoil surrounding its AI division after the acrimonious exit of Mitchell’s former colleague Timnit Gebru."
+    publishedDateTime: 2021-02-20T04:51:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/google-fires-researcher-meg-mitchell-escalating-ai-saga"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if9VUz6KquAA/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New project investigates artificial intelligence for sustainable energy integration"
     excerpt: "The collaboration includes H2GO Power, EMEC, and Imperial College London for H2 tech. A new research project has been launched for examining and demonstrating"
     publishedDateTime: 2021-02-19T09:04:00Z
@@ -194,19 +240,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google fires another lead AI ethics researcher"
-    excerpt: "SAN FRANCISCO - Google said Friday it fired a lead artificial intelligence ethics researcher, following controversy last year over the tech giant's dismissal of a Black colleague who was an outspoken diversity advocate."
-    publishedDateTime: 2021-02-20T02:50:00Z
-    webUrl: "https://www.bangkokpost.com/world/2071527/google-fires-another-lead-ai-ethics-researcher"
+  - title: "Google Fires Another Lead AI Ethics Researcher"
+    excerpt: "Google said Friday it fired a lead artificial intelligence ethics researcher, following controversy last year over the tech giant's dismissal of a Black colleague who was an outspoken diversity advocate."
+    publishedDateTime: 2021-02-20T02:35:00Z
+    webUrl: "https://www.ibtimes.com/google-fires-another-lead-ai-ethics-researcher-3148844"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 54
     images:
-      - url: "https://static.bangkokpost.com/media/content/20210220/c1_3899643_700.jpg"
-        width: 700
-        height: 466
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/19/google-has-fired-another-lead-artificial-intelligence-ethics.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Google fires remaining Ethical AI team leader, months after abrupt departure of her colleague"
     excerpt: "The remaining leader of Google’s Ethical AI team said she was fired on Friday, hours after the company’s top AI executive apologized for its handling of the abrupt departure of Timnit Gebru, her former fellow team leader."
@@ -265,6 +311,6 @@ related:
         height: 333
         isCached: true
 
-secured: "Q53p57lO41eDqIuMjH+w6VV4642jR0e9vs/elNfSiRqKHhIwx28kMr24V8J1BwVS2vYJL4TBVaSjnkRa1O7MMmAZVl8Q3M14BkGgpKu4Ybu5J++O13n8GKpQlvCHUFOyvZIf66RXw75zRqCqMFbsjL7vlMArqMSUHa5pPDzIn/Vn37f+OSCTH5uQfW5OfuhD0hXRgm2iBIQ8QRfmO6Spy+DwYmorf6CAoGGFKzP5Uj6NVAyjUsvKszPaLQK1zQ8R/gq90uLJKw/19rc/OMpXKrWOe7jUla/KKbdf8mYu7JzWYLj4QIT7aw446jxsZdbj2e5DMfrcNYLzxMJgiRnz2FYAOYF1HX0vBc5M1mNEQPc=;/cJBRKy7xvdrcx1jITQTdA=="
+secured: "d5DoPan+hM8OF9VJrR8MXY7Ct0X5tLk75yRRXx6rSg70vhtBBu0PYYy9E1KC8urFk8uqyhsJ1xsQUB7i/NrkG24uhIJLf2ZOHTBUQYvcIhrMm0XfOTeW5bFOSnWjr6MGcDxOB978HyEQGbRxrkM0B33BkJ6QF1fDqAw5mESlJkig+u+uwGe3ItS8kj1EZH2dnl0A28UOcqFvdfhTuUW5wDOEYsGGyVpNZiAv4pjji3faXohJX0SGgSpBzsJEZgo2N1trRBVlihBK3mZQ2YcTwcSTfBTDUO90cImZe9cQBVEfAhgaC4gChZCdb07KIBpDqGFCxuU4qjOx9JgCOUxtK9jv7YfqnMa6cvpj5dHuiTAEoBcSCbzgl0fQC4E6PpL9Mum/QxIFpxrDL2qmBvw+dOVvDv3A2LzoTvjhkqtgbhCjU0XC4xfxAjKXMzPyGUddl6P/PMriaNyxFgrihFFXEU4W/0psdF3ETzpRbAZtd1BmoY1fCPPJh+wIX9UglxM1XfsI1NFHwfstnwU/G/FnPg==;hnpcsq+ThfPgrI2IjyI37A=="
 ---
 

@@ -39,7 +39,7 @@ related:
   - title: "IBM exploring sale of its Watson Health unit"
     excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
     publishedDateTime: 2021-02-19T01:41:00Z
-    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos21"
+    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827"
     type: article
     provider:
       name: MarketWatch
@@ -92,6 +92,38 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Considers-Selling-Watson-Health-Division-Report.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "IBM may sell its $1B Watson Health business: Report"
+    excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable."
+    publishedDateTime: 2021-02-20T04:21:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2020/10/09/1004451-ibm-india.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "IBM may sell Watson Health business generating $1 billion annual revenue, says report"
+    excerpt: "San Francisco, IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that IBM is exploring a potential sale of its Watson Health business,"
+    publishedDateTime: 2021-02-20T03:37:00Z
+    webUrl: "https://www.businessinsider.in/business/news/ibm-may-sell-watson-health-business-generating-1-billion-annual-revenue-says-report/articleshow/81121827.cms"
+    ampWebUrl: "https://www.businessinsider.in/business/news/ibm-may-sell-watson-health-business-generating-1-billion-annual-revenue-says-report/amp_articleshow/81121827.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/ibm-may-sell-watson-health-business-generating-1-billion-annual-revenue-says-report/amp_articleshow/81121827.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 52
+    images:
+      - url: "https://www.businessinsider.in/thumb/81121844.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
   - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
     excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
@@ -171,6 +203,15 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
+    quality: 19
+  - title: "IBM considering to sell its $1B Watson Health business: Report"
+    excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
+    publishedDateTime: 2021-02-20T04:00:00Z
+    webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report-2/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
     quality: 19
 
 secured: "qe0uiXiIqJXNrH8NPp2Y8teWf9VpgQk4cmlBvlI1V5lGZF8potUISJZIjXLi8gzvN8gw36cTVXPZAptHwC4Hmyu4A4ZzU40Z4zdC28WfaWTtYLGqQml6xXq32C8bKRbUNP7tujxKUCXXEb5PEO6aSLvFXi00iXB7DfFdUNEURV0LwZCV3r/Dw89XTdiSSt1WlTIWo/myF0cj8hC8daJ6x0qeixLnXWXw4y9xPMnFtzOqG7PTgs0PTBghETKczN0bhUe3ewMIa67Zjs2sMb7Unutisk4dnVPAizfalEkDSsEJoaPpEf81tyiYnCEM/RtZ7zNaLt1mD8wb2cVzUD7p0TXf47tuQmNs6tXn21KaF+fkSwMnxte8Tmmsbmht1OksdiuktBKbOr1bwKqicNsai51D0BlIVNXkNWqs1oPUDzzuTqw2tB96wDRsa6fKy3JnC7S/JPA/MHhsp3LzeltYPkTiAiODKm7nkY4ZyyHiQJE22SWSo9NYunFsuJph2T16z/J4qy2UUcn6Q1k4Ko5XSQ==;nRsYvscoCn4KyhIGYGXlvQ=="

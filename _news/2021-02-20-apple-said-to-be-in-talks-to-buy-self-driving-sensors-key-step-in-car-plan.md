@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Top 5 Self Driving Car Companies to Watch Out in 2021"
+    excerpt: "A self-driving vehicle or autonomous car is a vehicle that uses a combination of sensors, cameras, radar and artificial intelligence (AI) to navigate between locations without a human driver. Here are the top 5 self driving car companies to watch out in 2021."
+    publishedDateTime: 2021-02-18T14:02:00Z
+    webUrl: "https://www.analyticsinsight.net/top-5-self-driving-car-companies-to-watch-out-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Self-Driving-Car.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Apple Reportedly in Active Talks With Multiple LiDAR Sensor Suppliers for Self-Driving Vehicle"
     excerpt: "Apple is in discussions with multiple suppliers of LiDAR sensors appropriate for a self-driving vehicle, according to Bloomberg. The"
     publishedDateTime: 2021-02-19T16:31:00Z
@@ -144,6 +158,6 @@ related:
         height: 630
         isCached: true
 
-secured: "KLR6gjxJtijVVd4choCDpQSTWcG3CNuBjuqgwlZDG6oIJninPqU5153sTNlkpt2ng5yyy9OtgcwT51dZu7X04PzQtzR20rbc6NRe1N/EvvIisdvYkN4iqE+7WOgXAA8DG/KfQ5vc/TXMV/FS8vohbWZ3vTbfvCYLMuWchgKw4WF6m/PmRQstilAdCbErY769wca6edUMMzH+2Kl0ZgWxXsVyFnTGguBanWctx2XxrSaFEUCawjy2yBNx7rPhuVTzp0hY5nIELWs7CdY9d/dlmflswsJk4lBLbiBDLb0lDg7nR4K/ZDvKgGbd92m3GG363bBOZZh96acVmw4byfYQDVlqvVTJYmQRpB5aNm3QpBo=;j8tw1FvUoBCjgBFYTZnvBg=="
+secured: "ddM6y0KOrRYmv1zSeFaf3C/EgUDfzjQvRvQh4U2mDFIEquJbZJqEPu+X8qHi3/TGwmHec8qsxZ0AJdfBySe0TXvAuXjqJz4xrPyWXhss6hJVPmNn6O6yHVUZC3q8n+kaO8Xstcv5kpmq0UuiLo9K1wIF+GGFZOTUcbM1KnZ8kr9U/9BTeAUtOkpN4zmz5rMqyp3PQL1ptTNqPvhpt0RD9jFU+JA/eBSFqDontytv0hmUaOHYnZk049dTtec0CdJX4bYbAlxxGZ6YU15zr2jcgY3//MqHmwJQ//UI1SMvswTrp2HJMlXX0j0DGzoFk9Up8UyGt6Wsp56Dv8qcb4OjsFylxAWsG4zi1t2IA7aZQVx/uejodOJHYRrFXPwBHbxv7osT0tjalN0I8Ckd0JRk/c9poQ5M3VEsy9oh7vMsBjEMwrn5E7ipbhqDMLC8UoYM6KBp/vXJekVjMkv3rRnlTSUfP6EOOw5xAl3tLZR0ZmhCJhWv1oo/N1SYGXnSCP1H8r2VVOmyIfoT63Q5LimgJA==;cMJwB+Dyu8eIGN0PN4OGsA=="
 ---
 

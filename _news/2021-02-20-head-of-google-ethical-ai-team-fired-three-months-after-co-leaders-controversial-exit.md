@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google-ethical-ai-team-fired-three-months-after-co-leaders-controversial-exit/amp/"
 type: article
 quality: 96
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 675
     isCached: true
 
-secured: "VZ5iSgfgLAnPVzwT1xQBf40/L6G8S/SY7P6stdhd5LdsuYDc9MiWVXPN3mubto+qY4EO+AQBGQMJeFIXsvYPF3rroTVIrGeKz+tI0hQH+XuHiRg+ByITZcCcG6GfYsPHKlJzizWgo+y8woZzQ2ppTAH739jhg/djRWeS+bBA2l/RQfQ1BoI9ddrFY7HitdpxHhOTyvBfNbgbab3bid69sTMuziucDh1O09uPpxM0sZbyXV8vIgCpNl1TiVSPqkOiW/aqz6BbkQLq6+vH2FV2Muz9i284rsMlhO4mLsGLNtGp+FlN2UDMbNQzPZFBL3hQuvEFq2XuyqP7Lah5GOa0dzQPSET8tuB01tRJhOnS0To=;gV8ZfmNZhOnQcFgTrUpkew=="
+related:
+  - title: "Margaret Mitchell: Google fires AI ethics founder"
+    excerpt: "Google has fired the founder and co-head of its artificial intelligence ethics unit, claiming she violated the company's code of conduct."
+    publishedDateTime: 2021-02-20T03:58:00Z
+    webUrl: "https://www.myjoyonline.com/margaret-mitchell-google-fires-ai-ethics-founder/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 54
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2021/02/117095662_7c1e1076-acc3-49f2-b2a5-900bb9a9f42b.jpg"
+        width: 976
+        height: 549
+        isCached: true
+
+secured: "XqtBTW+SYkK6EllFGXTbgP+dE4LYcOoYoYY3QidGcF1m6mZb35KZctad9TwTr6lMuRr6/r/43DmXNLorFe/zPQ/kQWi5YIwaMr0SRmwwUj/sbGTJn7ugqBcx1Fhw3+eyRYCT+2i3KFcmZmzsx2hDBj2P3h4nTyLqh0n53vhUPuqtviBI24GVMr1ibMQ8LJNtl88OZB+0+fb3Xxyg8zyiI1Rm8h1Ak0NQMK7VUa+UaZwBpc48IsZBJtTHV50Eohtj9fm3+jD7r9vJQ0x9xJFtsGCtU7pgyqyqP884k60w1d+pVtOUhLezrfDAz4ngzv5+wnT+h3ANtAz1nVwYo9btDIWWKAyLCtV4a2YDVhl324MGauu/8/uUeIc92FJ1oDBaS5k05Mk0/+8EsNSgEtjOScUm5YLJcPv/uQqnVFXRCEMB+oGcFhteRAeLJOAJDHut+jzvJrVge4OBkhR9xK1LEMklUmlFU5iImjQeHJcTV0u3tcgFQQb0XxFO61lyjSHm1JWKUSiyw6bjkgwTQnXwbA==;lKbmM3BWVvZhBXnZg2cJdw=="
 ---
 

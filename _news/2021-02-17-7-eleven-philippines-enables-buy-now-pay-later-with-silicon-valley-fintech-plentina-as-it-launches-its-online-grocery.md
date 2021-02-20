@@ -28,14 +28,14 @@ related:
   - title: "Zoomd signs agreement with GMA Networks in the Philippines"
     excerpt: "PRNewswire/ -- (TSXV: ZOMD) (OTC: ZMDTF) and its wholly-owned subsidiary Zoomd Ltd. (collectively, \"Zoomd\" or the \"Company\"), the marketing tech (MarTech) user-acquisition"
     publishedDateTime: 2021-02-19T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/zoomd-signs-agreement-with-gma-networks-in-the-philippines/article_be8a7c3f-b8f7-54f4-a234-b341f78a26bb.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zoomd-signs-agreement-with-gma-networks-in-the-philippines/article_be8a7c3f-b8f7-54f4-a234-b341f78a26bb.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/a0/fa05dc9d-2a76-59d3-b111-328afb15618b/602fd076e8933.image.jpg?resize=500%2C500"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/a0/fa05dc9d-2a76-59d3-b111-328afb15618b/6030978b6ddef.image.jpg?resize=500%2C500"
         width: 500
         height: 500
         isCached: true

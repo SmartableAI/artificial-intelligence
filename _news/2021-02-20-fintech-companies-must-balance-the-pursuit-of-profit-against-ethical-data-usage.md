@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/19/fintech-companies-must-balance-the
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/amp/"
 type: article
 quality: 102
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 3 FinTech companies to watch out for in Austria"
-    excerpt: "The Austrian FinTech industry has seen robust growth in sectors including payments, investments, insurance and accounting."
-    publishedDateTime: 2021-02-15T12:05:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-3-fintech-companies-to-watch-out-for-in-austria/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/fintech-APAC.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Unleashing the Potential of Fintech"
     excerpt: "Unleashing the Potential of Fintech By Todd Nelson, SVP Strategic Partnerships Mike Petanovitch, Head of Technology, LightStream - What are the current market trends you see shaping the fintech space?"
     publishedDateTime: 2021-02-19T06:29:00Z
