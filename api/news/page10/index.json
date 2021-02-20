@@ -2,6 +2,99 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-11-ai-displays-bias-and-inflexibility-in-civility-detection-study-finds.md",
+      "title": "AI displays bias and inflexibility in civility detection, study finds",
+      "excerpt": "Researchers at the University of Pennsylvania find that AI systems like Jigsaw's Perspective API have trouble classifying incivility.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/",
+      "originalUrl": "https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/amp/",
+      "publishedDateTime": "2021-02-10T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-what-to-watch-in-artificial-intelligence-in-2021.md",
+      "title": "What to Watch in Artificial Intelligence in 2021",
+      "excerpt": "Artificial intelligence continues to be a focus and concern for businesses, regulators, and lawmakers alike. As we recently wrote, there was much activity and focus on artificial intelligence and",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021",
+      "originalUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021?amp",
+      "publishedDateTime": "2021-02-10T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-chinese-tech-giant-baidu-reportedly-plans-to-launch-an-ai-chip-company.md",
       "title": "Chinese tech giant Baidu reportedly plans to launch an AI chip company",
       "excerpt": "Baidu is reportedly planning to launch a subsidiary AI chip firm, which could boost China‘s efforts to develop a domestic semiconductor industry. CNBC reports that the search giant is in talks with venture capital firms GGV and IDG Capital about investing in the venture.",
@@ -1118,110 +1211,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-study-robots-are-trusted-more-than-people-when-it-comes-to-money-management.md",
-      "title": "Study: \"Robots\" are trusted more than people when it comes to money management",
-      "excerpt": "COVID-19 has accelerated digital transformation across industries. A new study takes a look at the sentiments regarding \"robots\" in the financial services sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/09/0953d7ac-34bd-4885-8ee2-0a3efe7c43c7/resize/1200x/cfaea5f9d1536c37c7b9b37d60c96fa9/oracle.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
-      "publishedDateTime": "2021-02-10T00:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round.md",
-      "title": "With AI translation service that rivals professionals, Lengoo attracts new $20M round",
-      "excerpt": "Most people who use AI-powered translation tools do so for commonplace, relatively unimportant tasks like understanding a single phrase or quote. Those basic services won’t do for an enterprise offering technical documents in 15 languages — but Lengoo’s custom machine translation",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/",
-      "originalUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-482765551.jpg?w=1024",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/amp/",
-      "publishedDateTime": "2021-02-09T23:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

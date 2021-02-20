@@ -99,6 +99,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft Azure and the Trends That Will Drive its Future"
+    excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
+    publishedDateTime: 2021-02-19T07:19:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 54
+    images:
+      - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation"
     excerpt: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation By Manpreet Kalsi, VP, AKA Enterprise Solutions, Inc. - In Step with the Latest Trends Microsoft Dynamics provides business solutions for all aspects of"
     publishedDateTime: 2021-02-19T06:35:00Z

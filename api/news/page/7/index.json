@@ -651,6 +651,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-12-qa-improving-access-to-government-services-through-inclusive-virtual-agents.md",
+      "title": "Q&A: Improving access to Government services through inclusive virtual agents",
+      "excerpt": "Dr Lea El Samarji, AI and IoT lead for EMEA at Avanade, discussed improving virtual agents and increasing accessibility to public services",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/qa-improving-access-government-services-virtual-agents-123493801/",
+      "originalUrl": "https://www.information-age.com/qa-improving-access-government-services-virtual-agents-123493801/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/02/qa-helping-government-singapore-improve-virtual-agents.jpg",
+          "width": 924,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-should-delhi-govt-schools-be-using-the-facial-recognition-technology.md",
       "title": "Should Delhi govt schools be using the facial recognition technology?",
       "excerpt": "The use of the facial recognition technology in several Delhi government schools - in conjunction with the CCTV cameras installed - raises grave concerns, given the absence of data protection and privacy laws in India,",
@@ -788,6 +831,49 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter.md",
+      "title": "Microsoft is going to have lots of clouds for industries. Here's why they matter",
+      "excerpt": "Industry clouds like healthcare and retail are there for Microsoft partners to build services on top of. Microsoft already has two vertical ' clouds for industry ' for healthcare and retail; expect more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
+      "publishedDateTime": "2021-02-12T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1107,101 +1193,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-the-coming-technology-boom.md",
-      "title": "The Coming Technology Boom",
-      "excerpt": "Discoveries in information technology have obviously been massive — the internet and the smartphone. Thanks in part to public investment, clean energy innovation has been fast and plentiful. The price of solar modules has declined by 99.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/11/opinion/11brooks-alternate/11brooks-alternate-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/opinion/science-technology.amp.html",
-      "publishedDateTime": "2021-02-11T16:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-israel-automotive-industry-report-2017-2030-by-goldstein-market-intelligence.md",
-      "title": "Israel Automotive Industry Report 2017-2030 by Goldstein Market Intelligence",
-      "excerpt": "According to the Goldstein Market Intelligence, Israel automotive market is anticipated to grow at a CAGR of 7.0% during the forecast period. Israeli automakers are focusing on enhancing the technologies and human interaction with vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101594583/Israel-Automotive-Industry-Report-2017-2030-by-Goldstein-Market-Intelligence",
-      "originalUrl": "https://menafn.com/1101594583/Israel-Automotive-Industry-Report-2017-2030-by-Goldstein-Market-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

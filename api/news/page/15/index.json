@@ -2,6 +2,83 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-05-untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers.md",
+      "title": "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers",
+      "excerpt": "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/",
+      "originalUrl": "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-strategic-eyes-brain-inspired-hardware-for-robotics.md",
+      "title": "Strategic eyes brain-inspired hardware for robotics",
+      "excerpt": "Strategic Elements appears to be boldly going where no one has gone before in the artificial intelligence sphere as it looks to utilise its",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/strategic-eyes-brain-inspired-hardware-for-robotics-9773130",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/strategic-eyes-brain-inspired-hardware-for-robotics-9773130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/strategic-eyes-brain-inspired-hardware-for-robotics-9773130",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/strategic-eyes-brain-inspired-hardware-for-robotics-9773130",
+      "publishedDateTime": "2021-02-05T00:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-artificial-intelligence-will-change-the-way-we-work-once-we-get-back-to-the-office.md",
       "title": "Artificial Intelligence Will Change The Way We Work Once We Get Back To The Office",
       "excerpt": "AI is set to change the way we use video conferencing in the office. Logitech and Zoom have been working to bring the home experience of webcams into the boardroom and make video meetings more dynamic and productive.",
@@ -1084,109 +1161,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-super-bowl-sunday-changes-face-masks-empty-seats-and-driveway-parties.md",
-      "title": "Super Bowl Sunday Changes: Face Masks, Empty Seats and Driveway Parties",
-      "excerpt": "The Super Bowl will once again feature the Chiefs, but almost every other part of the fan experience could be different.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/04/sports/04sb-fans1/04sb-fans1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/sports/football/super-bowl-fans.amp.html",
-      "publishedDateTime": "2021-02-04T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry.md",
-      "title": "Synthetic Biology Startup Acquires AI Platform To Disrupt The Drug Industry",
-      "excerpt": "Synthetic biology company AbSci’s recent acquisition of the artificial intelligence platform, Denovium, could help get novel therapeutics to patients more quickly",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/",
-      "originalUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c5138d6243b1002155f1f%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/amp/",
-      "publishedDateTime": "2021-02-04T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

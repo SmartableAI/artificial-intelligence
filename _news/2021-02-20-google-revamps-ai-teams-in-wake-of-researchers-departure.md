@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Google Revamps AI Teams in Wake of Researcher’s Departure"
-excerpt: "Google has sought to diffuse employee rancor stemming from the acrimonious departure of a prominent Black researcher, Timnit Gebru. The responsible AI teams will roll up to Marian Croak, a Black Google executive who currently serves as a vice president of engineering focused on site-reliability matters."
-publishedDateTime: 2021-02-19T20:08:00Z
-originalUrl: "https://www.bloombergquint.com/onweb/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
-webUrl: "https://www.bloombergquint.com/onweb/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
+excerpt: "Google restructured its responsible artificial intelligence efforts to centralize teams under a single executive, Marian Croak, a move by the internet giant to stabilize groups working on ethics research and products after months of chaos."
+publishedDateTime: 2021-02-20T01:09:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
+webUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2021-01%2F5f37a8cf-cd33-4a45-9c76-a86d8e64998d%2F367461275.jpg?rect=0%2C0%2C5470%2C2872&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCJciXfsQRJM/v0/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -165,6 +169,22 @@ related:
         width: 549
         height: 309
         isCached: true
+  - title: "Google fires top AI ethicist"
+    excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
+    publishedDateTime: 2021-02-20T02:14:00Z
+    webUrl: "https://www.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
+    ampWebUrl: "https://amp.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08f11e90-9311-4283-aa5a-c77e685b599e.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Army researchers expand study of ethics, artificial intelligence"
     excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
     publishedDateTime: 2021-02-16T17:33:00Z
@@ -178,6 +198,20 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google fires another lead AI ethics researcher"
+    excerpt: "SAN FRANCISCO - Google said Friday it fired a lead artificial intelligence ethics researcher, following controversy last year over the tech giant's dismissal of a Black colleague who was an outspoken diversity advocate."
+    publishedDateTime: 2021-02-20T02:50:00Z
+    webUrl: "https://www.bangkokpost.com/world/2071527/google-fires-another-lead-ai-ethics-researcher"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 54
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20210220/c1_3899643_700.jpg"
+        width: 700
+        height: 466
         isCached: true
   - title: "Google fires remaining Ethical AI team leader, months after abrupt departure of her colleague"
     excerpt: "The remaining leader of Google’s Ethical AI team said she was fired on Friday, hours after the company’s top AI executive apologized for its handling of the abrupt departure of Timnit Gebru, her former fellow team leader."
@@ -236,6 +270,6 @@ related:
         height: 333
         isCached: true
 
-secured: "GPAQoJyvJGQkswdWAHHgvmdemCy5pm7NfJ1UecE6HJvm6VAkeH/6gZ1TtXWQVlFpPyrvnpKVVhsVxhlLuQD+Mb9g0E/Z/egcUbsxvB/89z+aTBNae0xPXEzRZHyotB1n7GDjFd3tCBDH0P9m8tv6XffAHGbpXiplU28lhwFKsRIgijf91Ou7Qjjaj5RsrQOcLHJjWBRhsJn5NPoWpONI9/DoZqFOaWPb/wH/6PA/XIwbOtUwe3DNAWC5154vRLbARC2fqv9aeVW99C6UNyPi3DmPlZL8NeWUkdfKGSEazR6HzjFMTDJBCCN2HAjOgJo2rMwzqgRAO4Hw4ppTLyaAdLnj4JxL/EgH+14yeS0XCW0=;R/yTUO1cseMSvE60c8BTvg=="
+secured: "UPD/cSRMKTxUcD13d0cxLpPJ6sHjniBdESgjk6kgQiM8mcn37P85JFrYP9oy2Juaok2iae6Yasx05FXYt57Ij0SiQDJ0toX5TqCFkfLMi6sgk0ftybmJxr/sqpvEH6/afCVacpSOKk59x0SRbGlB6rRaTKQeNHrLYfF7GzOUzsc1MxA8SXK9A3BVwnK/Skg9D0S5oHmOzCpLku4pM3vuG6psAsktdjAbnycRFJolCHBuOWrHPUzPODMccJU/FiwMgG5T+WHY2t6YWpjkNNuuE+8lva+xyk4MiNn3C+d6Zy0TSGtqCSmrHof7ubPsnoUi4Db3DCnAn2RGL5uHUralzskdmOosxCnyCsQPnV79sLs=;KoJfY6ahQydeaZ+UERjjCw=="
 ---
 

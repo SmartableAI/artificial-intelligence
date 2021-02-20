@@ -165,7 +165,7 @@
       "originalUrl": "https://www.theverge.com/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -266,8 +266,8 @@
       "title": "AI in the OR: One company is closing the gaps in surgery using technology",
       "excerpt": "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
       "featuredContent": null,
       "highlight": null,
       "heat": 96,
@@ -284,8 +284,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
       "publishedDateTime": "2021-02-19T12:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -503,7 +503,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -608,7 +608,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -647,7 +647,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -711,7 +712,7 @@
       "originalUrl": "https://www.openpr.com/news/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1186,7 +1187,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-will-take-construction-robotics-from-hype-to-reality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",

@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-18T15:20:00Z
 originalUrl: "https://nextpittsburgh.com/city-design/onevalley-opening-innovation-center-at-hazelwood-green-launching-pittsburgh-startup-challenge-and-more/"
 webUrl: "https://nextpittsburgh.com/city-design/onevalley-opening-innovation-center-at-hazelwood-green-launching-pittsburgh-startup-challenge-and-more/"
 type: article
-quality: 6
-heat: 6
+quality: 8
+heat: 8
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://nextpittsburgh-images.s3.amazonaws.com/2020/10/26162838/RoundhouseInteriorView10-26-20-1-scaled-e1613586059172.jpg"
@@ -23,6 +24,6 @@ images:
     height: 422
     isCached: true
 
-secured: "9CUrALntSSTgwCUL2sqgiiAmJ2SS1yNoCuYFVc0Ra/BPE5wP0MgobFR4mUYWlsceKxI+gOUL0FnNnhnwJ1eTmiRZO74f+woE8GUkr3R1++mlSTFiy4P1Ogpk932umqx+j500OTRb5IeYBOA2Nx1jSFgVgqePbC+R1PYEa7GRBmhxsGw4pr2FN5EPzwcBpR2JZd4IHKOEEm+DIgqglRHVK0Eg7nAjnafljFnwSsWwtfrZ6TyOP24Ce1D3tp7EH30Ko8U8p9ZJU/sSJ01dq/FD7cTp0yDo6cMwUHQE2+4yINhVibX2YTp8XTRpI7i8xLRnpMlj5qgSN1sllzRm71I9xi39M835mhg5uJdnxqeU6l8=;tJAi+A7rlyWpsN0HjQ1FrA=="
+secured: "nRrpC8Pxp5UcpMURVK+TR265/IDfkfcr7dW7gaC3LsBMJ7Lhu+X895bUmYHnAsANItKg0IzRAErFLjoAfB77RN3KMtUTf5gCxn+JUTmxvZrbrvwJqloaSOC5OGV94L2KLxuFYcw8RBPqzMvrhXfHXkWY9HzccsVLwpFiTKDuBRApLV9M6ef/+sgNGATFPl8od3xFSjWbWcAfw5njLiykv9BIrk88N+AC22Tfi++gsULKzcJYeLyAn7HfZN5wfAhwOeVZUpktUL5dKhIjtP7ZjAC7uataRz0UfMHeAwosqKsyRrV2ovcpiVbb6TE3R2WDW8nyASYtsNK4SdaKJkZaNBvpN+YRPDuk3yDEPf75H+f2PvR9M4bRTx41by+d03IJT9IOWs1pUzsWhbkYM97/LpfEN7BbV0Ol9JwXhytR6FINAB4hMxQfOvNo+wJuKzv7ArK8iIopC0QmZzi+gRH7NPjim2NOGVsecFhniwk0iOFAtWgigrB4oIlzzGeNUbbf/5NVySHKq7m4P7uAhybAMA==;+EAg2D3lRDgbZdNT+QhcZA=="
 ---
 

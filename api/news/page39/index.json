@@ -2,6 +2,102 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-01-21-gm-and-cruise-lend-a-hand-to-hondas-self-driving-mobility-service.md",
+      "title": "GM and Cruise lend a hand to Honda's self-driving mobility service",
+      "excerpt": "Honda is in for a little help from General Motors and Cruise Automation. On Wednesday, the Japanese automaker said GM and Cruise Automation will help its upcoming self-driving mobility service in Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/honda-gm-cruise-self-driving-car-test-japan/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/honda-gm-cruise-self-driving-car-test-japan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/JR63H_Pjvk2OP-nfwpu-Oku1hLk=/2021/01/20/6fadcb70-eee3-451b-bd37-527f98576b28/ogi-cruise.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/honda-gm-cruise-self-driving-car-test-japan/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-gm-cruise-self-driving-car-test-japan/",
+      "publishedDateTime": "2021-01-20T16:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-deep-learning-based-detection-of-dental-prostheses-and-restorations.md",
+      "title": "Deep learning-based detection of dental prostheses and restorations",
+      "excerpt": "The purpose of this study is to develop a method for recognizing dental prostheses and restorations of teeth using a deep learning. A dataset of 1904 oral photographic images of dental arches (maxilla: 1084 images;",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-81202-x",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-81202-x",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81202-x/MediaObjects/41598_2021_81202_Fig1_HTML.png",
+          "width": 685,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-google-to-shut-down-loon.md",
       "title": "Google to shut down Loon",
       "excerpt": "Google announced Jan. 21 it is shutting down Loon, a venture to provide wireless connectivity by balloon that some considered a competitor to satellites.",
@@ -1076,101 +1172,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-will-2021-be-the-year-that-ai-finally-scales.md",
-      "title": "Will 2021 Be The Year That AI Finally Scales?",
-      "excerpt": "Growing businesses need to unlock the enormous potential of becoming AI-enabled - will 2021 be the year AI finally scales?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/",
-      "originalUrl": "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008425e5c7cd8d2b54d06ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D942%26cropY1%3D12%26cropY2%3D543",
-          "width": 942,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/amp/",
-      "publishedDateTime": "2021-01-20T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program.md",
-      "title": "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program",
-      "excerpt": "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their most demanding analytics, high-performance computing (HPC), inference,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-3cfb8acd4b64bb1d4213688771d593b4",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-3cfb8acd4b64bb1d4213688771d593b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

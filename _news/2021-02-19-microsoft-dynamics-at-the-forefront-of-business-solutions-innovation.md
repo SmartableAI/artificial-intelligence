@@ -114,6 +114,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft Azure and the Trends That Will Drive its Future"
+    excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
+    publishedDateTime: 2021-02-19T07:19:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 54
+    images:
+      - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "VW partners with Microsoft to build computing platform for autonomous vehicles"
     excerpt: "Volkswagen says it is further strengthening its capabilities in the development of autonomous or highly automated driving (AD) solutions with a new partnership with Microsoft. The Group’s software"
     publishedDateTime: 2021-02-19T16:45:00Z

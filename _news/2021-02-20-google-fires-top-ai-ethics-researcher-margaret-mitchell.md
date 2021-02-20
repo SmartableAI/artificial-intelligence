@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 796
         isCached: true
+  - title: "Google Revamps AI Teams in Wake of Researcher’s Departure"
+    excerpt: "Google restructured its responsible artificial intelligence efforts to centralize teams under a single executive, Marian Croak, a move by the internet giant to stabilize groups working on ethics research and products after months of chaos."
+    publishedDateTime: 2021-02-20T01:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCJciXfsQRJM/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google AI Chief Apologizes for Researcher’s Acrimonious Exit"
     excerpt: "Google plans to make changes to executive compensation and increase human resources staffing, acknowledging fault in its acrimonious split with Timnit Gebru, a prominent former employee who is Black,"
     publishedDateTime: 2021-02-19T19:49:00Z
@@ -155,6 +169,22 @@ related:
         width: 549
         height: 309
         isCached: true
+  - title: "Google fires top AI ethicist"
+    excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
+    publishedDateTime: 2021-02-20T02:14:00Z
+    webUrl: "https://www.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
+    ampWebUrl: "https://amp.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08f11e90-9311-4283-aa5a-c77e685b599e.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Army researchers expand study of ethics, artificial intelligence"
     excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
     publishedDateTime: 2021-02-16T17:33:00Z
@@ -168,6 +198,20 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google fires another lead AI ethics researcher"
+    excerpt: "SAN FRANCISCO - Google said Friday it fired a lead artificial intelligence ethics researcher, following controversy last year over the tech giant's dismissal of a Black colleague who was an outspoken diversity advocate."
+    publishedDateTime: 2021-02-20T02:50:00Z
+    webUrl: "https://www.bangkokpost.com/world/2071527/google-fires-another-lead-ai-ethics-researcher"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 54
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20210220/c1_3899643_700.jpg"
+        width: 700
+        height: 466
         isCached: true
   - title: "Google fires remaining Ethical AI team leader, months after abrupt departure of her colleague"
     excerpt: "The remaining leader of Google’s Ethical AI team said she was fired on Friday, hours after the company’s top AI executive apologized for its handling of the abrupt departure of Timnit Gebru, her former fellow team leader."
@@ -196,20 +240,6 @@ related:
       - url: "https://www.taipeitimes.com/images/2021/02/20/P10-210220-322.jpg"
         width: 800
         height: 514
-        isCached: true
-  - title: "Google Revamps AI Teams in Wake of Researcher’s Departure"
-    excerpt: "Google has sought to diffuse employee rancor stemming from the acrimonious departure of a prominent Black researcher, Timnit Gebru. The responsible AI teams will roll up to Marian Croak, a Black Google executive who currently serves as a vice president of engineering focused on site-reliability matters."
-    publishedDateTime: 2021-02-19T20:08:00Z
-    webUrl: "https://www.bloombergquint.com/onweb/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-01%2F5f37a8cf-cd33-4a45-9c76-a86d8e64998d%2F367461275.jpg?rect=0%2C0%2C5470%2C2872&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Investing in AI with a conscience"
     excerpt: "Local start-up BasisAI is preparing to go regional with \"responsible\" artificial intelligence, on the back of a collaboration with Facebook and the Infocomm Media Development Authority (IMDA).. Read more at straitstimes."
@@ -240,6 +270,6 @@ related:
         height: 333
         isCached: true
 
-secured: "FEAgwbgeU9GMFwkfZ1xLg6F3nbPS0g0z/0A4BTayPHzHNIWMrSSbq52Jc4/YXp4Dqca1mDjqmcJ3UcgAkyPbQz53fXT+Ch2IUsekzu0KkYZWhc6rP8HGp4CHZGaBbnhFhF8ydZnd9NljBUFLBlgRX0RgJ/tmJ/A1kHQPty1JPjz3Zv98lXtmawC+mdr8TZCiUpki8w7e+jD/VO6ZsafaqhTU09ElRgIYm0+uEdQqS6BnCOhnbQn+czkEuzicCohjYYqVBBQVNgKm5OLmR4M4IepQlUYfDIckGViAeXAM3fh+e5HSxGt/7HVhg++kSUj1FlGUNFvupum1N7txsfYYki89cRdaPrTuhPrzTiTQgjg=;nxfvOYAassmFQUmoK0DNTA=="
+secured: "SxySJKEDz16G8KoVG5Fib0amL7M+UEim+FGmm5r34uQtEHOBOLbHBmJRAyrmUZr9u9oYlsCkIALDIkop4Ev6KlWF4uA0smW/327umvr3Tgr8EEhLLcVKDeSPpND3j1w0i2APpA0kC+S0KBCwfxN/lvw2AtY9tpdP41qYsdbHanvZB+3Jt4hxStMEM96ewvckFrAaDMdC2BeFOoqnCGaPrfdEsO/DiykRY8mXXEAnI1TKh1KLhdUsVGXM2mPOiKNRGrdp1zFHiHKUO08v5MJ/NR3bffHus0OOFyfuxCqHUxr0Me3kXlsUaOcp6aLhqOKA1GFq3eC12/JOOc+1buMyA4/+i7aMJq1gTe9dOVF2nB+vAO/lPI81Ha7hUB7xbw3LgTnwdP+DX8mW2o6R9kBqd/pINvFF6dSWyJGVIjI1FNKwNuO0w5ODsz21VoEpJ16hxzOZHioW8NLgnAvElN8vm5SxFdBmn6EVwxOCj4qKCidl9eoRC97D/qhbb5xdoZuxhxjBU8t00Zr+PBzQhZ+deQ==;Z/rWYvlKCURSGAEICZH1uA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-will-take-construction-r
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-take-construction-robotics-from-hype-to-reality/"
 type: article
 quality: 99
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -23,17 +23,6 @@ provider:
 topics:
   - AI
   - AI in Robotics
-
-related:
-  - title: "X-tend robotics & Stallion.AI strategic relationship"
-    excerpt: "X-tend Robotics Inc. and Stallion.AI, proudly announces the signed agreement for a multiple-phase strategic partnership."
-    publishedDateTime: 2021-02-15T10:34:00Z
-    webUrl: "https://www.wicz.com/story/43347727/x-tend-robotics-stallionai-strategic-relationship"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 49
 
 secured: "DTO0RdUHGZls+boPZHrw1ONjewiQ5WH+UdArILJCGbGVyI+IYNjEhY6uyHcyZU9CNi5p0zV8t3AzsVidibQpUsvDGPEsWiSCJtjvyu/GPYUfR0JJdw7MsDJ2waAAnPWEMRS0P4ExU89XKMe40VJSLIVuPZ/9xVO+O7KZZAMIt9cNIb8QPl0Xjmz9CIB4UrET8ZqvaHJPmPTkMbUQavuQJBAOdnZQ4iaP8EyU4e+UHotSK1/BB9GulIl2wq38PjCSeKdcT6EzIFdlNJtCOPHu1ETys0ykjauE3HqozMGX0sMWvWJDNlzX0BUWacP/KsF9gnaU/yq/Y+usqa2AZAAPc0XuGxbXXYEoibnj87sE9JLTlT169CKUTGog+5tL755Qi6ZUQMV8gLHGawiIBaK6caAhk+z9CE2qCbLgpnbts1Q12XXwuCyucaE44zr1qUQnL95YmI/2dvS3ln8iPCtPyzmptC8uGzQD6ocvY6D9fkUSWVUcmRjNukuUNKBmrWRgR2BXGdrREbHhc3OXtMk2fQ==;9OMQvk5Uz8Ut5Y0fM3PmKQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-p
 ampWebUrl: "https://thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/amp/"
 type: article
-quality: 85
-heat: 86
+quality: 87
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Screenshot-2021-02-19-at-14.51.17-796x407.png"

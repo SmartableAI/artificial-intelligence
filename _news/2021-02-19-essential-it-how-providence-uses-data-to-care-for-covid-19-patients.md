@@ -82,20 +82,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
-  - title: "A machine-learning approach to finding treatment options for Covid-19"
-    excerpt: "MIT researchers have developed a machine-learning approach to identify drugs that could be repurposed to fight Covid-19. The advance could boost clinical trial efforts, and it could be adapted to a broader range of diseases."
-    publishedDateTime: 2021-02-15T10:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/miot-ama021221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "CovidCTNet: an open-source deep learning approach to diagnose covid-19 using small cohort of CT images"
     excerpt: "Early and accurate diagnosis of Covid-19 is crucial in reducing the spread of the disease and its accompanied mortality. Currently, detection by reverse transcriptase-polymerase chain reaction (RT-PCR) is the gold standard of outpatient and inpatient detection of Covid-19."
     publishedDateTime: 2021-02-18T12:26:00Z

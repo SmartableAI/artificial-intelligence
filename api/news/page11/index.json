@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-10-study-robots-are-trusted-more-than-people-when-it-comes-to-money-management.md",
+      "title": "Study: \"Robots\" are trusted more than people when it comes to money management",
+      "excerpt": "COVID-19 has accelerated digital transformation across industries. A new study takes a look at the sentiments regarding \"robots\" in the financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/09/0953d7ac-34bd-4885-8ee2-0a3efe7c43c7/resize/1200x/cfaea5f9d1536c37c7b9b37d60c96fa9/oracle.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
+      "publishedDateTime": "2021-02-10T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round.md",
+      "title": "With AI translation service that rivals professionals, Lengoo attracts new $20M round",
+      "excerpt": "Most people who use AI-powered translation tools do so for commonplace, relatively unimportant tasks like understanding a single phrase or quote. Those basic services won’t do for an enterprise offering technical documents in 15 languages — but Lengoo’s custom machine translation",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/",
+      "originalUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-482765551.jpg?w=1024",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/amp/",
+      "publishedDateTime": "2021-02-09T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027.md",
       "title": "Computer Vision Market by Size, Growth, Opportunity and Forecast to 2027",
       "excerpt": "Selbyville, Delaware Global Computer Vision Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Computer Vision Market Report also covers top key players,",
@@ -1094,100 +1198,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-how-ai-not-automation-will-revolutionize-commercial-trucking.md",
-      "title": "How AI (not automation) will revolutionize commercial trucking",
-      "excerpt": "Beset with labor shortages and the whims of markets and new technologies, truckers are getting a boost from digital brains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
-      "originalUrl": "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/09/392d2866-a608-414d-a822-19cfafd9e5f7/semi-truck.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
-      "publishedDateTime": "2021-02-09T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-data-collection-and-labeling-market-size-worth-822-billion-by-2028-grand-view-research-inc.md",
-      "title": "Data Collection And Labeling Market Size Worth $8.22 Billion By 2028: Grand View Research, Inc.",
-      "excerpt": "Data gathering and its annotation, combined with artificial intelligence (AI ... to its autonomous driving customers, including Waymo LLC; Lyft, Inc.; Zoox; and Toyota Research Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415",
-      "publishedDateTime": "2021-02-09T02:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

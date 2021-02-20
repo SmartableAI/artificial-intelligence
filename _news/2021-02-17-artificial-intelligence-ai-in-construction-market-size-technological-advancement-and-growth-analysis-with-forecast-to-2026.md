@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Ai Market 2027 | Trends, Growth Overview, Development Size and Revenue Forecast | ARC"
-    excerpt: "The global artificial intelligence market is expected to reach the market value of around US$ 160 Bn by 2026 and is anticipated to grow at a CAGR of around 49% in terms of revenue during the estimated period 2019 - 2026."
-    publishedDateTime: 2021-02-15T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2027-trends-growth-overview-development-size-and-revenue-forecast-arc-2021-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
     excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
     publishedDateTime: 2021-02-19T07:01:00Z

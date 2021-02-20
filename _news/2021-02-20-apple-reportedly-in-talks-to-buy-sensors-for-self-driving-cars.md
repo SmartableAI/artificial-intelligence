@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple said to be in talks to buy self-driving sensors, key step in car plan"
+    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+    publishedDateTime: 2021-02-20T01:39:00Z
+    webUrl: "https://www.theedgemarkets.com/article/apple-said-be-talks-buy-selfdriving-sensors-key-step-car-plan"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 37
+    images:
+      - url: "https://assets.theedgemarkets.com/Apple_20210206101732_bloomberg_0.jpg?zn6Z_C0P2dUr8ednsshTHcg_RqToJP9b"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Apple Reportedly in Active Talks With Multiple LiDAR Sensor Suppliers for Self-Driving Vehicle"
     excerpt: "Apple is in discussions with multiple suppliers of LiDAR sensors appropriate for a self-driving vehicle, according to Bloomberg. The"
     publishedDateTime: 2021-02-19T16:31:00Z
