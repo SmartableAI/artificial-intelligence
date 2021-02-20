@@ -62,22 +62,6 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Researchers expand study of ethics, artificial intelligence"
-    excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
-    publishedDateTime: 2021-02-16T00:00:00Z
-    webUrl: "https://techxplore.com/news/2021-02-ethics-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2021-02-ethics-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-ethics-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 76
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/decision.jpg"
-        width: 1920
-        height: 1056
-        isCached: true
   - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
     excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
     publishedDateTime: 2021-02-18T07:45:00Z

@@ -55,6 +55,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Baidu Stock Soared Today"
+    excerpt: "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company."
+    publishedDateTime: 2021-02-20T02:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Baidu’s Q4 Results Beat on Earnings, Fall Just Short on Revenues; Shares Rise"
     excerpt: "Get Report rose after-hours on Wednesday after beating analyst earnings estimates and falling just shy of consensus revenue estimates for the fourth quarter. After the close, Baidu reported adjusted earnings of $3."
     publishedDateTime: 2021-02-18T03:05:00Z

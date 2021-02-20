@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/artificial-intelligence-is-not-th
 webUrl: "https://www.analyticsinsight.net/artificial-intelligence-is-not-the-best-defence-against-cyberattacks/"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1600
     height: 1066
     isCached: true
-
-related:
-  - title: "Defence releases report on ethical use of AI"
-    excerpt: "Defence releases report on ethical use of AI. 16 February 2021 . Findings from a workshop on the ethics of Artificial Intelligence (AI) for Defence in 2019 have been released to s"
-    publishedDateTime: 2021-02-16T00:00:00Z
-    webUrl: "https://www.globalsecurity.org/military/library/news/2021/02/mil-210216-audod01.htm"
-    type: article
-    provider:
-      name: GlobalSecurity.org
-      domain: globalsecurity.org
-    quality: 54
-    images:
-      - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
-        width: 675
-        height: 313
-        isCached: true
 
 secured: "RVk/24NXvod3EZSXct8Fd5r2bxPz4lr64oiDNZEFhNUQJRYcZa3Q6fVtoD1Q7M+rNsGl2wuaLyGb0MUBEwpyyP2q753dKZ2Yhrzt+Ni4m3ERtd9TvTt8O/Hz7eMDLDrodkgASRcUfVzwe7MBMsFpbzaFXPIPvhQQcUKlxAzguLzEqgquuDx7M/Th90eczbp/u/ArpDtl3Vg5kTBW+uSctN49APA+Pv7xNZVpiYizJdnKjKv0cRGzhEEv7wNICXSfLlAEUyw9nQYaCOXzZ4MZb2I7VFDpup55AT1sBJN4ygUUhHN0KuH9VKgxf6elZsX1Mt8kw7DdARXQVoWn0FtO8fzqGVWE31on38FaCE/Kc1k=;qePboChfFwFynX9yN6H7fQ=="
 ---

@@ -25,29 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "LeddarTech Partners With Seoul Robotics to Deliver Robust Solid-State LiDAR-Based Perception ..."
-    excerpt: "Seoul Robotics, headquartered in Seoul, South Korea, has demonstrated expertise in LiDAR perception technology utilizing its proprietary SENSR 3D software. This platform analyzes and processes LiDAR data with high accuracy,"
-    publishedDateTime: 2021-02-16T05:18:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-driverless-cars-products-and-services-asia-c54b26bd1a217e801c7617d855ade9fc"
+  - title: "Apple In Talks With Multiple Lidar Sensor Suppliers For Self-Driving Vehicle : Report"
+    excerpt: "Apple is in discussions with multiple suppliers of lidar sensors that will be appropriate for a self-driving vehicle, Bloomberg reported citing people familiar with the matter. The technology giant is in active talks with a number of potential suppliers for the laser-based sensors that allow a car's computer to \"see\" its surroundings,"
+    publishedDateTime: 2021-02-20T16:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/apple-in-talks-with-multiple-lidar-sensor-suppliers-for-self-driving-vehicle-%3A-report-2021"
+    ampWebUrl: "https://www.nasdaq.com/articles/apple-in-talks-with-multiple-lidar-sensor-suppliers-for-self-driving-vehicle-%3A-report-2021?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-in-talks-with-multiple-lidar-sensor-suppliers-for-self-driving-vehicle-%3A-report-2021?amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
+  - title: "Bloomberg: Apple searching for next-gen LiDAR supplier for self-driving car"
+    excerpt: "As we continue to learn more about Apple Car progress, some fresh tidbits have been shared today in a Bloomberg report. Apple is working on the important step of finding a supplier for cutting-edge LiDAR sensors that will be key for the autonomous aspect of the company’s electric vehicle."
+    publishedDateTime: 2021-02-19T17:11:00Z
+    webUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/"
+    ampWebUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 42
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/apple-car-project-titan-lidar-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "GERAL :: LeddarTech Partners With Seoul Robotics to Deliver Robust Solid-State LiDAR-Based Perception Solutions"
-    excerpt: "Seoul Robotics, headquartered in Seoul, South Korea, has demonstrated expertise in LiDAR perception technology utilizing its proprietary SENSR 3D software. This platform analyzes and processes LiDAR data with high accuracy,"
-    publishedDateTime: 2021-02-16T00:00:00Z
-    webUrl: "https://patrocinados.estadao.com.br/medialab/releaseonline/releasegeral-releasegeral/geral-leddartech-partners-with-seoul-robotics-to-deliver-robust-solid-state-lidar-based-perception-solutions/"
+  - title: "Apple loses key manager from self-driving EV team"
+    excerpt: "Apple Inc.’s self-driving car team lost one of its longest-serving leaders, a potential setback to the technology giant’s efforts to compete in the auto industry. Benjamin Lyon helped form Apple’s original autonomous electric car team in 2014 as its most senior manager working on sensors."
+    publishedDateTime: 2021-02-17T17:45:00Z
+    webUrl: "https://www.autonews.com/executives/apple-loses-key-manager-self-driving-ev-team"
     type: article
     provider:
-      name: Estadão
-      domain: estadao.com.br
-    quality: 14
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Apple in talks with suppliers for AV sensors, report says"
+    excerpt: "Apple is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+    publishedDateTime: 2021-02-19T11:50:00Z
+    webUrl: "https://europe.autonews.com/automakers/apple-talks-suppliers-av-sensors-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Apple reportedly talked with Nissan about building its self-driving electric car"
+    excerpt: "Comment Now! Apple approached Nissan about becoming a contract manufacturer for its much-discussed self-driving electric car, according to the"
+    publishedDateTime: 2021-02-16T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131290_apple-reportedly-talked-with-nissan-about-building-its-self-driving-electric-car"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 19
+    images:
+      - url: "https://images.hgmsites.net/hug/apple-ceo-tim-cook_100696976_h.jpg"
+        width: 1632
+        height: 1188
+        isCached: true
 
 secured: "Pp7g3WleGn3mzzLEjyjdwi98xwfqJbR/Lq0gjJx+IQNpQCcjYV7cvt3WVEJeO7uBXhCpagfe4OoopTr0JMLTTu2OTDm40pzFn+YZK+mNxuR3uWeOMAqs4A4tfR1zC9iVBv2+CefrRSgSJvdwYVd3I5Y2ujLdUx3BVkYy0SlRyALf7cTR8k64d5Rc5spsVXZ4BwZc0hNh1M9Jd7eSsKjO35Krvqi5SNhkukXsk/RMyA/fduCWnIrvR81YvOMuP0Oge+giZ1QVGhHBLEl6yN1lRYRMgO04ETpJihh/k5jEq8tlJLTk3I3QM4pt+MH+FXteuRsdDzT5ewfNrcDpaSkv+eAbNUUVT8e9e7G4XS3XMBrUkZlMQkCc0I2ZfXXko56Dy7hW6/ka6pdR9nkufPfxcOclXKN+TeWQM12TlP4hfCBQ3XZ3bmX6jcrJ4RcTJY3jV6fjfs+AZUnz6VJWDk55MknJsJ4eWf9djWEESBfBZuGzX3V22XvfWHY/ITKzKSWAjHhGkbwv1Q2sgckgvJs3EA==;yTUo3ST70iKZ+VeYGV1qiQ=="
 ---

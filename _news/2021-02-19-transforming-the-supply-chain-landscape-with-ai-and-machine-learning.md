@@ -7,8 +7,8 @@ originalUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain
 webUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain-landscape-with-ai-and-machine-learning-nid-28723-cid-256.html"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: CIOReview
@@ -26,33 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence And The End Of Work"
-    excerpt: "The notion that, at its best, AI will augment rather than replace humans is both reassuring and deeply misguided."
-    publishedDateTime: 2021-02-15T23:45:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/"
+  - title: "COVID-19 and the health care supply chain: impacts and lessons learned"
+    excerpt: "The COVID-19 pandemic shone a bright light on the cracks and weaknesses in the health care supply chains. There are several strategies that the industry can implement to mitigate supply chain disruptions during major emergencies without incurring exorbitant costs."
+    publishedDateTime: 2021-02-17T19:23:00Z
+    webUrl: "https://www.supplychainquarterly.com/articles/4417-covid-19-and-the-health-care-supply-chain-impacts-and-lessons-learned"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029b4de0f413e9fd6a1984b%2F0x0.jpg"
-        width: 1200
-        height: 740
-        isCached: true
-  - title: "Unicorns, AI and the quest for new vaccines"
-    excerpt: "Let us for a moment take a break from the dull news endlessly telling us about ravages caused by the coronavirus pandemic. The good news is that one can reflect for a moment and contemplate the"
-    publishedDateTime: 2021-02-16T08:44:00Z
-    webUrl: "https://www.independent.com.mt/articles/2021-02-16/business-news/Unicorns-AI-and-the-quest-for-new-vaccines-6736231054"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
+      name: supplychainquarterly.com
+      domain: supplychainquarterly.com
     quality: 39
     images:
-      - url: "https://www.independent.com.mt/file.aspx?f=213014"
-        width: 709
-        height: 398
+      - url: "https://www.supplychainquarterly.com/ext/resources/images/articles/2021/202102/scq21_q1hospital.jpg?height=635&t=1613587556&width=1200"
+        width: 463
+        height: 400
+        isCached: true
+  - title: "Why CNC Machining and AI Make a Perfect Match"
+    excerpt: "What’s next for the world of CNC operators? An increasing move to incorporate artificial intelligence, or AI, into operations. Over the next several years, CNC machining could see something of a revolution that includes machines that respond to Alexa-like voice commands."
+    publishedDateTime: 2021-02-19T13:36:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/story/2021/02/why-cnc-machining-and-ai-make-a-perfect-match/16503/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 37
+    images:
+      - url: "https://www.manufacturingtomorrow.com/images/upload/images/Depositphotos_10054154_s-2019(2).jpg"
+        width: 720
+        height: 479
         isCached: true
 
 secured: "jn5QexqF/ubRcGzc5I9QvPTW1rvvm9DzGUhbVZ203sTzZ675F0dUPtszNz5EQMsyG1rYlfAGqObrOmoZWTeykdpChxANYY2BG8M8Jy2LwCtJuvK/Z6lkZbHIzUp5jolwTQ+Fhbnx95bAp2+abbQYFPlvU9DDVC+VJTx87/5p+cRUz4oOHlTeWFQvyQUYxrlIS8ckRcsR+CoZelbMhEUCkTT7+F0X3Jr6LjP/Xk1irlzrxuSKB5p4WeXIxmQwyj63kiJo8s2Y6Urf0DTU81UZB8lSjFskRXkxbNFS6pfN1tbMotdTqgRfSHLZ28oTR53k3Y8/ZsN98pTl7IH8wzeoQIvnt1Btz2nq5uhhyWv50JE=;VJrQIwo1kzyYgB95DmEBHA=="

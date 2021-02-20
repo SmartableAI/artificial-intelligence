@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-23-women-in-tech-the-spectrum-of-career-opportunities-in-the-tech-industry-is-very-diverse.md",
+      "title": "Women in Tech: “The spectrum of career opportunities in the tech industry is very diverse”",
+      "excerpt": "Today, we’d like you to meet Katrin Strasser, Technology Lead Natural Language Processing at Cloudflight. A research study by The National Center for Women & Information Technology showed that “gender diversity has specific benefits in technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://jaxenter.com/women-in-tech-strasser-172687.html",
+      "originalUrl": "https://jaxenter.com/women-in-tech-strasser-172687.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/07/WiT_Aufmacher_900x450_39593_Katrin_Strasser.jpg",
+          "width": 900,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win.md",
+      "title": "TripAdvisor Beats Speech Recognition IP Suit After PTAB Win",
+      "excerpt": "Mimzi LLC on Thursday agreed to permanently dismiss an infringement suit against TripAdvisor LLC over a speech recognition patent after the Patent Trial and Appeal Board found all the claims invalid.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1347471/tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win",
+      "originalUrl": "https://www.law360.com/articles/1347471/tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1347471",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1347471",
+      "publishedDateTime": "2021-01-22T14:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026.md",
       "title": "Voice and Speech Recognition Market: Key Drivers, Challenges and Trends by 2026",
       "excerpt": "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,",

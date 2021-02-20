@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/uk-baidu-results-idUKKBN2AI0A3"
 webUrl: "https://www.investing.com/news/technology-news/chinas-baidu-revenue-beats-expectations-on-rise-in-advertising-2421809"
 type: article
 quality: 167
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Baidu Stock Soared Today"
+    excerpt: "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company."
+    publishedDateTime: 2021-02-20T02:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Baidu (BIDU) Trading Lower Despite Strong Quarter"
     excerpt: "( BIDU) is trading lower by less than 1% in Thursday's pre-market session after meeting fourth quarter 2020 revenue guidance and beating profit estimates by a small margin. The Chinese search engine giant earned RMB 20."
     publishedDateTime: 2021-02-18T14:36:00Z

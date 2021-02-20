@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google fires AI manager who protested her peer's departure"
+    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
+    publishedDateTime: 2021-02-20T16:53:00Z
+    webUrl: "https://techxplore.com/news/2021-02-google-ai-protested-peer-departure.html"
+    ampWebUrl: "https://techxplore.com/news/2021-02-google-ai-protested-peer-departure.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-google-ai-protested-peer-departure.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/googlehasfir.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "sl9OlzK0g8agbcMzvejgejLUNKGncw2gO6osCku7EKlSq/L6g+uK8uW80ATERnkDbI/BZFW3wBL+NVFDXjzL4La/rqdHTuPhZoxkFTTnsiPFNI0S/N9Gbg7hNKbIAIIuv+d5ai8cFkoE8vswCupmdhcAum4efi0oAZ0MKAh6p0iE8R5CQ+JGEHLaGtdf4woqdnjCZ6qutR80hL7wG9IKn7KuyIruvRd3uJFMkd2iEH/1q4vJB+YXskFL+i0B/ABxwXmhTe56TA1kp7dKTfVYk+OlmYlCniT+XPBQr71h45G2kLN2RJv2qwDb4QoSw3sdvt90H76ikC5syoYmh2v5dwraQkBUZOyxXt5QJFCosyw=;uSlTTYhhzXpSG4VMWP3mlw=="
 ---
