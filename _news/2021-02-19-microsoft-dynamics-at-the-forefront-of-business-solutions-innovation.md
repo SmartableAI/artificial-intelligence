@@ -114,17 +114,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
-    publishedDateTime: 2021-02-15T08:51:00Z
-    webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-    ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 51
   - title: "VW partners with Microsoft to build computing platform for autonomous vehicles"
     excerpt: "Volkswagen says it is further strengthening its capabilities in the development of autonomous or highly automated driving (AD) solutions with a new partnership with Microsoft. The Group’s software"
     publishedDateTime: 2021-02-19T16:45:00Z

@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Mainly using cctv, open-source videos’: Face recognition software used in 137 of 1,800 arrests in Northeast Delhi riots, says Police"
+    excerpt: "A total 231 of the 1,818 arrests so far had been made possible using the latest technological tools, Police Commissioner S N Shrivastava said."
+    publishedDateTime: 2021-02-20T00:35:00Z
+    webUrl: "https://indianexpress.com/article/cities/delhi/delhi-riots-police-cctv-7196291/"
+    ampWebUrl: "https://indianexpress.com/article/cities/delhi/delhi-riots-police-cctv-7196291/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/delhi/delhi-riots-police-cctv-7196291/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 43
+    images:
+      - url: "https://images.indianexpress.com/2021/01/Delhi-riot.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Minneapolis poised to ban facial recognition for police use"
     excerpt: "Minneapolis cast a ballot to boycott the utilization of facial acknowledgment programming for its police officers on Friday according to reports."
     publishedDateTime: 2021-02-16T03:47:00Z

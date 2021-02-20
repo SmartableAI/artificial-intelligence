@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-18T14:02:00Z
 originalUrl: "https://www.analyticsinsight.net/top-5-self-driving-car-companies-to-watch-out-in-2021/"
 webUrl: "https://www.analyticsinsight.net/top-5-self-driving-car-companies-to-watch-out-in-2021/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Self-Driving-Car.jpg"
+    width: 900
+    height: 500
+    isCached: true
 
 related:
   - title: "The Self-Driving Car Companies Going The Distance [Infographic]"
@@ -36,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "MLe49qfPovtXd1Gki7BEchu2FZcNRazMyklXbC08fXQIQVQtD+fYuBGJN1qXbNGRzPkKdYHrocS5NZUyNECBQhCaeJVKgSNlREmH6dJfSAsjPYbrHkqf91ieo/XNhjD6ZraEH8cXprHP2i8OalZkvdCRXtvktL7rCPqMn4Uw1o2ut6Ip5AFF7Jd44Ftibs2XZzUZkcWvfoaBwTZEzmxORWIL/Ooe+PjjrpoS/ySWfR2BXf00iX01s+X2f5/15OzvYu93IT4tw9LLkxOpt5dUdqRENVfMwdT7T3ReYebwXlRtXC2rVA5fnjom65sQDDwbu0QXurmpNXJRuREplwAT8FeNSKVZGimt7KFtb9BIQ4M=;w2YjI68TOPNbvGEio9Hfmg=="
+secured: "lRXhl93adifJleDjKYlrD6jbTjNZ1nS99GxN4ckwwY10+V+49E4vsMXFfHvcTadMbsReWCFuHSgV9OdvUbvKgFlST0nMnXwZ8NTWjaypHd5zjy+8XyVHox90gTF6HaO17CwuoPvy2VfdKruCOwbsI3j9AyENqyCAOfS9tjBWAGiKK8ShMlnc1pWGCFAa/XgsnxNZ2H3Xo1jpmhiaJygzucfnu5+qcPLDMu1XvBTVUFJHpvDC2enVFgmi5WMZTfCh4+qOsASYWyoxgtNV/+Ax/3turgBsjyDWBKKqRwVjpDlv5st4iQk67IIQo7efEhSbgTxeqlLGL4yGHShxM0pLATR2FgqlHfGsucwYrFpUZdU=;suGjVVu2LFj+IEHNH4d/jw=="
 ---
 

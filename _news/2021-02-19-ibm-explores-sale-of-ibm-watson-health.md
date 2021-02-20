@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Explores Sale of IBM Watson Health"
-excerpt: "IBM is studying alternatives for the unit that could include a sale to a private-equity firm or industry player or a merger with a blank-check company"
-publishedDateTime: 2021-02-19T06:06:00Z
-originalUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770?mod=breakingnews"
-webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770?mod=breakingnews"
+excerpt: "IBM is studying alternatives for the unit that could include a sale to a private-equity firm or industry player, or a merger with a blank-check company, as the technology giant moves to streamline and become more competitive in cloud computing."
+publishedDateTime: 2021-02-19T06:21:00Z
+originalUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
 ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
 type: article
@@ -94,6 +94,6 @@ related:
         height: 1712
         isCached: true
 
-secured: "LZhcJvffZFag3alqjCaWtoc2rF3/CvDQoS130mPaaXT100A7HQqb5m9EA5VdoPg+UKJlAVYajvQR3MpUZCic/90Qhe8JJtwNZRaqWjtBfF6KpoG7At4QT2gZoooJPBXBHxuA975OfEMht4I3TtSHFuOwric79qhrJTjy3H9nGmCvFmzGGjTA6sxcjoSNUGr6p2s0tBtqfRpt8aI8MdUv1XJWVDv8i5NVGCVE8mZiXAylXGD9S4ayJFfD9w+Vw3lhp/G9l3F6SNUN6U5C5jBeJxDLvGwTtdp/4aAwAwQubhl6cvv6b953zZNGFbj2TfH2WLRr2YRkFDDWq2HT5K+8OVPfAHgzYgfWkWtklzOMN0bnO0Po3XfJZMKctyDIaoqKLglHyuG7du+NxbdIU6P1hjQsEYg+anWFPOi7Qr/j+2lSgecsgQbvLMK1zfvZY2yqOfOw1zo1tXU2XNh+2AzwLneNv4ldyfFVsC2H5QJOV6/K+sSTtd7c1vIhk1Cr01dTlfCRS7aMciwP4zWBn1Asew==;hIY68wg7WlX+nw/mVkWm+w=="
+secured: "253EeOFRF/axBlDKyC1AnhO9IbGSwIWRxV4KGilj20IgAlUstYGz8YZ1glJNbTOSG+ZZf43nbQ2b8EYoEXeKHg9DqWmbU50/pDmgudEO0gme8RfU3LyEgdWnV9v7R8CzkM5hOyeb2ImOrSJJUENBpxqWmARz5ozNL5MeUmav4LXmC9ZIz1e1p67XPmPTH5eIdBhgcE42a7ps6hfHE9HrjBEgHq5wz2QaxUBKRdTF5kcRRv45CDvLo2IK7dS2ui4+Lwtqh3BRKx9DT1G3qX1XvnlnwLRssg6G95fdHFKpwbkZjgyJOXjvWOFN0ZL1SfD4hbOpFwYWwL9Em2DAyNarV8tnas6zF/4PSR9KZ9/54cQ=;8dK/0OwcditmI7t/50kxHA=="
 ---
 

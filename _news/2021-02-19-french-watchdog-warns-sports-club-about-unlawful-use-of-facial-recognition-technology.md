@@ -2,23 +2,17 @@
 category: news
 title: "French watchdog warns sports club about unlawful use of facial recognition technology"
 excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-publishedDateTime: 2021-02-18T23:34:00Z
-originalUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
-webUrl: "https://www.reuters.com/article/france-privacy-soccer-idUSL1N2KO2C6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KO2C6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KO2C6"
+publishedDateTime: 2021-02-18T18:34:00Z
+originalUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Computer Vision
@@ -215,6 +209,6 @@ related:
         height: 628
         isCached: true
 
-secured: "hgAcmBreiiFo8JX/3GE1/qMKh3PRv0Jd1GRlTAnVrT3UPoQDnKwtD9achy9u6ZfSMfvAQv6Jtz+k62Qx9EDM6SuHCKzeV7p8OG6fdHMmIQdo+ajrs8OLlZJSZwpHxvvAQFzFGbxlKvIbD098lmKnW+BKwSR8KfC6bxKV9jEQC709sR4cyVk2iGp5/cuCHYt98JUSlsQXgRuE65KH2yjPCeNVtujwcXi/taUJflr0ToHG+Jz6npreqBx1FauDz0T0jPjjsi/wN4Q5mtUksTCnOAuGGjx9Q9QFbhs2LDbvPpN0u70wSsKi0Sw2U4XboegNIV4LkkKfdkGZoEqg6ae8ZyXDxcejI/S0vhsXUJhBbdI=;wf+1MG6ygz8oVKlks2N6/Q=="
+secured: "wgn5gkdDFLfycAlDVAXzl3QHfUhzht1LVDTkDdluX8mmHkZVtvVMe7eqLqo72AS1wDaABPRe8mU0hOlVljY0SmX7Y8dCVRZ+lCBmLGavhdPl7ACoXTOa5+naJh2i0OIEziohGlG2yceXt6srLQRKZMyYkISdhCN39y5+QLEVzmJlkKreqnllyVM7RmheFYORIbZEz6pa7kePqud+rnuxAVJJ2+hkom4VVCyA+paowZinPQwejwU1peqUeHjUKtNqYFXaleSHqdsrJ8fVB+ZTSaQ0FYggFD773ek7Vm7GWf9gTLs7lA8wuvqSzH+PEFMsVA2Zz8Vk8Tbqp7B24MYWSmGwTgabDhvHGrrnrFDmXlM=;EWjXjk8VNJVQZ4+Mczl+wg=="
 ---
 

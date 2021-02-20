@@ -1,22 +1,26 @@
 ---
 category: news
 title: "IT Veterans launch $1.5 million artificial intelligence Startup BiQ Robot, in response to evolving Salesforce needs."
-excerpt: "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot, soon available on the"
-publishedDateTime: 2021-02-08T18:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19543999"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19543999"
+excerpt: "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot , soon available on the Salesforce AppExchange. BiQ Robot deep-cleans and updates Salesforce contact files' details autonomously through the application of AI and other innovative technologies."
+publishedDateTime: 2021-02-09T02:42:00Z
+originalUrl: "https://menafn.com/1101567043/IT-Veterans-launch-15-million-artificial-intelligence-Startup-BiQ-Robot-in-response-to-evolving-Salesforce-needs"
+webUrl: "https://menafn.com/1101567043/IT-Veterans-launch-15-million-artificial-intelligence-Startup-BiQ-Robot-in-response-to-evolving-Salesforce-needs"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "+UgMFQRzvwBeGrft20WXZhrSuN2WpfNreq4+A5JAWTgcNAHYBhUM1zGl05Fjlyp4FNFTvhITRwz7kv7Wfa0DO2jrgHR/xmwURilz89jpg0G3ufpIn+WnQDY5Mir0z2fn0/h4fSVChqZsUsatk71H0UpXdsxLF7c/r3hd1wIaNSrM3/Tci4qEduJ+1feGaXFo/sLawlIVVL+68cdh/ZDyaqqz2xt4WSaDOzjD0bKn/Mar9ZBqnmtg5lA54haeUHAQgyq7H1tpmojsCUpTfBZ/Fsq8lharm9PS9oBrwuM7bOhozZqAIsJHampAW0zwdVEq5EI24Y64b8bfFX43xx+GrrY1+PjCsP8RhPAlNgwsmiE=;nPHD10s2ZxDxwaZWKgX0Qw=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?107873"
+    width: 456
+    height: 250
+    isCached: true
+
+secured: "csMBxgMkdxYFVi65np0QWxgAaggZhILxjxMUqymN1Y97SLxWdiAu9/k8lVRRMXa00e9NF5REjCrsNFPdi5InL9sg4TtnCfkhfKF9BTggxL0PJXC772FqmPRNaMMKjJ9uBT2MPZHSP2my/0iyspf5vj/Dj+jO7tJhzJMHop5TUxxZPMHgAex4ToWE9ISS4ZZPv89SOFMGoMg+XL5TeK0SCF94Vfej3QI5gxg6MMgc75gV4/mJjDOhh5OapPvlwDRmj7tTRW5SNQAI9YGE6eJ9XODDfVvlmprYYAfsppQN7DE8/tkOZg7mBLuwiPFHjljEesdbJtrs38KBnLL7TPKkLLIUOIuXE/yidkEnzKS4PVo=;qexb2bNcETrNz4PmBoBX+A=="
 ---
 

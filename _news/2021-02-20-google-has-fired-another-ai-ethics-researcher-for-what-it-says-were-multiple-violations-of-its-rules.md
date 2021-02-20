@@ -47,7 +47,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Fires AI Ethics Co-Lead For Questioning the Company’s Ethics"
+    excerpt: "Margaret Mitchell, the former co-lead on the AI ethics team, tweeted on Friday evening that she’d been fired by the internet giant."
+    publishedDateTime: 2021-02-19T23:43:00Z
+    webUrl: "https://observer.com/2021/02/google-fires-margaret-mitchell-ai-ethics/"
+    ampWebUrl: "https://observer.com/2021/02/google-fires-margaret-mitchell-ai-ethics/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/02/google-fires-margaret-mitchell-ai-ethics/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 74
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/07/GettyImages-1071952206.jpg?quality=80&strip"
+        width: 5048
+        height: 3366
+        isCached: true
 
-secured: "Kyrql/IxeDiALbY/tZ8XzYFSSzuGpjdQZlPguJItP/nhJZOdLsQvyIdK/sWY1jCplJ7c5S224uEIcyYfour0+/nlECHhFL40ZQnr99Xyj1qv7eZrZJyP2q3yoBlXEbvG53xOjOkQFr44ILK9ni3Jz0NHG4SylQDf2rEqpFgR2R0hPUhlMJrguvlxsMqIdQsRaKeZVlrKqlV14bMCs9tjiM10x1AFzawWPynJ6CKBl9zh6+JwpYPQlB8h9cwbokD2xRqiTXEP7oJXZSwl3gOw6fY/j6Jiz7cY1duXX4JgWR7BMcEtMkmH6mHUx5RvZPIVe3ORFnGM4Js0xTO0c89t/uwnAPezEWwEEdkEF+2+KYI=;RdJgxuuoBGJfCrEpiLsXMA=="
+secured: "yVnaQ9ogLgCc9oN6zEPMt4tu0QRGQcEJ7ZytfwFUHNKHTmzQ74fvfX6Ow8nFXHCC/Bs0qK7wh0VKBTRICxqXYO+wRKhunEnLw4ERwmATDDP4TZkD7SAJrSAQXgrveaEhTS8CV6v7eRygG4000pMi4mkb5w/9OSc/mL3o9BFVI8QlPcCHq/JffBerBW09z47vN8iwG1Y18yCvpZPeOCl296Ue3st5uVXaL3LEM+CLt4oysi5zT2T66YGjVNjm5NFxCcHQm6/VGl/8L39dXqIu7Hq/ISWCq8oRcUnc0sHDwa/cmyEw+jMwFrflWfVennaYhHgSMjZfr3MH4hlmZaZXtgpdIQ/NyEeDCFyJH+VtCjie/SBHmPuhaIu+cdpvg9J0sKoqgfS4tbkXyBbeB4SMmuZKkc3xpwZwlpbqGG5JetUP6k35rqNzGhI9VmD9YseD1ic2IojAI1ZiFYU1PPK/0UrXaE/S1na76COZUUWfR8wlwhFnsigCSFfa4ckdLU/uhrgobcukSE6IuQ5quUJR1A==;11ybPQd1K2hlFUmlVJlwAg=="
 ---
 

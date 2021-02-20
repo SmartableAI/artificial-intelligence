@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nissan approached by Apple on self-driving car project"
-    excerpt: "Apple is believed to have approached Japanese auto maker Nissan about working on its secretive autonomous car project. Talks ended after disagreements between the companies over the branding of the electric vehicles,"
-    publishedDateTime: 2021-02-15T08:49:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/02/15/nissan-approached-apple-self-driving-car-project/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/02/15/nissan-approached-apple-self-driving-car-project/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/02/15/nissan-approached-apple-self-driving-car-project/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/business/2020/02/18/TELEMMGLPICT000225034636_trans_NvBQzQNjv4BqYGGZxE-BlFTHPG6FlsHtqzoe3yVowsApoK4-KBfJXPY.jpeg"
-        width: 2485
-        height: 1553
-        isCached: true
   - title: "Apple Reportedly in Talks to Buy Sensors for Self-Driving Cars"
     excerpt: "Apple is negotiating to buy sensors for self-driving cars, a media report says. The tech titan for some years has been working on an autonomous-vehicle project."
     publishedDateTime: 2021-02-19T22:43:00Z

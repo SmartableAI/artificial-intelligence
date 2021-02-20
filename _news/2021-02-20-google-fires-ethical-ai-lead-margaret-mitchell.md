@@ -47,6 +47,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google fires top AI ethics researcher Margaret Mitchell"
+    excerpt: "Google has fired Margaret Mitchell, the founder and former co-lead of the company’s ethical AI team. Mitchell announced the news via a tweet. Google confirmed Mitchell’s firing in a statement to TechCrunch,"
+    publishedDateTime: 2021-02-19T22:59:00Z
+    webUrl: "https://techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/"
+    ampWebUrl: "https://techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/google-glitch1.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Google’s restructuring of its AI teams sparks further criticism"
     excerpt: "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters."
     publishedDateTime: 2021-02-18T22:00:00Z
@@ -153,6 +169,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google fires remaining Ethical AI team leader, months after abrupt departure of her colleague"
+    excerpt: "The remaining leader of Google’s Ethical AI team said she was fired on Friday, hours after the company’s top AI executive apologized for its handling of the abrupt departure of Timnit Gebru, her former fellow team leader."
+    publishedDateTime: 2021-02-19T23:42:00Z
+    webUrl: "https://kesq.com/money/2021/02/19/google-fires-remaining-ethical-ai-team-leader-months-after-abrupt-departure-of-her-colleague/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 45
+    images:
+      - url: "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png"
+        width: 280
+        height: 360
+        isCached: true
   - title: "Google revamps AI teams after researcher’s departure"
     excerpt: "Google on Thursday restructured its responsible artificial intelligence (AI) efforts to centralize teams under a single executive, Marian Croak, a move by the Internet giant to stabilize groups working on ethics research and products after months of chaos."
     publishedDateTime: 2021-02-19T16:57:00Z
@@ -210,6 +240,6 @@ related:
         height: 333
         isCached: true
 
-secured: "EAFDIoRdtodsQyNB9QOrrcP3gg7eVqHPBHK9cv6DIdlnszM0wqwuh/WyaOJ3PDNAdC/keV5Jm8sPUFSARsDKfqnTTdp9NLuIfpgbm0jIVl/dxJaUScTNVcM6IBAgpjJBEJX9k8vAzIi9XU1ShlZfEssoxg7wIHSPNfB0czxzrnpgvT3ptzhoHk5A97tFGNR7nf+nLCLZX/ViB4axX9TR4puD4UxPmikm0fWnGei1y5fSp+FHpN3P+x2TABQC+8D4xqzhRWjIRaM3LAGtuPdDohx76vHlvsq97xy7xDTcgFN8Zxr+BXmqGtQ5bdkjYFu4UMZ5EePdOSi5Wcjg9T7ngUSv5aNpztQIx+Qbk6sPuoo=;8QU9TkmYMXZsuhXBBy34Ug=="
+secured: "v1rzgYoLzcCREKeHn0titWQ56TC98DsvVZ3yXh5PNxp/Mkrfu58qTVwY6h+GpXU67362c8kPhOyAVyLiNuqyCVxjPYDuRPZYlvSQ2YK+WyUaiqusTDCaR/6/y9XEatnF8ZqCxG+yA44jiAhTaIW4fe3Swc2ui0a41ajCXIVqrfwGyk+as4GAp6WWyF4vYr08dUlLvbdurD7v4wqR74tVYw8/guambd3DiHtDKsYdRt05qsWJXk3lOFH6iVkA6qhpkmkUbL6nFt9PUYwdqgFdowUFibZsGAgz9r77LdyUnv8UrPw4zwaoe+aU6i1Li61qK6I0HJNEHbCyv7GzPJGCgUATm+kNfX8wEKuqsHG7JkJBuX1/64mgtjYJN3+b2qiLGJ9ERkLCMfnwGVla10w3euS7uicIz6RyVSvQq90hBgTjxk4GW/PNNeA4JL3P0obuSsvbsQKbvjYnH/EkYcNvScxUiX4wIBWnAJQv0ZkR4yrqv0Wq2K/h/wwEcOX1JMbXi7XFPwbnWvgaeRNRCagHmQ==;AHIMdg2qQ4cTL35QUekXHQ=="
 ---
 

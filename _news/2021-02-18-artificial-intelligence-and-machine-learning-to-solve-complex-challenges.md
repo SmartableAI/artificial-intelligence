@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/maxartechnologies/2021/02/17/artifici
 webUrl: "https://www.forbes.com/sites/maxartechnologies/2021/02/17/artificial-intelligence-and-machine-learning-to-solve-complex-challenges/"
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Learn to Love the Machine"
-    excerpt: "Learn to Love the Machine By Sherif Mityas, Chief Information Officer & Chief Strategy Officer, TGI Fridays - It was many years ago when I first heard people talking about “cognitive technology”—mostly in academics,"
-    publishedDateTime: 2021-02-19T06:28:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/learn-to-love-the-machine-nid-25964-cid-166.html"
+  - title: "AI Weekly: The challenges of creating open source AI training datasets"
+    excerpt: "Creating open source AI training datasets is a process that must be undertaken thoughtfully, according to experts."
+    publishedDateTime: 2021-02-19T23:12:00Z
+    webUrl: "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/"
+    ampWebUrl: "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/amp/"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.cioreview.com/newsimages/special/t9J1xu4s.jpeg"
-        width: 300
-        height: 300
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "YcX9ncrJRSmaea1NjPurtippJGZmgMLGShb6wWpQBi3WlOCIAap7HhHS3qe4qXVVWlCskwYE70vxWLR0jlSpdYj0dwENZvf7GBF9rd2xNK7K13xJIX9GvUVL0wT+8oajPJeUZUnUi+T9obsIJysCEmeW+MRRI3/d+ym+1eF4qBmax5kYFRWSMktlQYHMBZM43CHto6csAob/a3OlIoXx82s0ML0SHNfD4fJx3Oio4zS0ig+/DBAdIyVp4YVDS0kbfv+1CnGX/+Dpy4aHdcZTdEamp1d4cbLW54roD2eD3zZsNUQ49MOIUClgz4dQXYZ+muhWee1zfxQAoWcCbDUMzH0nwUSuRYS8+USY5sMuwpo=;28uC/a7HhATRkDahOOwOIQ=="

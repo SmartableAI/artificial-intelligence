@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16"
 type: article
 quality: 76
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
-    excerpt: "Selbyville, Delaware According to a recent study titled 'Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Analysis, 2020', available with global artificial intelligence (AI) enabled drug discovery and clinical trials market is slated to grow considerably over 2020-2025,"
-    publishedDateTime: 2021-02-15T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-drug-discovery-and-clinical-trials-market-size-trends-companies-driver-segmentation-forecast-to-2025-2021-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Size, Share 2021 Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
     excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
     publishedDateTime: 2021-02-17T10:28:00Z

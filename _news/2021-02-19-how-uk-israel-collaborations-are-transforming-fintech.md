@@ -41,20 +41,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Borrowing from fintech’s playbook, banking leverages AI-based business monitoring"
-    excerpt: "Many banks are undertaking digital transformation to improve customer service, reduce their operating costs and uncover new business opportunities. A leading new technology that promises to be a real differentiator in the banking industry is artificial intelligence (AI) built on machine learning (ML) algorithms."
-    publishedDateTime: 2021-02-15T08:36:00Z
-    webUrl: "https://business-reporter.co.uk/2021/02/15/borrowing-from-fintechs-playbook-banking-leverages-ai-based-business-monitoring/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 49
-    images:
-      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/01/customer-contactless-payment-for-drink-with-mobile-phon-at-cafe-picture-id1257896082.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Future of Banking, Fintech and Payments – February 2021"
     excerpt: "Figure 2 illustrates an incident related to customer experience where models detected an anomaly in transaction success rate for VISA payments for a particular merchant. The drop in transactions (depicted in orange) would have gone unnoticed if static thresholds had been used,"
     publishedDateTime: 2021-02-17T15:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-t
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/humana-hum-joins-ibm-watson-health-to-aid-member-experience-2021-02-15?amp"
 type: article
 quality: 84
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
     excerpt: "The tipsters didn’t say what price IBM is targeting for the prospective sale. But they did share some financial information about the Watson Health unit itself, which is reportedly generating about $1 billion in annual revenues and currently isn’t profitable."
     publishedDateTime: 2021-02-19T22:41:00Z
     webUrl: "https://siliconangle.com/2021/02/19/ibm-reportedly-mulling-spinoff-1b-watson-health-unit/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/IBM_ads_at_JFK.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "IBM reportedly mulling to spin off $1B Watson Health unit"
+    excerpt: "IBM Corp. is said to be looking at offloading its Watson Health healthcare technology unit, possibly through a sale or a merger with a special-purpose acquisition company. The Wall Street Journal reported on the discussions late Thursday,"
+    publishedDateTime: 2021-02-20T00:43:00Z
+    webUrl: "https://siliconangle.com/2021/02/19/ibm-reportedly-mulling-spin-off-1b-watson-health-unit/"
     type: article
     provider:
       name: SiliconANGLE

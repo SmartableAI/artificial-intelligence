@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/17/worlds-fastest-supercompute
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/amp/"
 type: article
 quality: 87
-heat: 138
+heat: 137
 published: true
 
 provider:

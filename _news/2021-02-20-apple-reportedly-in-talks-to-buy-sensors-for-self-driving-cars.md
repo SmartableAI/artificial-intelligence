@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nissan approached by Apple on self-driving car project"
-    excerpt: "Apple is believed to have approached Japanese auto maker Nissan about working on its secretive autonomous car project. Talks ended after disagreements between the companies over the branding of the electric vehicles,"
-    publishedDateTime: 2021-02-15T08:49:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/02/15/nissan-approached-apple-self-driving-car-project/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/02/15/nissan-approached-apple-self-driving-car-project/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/02/15/nissan-approached-apple-self-driving-car-project/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/business/2020/02/18/TELEMMGLPICT000225034636_trans_NvBQzQNjv4BqYGGZxE-BlFTHPG6FlsHtqzoe3yVowsApoK4-KBfJXPY.jpeg"
-        width: 2485
-        height: 1553
-        isCached: true
   - title: "Bloomberg: Apple searching for next-gen LiDAR supplier for self-driving car"
     excerpt: "As we continue to learn more about Apple Car progress, some fresh tidbits have been shared today in a Bloomberg report. Apple is working on the important step of finding a supplier for cutting-edge LiDAR sensors that will be key for the autonomous aspect of the company’s electric vehicle."
     publishedDateTime: 2021-02-19T17:11:00Z
@@ -146,6 +130,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vje5SX+xxrDa9qGdHibTsntkg1YVExGy6HM2Wrv4+VetTJM8mE4xTTlZpP227SWc0tESIkohF5adGQs4gmDS40+O6bK8gcp9va+LNLmd16Ru7z3sezw11U0yePjE7ycdIPdBnVvvNS3Pq/yXqe38wnsxbo3xvmJczmfE2lonbKg4Yb+dGgTseH6kS46qakDRwL+fzVWnGVKqwpTnDJuiCfAhxJ4+y+0GW9dnezTSmkvBPdg1ewEOgIqIP1wVKthJlFfcHP0kuyWjCiLRCKSWn3+TIcORiqTxpK/AGSVe5t766ydhAedaRrWelt/bjjDCsukIn6GxqF893QxIWehf0rPwVE5QJ/8/tlqXc6Y0Aps=;iIBXlIxJqH0vRVd1wVPtkQ=="
+secured: "50YNVLhy2CUHCSiNIH5kfA+6OWhFF/TqHidg/TxqPrDWGLBMi/bGFFFiSJhPHEDedoCq6UuxnRc7ZXUw1FZzm4NJzavyXMxSEhDhXm/ZUbab14yUUcOrfopKVoV8zamgS+ra3lRrVlMpwTYWVpjlibERzkcLNbbGxDoSuRNeRutQS+NzPAVhbrxgYryNllzSQduqb2W3q0oxn6WGQW45kcj5RGct+Guu7k+1zIyKrNBTzweqI/vx8YMz/raByTd4BAmKP1/GSyXJJ9g2etfCTTOMecekHIKzbFZHeTyz9sL+5DSKqe1mWmdG93aRALODkZUENL1asKVH4eUQVo+hscFme+7Dt4ThB8ab7gOqiBWef4lPsnZ5gTpsRy3Yva2x9IFucPi3n0IGwWLZXQwkWLGLtF4ur3Kwo+yrm+qWntAyFC3+pJlPbfrbmwyDAc8ehR6qTWeeqapLp9uY6bvonsULiO/qwXDSCRRYO3MGbG6jaIyr9GZt9urQDptRl3SZ8F+xYiSqNGVOhziBIcXuSQ==;a24q6yTmqY5Aa0dYlPdggw=="
 ---
 

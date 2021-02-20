@@ -110,20 +110,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2025"
-    excerpt: "Selbyville, Delaware According to a recent study titled 'Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Analysis, 2020', available with global artificial intelligence (AI) enabled drug discovery and clinical trials market is slated to grow considerably over 2020-2025,"
-    publishedDateTime: 2021-02-15T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-drug-discovery-and-clinical-trials-market-size-trends-companies-driver-segmentation-forecast-to-2025-2021-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Automotive Artificial Intelligence Market (2020 to 2026)"
     excerpt: "Global Automotive Artificial Intelligence Market (2020 to 2026) DUBLIN, Feb. 15, 2021 / PRNewswire / - The “Global automotive artificial"
     publishedDateTime: 2021-02-15T20:08:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care"
 excerpt: "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of"
 publishedDateTime: 2021-02-15T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
 type: article
-quality: 29
+quality: 27
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -54,6 +53,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "rus/ZaXCPJKRGEHjQ6ua8mZ6/8wg3vCrJWxV2EUXuAvrgDaDs6Uk0qjSGfKZh/R3RrchphMLMshJFTBk61ldMrPc8n+r320wYl/9FSi+ZpmJ89oxTZCPdD+JD2ivlFJNYz68PuZinE+EWvkoIy8t21C6CH9s1C+R/BvN/QvlCpC73pt2jTVcyPxfCB0C/QhKgawN6sA7XS0Q02f8cj5KiGufWhfsA96uyunUBDjqUmDDkQ3DsB1Puea3mGlfDVGiB7AY6KU1nTFpwwyT54G1JDK9OLXWMmGeWqH7m0zsrKBr6g1LQLn5EQHOvlkY9rSTsTyxniIhxVCKuJS9KTFH78C9T1NG0DACfZU/zAZLXx4=;uTzzx/gUDa/R8GHUst6s9w=="
+secured: "Zd2Ozc+Mt4q1pnQQtbYADZpU6+0Y2NxyJdhjghGTGVx4F6AU12r9hikR9c/97kiCsS2cGdcaihDwR2vMgA2mYg4a3NSoMMOPeYicWmB4BbzFseCXnQqGPg/oZI/Rp49J3jvOjRb95qKN5G71IfrahsyWiZTsQMvaz68k/f4RVPEOiWIIPCtBoWtyGlgbhdV5YD1RRWiMbJGJzxIn6XBw6+B4WZ1PJyXdG1TO/s2iK/wYma7CraJZ3JEVe7vwz7AURkh8VtAfQwrrxO6J8BOGvXkOsKtm51tzz+tmnVUshhUq4u3UXocFHypGE+VURsdVCtL00julu7Dpt+PekfTlyG0fnzoihL56PiK34I4UyaE=;7KSZOosh4MlpRAnbSUBG4w=="
 ---
 

@@ -42,9 +42,9 @@ related:
         height: 498
         isCached: true
   - title: "IBM Explores Sale of IBM Watson Health"
-    excerpt: "IBM is studying alternatives for the unit that could include a sale to a private-equity firm or industry player or a merger with a blank-check company"
-    publishedDateTime: 2021-02-19T06:06:00Z
-    webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770?mod=breakingnews"
+    excerpt: "IBM is studying alternatives for the unit that could include a sale to a private-equity firm or industry player, or a merger with a blank-check company, as the technology giant moves to streamline and become more competitive in cloud computing."
+    publishedDateTime: 2021-02-19T06:21:00Z
+    webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
     ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
     type: article

@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Google fires top AI ethics researcher Margaret Mitchell"
+    excerpt: "Google has fired Margaret Mitchell, the founder and former co-lead of the company’s ethical AI team. Mitchell announced the news via a tweet. Google confirmed Mitchell’s firing in a statement to TechCrunch,"
+    publishedDateTime: 2021-02-19T22:59:00Z
+    webUrl: "https://techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/"
+    ampWebUrl: "https://techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/google-glitch1.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Google’s restructuring of its AI teams sparks further criticism"
     excerpt: "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters."
     publishedDateTime: 2021-02-18T22:00:00Z
@@ -162,6 +178,20 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google fires remaining Ethical AI team leader, months after abrupt departure of her colleague"
+    excerpt: "The remaining leader of Google’s Ethical AI team said she was fired on Friday, hours after the company’s top AI executive apologized for its handling of the abrupt departure of Timnit Gebru, her former fellow team leader."
+    publishedDateTime: 2021-02-19T23:42:00Z
+    webUrl: "https://kesq.com/money/2021/02/19/google-fires-remaining-ethical-ai-team-leader-months-after-abrupt-departure-of-her-colleague/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 45
+    images:
+      - url: "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png"
+        width: 280
+        height: 360
         isCached: true
   - title: "Google Revamps AI Teams in Wake of Researcher’s Departure"
     excerpt: "Google has sought to diffuse employee rancor stemming from the acrimonious departure of a prominent Black researcher, Timnit Gebru. The responsible AI teams will roll up to Marian Croak, a Black Google executive who currently serves as a vice president of engineering focused on site-reliability matters."

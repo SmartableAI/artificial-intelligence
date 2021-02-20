@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Size to Witness Huge Growth by 2026"
-    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Voice Recognition market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
-    publishedDateTime: 2021-02-15T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-to-witness-huge-growth-by-2026-2021-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
     excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"
     publishedDateTime: 2021-02-18T03:12:00Z

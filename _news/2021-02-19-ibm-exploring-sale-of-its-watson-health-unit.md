@@ -153,6 +153,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "IBM reportedly mulling to spin off $1B Watson Health unit"
+    excerpt: "IBM Corp. is said to be looking at offloading its Watson Health healthcare technology unit, possibly through a sale or a merger with a special-purpose acquisition company. The Wall Street Journal reported on the discussions late Thursday,"
+    publishedDateTime: 2021-02-20T00:43:00Z
+    webUrl: "https://siliconangle.com/2021/02/19/ibm-reportedly-mulling-spin-off-1b-watson-health-unit/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/IBM_ads_at_JFK.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
     publishedDateTime: 2021-02-18T19:36:00Z

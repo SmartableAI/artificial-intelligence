@@ -39,7 +39,12 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Self-Driving-Car.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "1Rg8DZGmND/eSw19QqSuYHS7TNbMShfj0oKUQR+RhmrS3a69xtE2td7seenzpUcHud3+fSPF/gLc0qCmEDGrc8q2MOn6uI2Y93C8o1mCJ/RYIR37xL2XKI5hwx1UKRIwa9hbsZxgW/y3talnjUwP4TkiLgY32pj17s16JFXNLH+Y5WQofr3YwYTepwEi0bTA7QP+NYoEr2okAWUiXJF+bolaGRHFXnYnUhMCJYoiV5rGqnpOBwM0o95zgvFuxwPEyPVBfacVaxiZ9HY5j2/88vF/viRn+BYmctBvFfptACIKIJybytm0rYVkoFcwKCrTUXztsnTgRGro6tqdJA6DHtSZxXq1LEVsTJUSoJQKbQQGjdDnXfuYw7nURE6UK64FCGlVW2Sx0KXTWKfBIX+bZmXqf8pmw5PdqrA4yMMCM0oyW8N7S9xf24WHzq9pyJSBcSfVz6gSubOHPW/0/1isyB9MG4HrU6Ix4yEf9i59dg5aENcq56pD0iyVPFyhShBR0Qwd4ljo42nXGO3i/YaqnA==;f1YhKQN5mzWynKi4oqhqLg=="
 ---
