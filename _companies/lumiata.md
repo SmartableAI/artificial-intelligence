@@ -2,7 +2,7 @@
 name: "Lumiata"
 overview: "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital."
 type: "profile"
-heat: 57
+heat: 41
 
 website: http://www.lumiata.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Lumiata"
   url: "https://twitter.com/Lumiata"
-  followers: 1079
+  followers: 1078
 
 size: 11-50 employees
 yearFounded: 2013
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=1uxjtyJdxbU"
 
-secured: "hcN/1zcOTyWjVMouJjGVu/69o50ARAH17zKst9rcqGcg47UGhto0Ey/Eltlhet9aAOr9c+YpMfR1x0DUSGjbyZI6JeE1K55wyCTkF0jLV/NPplNnBT+1aF0T/QvEOl2klt2zqq6pPkMInz19AT7mNT86mIzKXmuyqn3Bh4bhGnTPZABrBy2Sn4+waKKI0YMSdQSG+dLOA3H8hMBXnMTB0SgSEPmP2l0ttrTjrgT9fk+9+3iHHBC6SqavMqX6yN4pGAAgNIJCCuILEdqI2KeIlQf0pAw8ePOs1QC6cCGdqi6kti97QDWMc2We4tN8eLy1dEn+zObKkVaVB5msKC7PTOxuvxwh2uIbpmlHkshkCTJVg+DqFryEbGSQ/6sPHCs4mLU07MtRZY0/9kCKiHzNFz2OqWZLOJtrcLom/Mtl900=;40kh53RjnhDSdKFWs7bZBw=="
+secured: "HghYL11ax3BzUc6xi2H1QCj9ntUvCmnASa0Bzlpzt8BnAaxeTr3iN9ht/BoYpg0sWtFv9rkNqasD1g5DOae2ATfO+Tct+aF6tg9i+QGU+weDQt96QwFtoj88XUa765xtbhqOEwxXjoKVx6UFFZVGMuvHU1EsljFxrDXfrhUfbv8FjqBrMfZlr9nc7ma+Gw1+OTM3H3chwbME/6dtba6Yy+hpxMwB+dP1GWcEe32TlbomOXgTeUsLP8+OVuYIx5huI6fDpS+f+4l4AU/LNb8ubPLPwfdMlKP9KV+6glcMrqMbrzeor1XQE1g2TiW5IhwbWA6yPkUbWdbhjFni6aZBBupLWwrcvZzqemGbBNPwf+/MISQFZzDTRzZ3f71MEzbx0BOIL6dvkFgXuLTx04b55Q==;NYiy0tzpMcs5GjlBee0o3g=="
 ---
 
