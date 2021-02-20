@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2021"
-    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
-    publishedDateTime: 2021-02-15T18:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2021-2021-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
     excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
     publishedDateTime: 2021-02-19T06:50:00Z

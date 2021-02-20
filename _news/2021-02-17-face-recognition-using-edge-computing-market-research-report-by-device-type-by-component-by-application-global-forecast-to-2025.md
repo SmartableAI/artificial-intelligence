@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market to Witness Huge Growth by 2025 | Animetrics, KeyLemon, Daon, id3 Technologies"
+    excerpt: "Latest released the research study on Global Facial Recognition Market, offers a detailed overview of the factors influencing the global business scope. Facial Recognition Market research report shows the latest market insights,"
+    publishedDateTime: 2021-02-20T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-witness-huge-growth-by-2025-animetrics-keylemon-daon-id3-technologies-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
     excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"
     publishedDateTime: 2021-02-18T03:12:00Z

@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2021"
-    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
-    publishedDateTime: 2021-02-15T18:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2021-2021-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence (AI) robots Market Size, Share 2021, Impressive Industry Growth Report 2027"
     excerpt: "Artificial intelligence AI robots market was valued at USD 2 84 Billion in 2017 and is expected to reach USD 12 36 Billion by 2027 at a CAGR of 28 High adoption of robots for personal use such as companionship"
     publishedDateTime: 2021-02-17T10:23:00Z

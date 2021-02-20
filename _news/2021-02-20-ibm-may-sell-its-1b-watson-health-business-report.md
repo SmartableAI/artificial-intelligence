@@ -2,28 +2,28 @@
 category: news
 title: "IBM may sell its $1B Watson Health business: Report"
 excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable."
-publishedDateTime: 2021-02-20T06:21:00Z
-originalUrl: "https://www.thestatesman.com/technology/ibm-may-sell-1b-watson-health-business-report-1502953209.html"
-webUrl: "https://www.thestatesman.com/technology/ibm-may-sell-1b-watson-health-business-report-1502953209.html"
-ampWebUrl: "https://www.thestatesman.com/technology/ibm-may-sell-1b-watson-health-business-report-1502953209.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ibm-may-sell-1b-watson-health-business-report-1502953209.html/amp"
+publishedDateTime: 2021-02-20T09:34:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+webUrl: "https://www.thehansindia.com/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2021/02/iStock-IBM-1.jpg"
-    width: 1200
-    height: 800
+  - url: "https://assets.thehansindia.com/h-upload/2020/10/09/1004451-ibm-india.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -309,6 +309,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "0Uai2SZ6zbl1034gdKE62nhOXOnDl+XNhRsuMeoZRdo9P6mZf9XsAXbjfs6zbGqjD+aJL9m3eWCd7ezEYdRauPnjR1T604AXL7i8lI3rlfIs5Hh8E+nMvQYTT7t6vLcz5yAH0jun6VuXcqP0xVatTQTcd+2klxQlTE9bM1rDEH8LrFsov4C5Qxic3+i9kh99M/b/FysHC9ldlWctsoyWlZhT0uShI1bicFWLN0JGM3RJ0ilSu3jhhFS4DjyXEYJjE/qMae9YYTHpEayErSH+knQL4VvBF8KS3wuXDu5Cjft4bwy21KDXEddNsWT5/6f6oFM1AYztNS0J3WBZ5kkMgejAIuvhIF0zPvQpyLDMIdOt3SzyYs6LVbMkaotc9j/xJ5ypIpT52p7seFtbfVH0GHPSRxqIZ2nBGdkckLAAoth3KgP9K5lZWilGQsD2WC7dt9FeVDx0yEO2Y3lTSN6Yn/+ZXjg5NYsf2jze18CoBnyfxFudcs3KyDH1JWYyOLiY3BOt4e2q8WJBG+f/By78JQ==;eAq2cmNneVw2Z6QYdLojLw=="
+secured: "K/478w0eyjJb8ZJPn4SD/x3hwnLcfgrKGyxIQVyDnmcVj8kiUVUGLVMJnerGnKIADlkyRm3GRLOLEWSuNl08cMoy/ztnzVwo5sL41Syj41JWExgLtO0cs7PPAoyQPYO6pW0inGyoWz7DXypm2P12m2SmcdHtEVuE9QprHkCseppv9cMRQKW+Zj6JdFnZq2suOCbUlUKFIdl5z0cAr+TKGTJcKtCuOEFYdq4DudJEKlPnUMWJqaHjGp3H0TsBd4zOu69VnoZpMNIFMJsKBS+DnWdGyTWSDN3iZhfrqikoRLDNkcXuj1/Pof3Xq7mDHSr/tDisBMOWkMVnRlxNDu7RTkj4l5TDgBgkJ5Cyuxx4qnE=;ojCzwkBcTHye4wA+kUceGQ=="
 ---
 

@@ -148,19 +148,19 @@ related:
         isCached: true
   - title: "IBM may sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable."
-    publishedDateTime: 2021-02-20T06:21:00Z
-    webUrl: "https://www.thestatesman.com/technology/ibm-may-sell-1b-watson-health-business-report-1502953209.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/ibm-may-sell-1b-watson-health-business-report-1502953209.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ibm-may-sell-1b-watson-health-business-report-1502953209.html/amp"
+    publishedDateTime: 2021-02-20T09:34:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
+      name: The Hans India
+      domain: thehansindia.com
     quality: 59
     images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/02/iStock-IBM-1.jpg"
-        width: 1200
-        height: 800
+      - url: "https://assets.thehansindia.com/h-upload/2020/10/09/1004451-ibm-india.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
     excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
@@ -309,6 +309,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "RY9zgAcIY5bn/kfmvDZSyQU2SulPgboL0VgcMG9FBV7c4xY11ePx0l4cyosMuPN1yL2q/hEhSnTitxDDsXmD74KSbioAUhK+2MW4wb4luSEeWGi/yg5a8NDU8m75xCBV8CZxkbyDRRs1LigKc1YG2hMtdONFvbzeQl1mWpMPXCzaKti5O6mu2OKG/o0uQGvvruHxM5RQl0/mDSJFWRIT2Apa+LUGKdlUAJQHh9rrIIkBZtZ+5HZed+XllWDbhwHTvZtHqx9j9HphAkTweTKN26gBfmXrF/LdCOdTxwFFY9+/ukAQcSvPcXkj3FUw+OpY1Ef6AsTlzDlozjV0GFOgDFZD8Kt7vi40+uD6S1+5rgY=;/4LzRlT0B3qqHqEOxcQJ/A=="
+secured: "AMfbl8EvTBqR2Nb/xvjWZPItEsL7Y1ED3/KvZtmnzYbMFqRju7Lb2l2mr69m/znnw2vDx5Ji9xMieF1NGqRVDfc6RKs9JPES4lfKtXlXDEn0c/l2PoFSzeZTRsfaNmkQO5r61LOiSTPKIIQpa8s+Dj+t1rJt+RbPiSfnntAGBcZALJ7nGyjIPYf5UGjiDBeGMkUVCYyqRMAZi4bqEwb6Zhv2X1Iahrr4dLaRnAPe4PuMp2Oo+xECf2J64qSP1lwAh4im/rpFzL3o93a3X1Edy4ganxJEcYjETOPNdSIjx2xGJfc1CULWsVOV0q6yv0RV4dZ2DvRwHyu8Uhl59YqepCuILR3M9C8sbXCIWcOGkJPWn3wMKoSsRtwckbFGEnvvhPlUtaszbgWD6m6oOlG4ruN3wYmu1iRMxQLzi3otRcymOlV+JxVPnx7Y9rX5bxjUV53lFW8pZ46udcb/huYB7WdrgBlGj3New7TB4ZYa9BtjDAmdvc1S+uxvZ9vHwuot9LaNYXrUEBQzxgz7fEYTnw==;tWHa3ifB1bvkdI3tBGP6Qg=="
 ---
 

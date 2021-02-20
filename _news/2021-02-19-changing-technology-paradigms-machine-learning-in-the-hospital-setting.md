@@ -28,9 +28,9 @@ related:
   - title: "AI in the OR: One company is closing the gaps in surgery using technology"
     excerpt: "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help."
     publishedDateTime: 2021-02-19T20:32:00Z
-    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+    webUrl: "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
     type: article
     provider:
       name: TechRepublic

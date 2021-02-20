@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/19/fintech-companies-must-balance-the
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/amp/"
 type: article
 quality: 102
-heat: 113
+heat: 112
 published: true
 
 provider:

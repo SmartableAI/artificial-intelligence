@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Facial Recognition Technology at Airports Isn’t Even Working"
-    excerpt: "At face value, this seems like a good thing: people are not trying to illicitly sneak through airports posing as other people, and now we’ve got the technology to A) prove it and B) dissuade future perpetrators."
-    publishedDateTime: 2021-02-15T17:55:00Z
-    webUrl: "https://www.insidehook.com/daily_brief/travel/airport-facial-recognition-not-working"
-    ampWebUrl: "https://www.insidehook.com/daily_brief/travel/airport-facial-recognition-not-working/amp"
-    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/travel/airport-facial-recognition-not-working/amp"
-    type: article
-    provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 74
-    images:
-      - url: "https://www.insidehook.com/wp-content/uploads/2021/02/facial-recognition.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Civil rights groups want Biden to halt government use of facial recognition"
     excerpt: "President Biden is facing pressure from civil rights and tech advocacy groups to halt the use of facial recognition by the government."
     publishedDateTime: 2021-02-18T16:13:00Z
