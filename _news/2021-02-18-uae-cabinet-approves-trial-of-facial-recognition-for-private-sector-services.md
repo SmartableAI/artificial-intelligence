@@ -24,6 +24,19 @@ images:
     height: 1035
     isCached: true
 
+related:
+  - title: "Swedish police fined for unlawful use of facial-recognition app"
+    excerpt: "Sweden’s data watchdog has found that Swedish police failed to conduct the data protection checks required by law before using controversial facial-recognition tool"
+    publishedDateTime: 2021-02-18T16:41:00Z
+    webUrl: "https://www.computerweekly.com/news/252496545/Swedish-police-fined-for-unlawful-use-of-facial-recognition-app"
+    ampWebUrl: "https://www.computerweekly.com/news/252496545/Swedish-police-fined-for-unlawful-use-of-facial-recognition-app?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496545/Swedish-police-fined-for-unlawful-use-of-facial-recognition-app?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+
 secured: "DrUPE18RoATHmKvvikPTXb5WjvpDohpTAsC/aZIP1EsIPK5tFb7a9mAN/ibUeyq/7w11HPG7pWL9407N015LS4jIQ6h58GzKjnLwiOgjaFpYe/MbbnpNdmngz9bhfaGMKHwVOhDof9r8oM5hsqhayZRyw4Sp3bm/+AigWuYwsxlHM3PZIlh6YsFuG5i/5IlKwNrJxRP4tE3J3Kpr2uGPZkE68ROi+/BCCEHaHCgUE1T7e2Mxp+Cis20soX4Gimn+u4KF7cRJvPtVUnIZT9pIRhhpyINS/ZBpp0xxLo9lSycCATIRa2mkmkFYuY4ltA4xid3f8udRLj13AGDlb74xvYb8s6fBMpT4slnIuszhh3xHgMZvk6L+crgwi442DZDYDxTD81VTuixQTs1GwWQBhQcUQbKeQOUACGTYf8aTiNHStF0W7YpD3N0rR2PYUa0fpi9c78J6RbMCLM/hupu/aN5CG63r3MgDv2EKPDu6ZgiP2Q2X414bP8z4K4u2qpU4HB2vGGL38buTqBV+ykKmtQ==;2Q1tQ1pjj2jeTATZl6zgXw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who
 cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Google fires ANOTHER AI ethics researcher amid row over ‘censorship & racism,’ as team member accuses company of ‘smear campaign’"
-    excerpt: "Google has terminated the head researcher on its AI ethics team over what the tech giant deemed a violation of its “code of conduct,” as the company faces an internal revolt over a previous firing of a black data scientist."
-    publishedDateTime: 2021-02-20T01:59:00Z
-    webUrl: "https://www.rt.com/usa/516113-google-fires-researcher-racism/"
-    ampWebUrl: "https://www.rt.com/usa/516113-google-fires-researcher-racism/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/516113-google-fires-researcher-racism/amp/"
+  - title: "Google’s restructuring of its AI teams sparks further criticism"
+    excerpt: "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters."
+    publishedDateTime: 2021-02-18T22:00:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
     type: article
     provider:
-      name: RT
-      domain: rt.com
-    quality: 45
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://cdni.rt.com/files/2021.02/xxl/60306a1f20302750662557d7.JPG"
-        width: 1240
-        height: 697
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-18T210326.083-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Google plans to reshuffle its AI teams after weeks of turmoil within the company"
+    excerpt: "Google plans to centralize its work in responsible AI under a single leader, as it hopes to quell weeks of internal chaos, a source tells Insider."
+    publishedDateTime: 2021-02-18T16:46:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-teams-reshuffle-under-marian-croak-amid-ongoing-turmoil-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://i.insider.com/602e817542b84000192f42c9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "sl9OlzK0g8agbcMzvejgejLUNKGncw2gO6osCku7EKlSq/L6g+uK8uW80ATERnkDbI/BZFW3wBL+NVFDXjzL4La/rqdHTuPhZoxkFTTnsiPFNI0S/N9Gbg7hNKbIAIIuv+d5ai8cFkoE8vswCupmdhcAum4efi0oAZ0MKAh6p0iE8R5CQ+JGEHLaGtdf4woqdnjCZ6qutR80hL7wG9IKn7KuyIruvRd3uJFMkd2iEH/1q4vJB+YXskFL+i0B/ABxwXmhTe56TA1kp7dKTfVYk+OlmYlCniT+XPBQr71h45G2kLN2RJv2qwDb4QoSw3sdvt90H76ikC5syoYmh2v5dwraQkBUZOyxXt5QJFCosyw=;uSlTTYhhzXpSG4VMWP3mlw=="

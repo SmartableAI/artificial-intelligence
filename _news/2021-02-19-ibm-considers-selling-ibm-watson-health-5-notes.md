@@ -162,6 +162,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "IBM Rumored to Consider Selling Watson Health Unit"
+    excerpt: "The Wall Street Journal quoted sources as reporting that IBM, which is eager to switch to cloud services, is considering selling the Watson Health unit. The latter uses AI technology to enter the medical industry market."
+    publishedDateTime: 2021-02-20T14:55:00Z
+    webUrl: "https://www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/"
+    ampWebUrl: "https://www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/02/20170315_ibm_watson_health1.jpg"
+        width: 960
+        height: 420
+        isCached: true
   - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
     excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
     publishedDateTime: 2021-02-20T00:48:00Z

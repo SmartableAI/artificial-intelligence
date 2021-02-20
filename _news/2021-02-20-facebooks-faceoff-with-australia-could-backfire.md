@@ -28,7 +28,7 @@ related:
   - title: "Canada vows to be next country to go after Facebook to pay for news"
     excerpt: "Canada vowed on Thursday to make Facebook Inc pay for news content, seeking allies in the media battle with tech giants and pledging not to back down if the social media platform shuts off the country's news as it did in Australia."
     publishedDateTime: 2021-02-19T05:56:00Z
-    webUrl: "https://www.reuters.com/article/us-australia-media-facebook-canada/canada-vows-to-be-next-country-to-go-after-facebook-to-pay-for-news-idUSKBN2AI349"
+    webUrl: "https://www.reuters.com/article/us-australia-media-facebook-canada-idUSKBN2AI349"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI349"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI349"
     type: article
@@ -42,6 +42,6 @@ related:
         height: 545
         isCached: true
 
-secured: "VzRaZUS+g3xjI43lOEpGkmXnEDrfLNRmx2GXP5mCF3LoTzaw+ZxcQQQ0eSh2DOIlUaekm1TF/2vBXyqW3AA6z0CLtnpq0xjSPiSyQjFD9BMH4iDjh0Vs0fc12Y0BTDFHV65m2zhO1ZZYG+CcH6lZ1hhpD/o3zCsNO6jteZ4zojY4DjDaLl0sdy99rvqZ0gMl6+hSBRs2wvyi96rL7jFneA1glZbOeohahVyFzRuTBJnVOwVFb4QCTxBkkHXr2doONdKpyN1ImLW3zB0Hl5XoCvksX/RE0n+kVAq8v+UKxEZDygXiaWPfkZiCegZpgGkx7wirDUriMBitlyV/vXbQpsfbNh+inlSJiIMYZec2+6g=;0ILHmxA86LrseB7O6FOfrA=="
+secured: "+XBZ2J5BpgAKTyz4YqRNfS9e1POSzF1XjF/lW9a7u2BU56jQ+dPEa7oNNBCvUhriMbwDy9zYSC3cM5zWCt3zDVFxKob8xtsi2gcJVQ7akFgh3PGDittoa0TF4CH844/dm9gGy/6l5OfT/iL9B4y7ujR4eV56FF2TalTlVPHx4h70NwO9TQPwNaUJ3YICSSIu0Qa49bRCtERa2I4VghrOMCS9yYB1eL/stQMuX+vl7LCyWgJzB6Huv9AtLK5kesYYIDM4KxaJjIzYwYNFxCJHqi2+9kuptYjcHxpTFA46Ph2Zfwt4+HvMscbn/owymMXXbE1suzmZeG/udMDo3UiDYlABRReVrpvxx2YzfDx5CZQOM3JO2yQSmPlLNhsQiRmEcDZGd8XrRAIsl0Jpn17WVEwBKXO/zMV0HJsohGzw3p7W2zsNM+6z92Ufr/0mY+3PlQXXEckxsOoXc57lUXGuFHJX4YqSMrKvEcWWRVjDRV3U22cPuLGpsdI0A2dE4LUnpoOMZU5G1ZZTsYJ+wlRyWw==;UfTEU/gl/V+x74eCbQuZuA=="
 ---
 

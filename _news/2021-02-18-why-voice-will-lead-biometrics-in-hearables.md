@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
-  - title: "Yoti provides face biometrics and liveness detection to UK Post Office for on and offline services"
-    excerpt: "Yoti’s facial recognition-based identity verification, age verification, and anti-spoofing technology will be combined with the Post Office network of branches"
-    publishedDateTime: 2021-02-15T21:54:00Z
-    webUrl: "https://www.biometricupdate.com/202102/yoti-provides-face-biometrics-and-liveness-detection-to-uk-post-office-for-on-and-offline-services"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
         width: 730

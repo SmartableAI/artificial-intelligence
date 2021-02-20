@@ -1,29 +1,34 @@
 ---
 category: news
 title: "Daimler's Torc Robotics picks Amazon as cloud provider for self-driving trucks"
-excerpt: "Daimler AG unit Torc Robotics said on Wednesday it has selected Amazon's cloud computing division to handle huge amounts of data in real time as it prepares to test self-driving test trucks in New Mexico and Virginia."
-publishedDateTime: 2021-02-17T08:29:00Z
-originalUrl: "https://www.businessinsider.com/daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks-2021-2"
-webUrl: "https://www.businessinsider.com/daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks-2021-2"
-ampWebUrl: "https://www.businessinsider.com/daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks-2021-2?amp"
+excerpt: "A self-driving truck operated by Daimler unit Torc Robotics undergoes testing on a U.S. highway in this undated handout photo. Torc Robotics/Handout via REUTERS"
+publishedDateTime: 2021-02-17T08:20:00Z
+originalUrl: "https://www.reuters.com/news/picture/daimlers-torc-robotics-picks-amazon-as-c-idUSKBN2AH0SY"
+webUrl: "https://www.reuters.com/article/us-autos-torc-amazon-com-idUSKBN2AH0SY"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH0SY"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0SY"
 type: article
-quality: 97
-heat: 137
+quality: 215
+heat: 255
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Autos
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551818840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G0G6"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Daimler's self-driving truck company Torc Robotics picks AWS as preferred cloud provider"
@@ -78,6 +83,6 @@ related:
       domain: automotiveworld.com
     quality: 47
 
-secured: "bWwveQwhLA+xznmkbOeew9QIT06gYhpp5VFHrk5yS9f/04nGmrfvhTl3bG49iLFTeI+ME+Y3sW2vwtL8DoMgXZHTMJKJhkMDuUULPDVGAGYPc6K7Qv8Ov0I86w33+BpBOazVCPuh3tdI4CKqrV327S2FA4jLz7st9am+fqeHbqBujwOZjjGLe4ZIFUYc/poYR8/ZshRCPTt+QJVQqoSqGkCLkDQjzMMHm+5YShSRFOt3nAVfheBFwK8yQjzfL2OGP+e8m9c8IODU86DWRGDPkkhVKfFaUe4LeHDp2jJgo/NKyknFgsfUanWzA/OHeioe3v/an+jB5RmlNF0CXGE0AiHVotxMj1zmNtTQcVRJVQU=;gu18yQ7AdNRxlgLTB4orjQ=="
+secured: "930hSky7b0sRyW+K4m0o/+j4iSNyCPrxXtfNI47cXtpbSBd6+cpm+VpDx2DhcZLS01xYVJNttFZPrNflfalXYOV3kf12WNkVPYj3opGF5RzIzX7HDyuMUFQUJT30E3JBDjw5kZ1MOD4m8l5iJ74eDQfSIqPNTGA4qQfbGzuanS5jgoOWjPZK4LfdKkEm7FZokQQ37Ll3NAt1nVIp5dfr775tRkYrnxJ9xi5N6CPozLDJZCJ+Z7qqtiY7tH1qG4+33HQkO1BaOdBo+9miXH7kqSNNBkTYAf+081Y10AtEzKul4hF0TqYpfRBw0wo0RFpDxovfCCut5EHOJohNjrSykDTPOOetNWfiu3CX8hSah8o=;1lIWO7ZtdKDzpA4evJHZtQ=="
 ---
 

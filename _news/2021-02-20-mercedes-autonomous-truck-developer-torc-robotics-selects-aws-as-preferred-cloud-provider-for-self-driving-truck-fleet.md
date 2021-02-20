@@ -28,16 +28,21 @@ images:
 
 related:
   - title: "Daimler's Torc Robotics picks Amazon as cloud provider for self-driving trucks"
-    excerpt: "Daimler AG unit Torc Robotics said on Wednesday it has selected Amazon's cloud computing division to handle huge amounts of data in real time as it prepares to test self-driving test trucks in New Mexico and Virginia."
-    publishedDateTime: 2021-02-17T08:29:00Z
-    webUrl: "https://www.businessinsider.com/daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks-2021-2?amp"
+    excerpt: "A self-driving truck operated by Daimler unit Torc Robotics undergoes testing on a U.S. highway in this undated handout photo. Torc Robotics/Handout via REUTERS"
+    publishedDateTime: 2021-02-17T08:20:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-torc-amazon-com-idUSKBN2AH0SY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH0SY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0SY"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
+      name: Reuters
+      domain: reuters.com
+    quality: 215
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551818840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G0G6"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Daimler's self-driving truck company Torc Robotics picks AWS as preferred cloud provider"
     excerpt: "Torc Robotics, the self-driving truck startup majority-owned by automotive giant Daimler, plans to use Amazon Web Services as its preferred cloud provider. The company, which operates as a semi-independent subsidiary,"
     publishedDateTime: 2021-02-18T11:51:00Z

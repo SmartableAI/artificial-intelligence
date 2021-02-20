@@ -162,6 +162,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "IBM Rumored to Consider Selling Watson Health Unit"
+    excerpt: "The Wall Street Journal quoted sources as reporting that IBM, which is eager to switch to cloud services, is considering selling the Watson Health unit. The latter uses AI technology to enter the medical industry market."
+    publishedDateTime: 2021-02-20T14:55:00Z
+    webUrl: "https://www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/"
+    ampWebUrl: "https://www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/02/20170315_ibm_watson_health1.jpg"
+        width: 960
+        height: 420
+        isCached: true
   - title: "Aifred Health among top three finalists in IBM Watson AI XPRIZE competition"
     excerpt: "AI XPrize is a five-year competition with three judging rounds. Montréal-based Aifred Health was one of more than 700 applicants for the competition."
     publishedDateTime: 2021-02-18T19:11:00Z

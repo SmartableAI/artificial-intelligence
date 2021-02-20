@@ -3,10 +3,10 @@ category: news
 title: "World's fastest supercomputer and AI tapped to predict tsunami flooding"
 excerpt: "Fujitsu's supercomputer Fugaku is powering AI capabilities that could help predict coastal flooding conditions. \"Ordinary PCs\" can run the Fugaku-trained AI model, according to the company."
 publishedDateTime: 2021-02-17T20:28:00Z
-originalUrl: "https://www.techrepublic.com/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
-webUrl: "https://www.techrepublic.com/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/"
 type: article
 quality: 87
 heat: -1
@@ -99,6 +99,6 @@ related:
       domain: benzinga.com
     quality: 12
 
-secured: "7gEugTgo0mO1ja1v7In/3dQUZXkYZSzNLX8Vp773A3885NPXWHMeJDFUGLSxl2h9SHshxW8CdUtvoAsVq0MaKblpmKypaaCtHNirmzzKAQGt6J5PgeW1YdvPqA8RWC4v7J3VUmLOJ9KNLwrT4v1nuEgBWm7DI9TY1MQCVuNhn20L+MuhzVpEZFUh/iVyCRvxvYbOO4V8jonK4LmBq9VoZmZIajIx0tVAvveYua5ZsNwEXLZzwNND/EnU9s956DNJs1y60MlYz/UvOvhxeIot7OfT95G0WB9WYpmHu5xrYY+9tb73L/bv0f4hBY3944pnxZcK3rhjKryyzv7oSic/ATXPG1cR5Q0Vrn4mcUE4myMuKXbETA6hpyA7u7DSNuT71dXon0mPZEkC5e5S94gUEBgGheIZPeaYC+E5wNOHfITuU63k7DWpDC6ipXtbEGjsyJ5yCbFQzGyQ0C1slFAiqPsaQFdIkTfqxS093qOfJZspvca/cZmpZ2rONG8v2fCpjLSz5hvScwyqc7/711nIQg==;u5c6EWU/YAG1f5jYpinhxQ=="
+secured: "eSnsYYB/L4eFO6ovtqk2lkHEQ1k7AGrIEWx5ArzxuT6VUpsqmErEaEETzhvNme1JjVlnW6VlroFHLO/ZIF/LSmASooFkgWBGXR+0EainxMwoWribEigtf8PAhPYQ9hCIsoT5b25kl5Q70XxlbKPRzFls3sRq090VLSkUXvjK+0dha6eZPXwhS6dj7tYXj+DfPiRPUqzQnytrb4LSaNedFRCwh8wFiNGPg/8d1YsUGn6A/ocbNAxOa+uZYrPN+wyIMnsgp3TmphVMmf3YgiKh8ZRVgmSF10bMjfjRggoeuHqpM/2vmfiuiA4M2ttzSLCOLoaHKOHF76ZX5Ex4EoVpSCkWyoWk+x0SralnbguydsI=;LYix7dIomqLeQCpZ08U43A=="
 ---
 

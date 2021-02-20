@@ -1,0 +1,47 @@
+---
+category: news
+title: "Those Guys Overcome Obstacles to Compete in Robotics Season...."
+excerpt: "Those Guys Overcome Obstacles to Compete in Robotics Season. The Long Valley Robotics Team “Those Guys,” formed in 2015, participates in FIRST Tech Challenge (FTC), an organization focused on building a better world by engaging middle and high school students in Science,"
+publishedDateTime: 2021-02-20T14:03:00Z
+originalUrl: "https://patch.com/new-jersey/longvalley/ep/1749860"
+webUrl: "https://patch.com/new-jersey/longvalley/ep/1749860"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Patch
+  domain: patch.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://patch.com/img/cdn20/users/quickpost/20210218/094117/styles/raw/public/img-5347-1jpg-20210218094119-68244200.jpg"
+    width: 1200
+    height: 735
+    isCached: true
+
+related:
+  - title: "New Obstacles for Robotics in 2021"
+    excerpt: "With better functionality, mapping, sustainability, ethics, and privacy, robotics as a whole can solidify itself as a game-changer in every facet of life."
+    publishedDateTime: 2021-02-18T22:12:00Z
+    webUrl: "https://thebossmagazine.com/new-obstacles-for-robotics/"
+    ampWebUrl: "https://thebossmagazine.com/new-obstacles-for-robotics/amp/"
+    cdnAmpWebUrl: "https://thebossmagazine-com.cdn.ampproject.org/c/s/thebossmagazine.com/new-obstacles-for-robotics/amp/"
+    type: article
+    provider:
+      name: BOSS Magazine
+      domain: thebossmagazine.com
+    quality: 74
+    images:
+      - url: "https://thebossmagazine.com/wp-content/uploads/2021/02/thisisengineering-raeng-H4ClLKv3pqw-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+
+secured: "FhwJPFcbgqKEnIQ/pT+gQ5DT92UcV7gqLuR4SFfpSinlzymIZwgw1ecg96LlUlM6DIPYK4GcAFHEovwyTDLgU6ad02mq+mdqJbi/EKTMTukaEevT48PoItlHgmVd9VnjeaF2gcTj7UoamfLDFUW0wI2pYOT/XhEVDODfyBPnHKX5PPrDLCkvjR80mWRZuJntqItez7mUXfCemJ67NEW+ZKahzsanmuXds9il3rKLoqE3RXWLJleE/8CJ4tH2xAPr2kFSF43WS7p9tSRk4oIQkKQYa+O1Pv3gODAO8v8sZXeO+En8pZjcAVuMNZ0kyb25mmxsKHsNs7GWOTrL3abxOpOVKpPHZ12XVMryDLnorpo=;nMBvk1SHmf3yodAREN9pug=="
+---
+

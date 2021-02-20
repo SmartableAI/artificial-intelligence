@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google-ethical-ai-team-fired-three-months-after-co-leaders-controversial-exit/amp/"
 type: article
 quality: 96
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,70 @@ images:
     isCached: true
 
 related:
+  - title: "Google fires Ethical AI lead Margaret Mitchell"
+    excerpt: "Margaret Mitchell was fired today weeks after Google fired Timnit Gebru. A restructure of Google's AI ethics efforts was announced Thursday."
+    publishedDateTime: 2021-02-19T22:35:00Z
+    webUrl: "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/"
+    ampWebUrl: "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Google fires top AI ethics researcher Margaret Mitchell"
+    excerpt: "Google has fired Margaret Mitchell, the founder and former co-lead of the company’s ethical AI team. Mitchell announced the news via a tweet. Google confirmed Mitchell’s firing in a statement to TechCrunch,"
+    publishedDateTime: 2021-02-19T22:59:00Z
+    webUrl: "https://techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/"
+    ampWebUrl: "https://techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/google-glitch1.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Google fires top AI ethicist 2 months after co-leader's ousting, leaving its ethical AI team headless"
+    excerpt: "Both leaders of Google's ethical AI team, Margaret Mitchell and Timnit Gebru, were ousted within two months of each other."
+    publishedDateTime: 2021-02-19T16:03:00Z
+    webUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/603036c1623bd30012bcc557?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google fires top AI ethicist"
+    excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
+    publishedDateTime: 2021-02-20T02:14:00Z
+    webUrl: "https://www.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
+    ampWebUrl: "https://amp.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08f11e90-9311-4283-aa5a-c77e685b599e.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Margaret Mitchell: Google fires AI ethics founder"
     excerpt: "Google has fired the founder and co-head of its artificial intelligence ethics unit, claiming she violated the company's code of conduct."
     publishedDateTime: 2021-02-20T03:58:00Z
@@ -45,19 +109,19 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Google rethinks how it handles ‘sensitive’ employee exits after controversy over AI researcher’s departure"
-    excerpt: "Google plans to change its approach for handling how certain employees leave the company after finishing a months-long review of the abrupt and"
-    publishedDateTime: 2021-02-20T06:20:00Z
-    webUrl: "https://keyt.com/news/money-and-business/2021/02/19/google-rethinks-how-it-handles-sensitive-employee-exits-after-controversy-over-ai-researchers-departure/"
+  - title: "Google fires remaining Ethical AI team leader, months after abrupt departure of her colleague"
+    excerpt: "The remaining leader of Google’s Ethical AI team said she was fired on Friday, hours after the company’s top AI executive apologized for its handling of the abrupt departure of Timnit Gebru, her former fellow team leader."
+    publishedDateTime: 2021-02-19T23:42:00Z
+    webUrl: "https://kesq.com/money/2021/02/19/google-fires-remaining-ethical-ai-team-leader-months-after-abrupt-departure-of-her-colleague/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 21
+      name: KESQ News
+      domain: kesq.com
+    quality: 45
     images:
-      - url: "https://keyt.b-cdn.net/2020/12/keyt-business-technology-generic.jpg"
-        width: 1024
-        height: 576
+      - url: "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png"
+        width: 280
+        height: 360
         isCached: true
 
 secured: "DewW4tYBGFEJCxVA5cISRJ0hS4y0cAObMP6354LGK0DIRxX5Me11imClK/er6llttGPLbBP78I0oiKtxeQ+GY7rItQjtl+rumi2u2hfMD0A+FwmoubK99hsA+k5p9t1yrdEzzGrVGwkIjiMiySD9phx5Hp8fyzqrMmE0StHzsHkQ1xc/50Cyw8PsiKEa5KRnaUOHWJHX2Xsyb1bBCsJ0sppwrA0QYNPcpm9Z4YvfldhBLvWIKSnho/I0X6qsxYbVpgNEyQmkY2pvzxTZLhtfgeuqGlQmNAyx9bux6fLt4nHGqynL9GyfI8GoKYIno13c3nMeT9HL4t9nJRwZqpHqQ5I0rk/sr1kGwcMgdFhIZSVSdiRYYJEj9JPoW02ScJOKVnPGe+A9Incxzg12xF6qDFHUyNg6gHEX/+nIW1kM8HdKSfbHzp2ti0NQn+mma8/pT3Yi+P3ErihAzZpxXtjT2p0ePPCcotKbtrlAhTXJpE4IgwZwMewMTXCthr17E9c869zWq48xph0yOT85StdVjw==;9zsoa7IweJq2gQNnzKPgiw=="

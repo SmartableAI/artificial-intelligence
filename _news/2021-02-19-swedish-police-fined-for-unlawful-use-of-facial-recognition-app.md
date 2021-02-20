@@ -21,15 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Minneapolis passes restrictions on facial recognition use by local police"
-    excerpt: "Minneapolis has passed legislation blocking the use of face biometrics by city police, the Star Tribune reports. The ordinance passed by Minneapolis City Council bars local police and other city agencies from acquiring facial recognition technology,"
-    publishedDateTime: 2021-02-15T21:41:00Z
-    webUrl: "https://www.biometricupdate.com/202102/minneapolis-passes-restrictions-on-facial-recognition-use-by-local-police"
+  - title: "UAE Cabinet approves trial of facial recognition for private sector services"
+    excerpt: "Facial recognition is intended to ensure efficiency in the identification of individuals and reduce paperwork in private and public sector transactions."
+    publishedDateTime: 2021-02-17T22:18:00Z
+    webUrl: "https://www.biometricupdate.com/202102/uae-cabinet-approves-trial-of-facial-recognition-for-private-sector-services"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 38
+    quality: 36
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
