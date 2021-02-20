@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Ecospray Chooses relayr to Revolutionize the Maritime Industry With Artificial Intelligence Powered Solutions"
-    excerpt: "Ecospray, a company specializing in the research and development of cutting-edge systems for controlling air and gas emissions in industrial applications for the Maritime industry, has chosen relayr,"
-    publishedDateTime: 2021-02-19T08:49:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-italy-government-regulations-western-europe-607e57c7916d4b1f98611579d5859637"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "MjAdI1CPn71EIpS6lbIglUlcrEy+hXip1gdctbIXCME8cEuUp5jUu/GbE1ofKxijWSZynCrZDIIvG9dyi08CoOKST5SiaoDFM22py7U4/YWR6YBqOYwAiyIr3PFPlEAyDC/uMpnRvgqt8/Wsh0qIItn+qpfYObcjYZSUes+N5SGodNMBE8AFxhJiCaKSLI8gs9rmDWtInU2qk2vXnWX9K4YyU/xc7k6QqptWpddK09IBmk8NvxQ+Y8jUKKXN69quh1mS/3qLLCcHy8an6trs9ZAr4XOv2dFfvalms3q9cfOoiknOB8QHJIU4Ke472F3DD33DifVRrGL03pydQCMXKCYt26267g+CVo+FNg0lqPs=;Odqj0mjPIbtA867nBATZZQ=="
 ---
 

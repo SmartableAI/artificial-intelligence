@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google rethinks how it handles ‘sensitive’ employee exits after controversy over AI researcher’s departure"
+    excerpt: "Google plans to change its approach for handling how certain employees leave the company after finishing a months-long review of the abrupt and"
+    publishedDateTime: 2021-02-20T06:20:00Z
+    webUrl: "https://keyt.com/news/money-and-business/2021/02/19/google-rethinks-how-it-handles-sensitive-employee-exits-after-controversy-over-ai-researchers-departure/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 21
+    images:
+      - url: "https://keyt.b-cdn.net/2020/12/keyt-business-technology-generic.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "jFaIAQLlDuaxjYb1js+dTt3NstzJwg/ggBchuFECbrIDMi8raK2v0yWGvvWyqF1+6C7TbJaDf2w9gIfYw7rRbM96wWfOX9TgvVp7J04e+w2ydbXnXFTu3YWJzqjFxyAM46J4nBbuirbMg/zwWaVRwVaObDgHK4VtEM5zW+PyDtOB4pWjWfR0rp2JBCYoa5neOLoAJ5Nlh8r84AXCAze/4psbYAXl6z9iB2FtczLtggePyz/ogddcZplAqa8KgMVu097r5ybp0cOshUFulbV8L7Cs3G5EcKv4hmGDaQV6rSeR8mFDbp2/puICGaYAj1DI0IvLsR+FDCUNR5cfssN+1l00whEqynlSMGh8dtmDrSo=;5ftp0OxvE8KR1varZ6h1CQ=="
 ---

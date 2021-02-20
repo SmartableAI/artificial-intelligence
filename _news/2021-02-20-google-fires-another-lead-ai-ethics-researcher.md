@@ -209,6 +209,22 @@ related:
         width: 875
         height: 504
         isCached: true
+  - title: "Google fires artificial intelligence ethics researcher over dismissal of Black woman employee"
+    excerpt: "Mitchell's dismissal came a day after Google named one of its few Black executives, Marian Croak, as head of a new center of expertise on responsible AI within Google Research."
+    publishedDateTime: 2021-02-20T06:19:00Z
+    webUrl: "https://www.newindianexpress.com/world/2021/feb/20/google-fires-artificial-intelligence-ethics-researcher-over-dismissal-of-black-woman-employee-2266556.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2021/feb/20/google-fires-artificial-intelligence-ethics-researcher-over-dismissal-of-black-woman-employee-2266556.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2021/feb/20/google-fires-artificial-intelligence-ethics-researcher-over-dismissal-of-black-woman-employee-2266556.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 63
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/1/21/w600X390/Google_AP.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Google revamps AI teams in wake of researcher’s departure"
     excerpt: "Croak, a vice president of engineering, will be the Lead for the Responsible AI Research and Engineering Center of Expertise, she said in a YouTube video announcing her appointment Thursday."
     publishedDateTime: 2021-02-18T23:15:00Z
@@ -312,6 +328,6 @@ related:
         height: 333
         isCached: true
 
-secured: "PJPs2+BQxMF4hce2qnLxUMYEM4M/+wrWd66xrETJWmKRX9Yf9yRjiNNR7J2OlZszDtoLJnPg7fpoYLeATdfFVRSt03RzgHoKeWr/z+jkqLI/yCiFJa6018cPvb7TPMfXJuE1KK6FlN9Qg+4K8yJrP+KmbtKoQkTNjJ7xc9y05Y4jjmUcEJNvMXQQ3MQz7yCvtho0JQUk4nzmKh8otarmgFKeT14mic1ABVKrzoN0TDtE5tYg3at6m/jCoNbZ6VU90F2Mqy0/J87ENw1lOyMCnMft6XGF51zrCaX93DtNQ7zsdPoV8ihuTC2DT932Z7T5Ijf8PkDj8U3XwjoydS1K6rzawgewt8wdYeIQE12ra1c=;tM1Btxixif00u4V2/rxvsg=="
+secured: "a4g8I7pmT9FiMLsJXvrqSnZhVioqAs6vmYVQp0u6HHys9fyxnS/r18kj6i2ZPcG9ucEe0SnPYaPrRh1Pw3bjOocG8ZhIBamrm5mHfBxPYXp1JAor8GQT79xX6TpdT7pY/bZ/ZB3CchjMWP5sYdyQJqgPsWRa2uR5hTOdbccJldXxlhsRhMBxQllmFhdDxRovPN8INuxGbMSgZF0qzBx49p4KFHY96iF11ehvpMvmGfX6a4S/SCUZfaySEPN/EfHlyRW6yiHR2/6r7rJgpVib+uAknjzsXuqKhWkVv5fkNVJ7gkWZKKsJrr2SXyUSpHMQSZAQa0OrUUMFYGrBFcepXuflLUhgzjlAwREn07SFVgiooUEa6M6alAFYPqXZwIaM6JYQT77cEJzZvT+7GSFhdFd4io0Z6+KQi7lwRwppg3ENt+iHO3P5TIykHO2uBHppknKG4RO11ornsyMCsyHFR0ABRsx6Lutu9EpAqjdjGuVWbsXAvMDk2XpeCJrNb/jqSAWn2dlutAIhLmFELjKCfA==;n60nFX/LoJHhFhXrnRc1MA=="
 ---
 

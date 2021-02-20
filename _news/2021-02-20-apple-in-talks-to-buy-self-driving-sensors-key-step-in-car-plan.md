@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discus
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
 type: article
 quality: 54
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Apple in-talks with LiDAR suppliers for self-driving car"
+    excerpt: "Apple is reportedly in discussions with LiDAR sensor suppliers for its self-driving car project. The report is by Bloomberg, and it states that the"
+    publishedDateTime: 2021-02-20T06:56:00Z
+    webUrl: "https://www.ilounge.com/news/apple-car-lidar-supplier-talks"
+    type: article
+    provider:
+      name: iLounge
+      domain: ilounge.com
+    quality: 24
+    images:
+      - url: "https://www.ilounge.com/wp-content/uploads/2020/12/Apple-Car-1.png"
+        width: 2296
+        height: 1498
         isCached: true
   - title: "Apple reportedly talked with Nissan about building its self-driving electric car"
     excerpt: "Comment Now! Apple approached Nissan about becoming a contract manufacturer for its much-discussed self-driving electric car, according to the"

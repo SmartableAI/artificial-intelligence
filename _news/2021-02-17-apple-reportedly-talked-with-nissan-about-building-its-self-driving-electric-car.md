@@ -129,6 +129,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Apple in-talks with LiDAR suppliers for self-driving car"
+    excerpt: "Apple is reportedly in discussions with LiDAR sensor suppliers for its self-driving car project. The report is by Bloomberg, and it states that the"
+    publishedDateTime: 2021-02-20T06:56:00Z
+    webUrl: "https://www.ilounge.com/news/apple-car-lidar-supplier-talks"
+    type: article
+    provider:
+      name: iLounge
+      domain: ilounge.com
+    quality: 24
+    images:
+      - url: "https://www.ilounge.com/wp-content/uploads/2020/12/Apple-Car-1.png"
+        width: 2296
+        height: 1498
+        isCached: true
   - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
     publishedDateTime: 2021-02-19T16:02:00Z

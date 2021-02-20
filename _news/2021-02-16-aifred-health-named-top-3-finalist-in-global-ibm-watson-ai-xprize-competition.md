@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Explores Sale of IBM Watson Health"
+    excerpt: "IBM is studying alternatives for the unit that could include a sale to a private-equity firm or industry player, or a merger with a blank-check company, as the technology giant moves to streamline and become more competitive in cloud computing."
+    publishedDateTime: 2021-02-19T06:21:00Z
+    webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-301391/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Humana (HUM) Joins IBM Watson Health to Aid Member Experience"
     excerpt: "Humana Inc. HUM recently tied up with IBM Watson Health through which it can serve its members better through the latter’s conversational AI solution. The partnership is expected to provide more transparency on benefits to the Humana Employer Group members."
     publishedDateTime: 2021-02-15T16:18:00Z
@@ -61,22 +77,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Humana, IBM Partner To Streamline Member Engagement With AI"
-    excerpt: "Humana has announced a partnership with IBM Watson Health that seeks to improve member engagement through artificial intelligence. The solution will use an artificial intelligence-enabled virtual assistant to provide accurate benefits,"
-    publishedDateTime: 2021-02-16T15:01:00Z
-    webUrl: "https://healthpayerintelligence.com/news/humana-ibm-partner-to-streamline-member-engagement-with-ai"
-    ampWebUrl: "https://healthpayerintelligence.com/news/amp/humana-ibm-partner-to-streamline-member-engagement-with-ai"
-    cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/humana-ibm-partner-to-streamline-member-engagement-with-ai"
-    type: article
-    provider:
-      name: healthpayerintelligence.com
-      domain: healthpayerintelligence.com
-    quality: 59
-    images:
-      - url: "https://healthpayerintelligence.com/images/sized/GettyImages-1189484012-3f32efd853ffed8e5d8a1184abc2c18d.jpg"
-        width: 480
-        height: 278
-        isCached: true
   - title: "IBM Considers Selling Watson Health Division: Report"
     excerpt: "IBM Considers Selling Watson Health Division: Report International Business Machines (IBM) - Get report Watson Health is considering the"
     publishedDateTime: 2021-02-19T09:03:00Z
@@ -93,21 +93,99 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM may sell its $1B Watson Health business: Report"
-    excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable."
-    publishedDateTime: 2021-02-20T04:21:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
+  - title: "IBM explores sale of Watson Health"
+    excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter."
+    publishedDateTime: 2021-02-19T02:10:00Z
+    webUrl: "https://www.foxbusiness.com/healthcare/ibm-explores-sale-of-watson-health"
+    ampWebUrl: "https://www.foxbusiness.com/healthcare/ibm-explores-sale-of-watson-health.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/healthcare/ibm-explores-sale-of-watson-health.amp"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
+      name: Fox Business
+      domain: foxbusiness.com
     quality: 59
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2020/10/09/1004451-ibm-india.jpg"
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202003/435/854081161001_6145981503001_6145981661001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "IBM Investigates Sale of IBM Watson Health"
+    excerpt: "IBM Investigates Sale of IBM Watson Health International Business Machines Corp. is investigating a possible sale of its IBM Watson"
+    publishedDateTime: 2021-02-19T09:15:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Investigates-Sale-of-IBM-Watson-Health.jpeg"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "IBM is investigating the sale of Watson Health"
+    excerpt: "IBM is investigating the sale of Watson Health Cameron Clayton, CEO of IBM's The Weather Company, on The Weather Channel's online tools"
+    publishedDateTime: 2021-02-19T07:31:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/ibm-is-investigating-the-sale-of-watson-health/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/ibm-is-investigating-the-sale-of-watson-health/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/ibm-is-investigating-the-sale-of-watson-health/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-is-investigating-the-sale-of-Watson-Health.jpg"
+        width: 2560
+        height: 1712
+        isCached: true
+  - title: "App designed to combat malaria Finalist in IBM Watson XPRIZE contest"
+    excerpt: "The app is designed to work even in environments in which internet is not always available, as well as on low-cost phones."
+    publishedDateTime: 2021-02-20T04:06:00Z
+    webUrl: "https://www.jpost.com/international/app-designed-to-combat-malaria-finalist-in-ibm-watson-xprize-contest-659583"
+    ampWebUrl: "https://m.jpost.com/international/app-designed-to-combat-malaria-finalist-in-ibm-watson-xprize-contest-659583/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/international/app-designed-to-combat-malaria-finalist-in-ibm-watson-xprize-contest-659583/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/471645"
+        width: 640
+        height: 428
+        isCached: true
+  - title: "IBM may sell its $1B Watson Health business: Report"
+    excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable."
+    publishedDateTime: 2021-02-20T06:21:00Z
+    webUrl: "https://www.thestatesman.com/technology/ibm-may-sell-1b-watson-health-business-report-1502953209.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/ibm-may-sell-1b-watson-health-business-report-1502953209.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ibm-may-sell-1b-watson-health-business-report-1502953209.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 59
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/02/iStock-IBM-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
+    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
+    publishedDateTime: 2021-02-20T00:48:00Z
+    webUrl: "https://www.supplychaindigital.com/sustainability/ibm-watson-ai-xprize-leveraging-ai-good-people"
+    type: article
+    provider:
+      name: Supply Chain Digital
+      domain: supplychaindigital.com
+    quality: 54
+    images:
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62akld01xsi200220214421.jpeg"
         width: 1000
-        height: 600
+        height: 563
         isCached: true
   - title: "Aifred Health among top three finalists in IBM Watson AI XPRIZE competition"
     excerpt: "AI XPrize is a five-year competition with three judging rounds. Montréal-based Aifred Health was one of more than 700 applicants for the competition."
@@ -138,6 +216,20 @@ related:
       - url: "https://www.businessinsider.in/thumb/81121844.cms?height=275&width=412"
         width: 412
         height: 275
+        isCached: true
+  - title: "Will IBM’s reported desire to sell Watson cast a shadow over big tech’s healthcare ambitions?"
+    excerpt: "IBM is reportedly looking to sell its Watson Health business. If true, it would be another stumble in a much-hyped healthcare project by a technology company."
+    publishedDateTime: 2021-02-20T02:03:00Z
+    webUrl: "https://medcitynews.com/2021/02/will-ibms-reported-desire-to-sell-watson-cast-a-shadow-over-big-techs-healthcare-ambitions/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 45
+    images:
+      - url: "https://medcitynews.com/uploads/2018/09/GettyImages-871148930-1.jpg"
+        width: 619
+        height: 416
         isCached: true
   - title: "IBM considers selling IBM Watson Health: 5 notes"
     excerpt: "IBM is exploring the sale of its IBM Watson Health business as the company looks to ramp up its cloud computing division, according to a Feb. 19 Wall Street Journal report. Five notes: 1. IBM is looking into alternatives for the health unit,"
@@ -195,6 +287,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Marinus Analytics is the lone US company in the final round of the $5 million IBM Watson AI XPRIZE competition"
+    excerpt: "In 2019 alone, the company claims that Traffic Jam helped to identify an estimated 3,800 victims of sex trafficking."
+    publishedDateTime: 2021-02-17T20:27:00Z
+    webUrl: "https://nextpittsburgh.com/latest-news/marinus-analytics-is-the-lone-us-company-in-the-final-round-of-the-5-million-ibm-watson-ai-xprize-competition/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 34
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/02/17145743/Marinus-.jpg"
+        width: 750
+        height: 563
+        isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
     publishedDateTime: 2021-02-18T19:36:00Z
@@ -206,8 +312,8 @@ related:
     quality: 19
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
-    publishedDateTime: 2021-02-20T04:00:00Z
-    webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report-2/"
+    publishedDateTime: 2021-02-20T03:57:00Z
+    webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report/"
     type: article
     provider:
       name: Canindia.com

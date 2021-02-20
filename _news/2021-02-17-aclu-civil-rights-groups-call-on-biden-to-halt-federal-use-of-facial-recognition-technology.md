@@ -199,17 +199,6 @@ related:
         width: 1290
         height: 726
         isCached: true
-  - title: "Sheikh Mohammed approves use of facial recognition tech to enhance services in UAE"
-    excerpt: "The UAE seeks to leverage facial recognition technology to reduce paper-based transactions in private and government sectors"
-    publishedDateTime: 2021-02-15T14:06:00Z
-    webUrl: "https://www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae"
-    ampWebUrl: "https://www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 33
 
 secured: "IaXnHuUQT2fX76IwPKFClJIr75Yzv/38VwMW8YPVaAH68QCvqNYax/mmSuYDBemPv/XVC6hECq0cuiV51b4V+9VwV9m499dt+vpN3shQJc9bEhMDtzLQCuhZJgg+Bvb4pDEtxl3mC7f6ZbsJO5GsHhFesjusRXkMcCG39Z7TBaey4kj7sw2+Pq5+qpL9jkRersORWstIfDPwEPr9Bn5CYU57UADZ1el/lZoPVFRiw0IAf/3nGxzc0tfSJ/sC+1n3CMCduNf289NoUWKSAogsk2Xe87+Rbu4ENvo6CEXtNmot/gApI/GHoY9VRo09wXD1XqdCN4rhIacV35JjNZZhBEzDQhkomumrOXe3DpNQBRM=;EvF5QiGyEJwtCyyCB8tVPA=="
 ---

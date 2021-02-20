@@ -208,6 +208,22 @@ related:
         width: 875
         height: 504
         isCached: true
+  - title: "Google fires artificial intelligence ethics researcher over dismissal of Black woman employee"
+    excerpt: "Mitchell's dismissal came a day after Google named one of its few Black executives, Marian Croak, as head of a new center of expertise on responsible AI within Google Research."
+    publishedDateTime: 2021-02-20T06:19:00Z
+    webUrl: "https://www.newindianexpress.com/world/2021/feb/20/google-fires-artificial-intelligence-ethics-researcher-over-dismissal-of-black-woman-employee-2266556.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2021/feb/20/google-fires-artificial-intelligence-ethics-researcher-over-dismissal-of-black-woman-employee-2266556.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2021/feb/20/google-fires-artificial-intelligence-ethics-researcher-over-dismissal-of-black-woman-employee-2266556.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 63
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/1/21/w600X390/Google_AP.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Google revamps AI teams in wake of researcher’s departure"
     excerpt: "Croak, a vice president of engineering, will be the Lead for the Responsible AI Research and Engineering Center of Expertise, she said in a YouTube video announcing her appointment Thursday."
     publishedDateTime: 2021-02-18T23:15:00Z

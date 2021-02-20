@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "There is Far More behind Artificial Intelligence and Machine Learning than you Might Think! - Success is in the Data and the Maths"
-    excerpt: "There is Far More behind Artificial Intelligence and Machine Learning than you Might Think! - Success is in the Data and the Maths By Stuart Curley, CTO, NGA Human Resources - Everyone seems to want artificial intelligence (AI) and machine learning (ML),"
-    publishedDateTime: 2021-02-19T04:38:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/there-is-far-more-behind-artificial-intelligence-and-machine-learning-than-you-might-think-success-is-in-the-data-and-the-maths-nid-29490-cid-175.html"
+  - title: "Android 12 can use machine learning to solve the back gestures problem"
+    excerpt: "Android 12 can use machine learning to solve the back gestures problem Google recently released Android 12's first Developer Preview, and"
+    publishedDateTime: 2021-02-20T06:43:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/android-12-can-use-machine-learning-to-solve-the-back-gestures-problem/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/android-12-can-use-machine-learning-to-solve-the-back-gestures-problem/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/android-12-can-use-machine-learning-to-solve-the-back-gestures-problem/amp/"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 56
+      name: Windows
+      domain: compsmag.com
+    quality: 59
     images:
-      - url: "https://www.cioreview.com/newsimages/special/6zZ0Dc28.jpeg"
-        width: 300
-        height: 300
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Android-12-can-use-machine-learning-to-solve-the-back.jpg"
+        width: 1200
+        height: 1014
         isCached: true
 
 secured: "aJxU14U2QYdr+JkQ4swcIf7JOMS+UE4wHnHAi1pjJ8hgwFb2LODkPWdMSvu/ydT1mjf7pUbKX9hqW4jGngsw+1s/fibMUFy7oZVuXNKnyWpmJaIIcxopUox5MO6BIMYwHalve3uiXv9ycZpB3c9RC+/zIKPc3KbNiUvtf2GTmMRw7Bj+F5cB5z6TE07OmPnffY3TUETQYxIY2jkiHQmODwI+jOOpNrcHey1TcDi7N4slIqSnsuQkUWu5qW1k1MMmpnekiLzp9vhzRQ6yDUF+ouw7oLC2mP6lZ7MmSSCxWfz0kbsJQF1WQmoEbIeh6EUVXRglUfiWvMhmvkvUAmLbH3FkPr+1j6UCBk66z/AtUO0=;cMcBqEz0gZOq7Z8ckrUu2w=="

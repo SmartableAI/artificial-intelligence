@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Google fires AI manager who protested her peer’s departure"
-    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-    publishedDateTime: 2021-02-20T01:19:00Z
-    webUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
-    ampWebUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field"
+    publishedDateTime: 2021-02-20T06:17:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/google-fires-ai-manager-who-protested-her-peers-departure/2021/02/19/5bc792d0-7319-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/google-fires-ai-manager-who-protested-her-peers-departure/2021/02/19/5bc792d0-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/google-fires-ai-manager-who-protested-her-peers-departure/2021/02/19/5bc792d0-7319-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 59
     images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/06/cropped-Browser-tab-logo.jpg"
-        width: 512
-        height: 512
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "7xDXab5X8o77ij5QlbcB0gyKbl9NUEc5YzmBkHrV4gXbDJTPKiXUXV4DgsmkQvnFm9Hdg/15ER5d1lnm54vKmOZ/8qQ74vFbbMEvOwmxs1z3LKihVhveWZEmNyTMql09QcHpLY470bR5jdh+r7igmrQTsFTxuZQEZn9SbxR17sjdkyqaW+kfi5/NRGzKM844ofPP50ZakWECqFHCsKbFpBmob697ZXwgR5RFaHcFcnWmcATm/Qt1pRt/g/U2sKGa4LUMYBsWDjtJyqx6oLwwF2QeSsjOA+envosTTm0Vyj7vLF2tUV3u23zErm6mPxs27/99SM2rEJpmjeFBTxdFLC1zMAQYV3PFMNSZZO1Bqdc=;qhntSFYD+TxSq+qvIuRa3w=="

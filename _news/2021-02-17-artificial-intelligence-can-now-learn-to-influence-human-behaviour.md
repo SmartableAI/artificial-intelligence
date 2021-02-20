@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/986893/artificial-intelligence-can-now
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/986893/artificial-intelligence-can-now-learn-to-influence-human-behaviour"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI could spot your weaknesses and influence your choices"
-    excerpt: "In experiments, an AI system successfully learned to influence human decisions. That could be useful in behavioral sciences, public policy, and welfare."
-    publishedDateTime: 2021-02-15T13:33:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/"
+  - title: "Data61 researchers prove AI can learn to manipulate human behaviour: What’s next?"
+    excerpt: "Last year, CSIRO developed an AI Ethics Framework for the Australian government as an early step in this journey. AI and machine learning are typically very hungry for data, which means it is crucial to ensure we have effective systems in place for data ..."
+    publishedDateTime: 2021-02-15T22:57:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence-ai-manipulate-human-behaviour/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 91
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 34
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/AI-decision-making-hed-796x404.jpg"
-        width: 796
-        height: 404
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/02/Computers.jpg"
+        width: 733
+        height: 358
         isCached: true
 
 secured: "eMIS3I4LKc9VqRi6KqdzFewd6Rah8cGtuohqXHGodsH9hARttAl0sL4gQa2l5Cbjl9WlTFlvO1cBNIAd7/NCFkQWhs0dGuWnbAoGN+3FvUxOd0qkER4EN/LrRYYb3j1yPrJy6IaYGxxdHegXgE2gfn1oRP9u6usuB/yF26JlPysLJVvpPnN2o2V4DedOuZ04L7nNMSNIuTqgD7tMqJVzdKIu3DdtPBBj0jN7gomjfcoc0c5ovoJtM7odwK4eBDMTTZdG81EW5WRC1TXHXAvUNu6+cLiJwCllnmawgClS7K3WscCzEIHx1NJWNQV16bPHx2I7a/72saPfR3SxmWtSvuKgTPkqOL62ACHQYjV5v7g=;UQbiM4iZOP163RD7EhWz2A=="

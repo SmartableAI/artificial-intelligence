@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Google will open first office in Minnesota, and it won't be in the Twin Cities"
+    excerpt: "Technology giant Google announced Thursday it plans to open in Rochester the company's first office in Minnesota, a development that company officials said will bolster an ongoing partnership with the Mayo Clinic."
+    publishedDateTime: 2021-02-19T10:01:00Z
+    webUrl: "https://www.startribune.com/google-will-open-first-office-in-minnesota-and-it-won-t-be-in-the-twin-cities/600024555/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 20
+    images:
+      - url: "https://chorus.stimg.co/22312800/ows_74066d07_d34c_4657_a75c_e5ccf5436c86.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "P/uKKcNR4gHFbP0SLPwpPqm2XTwLVN9qR3A5hCJ8Zv9cJNJKUYO58J3MkQIEWTUBMPiYmbGRAZiJ/bY6XAcmWfR2LamfBM3iL/dlpfcRmnrCkKa2lD7EavLkeGgxyHGqQoNTJvyAcvGGXMwJbCxmkU6NAMJ5ckD1c06sdl7RgoIIxmney5KZVAAHM/9DKaTNWp7LaaYPfvPZshZpRyuKyepZs8CDQIP0yWbr3Pck7oTIOugm88DeXno1msnkddy/1GFqV4ieGHiM/VSGFxP8LXQ/+VMZCH+2bC4lCRcQHt+3/6/rXLPLW9pLq2qMSMO8Yen5y0D+kTtmmQWniFRhcDhGwlLNctqQWf1whbw8vIg=;TNNsuGPJrjzAYXQrN9kpeA=="
 ---
 

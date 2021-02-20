@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google-ethical-ai-team-fired-three-months-after-co-leaders-controversial-exit/amp/"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.myjoyonline.com/wp-content/uploads/2021/02/117095662_7c1e1076-acc3-49f2-b2a5-900bb9a9f42b.jpg"
         width: 976
         height: 549
+        isCached: true
+  - title: "Google rethinks how it handles ‘sensitive’ employee exits after controversy over AI researcher’s departure"
+    excerpt: "Google plans to change its approach for handling how certain employees leave the company after finishing a months-long review of the abrupt and"
+    publishedDateTime: 2021-02-20T06:20:00Z
+    webUrl: "https://keyt.com/news/money-and-business/2021/02/19/google-rethinks-how-it-handles-sensitive-employee-exits-after-controversy-over-ai-researchers-departure/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 21
+    images:
+      - url: "https://keyt.b-cdn.net/2020/12/keyt-business-technology-generic.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "DewW4tYBGFEJCxVA5cISRJ0hS4y0cAObMP6354LGK0DIRxX5Me11imClK/er6llttGPLbBP78I0oiKtxeQ+GY7rItQjtl+rumi2u2hfMD0A+FwmoubK99hsA+k5p9t1yrdEzzGrVGwkIjiMiySD9phx5Hp8fyzqrMmE0StHzsHkQ1xc/50Cyw8PsiKEa5KRnaUOHWJHX2Xsyb1bBCsJ0sppwrA0QYNPcpm9Z4YvfldhBLvWIKSnho/I0X6qsxYbVpgNEyQmkY2pvzxTZLhtfgeuqGlQmNAyx9bux6fLt4nHGqynL9GyfI8GoKYIno13c3nMeT9HL4t9nJRwZqpHqQ5I0rk/sr1kGwcMgdFhIZSVSdiRYYJEj9JPoW02ScJOKVnPGe+A9Incxzg12xF6qDFHUyNg6gHEX/+nIW1kM8HdKSfbHzp2ti0NQn+mma8/pT3Yi+P3ErihAzZpxXtjT2p0ePPCcotKbtrlAhTXJpE4IgwZwMewMTXCthr17E9c869zWq48xph0yOT85StdVjw==;9zsoa7IweJq2gQNnzKPgiw=="

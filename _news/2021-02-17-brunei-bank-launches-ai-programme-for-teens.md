@@ -7,8 +7,8 @@ originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/17/bru
 webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/17/brunei-bank-launches-ai-programme-for-teens"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Star
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google sacks founder of its artificial intelligence ethics programme amid 'sexism and discrimination' claims"
+    excerpt: "Tech giant Google has fired the head of its artificial intelligence (AI) ethics programme, claiming she had broken the rules on moving files outside of the company."
+    publishedDateTime: 2021-02-20T06:56:00Z
+    webUrl: "https://www.manxradio.com/news/world-news/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims/"
+    type: article
+    provider:
+      name: Manx Radio
+      domain: manxradio.com
+    quality: 50
+    images:
+      - url: "https://e3.365dm.com/21/02/640x380/skynews-google-logo-window_5258589.jpg?20210202104638"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Call for applications: doctoral programme “Artificial Intelligence for the Sciences”."
     excerpt: "Carried by the PSL University, the doctoral program “Artificial Intelligence for the Sciences” launches a call for applications open until February 26, 2021. 23 thesis topics on AI or massive data processing interfaces are available."
     publishedDateTime: 2021-02-16T18:21:00Z

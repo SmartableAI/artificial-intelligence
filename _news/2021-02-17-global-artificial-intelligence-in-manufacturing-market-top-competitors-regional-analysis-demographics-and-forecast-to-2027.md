@@ -28,49 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in Fintech Market 2021 Key Players, Share, Trend, Segmentation and Forecast to 2027"
-    excerpt: "New Study Reports \"AI in Fintech Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \" AI in Fintech Market \" using SWOT analysis i."
-    publishedDateTime: 2021-02-17T21:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2021-key-players-share-trend-segmentation-and-forecast-to-2027-2021-02-17"
+  - title: "Cloud Natural Language Processing (NLP) Market Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2024"
+    excerpt: "Selbyville, Delaware. The report on Cloud Natural Language Processing (NLP) market is a comprehensive evaluation"
+    publishedDateTime: 2021-02-18T00:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024-2021-02-18?tesla=y"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Israeli Fintech Mirato, which Uses AI and Natural Language Processing for its Risk Management Solution, Secures $9M in Capital"
-    excerpt: "Israeli Fintech Mirato, which uses AI and natural language processing for its risk nanagement solution, secures $9M in capital."
-    publishedDateTime: 2021-02-17T13:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 48
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Azrieli-Center-Tel-Aviv-Israel-300x260.jpeg"
-        width: 300
-        height: 260
-        isCached: true
-  - title: "Global Payments to Participate in KBW Fintech Payments Conference"
-    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President & Chief Financial Officer,"
-    publishedDateTime: 2021-02-18T20:06:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=424517"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "nJaHWQG0ELdFClGar48OIsdG+xLefXq0y862H0AMdzVIuAOBNyOFzCd8rzhxn5TyWMCTt71x7QwbGjM3D9QLC0JpggGkWvG3kCeV5oWs455b2n2Lf6wL/1M4xgvNDWearF9VAyOD9uv/ovQyMzQaYtBs/oLK+Oh3SJYKz5F4azj3Fkd6d3kCymAFOqbzchVEV/lZ9MAQmj3Ut3KrgHZnBLzWm+PUCVk22RZKcnC7GutFkLTqRbuAddck42lcEePh9EiPIkGPgnERsDjRbbO2aXYvUrav0F1KlaYiuuYTX7DYBTOIe1qpU0c4QTnIhlb4EIP8bjePbWCnM9cSvIMvx79VCyW0ylIz0JdFecN5d/0=;zdfYZfTCB6ciHhbk7b4JXw=="

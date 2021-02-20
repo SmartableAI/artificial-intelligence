@@ -185,17 +185,6 @@ related:
         width: 1290
         height: 726
         isCached: true
-  - title: "Sheikh Mohammed approves use of facial recognition tech to enhance services in UAE"
-    excerpt: "The UAE seeks to leverage facial recognition technology to reduce paper-based transactions in private and government sectors"
-    publishedDateTime: 2021-02-15T14:06:00Z
-    webUrl: "https://www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae"
-    ampWebUrl: "https://www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96066-sheikh-mohammed-approves-facial-recognition-tech-enhance-services-uae?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 33
   - title: "ACLU, Civil Rights Groups Call on Biden to Halt Federal Use of Facial Recognition Technology"
     excerpt: "The American Civil Liberties Union and a coalition of more than 40 organizations are calling on President Biden to take executive action imposing a federal moratorium on the use of facial recognition technology."
     publishedDateTime: 2021-02-17T00:00:00Z

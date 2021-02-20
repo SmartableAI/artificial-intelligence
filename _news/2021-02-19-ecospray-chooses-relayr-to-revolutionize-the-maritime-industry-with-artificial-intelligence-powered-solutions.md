@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Botco.ai Closes Funding to Revolutionize the Healthcare Experience Through Intelligent Chat"
-    excerpt: "Botco.ai is an AI-powered marketing automation solution that facilitates meaningful and intelligent conversations between providers and consumers at scale. Botco.ai will use the capital for product development,"
-    publishedDateTime: 2021-02-17T06:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-marketing-and-advertising-corporate-news-venture-capital-0ca281a9b0a4413b953286ef65b7911a"
+  - title: "The Pro’s and Con’s of AI and Robo Wealth Management Solutions Discussed by Robert Cannon"
+    excerpt: "The new age of AI and Robo Management Solutions has dawned. In a post-pandemic world, predictions point towards more sophisticated applications of artificial intelligence (AI) across industries, which includes financial services,"
+    publishedDateTime: 2021-02-20T06:03:00Z
+    webUrl: "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/"
+    ampWebUrl: "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 44
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://techbullion.com/wp-content/uploads/2017/02/global-wealth-management-market.jpg"
+        width: 740
+        height: 400
         isCached: true
 
 secured: "f5ixDnGTwq9P4DF2vwNH2jaWo0qyJytgxFNFwJ5JIgP0Ru1/DPWBR1bXIk4KzsqLVXBdxUbAczoKoyPT3mBzsuNDsD9CJqsJvuIntrjTDG2eF5GDPXyOJrCZ9HiH9MOTtxcaiktHVHJ39xBsgGLk1z6/GgaNbWt0qxeGGO7n/mQWyZeSmDJzB2Lrnf16Ts4c3SQtQUDaCgE3XS2JlE9XJXYpGv4afM75xN5fbxVNOOoZyBfavgbbfmpYimvdXCAVmkZctSw58Oqf8mDjMWb8hLcrks5N+voHLvVh/0TMAhd2RS1EW3azjlnSXVWmRkANvlrmD+wCOzwCO6654MRNGIKBfkddkneCcP6JPL6UKaA=;qeMLLxhiKjclsm52Ota8tw=="
