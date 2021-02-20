@@ -80,6 +80,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Apple in talks with suppliers for AV sensors, report says"
+    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+    publishedDateTime: 2021-02-19T16:50:00Z
+    webUrl: "https://www.autonews.com/mobility-report/apple-talks-suppliers-av-sensors-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Apple reportedly talked with Nissan about building its self-driving electric car"
     excerpt: "Comment Now! Apple approached Nissan about becoming a contract manufacturer for its much-discussed self-driving electric car, according to the"
     publishedDateTime: 2021-02-16T18:00:00Z

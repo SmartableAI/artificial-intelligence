@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-19-new-project-investigates-artificial-intelligence-for-sustainable-energy-integration.md",
+      "title": "New project investigates artificial intelligence for sustainable energy integration",
+      "excerpt": "The collaboration includes H2GO Power, EMEC, and Imperial College London for H2 tech. A new research project has been launched for examining and demonstrating",
+      "sourceUrl": null,
+      "webUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
+      "originalUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hydrogenfuelnews.com/wp-content/uploads/2021/02/Artificial-intelligence-for-sustainable-energy-Businesss-Research-AI.jpg",
+          "width": 875,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
+      "cdnAmpWebUrl": "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
+      "publishedDateTime": "2021-02-19T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hydrogen Fuel News",
+        "domain": "hydrogenfuelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-robot-proof-higher-education-in-the-age-of-artificial-intelligence.md",
       "title": "Robot-Proof: Higher Education in the Age of Artificial Intelligence",
       "excerpt": "Robot-Proof: Higher Education in the Age of Artificial Intelligence By Joseph E. Aoun, President, Northeastern University - As advanced machines and computers become more and more proficient at picking investments,",
@@ -43,58 +85,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-ibm-explores-sale-of-ibm-watson-health.md",
-      "title": "IBM Explores Sale of IBM Watson Health",
-      "excerpt": "IBM is studying alternatives for the unit that could include a sale to a private-equity firm or industry player, or a merger with a blank-check company, as the technology giant moves to streamline and become more competitive in cloud computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770",
-      "originalUrl": "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-301391/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770",
-      "publishedDateTime": "2021-02-18T22:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     },
     {

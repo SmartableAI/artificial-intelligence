@@ -94,6 +94,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Apple in talks with suppliers for AV sensors, report says"
+    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+    publishedDateTime: 2021-02-19T16:50:00Z
+    webUrl: "https://www.autonews.com/mobility-report/apple-talks-suppliers-av-sensors-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "T/l+MoZS9dyrswYblaKu6OE4tMJ02c9kxWdgk5FsjPnzaN+dKr6RQnart0ghpOfcLrfnpB34oYkTt3gQlzjqW3j3nTjXncdMUpF8hOB7sxe1zi1FvoxUUjiOKlLJ6FnDwu5w+qJU/UCC7Pex+FYb6J7LExIiEJVFTQ3gR7PRwAMNRPraIz4eIU8rAH2Abacn0XttZS5eRYudie/pRa4KwnykQl3MutOYqtAGyhOTh4scCnqXNm71zoDQWt/AuhbQ1CUy2eGb+jS/gCiDqkEB6Sw8R6rzHI5u+4/vQ03gfc2fkc/1cERNeOx5ILimynvFNm3Tk4YzhSmofh9+hI+fIp22VxGmK8GhPXVQS6UUtkujP2E4iCD4ioP4c+RyaskNSy/wKTE15E7Xjr7DXbfqrDyzdrkGT5QBjjZtYVzXbUxpxW5pWtJ+89+v3KJnLdqBcPpPla4JFlMtDLxsBFppf7SLXL3kslJyjX8pi4sMh00fperKS3LhhsV9icT16AWijmnqUKhjJp0MuCKCEZfk3w==;dlOKspWTfw0MoGgXpUd++w=="
 ---

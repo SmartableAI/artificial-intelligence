@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-stu
 ampWebUrl: "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all"
@@ -30,6 +32,6 @@ images:
     height: 600
     isCached: true
 
-secured: "cNu+wpeK+9zWe35THlPwvAg7wAZEJO9tpC8suIQS9soUsfrf7ogmY0zzh1+x7JzSzrIbM5Pui/bUecgof0BKxQjXzdvyT+iA4EMkVgpUDHUdIX7v4xMBLWCfHC0CX/Sx0etn2VBy4YBpedSIbTvoUa3UTyBwtvd4uDiPaGBL5nFvvx81HV4Zcwh+PF3GpMHJYliQABEgXQbSVHaNI6bXOPCBTdir+jc08y8YNrSgfaSYeXfcvBshuE6Z3ftjnVNlB49q5LgqJtj09qNquUbFzXJkloDVrgr753lL1jSNdd5gy1FZaiZ/vOc/EAzWyAn5KdpdalsSdzEP11OkQKpX0Mvz/gn+kGB31vbmL0mTPoY=;jV5g1udD2BRcBBKWNHMs0w=="
+secured: "tWXwJb9SDY/wiS6K+HanjYDHXSl3bnx/NsRsXOuy0O6084OjPX7mh2e8Ks1VPz3xshXvoQ7rHgVgH/CqZpDvBWtsWzU8zOI3xMsY1HlN6RqJh0tg9pSnJdYJHYBprLYtgyCE9hLfRRXByXVxQpVm36D+d4MgBt5flldmrs0XNumP2vv0PrgJdXsR2UTtk7Hew8ybP31emJDEas0lGjRJJnPdeOgJbbD52xptNed961h8ozVNfRPZhNfvt2LmxffsGD7eJaIzB5Y7ln/c7u2VKkZ3GofA/3JZmvAWtpDjCn/PCswV25mX53y/magiFn0nFo9kvKrcpYnp/v5ke+cvAwj7U4YRa3CfClXuPXUN+kXhW++eikcI3Y+PcnMaGZHfX7U4D+HuWv/s5BOoDrGNdzzEs/CpvDAHkddc9pG/dIGMMJlVc1ufo1m0Ul1QXMa1BIchygImhe1gWBvFrhASJL/L9ZZmkL07NTOq0DT2hoYq28yGw3yue2VBas8ec8DaeDiudsow9rFyisGTzX3TWA==;NwMPPMiuelbKKk7FtFKnMA=="
 ---
 

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM’s Retreat from Watson Highlights Broader AI Struggles in Health"
+    excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
+    publishedDateTime: 2021-02-20T16:46:00Z
+    webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
+    images:
+      - url: "https://images.wsj.net/im-302017/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "IBM Explores Sale of IBM Watson Health"
     excerpt: "IBM is studying alternatives for the unit that could include a sale to a private-equity firm or industry player, or a merger with a blank-check company, as the technology giant moves to streamline and become more competitive in cloud computing."
     publishedDateTime: 2021-02-19T06:21:00Z
@@ -254,6 +270,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "IBM explores sale of IBM Watson Health - WSJ"
+    excerpt: "IBM]] is exploring a potential sale of its IBM Watson Health business, WSJ reports, as new CEO Arvind Krishna moves to streamline the company and become more competitive"
+    publishedDateTime: 2021-02-19T03:39:00Z
+    webUrl: "https://seekingalpha.com/news/3663793-ibm-explores-sale-of-ibm-watson-health-wsj"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3663793-ibm-explores-sale-of-ibm-watson-health-wsj"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3663793-ibm-explores-sale-of-ibm-watson-health-wsj"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
   - title: "IBM reportedly looking to sell or spin off its Watson Health business"
     excerpt: "IBM, which already is planning to split into two companies, is considering the sale of its high-profile Watson Health unit to further streamline the company, according to a report in The Wall Street J"
     publishedDateTime: 2021-02-19T11:44:00Z
@@ -295,20 +322,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/IBM_ads_at_JFK.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Marinus Analytics is the lone US company in the final round of the $5 million IBM Watson AI XPRIZE competition"
-    excerpt: "In 2019 alone, the company claims that Traffic Jam helped to identify an estimated 3,800 victims of sex trafficking."
-    publishedDateTime: 2021-02-17T20:27:00Z
-    webUrl: "https://nextpittsburgh.com/latest-news/marinus-analytics-is-the-lone-us-company-in-the-final-round-of-the-5-million-ibm-watson-ai-xprize-competition/"
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 34
-    images:
-      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/02/17145743/Marinus-.jpg"
-        width: 750
-        height: 563
         isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."

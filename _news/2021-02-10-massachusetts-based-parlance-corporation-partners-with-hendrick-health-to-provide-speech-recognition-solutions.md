@@ -3,12 +3,9 @@ category: news
 title: "Massachusetts-based Parlance Corporation partners with Hendrick Health to provide speech-recognition solutions"
 excerpt: "With the recent purchase of two hospitals, Texas-based Hendrick Health understands the importance of quickly connecting and unifying services throughout the organization. To create a consistent brand experience and superior service for the organization’s callers,"
 publishedDateTime: 2021-02-09T17:03:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458/gallery/2bf153af17e19fc3c4c5d5763b2bd791"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458/gallery/2bf153af17e19fc3c4c5d5763b2bd791"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
   name: Associated Press
@@ -24,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "F0bMz9hEXe5t205M41tQC91e0jhucJVOlDDnN4ah7arUYwrZbanyMikuadwvxblu81KsyMv9ibu7oAJ0XnpMOItQFcJTGk78vA7VnUAX3nPUpIwBDSIDq+D/7t3f1a7k3g1LoWFwN2aJB9STRKJU8E3BAGDABPIqNLrvcnmZqaaDy+QL/hEpY8bRSnenL3e2wK+5BEKGl7NTtSgUaEaKuydnkVbuWngG7+OajQYHcwLsiQRTnJIQFuAkHIWLv8rJSkJcPoIsppLZBGk5IDBBu3aVYRBWLoxQis9t5P0Z8GSscR7uPquzSepAF06S4xtQhnbFZtH7EGHauCWPq2iljHuWNrj6QVdBwQISUCW8Wls=;v3b1NkhvSqCKrrquZPAtdg=="
+secured: "G4ZL3s6ffSWuZek60Nud/3wpSYMP/AxAPcpk23jGhLDpNFomMU7V9H+HzZtm4K3Qu33l703XzKE3Q+ZSW2JnZ+RmL8uMnj0BEvp+FBoCAut9+NKkzCjMBTZXNDDJ3YlbEV0WEVEy5JLWUo0QjE0NEyrsMVsGhWIWLs9X5WC4s2DcWCzWDlse7ESH+S3dAEpfUQ4KV/ZMURIGRzLCqhHclE3vuJZHKGNZEtL9EiF+zxV/ibOTUEdxsC5iFj7AZeQxntoeOdLantkE6s7Qwm3g+q3423cuWe5NzyusvYCSu1qrTh1hZV7VCq2+8vBL5kaJMc1XvgaRiSBARg3xWl2G7pQojNv11aLpn0XKFabO3b0=;mTGD8Nw2vO7wX8bUQwMkSQ=="
 ---
 

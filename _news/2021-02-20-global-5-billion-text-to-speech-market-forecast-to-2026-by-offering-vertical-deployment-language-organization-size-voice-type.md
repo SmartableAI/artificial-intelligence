@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Global $5 Billion Text-to-Speech Market Forecast to 2026 by Offering, Vertical, Deployment, Language, Organization Size, Voice Type"
-excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"
-publishedDateTime: 2021-02-19T17:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
+excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise,"
+publishedDateTime: 2021-02-19T17:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19752328/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-o"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/n19752328/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-o"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19752328"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19752328"
 type: article
-quality: 24
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
@@ -40,6 +36,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5M0y+M+vdTNRE0w698FmyOXbDQKUmhxBMZJ4drlW1BGhqZHauwKEX3JaxHuGNQO7KxSMe6ZhTWSZPEQNoCt21Zb8afcofdNC0CyifBF+d5iu+rgYeG4yETmu6J85oPUOBZCDs+NxU070HYtoqqxCn7i827F9HqbxDrOHUIUmATD4X4xN6YfwVKVt0ZVSAjblgBXswUhdNubUEdnOLsqwqRBOBH1RIxUefFV7QRZI8dCTgXSSR1a7Wg0uq9EUvKW2C0sML72WUTJPBywrbMzp5/ZLdhnOhUF0ramyKlxN8N0725TkTMi0+aEhrb7nhd9qu3aLIeHXHPUgRMVPDWbo89At3l+JfZiXdaH3mBVAvlk=;xQzoUWRNGxstPWuXON7B/w=="
+secured: "bzkjthH/SEUCb4SEC5VJ54uIFpFEgCE8ZD3v71UEseAh4DM6KCsPAacaI9+m6AHkTGaJWImmj2TGRa/sdkQttfpSjGPGGXuuJAvTwr1g4l/4WkdVC05TY0pqPsBgFPRlhRDQmGjm/mIodjjU5nwDVloXWFitvCmq50H4mtXbv9NNm+8fS4fo1YY8vHwPS8boCdZWd9kyG2//hHPwqF1SZeYzW3w89P0U7oegr5SOyzWjFGVefzVJu8hDumuQQSPCbrb3yxDTMNuso7gd/5WV0XlcQQVCtZAZMP0W78rHI9Zk+lozuOiowyq7W9yty8saDamhA0Re6UzLOopR/C9JceSE0xHK5WdBfbg35rhbWu8=;K3cjCstlCaLn8NyQ42Lx6Q=="
 ---
 

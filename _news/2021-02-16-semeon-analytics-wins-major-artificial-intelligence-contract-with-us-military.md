@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-M
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Marinus Analytics is the lone US company in the final round of the $5 million IBM Watson AI XPRIZE competition"
+    excerpt: "In 2019 alone, the company claims that Traffic Jam helped to identify an estimated 3,800 victims of sex trafficking."
+    publishedDateTime: 2021-02-17T20:27:00Z
+    webUrl: "https://nextpittsburgh.com/latest-news/marinus-analytics-is-the-lone-us-company-in-the-final-round-of-the-5-million-ibm-watson-ai-xprize-competition/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 34
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/02/17145743/Marinus-.jpg"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Data Analytics, Machine Learning Will Power an Enterprise Content Management Evolution"
     excerpt: "Data Analytics, Machine Learning Will Power an Enterprise Content Management Evolution By Aref Matin, EVP & CTO, Wiley - The field of enterprise content management (ECM) is evolving into a platform that touches every part of an organization in"
     publishedDateTime: 2021-02-19T03:07:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-21-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
+      "title": "IBM’s Retreat from Watson Highlights Broader AI Struggles in Health",
+      "excerpt": "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-302017/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "publishedDateTime": "2021-02-20T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-salesforce-research-wields-ai-to-study-medicine-economics-and-speech.md",
       "title": "Salesforce Research wields AI to study medicine, economics, and speech",
       "excerpt": "Salesforce Research is involved with a number of different projects, from biomedical AI to debiasing in natural language processing.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -50,7 +102,9 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
       ]
     },
     {
@@ -454,8 +508,8 @@
       "title": "AI in the OR: One company is closing the gaps in surgery using technology",
       "excerpt": "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "webUrl": "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
       "featuredContent": null,
       "highlight": null,
       "heat": 96,
@@ -472,8 +526,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
       "publishedDateTime": "2021-02-19T12:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -690,7 +744,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-wales-56130226",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1162,48 +1216,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-new-project-investigates-artificial-intelligence-for-sustainable-energy-integration.md",
-      "title": "New project investigates artificial intelligence for sustainable energy integration",
-      "excerpt": "The collaboration includes H2GO Power, EMEC, and Imperial College London for H2 tech. A new research project has been launched for examining and demonstrating",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
-      "originalUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hydrogenfuelnews.com/wp-content/uploads/2021/02/Artificial-intelligence-for-sustainable-energy-Businesss-Research-AI.jpg",
-          "width": 875,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
-      "cdnAmpWebUrl": "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
-      "publishedDateTime": "2021-02-19T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrogen Fuel News",
-        "domain": "hydrogenfuelnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

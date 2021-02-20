@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-01-artificial-intelligence-ethics-under-spotlight-at-davos-2021.md",
+      "title": "Artificial intelligence ethics under spotlight at Davos 2021",
+      "excerpt": "The World Economic Forum announces two initiatives to accelerate the adoption of technology across the globe, at the annual Davos meeting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "originalUrl": "https://www.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2021/02/AI-city-2021.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "publishedDateTime": "2021-02-01T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-forget-user-experience-ai-must-focus-on-citizen-experience.md",
       "title": "Forget user experience. AI must focus on ‘citizen experience’",
       "excerpt": "To ensure AI has a positive impact on society, we need to look beyond user experience to a new practice of 'citizen experience' design.",
@@ -1416,49 +1460,6 @@
         "Facebook AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-google-and-its-ethics-ai-team-row-what-we-know-so-far.md",
-      "title": "Google and its ethics AI team row: What we know so far",
-      "excerpt": "Google has drawn major criticism on the move of sudden investigation of Mitchell and suspension of her system access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286.html",
-      "originalUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/01/21/550x309/AFP_8Z94GT_1611227607102_1611227625827.jpg",
-          "width": 549,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286-amp.html",
-      "publishedDateTime": "2021-01-21T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

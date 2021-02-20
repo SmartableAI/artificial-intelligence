@@ -2,6 +2,103 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-26-facebook-open-sources-multilingual-speech-recognition-deep-learning-model.md",
+      "title": "Facebook Open-Sources Multilingual Speech Recognition Deep-Learning Model",
+      "excerpt": "Facebook AI Research (FAIR) open-sourced Cross-Lingual Speech Recognition (XSLR), a multilingual speech recognition AI model. XSLR is trained on 53 languages and outperforms existing systems when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/01/facebook-multilingual-ai/",
+      "originalUrl": "https://www.infoq.com/news/2021/01/facebook-multilingual-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/01/facebook-multilingual-ai/en/headerimage/facebook-multilingual-ai-header-1610896491386.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-python-remains-most-popular-programming-language-to-learn.md",
+      "title": "Python remains most popular programming language to learn",
+      "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
+      "originalUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/85083d05-b7b7-4832-a3b1-f1532b6d905e/resize/1200x/f816050b9bf16dda28145dfd5dcf70cd/fullstackdeveloperimage.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "publishedDateTime": "2021-01-25T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-women-in-tech-the-spectrum-of-career-opportunities-in-the-tech-industry-is-very-diverse.md",
       "title": "Women in Tech: “The spectrum of career opportunities in the tech industry is very diverse”",
       "excerpt": "Today, we’d like you to meet Katrin Strasser, Technology Lead Natural Language Processing at Cloudflight. A research study by The National Center for Women & Information Technology showed that “gender diversity has specific benefits in technology ...",

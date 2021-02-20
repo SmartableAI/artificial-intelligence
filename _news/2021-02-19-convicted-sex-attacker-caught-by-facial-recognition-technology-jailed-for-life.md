@@ -39,6 +39,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Facial recognition: Sexual predator caught on CCTV"
+    excerpt: "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,"
+    publishedDateTime: 2021-02-20T17:23:00Z
+    webUrl: "https://www.bbc.com/news/av/uk-wales-56130226"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 69
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Petition calls for EU ban on facial recognition"
     excerpt: "Facial recognition technology is under fire again in Europe as digital and human rights organisations launched a petition calling for a ban on biometric surveillance in public spaces. The European Citizens’ Initiative (ECI) calls on the European Commission to regulate the use of biometic technologies,"
     publishedDateTime: 2021-02-17T15:10:00Z
