@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/gwu-grf021821.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-02/gwu-grf021821.php"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 1440
     height: 1080
     isCached: true
-
-related:
-  - title: "This robotic glove uses AI to help people with hand weakness regain muscle grip"
-    excerpt: "A Scottish biotech startup has invented an AI-powered glove for people suffering from muscle mass loss due to age or illness."
-    publishedDateTime: 2021-02-16T16:31:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
 
 secured: "A0qWR/E1vEkGA/edRHg3Ou2DaBFrhdeJsTQMDlce8Sdtgljciobcu7UmwVs2QIWdSUMLtB1C0bHE0VphLJgB3byIltc82INNgEYorJfmPqLifUd+ng6OUNrRzsVzKu3kbL3ptjCcO5qg0Sbixu+gnlkaBXH0ooAhQypDsODcEPqUs591d6RbP5bpo+1f9zVDFf6MDXYD3h9QHZhoZj+AEuSooCrrCbDQRU6Q9+nw7lF83eO9FFvn1AgfPhOLbiQS4ODPylYew3JeXRVzpbBbpV363SBAFVBPvLBDc4mdjFwNHzsIICJbcDDSo1G0pc1mi1n275EGFvtHdHW/8DLaZhL1uIn5WTvZfJKeJszWEBQ+NgdfO+NinnJ8yzv/SkkycsuHry88VsSLKWvWJ/VJfTExiDypdcKqxwO5uC0sN7uEbGT3MAR6oPrPMinBpVI4Kg0PwLLFsQvbaWyDikLjPZ6uxlJQEoG0bhYJ8Wm9s1If+MsJQ0hkityQkvftrqpCOIhJZnP6WnFoHnPSKuNT4A==;ZoNDSMGsq5OytcQOkqboog=="
 ---

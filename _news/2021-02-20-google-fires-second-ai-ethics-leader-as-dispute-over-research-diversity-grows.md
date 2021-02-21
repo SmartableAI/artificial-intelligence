@@ -2,11 +2,11 @@
 category: news
 title: "Google fires second AI ethics leader as dispute over research, diversity grows"
 excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
-publishedDateTime: 2021-02-20T07:07:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-google-research-idCAKBN2AJ2JA"
-webUrl: "https://www.reuters.com/article/us-alphabet-google-research-idCAKBN2AJ2JA"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AJ2JA"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AJ2JA"
+publishedDateTime: 2021-02-20T01:26:00Z
+originalUrl: "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6"
+webUrl: "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
 type: article
 quality: 100
 heat: -1
@@ -284,6 +284,6 @@ related:
         height: 576
         isCached: true
 
-secured: "m/fq9ySpP4cx052rMjEmP31ZVBE9virdYr/JuOH4LIzgZmr9ehtN3cbARlSnux7f00QtxQ/Ec1cSpAWkWc/E04LWB5f1VVGkFRfnsCJfT8tCmSbBF/aKUzbhBEGwvH9bKvZYHtlZPji+zoWuNrzFWPjQvWKAAEzy+7d/v17ei7bSOb/xr4AcRJu0XvtkRpOnYlcl8qA7NblAZDTPxlcNtcOva7axZveiTdnaf0N7wRO+EzigRD6S2v2fZmxhxQeDyZfJ6rPguTxY+GkdQvuB6sBnog5inNQtKfzzrpU5TyRBj7groE/+xQPsjOUpGnQWMy4Y2lnA/b99FHGc412tm0UC4b0r7QYO+kxuH4fc47NZt0UYQMU3xoYgqxzJC5JuD7wIF2zYQvHBc6vcBKroYYU5tZHVBaEh17s7arOFyazmEw+EKQ7f+CoxAqGb64ogUvX+IRuaRURGXceQSRAqYMq1gD5shy53eniDnMeIrxanf3PCBUoz8OMQrqfRbIFijT4ep86ZtRHVJWedwTk6+A==;mve6z8MLG15ZR3e2xk74MA=="
+secured: "mJ71diwGIgsh1OSyHVQtqVjz1QCqrue5iwBx2D4rxiXAm5vhf53F3P+YglHXpL5/N+9O5aUndcIBiVoQdbpIU4mL+RjwaKpUYkpMz8fCKc1+yD8PuzihbovRq4fpOeI/TrrnHiI7qSW9uY2W+I3a8rszEH6hSV6QiQt6YNjLPRtYP+abeY+VmeKHbgovXdCeS7Pg2MQ/sejDlrgfw3OeoCdxSeAltxDeGY+txrEmsT9918EE7sp/k8q34T4RDSKZAV0FDHMPdTi4dl5FyISfH7EwzwS0lm4luMVSdQgX7AkmnQVRYTDn5AZCumtZfuyDTwhGAtUyVb+rZZMXGGhfnpMya6+7U3DDrSdyAm5R/7o=;3BjhqkrlKb7zFSPftZLPbg=="
 ---
 

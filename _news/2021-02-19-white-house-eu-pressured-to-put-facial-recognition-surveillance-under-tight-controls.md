@@ -28,9 +28,9 @@ related:
   - title: "Facial recognition executive talks vaccine passports, data privacy, and surveillance"
     excerpt: "\"I do not want to live in an Orwellian society,\" said Rob Watts, CEO of Corsight AI, who says his company's tech could enhance virtual passport efforts and airport security."
     publishedDateTime: 2021-02-18T17:23:00Z
-    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
+    webUrl: "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
     type: article
     provider:
       name: TechRepublic

@@ -9,8 +9,8 @@ ampWebUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-par
 cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 79
+published: true
 
 provider:
   name: IOT Business News
@@ -25,6 +25,36 @@ images:
     width: 800
     height: 360
     isCached: true
+
+related:
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
+    publishedDateTime: 2021-02-17T15:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
+        isCached: true
+  - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
+    excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
+    publishedDateTime: 2021-02-19T07:23:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/simplicity-of-microsoft-azures-iot-solutions-makes-possible-rapid-scalable-solutions-nid-29134-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 46
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/9JDq6Py3.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "cdV+mOnVU4xDD8ZFcHMEIHM1l00vaLBEGXtwsmu0/RIbrVt56dXEhNNruQT0n/ELq6JX+4VO+gOtHKFw/XsHo09RTzfJFRCfFyS5WNhIdr5gw0r++Zqfi0D0Y5MaCadHIl17199uxn2NZck8myJhNbEJXqzyahWGhk7NEVNzzIaWR26M0H1T/eSMPuno0M19/7QseSY3Lz1V2C5NdLLpEYaYAThmVnSukxr6iNJvsdwqhigvpo2ff0LQsE+ZWUKOHP9nRRJJbeSNkUp6H5Rpkgnr84qIzg5uliiaDb2PhfWuSBIWXewIqv1TKADRZhDvlcr9gs6eFXnAtTnl+3TWICpb3uT5LmdF6gl8+Pb7lYEGqTcCHpUPrarfFpLeNA6rZIYJeMMEjS+aGy2UbJDer66rEhgByHf/P81b8GjfMxmovUdmO9Ff+eVvQwTWc8eO166067/g1oS0P1Dchz96tdelO41PNK1TPbgufDeQwNo7FgL1D3g/PboUMxyAilhM/roH3RYKQxkKN9+vPfge5g==;+wD9hwlNVs3QOxFizqiegQ=="
 ---

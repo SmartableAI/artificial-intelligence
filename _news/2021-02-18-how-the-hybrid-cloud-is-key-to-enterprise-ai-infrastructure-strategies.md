@@ -74,6 +74,22 @@ related:
         width: 1022
         height: 575
         isCached: true
+  - title: "Using AI to Bridge the Language Gap"
+    excerpt: "Through Natural Language Processing (NLP), a technology that allows computers to effectively understand the way humans speak and interact, companies can bridge the language gap between cultures, encouraging diversity within their industries."
+    publishedDateTime: 2021-02-21T07:31:00Z
+    webUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/"
+    ampWebUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 59
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/02/artificial-intelligence-AI.png"
+        width: 800
+        height: 527
+        isCached: true
   - title: "RPI students work with engineering company to integrate AI into power grids"
     excerpt: "Winter weather shocked people across Texas, many still recovering after days-long blackouts. At last check Friday afternoon, some 150,000 are still without power, down"
     publishedDateTime: 2021-02-19T22:14:00Z

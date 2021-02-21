@@ -1,29 +1,24 @@
 ---
 category: news
 title: "The NHS Implements Artificial Intelligence to Support Emergency Calls in Wales"
-excerpt: "Corti is proud to announce a partnership with the NHS and the Welsh Ambulance Service to test Corti's #artificialintelligence platform on their 250.000 yearly emergency calls to see if Corti could help increase the odds for cardiac patients across Wales and hopefully someday the entire UK."
-publishedDateTime: 2021-02-19T15:45:00Z
-originalUrl: "https://menafn.com/1101626347/The-NHS-Implements-Artificial-Intelligence-to-Support-Emergency-Calls-in-Wales"
-webUrl: "https://menafn.com/1101626347/The-NHS-Implements-Artificial-Intelligence-to-Support-Emergency-Calls-in-Wales"
+excerpt: "Corti is proud to announce a partnership with the NHS and the Welsh Ambulance Service to test Corti s artificialintelligence platform on their 250 000 yearly emergency calls to see if Corti could help increase the odds for cardiac patients"
+publishedDateTime: 2021-02-19T10:38:00Z
+originalUrl: "https://www.openpr.com/news/2245154/the-nhs-implements-artificial-intelligence-to-support"
+webUrl: "https://www.openpr.com/news/2245154/the-nhs-implements-artificial-intelligence-to-support"
+ampWebUrl: "https://www.openpr.com/amp/2245154/the-nhs-implements-artificial-intelligence-to-support"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245154/the-nhs-implements-artificial-intelligence-to-support"
 type: article
-quality: 35
-heat: 35
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI
-  - AI in Healthcare
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?182997"
-    width: 444
-    height: 250
-    isCached: true
-
-secured: "NB1i6jyBH7DNtO/M4W76CR/UuDLbEn1EiC7uB5ekSFy0JSRMVgXGy8IFCAPfe9GPxLbET49AN0v4mxhVeAHtenMfN4O8k5Qt72nFTyFf0Z2+JdeGMy4Tii7W6LSF81my+1KvXfZToJND1p8RqrevogmWWLSr46vFWOt1FhRon52M1sopiO7ty0enkfltWoBQVFuBSVxhINTh1zTmjY4hRbNf0No3Kkp1XU5QEfEnwCPQ2GyRkQ/tdnpqzErD3KQucNZxU7/x7tv/Wuokpxmtz15pvyrLDdqpv4UBBvuHRGTZeXsNuYVWuqFx4gJcLlkv5s7AxkG2igXVvVghAZLPbR1GBjtDsAiRMcvOLLsm49s=;1H8kGrrxLlqm/BB/nPJihA=="
+secured: "bEiTWD262aicYZULhO4tQfDjOd/Mnt0NEohyA5MT2D8lXtAOI1vJeXvKlmoRKWOgYVIC3zblYoRLIoevGMvxkgsm/UdtgNegnSa0H2vF19ejM334LjFx+OhrPEW232/5pcvpGrgRnrWOX5jUmuRj6IAzzawEG0LstHmPLXZHvFEtuHKJfiisCdgZHwS/2Y7pXRE5NOlGLC4jEboTbB/Rhdl6OqFEmis53gk4vRQW7okPnv/O5pgxScg3FnlWCIr7aQMxi7V/n7mAUGDYzl2XUpb6/3L8N0fwxINCcUCEOG3fkVmexGymW51Ia4l0vPYxTe8eEBPiPwZtNydX3MvSQI5cVCFKuvA3LuGE+MP6d48=;aQ7qn4G8XTm9X8adAapryg=="
 ---
 

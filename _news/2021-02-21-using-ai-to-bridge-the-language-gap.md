@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Three keys to AI success in the enterprise"
-excerpt: "Three keys to AI success in the enterprise By Vikram Mahidhar, business leader of AI solutions, Genpact - Many CIOs have artificial intelligence (AI) on their radar. A recent survey by Genpact and Fortune Knowledge Group of"
-publishedDateTime: 2021-02-19T08:32:00Z
-originalUrl: "https://www.cioreview.com/cxoinsight/three-keys-to-ai-success-in-the-enterprise-nid-25917-cid-117.html"
-webUrl: "https://www.cioreview.com/cxoinsight/three-keys-to-ai-success-in-the-enterprise-nid-25917-cid-117.html"
+title: "Using AI to Bridge the Language Gap"
+excerpt: "Through Natural Language Processing (NLP), a technology that allows computers to effectively understand the way humans speak and interact, companies can bridge the language gap between cultures, encouraging diversity within their industries."
+publishedDateTime: 2021-02-21T07:31:00Z
+originalUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/"
+webUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/"
+ampWebUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
+cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: IT News Africa
+  domain: itnewsafrica.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.cioreview.com/newsimages/special/paTSGe91.gif"
-    width: 300
-    height: 300
+  - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/02/artificial-intelligence-AI.png"
+    width: 800
+    height: 527
     isCached: true
 
 related:
@@ -73,22 +75,6 @@ related:
         width: 1022
         height: 575
         isCached: true
-  - title: "Using AI to Bridge the Language Gap"
-    excerpt: "Through Natural Language Processing (NLP), a technology that allows computers to effectively understand the way humans speak and interact, companies can bridge the language gap between cultures, encouraging diversity within their industries."
-    publishedDateTime: 2021-02-21T07:31:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/"
-    ampWebUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 59
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/02/artificial-intelligence-AI.png"
-        width: 800
-        height: 527
-        isCached: true
   - title: "RPI students work with engineering company to integrate AI into power grids"
     excerpt: "Winter weather shocked people across Texas, many still recovering after days-long blackouts. At last check Friday afternoon, some 150,000 are still without power, down"
     publishedDateTime: 2021-02-19T22:14:00Z
@@ -119,7 +105,21 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Three keys to AI success in the enterprise"
+    excerpt: "Three keys to AI success in the enterprise By Vikram Mahidhar, business leader of AI solutions, Genpact - Many CIOs have artificial intelligence (AI) on their radar. A recent survey by Genpact and Fortune Knowledge Group of"
+    publishedDateTime: 2021-02-19T08:32:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/three-keys-to-ai-success-in-the-enterprise-nid-25917-cid-117.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/paTSGe91.gif"
+        width: 300
+        height: 300
+        isCached: true
 
-secured: "unJA+exoAmX/ykUOqQVjeWamVyh0fFYYZnaUXOxOp52PnF/gWCNX0Jv6aoNT3GiU4dxWkeFIREM4dKczE8Rr9c8pybk6rRgmfde4dJkTQCVrjZx/L6bSA6A8TEKs2PYxYQIz23WhCYIKRePCxvdTYWrdZd+2Xrf+jN/3K/8D/y6TJOP1Gat/Glr/CFo1hMvBK7g19xbmEHkR9ol8h5OeaOmt1XIJcFH9REbypJIQ1ecRTJPruBy8n7p21vpTR1PDd9Mh+lhI6NNYiIYT3GjLFYCbGvGMKd+8mHyMleWrOnkBxXTQmMA8ihMe+rWNE1htm8LLgb4DiK+krkwx0MOSFyk4SiaC6kjLJcV3A5MnS4sqFzD8I55/yZgetuM6gWKsiLtzbENvbSOr3HuETRkSDnvjnASPqLYFhC6G2LlN81KfqKTAYGDyafpJxdcKHL9Zf9QvFj2kUyo0AuXkwxi8bDujPjQM+HIQvrDquF5xJvwU3BoxWoFsx0OWJ1RUS8jhCZ/Q81GKBgMRMId6CkLrBw==;CCYLvecpXArrWEv/qBVYSg=="
+secured: "pQroSvRgantkDSC8XFhdFJ1PApxO+6b461ldljjOZ3oNUHGV5+4t1KcRRUCf1RhDTKJXsush5ZxgN+gLs0ara5DQ5DHZ+TY2kA/Q+auq8Fntr8eraZxu58YI4i/Eq6MrBvINuwZN9LMmQM4uhUwETkZWramPI0LZwScc4LWyGJMoou2vIhUcAqLgmMUvh7/YjaLHe3HCNBExcjVCeiExwI6EzHXB8VO+XeNctkmK31Xa7SGwaw6ZlJnQyNkrEu7Cy8WHRJ9TOfeeReiXbkbKEdf+ZbbUvzC3hF4M93z6YPj3pCW4p0Hn1SaJQ4x//gl4fgDKHlnGC0RN9qehRk7aFeZFeCMPkj/0//amo/XisuA=;73AbO7qHttvNWHKLSBfDsA=="
 ---
 
