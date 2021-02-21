@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-the
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/"
 type: article
 quality: 101
-heat: 102
+heat: 111
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Google is trying to end the controversy over its Ethical AI team. It’s not going well"
+    excerpt: "Hours after Google tried to turn the page on a months-long controversy over the abrupt departure of one leader of its Ethical AI team, the other leader said she was fired. The announcement quickly sent shockwaves through the artificial intelligence industry."
+    publishedDateTime: 2021-02-20T00:31:00Z
+    webUrl: "https://abc17news.com/money/2021/02/19/google-is-trying-to-end-the-controversy-over-its-ethical-ai-team-its-not-going-well/"
+    type: article
+    provider:
+      name: ABC 17 News
+      domain: abc17news.com
+    quality: 49
+    images:
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/Money-web-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "xLbap1PwMth5pQvy8EWUTwIOkqykcSwxdYuWxr2eAP9H72LbeQeatNOZOcDbi3mxtwm114/CdxClPQFN24iBcEQVLGO1DLmjNCg1PncJ2SKOONHncQ+v96+15eMFvxXIWXwDfB2ApGo7guZfnv4wnd3V8LnYshNFGI/TydlGE/q0BAGFIU2OkPh74LmUhTPMZG9Ml7oJAF3FwSuCB8yGoLDDEfPuQSjThWDOQ/MvqaKCH9HTplJnsYv8VAJH4WVl4waUfOVFQyXK629fChCQjggXNHtjXUm2NpAu003/Z2/mdCAI8gNODYgi9C/qLkZF4SgJ7+waiqu+aXhKWI5wpSSoqS7hXf347yl6hoW7czjRmXdtHSY9tCNYJGlDdh3bA1v0b0gwsD/5+BnbozlvN+PmBeEzxS273AjhYLNWJhGHGA3U0hGjd0uPe/OsMuaEDAF4HXWmYI1TOdpaXjLpvFMORyP641m2xNFc5hjFoQ4uh2fazplUjdJDAkZXxxkCuakdPhXOy82evsWBp4Mwfg==;Z6Qyi+9j9d+8xRrETiQ3xg=="
 ---

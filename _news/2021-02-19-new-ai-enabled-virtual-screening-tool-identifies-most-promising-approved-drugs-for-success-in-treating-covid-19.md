@@ -75,20 +75,6 @@ related:
         width: 685
         height: 514
         isCached: true
-  - title: "MIT Develops Machine-Learning Approach to Finding New Treatment Options for COVID-19"
-    excerpt: "Researchers develop a system to identify drugs that might be repurposed to fight the coronavirus in elderly patients. When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments."
-    publishedDateTime: 2021-02-16T12:53:00Z
-    webUrl: "https://scitechdaily.com/mit-develops-machine-learning-approach-to-finding-new-treatment-options-for-covid-19/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 17
-    images:
-      - url: "https://scitechdaily.com/images/COVID-19-Drug-Repurposing.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Early risk assessment for COVID-19 patients from emergency department data using machine learning | Scientific Reports"
     excerpt: "While epidemiological and clinical characteristics of COVID-19 have been reported, risk factors underlying the transition from mild to severe disease among patients remain poorly understood. In this retrospective study,"
     publishedDateTime: 2021-02-18T10:18:42Z

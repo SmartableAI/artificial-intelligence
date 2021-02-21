@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/information-management/machine-learning-simp
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/machine-learning-simplified-building-an-understanding/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "Improving understanding of machine learning for end-users"
-    excerpt: "This article will explore how AI vendors can improve the understanding of machine learning for the benefit of end-users"
-    publishedDateTime: 2021-02-16T11:30:00Z
-    webUrl: "https://www.information-age.com/improving-understanding-machine-learning-end-users-123493789/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/improving-understanding-machine-learning-end-users.jpeg"
-        width: 1080
-        height: 608
-        isCached: true
 
 secured: "GGBsBdtJzQzmfhJyQJoWj2rTFZnjcB3ir8MuDxZRTkFF/qzYSaA0ebKhap1oqz1C6pfckrDjQw0F15khuXhLz+NEZY2BjDCHX0whIBbyJ7Qybask5xgbVil9B0DkLTo/qCCLVr4Tr5vbw6tSX8nM/a3s5O3Heh1wCbompl/U/KlgIYZr9Hh0m/2AmIeClBErizmtZwcZyB1bZsGyjazBo3p4wMCll396UsvR/vyWUz7tjPJrCIzyCyZ7FIKQhz4EbBNskTwClHPlFLn2fI23uPHG90Rogc7eKaaQmb3iyEjVK9KrCSLo6mNcSyaENxW7Gl9tOJVjqQ3D1Ci2dT9RwTxJXr9Wtn10ugs+UvBpTSA=;vnxmDzF3jdF1cGqEhtVzsQ=="
 ---

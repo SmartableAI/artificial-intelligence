@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustain
 cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/"
 type: article
 quality: 66
-heat: 86
+heat: 87
 published: true
 
 provider:

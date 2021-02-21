@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/life-style/health/incorporating-art
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI allay health care inequities?"
+    excerpt: "COVID-19 has highlighted racial disparities in the U.S. health care system. And one doctor writes in Forbes what he believes is the solution: artificial intelligence."
+    publishedDateTime: 2021-02-21T03:00:00Z
+    webUrl: "https://www.linkedin.com/news/story/can-ai-allay-health-care-inequities-5371546/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQF1qmo5ISwqyw/storylineheaderimage-shrink_400_400/0/1613592541240?e=1613973600&v=beta&t=Aog3z6lNPMY_HvL8i8xyh633NFifwz97qAknX_PF-8w"
+        width: 400
+        height: 248
+        isCached: true
   - title: "How an Indian mattress company woke up to the advantages of machine learning in customer service"
     excerpt: "Sheela Foam used machine learning to identify defective mattresses from photos sent by customers at a time when it couldn’t inspect them in person."
     publishedDateTime: 2021-02-18T07:49:00Z

@@ -224,20 +224,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
-    publishedDateTime: 2021-02-16T12:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Will IBM’s reported desire to sell Watson cast a shadow over big tech’s healthcare ambitions?"
     excerpt: "IBM is reportedly looking to sell its Watson Health business. If true, it would be another stumble in a much-hyped healthcare project by a technology company."
     publishedDateTime: 2021-02-20T02:03:00Z
@@ -352,6 +338,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "2IP+ScvkmR4hbwnBRfN+haPCMwtTTwJs3kXF2aK46SsfB22FjSOA0NXAArldt0R9MCLboif4cnh80+64onMFJYr0J0U01bMjCCnct5qUvQCDzsCyaR3K9+KNGbkecc1CL1C13lNl6d2RkeY/zpFaaLzbFFjUTT+9KiIPepB0RIcZR+65j0CaP6THix0qAH7vFppAA0HfXAdW9jNslC5qLrvaz62ho7z6kMJMR6F0U0i0zCJQSyV68X97zUEhuOx6cRRr3eT5H8iw/CitKNixZReVPvlI/eWrk0tT0NZp69KxLZfZJzio7IocCFuwacMnpMZlamJwr6ByHmMAfgSQ5RRWFu5fDPR15d5T6DjV73M=;elMZptnnwBU5mTM9X35CnA=="
+secured: "yna8/nED75l3FEpTqkGKZlWaTQd0BWu5ByMaJDwqN8mdYmqedezOX+968cHFhaL5/NWvX2BZcR2htdFt0RNyAnHBMh7rtJFlNFcOSlI7bTdkgfD+2KUvheWBxFwEi5fo6y1clbjwCGNbgDiKC4wk7q5lnddOONq9YLEiKKxRtJNhGOAh+yYgmWPdk5MCFZROIhOoKELY/++SDy3fCFMHZ2g1OsUstBU2ka/DAPtU8IVo5FBOH+OVOufYZq5o12Kg3P0YjSSNvblUpBx7H8oCyCNezRviLKgAriv9rM+wgyBLHztl/pov6Mo4y2tfssei9UBP2W6UR20+arSH+VHMgioTkjZd5ytpY9mo8F2EWZaEBnKMN0FbK8Y9gkHyrvmTZblD/reG6MppGH5qluesdmRZhxn4u6HOD1cB6Fo6Ts36rOcGIRQA5DNuokMzFP9nwUsPZrE0TCnemySZaSIeLuc/F3KeGYrPOJxneWAP3GW3pawoSbRdBj0jkX4xZ8cBQG9u4icKPZDIB9XyZdK6vg==;LFm8ZEHdo1+/IFSThK1jHQ=="
 ---
 

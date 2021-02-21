@@ -7,7 +7,7 @@ originalUrl: "https://www.embedded.com/optimizing-ai-for-embedded-applications/"
 webUrl: "https://www.embedded.com/optimizing-ai-for-embedded-applications/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,45 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "Bearing.ai emerges from stealth to power recommendations for shipping boat captains"
-    excerpt: "Bearing.ai provides the maritime shipping industry with predictive recommendations and launches with support from AI Fund and Mitsui & Co."
-    publishedDateTime: 2021-02-16T13:01:00Z
-    webUrl: "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/"
-    ampWebUrl: "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/"
+  - title: "How SiMa.ai Is Disrupting The Embedded Edge Market"
+    excerpt: "We are making it possible to deliver high-performance machine learning at the edge while simultaneously reducing the power consumption associated with this compute."
+    publishedDateTime: 2021-02-20T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-sima-ai-is-disrupting-the-embedded-edge-market/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/bearingai.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/sima-banner.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
-    excerpt: "Highly accurate ship performance models built off real-world data Business Wire PALO ALTO, Cal"
-    publishedDateTime: 2021-02-17T09:05:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry"
+  - title: "C3 AI Releases Comprehensive Enhancements to Its Enterprise AI Application Development Platform and AI Applications"
+    excerpt: "C3 AI (NYSE:AI), a leading enterprise AI software provider, today announced the release of major enhancements to its enterprise AI application development platform and AI applications designed to further accelerate digital transformation."
+    publishedDateTime: 2021-02-17T06:27:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-pipeline-construction-construction-and-engineering-f8c8fbdebe4e4261ab8b9d2b93c4da9b"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 60
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
-    excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable ins"
-    publishedDateTime: 2021-02-16T14:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210216005143/en/Bearing-Brings-AI-Powered-Operational-Efficiencies-to-the-Maritime-Shipping-Industry"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 10
 
 secured: "ZqF0wzO3WASw/lH7ztCGxPuVcXvBR83Yur0Nx3/ISzsMs60sIypAxivniuu8D2rggwmtrz2l1qmx/ek49h1+keC4VJAVAUd8KY9na7JOrmJVG4YlcA/NTTFS8u0U57aDc8W1WZqZtv8GKeC/RNgj1c0dBE2P8G+s/L5486pZ/URyK+ggS8saAqC/rIhS2qsed1QhTM7vd86HmOXh4q3FYh95yasq2nMDslA2C2xoO5ljlCRiEG7FlrpaSu0BE0QYZO+RRMcQ/x2samCwkzA3OmX+JCgZ1eb/iyEkgTNA3DfYGQ3KDEOHAsbYjrgdTPBCJ8dJDI2wSZCDVkGwEYbXOJOFyVLAmk/q+GcO/iyTNiFCUUopqpz/w4XvI4WCDGK2nr2EuPCOUZlO/XKZppoGzbJP2Kde/EUXu6tGENnH4Sme39yHETdy0FUAiQHDAka1QYxESJh9zE1Ad2NVAxFSGAGFencrSN7jEPm1EhFuUH0Zs09AYq1NdFgc8/9k9qEmvU6G9OrUd+TcMxjnkLpg+g==;YbZKni5kEYjt9bcmQx/IJw=="
 ---

@@ -969,6 +969,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-11-facial-recognition-has-come-a-long-way-its-problems-have-a-long-way-to-go.md",
+      "title": "Facial recognition has come a long way. Its problems have a long way to go.",
+      "excerpt": "Over the last 80 years, facial recognition tech has gone from pen and paper to large-scale automation. But at what cost?",
+      "sourceUrl": null,
+      "webUrl": "https://thehustle.co/02112021-facial-recognition/",
+      "originalUrl": "https://thehustle.co/02112021-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehustle.co/wp-content/uploads/2021/02/News-Brief-Midroll-Images_2021-02-11T012507.977Z.jpg",
+          "width": 600,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehustle.co/02112021-facial-recognition/",
+      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/02112021-facial-recognition/",
+      "publishedDateTime": "2021-02-10T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hustle",
+        "domain": "thehustle.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey.md",
       "title": "AWS and NHL partner to turn game data into new ways of experiencing hockey",
       "excerpt": "Soon-to-be Amazon CEO Andy Jassy has touted the partnership will bring an entirely new perspective and layer of fan involvement to the game of hockey.",
@@ -1404,58 +1448,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-amazon-adding-ai-equipped-cameras-to-delivery-vans-to-monitor-safety-sparking-privacy-concerns.md",
-      "title": "Amazon adding AI-equipped cameras to delivery vans to monitor safety, sparking privacy concerns",
-      "excerpt": "Amazon delivery drivers keeping their eyes on the road could have Amazon keeping an eye on them according to reports that the company is planning to use AI-equipped cameras inside vehicles to",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/",
-      "originalUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/amazonvan-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/",
-      "publishedDateTime": "2021-02-04T17:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

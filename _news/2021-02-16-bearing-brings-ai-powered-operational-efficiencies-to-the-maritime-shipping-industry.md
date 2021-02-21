@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Bearing.ai emerges from stealth to power recommendations for shipping boat captains"
-    excerpt: "Bearing.ai provides the maritime shipping industry with predictive recommendations and launches with support from AI Fund and Mitsui & Co."
-    publishedDateTime: 2021-02-16T13:01:00Z
-    webUrl: "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/"
-    ampWebUrl: "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/bearingai.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
     excerpt: "Highly accurate ship performance models built off real-world data Business Wire PALO ALTO, Cal"
     publishedDateTime: 2021-02-17T09:05:00Z
@@ -48,19 +32,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Optimizing AI for embedded applications"
-    excerpt: "In my previous blog I talked about how demand for AI-based interfaces has become almost unavoidable—and that adding an AI-based interface like face-id to"
-    publishedDateTime: 2021-02-18T21:16:00Z
-    webUrl: "https://www.embedded.com/optimizing-ai-for-embedded-applications/"
+  - title: "Ecospray Chooses relayr to Revolutionize the Maritime Industry With Artificial Intelligence Powered Solutions"
+    excerpt: "Ecospray, a company specializing in the research and development of cutting-edge systems for controlling air and gas emissions in industrial applications for the Maritime industry, has chosen relayr,"
+    publishedDateTime: 2021-02-19T08:49:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-italy-government-regulations-western-europe-607e57c7916d4b1f98611579d5859637"
     type: article
     provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
     images:
-      - url: "https://www.embedded.com/wp-content/uploads/2021/02/ceva_light_image.jpg"
-        width: 1280
-        height: 810
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "u97djltxlQoYIIomkGhibbIEQCmW5b1eiDeqcK5u85cTy3pXrloPIfcsHh2W56nSIXGB0ZCRlG6qWamKf/w3/RLQITyq8vRysDdvQktehbLPKq/M9E2h5NZX0m8urmVuvgSTPobY1MHN7ID9thJCZ/7cex1+Ht8tnrtrgBqyubBYbRQA474LRTEiCUBupIQcA715/GCs98jR0RZk145KNEi6xd4sqE1ep9n1HcKU+bfV396Kjj6krL5K/S5/9TSx3nZ3vy6Z2K11E4DtjpLNCdO5uOFiSntoM6beuYpH19G++AaXE1Tt3YNmX7rY6qXrkjdylAtpr74WfkTV7XMFsfNPKd26Yq6wbwhRkJlfJ9c=;Mx1cmHiwWMF2Rq1+Z8BXxQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/news/nasas-perseverance-rover-mars-landing-ho
 webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
 type: article
 quality: 152
-heat: 153
+heat: 152
 published: true
 
 provider:

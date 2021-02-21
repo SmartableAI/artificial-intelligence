@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How This Delhi-Based Startup Uses AI To Streamline Legal Workflows Of Fintech Firms"
+    excerpt: "Delhi Alumni and lawyers Rishabh Goel, Anand Agrawal and Mayank Khera, Credgenics is a SaaS platform offering on-demand dispute resolution and mediation services."
+    publishedDateTime: 2021-02-21T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-delhi-based-startup-uses-ai-to-streamline-legal-workflows-of-fintech-firms/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Anand-Agrawal_Mayank-Khera_Rishabh-Goel.jpg"
+        width: 1600
+        height: 830
+        isCached: true
   - title: "Global Payments to Participate in KBW Fintech Payments Conference"
     excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President & Chief Financial Officer,"
     publishedDateTime: 2021-02-18T20:06:00Z

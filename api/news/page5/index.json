@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-17-researchers-used-ai-to-determine-which-overlooked-animals-could-host-a-new-coronavirus.md",
+      "title": "Researchers used AI to determine which overlooked animals could host a new coronavirus",
+      "excerpt": "A new machine learning study has identified many more potential host species for novel coronaviruses than were previously known.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-16T190707.573-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/ai-predicts-numerous-animals-host-new-coronaviruses-covid19/amp/",
+      "publishedDateTime": "2021-02-16T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-twitter-accounts-with-ai-generated-cat-avatars-at-center-of-turkish-porn-bot-ring.md",
       "title": "Twitter Accounts With AI-Generated Cat Avatars at Center of Turkish Porn Bot Ring",
       "excerpt": "Someone is using generative adversarial networks to make networks of bots to advertise porn and sports betting.",
@@ -113,7 +164,7 @@
       "originalUrl": "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -407,7 +458,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1170,58 +1221,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-ai-da-the-first-robot-artist-to-be-exhibiting-herself.md",
-      "title": "Ai-Da, the first robot artist to be exhibiting herself",
-      "excerpt": "The robot was named Ai-Da after the 19th century mathematician Ada Lovelace. According to its creators, it is capable of drawing real people using its camera eye and a pencil in hand. She 'looks' in the mirror that is integrated with her camera eyes and with the help of algorithm programs transforms it into coordinates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/365453",
-      "originalUrl": "https://www.entrepreneur.com/article/365453",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613421336-Ai-Da-Robot-Lucy-Seal.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365453",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365453",
-      "publishedDateTime": "2021-02-15T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

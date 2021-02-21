@@ -10,7 +10,7 @@
       "originalUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -458,58 +458,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company.md",
-      "title": "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company",
-      "excerpt": "Canada NewsWire NEW YORK, Feb. 18, 2021 Acquisition will help build a full sta",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-18/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-18/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1233,6 +1181,50 @@
         "Machine Learning",
         "AI Hardware",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.md",
+      "title": "COVID-19 has made Americans lonelier than ever – here’s how AI can help | Opinion",
+      "excerpt": "Therapeutic bots have improved users’ mental health for decades. Now, psychiatrists are studying how these AI companions can improve mental wellness during the pandemic and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html",
+      "originalUrl": "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MSIRECICK5BNBJ5ZXERRNT6EYY.jpg",
+          "width": 754,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html?outputType=amp",
+      "publishedDateTime": "2021-02-18T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penn Live",
+        "domain": "pennlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

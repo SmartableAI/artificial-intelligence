@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider. \"By again passing the Azure Expert MSP criteria, Unisys has proven that it can consistently and securely design,"
-    publishedDateTime: 2021-02-16T12:58:00Z
-    webUrl: "https://www.nasdaq.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
     excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
     publishedDateTime: 2021-02-19T07:23:00Z

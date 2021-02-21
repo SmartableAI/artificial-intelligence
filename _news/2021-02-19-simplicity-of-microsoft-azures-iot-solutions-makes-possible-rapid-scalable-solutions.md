@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider. \"By again passing the Azure Expert MSP criteria, Unisys has proven that it can consistently and securely design,"
-    publishedDateTime: 2021-02-16T12:58:00Z
-    webUrl: "https://www.nasdaq.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
     excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
     publishedDateTime: 2021-02-17T15:17:00Z

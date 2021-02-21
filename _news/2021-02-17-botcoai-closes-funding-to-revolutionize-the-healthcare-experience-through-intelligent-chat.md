@@ -41,17 +41,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Trend Innovations Holding Inc. Launches the First Version of the AI Consultant Chatbot on the Company's Website"
-    excerpt: "VILNIUS, LITHUANIA / ACCESSWIRE / / The Board of Trend Innovations Holdings Inc. (OTC:TREN) has launched the first version of the AI consultant chatbot on"
-    publishedDateTime: 2021-02-16T13:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/ac19671835/trend-innovations-holding-inc-launches-the-first-version-of-the-ai-consultant-chatbot-on-the-comp"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19671835"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19671835"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "MjAdI1CPn71EIpS6lbIglUlcrEy+hXip1gdctbIXCME8cEuUp5jUu/GbE1ofKxijWSZynCrZDIIvG9dyi08CoOKST5SiaoDFM22py7U4/YWR6YBqOYwAiyIr3PFPlEAyDC/uMpnRvgqt8/Wsh0qIItn+qpfYObcjYZSUes+N5SGodNMBE8AFxhJiCaKSLI8gs9rmDWtInU2qk2vXnWX9K4YyU/xc7k6QqptWpddK09IBmk8NvxQ+Y8jUKKXN69quh1mS/3qLLCcHy8an6trs9ZAr4XOv2dFfvalms3q9cfOoiknOB8QHJIU4Ke472F3DD33DifVRrGL03pydQCMXKCYt26267g+CVo+FNg0lqPs=;Odqj0mjPIbtA867nBATZZQ=="
 ---

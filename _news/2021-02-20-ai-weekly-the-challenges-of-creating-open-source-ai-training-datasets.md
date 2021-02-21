@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

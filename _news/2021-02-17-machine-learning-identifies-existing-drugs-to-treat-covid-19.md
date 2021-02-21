@@ -62,20 +62,6 @@ related:
         width: 685
         height: 514
         isCached: true
-  - title: "MIT Develops Machine-Learning Approach to Finding New Treatment Options for COVID-19"
-    excerpt: "Researchers develop a system to identify drugs that might be repurposed to fight the coronavirus in elderly patients. When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments."
-    publishedDateTime: 2021-02-16T12:53:00Z
-    webUrl: "https://scitechdaily.com/mit-develops-machine-learning-approach-to-finding-new-treatment-options-for-covid-19/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 17
-    images:
-      - url: "https://scitechdaily.com/images/COVID-19-Drug-Repurposing.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "New AI-Enabled Virtual Screening Tool Identifies Most Promising Approved Drugs for Success in Treating COVID-19"
     excerpt: "WorldQuant Predictive (WQP), an AI predictive products company, and CAS, a division of the American Chemical Society that specializes in scientific information solutions, have partnered to develop a groundbreaking methodology that can save time and lives by helping research teams rapidly prioritize the most promising drug candidates to treat COVID-19 and other critical diseases."
     publishedDateTime: 2021-02-19T08:32:00Z

@@ -1,30 +1,21 @@
 ---
 category: news
 title: "Artificial intelligence predicts nonlinear ultrafast dynamics in optics"
-excerpt: "Researchers at Tampere University have successfully used artificial intelligence to predict nonlinear dynamics that take place when ultrashort light pulses interact with matter. This novel solution can be used for efficient and fast numerical modeling,"
-publishedDateTime: 2021-02-19T17:26:00Z
-originalUrl: "https://techxplore.com/news/2021-02-artificial-intelligence-nonlinear-ultrafast-dynamics.html"
-webUrl: "https://techxplore.com/news/2021-02-artificial-intelligence-nonlinear-ultrafast-dynamics.html"
-ampWebUrl: "https://techxplore.com/news/2021-02-artificial-intelligence-nonlinear-ultrafast-dynamics.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-artificial-intelligence-nonlinear-ultrafast-dynamics.amp"
+excerpt: "Researchers at Tampere University have successfully used artificial intelligence to predict nonlinear dynamics that take place when ultrashort light pulses interact with matter. This novel solution can be used for efficient and fast numerical modelling,"
+publishedDateTime: 2021-02-20T14:34:00Z
+originalUrl: "https://7thspace.com/headlines/1462405/artificial_intelligence_predicts_nonlinear_ultrafast_dynamics_in_optics.html"
+webUrl: "https://7thspace.com/headlines/1462405/artificial_intelligence_predicts_nonlinear_ultrafast_dynamics_in_optics.html"
 type: article
-quality: 59
-heat: 69
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: 7th Space
+  domain: 7thspace.com
 
 topics:
-  - Machine Learning
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/fiberoptic.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
 
 related:
   - title: "Artificial intelligence predicts nonlinear ultrafast dynamics in optics"
@@ -42,6 +33,6 @@ related:
         height: 675
         isCached: true
 
-secured: "uov7QGnWM3+cMozOXCD4sSqmN9qzJprgif4GgTo70+KahEl2ke4DkUItxl9Z7FeGxrgISFix0UnqCxUG9rKNUDRA+50k/HxuAsf1szwLjDlYTW6oDBD9C/W+3weSlT3FlnxrqSmdRbCpu7U0aY11HkY/Ctu7Oyonf8oUrDhwOoIadqhNT8Lq5qKF+O3YqXLEtSHlqhXLk/zX1Vm8i8TLYJa2cGBXwWAfXMmX330mqBD+mxg5xQ88yG3tEYEE69yDu2oFLEGq8VClhDgaDakQP98DHRFmW2iG1NGPxFDty4jMlYY71F6eU/y7An4v6V6C43S63Kwbnrp+B00XNTkIH3N/UyiPMZtitDARi0FtCq4=;1WYyM0uiAEy6N0AfUR0EQg=="
+secured: "WfBL+EBr83SYlmndfc5mJA+3FqLb3cYR8Cu48vl7vyUVwcI+pVEPWev3KQllgkrjypXXjE2L/do7d2Fw9yRslivO2CFQaRCEqu6rPrgKYSW/1iBlH7SlM7zXydEIrRvQd4Uswxvbzifre3rT30cYlJMQlBIg1HlLTvBfhcjhsUFKXGOVo9rsKrf4ut6laDmslY2eBbabsyms8QuGeoz8vgRHCIG0A2duFQF4wp4G7m2Oz8P3KVC2Yl1j5L1ZgaIXpMI4tlzcLECwtOPxIxM8T3n8J++AXTugGEqcqds5TpSnZykFw/0GApFGsgZ8OjWK8sqOQNUJ2sfXbB6GXXwRVvDpC+9taBeLA+oXInmTIn8=;8tyo21DFgcXUh2wjqpL6Ww=="
 ---
 

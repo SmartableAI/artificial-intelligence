@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How This Delhi-Based Startup Uses AI To Streamline Legal Workflows Of Fintech Firms"
+    excerpt: "Delhi Alumni and lawyers Rishabh Goel, Anand Agrawal and Mayank Khera, Credgenics is a SaaS platform offering on-demand dispute resolution and mediation services."
+    publishedDateTime: 2021-02-21T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-delhi-based-startup-uses-ai-to-streamline-legal-workflows-of-fintech-firms/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Anand-Agrawal_Mayank-Khera_Rishabh-Goel.jpg"
+        width: 1600
+        height: 830
+        isCached: true
   - title: "Facial Recognition Market Research Report 2020: Global Industry Analysis, Business Development, Size, Share, Trends, Future Growth, Forecast To 2025"
     excerpt: "Countries such as India and Moscow Introduce Facial Recognition for Superlative Law Enforcement Outcome Besides"
     publishedDateTime: 2021-02-17T19:05:00Z

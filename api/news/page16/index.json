@@ -2,6 +2,92 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-05-genetec-europe-launches-digital-badges-for-certified-channel-partners.md",
+      "title": "Genetec Europe launches digital badges for certified channel partners",
+      "excerpt": "IR illumination and traditional thermal security cameras, after all, are only able to provide black-and-white images, whereas object recognition software often identifies objects based on their color. White light illuminators installed alongside AI-powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/genetec-europe-digital-badges-certified-channel-partners-co-2566-ga-npr.1612502406.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/genetec-europe-digital-badges-certified-channel-partners-co-2566-ga-npr.1612502406.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/genetec-secures-the-very-group-920x533.JPG",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/genetec-europe-digital-badges-certified-channel-partners-co-2566-ga-npr.1612502406.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/genetec-europe-digital-badges-certified-channel-partners-co-2566-ga-npr.1612502406.html",
+      "publishedDateTime": "2021-02-04T21:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-may-the-force-be-with-you-how-ai-can-change-the-future.md",
+      "title": "May the Force Be with You - How AI Can Change the Future",
+      "excerpt": "Speakers Helene von Schwichow, MOTIF - Institute for Digital Culture Lindsay Gorman, Alliance for Securing Democracy Moderator Laura Groenendaal, The German Marshall Fund of the United States",
+      "sourceUrl": null,
+      "webUrl": "https://www.gmfus.org/events/may-force-be-you-how-ai-can-change-future",
+      "originalUrl": "https://www.gmfus.org/events/may-force-be-you-how-ai-can-change-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gmfus.org/sites/all/themes/gmfus_theme/images/og.png",
+          "width": 495,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T20:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "German Marshall Fund",
+        "domain": "gmfus.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-meet-robby-megabyte-bosnias-first-robot-rock-band-musician.md",
       "title": "Meet Robby Megabyte, Bosnia's first robot rock band musician",
       "excerpt": "Bosnia's most popular rock band, Dubioza Kolektiv, has a new recruit who sings and plays musical instruments - a humanoid robot called Robby Megabyte.",
@@ -1103,109 +1189,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos.md",
-      "title": "Canada (politely) asks Clearview AI to stop scraping citizens’ photos",
-      "excerpt": "The country's regulators said Clearview violated Canada's privacy laws by scraping photos of citizens from the internet without permission.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-04T164520.518-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/",
-      "publishedDateTime": "2021-02-04T10:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-using-genetic-algorithms-on-aws-for-optimization-problems.md",
-      "title": "Using genetic algorithms on AWS for optimization problems",
-      "excerpt": "Machine learning (ML)-based solutions are capable of solving complex problems, from voice recognition to finding and identifying faces in video clips or photographs. Usually, these solutions use large amounts of training data, which results in a model that processes input data and produces numeric output",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/ML-1235-4.jpg",
-          "width": 728,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T09:59:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

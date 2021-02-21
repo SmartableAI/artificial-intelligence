@@ -239,20 +239,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Aifred Health Named Top 3 Finalist in Global IBM Watson AI XPRIZE Competition"
-    excerpt: "PRNewswire/ - Aifred Health announced today that the XPRIZE jury has selected Aifred Health as one of the 3 finalists for the IBM Watson AI XPRIZE. The company is competing for the grand prize of US$3."
-    publishedDateTime: 2021-02-16T12:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-mental-health-d9ef88d24c7f7d656dfedb0f2ed7070e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "IBM considers selling IBM Watson Health: 5 notes"
     excerpt: "IBM is exploring the sale of its IBM Watson Health business as the company looks to ramp up its cloud computing division, according to a Feb. 19 Wall Street Journal report. Five notes: 1. IBM is looking into alternatives for the health unit,"
     publishedDateTime: 2021-02-19T15:48:00Z
