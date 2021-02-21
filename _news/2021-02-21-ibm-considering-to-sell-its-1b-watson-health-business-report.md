@@ -25,10 +25,10 @@ images:
     isCached: true
 
 related:
-  - title: "IBM’s Retreat from Watson Highlights Broader AI Struggles in Health"
+  - title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
     excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
     publishedDateTime: 2021-02-20T16:46:00Z
-    webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=hp_lead_pos3"
+    webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
     ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
     type: article
@@ -352,6 +352,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "rHATFxp5/JoSaIkABBDhQ2NMXW+D5lhfB2RdYQu0tTaDympzBHr1410NC01SJe3ghHIZwex2bZ9zLSwtoA+HCs3ZeIlHZvlvn5jlgwE6r8i2bie0Vb2l2kzop6YU871G+/H0gZlOMno9MvNFV/5Gcut3/CEPK7km5WZMv5AChP8PzqCX2XBRSOSun7yr2Mkp9UvWe/2PddIUvB651X0ZNlDRvQ+jPBqtoqJJ3EraWFFduwZPSrefIIxXiSIzwq22JicXDV4Q21zgx/+zhhukwftcKt0lrC55jkmIgDr9ne4s7C2RJAqKPJqAFNnA/9fyHJYpdwIPTF7yOSVQPiPqUBHtCoO5yCING7KQ79OXa7c=;brKJahuX8CDD3J05mIO0fw=="
+secured: "36F7EGsZ0I9J5wr/PduLcMk03MuaCihFmiHZR2hfZUPHs0xhyZ2iFV3NezXgfTwWD5VTf35E1TlSTLvtSuujMcpYrX936ghp8HMk/AsmrLaLKT5Y+MKBF5zauWABVVSeW0ZREEoCkdpubPq6/ax3UuXBYZW/JhHNrPPQ8oJbDhFNYwohu6B3a0cRFaokz7qcvHZeRdrO8g8YXeIne3x6faXMtNk0nrpoKgZ44knue3tv2kGCTErTKn5/MIR7RXd8UYQZZF7o/7S2IRsKNvdxdt1hidn6E6R/tB+1W+6oxtANsNXHnHGQoPy2/sv+Gck3TiTORrgxyfRhN12IBR8UySMD1otyrVjFmLj1ode3rWO8i4VoARgBHJXPJ7yh3JGi0KbVKGwINRnRU/TUZDHkPdX0LwlZYHm8pkY3sFSyNSuLFM8Hz+u4rxnQUkBy8cyK48bnEumZGbfdLxqN96EVWpPzuNAsvQwYEEdReFSo14z2kIXEnqBKnhjxhg1gMhASCsdlXviQWtQ6gMtlWv26Sg==;+r3TQl3IBo6lECpg82A+AQ=="
 ---
 

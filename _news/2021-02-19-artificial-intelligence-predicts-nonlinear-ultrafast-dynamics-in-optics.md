@@ -33,7 +33,7 @@ related:
     provider:
       name: 7th Space
       domain: 7thspace.com
-    quality: 17
+    quality: 19
 
 secured: "pbkPajV0lu4AvVCxk8NtOtqT3sC8GE2yzdT7Wd8mmVyjC3pt9nR955K5Z1lWMI2oiRoTrZniU3oC2SZpyyWM0PprCuJPRqEmtBvet0F//3sSURQvHAz911eJHSUlSJLr5wj76dZi+dOZeSfreYJ9NPjrJpiCnN4mlzYwKa2c5pBA2TrTYkZPSg6jBQvCsldbST556uDa7sMaaC2mRxQ6qvfyjUU+1cvx3xMbmDGpGXetBCyg/W/9DMtJ3kAHGyYi5n4ikaoOztnKcrfwmdprvsQf16/I+v5wApoEQDjyKmdd9mMco2oijabsl/0t8TrKcnZ2hOtHYhEZXtWn9wpKmpYSBgam+qjd3z1dHp5PNkU=;AFfpUJtCqZ1x6oqpovfX0Q=="
 ---

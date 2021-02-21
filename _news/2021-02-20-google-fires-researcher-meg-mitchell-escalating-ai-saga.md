@@ -58,12 +58,28 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google Fires Another Top Researcher on Its AI Ethics Team"
+    excerpt: "Google has fired another top artificial intelligence researcher, Margaret Mitchell, in the latest escalation of internal tensions at the company following December’s controversial ouster of Timnit Gebru,"
+    publishedDateTime: 2021-02-21T00:28:00Z
+    webUrl: "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173"
+    ampWebUrl: "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 104
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/qor3uucrnhamtzuoqiyn.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Google fires second AI ethics leader as dispute over research, diversity grows"
     excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
-    publishedDateTime: 2021-02-20T01:26:00Z
-    webUrl: "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
+    publishedDateTime: 2021-02-20T07:07:00Z
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-idCAKBN2AJ2JA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AJ2JA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AJ2JA"
     type: article
     provider:
       name: Reuters

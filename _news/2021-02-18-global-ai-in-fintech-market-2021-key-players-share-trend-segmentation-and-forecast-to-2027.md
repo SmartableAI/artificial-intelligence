@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-mar
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2021-key-players-share-trend-segmentation-and-forecast-to-2027-2021-02-17"
 type: article
 quality: 58
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Azrieli-Center-Tel-Aviv-Israel-300x260.jpeg"
         width: 300
         height: 260
+        isCached: true
+  - title: "Voice and Speech Recognition Market with Segmentation, Growth, Opportunities and Forecast 2021 to 2026"
+    excerpt: "Voice and Speech Recognition Market” The global voice and speech recognition market exhibited strong growth during 2015-2020. IMARC Group expects the global"
+    publishedDateTime: 2021-02-20T23:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19763182/voice-and-speech-recognition-market-with-segmentation-growth-opportunities-and-forecast-2021-to-2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19763182"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19763182"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.abnewswire.com/uploads/1613729476.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
     excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"

@@ -2,11 +2,11 @@
 category: news
 title: "Google fires second AI ethics leader as dispute over research, diversity grows"
 excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
-publishedDateTime: 2021-02-20T01:26:00Z
-originalUrl: "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6"
-webUrl: "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
+publishedDateTime: 2021-02-20T07:07:00Z
+originalUrl: "https://www.reuters.com/article/us-alphabet-google-research-idCAKBN2AJ2JA"
+webUrl: "https://www.reuters.com/article/us-alphabet-google-research-idCAKBN2AJ2JA"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AJ2JA"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AJ2JA"
 type: article
 quality: 100
 heat: -1
@@ -60,6 +60,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/O1BP3JZVk2HBAEmcX_KBvD3zFuQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68845703/acastro_180427_1777_0001.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Google Fires Another Top Researcher on Its AI Ethics Team"
+    excerpt: "Google has fired another top artificial intelligence researcher, Margaret Mitchell, in the latest escalation of internal tensions at the company following December’s controversial ouster of Timnit Gebru,"
+    publishedDateTime: 2021-02-21T00:28:00Z
+    webUrl: "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173"
+    ampWebUrl: "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 104
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/qor3uucrnhamtzuoqiyn.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
     excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
@@ -268,6 +284,6 @@ related:
         height: 576
         isCached: true
 
-secured: "fmDNnAAsn31SvCzp1QxmDuW+jeS5z/iORRFe37sJ2pAlXNzLFvhVVKfjDstGO5uuN48tkZ0M/5S+o+lHfsNkikKydNRZUEl2EAUzsT7KOdYDfMcFnT74bsDQnQNllMMoIOju7dd+ZAErquuO36lUxTnGSM6YIs2a8jnWrrXQnVcJmg9ucVtarH1Wj0GKmBaEHs07poau000GB87n+woV6Z3lTJVDyF/dPL2x4yLPXKlwr7ycReY4pMlZVM6iuSf5HvLqqcmFvDH7g+6cLPIp8t+aVB6G7ijb5e30huppfAqBiX3JJNcB/zqzKtbZpTMc2WsLO7tCGk2oTBeQX8xHwr4pKmMqp8xo8MZox09+Pvk=;cwlBc7qYhHmVcD5YzxiFOA=="
+secured: "sHs2cmOOyAM3GlHZELkoLPEHgWPYewGb6rgGRcCnsu6lNNI/6QZdH1LHvlx83hViDea/0mm1nziWcZ9ubeTELK2i/rHl9fdFq+gAyhqlFMkzSZUzf/l9z/tSJtqqruYvFZkJ+hQpCoFX6mta+bg5YgVn2bO/8SOtjM9xuZt2CqO1goNCIay6UlUEXwBtzIz/UI5fRrxI+q8eMoQysxouJhYd9bpVDHt2g9OT+0HnamuEy8j9QJ93vRMWcQPFxioGgcaH9fui1JWomgL1/Pv7JhqtHeQHRWbsplAr1CS6x8dDXQwF2omKc34Wh2zhIGtRVoAmRoXo2bXPrVF0DulViVMZckDqQ1Q0IItW93vb6P8=;Lgbyql9L0hksRQMNz2Rv8A=="
 ---
 

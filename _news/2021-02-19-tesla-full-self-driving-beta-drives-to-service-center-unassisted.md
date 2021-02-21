@@ -43,21 +43,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple in talks to buy self-driving sensors, key step in car plan"
+  - title: "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan"
     excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
-    publishedDateTime: 2021-02-19T19:02:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/4510493001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4510493001"
+    publishedDateTime: 2021-02-19T17:32:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/11/PDTN/cf955e28-6b45-48c8-9a69-d1203eb9f4cf-AP20315705413018.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivKAzHWasdqE/v1/1200x800.jpg"
         width: 1200
-        height: 676
+        height: 800
         isCached: true
   - title: "Apple Reportedly in Talks to Buy Sensors for Self-Driving Cars"
     excerpt: "Apple is negotiating to buy sensors for self-driving cars, a media report says. The tech titan for some years has been working on an autonomous-vehicle project."
@@ -188,6 +186,20 @@ related:
       - url: "https://www.washingtonian.com/wp-content/uploads/2021/02/3-optimus-ride-nationals-park-e1613748365342-1024x616.jpg"
         width: 1024
         height: 616
+        isCached: true
+  - title: "Apple in Talks to Buy Self-Driving Sensors for Apple car"
+    excerpt: "Apple Car- . is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter"
+    publishedDateTime: 2021-02-21T00:25:00Z
+    webUrl: "https://techstory.in/apple-car-in-talks-to-buy-self-driving-sensors/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2018/07/applecar-800x450.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"

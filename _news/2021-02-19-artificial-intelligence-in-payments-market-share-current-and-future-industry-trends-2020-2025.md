@@ -28,15 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence (AI) Market Insights, Growth, Share, Trends and Dynamics By 2023"
-    excerpt: "The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market. The healthcare IT industry reports are formed by Market Research Future,"
-    publishedDateTime: 2021-02-16T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16"
+  - title: "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)"
+    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
+    publishedDateTime: 2021-02-17T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 87
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Wearable Artificial Intelligence Ai Market 2020 Growth and Forecast Survey Till 2027 | By ARC"
+    excerpt: "The global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. The Wearable Artificial Intelligence Ai Market is highly competitive,"
+    publishedDateTime: 2021-02-20T05:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market Size: Technological Advancement and Growth Analysis with Forecast to 2026"
+    excerpt: "Selbyville, Delaware, The Report 2021-2026 Global Artificial Intelligence (AI) in Construction Market Report Industry analyses the important factors of this market based on present industry situations,"
+    publishedDateTime: 2021-02-17T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-size-technological-advancement-and-growth-analysis-with-forecast-to-2026-2021-02-17?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -53,15 +81,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 55
-  - title: "Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Size, Share to Record Stellar Growth Through 2025"
-    excerpt: "Selbyville, Delaware. The report Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market"
-    publishedDateTime: 2021-02-16T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-drug-discovery-and-clinical-trials-market-size-share-to-record-stellar-growth-through-2025-2021-02-16"
+  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
+    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
+    publishedDateTime: 2021-02-19T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -95,6 +123,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Car Market Trend and Forecast, 2020-2024 | By Kenneth Research"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
+    publishedDateTime: 2021-02-19T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2020-2024-by-kenneth-research-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Smart Robots Market (2020to 2026) - by Component, Mobility, Operating Environment, End-user and Region"
+    excerpt: "The global smart robots market size is expected to reach $25 billion by 2026, rising at a market growth of 27.2% CAGR during the forecast period. Smart robots are considered as artificial intelligence system that provides optimum management of an environment with the combined work of human operators and robots."
+    publishedDateTime: 2021-02-18T19:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "Natural Language Processing Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
     excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years,"
     publishedDateTime: 2021-02-17T07:52:00Z
@@ -109,19 +162,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Healthcare Market Size, Share, Growth, Trends, Opportunity and Forecast to 2025"
-    excerpt: "Report Ocean Pvt Ltd –:The rise in demand for computer vision systems in the global healthcare industry, growing computer vision precision medicine usage, and government initiatives to promote big data and AI-based technologies"
-    publishedDateTime: 2021-02-17T04:16:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-02-17/computer-vision-in-healthcare-market-size-share-growth-trends-opportunity-and-forecast-to-2025"
+  - title: "Facial Recognition Market Size, Share 2021 Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
+    excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
+    publishedDateTime: 2021-02-17T10:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-2021-trends-growth-drivers-demands-business-opportunities-and-demand-forecast-to-2025-2021-02-17"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 448
+        height: 630
         isCached: true
   - title: "Artificial Intelligence Systems Spending Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2027"
     excerpt: "The global Artificial Intelligence systems spending market is forecast to reach a market size of USD 767.60 Billion by 2028, and register a significantly high CAGR, according to latest analysis by Emergen Research."
@@ -151,20 +204,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-based Drug Discovery Markets, 2030 - ResearchAndMarkets.com"
-    excerpt: "Focus on Deep Learning and Machine Learning, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The “AI-based Drug Discovery Market: Focus on Machine Learning and Deep Learning, 2020-2030” report features an extensive study of the current market landscape and future potential of the players engaged in offering AI-based services,"
-    publishedDateTime: 2021-02-16T17:44:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-pharmaceutical-manufacturing-health-care-industry-afd4deed0ab74e9cb5f6ca7920363ccb"
+  - title: "Educational Robot Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Educational Robot Market size is expected to grow at an annual average of 15 3 during 2021 2027 Educational Robot Market Modernization has mandated the modern service market and has increased connectivity along with many other premium services"
+    publishedDateTime: 2021-02-17T11:27:00Z
+    webUrl: "https://www.openpr.com/news/2243933/educational-robot-market-global-industry-analysis-size"
+    ampWebUrl: "https://www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
   - title: "Sales Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The global sales intelligence market size was valued at USD 2 29 billion in 2019 and is expected to grow at a CAGR of 10 5 from 2020 to 2027 Artificial intelligence AI has had a potential impact on the"
     publishedDateTime: 2021-02-18T12:12:00Z
@@ -176,6 +226,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market Opportunity Analysis, Trends, Overview and Forecast 2019-2027: Covid-19 Impact and Recovery"
+    excerpt: "The artificial intelligence AI in healthcare diagnosis market was valued at US 3 639 02million in 2019 and is projected to reach US 66 811 97 million by 2027 it is expected to grow at a CAGR of 44 0"
+    publishedDateTime: 2021-02-17T14:02:00Z
+    webUrl: "https://www.openpr.com/news/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
+    ampWebUrl: "https://www.openpr.com/amp/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
 
 secured: "ldqI9p22hs7Z0c7LxbXytWIOusKg/4ECnGSrxEy7Hq3/L+eGoAf2aUiPGLkAwa1HPeDk+RuFkCG4b/inI4EE5/8mWqxgJK/+kCzn8Pn4+gjFTgYQpLrTglERouGsApA278+IcapIr+/MZPWjEgjppLR2tkKWdOHxwShHeUtl2GDCSUqaRuJxFPMUYDj4x99z9KEZXZth1gpesCd4oWUsB2qROCbU87rf31mpVqHzxmQiVGagfwWlT5AQ9CjxPBrqELM1pZt3ZY45xJjK9vQeiPtsKifAbA4PcLLIsNxQD6gRNXYTOrWqyH/D+lzRF4PWGp/W9jjQHJZMlcxc6iunxdUzi/63DobElxcEoTf5J/I=;kHDFZEPRVh2KtIr3UHF7eQ=="
 ---

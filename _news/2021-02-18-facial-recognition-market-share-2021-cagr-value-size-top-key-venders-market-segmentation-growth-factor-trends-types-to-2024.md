@@ -59,6 +59,22 @@ related:
         width: 300
         height: 260
         isCached: true
+  - title: "Voice and Speech Recognition Market with Segmentation, Growth, Opportunities and Forecast 2021 to 2026"
+    excerpt: "Voice and Speech Recognition Market” The global voice and speech recognition market exhibited strong growth during 2015-2020. IMARC Group expects the global"
+    publishedDateTime: 2021-02-20T23:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19763182/voice-and-speech-recognition-market-with-segmentation-growth-opportunities-and-forecast-2021-to-2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19763182"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19763182"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.abnewswire.com/uploads/1613729476.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facial Recognition Market Research Report 2020: Global Industry Analysis, Business Development, Size, Share, Trends, Future Growth, Forecast To 2025"
     excerpt: "Countries such as India and Moscow Introduce Facial Recognition for Superlative Law Enforcement Outcome Besides"
     publishedDateTime: 2021-02-17T19:05:00Z

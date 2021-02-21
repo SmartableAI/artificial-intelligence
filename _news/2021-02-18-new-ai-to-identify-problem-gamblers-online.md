@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-18/problem-gambler
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-18/problem-gamblers-to-get-flagged-at-entain-amid-official-scrutiny"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

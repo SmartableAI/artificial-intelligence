@@ -1,10 +1,10 @@
 ---
 category: news
-title: "IBM’s Retreat from Watson Highlights Broader AI Struggles in Health"
+title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
 excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
 publishedDateTime: 2021-02-20T16:46:00Z
-originalUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=hp_lead_pos3"
-webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=hp_lead_pos3"
+originalUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - IBM AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://images.wsj.net/im-302017/social"
@@ -356,6 +356,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "z8mAoIaPa4qmJgEIMihKBqy2AzVsg6HqftEXtK+Y5BId7HIyP1LMDFCNBeo6ZMmDLjeVqTZ2f45UXeZNPQqijIv5wsLejbnQGeo3a40sbqHIl1w8byZni6w2q7/PH9mGsLJ2xM+6n7x642jVZPUim0bNWlvyC2psZ0aK+ORsEGt204g9XyKj7hHIR0TSzDOeJf6nXoYZbgxYjf8O7Xhcisbk1Vxjo6SEyw2lqLnNdfPA6av3I4U9PDRYRtgI5hl28UTUvIOTIN78OaAR2EW5dF0FtOuN88SAA7Tii/GS8KGIkqQpxlG6V+4PDR23uYvGZruAmOnhT5yqSPe23zlnB4LW4DJyIwHBkcwTTYUMSMI=;UhHbO9aQdhFbMY7yi4+D5w=="
+secured: "8rAoKq3mshmXI89tUrTGMHhmr8g1oNwmJUjXV2+dUBCXPGOO+516OLOOXsXhPpEaMQQA0hh996hNa6FAyLm/J/+p5We5j5qgMJj2zwk4sPbV98IMZLRLXHaqOrmQ3q1l/q4uOnXFgPj7E8eLI8wSVrAjTzxvGaQ9RFZJ6AD5uhmHQCv6fL9HCfCv+DVhONDb/4IxGWb5Lr+HKUIu+ikSNTL9otN8RPZV0PkcH13U39svtWOhlhE0J2S8Z/qFfXLHFHf+Jkk7sHGRM0rmi/FzAzm/bwQOiS4AmE2zuPOz8cfY+9XMi6OU/ThaZ+Vz88c3ln1MQADBm3XJWJLrSbdAUqYHG/K4RXjzTt8gHOPpNJM=;omDGWu2mnA0/P2K06cyMIQ=="
 ---
 
