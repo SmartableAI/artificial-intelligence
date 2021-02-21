@@ -47,17 +47,6 @@ related:
         width: 1300
         height: 550
         isCached: true
-  - title: "Using Responsible AI to Push Digital Transformation"
-    excerpt: "Can businesses implement ethical AI standards that reduce harm while positively transforming the workplace? Just as its development is creating new business opportunities, AI has also delivered some harmful and ethically objectionable outcomes — a symptom of the misguided rush to get exciting technology to market superseding moral,"
-    publishedDateTime: 2021-02-16T17:51:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-to-push-digital-transformation.html"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
   - title: "Google announces new head for centre on responsible AI"
     excerpt: "Google announces new head for centre on responsible AI - Google has hired a prominent Black executive Marian Croak to lead its new centre of expertise on responsible"
     publishedDateTime: 2021-02-19T09:27:00Z

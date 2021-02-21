@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "Global Artificial Intelligence in Manufacturing Market :Top Competitors, Regional Analysis Demographics and Forecast To 2027"
-    excerpt: "Global Artificial Intelligence in Manufacturing Market Global Artificial Intelligence in Manufacturing Market was valued"
-    publishedDateTime: 2021-02-16T18:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-top-competitors-regional-analysis-demographics-and-forecast-to-2027-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ehApExUsxQeBZOR89gMPwYfCj5htsNLZNwXxfKUrIR9XaFqfrSb/d34C1tCssWcz430lwBAlemgBwk/n9zfSLulR9hh33RX2tXWaz6wXe1qw8VweuxbKc3+Wa25xi4rmK7qebAZuSyAa5UajFYhy9B78azUoKTCijKvdZqVzexGo5MuCxkefiFsl4ANP95SdhQB9ZWC8CaRRoFS5YL5apJ9hEgLGVE1KOSoZMP0IFbwUHL8K5Pkx+/3vjZqTf/SoHq7Wtn+se3L8k1hJiFR9Y81nQ0j/VY0DN85gk/BQ1v+bJ+54OypME5AnsJL+W2TaM5fQrUxeElba4Ih2D/sjeJBaKk3SzIA7p35bly/RaXw=;tSPsB3tICfkktASMcyFe6w=="
 ---

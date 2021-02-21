@@ -36,15 +36,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 2
-  - title: "OMNIQ's Q Shield(TM)? awarded with its AI-Based Machine Vision Solution for a Critical Homeland Security Project in a Sensitive Zone outside the US."
-    excerpt: "OMNIQ's Q Shield(TM)? awarded with its AI-Based Machine Vision Solution for a Critical Homeland Security Project in a Sensitive Zone outside the US."
-    publishedDateTime: 2021-02-16T17:58:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/02/16/omniq-s-q-shield-tm-awarded-with-its-ai-based-machine-vision-solution-for-a"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "6h1dFbmzlDs3uAnnIYShzK0m1wGzkJvC/U2dNQ1p0eu/jt20rY240DMxddAAits6MBxirHXtWCNNHNjM8Iu19B/GIhhv9vDmNVUf9dJziEG59wyNmV4eJ4T9KUyDync/Mfx+B9AuFEsKoBrkQ9mY4Qp1UTXF0ltnKhllC5KmQwsC+IeJvlniglAlQKLXDhgLGG62errR+5hymWEEx8A4gI3K55eHiELaEbX7qd+HxxKBVxrCd7HbsdFhvxv2s17bUTRNMcHisejDOEO5WvTsKZNLCoOIXhVIqUcRouktoX+6+lMjRSPLQX+hFFoCiprbpIM6IDmfpmpnwVlG7SdMM2UxhZl7mWPLjRNS+682y6c=;k/14Mxhl3vv1f2CDs271rw=="
 ---

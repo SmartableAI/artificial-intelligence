@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Automation and Artificial Intelligence are Changing Customer Experience Game?"
+    excerpt: "How Automation and Artificial Intelligence are Changing Customer Experience Game? By Matt Rocco, President & CEO, Etech Global Services, LLC - Science fiction and Hollywood have long polluted the perception of artificial intelligence with doomsday prophecies and"
+    publishedDateTime: 2021-02-19T03:43:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/how-automation-and-artificial-intelligence-are-changing-customer-experience-game-nid-30056-cid-225.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 32
+    images:
+      - url: "https://www.cioreview.com/ck_images/IzuOoU8f.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "YbSnAODNq0wQ30JLio8+9jEswZndvL9Gp7zOWBoo1qrnH+OBvutrz7LOE9P/EYzsHxcVnxj6/MUSytBFBUOQzLMLq7KxRp6EgpnIGYYVQaUae/nkowIZL0MVaffYYAPBcMyY1btouJ5MDTw+X8Ew6LpNztpgTyzE1yAT3+O3s85kGArH91I5ilr35Wqo1m/yBUyonQmNwpMHBF4OwwPAqicu5wfR+yHt4CWHu5WvLIYYRGAqePlBx2xmNPJgygkopBHEqSg2lxFzO0Bk+WQga9QhgsV1YGizv8klMxjxwymFWqM/+KmH5LYx0X6KVxic++PpT/8klQksmvQkuXeOySvaI4N357vg+CEVHVj23A8=;KJM1f5D6+MGPVbPn96Dz/g=="
 ---

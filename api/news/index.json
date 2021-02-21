@@ -96,6 +96,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-21-technical-university-of-munich-artificial-intelligence-deciphers-genetic-instructions.md",
+      "title": "Technical University of Munich: Artificial intelligence deciphers genetic instructions",
+      "excerpt": "With the help of artificial intelligence (AI) a German-American team of scientists deciphered some of the more elusive instructions encoded in DNA. Their neural network trained on high-resolution",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/technical-university-of-munich-artificial-intelligence-deciphers-genetic-instructions/",
+      "originalUrl": "https://indiaeducationdiary.in/technical-university-of-munich-artificial-intelligence-deciphers-genetic-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/1200px-Logo_of_the_Technical_University_of_Munich.svg_.png",
+          "width": 1200,
+          "height": 918,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/technical-university-of-munich-artificial-intelligence-deciphers-genetic-instructions/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/technical-university-of-munich-artificial-intelligence-deciphers-genetic-instructions/amp/",
+      "publishedDateTime": "2021-02-20T21:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-googles-treatment-of-ai-ethics-researchers-continues-to-stir-up-controversy.md",
       "title": "Google’s treatment of AI ethics researchers continues to stir up controversy",
       "excerpt": "You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber,",
@@ -743,7 +786,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-19/google-to-change-policies-after-review-of-ai-researcher-s-exit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 337,
+      "heat": 327,
       "tags": null,
       "images": [
         {
@@ -1099,7 +1142,7 @@
       "originalUrl": "https://www.openpr.com/news/2245722/natural-language-processing-market-is-going-to-boom-with-ibm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1183,49 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief.md",
-      "title": "DNA fingerprints, facial recognition used to probe riots cases, says Delhi Police chief",
-      "excerpt": "Commissioner S N Shrivastava said 231 accused were arrested on the basis of CCTV footage, 137 identified through Facial Recognition System & 94 through driving license photographs.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/",
-      "originalUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2020/03/cars.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp",
-      "publishedDateTime": "2021-02-19T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -33,15 +33,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "OMNIQ's Q Shield(TM)? awarded with its AI-Based Machine Vision Solution for a Critical Homeland Security Project in a Sensitive Zone outside the US."
-    excerpt: "OMNIQ's Q Shield(TM)? awarded with its AI-Based Machine Vision Solution for a Critical Homeland Security Project in a Sensitive Zone outside the US."
-    publishedDateTime: 2021-02-16T17:58:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/02/16/omniq-s-q-shield-tm-awarded-with-its-ai-based-machine-vision-solution-for-a"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "+3snNpD/uHR+9zbajPqrxd+I/UWRaiiX4mq9c63zVPXHR7qjypySA1fiEWYRdHMjUdccrbP8+K7S6n31Nw27PbXlteLJHi4cxEUbJgq2hgjZ95uybM8AsmjS9jQMkt2iK2DzU8fwh92gIfm5MBLEPWrMPV8D+8Exitd/stINO7quAQj835X+QKjTSnZ/jbr7KrMmyRQjm6Xoxk9DMvi9UUILM2crTwZoW/htZshrBZAD9cYB+njJKpgPPayWp4wy4Cz1lqzvxd4AXSxPy5GPDl34cuTYTsZRWnSMKMxgOtpSabmNO0FV7R+hHVTog/umlBYbh5/ob5urmF4KF0B7kspaFciRQI33DbcpKox42VA=;YZbUtk3nEQI/h4Q6RfVfJA=="
 ---

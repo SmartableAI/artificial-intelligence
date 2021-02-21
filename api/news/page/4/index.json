@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-18-ftc-settles-facial-recognition-data-misuse-allegations-with-app-developer.md",
+      "title": "FTC Settles Facial Recognition Data Misuse Allegations with App Developer",
+      "excerpt": "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
+      "originalUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
+      "publishedDateTime": "2021-02-17T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-indigenous-knowledge-and-ai-help-protect-baby-turtles-from-predators-on-australias-remote-cape-york.md",
       "title": "Indigenous knowledge and AI help protect baby turtles from predators on Australia’s remote Cape York",
       "excerpt": "This prolonged isolation spells big trouble for the survival chances of some tiny residents on the western shores of Cape York Peninsula – endangered baby turtles. Unless teams of Indigenous rangers find and protect them first,",
@@ -501,7 +544,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -901,58 +944,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-artificial-intelligence-ai-in-marketing-market-expected-to-gain-usd-21-billion-at-a-robust-cagr-of-26-during-forecast-period-2018-2023.md",
-      "title": "Artificial Intelligence (AI) in Marketing Market expected to gain USD 21 billion at a Robust CAGR of 26% during forecast period 2018-2023",
-      "excerpt": "According to Market Research Future, the Artificial Intelligence (AI) in marketing market has been segmented into",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-expected-to-gain-usd-21-billion-at-a-robust-cagr-of-26-during-forecast-period-2018-2023-2021-02-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-expected-to-gain-usd-21-billion-at-a-robust-cagr-of-26-during-forecast-period-2018-2023-2021-02-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     },
     {

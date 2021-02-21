@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-ne
 webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-industrial-products-and-services-new-products-and-services-be9efd5f706bcddb37cf0d095400529e"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Data processing options for AI/ML"
-    excerpt: "Training an accurate machine learning (ML) model requires many different steps, but none are potentially more important than data processing. Examples of processing steps include converting data to the input format expected by the ML algorithm, rescaling and normalizing, cleaning and tokenizing text,"
-    publishedDateTime: 2021-02-16T17:34:39Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/data-processing-options-for-ai-ml/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/09/ML-2404-1.jpg"
-        width: 800
-        height: 401
-        isCached: true
 
 secured: "9UIAvk4Tep14SQizLRHRRoy5PmkADmouIZKRhYt0ZPIZjDE8smRhp6xBhGgJ/XAINMOrOtN06NccuZs9FSRPBsXhe9yuccFo1FYtgM2TLUa0dWT5f7/1Wf6QaEntUo4gNp0Lfmoe9PWeAf+kCki63KSGcxbWAkVQlsJlqssSe9cymunfvVHI4JUHIhnJUGh1A0ZJ4SfzgbY7BjWCq8wfC8p5YcwKAzzlUFOsuAaL6z2aZr8dqf4C/KqAodeR1AX0eMGmmFM6jW+Vo9XOPZwa3QQo742AlhO+5Q9HxDwg1GkBvJi71I94YmmcWtLEgvp4IuiLS4t8EQz+HEy7hFyxwwUb4BBvo7UKNcVCbFmAedE=;RPn4jwHDupTDwIJL6e3Dcw=="
 ---

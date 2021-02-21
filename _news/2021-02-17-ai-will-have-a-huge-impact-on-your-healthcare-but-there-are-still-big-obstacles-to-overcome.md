@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-will-have-a-huge-impact-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/"
 type: article
 quality: 93
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "After the Pandemic, Health Care Will Still Be Broken"
-    excerpt: "Argument: After the Pandemic, Health Care Will Still... Even before the COVID-19 pandemic, health care services around the world were due for a digital transformation; with resources relatively scarce and diagnostics increasingly complicated,"
-    publishedDateTime: 2021-02-16T17:47:00Z
-    webUrl: "https://foreignpolicy.com/2021/02/16/ai-artificial-intelligence-health-care-pandemic-covid/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 24
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2021/02/GettyImages-covi-ai-aging-health-system-1230690764.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "KfEBJLeLzb98ASV9+ehufw29cjzn5Y5qRQNVtep8GBO4hgkO3ITy6O8lIKty5ldTJlJ7Pl38s47loO9p351Tvj/jDZC6QcPszHHVjm6aiEYrSFxZ6N598GOFTNSQGLjecUBSzktq8ChuT8NvszJaW9Mtmzx0CNaa8iUsQwAhKv4D0l1PmRTrWCtrrieaM1AgAN4yO80Oc3G0OGJiktptyE//x71iJz9nNAhghGxj1OCO+iTqu6Pw/gscH/P6F3UzLyLk2hjjh6oxY+ueQ3Sn0zblMXQZchv44/Xl/k0yTv/Br6XZTPcFP3vY4e1qZC5Bxoi4/rZxImsx9QqFRy7CqruLQPhPhe5BkJKgKYhiaHc=;SYQFz75ytX5i3tHOWWlLZw=="
 ---

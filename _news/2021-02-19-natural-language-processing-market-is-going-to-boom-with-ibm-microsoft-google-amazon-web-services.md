@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2245722/natural-language-processing-marke
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm"
 type: article
 quality: 78
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -127,20 +127,6 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/VW-Automated-Driving-Platform_Microsoft-2.jpg"
         width: 800
         height: 395
-        isCached: true
-  - title: "Global Text-to-Speech (Software, Services) Market Forecast to 2026 with Nuance Communication, Microsoft, IBM, Google and Amazon.com Dominating - Resea"
-    excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"
-    publishedDateTime: 2021-02-16T17:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=422804"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 1
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "yIRHSqz5FHnecU9pT4CvB7BEYrt9HOgmtmAWNch/q1qCMwM0CWmEpw8IsIyBBKHs2F8gTTAQ1gzyXzw8KUY4k0+7t1tF0rjaqZyqB5D1e83k+YIR+mq8JnDNlM7BmxYgd5Vv5bw3s/2niEkHdnBqKcNnnSaHNxTRDw/KwmpU9MTpqtIsRUocb6OV/vGWvQx+lpqhmtjbSF+Tjnvc4nU3RLXjdU7JQhK8mHGgC5McsBnOP5hm0ISDtTzq6+Fiha7wYbBOEbDMRdLPwQeMm9atlz6G223BI49cny7JoDZz/ynLHXkDda6Ju35e0tX+oV2eAb8r0BWDIynfiKcdUAGNzvYKp8MMtalDT90r9D3f8sfrdoWx0eWNuPOVGQdE02F5hPAllUPwc6ooC5+yYHzE2Yts1mB8YNeU9v63myD6sWUTIt5VSJ8XtzH1i1OPlqIDU/6hPduvHysAZZCnOjk3LbNGJ8arP0IL//k34/MtgUeaZnX4il1/0Ti9Hauwoz2QuZNvOoR5M+o/iWlx9XDEyw==;xI3qqUewqeIfR4+BNrDjrw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-d
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
     quality: 58
     images:
       - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "How Automation and Artificial Intelligence are Changing Customer Experience Game?"
+    excerpt: "How Automation and Artificial Intelligence are Changing Customer Experience Game? By Matt Rocco, President & CEO, Etech Global Services, LLC - Science fiction and Hollywood have long polluted the perception of artificial intelligence with doomsday prophecies and"
+    publishedDateTime: 2021-02-19T03:43:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/how-automation-and-artificial-intelligence-are-changing-customer-experience-game-nid-30056-cid-225.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 32
+    images:
+      - url: "https://www.cioreview.com/ck_images/IzuOoU8f.jpeg"
         width: 300
         height: 300
         isCached: true

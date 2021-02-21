@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024-2021-02-18?tesla=y"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
         height: 448
-        isCached: true
-  - title: "Global Artificial Intelligence in Manufacturing Market :Top Competitors, Regional Analysis Demographics and Forecast To 2027"
-    excerpt: "Global Artificial Intelligence in Manufacturing Market Global Artificial Intelligence in Manufacturing Market was valued"
-    publishedDateTime: 2021-02-16T18:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-top-competitors-regional-analysis-demographics-and-forecast-to-2027-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "ew0r/Lx2hQ7ng5X2CQGVAp6mKZJxT7UqVr8KJoqkLB92kqB88GoWNsWMDhp/kxPxjIrLwonT0/6GLcLYv5RHCENxTpIl4SPxCnaUJQEnpnpmc0QcdhI0mbE6/uWpasdAy+iW3Wme4VKkSmJDogOAsrKGcwjQ1fOjJvva3MJDM0Iq+hFFYnuLFF1AHdAlF41BANkEeT1VBfGh5DgvOXtloBF75K6sUpF5AcnfLrl/8I4MyGTxSgnb1dMarvH7BqXy5FfNHohuMk67P+uojoTYJeuCZvrSR2eLbfOizOqvuRmSGhC+jeqnZCcuKVgy5DTS3Uh/d59yx0N4nxphH8qCn3hjHkBlu0askNaSuRbzj6c=;+/vdmD93H1vuBU5Q6Kly1Q=="

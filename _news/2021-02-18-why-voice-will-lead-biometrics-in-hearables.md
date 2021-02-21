@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/03133758/patent-definition.jpg"
         width: 350
         height: 308
-        isCached: true
-  - title: "AnyVision patent filing suggests face biometrics for delivery drones"
-    excerpt: "The biometric technology could also be useful in smart cities, and provide functions besides surveillance, according to AnyVision CEO Avi Golan."
-    publishedDateTime: 2021-02-16T18:04:00Z
-    webUrl: "https://www.biometricupdate.com/202102/anyvision-patent-filing-suggests-face-biometrics-for-delivery-drones"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/16125722/facial-recognition-surveillance-crowds-small.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "n/mLUO1wWqhgdy6fMPrcWWZYJ0NoblwYyB3JJH/OF+7EgLWW4SjOvk8O/FaE9susNwfy9qH2Vz52+FW6Z+w3jroiaFGnfQt5igV1BtO6zsB8QRB2QYVVYozfRInMsdHj8N8RvQPr/gl5/ClpsKOM600KVqvQvxM2pn9CyBDatcyUIBf4dgMTeH9qjSGwBAI2gjdxfVY5n0GLWbVmRjQyeSLO/fdYQ1L4ixSynRbYhNwwFqOdwEigTUYDN5FlnHKnQ1DnC1oqifCBi2rDWWM9UYRAmH7Fo6Q3Ophb08E3qPeQvj+bFJJHKchLr9XdMz29aFwYFzr5JtVt+dnVipjpiwmE+4cG/r2SWXcDfcduFftsASdiqhoiFbIAwoMzj8mM6NpP3BZDgdQ7EEzdtKL/Wuo6d78s/530XfNmV6wtjystESkLZVeXH/yrz2Ab6bbbDHYC4mJzApLG5lAcZ3dHb2bN8Np0tXlHCbA2q2K81ywvuFr4zo9FxACF6m8aCyTqE3C+sucLf61CiwdNf9C+Qg==;LHi7bxOXZkjPvpE/K+sjqQ=="

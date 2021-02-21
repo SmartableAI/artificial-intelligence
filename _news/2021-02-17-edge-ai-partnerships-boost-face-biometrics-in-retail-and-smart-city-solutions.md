@@ -69,20 +69,6 @@ related:
         width: 350
         height: 308
         isCached: true
-  - title: "AnyVision patent filing suggests face biometrics for delivery drones"
-    excerpt: "The biometric technology could also be useful in smart cities, and provide functions besides surveillance, according to AnyVision CEO Avi Golan."
-    publishedDateTime: 2021-02-16T18:04:00Z
-    webUrl: "https://www.biometricupdate.com/202102/anyvision-patent-filing-suggests-face-biometrics-for-delivery-drones"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/16125722/facial-recognition-surveillance-crowds-small.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "O5tNqHW3/NKU76S2rGsH6OtnNGH2SDo1cz46n51mL3F8FQzPcxg7rGeoQmB+Smlim2BTT2hk6Nmf1hxZGgldfC/0nozsa1XcWjQdQZ5g70Xdhnpl21SIWK7gd36qOaPM9+4dng7Qds/mtLBIEJZY9H8pw+HGZjHdFH1fRvucWDdOFlKBIR2vhX2+UFeEDbrvK88VQmFPw5BYA8TSQih2mQeBdK4MuT5w9o66ZsUntNcC9PVGwHhXuahP+ar08e0sTDB3ewPJa+gInae2S5o/ox7oxnOPzzO1xKDjqH7hgUDhiG0Pw6dE5FO2bzmubmd/Fl24GmqhcSMj0resq6GgFHHwwfb+X/K00ksN2wY1qq0=;ZzCVmhaMFaRhOcEqdrtm/g=="
 ---

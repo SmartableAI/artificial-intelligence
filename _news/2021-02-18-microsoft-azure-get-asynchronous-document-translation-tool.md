@@ -127,20 +127,6 @@ related:
         width: 800
         height: 395
         isCached: true
-  - title: "Global Text-to-Speech (Software, Services) Market Forecast to 2026 with Nuance Communication, Microsoft, IBM, Google and Amazon.com Dominating - Resea"
-    excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"
-    publishedDateTime: 2021-02-16T17:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=422804"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 1
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "uhRf33E8cQ4QFuqBs+xVztRyp/m7x9gSLv0lCIouM0mmjezBUuQZIxsNmYHcgfjm+i9Teq2XGoFMpxC4YYPEA3XbgkUxUuAtcunsb32scueGOZzCEFj9XY+C229M2knXlFfNhyTVOUUQ7E0v44/f9qs/vsap5y5X2f6wrnrT+tQzqZcuICNU4siV2tSlK3sjFwfcm9+Eqrqe+bJSi59NRC0VmaX2FrI49Mibtx9wXmu7M8hvmz65tiyOcLLCiDTa+sQ8VVCCTF5Ks7NTEUJgDWs3RUFU+UeQAxHkzGvQfuZhq3098Rne4+EvJModvRFziUhFW4FSjDxjz1SY5CSnD9K8Dc4HqWeZeO8U4UpP4vt8G+jH68uejmj8zCuIIPGSv0Vsdal3i1C0sZ4K620eC45jNysm8tl9NzOCPIeNVK4PY/H06IVik5o6wUZM26oDk61rkKJGXFgzYwU2gwZcYBV/DsubRWxq85WqrrwDQWFo70LsHKj+wmV28mhpdgc0nAMz34NrXXeE6ImbAec5Sw==;qIaKieL0nIf4bYNwV6PLXQ=="
 ---

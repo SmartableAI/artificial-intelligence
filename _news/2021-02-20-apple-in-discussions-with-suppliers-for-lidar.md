@@ -94,20 +94,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Apple reportedly talked with Nissan about building its self-driving electric car"
-    excerpt: "Comment Now! Apple approached Nissan about becoming a contract manufacturer for its much-discussed self-driving electric car, according to the"
-    publishedDateTime: 2021-02-16T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131290_apple-reportedly-talked-with-nissan-about-building-its-self-driving-electric-car"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 19
-    images:
-      - url: "https://images.hgmsites.net/hug/apple-ceo-tim-cook_100696976_h.jpg"
-        width: 1632
-        height: 1188
-        isCached: true
 
 secured: "Pp7g3WleGn3mzzLEjyjdwi98xwfqJbR/Lq0gjJx+IQNpQCcjYV7cvt3WVEJeO7uBXhCpagfe4OoopTr0JMLTTu2OTDm40pzFn+YZK+mNxuR3uWeOMAqs4A4tfR1zC9iVBv2+CefrRSgSJvdwYVd3I5Y2ujLdUx3BVkYy0SlRyALf7cTR8k64d5Rc5spsVXZ4BwZc0hNh1M9Jd7eSsKjO35Krvqi5SNhkukXsk/RMyA/fduCWnIrvR81YvOMuP0Oge+giZ1QVGhHBLEl6yN1lRYRMgO04ETpJihh/k5jEq8tlJLTk3I3QM4pt+MH+FXteuRsdDzT5ewfNrcDpaSkv+eAbNUUVT8e9e7G4XS3XMBrUkZlMQkCc0I2ZfXXko56Dy7hW6/ka6pdR9nkufPfxcOclXKN+TeWQM12TlP4hfCBQ3XZ3bmX6jcrJ4RcTJY3jV6fjfs+AZUnz6VJWDk55MknJsJ4eWf9djWEESBfBZuGzX3V22XvfWHY/ITKzKSWAjHhGkbwv1Q2sgckgvJs3EA==;yTUo3ST70iKZ+VeYGV1qiQ=="
 ---

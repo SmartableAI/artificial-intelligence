@@ -183,20 +183,6 @@ related:
         width: 549
         height: 309
         isCached: true
-  - title: "Army researchers expand study of ethics, artificial intelligence"
-    excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
-    publishedDateTime: 2021-02-16T17:33:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/uarl-are021621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 56
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Fires Another Lead AI Ethics Researcher"
     excerpt: "Google said Friday it fired a lead artificial intelligence ethics researcher, following controversy last year over the tech giant's dismissal of a Black colleague who was an outspoken diversity advocate."
     publishedDateTime: 2021-02-20T02:35:00Z
@@ -284,6 +270,6 @@ related:
         height: 576
         isCached: true
 
-secured: "mJ71diwGIgsh1OSyHVQtqVjz1QCqrue5iwBx2D4rxiXAm5vhf53F3P+YglHXpL5/N+9O5aUndcIBiVoQdbpIU4mL+RjwaKpUYkpMz8fCKc1+yD8PuzihbovRq4fpOeI/TrrnHiI7qSW9uY2W+I3a8rszEH6hSV6QiQt6YNjLPRtYP+abeY+VmeKHbgovXdCeS7Pg2MQ/sejDlrgfw3OeoCdxSeAltxDeGY+txrEmsT9918EE7sp/k8q34T4RDSKZAV0FDHMPdTi4dl5FyISfH7EwzwS0lm4luMVSdQgX7AkmnQVRYTDn5AZCumtZfuyDTwhGAtUyVb+rZZMXGGhfnpMya6+7U3DDrSdyAm5R/7o=;3BjhqkrlKb7zFSPftZLPbg=="
+secured: "zvhWs3ByeS5LYbHV2eJuxfR9GrEKDlKQ0knvEKxwN3zn7OP7WbmcWifJB14SrKwBi8JJggIJeaXMaEc6XTHWTw/vEYeyddlaeVwicJItqZdx/slghGtMOVsPmkmkxG8j1heIKciNi4ms1UnPEhF95AsP5BiyMJqvZTie7Ajv4GrskA4fXKJu7pFUvQ94WdWUsA8hpbxt6668Resg6DCUEyb8l6AuFeAZy3QwCURFHIXhZIAJUkMY5vkC11j95reyGAN3gqgHkCtsq+zWfpvFiNzDWsyMwHv7e6qQELgKau6ilBimWyMRFg1YP30yW4sUjwWx3/Cp+3v30zSvg/2rauYsbFNDIWfRtxruvniM3NyFLvmKpqbUIqdzfFouegir91vt9qO5HXfDi75NBulGOmaQV8yS2lbjtGjlA/cO9mq+iJDlM9Qval/rG88EE5Dxh+rFxOFIQjWKo/s45MchbIdw+etnSw+OzR9fzk2tKneXtsi+P/X8LtIYfVEF20WNp/JAUJ4v8n6aYu9Th4f2sg==;s/P95SykZ+YXOXUSjYG0ag=="
 ---
 

@@ -182,20 +182,6 @@ related:
         width: 549
         height: 309
         isCached: true
-  - title: "Army researchers expand study of ethics, artificial intelligence"
-    excerpt: "The Army of the future will involve humans and autonomous machines working together to accomplish the mission. According to Army researchers, this vision will only succeed if artificial intelligence is perceived to be ethical."
-    publishedDateTime: 2021-02-16T17:33:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/uarl-are021621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 56
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Fires Another Lead AI Ethics Researcher"
     excerpt: "Google said Friday it fired a lead artificial intelligence ethics researcher, following controversy last year over the tech giant's dismissal of a Black colleague who was an outspoken diversity advocate."
     publishedDateTime: 2021-02-20T02:35:00Z
