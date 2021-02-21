@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity risks connected to AI in autonomous vehicles"
-    excerpt: "Autonomous vehicles are expected to reduce traffic accidents and fatalities, but may also pose a cybersecurity risk, according to ENISA."
-    publishedDateTime: 2021-02-17T04:31:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/17/cybersecurity-autonomous-vehicles/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2016/04/09112931/car-hacking.jpg"
-        width: 1200
-        height: 550
-        isCached: true
   - title: "MetTel Customer Innovation Labs Engages with Raytheon and Cybraics to Prove AI-Behavior Based Cybersecurity Service"
     excerpt: "MetTel, a communications and digital transformation leader, today announced a joint development program with Cybraics, a unique AI-directed security platform, to validate and refine powerful new AI-enhanced security capabilities for MetTel customers."
     publishedDateTime: 2021-02-18T14:40:00Z

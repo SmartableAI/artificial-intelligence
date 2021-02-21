@@ -24,22 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "7-Eleven Philippines enables “buy now pay later” with Silicon Valley fintech Plentina as it launches its online grocery"
-    excerpt: "Plentina, a Silicon Valley-headquartered Filipino-led startup that provides alternative credit scoring and digital financial services to brands and retailers, forms a strategic partnership with Philippine Seven Corporation,"
-    publishedDateTime: 2021-02-17T03:45:00Z
-    webUrl: "https://mb.com.ph/2021/02/17/7-eleven-philippines-enables-buy-now-pay-later-with-silicon-valley-fintech-plentina-as-it-launches-its-online-grocery/"
-    type: article
-    provider:
-      name: Manila Bulletin
-      domain: mb.com.ph
-    quality: 0
-    images:
-      - url: "https://mb.com.ph/wp-content/uploads/2021/02/128-Days-Artwork.jpg"
-        width: 1000
-        height: 1000
-        isCached: true
-
 secured: "UCmXivqPJNQEbZqhlj1EGmamK8dxjKRODO3RNg7RQr0OOHZkkepahuO0Yp1xllqwD58yMc7HYY70t45JLBYxcYgwZbQAif4UpHkMt2mQv274cKAx0tkQ4gKqEX5q1FG4lPft9EH55Ga6NzIUW9c857VYn5gmmU6vTWDHGFudbuuTMKH5LYfrRKLxbDjXVc95Ou1AWoVZxpA+GA/q0UFldxW6cOfUFx+XZ235ygbw+wESfDMi+A+D5n6bfrJayvsRCtvmHJyTuT6Xj0J+wCOBn8MyyUASAZn9bLloiJwLTr/J3PB6Gqkt8kblYteqM1bqvsGRbAZ+IHQQvhzXFtgAc7mEqAQIhTU5qGVVcGJ0l3BUIQeOxGON0UcIL0tOBxHThrZHgSi9FcsVcgzxalsRDefI4dbtJIgbJBT8qz9tHi5ygqapvXtIIo1h7LXKvrZ9dKuPMZ/ypZTqOpnqetcjFOVI57FnEzvKjOBo3Yb+UhLKFPW5ILdiob8+JjWmDhHvngRj9NqTW/OK6RI2Kew1lg==;e4A9VBW+zJSTTrc1FRLDUw=="
 ---
 

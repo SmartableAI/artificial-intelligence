@@ -1,27 +1,27 @@
 ---
 category: news
-title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
-publishedDateTime: 2021-02-17T15:17:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+title: "Microsoft warns on-prem customers to protect own identity infrastructure"
+excerpt: "Microsoft is urging customers to embrace the cloud for security, warning customers with on-premises services that they are responsible for protecting their own identity infrastructure. The software giant strongly recommends that customers manage identity and access from the cloud,"
+publishedDateTime: 2021-02-21T19:56:00Z
+originalUrl: "https://www.crn.com.au/news/microsoft-warns-on-prem-customers-to-protect-own-identity-infrastructure-561306"
+webUrl: "https://www.crn.com.au/news/microsoft-warns-on-prem-customers-to-protect-own-identity-infrastructure-561306"
 type: article
-quality: 51
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-    width: 1000
-    height: 524
+  - url: "https://i.nextmedia.com.au/News/20201216122139_crn-14_microsoft_iStock-1191485295.jpg"
+    width: 1400
+    height: 900
     isCached: true
 
 related:
@@ -41,6 +41,20 @@ related:
         width: 800
         height: 360
         isCached: true
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
+    publishedDateTime: 2021-02-17T15:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
+        isCached: true
   - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
     excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
     publishedDateTime: 2021-02-19T07:23:00Z
@@ -55,21 +69,7 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft warns on-prem customers to protect own identity infrastructure"
-    excerpt: "Microsoft is urging customers to embrace the cloud for security, warning customers with on-premises services that they are responsible for protecting their own identity infrastructure. The software giant strongly recommends that customers manage identity and access from the cloud,"
-    publishedDateTime: 2021-02-21T19:56:00Z
-    webUrl: "https://www.crn.com.au/news/microsoft-warns-on-prem-customers-to-protect-own-identity-infrastructure-561306"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 38
-    images:
-      - url: "https://i.nextmedia.com.au/News/20201216122139_crn-14_microsoft_iStock-1191485295.jpg"
-        width: 1400
-        height: 900
-        isCached: true
 
-secured: "MaKIukp9lFTzE+2hbeJ8XeFmHQo8/ANGlV68w285YV6rE1MLi0NDgVy/1dF+4qeVFjjLGkXND9w1IXXkEdIbXuZN8DLaEV28Z/DqiIzLOJdc8NrUpneXeC/2wqQYr7BkOghjTNspKEQHhzdnbiAlVDNpKieiSXYe2vg+PsxeOQ/mextQSr7v7tTBGas3gPxzbFzqHFJXj8yrbdK51BcZPvsHy/1eodCr6e76lw+wdGSOegfAh0/GtUAICKoUr0LvrrB5RWUHDS56P6YpiWpfjbGuLMJlqbW2LpvKtVPkJxecVux/DAYWim/GI67aHGjTpnL1ZeFx4Q/5Ze5xPATlInr0hAejbtfeUiX9wqnTVkA=;3XtNbCGnEfYWjyMJ3kNApg=="
+secured: "uJKJQ7Wag3m8z2ghvGXqwKa/Z2LRS8RWlI8NKDW0az+zfwht3JFSvHeKGzglZVRCnaHNzkLdD4hwLUdwtjuAmxAsScS1+MCOh72KbHrDZD4i9QtLlk9kSIgTxrmyfEdvxALGnGIhSjkMDv4l7b9Pr8fY2CaLZQJh0CHKxF/hWio6g9y7LLLgCIfn2Sjrbb+/DT4OCLTy+bo2s+v/olHZLIWWebYu2PZ8B7kQp2pWCDNj/AeqWyR0v+nuvKVY1ZH4ldLjpOlvA4KTRye+XDFeNowzv+JdwqgK8kbt/fjcHJvYwwerq5uUUbS4i0Yff5FgGBawB+Q/CRnXlqMw6bW7yq4A4cMlM8mP5plrbiGjw9U=;YbkFZqEgiDaP4rQxILtu8Q=="
 ---
 

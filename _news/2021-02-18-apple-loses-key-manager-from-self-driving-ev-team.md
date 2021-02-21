@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple in talks to buy self-driving sensors, a key step in autonomous-car plan"
+    excerpt: "As it’s done with the iPhone, Apple is looking to outside vendors to supply critical hardware for a planned autonomous vehicle."
+    publishedDateTime: 2021-02-19T17:21:00Z
+    webUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan"
+    ampWebUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 41
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/199bf7f/2147483647/strip/true/crop/5000x3266+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff7%2Fd1%2F3b625d0541e1a7adeb980b3071a2%2Faustralia-digital-platforms-77751.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Apple in talks with suppliers for AV sensors, report says"
     excerpt: "Apple is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
     publishedDateTime: 2021-02-19T11:50:00Z

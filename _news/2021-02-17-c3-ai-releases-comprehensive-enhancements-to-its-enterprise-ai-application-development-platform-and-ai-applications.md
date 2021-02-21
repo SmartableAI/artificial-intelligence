@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based mobile application to fight antibiotic resistance"
-    excerpt: "Antimicrobial resistance is a major global health threat and its development is promoted by antibiotic misuse. Here, the authors present an offline smartphone application for automated and standardized antibiotic susceptibility testing,"
-    publishedDateTime: 2021-02-19T10:27:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-21187-3"
+  - title: "Optimizing AI for embedded applications"
+    excerpt: "In my previous blog I talked about how demand for AI-based interfaces has become almost unavoidable—and that adding an AI-based interface like face-id to"
+    publishedDateTime: 2021-02-18T21:16:00Z
+    webUrl: "https://www.embedded.com/optimizing-ai-for-embedded-applications/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
+      name: Embedded
+      domain: embedded.com
+    quality: 41
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-21187-3/MediaObjects/41467_2021_21187_Fig1_HTML.png"
-        width: 685
-        height: 501
+      - url: "https://www.embedded.com/wp-content/uploads/2021/02/ceva_light_image.jpg"
+        width: 1280
+        height: 810
+        isCached: true
+  - title: "How SiMa.ai Is Disrupting The Embedded Edge Market"
+    excerpt: "We are making it possible to deliver high-performance machine learning at the edge while simultaneously reducing the power consumption associated with this compute."
+    publishedDateTime: 2021-02-20T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-sima-ai-is-disrupting-the-embedded-edge-market/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/sima-banner.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "aBaKpBlYlcrC7NPsj+rdK7CCNpbuZM2s3VD2Yz/6biNVb9JidxxCurBG+b3+keaAZ8K9up/rUdHRXO0k42GqCIyGoliNGB4FF8HtENmp5KeExgymF9MSKWrUZuCEjmeha8Y00snblmby+LQFwo+dzVHhOxGAlSaK+w67fIIfnZF2zMxJzsGJxlowwjOUDv+P2cAqQg+AHTOLPQKRzFT5CwGvclGA9A/pWkqE8XB8WzwBvxBRLC/RH99nreJF2bzjP5JA4D2REBMsxfLZZ4h+lBhFj8LfTqIlmPuyp9jcQSXAS5G7FhupLug/cdQ4xUIo+k05L3szO7XK2GogCgAvfD941ScNCk8DzypAmIc5bdA=;OCZjWdNCqytmRqu/lA1hOQ=="

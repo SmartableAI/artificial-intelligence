@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Healthcare Market Size, Share, Growth, Trends, Opportunity and Forecast to 2025"
-    excerpt: "Report Ocean Pvt Ltd –:The rise in demand for computer vision systems in the global healthcare industry, growing computer vision precision medicine usage, and government initiatives to promote big data and AI-based technologies"
-    publishedDateTime: 2021-02-17T04:16:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-02-17/computer-vision-in-healthcare-market-size-share-growth-trends-opportunity-and-forecast-to-2025"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 42
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "ehApExUsxQeBZOR89gMPwYfCj5htsNLZNwXxfKUrIR9XaFqfrSb/d34C1tCssWcz430lwBAlemgBwk/n9zfSLulR9hh33RX2tXWaz6wXe1qw8VweuxbKc3+Wa25xi4rmK7qebAZuSyAa5UajFYhy9B78azUoKTCijKvdZqVzexGo5MuCxkefiFsl4ANP95SdhQB9ZWC8CaRRoFS5YL5apJ9hEgLGVE1KOSoZMP0IFbwUHL8K5Pkx+/3vjZqTf/SoHq7Wtn+se3L8k1hJiFR9Y81nQ0j/VY0DN85gk/BQ1v+bJ+54OypME5AnsJL+W2TaM5fQrUxeElba4Ih2D/sjeJBaKk3SzIA7p35bly/RaXw=;tSPsB3tICfkktASMcyFe6w=="
 ---

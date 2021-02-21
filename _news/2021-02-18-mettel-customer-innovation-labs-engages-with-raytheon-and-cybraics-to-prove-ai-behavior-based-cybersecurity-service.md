@@ -40,20 +40,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Cybersecurity risks connected to AI in autonomous vehicles"
-    excerpt: "Autonomous vehicles are expected to reduce traffic accidents and fatalities, but may also pose a cybersecurity risk, according to ENISA."
-    publishedDateTime: 2021-02-17T04:31:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/17/cybersecurity-autonomous-vehicles/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2016/04/09112931/car-hacking.jpg"
-        width: 1200
-        height: 550
-        isCached: true
 
 secured: "kPw4YrLJtf95aTHRsc8xn/vRTh4HAsW5A/2Wovn/c36UfGD8IV4HpsbrJBC13C7LP2C/8YmLscmCNtX431x8cM7FGwC8wZNZfKNPl6c+oPMWA8pkzIq+GUChs+V6oJwFzcBWHa36SuFgo+ZQ6zcIRGjIxHmQ5e4c3FJnBy6q0G5DgHn5I18jMKYxhcTLt92a7daD28dmEiOroRzXV3DmKXI5Eq7uNfmkQmXfjSuIX5aNhkBnt4cGxARlFwdWxbFYJsgYT7KY1ESP2gvdsp32F+2kxBG5b69Xj9cyEvMFHEgayd6npDcep8xFFZBE5h3XIie8YpOMQKuvPlA5SCs2oj4UIyO14niO6qB9qUGAjrE=;AHQZs41KWgo9Xx4dNy7uvQ=="
 ---

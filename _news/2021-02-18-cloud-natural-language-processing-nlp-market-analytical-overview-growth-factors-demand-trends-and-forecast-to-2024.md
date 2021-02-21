@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024-2021-02-18?tesla=y"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Computer Vision in Healthcare Market Size, Share, Growth, Trends, Opportunity and Forecast to 2025"
-    excerpt: "Report Ocean Pvt Ltd –:The rise in demand for computer vision systems in the global healthcare industry, growing computer vision precision medicine usage, and government initiatives to promote big data and AI-based technologies"
-    publishedDateTime: 2021-02-17T04:16:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-02-17/computer-vision-in-healthcare-market-size-share-growth-trends-opportunity-and-forecast-to-2025"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 42
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
         isCached: true
 
 secured: "ew0r/Lx2hQ7ng5X2CQGVAp6mKZJxT7UqVr8KJoqkLB92kqB88GoWNsWMDhp/kxPxjIrLwonT0/6GLcLYv5RHCENxTpIl4SPxCnaUJQEnpnpmc0QcdhI0mbE6/uWpasdAy+iW3Wme4VKkSmJDogOAsrKGcwjQ1fOjJvva3MJDM0Iq+hFFYnuLFF1AHdAlF41BANkEeT1VBfGh5DgvOXtloBF75K6sUpF5AcnfLrl/8I4MyGTxSgnb1dMarvH7BqXy5FfNHohuMk67P+uojoTYJeuCZvrSR2eLbfOizOqvuRmSGhC+jeqnZCcuKVgy5DTS3Uh/d59yx0N4nxphH8qCn3hjHkBlu0askNaSuRbzj6c=;+/vdmD93H1vuBU5Q6Kly1Q=="

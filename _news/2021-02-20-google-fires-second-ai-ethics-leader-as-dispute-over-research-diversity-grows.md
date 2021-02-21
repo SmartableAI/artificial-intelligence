@@ -3,10 +3,10 @@ category: news
 title: "Google fires second AI ethics leader as dispute over research, diversity grows"
 excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
 publishedDateTime: 2021-02-20T01:26:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows-idUSKBN2AJ2JA?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows-idUSKBN2AJ2JA?edition-redirect=ca"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
+originalUrl: "https://www.reuters.com/article/us-alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSKBN2AJ2JA"
+webUrl: "https://www.reuters.com/article/us-alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSKBN2AJ2JA"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2JA"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2JA"
 type: article
 quality: 100
 heat: -1
@@ -286,6 +286,6 @@ related:
         height: 576
         isCached: true
 
-secured: "004PL/KjoWz0oI0psVouLmukv65CD5+zsZHgvuHPt1sZRtbIhPQvBZZGGdqCrzQj7QBptEF6ITuJ+GaIQz/5HwaD+uu0wxt40yotZHVPFKmjfPqdi3oBO6supak16qvySi0DrrzgIDtytOe5CxgSueE5k0LN3NFvg/WMs/sqj3vWY42NGwyJO79ri0QLzvl/hzL2PssMZ3rd7Ed1CsfF0na60gaoRK0+vApVNwSqQflwf8OpoqlNQaYzeCZpW5phgatHRn0YRMq3WERZllSf2mgbV4eXCDME6SQcKdZ5TFEv8AsLfe+/QyWtgL/NS9bBGbC2HWpVXCABsE9htiWEn1QvifcmmowI+w+Ih+cn/3I=;wjFgI4Vi2wYBgfKU3Coq7g=="
+secured: "F2/YXoXHm4xbPVxsML2cpKU1ZOt1yHHu7ifon3oaw3SxuUOyOzeJsSGEx6PYf+vi+lZeej4+IT5H2bncqVrlPE/9SVOs9L4JhVsJlJ6J+BBKQNvwbvd7+AWaiofyGnO9UP3sc9GwD7672SyvvmE3jdmFRpRmXVuujmdxkGVcUe7Np+xQzSmjKAWNc3XF2LTj1Pa+bFgweKo33UagWeVkJkpkRih9L0q7mU16RSFD8nCIA7iVzu7zzaa38TxGAmcs4I7ol02sG2rN4J1TJ/k8lPzyDxi3tQ0kaVOnyo8mF1nCNZCGDpmpAJnnSroMJdT+eB5vvG8R2JXkMBx0+/BtjTN0vUPHDWW8pxAeZReZT8M=;NhcF08qEEnWpUNOAAGm46Q=="
 ---
 

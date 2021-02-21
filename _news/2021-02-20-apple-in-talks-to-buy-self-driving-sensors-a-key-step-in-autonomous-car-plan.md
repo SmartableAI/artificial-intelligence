@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Bloomberg: Apple searching for next-gen LiDAR supplier for self-driving car"
-excerpt: "As we continue to learn more about Apple Car progress, some fresh tidbits have been shared today in a Bloomberg report. Apple is working on the important step of finding a supplier for cutting-edge LiDAR sensors that will be key for the autonomous aspect of the company’s electric vehicle."
-publishedDateTime: 2021-02-19T17:11:00Z
-originalUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/"
-webUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/"
-ampWebUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
-cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
+title: "Apple in talks to buy self-driving sensors, a key step in autonomous-car plan"
+excerpt: "As it’s done with the iPhone, Apple is looking to outside vendors to supply critical hardware for a planned autonomous vehicle."
+publishedDateTime: 2021-02-19T17:21:00Z
+originalUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan"
+webUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan"
+ampWebUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan?_amp=true"
 type: article
-quality: 42
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: 9to5Mac
-  domain: 9to5mac.com
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/apple-car-project-titan-lidar-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    width: 1200
-    height: 628
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/199bf7f/2147483647/strip/true/crop/5000x3266+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff7%2Fd1%2F3b625d0541e1a7adeb980b3071a2%2Faustralia-digital-platforms-77751.jpg"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -38,21 +38,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "Apple in talks to buy self-driving sensors, a key step in autonomous-car plan"
-    excerpt: "As it’s done with the iPhone, Apple is looking to outside vendors to supply critical hardware for a planned autonomous vehicle."
-    publishedDateTime: 2021-02-19T17:21:00Z
-    webUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan"
-    ampWebUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan?_amp=true"
+  - title: "Bloomberg: Apple searching for next-gen LiDAR supplier for self-driving car"
+    excerpt: "As we continue to learn more about Apple Car progress, some fresh tidbits have been shared today in a Bloomberg report. Apple is working on the important step of finding a supplier for cutting-edge LiDAR sensors that will be key for the autonomous aspect of the company’s electric vehicle."
+    publishedDateTime: 2021-02-19T17:11:00Z
+    webUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/"
+    ampWebUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 41
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 42
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/199bf7f/2147483647/strip/true/crop/5000x3266+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff7%2Fd1%2F3b625d0541e1a7adeb980b3071a2%2Faustralia-digital-platforms-77751.jpg"
-        width: 320
-        height: 209
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/apple-car-project-titan-lidar-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Apple loses key manager from self-driving EV team"
     excerpt: "Apple Inc.’s self-driving car team lost one of its longest-serving leaders, a potential setback to the technology giant’s efforts to compete in the auto industry. Benjamin Lyon helped form Apple’s original autonomous electric car team in 2014 as its most senior manager working on sensors."
@@ -111,6 +111,6 @@ related:
         height: 600
         isCached: true
 
-secured: "9eWjnwwY/Ax6U1exEKEZTNFXSXJBTaKB5m8lASOI25paSNGeuNhCsG5XMcyp4ax6Vpx8DYjIzaqzcxUbRaWFO7wWsBJ5WhAXz8HuCAd/RVPuP0NjHCqayPVrR38s9A32F+/C36ICIZnV0C/zqM9Pr/haFp3pmrIU5ZnxNBeaYAbNDknc8hr4hx0eVaeRe8jOfl6DQOCE/ntzWvC4gLT4I9DE/2v5npaB5eAoV59gr8Uy1Ag/Y/ojV/UAZhE0F7vk+cdvJzuojJE8hFIzt/hRezEfzloYe76VP6Ok4Vz6AVw9oYisIUPTEjNR1wBc6EMpPw87pBWX5HgEAbitfEoKrN8MsQz2SIeLeKHyHnXq7mD1CY0w0lywhGe5IuWAJHFg6bJoNlRHOuibL1ZAssbwJqw9z1s75ntLp42JniU0Xr7Cl8whNYnRmmBEE/SQLOuQ70l+ng21V1luubds+oNLdXGGO+4LiutM3hF4qh6DgazMIOH7qm1C0ahm/GbPriqJkFJfxr3g4NFDNzqwdIp0UQ==;vo5SVJ/YuTRfN591/GA11g=="
+secured: "K6ffawAfnrR0ixUns/4s42ojrpPSymFZ+VMcqE/4d9OmIDuOiLtnlh/ezs6BPoJtKHIhFYYmp9gM2sS2P0WntJNDcCBBT6TrYHC7s2CVYZfDI9tQ9tV+hAB3ZdeLeZ5TGogvft5Jqy8YOg8mr/D5NAhTqx6JsaZePUupw9EJQodF5xvfm2/EnDTQ8YIBhfY+mb0JqHi5hmqPYOBqUeeU+smmlmIqn8ImUKhYQSDxzjjFiJdZtJ/ynrB/hjip5FmUJZw+jKDL9LRDFdnf+Q5eKiCDgxALJB1jWrYpCOJyV3hXoKARLjZMrSA4oa4jXhpYk9ctlJawvnTR9NL+C6VYdFYmx/cTjU6cOU5QL6KaKm4=;NMqSecuuEamD6sTMi+D4+Q=="
 ---
 

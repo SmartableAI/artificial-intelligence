@@ -74,9 +74,9 @@ related:
   - title: "Google fires second AI ethics leader as dispute over research, diversity grows"
     excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
     publishedDateTime: 2021-02-20T01:26:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows-idUSKBN2AJ2JA?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSKBN2AJ2JA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2JA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2JA"
     type: article
     provider:
       name: Reuters
@@ -282,6 +282,6 @@ related:
         height: 576
         isCached: true
 
-secured: "QIHEllZPN1Bj3t/KRcql16ZQVX0kgaUV4LwyhXk+AV1OJTDrxPHZLpUvgqoqm0Eaj79/l2xiGQNT396Ux01R2ki9ih8hjFhvsC7/FBXs8YmXKZ324xtr8fj5kACcBzmwK1yMGdUDj9fQk0mL2VxszNS/OfQrrkNtwaG6KhTAmH2dqI1zllfcWIE6uGg9A0cT84IsVineNJQw1bQgWB6ZyFhpSJHppjmHLbLdP7k2/Up1SjXC2D4znwwohYSdtTa1befydbtT5Qi7+FPLNzSq2sZ9HlVFw/Nr0eWHGe2jOlkw6fYlAyXbJY3Sq8SX6b6pXHa3Vaj58j7usbjoS7g438Bn51yQMLme61HGhBzg9Fk=;ZIiC8MCsYpN9gEfmDQ9G0w=="
+secured: "1K91beJwA6gE+uq9+yl6XOYsTVc3ueK0ovU0gSjm/hgPvRPw1zxCXt176nGE5lPGhqg7cgZZjmIRlbZ+WN4UBL59GQYVnyDj2BWxQ+UrrDHaEdnhpGHgIQPrk5yyfyzPukXeSZwt//MvLHZk/Y2r1dSQ81MLJxFjZObGJvQbeW0OZqKATeeRdlPBKA36ZaeOl14BVPyWorFVYN/eFTCxyh2QMTCAFYQf3x2jDVVShSsAxc8p6RNJ7ovhM6omArFrcYT3who/mgz6Dcd4UXtwpbim8Ny0g8Zg1HRCtbefHn4qjacwa0lHn1jnrQ6wMHWrMuyIFPjMeCm+0pCIIST6tnE1sP1aQoo8zWwJ2cnN8iZK5RaxO4Ky11Zex+9QiioK5Ilk9I/Rom/bngZsTBIpreWch8szvRXVnrjBk+Mj3qFOOxbg3ELleP0+5oZALJtYrMwcGNz6deGEt0AG+Ki1yyx/zGyBjnIRuPgGJHD1S68kfVBQXMpGUpopkl9ztysLC4o6HKjEfRQz1FO8l1kPYQ==;jGuHUnEStwCNawJQ0MgSgg=="
 ---
 
