@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -123,6 +123,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "My Robot Brings All the Boys to the Yard, Its AI is Better than Yours"
+    excerpt: "In this special guest feature, Aviran Yaacov, CEO, and Co-founder of EcoPlant, believes that both AI and ML technologies are making impactful strides in manufacturing, and there is no time like the present for manufacturers to get on board and explore ways to transform their processes to benefit across all fronts."
+    publishedDateTime: 2021-02-21T14:02:00Z
+    webUrl: "https://insidebigdata.com/2021/02/21/my-robot-brings-all-the-boys-to-the-yard-its-ai-is-better-than-yours/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
 
 secured: "qJFLijxhWFBxDdQzog73pMls+f50IWjsWJ2+zhfrElJv79drnNjr0YuEtoML9IoNM+UwowKCoHaJYaUMrFZzXp33M7kOmPCwimU/4bhSxFOPveVJXRJhSSpXuDx7DzycDOkngliowixJnvpj1iFTZXFDPwqifnbjV3Dyl3TllBHJfr9IRSFQRc4ZntP2JRLTRSOSxF1M7uBjj1f1P5N24clNcMQmSNhd2BcSY+RNJ7r//ybyUmB8dEsLHMCV0b5bttnAddxo9R1dU8AsQtjrXSSrMYoZgSkkmKxUJjcdudbVCZ/MfDTQDCRR+6FnEivR9esdDuGX6ZOQlRD3cN+W5WYP0e7ctc+I1GG0tdgYEZpyaS1FnKoKHVQCVYSqcdRZtFdojBBB9+/pFq3Mfs3/gBbuIN2w7sKX2blFHayV9gETAaoWJclO94C2NVpDEB5cAvSI8zu9ATIuJ6YbviOZ9DDwiP3yVxYLhguIqOLGoXVuhKHTFI+7//WSSU3TRF2UOe1dKe2ClRJgxGLF2fy8sg==;U7VzPoT5c6u2ska5lrLxaA=="
 ---

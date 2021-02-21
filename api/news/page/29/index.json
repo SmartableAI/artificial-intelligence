@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-01-28-machine-learning-technique-helps-predict-covid-19-outcomes.md",
+      "title": "Machine Learning Technique Helps Predict COVID-19 Outcomes",
+      "excerpt": "Mount Sinai researchers used a machine learning technique called 'federated learning' to predict outcomes of COVID-19 patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/pollen-allergy-women-cold.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "publishedDateTime": "2021-01-28T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-systran-enhances-automated-professional-translation-by-launching-the-first-catalog-of-industry-specific-translation-models.md",
       "title": "SYSTRAN Enhances Automated Professional Translation by Launching the First Catalog of Industry-Specific Translation Models",
       "excerpt": "SYSTRAN, the leader in neural machine translation technology, announces the launch of its new multilingual catalog of industry-specific translation models. These unique models are designed by a community of experts called ‘trainers’—owners,",
@@ -1136,57 +1179,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups.md",
-      "title": "MIT CSAIL claims its breast cancer prediction AI works equally well across demographic groups",
-      "excerpt": "Researchers at MIT CSAIL developed a breast cancer risk prediction algorithm that works equally well across patient groups.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/",
-      "originalUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/amp/",
-      "publishedDateTime": "2021-01-27T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

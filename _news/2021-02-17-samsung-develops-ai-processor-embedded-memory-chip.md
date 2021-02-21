@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Samsung develops AI processor-embedded memory chip"
-excerpt: "Samsung Electronics said on Wednesday it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (Hbm) chip that boasts low energy consumption and enhanced performance."
-publishedDateTime: 2021-02-17T00:00:00Z
-originalUrl: "https://www.imdb.com/news/ni63197561/"
-webUrl: "https://www.imdb.com/news/ni63197561/"
+excerpt: "Samsung Electronics today said that it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance. The new processing-in-memory (PIM) technology will help bring powerful AI computing capabilities inside high-performance memory."
+publishedDateTime: 2021-02-17T05:02:00Z
+originalUrl: "https://www.techradar.com/in/news/samsung-develops-ai-processor-embedded-memory-chip"
+webUrl: "https://www.techradar.com/in/news/samsung-develops-ai-processor-embedded-memory-chip"
+ampWebUrl: "https://www.techradar.com/in/amp/news/samsung-develops-ai-processor-embedded-memory-chip"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/samsung-develops-ai-processor-embedded-memory-chip"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 104
+heat: 234
+published: true
 
 provider:
-  name: IMDb
-  domain: imdb.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-    width: 1000
-    height: 1000
+  - url: "https://cdn.mos.cms.futurecdn.net/cPy3aYHcojq2iA7oJyeZRW-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -97,6 +103,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2018/06/chips_processors_memory_cards_by_fancycrave_cc0_via_unsplash_1200x800-100760955-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Optimizing AI for embedded applications"
+    excerpt: "In my previous blog I talked about how demand for AI-based interfaces has become almost unavoidable—and that adding an AI-based interface like face-id to"
+    publishedDateTime: 2021-02-18T21:16:00Z
+    webUrl: "https://www.embedded.com/optimizing-ai-for-embedded-applications/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 41
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/02/ceva_light_image.jpg"
+        width: 1280
+        height: 810
         isCached: true
   - title: "Samsung Announces HBM Tech with Built-in AI Processing"
     excerpt: "Samsung today announced what it’s calling the industry’s first high bandwidth memory (HBM) memory with built-in AI processing capability. The new device –"
@@ -194,6 +214,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "5kMjNyQ+JnTU2T+/gp/iLvr0rwx/AbL492KtbGwn57+yXc2u6+F8WXebA1GKoz9amija+7yIlnlFN6h3yxHat2nsbBCHugbWgYNKKwWhTZBoBQ6mAbOa33l2/awoGs/NlP9XviLH3bWumbEwIy6YVS4Q4Pw8Ib0LIwASdWX5JPcf6ZxDJJhogf4WGJCcoVg0Kk5m3EsgQ0GxsSSfaCiTSPZP8JNc7zi0RAV7GCC64J8kWamDdLba8vaA2oYZFNjgqtbBmrKDT3gXt0BiPZ9JED8rrAAMUXHK7i1/6VJfAWriCUcfDza71QaIIsg7OGwDuXG9wZOJUk5soADJCyMsz8zwY/vhvZiNP7f6dqfCOB3q6KxRS2oQAAyZeOS1iXFxf7/JNDn1E+4KXemycMbgYPYuczEMSuMoq5/t+EYvlIYRC4UsfD1IbOUTMvCphIRzHPHYbjuggdeIkFnDWT+iqzB3O84HZMV2a7O4Wm6G4Gmu2i+/pGzCHGpMBlbxU7drTYk6yrbRs5lBUr3fRUZaWA==;WqRRTJ8ajcKCAIXxWiNqDQ=="
+secured: "9dVIxSw9CD/lwihAUSFOx8oY+gy3tRnVZ07BsE6cuiI87BWq18YitIAnNldial0axQz89ek+LZKNJdwh487flSl/ZKHRo5p5vxDgmLvrULrhAHf97AZhxcCBNXkvK0A2w2TQ9jjWwSMfxyPDYFEx4Z185VdUbdp3i/u1nfBYJ3sPg1bladR6xyI6zz00uFVG/Vcdrp9KD50tuSKnlDWRsYXkUwhyck2I319r1/8O/IOI2/P+17NJKCeRXazgJOTeJfDWsXguUskvRixGviRKg3IyXDuWCNq5+aIlrLo5aX/ernT0IRFiwwvXIE9TPq20aa09+m2aYRVB+a7K722qxCs+8oZBgTJyRXKFCs5b9ZA=;dMnKlusq07vz71zLw++b6w=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung develops AI processor-embedded memory chip"
+    excerpt: "Samsung Electronics today said that it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance. The new processing-in-memory (PIM) technology will help bring powerful AI computing capabilities inside high-performance memory."
+    publishedDateTime: 2021-02-17T05:02:00Z
+    webUrl: "https://www.techradar.com/in/news/samsung-develops-ai-processor-embedded-memory-chip"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/samsung-develops-ai-processor-embedded-memory-chip"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/samsung-develops-ai-processor-embedded-memory-chip"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cPy3aYHcojq2iA7oJyeZRW-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Samsung develops high-bandwidth memory with integrated AI processing"
     excerpt: "Samsung Electronics said on Wednesday it has developed a high-bandwidth memory (HBM) integrated with artificial intelligence processing power. The new processing-in-memory (PIM) architecture adds AI engines into Samsung's HBM2 Aquabolt,"
     publishedDateTime: 2021-02-17T03:05:00Z
@@ -98,19 +114,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Samsung develops AI processor-embedded memory chip"
-    excerpt: "Samsung Electronics said on Wednesday it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (Hbm) chip that boasts low energy consumption and enhanced performance."
-    publishedDateTime: 2021-02-17T00:00:00Z
-    webUrl: "https://www.imdb.com/news/ni63197561/"
+  - title: "Optimizing AI for embedded applications"
+    excerpt: "In my previous blog I talked about how demand for AI-based interfaces has become almost unavoidable—and that adding an AI-based interface like face-id to"
+    publishedDateTime: 2021-02-18T21:16:00Z
+    webUrl: "https://www.embedded.com/optimizing-ai-for-embedded-applications/"
     type: article
     provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 54
+      name: Embedded
+      domain: embedded.com
+    quality: 41
     images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
+      - url: "https://www.embedded.com/wp-content/uploads/2021/02/ceva_light_image.jpg"
+        width: 1280
+        height: 810
         isCached: true
   - title: "Samsung Stuffs 1.2TFLOP AI Processor Into HBM2 to Boost Efficiency, Speed"
     excerpt: "Samsung has developed a new type of processor-in-memory, built around HBM2. It's a new achievement for AI offloading and could boost performance by up to 2x while cutting power consumption 71 percent."

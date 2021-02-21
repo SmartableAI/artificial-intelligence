@@ -23,6 +23,22 @@ images:
     height: 501
     isCached: true
 
+related:
+  - title: "C3 AI Releases Comprehensive Enhancements to Its Enterprise AI Application Development Platform and AI Applications"
+    excerpt: "C3 AI (NYSE:AI), a leading enterprise AI software provider, today announced the release of major enhancements to its enterprise AI application development platform and AI applications designed to further accelerate digital transformation."
+    publishedDateTime: 2021-02-17T06:27:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-pipeline-construction-construction-and-engineering-f8c8fbdebe4e4261ab8b9d2b93c4da9b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "EwJPpAEIG1xmbPaFCMg+nDzSh09P6R3Q7a/xIlNPe21UriZGu3g1bmRaHm07XClHSto2+Q/qh+iZvO65O+1ppGpbXajjyMhLCBry+dofGdWFidvsNdEBH4fVdD7+/diQkyaDf9P3hu3sSfOkihOfAxJh9NsstHhRF97U8EizgM7MNulAAzQo/7W4R+e6yutpGw9AhTxreYkQsli9X7IwMr4cIA7XpFBrTzrN5Ypps2eILoaqBFl8iTCJ/22phtiVxXN9gtgsJeWAm4CmoIyICzw8RA258fADICmOLsDtUfjJkChOd95v4lsWnBv+OxbfANY1izVAdhpMRf8rSQHwUb8C5bbsEpdDCY0NtoKwpI4=;+gArZOKNUAICyIUNdsfu5w=="
 ---
 

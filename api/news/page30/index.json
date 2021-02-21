@@ -2,6 +2,57 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-01-28-mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups.md",
+      "title": "MIT CSAIL claims its breast cancer prediction AI works equally well across demographic groups",
+      "excerpt": "Researchers at MIT CSAIL developed a breast cancer risk prediction algorithm that works equally well across patient groups.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/",
+      "originalUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/amp/",
+      "publishedDateTime": "2021-01-27T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications.md",
       "title": "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications",
       "excerpt": "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,",
@@ -1169,49 +1220,6 @@
         "AI",
         "AI Ethics",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-yati-ernie-machine-learning-in-yandex-and-baidu.md",
-      "title": "YATI & ERNIE: Machine Learning in Yandex and Baidu",
-      "excerpt": "Google isn't the only search engine making strides in machine learning. See how Yandex and Baidu have advanced search with YATI and ERNIE, as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/",
-      "originalUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2021/01/machine-learning-for-yandex-and-baidu-60104ca449da0.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/amp/",
-      "publishedDateTime": "2021-01-27T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

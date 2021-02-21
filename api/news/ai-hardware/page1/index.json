@@ -375,29 +375,38 @@
       ]
     },
     {
-      "path": "_news/2021-02-17-samsung-develops-high-bandwidth-memory-with-integrated-ai-processing.md",
-      "title": "Samsung develops high-bandwidth memory with integrated AI processing",
-      "excerpt": "Samsung Electronics said on Wednesday it has developed a high-bandwidth memory (HBM) integrated with artificial intelligence processing power. The new processing-in-memory (PIM) architecture adds AI engines into Samsung's HBM2 Aquabolt,",
+      "path": "_news/2021-02-17-samsung-develops-ai-processor-embedded-memory-chip.md",
+      "title": "Samsung develops AI processor-embedded memory chip",
+      "excerpt": "Samsung Electronics today said that it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance. The new processing-in-memory (PIM) technology will help bring powerful AI computing capabilities inside high-performance memory.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/",
+      "webUrl": "https://www.techradar.com/in/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "originalUrl": "https://www.techradar.com/in/news/samsung-develops-ai-processor-embedded-memory-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 234,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cPy3aYHcojq2iA7oJyeZRW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/samsung-develops-high-bandwidth-memory-with-integrated-ai-processing/",
-      "publishedDateTime": "2021-02-16T19:05:00-08:00",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "publishedDateTime": "2021-02-16T21:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "TechRadar",
+        "domain": "techradar.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

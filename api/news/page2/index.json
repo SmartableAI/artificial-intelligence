@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-19-owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.md",
+      "title": "Owlcam 5.0 is a premium dash cam with AI, voice control and more",
+      "excerpt": "Owlcam 5.0 is a premium dash cam that offers voice control, AI, and an LTE connection for uploading videos to the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.html",
+      "originalUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/02/owlcam-5-front-and-back-cropped3-100877901-large.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.amp.html",
+      "publishedDateTime": "2021-02-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief.md",
       "title": "DNA fingerprints, facial recognition used to probe riots cases, says Delhi Police chief",
       "excerpt": "Commissioner S N Shrivastava said 231 accused were arrested on the basis of CCTV footage, 137 identified through Facial Recognition System & 94 through driving license photographs.",
@@ -891,7 +942,7 @@
       "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1161,57 +1212,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-mit-csail-taps-ai-to-reduce-sheet-metal-waste.md",
-      "title": "MIT CSAIL taps AI to reduce sheet metal waste",
-      "excerpt": "Researchers at MIT's Computer Science and Artificial Intelligence Laboratory have created a tool that taps AI to minimize sheet metal waste.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/",
-      "originalUrl": "https://venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Fabricaides-packing-algorithm-can-arrange-parts-onto-sheets-in-an-optimally-efficient-way-in-real-time-e1612993356643.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/amp/",
-      "publishedDateTime": "2021-02-18T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

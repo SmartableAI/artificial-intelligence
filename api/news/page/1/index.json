@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-21-ai-isnt-yet-ready-to-pass-for-human-on-video-calls.md",
+      "title": "AI isn’t yet ready to pass for human on video calls",
+      "excerpt": "The idea of humanlike AI is deeply sexy, but the final key components of such a system won't be solved for another few years.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/",
+      "originalUrl": "https://venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/video_call.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/amp/",
+      "publishedDateTime": "2021-02-21T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada.md",
       "title": "Clearview AI’s facial recognition app has been called illegal in Canada",
       "excerpt": "Clearview AI's facial recognition app has been called illegal in Canada The Clearview AI facial recognition app is not welcome in Canada",
@@ -400,7 +451,7 @@
       "originalUrl": "https://www.cnet.com/news/nasas-perseverance-rover-mars-landing-how-to-watch-the-epic-event-live/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1176,57 +1227,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.md",
-      "title": "Owlcam 5.0 is a premium dash cam with AI, voice control and more",
-      "excerpt": "Owlcam 5.0 is a premium dash cam that offers voice control, AI, and an LTE connection for uploading videos to the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.html",
-      "originalUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/02/owlcam-5-front-and-back-cropped3-100877901-large.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.amp.html",
-      "publishedDateTime": "2021-02-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

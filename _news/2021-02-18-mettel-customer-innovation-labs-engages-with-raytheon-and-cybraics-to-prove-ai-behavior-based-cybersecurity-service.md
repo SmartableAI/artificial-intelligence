@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 550
         isCached: true
-  - title: "Office of Naval Research Grant Puts University of New Haven at the Forefront of Training Next Generation of Cybersecurity Professionals"
-    excerpt: "As part of the Cyber Operative REsearch Scholars (CORES) program, a dozen students are taking part in technical and cutting-edge cybersecurity research, positioning them for cybersecurity government positions and being published in scholarly journals."
-    publishedDateTime: 2021-02-16T22:59:00Z
-    webUrl: "https://www.newhaven.edu/news/blog/2021/cores.php"
-    type: article
-    provider:
-      name: University of New Haven
-      domain: newhaven.edu
-    quality: 0
 
 secured: "kPw4YrLJtf95aTHRsc8xn/vRTh4HAsW5A/2Wovn/c36UfGD8IV4HpsbrJBC13C7LP2C/8YmLscmCNtX431x8cM7FGwC8wZNZfKNPl6c+oPMWA8pkzIq+GUChs+V6oJwFzcBWHa36SuFgo+ZQ6zcIRGjIxHmQ5e4c3FJnBy6q0G5DgHn5I18jMKYxhcTLt92a7daD28dmEiOroRzXV3DmKXI5Eq7uNfmkQmXfjSuIX5aNhkBnt4cGxARlFwdWxbFYJsgYT7KY1ESP2gvdsp32F+2kxBG5b69Xj9cyEvMFHEgayd6npDcep8xFFZBE5h3XIie8YpOMQKuvPlA5SCs2oj4UIyO14niO6qB9qUGAjrE=;AHQZs41KWgo9Xx4dNy7uvQ=="
 ---
