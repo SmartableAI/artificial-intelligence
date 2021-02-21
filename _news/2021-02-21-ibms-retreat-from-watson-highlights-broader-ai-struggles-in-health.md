@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 type: article
 quality: 104
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -341,6 +341,15 @@ related:
       name: Canindia.com
       domain: canindia.com
     quality: 19
+  - title: "Will IBM sell Watson Health? Maybe it should, one analyst says – but how would it impact Red Hat?"
+    excerpt: "If reports that IBM could drop its IBM Watson Health Unit are true, the implications for Research Triangle Park could be significant. So too could the implications for Raleigh-based Red Hat."
+    publishedDateTime: 2021-02-21T16:12:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2021/02/21/will-ibm-sell-watson-durham-rtp-impact.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "c29QuYvjijIEiYbGYb8nbTbfrZWStuOKfWxtF6VVsMzJT8J1GS3aVu97JRROdS4+2y9rJSp576ATHUf2gX01KYDuaAntyDtonfKPz3m0yx+bOToEI/iklleBzXESiRbI5vJTdEW4hEDqwRp9LUD+5Ns3Nlw9kYgeVh6QHQ6+1Rg3xCGaUnCWTKcdhd11GYdgZ8PTLSMX17vhx0fSISznIX0LC67oEYsYifTJEwOQS+sh9uduDFFxPz0/L+ISTSa9eeBzun/24sQdX3YeYD6yFKnATBHIkZ4dFa7eQeVwppacsEyJG+J3Nhh2Q9ZvzNEMUVM54a9rVabZs7jVzTLfBLOqT/zSkzt74bv/0BXomDMA4ZaYZt7KOt8PdGQ4d/H8CTQ+DqUhtllHDHWgU0u3Bj0roMV0RM28Y3Fvzl9RmmLPTeDusAlvzis5ZPXUquhzPOoBoQZN9aTQaZXcTkHQkJqyv3vy5qZkDOpzIQgvFjuJJQ6NLlsl3klx3OgwI5g3R/ZXxbRKv7UviEBq21QplA==;k6vt/FR+deEY4Qe+0KRDXg=="
 ---

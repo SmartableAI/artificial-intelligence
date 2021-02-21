@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Hypervisor Gets a GPU Boost"
-    excerpt: "Sunlight, the U.K.-based specialist in virtualizing data-intensive applications, announced Nvidia GPU support for its “lightweight” hypervisor designed to"
-    publishedDateTime: 2021-02-16T23:06:00Z
-    webUrl: "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/data_pipeline_shutterstock_posteriori.jpg"
-        width: 1000
-        height: 571
-        isCached: true
   - title: "NVIDIA GPU now supports Sunlight NexVisor, moving AI to the edge"
     excerpt: "Sunlight announced NVIDIA GPU support for Sunlight NexVisor, providing near bare-metal performance with a compact footprint."
     publishedDateTime: 2021-02-17T01:16:00Z

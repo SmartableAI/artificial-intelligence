@@ -336,6 +336,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 19
+  - title: "Will IBM sell Watson Health? Maybe it should, one analyst says – but how would it impact Red Hat?"
+    excerpt: "If reports that IBM could drop its IBM Watson Health Unit are true, the implications for Research Triangle Park could be significant. So too could the implications for Raleigh-based Red Hat."
+    publishedDateTime: 2021-02-21T16:12:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2021/02/21/will-ibm-sell-watson-durham-rtp-impact.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "Uz7cUaNeEn/Is+IZttHMUrR6iCGKGBUBvogTR5gGnWtlC+UpKqDvAZfUTcqoS1zoU20mL9y/zabCyQUGC9uhM/MvilkraBpyFMkcys4AjzWxRikTJfeWNSjJqYTZYhQrt3gcp9xgXzHMPzhiotf6HRiC+pi6pFkLxRrMVoMhEIh4RIkV8fvKAgStvaHWQfPTWnuPtzhP4lXjMegtu8E66AV/PFZkF8UPQ5Zw1QHTigc8J96SIhw+It0izaFPu0ReSQ2M7Pqd6CS4qKwaUT3w3fVd06ddy1NOj3s3zTKJeQB5rywoNoeHOpPG84nbwURm5WNuByBh4O2RfI3CtpGcTc6qQGYp1T8cn5rSzmnZaJQ=;3T7uWfcVIHcTjI/CtRqS4g=="
 ---

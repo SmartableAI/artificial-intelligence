@@ -341,6 +341,15 @@ related:
       name: Canindia.com
       domain: canindia.com
     quality: 19
+  - title: "Will IBM sell Watson Health? Maybe it should, one analyst says – but how would it impact Red Hat?"
+    excerpt: "If reports that IBM could drop its IBM Watson Health Unit are true, the implications for Research Triangle Park could be significant. So too could the implications for Raleigh-based Red Hat."
+    publishedDateTime: 2021-02-21T16:12:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2021/02/21/will-ibm-sell-watson-durham-rtp-impact.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "SgonuXnHxdO3S9m0AT5lYu4RThM053miLvt6B6+8T8WCzt6yG2bStuqNv5GOY3qZ2DEiyO6ZbMe101GlRmgGSbqtiFgGQEKV5Juha+vg7IGE10cwJ/56ydSp3XihFf4Xdv6ydMwvH9N+knHGTfgBD6c2roWVQ+F5FkewtKUniLBAyTarqQubJqai5NdSAqU5TKmpIg+GN1W4e35Wla0EYlD5esWrAeRcHnPQTIwlGJgfgbC4pRkPYbma+42QvxtdiDlM0En7jnbPiApEYyQK1Gnvp7iSFrTB8y3KHK2DyUXc7TO/cvka6BO6baITxwy0NUjDNda0AebCizYdqDwoWHVgVnIUlGK7+F8pE5AgOLChi9vtxcAw746oQpIL8B+2+qTaWdATh32og7tlcemCBAhwjkJuCJ2Rr6osruW/KUQNT0Xyz436E4E5QIlJtdEFBruv1bG3re/0xQPJa7n14o4d00k3YncKLnQZTjslhB9c+oKznCI7LrqHsVrhMcKlllX0JGPqJWxOoRw9pZaT8g==;/UXUSj2sF+52cHik/mm02Q=="
 ---

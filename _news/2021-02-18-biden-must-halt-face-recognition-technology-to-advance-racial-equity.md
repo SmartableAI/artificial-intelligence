@@ -136,20 +136,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ACLU, Civil Rights Groups Call on Biden to Halt Federal Use of Facial Recognition Technology"
-    excerpt: "The American Civil Liberties Union and a coalition of more than 40 organizations are calling on President Biden to take executive action imposing a federal moratorium on the use of facial recognition technology."
-    publishedDateTime: 2021-02-17T00:00:00Z
-    webUrl: "https://www.aclu.org/press-releases/aclu-civil-rights-groups-call-biden-halt-federal-use-facial-recognition-technology"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 30
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "IIwHCccloXKUFrp3gpfd854v70WybHH3hnJXjfCXDmbqbdAPxJGo/GKzK7DJNbC5XuLW4CbOqW/aWHrmcLWdLQgHVpLS3x8DlviwR7HrdhuRd6QfKCusqxXbgdbvNpxm2RBT+De1WA6Jk0+uE9fOCba6vlM76BmTwdJtBCItbg0RaYsOPaM3jZ0mjgHCeBMR0RQjLVLHAXvSWSrkJ712R02CthEWns49FNY8Lh8AEGk0obs2m2mr5VAfaG7dH+L73dNgOqf8uhKnXNcG56Fo/pdMz6nWKHM9CZDHYE3n57PVtr4LWLKZJSAip++TemenfI7xg0YQKjrcWVVcpMdzVKLETK+G4/Upkg/BhFXYloUCR1oRZhBsWYPzq8dOODQYJi3nFAIibpWHKUweOzK3u3W+dh+aZgDu/eHY5bOIEzu5Q2qIIZPxJTrogJOCtP5vhMUEBXDpAb7k/n1kfkDaNptVZEmUka1t4ADOzuEjtb3S1sO/lSwPM042uBW4NMQxIl0AaugUeSODab6ZeaQ63A==;MrHtbLgPn351zzqrLEV6ug=="
 ---
