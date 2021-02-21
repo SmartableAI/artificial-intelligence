@@ -7,8 +7,8 @@ originalUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain
 webUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain-landscape-with-ai-and-machine-learning-nid-28723-cid-256.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: CIOReview
@@ -26,33 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 and the health care supply chain: impacts and lessons learned"
-    excerpt: "The COVID-19 pandemic shone a bright light on the cracks and weaknesses in the health care supply chains. There are several strategies that the industry can implement to mitigate supply chain disruptions during major emergencies without incurring exorbitant costs."
-    publishedDateTime: 2021-02-17T19:23:00Z
-    webUrl: "https://www.supplychainquarterly.com/articles/4417-covid-19-and-the-health-care-supply-chain-impacts-and-lessons-learned"
+  - title: "Candlestick Launches Stock Picking Service Based Around Top Performing AI"
+    excerpt: "Candlestick, a new fintech startup, is trying to use AI to close the gap. Hedge funds and investment banks have been utilizing AI technology to inform their trading strategies for years. Candlestick has created an AI trading model that they plan to make ..."
+    publishedDateTime: 2021-02-18T20:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19735709/candlestick-launches-stock-picking-service-based-around-top-performing-ai"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19735709"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19735709"
     type: article
     provider:
-      name: supplychainquarterly.com
-      domain: supplychainquarterly.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
     images:
-      - url: "https://www.supplychainquarterly.com/ext/resources/images/articles/2021/202102/scq21_q1hospital.jpg?height=635&t=1613587556&width=1200"
-        width: 463
-        height: 400
-        isCached: true
-  - title: "Why CNC Machining and AI Make a Perfect Match"
-    excerpt: "What’s next for the world of CNC operators? An increasing move to incorporate artificial intelligence, or AI, into operations. Over the next several years, CNC machining could see something of a revolution that includes machines that respond to Alexa-like voice commands."
-    publishedDateTime: 2021-02-19T13:36:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/story/2021/02/why-cnc-machining-and-ai-make-a-perfect-match/16503/"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 37
-    images:
-      - url: "https://www.manufacturingtomorrow.com/images/upload/images/Depositphotos_10054154_s-2019(2).jpg"
-        width: 720
-        height: 479
+      - url: "https://www.getnews.info/uploads/38ab71158bfef8d97af84b0044fd0da5.png"
+        width: 407
+        height: 406
         isCached: true
 
 secured: "jn5QexqF/ubRcGzc5I9QvPTW1rvvm9DzGUhbVZ203sTzZ675F0dUPtszNz5EQMsyG1rYlfAGqObrOmoZWTeykdpChxANYY2BG8M8Jy2LwCtJuvK/Z6lkZbHIzUp5jolwTQ+Fhbnx95bAp2+abbQYFPlvU9DDVC+VJTx87/5p+cRUz4oOHlTeWFQvyQUYxrlIS8ckRcsR+CoZelbMhEUCkTT7+F0X3Jr6LjP/Xk1irlzrxuSKB5p4WeXIxmQwyj63kiJo8s2Y6Urf0DTU81UZB8lSjFskRXkxbNFS6pfN1tbMotdTqgRfSHLZ28oTR53k3Y8/ZsN98pTl7IH8wzeoQIvnt1Btz2nq5uhhyWv50JE=;VJrQIwo1kzyYgB95DmEBHA=="

@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AdmitHub raises $14 million for AI-powered education-focused chatbots"
-    excerpt: "AdmitHub, a startup developing a chatbot platform for higher education, has raised $14 million in venture funding."
-    publishedDateTime: 2021-02-16T14:01:00Z
-    webUrl: "https://venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai-powered-education-focused-chatbots/"
-    ampWebUrl: "https://venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai-powered-education-focused-chatbots/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai-powered-education-focused-chatbots/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/admithub.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Edgybees raises $9.5 million for AI that augments drone camera footage"
     excerpt: "Edgybees, a startup developing a platform that augments drone camera footage using AI, has raised $9.5 million."
     publishedDateTime: 2021-02-17T14:04:00Z

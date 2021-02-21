@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Semeon Analytics Wins Major Artificial Intelligence Contract with U.S. Military"
-    excerpt: "Semeon Analytics, an ATW Tech Inc. company, is pleased to announce its most recent contract with a branch of the U.S. military to apply its technology to better understand how complex composite materials can fail and therefore facilitate the development of processes that safeguard components assembled with these new materials."
-    publishedDateTime: 2021-02-16T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "Marinus Analytics is the lone US company in the final round of the $5 million IBM Watson AI XPRIZE competition"
-    excerpt: "In 2019 alone, the company claims that Traffic Jam helped to identify an estimated 3,800 victims of sex trafficking."
-    publishedDateTime: 2021-02-17T20:27:00Z
-    webUrl: "https://nextpittsburgh.com/latest-news/marinus-analytics-is-the-lone-us-company-in-the-final-round-of-the-5-million-ibm-watson-ai-xprize-competition/"
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 34
-    images:
-      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/02/17145743/Marinus-.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "Data Analytics, Machine Learning Will Power an Enterprise Content Management Evolution"
     excerpt: "Data Analytics, Machine Learning Will Power an Enterprise Content Management Evolution By Aref Matin, EVP & CTO, Wiley - The field of enterprise content management (ECM) is evolving into a platform that touches every part of an organization in"
     publishedDateTime: 2021-02-19T03:07:00Z
@@ -64,33 +39,47 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Marinus Analytics is the lone US company in the final round of the $5 million AI XPRIZE"
-    excerpt: "In 2019 alone, the company claims that Traffic Jam helped to identify an estimated 3,800 victims of sex trafficking."
-    publishedDateTime: 2021-02-19T15:40:00Z
-    webUrl: "https://nextpittsburgh.com/latest-news/marinus-analytics-is-the-lone-us-company-in-the-final-round-of-the-5-million-ibm-watson-ai-xprize-competition/"
+  - title: "Databricks To Offer Its Big Data Analytics System On Google Cloud"
+    excerpt: "Databricks’ Unified Data Platform will now support the Google Cloud Platform for running big data and data lakehouse applications in the cloud."
+    publishedDateTime: 2021-02-17T14:40:00Z
+    webUrl: "https://www.crn.com/news/applications-os/databricks-to-offer-its-big-data-analytics-system-on-google-cloud"
     type: article
     provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 31
+      name: CRN
+      domain: crn.com
+    quality: 24
     images:
-      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/02/17145743/Marinus-.jpg"
-        width: 750
-        height: 563
+      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
+        width: 611
+        height: 343
         isCached: true
-  - title: "Marinus Analytics anti-human trafficking biometrics selected for finals of IBM AI competition"
-    excerpt: "CMU biometrics and big data spinoff Marinus Analytics has been selected as the lone American finalist for the $5M IBM Watson AI XPRIZE Competition."
-    publishedDateTime: 2021-02-18T19:08:00Z
-    webUrl: "https://www.biometricupdate.com/202102/marinus-analytics-anti-human-trafficking-biometrics-selected-for-finals-of-ibm-ai-competition"
+  - title: "Kellogg leverages ‘next-generation data & analytics,’ machine-learning to maintain, build on customer gains during pandemic"
+    excerpt: "As the pandemic nears the one-year mark, food and beverage companies face increased pressure to maintain new consumers gained during the pandemic while also engaging additional shoppers over record household penetration increases in the last year – a challenge that Kellogg is meeting with improved use of data and analytics that allow for enhanced targeting,"
+    publishedDateTime: 2021-02-19T13:53:00Z
+    webUrl: "https://www.foodnavigator-usa.com/Article/2021/02/19/Kellogg-leverages-next-generation-data-analytics-machine-learning-to-maintain-build-on-customer-gains-during-pandemic"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
+      name: Food
+      domain: foodnavigator-usa.com
+    quality: 13
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/news/manufacturers/kellogg-leverages-next-generation-data-analytics-machine-learning-to-maintain-build-on-customer-gains-during-pandemic/12206380-1-eng-GB/Kellogg-leverages-next-generation-data-analytics-machine-learning-to-maintain-build-on-customer-gains-during-pandemic.jpg"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Mediolanum International Funds Chooses Managed Services Solution From Alveo To Streamline Data Management And Improve Data Access And Analytics"
+    excerpt: "DUBLIN, LONDON / ACCESSWIRE / February 17, 2021 / Mediolanum International Funds Limited (“MIFL”) has chosen PaSS - the buyside cloud-based managed service solution from Alveo - to automate data management and access to data for analytics."
+    publishedDateTime: 2021-02-17T11:41:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-europe-investment-management-western-europe-fbc0cf162d4f712079c05dfe93349a85"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "4ndn9EcLFy1RW8GAGiX0sqC2JOQH22El9/UbOG9Aw2TSKmrP2SXGyu2Pq7mHQeGVpNznddM8uVQAw+QBbZD4Vj1+CtGVSpGapBquH32dZ4V05CvfTX+DCBdXcWjuTyVNkrrEqWBfhk5VnayRW1HZhdJmrQ4MCVlDL1sUIg+UoH5r5BPTgVJyaESDR2CxC5QF9kIFgS0wK5ULPENAOi1EC7igxzdgo528ExZLY6SVWmZzPEfM5jI7+vc2+DzwYgre/9GVbrkhZ+0aZQ05SaeSKvHROqRWwXapxfqMtlrao6sdd7/vzAfIVwoQ29HskOrNIXoeGbfrt1Hffv67t19ACYdHrKsXO9kFC9XOSFL4L1FnTKBDknlCFpAohC5jH73C0AkOEverJpSBsyhHEUyvvUm4/OCaKLNKWE2I6qly5EgB4MLCRmmi55kYomBJOkkTDoLF0PyWGLR1C4EChc8svm2Ae5mIUgy6jo0r7fdDPoYM9KUvssR2C0wEVkpAgy6pkRCNYL3vMbNym1Ovlr6Beg==;yOi3r6hgyO18nU9rFuyBdw=="

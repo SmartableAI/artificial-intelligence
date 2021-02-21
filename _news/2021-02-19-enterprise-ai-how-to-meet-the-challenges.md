@@ -39,6 +39,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Machine Learning Will Power the Next Decade of Enterprise Software"
+    excerpt: "Machine Learning Will Power the Next Decade of Enterprise Software By Jesus Rodriguez, Managing Partner, Tellago, Inc - Machine learning is rapidly becoming one of the most important trends in the enterprise."
+    publishedDateTime: 2021-02-19T05:21:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/machine-learning-will-power-the-next-decade-of-enterprise-software-nid-12791-cid-260.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/zXd954g0.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "bmZVnUXJTyqIg0xoqQhJOLrOJKjMuscg1sGptfIT9DGmg5/ez5/UHgfLBv3c6hoiS7fXbLHNxbMgJp2ocYef6SAp2aEdoPL5JFy2aaaUBgfuxpi/jpoUfMYUcUpz2TFBpHu+xA2J/SsI5jL1l2aFYcO71TqhaT9gLIT9W2H9bvBgQRFcrk35uto0B/tCEQCesFgqzP3/SE9n5HXYIa/6wOW9UuqxDVE9mYPKzHSkpFq0EDn9e38U6HnvBmnlU044oiNMrp+54oH6Ghh+AnHY80gFvWEEQHrN6cerc8cIibyMXPFNdeOY/HI4CC3TQvGNmoYmiTwFCSeMI812STUb/ucWe3kslpQxdQ/Em7Sozpg=;kcUanWFCF5DIFqXd0fjOMg=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Facebook's Australia face-off could backfire across the globe"
+    excerpt: "But this week's abrupt news blackout forced the issue onto the agenda of governments whose regulators are already ramping up scrutiny of the growing influence of Facebook and its ilk in spheres from media to artificial intelligence. \"There is a lot of ..."
+    publishedDateTime: 2021-02-21T05:01:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/feb/21/facebooks-australia-face--could-backfire-across-globe/541953/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 24
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/10/29/1604029850_101639583-892943397bbc48b6ab64e50ef76d5d61_gs_t1070_h7ba15c6f7b410476703a9590128538e0f080ea4d.jpg"
+        width: 1070
+        height: 713
+        isCached: true
 
 secured: "+XBZ2J5BpgAKTyz4YqRNfS9e1POSzF1XjF/lW9a7u2BU56jQ+dPEa7oNNBCvUhriMbwDy9zYSC3cM5zWCt3zDVFxKob8xtsi2gcJVQ7akFgh3PGDittoa0TF4CH844/dm9gGy/6l5OfT/iL9B4y7ujR4eV56FF2TalTlVPHx4h70NwO9TQPwNaUJ3YICSSIu0Qa49bRCtERa2I4VghrOMCS9yYB1eL/stQMuX+vl7LCyWgJzB6Huv9AtLK5kesYYIDM4KxaJjIzYwYNFxCJHqi2+9kuptYjcHxpTFA46Ph2Zfwt4+HvMscbn/owymMXXbE1suzmZeG/udMDo3UiDYlABRReVrpvxx2YzfDx5CZQOM3JO2yQSmPlLNhsQiRmEcDZGd8XrRAIsl0Jpn17WVEwBKXO/zMV0HJsohGzw3p7W2zsNM+6z92Ufr/0mY+3PlQXXEckxsOoXc57lUXGuFHJX4YqSMrKvEcWWRVjDRV3U22cPuLGpsdI0A2dE4LUnpoOMZU5G1ZZTsYJ+wlRyWw==;UfTEU/gl/V+x74eCbQuZuA=="
 ---

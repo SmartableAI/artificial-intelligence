@@ -7,7 +7,7 @@ originalUrl: "https://www.foodnavigator-usa.com/Article/2021/02/19/Kellogg-lever
 webUrl: "https://www.foodnavigator-usa.com/Article/2021/02/19/Kellogg-leverages-next-generation-data-analytics-machine-learning-to-maintain-build-on-customer-gains-during-pandemic"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,64 @@ images:
     width: 800
     height: 419
     isCached: true
+
+related:
+  - title: "Data Analytics, Machine Learning Will Power an Enterprise Content Management Evolution"
+    excerpt: "Data Analytics, Machine Learning Will Power an Enterprise Content Management Evolution By Aref Matin, EVP & CTO, Wiley - The field of enterprise content management (ECM) is evolving into a platform that touches every part of an organization in"
+    publishedDateTime: 2021-02-19T03:07:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/data-analytics-machine-learning-will-power-an-enterprise-content-management-evolution-nid-27098-cid-129.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 33
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/B6stW9yU.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Databricks To Offer Its Big Data Analytics System On Google Cloud"
+    excerpt: "Databricks’ Unified Data Platform will now support the Google Cloud Platform for running big data and data lakehouse applications in the cloud."
+    publishedDateTime: 2021-02-17T14:40:00Z
+    webUrl: "https://www.crn.com/news/applications-os/databricks-to-offer-its-big-data-analytics-system-on-google-cloud"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 24
+    images:
+      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
+        width: 611
+        height: 343
+        isCached: true
+  - title: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government"
+    excerpt: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government By Niten Malik, Director, US Public Service, Microsoft - The efforts to build sophisticated cloud or on premises solutions are often complicated by inflexible technology."
+    publishedDateTime: 2021-02-19T06:48:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/platform-convergence-analytics-and-mobility-drives-disruptive-business-models-in-government-nid-2894-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 13
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/hz4OtL2K.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Mediolanum International Funds Chooses Managed Services Solution From Alveo To Streamline Data Management And Improve Data Access And Analytics"
+    excerpt: "DUBLIN, LONDON / ACCESSWIRE / February 17, 2021 / Mediolanum International Funds Limited (“MIFL”) has chosen PaSS - the buyside cloud-based managed service solution from Alveo - to automate data management and access to data for analytics."
+    publishedDateTime: 2021-02-17T11:41:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-europe-investment-management-western-europe-fbc0cf162d4f712079c05dfe93349a85"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "PFb+XOCLtkU2qI1Yb+HVvUWi8MnYRK3ijbAVUBWQv0Tj8KGu8dLQsLdw3TClZn+ycNsDh9/4eQ4lm3XrIXirdUJ5qdEiDZ5jFjQ3YWkrEw9nAePY1Ea6gWDFqmBbtVJvONsxRjQRd41xRlD1HDSwYtUE9Jn3VcIGLGzInTQtPiGoTp5uwhSZc3m7VjYihtrd4bivAFzITR3o42t+FCwQcQu9clKwoxbxpphWhnclwrdXtqYgYffQijRUyIm3RqT2AwXF0oDNPn1WgXFjDqGuVyL/63mll5vvEYH4/wD8iIW2QOUMI9fKUxzGRR5crhImF9fl97ABYXQaCwsPUZ1bYxPivansspWBK4rdHHzBHOZ+WprSb0E6UkF1OFVyeHk4jadaaGxvfvWqFB7mR7BMQpvAiOcowL7kbK24UmS9BIIHqH//04h5rZrW7DFa/6op7PQ1dPI4R8Rpd714cRZTCtqQDRVfwuQH8lGe7C9NQKiObqLyboQKYkX7OwLgl4bQxAbvaXCB3H5vH25uhdoIRg==;sTF0Ka43NmDHnuydsEgYdw=="
 ---

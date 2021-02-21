@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
-    excerpt: "Bearing ( exits stealth mode and launches its AI-driven operations optimization platform, which provides a wide range of actionable ins"
-    publishedDateTime: 2021-02-16T14:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210216005143/en/Bearing-Brings-AI-Powered-Operational-Efficiencies-to-the-Maritime-Shipping-Industry"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 10
 
 secured: "f5ixDnGTwq9P4DF2vwNH2jaWo0qyJytgxFNFwJ5JIgP0Ru1/DPWBR1bXIk4KzsqLVXBdxUbAczoKoyPT3mBzsuNDsD9CJqsJvuIntrjTDG2eF5GDPXyOJrCZ9HiH9MOTtxcaiktHVHJ39xBsgGLk1z6/GgaNbWt0qxeGGO7n/mQWyZeSmDJzB2Lrnf16Ts4c3SQtQUDaCgE3XS2JlE9XJXYpGv4afM75xN5fbxVNOOoZyBfavgbbfmpYimvdXCAVmkZctSw58Oqf8mDjMWb8hLcrks5N+voHLvVh/0TMAhd2RS1EW3azjlnSXVWmRkANvlrmD+wCOzwCO6654MRNGIKBfkddkneCcP6JPL6UKaA=;qeMLLxhiKjclsm52Ota8tw=="
 ---

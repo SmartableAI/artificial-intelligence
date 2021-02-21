@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-21T04:31:00Z
 originalUrl: "https://analyticsindiamag.com/how-this-delhi-based-startup-uses-ai-to-streamline-legal-workflows-of-fintech-firms/"
 webUrl: "https://analyticsindiamag.com/how-this-delhi-based-startup-uses-ai-to-streamline-legal-workflows-of-fintech-firms/"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Anand-Agrawal_Mayank-Khera_Rishabh-Goel.jpg"
@@ -124,6 +125,6 @@ related:
       domain: openpr.com
     quality: 17
 
-secured: "jq2KaULve5T+HSxyN+SS/AFLc/5DrVejBlbQAm0voodKc/cZbO6Xrp5iBsTBFadnFBa/T1tDF0SLioNt2/Zv63OpuYQROdPAkqkpMuq5uiwqGNzKFjxiAuRfmw7wZ6Q35FPmy6KqrfDS5rsZI0nXUWbEMAaJ43T89YSF6HfgwwXoIUWMIRvtwwV4ZWV617OpaDy2CwHE+gAho1bZYiPYx2+qJ/VRoiu7ccxqC+E5neYRxQp29bsAKP1MrO8UWa2OD1ifx94vzCIhbIAncMNV8i+gt8IZTL645z4vWkGGuDnWUMRo1FUXMETM0WswPS2mZUM0khxMNOtR6FfvmGutxfuWJudNy4uR6Cqt5ADZTaM=;0M7wZFrs6S3Af66enMxs7A=="
+secured: "nSjzYzaDVpaqSRix7wABCey/+k15fRb4WZ0zgd+qr2v4iZA460S4kyUhDyQ+DdiRi1LNM4dBzzkBk/5wYH95uvJjdEkrpTDq/s5a9iWn5L3vlI8Vo9tBCgrc+kVLmqJSXtXBviyqkufRpk1dlvrhtdjRSCih04o2EEvb9EZ46biuyGobul+22JEI3i8TPJ9X8EQhbry96poFqXvi7KE7IRtOJMDrJubHD/2JppQvzruIQ4MLMgZHh4uv83vSVWe5yIgGeq5YtwNU/DTeWTqPeVOm8gCUQrQGkAfS2peuovYJ7E/VPRiqV2oYvVYWPt5Hf67W9L505Gg2OyBexYAYrC8QwghXiMi1u/osbjnnIStKAJPwALKybGvxX74YwtiIFqzYZLTztqliM+N/wwV/FzFtATpPfmvUsSCg6+U1yB1di4YpxVtAFfhCmWf9gcBvGDonzSLPeHNbVbd71x/xtod9VkY3ruV8obNEipUaGLxVMd9xxLhMUG+CjpV0O5ivm01TSvzr+/QQVdgAYetElA==;D1KbHYZ9IzXvn2dENcm0cg=="
 ---
 

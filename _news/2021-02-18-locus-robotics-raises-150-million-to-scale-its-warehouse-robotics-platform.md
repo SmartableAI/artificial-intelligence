@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/"
 type: article
 quality: 117
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602c94f69131fa882940f830%2F0x0.jpg"
         width: 1200
         height: 663
-        isCached: true
-  - title: "AdmitHub raises $14 million for AI-powered education-focused chatbots"
-    excerpt: "AdmitHub, a startup developing a chatbot platform for higher education, has raised $14 million in venture funding."
-    publishedDateTime: 2021-02-16T14:01:00Z
-    webUrl: "https://venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai-powered-education-focused-chatbots/"
-    ampWebUrl: "https://venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai-powered-education-focused-chatbots/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/admithub-raises-14-million-for-ai-powered-education-focused-chatbots/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/admithub.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Edgybees raises $9.5 million for AI that augments drone camera footage"
     excerpt: "Edgybees, a startup developing a platform that augments drone camera footage using AI, has raised $9.5 million."

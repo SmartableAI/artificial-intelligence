@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/lemonades-ai-advantage-in-the-insu
 webUrl: "https://www.nasdaq.com/articles/lemonades-ai-advantage-in-the-insurance-business-2021-02-18"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Lemonade adds Bestow's AI-powered life insurance in cross-selling move"
-    excerpt: "Lemonade added Bestow's term life insurance coverage, which may help its latest offering stand out from traditional term life coverage."
-    publishedDateTime: 2021-02-16T13:38:00Z
-    webUrl: "https://www.businessinsider.com/lemonade-added-bestow-term-life-insurance-coverage-2021-2"
+  - title: "Artificial Intelligence and Business Productivity"
+    excerpt: "Artificial Intelligence and Business Productivity By Greg Tacchetti, Chief Information Officer, State Auto - According to IDC, global spending on Artificial Intelligence was just under $36B USD in 2019,"
+    publishedDateTime: 2021-02-19T02:46:00Z
+    webUrl: "https://www.cioreview.com/cioviewpoint/artificial-intelligence-and-business-productivity-nid-32406-cid-195.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
     images:
-      - url: "https://i.insider.com/5ede79ca3f73700e047225f8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.cioreview.com/news_new/sliderimage/lj8fh.350.jpg"
+        width: 300
+        height: 350
         isCached: true
   - title: "How insurance can help build trust in artificial intelligence"
     excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"

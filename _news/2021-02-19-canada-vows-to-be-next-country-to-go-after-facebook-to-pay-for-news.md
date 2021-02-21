@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI349"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI349"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/assets/v3/editorial/7/d1/7d1b4ebf-08c3-57ec-b562-8679e2b62912/603037b34f097.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "Facebook's Australia face-off could backfire across the globe"
+    excerpt: "But this week's abrupt news blackout forced the issue onto the agenda of governments whose regulators are already ramping up scrutiny of the growing influence of Facebook and its ilk in spheres from media to artificial intelligence. \"There is a lot of ..."
+    publishedDateTime: 2021-02-21T05:01:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/feb/21/facebooks-australia-face--could-backfire-across-globe/541953/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 24
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/10/29/1604029850_101639583-892943397bbc48b6ab64e50ef76d5d61_gs_t1070_h7ba15c6f7b410476703a9590128538e0f080ea4d.jpg"
+        width: 1070
+        height: 713
         isCached: true
 
 secured: "ff09gXbwQvCzlLrYBwLNhI9UhHmMf4aCighAiyqZVs0IabfkMzuc3VRMsA1JjtFbSBjw87Vrh+L7KnBjIXRfXLVrwPpgKlEHDXKbg5pJoNbMTmQm9U5v7BY3d6tVMNK2wBe8O6zRCvZHgF8vpvaNcpgN1tHuMmHPxWI3hj4Ze84Ipu96BW9h2auJP4ldrp8IJMtRbHzmm9Qzz5OBuhensHyEFrZo+yRx7NW2DSi4yGJuYWPBltyuSBs16XeNXT4KQPzxLiTnq7HamVqNGF4dKweIudHoNea/5ZqJ/jh41x9xDmOQjNb/SGyuPxV/Cnlu+DkdSZ8eygZftn8Cum4egX/kyxBMa+OlTNjKkM0txso=;YjGyDlhBj7UoRDeOVRZ/Kg=="

@@ -83,7 +83,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Anand-Agrawal_Mayank-Khera_Rishabh-Goel.jpg"
         width: 1600

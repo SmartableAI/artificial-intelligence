@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Milrem Robotics’ Type-X Robotic Combat Vehicle with John Cockerill’s CPWS II unveiled at IDEX 2021"
+    excerpt: "Milrem Robotics, the leading robotics and autonomous systems developer, unveils their Type-X Robotic Combat Vehicle with John Cockerill’s CPWS II turr"
+    publishedDateTime: 2021-02-21T04:42:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210220005001/en/Milrem-Robotics’-Type-X-Robotic-Combat-Vehicle-with-John-Cockerill’s-CPWS-II-unveiled-at-IDEX-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 20
+
 secured: "iLvTJzDEAM7XlxPrYW1tI9+EWGithhpwKqkQdIHxDx68FxqKK2Q9xPqxygcMBIpH4f7jHLc2Hviu+QNi3QqLDiPcMyvbir1copxF5o+o+JFI/+ZCIg8//5vvyLBeYk5qp1LwZnP7M2dUF8UsQWrB+VglEdQoc4xcLv9g5FlPYU/1+ZufB/D6WH0SaxH0IwPbNwMAbG/4UzpJtiTr5+FiwPjgs9uZ3O1lI/Z4IO1c67wYB5sImUbdGWnkUNI5zOaQ5y7h6j6vQTdBeCBwgZ+oDz5NZe0ehx1TwQMhdeuMSAd8rxyolpV+O8L7bWU5O5zer61UIcySf38h3XznsfwaE8tPfWhD9RnTdkVAIn/zn+M=;ojwXd+9JOzzc6v4kQ0lkHA=="
 ---
 
