@@ -185,9 +185,9 @@ related:
         height: 420
         isCached: true
   - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
-    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health \"THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
+    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
     publishedDateTime: 2021-02-20T00:48:00Z
-    webUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
+    webUrl: "https://www.supplychaindigital.com/sustainability/ibm-watson-ai-xprize-leveraging-ai-good-people"
     type: article
     provider:
       name: Supply Chain Digital
@@ -356,6 +356,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "Gy95RDINYoAWI+YzRsTdlgIXBJ4R1kwRHeN8HBTbozJ5UsdlEhBuGq/9bu7FDvxvg/7eGSpnCSDwbA+sLLzncU8u06ScEcj6zSqPp4LKCzYAaKVwJgjSn4+1KxZ2FujMNEi7dmQ9uAmJGKfsP3uasjyWtYrrCAVCkSaRUWxzQd6hZpxj8+/ir+RDF4loMyqHl0ar2hwz2SHs26eYBPw13wIjN+UVQE9RQo+r3C7XppKlhekL+RdnEXdcHQWLv2lIgVrR4xGI2JvhCtpt0SFUlWNijeZZ5Vg4M1sH/Oc8HLmKlcTK9nS71sbCh784+qPslPwldD2bTxsQzjbsQLoWG2vkGCNV+A6O/OGtF6CAvOY=;fOjcJ3PS0T3p0z2ZpPiM7w=="
+secured: "c29QuYvjijIEiYbGYb8nbTbfrZWStuOKfWxtF6VVsMzJT8J1GS3aVu97JRROdS4+2y9rJSp576ATHUf2gX01KYDuaAntyDtonfKPz3m0yx+bOToEI/iklleBzXESiRbI5vJTdEW4hEDqwRp9LUD+5Ns3Nlw9kYgeVh6QHQ6+1Rg3xCGaUnCWTKcdhd11GYdgZ8PTLSMX17vhx0fSISznIX0LC67oEYsYifTJEwOQS+sh9uduDFFxPz0/L+ISTSa9eeBzun/24sQdX3YeYD6yFKnATBHIkZ4dFa7eQeVwppacsEyJG+J3Nhh2Q9ZvzNEMUVM54a9rVabZs7jVzTLfBLOqT/zSkzt74bv/0BXomDMA4ZaYZt7KOt8PdGQ4d/H8CTQ+DqUhtllHDHWgU0u3Bj0roMV0RM28Y3Fvzl9RmmLPTeDusAlvzis5ZPXUquhzPOoBoQZN9aTQaZXcTkHQkJqyv3vy5qZkDOpzIQgvFjuJJQ6NLlsl3klx3OgwI5g3R/ZXxbRKv7UviEBq21QplA==;k6vt/FR+deEY4Qe+0KRDXg=="
 ---
 

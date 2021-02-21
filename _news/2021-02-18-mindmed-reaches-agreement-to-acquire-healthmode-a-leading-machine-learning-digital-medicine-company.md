@@ -1,29 +1,28 @@
 ---
 category: news
 title: "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company"
-excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr."
-publishedDateTime: 2021-02-18T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-webUrl: "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
+excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr. Daniel R. Karlin M.D. M.A. and former Google AI/ML industry veteran Bradford Cross added to MindMed executive team NEW YORK,"
+publishedDateTime: 2021-02-18T12:41:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-government-regulations-ownership-changes-ff68e279a210c18215e0ca6d47155acf"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-government-regulations-ownership-changes-ff68e279a210c18215e0ca6d47155acf"
 type: article
-quality: 56
-heat: 76
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company"
@@ -50,6 +49,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "bso7eLzFvA4OaTDaimQjInFFLixjQIY+EMmQGVFSeXWExNvTOJ07FhFrZ7zhA8+I0edL4+usjTEA71rq9z1jUCiflWIaSTbiJiE3Kke8b5GaO3mzXeMtqvifkt/E/CH4nETHF0gC+b0iOD0fv+z7X4QY1nGhLBuQ6xpI1GCQr6r4ty8uHDeqjcgVTLoBwfwlv01B9loIT9Lsm3a9pvEW1IwvGL/fhmF1Hi02K5pRKYnCcANE86nDV0JWGz/gUidCbVz2xuFdn9+j34Wc3LEJf7ofYRsCK5OthNLNZlQqBN2/vj91CuIAlPWAWYDdKvHQIf47iBC78pLWRsbcVtNuTioM3AP6nRdbd5ULmPjvs10=;3oEsOZs//tPmSh3TYvle5Q=="
+secured: "GCYVOYgPsFAyLKdRMqy5ofIbt8uT0R3R+lDGEVA40iEvzQOGq+bCL3XnXWdNuC1yWj9gNvSApr8KdLqIc07l3VMjCzDKTlZd9sKIGolKsYKohPnzxGUiNOpA2H6A21EP3jRxlgV3CwAUAGhizDahxCmfH3rh/2FElzomLQDFwYmgNp3A8K4ToIi7erAvyVbgbbdKhLKiq6ySqmKhuQ4WZOygr9E5QFSI3HV28ENZWmxmqpvILvp4zG13tTsOXLOyoXecppCQ/8M64q2D8Re0p6NVQoeiX2guZFeU4hGWJHvfPlm40lQvHcSe7gCFAQKxaR/qmovE7TMAf//zVnTXC5lL6YfjhO0z3TEiNCcsKN8=;Si0oHH/ANl2nZT4g+3FvOw=="
 ---
 

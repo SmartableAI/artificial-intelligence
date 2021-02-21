@@ -42,17 +42,6 @@ related:
         width: 900
         height: 450
         isCached: true
-  - title: "GBT Filed Patent Application for AI Based Facial Recognition Security System"
-    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a patent for AI facial recognition system,"
-    publishedDateTime: 2021-02-16T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system-1030085984"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
   - title: "AI hardware startup Recogni raises $48.9M for its autonomous driving module"
     excerpt: "Recogni Inc., a startup developing artificial intelligence hardware for autonomous vehicles, today announced that it has closed a $48.9 million funding round from a group of investment firms and auto industry players."
     publishedDateTime: 2021-02-17T14:24:00Z

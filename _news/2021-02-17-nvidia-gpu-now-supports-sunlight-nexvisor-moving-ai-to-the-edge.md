@@ -53,15 +53,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost"
-    excerpt: "Sunlight announces NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint"
-    publishedDateTime: 2021-02-16T09:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
 
 secured: "tcqDt5hVOKK4cbV8bSGEOZMO3UhodLmzEJXsRMJqeimpnVGEy1LXaqM9F4rIsQS+fXPfUxblVsVLz1AhdcZAarE99vVUeCevdM6JdGjfA1bvMfJbAwZmJMMlPf+sHSGUxj54JSjoVCnO4QzgOqFOl/xzYQ/4IilXlobzgrKywLqyHt4vd/OCNO9/zP2FI0hmuMPKZHlanFOdCt6eeYTOGX8taHIb++dxkoXEokl0j8erD0pUdAKh5CSlSujlwVu730R700d4qbyN/F+DMzxoOOIT97lxvJpaRqyPVOsoAKqFegfYUwUXblpGW8e30wMyC1MZp7mGyc5vnwZUp1fvwn6Y4wNYxeg+FPB2j9YRqLE=;vjqsWY1OSyH4wdW9nVWJjA=="
 ---

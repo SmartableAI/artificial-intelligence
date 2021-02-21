@@ -3,8 +3,8 @@ category: news
 title: "CloudCommerce Adds Critical Artificial Intelligence (AI) Component"
 excerpt: "Adding this critical component will allow the Company to speed the development of SWARM to dramatically reduce the cost of advertising. “Using machine learning and artificial intelligence, WRENCH.AI makes it easier for advertisers to harness the power of their data to automate the process of creating personas to optimize marketing and advertising efforts,"
 publishedDateTime: 2021-02-18T19:00:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-a48fdbf12fb872b0017ca4558b2d56a5"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-a48fdbf12fb872b0017ca4558b2d56a5"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-a48fdbf12fb872b0017ca4558b2d56a5"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-a48fdbf12fb872b0017ca4558b2d56a5"
 type: article
 quality: 52
 heat: 52
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "srA1i9fXfF28HGyWUcwKUWm4xkXeMN+zQHbxjt3oIMs2QF8nW/CilwUt+Xjq02yzPgDT5ahT6WDikW+ocSJtYoYTQfisOpzz7QQQd7a7barlAbCbpuXCbNfEybYTdvMKgPgVG+RampyLjth50ysuc88Uu2L39Tf23fYIHSppDSuy7V28qYEeNEIvtgweYT5R+od5HZ55jqFELboOws8DOhnV0bRYce+DbtbbCsgFtPxb5MWkh4zNa5sl4MTZqtKg4wEuQyFH7xLyLmLOexPyWTXjVFuOFhCP9DnvTzxGagwGZxfvR2NQaU10srvMJyC/6UjSlnHDavChzCFZaHrHLEqif4DqZHZXTNjbC30bx0A=;LjxJedlC2YpGEp4XAvOFOQ=="
+secured: "3gAmsHl48ZK/bplTPwZbckOFb0IekhjI/NxOoPVbr49YlX7OY7pi8R9Wnvp3PRC5NiFiATOMGUEUtNmCnMPMWyqVEEa1y9l+n+RS0OxE7TwsLJh7TqChhXO7RX76VuN+OhJ0hhIlvBK7AZPD42cKgK44busHadp3Ip9BeYvcHSOu9oAPEA9lmgJg8z3eGfin3r13xwAvfazAtPZpfAgTSSuwuowlXHznGnp7EgcywzKjQjVsYNOBoycHLzsqS6EmdE/fEuC6FQ5b0AdX9AvRlr8XbSBZpq/OxlyV+M5jfak8tcmn7aUJ4qgVyk0Y1Z6wSB1JKXtpBKfBtp5goAKTsfSh0CEzrKfFd/uOZSOSSFk=;ctWBoqs2W45TLwbEx23zpQ=="
 ---
 

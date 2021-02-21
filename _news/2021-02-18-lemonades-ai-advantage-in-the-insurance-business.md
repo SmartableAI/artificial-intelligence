@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How insurance can help build trust in artificial intelligence"
+    excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
+    publishedDateTime: 2021-02-19T00:07:00Z
+    webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 37
+    images:
+      - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
+        width: 1440
+        height: 753
+        isCached: true
 
 secured: "pt5R0N2XsIjoWYH5x2wfO62Y9fI4vTR1fXme96UxN9rV+r/OPP34Neerzu9kqY+NgKDEWLzficlDiIvRxApnLePohRUDNUmJ/rkaZ8haujaumcGFAMpbKh90W9vti3/RrdYBLCH5eElNAu7PESmlrZzFtHYl1I5/+qtiLTNkO7yIiHWhz0ccn5klPKq1TONpHnCUlJ13QpWhakP+Is2siIicnfP/upoj6279+dtCCeQFl3XgQnF3LSoUzQDfOAdbXlSTedE0UAKhz4zBpZC8thyH8Me0AoMiP+kw7tYxKh0WYl2JaEqDaQEumWUkw55+0dJxNkAofkGObyCJyBYJzMZqf7JP1NBlcP62tbC0dt8=;PJZz/drxAyJ5S4I0e07R8A=="
 ---

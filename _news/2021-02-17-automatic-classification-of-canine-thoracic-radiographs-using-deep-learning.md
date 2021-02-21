@@ -24,22 +24,6 @@ images:
     height: 679
     isCached: true
 
-related:
-  - title: "A scalable physician-level deep learning algorithm detects universal trauma on pelvic radiographs"
-    excerpt: "Pelvic radiographs (PXRs) are essential for detecting proximal femur and pelvis injuries in trauma patients, but none of the currently available algorithms can detect all kinds of trauma-related radiographic findings."
-    publishedDateTime: 2021-02-16T10:45:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-21311-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 26
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-21311-3/MediaObjects/41467_2021_21311_Fig1_HTML.png"
-        width: 516
-        height: 685
-        isCached: true
-
 secured: "2NCUWMSVvbluIGE0AwpwzkChaldGVJ4aJJiGLbIU/LFSRi7AM3p70NqnU6Wyu82PF2OJ4avFPZCTeA/1ZQZr2jOKeCZzOTvN7eOsRjKC97KyNfyB9PdpZgkucUGzk7Uff1KyI2FivkL86ho/tUMu2KZSZxkaWZCEs6ibBsU3FVEPuF3QxYD1SFXaokVawiEblDvLaurwSFywCwNvpLnL7ypNkxXKWwPjcbfrMRH6D95I4lgP8KdkZURD1ngZyzgosaSijsU3sFwLyIFy/Kp4ZoAIaSHhUr6ieEUa+B+dOgnt1dHWJJUevwLKMx/2dbQh/wVHLACwIqDZllTXlcO1ytqYgt2Bi/+HV73rQLKk9D8=;ztyFD6u6Ubf6NtlcloTOOg=="
 ---
 

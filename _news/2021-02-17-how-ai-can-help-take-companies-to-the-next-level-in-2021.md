@@ -29,67 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Remedy Racial Disparities In Healthcare"
-    excerpt: "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine."
-    publishedDateTime: 2021-02-16T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
+  - title: "Top Questions To Ask AI Vendors In 2021"
+    excerpt: "AI advancements. To name a few: OpenAI released GPT-3, the most advanced conversational AI model yet; Google's DeepMind solved a 50-year-old protein folding problem; and MIT built an algorithm that can detect asymptomatic Covid-19 cases from the sound of a patient's cough."
+    publishedDateTime: 2021-02-17T14:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ae497b1b787f71ff43a52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8114%26cropY1%3D248%26cropY2%3D4810"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5c7563f8718db968cbc63%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Incorporating artificial intelligence in Indian healthcare"
-    excerpt: "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder"
-    publishedDateTime: 2021-02-16T18:03:00Z
-    webUrl: "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
-    ampWebUrl: "https://www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
+  - title: "Overcoming 7 AI Challenges in 2021"
+    excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
+    publishedDateTime: 2021-02-19T13:57:00Z
+    webUrl: "https://dataconomy.com/2021/02/overcoming-7-ai-challenges-2021/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/02/16/1031670-artificial-intelligence.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "How artificial intelligence eases pressing needs of mental health"
-    excerpt: "Emerging technologies like AI allow the mapping of the brain’s responses to various stimuli and help in predicting disorders."
-    publishedDateTime: 2021-02-18T07:38:00Z
-    webUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/"
-    ampWebUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-in-mental-health.png"
-        width: 850
-        height: 400
-        isCached: true
-  - title: "How insurance can help build trust in artificial intelligence"
-    excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
-    publishedDateTime: 2021-02-19T00:07:00Z
-    webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 37
-    images:
-      - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
-        width: 1440
-        height: 753
+      - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
+        width: 1920
+        height: 1118
         isCached: true
 
 secured: "m6V8ueK3Yvg/DKTCq6WuUEtWn08BX8zPtnswiQPO0LOduQHrYxvbp2Loseow0QflLGCCTskBKHNjerKbNi6WnHKnZU+sLZRmszl3hA6+v5i22Cn3CtMXSyRj38S/NJKRLMHfr1vGRjMEoOc6akztYgoVUSA2RutZsiWU2cTIBSmTS4bvtLaC7CG+MarCfyoxUhmepi+nMO+XteqFkdpA9x5361jC/lzwhKZy1l4f4mt4uMTxdcj8qxHsGoqttvP2tWMk2CEL6Y7YjcrLnT+qtXSPvrspJ6vbA6XzZLRGM+1YZGp9GFGpz/Gp+Yt2ad/fxHHtBdVmcbL8P5hK69MAgd14eXauNVJ3vmZHJa3b5p7u/+ZtT41Oi5oOCuSBGDWNSo8SMiXHAMnvesynI4AOo+XBXd6zPjH+aOrlx35ImfZv1r02NNYLvFBZl19SnMK2goTjY4MBjcaEeaX71dW1qO21wCAcfq9BWWnE3hpZSLGL6IVCXEvFYOBxKiGtboiVQJQTt3L8f3nXdU+78dhAxA==;zmVAv0EQW/lULnPfXMiCbw=="

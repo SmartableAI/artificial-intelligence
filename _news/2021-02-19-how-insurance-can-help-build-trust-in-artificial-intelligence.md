@@ -24,68 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Remedy Racial Disparities In Healthcare"
-    excerpt: "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine."
-    publishedDateTime: 2021-02-16T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/"
+  - title: "Lemonade adds Bestow's AI-powered life insurance in cross-selling move"
+    excerpt: "Lemonade added Bestow's term life insurance coverage, which may help its latest offering stand out from traditional term life coverage."
+    publishedDateTime: 2021-02-16T13:38:00Z
+    webUrl: "https://www.businessinsider.com/lemonade-added-bestow-term-life-insurance-coverage-2021-2"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ae497b1b787f71ff43a52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8114%26cropY1%3D248%26cropY2%3D4810"
+      - url: "https://i.insider.com/5ede79ca3f73700e047225f8?width=1200&format=jpeg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Incorporating artificial intelligence in Indian healthcare"
-    excerpt: "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder"
-    publishedDateTime: 2021-02-16T18:03:00Z
-    webUrl: "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
-    ampWebUrl: "https://www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/02/16/1031670-artificial-intelligence.jpg"
-        width: 1000
         height: 600
         isCached: true
-  - title: "How AI can help take companies to the next level in 2021"
-    excerpt: "AI is helping the healthcare industry adapt to the pandemic 5:07 Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 AI ethics: The future of AI could become scary 7:43 Cybersecurity pros can't handle all the threat tasks alone,"
-    publishedDateTime: 2021-02-16T16:41:00Z
-    webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/videos/how-ai-can-help-take-companies-to-the-next-level-in-2021/"
+  - title: "Lemonade's AI Advantage in the Insurance Business"
+    excerpt: "Insurance disruptor Lemonade (NYSE: LMND) uses artificial intelligence technology to make the entire process of obtaining and using insurance faster and easier than ever before. However, many investors don't understand just how big of a competitive advantage Lemonade's technology is."
+    publishedDateTime: 2021-02-18T11:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/lemonades-ai-advantage-in-the-insurance-business-2021-02-18"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/770x578/65123fb077ed2ed98120af5e09d0cc62/20210211-alxcel-karen.jpg"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "How artificial intelligence eases pressing needs of mental health"
-    excerpt: "Emerging technologies like AI allow the mapping of the brain’s responses to various stimuli and help in predicting disorders."
-    publishedDateTime: 2021-02-18T07:38:00Z
-    webUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/"
-    ampWebUrl: "https://www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-ml-eases-pressing-needs-mental-health/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-in-mental-health.png"
-        width: 850
-        height: 400
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "0HZT6TtEdvl7iGIrxC9P+rnyqYKFrkbPHB1blsTCMfiqh+/xHh75Wf5fCO6X1aL986TvJuFDTRizGriphym2+WW5YXPmCVPfEsThNb5KDqUZE18eFLKsoC1q4aJehiRmGNaFy6VRl6DXh2bsaBWjgv8wAXjnSe4QjztZUJI4/zDQnCunkSbtH8HAR/X3uOzKFHajG0pj+yfrGmpoEN435klfi9/DucyDteaaTbxjzKYiTJe86mZVJMDboVWYCqSeGsAIO281qe5Je7XJ7bW7JCmy4EH7iOqH7gxoTiAZ7sJQbERHsPEKGDDhnpric4kwEItP5VhFXz6X5XGbM7S9PNQ/4BxSwUfOnfXF8Br8rFo=;PEpmqH3l1FV9fPC1oWFrng=="
 ---

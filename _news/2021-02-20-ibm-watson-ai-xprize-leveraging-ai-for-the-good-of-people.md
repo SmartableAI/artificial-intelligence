@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
-excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health \"THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
+excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
 publishedDateTime: 2021-02-20T00:48:00Z
-originalUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
-webUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
+originalUrl: "https://www.supplychaindigital.com/sustainability/ibm-watson-ai-xprize-leveraging-ai-good-people"
+webUrl: "https://www.supplychaindigital.com/sustainability/ibm-watson-ai-xprize-leveraging-ai-good-people"
 type: article
 quality: 54
 heat: -1
@@ -352,6 +352,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "vYCem2Hc1d2qjTHuhXnBjvwy9KjyoqCTY3SHu8N4NUpFC8tzNjzEdBPC/UtANbildq/XCdxTbDgPyLxTzLrx0V27ULF67SwGhKk82k9kuXy/HtOQZbQJm8+/MZArURv6SdZA4vJxtJtCxcyS4oUPcuA8q/EIi19qRlkOtUW+VVJDu8OZ4M6zCytOwqPfq6Js5EEASJ9VeA2B0scbjYJirN4kmDu/O75jJjfKyK4Yba5DAcEWBmzObw7mDv8N6YTE3fhQ/MuZAvcXEr5lwl0wilfb7w7LITq47+A0/ZzAhoHfyBCIHUst7RLKjd/JsmbDPnB/jmTIhQGcZwooCNLp52c4+tkqb5r2lkqaIF5+5GoTw45e+HYW4G00s6Nc+0T5OGN5EPvUEQXuOAkmH6ver6bcrtpWMC89s3ey1gdzaUz4PTK/cKRKefIiVa6NMf7bUM9aXxsrHwYmbZnQQZPpxWGToydYmQb1+bqMGi/SStMj1FX9FpxnSRN7u6pOb8W6AfdOrktj6hLo4Xd8VUQpvA==;BjemXxM4XJhcCFh9CcoJHg=="
+secured: "2IP+ScvkmR4hbwnBRfN+haPCMwtTTwJs3kXF2aK46SsfB22FjSOA0NXAArldt0R9MCLboif4cnh80+64onMFJYr0J0U01bMjCCnct5qUvQCDzsCyaR3K9+KNGbkecc1CL1C13lNl6d2RkeY/zpFaaLzbFFjUTT+9KiIPepB0RIcZR+65j0CaP6THix0qAH7vFppAA0HfXAdW9jNslC5qLrvaz62ho7z6kMJMR6F0U0i0zCJQSyV68X97zUEhuOx6cRRr3eT5H8iw/CitKNixZReVPvlI/eWrk0tT0NZp69KxLZfZJzio7IocCFuwacMnpMZlamJwr6ByHmMAfgSQ5RRWFu5fDPR15d5T6DjV73M=;elMZptnnwBU5mTM9X35CnA=="
 ---
 

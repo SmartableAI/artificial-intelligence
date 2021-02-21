@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/lemonade-added-bestow-term-life-in
 webUrl: "https://www.businessinsider.com/lemonade-added-bestow-term-life-insurance-coverage-2021-2"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "How insurance can help build trust in artificial intelligence"
+    excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
+    publishedDateTime: 2021-02-19T00:07:00Z
+    webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 37
+    images:
+      - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
+        width: 1440
+        height: 753
+        isCached: true
 
 secured: "QWGKZakJPivw9hSjXS0c+zjEtHjE6phfB7ZnrNOGm73qBhn7tOXYTvM5y8zIO8WWvjRg1fP1SDmfap3KKkSQH9WJjyx2Nrrg39PLmkEI6RLhjdRSrA4+U42lrEojOjbR3j7Ylpf7lswni4pXK0EExjqnEhUz4TgrYkN6Zglp5+TGfbfC2pcCi7Izj7NJMFYi0xuvpPyzJhMswJu6cfu7V0eEGtN1HRokZ2/KwVNtYgGATIVlAUSjKYVje73K7u1h2I+dEny0wnjMiT2oRZZMnNCcBNTbBZKZ3vLry+RJ3YcEEcfXynkUpUm6Sx8xFwrU0PjQj0LRbT2QzOaMRCX2mAeYs5B/sw4gS9RhiJ7CXZOyQpgd+ac+8WWmMnyLrUzjQ7qsHHl5Ydb9jnsvBhH1XKIwbw5xUKi72oMzrjr3qlEY6jcpRFXySsTeGe4cWuvRRBWFkVfJIzlLtzeVuM4fekE2ANTFf3gJtjtSR2+4wJZe+DTWR3jH5qBDF6exF4/z5XarhNnQrSLdLHStzHcx0g==;YVuWzEdw5Kxj3oYahB4vKA=="
 ---

@@ -35,17 +35,6 @@ related:
         width: 900
         height: 450
         isCached: true
-  - title: "GBT Filed Patent Application for AI Based Facial Recognition Security System"
-    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a patent for AI facial recognition system,"
-    publishedDateTime: 2021-02-16T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gbt-filed-patent-application-for-ai-based-facial-recognition-security-system-1030085984"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/GBT-Filed-Patent-Application-for-AI-Based-Facial-Recognition-Security-System-1030085984"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
   - title: "AI-based startup UptimeAI raises seed funding of $1.5 mn"
     excerpt: "UptimeAI, a company specialising in AI-based predictive maintenance software for heavy industries, has raised a total of $1.5 million in its seed funding from YourNest Venture Capital and other angel investors."
     publishedDateTime: 2021-02-18T07:23:00Z
