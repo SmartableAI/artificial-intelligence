@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Payments to Participate in KBW Fintech Payments Conference"
+    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President & Chief Financial Officer,"
+    publishedDateTime: 2021-02-18T20:06:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=424517"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Western Union to Present at the KBW Fintech Payments Conference on February 23rd"
     excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the KBW Fintech Payments Conference on Tu 23,"
     publishedDateTime: 2021-02-17T09:13:00Z

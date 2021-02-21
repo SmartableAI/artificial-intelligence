@@ -3,8 +3,8 @@ category: news
 title: "The AI research paper was real. The “co-author” wasn’t"
 excerpt: "The name Cox isn’t uncommon, so he figured there must be another David Cox doing AI research. “Then I opened up the PDF and saw my own picture looking back at me,” Cox says. “It was unbelievable.” It isn’t clear how prevalent this kind of academic fraud may be or why someone would list as a co-author someone not involved in the research."
 publishedDateTime: 2021-02-21T11:50:00Z
-originalUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/"
-webUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/"
+originalUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/?comments=1"
+webUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/?comments=1"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "sCxX9EZ3kCl/rbNvUYAZIS5hoTqxRRzfYROT6ESHV0+BDwVyy/tFtzQ6YdL0Jhg1yTAhUOlc+k9Kq6o0T2mtW9A0E8ft+KVdGQqGblP2PnjKbABAqww2ustqR+pczEK9BQahO6ZW+WNdwrRH7cB5AqEVPoERXOhPOixto5sp7Io4h1RJN8r9dZdrP81L3ShwG4EgIRszbf/vLwMK3CGRzeKF+AK94bxV+dUvp6x4AY6n3CZMYCql5KJgQvOaURfjO8/l8OGzb41BR8WlRCQ/akpNkAaFqMEqKz6f+eUVpD2yOAw6mR8qqir8bbcfO5BdX9mxYbTKVv2QF2NI2mULgejS0wYueiK4+8wD2Z+2DH02WurP7ynWYUnhFW/bwm5x8+P/IEuoH3zIFjKgYTkAKUqZdBnXTrDBc7kTQJub4hl5YZr2tn/KK3sSKCgvowpNnibdJGEdDs9VLJ59DCFtcK4dcExpb9yIcDxr+bfTONa5tkWL6LuysEkL8eciLfe1sQn8SBVe+TLnGPIxUGab+A==;gjTIU+uPDT/EpCTAbRQS3w=="
+secured: "XzMw4uqs9+vg2lr67twEeNy2e8iD7jXb5WHF5WaAkHZX4xfjElpb6bsL8qgaCCCBmnJJl5JuQooJUFoR5cWTRYRHdUKmBcI7NkUjCrmqsYstbcDjTSvplt7PzaS5zTGEGuwMU6LyRSxFbGgO5ZTpnWpDy7qLTn4BPiw34ZxfhpK54U+tBjsBm/G7+mMUnzaKeUwkYWDeespfVia3TIreU4v143DPIk1gSzbKVPti83YFUZL7n7rv2iiD6mcE2Bob5WGlDd1w8IU3ZiGR5DYisc8o0ZkxPSFAfB7AqOY/TsII5ac/SvSJeKDiZJt5mAZVw6rrqEdbkcxrAYodhb0ilwpAnbp8Hl0g2KD2/9kM3Jg=;hC/6wfhfF/T+DxpB++kRMw=="
 ---
 

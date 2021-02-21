@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Wearable Artificial Intelligence Ai Market 2020 Growth and Forecast Survey Till 2027 | By ARC"
+    excerpt: "The global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. The Wearable Artificial Intelligence Ai Market is highly competitive,"
+    publishedDateTime: 2021-02-20T05:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI in Fintech Market 2021 Key Players, Share, Trend, Segmentation and Forecast to 2027"
     excerpt: "New Study Reports \"AI in Fintech Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \" AI in Fintech Market \" using SWOT analysis i."
     publishedDateTime: 2021-02-17T21:08:00Z
@@ -41,78 +55,123 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Israeli Fintech Mirato, which Uses AI and Natural Language Processing for its Risk Management Solution, Secures $9M in Capital"
-    excerpt: "Israeli Fintech Mirato, which uses AI and natural language processing for its risk nanagement solution, secures $9M in capital."
-    publishedDateTime: 2021-02-17T13:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
+  - title: "Artificial intelligence (AI) robots Market Size, Share 2021, Impressive Industry Growth Report 2027"
+    excerpt: "Artificial intelligence AI robots market was valued at USD 2 84 Billion in 2017 and is expected to reach USD 12 36 Billion by 2027 at a CAGR of 28 High adoption of robots for personal use such as companionship"
+    publishedDateTime: 2021-02-17T10:23:00Z
+    webUrl: "https://www.openpr.com/news/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 48
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Azrieli-Center-Tel-Aviv-Israel-300x260.jpeg"
-        width: 300
-        height: 260
-        isCached: true
-  - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
-    excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"
-    publishedDateTime: 2021-02-18T03:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-2021-cagr-value-size-top-key-venders-market-segmentation-growth-factor-trends-types-to-2024-2021-02-18"
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
+  - title: "Artificial Intelligence (AI) Hardware Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast to 2027"
+    excerpt: "Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027.  Artificial intelligence (AI) has been one of the most appealing technology in recent years."
+    publishedDateTime: 2021-02-19T12:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-to-2027-2021-02-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "How This Delhi-Based Startup Uses AI To Streamline Legal Workflows Of Fintech Firms"
-    excerpt: "Delhi Alumni and lawyers Rishabh Goel, Anand Agrawal and Mayank Khera, Credgenics is a SaaS platform offering on-demand dispute resolution and mediation services."
-    publishedDateTime: 2021-02-21T04:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-delhi-based-startup-uses-ai-to-streamline-legal-workflows-of-fintech-firms/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Anand-Agrawal_Mayank-Khera_Rishabh-Goel.jpg"
-        width: 1600
-        height: 830
-        isCached: true
-  - title: "Facial Recognition Market Research Report 2020: Global Industry Analysis, Business Development, Size, Share, Trends, Future Growth, Forecast To 2025"
-    excerpt: "Countries such as India and Moscow Introduce Facial Recognition for Superlative Law Enforcement Outcome Besides"
-    publishedDateTime: 2021-02-17T19:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-2020-global-industry-analysis-business-development-size-share-trends-future-growth-forecast-to-2025-2021-02-16"
+  - title: "Self-Driving Car Market Trend and Forecast, 2020-2024 | By Kenneth Research"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
+    publishedDateTime: 2021-02-19T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2020-2024-by-kenneth-research-2021-02-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Payments to Participate in KBW Fintech Payments Conference"
-    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President & Chief Financial Officer,"
-    publishedDateTime: 2021-02-18T20:06:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=424517"
+  - title: "Natural Language Processing Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
+    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years,"
+    publishedDateTime: 2021-02-17T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2025-2021-02-17"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Facial Recognition Market Size, Share 2021 Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
+    excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
+    publishedDateTime: 2021-02-17T10:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-2021-trends-growth-drivers-demands-business-opportunities-and-demand-forecast-to-2025-2021-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2027"
+    excerpt: "The global Artificial Intelligence systems spending market is forecast to reach a market size of USD 767.60 Billion by 2028, and register a significantly high CAGR, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-02-18T16:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2027-2021-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
+    excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems,"
+    publishedDateTime: 2021-02-17T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025-2021-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Educational Robot Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Educational Robot Market size is expected to grow at an annual average of 15 3 during 2021 2027 Educational Robot Market Modernization has mandated the modern service market and has increased connectivity along with many other premium services"
+    publishedDateTime: 2021-02-17T11:27:00Z
+    webUrl: "https://www.openpr.com/news/2243933/educational-robot-market-global-industry-analysis-size"
+    ampWebUrl: "https://www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
+  - title: "Sales Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The global sales intelligence market size was valued at USD 2 29 billion in 2019 and is expected to grow at a CAGR of 10 5 from 2020 to 2027 Artificial intelligence AI has had a potential impact on the"
+    publishedDateTime: 2021-02-18T12:12:00Z
+    webUrl: "https://www.openpr.com/news/2244788/sales-intelligence-market-global-industry-analysis-size"
+    ampWebUrl: "https://www.openpr.com/amp/2244788/sales-intelligence-market-global-industry-analysis-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2244788/sales-intelligence-market-global-industry-analysis-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
   - title: "Global Facial Recognition Market 2021-2027 Trends, Research Report, Growth Trends, Opportunities, Forecast to 2027"
     excerpt: "The Global Facial Recognition Market size is expected to grow at an annual average of 16 3 during 2021 2027 Face recognition has recently attracted attention because it has advantages over conventional surveillance technologies such as biometrics Governments around the"
     publishedDateTime: 2021-02-19T13:02:00Z
@@ -124,6 +183,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market Opportunity Analysis, Trends, Overview and Forecast 2019-2027: Covid-19 Impact and Recovery"
+    excerpt: "The artificial intelligence AI in healthcare diagnosis market was valued at US 3 639 02million in 2019 and is projected to reach US 66 811 97 million by 2027 it is expected to grow at a CAGR of 44 0"
+    publishedDateTime: 2021-02-17T14:02:00Z
+    webUrl: "https://www.openpr.com/news/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
+    ampWebUrl: "https://www.openpr.com/amp/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
 
 secured: "2QhLDFJGofCy6P6FAt0S+M0qt573Bnch1pEJbyHD2dYpcJ5BtBcD4Pwqz/SvPgupxnDFUlhE39DIt2Or9Q+Ryi9MiopW+0yPcOlqRdjPIVii5BA9lwPJ3R+xSAWU3kc3OiSlwX7A7Wg1AQ8QxbhzdOp672tu52SjAzkAG9ozU6r1D+xyce+cnaDs2aTl/P8Y16LItgg86Ki+0i2KE9T/JUZIIxqOgWxlFvI0BNMQEbgQaRPnoe+U/rJ69ahve1BltVHZykoCSsWkhMYuUGQBe0jDTHVWgRZ9bztQJHKjpTC7IL7Ke4LpNdeUKrZM3A61BE9Z/m0KKcgLvjTRDhzzBm93Mc8q1Aq+DwvABYKvgKrJUGqwKYlcRVj4Sj4XMW7iyeAyHFMr6Df8CTljOXs3EhRyGwOBALBVFkURdEGBk4R1QRVEjxKJ8dS2jGroODdpoKwcngkHP2jMkWY8idnRMPxPJMqy1H0MROS66+5EYz4mcDf7pjCeA2UUMnCdWpQbIXPmAa9TYqOaiTnzRQ8Fxg==;CYEO272ip6Fn3gzgc2OWFA=="
 ---

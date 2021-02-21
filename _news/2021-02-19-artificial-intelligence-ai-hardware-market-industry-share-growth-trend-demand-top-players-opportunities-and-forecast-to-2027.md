@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-02-17T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Wearable Artificial Intelligence Ai Market 2020 Growth and Forecast Survey Till 2027 | By ARC"
     excerpt: "The global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. The Wearable Artificial Intelligence Ai Market is highly competitive,"
     publishedDateTime: 2021-02-20T05:29:00Z
@@ -56,15 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Size: Technological Advancement and Growth Analysis with Forecast to 2026"
-    excerpt: "Selbyville, Delaware, The Report 2021-2026 Global Artificial Intelligence (AI) in Construction Market Report Industry analyses the important factors of this market based on present industry situations,"
-    publishedDateTime: 2021-02-17T08:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-size-technological-advancement-and-growth-analysis-with-forecast-to-2026-2021-02-17?tesla=y"
+  - title: "Global AI in Fintech Market 2021 Key Players, Share, Trend, Segmentation and Forecast to 2027"
+    excerpt: "New Study Reports \"AI in Fintech Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \" AI in Fintech Market \" using SWOT analysis i."
+    publishedDateTime: 2021-02-17T21:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2021-key-players-share-trend-segmentation-and-forecast-to-2027-2021-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -81,48 +67,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 55
-  - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
-    publishedDateTime: 2021-02-19T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
-    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
-    publishedDateTime: 2021-02-19T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Enterprise AI Market Growth Analysis, Outlook ,Size, Share, Trends, Opportunities and Forecast to 2025"
-    excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
-    publishedDateTime: 2021-02-17T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-outlook-size-share-trends-opportunities-and-forecast-to-2025-2021-02-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving Car Market Trend and Forecast, 2020-2024 | By Kenneth Research"
     excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
     publishedDateTime: 2021-02-19T07:33:00Z
@@ -137,17 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Smart Robots Market (2020to 2026) - by Component, Mobility, Operating Environment, End-user and Region"
-    excerpt: "The global smart robots market size is expected to reach $25 billion by 2026, rising at a market growth of 27.2% CAGR during the forecast period. Smart robots are considered as artificial intelligence system that provides optimum management of an environment with the combined work of human operators and robots."
-    publishedDateTime: 2021-02-18T19:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "Natural Language Processing Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
     excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years,"
     publishedDateTime: 2021-02-17T07:52:00Z
@@ -161,6 +94,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Voice and Speech Recognition Market with Segmentation, Growth, Opportunities and Forecast 2021 to 2026"
+    excerpt: "Voice and Speech Recognition Market” The global voice and speech recognition market exhibited strong growth during 2015-2020. IMARC Group expects the global"
+    publishedDateTime: 2021-02-20T23:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19763182/voice-and-speech-recognition-market-with-segmentation-growth-opportunities-and-forecast-2021-to-2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19763182"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19763182"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.abnewswire.com/uploads/1613729476.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Facial Recognition Market Size, Share 2021 Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
     excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
@@ -226,6 +175,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
+  - title: "Global Facial Recognition Market 2021-2027 Trends, Research Report, Growth Trends, Opportunities, Forecast to 2027"
+    excerpt: "The Global Facial Recognition Market size is expected to grow at an annual average of 16 3 during 2021 2027 Face recognition has recently attracted attention because it has advantages over conventional surveillance technologies such as biometrics Governments around the"
+    publishedDateTime: 2021-02-19T13:02:00Z
+    webUrl: "https://www.openpr.com/news/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    ampWebUrl: "https://www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
   - title: "Artificial Intelligence in Healthcare Diagnosis Market Opportunity Analysis, Trends, Overview and Forecast 2019-2027: Covid-19 Impact and Recovery"
     excerpt: "The artificial intelligence AI in healthcare diagnosis market was valued at US 3 639 02million in 2019 and is projected to reach US 66 811 97 million by 2027 it is expected to grow at a CAGR of 44 0"
     publishedDateTime: 2021-02-17T14:02:00Z

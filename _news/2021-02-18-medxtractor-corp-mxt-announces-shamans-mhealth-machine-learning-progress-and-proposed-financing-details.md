@@ -7,7 +7,7 @@ originalUrl: "https://stockhouse.com/news/press-releases/2021/02/17/medxtractor-
 webUrl: "https://stockhouse.com/news/press-releases/2021/02/17/medxtractor-corp-mxt-announces-shaman-s-mhealth-machine-learning-progress-and"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Medxtractor Corp. (\"MXT\") updates the SHAMAN Psychedelics Artificial Intelligence Project"
-    excerpt: "Detailed price information for Medxtractor Corp. (MXT-CN) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2021-02-17T06:45:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MXT-CN/pressreleases/1069776/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 28
-    images:
-      - url: "https://www.theglobeandmail.com/resources/assets/meta/facebook-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VtVDthx7Om0DjD8bNSRrznER4S7w5/ImwSr9jKJ1IJx7KhxHUMZPw2yHzW86OrGPYCc4RYYmZGPwJnxBawmrqUckja9RlF3rq43a1oJQlzUTGVVCGszPfEWp58Gjlv5d7elRIUfK9CweYqzS2kD95HISYBp1Bnv+yuTeoMHmA5cT4UJfFq35zYnkI1rMYbKKmP92kMobRJV8JrYgELAZDI1/WEl8BhLXbh1Y+QGL1rum0TTOL1Ka3ZydxcWrjElStwaf1q66pGI4c5zW+XeAHrrHxf14hlO/aMWFcNcKZHCCQyPP34QrDXY09qxW0yVoatNN+jsq2d9p+iNUkTgzQO+UBWXFFQyoTqDyMJznook=;63+5ygGGkFi7iUiuMjZ3nA=="
 ---

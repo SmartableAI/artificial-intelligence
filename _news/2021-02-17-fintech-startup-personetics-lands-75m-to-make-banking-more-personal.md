@@ -20,6 +20,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Fintech Startup Earnix Raises $75M At Valuation of $1.5B"
+    excerpt: "Earnix is a global provider of advanced AI-powered rating, pricing, and product personalization solutions for insurance and banking."
+    publishedDateTime: 2021-02-21T22:41:00Z
+    webUrl: "https://nocamels.com/2021/02/fintech-startup-earnix-raises-75m-at-valuation-of-1-5b/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 19
+
 secured: "kNHteiLHrcWcRbz0p4fdg5tsPLewj5lscYdcNKSFPR1vZVtvpC/C4QNk+OHbdvjYpiQ/8EsJY1DTmZk8PtYHSrQayrPFqUIw0tunNj8oWm253x/eHgIGOt8q2eVSHXDo2EOu0EI5TDvg/sRT+9/lhahJwV17uyM0DMuw2QwkhZLDCNzIKbF32HtOyppsh9JxUuz/YXIl+jNGmQjpH+RI4nJUqs+6Aely1pNnHKKfNr/QPijcbqZRncGCcZKR3cJcsiPR+iauwTfJsGVbng43GYsYMNIiGJmPZx0PBGthzPkiSqx5xVkSq57DFbz7e6nnBPhiNQg5TfU6MGtrT5O8MaEF/jtUh0jdVmCYHUn9Oo0aHgP1kYUkR/6rRlwVsFG127mybPBegzuORHuo/3ZYmo3ZisLir63vAHwZ2Px2TqFn8FX5L3O2YNi8b1pzDUQe4WE3sBWd4mWrNocIgAa7fj6RndMSakztLcuY5g6AYAxP7TWo6QFlRk+A0AqDUwZjcxK277ZHDC60Acml5kBkFA==;uN58uzyuoefUA6kEow0r8A=="
 ---
 

@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost"
-    excerpt: "Sunlight, a developer of virtualization technology for data-intensive applications, today announced NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint."
-    publishedDateTime: 2021-02-17T05:31:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-england-cloud-computing-ee0646c71c994d49a993b5bf2c603600"
+  - title: "GIGABYTE G262-ZR0 With NVIDIA HGX A100 4-GPU Released"
+    excerpt: "GIGABYTE released a new sever for HPC, AI, and data analytics, that supports NVIDIA HGX as well as NVIDIA NVLink the GIGABYTE G262-ZR0."
+    publishedDateTime: 2021-02-19T17:12:00Z
+    webUrl: "https://www.storagereview.com/news/gigabyte-g262-zr0-with-nvidia-hgx-a100-4-gpu-released"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
+      name: StorageReview
+      domain: storagereview.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/02/StorageReview-GIGABYTE-G262-ZR0.jpg"
+        width: 800
+        height: 349
         isCached: true
 
 secured: "BhBnzkfUgG9spS3Pcp2ZtD5TYmDoc5iQrjTVYUsZbGGpcaHmQuaOjaUZxUyLW0svwRjixOTX1StHDXpAxg9lx4PhxM4laUkf1xZ5kFBFTyVPGmb/oJAyzsWZx8EAO2xWm71Y9q/Am1UtvtjZmaQfkMKaZaUSV2PYL1G7Fr+m9Qezt7DMd9LxFIdUaeQ/EEceV0Jhjndk/scq17GsrGvEfnd2LMMuduoBgcQchnjOPMCYkiX5kQpmjNvIhOJjO6IpRodFxcWOcfdugOpxo/ar4hAXtgLrHyhQ0y44HNWD6R8tRqf/4KUWYv2NTFzdwIyzPS+ykzKPJ4ds533IFm7O7ZotCCjCU8gKN6ODPIgC1+0=;4b8OGF61Wt5iuwE8ntqhQA=="

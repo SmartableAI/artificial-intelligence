@@ -25,105 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in Fintech Market 2021 Key Players, Share, Trend, Segmentation and Forecast to 2027"
-    excerpt: "New Study Reports \"AI in Fintech Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \" AI in Fintech Market \" using SWOT analysis i."
-    publishedDateTime: 2021-02-17T21:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2021-key-players-share-trend-segmentation-and-forecast-to-2027-2021-02-17"
+  - title: "FinTech Mogo Enters US Digital Payments Via Carta Subsidiary"
+    excerpt: "Digital payments and FinTech company Mogo announced its subsidiary, Carta Worldwide, will be expanding into the U.S. Carta plans to introduce new card products."
+    publishedDateTime: 2021-02-19T04:50:00Z
+    webUrl: "https://www.pymnts.com/digital-payments/2021/fintech-mogo-enters-united-states-digital-payments-via-carta-subsidiary/"
+    ampWebUrl: "https://www.pymnts.com/digital-payments/2021/fintech-mogo-enters-united-states-digital-payments-via-carta-subsidiary/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-payments/2021/fintech-mogo-enters-united-states-digital-payments-via-carta-subsidiary/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2018/11/PYMNTS-Study-Feb-2021-1.jpg"
+        width: 1000
+        height: 392
         isCached: true
-  - title: "Israeli Fintech Mirato, which Uses AI and Natural Language Processing for its Risk Management Solution, Secures $9M in Capital"
-    excerpt: "Israeli Fintech Mirato, which uses AI and natural language processing for its risk nanagement solution, secures $9M in capital."
-    publishedDateTime: 2021-02-17T13:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
+  - title: "Western Union to Present at the KBW Fintech Payments Conference on February 23rd"
+    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the KBW Fintech Payments Conference on Tu 23,"
+    publishedDateTime: 2021-02-17T09:13:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=423114"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 48
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 19
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Azrieli-Center-Tel-Aviv-Israel-300x260.jpeg"
-        width: 300
-        height: 260
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
-  - title: "Voice and Speech Recognition Market with Segmentation, Growth, Opportunities and Forecast 2021 to 2026"
-    excerpt: "Voice and Speech Recognition Market” The global voice and speech recognition market exhibited strong growth during 2015-2020. IMARC Group expects the global"
-    publishedDateTime: 2021-02-20T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19763182/voice-and-speech-recognition-market-with-segmentation-growth-opportunities-and-forecast-2021-to-2"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19763182"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19763182"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://www.abnewswire.com/uploads/1613729476.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
-    excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"
-    publishedDateTime: 2021-02-18T03:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-2021-cagr-value-size-top-key-venders-market-segmentation-growth-factor-trends-types-to-2024-2021-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How This Delhi-Based Startup Uses AI To Streamline Legal Workflows Of Fintech Firms"
-    excerpt: "Delhi Alumni and lawyers Rishabh Goel, Anand Agrawal and Mayank Khera, Credgenics is a SaaS platform offering on-demand dispute resolution and mediation services."
-    publishedDateTime: 2021-02-21T04:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-delhi-based-startup-uses-ai-to-streamline-legal-workflows-of-fintech-firms/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/Anand-Agrawal_Mayank-Khera_Rishabh-Goel.jpg"
-        width: 1600
-        height: 830
-        isCached: true
-  - title: "Facial Recognition Market Research Report 2020: Global Industry Analysis, Business Development, Size, Share, Trends, Future Growth, Forecast To 2025"
-    excerpt: "Countries such as India and Moscow Introduce Facial Recognition for Superlative Law Enforcement Outcome Besides"
-    publishedDateTime: 2021-02-17T19:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-2020-global-industry-analysis-business-development-size-share-trends-future-growth-forecast-to-2025-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Facial Recognition Market 2021-2027 Trends, Research Report, Growth Trends, Opportunities, Forecast to 2027"
-    excerpt: "The Global Facial Recognition Market size is expected to grow at an annual average of 16 3 during 2021 2027 Face recognition has recently attracted attention because it has advantages over conventional surveillance technologies such as biometrics Governments around the"
-    publishedDateTime: 2021-02-19T13:02:00Z
-    webUrl: "https://www.openpr.com/news/2245607/global-facial-recognition-market-2021-2027-trends-research"
-    ampWebUrl: "https://www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
 
 secured: "kabT2fpSfiMB4/k0QcunIpJdlcZTJYegY9BD6c2AdQZARhhR4uBXEtQaDmSvKMwQYPrLTM3m/HsXqtFM9Q894hyKC+s5bq/GV01jS5+iFDGsepx7kRDoIkEFgE5ZrC2vdo9BknBZ1qvJY/XtJerhjmWcMcuTcBo6bC3YQm1rCZ3rvBf020/+zxhDsaWopjO3b/TUzvHBZnHrHCDjSF4uVKcLPkrahAuGvALFJQxgyx0cYafOXExx56O95nIZoROaP8KD79MzTUfEzVtRR5Z6Gkk7+kawle0do95NETs0P5lezuzrtzUkW/d5gjSaIteEyZUBU+qxBgSZkc+6lvSA5x5skM4aYokml0kIJckucf0=;l2k+BHvWR7jteHrB6FUh+g=="
 ---

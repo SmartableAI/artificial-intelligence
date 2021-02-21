@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market Size: Technological Advancement and Growth Analysis with Forecast to 2026"
+    excerpt: "Selbyville, Delaware, The Report 2021-2026 Global Artificial Intelligence (AI) in Construction Market Report Industry analyses the important factors of this market based on present industry situations,"
+    publishedDateTime: 2021-02-17T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-size-technological-advancement-and-growth-analysis-with-forecast-to-2026-2021-02-17?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
+    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
+    publishedDateTime: 2021-02-19T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ehApExUsxQeBZOR89gMPwYfCj5htsNLZNwXxfKUrIR9XaFqfrSb/d34C1tCssWcz430lwBAlemgBwk/n9zfSLulR9hh33RX2tXWaz6wXe1qw8VweuxbKc3+Wa25xi4rmK7qebAZuSyAa5UajFYhy9B78azUoKTCijKvdZqVzexGo5MuCxkefiFsl4ANP95SdhQB9ZWC8CaRRoFS5YL5apJ9hEgLGVE1KOSoZMP0IFbwUHL8K5Pkx+/3vjZqTf/SoHq7Wtn+se3L8k1hJiFR9Y81nQ0j/VY0DN85gk/BQ1v+bJ+54OypME5AnsJL+W2TaM5fQrUxeElba4Ih2D/sjeJBaKk3SzIA7p35bly/RaXw=;tSPsB3tICfkktASMcyFe6w=="
 ---
