@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Google reshuffles AI team leadership after researcher's controversial departure"
-excerpt: "By Rachel Metz, CNN Business Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black"
-publishedDateTime: 2021-02-19T06:39:00Z
-originalUrl: "https://www.kitv.com/story/43374829/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure"
-webUrl: "https://www.kitv.com/story/43374829/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure"
+title: "Google reshuffles AI team leadership after researcher’s controversial departure"
+excerpt: "Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black artificial intelligence researcher Timnit Gebru rattled the company."
+publishedDateTime: 2021-02-18T22:18:00Z
+originalUrl: "https://localnews8.com/money/2021/02/18/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure/"
+webUrl: "https://localnews8.com/money/2021/02/18/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure/"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: KITV
-  domain: kitv.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://CNNWIRE.images.worldnow.com/images/20398371_G.jpg?lastEditedDate=1613669157000"
+  - url: "https://localnews8.b-cdn.net/2021/02/hypatia-h_a2bdb3e67b0c07fec9cb18fcda301e5b-h_83217445954976654cb586409dc3df89_preview.jpg"
     width: 500
     height: 333
     isCached: true
@@ -74,7 +74,7 @@ related:
   - title: "Google fires second AI ethics leader as dispute over research, diversity grows"
     excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
     publishedDateTime: 2021-02-20T01:26:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSKBN2AJ2JA?edition-redirect=in"
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows-idUSKBN2AJ2JA?edition-redirect=ca"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
     type: article
@@ -86,6 +86,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552220296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I1HR"
         width: 816
         height: 545
+        isCached: true
+  - title: "A Second AI Researcher Says She Was Fired by Google"
+    excerpt: "Margaret Mitchell was the co-leader of a group investigating ethics in AI, alongside Timnit Gebru, who said she was fired in December."
+    publishedDateTime: 2021-02-19T19:21:00Z
+    webUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/"
+    ampWebUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/second-ai-researcher-says-fired-google/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/6030536c0919989b69556d86/master/pass/business_google_1230444305.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
     excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
@@ -266,6 +282,6 @@ related:
         height: 576
         isCached: true
 
-secured: "WIgSui0H6gMz95dxXSeN2/laqKrQslFzNea4XsrkbopXpoMDhecsY8EIC77/9kBkxoc2QHj+D6eW3TXR1KKcEha93ErKYn2ljK/5uumfTVL7IjXz0hj4KzV51cnEgS5NJUG+4tBZKa7PMKb7YIbsuSkUzslWtztKRdXbUDC3uyAgQKcgGSOiKiC/R7zDuaW+xtk2BKtLYduDuSxi9YqGkiAi6fCsc5fIVg6PMAZMvUxj8TFoG11GokrlbRnuGEQjYFjAIUGtsdDAl3sIPK+Jt7ASJGxksplSfmuEnrU9qtFKO6M4FwoBO9pIidaBu2FCgcfwC454vZTxX1MerRazmDdoRpCQLm8o7YwZ6lW9Dv1gHBqGmyGgwGNTR98v6E5LccsFT2vOtG8SsW3Iddd1DERbqvp4vI5gsgw3PXO5odpe4TA4BTanVB63Wpbdg3QGmpS5QX7Cs5FbsdGul9f4tfYancdO+1Ty8D1W8DbviWzORBtldP/6KDrpvZkgr3Lefc8gfkim7rnlTimawZZ/2Q==;lJWqT56514XlKb/Z29Mo3Q=="
+secured: "QIHEllZPN1Bj3t/KRcql16ZQVX0kgaUV4LwyhXk+AV1OJTDrxPHZLpUvgqoqm0Eaj79/l2xiGQNT396Ux01R2ki9ih8hjFhvsC7/FBXs8YmXKZ324xtr8fj5kACcBzmwK1yMGdUDj9fQk0mL2VxszNS/OfQrrkNtwaG6KhTAmH2dqI1zllfcWIE6uGg9A0cT84IsVineNJQw1bQgWB6ZyFhpSJHppjmHLbLdP7k2/Up1SjXC2D4znwwohYSdtTa1befydbtT5Qi7+FPLNzSq2sZ9HlVFw/Nr0eWHGe2jOlkw6fYlAyXbJY3Sq8SX6b6pXHa3Vaj58j7usbjoS7g438Bn51yQMLme61HGhBzg9Fk=;ZIiC8MCsYpN9gEfmDQ9G0w=="
 ---
 

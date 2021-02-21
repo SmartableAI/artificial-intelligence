@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Google fires second AI ethics researcher"
-excerpt: "Google has fired another artificial intelligence (AI) ethics leader Margaret Mitchell who was the the co-lead of its Ethical AI team, following an investigation into her use of corporate email. According to a report in Axios,"
-publishedDateTime: 2021-02-20T04:33:00Z
-originalUrl: "https://www.imdb.com/news/ni63201868/"
-webUrl: "https://www.imdb.com/news/ni63201868/"
+title: "A Second AI Researcher Says She Was Fired by Google"
+excerpt: "Margaret Mitchell was the co-leader of a group investigating ethics in AI, alongside Timnit Gebru, who said she was fired in December."
+publishedDateTime: 2021-02-19T19:21:00Z
+originalUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/"
+webUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/"
+ampWebUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/second-ai-researcher-says-fired-google/amp"
 type: article
-quality: 54
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: IMDb
-  domain: imdb.com
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-    width: 1000
-    height: 1000
+  - url: "https://media.wired.com/photos/6030536c0919989b69556d86/master/pass/business_google_1230444305.jpg"
+    width: 2400
+    height: 1600
     isCached: true
 
 related:
@@ -86,22 +91,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552220296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I1HR"
         width: 816
         height: 545
-        isCached: true
-  - title: "A Second AI Researcher Says She Was Fired by Google"
-    excerpt: "Margaret Mitchell was the co-leader of a group investigating ethics in AI, alongside Timnit Gebru, who said she was fired in December."
-    publishedDateTime: 2021-02-19T19:21:00Z
-    webUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/"
-    ampWebUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/second-ai-researcher-says-fired-google/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/6030536c0919989b69556d86/master/pass/business_google_1230444305.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
     excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
@@ -223,6 +212,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Google fires second AI ethics researcher"
+    excerpt: "Google has fired another artificial intelligence (AI) ethics leader Margaret Mitchell who was the the co-lead of its Ethical AI team, following an investigation into her use of corporate email. According to a report in Axios,"
+    publishedDateTime: 2021-02-20T04:33:00Z
+    webUrl: "https://www.imdb.com/news/ni63201868/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 54
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "Google Artificial Intelligence Chief Apologises For Firing Black Woman Employee"
     excerpt: "Google will start grading executives based on workforce diversity goals and increase human resources staffing, acknowledging fault in its acrimonious split with Timnit Gebru, a prominent former employee and one of the few Black women in the field of artificial intelligence."
     publishedDateTime: 2021-02-20T04:02:00Z
@@ -282,6 +285,6 @@ related:
         height: 576
         isCached: true
 
-secured: "y2Cw0SR8Raer6zO2zQ2jIP6srta/HAdDXTucGmnKU2YGvd9o0ku3sZ2zUjwIKGCAoXy9/lkR+8CeepVqidn8rfQMRRWEQdhofhFy24RaqlnWZvPHsGSqGcvQQYf4klZujN65T3JgEH2JHI2+RlD4W9YauDvzzWZLBdC38djdpKk90cEewmnGF6Tfirnmv82+6EbDwzp/ltMkydQLRd+CF7H8r0lR9fNHFhFIQ8OSfcwsBIvOEKgWGfhf5aWR2UzaYnMTz3+Deit041xBWv1rnXXMGE3Z/2ZEyANQ4h45lO5HH0l37ukPK/vr3NJ4uHsYwwxWnpSd04MXxhBq2GXszYbxwRBfig/H22r/GmYHGos+49cMxQS7eW6MPvf5dl/A6c8aJVscz8ObdabMBFj/S7BjU9yHvBFqbnWfTRShp29KyzYC9IR5sEF0+Dk0tFoGaeux77fYtSD6hecRfmWGSjYAC0Qc/wYRppAPrshU89Il2N9oC4v7HNc6VF8pSX2ZeY130W/dn466z1m97OaZQA==;VGgBLcSKk8bNG4Xh12vdXQ=="
+secured: "4pXBOW6pU207mipm0f+B5hOHHSl5l9I6PG/CAhGoKFYaGoo6TRzdxbMyngEAx2ExVfQKp9uPasC0zPJbeJ4zSiJk/W6Hcim2ucxMio8wuPUpKyA+pPwgDgD/ORZA8SkMcpQ392W5k5hcwm/Gj4XfJq7GiHgbfPZPI0foFwX2Uw1eXz7jxT/SLGrZV6zCkZ7TT1qzV6KUBtPY8DrO8Q/iPjTEDigoFRO9ktuSjN8dLYMAp7748xfFUfy31InAMepkgatHHirzi+/SnyB1yQ7gT2yXjn2TnszjCXc/t7f7QuBwmL93S/WS1SESm5MZxl2jGwDeNcxdAVxG+zokYOOLP4RIaQtgm2wyWWs2pcEYDQU=;kiNlDOzZhIFsUPjQgwCNPw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-england-cloud-computing-ee0646c71c994d49a993b5bf2c603600"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA GPU now supports Sunlight NexVisor, moving AI to the edge"
-    excerpt: "Sunlight announced NVIDIA GPU support for Sunlight NexVisor, providing near bare-metal performance with a compact footprint."
-    publishedDateTime: 2021-02-17T01:16:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/17/sunlight-nvidia-gpu/"
+  - title: "GIGABYTE Releases 2U Server: G262-ZR0 with NVIDIA HGX A100 4-GPU"
+    excerpt: "GIGABYTE Technology, (TWSE: 2376), maker of high-performance servers and workstations, today announced the G262-ZR0 for HPC, AI, and data analytics. Designed to support high-level of performance in GPU computing,"
+    publishedDateTime: 2021-02-19T14:27:00Z
+    webUrl: "https://insidehpc.com/2021/02/gigabyte-releases-2u-server-g262-zr0-with-nvidia-hgx-a100-4-gpu/"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 54
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "QC4lnMGi22BYEelYrBnlB4nKvmAGKLOVnK0CIEzAeLr9IN1YwLMUtErzZtFRGZr2lejMReqxXgfwQf5GMoygaNYwv426lIwphg6U6264vSAY1k8kAcgjs7+IG8DOQ14r7fl3OoTvl+82oRSbeyIYU11Fr3XKNwxc4v0PxZdDeH+CEnShgyUNeWQPTbVDZqi/h/U7k2W/JBx5XfJ7jg1fvsy52GUMeQ4D9xGRQ3CapxbK+ECWGKT9rPHOWgbsJxHcdlUOhZhbhBlZdC1pXiBbcAmUeW82GAlh0cMTKFIHCKg0NNmyKqkkWpiL9eDra5WeLTnYnF1nuZqudk/skYgB4boWD6qX6IHxVCdJYxEg3U4=;tPPTbDBZqaomXddGonUZ2w=="
 ---

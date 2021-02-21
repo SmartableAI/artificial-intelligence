@@ -3,8 +3,8 @@ category: news
 title: "Google fires second AI ethics leader as dispute over research, diversity grows"
 excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
 publishedDateTime: 2021-02-20T01:26:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSKBN2AJ2JA?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/us-alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSKBN2AJ2JA?edition-redirect=in"
+originalUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows-idUSKBN2AJ2JA?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows-idUSKBN2AJ2JA?edition-redirect=ca"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
 type: article
@@ -76,6 +76,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/qor3uucrnhamtzuoqiyn.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "A Second AI Researcher Says She Was Fired by Google"
+    excerpt: "Margaret Mitchell was the co-leader of a group investigating ethics in AI, alongside Timnit Gebru, who said she was fired in December."
+    publishedDateTime: 2021-02-19T19:21:00Z
+    webUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/"
+    ampWebUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/second-ai-researcher-says-fired-google/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/6030536c0919989b69556d86/master/pass/business_google_1230444305.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
     excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
@@ -241,17 +257,17 @@ related:
         width: 800
         height: 514
         isCached: true
-  - title: "Google reshuffles AI team leadership after researcher's controversial departure"
-    excerpt: "By Rachel Metz, CNN Business Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black"
-    publishedDateTime: 2021-02-19T06:39:00Z
-    webUrl: "https://www.kitv.com/story/43374829/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure"
+  - title: "Google reshuffles AI team leadership after researcher’s controversial departure"
+    excerpt: "Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black artificial intelligence researcher Timnit Gebru rattled the company."
+    publishedDateTime: 2021-02-18T22:18:00Z
+    webUrl: "https://localnews8.com/money/2021/02/18/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure/"
     type: article
     provider:
-      name: KITV
-      domain: kitv.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 35
     images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/20398371_G.jpg?lastEditedDate=1613669157000"
+      - url: "https://localnews8.b-cdn.net/2021/02/hypatia-h_a2bdb3e67b0c07fec9cb18fcda301e5b-h_83217445954976654cb586409dc3df89_preview.jpg"
         width: 500
         height: 333
         isCached: true
@@ -270,6 +286,6 @@ related:
         height: 576
         isCached: true
 
-secured: "PzKXjORecuTqL1h9nT8sYPNV7WHxHRXO4sK2BYtXPerx+xKInvffx0E5GL92aAfkrTT0gBi3SMzsaATVSAMNmgvWHw4PqRgHv9iaqRCuYT2CHAmjMITx+0Br27YM/Fp4EaTfOH+80tarrbB9//o/1HWZ790ltC3sDXG16s77sXtBHYEX3szHRweWwSn0jDV0mDgrrhWGdC21VA5d0CTgIuHbStejrzuaMRwMK2dtLGu4Z+4JEXWf+EmnfqMzBPRxfoYyTgvFr2j7da9jRnf6Vn/RKzPdBnTllI+rQZVV2A8htHJoT7QETeGKRR+WIPw+AbLwx7gsFfztNmgQXdPkZmGhBhVuMF2CRDqiM0qdMPs=;FzUl5rwyZyUghOs/MMQtIQ=="
+secured: "004PL/KjoWz0oI0psVouLmukv65CD5+zsZHgvuHPt1sZRtbIhPQvBZZGGdqCrzQj7QBptEF6ITuJ+GaIQz/5HwaD+uu0wxt40yotZHVPFKmjfPqdi3oBO6supak16qvySi0DrrzgIDtytOe5CxgSueE5k0LN3NFvg/WMs/sqj3vWY42NGwyJO79ri0QLzvl/hzL2PssMZ3rd7Ed1CsfF0na60gaoRK0+vApVNwSqQflwf8OpoqlNQaYzeCZpW5phgatHRn0YRMq3WERZllSf2mgbV4eXCDME6SQcKdZ5TFEv8AsLfe+/QyWtgL/NS9bBGbC2HWpVXCABsE9htiWEn1QvifcmmowI+w+Ih+cn/3I=;wjFgI4Vi2wYBgfKU3Coq7g=="
 ---
 

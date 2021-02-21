@@ -74,7 +74,7 @@ related:
   - title: "Google fires second AI ethics leader as dispute over research, diversity grows"
     excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
     publishedDateTime: 2021-02-20T01:26:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSKBN2AJ2JA?edition-redirect=in"
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows-idUSKBN2AJ2JA?edition-redirect=ca"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
     type: article
@@ -86,6 +86,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552220296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I1HR"
         width: 816
         height: 545
+        isCached: true
+  - title: "A Second AI Researcher Says She Was Fired by Google"
+    excerpt: "Margaret Mitchell was the co-leader of a group investigating ethics in AI, alongside Timnit Gebru, who said she was fired in December."
+    publishedDateTime: 2021-02-19T19:21:00Z
+    webUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/"
+    ampWebUrl: "https://www.wired.com/story/second-ai-researcher-says-fired-google/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/second-ai-researcher-says-fired-google/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/6030536c0919989b69556d86/master/pass/business_google_1230444305.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Google to centralise AI ethics team amid anger over researcher’s exit"
     excerpt: "Google will restructure its responsible artificial intelligence (AI) efforts to centralise teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilise groups working on ethics research and products after months of chaos."
@@ -251,17 +267,17 @@ related:
         width: 800
         height: 514
         isCached: true
-  - title: "Google reshuffles AI team leadership after researcher's controversial departure"
-    excerpt: "By Rachel Metz, CNN Business Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black"
-    publishedDateTime: 2021-02-19T06:39:00Z
-    webUrl: "https://www.kitv.com/story/43374829/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure"
+  - title: "Google reshuffles AI team leadership after researcher’s controversial departure"
+    excerpt: "Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black artificial intelligence researcher Timnit Gebru rattled the company."
+    publishedDateTime: 2021-02-18T22:18:00Z
+    webUrl: "https://localnews8.com/money/2021/02/18/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure/"
     type: article
     provider:
-      name: KITV
-      domain: kitv.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 35
     images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/20398371_G.jpg?lastEditedDate=1613669157000"
+      - url: "https://localnews8.b-cdn.net/2021/02/hypatia-h_a2bdb3e67b0c07fec9cb18fcda301e5b-h_83217445954976654cb586409dc3df89_preview.jpg"
         width: 500
         height: 333
         isCached: true
