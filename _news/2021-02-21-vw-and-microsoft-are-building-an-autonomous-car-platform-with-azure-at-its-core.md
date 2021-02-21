@@ -70,20 +70,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 66
-  - title: "Microsoft Azure Goes To Space via HPE Partnership"
-    excerpt: "A partnership with Hewlett Packard Enterprise (HPE) will bring Microsoft Azure to the International Space Station (ISS) by way of HPE's Spaceborne Computer-2."
-    publishedDateTime: 2021-02-16T19:12:00Z
-    webUrl: "https://rcpmag.com/articles/2021/02/12/microsoft-azure-hpe-partnership.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 54
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1SilverGlobeCloud.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Azure and the Trends That Will Drive its Future"
     excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
     publishedDateTime: 2021-02-19T07:19:00Z

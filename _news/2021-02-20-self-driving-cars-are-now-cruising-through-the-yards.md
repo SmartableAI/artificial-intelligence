@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Cars Are Now Cruising Through The Yards"
 excerpt: "Self-driving cars from Optimus Ride are now navigating DC’s waterfront, available for pick-ups in the Yards with access to Barracks Row and Capitol Hill. Rides are currently limited to a select group of tenants in waterfront apartment buildings,"
 publishedDateTime: 2021-02-19T17:37:00Z
-originalUrl: "https://www.washingtonian.com/2021/02/19/self-driving-cars-are-now-cruising-through-the-yards/"
-webUrl: "https://www.washingtonian.com/2021/02/19/self-driving-cars-are-now-cruising-through-the-yards/"
+originalUrl: "https://www.washingtonian.com/?p=1442590"
+webUrl: "https://www.washingtonian.com/?p=1442590"
 type: article
 quality: 24
 heat: -1
@@ -230,6 +230,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PR6fh7IrQ4WyOp07GcBYwcj+OeuHjTGtWvZ1b9UdWnbDHoC3jmbebRxXpIV+AJACChxD1OmVGbjr+TNjORWAlY+hJlc0oIb0Pm5MYYit5wyKscuzDseZjfQL7hombNNVopHjkpv/fCiPiFlq66Fhtf3FH0RDIIFyvebjqOjYxtFJacv0NsFhAL28ETp6cYxp1OGRswYBleo8INJilFweI7+UkI0titTCguo5RgbUYzP98cSmKZNNF9i4ZvwFqcIBg8GeVh+3/yUNQsT//37gGf7kpk0xwuoC8MVxh4Mxqi2WTrCEw5gt79F9lSrqBZ60ekwLL4zM/sq0ARGV1meOKxJh+twhzZ2k443+r80tEy/DgD7NsoU8qmjBpYC5BTKK8ViFuRkdxyghaMNvpJjBhKYHzSsk2vrK8qmcXZnrN+nta70uWNymtHMGcmMxVt6iRlVJkn35hr+j68CTm2UaSdNNP+Apqo1J+nmaaqMftJtzA+dwIycbf0DqA1ZBf9cx9WbcETqcLCjuIa6rFlpsZw==;FnmxOfR/uG/Ux4LIsN0UaQ=="
+secured: "jHGPckH6pTBZpYWNLf5sSCfOI/U9naiXAdkyu4cdvJa9LxX64RN5ha4WQNlT9EusPZLp8nF5Wsfylm/ZFwtyD4A8J9PnNWP0uH9XcLVdvN1GqglblICWV6TixrP+pj1NGVECSJ73Mpp8Wju3yY8gzNC4Kci8R7yzkkrvQs5Ee2ekQbsM5HVrZpGmxR+3uqQnDAnC4dXPwU2WUyJlHgMLJnS3xAG8zRq3CiiqNk/XYUGFRuzEnWWldWbnasG4A44pYYaM4SEyC2JUlZsQYFEu3S9+vBkFZXJKSgCzC3db2UXhcYU0+RRy+LXquJr+hr/uga66hCx6+ezYuSkTTdLRlN5ASQMmA1THaxzqbU+IM7c=;QBWQom93r9NccC+NU8UoBw=="
 ---
 

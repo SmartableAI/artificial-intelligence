@@ -451,7 +451,7 @@
       "originalUrl": "https://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/85492-the-most-anticipated-books-of-spring-2021.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -482,6 +482,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-ai-startup-founders-reveal-the-artificial-intelligence-trends-for-2021.md",
+      "title": "AI startup founders reveal the artificial intelligence trends for 2021",
+      "excerpt": "From AI's increased use across industry to the challenge of data, 16 AI startup founders reveal the artificial intelligence trends for 2021",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/ai-startup-founders-reveal-the-artificial-intelligence-trends-for-2021-123493833/",
+      "originalUrl": "https://www.information-age.com/ai-startup-founders-reveal-the-artificial-intelligence-trends-for-2021-123493833/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/02/ai-startup-founders-reveal-the-wider-industry-trends-developing-in-ai.jpeg",
+          "width": 1080,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -637,6 +680,58 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing.md",
+      "title": "How the open source Ray project delivers \"the infinite laptop\" for distributed computing",
+      "excerpt": "Commentary: Developers struggle to build distributed applications that stitch together MapReduce, TensorFlow, and more. The Ray project just might make developers' lives easier. There's something about Berkeley. Maybe it's the nuclear-free zone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2018/05/29/7abaab65-287f-49e0-ad7c-09d24f829f1d/resize/1200x/a591ffcb61b67b73db4e53cc99f07737/bigdata.jpg",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/",
+      "publishedDateTime": "2021-02-17T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1135,100 +1230,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-ai-hypervisor-gets-a-gpu-boost.md",
-      "title": "AI Hypervisor Gets a GPU Boost",
-      "excerpt": "Sunlight, the U.K.-based specialist in virtualizing data-intensive applications, announced Nvidia GPU support for its “lightweight” hypervisor designed to",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/",
-      "originalUrl": "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/data_pipeline_shutterstock_posteriori.jpg",
-          "width": 1000,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds.md",
-      "title": "AI can persuade people to make ethically questionable decisions, study finds",
-      "excerpt": "From TikTok to Instagram, Facebook to YouTube, and more, learn how data is key to ensuring ad creative will actually perform on every platform. AI shapes people’s lives on a daily basis.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/amp/",
-      "publishedDateTime": "2021-02-16T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

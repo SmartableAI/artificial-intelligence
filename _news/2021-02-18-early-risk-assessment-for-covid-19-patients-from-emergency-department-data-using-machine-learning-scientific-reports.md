@@ -67,6 +67,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Sheba Tests Israeli Startup’s Respiratory Treatment On COVID-19 Patients"
+    excerpt: "Inspira's Augmented Respiration Technology (ART) will be tested in the intensive care unit (ICU) of Sheba's Department of Cardiac Surgery."
+    publishedDateTime: 2021-02-21T11:07:00Z
+    webUrl: "https://nocamels.com/2021/02/sheba-medical-center-inspira-technologies-covid-19-patients-respiratory/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 1
   - title: "Hospitals use virtual rehabilitation kits provided by company Evolv to treat patients at home during COVID-19 pandemic"
     excerpt: "Medical device company Evolv, with the support of Microsoft and hardware manufacturer ZOTAC, has donated its virtual rehabilitation technology to three leading hospitals"
     publishedDateTime: 2021-02-17T14:09:00Z

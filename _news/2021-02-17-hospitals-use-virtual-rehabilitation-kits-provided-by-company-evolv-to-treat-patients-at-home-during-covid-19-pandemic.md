@@ -81,6 +81,15 @@ related:
         width: 632
         height: 685
         isCached: true
+  - title: "Sheba Tests Israeli Startup’s Respiratory Treatment On COVID-19 Patients"
+    excerpt: "Inspira's Augmented Respiration Technology (ART) will be tested in the intensive care unit (ICU) of Sheba's Department of Cardiac Surgery."
+    publishedDateTime: 2021-02-21T11:07:00Z
+    webUrl: "https://nocamels.com/2021/02/sheba-medical-center-inspira-technologies-covid-19-patients-respiratory/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 1
 
 secured: "RfaK4gscVWW0ZKdnPW1iKDcv5AtRNDVguCWHa3fTr522ETJrbHiPWVNYfcc5jNyyMPoMMNO/wZyoyCTu0LXG0TEsfGQEyO28hD6UusbVyzU1/u73v25G0nlKKJkAaMLzXqshTm5UHYOotdoHmapJeVfFdEP4P8W1T/xM7eTI8yvhyy626d5Nmte04xodQ+5obU+CxH6BVUrHK/S2IXeQ2pNKoad/q6hYMDax16fJFQa6N+4xlRdD0/jjpO2XVnnhT3hUo4dHqA774D/k1LKxGuILcEa3U82ROoHztRdYbINdKGJQEyUoYwsn2oQJpvTw7ZtK57bN+IiKe0by/2IVcagdlv/WuTG7d4OkRHpLE4TGKtSfXyqBWiz62ULi1vUiiB/2eAJOSdbyXxU5opNp0fyB5U3N+tTKEdgMb3+Dpq24nwg2INeUBD8SpT4J3akjlkgvzaipBWEmu4Jr1rEPPiye6Y7J8Y7hYG2XrG23cHjpr5/bJ6QF1N8otPZ+MIWS6Pz8iMCCGUiGRW7z0BOAog==;tMXgZM17Voc364mHLqnF1Q=="
 ---

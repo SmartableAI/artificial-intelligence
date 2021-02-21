@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/17/zzappmalaria-startup-app-ai
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/17/zzappmalaria-startup-app-ai-eradicate-malaria/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 100
 published: true
 
 provider:

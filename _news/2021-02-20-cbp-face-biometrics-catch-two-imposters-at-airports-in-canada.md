@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Edge AI partnerships boost face biometrics in retail and smart city solutions"
-    excerpt: "Vsblty Group and Ability partner to produce edge AI cameras and CyberLink brings edge AI face biometrics to Nx Meta clients."
-    publishedDateTime: 2021-02-16T20:20:00Z
-    webUrl: "https://www.biometricupdate.com/202102/edge-ai-partnerships-boost-face-biometrics-in-retail-and-smart-city-solutions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
   - title: "Patent filings suggest dual biometrics from Apple, mask-agnostic facial recognition from GBT"
     excerpt: "Apple and startup GBT Technologies have each filed for patents on biometric capabilities for mobile devices. The U.S. Patent & Trademark Office (USPTO) has published a continuation of Apple’s first patent describing both Touch ID fingerprint and Face ID biometrics,"
     publishedDateTime: 2021-02-17T21:48:00Z

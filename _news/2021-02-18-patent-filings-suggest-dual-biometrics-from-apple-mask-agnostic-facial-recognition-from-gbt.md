@@ -55,20 +55,6 @@ related:
         width: 730
         height: 499
         isCached: true
-  - title: "Edge AI partnerships boost face biometrics in retail and smart city solutions"
-    excerpt: "Vsblty Group and Ability partner to produce edge AI cameras and CyberLink brings edge AI face biometrics to Nx Meta clients."
-    publishedDateTime: 2021-02-16T20:20:00Z
-    webUrl: "https://www.biometricupdate.com/202102/edge-ai-partnerships-boost-face-biometrics-in-retail-and-smart-city-solutions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
 
 secured: "3pi/Owk3NyY7Mb4n2TN2afjxTmAEBDWqCYQeiMBYNHcn/g+shzVSLw7r70+KfEshVCeD/0xeJet3vmWYbkbWuGGS9HqL5jSeSiwKlXsJYgiVCVkndVmKAi2Z6uGGCC9WkhmtrBGer1JmBEEjVDrOR69crI0UoUAlKJRU5QWo4Zz4+Og23tLiylcQisvAEfxo1NwgN+HO+7dgqHQaIfh1maBaciAVEvKQTGO0R5hZIihn4yfoX0qQ3xqChvOJMfuMXrLopYnjP26wa4ixV+Bf75lgIZQaQlIrWhCWVzDAGFk2nOM7SAEg5/fxWzUvl2IIrOe32q1QUjbbwPsA11dqyu9zhvzzZC2LkBr9lLs09iOJBGmG1EVvh8xhyOTDXhEcEprJi9kNG/1fAPFF4tLgPzb53SxIjdJb68/Ngstn+uWvTxztcP0NfFQUQLZMfWBqmCSG6myCm5eMEiNJS8ob7CfiRrIGLhD87sB9rbsiQIj68Y75kxw+Vk+3c3s9Bs2sFp3/vYrm+dnzSOZU5h/Brg==;HRkg92QeER0q8iLlu9C+qA=="
 ---

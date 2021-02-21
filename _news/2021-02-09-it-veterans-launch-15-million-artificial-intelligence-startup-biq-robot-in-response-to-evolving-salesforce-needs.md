@@ -1,26 +1,22 @@
 ---
 category: news
 title: "IT Veterans launch $1.5 million artificial intelligence Startup BiQ Robot, in response to evolving Salesforce needs."
-excerpt: "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot , soon available on the Salesforce AppExchange. BiQ Robot deep-cleans and updates Salesforce contact files' details autonomously through the application of AI and other innovative technologies."
-publishedDateTime: 2021-02-09T02:42:00Z
-originalUrl: "https://menafn.com/1101567043/IT-Veterans-launch-15-million-artificial-intelligence-Startup-BiQ-Robot-in-response-to-evolving-Salesforce-needs"
-webUrl: "https://menafn.com/1101567043/IT-Veterans-launch-15-million-artificial-intelligence-Startup-BiQ-Robot-in-response-to-evolving-Salesforce-needs"
+excerpt: "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot, soon available on the"
+publishedDateTime: 2021-02-08T18:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19543999"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19543999"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-    width: 300
-    height: 250
-    isCached: true
-
-secured: "JijrfEM9OYiFpW+GRjO8ObcQ79DAZyph7BKjDnA+a8qzlsGWN92wtjDiWzWWGt6SGwvonDmJML7PKbfc2So/K2JsVSaxRKE7Gsp+Ece/6CokcGqoZlRdqrOnCHp4uRspBjn5/ihTxa+F/zmk3lk6yVgW8u5w0Db7J5IfGoR/XXcpYQNNajiEyGJ1v21nnuOehfHk5D7sb4GWEBJi8cbw4l4MCSmjdCySqOj0J9rNMBmliFdqiIGWcdAsiCZznNR1tGurJfisM0Bw8Mm2jZe6IyxggWmmPy0cGTlL5SRgAl+xhhCdxwy0NbKivgBRmeYwB62V9jbebvn1rdEKsm4O5JDaaaArOiOYeoVzDemH29U=;8aM1FMTeAfmJpaPnqwys9w=="
+secured: "0F49MDHnt0hRXJEWtribMUoKVT01ff9ezUJhSulHNP1LwiGB8sY3BXcOOpQim4mlmJ3h4fdOJKp0DzLenuDRNSRMWfcRGR1jWu21OamFY8zrpAKZjcu9qbI451vZAamvcNwdiXJLZwFzOcA7R+GcyNNiSQL/5RuXVleGj7zbFEvmyifaLc0FJKf+AoRzeMfbdGT35EIK1bgiLBnfSliek4PWMXFZxKkZNzDXFSQFnbVe3R2qntJy0IkRSw4bgflT5efqHnejDa6ggnTpx0+FFQZJ0pzsJjjkSqkFXDaiA2JLYSTNB6WOW4NB/PNNfCNKM1p7DpW52S1NlVVmBmdUr/j/YAL2OzB90yFAF6tiSd8=;Wah6ciL/S5IfDxvHyLWgig=="
 ---
 

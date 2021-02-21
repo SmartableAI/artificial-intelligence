@@ -3,8 +3,8 @@ category: news
 title: "Three ways artificial intelligence could change the markets"
 excerpt: "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul."
 publishedDateTime: 2021-02-05T13:05:00Z
-originalUrl: "https://www.cmcmarkets.com/en/opto/three-ways-artificial-intelligence-could-change-the-markets"
-webUrl: "https://www.cmcmarkets.com/en/opto/three-ways-artificial-intelligence-could-change-the-markets"
+originalUrl: "https://www.cmcmarkets.com/en-gb/opto/three-ways-artificial-intelligence-could-change-the-markets"
+webUrl: "https://www.cmcmarkets.com/en-gb/opto/three-ways-artificial-intelligence-could-change-the-markets"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 576
     isCached: true
 
-secured: "+Uo8WXwvw+3rNsaS3JODtxCGCdOc6InT1LerFMgCxGLm7a0XtlspmP4qdogsVTSl1UFlXy5BXhiAAkSmC4nNGL0ZLyECMI8TbWazDWxH42IIkZ9SHThM07JJNbTq82jxQ5wJHkXnE9AKAntT8FYZAGf8erS4dDlt6o7pmSgssaoZWOSJZXfC1ZLd0jMF7/ZDQyp3m+AJ+s8ZpABVUuFuej19oxgNI+zNVsurCBve4GgiEv+r/HcMVabOJKHq8Q+6WccGLJRbVayCV8w94Hmk5aq0x1CgMpS+oNHwB4NVaDzT6+6dz8yT5AanN9bXSdibtwLv6Now5qXOGu9JgzNbn/ybg6e22i8xTZnvwiVgJESdXVCxa3jKkhsXPHYeiYL8Jj7kpv6oaVmZeK24zesbIBuciAtClUDRaayM56ZTSQ1anZ+59Z4tiEbHB54ra2jJNz4m/ZRA3FsHBaB71cW/v4b4Y4pzCBShwakedBBGYfkUary6C5MDQ0DNtR3JeBOyt6ahQaZ3Rb5HB1W5SgOjRQ==;IuvuW+V2nJWT8W7JxCcqYQ=="
+secured: "/BzOdcY82SQcgHKR2VQokpYoRI4nYsevrQ1dJ7cKO/RDF5Q6q0+BbBy8riCVMuAy8aj/XHdz95kYTc8Vq1w1d794Od2Px9qZDVoJEd1fdgcv+l6vOur3zcKDMzp9+2Oo3pjq7tyCb1HGJfKiIwbLnQzue46+P/8P/rjyAI4OvaCf83RfBbycSQq4gHp8quAeiqUw7xWnNyMzyX0mvG4Lyaq+g1p3PkfmhXSYeFOi+hG9iQskKcKGgBcXQFlVKCKxiwfYlObmWq5qx58eX3Kd/UsbIGCMtfi4LRMXulcQxxmY2UOg+Z+6ZbzG7U4u21Z2gOc3GntlIoopW7n7sVRmXk7u/MPUIeIZ0c/RN2QBYGU=;I8lVjeo7KUugB+HNPeMF1Q=="
 ---
 

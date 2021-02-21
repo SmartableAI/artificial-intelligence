@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/anthony-levandowski-artificial-intellige
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp"
 type: article
 quality: 142
-heat: 142
+heat: 143
 published: true
 
 provider:
