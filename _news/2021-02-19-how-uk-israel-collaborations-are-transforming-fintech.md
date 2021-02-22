@@ -25,49 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "How millennial traits are fuelling the fintech transformation."
-    excerpt: "Yogi Sadana, CEO, CASHe, says the world of self-help coincides with the digital-first journey, and the average millennial is also interested to know how his/her finance initiatives impact larger goals like sustainability."
-    publishedDateTime: 2021-02-17T08:59:00Z
-    webUrl: "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation"
-    ampWebUrl: "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp"
+  - title: "Israeli Fintech Mirato, which Uses AI and Natural Language Processing for its Risk Management Solution, Secures $9M in Capital"
+    excerpt: "Israeli Fintech Mirato, which uses AI and natural language processing for its risk nanagement solution, secures $9M in capital."
+    publishedDateTime: 2021-02-17T13:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 59
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
     images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1612803247147.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "The Future of Banking, Fintech and Payments – February 2021"
-    excerpt: "Figure 2 illustrates an incident related to customer experience where models detected an anomaly in transaction success rate for VISA payments for a particular merchant. The drop in transactions (depicted in orange) would have gone unnoticed if static thresholds had been used,"
-    publishedDateTime: 2021-02-17T15:20:00Z
-    webUrl: "https://business-reporter.co.uk/the-future-of-banking-fintech-and-payments-february-2021/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/02/financial-advisor-vector-isometric-landing-page-template-vector-id1217470000.jpg"
-        width: 583
-        height: 478
-        isCached: true
-  - title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
-    excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."
-    publishedDateTime: 2021-02-19T03:05:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/how-recent-tech-developments-and-transformations-in-fintech-have-impacted-your-business-environment-nid-28633-cid-189.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 10
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/T3ODdQs8.jpeg"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Azrieli-Center-Tel-Aviv-Israel-300x260.jpeg"
         width: 300
-        height: 300
+        height: 260
+        isCached: true
+  - title: "Can AI handle risk management? Israeli startup Mirato says yes, and scores $9 million to prove so"
+    excerpt: "Mirato, an Israeli startup developing risk management technologies, adds $9M to its piggy bank deploying AI at risk"
+    publishedDateTime: 2021-02-18T04:34:00Z
+    webUrl: "https://www.geektime.com/can-ai-handle-risk-management-israeli-startup-mirato-says-yes-and-scores-9-million-in-funding/"
+    ampWebUrl: "https://www.geektime.com/can-ai-handle-risk-management-israeli-startup-mirato-says-yes-and-scores-9-million-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/can-ai-handle-risk-management-israeli-startup-mirato-says-yes-and-scores-9-million-in-funding/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 44
+    images:
+      - url: "https://www.geektime.com/content/images/2021/02/Screenshot_1-1613463133-768x582.jpg"
+        width: 768
+        height: 582
         isCached: true
 
 secured: "7G7reuJ2kneNaPKeFQOHOzCCu/Wa41J3zOxCqk1KAcNvO73740y8cABQjPVFZ92ebm2e6HjMmQaQBDBgeyKaq848McCTzSVIZFrfUEbyhXC+0k6Mq2RJw5UexnxRURVOBfBLyMxGaCxx7PmsN3hGIp8R4SmOXEKMklCUouStLWE29mFJIbqrHd/UQFgpT3UyoKiBhnGXzOQSHp8lLrOvT443cNMD7RONKpMRDGdGXplgyYQXaLfAniDGsB9KjSc/4uqRpXOVCMt+YrL+ATHgR2BbR1W3z0eY7VeDTJauhCW7WT+H/HuzBNhOi/3J8eC5falUSJ2Q5R7VEqQD2hXYcJCqH2oPJ47RELK1P2Mm+4flIQt0DQNmBjIzpF+azGJsnXUReAuvJvqlBfyeDFl/vNKHvqwSlFC4ECwQzFZKFpA5kjXNTFx84J9Faf4UupGa2VEjPK622rjdLAm4KVSBuWwS7jMxKafJ5/HrvBhMCEaau9QswpoA0EGgiFCQZJG+GkOsHCgCTyjkV+dxHJ5Rog==;15A5qib5XVnZO++PUH3ZYw=="

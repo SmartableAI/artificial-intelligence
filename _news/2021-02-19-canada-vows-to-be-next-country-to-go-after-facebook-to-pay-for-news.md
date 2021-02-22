@@ -3,10 +3,10 @@ category: news
 title: "Canada vows to be next country to go after Facebook to pay for news"
 excerpt: "Canada vowed on Thursday to make Facebook Inc pay for news content, seeking allies in the media battle with tech giants and pledging not to back down if the social media platform shuts off the country's news as it did in Australia."
 publishedDateTime: 2021-02-19T05:56:00Z
-originalUrl: "https://www.reuters.com/article/us-australia-media-facebook-canada/canada-vows-to-be-next-country-to-go-after-facebook-to-pay-for-news-idUSKBN2AI349?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/us-australia-media-facebook-canada/canada-vows-to-be-next-country-to-go-after-facebook-to-pay-for-news-idUSKBN2AI349?edition-redirect=in"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI349"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI349"
+originalUrl: "https://www.reuters.com/article/us-australia-media-facebook-canada-idUKKBN2AI349"
+webUrl: "https://www.reuters.com/article/us-australia-media-facebook-canada-idUKKBN2AI349"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AI349"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AI349"
 type: article
 quality: 74
 heat: 94
@@ -60,6 +60,6 @@ related:
         height: 713
         isCached: true
 
-secured: "ff09gXbwQvCzlLrYBwLNhI9UhHmMf4aCighAiyqZVs0IabfkMzuc3VRMsA1JjtFbSBjw87Vrh+L7KnBjIXRfXLVrwPpgKlEHDXKbg5pJoNbMTmQm9U5v7BY3d6tVMNK2wBe8O6zRCvZHgF8vpvaNcpgN1tHuMmHPxWI3hj4Ze84Ipu96BW9h2auJP4ldrp8IJMtRbHzmm9Qzz5OBuhensHyEFrZo+yRx7NW2DSi4yGJuYWPBltyuSBs16XeNXT4KQPzxLiTnq7HamVqNGF4dKweIudHoNea/5ZqJ/jh41x9xDmOQjNb/SGyuPxV/Cnlu+DkdSZ8eygZftn8Cum4egX/kyxBMa+OlTNjKkM0txso=;YjGyDlhBj7UoRDeOVRZ/Kg=="
+secured: "Orb309uyDUpCrWZ8lrAOE32wwvGaYNiEGfR6zUmnpfqiU4+bwwPdhvON77Qw4Kp4HsTVjLvqAERL0KrLxgqLwfNgdo8SiTIMklIdlc7sQrcgppt+JiA28NiJrnfIYAzI3OrxncrRVrf7behlh0siE62NygoeP0Jg/dRMdoX9MD5eubvL0QyZ0LmhmYSnM9Hr5hgfTU0vyqfhCeozdd2Y7DKLWtfS5ky63i5n9AMHXNuz1vMd2EelYSlUaa3bo41kYSdWz0rCiL+8Ruhl+EeSkMmjFybsFDFPID/KuVXiEAHjg+M/8a+TFObUCmPDPwb+oMrXRHJfvPTro0k2szUu+fZEfQiNljvP9xh5hfkBl28=;jDgeLJX7WKPrbqoSh78omA=="
 ---
 

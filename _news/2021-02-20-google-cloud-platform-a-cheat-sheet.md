@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/g
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

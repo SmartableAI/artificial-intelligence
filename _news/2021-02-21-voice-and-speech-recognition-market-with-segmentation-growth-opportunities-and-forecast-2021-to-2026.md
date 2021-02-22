@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
-    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years,"
-    publishedDateTime: 2021-02-17T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2025-2021-02-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Size, Share 2021 Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
     excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
     publishedDateTime: 2021-02-17T10:28:00Z
@@ -131,20 +117,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025"
-    excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems,"
-    publishedDateTime: 2021-02-17T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025-2021-02-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

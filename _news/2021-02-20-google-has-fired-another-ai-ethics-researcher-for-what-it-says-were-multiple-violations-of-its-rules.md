@@ -63,6 +63,20 @@ related:
         width: 5048
         height: 3366
         isCached: true
+  - title: "Google fires second AI ethics leader"
+    excerpt: "Google fired staff scientist Margaret Mitchell on Saturday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal. Google said in a statement Mitchell violated the company's code of conduct and security policies by moving electronic files outside the company."
+    publishedDateTime: 2021-02-22T00:46:00Z
+    webUrl: "https://www.itnews.com.au/news/google-fires-second-ai-ethics-leader-561325"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/2021-02-20T022428Z_1_LYNXMPEH1J017_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "yVnaQ9ogLgCc9oN6zEPMt4tu0QRGQcEJ7ZytfwFUHNKHTmzQ74fvfX6Ow8nFXHCC/Bs0qK7wh0VKBTRICxqXYO+wRKhunEnLw4ERwmATDDP4TZkD7SAJrSAQXgrveaEhTS8CV6v7eRygG4000pMi4mkb5w/9OSc/mL3o9BFVI8QlPcCHq/JffBerBW09z47vN8iwG1Y18yCvpZPeOCl296Ue3st5uVXaL3LEM+CLt4oysi5zT2T66YGjVNjm5NFxCcHQm6/VGl/8L39dXqIu7Hq/ISWCq8oRcUnc0sHDwa/cmyEw+jMwFrflWfVennaYhHgSMjZfr3MH4hlmZaZXtgpdIQ/NyEeDCFyJH+VtCjie/SBHmPuhaIu+cdpvg9J0sKoqgfS4tbkXyBbeB4SMmuZKkc3xpwZwlpbqGG5JetUP6k35rqNzGhI9VmD9YseD1ic2IojAI1ZiFYU1PPK/0UrXaE/S1na76COZUUWfR8wlwhFnsigCSFfa4ckdLU/uhrgobcukSE6IuQ5quUJR1A==;11ybPQd1K2hlFUmlVJlwAg=="
 ---

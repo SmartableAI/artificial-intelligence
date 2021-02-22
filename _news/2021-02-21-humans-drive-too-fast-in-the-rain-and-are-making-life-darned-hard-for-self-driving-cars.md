@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 221
+heat: 231
 published: true
 
 provider:
@@ -204,6 +204,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2018/07/applecar-800x450.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Analysis: Will intelligent roads finally move self-driving cars into fast lane?"
+    excerpt: "Disillusioned by the limited progress of in-car technology, companies are shifting their attention from self-driving vehicles to the roads they will drive on. The goal is to accelerate the time taken to bring AVs to market – perhaps dramatically."
+    publishedDateTime: 2021-02-22T00:09:00Z
+    webUrl: "https://www.autocar.co.uk/car-news/industry-news-technology/analysis-will-intelligent-roads-finally-move-self-driving-cars"
+    type: article
+    provider:
+      name: Autocar
+      domain: autocar.co.uk
+    quality: 20
+    images:
+      - url: "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/lead_36.jpg"
+        width: 1600
+        height: 1066
         isCached: true
   - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"

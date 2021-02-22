@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/india/dna-fingerprints-facial-recognition-used-t
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp"
 type: article
 quality: 51
-heat: 72
+heat: 71
 published: true
 
 provider:

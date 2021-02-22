@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Daimler's Torc Robotics picks Amazon as cloud provider for self-driving trucks"
-    excerpt: "A self-driving truck operated by Daimler unit Torc Robotics undergoes testing on a U.S. highway in this undated handout photo. Torc Robotics/Handout via REUTERS"
-    publishedDateTime: 2021-02-17T08:20:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-torc-amazon-com-idUSKBN2AH0SY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AH0SY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0SY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 215
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551818840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G0G6"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Daimler's self-driving truck company Torc Robotics picks AWS as preferred cloud provider"
     excerpt: "Torc Robotics, the self-driving truck startup majority-owned by automotive giant Daimler, plans to use Amazon Web Services as its preferred cloud provider. The company, which operates as a semi-independent subsidiary,"
     publishedDateTime: 2021-02-18T11:51:00Z
@@ -84,15 +68,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Torc Robotics selects AWS as preferred cloud provider for self-driving truck fleet"
-    excerpt: "Torc is an independent subsidiary of Daimler Truck AG, responsible for commercializing a Level 4 autonomous system that will be offered to trucking customers. As defined by the Society of Automotive Engineers (SAE),"
-    publishedDateTime: 2021-02-17T08:51:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/truck-bus-news-releases/torc-robotics-selects-aws-as-preferred-cloud-provider-for-self-driving-truck-fleet/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 47
 
 secured: "AX3xrHGr6d5bZheQB6Tq29xpzp9SlsukQ8+BotoZKMrDqEGsAeC2SmZFZkNrYp5X0bITLWR7eQ+ukkHqQyRIRxMY8Icb4hhN5cNeY2qSyrPVeTIVUTpgzg4GuRv3Gfxf50qF0vfjuvwu+o24YksCeXXp76IKQfZWCNDvtllUCSiwBPcpxORik1ffYtyfUy0T+EjxPsF/VYZT2aIWmv2wr2qUoMJleALJK+IACaTAIphztsEiqytoCcUIEUetlRbvPJVmwdER8iwsJ0jD9IDq7u/Cnv4QcSrWXWOme4+wiW7mOFvfDYV/8m2JVexUUmd/bsijSGHMUj/1xOlFL1LpchZncvqs2Ge3poN12O3wW5ymlkZMrqBRmIqUfanpFRjw4vK9Fpet5yAmHOx0OOkWG9ODZ05Lz+7zUP634pg7wZKDx5BwsJtlV5CiDHNX4Tc3BLEzicXWiPiD+tu7M+nHQw86Qv0SHdiKaFBo3PyBUAPjwzy7al1720sbAd4F1z0QXPeINzN6+fFCrhLcbkRsKw==;qvG1ah/Co5aeEAxQXLDsew=="
 ---

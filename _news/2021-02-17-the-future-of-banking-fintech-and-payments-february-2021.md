@@ -25,35 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "How millennial traits are fuelling the fintech transformation."
-    excerpt: "Yogi Sadana, CEO, CASHe, says the world of self-help coincides with the digital-first journey, and the average millennial is also interested to know how his/her finance initiatives impact larger goals like sustainability."
-    publishedDateTime: 2021-02-17T08:59:00Z
-    webUrl: "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation"
-    ampWebUrl: "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp"
+  - title: "FinTech Mogo Enters US Digital Payments Via Carta Subsidiary"
+    excerpt: "Digital payments and FinTech company Mogo announced its subsidiary, Carta Worldwide, will be expanding into the U.S. Carta plans to introduce new card products."
+    publishedDateTime: 2021-02-19T04:50:00Z
+    webUrl: "https://www.pymnts.com/digital-payments/2021/fintech-mogo-enters-united-states-digital-payments-via-carta-subsidiary/"
+    ampWebUrl: "https://www.pymnts.com/digital-payments/2021/fintech-mogo-enters-united-states-digital-payments-via-carta-subsidiary/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-payments/2021/fintech-mogo-enters-united-states-digital-payments-via-carta-subsidiary/amp/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 59
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1612803247147.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2018/11/PYMNTS-Study-Feb-2021-1.jpg"
+        width: 1000
+        height: 392
         isCached: true
-  - title: "How UK-Israel collaborations are transforming fintech"
-    excerpt: "The pandemic has increased our reliance on innovation. Candice Krieger looks at UK-Israel partnerships and companies revolutionising the finance technology sector"
-    publishedDateTime: 2021-02-19T08:59:00Z
-    webUrl: "https://jewishnews.timesofisrael.com/how-uk-israel-collaborations-are-transforming-fintech/"
+  - title: "Global Payments to Participate in KBW Fintech Payments Conference"
+    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President & Chief Financial Officer,"
+    publishedDateTime: 2021-02-18T20:06:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=424517"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 24
     images:
-      - url: "https://static.timesofisrael.com/jewishndev/uploads/2021/02/GettyImages-834792042-1024x640.jpg"
-        width: 1024
-        height: 640
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Western Union to Present at the KBW Fintech Payments Conference on February 23rd"
+    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the KBW Fintech Payments Conference on Tu 23,"
+    publishedDateTime: 2021-02-17T09:13:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=423114"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 19
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
     excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."

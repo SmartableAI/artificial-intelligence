@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/baidu-hops-aboard-the-electric-vehi
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu’s Back With an $80 Billion Rally and Electric Car Ambition"
-    excerpt: "Baidu Inc. has largely been viewed as an online marketing company selling ads within its web search results. Now, the internet company is ready to make the case that it has more to offer.Shares of China’s largest search engine firm have surged nearly threefold since their mid-March lows,"
-    publishedDateTime: 2021-02-17T07:55:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-back-with-an-80-billion-rally-and-electric-car-ambition"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuk3DhcNaciM/v0/1200x660.jpg"
-        width: 1200
-        height: 660
-        isCached: true
   - title: "Baidu is back with $80bn rally, electric car ambition"
     excerpt: "Baidu Inc has largely been viewed as an online marketing company selling ads within its web search results. Now, the Internet company is ready to make the case that it has more to offer."
     publishedDateTime: 2021-02-17T18:49:00Z

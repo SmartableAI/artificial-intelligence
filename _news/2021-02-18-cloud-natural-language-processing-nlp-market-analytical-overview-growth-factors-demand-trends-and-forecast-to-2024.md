@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024-2021-02-18?tesla=y"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Size: Technological Advancement and Growth Analysis with Forecast to 2026"
-    excerpt: "Selbyville, Delaware, The Report 2021-2026 Global Artificial Intelligence (AI) in Construction Market Report Industry analyses the important factors of this market based on present industry situations,"
-    publishedDateTime: 2021-02-17T08:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-size-technological-advancement-and-growth-analysis-with-forecast-to-2026-2021-02-17?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

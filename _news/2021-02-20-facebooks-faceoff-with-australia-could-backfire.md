@@ -28,9 +28,9 @@ related:
   - title: "Canada vows to be next country to go after Facebook to pay for news"
     excerpt: "Canada vowed on Thursday to make Facebook Inc pay for news content, seeking allies in the media battle with tech giants and pledging not to back down if the social media platform shuts off the country's news as it did in Australia."
     publishedDateTime: 2021-02-19T05:56:00Z
-    webUrl: "https://www.reuters.com/article/us-australia-media-facebook-canada/canada-vows-to-be-next-country-to-go-after-facebook-to-pay-for-news-idUSKBN2AI349?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AI349"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI349"
+    webUrl: "https://www.reuters.com/article/us-australia-media-facebook-canada-idUKKBN2AI349"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AI349"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AI349"
     type: article
     provider:
       name: Reuters

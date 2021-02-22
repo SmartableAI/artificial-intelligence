@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/uk-wales-56130226"
 webUrl: "https://www.bbc.com/news/uk-wales-56130226"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Facial recognition may help find US Capitol rioters, but at a cost"
+    excerpt: "As facial recognition is increasingly used by authorities to nab lawbreakers from criminals to US Capitol rioters, experts warn it could harm many others."
+    publishedDateTime: 2021-02-21T23:06:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/22/facial-recognition-may-help-find-us-capitol-rioters-but-at-a-cost"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/21/1044988.jpg"
+        width: 1240
+        height: 824
         isCached: true
   - title: "Could drones use facial recognition? We could be one step closer to that happening."
     excerpt: "The U.S. Patent Office has just published a patent application for ‘Adaptive positioning of drones for enhanced face recognition’ filed by AnyVision."

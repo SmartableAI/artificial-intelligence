@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Baidu’s Back With an $80 Billion Rally and Electric Car Ambition"
-    excerpt: "Baidu Inc. has largely been viewed as an online marketing company selling ads within its web search results. Now, the internet company is ready to make the case that it has more to offer.Shares of China’s largest search engine firm have surged nearly threefold since their mid-March lows,"
-    publishedDateTime: 2021-02-17T07:55:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-back-with-an-80-billion-rally-and-electric-car-ambition"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuk3DhcNaciM/v0/1200x660.jpg"
-        width: 1200
-        height: 660
-        isCached: true
 
 secured: "Jtj0fXpCbqB9en2FcIcyVKvcNKtcCOVEHQ3Hwswd6JjOTwLc5RBy1odidoih8NApmrdBBghQx2XhPxDruUj/g2d+ba7SWGi80qBkzB4Ev9Yq7hkGGmHdalIuZuX3Ur6CH0qCp3rUOm6rIGgyQGlgl3fsYd2Cli0v1RJpImrVFZL6wCxoi/BWVrPHzXhv2g+nYL6Od/7dXRk60d6pB+JqDaqX9FicHSw1p9L1Dbk+dMXnI1WOyw5vvxgetsA/3zVkAcuIf+HPrJBmly70FANMA/wVXeDpNkdVBC2+RNt8F8uOWH4GZi/8QTlegVfp+exG7pehtru8u5zZ88gw6Cp+pNrYiFG1mmCYUsLjwfuXC8sTaRC/+/wQWjKGDvZSRHbmoLM6zFMTZIdlolRLdhlvmCgFGGIi0iB/aZgM7XduMctcf13qLk1bIM/CCcj1ODXnsd3pB9O+LkxZXco0no606Y6hUK3g1V9WbCRAldhqZ7WwQ6RFZuSQr15WPgdE3XXDHXvHYPbY6eLHfG2GZMMcXg==;juiOQqchT/zVpHAjnBx0wQ=="
 ---

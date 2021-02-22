@@ -44,6 +44,20 @@ related:
         width: 768
         height: 582
         isCached: true
+  - title: "How UK-Israel collaborations are transforming fintech"
+    excerpt: "The pandemic has increased our reliance on innovation. Candice Krieger looks at UK-Israel partnerships and companies revolutionising the finance technology sector"
+    publishedDateTime: 2021-02-19T08:59:00Z
+    webUrl: "https://jewishnews.timesofisrael.com/how-uk-israel-collaborations-are-transforming-fintech/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 24
+    images:
+      - url: "https://static.timesofisrael.com/jewishndev/uploads/2021/02/GettyImages-834792042-1024x640.jpg"
+        width: 1024
+        height: 640
+        isCached: true
 
 secured: "DPIxK3Qcy0warv1faQCW0UzBnBLQUstkuQGtLKYI1EEAN/2B5CsgrBomZcTaFTbaTQGEhTDEQusTRfdeJGmnj8cinGuA+lFCqYPslQMjt3jeCUBUw79oLksCORJGIecdug8z2oZb1bVFB0TPL3i6xmgk9q1won1L6LorodfzsNRqZB0rI7eR4sslQ/M7ngP+sMQX+QRMHXNMZVY2K51duayRyqt354IOQqpMgrxsV6hj0IEeJp5JiYlyYd+SIFTGB+28DOESokEFhacwabkEGUUS23OpeMkKqgy0U4al12bn6t9RK82LmyVjhoDLgsSjBkdKVJcXjS6irr+vN1aEbSSDbUIsIB6X9aD1UWfm8mTN+kWWrMkTqbxLZvcNWtXFs4F2HtM9M3k6WSjBLSo75hcUL/OBg6s5/H6ktmzMqkINTe3MofigRUOIkYfLBmVhEcI2w1+NJm40+Z6v7FCefTHyfxQRCH52Ajn1oSzxFb9PqXWBvxxKo2/RSoGU2ivbvHW14A4R5HlU766ZvAfirg==;bmmWitkbWMI80ryz/9zeEw=="
 ---

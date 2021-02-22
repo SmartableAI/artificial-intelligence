@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-the
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/"
 type: article
 quality: 101
-heat: 111
+heat: 112
 published: true
 
 provider:

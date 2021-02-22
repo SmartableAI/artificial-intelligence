@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry"
-    excerpt: "Highly accurate ship performance models built off real-world data Business Wire PALO ALTO, Cal"
-    publishedDateTime: 2021-02-17T09:05:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry"
+  - title: "The Pro’s and Con’s of AI and Robo Wealth Management Solutions Discussed by Robert Cannon"
+    excerpt: "The new age of AI and Robo Management Solutions has dawned. In a post-pandemic world, predictions point towards more sophisticated applications of artificial intelligence (AI) across industries, which includes financial services,"
+    publishedDateTime: 2021-02-20T06:03:00Z
+    webUrl: "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/"
+    ampWebUrl: "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 60
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://techbullion.com/wp-content/uploads/2017/02/global-wealth-management-market.jpg"
+        width: 740
+        height: 400
         isCached: true
 
 secured: "f5ixDnGTwq9P4DF2vwNH2jaWo0qyJytgxFNFwJ5JIgP0Ru1/DPWBR1bXIk4KzsqLVXBdxUbAczoKoyPT3mBzsuNDsD9CJqsJvuIntrjTDG2eF5GDPXyOJrCZ9HiH9MOTtxcaiktHVHJ39xBsgGLk1z6/GgaNbWt0qxeGGO7n/mQWyZeSmDJzB2Lrnf16Ts4c3SQtQUDaCgE3XS2JlE9XJXYpGv4afM75xN5fbxVNOOoZyBfavgbbfmpYimvdXCAVmkZctSw58Oqf8mDjMWb8hLcrks5N+voHLvVh/0TMAhd2RS1EW3azjlnSXVWmRkANvlrmD+wCOzwCO6654MRNGIKBfkddkneCcP6JPL6UKaA=;qeMLLxhiKjclsm52Ota8tw=="

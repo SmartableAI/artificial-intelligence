@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2020/07/GettyImages-1071952206.jpg?quality=80&strip"
         width: 5048
         height: 3366
+        isCached: true
+  - title: "Google fires second AI ethics leader"
+    excerpt: "Google fired staff scientist Margaret Mitchell on Saturday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal. Google said in a statement Mitchell violated the company's code of conduct and security policies by moving electronic files outside the company."
+    publishedDateTime: 2021-02-22T00:46:00Z
+    webUrl: "https://www.itnews.com.au/news/google-fires-second-ai-ethics-leader-561325"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/2021-02-20T022428Z_1_LYNXMPEH1J017_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "PbiEkdBZSemr6mPe7lMgiVaVzYh8lFvTtY52g90D7tasZcE7vS9/uWRyr984CN+bdws/LCK5N8dJJUvJJ3YHHWAVR4e21SiBFANnfJlFCJGjgJIaeYpAtAlw9GgFYwGHBeCOitfp4ismekOM4du0JgYwryDJvoPu36uGkqUIDv+4Oq51kkcurmURprJ4XgVyFJYR2KWU4gW8brzrQjOELLAmhJzfV5ivJZA7uk1J9/YfjbfhIk8psuiPjqvww90f7f2+t9QjA5Q5nNGzC0s9Bx5D+OxD5X2m6zhyhK232GggmkUDaPzT2xYQAL+C45rnFMSxVMSutalpRhRkQib3D4B4i6HR9ZeFfmomVzzifoj6J3NvcfSpx39RZroHg7cOz72aQuzOt5pHasO7+c2NpRYfbHQ9xEpxnqdnGDe5cHjqXxxgL4nvou5rGNqvXBa03vdtSeCbUg7mRjPxIIgCvKM5FXkCgbv9FMspSbQKNSCk8eqdsbEohRQNiFW9t4QBCZsUudemDUkVLPYhCSuVIw==;NOt2GmOEriFHlvEbLDq/AQ=="

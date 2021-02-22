@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/DeepMind-researchers-say-AI-poses-a-threat-to-people-who.jpg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "DeepMind Introduces A New Benchmark For Meta Reinforcement Learning"
-    excerpt: "Recently, a team of researchers from DeepMind and University College London have released a principled benchmark for meta-reinforcement learning (meta-RL) research, known as Alchemy. The benchmark is a combination of structural richness and structural transparency."
-    publishedDateTime: 2021-02-17T07:35:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-introduces-a-new-benchmark-for-meta-reinforcement-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/alchemy_aim.gif"
-        width: 600
-        height: 338
         isCached: true
 
 secured: "DrPzCZTFqP2PTKlgg08aHHgvmwGnxywjvAz1QCJto9gPK0i2Q066NDqupXJXKNT9s4Ek8XMZQ3FfYEb/58+b2T+sDTCJmbbfJBGjo3pJCTVvUDbrd86cS28FWXkeRsT/Gfuip6Tq/V7TRqZiDuw5qgpDte70z+PbKZLpq5Q94VJW5TamJBxINqPhocbGqGqCSlPl7sN1AmOd/KrqFiWWnTsVflbxsjB9Zs5RM7z8APJ6CpNcIcTK0Qnm2SLq/VJBPwcoFti8rH/wnGr2N+AAUP14Tp1binKSPRmKVi6lZA090C28/E5qCfrLkrZ4VmU3PxiGu66RIOK1tzex0nLFfgj6WIquXFkmSKhJmS2TLJYjzrY2usjUjBnbagtkXD9A1PhkaRMfXXggFYHt5c5nBMrFHP1/C59jJojy17RCM5mANd+B5wwX/HnShYwFt3ofyt2UwTQ6W7evD28D349ItzUI3u2uwGsF/uE0DUs+o5mP761rSdah74YVHSTUuo4S4temL2y0EOYSbxOk2ljJRQ==;aZYchQNwVVBslYnb8ddGCg=="

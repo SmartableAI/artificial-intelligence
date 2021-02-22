@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 392
         isCached: true
+  - title: "The Future of Banking, Fintech and Payments – February 2021"
+    excerpt: "Figure 2 illustrates an incident related to customer experience where models detected an anomaly in transaction success rate for VISA payments for a particular merchant. The drop in transactions (depicted in orange) would have gone unnoticed if static thresholds had been used,"
+    publishedDateTime: 2021-02-17T15:20:00Z
+    webUrl: "https://business-reporter.co.uk/the-future-of-banking-fintech-and-payments-february-2021/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/02/financial-advisor-vector-isometric-landing-page-template-vector-id1217470000.jpg"
+        width: 583
+        height: 478
+        isCached: true
   - title: "Western Union to Present at the KBW Fintech Payments Conference on February 23rd"
     excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the KBW Fintech Payments Conference on Tu 23,"
     publishedDateTime: 2021-02-17T09:13:00Z
@@ -54,6 +68,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
+    excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."
+    publishedDateTime: 2021-02-19T03:05:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/how-recent-tech-developments-and-transformations-in-fintech-have-impacted-your-business-environment-nid-28633-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 10
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/T3ODdQs8.jpeg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "kabT2fpSfiMB4/k0QcunIpJdlcZTJYegY9BD6c2AdQZARhhR4uBXEtQaDmSvKMwQYPrLTM3m/HsXqtFM9Q894hyKC+s5bq/GV01jS5+iFDGsepx7kRDoIkEFgE5ZrC2vdo9BknBZ1qvJY/XtJerhjmWcMcuTcBo6bC3YQm1rCZ3rvBf020/+zxhDsaWopjO3b/TUzvHBZnHrHCDjSF4uVKcLPkrahAuGvALFJQxgyx0cYafOXExx56O95nIZoROaP8KD79MzTUfEzVtRR5Z6Gkk7+kawle0do95NETs0P5lezuzrtzUkW/d5gjSaIteEyZUBU+qxBgSZkc+6lvSA5x5skM4aYokml0kIJckucf0=;l2k+BHvWR7jteHrB6FUh+g=="
