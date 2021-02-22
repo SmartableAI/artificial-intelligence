@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "‘Artificial Intelligence and the Future of Power’ a grim wake-up call for India (Book Review)"
-    excerpt: "With Artificial Intelligence helping “biological materialism sneak in through the back door”, the world is witnessing a real clash of civilisations with “the battle between algorithm and being” writes Rajiv Malhotra,"
-    publishedDateTime: 2021-02-18T06:54:00Z
-    webUrl: "https://newsd.in/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india-book-review/"
-    ampWebUrl: "https://newsd.in/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india-book-review/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india-book-review/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 48
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
-        width: 1080
-        height: 582
-        isCached: true
 
 secured: "+4A/QmSIACiBeVWFJtdaf1pLPddQPdyN+oXV3G7Vr9laGQ4q4C5WjeRfXndETGr7FuYCv8Qyanoy8FXFmEYTTBLmreXslDy6PCXOjNv5xs1SY0GKXnVVqRmlmmcxQVC+kPMEAjQ82J2QIIlET1a0OGfxcgUbwLR9lk89wSNjbQouUjt8bQaHiE+OtBkCfaoroMpkYtyLTn3kf5AcV+mOseIPwm861njDy9QTLO6YDvFMqWWniB6a5ixwknhKCjlNZmKfacGSrT4aHtsrkLIt91cncL0VW4MRh0zY2EATEniK2wxVmogYrNYIU2IgzQ2BS/9iVQbwPkSn6fiIDrzsrKTn9KDjK1GLbwpbaJobvQY=;X7NoqchUzhWn9PCHlIGhVw=="
 ---

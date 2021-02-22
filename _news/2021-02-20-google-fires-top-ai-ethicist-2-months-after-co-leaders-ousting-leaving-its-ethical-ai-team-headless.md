@@ -139,6 +139,15 @@ related:
         width: 280
         height: 360
         isCached: true
+  - title: "Google fires top AI ethicist"
+    excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
+    publishedDateTime: 2021-02-22T22:09:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/02/22/google-fires-top-ai-ethicist.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "sbAt6csNoQKYmIC7Ny7kbishc/Kbj7Hzf7pK2rCHPoh7wtWpTbS4QZPVh7DKJ8m+3o/PTxRB9WevPnqbvGV0ozGgMpBAzK75xNc/BbG5cf92OCd23+wscqtEGxO8tHyKJVL1eWA5a3Qxpj/dU+wC8Ze1oTLfpWhX7xF9AKODh4t7bezV7x+GA6vNucOMxIyufmmdOABdXtay2OPo5LRUegwdn1x6XOkBeoMkQoEOe/uLGx75g3gV7FeyywBdOLKOIUoTzySv2nPHamM3raM0b4vKrK6Y76htkL/DtlA/qQqPdqBzc9KIK/LCl4y48CebG19S9pwvyUDDHe8vHjF06Bbxd+LMJZdlsUGvbIwxyMoR9Wviq8gRydTJ6F4KcBxYDCTepKBLwmw5uLZv0FwzLBYSbvpOmxJfN99g0O2h5F9NE50vW0FfLcP3XLxQrUQuhG9y8aGlJdVZ+FeMAScPsY1YvVtzIkL3/zvNusGVUq40vjMnOs6I7bXq7Y0lOuv7qqxIYDXvMqglHW5nuHjKmA==;wVzjCGYK2/m9E7YvQBMDVg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-22T20:19:00Z
 originalUrl: "https://www.crn.com/news/channel-programs/the-top-enterprise-it-trends-to-watch-in-2021-the-channel-angle"
 webUrl: "https://www.crn.com/news/channel-programs/the-top-enterprise-it-trends-to-watch-in-2021-the-channel-angle"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.crn.com/resources/0266-11a3d96077a1-f9c10308ed38-1000/mir-ali.jpg"
@@ -24,6 +25,6 @@ images:
     height: 457
     isCached: true
 
-secured: "rzQ1nSDt2zN3qL+Q7fmvbHkpqs5KF9WsMMD4294fLJNiuJy+Drhv2Mg4zmZIgcpKqMbTeS6gzWVJFC/HLITQxpYNjgikggPF4sS7UJH+OeaF8P95wN1/tTt8OkNcwybZcDa8c4w6U+fxtOVXHyFZR36ZQe3n3xiXjZmygUaSzoPM5hLy5qE1Nb2UBqrNQrNmu5QPaIWEYwtXX7drELbRMpax64nHw5ytljEai4BvQomzJFzuVPrs0PvxiGIWp23gDV4R+vYMwI8zY9KGCZvMc8WbVwS7r08DxCJEggxGgsr2u95zapB9aFXiUsH5RMfj9fJPWwgbhrAh4uUraN0gyGhASRzrApHLMFNxk1yXlwM=;xqKM9FZVXphRTZgBBfz3+Q=="
+secured: "WJdhtTiC4cbzLH7DKR7/BxLBu1KixfeGrOz8Fg84/RHqgwyi99erIntvadj8iqp+qPcxoSWUfRWCz0ESb/X9NB8NeG5Oh2UjHWZl+XftfsOP1k99rfM14KbC3lzYva77KnLUDswsf0sqcbhaW8ufKZamVK1mG9IUHzZhEoJirxl86Wejw/KRKjxJdtyncXLYnUY9kYNvItimk69Y5tLtgLfKX0AS5/ijHS50EzDN+ZLmnOLFW36+KEIfe+KuZHP59bYcoZPQpTqhuP0b6whC6QVnL2lR4qyfJbTAXOoB17aD0UTFTLPqlM++Hw9zc8zt9Hrv63XQoe2rUXxmK/omWtFi9LwPvPQ413OvQsh8Eoi3pCKutOviPG+/9gxsG6ttH4MIRthDuFsqLWGTSayMtlWtlRWTUHw00smmTgt/2aGSwYvaG5+Ooka/V+1qGmwjOUD2ut5A5sOXlCypvlyjNm4+mP+bqFoZRPWqvahoXNri7S+5TDEg7xjzhg7iD/KsXvBRf5/9d/rsnv6nR4xdVw==;R7TiA6rO5rJwEmvf9Lfo4w=="
 ---
 

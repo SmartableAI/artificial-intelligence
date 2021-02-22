@@ -34,7 +34,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://techbullion.com/wp-content/uploads/2017/02/global-wealth-management-market.jpg"
         width: 740

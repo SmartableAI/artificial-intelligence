@@ -139,20 +139,6 @@ related:
         width: 848
         height: 565
         isCached: true
-  - title: "Google to Reorganize AI Teams in Wake of Researcher’s Departure"
-    excerpt: "Google will restructure its responsible artificial intelligence efforts to centralize teams under a single executive, according to people familiar with the situation, as the internet giant tries to stabilize groups working on ethics research and products after months of chaos."
-    publishedDateTime: 2021-02-18T05:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOZvPbyletXA/v0/1200x796.jpg"
-        width: 1200
-        height: 796
-        isCached: true
   - title: "Google Fires Researcher Meg Mitchell, Escalating AI Saga"
     excerpt: "Google fired the lead of its Ethical Artificial Intelligence team, Meg Mitchell, escalating the turmoil surrounding its AI division after the acrimonious exit of Mitchell’s former colleague Timnit Gebru."
     publishedDateTime: 2021-02-20T04:51:00Z

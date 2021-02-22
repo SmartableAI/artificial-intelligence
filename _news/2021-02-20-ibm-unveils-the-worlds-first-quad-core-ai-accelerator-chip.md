@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp"
 type: article
 quality: 104
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1000
     height: 564
     isCached: true
+
+related:
+  - title: "Google’s Voice AI accelerator launches 12 startups"
+    excerpt: "Google today announced the first cohort in its Google for Startups Accelerator: Voice AI, a 10-week program designed to pair startups with experts to help tackle product development, machine learning,"
+    publishedDateTime: 2021-02-22T21:01:00Z
+    webUrl: "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/"
+    ampWebUrl: "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/google-assistant-e1576024709186.jpg?w=1200&strip=all"
+        width: 1197
+        height: 601
+        isCached: true
 
 secured: "hGFCdjmW/73MkOqTzxbzEL3m7S7Hr2v1VQNmHzpgpoKjpACGCCm9eg5CcN2yIdybGKFTZose8TWss2lDBS0fT2ejzeYskFQBY7/aSbN/8y8AzkPG/hEzUMBpex/OcpTTMRnVUP7xPphIP+Hh78EBrdJGKp3BS/KCxRADkI+zVj5BWQucpSKWWjDv0A4cHJMQ9FRixFt4ZyF7jLQGiGMRfgTRCeSKQcDwyzp36kMscBV0gVWYduhwee7/M48tqWENvGDt1igRTusIKiERE+rw4qckGwArM0//3M6cTtLwYWzXOcYDXlmdxwM7r2gsGpUS95Rn7omv/VqWS+eCJ7xArVGJqJ74VcMCYydXTWbv6f+aui+OWuFqERjoXuSOq8jbJlxOgaBKEfFif4w7A9h1zqlbcKeX2dlJ5me7p4sKd0CefjviA1bxgVVVivjXScdTX4i6pPQHYTOqy2uXxkqeyBy+RT54UBv8knUON/ykkf+5TNWHpTwFQ/l9pyy82nVi07M4oa6ceKhNgNwyPGOdoQ==;O1x/PIEYn6wO1f+66T0eLg=="
 ---

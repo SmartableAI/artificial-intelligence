@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-marg
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -139,6 +139,15 @@ related:
         width: 280
         height: 360
         isCached: true
+  - title: "Google fires top AI ethicist"
+    excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
+    publishedDateTime: 2021-02-22T22:09:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/02/22/google-fires-top-ai-ethicist.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "v1rzgYoLzcCREKeHn0titWQ56TC98DsvVZ3yXh5PNxp/Mkrfu58qTVwY6h+GpXU67362c8kPhOyAVyLiNuqyCVxjPYDuRPZYlvSQ2YK+WyUaiqusTDCaR/6/y9XEatnF8ZqCxG+yA44jiAhTaIW4fe3Swc2ui0a41ajCXIVqrfwGyk+as4GAp6WWyF4vYr08dUlLvbdurD7v4wqR74tVYw8/guambd3DiHtDKsYdRt05qsWJXk3lOFH6iVkA6qhpkmkUbL6nFt9PUYwdqgFdowUFibZsGAgz9r77LdyUnv8UrPw4zwaoe+aU6i1Li61qK6I0HJNEHbCyv7GzPJGCgUATm+kNfX8wEKuqsHG7JkJBuX1/64mgtjYJN3+b2qiLGJ9ERkLCMfnwGVla10w3euS7uicIz6RyVSvQq90hBgTjxk4GW/PNNeA4JL3P0obuSsvbsQKbvjYnH/EkYcNvScxUiX4wIBWnAJQv0ZkR4yrqv0Wq2K/h/wwEcOX1JMbXi7XFPwbnWvgaeRNRCagHmQ==;AHIMdg2qQ4cTL35QUekXHQ=="
 ---

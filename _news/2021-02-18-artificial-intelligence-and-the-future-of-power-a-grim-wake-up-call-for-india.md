@@ -9,7 +9,7 @@ ampWebUrl: "https://www.prokerala.com/news/articles/a1132144.html?amp=1"
 cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1132144.html?amp=1"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.thestatesman.com/wp-content/uploads/2021/02/d2f55d55ac5ce91e531c2dfbc9994da2.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "‘Artificial Intelligence and the Future of Power’ a grim wake-up call for India (Book Review)"
-    excerpt: "With Artificial Intelligence helping “biological materialism sneak in through the back door”, the world is witnessing a real clash of civilisations with “the battle between algorithm and being” writes Rajiv Malhotra,"
-    publishedDateTime: 2021-02-18T06:54:00Z
-    webUrl: "https://newsd.in/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india-book-review/"
-    ampWebUrl: "https://newsd.in/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india-book-review/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india-book-review/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 48
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
-        width: 1080
-        height: 582
         isCached: true
   - title: "‘Artificial Intelligence and the Future of Power’ a grim wake-up call for India (Book Review) (Repeating, correcting intro)"
     excerpt: "With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with"
