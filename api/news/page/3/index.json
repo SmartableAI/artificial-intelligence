@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-19-the-cambrian-ai-landscape-intel.md",
+      "title": "The Cambrian AI Landscape: Intel",
+      "excerpt": "Domain Specific Architectures. Pat Gelsinger will likely double down in this field to increase the company's presence in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602e9ea0f929fbb1d0e6d1da%2F0x0.png%3FcropX1%3D0%26cropX2%3D864%26cropY1%3D37%26cropY2%3D524",
+          "width": 864,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/amp/",
+      "publishedDateTime": "2021-02-18T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-will-the-future-of-security-be-led-by-robots-aitx-president-says-yes.md",
       "title": "Will the future of security be led by robots? AITX president says yes",
       "excerpt": "Could the future of security be led by robots? Artificial Intelligence Technology Solutions — commonly known as AITX — thinks so. The",
@@ -833,7 +886,7 @@
       "originalUrl": "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1140,58 +1193,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024.md",
-      "title": "Cloud Natural Language Processing (NLP) Market Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2024",
-      "excerpt": "Selbyville, Delaware. The report on Cloud Natural Language Processing (NLP) market is a comprehensive evaluation",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024-2021-02-18?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024-2021-02-18?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T16:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

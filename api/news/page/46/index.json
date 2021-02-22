@@ -2,6 +2,143 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-01-19-ai-and-creativity-why-openais-latest-model-is-a-big-deal.md",
+      "title": "AI And Creativity: Why OpenAI’s Latest Model Is A Big Deal",
+      "excerpt": "OpenAI—the research organization behind last summer’s much-hyped language model GPT-3—released a new AI model named DALL-E. While it has generated less buzz than GPT-3 did, DALL-E has even more profound implications for the future of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005ff901c6ca277f62e83f1%2F0x0.jpg",
+          "width": 730,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/amp/",
+      "publishedDateTime": "2021-01-18T17:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-appreciating-a-flowers-texture-color-and-shape-leads-to-better-drone-landings.md",
+      "title": "Appreciating a flower's texture, color, and shape leads to better drone landings",
+      "excerpt": "However, the rise of small electronics and robotic systems has also made these questions relevant to robotics and Artificial Intelligence (AI). Small flying robots for example are extremely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/01/210119114409.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210119114409.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-digital-health-and-artificial-intelligence-for-ptsd-improving-treatment-delivery-through-personalization.md",
+      "title": "Digital Health and Artificial Intelligence for PTSD: Improving Treatment Delivery Through Personalization",
+      "excerpt": "Artificial intelligence methods can also be used to ... made possible by delivering the treatment through a digital interface. Therapy process data can be used as a source to inform natural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healio.com/psychiatry/journals/psycann/2021-1-51-1/{5c621910-0477-49d4-954f-4171af38b5ed}/digital-health-and-artificial-intelligence-for-ptsd-improving-treatment-delivery-through-personalization",
+      "originalUrl": "https://www.healio.com/psychiatry/journals/psycann/2021-1-51-1/{5c621910-0477-49d4-954f-4171af38b5ed}/digital-health-and-artificial-intelligence-for-ptsd-improving-treatment-delivery-through-personalization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healio",
+        "domain": "healio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-healthcare-and-artificial-intelligence-reimagining-the-future-of-care.md",
       "title": "Healthcare and Artificial Intelligence - Reimagining the Future of Care",
       "excerpt": "I had the honor of participating in a discussion* on the future of artificial intelligence in health care hosted by Washington Post Live. I was joined by Dr.",
@@ -997,145 +1134,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection.md",
-      "title": "Fitch invests in AI start-up to improve bank misconduct detection",
-      "excerpt": "Credit rating agency seeks to expand how it evaluates lenders’ riskiness amid raft of scandalsRead more on 'Financial Times Companies'",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
-      "publishedDateTime": "2021-01-17T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-natural-language-processing-market-share-industry-size-leading-companies-outlook-upcoming-challenges-and-opportunities-till-2026.md",
-      "title": "Natural Language Processing Market Share, Industry Size, Leading Companies Outlook, Upcoming Challenges and Opportunities till 2026",
-      "excerpt": "\"Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101448769/Natural-Language-Processing-Market-Share-Industry-Size-Leading-Companies-Outlook-Upcoming-Challenges-and-Opportunities-till-2026",
-      "originalUrl": "https://menafn.com/1101448769/Natural-Language-Processing-Market-Share-Industry-Size-Leading-Companies-Outlook-Upcoming-Challenges-and-Opportunities-till-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?333133",
-          "width": 375,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-17T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
-      "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
-      "excerpt": "The pandemic created a new sense of urgency regarding getting AI and ML projects completed, a key point made by CIOs across the financial services and tech sectors last year during interviews.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70cdf27a22d0b0bf2220f7%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-17T17:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

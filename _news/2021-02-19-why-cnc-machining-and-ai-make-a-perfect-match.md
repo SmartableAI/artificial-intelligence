@@ -158,6 +158,20 @@ related:
         width: 1920
         height: 1118
         isCached: true
+  - title: "How banks are harnessing artificial intelligence"
+    excerpt: "Technology is everywhere in the financial services industry, and banks have been building their artificial intelligence (AI) bona fides in recent years. Components of AI include natural-language processing,"
+    publishedDateTime: 2021-02-22T08:49:00Z
+    webUrl: "https://www.investmentexecutive.com/newspaper_/building-your-business-newspaper/how-banks-are-harnessing-artificial-intelligence/"
+    type: article
+    provider:
+      name: Investment Executive
+      domain: investmentexecutive.com
+    quality: 39
+    images:
+      - url: "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/02/iStock-1211725238-800x600px.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "New AI-Enabled Virtual Screening Tool Identifies Most Promising Approved Drugs for Success in Treating COVID-19"
     excerpt: "WorldQuant Predictive (WQP), an AI predictive products company, and CAS, a division of the American Chemical Society that specializes in scientific information solutions, have partnered to develop a groundbreaking methodology that can save time and lives by helping research teams rapidly prioritize the most promising drug candidates to treat COVID-19 and other critical diseases."
     publishedDateTime: 2021-02-19T08:32:00Z

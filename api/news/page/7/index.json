@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-15-a-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-covid-19.md",
+      "title": "A machine learning approach to identify drugs that could be repurposed to fight COVID-19",
+      "excerpt": "When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
+      "publishedDateTime": "2021-02-15T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-the-self-driving-car-companies-going-the-distance-infographic.md",
+      "title": "The Self-Driving Car Companies Going The Distance [Infographic]",
+      "excerpt": "The California DMV has released its latest autonomous vehicle disengagement report which provides an objective look at the state of the technology's development across several dozen manufacturers",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/",
+      "originalUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a55b98a743748242cd9bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D34%26cropY2%3D709",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/",
+      "publishedDateTime": "2021-02-15T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2021.md",
       "title": "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2021",
       "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
@@ -90,10 +185,10 @@
     {
       "path": "_news/2021-02-15-natural-language-processing-trends-that-impact-enterprises-in-2021.md",
       "title": "Natural Language Processing Trends That Impact Enterprises in 2021",
-      "excerpt": "With companies such as Google and Microsoft producing new discoveries on a consistent basis, NLP has made quantum leaps in terms of accuracy, speed and methodology to aid computer scientists as they tackle complex issues.",
+      "excerpt": "Natural language technologies are quickly gaining traction in the enterprise. We are seeing huge numbers of companies every week rolling out text analytics solutions, speech recognition systems, chatbots and every other language-processing use case imaginable.",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021",
-      "originalUrl": "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1131,110 +1226,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across.md",
-      "title": "Predictiv AI Partners With MCL Sustainable Cleaning Solutions To Sell Into Education, Government and Food Service Sectors Across",
-      "excerpt": "Canada Canada NewsWire TORONTO, Feb. 12, 2021 MCL",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-13T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace.md",
-      "title": "Artificial Intelligence in Security Market Next Big Thing | Major Giants Amazon, IBM, Darktrace",
-      "excerpt": "COVID-19 Outbreak-Global Artificial Intelligence in Security Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace-2021-02-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace-2021-02-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

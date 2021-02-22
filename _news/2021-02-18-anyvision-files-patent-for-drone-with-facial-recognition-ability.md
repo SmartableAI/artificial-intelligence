@@ -7,7 +7,7 @@ originalUrl: "https://en.globes.co.il/en/article-anyvision-files-patent-for-dron
 webUrl: "https://en.globes.co.il/en/article-anyvision-files-patent-for-drone-with-facial-recognition-ability-1001361234"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FTC Settles Facial Recognition Data Misuse Allegations with App Developer"
-    excerpt: "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app"
-    publishedDateTime: 2021-02-17T16:26:00Z
-    webUrl: "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer"
-    ampWebUrl: "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 58
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "AnyVision files patent for facial recognition drone"
     excerpt: "Israeli facial recognition technology developer AnyVision has filed a patent, which would allow drones to change the angle of their flight, so that a mounted camera would be able to a better picture of a person,"
     publishedDateTime: 2021-02-18T15:49:00Z

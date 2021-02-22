@@ -41,20 +41,6 @@ related:
         width: 800
         height: 360
         isCached: true
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
-    publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
   - title: "Microsoft warns on-prem customers to protect own identity infrastructure"
     excerpt: "Microsoft is urging customers to embrace the cloud for security, warning customers with on-premises services that they are responsible for protecting their own identity infrastructure. The software giant strongly recommends that customers manage identity and access from the cloud,"
     publishedDateTime: 2021-02-21T19:56:00Z

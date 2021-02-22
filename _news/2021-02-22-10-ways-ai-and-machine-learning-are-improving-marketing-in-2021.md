@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
 type: article
 quality: 121
-heat: 221
+heat: 231
 published: true
 
 provider:
@@ -149,6 +149,20 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
         width: 1920
         height: 1118
+        isCached: true
+  - title: "How banks are harnessing artificial intelligence"
+    excerpt: "Technology is everywhere in the financial services industry, and banks have been building their artificial intelligence (AI) bona fides in recent years. Components of AI include natural-language processing,"
+    publishedDateTime: 2021-02-22T08:49:00Z
+    webUrl: "https://www.investmentexecutive.com/newspaper_/building-your-business-newspaper/how-banks-are-harnessing-artificial-intelligence/"
+    type: article
+    provider:
+      name: Investment Executive
+      domain: investmentexecutive.com
+    quality: 39
+    images:
+      - url: "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/02/iStock-1211725238-800x600px.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Why CNC Machining and AI Make a Perfect Match"
     excerpt: "What’s next for the world of CNC operators? An increasing move to incorporate artificial intelligence, or AI, into operations. Over the next several years, CNC machining could see something of a revolution that includes machines that respond to Alexa-like voice commands."

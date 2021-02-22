@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/uk-wales-56130226"
 webUrl: "https://www.bbc.com/news/uk-wales-56130226"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://images.ctfassets.net/pjshm78m9jt4/5x0PguEvu7nV4nk6tydB3R/bb28847e39ee093daa2546ee6a408add/Screen_Shot_2021-02-19_at_15.56.23.png"
         width: 2836
         height: 1620
-        isCached: true
-  - title: "Petition calls for EU ban on facial recognition"
-    excerpt: "Facial recognition technology is under fire again in Europe as digital and human rights organisations launched a petition calling for a ban on biometric surveillance in public spaces. The European Citizens’ Initiative (ECI) calls on the European Commission to regulate the use of biometic technologies,"
-    publishedDateTime: 2021-02-17T15:10:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/petition-calls-for-eu-ban-on-facial-recognition"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1613574436/widgetdocs/Biometric_surveillance_jwbisi.jpg"
-        width: 750
-        height: 445
         isCached: true
   - title: "Facial recognition: Sexual predator caught on CCTV"
     excerpt: "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,"

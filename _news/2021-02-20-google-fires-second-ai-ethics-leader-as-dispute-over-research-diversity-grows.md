@@ -3,10 +3,10 @@ category: news
 title: "Google fires second AI ethics leader as dispute over research, diversity grows"
 excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
 publishedDateTime: 2021-02-20T01:26:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSKBN2AJ2JA"
-webUrl: "https://www.reuters.com/article/us-alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSKBN2AJ2JA"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2JA"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2JA"
+originalUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-research-leader-amid-diversity-research-freedom-controversies-idUSKBN2AJ2JA"
+webUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-research-leader-amid-diversity-research-freedom-controversies-idUSKBN2AJ2JA"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
 type: article
 quality: 100
 heat: -1
@@ -286,6 +286,6 @@ related:
         height: 576
         isCached: true
 
-secured: "X0fNFDtG+OjrNcNDokaaesa4nYNJd7rqm/srMa5oPmMi9MZnk1d/PkvziZZHGgPmLmm10vnZJ3QkXS6Yakf4u6k+TB3i/PBBkHSpLow9nB2nzlE1pM8Yv0ef4a8TdWACZXwDa2dQvO7cPhTTIcylcTQFYv0jMObBVRUzxdCcfV+UNamh22aRvNU8QNMGRwXLkljhERJivtPQn/R7eED7vrS4oQlmYHWkb70HvB7LK7ggFs3Lmmze9cbFGlsQwNTzQRxlJt9aOpspppOJAaAS9jW2QddEf/eEUHkRSo4dQ6MSrRtH+Q1+ptgGqEqToKkzpp60GbUieO/zot5skH/eVumueQ9LXyGqyb+Lq0p9aABzQYlyfMANx7ihoaCS/AOI0RkGKMXdJg5gmSjz0v6LGmMHOFPVd4c0y9sk8CtqCMB8boMFOu+q1Q4y0C/QdigAPA5pPtUk6/O3DzEw7tXVL8JxaNeSJ88A7CAhklt7VkeEjokdy31PER8DuYyxhkT5tu3NErbvig0aLuE/5eb5bQ==;QMGkGUy4tnOZwT80d6MFdQ=="
+secured: "MVRmJiRffmn6TC7Tcks2Dd1Iv4RHoCXqrGZAreP/OLrnbrNtQGN4RoecCKJgDDO57K7QJhxohXO6Nzh1W0nR1y/j1c98a4EvtjYTUt3dOrZeCnV2o7/uz4kL34EdkSsYHmLlpk4yrOaDlucd2HX+UDRmpxsbOdabyUJi5cl/3D2l07WUSnthWzq622xICsnwz0rKmnwZKwD603EOQbqdefsTFBZnyNPseTh/Y1SvQkzo0XehuwCRQSxr1lN9VwcA2a5PyigopgBU+pVEET+oeW0YtuFhbFKSQe3EHnHiYaCyqIANmcrulNSnjC3I6yosVI/5COKWLLgPgfzCrhTAQpXkFKOInx5YeL208AJ/aTg=;sozdchDNe1+gcqEb/huihw=="
 ---
 

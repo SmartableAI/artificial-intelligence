@@ -59,20 +59,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Samsung Announces HBM Tech with Built-in AI Processing"
-    excerpt: "Samsung today announced what it’s calling the industry’s first high bandwidth memory (HBM) memory with built-in AI processing capability. The new device –"
-    publishedDateTime: 2021-02-17T19:55:00Z
-    webUrl: "https://www.hpcwire.com/2021/02/17/samsung-announces-hbm-tech-with-built-in-ai-processing/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Image_HBM-PIM-Main-e1613579775564.jpg"
-        width: 915
-        height: 559
-        isCached: true
   - title: "Samsung Stuffs 1.2TFLOP AI Processor Into HBM2 to Boost Efficiency, Speed"
     excerpt: "Samsung has developed a new type of processor-in-memory, built around HBM2. It's a new achievement for AI offloading and could boost performance by up to 2x while cutting power consumption 71 percent."
     publishedDateTime: 2021-02-17T19:18:00Z
@@ -86,50 +72,6 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2021/02/Samsung-HBM-PIM-Feature.jpg"
         width: 1344
         height: 743
-        isCached: true
-  - title: "Samsung completes development for HBM-PIM, industry's first High Bandwidth Memory with on-chip AI processor"
-    excerpt: "The new HBM-PIM chips will deliver over twice the system performance of the current HBM2 solutions and reduce energy consumption by more than 70%. Samsung designed this new memory architecture in order to accelerate large-scale processing in data centers,"
-    publishedDateTime: 2021-02-17T17:22:00Z
-    webUrl: "https://www.notebookcheck.net/Samsung-completes-development-for-HBM-PIM-industry-s-first-High-Bandwidth-Memory-with-on-chip-AI-processor.522382.0.html"
-    type: article
-    provider:
-      name: NotebookCheck
-      domain: notebookcheck.net
-    quality: 36
-    images:
-      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/HBM_PIM_PR_DL2.jpg"
-        width: 2000
-        height: 1415
-        isCached: true
-  - title: "Samsung Electronics Develops the Industry’s First Memory Integrated with Artificial Intelligence Called “HBM-PIM”"
-    excerpt: "Samsung Electronics has developed the world’s first memory semiconductor integrated with an AI (Artificial Intelligence) professor. This memory is able to read or store data just like memories and i"
-    publishedDateTime: 2021-02-18T08:59:00Z
-    webUrl: "https://english.etnews.com/20210218200001"
-    ampWebUrl: "https://english.etnews.com/amp/20210218200001"
-    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210218200001"
-    type: article
-    provider:
-      name: Etnews.com
-      domain: etnews.com
-    quality: 36
-    images:
-      - url: "https://img.etnews.com/news/article/2021/02/18/article_18105837133771.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Samsung introduces HBM-PIM – the world’s first HBM with artificial intelligence"
-    excerpt: "PIM, this is the world’s first High Bandwidth Memory integrated with artificial intelligence processing power. Featuring a processing-in-memory design, HBM-PIM is aimed at data centre use, HPC systems,"
-    publishedDateTime: 2021-02-18T09:21:00Z
-    webUrl: "https://www.kitguru.net/components/memory/joao-silva/samsung-introduces-hbm-pim-the-worlds-first-hbm-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 33
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2021/02/JaFBrGHH2VoBVxxz-732x330.jpg"
-        width: 732
-        height: 330
         isCached: true
 
 secured: "V74QEU2JiJMXwFfhJO7xK7pwS5obNDnRexsBmTT2f9XEZ0LHluFE0W/Z20S33neAvcdzukRUgpnI0CW3m2G7t09vv5jRHuUNyyy3HqQENBPd1KHGj+YFlckpzXDQLOo/cNlIBbkPIdXnqqRwco7Z1rQf7GexQqxiivfDYETki5rE1K26XfGAchr52Yi/4KR1pj5nNUhTLSn9PAiwR/NVDXdAf7qaZBYCJkmOYMdExQKsnvXcsWfEjYv8yasTlR3SgoFpBS+9wz7stPWYokkA4TJD6a0v0B0GAzXV5cFacNKhwe06NmVKbiZb6M3zbkxlXjdb38nT/0V2c+HiDwDVljr3zIGy/IFXT2ux/7QFt7o=;+HGKjwMARVZ+MPzArAFkwA=="

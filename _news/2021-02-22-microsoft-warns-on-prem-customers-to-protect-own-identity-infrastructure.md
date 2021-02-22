@@ -41,20 +41,6 @@ related:
         width: 800
         height: 360
         isCached: true
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
-    publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
   - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
     excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
     publishedDateTime: 2021-02-19T07:23:00Z

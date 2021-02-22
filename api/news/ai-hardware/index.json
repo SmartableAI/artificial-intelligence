@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-21-samsung-set-to-complete-stability-of-hbm-pim-chips.md",
+      "title": "Samsung set to complete stability of 'HBM-PIM' chips",
+      "excerpt": "Samsung Electronics is further deepening its technology moat in the semiconductor sector as the Korean tech giant is set to complete test",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/samsung-set-to-complete-stability-of-hbm-pim-chips-9834933",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/samsung-set-to-complete-stability-of-hbm-pim-chips-9834933",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/samsung-set-to-complete-stability-of-hbm-pim-chips-9834933",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/samsung-set-to-complete-stability-of-hbm-pim-chips-9834933",
+      "publishedDateTime": "2021-02-21T00:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip.md",
       "title": "IBM unveils the world’s first quad-core AI accelerator chip",
       "excerpt": "IBM has unveiled the world’s first quad-core, artificial intelligence (AI) accelerator chip, built using seven-nanometer (7nm) MOSFET technology. IBM optimized the novel chip for low-precision workloads with support for many AI models.",
@@ -264,7 +307,7 @@
       "originalUrl": "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1385,59 +1428,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026.md",
-      "title": "North America AI Chipsets Market Overview with In-Depth Analysis and Forecast (2020-2026)",
-      "excerpt": "The North America AI chipsets market from Central Processing Unit (CPU) segment is projected to grow at a CAGR of 30% over the forecast period. The growth is credited to several features offered by the CPU architecture such as low latency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

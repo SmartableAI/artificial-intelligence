@@ -74,9 +74,9 @@ related:
   - title: "Google fires second AI ethics leader as dispute over research, diversity grows"
     excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
     publishedDateTime: 2021-02-20T01:26:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-idUSKBN2AJ2JA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2JA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2JA"
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-research-leader-amid-diversity-research-freedom-controversies-idUSKBN2AJ2JA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
     type: article
     provider:
       name: Reuters

@@ -2,6 +2,154 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-01-20-microsoft-joins-2b-investment-in-cruise-to-speed-commercialization-of-self-driving-vehicles.md",
+      "title": "Microsoft joins $2B investment in Cruise to speed commercialization of self-driving vehicles",
+      "excerpt": "The company had planned to launch a self-driving commercial taxi service in 2019, but missed that deadline. Microsoft previously partnered with Chinese tech giant Baidu as its cloud partner for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
+      "originalUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/01/Cruise-Track-3-in-Seattle-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
+      "publishedDateTime": "2021-01-19T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots.md",
+      "title": "Health tech company uses Azure and AI to create priority list for COVID vaccination shots",
+      "excerpt": "Jvion uses Microsoft Azure to power CORE ... In April, Jvion used its artificial intelligence (AI) engine to build a map that shows which residents in a community are at highest risk for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "publishedDateTime": "2021-01-19T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
+      "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
+      "excerpt": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official Delhi: Man held for operating 46 fake firms, helping businesses evade tax Calling all fitness ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-80348042/80348042.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
+      "publishedDateTime": "2021-01-19T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to-text-technology.md",
       "title": "Eden Health selects nVoq to increase productivity by enabling home health caregivers with speech to text technology.",
       "excerpt": "PRNewswire/ -- nVoq, a leading provider of HIPAA compliant speech recognition solutions for post-acute care, is pleased to announce Eden Health has selected nVoq's innovative",
@@ -1061,161 +1209,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others.md",
-      "title": "Intel Unit MobilEye’s Strategy To Win Self-Driving Is Very Different From Tesla, Waymo And Others",
-      "excerpt": "You may not see MobilEye named as a major contender in self-driving a lot, but their radical strategy takes interesting bets and makes them a top company to watch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006667bd1af2435b265762f%2F0x0.jpg",
-          "width": 1199,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
-      "publishedDateTime": "2021-01-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-will-ai-save-the-movie-consumer.md",
-      "title": "Will AI Save The Movie Consumer?",
-      "excerpt": "Any organization planning to use AI in their processes should collect a diverse and trusted set of data upon which to perform thorough back-testing to reach the necessary precision for their intended application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe0c5cc58f86207d3472bdb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/amp/",
-      "publishedDateTime": "2021-01-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-remote-care-startup-k-health-valued-at-over-14-billion.md",
-      "title": "Remote Care Startup K Health Valued at Over $1.4 Billion",
-      "excerpt": "K Health raised $132 million in a funding round led by GGV Capital and Valor Equity Partners after the Covid-19 pandemic led to a surge in use for remote health-care apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-19/health-care-startup-k-health-valued-at-over-1-4-billion",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-19/health-care-startup-k-health-valued-at-over-1-4-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3bIuOotwAsw/v0/1200x660.jpg",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
