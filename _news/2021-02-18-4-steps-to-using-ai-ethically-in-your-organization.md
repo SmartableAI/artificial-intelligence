@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/4-steps-using-ai-ethically-your-org
 webUrl: "https://www.linkedin.com/pulse/4-steps-using-ai-ethically-your-organization-bernard-marr"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "This startup is using AI to eradicate malaria"
-    excerpt: "A startup called ZzappMalaria hopes to shrink these numbers by targetting the mosquitoes that transmit the infection. The company’s tech focuses on larviciding, a method of treating the water bodies in which the insects breed."
-    publishedDateTime: 2021-02-17T21:11:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/17/zzappmalaria-startup-app-ai-eradicate-malaria/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/17/zzappmalaria-startup-app-ai-eradicate-malaria/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/17/zzappmalaria-startup-app-ai-eradicate-malaria/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-17T201426.434-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
 
 secured: "YAN2Ns7Y2nb9yCCLutgOKZfhLtkPrJesmWQPmZlItsEWqwRgOIdw5/Xm3dM6PAKKtrYp3GSY/rBluztdjO1wzESg46XkVaE1uqxxITIOEou2fSMmksbb7uv3FKQwNnVHLgyh8kR238sKDajbjucTD4Cz4xtbgHycuOU34cafCzha1myOp/sFBh4fF4ZL+gg43q05vObTdUOPvu4zeI1FigWlL3UJg9aVFCU+JPaOrQZ+A5DDrQ18PxroGxQpk8ow6Tt1MYWy8AewTAn/PDegcVfdzVm36ROLw3UXe6mNxGT90Bl530bkErnukixtVNG/ufPhNjIxD6RkAn/5ZZIOH0KhrQBkG9FarM3lOkY/QK2BM0ugoWrPK8w1FH6Xcdy9YCKxJOoz8tddKQjRtLLnTDaY8aqitPaC5iCQsj5BhpILACbByhBbtzF4vbH1FqdCoDnxTQWwyqhsUk5ykSzlzaQTiCdSEB2K5979msdFG579Dpnvno8ypXWGMnKnsFD84jfbXZwW22Fw41H9dknPVA==;uiX2ibwsZncD7UcGsB9ZJA=="
 ---

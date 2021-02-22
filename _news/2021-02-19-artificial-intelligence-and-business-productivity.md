@@ -33,20 +33,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "How insurance can help build trust in artificial intelligence"
-    excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
-    publishedDateTime: 2021-02-19T00:07:00Z
-    webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 37
-    images:
-      - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
-        width: 1440
-        height: 753
-        isCached: true
 
 secured: "rDcECCnY5PYLR27JzwlLi1UU2a9cG8LISFJRMharIPEy+baAPkMdY9Y67RjdsrJTgr+Tm3caDvHVFQo99csRQMYUeyyUaV6q40hm4Eo/NDOO/hdMZCKcP3drm2rE0ggVB3wkNpPPY3I5orPbE6DIaIQgA3yHSpx//8/KjEs7mfv6B+PLMQpXXAL5wvdK2Zol9ht2xU2K8A6Z+7St2I7Gz3muCNhk/4EogCipu8XU9qI6486lHc7nXlwzD02Nbnx5jg/jDMBfA7eeMDXNfrA2T8jOD1bL6ionNfT07SdMJE3n5V0ABGPMM3BBE9BknsBldr4hrtjqovE3lLUv/IlmEQd4BE4koELBRKc/fboL2NE=;Si/tnns58H1/A4iq2LPGhQ=="
 ---

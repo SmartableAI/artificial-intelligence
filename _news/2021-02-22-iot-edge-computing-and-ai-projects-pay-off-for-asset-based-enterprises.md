@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3607672/iot-edge-computing-and-
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3607672/iot-edge-computing-and-ai-projects-pay-off-for-asset-based-enterprises.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Behind The Scenes Of AI, IoT And 5G Advancement"
+    excerpt: "On the bright side, such disruptive innovation dynamics and marketing wars will stimulate ongoing technological progress."
+    publishedDateTime: 2021-02-22T13:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "gWz+s8yBUIFSNTgGujcWtZHwp646vkoPEmuLy+1ts128jo7ClgA8ZYgU76FOJXDj4uVi+nzeR58l/rxmuGvSY3Gw4dOWWoo/+pxrxhatYOhakQh+yaVj0n8W3+lMg/F5A0RAD91HNUGEOl3XjVWrugDu/y7xbfUmPS85/0sUuJfnHdEgX56d0Acxuw10OxqiifgPXndjBmb98RZ+X/O+263veXV8osuxN5+wyMmaCm8hWKCdXrAw3EpeRa+y3Va8oW/oz1QqF4l02KznJgDSIdfbzJRB82+udb9sx0AI/22goDuGc5LtyCaklgixGp079QWOwsyf9WSyAleM/KQTuAgCAh+Diy9zI8wQoEPQbw8=;Fm+s1irvSy0sKHN0womuWA=="
 ---

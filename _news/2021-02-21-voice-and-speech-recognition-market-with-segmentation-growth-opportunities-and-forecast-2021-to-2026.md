@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Fintech Market 2021 Key Players, Share, Trend, Segmentation and Forecast to 2027"
-    excerpt: "New Study Reports \"AI in Fintech Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \" AI in Fintech Market \" using SWOT analysis i."
-    publishedDateTime: 2021-02-17T21:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2021-key-players-share-trend-segmentation-and-forecast-to-2027-2021-02-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Hardware Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast to 2027"
     excerpt: "Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027.  Artificial intelligence (AI) has been one of the most appealing technology in recent years."
     publishedDateTime: 2021-02-19T12:27:00Z
@@ -92,6 +78,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Neural Networks Market Product Scope, Demand, Business Scenario, Trends, Share, Applications, Types and Forecasts 2020 - 2027"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
+    publishedDateTime: 2021-02-22T13:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-product-scope-demand-business-scenario-trends-share-applications-types-and-forecasts-2020---2027-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

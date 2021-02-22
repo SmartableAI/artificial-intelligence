@@ -2,6 +2,111 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-01-27-the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation.md",
+      "title": "The Inner Game Of AI (And How To Not Make The Same Mistakes You Made With Digital Transformation)",
+      "excerpt": "Implementing AI is a daunting challenge. It requires orchestrating seismic and complex change, retraining existing talent and acquiring new expertise. Learn how to not get it wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010935ebcc42bb3e75a9c62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D640%26cropY1%3D10%26cropY2%3D490",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/",
+      "publishedDateTime": "2021-01-27T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-ai-ethics-really-come-down-to-security.md",
+      "title": "AI Ethics Really Come Down To Security",
+      "excerpt": "If we're going to rely on them to take more active and responsible roles in our lives, we must be able to trust that they're not only ethical but that the AI and the machine learning that underpins them operate safely and securely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
+      "publishedDateTime": "2021-01-27T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-yati-ernie-machine-learning-in-yandex-and-baidu.md",
       "title": "YATI & ERNIE: Machine Learning in Yandex and Baidu",
       "excerpt": "Google isn't the only search engine making strides in machine learning. See how Yandex and Baidu have advanced search with YATI and ERNIE, as well.",
@@ -1095,83 +1200,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-pluralsight-inc-class-a-common-stock-ps.md",
-      "title": "Pluralsight, Inc. Class A Common Stock (PS)",
-      "excerpt": "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
-      "originalUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-the-neurochemistry-of-flow-states-with-steven-kotler.md",
-      "title": "The Neurochemistry of Flow States, with Steven Kotler",
-      "excerpt": "Steven Kotler is an award-winning journalist, a New York Times bestselling author, and executive director of Flow Research Collective. His books include the non-fiction works The Rise of Superman ...",
-      "sourceUrl": null,
-      "webUrl": "https://bigthink.com/videos/the-neurochemistry-of-flow-states-with-steven-kotler",
-      "originalUrl": "https://bigthink.com/videos/the-neurochemistry-of-flow-states-with-steven-kotler",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.rebelmouse.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHBpcmVzX2F0IjoxNjEzMzEwNjM4LCJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJlYmVsbW91c2UuaW8vZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBiV0ZuWlNJNkltaDBkSEJ6T2k4dllYTnpaWFJ6TG5KaWJDNXRjeTh5TlRZeU1UWTRNQzl2Y21sbmFXNHVhbkJuSWl3aVpYaHdhWEpsYzE5aGRDSTZNVFkyTlRZMU9EWTBPSDAuTDBIaG5MRUt0c0dkcjNuYXZ1bTFYQ1JHYjFudkIwMWQ5SmQzLTEzdEFRSS9pbWcuanBnP3dpZHRoPTQwMCZjb29yZGluYXRlcz0xMDElMkMwJTJDMTAlMkMwJmhlaWdodD03MTEuNDI4NTcxNDI4NTcxNCZxdWFsaXR5PTY1In0.W4o6Ku-o_bRALLO7QiJvxfUGzmhg6jmtJ_ABC5ja1iE/img.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bigthink.com/amp/the-neurochemistry-of-flow-states-with-steven-kotler-2604491068",
-      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/amp/the-neurochemistry-of-flow-states-with-steven-kotler-2604491068",
-      "publishedDateTime": "2021-01-26T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

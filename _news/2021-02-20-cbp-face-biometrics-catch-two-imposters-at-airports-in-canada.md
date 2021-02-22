@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Patent filings suggest dual biometrics from Apple, mask-agnostic facial recognition from GBT"
-    excerpt: "Apple and startup GBT Technologies have each filed for patents on biometric capabilities for mobile devices. The U.S. Patent & Trademark Office (USPTO) has published a continuation of Apple’s first patent describing both Touch ID fingerprint and Face ID biometrics,"
-    publishedDateTime: 2021-02-17T21:48:00Z
-    webUrl: "https://www.biometricupdate.com/202102/patent-filings-suggest-dual-biometrics-from-apple-mask-agnostic-facial-recognition-from-gbt"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/03133758/patent-definition.jpg"
-        width: 350
-        height: 308
-        isCached: true
 
 secured: "lkBsbo3HD+vOTIhElBFEsVFjqLuzZqk4IawyiFpRYVnBjgkn64DlXea/4iKeufv3wouZjLyLvlI3H+2X5esMrPUXt4clmgIixdAMWkPIbN+rQQhpjE3p2SoZQSexXzyQHYN1gK+sWW+C1R5Q74FKGczk594PllXYOnkGYbLIPYxlUENCkh5RvoL6cMnrAcxiJEAH8b+Bq5wU+j5YFgo54Ga1htzWjwzML0k/638/vT2j/TSqE1GceB6doXEytymYX5NIynPi4TU9xmfD80psYmrb3aXd8ovJWwAaO2Y0d1WkC9d5h9eXnPnMAauSJt3malxwlHgNasJDzA3769F3Vm5AO0+x8BBAnaB4FMYQAow=;whxOwFYlJk1w82qpXQfNng=="
 ---

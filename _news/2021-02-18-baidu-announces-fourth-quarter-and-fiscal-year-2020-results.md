@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-d
 webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-349cf4d406d15ec7522c20dd94a88a8a"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Synopsys Posts Financial Results for First Quarter Fiscal Year 2021"
-    excerpt: "Synopsys, Inc. (Nasdaq: SNPS) today reported results for its first quarter fiscal year 2021. Revenue for the first quarter was $970.3 million, compared to $834.4 million for the first quarter of fiscal 2020."
-    publishedDateTime: 2021-02-17T21:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "loanDepot Announces Fourth Quarter and Full Year 2020 Financial Results"
     excerpt: "Depot’s assets are unlike any other lender in the marketplace today: – Diversified strategy: Integrated at-scale refinance and purchase business ensures that loanDepot thrives in any mortgage market."
     publishedDateTime: 2021-02-19T08:40:00Z

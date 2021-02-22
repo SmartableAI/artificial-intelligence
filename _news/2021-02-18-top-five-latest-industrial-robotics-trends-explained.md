@@ -7,7 +7,7 @@ originalUrl: "https://www.pesmedia.com/industrial-robotics-automation-trends-180
 webUrl: "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Top 5 Robot Trends 2021"
+    excerpt: "The group offers some predictions on trends happening in 2021: Robots help to secure supply chains: The pandemic situation has made the weakness of globalized supply chains visible. Manufacturers have the opportunity to rethink supply with a completely different outlook."
+    publishedDateTime: 2021-02-22T13:25:00Z
+    webUrl: "https://www.mhlnews.com/technology-automation/article/21155725/top-5-robot-trends-2021"
+    type: article
+    provider:
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2021/02/Robot_Trends.603015ccd6ec3.png?auto=format&fit=max&w=1200"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Top 5 Robot Trends 2021 – International Federation of Robotics"
     excerpt: "Robots learn new tricks: Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks. One such task is bin picking, that in the past was only feasible for a human hand. New generations of ..."
     publishedDateTime: 2021-02-18T15:15:00Z

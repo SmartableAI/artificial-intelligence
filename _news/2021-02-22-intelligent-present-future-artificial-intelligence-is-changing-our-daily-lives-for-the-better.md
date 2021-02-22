@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-22T10:57:00Z
 originalUrl: "https://www.analyticsinsight.net/intelligent-present-future-artificial-intelligence-is-changing-our-daily-lives-for-the-better/"
 webUrl: "https://www.analyticsinsight.net/intelligent-present-future-artificial-intelligence-is-changing-our-daily-lives-for-the-better/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/02/Artificial-Intelligence-13.jpg"

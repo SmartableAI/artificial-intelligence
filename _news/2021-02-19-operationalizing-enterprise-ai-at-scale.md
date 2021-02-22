@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1280
         height: 810
         isCached: true
-  - title: "Institutionalizing ethics in AI through broader impact requirements"
-    excerpt: "The Conference on Neural Information Processing Systems (NeurIPS) introduced a new requirement in 2020 that submitting authors must include a statement on the broader impacts of their research. Prunkl and colleagues discuss challenges and benefits of this requirement and propose suggestions to address the challenges."
-    publishedDateTime: 2021-02-17T22:43:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00298-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 34
 
 secured: "SzKrMnKWcmcGxy2ANGer6D2FK/CiKYIQZnE9EuVJdJ40UFWPTklt94mItTzulsKUeIepJA7wcWpCQc+z89wc4wv60V+fr1tk1l7CskJWep8kuxQKKMTCaDurmLGaE/LGlcujuIeMne1L4DkcmQhAA4FV2Kv7HUq8tn6lz0RDQrkIvDugDx5JgLGRqvl4Mv4eh6cgUqBI92UceG9CFOLX1hU3swwOgSEs6XyRUULd2WcHUNFaBCcE8CEminEXQ8epmnBfcxXfwE9uowSvbo7QbBP4QGIZPBrBA9t8fISSIhwEyRSydCM8CGQS1r8N33HTu04QJVCzPjJDgDO09i2+PhmfJ7KV04hmJP+Ke4zwa/tPAq8MJ/ukI3xVQDhYFwz1IVXbRKkLUeNlIVz+2T3OHyNsDXMQlcupX+No/JppMgJxlv7EeVpNCgSYhW+nJzjABi4C71/o5QFtNfeQamQEdZYRYSgoko1qeSRmEjLFiutXLtCil6odJuqyTBTtw1n9GQa3mqvfk15t32xKAdUBBg==;nHI7r/XhdSa8Uru8a9Tw3Q=="
 ---

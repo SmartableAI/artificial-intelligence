@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-22-bank-of-america-earns-most-patents-in-its-history-in-2020-with-a-focus-on-ai-and-security.md",
+      "title": "Bank of America earns most patents in its history in 2020 with a focus on AI and security",
+      "excerpt": "Bank of America was granted 444 patents in 2020—the concentration of its patent applications indicates a focus on use and protection of customer data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
+      "originalUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f16471cf34d050dad0c5172?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage.md",
       "title": "Fintech companies must balance the pursuit of profit against ethical data usage",
       "excerpt": "Big Tech has written the playbook for what not to do with our data, while also laying a framework for how to build exceptional experiences.",
@@ -1359,58 +1412,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-amazon-is-adding-3000-jobs-in-boston-including-in-ai-finance-and-hr-as-it-continues-its-pandemic-hiring-spree.md",
-      "title": "Amazon is adding 3,000 jobs in Boston, including in AI, finance, and HR, as it continues its pandemic hiring spree",
-      "excerpt": "Amazon is adding the new roles at its Boston Tech Hub and a 17-story office building in Seaport it's just leased.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1",
-      "originalUrl": "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/600ff20767a6bc0019d9af6f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1?amp",
-      "publishedDateTime": "2021-01-26T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

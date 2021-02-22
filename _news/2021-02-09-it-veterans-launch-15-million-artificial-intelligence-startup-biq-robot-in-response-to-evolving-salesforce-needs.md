@@ -1,22 +1,26 @@
 ---
 category: news
 title: "IT Veterans launch $1.5 million artificial intelligence Startup BiQ Robot, in response to evolving Salesforce needs."
-excerpt: "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot, soon available on the"
-publishedDateTime: 2021-02-08T18:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19543999"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19543999"
+excerpt: "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot , soon available on the Salesforce AppExchange. BiQ Robot deep-cleans and updates Salesforce contact files' details autonomously through the application of AI and other innovative technologies."
+publishedDateTime: 2021-02-09T02:42:00Z
+originalUrl: "https://menafn.com/1101567043/IT-Veterans-launch-15-million-artificial-intelligence-Startup-BiQ-Robot-in-response-to-evolving-Salesforce-needs"
+webUrl: "https://menafn.com/1101567043/IT-Veterans-launch-15-million-artificial-intelligence-Startup-BiQ-Robot-in-response-to-evolving-Salesforce-needs"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "5fOhp3UB1U5l1fcDVDht7idgRTTllYtvU0dakiFyC+Hu4jHifhS2m/N7+5z6N/BA/jmOoza4lwwuwzMg1vJLbZUC1DmFDHUArcaO0Z9D+6ylsluRmO6LP/YB3FJdsUYRVY5uqtgYHP/YuhFVvS/EHR6q/pLB+foa/qmhUC+JhANo75lCnIuvAAf0NCimUwkFbY32ERCcWP7u21uuxuw1GlF4lIf1jdsXPImN1t2ksPgHuFDwVaOSpKl1N/dR2G2Hc5qCq/CGMXQAoM2/hteV8cy0atsI1IBbzv2f5j03M6yg2N5YczWUNajTTc/N48//aaLMB1Pw/hCZMzb3o2gaggKL5eBHFw199EV4kzmsKHc=;5jYAKR81i165vdbVXrKrSw=="
+images:
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "mssylAqrA7r2rPNPrzmLrpmvGpB/A0Ju/YD5q44v1eICeumcHHtRPeLeuzvdYxrZft6uaPfRRPVV3cvHg8D3Nmk979wFydXMIcwj9mEmJel4mZqZJwE379oaXr2b+uLKvpOtpRDdPOPuKcQ0PzopLtUddMezhSxANM3JBFLiwmOCrq2CqadHoaEJAyTfqxreLQ0THKcuQQahw0lPmT8N7clHSqdLrhH674tTYtEG5GyOOYW7vOl9/MtyqCCUjzrBASYQ9MmTGKa3mH4TeBQnBbAWVdQkR/sGPi5XBN1FWsf834fqs5YcACupFfEpCVY2K8aoMzJ0UN8F0HQt95hQm1pMqeY6wR87BNo//vFlG1c=;wJbWmvv2UCHUNjGz8SSxdQ=="
 ---
 

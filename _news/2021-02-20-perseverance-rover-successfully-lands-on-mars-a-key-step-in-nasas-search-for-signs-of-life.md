@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to watch NASA’s Perseverance rover land on Mars today"
+    excerpt: "Engineers at NASA's Jet Propulsion Laboratory will attempt a feat that is terrifying and impressive in equal measures: Landing a rover on Mars."
+    publishedDateTime: 2021-02-19T12:40:00Z
+    webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 152
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to watch live as NASA lands its Perseverance rover on Mars today"
     excerpt: "Here's the start time, the livestream and everything else you need to know as NASA's latest Mars rover tries for a dramatic touchdown on the red planet."
     publishedDateTime: 2021-02-20T05:26:00Z

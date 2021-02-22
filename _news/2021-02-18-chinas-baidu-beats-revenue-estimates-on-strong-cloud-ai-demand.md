@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/uk-baidu-results-idUKKBN2AI0A3"
 webUrl: "https://www.investing.com/news/technology-news/chinas-baidu-revenue-beats-expectations-on-rise-in-advertising-2421809"
 type: article
 quality: 167
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Revenue Beats Estimates as Core Search Business Recovers"
-    excerpt: "Baidu Inc.’s quarterly revenue rose a better-than-expected 5% after the company lured users and advertisers back to its core search business."
-    publishedDateTime: 2021-02-17T21:57:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 71
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io27gqrjv5qg/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why Baidu Stock Soared Today"
     excerpt: "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company."
     publishedDateTime: 2021-02-20T02:58:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/news/nasas-perseverance-rover-mars-landing-ho
 webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
 type: article
 quality: 152
-heat: 163
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to watch NASA’s Perseverance rover land on Mars today"
+    excerpt: "Engineers at NASA's Jet Propulsion Laboratory will attempt a feat that is terrifying and impressive in equal measures: Landing a rover on Mars."
+    publishedDateTime: 2021-02-19T12:40:00Z
+    webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 152
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Perseverance rover successfully lands on Mars, a key step in NASA’s search for signs of life"
     excerpt: "NASA’s newest robotic explorer has landed safely on Mars after a nearly 300 million-mile journey that began on a Florida launch pad."
     publishedDateTime: 2021-02-19T17:23:34Z

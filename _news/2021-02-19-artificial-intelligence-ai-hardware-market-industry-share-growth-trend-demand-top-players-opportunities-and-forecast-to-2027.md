@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Fintech Market 2021 Key Players, Share, Trend, Segmentation and Forecast to 2027"
-    excerpt: "New Study Reports \"AI in Fintech Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \" AI in Fintech Market \" using SWOT analysis i."
-    publishedDateTime: 2021-02-17T21:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2021-key-players-share-trend-segmentation-and-forecast-to-2027-2021-02-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving Car Market Trend and Forecast, 2020-2024 | By Kenneth Research"
     excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024."
     publishedDateTime: 2021-02-19T07:33:00Z
@@ -95,6 +81,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Neural Networks Market Product Scope, Demand, Business Scenario, Trends, Share, Applications, Types and Forecasts 2020 - 2027"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
+    publishedDateTime: 2021-02-22T13:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-product-scope-demand-business-scenario-trends-share-applications-types-and-forecasts-2020---2027-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

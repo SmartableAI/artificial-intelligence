@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Synopsys Posts Financial Results for First Quarter Fiscal Year 2021"
-    excerpt: "Synopsys, Inc. (Nasdaq: SNPS) today reported results for its first quarter fiscal year 2021. Revenue for the first quarter was $970.3 million, compared to $834.4 million for the first quarter of fiscal 2020."
-    publishedDateTime: 2021-02-17T21:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "Baidu Announces Fourth Quarter and Fiscal Year 2020 Results"
     excerpt: "Baidu ended 2020 on a solid note with our business benefiting from improving macroeconomic environment and the digitalization of industrial Internet. Our focus on innovation through technology is paying off with Baidu Core non-marketing revenue growing 52% year over year in the fourth quarter,"
     publishedDateTime: 2021-02-18T07:46:00Z

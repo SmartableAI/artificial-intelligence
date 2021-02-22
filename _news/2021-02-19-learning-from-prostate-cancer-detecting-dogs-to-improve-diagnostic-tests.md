@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Dog-inspired approach may improve prostate cancer diagnosis, study finds"
-    excerpt: "Man's best friend may prove useful diagnosing prostate cancer, serving as the basis for a new screening tool, according to a study published Wednesday by PLOS ONE."
-    publishedDateTime: 2021-02-17T22:58:00Z
-    webUrl: "https://www.upi.com/Health_News/2021/02/17/Dog-inspired-approach-may-improve-prostate-cancer-diagnosis-study-finds/1101613588668/"
-    ampWebUrl: "https://www.upi.com/amp/Health_News/2021/02/17/Dog-inspired-approach-may-improve-prostate-cancer-diagnosis-study-finds/1101613588668/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/02/17/Dog-inspired-approach-may-improve-prostate-cancer-diagnosis-study-finds/1101613588668/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 43
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1101613588668/2021/1/f3b9db9cf9094c85ba369d58e0ed16a4/v1.5/Dog-inspired-approach-may-improve-prostate-cancer-diagnosis-study-finds.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Prostate Cancer-Detecting Dogs’ Olfactory Capacity Trains Neural Network for Combination Diagnostic Approach"
     excerpt: "Researchers concluded, \"We've shown it is possible to replicate the dog's performance as sensors and brains, it is now time to put this technology in every smartphone.\""
     publishedDateTime: 2021-02-18T13:00:00Z
@@ -52,6 +36,20 @@ related:
       - url: "https://www.genengnews.com/wp-content/uploads/2021/02/MDD-Prostate-low-res-7.jpg"
         width: 960
         height: 640
+        isCached: true
+  - title: "Old dogs teaching us new tricks in the detection of prostate cancer"
+    excerpt: "Researchers have used medical detection dogs to improve the assessment of prostate cancer to develop better detection tools."
+    publishedDateTime: 2021-02-18T14:51:00Z
+    webUrl: "https://www.biotechniques.com/diagnostics-preclinical/old-dogs-teaching-us-new-tricks-in-the-detection-of-prostate-cancer/"
+    type: article
+    provider:
+      name: BioTechniques
+      domain: biotechniques.com
+    quality: 24
+    images:
+      - url: "https://www.biotechniques.com/wp-content/uploads/2021/02/BTN-700x300-feature-images-6.png"
+        width: 700
+        height: 300
         isCached: true
   - title: "Learning from prostate cancer-detecting dogs to improve diagnostic tests"
     excerpt: "New research demonstrates the ability of dogs to detect aggressive prostate cancer from urine samples and suggests that an artificial neural network"
