@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/wearable-artificial-inte
 webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19"
 type: article
 quality: 73
-heat: 183
+heat: 163
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) robots Market Size, Share 2021, Impressive Industry Growth Report 2027"
-    excerpt: "Artificial intelligence AI robots market was valued at USD 2 84 Billion in 2017 and is expected to reach USD 12 36 Billion by 2027 at a CAGR of 28 High adoption of robots for personal use such as companionship"
-    publishedDateTime: 2021-02-17T10:23:00Z
-    webUrl: "https://www.openpr.com/news/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243842/artificial-intelligence-ai-robots-market-size-share-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
   - title: "Artificial Intelligence (AI) Hardware Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast to 2027"
     excerpt: "Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027.  Artificial intelligence (AI) has been one of the most appealing technology in recent years."
     publishedDateTime: 2021-02-19T12:27:00Z
@@ -97,20 +86,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1613729476.jpeg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Facial Recognition Market Size, Share 2021 Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
-    excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
-    publishedDateTime: 2021-02-17T10:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-2021-trends-growth-drivers-demands-business-opportunities-and-demand-forecast-to-2025-2021-02-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence Systems Spending Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2027"
     excerpt: "The global Artificial Intelligence systems spending market is forecast to reach a market size of USD 767.60 Billion by 2028, and register a significantly high CAGR, according to latest analysis by Emergen Research."

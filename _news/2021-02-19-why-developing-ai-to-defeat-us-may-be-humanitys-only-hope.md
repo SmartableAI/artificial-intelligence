@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Putting artificial intelligence to work"
-    excerpt: "Artificial intelligence systems are increasingly being given key roles in site teams. Lisa Russell looks at how Winvic is bringing in AI to boost site safety"
-    publishedDateTime: 2021-02-18T12:24:00Z
-    webUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work"
-    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
-    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
-    type: article
-    provider:
-      name: Construction Index
-      domain: theconstructionindex.co.uk
-    quality: 57
-    images:
-      - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Will Artificial Intelligence Destroy Humanity?"
     excerpt: "Will Artificial Intelligence Destroy Humanity? By David Tamayo, CIO, DCS Corporation - An old Chinese proverb says, “The best time to plant a tree was 20 years ago. The second-best time is"
     publishedDateTime: 2021-02-19T03:44:00Z

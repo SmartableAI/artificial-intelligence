@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Overcoming 7 AI Challenges in 2021"
-    excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
-    publishedDateTime: 2021-02-19T13:57:00Z
-    webUrl: "https://dataconomy.com/2021/02/overcoming-7-ai-challenges-2021/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 39
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
-        width: 1920
-        height: 1118
-        isCached: true
 
 secured: "6XrBHr5wggu9wKNIYQ2CuXozdT0pk7h0LSR/K5e37YkMB6EYrjhAbB+Gv30SjqWLNkSJd41GkwHokIBaZRyPQgCF/elLUXue9CvuEPeBV//nQcQHDoEQktNMybBqukQiew1AEJxKQyZRZVpqsP4B+Iw3K/ISDL9QiqD43Da+prUCHISBJOBYbsCrSDyb2p+cexini9hdDlW87qc2BLQR8knVK+MdnMag5x5q+Evc5fRa/goxm0N36ETUXyRWacTDFi3zC3SfntikkQNfJNloJQAGxskcO4VmnLn3of2c09x1FmRxJLmJpNeAhJBU98KjB4/JelIXISH7T5FuepOc84TYI3gi18PMqUWSmJ04XPCceidcTQWGlPejzZ+az+CA7JzIqKYc2Qw9jpJePVxSDEoFae//7NsnbdJPl1qy0oEbfm9988axDStRWtWpVZG55weEm2s5v7KO+mg0l4+H1lUsavZaFQck4DtwIKAJKaqKGGcWuEXoySyr/3QmG+pG9tNIZ5cDCTpmHNHGQ3/SSA==;d6xAfYEnujQbjnb+pzD5aw=="
 ---

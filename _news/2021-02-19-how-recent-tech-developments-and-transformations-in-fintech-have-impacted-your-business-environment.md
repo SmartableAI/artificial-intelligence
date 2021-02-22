@@ -69,20 +69,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Western Union to Present at the KBW Fintech Payments Conference on February 23rd"
-    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the KBW Fintech Payments Conference on Tu 23,"
-    publishedDateTime: 2021-02-17T09:13:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=423114"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 19
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "8H5Ty9Nbv3KW2YqbqeDIaaCfdHIbxX1woLBhrQqutLE6jVdSYqPKd7h0Le8B8JCT7Hi/xlXicBf+IdxSDQSM4KVO1UmUnLcb3Iv3zLwE1OvnAv4RCQsKvBRwTsj6c8fKc162TjeX3emw73Dw+BjT6SQ7e7u9UZWColqhB3AXRRDGd5cYWPPwcmWgubqT8K4e+Vp7eJ/7YGFZR5UjxS08sPLqQZUwAVT/lMqKXaJ7dc752dIdmUCf6PMbee9hnWGwxaJW6ksswSdVsFzzcbR06ovBHmydOOD+ayQyTmefwc9jwpeMswP44wRAVSrEiDACbnx+fvVXwwMThJdllXR1DbxDdLsOGMcdIYN/9wQfyHM=;v78IV6krNaVCUcEAD7ZnmA=="
 ---

@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
-    excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
-    publishedDateTime: 2021-02-19T06:11:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/the-emerging-role-of-ai-and-machine-learning-in-the-enterprise-nid-15037-cid-72.html"
+  - title: "The future of AI and what Customer Experience leaders can learn from it"
+    excerpt: "He gave the impressive but almost invisible (to the public) example of quality control for French fries, where these extremely fast scanning AI systems spot and cut away black spots on fries. It reminded me of a case from one of my customers,"
+    publishedDateTime: 2021-02-19T20:40:00Z
+    webUrl: "https://customerthink.com/the-future-of-ai-and-what-customer-experience-leaders-can-learn-from-it/"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 58
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
     images:
-      - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
-        width: 300
-        height: 300
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
         isCached: true
   - title: "How Automation and Artificial Intelligence are Changing Customer Experience Game?"
     excerpt: "How Automation and Artificial Intelligence are Changing Customer Experience Game? By Matt Rocco, President & CEO, Etech Global Services, LLC - Science fiction and Hollywood have long polluted the perception of artificial intelligence with doomsday prophecies and"

@@ -24,70 +24,153 @@ images:
     isCached: true
 
 related:
-  - title: "Essential IT: How Providence uses data to care for COVID-19 patients"
-    excerpt: "Could cloud data detect early signs of the virus? Could that same data predict where COVID would surge next? Turns out, it could."
-    publishedDateTime: 2021-02-18T17:41:00Z
-    webUrl: "https://news.microsoft.com/transform/how-providence-uses-data-to-care-for-covid-19-patients/"
+  - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
+    excerpt: "Starbucks set the ambitious goal of being the world’s most personalized brand by relying on predictive analytics and machine learning to create a real-time personalization experience."
+    publishedDateTime: 2021-02-22T01:47:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 121
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2021/02/08-BJ-Moore_Crop-1024x546.jpg"
-        width: 1024
-        height: 546
-        isCached: true
-  - title: "CovidCTNet: an open-source deep learning approach to diagnose covid-19 using small cohort of CT images"
-    excerpt: "Early and accurate diagnosis of Covid-19 is crucial in reducing the spread of the disease and its accompanied mortality. Currently, detection by reverse transcriptase-polymerase chain reaction (RT-PCR) is the gold standard of outpatient and inpatient detection of Covid-19."
-    publishedDateTime: 2021-02-18T12:26:00Z
-    webUrl: "https://www.nature.com/articles/s41746-021-00399-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 23
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00399-3/MediaObjects/41746_2021_399_Fig1_HTML.png"
-        width: 685
-        height: 514
-        isCached: true
-  - title: "Early risk assessment for COVID-19 patients from emergency department data using machine learning | Scientific Reports"
-    excerpt: "While epidemiological and clinical characteristics of COVID-19 have been reported, risk factors underlying the transition from mild to severe disease among patients remain poorly understood. In this retrospective study,"
-    publishedDateTime: 2021-02-18T10:18:42Z
-    webUrl: "https://www.nature.com/articles/s41598-021-83784-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 15
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83784-y/MediaObjects/41598_2021_83784_Fig1_HTML.png"
-        width: 632
-        height: 685
-        isCached: true
-  - title: "Sheba Tests Israeli Startup’s Respiratory Treatment On COVID-19 Patients"
-    excerpt: "Inspira's Augmented Respiration Technology (ART) will be tested in the intensive care unit (ICU) of Sheba's Department of Cardiac Surgery."
-    publishedDateTime: 2021-02-21T11:07:00Z
-    webUrl: "https://nocamels.com/2021/02/sheba-medical-center-inspira-technologies-covid-19-patients-respiratory/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 1
-  - title: "Hospitals use virtual rehabilitation kits provided by company Evolv to treat patients at home during COVID-19 pandemic"
-    excerpt: "Medical device company Evolv, with the support of Microsoft and hardware manufacturer ZOTAC, has donated its virtual rehabilitation technology to three leading hospitals"
-    publishedDateTime: 2021-02-17T14:09:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/hospitals-use-virtual-rehabilitation-kits-provided-by-company-evolv-to-treat-patients-at-home-during/article_158fb7e9-e67d-5872-beb8-8a6fba825fcb.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/d8/9d86a550-5142-5239-8caf-d99cc67e01ab/6030cee64acc3.image.jpg?resize=1200%2C555"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032f3b5a9ba70101806187f%2F0x0.jpg"
         width: 1200
-        height: 555
+        height: 675
+        isCached: true
+  - title: "Four Ways AI And Machine Learning Will Drive Future Innovation And Change"
+    excerpt: "AI and ML technologies are more than buzzwords or simple predictions: They offer businesses limitless possibilities to evolve use cases to improve productivity, expand their customer base, boost ROI and grow their bottom line."
+    publishedDateTime: 2021-02-18T13:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "10 Ways AI Has The Potential To Improve Agriculture In 2021"
+    excerpt: "AI, machine learning (ML), and the IoT sensors that provide real-time data for algorithms increase agricultural efficiencies, improve crop yields, and reduce food production costs"
+    publishedDateTime: 2021-02-17T17:20:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602d48193da3d0409611fdac%2F0x0.jpg"
+        width: 1149
+        height: 766
+        isCached: true
+  - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
+    excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
+    publishedDateTime: 2021-02-19T06:11:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/the-emerging-role-of-ai-and-machine-learning-in-the-enterprise-nid-15037-cid-72.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 58
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Putting artificial intelligence to work"
+    excerpt: "Artificial intelligence systems are increasingly being given key roles in site teams. Lisa Russell looks at how Winvic is bringing in AI to boost site safety"
+    publishedDateTime: 2021-02-18T12:24:00Z
+    webUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work"
+    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
+    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
+    type: article
+    provider:
+      name: Construction Index
+      domain: theconstructionindex.co.uk
+    quality: 57
+    images:
+      - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Artificial Intelligence and Machine Learning-Are We There Yet?"
+    excerpt: "Artificial Intelligence and Machine Learning-Are We There Yet? By Barry Barlow, SVP & CTO, Vencore, Inc - “Let me put it this way, Mr. Amor. The 9000 series is the most reliable computer ever made. No 9000 computer has"
+    publishedDateTime: 2021-02-19T03:47:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/artificial-intelligence-and-machine-learningare-we-there-yet-nid-25067-cid-217.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 56
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/hYHO17PB.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Transforming the Supply Chain Landscape with AI and Machine Learning"
+    excerpt: "Transforming the Supply Chain Landscape with AI and Machine Learning By Mark Welch, Senior Vice President, Supply Chain, Novant Health - The healthcare industry is evolving rapidly thanks to years of investment in foundational technologies and processes,"
+    publishedDateTime: 2021-02-19T03:42:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain-landscape-with-ai-and-machine-learning-nid-28723-cid-256.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 56
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/YFq4E2Hi.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Embracing artificial intelligence to preserve dying languages"
+    excerpt: "As more language preservation initiatives inspired by artificial intelligence emerge, researchers argue that while they cannot fully capture the essence of language, they are a crucial aspect of preserving what is now deemed to be a global linguistic catastrophe."
+    publishedDateTime: 2021-02-19T10:17:00Z
+    webUrl: "https://www.goethe.de/prj/k40/en/lan/pre.html"
+    type: article
+    provider:
+      name: Goethe
+      domain: goethe.de
+    quality: 43
+    images:
+      - url: "https://www.goethe.de/resources/files/jpg988/christinacalderon_ridinghood-alamy-stock-photo_cropresize-formatkey-jpg-w983.jpg"
+        width: 983
+        height: 610
+        isCached: true
+  - title: "Overcoming 7 AI Challenges in 2021"
+    excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
+    publishedDateTime: 2021-02-19T13:57:00Z
+    webUrl: "https://dataconomy.com/2021/02/overcoming-7-ai-challenges-2021/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
+        width: 1920
+        height: 1118
+        isCached: true
+  - title: "Why CNC Machining and AI Make a Perfect Match"
+    excerpt: "What’s next for the world of CNC operators? An increasing move to incorporate artificial intelligence, or AI, into operations. Over the next several years, CNC machining could see something of a revolution that includes machines that respond to Alexa-like voice commands."
+    publishedDateTime: 2021-02-19T13:36:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/story/2021/02/why-cnc-machining-and-ai-make-a-perfect-match/16503/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 37
+    images:
+      - url: "https://www.manufacturingtomorrow.com/images/upload/images/Depositphotos_10054154_s-2019(2).jpg"
+        width: 720
+        height: 479
         isCached: true
 
 secured: "kYfE3FLn0hgio6Z5IjATMWss43jX6n5d/9bQ8OhkSERzLDcDx7Txsmxtc1TqvYePjDScTCvF9iEG9QWYhy2r6suhq9hRaV0ALgk+KVcBO97+k6pIDy5Q9m/iUFXuYJj5NtMtViHGoFHcLRyWEj26CESkXINEmHQkcEC7ixeNeGYhiJzH4gLq6Jy/AEodixNDjUJaFqvNIPyFlkgTOGr0SnWD8INibNbn5D6P76oEZJFvRVKPs4inJxrLGrQNKKWp34qJwZ2+VVvjxDqbIlckgEeU6uaYvV/UHNjVlEjwajzlIhMYI1LZrJGhETQf266r8/svw3eeCLtGN43SHDqq7A0ETGGhs8OaBJRJkoRymVM=;y4YEDq0L7XQwECwEfBRhdA=="

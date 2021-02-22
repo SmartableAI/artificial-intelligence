@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Guru IoT Develops Digital Twin-based Self-driving Wheelchair for the Underprivileged"
+    excerpt: "Guru IoT is developing a digital twin-based self-driving wheelchair. It is equipped with safety features that are not in electric wheelchairs."
+    publishedDateTime: 2021-02-22T01:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210221005009/en/Guru-IoT-Develops-Digital-Twin-based-Self-driving-Wheelchair-for-the-Underprivileged"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
+
 secured: "hPaPiZdd6yL/5TI7/heRUKIevPgdzXJAMV6DDvMXgxpSx1uqEd0KOn09ni24P/+EmMMJzaq2Oi2QNv5/m0lGAe/oZnsyjjDIDYgF9nRmv5S6NcJq4cmZYSiU0574BO7/jZ4onJlntl3Yp8YytOU8Dhrf2VWRpq+wuuJwJYL3b7SPCn8mFTPH0D+X0UKBJ5R1ANEad1jwfKWSG+eHoTbBV17wjixA2X2JaJ6i1IOINcd1IBMNj0cgD/Pac1Ss2+4XCW4/WJK5QbR1T2PD5EJzLZvY//wHMm6LtUKBo2Fwi0nOzoXkFfgXdDu6/H86k7wMPA7pYg9kPPGh1FL276S4sfDjFPXgBYnMIRgG1q0iLXQ=;BwB1MPdNYSoHWh3gJDW8jQ=="
 ---
 

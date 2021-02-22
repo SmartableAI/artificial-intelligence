@@ -2,13 +2,10 @@
 category: news
 title: "How to manage your power bill while adopting AI"
 excerpt: "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates."
-publishedDateTime: 2021-02-12T01:57:00Z
-originalUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/?fp=2&fpid=1"
-webUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/?fp=2&fpid=1"
+publishedDateTime: 2021-02-12T01:43:00Z
+originalUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/"
+webUrl: "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
   name: ARN
@@ -24,56 +21,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "4 AI tools to help you reach your marketing goals"
-    excerpt: "Marketing isn't one-size-fits-all; depending on the industry, strategies, and tools, results differ. These AI marketing tools are helping marketers and small businesses increase their effectiveness."
-    publishedDateTime: 2021-02-12T16:47:00Z
-    webUrl: "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 104
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/02/11/d87fc0a6-07da-42da-905b-57926006c6f3/resize/1200x900/396b64a892a5fd7cac8938cf3055dd17/autoleadstar-new.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Artificial Intelligence for Marketing"
-    excerpt: "A Latest intelligence report published by AMA Research with title Artificial Intelligence for Marketing Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence for Marketing market This report provides"
-    publishedDateTime: 2021-02-12T14:23:00Z
-    webUrl: "https://www.openpr.com/news/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241615/artificial-intelligence-for-marketing-market-to-see-huge-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/U/2/U212535947_g.jpg"
-        width: 638
-        height: 359
-        isCached: true
-  - title: "New AI Detects Your Emotions by Scanning You With Radio Signals"
-    excerpt: "If new research is to believed, you may find yourself coming home from work one day in a rotten mood — just to have your smart speaker automatically scan your emotions and start to play soothing music."
-    publishedDateTime: 2021-02-12T21:06:00Z
-    webUrl: "https://futurism.com/the-byte/ai-emotions-radio-signals"
-    ampWebUrl: "https://futurism.com/ai-emotions-radio-signals/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-emotions-radio-signals/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2021/02/neural-net-bombards-radio-waves-guess-feeling-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
-secured: "RxM2AVdHUNnFKc0ZWPRPGsQYtgRo1BlMSSKUza2P+GAvLwsKi221lXY2ZaAwFZECsc/jzLsGaQW3nzCHaU46vcmrrwBSV7bLUDthKqgTbIMcCBlCnkuSvdERghHUpaPawa/KYp6No+NSMthJ333gYGYa2iDB3wurLOeM4rGC9VQAmk2y9+CwqEOOd9NAIuC3xFIT4n8O4+fvXagEq4iwq+qnUkjJhkNRcXqxJBwcdFK4axA0A3tG6ZBpiaAhGSCfO/I7TSLQWqBg3Xh45tJ58AdkmxnBIzrAP0AhNTPSLv8flbVy82mDc+kPndAqeJCWFwLyYIYYFumiewriG0Sz2b9kkEm97b0+Qv+kvCrVLLkDHJcmtP1CFxYMduOKh125t9JspFNj7ooWGVPunAwxthRlULi6W0AUvu9zWPC9Pdpm8b58WUIg3swCudnVEXTF/YZ+BW9IMyEpUwXtLhtocqLcYYyAS2ki8ni5BKTM361IrCQdDUu4Ms/0OvoUw2cWc8ucxZG15a7XMvEQ0zJp5g==;3VUICqadlOiS/zfYSjLpSA=="
+secured: "up8S8TNx0WUko1WkayHKL9tFWhlWq7DFmAFM1HFhcQgY9QFQkNBJZSIwN46D4nEaT7faoxT/vTVk3bhmJL43n6zUIaZq4qA2+u7lColIp6MTkvFccjpd1kKSxrc5wzVaSOxmftD8n54ERX2TnWmCsHXla4h5iTDY8EpjphwCp96ljx9s+2m1C8ZugHBTmo35M012dmJ09QXroZkZSfdO3rOaahVrgD1J8lACtGOhzT2W94yNeklCqGT6051Kb9JuwRW/F4OGSyNUb4itKzvxlbsvrDx1oGfVTTcZT+4h1FYaZqeLWwmbL0MG2zCg1XnAe/Hp9dLu5XAM8Z0UY320vUAnrmw1srd/xATgQCPYies=;bBWUjYpVhWPQps7Za+1LIg=="
 ---
 

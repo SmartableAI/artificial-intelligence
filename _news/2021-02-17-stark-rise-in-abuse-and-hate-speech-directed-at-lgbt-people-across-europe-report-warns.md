@@ -39,6 +39,20 @@ related:
         width: 900
         height: 510
         isCached: true
+  - title: "Annual LGBTI report: Estonia’s legislation stagnated, hate speech on a rise"
+    excerpt: "In its annual review of the human rights situation of LGBTI people in Europe and Central Asia, ILGA-Europe, an advocacy group, listed Estonia with the countries that have seen a rise in hate speech and where same-sex partnership registration or marriage rights legislation has stagnated."
+    publishedDateTime: 2021-02-22T01:48:00Z
+    webUrl: "https://estonianworld.com/life/annual-lgbti-report-estonias-legislation-stagnated-hate-speech-on-a-rise/"
+    type: article
+    provider:
+      name: Estonian World
+      domain: estonianworld.com
+    quality: 22
+    images:
+      - url: "https://estonianworld.com/wp-content/uploads/2020/10/IMG_7784.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "/RSK11DztCAAogftDg7bDNTwboVcPreYUiiEgRSaP0gtR+m+CL6Zkbqeyf0nUIU6GOiz6U2XI4bEmrMjDKPFG+PSepMAyaViT6P8ZF2Ifz18gf1+iqykqb+dx9bnuBPEvbcdSN6Idb2qGrCDKc/Lf9DHVH5JkyZ5tewt3YIAKPl8fHMFbZsfLY9icEScqE7SSsWMQ5F6J7I3AYktLp3sfkeJHwTsIOfqpP0z3Me0qia6SBsOcAoA0n9EhA+O1pX2/0ivFoj+SSIpl9QOEx8rWc1RXigmdLZXu9jkygCznleWsH6sDUhtiE5zHDoXfA72Ly1tFnkVcLIr6/wOxss9Rwy3lOf+QYoJ4AixIQvWaVU=;8PGpv/tydslWQb0mlrAfMA=="
 ---

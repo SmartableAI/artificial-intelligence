@@ -40,19 +40,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
-    excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
-    publishedDateTime: 2021-02-19T06:11:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/the-emerging-role-of-ai-and-machine-learning-in-the-enterprise-nid-15037-cid-72.html"
+  - title: "The future of AI and what Customer Experience leaders can learn from it"
+    excerpt: "He gave the impressive but almost invisible (to the public) example of quality control for French fries, where these extremely fast scanning AI systems spot and cut away black spots on fries. It reminded me of a case from one of my customers,"
+    publishedDateTime: 2021-02-19T20:40:00Z
+    webUrl: "https://customerthink.com/the-future-of-ai-and-what-customer-experience-leaders-can-learn-from-it/"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 58
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
     images:
-      - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
-        width: 300
-        height: 300
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
         isCached: true
 
 secured: "NnM+ccpscDa6yg8KW2J3clcvFcVtCBGT8dqeh26sxhKpeiwfmHqZSiUZhKn7gdP2uv/+/N44Hbklm2NmfkyJFiaemKmoWs7cDG5Id15qb0EVUidM+UnM4Qbv8/1Hh8+kQAmS3FRTmw3Htsw070YzLUM9YMeQ+SivbEcUbLtZqn0Mm3dSGPFRwzUhYSxNsuOfMzF0+X0UlZwdX8llHjKjCKoWxTCNbllVZaJAvlwcyIQ0nTw8ks8QrStZRykd15BvobCvC+JxJDooeZlxPKANAJkcIGsgGL2QNDkkUZxpAVH9gQOoetIj5nz/lEHdRpkX1Av31qb9Vs+WmwJitAl9LgbwZEgn6A96ePzK4I4sagze/pbQSHa0f9Rueh29NUDfQ1u4LQcUaW+TFmWvIqqetlDITnUdKSx2BYyUM4BIT+P/4zQBnoWGQOWEjbBSEm8oEiVdivP3ttElmaZDID0tHJAnmmHxzJs+UyEdAWzAdYKuFzYBUn5tfs0lXHDgawku9ldO+vah4XHiE25abOuDLw==;InmoOv3Ocs9NW9HhFB1Y3g=="

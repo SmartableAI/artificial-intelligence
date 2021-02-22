@@ -30,107 +30,152 @@ images:
     isCached: true
 
 related:
-  - title: "4 Ways To Bridge The AI-Integrity Gap"
-    excerpt: "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,"
-    publishedDateTime: 2021-02-18T17:18:00Z
-    webUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/"
-    ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
+  - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
+    excerpt: "Starbucks set the ambitious goal of being the world’s most personalized brand by relying on predictive analytics and machine learning to create a real-time personalization experience."
+    publishedDateTime: 2021-02-22T01:47:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 121
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg"
-        width: 588
-        height: 392
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032f3b5a9ba70101806187f%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Using AI to bridge the language gap"
-    excerpt: "International Mother Language Day, celebrated annually on 21 February, aims to promote awareness around linguistic and cultural diversity, promoting the preservation and protection of all languages. Through Natural Language Processing (NLP),"
-    publishedDateTime: 2021-02-18T12:26:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/using-ai-to-bridge-the-language-gap-2021-02-18"
-    ampWebUrl: "https://m.engineeringnews.co.za/article.php?a_id=577017&rep_id=5581"
-    cdnAmpWebUrl: "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=577017&rep_id=5581"
+  - title: "Four Ways AI And Machine Learning Will Drive Future Innovation And Change"
+    excerpt: "AI and ML technologies are more than buzzwords or simple predictions: They offer businesses limitless possibilities to evolve use cases to improve productivity, expand their customer base, boost ROI and grow their bottom line."
+    publishedDateTime: 2021-02-18T13:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/amp/"
     type: article
     provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 107
     images:
-      - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
-        width: 1022
-        height: 575
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Using AI to Bridge the Language Gap"
-    excerpt: "Through Natural Language Processing (NLP), a technology that allows computers to effectively understand the way humans speak and interact, companies can bridge the language gap between cultures, encouraging diversity within their industries."
-    publishedDateTime: 2021-02-21T07:31:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/"
-    ampWebUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 59
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/02/artificial-intelligence-AI.png"
-        width: 800
-        height: 527
-        isCached: true
-  - title: "RPI students work with engineering company to integrate AI into power grids"
-    excerpt: "Winter weather shocked people across Texas, many still recovering after days-long blackouts. At last check Friday afternoon, some 150,000 are still without power, down"
-    publishedDateTime: 2021-02-19T22:14:00Z
-    webUrl: "https://www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/"
-    ampWebUrl: "https://www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/amp/"
-    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/amp/"
-    type: article
-    provider:
-      name: WTEN
-      domain: news10.com
-    quality: 57
-    images:
-      - url: "https://www.news10.com/wp-content/uploads/sites/64/2021/02/SNOW-ELECTRIC-SUBSTATION.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How the hybrid cloud is key to enterprise AI infrastructure strategies"
-    excerpt: "Few resources are as readily available and easy to use as the cloud, and this easy access to infrastructure extends to AI workloads."
-    publishedDateTime: 2021-02-18T12:23:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/feb/18/how-the-hybrid-cloud-is-key-to-enterprise-ai-infrastructure-strategies/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 41
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/atom-in-hands-picture-id187059090.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Three keys to AI success in the enterprise"
-    excerpt: "Three keys to AI success in the enterprise By Vikram Mahidhar, business leader of AI solutions, Genpact - Many CIOs have artificial intelligence (AI) on their radar. A recent survey by Genpact and Fortune Knowledge Group of"
-    publishedDateTime: 2021-02-19T08:32:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/three-keys-to-ai-success-in-the-enterprise-nid-25917-cid-117.html"
+  - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
+    excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
+    publishedDateTime: 2021-02-19T06:11:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/the-emerging-role-of-ai-and-machine-learning-in-the-enterprise-nid-15037-cid-72.html"
     type: article
     provider:
       name: CIOReview
       domain: cioreview.com
-    quality: 39
+    quality: 58
     images:
-      - url: "https://www.cioreview.com/newsimages/special/paTSGe91.gif"
+      - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
         width: 300
         height: 300
         isCached: true
-  - title: "My Robot Brings All the Boys to the Yard, Its AI is Better than Yours"
-    excerpt: "In this special guest feature, Aviran Yaacov, CEO, and Co-founder of EcoPlant, believes that both AI and ML technologies are making impactful strides in manufacturing, and there is no time like the present for manufacturers to get on board and explore ways to transform their processes to benefit across all fronts."
-    publishedDateTime: 2021-02-21T14:02:00Z
-    webUrl: "https://insidebigdata.com/2021/02/21/my-robot-brings-all-the-boys-to-the-yard-its-ai-is-better-than-yours/"
+  - title: "Putting artificial intelligence to work"
+    excerpt: "Artificial intelligence systems are increasingly being given key roles in site teams. Lisa Russell looks at how Winvic is bringing in AI to boost site safety"
+    publishedDateTime: 2021-02-18T12:24:00Z
+    webUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work"
+    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
+    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
+      name: Construction Index
+      domain: theconstructionindex.co.uk
+    quality: 57
+    images:
+      - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Artificial Intelligence and Machine Learning-Are We There Yet?"
+    excerpt: "Artificial Intelligence and Machine Learning-Are We There Yet? By Barry Barlow, SVP & CTO, Vencore, Inc - “Let me put it this way, Mr. Amor. The 9000 series is the most reliable computer ever made. No 9000 computer has"
+    publishedDateTime: 2021-02-19T03:47:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/artificial-intelligence-and-machine-learningare-we-there-yet-nid-25067-cid-217.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 56
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/hYHO17PB.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Transforming the Supply Chain Landscape with AI and Machine Learning"
+    excerpt: "Transforming the Supply Chain Landscape with AI and Machine Learning By Mark Welch, Senior Vice President, Supply Chain, Novant Health - The healthcare industry is evolving rapidly thanks to years of investment in foundational technologies and processes,"
+    publishedDateTime: 2021-02-19T03:42:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain-landscape-with-ai-and-machine-learning-nid-28723-cid-256.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 56
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/YFq4E2Hi.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Embracing artificial intelligence to preserve dying languages"
+    excerpt: "As more language preservation initiatives inspired by artificial intelligence emerge, researchers argue that while they cannot fully capture the essence of language, they are a crucial aspect of preserving what is now deemed to be a global linguistic catastrophe."
+    publishedDateTime: 2021-02-19T10:17:00Z
+    webUrl: "https://www.goethe.de/prj/k40/en/lan/pre.html"
+    type: article
+    provider:
+      name: Goethe
+      domain: goethe.de
+    quality: 43
+    images:
+      - url: "https://www.goethe.de/resources/files/jpg988/christinacalderon_ridinghood-alamy-stock-photo_cropresize-formatkey-jpg-w983.jpg"
+        width: 983
+        height: 610
+        isCached: true
+  - title: "Overcoming 7 AI Challenges in 2021"
+    excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
+    publishedDateTime: 2021-02-19T13:57:00Z
+    webUrl: "https://dataconomy.com/2021/02/overcoming-7-ai-challenges-2021/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
+        width: 1920
+        height: 1118
+        isCached: true
+  - title: "Why CNC Machining and AI Make a Perfect Match"
+    excerpt: "What’s next for the world of CNC operators? An increasing move to incorporate artificial intelligence, or AI, into operations. Over the next several years, CNC machining could see something of a revolution that includes machines that respond to Alexa-like voice commands."
+    publishedDateTime: 2021-02-19T13:36:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/story/2021/02/why-cnc-machining-and-ai-make-a-perfect-match/16503/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 37
+    images:
+      - url: "https://www.manufacturingtomorrow.com/images/upload/images/Depositphotos_10054154_s-2019(2).jpg"
+        width: 720
+        height: 479
+        isCached: true
+  - title: "New AI-Enabled Virtual Screening Tool Identifies Most Promising Approved Drugs for Success in Treating COVID-19"
+    excerpt: "WorldQuant Predictive (WQP), an AI predictive products company, and CAS, a division of the American Chemical Society that specializes in scientific information solutions, have partnered to develop a groundbreaking methodology that can save time and lives by helping research teams rapidly prioritize the most promising drug candidates to treat COVID-19 and other critical diseases."
+    publishedDateTime: 2021-02-19T08:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-chemistry-6a43d4985262bc20925f45a5bca75298"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "lUqmARfaYfcoB4OOd+wvAhErpiv3bGKGsPtXOrSVmEVXNhCbNt/qHOfsB8xjbFNTY2PhODUc+PVBr6Gba0V55tm91fjajwOBV/KFcUuLFIoj5Su5chLato/lV88KRaIJCFD9OvexbDVvp4fbdGc7XN7tJMnZEARi+a+JAURwJbwh9I5uKu0Xw2JzJa7WikyyWj8GewCfghI9mARyfMOhN+DX7YsK6KR4upxEBMqNEzqgiUajD6HhFsliFO+0qVA6CNf8k8wHCk23pHidw4QzA/hV1tfyBigZubdqjhqsDybdS7YWVYFgqzVjWb7MMFV6UxVCqxGHSf0K4SKc5RC0dtMOywwmv/LYEv375gakcA6zNMlaHIawtGFFlEeOKFg83nHoxyed+W2g9u/h/vG+aWIYZ0QtAZy+qsuCCNr8zw3K/I/o41iVqGZ5o1ONnaTXtNkF12zN3zT6rOKRuskkAx/kRN7itPZoHva6Jn2rR8St3KaYd3gGfppeoLbQLuYnkHHMsxbzHJPCgMazEhfAlw==;pZiJv5ro2EdIvxoIm/+K4A=="
 ---

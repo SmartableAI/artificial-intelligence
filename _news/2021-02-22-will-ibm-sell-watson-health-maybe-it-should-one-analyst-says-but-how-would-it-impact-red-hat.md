@@ -189,9 +189,9 @@ related:
         height: 420
         isCached: true
   - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
-    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
+    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health \"THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
     publishedDateTime: 2021-02-20T00:48:00Z
-    webUrl: "https://www.supplychaindigital.com/sustainability/ibm-watson-ai-xprize-leveraging-ai-good-people"
+    webUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
     type: article
     provider:
       name: Supply Chain Digital
@@ -345,6 +345,15 @@ related:
       name: Canindia.com
       domain: canindia.com
     quality: 19
+  - title: "Will IBM sell Watson Health? Maybe it should, analyst says – but how would it impact Red Hat?"
+    excerpt: "If reports that IBM could drop its IBM Watson Health Unit are true, the implications for Research Triangle Park could be significant. So too could the implications for Raleigh-based Red Hat."
+    publishedDateTime: 2021-02-21T16:12:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2021/02/21/will-ibm-sell-watson-durham-rtp-impact.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
 
 secured: "PIg5n9KdczagW7WeK0PeS9Oe7QUWJ3AZ57EJn8wLc1WlOVEXNKRuQC/A5diIQbx8HjB6p8GwejeWy+aAKW+jrsr7Hz4bC9chGX2vMFoQdH/hvPrXn3USaI9s3IbCIaTy+y/OTiYZOjkfXsAB9rGYVSLrH6tYovbbxzUxWKc20mg/0O3LAu2ZO+PyFGTWnxWxXdO8WPtuPWZ07V5YphMore4SFtLiOA3m5yjFYlKRZLo+oC9VauhrCxqBPNGp+j9TwtTWDPID3saAzDSxncZ/5ttSU7S4jOQo4kjEDa7Uzq8x/s6PqUvapKWhvgb8OyxlRPlHX3nF4AsmpMIEzU4/fMO3VeiMw6fQ0iq1KqNPXAsjoBsFEtsugT+5/zBMYEkh6CWY/gubnvSPBEeiXWeqKEY/ic6BJhTLvCzFxG0tSxW57e/Vg3BDGARXCE4kahMV/uEc/dOBJ6FJS2i3oTS3tluH3UZ4fteHt9W78/zWACpZYqridf8K8Vvn+RaeGN+kKctJvn3WKsfLZIhKHSxkug==;qaSOkOYybD4XdREpW5QjWA=="
 ---

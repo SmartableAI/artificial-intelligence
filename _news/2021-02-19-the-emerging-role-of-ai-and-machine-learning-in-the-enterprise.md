@@ -27,35 +27,153 @@ images:
     isCached: true
 
 related:
-  - title: "A better customer experience is important, but it's just one way AI and machine learning can transform the enterprise"
-    excerpt: "Laura Urquizu, CEO of Red Points, explains why AI and machine learning have the potential to enhance customer experiences for enterprise and non-tech companies alike."
-    publishedDateTime: 2021-02-18T20:34:00Z
-    webUrl: "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp"
+  - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
+    excerpt: "Starbucks set the ambitious goal of being the world’s most personalized brand by relying on predictive analytics and machine learning to create a real-time personalization experience."
+    publishedDateTime: 2021-02-22T01:47:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
+      name: Forbes
+      domain: forbes.com
+    quality: 121
     images:
-      - url: "https://i.insider.com/602457d867d1e300113c5696?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032f3b5a9ba70101806187f%2F0x0.jpg"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "How Automation and Artificial Intelligence are Changing Customer Experience Game?"
-    excerpt: "How Automation and Artificial Intelligence are Changing Customer Experience Game? By Matt Rocco, President & CEO, Etech Global Services, LLC - Science fiction and Hollywood have long polluted the perception of artificial intelligence with doomsday prophecies and"
-    publishedDateTime: 2021-02-19T03:43:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/how-automation-and-artificial-intelligence-are-changing-customer-experience-game-nid-30056-cid-225.html"
+  - title: "Four Ways AI And Machine Learning Will Drive Future Innovation And Change"
+    excerpt: "AI and ML technologies are more than buzzwords or simple predictions: They offer businesses limitless possibilities to evolve use cases to improve productivity, expand their customer base, boost ROI and grow their bottom line."
+    publishedDateTime: 2021-02-18T13:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "10 Ways AI Has The Potential To Improve Agriculture In 2021"
+    excerpt: "AI, machine learning (ML), and the IoT sensors that provide real-time data for algorithms increase agricultural efficiencies, improve crop yields, and reduce food production costs"
+    publishedDateTime: 2021-02-17T17:20:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602d48193da3d0409611fdac%2F0x0.jpg"
+        width: 1149
+        height: 766
+        isCached: true
+  - title: "Putting artificial intelligence to work"
+    excerpt: "Artificial intelligence systems are increasingly being given key roles in site teams. Lisa Russell looks at how Winvic is bringing in AI to boost site safety"
+    publishedDateTime: 2021-02-18T12:24:00Z
+    webUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work"
+    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
+    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
+    type: article
+    provider:
+      name: Construction Index
+      domain: theconstructionindex.co.uk
+    quality: 57
+    images:
+      - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Artificial Intelligence and Machine Learning-Are We There Yet?"
+    excerpt: "Artificial Intelligence and Machine Learning-Are We There Yet? By Barry Barlow, SVP & CTO, Vencore, Inc - “Let me put it this way, Mr. Amor. The 9000 series is the most reliable computer ever made. No 9000 computer has"
+    publishedDateTime: 2021-02-19T03:47:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/artificial-intelligence-and-machine-learningare-we-there-yet-nid-25067-cid-217.html"
     type: article
     provider:
       name: CIOReview
       domain: cioreview.com
-    quality: 32
+    quality: 56
     images:
-      - url: "https://www.cioreview.com/ck_images/IzuOoU8f.jpeg"
+      - url: "https://www.cioreview.com/newsimages/special/hYHO17PB.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Transforming the Supply Chain Landscape with AI and Machine Learning"
+    excerpt: "Transforming the Supply Chain Landscape with AI and Machine Learning By Mark Welch, Senior Vice President, Supply Chain, Novant Health - The healthcare industry is evolving rapidly thanks to years of investment in foundational technologies and processes,"
+    publishedDateTime: 2021-02-19T03:42:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain-landscape-with-ai-and-machine-learning-nid-28723-cid-256.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 56
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/YFq4E2Hi.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Embracing artificial intelligence to preserve dying languages"
+    excerpt: "As more language preservation initiatives inspired by artificial intelligence emerge, researchers argue that while they cannot fully capture the essence of language, they are a crucial aspect of preserving what is now deemed to be a global linguistic catastrophe."
+    publishedDateTime: 2021-02-19T10:17:00Z
+    webUrl: "https://www.goethe.de/prj/k40/en/lan/pre.html"
+    type: article
+    provider:
+      name: Goethe
+      domain: goethe.de
+    quality: 43
+    images:
+      - url: "https://www.goethe.de/resources/files/jpg988/christinacalderon_ridinghood-alamy-stock-photo_cropresize-formatkey-jpg-w983.jpg"
+        width: 983
+        height: 610
+        isCached: true
+  - title: "Overcoming 7 AI Challenges in 2021"
+    excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
+    publishedDateTime: 2021-02-19T13:57:00Z
+    webUrl: "https://dataconomy.com/2021/02/overcoming-7-ai-challenges-2021/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
+        width: 1920
+        height: 1118
+        isCached: true
+  - title: "Why CNC Machining and AI Make a Perfect Match"
+    excerpt: "What’s next for the world of CNC operators? An increasing move to incorporate artificial intelligence, or AI, into operations. Over the next several years, CNC machining could see something of a revolution that includes machines that respond to Alexa-like voice commands."
+    publishedDateTime: 2021-02-19T13:36:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/story/2021/02/why-cnc-machining-and-ai-make-a-perfect-match/16503/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 37
+    images:
+      - url: "https://www.manufacturingtomorrow.com/images/upload/images/Depositphotos_10054154_s-2019(2).jpg"
+        width: 720
+        height: 479
+        isCached: true
+  - title: "New AI-Enabled Virtual Screening Tool Identifies Most Promising Approved Drugs for Success in Treating COVID-19"
+    excerpt: "WorldQuant Predictive (WQP), an AI predictive products company, and CAS, a division of the American Chemical Society that specializes in scientific information solutions, have partnered to develop a groundbreaking methodology that can save time and lives by helping research teams rapidly prioritize the most promising drug candidates to treat COVID-19 and other critical diseases."
+    publishedDateTime: 2021-02-19T08:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-chemistry-6a43d4985262bc20925f45a5bca75298"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "YbSnAODNq0wQ30JLio8+9jEswZndvL9Gp7zOWBoo1qrnH+OBvutrz7LOE9P/EYzsHxcVnxj6/MUSytBFBUOQzLMLq7KxRp6EgpnIGYYVQaUae/nkowIZL0MVaffYYAPBcMyY1btouJ5MDTw+X8Ew6LpNztpgTyzE1yAT3+O3s85kGArH91I5ilr35Wqo1m/yBUyonQmNwpMHBF4OwwPAqicu5wfR+yHt4CWHu5WvLIYYRGAqePlBx2xmNPJgygkopBHEqSg2lxFzO0Bk+WQga9QhgsV1YGizv8klMxjxwymFWqM/+KmH5LYx0X6KVxic++PpT/8klQksmvQkuXeOySvaI4N357vg+CEVHVj23A8=;KJM1f5D6+MGPVbPn96Dz/g=="

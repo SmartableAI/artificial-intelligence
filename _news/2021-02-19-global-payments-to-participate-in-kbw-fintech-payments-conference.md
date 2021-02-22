@@ -55,20 +55,6 @@ related:
         width: 583
         height: 478
         isCached: true
-  - title: "Western Union to Present at the KBW Fintech Payments Conference on February 23rd"
-    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the KBW Fintech Payments Conference on Tu 23,"
-    publishedDateTime: 2021-02-17T09:13:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=423114"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 19
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
     excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."
     publishedDateTime: 2021-02-19T03:05:00Z
