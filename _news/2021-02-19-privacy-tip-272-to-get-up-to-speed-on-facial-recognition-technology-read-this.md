@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp"
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 74
+published: true
 
 provider:
   name: The National Law Review
@@ -25,6 +25,31 @@ images:
     width: 1426
     height: 808
     isCached: true
+
+related:
+  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
+    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
+    publishedDateTime: 2021-02-18T18:34:00Z
+    webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 42
+  - title: "Minneapolis becomes latest city to ban use of facial recognition technology"
+    excerpt: "Last week, the Minneapolis City Council passed an ordinance that prohibits the city from buying facial recognition technology or using any data derived from it. Notably, however, the ordinance does include an exception for providing access control and security for employees in workplaces."
+    publishedDateTime: 2021-02-18T21:45:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21210937/minneapolis-becomes-latest-city-to-ban-use-of-facial-recognition-technology"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 37
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/bigstock_Face_Detection_And_Recognition_380721568.602edf5b1bf93.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "PyxcnqSIxf12Yy6Wp9Oc0I+Sw7PrwLbeLYQw0SyCEbX7uE2sscX9UOb9xBjqADGzeWWWcTUyTOQMafajrP3ytUdH3Nq7ZhOBZqBAH/dMgIaMuA1lFWeEL3HA4dZE9JdLNtl+bdSLsZLbTYIxLvznrolTtukkUi5hewh7St3sdjNStIUt7Ry1/Kkbyq32IHrMqMxHqjAHIk4kksuJ7NHGJlg+aPTBCrq6XsdSSHySbqXGAHfVJr6XStAwqQi8iPw7WHHjayyoAdilG8fqo77Nw3JyLVfkKbJA+TgdsQyI3cOQidKcDU2B9OqgCQo5uxdVvG6CdR6Pfv1RJcpMYTnCU8UvCGlnpd2YZio+O7D0uKJR3bNqv7kNJgZRJcK5IhhTpqVK7SVflGxuzTjebhQNfrOuFgLVqMyzMMxtpyell6cRmYSj5Je+JFG3RJXeyyVKywg7owHq2jnmMJv7UT4Gl1ZsxT8LmWML9AguZQEegCRg2EqYboCdH9nf9akVPo4TxMTVaiKLIgP+1GiPBLsgug==;ahdRDtEpAuwiro/PpKVOhg=="
 ---

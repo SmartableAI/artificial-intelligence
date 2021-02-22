@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "10 Ways AI Has The Potential To Improve Agriculture In 2021"
-    excerpt: "AI, machine learning (ML), and the IoT sensors that provide real-time data for algorithms increase agricultural efficiencies, improve crop yields, and reduce food production costs"
-    publishedDateTime: 2021-02-17T17:20:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602d48193da3d0409611fdac%2F0x0.jpg"
-        width: 1149
-        height: 766
-        isCached: true
   - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
     excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
     publishedDateTime: 2021-02-19T06:11:00Z
@@ -188,6 +172,6 @@ related:
         height: 450
         isCached: true
 
-secured: "4DEIbnIXV2NIkUisM6xPaoxwwUNHpUmNnHbGVOw3PeQTzh6ntF52bsz+UKFP55mOr+s71yNZ5Ub5asJkwySvviFplQMB4wHLrbyil2WgteNiX31oJuX3Cj0+PgY93FklNwLkVoFqEV2sl/FpwLopjKFuCfgrchDTi+8OJF0eIO8Z984xDGWUlY7gl6pC2xgfU+zN01jIrAZqhE/aUgNDPX10xC/ncp3Bg6ac4OKYC/uGmvdquOeGpcLFmMRSPVL+rEM2RIXYHMr5zwPJwZ6bY95Tae4a2uIHi2tVZnKQiY0pNk6EVsqb3FCe5Dtkh2VE386Zo9nXngPoyfDB7M/+PS7aATm5pbI6MK1gxdFcrLE=;698FJTyRU1968OleKFfK7Q=="
+secured: "kps4QLkKu+NP4722ETqGSWFyMr0xh150iCdosBqK0rrcP8pTs8iF8xXpixbzxlaeHiRBLtffpwCmXZOPhoYckBs+omfChz97qoNSDO5an2sMxh/knSHMB2bFYCwybo8X26FDsQVzWJES8DrjcEeYN+jxS/4ttvYMdOQkjPPlBLgx2W3ASXjJD+O+mhN6dVk7liC0KOyICxYI7L/EKiXP0dz9IhEGjFqFMJTz91Mzru34/fe9NDrEKCMBA+Kq2wXnVE/FU6szNep4OC6pJz6JqB9wIX3HkGIz/LogKDLQji/NrpR+mYQS8u+CCVmXfXo2bl/Ea4yYajD+FXljau55HQo+VTdg1q5B3FeNYeRIIJf8wvTToFMjOQYUHMDAtw8wJAgxszys8F4mnyP+hTZeumpgJczTPewOw4o105WN0tcvrHFK26NhcnZTW/rCtNeb9tlXhy9pA/pfEidi6dWhB6PMO6xAKUF28A8Eihcp/x0yS2HOAUheQBDyiKsfpJ1qnybKN5WWd0nKFBEyJPdtGw==;IGJTgA9SssCQ8B+5iHTEBQ=="
 ---
 

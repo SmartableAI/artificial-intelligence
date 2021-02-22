@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "10 Ways AI Has The Potential To Improve Agriculture In 2021"
-    excerpt: "AI, machine learning (ML), and the IoT sensors that provide real-time data for algorithms increase agricultural efficiencies, improve crop yields, and reduce food production costs"
-    publishedDateTime: 2021-02-17T17:20:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602d48193da3d0409611fdac%2F0x0.jpg"
-        width: 1149
-        height: 766
-        isCached: true
   - title: "Putting artificial intelligence to work"
     excerpt: "Artificial intelligence systems are increasingly being given key roles in site teams. Lisa Russell looks at how Winvic is bringing in AI to boost site safety"
     publishedDateTime: 2021-02-18T12:24:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-f
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Sify.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boast.AI Secures $100M to Fuel R&D Tax Credit-Based Financing for Startups"
-    excerpt: "Boast.ai, a software innovator whose flagship product automates the complex process of applying for R&D tax credits, has secured a $100 million credit facility from Brevet Capital, a leading alternative credit investment and specialty finance firm,"
-    publishedDateTime: 2021-02-17T17:47:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-government-business-and-finance-products-and-services-government-taxation-and-revenue-f56c516c76f65585d5fadd2a27304eaa"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AI-based Asset & Plant Monitoring Startup UptimeAI raises seed funding of $1.5M"
     excerpt: "UptimeAI, a company specializing in AI-based predictive maintenance software for heavy industries, announced that it is raising a total of $1.5M SEED funding"
     publishedDateTime: 2021-02-18T06:45:00Z

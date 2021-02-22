@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-21-amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program.md",
+      "title": "AMAX Accelerates Next-gen AI Computing with NVIDIA A100 GPU Test Drive Program",
+      "excerpt": "FREMONT, Calif., Jan. 21, 2021 — AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their most demanding analytics, high-performance computing (HPC), inference, and training ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/off-the-wire/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program/",
+      "originalUrl": "https://www.hpcwire.com/off-the-wire/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/A100SXM-GPU_Amax-300x261.png",
+          "width": 300,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai.md",
       "title": "VAST Data allies with Nvidia on reference storage architecture for AI",
       "excerpt": "VAST Data collaborates with Nvidia to create reference architecture for attaching its storage systems to GPU servers.",

@@ -33,20 +33,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "Top 5 Robot Trends 2021 Robots Learn New Tricks and Help to Reduce Carbon Footprint"
-    excerpt: "Annual installations of industrial robots more than tripled within ten years (2010-2019) reaching 381 thousand units in factories around the world. The International Federation of Robotics shows top 5 trends shaping industries around the globe."
-    publishedDateTime: 2021-02-17T17:32:00Z
-    webUrl: "https://www.automation.com/en-us/articles/february-2021/top-5-robot-trends-2021-robots-new-tricks-carbon"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 33
-    images:
-      - url: "https://www.automation.com/getmedia/64b4e078-804f-4057-8235-e85f583e28f9/IFR-news-Feb-17-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "UKj6cLI9TPzUUdV1Y0xRg/Bl+T2RABdzXhRA6Y8wQ4Kceu8IYvLwQgTxo7a97rr57JaccDb31TNv2ps75zOwkqM59Zh+dLeLFbEa7s6NwGeBj72nUgxQKnzeAB0df3jD4jDzvhOw24kE28Lsa60APpSZGE3pEy/zn85hPpWNerAxw/fCm8iFOdVLr2cAxu/njGl+zKRZvCjAN8HvOQk6qNaYdW3sQA0XZHdkNBBv6M23m9t5WJNEhCDhClRq9J4MUEtBfLfebpfutz8G4+2ftbwKThHFdTX2I+4yTWlanBxLg8j3JDq0nK+NzHijNPHEITsXwz6pu+iJOi+oUT+V/lYNgrW8WRDpClng/0ONRN0=;9tHeiGJZRGKIDNU+X4yrgQ=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 768
         height: 781
         isCached: true
-  - title: "IBM proposes AI chip with benchmark-beating power efficiency"
-    excerpt: "IBM claims to have developed an AI accelerator chip for training and inferencing that beats other leading chips on benchmarks."
-    publishedDateTime: 2021-02-17T18:08:00Z
-    webUrl: "https://venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency/"
-    ampWebUrl: "https://venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all"
-        width: 1024
-        height: 663
-        isCached: true
   - title: "An Inside Look At IBM’s Energy Efficient AI Chip"
     excerpt: "IBM wants to develop an entirely new class of energy-efficient AI hardware accelerators that will significantly increase compute power without requiring exorbitant energy."
     publishedDateTime: 2021-02-19T09:31:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.pesmedia.com/industrial-robotics-automation-trends-180
 webUrl: "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 34
-  - title: "Top 5 Robot Trends 2021 Robots Learn New Tricks and Help to Reduce Carbon Footprint"
-    excerpt: "Annual installations of industrial robots more than tripled within ten years (2010-2019) reaching 381 thousand units in factories around the world. The International Federation of Robotics shows top 5 trends shaping industries around the globe."
-    publishedDateTime: 2021-02-17T17:32:00Z
-    webUrl: "https://www.automation.com/en-us/articles/february-2021/top-5-robot-trends-2021-robots-new-tricks-carbon"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 33
-    images:
-      - url: "https://www.automation.com/getmedia/64b4e078-804f-4057-8235-e85f583e28f9/IFR-news-Feb-17-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "tYEDBZP7VO5/ejb+uLwKQhB1On2IsUJM1ZkiFryQlZm2EVcPmC6cXEqSG566a4Ufj/ZsNBY5SN5P+o5KUeFNd5+cIWroRGRXCJdYM9v9QPvidszz3gIbvKO7vE7iDXb1mDGEujT/M26kvhrX9wz2PYSsmQqk28KP/TVw6/4fpca0y8NcDqgcX1JOkhLGaJPzuV3icBB5qLbnHsaXmsH39EkOCV3movK/lWoCw+ezUdpeTrQ65yOaMipD4+fKinqCA0OexmQ0AfHVfagqoP0/CMFVv9HLVrJSJ6/4/6U+/5OonC58oxAnb9KK5Ow5i653E8ke5fbEZuV7vvsosGo5tif0ImAz/Vps6jPrT0bw10mypv05ld+7nlKc+IvB5bh2doKanuAUA0cp/hNO7b6BMprBwpdxwX4JGYhJrafnx6KInN9sBMQ6F5UPmVHy/x+L+d74K3lnU7ziZI+PDMtIKfl3x6OQEmWuVyuLS6tGcS2Dh29pWHAgW3iHIRlr0xEOhf0t7v30uxSMhPoTP12J2Q==;afqVWQV88u5g+qk/Oq9JPg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/"
 type: article
 quality: 121
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM proposes AI chip with benchmark-beating power efficiency"
-    excerpt: "IBM claims to have developed an AI accelerator chip for training and inferencing that beats other leading chips on benchmarks."
-    publishedDateTime: 2021-02-17T18:08:00Z
-    webUrl: "https://venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency/"
-    ampWebUrl: "https://venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all"
-        width: 1024
-        height: 663
-        isCached: true
   - title: "IBM proposes AI chip with benchmark-beating power efficiency – Jaweb"
     excerpt: "IBM claims to have developed one of the world’s first energy-efficient chips for AI inferencing and training built with 7-nanometer technology. In a paper presented at the 2021 International Solid-State Circuits Virtual Conference in early February,"
     publishedDateTime: 2021-02-17T19:11:00Z

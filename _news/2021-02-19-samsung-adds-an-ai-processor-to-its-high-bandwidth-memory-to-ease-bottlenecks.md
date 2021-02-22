@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung creates RAM with integrated AI processing hardware"
-    excerpt: "Using its HBM2 RAM chips as a basis, Samsung added simple processing units that can speed up machine learning and inference workloads."
-    publishedDateTime: 2021-02-17T17:50:00Z
-    webUrl: "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php"
-    ampWebUrl: "https://m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 59
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/21/02/samsung-memory-with-builtin-ai/-1220x526/gsmarena_000.jpg"
-        width: 1220
-        height: 526
-        isCached: true
   - title: "Samsung Introduces World’s First HB RAM With Integrated AI Processing"
     excerpt: "Samsung Electronics announced that it has developed the industry’s first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI)"
     publishedDateTime: 2021-02-18T08:41:00Z

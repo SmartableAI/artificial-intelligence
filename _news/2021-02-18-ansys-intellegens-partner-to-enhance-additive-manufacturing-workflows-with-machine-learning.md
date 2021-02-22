@@ -24,22 +24,6 @@ images:
     height: 511
     isCached: true
 
-related:
-  - title: "Intellegens and Ansys to Empower Additive Manufacturing with Material Intelligence Through Machine Learning"
-    excerpt: "Machine learning specialist <a href=\" and engineering simulation leader <a href=\" have announced a collaboration to integrate machine learning methods into Additive Manufacturing (AM) workflows, accelerating the development of reliable and repeatable AM processes."
-    publishedDateTime: 2021-02-17T17:42:00Z
-    webUrl: "https://www.automation.com/en-us/articles/february-2021/intellegens-ansys-additive-manufacturing-material"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 21
-    images:
-      - url: "https://www.automation.com/getmedia/78c7d7e6-3135-4288-ba59-915a6fa734f2/Intellegens-news-Feb-17-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-
 secured: "Ktae12kyz/Oha6UX9HHr36b7XqZUaBmG6M7aZKTRnAA2hyGnOXnf+MluWbIW6JZ9Ud+nw3omCEMYBdYEOgEl3PrbK8BnJslcJ1iL5T9MyET85fcywlr2kk8LRxi5LrXJ5DBabJhQzLrh+hx0lWv0jNWsXyxHqeLFdGkFnu9mADBq0bRxbZ1t7l8o8KsEqMCR2kGvDQJ5kWAsFOmsN3u7I6JEY/XmNwO8qWHmi9MUA5jcyCOHF2h/EJ7JPE0dUndclxkdBBYBdOO2fV/OXkGgAsNLKZnQ/aPd4EK4V+bPZAgRLAzulEjxzvzZjacE8kzbA/jxfKgDf9TVtOx9uI8WXoOub7pM99rN0nc8qY9UxID+3W1CS5C++cxoaoEKrfkBQIixSKM2g4w4W0k2gBriUqgTifh0ljc8Qlpe4yDX/Pk00pOhiSmNKO/dh1QoV/X1L4C5+CBW5hEqzEtPpjc2rj8PljIYAivuOc01W13HUyPQksl1twAuGI5tnMexA5ZceSDxVTmtNC3lEoYLWqs4qw==;wYy+0d7y3uXKk9FbvJYCWQ=="
 ---
 

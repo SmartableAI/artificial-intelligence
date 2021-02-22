@@ -68,20 +68,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Apple loses key manager from self-driving EV team"
-    excerpt: "Apple Inc.’s self-driving car team lost one of its longest-serving leaders, a potential setback to the technology giant’s efforts to compete in the auto industry. Benjamin Lyon helped form Apple’s original autonomous electric car team in 2014 as its most senior manager working on sensors."
-    publishedDateTime: 2021-02-17T17:45:00Z
-    webUrl: "https://www.autonews.com/executives/apple-loses-key-manager-self-driving-ev-team"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Apple in Discussions With Suppliers for Lidar"
     excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
     publishedDateTime: 2021-02-19T18:45:00Z

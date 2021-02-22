@@ -9,8 +9,8 @@ ampWebUrl: "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-h
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: ProPakistani
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung creates RAM with integrated AI processing hardware"
-    excerpt: "Using its HBM2 RAM chips as a basis, Samsung added simple processing units that can speed up machine learning and inference workloads."
-    publishedDateTime: 2021-02-17T17:50:00Z
-    webUrl: "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php"
-    ampWebUrl: "https://m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 59
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/21/02/samsung-memory-with-builtin-ai/-1220x526/gsmarena_000.jpg"
-        width: 1220
-        height: 526
-        isCached: true
   - title: "Samsung adds an AI processor to its High-Bandwidth memory to ease bottlenecks"
     excerpt: "Samsung claims its new HBM-PIM power-in-memory architecture will more than double system performance and reduce energy consumption by over 70%."
     publishedDateTime: 2021-02-19T11:05:00Z

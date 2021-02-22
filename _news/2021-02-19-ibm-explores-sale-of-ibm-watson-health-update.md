@@ -246,6 +246,20 @@ related:
         width: 619
         height: 416
         isCached: true
+  - title: "IBM Considering Sale of Watson Health Division: Report"
+    excerpt: "Get Report is considering selling its unprofitable Watson Health division, according to a published report late Thursday. The company’s potential move comes as it lags far behind rivals Amazon.com  (AMZN) - Get Report,"
+    publishedDateTime: 2021-02-19T06:52:00Z
+    webUrl: "https://www.thestreet.com/investing/ibm-considering-sale-of-watson-health-division-report"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 39
+    images:
+      - url: "https://www.thestreet.com/.image/t_share/MTY4NjUxNjAzOTQ3MTA0MTUx/ibm-beats-on-top-and-bottom-lines-cloud-sales-rise.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM considers selling IBM Watson Health: 5 notes"
     excerpt: "IBM is exploring the sale of its IBM Watson Health business as the company looks to ramp up its cloud computing division, according to a Feb. 19 Wall Street Journal report. Five notes: 1. IBM is looking into alternatives for the health unit,"
     publishedDateTime: 2021-02-19T15:48:00Z
@@ -326,6 +340,20 @@ related:
       - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
         width: 1000
         height: 1000
+        isCached: true
+  - title: "IBM reportedly mulls sale of Watson Health business"
+    excerpt: "The company is thought to be exploring a range of options from a sale to a merger with a 'blank-check' company"
+    publishedDateTime: 2021-02-22T10:52:00Z
+    webUrl: "https://www.cloudpro.co.uk/operations/8951/ibm-reportedly-mulls-sale-of-watson-health-business"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 39
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/4/39//watson.jpg"
+        width: 550
+        height: 326
         isCached: true
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"

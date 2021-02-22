@@ -26,6 +26,17 @@ images:
     height: 312
     isCached: true
 
+related:
+  - title: "Nilanjan Sengupta Named Applied Intelligence CTO for Accenture Federal Arm"
+    excerpt: "Nilanjan Sengupta, a managing director at Accenture (NYSE: ACN), has been promoted as chief technology officer of the applied intelligence practice within the company’s federal services subsidiary, G2Xchange FedCiv reported Friday."
+    publishedDateTime: 2021-02-22T10:25:00Z
+    webUrl: "https://www.govconwire.com/2021/02/nilanjan-sengupta-named-applied-intelligence-cto-for-accenture-federal-arm/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 0
+
 secured: "13LcxJvOHQ0Kicfxt1YAGSw46U4PjNWjyP3saFzgHsY4aXMKY9G82fpvm546T1vVnAX/VGReO+giVIoUbtWq1Ry5k5BecIuu8BAeRwGhOgQOX/wBg2r4dyrZZP2dRZaBJ4JvBVG0d9X+meiFUIssTjn1WZvSTL6yO+6lYCNbxrAbO2F2Psmkr1APm1juurQO9uaBZKZ2/OO5BuTr7gyLmCFhUhzM37EA85ooA6mepQGqfT/kmJ5qQP61bDDnR39HS0J8+Oetal8ckD4Y5Y65SGaeSR/jJuvlb9cdou0nMXnKGmRk25MFcOupdY//D1wwSKPDZXHhlv8KDWwd6sMFiZISL36UadbQj7yK2vUMM3I=;sCMk7jd8BR3SK7mnR2OzDA=="
 ---
 
