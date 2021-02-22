@@ -2,6 +2,111 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-03-community-health-network-prescribes-ai-to-combat-covid-19.md",
+      "title": "Community Health Network prescribes AI to combat COVID-19",
+      "excerpt": "Community Health Network is employing an AI platform from Jvion to assign COVID-19 risk scores and drive an education outreach initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/",
+      "originalUrl": "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/amp/",
+      "publishedDateTime": "2021-02-03T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models.md",
+      "title": "Deepgram raises $25 million to build custom enterprise speech recognition models",
+      "excerpt": "Deepgram, a startup developing custom voice recognition models for enterprise customers, raised $25 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/",
+      "originalUrl": "https://venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Voice-recognition.NLP_.GettyImages-1199031078.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/amp/",
+      "publishedDateTime": "2021-02-03T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-granulate-raises-30-million-for-ai-that-optimizes-server-workloads.md",
       "title": "Granulate raises $30 million for AI that optimizes server workloads",
       "excerpt": "Granulate, a startup developing AI technologies to optimize server workloads, has raised $30 million in venture funding.",
@@ -1109,109 +1214,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-jeff-bezos-to-step-down-as-amazon-ceo-andy-jassy-to-take-over-in-q3.md",
-      "title": "Jeff Bezos to step down as Amazon CEO, Andy Jassy to take over in Q3",
-      "excerpt": "Jassy joined Amazon in 1997 and has led Amazon's Web Services cloud team since its inception. Bezos said he will stay engaged in important Amazon projects but will also have more time to focus on ...",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/campaigns/inside-amazon-2021-02-03-26425/sections/223561",
-      "originalUrl": "https://www.cnbc.com/2021/02/02/jeff-bezos-to-step-down-as-amazon-ceo-andy-jassy-to-take-over-in-q3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e.insd.io/s/p/223561_original.jpg?1612370704",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T15:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-case-studies-of-successful-ai-startups.md",
-      "title": "Case studies of successful AI startups",
-      "excerpt": "Unsurprisingly, artificial intelligence is a small part -- albeit an important one -- of a successful product management strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/",
-      "originalUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/artificial-intelligence-startup-case-studies.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/",
-      "publishedDateTime": "2021-02-02T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

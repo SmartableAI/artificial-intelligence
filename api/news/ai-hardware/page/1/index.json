@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-22-saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal.md",
+      "title": "SAIC Motor Boosts Presence in Auto Chip Sector With New Horizon Robotics Deal",
+      "excerpt": "A unit of SAIC Motor has signed a cooperation deal with vehicle chip unicorn Horizon Robotics to address the scarcity of semiconductors the Chinese carmaker has been facing amid a global shortage of the key component,",
+      "sourceUrl": null,
+      "webUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
+      "originalUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.yicaiglobal.com/cdn/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal/11561475324248064.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yicai Global",
+        "domain": "yicaiglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-samsung-set-to-complete-stability-of-hbm-pim-chips.md",
       "title": "Samsung set to complete stability of 'HBM-PIM' chips",
       "excerpt": "Samsung Electronics is further deepening its technology moat in the semiconductor sector as the Korean tech giant is set to complete test",
@@ -10,7 +54,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/samsung-set-to-complete-stability-of-hbm-pim-chips-9834933",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -210,7 +254,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -296,49 +340,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-samsung-introduces-worlds-first-hb-ram-with-integrated-ai-processing.md",
-      "title": "Samsung Introduces World’s First HB RAM With Integrated AI Processing",
-      "excerpt": "Samsung Electronics announced that it has developed the industry’s first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/",
-      "originalUrl": "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2021/02/Samsung-1.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/amp/",
-      "publishedDateTime": "2021-02-18T00:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -551,11 +552,11 @@
       "title": "Samsung develops AI processor-embedded memory chip",
       "excerpt": "Samsung Electronics today said that it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance. The new processing-in-memory (PIM) technology will help bring powerful AI computing capabilities inside high-performance memory.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/samsung-develops-ai-processor-embedded-memory-chip",
-      "originalUrl": "https://www.techradar.com/in/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "webUrl": "https://www.techradar.com/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "originalUrl": "https://www.techradar.com/news/samsung-develops-ai-processor-embedded-memory-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -569,8 +570,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "ampWebUrl": "https://www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
       "publishedDateTime": "2021-02-16T21:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1079,25 +1080,43 @@
     {
       "path": "_news/2021-02-08-lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet-of-vehicles.md",
       "title": "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles",
-      "excerpt": "LIZHI INC., a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics, an established chip maker for smart mobility in China,",
+      "excerpt": "LIZHI INC. (\"LIZHI\" or the \"Company\") (NASDAQ: LIZI), a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics,",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio",
-      "originalUrl": "https://www.nasdaq.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio",
+      "webUrl": "https://www.marketwatch.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet-of-vehicles-2021-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet-of-vehicles-2021-02-08",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T03:00:00-08:00",
+      "publishedDateTime": "2021-02-08T05:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

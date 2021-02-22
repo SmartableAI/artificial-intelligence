@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-18-machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate.md",
+      "title": "Machine learning on distributed Dask using Amazon SageMaker and AWS Fargate",
+      "excerpt": "As businesses around the world are embarking on building innovative solutions, we’re seeing a growing trend adopting data science workloads across various industries. Recently, we’ve seen a greater push towards reducing the friction between data engineers and data scientists. Data scientists are now",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/22/ML-1156-1.jpg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T09:44:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance.md",
+      "title": "Facial recognition executive talks vaccine passports, data privacy, and surveillance",
+      "excerpt": "\"I do not want to live in an Orwellian society,\" said Rob Watts, CEO of Corsight AI, who says his company's tech could enhance virtual passport efforts and airport security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "originalUrl": "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/18/ea971936-7d75-4771-9a21-38255a37a3e0/resize/1200x/292a86bce86937a351a3cc9d50bd66e6/metamorworks.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "publishedDateTime": "2021-02-18T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-4-ways-to-bridge-the-ai-integrity-gap.md",
+      "title": "4 Ways To Bridge The AI-Integrity Gap",
+      "excerpt": "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
+      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg",
+          "width": 588,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
+      "publishedDateTime": "2021-02-18T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
       "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
       "excerpt": "Researchers say the impact of AI on people who identify as queer is underexplored, which poses a threat to their health and privacy.",
@@ -248,7 +405,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -976,49 +1133,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-18-samsung-introduces-worlds-first-hb-ram-with-integrated-ai-processing.md",
-      "title": "Samsung Introduces World’s First HB RAM With Integrated AI Processing",
-      "excerpt": "Samsung Electronics announced that it has developed the industry’s first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/",
-      "originalUrl": "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2021/02/Samsung-1.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/amp/",
-      "publishedDateTime": "2021-02-18T00:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-18-intel-and-microsoft-partner-to-simplify-iot-solutions-development.md",
       "title": "Intel and Microsoft partner to simplify IoT solutions development",
       "excerpt": "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective.",
@@ -1110,102 +1224,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-aws-joins-pennylane-an-open-source-framework-that-combines-machine-learning-with-quantum-computing.md",
-      "title": "AWS joins PennyLane, an open-source framework that combines machine learning with quantum computing",
-      "excerpt": "AWS joins PennyLane, an open-source framework that combines machine learning with quantum computing . Amazon Web Services Inc. will play",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/pc/aws-joins-pennylane-an-open-source-framework-that-combines-machine-learning-with-quantum-computing/",
-      "originalUrl": "https://www.compsmag.com/news/pc/aws-joins-pennylane-an-open-source-framework-that-combines-machine-learning-with-quantum-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/AWS-joins-PennyLane-an-open-source-framework-that-combines-machine-learning.png",
-          "width": 918,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/pc/aws-joins-pennylane-an-open-source-framework-that-combines-machine-learning-with-quantum-computing/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/aws-joins-pennylane-an-open-source-framework-that-combines-machine-learning-with-quantum-computing/amp/",
-      "publishedDateTime": "2021-02-17T22:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-chinas-baidu-beats-revenue-estimates-on-strong-cloud-ai-demand.md",
-      "title": "China's Baidu beats revenue estimates on strong cloud, AI demand",
-      "excerpt": "China's Baidu Inc reported quarterly revenue above Wall Street expectations on Wednesday, helped by a recovery in advertising and an uptick in demand for its cloud services and artificial intelligence platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/technology-news/chinas-baidu-revenue-beats-expectations-on-rise-in-advertising-2421809",
-      "originalUrl": "https://www.reuters.com/article/uk-baidu-results-idUKKBN2AI0A3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.akamaized.net/news/LYNXMPED5Q0VX-ORUTP_L.jpg",
-          "width": 800,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T19:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

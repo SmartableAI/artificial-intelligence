@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-22-the-real-value-of-open-source-in-the-cloud.md",
+      "title": "The real value of open source in the cloud",
+      "excerpt": "It’s a mistake to believe that running open source in the cloud will protect you from vendor lock-in. But open source certainly offers freedom and independence to developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html",
+      "originalUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/ladder_escape-100714285-large.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.amp.html",
+      "publishedDateTime": "2021-02-22T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process.md",
+      "title": "This flying AI robot can pick fruit – preventing waste in the process",
+      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Douglas Broom, Senior Writer, Formative Content There’s a",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/",
+      "originalUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2021/02/robots-flying-1.jpeg?w=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/amp/",
+      "publishedDateTime": "2021-02-22T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal.md",
+      "title": "SAIC Motor Boosts Presence in Auto Chip Sector With New Horizon Robotics Deal",
+      "excerpt": "A unit of SAIC Motor has signed a cooperation deal with vehicle chip unicorn Horizon Robotics to address the scarcity of semiconductors the Chinese carmaker has been facing amid a global shortage of the key component,",
+      "sourceUrl": null,
+      "webUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
+      "originalUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.yicaiglobal.com/cdn/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal/11561475324248064.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yicai Global",
+        "domain": "yicaiglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-beware-hype-over-ai-based-healthcare-in-lower-income-countries.md",
       "title": "Beware hype over AI-based healthcare in lower-income countries",
       "excerpt": "While there is great potential for artificial intelligence to improve cancer care in low- and middle-income countries, there is also great hype surrounding the technology. Terms such as “game-changer”,",
@@ -158,7 +297,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/samsung-set-to-complete-stability-of-hbm-pim-chips-9834933",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -643,49 +782,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-second-google-ai-ethics-leader-fired-she-says-amid-staff-protest.md",
-      "title": "Second Google AI ethics leader fired, she says amid staff protest",
-      "excerpt": "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/alphabet-google-research-idUSL1N2KP2T5",
-      "originalUrl": "https://www.reuters.com/article/alphabet-google-research-idUSL1N2KP2T5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2KP2T5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KP2T5",
-      "publishedDateTime": "2021-02-19T19:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-20-google-cloud-platform-a-cheat-sheet.md",
       "title": "Google Cloud Platform: A cheat sheet",
       "excerpt": "Some of the latest products added to Google Cloud Platform are Cloud Inference API, allowing developers to run large-scale correlations over datasets, Shielded VMs, Cloud Tasks, Cloud IoT Edge, Cloud AutoML, and the AI Hub, allowing developers to share and ...",
@@ -797,7 +893,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -838,6 +934,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-second-google-ai-ethics-leader-fired-she-says-amid-staff-protest.md",
+      "title": "Second Google AI ethics leader fired, she says amid staff protest",
+      "excerpt": "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2",
+      "originalUrl": "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp",
+      "publishedDateTime": "2021-02-19T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -986,7 +1125,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-19/google-to-change-policies-after-review-of-ai-researcher-s-exit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 337,
+      "heat": 357,
       "tags": null,
       "images": [
         {
@@ -1079,154 +1218,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-immunai-raises-60m-to-decode-the-immune-system-with-machine-learning-and-ai.md",
-      "title": "Immunai Raises $60M to Decode the Immune System with Machine Learning and AI",
-      "excerpt": "Immunai, cofounded by Noam Solomon, is decoding the immune system to help better detect, diagnose, and treat disease using machine learning and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/",
-      "originalUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2021/02/Noam-Solomon_immunai-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/amp/",
-      "publishedDateTime": "2021-02-19T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-facial-recognition-cardiff-rapist-caught-on-cctv.md",
-      "title": "Facial recognition: Cardiff rapist caught on CCTV",
-      "excerpt": "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-56130226",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-56130226",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage.md",
-      "title": "Fintech companies must balance the pursuit of profit against ethical data usage",
-      "excerpt": "Big Tech has written the playbook for what not to do with our data, while also laying a framework for how to build exceptional experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/",
-      "originalUrl": "https://techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-172655016.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/amp/",
-      "publishedDateTime": "2021-02-19T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

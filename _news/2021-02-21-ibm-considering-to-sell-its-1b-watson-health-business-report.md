@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IBM reportedly mulls sale of Watson Health business"
+    excerpt: "IBM is reportedly considering a sale of Watson Health, its artificial intelligence-based medical data service, in order to further streamline its business. Talks are at an early stage, according to sources cited in The Wall Street Journal,"
+    publishedDateTime: 2021-02-22T11:03:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour"
+    ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1613989145/itpro/IBMWatsonSign_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "IBM exploring sale of its Watson Health unit"
     excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
     publishedDateTime: 2021-02-19T01:41:00Z
@@ -332,20 +348,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/IBM_ads_at_JFK.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "IBM reportedly mulls sale of Watson Health business"
-    excerpt: "The company is thought to be exploring a range of options from a sale to a merger with a 'blank-check' company"
-    publishedDateTime: 2021-02-22T10:52:00Z
-    webUrl: "https://www.cloudpro.co.uk/operations/8951/ibm-reportedly-mulls-sale-of-watson-health-business"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 39
-    images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/4/39//watson.jpg"
-        width: 550
-        height: 326
         isCached: true
   - title: "IBM Explores Sale of IBM Watson Health — Update"
     excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."

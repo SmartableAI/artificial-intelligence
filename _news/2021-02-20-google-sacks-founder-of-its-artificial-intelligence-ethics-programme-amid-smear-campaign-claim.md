@@ -29,14 +29,14 @@ images:
 related:
   - title: "Second Google AI ethics leader fired, she says amid staff protest"
     excerpt: "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
-    publishedDateTime: 2021-02-20T03:18:00Z
-    webUrl: "https://www.reuters.com/article/alphabet-google-research-idUSL1N2KP2T5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KP2T5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KP2T5"
+    publishedDateTime: 2021-02-19T22:21:00Z
+    webUrl: "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 84
   - title: "Google sacks founder of its artificial intelligence ethics programme amid 'sexism and discrimination' claims"
     excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."

@@ -39,6 +39,34 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Marinus Analytics is the lone US company in the final round of the $5 million AI XPRIZE"
+    excerpt: "In 2019 alone, the company claims that Traffic Jam helped to identify an estimated 3,800 victims of sex trafficking."
+    publishedDateTime: 2021-02-19T15:40:00Z
+    webUrl: "https://nextpittsburgh.com/latest-news/marinus-analytics-is-the-lone-us-company-in-the-final-round-of-the-5-million-ibm-watson-ai-xprize-competition/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 31
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/02/17145743/Marinus-.jpg"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "Marinus Analytics anti-human trafficking biometrics selected for finals of IBM AI competition"
+    excerpt: "CMU biometrics and big data spinoff Marinus Analytics has been selected as the lone American finalist for the $5M IBM Watson AI XPRIZE Competition."
+    publishedDateTime: 2021-02-18T19:08:00Z
+    webUrl: "https://www.biometricupdate.com/202102/marinus-analytics-anti-human-trafficking-biometrics-selected-for-finals-of-ibm-ai-competition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government"
     excerpt: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government By Niten Malik, Director, US Public Service, Microsoft - The efforts to build sophisticated cloud or on premises solutions are often complicated by inflexible technology."
     publishedDateTime: 2021-02-19T06:48:00Z
@@ -52,6 +80,20 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/hz4OtL2K.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Octopai Announces Support of Snowflake, Continuing to Empower BI & Analytics Groups with Advanced Intelligence in Hybrid and Complex BI Environments"
+    excerpt: "This follows a recent announcement of its support of Microsoft Azure Data Factory ... The company was recognized as a Gartner Cool Vendor for Data Science and Machine Learning in 2018 and has been recognized in 2019 and 2020 as one of the top companies ..."
+    publishedDateTime: 2021-02-22T12:46:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-snowflake-continuing-to-empower-bi--analytics-groups-with-advanced-intelligence-in-hybrid-and-complex-bi-environments-301232461.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "PFb+XOCLtkU2qI1Yb+HVvUWi8MnYRK3ijbAVUBWQv0Tj8KGu8dLQsLdw3TClZn+ycNsDh9/4eQ4lm3XrIXirdUJ5qdEiDZ5jFjQ3YWkrEw9nAePY1Ea6gWDFqmBbtVJvONsxRjQRd41xRlD1HDSwYtUE9Jn3VcIGLGzInTQtPiGoTp5uwhSZc3m7VjYihtrd4bivAFzITR3o42t+FCwQcQu9clKwoxbxpphWhnclwrdXtqYgYffQijRUyIm3RqT2AwXF0oDNPn1WgXFjDqGuVyL/63mll5vvEYH4/wD8iIW2QOUMI9fKUxzGRR5crhImF9fl97ABYXQaCwsPUZ1bYxPivansspWBK4rdHHzBHOZ+WprSb0E6UkF1OFVyeHk4jadaaGxvfvWqFB7mR7BMQpvAiOcowL7kbK24UmS9BIIHqH//04h5rZrW7DFa/6op7PQ1dPI4R8Rpd714cRZTCtqQDRVfwuQH8lGe7C9NQKiObqLyboQKYkX7OwLgl4bQxAbvaXCB3H5vH25uhdoIRg==;sTF0Ka43NmDHnuydsEgYdw=="

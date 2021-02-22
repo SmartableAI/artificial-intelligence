@@ -2,6 +2,92 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-05-ex-google-organizer-says-biden-and-the-pentagon-need-more-than-an-ethics-paper-to-win-back-tech-workers.md",
+      "title": "Ex-Google organizer says Biden and the Pentagon need more than an ethics paper to win back tech workers",
+      "excerpt": "Here's what she told Insider about the Pentagon's efforts around AI ethics, the urgency of the tech worker movement for AI, and encouraging signs from the Biden team: Pentagon spending big on AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/meredith-whittaker-google-ai-says-pentagon-needs-ai-accountability-2021-2",
+      "originalUrl": "https://www.businessinsider.com/meredith-whittaker-google-ai-says-pentagon-needs-ai-accountability-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/601b5b51ee136f00183aa367?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-gomoxies-see-ai-wins-industry-accolades.md",
+      "title": "goMoxie’s SEE (AI) Wins Industry Accolades",
+      "excerpt": "Moxie®, the leading provider of customer guidance solutions, today announced that its solution, SEETM , an AI solution that delivers actionable insi",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210204005332/en/goMoxie’s-SEE-AI-Wins-Industry-Accolades",
+      "originalUrl": "https://www.businesswire.com/news/home/20210204005332/en/goMoxie’s-SEE-AI-Wins-Industry-Accolades",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos.md",
       "title": "Canada (politely) asks Clearview AI to stop scraping citizens’ photos",
       "excerpt": "The country's regulators said Clearview violated Canada's privacy laws by scraping photos of citizens from the internet without permission.",
@@ -1095,101 +1181,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs.md",
-      "title": "Noida Girl Designs Machine Learning Project to Identify Down Syndrome Through Photographs",
-      "excerpt": "Designed as part of a project submitted to Google India Code to Learn contest 2020, this tool has the potential of saving more than 20,000 children's lives annually in India alone",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/",
-      "originalUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2021/02/11-2.jpg",
-          "width": 613,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/amp/",
-      "publishedDateTime": "2021-02-04T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-data-drought-slows-advance-of-ai-in-cybersecurity.md",
-      "title": "Data Drought Slows Advance of AI in Cybersecurity",
-      "excerpt": "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
-      "originalUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-294669/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

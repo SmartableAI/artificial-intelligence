@@ -37,20 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Samsung Announces HBM Tech with Built-in AI Processing"
-    excerpt: "Samsung today announced what it’s calling the industry’s first high bandwidth memory (HBM) memory with built-in AI processing capability. The new device –"
-    publishedDateTime: 2021-02-17T19:55:00Z
-    webUrl: "https://www.hpcwire.com/2021/02/17/samsung-announces-hbm-tech-with-built-in-ai-processing/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Image_HBM-PIM-Main-e1613579775564.jpg"
-        width: 915
-        height: 559
-        isCached: true
   - title: "Samsung introduces HBM-PIM – the world’s first HBM with artificial intelligence"
     excerpt: "PIM, this is the world’s first High Bandwidth Memory integrated with artificial intelligence processing power. Featuring a processing-in-memory design, HBM-PIM is aimed at data centre use, HPC systems,"
     publishedDateTime: 2021-02-18T09:21:00Z

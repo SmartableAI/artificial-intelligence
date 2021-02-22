@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Research Report 2020: Global Industry Analysis, Business Development, Size, Share, Trends, Future Growth, Forecast To 2025"
-    excerpt: "Countries such as India and Moscow Introduce Facial Recognition for Superlative Law Enforcement Outcome Besides"
-    publishedDateTime: 2021-02-17T19:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-2020-global-industry-analysis-business-development-size-share-trends-future-growth-forecast-to-2025-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Emerging Gesture Recognition Market Aiming to Capture Largest Market Share with Developed Economies during 2021-2025"
     excerpt: "Gesture Recognition Market report analyse the manufacturers with profile, main business, news, sales, price, revenue and market share. Gesture Recognition report displays the"
     publishedDateTime: 2021-02-19T05:56:00Z

@@ -39,6 +39,34 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Marinus Analytics is the lone US company in the final round of the $5 million AI XPRIZE"
+    excerpt: "In 2019 alone, the company claims that Traffic Jam helped to identify an estimated 3,800 victims of sex trafficking."
+    publishedDateTime: 2021-02-19T15:40:00Z
+    webUrl: "https://nextpittsburgh.com/latest-news/marinus-analytics-is-the-lone-us-company-in-the-final-round-of-the-5-million-ibm-watson-ai-xprize-competition/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 31
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/02/17145743/Marinus-.jpg"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "Marinus Analytics anti-human trafficking biometrics selected for finals of IBM AI competition"
+    excerpt: "CMU biometrics and big data spinoff Marinus Analytics has been selected as the lone American finalist for the $5M IBM Watson AI XPRIZE Competition."
+    publishedDateTime: 2021-02-18T19:08:00Z
+    webUrl: "https://www.biometricupdate.com/202102/marinus-analytics-anti-human-trafficking-biometrics-selected-for-finals-of-ibm-ai-competition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Kellogg leverages ‘next-generation data & analytics,’ machine-learning to maintain, build on customer gains during pandemic"
     excerpt: "As the pandemic nears the one-year mark, food and beverage companies face increased pressure to maintain new consumers gained during the pandemic while also engaging additional shoppers over record household penetration increases in the last year – a challenge that Kellogg is meeting with improved use of data and analytics that allow for enhanced targeting,"
     publishedDateTime: 2021-02-19T13:53:00Z
@@ -52,6 +80,20 @@ related:
       - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/news/manufacturers/kellogg-leverages-next-generation-data-analytics-machine-learning-to-maintain-build-on-customer-gains-during-pandemic/12206380-1-eng-GB/Kellogg-leverages-next-generation-data-analytics-machine-learning-to-maintain-build-on-customer-gains-during-pandemic.jpg"
         width: 800
         height: 419
+        isCached: true
+  - title: "Octopai Announces Support of Snowflake, Continuing to Empower BI & Analytics Groups with Advanced Intelligence in Hybrid and Complex BI Environments"
+    excerpt: "This follows a recent announcement of its support of Microsoft Azure Data Factory ... The company was recognized as a Gartner Cool Vendor for Data Science and Machine Learning in 2018 and has been recognized in 2019 and 2020 as one of the top companies ..."
+    publishedDateTime: 2021-02-22T12:46:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-snowflake-continuing-to-empower-bi--analytics-groups-with-advanced-intelligence-in-hybrid-and-complex-bi-environments-301232461.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "4ndn9EcLFy1RW8GAGiX0sqC2JOQH22El9/UbOG9Aw2TSKmrP2SXGyu2Pq7mHQeGVpNznddM8uVQAw+QBbZD4Vj1+CtGVSpGapBquH32dZ4V05CvfTX+DCBdXcWjuTyVNkrrEqWBfhk5VnayRW1HZhdJmrQ4MCVlDL1sUIg+UoH5r5BPTgVJyaESDR2CxC5QF9kIFgS0wK5ULPENAOi1EC7igxzdgo528ExZLY6SVWmZzPEfM5jI7+vc2+DzwYgre/9GVbrkhZ+0aZQ05SaeSKvHROqRWwXapxfqMtlrao6sdd7/vzAfIVwoQ29HskOrNIXoeGbfrt1Hffv67t19ACYdHrKsXO9kFC9XOSFL4L1FnTKBDknlCFpAohC5jH73C0AkOEverJpSBsyhHEUyvvUm4/OCaKLNKWE2I6qly5EgB4MLCRmmi55kYomBJOkkTDoLF0PyWGLR1C4EChc8svm2Ae5mIUgy6jo0r7fdDPoYM9KUvssR2C0wEVkpAgy6pkRCNYL3vMbNym1Ovlr6Beg==;yOi3r6hgyO18nU9rFuyBdw=="

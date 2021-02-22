@@ -41,22 +41,6 @@ related:
         width: 768
         height: 781
         isCached: true
-  - title: "IBM proposes AI chip with benchmark-beating power efficiency – Jaweb"
-    excerpt: "IBM claims to have developed one of the world’s first energy-efficient chips for AI inferencing and training built with 7-nanometer technology. In a paper presented at the 2021 International Solid-State Circuits Virtual Conference in early February,"
-    publishedDateTime: 2021-02-17T19:11:00Z
-    webUrl: "https://elmoudjaweb.com/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/ibm-proposes-ai-chip-with-benchmark-beating-power-efficiency-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 74
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/IBMs-hybrid-cloud-strategy-is-gaining-steam-–-Jaweb.jpg"
-        width: 1024
-        height: 663
-        isCached: true
   - title: "IBM claims 'world's first energy efficient AI accelerator chip' based on 7nm technology"
     excerpt: "A team of researchers at IBM claims to have created the world's first artificial intelligence (AI). The new chip, which features four cores, was unveiled at the 2021 International Solid-State Circuits Conference held virtually earlier this month."
     publishedDateTime: 2021-02-19T11:28:00Z

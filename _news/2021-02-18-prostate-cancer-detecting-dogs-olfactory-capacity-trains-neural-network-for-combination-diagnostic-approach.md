@@ -51,20 +51,6 @@ related:
       domain: sciencedaily.com
     quality: 33
   - title: "Learning from prostate cancer-detecting dogs to improve diagnostic tests"
-    excerpt: "New research demonstrates the ability of dogs to detect aggressive prostate cancer from urine samples and suggests that an artificial neural network could learn from this olfactory ability, with an eye toward replicating it in novel detection tools."
-    publishedDateTime: 2021-02-17T19:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/p-lfp021021.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 23
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/256086_web.jpg"
-        width: 720
-        height: 447
-        isCached: true
-  - title: "Learning from prostate cancer-detecting dogs to improve diagnostic tests"
     excerpt: "New research demonstrates the ability of dogs to detect aggressive prostate cancer from urine samples and suggests that an artificial neural network"
     publishedDateTime: 2021-02-20T22:48:00Z
     webUrl: "https://www.thedailystar.net/health/news/learning-prostate-cancer-detecting-dogs-improve-diagnostic-tests-2048589"

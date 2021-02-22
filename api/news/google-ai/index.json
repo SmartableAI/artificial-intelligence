@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-22-the-real-value-of-open-source-in-the-cloud.md",
+      "title": "The real value of open source in the cloud",
+      "excerpt": "It’s a mistake to believe that running open source in the cloud will protect you from vendor lock-in. But open source certainly offers freedom and independence to developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html",
+      "originalUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/ladder_escape-100714285-large.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.amp.html",
+      "publishedDateTime": "2021-02-22T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-googles-model-search-automatically-optimizes-and-identifies-ai-models.md",
       "title": "Google’s Model Search automatically optimizes and identifies AI models",
       "excerpt": "Google open-sourced Model Search, a tool that automatically optimizes and identifies AI models given a dataset and task.",
@@ -1482,59 +1534,6 @@
       "topics": [
         "AI",
         "AI Ethics",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-python-remains-most-popular-programming-language-to-learn.md",
-      "title": "Python remains most popular programming language to learn",
-      "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
-      "originalUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/85083d05-b7b7-4832-a3b1-f1532b6d905e/resize/1200x/f816050b9bf16dda28145dfd5dcf70cd/fullstackdeveloperimage.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "publishedDateTime": "2021-01-25T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
         "Google AI"
       ]
     }

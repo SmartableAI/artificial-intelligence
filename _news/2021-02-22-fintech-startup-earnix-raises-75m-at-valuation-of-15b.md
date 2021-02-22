@@ -33,6 +33,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "FinTech Earnix joins the unicorn club with $75m investment"
+    excerpt: "Israeli financial technology firm Earnix has raised $75 million in a late-stage funding round at a company valuation of $1 billion."
+    publishedDateTime: 2021-02-22T11:38:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-earnix-joins-the-unicorn-club-with-75m-investment/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/02/TIS.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Israeli Fintech Company Earnix to Become Israeli Tech’s Newest Unicorn With $75 Million Funding"
     excerpt: "Israeli fintech company Earnix has announced a $75 million funding round at a pre-money valuation of $1 billion, making it the newest member of the Israeli unicorn club. The round was led by Insight Partners,"
     publishedDateTime: 2021-02-21T14:39:00Z

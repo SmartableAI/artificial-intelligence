@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/amp/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "5 top Indian FinTech funding rounds announced this Feb 2021"
+    excerpt: "The Indian FinTech sector witnessed interesting funding announcements this 021. Digital payments have been instrumental."
+    publishedDateTime: 2021-02-22T12:19:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-indian-fintech-funding-rounds-announced-this-feb-2021/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/fintech-malaysia-1-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
     excerpt: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
     publishedDateTime: 2021-02-22T00:17:00Z

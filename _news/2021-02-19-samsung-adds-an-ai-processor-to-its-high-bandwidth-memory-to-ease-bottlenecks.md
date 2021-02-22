@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Samsung Stuffs 1.2TFLOP AI Processor Into HBM2 to Boost Efficiency, Speed"
-    excerpt: "Samsung has developed a new type of processor-in-memory, built around HBM2. It's a new achievement for AI offloading and could boost performance by up to 2x while cutting power consumption 71 percent."
-    publishedDateTime: 2021-02-17T19:18:00Z
-    webUrl: "https://www.extremetech.com/computing/320051-samsung-stuffs-1-2tflop-ai-processor-into-hbm2-to-boost-efficiency-speed"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 38
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/02/Samsung-HBM-PIM-Feature.jpg"
-        width: 1344
-        height: 743
-        isCached: true
 
 secured: "V74QEU2JiJMXwFfhJO7xK7pwS5obNDnRexsBmTT2f9XEZ0LHluFE0W/Z20S33neAvcdzukRUgpnI0CW3m2G7t09vv5jRHuUNyyy3HqQENBPd1KHGj+YFlckpzXDQLOo/cNlIBbkPIdXnqqRwco7Z1rQf7GexQqxiivfDYETki5rE1K26XfGAchr52Yi/4KR1pj5nNUhTLSn9PAiwR/NVDXdAf7qaZBYCJkmOYMdExQKsnvXcsWfEjYv8yasTlR3SgoFpBS+9wz7stPWYokkA4TJD6a0v0B0GAzXV5cFacNKhwe06NmVKbiZb6M3zbkxlXjdb38nT/0V2c+HiDwDVljr3zIGy/IFXT2ux/7QFt7o=;+HGKjwMARVZ+MPzArAFkwA=="
 ---

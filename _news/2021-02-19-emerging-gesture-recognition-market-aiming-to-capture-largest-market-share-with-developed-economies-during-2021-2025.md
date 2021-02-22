@@ -44,20 +44,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Facial Recognition Market Research Report 2020: Global Industry Analysis, Business Development, Size, Share, Trends, Future Growth, Forecast To 2025"
-    excerpt: "Countries such as India and Moscow Introduce Facial Recognition for Superlative Law Enforcement Outcome Besides"
-    publishedDateTime: 2021-02-17T19:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-2020-global-industry-analysis-business-development-size-share-trends-future-growth-forecast-to-2025-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fEdWUP7LMw5w67PMt25BBTgGxAq9/Dx6YN4+A2VQCmwClK8FfwDbya5NE12qYPXb1HeowfEQZgcPKckv6KbpuWJCq8o28HrOlpDzJIrlgiISpxX7AjB87+DdNh3rb1w2b1yGFVCtOzgIpA3lJvOYOlrtKCv7oaJSZBLQprjSU24oYeKtoEtHMUWPQuInRw8MpwA0MHeW/4++wSWoEYmZpPHfnUWl7TCp0SNnRucMhOh+07uqXERV7tGPy/evHngOp5U92KcWrW33TBNj+BLH5WjMuMh85exyiysrlsDbNBcJl6j0BgFPq+4rAps/lkXnGe0XCeIrMcbK/iX8ir+nDQlSMi9dhy4BXzSBPVHZjEM=;Vbsbuf+bvnK2vr5E3d3MAw=="
 ---

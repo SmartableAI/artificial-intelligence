@@ -2,21 +2,21 @@
 category: news
 title: "Second Google AI ethics leader fired, she says amid staff protest"
 excerpt: "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
-publishedDateTime: 2021-02-20T03:18:00Z
-originalUrl: "https://www.reuters.com/article/alphabet-google-research-idUSL1N2KP2T5"
-webUrl: "https://www.reuters.com/article/alphabet-google-research-idUSL1N2KP2T5"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KP2T5"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KP2T5"
+publishedDateTime: 2021-02-19T22:21:00Z
+originalUrl: "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2"
+webUrl: "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2"
+ampWebUrl: "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp"
 type: article
 quality: 84
-heat: 115
+heat: 114
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -72,6 +72,6 @@ related:
         height: 576
         isCached: true
 
-secured: "//rkm1Qj8WuTUEdkuudjQACFsOcKzISjz010P3KBjlK/ieKMHi/2V+HjS5NKHWvXnUNJLwHBR/rNhmI8/fDLvl/s5+aPUmxKcs8RaOcrjM6LpfZUUrIieVNOwfMMbvFKhGR7tXm32lDx6VepndVR+p4zl7OhcE0X3Da4ssgWIuaqT753rnFqDCt39gi/iISQnYvjN5p4WVcI7mYgUQYnVtyyiKmwOslnUmi9Oa2bMQl081768Lw/uk728pRQ5kN08Rbwh2ehPpDLu+6RnfroBIdUV9ge/r6FMrq2KLC1ukmCRv4pCAChwr4j+FrZipgcJ8zG+Vu8dHnL6SCTvJkqZo6I0v1Aa2qIBI3Fijnh3sU=;BhXZG6HoDiC6DwtQ/jIq5Q=="
+secured: "AkudPcm3CCWccJVHwYAzIrK/xRovSUSDzn0Jpv0MigtuFBhfQm9Qdep3svLKdKJMh5Ir/Y4lKlMV/GiMBMo7/sfPeGIrk50yIkzmCIUtz2nz1R7F2pEDnUenJx4KQKs/aaPnjfJGQgWb3hPHfu/KWd7Cp2wDtg4ponzJdFHITHNJyoIvq1J2nd1+oGaqp+ureOcBYt4E58DTnYa96LKh36QT4qEF/brMDPwH/5Jn1OGADfNdLyGcBaC1nIMUkjsgdVPsa0i9FwAD5npCVJeUaWWrB9rXmMLDjQBykgCr6v7qzyUcYY3gnq72BPvjvd+82Z/iLZKKxyMiaVLakRpEnmrD3hbL02TECZm3GLE2NIY=;r+2QNm8NC/CD1TpKgPo1vA=="
 ---
 

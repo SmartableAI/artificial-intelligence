@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "5 top Indian FinTech funding rounds announced this Feb 2021"
+    excerpt: "The Indian FinTech sector witnessed interesting funding announcements this 021. Digital payments have been instrumental."
+    publishedDateTime: 2021-02-22T12:19:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-indian-fintech-funding-rounds-announced-this-feb-2021/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/fintech-malaysia-1-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Fintech Industry in Israel Acquired Nearly 25% of Technology Sector Funding in Country, Driven by Speculative Valuations"
     excerpt: "Fintech industry in Israel acquired nearly 25% of technology sector funding in country, driven by speculative valuations."
     publishedDateTime: 2021-02-21T20:13:00Z

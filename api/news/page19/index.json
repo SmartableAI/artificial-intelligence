@@ -2,6 +2,101 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-04-noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs.md",
+      "title": "Noida Girl Designs Machine Learning Project to Identify Down Syndrome Through Photographs",
+      "excerpt": "Designed as part of a project submitted to Google India Code to Learn contest 2020, this tool has the potential of saving more than 20,000 children's lives annually in India alone",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/",
+      "originalUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.india.com/wp-content/uploads/2021/02/11-2.jpg",
+          "width": 613,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/amp/",
+      "publishedDateTime": "2021-02-04T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-data-drought-slows-advance-of-ai-in-cybersecurity.md",
+      "title": "Data Drought Slows Advance of AI in Cybersecurity",
+      "excerpt": "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
+      "originalUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-294669/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-ai-in-retail-ocado-goes-bananas-for-robot-food-pickers.md",
       "title": "AI in Retail - Ocado goes bananas for robot food pickers",
       "excerpt": "Ocado Technology is training its robots to be more sensitive as pressures from the rise in online shopping grow, explains Isabel Richards, Head of UK Development Centers. (Isabel Richards) As I was chatting to Isabel Richards,",
@@ -1078,101 +1173,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.md",
-      "title": "'Computer vision syndrome a real problem' amid pandemic, physician says",
-      "excerpt": "\"And that leads to fluctuations in vision and blurred vision and of course the eye strain can cause headaches,\" Dr. Starr said. \"So the computer vision syndrome is a real problem, especially in the post-COVID-19 era.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/public-health/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.html",
-      "originalUrl": "https://www.beckershospitalreview.com/public-health/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-how-andy-jassy-amazons-next-ceo-was-a-brain-double-for-jeff-bezos.md",
-      "title": "How Andy Jassy, Amazon’s Next C.E.O., Was a ‘Brain Double’ for Jeff Bezos",
-      "excerpt": "Mr. Jassy, who will become Amazon’s chief this summer, has spent more than two decades absorbing lessons from Mr. Bezos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/03/business/03jassy/03jassy-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.amp.html",
-      "publishedDateTime": "2021-02-03T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Google fires top ethical AI expert Margaret Mitchell"
+    excerpt: "Google has fired the co-lead of the company's ethical AI unit, Margaret Mitchell, on the heels of the removal of Timnit Gebru.  Mitchell, an ethical artificial intelligence (AI) expert who has previously worked on machine learning bias,"
+    publishedDateTime: 2021-02-22T11:27:00Z
+    webUrl: "https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/02/22/dce95dc8-f436-4afb-9ec1-86ef667ce31d/gebru-and-mitchell.png"
+        width: 1600
+        height: 1069
+        isCached: true
   - title: "Google fires top AI ethicist 2 months after co-leader's ousting, leaving its ethical AI team headless"
     excerpt: "Both leaders of Google's ethical AI team, Margaret Mitchell and Timnit Gebru, were ousted within two months of each other."
     publishedDateTime: 2021-02-19T16:03:00Z

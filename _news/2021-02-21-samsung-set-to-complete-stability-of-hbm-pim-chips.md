@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/samsung-set-to-complete
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/samsung-set-to-complete-stability-of-hbm-pim-chips-9834933"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Samsung Announces HBM Tech with Built-in AI Processing"
-    excerpt: "Samsung today announced what it’s calling the industry’s first high bandwidth memory (HBM) memory with built-in AI processing capability. The new device –"
-    publishedDateTime: 2021-02-17T19:55:00Z
-    webUrl: "https://www.hpcwire.com/2021/02/17/samsung-announces-hbm-tech-with-built-in-ai-processing/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Image_HBM-PIM-Main-e1613579775564.jpg"
-        width: 915
-        height: 559
-        isCached: true
   - title: "Samsung Electronics Develops the Industry’s First Memory Integrated with Artificial Intelligence Called “HBM-PIM”"
     excerpt: "Samsung Electronics has developed the world’s first memory semiconductor integrated with an AI (Artificial Intelligence) professor. This memory is able to read or store data just like memories and i"
     publishedDateTime: 2021-02-18T08:59:00Z

@@ -1,27 +1,33 @@
 ---
 category: news
 title: "IBM reportedly mulls sale of Watson Health business"
-excerpt: "The company is thought to be exploring a range of options from a sale to a merger with a 'blank-check' company"
-publishedDateTime: 2021-02-22T10:52:00Z
-originalUrl: "https://www.cloudpro.co.uk/operations/8951/ibm-reportedly-mulls-sale-of-watson-health-business"
-webUrl: "https://www.cloudpro.co.uk/operations/8951/ibm-reportedly-mulls-sale-of-watson-health-business"
+excerpt: "IBM is reportedly considering a sale of Watson Health, its artificial intelligence-based medical data service, in order to further streamline its business. Talks are at an early stage, according to sources cited in The Wall Street Journal,"
+publishedDateTime: 2021-02-22T11:03:00Z
+originalUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour"
+webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour"
+ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour?amp"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/4/39//watson.jpg"
-    width: 550
-    height: 326
+  - url: "https://media.itpro.co.uk//image/upload/v1613989145/itpro/IBMWatsonSign_shutterstock.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -384,6 +390,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "5mQTV6oIRcpS6ZB4y67djuDdXRA6oGWh18dGryA9UMh6TQpe1UA2WDDcesgbrYb14m/XofZ8MvqTrS7c93WIdIDMqWnmBmQc/nLEoeWWV2bHnXtH+hUk32QBkkHf+n+ThWpWiz6qbOUMb/oaXuDLQYSUPYC/8IwnAC3T+RdVA1Z+hKYUsOW1f2c0JUE8FTaFKINJs6tBU/kHuEkvk+ttyWCJ7Q3Os7Pw5BTFvtCqftOVFmI4HaNCI9tBcHSWWyNhElOoGrDgsiK9h/TG51vjUQu+28XB+IjNYf82BQK452p5UhOQm4U3J0IOdFixlZVXpARo5H1AeGTqRJuxpAP7EhJa+WcymZOudKT9+mJkOtU=;ETrxcAJnnvMrR1AvKDgOLw=="
+secured: "qtBeVRtCDKjTq+/gHLPiKZyORAXU8zIBQiUbFk8SIcjlD15/ejlmiiM6/efxU9yYX8ELYMYO92ntYLEqfhUiUSuDhREX7xmDXrzzjEPiEhGNakYjJ4KgxXi6XTETM9nldUbjgx8eMBUOD2+mR8ZyyLhy7C2xO4d/EgUiaaBF8uaQZnWbVum1nqFecPgfbpid3l+BJHDb4/kdKgF9JSMqemW890zRwZIQhGZW6IcSC9sAPzPI6f4tTimEDPQiAtkmyY51uT0BUFA4+7y8oIspi1G7b/D3RmVBWDhLDwh+C615sq4aGLWnyoy+l9pKZns2rL7LMMPTXVsOmcgSz0lynbhz92Ro/kaNYu2iuXIH+3w=;idboc4gP7FEDQocUcDujKQ=="
 ---
 
