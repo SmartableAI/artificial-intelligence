@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-the-open-source-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
 type: article
 quality: 65
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 899
     isCached: true
-
-related:
-  - title: "How the open source Ray project delivers \"the infinite laptop\" for distributed computing"
-    excerpt: "Commentary: Developers struggle to build distributed applications that stitch together MapReduce, TensorFlow, and more. The Ray project just might make developers' lives easier. There's something about Berkeley. Maybe it's the nuclear-free zone."
-    publishedDateTime: 2021-02-17T11:05:00Z
-    webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2018/05/29/7abaab65-287f-49e0-ad7c-09d24f829f1d/resize/1200x/a591ffcb61b67b73db4e53cc99f07737/bigdata.jpg"
-        width: 1200
-        height: 899
-        isCached: true
 
 secured: "gvoV1fxNMVoe2VgF4AXfOEqqN+wVo+Y2Xo+rZTnAMB6U0jPMSXh1OyOlKbwMAfIzL1GQw0mDTzIg7C9lMe/B8wod2PL2A2INL+mtnTPXbmLoZlkLuvqdmlEXbptNYb3iP8qK9Jp8Cq9n11di1tC7vBl7a+LAA0xV4oKNtyW1a75d/djkFdOUx+foughuzcwv5heJKrydojaLkKViUC69HElycJ5DAbyTNnC6Ov0aBZIuwVE0YP5oKZCAJHxl8hWA+XnmrOph8MHXr62pRmuVDT/RDHXCPpVj5Mw9gFEstTBWY9esMSqXbieAXLMcVEGZXTkptb5+gn6DR51p+M2VRat3kPi17QtbVw9Ig/1umwGke7FVEMWAoH0ejGvFwnkHUFuNKtw34yI2CUVDlfaqSYHCd/9MWXEhtZSY+j+wCWHA9AeUbqShiqAsWmYsCktxMXnVY+hQdiMWIcyL2fKhmawHOKxE0tDAfK4pRxua2ngZNR/c/XLOmWP3UdHCtNHc5mnPv9OimeRndEuGFKf1aA==;AaxMxwfigyXeZprUF8LcDw=="
 ---

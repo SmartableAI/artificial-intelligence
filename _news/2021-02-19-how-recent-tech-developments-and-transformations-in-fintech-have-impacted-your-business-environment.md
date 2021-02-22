@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Mogo Enters US Digital Payments Via Carta Subsidiary"
-    excerpt: "Digital payments and FinTech company Mogo announced its subsidiary, Carta Worldwide, will be expanding into the U.S. Carta plans to introduce new card products."
-    publishedDateTime: 2021-02-19T04:50:00Z
-    webUrl: "https://www.pymnts.com/digital-payments/2021/fintech-mogo-enters-united-states-digital-payments-via-carta-subsidiary/"
-    ampWebUrl: "https://www.pymnts.com/digital-payments/2021/fintech-mogo-enters-united-states-digital-payments-via-carta-subsidiary/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-payments/2021/fintech-mogo-enters-united-states-digital-payments-via-carta-subsidiary/amp/"
+  - title: "Hong Kong boosts regional fintech development amid Covid-19 pandemic"
+    excerpt: "Launch of new FinTech Centre in Kowloon Tong will provide ecosystem that help financial institutions in Hong Kong meet customers’ rapidly changing needs"
+    publishedDateTime: 2021-02-22T03:52:00Z
+    webUrl: "https://www.scmp.com/presented/business/banking-finance/topics/rd-driven-innovations/article/3122207/hong-kong-boosts"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 54
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2018/11/PYMNTS-Study-Feb-2021-1.jpg"
-        width: 1000
-        height: 392
-        isCached: true
-  - title: "The Future of Banking, Fintech and Payments – February 2021"
-    excerpt: "Figure 2 illustrates an incident related to customer experience where models detected an anomaly in transaction success rate for VISA payments for a particular merchant. The drop in transactions (depicted in orange) would have gone unnoticed if static thresholds had been used,"
-    publishedDateTime: 2021-02-17T15:20:00Z
-    webUrl: "https://business-reporter.co.uk/the-future-of-banking-fintech-and-payments-february-2021/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/02/financial-advisor-vector-isometric-landing-page-template-vector-id1217470000.jpg"
-        width: 583
-        height: 478
-        isCached: true
-  - title: "Global Payments to Participate in KBW Fintech Payments Conference"
-    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President & Chief Financial Officer,"
-    publishedDateTime: 2021-02-18T20:06:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=424517"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/18/08057c70-71ca-11eb-a538-880d59d054e4_image_hires_175244.jpg?itok=mrisN6zK&v=1613964598"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "8H5Ty9Nbv3KW2YqbqeDIaaCfdHIbxX1woLBhrQqutLE6jVdSYqPKd7h0Le8B8JCT7Hi/xlXicBf+IdxSDQSM4KVO1UmUnLcb3Iv3zLwE1OvnAv4RCQsKvBRwTsj6c8fKc162TjeX3emw73Dw+BjT6SQ7e7u9UZWColqhB3AXRRDGd5cYWPPwcmWgubqT8K4e+Vp7eJ/7YGFZR5UjxS08sPLqQZUwAVT/lMqKXaJ7dc752dIdmUCf6PMbee9hnWGwxaJW6ksswSdVsFzzcbR06ovBHmydOOD+ayQyTmefwc9jwpeMswP44wRAVSrEiDACbnx+fvVXwwMThJdllXR1DbxDdLsOGMcdIYN/9wQfyHM=;v78IV6krNaVCUcEAD7ZnmA=="

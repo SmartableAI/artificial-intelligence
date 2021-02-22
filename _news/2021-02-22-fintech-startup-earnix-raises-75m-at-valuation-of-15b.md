@@ -19,17 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Fintech startup Personetics lands $75M to make banking more personal"
-    excerpt: "Israeli startup Personetics looks to actualize its goal of \"Self-Driving Finance\", automating personalized banking services and tools for hundreds of millions of customers"
-    publishedDateTime: 2021-02-17T11:36:00Z
-    webUrl: "https://www.geektime.com/fintech-startup-personetics-lands-75m-to-make-banking-more-personal/"
-    ampWebUrl: "https://www.geektime.com/fintech-startup-personetics-lands-75m-to-make-banking-more-personal/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/fintech-startup-personetics-lands-75m-to-make-banking-more-personal/amp/"
+  - title: "Fintech co Earnix raises $75m, at $1b valuation"
+    excerpt: "Israeli fintech company Earnix has announced the completion of a $75 million financing round led by Insight Partners, with the participation of previous investors JVP, Vintage Partners and Israel Growth Partners."
+    publishedDateTime: 2021-02-21T13:50:00Z
+    webUrl: "https://en.globes.co.il/en/article-fintech-co-earnix-raises-75m-at-1b-valuation-1001361454"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
+      name: globes.co.il
+      domain: globes.co.il
     quality: 39
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1613915575/one%20time%20use%20only/150_iiltui.jpg"
+        width: 800
+        height: 392
+        isCached: true
 
 secured: "q2hBdyiwHgovwd4fWhRAy462Xmz5r9nu6YNWzAOqtCDnjDWTNJP/V34nJOCCnS+WAByiyQM8MvtHP+CYpwQK34YMvCxUkwDhRhviVEE8IyGknhBtQu038AaTvm/bJsk0htENGVFybK/jGgr19W25xT45bLUbWgzS9HO/+wPjGTsM2HfzwsIlYY0nWJ8z5kapN5Wxy0ZHEwkZV0C5RZobjLpf+TFTxsQggC2SAkKiUrFleKgShvzYYjzxPTbZ/V+I3hYa0MfHf+lRCI44o2jYhC2MLMsOghzYbVgTg4ySA7Yg/FKNBrPje/7X0z+6/nRmmFk6krMeZvTVnc44LalQ4v5CaNKfCM14P/eVEtLAt2PUyk+NqBi+RW+46cu+7nSb5g+ktsQHEnuVmkuXVjdrRghLbq2tvh4oSlIRpSmbRVxstyhFGVDIZh56uQy2khLCyqyRBvW8g+oO9Rmh0beGkV7wj/RIbQjNXetUT68m71mEL2O+iDKOMIKjODi0ouaKQAXn+lsu/R4ggKsdnAqYfw==;5xYbZz8mpcm6G9FH871z7Q=="
 ---

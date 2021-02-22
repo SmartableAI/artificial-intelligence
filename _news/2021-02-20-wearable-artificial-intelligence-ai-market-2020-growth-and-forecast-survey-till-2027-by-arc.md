@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/wearable-artificial-inte
 webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19"
 type: article
 quality: 73
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -101,17 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Educational Robot Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Educational Robot Market size is expected to grow at an annual average of 15 3 during 2021 2027 Educational Robot Market Modernization has mandated the modern service market and has increased connectivity along with many other premium services"
-    publishedDateTime: 2021-02-17T11:27:00Z
-    webUrl: "https://www.openpr.com/news/2243933/educational-robot-market-global-industry-analysis-size"
-    ampWebUrl: "https://www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
   - title: "Sales Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The global sales intelligence market size was valued at USD 2 29 billion in 2019 and is expected to grow at a CAGR of 10 5 from 2020 to 2027 Artificial intelligence AI has had a potential impact on the"
     publishedDateTime: 2021-02-18T12:12:00Z

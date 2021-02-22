@@ -107,17 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Educational Robot Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Educational Robot Market size is expected to grow at an annual average of 15 3 during 2021 2027 Educational Robot Market Modernization has mandated the modern service market and has increased connectivity along with many other premium services"
-    publishedDateTime: 2021-02-17T11:27:00Z
-    webUrl: "https://www.openpr.com/news/2243933/educational-robot-market-global-industry-analysis-size"
-    ampWebUrl: "https://www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2243933/educational-robot-market-global-industry-analysis-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
   - title: "Global Facial Recognition Market 2021-2027 Trends, Research Report, Growth Trends, Opportunities, Forecast to 2027"
     excerpt: "The Global Facial Recognition Market size is expected to grow at an annual average of 16 3 during 2021 2027 Face recognition has recently attracted attention because it has advantages over conventional surveillance technologies such as biometrics Governments around the"
     publishedDateTime: 2021-02-19T13:02:00Z

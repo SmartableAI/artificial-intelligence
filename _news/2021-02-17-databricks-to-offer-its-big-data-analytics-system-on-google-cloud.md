@@ -67,20 +67,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Mediolanum International Funds Chooses Managed Services Solution From Alveo To Streamline Data Management And Improve Data Access And Analytics"
-    excerpt: "DUBLIN, LONDON / ACCESSWIRE / February 17, 2021 / Mediolanum International Funds Limited (“MIFL”) has chosen PaSS - the buyside cloud-based managed service solution from Alveo - to automate data management and access to data for analytics."
-    publishedDateTime: 2021-02-17T11:41:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-europe-investment-management-western-europe-fbc0cf162d4f712079c05dfe93349a85"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "DtYtRe3Vau/LX1RclJ56NLpjLPlMGyPzA6PgrUekcHOTWmVd9kfX6468f7bXrq47fksJQCionz2mFFabGaGWNmOKMD9mOfbPw6piEp7rtOCVvA9A+PxnmotRvchdd7JzznbsAwBNO9aVYC6LanXE4eZ4cyAChfVbGLsYGHDpyzDKUzD1BqgdSyDDD/qOyHtG3i6JtdGQItzR4//UX4psUwVL0bznZLqOw0MgmTv0oQH6Ae6OoHtHjKGFQ+2xZ9cIXqO0zpECLGbCx8XFOC+re2HSLDAarc+9OQSGwtEu+yA6+MUMnS5o5/b3N+7i33HgPLU73OgJCYWemBxPdtoFofI2lkorhNQCd8BFeUor8Hs=;m5t2VnTxHcyfaf2djEpruA=="
 ---

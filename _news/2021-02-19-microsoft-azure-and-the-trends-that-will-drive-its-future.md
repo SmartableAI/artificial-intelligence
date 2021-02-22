@@ -73,17 +73,6 @@ related:
         width: 1680
         height: 946
         isCached: true
-  - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
-    excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform, added"
-    publishedDateTime: 2021-02-17T12:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/p19700023/smartlogic-retains-microsoft-gold-competencies-and-is-approved-for-azure-gov"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19700023"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19700023"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 66
   - title: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation"
     excerpt: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation By Manpreet Kalsi, VP, AKA Enterprise Solutions, Inc. - In Step with the Latest Trends Microsoft Dynamics provides business solutions for all aspects of"
     publishedDateTime: 2021-02-19T06:35:00Z

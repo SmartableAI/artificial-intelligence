@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/"
 type: article
 quality: 117
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -62,38 +62,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/04/drones.jpg?w=1200&strip=all"
         width: 1200
         height: 722
-        isCached: true
-  - title: "Peak.AI raises $21 million to drive enterprise AI adoption"
-    excerpt: "Peak.ai, a startup developing a fully managed enterprise AI development platform, has raised $21 million in venture funding."
-    publishedDateTime: 2021-02-17T12:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/17/peak-ai-raises-21-million-to-drive-enterprise-ai-adoption/"
-    ampWebUrl: "https://venturebeat.com/2021/02/17/peak-ai-raises-21-million-to-drive-enterprise-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/peak-ai-raises-21-million-to-drive-enterprise-ai-adoption/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/e8286f84-c7fd-4838-98e2-565e929b34cc-e1613487561658.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "TigerGraph raises $105 million to grow its big data analytics platform"
-    excerpt: "TigerGraph, a startup developing a graph database development platform, has raised $105 million in venture funding."
-    publishedDateTime: 2021-02-17T13:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/17/tigergraph-raises-105-million-to-grow-its-big-data-analytics-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/02/17/tigergraph-raises-105-million-to-grow-its-big-data-analytics-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/tigergraph-raises-105-million-to-grow-its-big-data-analytics-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "kDsxBhavEODN2NDQ6N87xmjTgIVylxo6gsB69P2t3Xh1Sd56cwRY/y28Gv5QOkRLlZ0n0Z6aK+qgUiLu4ig/FnjWLm385GqOhPMs7Y6rU6B6XX0wT9dxTDpSRiUEvpzx60k+ZjXwYjQqNlnSkyc2dXiLJRRSA72i2K14+kAHNYeYDssZpWzbCRwDFG6biIE8wvD5V17qITN4JnCNCLdl+Jwl4ewQzsAp0HxT6PujqyyLahjFw1/DqvrsfSmomgd6DUzSHGoKblr0ZJHVkzpKBH1eNbQ4wge9rN5sEIz2Mgrh5batEZzXddA9JdNPeWkP4nlk1yJSEP6tfN83nh8Np08LhVIpb26gMcaD3mGPF/eURhjMgPT0S5mC/mmeoXVZvFcWSVIrnQemNC+Qc+frUXP5pwl8btP6CRf+RjfBORGq5gy3eo9SojmgYOofIyfJKkhxjoWn4xeGEd9hZCZj5/z3OEy0B7bdNctrRj/mz1QB9GnOfccrCjSR2wW+auSAcJHkjUb/QygefLq7DtAvyA==;U8paokksphxmkg6McohRiQ=="

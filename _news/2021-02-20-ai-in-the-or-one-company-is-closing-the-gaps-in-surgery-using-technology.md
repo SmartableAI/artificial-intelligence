@@ -3,10 +3,10 @@ category: news
 title: "AI in the OR: One company is closing the gaps in surgery using technology"
 excerpt: "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help."
 publishedDateTime: 2021-02-19T20:32:00Z
-originalUrl: "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
-webUrl: "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+originalUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+webUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
 type: article
 quality: 86
 heat: 96
@@ -45,6 +45,6 @@ related:
         height: 300
         isCached: true
 
-secured: "WBZvZvQxN4XqjJ/6iuzSa5qNF8B/h36HEgJupyq6M4KF6e/z3GQPsWyuNsVopgWdcCk3uMXTsFeOWh3oXt5Y3UtKebPX2uWKJOdTIOzKLlSz/LO/7l5J1uR8LhRSAlxIRAoQBEC1mSpWrMLTleCzOmfXurJViWQ7gb+AN+jOnyH6s6j8dx2xdW4dkPHeyQ3qVJF3DpDyiR9R29unkgNMNeHL9ppWukRmHyz4JQRdUatNG68A3JHeLY985bRtF5igiWqa6KN2lYrAS7V9bZe1JSp8a26zsju9TfSvgDVKRq+Tpl7zpi/vs5aj+hVQUpyYIVUnPCZdjyuBo2HvjhhFUAXmHB7VMRxJH2rNV3JL4Us=;HpD54f5XlMRjgDYQDL35DQ=="
+secured: "tenGopdYGTFUJM71q1eidj9/+P6wzfcITwr3qms6w/kyIlrYv/zmFA4RNwELT8PqTXbFUQjMKBT44fF41eJTQ4kJA1A34Gj+0ANt1DBZAF/VJACxbF2sJzqHkLlGvSOjqBcHYnSg6Y5hj/TaVUet9haguPUGNac188EX3q2MeIIzV6VF9rjtQBT24VEFhvnME/TZL9doR/aLI2ivQIXwT/xYN++8VNDEqmGsPM+iDVuRAt/GwKwlrladpCIU+ZvjS5iQvAgO1ERzMGvV7K8u2P/fyu+X+0L88r7fIGdI77fUr8HytBcL4scfhNHAtS7l012m1h8zibaeE873JwphKtUnivHfy0YLSpiKCOBmTMo=;d0VfNHQl7OaNur9NfrR1NQ=="
 ---
 
